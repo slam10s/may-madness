@@ -1,4 +1,4 @@
-# {season} NCAA Women's Tournament Projections
+# 2021 NCAA Women's Tournament Projections
 
 Return to the [Home Page](../../index.md)
 

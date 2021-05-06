@@ -1,4 +1,4 @@
-# {season} NCAA Men's Tournament Projections
+# 2021 NCAA Men's Tournament Projections
 
 Return to the [Home Page](../../index.md)
 
