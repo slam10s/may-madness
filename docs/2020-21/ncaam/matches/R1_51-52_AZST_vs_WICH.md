@@ -11,7 +11,7 @@ Saturday, May 8 at 12:00 EDT
 > - UTR: 75.93 (39)  
 > - Coach: 32  
 
-> ***#2 Arizona St.***  
+> #### #2 Arizona St.  
 > At-Large Bid  
 > - ITA: 34.844 (20)  
 > - SLM: 93.56 (25)  

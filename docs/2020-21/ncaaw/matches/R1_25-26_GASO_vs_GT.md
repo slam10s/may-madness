@@ -12,7 +12,7 @@ Friday, May 7 at 2:00 EDT
 > - USTA: 15  
 > - Coach: T11  
 
-> ***#4 Ga. Southern***  
+> #### #4 Ga. Southern  
 > Automatic Qualifier  
 > - ITA: 4.077 (53)  
 > - SLM: 78.879 (53)  

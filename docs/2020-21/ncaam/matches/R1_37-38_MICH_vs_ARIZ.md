@@ -12,7 +12,7 @@ Friday, May 7 at 10:00 EDT
 > - USTA: 18  
 > - Coach: 19  
 
-> ***#3 Michigan***  
+> #### #3 Michigan  
 > At-Large Bid  
 > - ITA: 15.168 (46)  
 > - SLM: 96.424 (13)  

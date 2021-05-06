@@ -12,7 +12,7 @@ Friday, May 7 at 1:00 EDT
 > - USTA: 20  
 > - Coach: 15  
 
-> ***#4 Siena***  
+> #### #4 Siena  
 > Automatic Qualifier  
 > - ITA: 2.407 (60)  
 > - SLM: 65.568 (64)  

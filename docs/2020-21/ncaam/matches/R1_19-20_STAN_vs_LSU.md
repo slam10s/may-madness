@@ -11,7 +11,7 @@ Saturday, May 8 at 10:00 EDT
 > - UTR: 75.44 (42)  
 > - Coach: 39  
 
-> ***#2 Stanford***  
+> #### #2 Stanford  
 > At-Large Bid  
 > - ITA: 34.549 (21)  
 > - SLM: 93.999 (22)  

@@ -12,7 +12,7 @@ Friday, May 7 at 4:00 EDT
 > - USTA: 13  
 > - Coach: 12  
 
-> ***#4 Grand Canyon***  
+> #### #4 Grand Canyon  
 > Automatic Qualifier  
 > - ITA: 1.382 (64)  
 > - SLM: 81.822 (62)  

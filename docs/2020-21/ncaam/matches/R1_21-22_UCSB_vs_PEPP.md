@@ -12,7 +12,7 @@ Friday, May 7 at 1:00 EDT
 > - USTA: 24  
 > - Coach: 30  
 
-> ***#3 UC Santa Barbara***  
+> #### #3 UC Santa Barbara  
 > Automatic Qualifier  
 > - ITA: 6.336 (54)  
 > - SLM: 87.562 (51)  

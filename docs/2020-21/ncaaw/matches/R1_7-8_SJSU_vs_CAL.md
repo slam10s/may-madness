@@ -12,7 +12,7 @@ Friday, May 7 at 4:00 EDT
 > - USTA: 13  
 > - Coach: 17  
 
-> ***#4 San Jose St.***  
+> #### #4 San Jose St.  
 > Automatic Qualifier  
 > - ITA: 8.043 (47)  
 > - SLM: 80.343 (50)  

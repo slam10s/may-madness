@@ -12,7 +12,7 @@ Friday, May 7 at 6:00 EDT
 > - USTA: 8  
 > - Coach: 8  
 
-> ***#4 A&M-Corpus Christi***  
+> #### #4 A&M-Corpus Christi  
 > Automatic Qualifier  
 > - ITA: 3.613 (56)  
 > - SLM: 78.548 (55)  

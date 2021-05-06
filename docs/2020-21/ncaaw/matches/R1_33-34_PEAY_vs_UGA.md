@@ -12,7 +12,7 @@ Friday, May 7 at 1:00 EDT
 > - USTA: 3  
 > - Coach: 3  
 
-> ***#4 Austin Peay***  
+> #### #4 Austin Peay  
 > Automatic Qualifier  
 > - ITA: 3.35 (57)  
 > - SLM: 77.216 (56)  

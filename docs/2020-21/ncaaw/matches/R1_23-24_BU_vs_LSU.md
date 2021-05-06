@@ -12,7 +12,7 @@ Friday, May 7 at 2:00 EDT
 > - USTA: 23  
 > - Coach: 14  
 
-> ***#4 Boston U.***  
+> #### #4 Boston U.  
 > Automatic Qualifier  
 > - ITA: 5.156 (50)  
 > - SLM: 78.647 (54)  

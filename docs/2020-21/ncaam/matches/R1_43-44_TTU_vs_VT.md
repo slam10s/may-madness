@@ -11,7 +11,7 @@ Saturday, May 8 at 10:00 EDT
 > - UTR: 76.77 (34)  
 > - Coach: 34  
 
-> ***#2 Texas Tech***  
+> #### #2 Texas Tech  
 > At-Large Bid  
 > - ITA: 31.336 (25)  
 > - SLM: 92.599 (35)  

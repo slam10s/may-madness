@@ -12,7 +12,7 @@ Friday, May 7 at 4:00 EDT
 > - USTA: 2  
 > - Coach: 2  
 
-> ***#4 Denver***  
+> #### #4 Denver  
 > Automatic Qualifier  
 > - ITA: 11.657 (45)  
 > - SLM: 84.922 (45)  

@@ -12,7 +12,7 @@ Friday, May 7 at 11:00 EDT
 > - USTA: 7  
 > - Coach: 18  
 
-> ***#3 Rice***  
+> #### #3 Rice  
 > At-Large Bid  
 > - ITA: 18.245 (40)  
 > - SLM: 87.142 (40)  

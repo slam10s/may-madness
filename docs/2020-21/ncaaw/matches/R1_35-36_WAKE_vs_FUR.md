@@ -12,7 +12,7 @@ Friday, May 7 at 10:00 EDT
 > - USTA: RV  
 > - Coach: 35  
 
-> ***#2 Wake Forest***  
+> #### #2 Wake Forest  
 > At-Large Bid  
 > - ITA: 25.766 (33)  
 > - SLM: 88.109 (32)  

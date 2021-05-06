@@ -11,7 +11,7 @@ Saturday, May 8 at 11:00 EDT
 > - UTR: 75.68 (40)  
 > - Coach: 43  
 
-> ***#2 Mississippi St.***  
+> #### #2 Mississippi St.  
 > At-Large Bid  
 > - ITA: 41.294 (16)  
 > - SLM: 94.391 (20)  

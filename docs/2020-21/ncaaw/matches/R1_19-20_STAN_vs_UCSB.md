@@ -10,7 +10,7 @@ Friday, May 7 at 1:00 EDT
 > - MAS: 6.75 (40)  
 > - UTR: 57.03 (46)  
 
-> ***#2 Stanford***  
+> #### #2 Stanford  
 > At-Large Bid  
 > - ITA: 35.106 (28)  
 > - SLM: 90.017 (23)  

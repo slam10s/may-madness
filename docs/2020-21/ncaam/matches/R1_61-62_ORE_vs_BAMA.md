@@ -11,7 +11,7 @@ Saturday, May 8 at 12:00 EDT
 > - UTR: 77.06 (30)  
 > - Coach: 25  
 
-> ***#3 Oregon***  
+> #### #3 Oregon  
 > At-Large Bid  
 > - ITA: 23.545 (36)  
 > - SLM: 91.521 (44)  

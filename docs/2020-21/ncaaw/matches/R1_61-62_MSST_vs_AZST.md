@@ -12,7 +12,7 @@ Friday, May 7 at 1:00 EDT
 > - USTA: RV  
 > - Coach: 30  
 
-> ***#3 Mississippi St.***  
+> #### #3 Mississippi St.  
 > At-Large Bid  
 > - ITA: 19.836 (38)  
 > - SLM: 86.6 (42)  

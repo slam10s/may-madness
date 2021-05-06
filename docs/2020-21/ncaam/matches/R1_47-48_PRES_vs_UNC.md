@@ -12,7 +12,7 @@ Saturday, May 8 at 1:00 EDT
 > - USTA: 5  
 > - Coach: 6  
 
-> ***#4 Presbyterian***  
+> #### #4 Presbyterian  
 > Automatic Qualifier  
 > - ITA: 3.972 (59)  
 > - SLM: 82.258 (59)  

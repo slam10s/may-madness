@@ -12,7 +12,7 @@ Friday, May 7 at 5:00 EDT
 > - USTA: 12  
 > - Coach: 10  
 
-> ***#4 South Carolina St.***  
+> #### #4 South Carolina St.  
 > Automatic Qualifier  
 > - ITA: 0.724 (65)  
 > - SLM: 81.189 (63)  

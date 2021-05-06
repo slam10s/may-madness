@@ -11,7 +11,7 @@ Saturday, May 8 at 10:00 EDT
 > - UTR: 76.86 (32)  
 > - Coach: 36  
 
-> ***#2 South Fla.***  
+> #### #2 South Fla.  
 > At-Large Bid  
 > - ITA: 26.138 (32)  
 > - SLM: 92.976 (32)  

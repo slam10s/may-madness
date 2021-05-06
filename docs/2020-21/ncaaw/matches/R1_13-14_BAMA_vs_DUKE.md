@@ -12,7 +12,7 @@ Friday, May 7 at 3:00 EDT
 > - USTA: 14  
 > - Coach: 20  
 
-> ***#3 Alabama***  
+> #### #3 Alabama  
 > At-Large Bid  
 > - ITA: 16.54 (42)  
 > - SLM: 86.227 (44)  

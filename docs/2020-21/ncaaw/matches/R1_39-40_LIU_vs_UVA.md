@@ -12,7 +12,7 @@ Friday, May 7 at 3:00 EDT
 > - USTA: 10  
 > - Coach: T11  
 
-> ***#4 LIU***  
+> #### #4 LIU  
 > Automatic Qualifier  
 > - ITA: 4.2 (52)  
 > - SLM: 70.794 (61)  

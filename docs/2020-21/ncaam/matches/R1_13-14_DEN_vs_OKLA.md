@@ -11,7 +11,7 @@ Friday, May 7 at 12:00 EDT
 > - UTR: 77.53 (28)  
 > - Coach: 26  
 
-> ***#3 Denver***  
+> #### #3 Denver  
 > Automatic Qualifier  
 > - ITA: 17.165 (45)  
 > - SLM: 91.672 (42)  

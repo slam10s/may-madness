@@ -12,7 +12,7 @@ Saturday, May 8 at 1:00 EDT
 > - USTA: 16  
 > - Coach: 11  
 
-> ***#4 ETSU***  
+> #### #4 ETSU  
 > Automatic Qualifier  
 > - ITA: 7.967 (49)  
 > - SLM: 87.298 (52)  

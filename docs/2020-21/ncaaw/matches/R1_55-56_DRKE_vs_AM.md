@@ -12,7 +12,7 @@ Friday, May 7 at 1:00 EDT
 > - USTA: 17  
 > - Coach: 10  
 
-> ***#4 Drake***  
+> #### #4 Drake  
 > Automatic Qualifier  
 > - ITA: 1.976 (63)  
 > - SLM: 75.978 (58)  

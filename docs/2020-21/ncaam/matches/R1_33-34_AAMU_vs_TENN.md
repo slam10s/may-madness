@@ -12,7 +12,7 @@ Saturday, May 8 at 1:00 EDT
 > - USTA: 4  
 > - Coach: 3  
 
-> ***#4 Alabama A&M***  
+> #### #4 Alabama A&M  
 > Automatic Qualifier  
 > - ITA: 1.605 (63)  
 > - SLM: 76.008 (64)  

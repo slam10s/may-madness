@@ -10,7 +10,7 @@ Friday, May 7 at 10:00 EDT
 > - MAS: 6.42 (53)  
 > - UTR: 73.58 (52)  
 
-> ***#2 NC State***  
+> #### #2 NC State  
 > At-Large Bid  
 > - ITA: 32.39 (23)  
 > - SLM: 94.442 (19)  

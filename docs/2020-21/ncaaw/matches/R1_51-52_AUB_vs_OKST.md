@@ -11,7 +11,7 @@ Friday, May 7 at 1:00 EDT
 > - UTR: 61.98 (17)  
 > - Coach: 37  
 
-> ***#2 Auburn***  
+> #### #2 Auburn  
 > At-Large Bid  
 > - ITA: 41.171 (20)  
 > - SLM: 89.445 (24)  

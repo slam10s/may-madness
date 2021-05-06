@@ -12,7 +12,7 @@ Friday, May 7 at 12:00 EDT
 > - USTA: RV  
 > - Coach: 50  
 
-> ***#2 Miami (FL)***  
+> #### #2 Miami (FL)  
 > At-Large Bid  
 > - ITA: 38.718 (24)  
 > - SLM: 90.209 (22)  

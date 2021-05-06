@@ -11,7 +11,7 @@ Friday, May 7 at 10:00 EDT
 > - UTR: 59.65 (38)  
 > - Coach: 33  
 
-> ***#2 Old Dominion***  
+> #### #2 Old Dominion  
 > Automatic Qualifier  
 > - ITA: 28 (30)  
 > - SLM: 89.207 (28)  

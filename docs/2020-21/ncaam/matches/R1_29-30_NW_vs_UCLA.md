@@ -12,7 +12,7 @@ Saturday, May 8 at 10:00 EDT
 > - USTA: 22  
 > - Coach: 29  
 
-> ***#3 Northwestern***  
+> #### #3 Northwestern  
 > At-Large Bid  
 > - ITA: 7.95 (50)  
 > - SLM: 92.885 (33)  

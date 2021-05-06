@@ -10,7 +10,7 @@ Friday, May 7 at 11:00 EDT
 > - MAS: 5.4 (53)  
 > - UTR: 54.58 (51)  
 
-> ***#2 Vanderbilt***  
+> #### #2 Vanderbilt  
 > At-Large Bid  
 > - ITA: 35.193 (27)  
 > - SLM: 88.871 (29)  

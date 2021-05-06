@@ -12,7 +12,7 @@ Saturday, May 8 at 2:00 EDT
 > - USTA: T10  
 > - Coach: 9  
 
-> ***#4 Monmouth***  
+> #### #4 Monmouth  
 > Automatic Qualifier  
 > - ITA: 4.412 (58)  
 > - SLM: 82.179 (61)  

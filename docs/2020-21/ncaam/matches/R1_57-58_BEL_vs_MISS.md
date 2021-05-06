@@ -12,7 +12,7 @@ Saturday, May 8 at 4:00 EDT
 > - USTA: 21  
 > - Coach: 16  
 
-> ***#4 Belmont***  
+> #### #4 Belmont  
 > Automatic Qualifier  
 > - ITA: 4.476 (56)  
 > - SLM: 83.1 (57)  

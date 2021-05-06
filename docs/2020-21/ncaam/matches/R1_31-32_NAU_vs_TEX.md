@@ -12,7 +12,7 @@ Saturday, May 8 at 1:00 EDT
 > - USTA: 6  
 > - Coach: 4  
 
-> ***#4 Northern Ariz.***  
+> #### #4 Northern Ariz.  
 > Automatic Qualifier  
 > - ITA: 2.133 (61)  
 > - SLM: 82.402 (58)  

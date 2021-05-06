@@ -12,7 +12,7 @@ Friday, May 7 at 3:00 EDT
 > - USTA: 14  
 > - Coach: 8  
 
-> ***#4 New Mexico***  
+> #### #4 New Mexico  
 > Automatic Qualifier  
 > - ITA: 7.44 (52)  
 > - SLM: 87.221 (53)  

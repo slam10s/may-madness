@@ -12,7 +12,7 @@ Friday, May 7 at 1:00 EDT
 > - USTA: 24  
 > - Coach: 27  
 
-> ***#3 Syracuse***  
+> #### #3 Syracuse  
 > At-Large Bid  
 > - ITA: 15.835 (43)  
 > - SLM: 86.536 (43)  

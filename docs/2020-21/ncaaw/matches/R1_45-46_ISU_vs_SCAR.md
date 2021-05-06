@@ -12,7 +12,7 @@ Friday, May 7 at 12:00 EDT
 > - USTA: RV  
 > - Coach: 23  
 
-> ***#3 Iowa St.***  
+> #### #3 Iowa St.  
 > At-Large Bid  
 > - ITA: 22.348 (36)  
 > - SLM: 86.706 (41)  

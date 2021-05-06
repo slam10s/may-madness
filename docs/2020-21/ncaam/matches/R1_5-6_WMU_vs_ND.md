@@ -11,7 +11,7 @@ Friday, May 7 at 2:00 EDT
 > - UTR: 76.38 (38)  
 > - Coach: 37  
 
-> ***#3 Western Mich.***  
+> #### #3 Western Mich.  
 > Automatic Qualifier  
 > - ITA: 18.885 (41)  
 > - SLM: 89.827 (47)  

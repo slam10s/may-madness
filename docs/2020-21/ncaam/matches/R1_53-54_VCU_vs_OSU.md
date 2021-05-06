@@ -12,7 +12,7 @@ Friday, May 7 at 2:00 EDT
 > - USTA: 7  
 > - Coach: 17  
 
-> ***#3 VCU***  
+> #### #3 VCU  
 > Automatic Qualifier  
 > - ITA: 23.443 (37)  
 > - SLM: 92.402 (36)  

@@ -11,7 +11,7 @@ Saturday, May 8 at 1:00 EDT
 > - UTR: 75.54 (41)  
 > - Coach: 42  
 
-> ***#2 Tulane***  
+> #### #2 Tulane  
 > At-Large Bid  
 > - ITA: 33.073 (22)  
 > - SLM: 93.532 (26)  

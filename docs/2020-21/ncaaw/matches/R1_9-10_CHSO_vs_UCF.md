@@ -12,7 +12,7 @@ Friday, May 7 at 3:00 EDT
 > - USTA: 9  
 > - Coach: 9  
 
-> ***#4 Charleston So.***  
+> #### #4 Charleston So.  
 > Automatic Qualifier  
 > - ITA: 2.773 (58)  
 > - SLM: 75.629 (60)  

@@ -12,7 +12,7 @@ Friday, May 7 at 5:00 EDT
 > - USTA: 8  
 > - Coach: 13  
 
-> ***#4 DePaul***  
+> #### #4 DePaul  
 > Automatic Qualifier  
 > - ITA: 5.645 (55)  
 > - SLM: 85.738 (55)  

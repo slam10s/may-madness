@@ -12,7 +12,7 @@ Friday, May 7 at 2:00 EDT
 > - USTA: 6  
 > - Coach: 13  
 
-> ***#4 UIC***  
+> #### #4 UIC  
 > Automatic Qualifier  
 > - ITA: 2.423 (59)  
 > - SLM: 76.421 (57)  

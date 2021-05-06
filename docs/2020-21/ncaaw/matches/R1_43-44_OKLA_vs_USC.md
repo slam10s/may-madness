@@ -11,7 +11,7 @@ Friday, May 7 at 10:00 EDT
 > - UTR: 64.29 (6)  
 > - Coach: 34  
 
-> ***#2 Oklahoma***  
+> #### #2 Oklahoma  
 > At-Large Bid  
 > - ITA: 39.041 (23)  
 > - SLM: 91.06 (13)  

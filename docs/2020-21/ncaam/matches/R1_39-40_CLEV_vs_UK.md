@@ -12,7 +12,7 @@ Friday, May 7 at 1:00 EDT
 > - USTA: 17  
 > - Coach: 15  
 
-> ***#4 Cleveland St.***  
+> #### #4 Cleveland St.  
 > Automatic Qualifier  
 > - ITA: 4.429 (57)  
 > - SLM: 84.355 (56)  

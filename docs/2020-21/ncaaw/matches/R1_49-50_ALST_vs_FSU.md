@@ -12,7 +12,7 @@ Friday, May 7 at 4:00 EDT
 > - USTA: 12  
 > - Coach: 7  
 
-> ***#4 Alabama St.***  
+> #### #4 Alabama St.  
 > Automatic Qualifier  
 > - ITA: 2.286 (61)  
 > - SLM: 69.749 (63)  

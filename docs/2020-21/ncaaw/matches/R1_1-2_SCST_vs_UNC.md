@@ -12,7 +12,7 @@ Friday, May 7 at 1:00 EDT
 > - USTA: 1  
 > - Coach: 1  
 
-> ***#4 South Carolina St.***  
+> #### #4 South Carolina St.  
 > Automatic Qualifier  
 > - SLM: 70.676 (62)  
 > - TRN: 58.72 (61)  

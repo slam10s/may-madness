@@ -12,7 +12,7 @@ Saturday, May 8 at 1:00 EDT
 > - USTA: 2  
 > - Coach: 2  
 
-> ***#4 South Alabama***  
+> #### #4 South Alabama  
 > Automatic Qualifier  
 > - ITA: 6.833 (53)  
 > - SLM: 87.642 (50)  

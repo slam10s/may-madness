@@ -12,7 +12,7 @@ Saturday, May 8 at 10:00 EDT
 > - USTA: RV  
 > - Coach: 21  
 
-> ***#3 Navy***  
+> #### #3 Navy  
 > Automatic Qualifier  
 > - ITA: 8.275 (48)  
 > - SLM: 86.711 (54)  

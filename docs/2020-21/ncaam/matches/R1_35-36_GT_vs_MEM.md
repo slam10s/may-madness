@@ -11,7 +11,7 @@ Saturday, May 8 at 10:00 EDT
 > - UTR: 75.4 (43)  
 > - Coach: 35  
 
-> ***#2 Georgia Tech***  
+> #### #2 Georgia Tech  
 > At-Large Bid  
 > - ITA: 27.754 (30)  
 > - SLM: 93.356 (27)  

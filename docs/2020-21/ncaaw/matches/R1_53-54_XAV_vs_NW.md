@@ -12,7 +12,7 @@ Friday, May 7 at 4:00 EDT
 > - USTA: 16  
 > - Coach: 19  
 
-> ***#3 Xavier***  
+> #### #3 Xavier  
 > Automatic Qualifier  
 > - ITA: 3.748 (55)  
 > - SLM: 80.67 (49)  

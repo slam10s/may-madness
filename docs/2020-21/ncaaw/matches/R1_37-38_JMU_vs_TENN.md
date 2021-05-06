@@ -12,7 +12,7 @@ Friday, May 7 at 12:00 EDT
 > - USTA: 19  
 > - Coach: 16  
 
-> ***#3 James Madison***  
+> #### #3 James Madison  
 > Automatic Qualifier  
 > - ITA: 8.952 (46)  
 > - SLM: 84.231 (47)  

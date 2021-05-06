@@ -12,7 +12,7 @@ Saturday, May 8 at 3:00 EDT
 > - USTA: 9  
 > - Coach: 7  
 
-> ***#4 Arkansas***  
+> #### #4 Arkansas  
 > At-Large Bid  
 > - ITA: 18.298 (43)  
 > - SLM: 91.551 (43)  

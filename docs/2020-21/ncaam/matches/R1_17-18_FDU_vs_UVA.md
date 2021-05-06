@@ -12,7 +12,7 @@ Saturday, May 8 at 1:00 EDT
 > - USTA: 1  
 > - Coach: 5  
 
-> ***#4 Fairleigh Dickinson***  
+> #### #4 Fairleigh Dickinson  
 > Automatic Qualifier  
 > - ITA: 1.953 (62)  
 > - SLM: 72.332 (65)  
