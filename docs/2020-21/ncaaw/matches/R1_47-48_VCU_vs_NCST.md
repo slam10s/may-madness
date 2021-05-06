@@ -2,9 +2,11 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## [VCU vs #6 NC State](https://www.ncaa.com/game/5833670) 
 
-<table><tr><td>  
+<table>  
+<tr><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></a></td></tr>  
+<tr><td>  
 
-<a href="../index.md"><img style="background-color: #000" src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></a>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></a>  
 
 <h3>#1 <a href="../index.md">NC State</a></h3>  
 

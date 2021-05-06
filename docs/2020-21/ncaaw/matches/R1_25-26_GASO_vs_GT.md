@@ -2,9 +2,11 @@ First Round
 Friday, May 7 at 2:00 EDT
 ## [Ga. Southern vs #13 Georgia Tech](https://www.ncaa.com/game/5833659) 
 
-<table><tr><td>  
+<table>  
+<tr><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png" width="70" height="70" /></a></td></tr>  
+<tr><td>  
 
-<a href="../index.md"><img style="background-color: #000" src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></a>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></a>  
 
 <h3>#1 <a href="../index.md">Georgia Tech</a></h3>  
 

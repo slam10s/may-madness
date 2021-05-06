@@ -2,9 +2,11 @@ First Round
 Friday, May 7 at 2:00 EDT
 ## [Western Mich. vs Notre Dame](https://www.ncaa.com/game/5833372) 
 
-<table><tr><td>  
+<table>  
+<tr><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" /></a></td></tr>  
+<tr><td>  
 
-<a href="../index.md"><img style="background-color: #000" src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></a>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></a>  
 
 <h3>#2 <a href="../index.md">Notre Dame</a></h3>  
 

@@ -2,9 +2,11 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## [New Mexico vs #8 Texas A&M](https://www.ncaa.com/game/5833377) 
 
-<table><tr><td>  
+<table>  
+<tr><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png" width="70" height="70" /></a></td></tr>  
+<tr><td>  
 
-<a href="../index.md"><img style="background-color: #000" src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></a>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></a>  
 
 <h3>#1 <a href="../index.md">Texas A&M</a></h3>  
 

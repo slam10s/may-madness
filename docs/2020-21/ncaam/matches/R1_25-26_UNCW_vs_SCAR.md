@@ -2,9 +2,11 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [UNCW vs #13 South Carolina](https://www.ncaa.com/game/5833382) 
 
-<table><tr><td>  
+<table>  
+<tr><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></a></td></tr>  
+<tr><td>  
 
-<a href="../index.md"><img style="background-color: #000" src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a>  
 
 <h3>#1 <a href="../index.md">South Carolina</a></h3>  
 

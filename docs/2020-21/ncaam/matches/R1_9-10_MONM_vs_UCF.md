@@ -2,9 +2,11 @@ First Round
 Saturday, May 8 at 2:00 EDT
 ## [Monmouth vs #9 UCF](https://www.ncaa.com/game/5833374) 
 
-<table><tr><td>  
+<table>  
+<tr><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></a></td></tr>  
+<tr><td>  
 
-<a href="../index.md"><img style="background-color: #000" src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a>  
 
 <h3>#1 <a href="../index.md">UCF</a></h3>  
 
