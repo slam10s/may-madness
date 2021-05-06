@@ -2,15 +2,16 @@ First Round
 Saturday, May 8 at 3:00 EDT
 ## [A&M-Corpus Christi vs #2 Baylor](https://www.ncaa.com/game/5833401) 
 
-> ### #1 Baylor  
-> Regional Host  
-> - ITA: 83.326 (1)  
-> - Slam: 99.051 (5)  
-> - TRN: 98.667 (6)  
-> - Massey: 8.82 (5)  
-> - UTR: 79.74 (9)  
-> - USTA Poll: 3  
-> - Coached Poll: 1  
+> | :------------------------ | :------------------------ |
+> | ### #1 Baylor             | |  
+> | Regional Host             | |  
+> | - ITA: 83.326 (1)         | |  
+> | - Slam: 99.051 (5)        | |  
+> | - TRN: 98.667 (6)         | |  
+> | - Massey: 8.82 (5)        | |  
+> | - UTR: 79.74 (9)          | |  
+> | - USTA Poll: 3            | |  
+> | - Coached Poll: 1         | |  
 
 > ### #4 A&M-Corpus Christi  
 > Automatic Qualifier  

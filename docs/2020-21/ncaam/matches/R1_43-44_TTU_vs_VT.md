@@ -2,14 +2,15 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## [Texas Tech vs Virginia Tech](https://www.ncaa.com/game/5833391) 
 
-> ### #3 Virginia Tech  
-> At-Large Bid  
-> - ITA: 28.315 (29)  
-> - Slam: 93.023 (30)  
-> - TRN: 91.089 (29)  
-> - Massey: 7.47 (33)  
-> - UTR: 76.77 (34)  
-> - Coached Poll: 34  
+> | :------------------------ | :------------------------ |
+> | ### #3 Virginia Tech      | |  
+> | At-Large Bid              | |  
+> | - ITA: 28.315 (29)        | |  
+> | - Slam: 93.023 (30)       | |  
+> | - TRN: 91.089 (29)        | |  
+> | - Massey: 7.47 (33)       | |  
+> | - UTR: 76.77 (34)         | |  
+> | - Coached Poll: 34        | |  
 
 > ### #2 Texas Tech  
 > At-Large Bid  

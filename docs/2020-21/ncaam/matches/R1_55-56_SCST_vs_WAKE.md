@@ -2,15 +2,16 @@ First Round
 Friday, May 7 at 5:00 EDT
 ## [South Carolina St. vs #10 Wake Forest](https://www.ncaa.com/game/5833397) 
 
-> ### #1 Wake Forest  
-> Regional Host  
-> - ITA: 56.819 (9)  
-> - Slam: 97.17 (10)  
-> - TRN: 95.993 (10)  
-> - Massey: 8.43 (13)  
-> - UTR: 79.79 (7)  
-> - USTA Poll: 12  
-> - Coached Poll: 10  
+> | :------------------------ | :------------------------ |
+> | ### #1 Wake Forest        | |  
+> | Regional Host             | |  
+> | - ITA: 56.819 (9)         | |  
+> | - Slam: 97.17 (10)        | |  
+> | - TRN: 95.993 (10)        | |  
+> | - Massey: 8.43 (13)       | |  
+> | - UTR: 79.79 (7)          | |  
+> | - USTA Poll: 12           | |  
+> | - Coached Poll: 10        | |  
 
 > ### #4 South Carolina St.  
 > Automatic Qualifier  

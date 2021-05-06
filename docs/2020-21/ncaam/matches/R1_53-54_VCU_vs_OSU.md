@@ -2,15 +2,16 @@ First Round
 Friday, May 7 at 2:00 EDT
 ## [VCU vs Ohio St.](https://www.ncaa.com/game/5833396) 
 
-> ### #2 Ohio St.  
-> At-Large Bid  
-> - ITA: 26.4 (31)  
-> - Slam: 97.864 (7)  
-> - TRN: 97.227 (8)  
-> - Massey: 8.6 (9)  
-> - UTR: 80.28 (3)  
-> - USTA Poll: 7  
-> - Coached Poll: 17  
+> | :------------------------ | :------------------------ |
+> | ### #2 Ohio St.           | |  
+> | At-Large Bid              | |  
+> | - ITA: 26.4 (31)          | |  
+> | - Slam: 97.864 (7)        | |  
+> | - TRN: 97.227 (8)         | |  
+> | - Massey: 8.6 (9)         | |  
+> | - UTR: 80.28 (3)          | |  
+> | - USTA Poll: 7            | |  
+> | - Coached Poll: 17        | |  
 
 > ### #3 VCU  
 > Automatic Qualifier  
