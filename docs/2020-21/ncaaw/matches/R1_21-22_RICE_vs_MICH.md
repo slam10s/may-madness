@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 11:00 EDT
-## Rice vs Michigan
+## [Rice vs Michigan](https://www.ncaa.com/game/5833657) 
 
 > ### #2 Michigan  
 > At-Large Bid  

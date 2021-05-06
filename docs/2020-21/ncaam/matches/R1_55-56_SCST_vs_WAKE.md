@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 5:00 EDT
-## South Carolina St. vs #10 Wake Forest
+## [South Carolina St. vs #10 Wake Forest](https://www.ncaa.com/game/5833397) 
 
 > ### #1 Wake Forest  
 > Regional Host  

@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 3:00 EDT
-## Charleston So. vs #9 UCF
+## [Charleston So. vs #9 UCF](https://www.ncaa.com/game/5833651) 
 
 > ### #1 UCF  
 > Regional Host  

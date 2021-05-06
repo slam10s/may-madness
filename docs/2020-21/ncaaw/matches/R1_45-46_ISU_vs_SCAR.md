@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 12:00 EDT
-## Iowa St. vs South Carolina
+## [Iowa St. vs South Carolina](https://www.ncaa.com/game/5833669) 
 
 > ### #2 South Carolina  
 > At-Large Bid  

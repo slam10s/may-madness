@@ -1,6 +1,6 @@
 First Round
 Saturday, May 8 at 11:00 EDT
-## Mississippi St. vs Miami (FL)
+## [Mississippi St. vs Miami (FL)](https://www.ncaa.com/game/5833375) 
 
 > ### #3 Miami (FL)  
 > At-Large Bid  

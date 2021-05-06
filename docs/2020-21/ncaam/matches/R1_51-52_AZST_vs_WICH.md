@@ -1,6 +1,6 @@
 First Round
 Saturday, May 8 at 12:00 EDT
-## Arizona St. vs Wichita St.
+## [Arizona St. vs Wichita St.](https://www.ncaa.com/game/5833395) 
 
 > ### #3 Wichita St.  
 > At-Large Bid  

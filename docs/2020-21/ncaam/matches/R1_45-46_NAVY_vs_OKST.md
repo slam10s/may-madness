@@ -1,6 +1,6 @@
 First Round
 Saturday, May 8 at 10:00 EDT
-## Navy vs Oklahoma St.
+## [Navy vs Oklahoma St.](https://www.ncaa.com/game/5833392) 
 
 > ### #2 Oklahoma St.  
 > At-Large Bid  

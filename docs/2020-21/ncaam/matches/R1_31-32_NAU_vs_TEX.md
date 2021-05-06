@@ -1,6 +1,6 @@
 First Round
 Saturday, May 8 at 1:00 EDT
-## Northern Ariz. vs #4 Texas
+## [Northern Ariz. vs #4 Texas](https://www.ncaa.com/game/5833385) 
 
 > ### #1 Texas  
 > Regional Host  

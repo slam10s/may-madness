@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 4:00 EDT
-## Xavier vs Northwestern
+## [Xavier vs Northwestern](https://www.ncaa.com/game/5833673) 
 
 > ### #2 Northwestern  
 > At-Large Bid  

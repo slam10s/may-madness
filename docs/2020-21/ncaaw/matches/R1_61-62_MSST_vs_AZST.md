@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 1:00 EDT
-## Mississippi St. vs Arizona St.
+## [Mississippi St. vs Arizona St.](https://www.ncaa.com/game/5833677) 
 
 > ### #2 Arizona St.  
 > At-Large Bid  

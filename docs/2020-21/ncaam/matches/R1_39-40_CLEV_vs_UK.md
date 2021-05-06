@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 1:00 EDT
-## Cleveland St. vs #14 Kentucky
+## [Cleveland St. vs #14 Kentucky](https://www.ncaa.com/game/5833389) 
 
 > ### #1 Kentucky  
 > Regional Host  

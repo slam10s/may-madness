@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 1:00 EDT
-## Syracuse vs Kentucky
+## [Syracuse vs Kentucky](https://www.ncaa.com/game/5833649) 
 
 > ### #2 Kentucky  
 > At-Large Bid  

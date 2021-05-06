@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 2:00 EDT
-## Western Mich. vs Notre Dame
+## [Western Mich. vs Notre Dame](https://www.ncaa.com/game/5833372) 
 
 > ### #2 Notre Dame  
 > At-Large Bid  

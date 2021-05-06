@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 2:00 EDT
-## VCU vs Ohio St.
+## [VCU vs Ohio St.](https://www.ncaa.com/game/5833396) 
 
 > ### #2 Ohio St.  
 > At-Large Bid  

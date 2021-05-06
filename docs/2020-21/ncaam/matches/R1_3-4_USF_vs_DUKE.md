@@ -1,6 +1,6 @@
 First Round
 Saturday, May 8 at 10:00 EDT
-## South Fla. vs Duke
+## [South Fla. vs Duke](https://www.ncaa.com/game/5833371) 
 
 > ### #3 Duke  
 > At-Large Bid  

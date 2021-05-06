@@ -1,6 +1,6 @@
 First Round
 Saturday, May 8 at 1:00 EDT
-## Fairleigh Dickinson vs #5 Virginia
+## [Fairleigh Dickinson vs #5 Virginia](https://www.ncaa.com/game/5833378) 
 
 > ### #1 Virginia  
 > Regional Host  

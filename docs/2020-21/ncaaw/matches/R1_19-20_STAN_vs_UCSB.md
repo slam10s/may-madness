@@ -1,6 +1,6 @@
 First Round
 Friday, May 7 at 1:00 EDT
-## Stanford vs UC Santa Barbara
+## [Stanford vs UC Santa Barbara](https://www.ncaa.com/game/5833656) 
 
 > ### #3 UC Santa Barbara  
 > Automatic Qualifier  
