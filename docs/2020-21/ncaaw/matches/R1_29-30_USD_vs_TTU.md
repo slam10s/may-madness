@@ -1,4 +1,4 @@
-First Round
+First Round  
 Friday, May 7 at 4:00 EDT
 ## [San Diego vs Texas Tech](https://www.ncaa.com/game/5833661) 
 

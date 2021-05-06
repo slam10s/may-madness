@@ -1,4 +1,4 @@
-First Round
+First Round  
 Friday, May 7 at 3:00 EDT
 ## [VCU vs #6 NC State](https://www.ncaa.com/game/5833670) 
 
