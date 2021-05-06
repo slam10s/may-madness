@@ -2,10 +2,8 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## Stanford vs LSU
 
-> Home
-> #### LSU
-> Entry: At-Large Bid
+> ***LSU***
+> At-Large Bid
 
-> Visitor
-> #### Stanford
-> Entry: At-Large Bid
+> ***Stanford***
+> At-Large Bid

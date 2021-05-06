@@ -2,10 +2,8 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## San Jose St. vs #16 California
 
-> Home
-> #### California
-> Entry: Regional Host
+> ***California***
+> Regional Host
 
-> Visitor
-> #### San Jose St.
-> Entry: Automatic Qualifier
+> ***San Jose St.***
+> Automatic Qualifier

@@ -2,10 +2,8 @@ First Round
 Friday, May 7 at 5:00 EDT
 ## South Carolina St. vs #10 Wake Forest
 
-> Home
-> #### Wake Forest
-> Entry: Regional Host
+> ***Wake Forest***
+> Regional Host
 
-> Visitor
-> #### South Carolina St.
-> Entry: Automatic Qualifier
+> ***South Carolina St.***
+> Automatic Qualifier

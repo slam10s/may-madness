@@ -2,10 +2,8 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## Georgia Tech vs Memphis
 
-> Home
-> #### Memphis
-> Entry: At-Large Bid
+> ***Memphis***
+> At-Large Bid
 
-> Visitor
-> #### Georgia Tech
-> Entry: At-Large Bid
+> ***Georgia Tech***
+> At-Large Bid
