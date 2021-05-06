@@ -39,3 +39,27 @@ Ranks listed here are the metric's ranking within the field of 64:
 - USTA Poll: ***WAKE*** - #12 Wake Forest def. South Carolina St.  
 - Coaches Poll: ***WAKE*** - #10 Wake Forest def. South Carolina St.  
 - Seeding: ***WAKE*** - #1 Wake Forest def. #4 South Carolina St.  
+
+ ### Lineups  
+
+ #### Singles:  
+- 1: Henri Squire (WAKE) - 15-6 at 1, 15-6 in duals, 15-6 overall  
+    Aleksa Daskalovic (SCST) - 2-6 at 1, 2-7 in duals, 2-7 overall  
+- 2: Eduardo Nava (WAKE) - 6-3 at 2, 17-4 in duals, 17-4 overall  
+    Marcelo Rodriguez (SCST) - 5-3 at 2, 5-4 in duals, 5-4 overall  
+- 3: Taha Baadi (WAKE) - 6-2 at 3, 13-8 in duals, 13-8 overall  
+    Elyes Marouani (SCST) - 9-2 at 3, 9-2 in duals, 9-2 overall  
+- 4: Rrezart Cungu (WAKE) - 7-3 at 4, 20-4 in duals, 20-4 overall  
+    Omer Gorgun (SCST) - 6-3 at 4, 6-3 in duals, 6-3 overall  
+- 5: Melios Efstathiou (WAKE) - 6-2 at 5, 12-6 in duals, 12-6 overall  
+    Diego Arzaluz (SCST) - 5-3 at 5, 5-3 in duals, 5-3 overall  
+- 6: Sid Banthia (WAKE) - 7-1 at 6, 19-3 in duals, 19-3 overall  
+    Luka Stefanovic (SCST) - 4-1 at 6, 4-1 in duals, 4-1 overall  
+
+ #### Doubles:  
+- 1: Nava/Squire (WAKE) - 13-5 at 1, 13-5 in duals, 13-5 overall  
+    Rodriguez/Marouani (SCST) - 6-6 at 1, 6-6 in duals, 6-6 overall  
+- 2: Thomson/Banthia (WAKE) - 7-4 at 2, 17-6 in duals, 17-6 overall  
+    Daskalovic/Momo (SCST) - 4-4 at 2, 4-4 in duals, 4-4 overall  
+- 3: Efstathiou/Baadi (WAKE) - 8-4 at 3, 12-5 in duals, 12-5 overall  
+    Arzaluz/Ben Ali (SCST) - 3-3 at 3, 3-3 in duals, 3-3 overall  

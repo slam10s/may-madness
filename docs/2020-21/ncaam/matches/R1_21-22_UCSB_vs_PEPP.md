@@ -39,3 +39,27 @@ Ranks listed here are the metric's ranking within the field of 64:
 - USTA Poll: ***PEPP*** - #24 Pepperdine def. UC Santa Barbara  
 - Coaches Poll: ***PEPP*** - #30 Pepperdine def. UC Santa Barbara  
 - Seeding: ***PEPP*** - #2 Pepperdine def. #3 UC Santa Barbara  
+
+ ### Lineups  
+
+ #### Singles:  
+- 1: Adrian Oetzbach (PEPP) - 7-7 at 1, 7-8 in duals, 8-9 overall  
+    Joseph Guillin (UCSB) - 8-2 at 1, 8-2 in duals, 8-2 overall  
+- 2: Guy Den Ouden (PEPP) - 10-4 at 2, 15-5 in duals, 15-5 overall  
+    Stefano Tsorotiotis (UCSB) - 4-5 at 2, 4-5 in duals, 4-5 overall  
+- 3: Daniel DeJonge (PEPP) - 5-4 at 3, 10-4 in duals, 11-5 overall  
+    Victor Krustev (UCSB) - 7-1 at 3, 10-3 in duals, 10-3 overall  
+- 4: Tim Zeitvogel (PEPP) - 4-0 at 4, 7-0 in duals, 7-0 overall  
+    Pablo Masjuan (UCSB) - 4-0 at 4, 9-4 in duals, 9-4 overall  
+- 5: Corrado Summaria (PEPP) - 3-0 at 5, 8-5 in duals, 8-6 overall  
+    Joey Rotheram (UCSB) - 3-2 at 5, 6-4 in duals, 6-4 overall  
+- 6: Pietro Fellin (PEPP) - 8-0 at 6, 8-3 in duals, 8-5 overall  
+    Kai Brady (UCSB) - 4-1 at 6, 7-2 in duals, 7-2 overall  
+
+ #### Doubles:  
+- 1: Oetzbach/Ouden (PEPP) - 10-4 at 1, 10-4 in duals, 10-4 overall  
+    Tsorotiotis/Vedri (UCSB) - 4-3 at 1, 4-3 in duals, 4-3 overall  
+- 2: Summaria/Zeitvogel (PEPP) - 5-2 at 2, 5-2 in duals, 5-2 overall  
+    Krustev/Rotheram (UCSB) - 4-5 at 2, 4-6 in duals, 4-6 overall  
+- 3: DeJonge/Fellin (PEPP) - 3-3 at 3, 3-3 in duals, 3-3 overall  
+    Guillin/Brady (UCSB) - 6-1 at 3, 6-1 in duals, 6-1 overall  

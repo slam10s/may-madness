@@ -38,3 +38,27 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***USF*** - #32 South Fla. def. #35 Duke  
 - Coaches Poll: ***USF*** - #33 South Fla. def. #36 Duke  
 - Seeding: ***USF*** - #2 South Fla. def. #3 Duke  
+
+ ### Lineups  
+
+ #### Singles:  
+- 1: Garrett Johns (DUKE) - 8-8 at 1, 8-8 in duals, 9-9 overall  
+    Jakub Wojcik (USF) - 4-1 at 1, 17-6 in duals, 17-6 overall  
+- 2: Sean Sculley (DUKE) - 2-3 at 2, 5-4 in duals, 6-4 overall  
+    Chase Ferguson (USF) - 5-0 at 2, 13-9 in duals, 13-9 overall  
+- 3: Andrew Zhang (DUKE) - 5-1 at 3, 10-5 in duals, 12-5 overall  
+    Ivan Yatsuk (USF) - 12-6 at 3, 15-7 in duals, 15-7 overall  
+- 4: Edu Guell (DUKE) - 0-1 at 4, 7-10 in duals, 8-11 overall  
+    Antonio Muniz-Hidalgo (USF) - 1-1 at 4, 5-4 in duals, 5-4 overall  
+- 5: Luca Keist (DUKE) - 3-2 at 5, 7-3 in duals, 8-3 overall  
+    Pierre Luquet (USF) - 0-2 at 5, 8-10 in duals, 8-10 overall  
+- 6: Andrew Dale (DUKE) - 0-2 at 6, 8-4 in duals, 10-4 overall  
+    Sergio Gomez-Montesa (USF) - 2-1 at 6, 13-10 in duals, 13-10 overall  
+
+ #### Doubles:  
+- 1: Sculley/Johns (DUKE) - 8-7 at 1, 8-7 in duals, 9-8 overall  
+    Bollipalli/Wojcik (USF) - 9-7 at 1, 9-7 in duals, 9-7 overall  
+- 2: Heller/Zhang (DUKE) - 4-1 at 2, 5-2 in duals, 5-2 overall  
+    Ferguson/Yatsuk (USF) - 1-0 at 2, 2-1 in duals, 2-1 overall  
+- 3: Keist/Dale (DUKE) - 1-1 at 3, 1-1 in duals, 1-1 overall  
+    Goncalves/Tudorica (USF) - 0-0 at 3, 0-0 in duals, 0-0 overall  

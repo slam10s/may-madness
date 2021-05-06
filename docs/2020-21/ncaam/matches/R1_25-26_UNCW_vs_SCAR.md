@@ -39,3 +39,27 @@ Ranks listed here are the metric's ranking within the field of 64:
 - USTA Poll: ***SCAR*** - #15 South Carolina def. UNCW  
 - Coaches Poll: ***SCAR*** - #13 South Carolina def. UNCW  
 - Seeding: ***SCAR*** - #1 South Carolina def. #4 UNCW  
+
+ ### Lineups  
+
+ #### Singles:  
+- 1: Daniel Rodrigues (SCAR) - 16-4 at 1, 16-4 in duals, 24-6 overall  
+    Bruno Caula (UNCW) - 11-6 at 1, 11-6 in duals, 11-6 overall  
+- 2: Connor Thomson (SCAR) - 6-5 at 2, 11-8 in duals, 18-12 overall  
+    Davide Innocenti (UNCW) - 8-3 at 2, 8-4 in duals, 8-4 overall  
+- 3: Toby Samuel (SCAR) - 4-2 at 3, 16-4 in duals, 24-7 overall  
+    Daniel Groom (UNCW) - 7-3 at 3, 10-4 in duals, 10-4 overall  
+- 4: Raphael Lambling (SCAR) - 0-2 at 4, 6-12 in duals, 11-18 overall  
+    Bekhzod Rasamatov (UNCW) - 3-2 at 4, 11-4 in duals, 11-4 overall  
+- 5: Jake Beasley (SCAR) - 7-7 at 5, 12-8 in duals, 18-10 overall  
+    Gabriel Hurtado (UNCW) - 4-3 at 5, 8-6 in duals, 8-6 overall  
+- 6: Thomas Brown (SCAR) - 2-2 at 6, 3-2 in duals, 11-6 overall  
+    Michael Copeland (UNCW) - 5-2 at 6, 13-6 in duals, 13-6 overall  
+
+ #### Doubles:  
+- 1: Rodrigues/Thomson (SCAR) - 13-7 at 1, 13-7 in duals, 20-11 overall  
+    Groom/Caula (UNCW) - 11-4 at 1, 11-4 in duals, 11-4 overall  
+- 2: Beasley/Samuel (SCAR) - 9-3 at 2, 15-7 in duals, 23-11 overall  
+    Gooch/Rasamatov (UNCW) - 3-2 at 2, 7-2 in duals, 7-2 overall  
+- 3: Lambling/Jordan (SCAR) - 4-3 at 3, 6-7 in duals, 14-10 overall  
+    Sprovieri/Hurtado (UNCW) - 6-1 at 3, 7-2 in duals, 7-2 overall  

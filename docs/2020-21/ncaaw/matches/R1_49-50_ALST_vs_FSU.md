@@ -39,3 +39,27 @@ Ranks listed here are the metric's ranking within the field of 64:
 - USTA Poll: ***FSU*** - #12 Florida St. def. Alabama St.  
 - Coaches Poll: ***FSU*** - #7 Florida St. def. Alabama St.  
 - Seeding: ***FSU*** - #1 Florida St. def. #4 Alabama St.  
+
+ ### Lineups  
+
+ #### Singles:  
+- 1: Giulia Pairone (FSU) - 11-8 at 1, 11-8 in duals, 13-8 overall  
+    Madalena Andrade (ALST) - 10-3 at 1, 10-3 in duals, 10-3 overall  
+- 2: Emmanuelle Salas (FSU) - 5-6 at 2, 7-9 in duals, 7-10 overall  
+    Lizaveta Dzemchanka (ALST) - 0-0 at 2, 3-0 in duals, 3-0 overall  
+- 3: Nandini Das (FSU) - 6-4 at 3, 11-8 in duals, 12-8 overall  
+    Urska Velec (ALST) - 3-1 at 3, 8-2 in duals, 8-2 overall  
+- 4: Petra Hule (FSU) - 4-0 at 4, 12-3 in duals, 13-3 overall  
+    Francesca Duca (ALST) - 8-0 at 4, 8-4 in duals, 8-4 overall  
+- 5: Victoria Allen (FSU) - 7-0 at 5, 11-4 in duals, 12-5 overall  
+    Timothee Legaud (ALST) - 0-2 at 5, 3-4 in duals, 3-4 overall  
+- 6: Anna Arkadianou (FSU) - 0-0 at 6, 3-4 in duals, 4-5 overall  
+    Bea Acena (ALST) - 0-0 at 6, 7-6 in duals, 7-6 overall  
+
+ #### Doubles:  
+- 1: Salas/Allen (FSU) - 5-3 at 1, 5-3 in duals, 5-3 overall  
+    Dzemchanka/Tarbujaru (ALST) - 1-1 at 1, 1-1 in duals, 1-1 overall  
+- 2: Das/Garcia (FSU) - 8-4 at 2, 14-4 in duals, 17-4 overall  
+    Andrade/Duca (ALST) - 4-0 at 2, 5-0 in duals, 5-0 overall  
+- 3: Hule/Pairone (FSU) - 5-1 at 3, 5-1 in duals, 6-1 overall  
+    Velec/Hribljan (ALST) - 0-0 at 3, 0-0 in duals, 0-0 overall  

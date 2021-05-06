@@ -40,3 +40,27 @@ Ranks listed here are the metric's ranking within the field of 64:
 - USTA Poll: ***GT*** - RV Georgia Tech def. Memphis  
 - Coaches Poll: ***GT*** - #31 Georgia Tech def. #35 Memphis  
 - Seeding: ***GT*** - #2 Georgia Tech def. #3 Memphis  
+
+ ### Lineups  
+
+ #### Singles:  
+- 1: James Story (MEM) - 8-6 at 1, 8-6 in duals, 8-6 overall  
+    Marcus McDaniel (GT) - 10-6 at 1, 15-6 in duals, 15-8 overall  
+- 2: David Stevenson (MEM) - 2-5 at 2, 8-8 in duals, 8-8 overall  
+    Andres Martin (GT) - 11-5 at 2, 14-7 in duals, 16-8 overall  
+- 3: Oscar Cutting (MEM) - 2-4 at 3, 8-9 in duals, 8-9 overall  
+    Pablo Schelcher (GT) - 8-5 at 3, 12-7 in duals, 13-9 overall  
+- 4: Jan Pallares (MEM) - 4-4 at 4, 6-8 in duals, 6-8 overall  
+    Keshav Chopra (GT) - 8-3 at 4, 12-8 in duals, 14-9 overall  
+- 5: Jeremy Taylor (MEM) - 5-3 at 5, 9-3 in duals, 9-3 overall  
+    Brandon McKinney (GT) - 7-8 at 5, 10-10 in duals, 12-11 overall  
+- 6: Pau Fanlo (MEM) - 4-3 at 6, 6-5 in duals, 6-5 overall  
+    Chen Dong (GT) - 11-4 at 6, 11-4 in duals, 12-6 overall  
+
+ #### Doubles:  
+- 1: Cutting/Stevenson (MEM) - 9-6 at 1, 9-6 in duals, 9-6 overall  
+    McDaniel/Martin (GT) - 5-2 at 1, 5-2 in duals, 5-2 overall  
+- 2: Pallares/Sydow (MEM) - 12-3 at 2, 12-3 in duals, 12-3 overall  
+    Schelcher/Freestone (GT) - 6-4 at 2, 6-4 in duals, 6-4 overall  
+- 3: Story/Taylor (MEM) - 10-3 at 3, 10-3 in duals, 10-3 overall  
+    Chopra/Dong (GT) - 2-1 at 3, 2-1 in duals, 2-1 overall  
