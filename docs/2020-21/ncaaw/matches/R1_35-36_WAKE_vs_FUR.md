@@ -2,16 +2,16 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## [Wake Forest vs Furman](https://www.ncaa.com/game/5833664) 
 
-> | :------------------------ | :------------------------ |  
-> | ### #3 Furman             | |  
-> | Automatic Qualifier       | |  
-> | - ITA: 25.423 (34)        | |  
-> | - Slam: 87.979 (33)       | |  
-> | - TRN: 79.59 (35)         | |  
-> | - Massey: 7.09 (35)       | |  
-> | - UTR: 59.02 (41)         | |  
-> | - USTA Poll: RV           | |  
-> | - Coached Poll: 35        | |  
+| :------------------------ | :------------------------ |  
+| ### #3 Furman             | |  
+| Automatic Qualifier       | |  
+| - ITA: 25.423 (34)        | |  
+| - Slam: 87.979 (33)       | |  
+| - TRN: 79.59 (35)         | |  
+| - Massey: 7.09 (35)       | |  
+| - UTR: 59.02 (41)         | |  
+| - USTA Poll: RV           | |  
+| - Coached Poll: 35        | |  
 
 > ### #2 Wake Forest  
 > At-Large Bid  

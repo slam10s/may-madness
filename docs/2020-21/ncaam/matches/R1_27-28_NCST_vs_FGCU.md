@@ -2,14 +2,14 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## [NC State vs FGCU](https://www.ncaa.com/game/5833383) 
 
-> | :------------------------ | :------------------------ |  
-> | ### #3 FGCU               | |  
-> | Automatic Qualifier       | |  
-> | - ITA: 8.375 (47)         | |  
-> | - Slam: 87.658 (49)       | |  
-> | - TRN: 85.244 (50)        | |  
-> | - Massey: 6.42 (53)       | |  
-> | - UTR: 73.58 (52)         | |  
+| :------------------------ | :------------------------ |  
+| ### #3 FGCU               | |  
+| Automatic Qualifier       | |  
+| - ITA: 8.375 (47)         | |  
+| - Slam: 87.658 (49)       | |  
+| - TRN: 85.244 (50)        | |  
+| - Massey: 6.42 (53)       | |  
+| - UTR: 73.58 (52)         | |  
 
 > ### #2 NC State  
 > At-Large Bid  

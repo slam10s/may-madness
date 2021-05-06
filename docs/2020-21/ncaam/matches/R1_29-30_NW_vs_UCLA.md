@@ -2,16 +2,16 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## [Northwestern vs UCLA](https://www.ncaa.com/game/5833384) 
 
-> | :------------------------ | :------------------------ |  
-> | ### #2 UCLA               | |  
-> | At-Large Bid              | |  
-> | - ITA: 32.146 (24)        | |  
-> | - Slam: 93.839 (23)       | |  
-> | - TRN: 91.844 (24)        | |  
-> | - Massey: 8.03 (19)       | |  
-> | - UTR: 79.06 (13)         | |  
-> | - USTA Poll: 22           | |  
-> | - Coached Poll: 29        | |  
+| :------------------------ | :------------------------ |  
+| ### #2 UCLA               | |  
+| At-Large Bid              | |  
+| - ITA: 32.146 (24)        | |  
+| - Slam: 93.839 (23)       | |  
+| - TRN: 91.844 (24)        | |  
+| - Massey: 8.03 (19)       | |  
+| - UTR: 79.06 (13)         | |  
+| - USTA Poll: 22           | |  
+| - Coached Poll: 29        | |  
 
 > ### #3 Northwestern  
 > At-Large Bid  

@@ -2,16 +2,16 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Cleveland St. vs #14 Kentucky](https://www.ncaa.com/game/5833389) 
 
-> | :------------------------ | :------------------------ |  
-> | ### #1 Kentucky           | |  
-> | Regional Host             | |  
-> | - ITA: 44.704 (15)        | |  
-> | - Slam: 95.866 (17)       | |  
-> | - TRN: 93.827 (17)        | |  
-> | - Massey: 8.12 (17)       | |  
-> | - UTR: 78.88 (16)         | |  
-> | - USTA Poll: 17           | |  
-> | - Coached Poll: 15        | |  
+| :------------------------ | :------------------------ |  
+| ### #1 Kentucky           | |  
+| Regional Host             | |  
+| - ITA: 44.704 (15)        | |  
+| - Slam: 95.866 (17)       | |  
+| - TRN: 93.827 (17)        | |  
+| - Massey: 8.12 (17)       | |  
+| - UTR: 78.88 (16)         | |  
+| - USTA Poll: 17           | |  
+| - Coached Poll: 15        | |  
 
 > ### #4 Cleveland St.  
 > Automatic Qualifier  

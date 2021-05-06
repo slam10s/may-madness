@@ -2,15 +2,15 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## [Georgia Tech vs Memphis](https://www.ncaa.com/game/5833387) 
 
-> | :------------------------ | :------------------------ |  
-> | ### #3 Memphis            | |  
-> | At-Large Bid              | |  
-> | - ITA: 22.187 (38)        | |  
-> | - Slam: 91.895 (41)       | |  
-> | - TRN: 89.858 (40)        | |  
-> | - Massey: 7.05 (43)       | |  
-> | - UTR: 75.4 (43)          | |  
-> | - Coached Poll: 35        | |  
+| :------------------------ | :------------------------ |  
+| ### #3 Memphis            | |  
+| At-Large Bid              | |  
+| - ITA: 22.187 (38)        | |  
+| - Slam: 91.895 (41)       | |  
+| - TRN: 89.858 (40)        | |  
+| - Massey: 7.05 (43)       | |  
+| - UTR: 75.4 (43)          | |  
+| - Coached Poll: 35        | |  
 
 > ### #2 Georgia Tech  
 > At-Large Bid  

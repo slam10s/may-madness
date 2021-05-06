@@ -2,14 +2,14 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Stanford vs UC Santa Barbara](https://www.ncaa.com/game/5833656) 
 
-> | :------------------------ | :------------------------ |  
-> | ### #3 UC Santa Barbara   | |  
-> | Automatic Qualifier       | |  
-> | - ITA: 14.681 (44)        | |  
-> | - Slam: 87.384 (39)       | |  
-> | - TRN: 78.807 (40)        | |  
-> | - Massey: 6.75 (40)       | |  
-> | - UTR: 57.03 (46)         | |  
+| :------------------------ | :------------------------ |  
+| ### #3 UC Santa Barbara   | |  
+| Automatic Qualifier       | |  
+| - ITA: 14.681 (44)        | |  
+| - Slam: 87.384 (39)       | |  
+| - TRN: 78.807 (40)        | |  
+| - Massey: 6.75 (40)       | |  
+| - UTR: 57.03 (46)         | |  
 
 > ### #2 Stanford  
 > At-Large Bid  

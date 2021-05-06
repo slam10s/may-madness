@@ -2,15 +2,15 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Auburn vs Oklahoma St.](https://www.ncaa.com/game/5833672) 
 
-> | :------------------------ | :------------------------ |  
-> | ### #3 Oklahoma St.       | |  
-> | At-Large Bid              | |  
-> | - ITA: 20.712 (37)        | |  
-> | - Slam: 87.452 (37)       | |  
-> | - TRN: 79.029 (37)        | |  
-> | - Massey: 7.02 (36)       | |  
-> | - UTR: 61.98 (17)         | |  
-> | - Coached Poll: 37        | |  
+| :------------------------ | :------------------------ |  
+| ### #3 Oklahoma St.       | |  
+| At-Large Bid              | |  
+| - ITA: 20.712 (37)        | |  
+| - Slam: 87.452 (37)       | |  
+| - TRN: 79.029 (37)        | |  
+| - Massey: 7.02 (36)       | |  
+| - UTR: 61.98 (17)         | |  
+| - Coached Poll: 37        | |  
 
 > ### #2 Auburn  
 > At-Large Bid  
