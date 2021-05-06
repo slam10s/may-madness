@@ -6,7 +6,7 @@ Friday, May 7 at 10:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fgcu.70.png" width="70" height="70" /></a>  
 
-### #3 [FGCU](../index.md)  
+<h3>#3 <a href="../index.md">FGCU</a></h3>  
 
 Automatic Qualifier  
 - ITA: 47 (8.38)  
@@ -19,7 +19,7 @@ Automatic Qualifier
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></a>  
 
-### #2 [NC State](../index.md)  
+<h3>#2 <a href="../index.md">NC State</a></h3>  
 
 At-Large Bid  
 - ITA: 23 (32.39)  

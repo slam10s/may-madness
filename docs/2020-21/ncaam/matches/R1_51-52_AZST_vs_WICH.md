@@ -6,7 +6,7 @@ Saturday, May 8 at 12:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wichita-st.70.png" width="70" height="70" /></a>  
 
-### #3 [Wichita St.](../index.md)  
+<h3>#3 <a href="../index.md">Wichita St.</a></h3>  
 
 At-Large Bid  
 - ITA: 33 (25.34)  
@@ -20,7 +20,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a>  
 
-### #2 [Arizona St.](../index.md)  
+<h3>#2 <a href="../index.md">Arizona St.</a></h3>  
 
 At-Large Bid  
 - ITA: 20 (34.84)  

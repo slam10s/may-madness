@@ -6,7 +6,7 @@ Friday, May 7 at 2:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></a>  
 
-### #2 [Notre Dame](../index.md)  
+<h3>#2 <a href="../index.md">Notre Dame</a></h3>  
 
 At-Large Bid  
 - ITA: 34 (25.22)  
@@ -20,7 +20,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" /></a>  
 
-### #3 [Western Mich.](../index.md)  
+<h3>#3 <a href="../index.md">Western Mich.</a></h3>  
 
 Automatic Qualifier  
 - ITA: 41 (18.89)  

@@ -6,7 +6,7 @@ Friday, May 7 at 2:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></a>  
 
-### #1 [Georgia Tech](../index.md)  
+<h3>#1 <a href="../index.md">Georgia Tech</a></h3>  
 
 Regional Host  
 - ITA: 13 (48.32)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png" width="70" height="70" /></a>  
 
-### #4 [Ga. Southern](../index.md)  
+<h3>#4 <a href="../index.md">Ga. Southern</a></h3>  
 
 Automatic Qualifier  
 - ITA: 53 (4.08)  

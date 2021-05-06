@@ -6,7 +6,7 @@ Friday, May 7 at 3:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a>  
 
-### #2 [Duke](../index.md)  
+<h3>#2 <a href="../index.md">Duke</a></h3>  
 
 At-Large Bid  
 - ITA: 17 (43.03)  
@@ -21,7 +21,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a>  
 
-### #3 [Alabama](../index.md)  
+<h3>#3 <a href="../index.md">Alabama</a></h3>  
 
 At-Large Bid  
 - ITA: 42 (16.54)  

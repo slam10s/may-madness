@@ -6,7 +6,7 @@ Saturday, May 8 at 1:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></a>  
 
-### #1 [Texas](../index.md)  
+<h3>#1 <a href="../index.md">Texas</a></h3>  
 
 Regional Host  
 - ITA: 5 (74.24)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a>  
 
-### #4 [Northern Ariz.](../index.md)  
+<h3>#4 <a href="../index.md">Northern Ariz.</a></h3>  
 
 Automatic Qualifier  
 - ITA: 61 (2.13)  

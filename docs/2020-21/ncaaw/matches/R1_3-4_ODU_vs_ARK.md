@@ -6,7 +6,7 @@ Friday, May 7 at 10:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a>  
 
-### #3 [Arkansas](../index.md)  
+<h3>#3 <a href="../index.md">Arkansas</a></h3>  
 
 At-Large Bid  
 - ITA: 32 (26.02)  
@@ -20,7 +20,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></a>  
 
-### #2 [Old Dominion](../index.md)  
+<h3>#2 <a href="../index.md">Old Dominion</a></h3>  
 
 Automatic Qualifier  
 - ITA: 30 (28.00)  

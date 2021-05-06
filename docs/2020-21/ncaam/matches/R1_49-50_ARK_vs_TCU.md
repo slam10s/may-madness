@@ -6,7 +6,7 @@ Saturday, May 8 at 3:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" /></a>  
 
-### #1 [TCU](../index.md)  
+<h3>#1 <a href="../index.md">TCU</a></h3>  
 
 Regional Host  
 - ITA: 7 (69.22)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a>  
 
-### #4 [Arkansas](../index.md)  
+<h3>#4 <a href="../index.md">Arkansas</a></h3>  
 
 At-Large Bid  
 - ITA: 43 (18.30)  

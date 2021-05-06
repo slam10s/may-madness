@@ -6,7 +6,7 @@ Friday, May 7 at 4:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></a>  
 
-### #1 [Texas](../index.md)  
+<h3>#1 <a href="../index.md">Texas</a></h3>  
 
 Regional Host  
 - ITA: 2 (79.19)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></a>  
 
-### #4 [Denver](../index.md)  
+<h3>#4 <a href="../index.md">Denver</a></h3>  
 
 Automatic Qualifier  
 - ITA: 45 (11.66)  

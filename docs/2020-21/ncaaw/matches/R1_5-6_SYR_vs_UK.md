@@ -6,7 +6,7 @@ Friday, May 7 at 1:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a>  
 
-### #2 [Kentucky](../index.md)  
+<h3>#2 <a href="../index.md">Kentucky</a></h3>  
 
 At-Large Bid  
 - ITA: 26 (37.41)  
@@ -21,7 +21,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" /></a>  
 
-### #3 [Syracuse](../index.md)  
+<h3>#3 <a href="../index.md">Syracuse</a></h3>  
 
 At-Large Bid  
 - ITA: 43 (15.84)  

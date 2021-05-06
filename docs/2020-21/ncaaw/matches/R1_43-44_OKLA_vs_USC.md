@@ -6,7 +6,7 @@ Friday, May 7 at 10:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a>  
 
-### #3 [Southern California](../index.md)  
+<h3>#3 <a href="../index.md">Southern California</a></h3>  
 
 At-Large Bid  
 - ITA: 35 (23.17)  
@@ -20,7 +20,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a>  
 
-### #2 [Oklahoma](../index.md)  
+<h3>#2 <a href="../index.md">Oklahoma</a></h3>  
 
 At-Large Bid  
 - ITA: 23 (39.04)  

@@ -6,7 +6,7 @@ Friday, May 7 at 12:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a>  
 
-### #2 [South Carolina](../index.md)  
+<h3>#2 <a href="../index.md">South Carolina</a></h3>  
 
 At-Large Bid  
 - ITA: 22 (39.21)  
@@ -21,7 +21,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></a>  
 
-### #3 [Iowa St.](../index.md)  
+<h3>#3 <a href="../index.md">Iowa St.</a></h3>  
 
 At-Large Bid  
 - ITA: 36 (22.35)  

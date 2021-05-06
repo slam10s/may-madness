@@ -6,7 +6,7 @@ Saturday, May 8 at 11:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></a>  
 
-### #3 [Miami (FL)](../index.md)  
+<h3>#3 <a href="../index.md">Miami (FL)</a></h3>  
 
 At-Large Bid  
 - ITA: 39 (19.34)  
@@ -20,7 +20,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a>  
 
-### #2 [Mississippi St.](../index.md)  
+<h3>#2 <a href="../index.md">Mississippi St.</a></h3>  
 
 At-Large Bid  
 - ITA: 16 (41.29)  

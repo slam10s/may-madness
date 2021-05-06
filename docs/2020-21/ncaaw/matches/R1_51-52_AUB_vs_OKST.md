@@ -6,7 +6,7 @@ Friday, May 7 at 1:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a>  
 
-### #3 [Oklahoma St.](../index.md)  
+<h3>#3 <a href="../index.md">Oklahoma St.</a></h3>  
 
 At-Large Bid  
 - ITA: 37 (20.71)  
@@ -20,7 +20,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" /></a>  
 
-### #2 [Auburn](../index.md)  
+<h3>#2 <a href="../index.md">Auburn</a></h3>  
 
 At-Large Bid  
 - ITA: 20 (41.17)  

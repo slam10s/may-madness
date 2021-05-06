@@ -6,7 +6,7 @@ Friday, May 7 at 3:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></a>  
 
-### #1 [NC State](../index.md)  
+<h3>#1 <a href="../index.md">NC State</a></h3>  
 
 Regional Host  
 - ITA: 6 (55.66)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></a>  
 
-### #4 [VCU](../index.md)  
+<h3>#4 <a href="../index.md">VCU</a></h3>  
 
 Automatic Qualifier  
 - ITA: 49 (6.76)  

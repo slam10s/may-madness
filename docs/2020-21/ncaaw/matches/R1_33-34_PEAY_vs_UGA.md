@@ -6,7 +6,7 @@ Friday, May 7 at 1:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></a>  
 
-### #1 [Georgia](../index.md)  
+<h3>#1 <a href="../index.md">Georgia</a></h3>  
 
 Regional Host  
 - ITA: 3 (74.01)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" /></a>  
 
-### #4 [Austin Peay](../index.md)  
+<h3>#4 <a href="../index.md">Austin Peay</a></h3>  
 
 Automatic Qualifier  
 - ITA: 57 (3.35)  

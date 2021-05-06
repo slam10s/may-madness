@@ -6,7 +6,7 @@ Friday, May 7 at 1:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a>  
 
-### #2 [Pepperdine](../index.md)  
+<h3>#2 <a href="../index.md">Pepperdine</a></h3>  
 
 Automatic Qualifier  
 - ITA: 28 (29.09)  
@@ -21,7 +21,7 @@ Automatic Qualifier
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></a>  
 
-### #3 [UC Santa Barbara](../index.md)  
+<h3>#3 <a href="../index.md">UC Santa Barbara</a></h3>  
 
 Automatic Qualifier  
 - ITA: 54 (6.34)  

@@ -6,7 +6,7 @@ Friday, May 7 at 12:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fiu.70.png" width="70" height="70" /></a>  
 
-### #3 [FIU](../index.md)  
+<h3>#3 <a href="../index.md">FIU</a></h3>  
 
 At-Large Bid  
 - ITA: 41 (18.12)  
@@ -21,7 +21,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></a>  
 
-### #2 [Miami (FL)](../index.md)  
+<h3>#2 <a href="../index.md">Miami (FL)</a></h3>  
 
 At-Large Bid  
 - ITA: 24 (38.72)  

@@ -6,7 +6,7 @@ Friday, May 7 at 11:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-florida.70.png" width="70" height="70" /></a>  
 
-### #3 [North Florida](../index.md)  
+<h3>#3 <a href="../index.md">North Florida</a></h3>  
 
 Automatic Qualifier  
 - ITA: 48 (8.00)  
@@ -19,7 +19,7 @@ Automatic Qualifier
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" /></a>  
 
-### #2 [Ole Miss](../index.md)  
+<h3>#2 <a href="../index.md">Ole Miss</a></h3>  
 
 At-Large Bid  
 - ITA: 25 (38.66)  

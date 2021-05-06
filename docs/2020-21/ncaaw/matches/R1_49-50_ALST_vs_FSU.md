@@ -6,7 +6,7 @@ Friday, May 7 at 4:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></a>  
 
-### #1 [Florida St.](../index.md)  
+<h3>#1 <a href="../index.md">Florida St.</a></h3>  
 
 Regional Host  
 - ITA: 7 (55.15)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></a>  
 
-### #4 [Alabama St.](../index.md)  
+<h3>#4 <a href="../index.md">Alabama St.</a></h3>  
 
 Automatic Qualifier  
 - ITA: 61 (2.29)  

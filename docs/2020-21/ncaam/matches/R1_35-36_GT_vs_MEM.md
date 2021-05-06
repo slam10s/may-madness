@@ -6,7 +6,7 @@ Saturday, May 8 at 10:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/memphis.70.png" width="70" height="70" /></a>  
 
-### #3 [Memphis](../index.md)  
+<h3>#3 <a href="../index.md">Memphis</a></h3>  
 
 At-Large Bid  
 - ITA: 38 (22.19)  
@@ -20,7 +20,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></a>  
 
-### #2 [Georgia Tech](../index.md)  
+<h3>#2 <a href="../index.md">Georgia Tech</a></h3>  
 
 At-Large Bid  
 - ITA: 30 (27.75)  

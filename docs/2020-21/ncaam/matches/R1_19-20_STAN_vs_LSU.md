@@ -6,7 +6,7 @@ Saturday, May 8 at 10:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></a>  
 
-### #3 [LSU](../index.md)  
+<h3>#3 <a href="../index.md">LSU</a></h3>  
 
 At-Large Bid  
 - ITA: 40 (19.17)  
@@ -20,7 +20,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></a>  
 
-### #2 [Stanford](../index.md)  
+<h3>#2 <a href="../index.md">Stanford</a></h3>  
 
 At-Large Bid  
 - ITA: 21 (34.55)  

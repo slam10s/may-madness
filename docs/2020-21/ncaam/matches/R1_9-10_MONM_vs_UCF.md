@@ -6,7 +6,7 @@ Saturday, May 8 at 2:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a>  
 
-### #1 [UCF](../index.md)  
+<h3>#1 <a href="../index.md">UCF</a></h3>  
 
 Regional Host  
 - ITA: 10 (54.95)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></a>  
 
-### #4 [Monmouth](../index.md)  
+<h3>#4 <a href="../index.md">Monmouth</a></h3>  
 
 Automatic Qualifier  
 - ITA: 58 (4.41)  

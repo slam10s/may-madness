@@ -6,7 +6,7 @@ Saturday, May 8 at 10:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></a>  
 
-### #2 [UCLA](../index.md)  
+<h3>#2 <a href="../index.md">UCLA</a></h3>  
 
 At-Large Bid  
 - ITA: 24 (32.15)  
@@ -21,7 +21,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></a>  
 
-### #3 [Northwestern](../index.md)  
+<h3>#3 <a href="../index.md">Northwestern</a></h3>  
 
 At-Large Bid  
 - ITA: 50 (7.95)  

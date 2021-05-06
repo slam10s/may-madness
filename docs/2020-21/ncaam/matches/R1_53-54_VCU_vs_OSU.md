@@ -6,7 +6,7 @@ Friday, May 7 at 2:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></a>  
 
-### #2 [Ohio St.](../index.md)  
+<h3>#2 <a href="../index.md">Ohio St.</a></h3>  
 
 At-Large Bid  
 - ITA: 31 (26.40)  
@@ -21,7 +21,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></a>  
 
-### #3 [VCU](../index.md)  
+<h3>#3 <a href="../index.md">VCU</a></h3>  
 
 Automatic Qualifier  
 - ITA: 37 (23.44)  

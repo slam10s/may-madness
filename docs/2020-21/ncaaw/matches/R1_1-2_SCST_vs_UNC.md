@@ -6,7 +6,7 @@ Friday, May 7 at 1:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></a>  
 
-### #1 [North Carolina](../index.md)  
+<h3>#1 <a href="../index.md">North Carolina</a></h3>  
 
 Regional Host  
 - ITA: 1 (87.72)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></a>  
 
-### #4 [South Carolina St.](../index.md)  
+<h3>#4 <a href="../index.md">South Carolina St.</a></h3>  
 
 Automatic Qualifier  
 - Slam: 62 (70.68)  

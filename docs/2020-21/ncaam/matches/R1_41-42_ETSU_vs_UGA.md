@@ -6,7 +6,7 @@ Saturday, May 8 at 1:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></a>  
 
-### #1 [Georgia](../index.md)  
+<h3>#1 <a href="../index.md">Georgia</a></h3>  
 
 Regional Host  
 - ITA: 11 (54.81)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png" width="70" height="70" /></a>  
 
-### #4 [ETSU](../index.md)  
+<h3>#4 <a href="../index.md">ETSU</a></h3>  
 
 Automatic Qualifier  
 - ITA: 49 (7.97)  

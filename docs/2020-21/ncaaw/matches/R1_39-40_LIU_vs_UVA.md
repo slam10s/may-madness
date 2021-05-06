@@ -6,7 +6,7 @@ Friday, May 7 at 3:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></a>  
 
-### #1 [Virginia](../index.md)  
+<h3>#1 <a href="../index.md">Virginia</a></h3>  
 
 Regional Host  
 - ITA: 14 (47.67)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" /></a>  
 
-### #4 [LIU](../index.md)  
+<h3>#4 <a href="../index.md">LIU</a></h3>  
 
 Automatic Qualifier  
 - ITA: 52 (4.20)  

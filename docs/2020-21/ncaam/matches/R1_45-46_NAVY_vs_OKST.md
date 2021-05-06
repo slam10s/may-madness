@@ -6,7 +6,7 @@ Saturday, May 8 at 10:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a>  
 
-### #2 [Oklahoma St.](../index.md)  
+<h3>#2 <a href="../index.md">Oklahoma St.</a></h3>  
 
 At-Large Bid  
 - ITA: 19 (35.31)  
@@ -21,7 +21,7 @@ At-Large Bid
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png" width="70" height="70" /></a>  
 
-### #3 [Navy](../index.md)  
+<h3>#3 <a href="../index.md">Navy</a></h3>  
 
 Automatic Qualifier  
 - ITA: 48 (8.28)  

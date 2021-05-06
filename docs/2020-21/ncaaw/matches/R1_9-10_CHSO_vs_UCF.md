@@ -6,7 +6,7 @@ Friday, May 7 at 3:00 EDT
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a>  
 
-### #1 [UCF](../index.md)  
+<h3>#1 <a href="../index.md">UCF</a></h3>  
 
 Regional Host  
 - ITA: 9 (52.14)  
@@ -21,7 +21,7 @@ Regional Host
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png" width="70" height="70" /></a>  
 
-### #4 [Charleston So.](../index.md)  
+<h3>#4 <a href="../index.md">Charleston So.</a></h3>  
 
 Automatic Qualifier  
 - ITA: 58 (2.77)  
