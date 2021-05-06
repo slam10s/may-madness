@@ -7,22 +7,22 @@ Friday, May 7 at 2:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Ohio St.</a></h3>  
-<br>ITA: 18 (43.02)  
-<br>Slam: 5 (92.95)  
-<br>TRN: 5 (85.87)  
-<br>Massey: 8 (8.22)  
-<br>UTR: 25 (61.53)  
-<br>USTA Poll: 6  
-<br>Coaches Poll: 13  
+ITA: 18 (43.02)<br>  
+Slam: 5 (92.95)<br>  
+TRN: 5 (85.87)<br>  
+Massey: 8 (8.22)<br>  
+UTR: 25 (61.53)<br>  
+USTA Poll: 6<br>  
+Coaches Poll: 13<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">UIC</a></h3>  
-<br>ITA: 59 (2.42)  
-<br>Slam: 57 (76.42)  
-<br>TRN: 59 (65.14)  
-<br>Massey: 58 (4.62)  
-<br>UTR: 58 (51.39)  
+ITA: 59 (2.42)<br>  
+Slam: 57 (76.42)<br>  
+TRN: 59 (65.14)<br>  
+Massey: 58 (4.62)<br>  
+UTR: 58 (51.39)<br>  
 
 </td></tr></table>  
 

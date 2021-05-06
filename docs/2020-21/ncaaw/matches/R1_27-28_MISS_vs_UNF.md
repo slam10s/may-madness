@@ -7,22 +7,22 @@ Friday, May 7 at 11:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">North Florida</a></h3>  
-<br>ITA: 48 (8.00)  
-<br>Slam: 46 (84.69)  
-<br>TRN: 46 (75.83)  
-<br>Massey: 47 (6.44)  
-<br>UTR: 44 (58.45)  
+ITA: 48 (8.00)<br>  
+Slam: 46 (84.69)<br>  
+TRN: 46 (75.83)<br>  
+Massey: 47 (6.44)<br>  
+UTR: 44 (58.45)<br>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Ole Miss</a></h3>  
-<br>ITA: 25 (38.66)  
-<br>Slam: 26 (89.34)  
-<br>TRN: 26 (81.50)  
-<br>Massey: 29 (7.37)  
-<br>UTR: 20 (61.75)  
-<br>USTA Poll: NR  
-<br>Coaches Poll: 25  
+ITA: 25 (38.66)<br>  
+Slam: 26 (89.34)<br>  
+TRN: 26 (81.50)<br>  
+Massey: 29 (7.37)<br>  
+UTR: 20 (61.75)<br>  
+USTA Poll: NR<br>  
+Coaches Poll: 25<br>  
 
 </td></tr></table>  
 

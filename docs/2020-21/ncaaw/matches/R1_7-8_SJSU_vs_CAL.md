@@ -7,22 +7,22 @@ Friday, May 7 at 4:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">California</a></h3>  
-<br>ITA: 16 (45.98)  
-<br>Slam: 17 (90.47)  
-<br>TRN: 17 (82.99)  
-<br>Massey: 14 (8.01)  
-<br>UTR: 15 (62.15)  
-<br>USTA Poll: 13  
-<br>Coaches Poll: 17  
+ITA: 16 (45.98)<br>  
+Slam: 17 (90.47)<br>  
+TRN: 17 (82.99)<br>  
+Massey: 14 (8.01)<br>  
+UTR: 15 (62.15)<br>  
+USTA Poll: 13<br>  
+Coaches Poll: 17<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">San Jose St.</a></h3>  
-<br>ITA: 47 (8.04)  
-<br>Slam: 50 (80.34)  
-<br>TRN: 49 (73.09)  
-<br>Massey: 49 (5.94)  
-<br>UTR: 50 (55.37)  
+ITA: 47 (8.04)<br>  
+Slam: 50 (80.34)<br>  
+TRN: 49 (73.09)<br>  
+Massey: 49 (5.94)<br>  
+UTR: 50 (55.37)<br>  
 
 </td></tr></table>  
 

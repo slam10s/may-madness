@@ -7,22 +7,22 @@ Friday, May 7 at 2:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Georgia Tech</a></h3>  
-<br>ITA: 13 (48.32)  
-<br>Slam: 20 (90.34)  
-<br>TRN: 16 (83.31)  
-<br>Massey: 18 (7.83)  
-<br>UTR: 24 (61.54)  
-<br>USTA Poll: 15  
-<br>Coaches Poll: T11  
+ITA: 13 (48.32)<br>  
+Slam: 20 (90.34)<br>  
+TRN: 16 (83.31)<br>  
+Massey: 18 (7.83)<br>  
+UTR: 24 (61.54)<br>  
+USTA Poll: 15<br>  
+Coaches Poll: T11<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Ga. Southern</a></h3>  
-<br>ITA: 53 (4.08)  
-<br>Slam: 53 (78.88)  
-<br>TRN: 54 (68.86)  
-<br>Massey: 55 (5.15)  
-<br>UTR: 53 (54.43)  
+ITA: 53 (4.08)<br>  
+Slam: 53 (78.88)<br>  
+TRN: 54 (68.86)<br>  
+Massey: 55 (5.15)<br>  
+UTR: 53 (54.43)<br>  
 
 </td></tr></table>  
 

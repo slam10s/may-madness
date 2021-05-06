@@ -7,22 +7,22 @@ Friday, May 7 at 5:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Wake Forest</a></h3>  
-<br>ITA: 9 (56.82)  
-<br>Slam: 10 (97.17)  
-<br>TRN: 10 (95.99)  
-<br>Massey: 13 (8.43)  
-<br>UTR: 7 (79.79)  
-<br>USTA Poll: 12  
-<br>Coaches Poll: 10  
+ITA: 9 (56.82)<br>  
+Slam: 10 (97.17)<br>  
+TRN: 10 (95.99)<br>  
+Massey: 13 (8.43)<br>  
+UTR: 7 (79.79)<br>  
+USTA Poll: 12<br>  
+Coaches Poll: 10<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">South Carolina St.</a></h3>  
-<br>ITA: 65 (0.72)  
-<br>Slam: 63 (81.19)  
-<br>TRN: 63 (76.54)  
-<br>Massey: 63 (4.87)  
-<br>UTR: 63 (66.99)  
+ITA: 65 (0.72)<br>  
+Slam: 63 (81.19)<br>  
+TRN: 63 (76.54)<br>  
+Massey: 63 (4.87)<br>  
+UTR: 63 (66.99)<br>  
 
 </td></tr></table>  
 

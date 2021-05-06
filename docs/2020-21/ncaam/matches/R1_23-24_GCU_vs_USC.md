@@ -7,22 +7,22 @@ Friday, May 7 at 4:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Southern California</a></h3>  
-<br>ITA: 12 (52.23)  
-<br>Slam: 14 (96.38)  
-<br>TRN: 16 (94.47)  
-<br>Massey: 8 (8.62)  
-<br>UTR: 2 (80.29)  
-<br>USTA Poll: 13  
-<br>Coaches Poll: 12  
+ITA: 12 (52.23)<br>  
+Slam: 14 (96.38)<br>  
+TRN: 16 (94.47)<br>  
+Massey: 8 (8.62)<br>  
+UTR: 2 (80.29)<br>  
+USTA Poll: 13<br>  
+Coaches Poll: 12<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Grand Canyon</a></h3>  
-<br>ITA: 64 (1.38)  
-<br>Slam: 62 (81.82)  
-<br>TRN: 62 (76.83)  
-<br>Massey: 62 (5.21)  
-<br>UTR: 56 (71.32)  
+ITA: 64 (1.38)<br>  
+Slam: 62 (81.82)<br>  
+TRN: 62 (76.83)<br>  
+Massey: 62 (5.21)<br>  
+UTR: 56 (71.32)<br>  
 
 </td></tr></table>  
 

@@ -7,23 +7,23 @@ Friday, May 7 at 10:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">Arkansas</a></h3>  
-<br>ITA: 32 (26.02)  
-<br>Slam: 38 (87.39)  
-<br>TRN: 32 (79.87)  
-<br>Massey: 41 (6.74)  
-<br>UTR: 38 (59.65)  
-<br>Coaches Poll: 33  
+ITA: 32 (26.02)<br>  
+Slam: 38 (87.39)<br>  
+TRN: 32 (79.87)<br>  
+Massey: 41 (6.74)<br>  
+UTR: 38 (59.65)<br>  
+Coaches Poll: 33<br>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Old Dominion</a></h3>  
-<br>ITA: 30 (28.00)  
-<br>Slam: 28 (89.21)  
-<br>TRN: 25 (81.50)  
-<br>Massey: 29 (7.37)  
-<br>UTR: 37 (59.77)  
-<br>USTA Poll: RV  
-<br>Coaches Poll: 32  
+ITA: 30 (28.00)<br>  
+Slam: 28 (89.21)<br>  
+TRN: 25 (81.50)<br>  
+Massey: 29 (7.37)<br>  
+UTR: 37 (59.77)<br>  
+USTA Poll: RV<br>  
+Coaches Poll: 32<br>  
 
 </td></tr></table>  
 

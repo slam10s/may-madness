@@ -7,22 +7,22 @@ Saturday, May 8 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Virginia</a></h3>  
-<br>ITA: 4 (74.36)  
-<br>Slam: 1 (100.00)  
-<br>TRN: 1 (100.00)  
-<br>Massey: 3 (9.13)  
-<br>UTR: 6 (80.03)  
-<br>USTA Poll: 1  
-<br>Coaches Poll: 5  
+ITA: 4 (74.36)<br>  
+Slam: 1 (100.00)<br>  
+TRN: 1 (100.00)<br>  
+Massey: 3 (9.13)<br>  
+UTR: 6 (80.03)<br>  
+USTA Poll: 1<br>  
+Coaches Poll: 5<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Fairleigh Dickinson</a></h3>  
-<br>ITA: 62 (1.95)  
-<br>Slam: 65 (72.33)  
-<br>TRN: 65 (65.17)  
-<br>Massey: 64 (3.98)  
-<br>UTR: 64 (65.74)  
+ITA: 62 (1.95)<br>  
+Slam: 65 (72.33)<br>  
+TRN: 65 (65.17)<br>  
+Massey: 64 (3.98)<br>  
+UTR: 64 (65.74)<br>  
 
 </td></tr></table>  
 

@@ -7,23 +7,23 @@ Saturday, May 8 at 10:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">Memphis</a></h3>  
-<br>ITA: 38 (22.19)  
-<br>Slam: 41 (91.89)  
-<br>TRN: 40 (89.86)  
-<br>Massey: 43 (7.05)  
-<br>UTR: 43 (75.40)  
-<br>Coaches Poll: 35  
+ITA: 38 (22.19)<br>  
+Slam: 41 (91.89)<br>  
+TRN: 40 (89.86)<br>  
+Massey: 43 (7.05)<br>  
+UTR: 43 (75.40)<br>  
+Coaches Poll: 35<br>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Georgia Tech</a></h3>  
-<br>ITA: 30 (27.75)  
-<br>Slam: 27 (93.36)  
-<br>TRN: 33 (90.89)  
-<br>Massey: 25 (7.67)  
-<br>UTR: 36 (76.54)  
-<br>USTA Poll: RV  
-<br>Coaches Poll: 31  
+ITA: 30 (27.75)<br>  
+Slam: 27 (93.36)<br>  
+TRN: 33 (90.89)<br>  
+Massey: 25 (7.67)<br>  
+UTR: 36 (76.54)<br>  
+USTA Poll: RV<br>  
+Coaches Poll: 31<br>  
 
 </td></tr></table>  
 

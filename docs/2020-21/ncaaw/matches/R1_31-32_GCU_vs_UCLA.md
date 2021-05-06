@@ -7,22 +7,22 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">UCLA</a></h3>  
-<br>ITA: 4 (61.84)  
-<br>Slam: 4 (92.98)  
-<br>TRN: 7 (85.42)  
-<br>Massey: 4 (8.85)  
-<br>UTR: 5 (64.40)  
-<br>USTA Poll: 4  
-<br>Coaches Poll: 5  
+ITA: 4 (61.84)<br>  
+Slam: 4 (92.98)<br>  
+TRN: 7 (85.42)<br>  
+Massey: 4 (8.85)<br>  
+UTR: 5 (64.40)<br>  
+USTA Poll: 4<br>  
+Coaches Poll: 5<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Grand Canyon</a></h3>  
-<br>ITA: 62 (1.99)  
-<br>Slam: 59 (75.93)  
-<br>TRN: 60 (64.13)  
-<br>Massey: 57 (4.78)  
-<br>UTR: 57 (51.77)  
+ITA: 62 (1.99)<br>  
+Slam: 59 (75.93)<br>  
+TRN: 60 (64.13)<br>  
+Massey: 57 (4.78)<br>  
+UTR: 57 (51.77)<br>  
 
 </td></tr></table>  
 

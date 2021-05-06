@@ -7,22 +7,22 @@ Friday, May 7 at 10:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">FGCU</a></h3>  
-<br>ITA: 47 (8.38)  
-<br>Slam: 49 (87.66)  
-<br>TRN: 50 (85.24)  
-<br>Massey: 53 (6.42)  
-<br>UTR: 52 (73.58)  
+ITA: 47 (8.38)<br>  
+Slam: 49 (87.66)<br>  
+TRN: 50 (85.24)<br>  
+Massey: 53 (6.42)<br>  
+UTR: 52 (73.58)<br>  
 
 </td><td>  
 
 <h3>#2 <a href="../">NC State</a></h3>  
-<br>ITA: 23 (32.39)  
-<br>Slam: 19 (94.44)  
-<br>TRN: 22 (92.30)  
-<br>Massey: 23 (7.70)  
-<br>UTR: 22 (78.11)  
-<br>USTA Poll: 25  
-<br>Coaches Poll: 28  
+ITA: 23 (32.39)<br>  
+Slam: 19 (94.44)<br>  
+TRN: 22 (92.30)<br>  
+Massey: 23 (7.70)<br>  
+UTR: 22 (78.11)<br>  
+USTA Poll: 25<br>  
+Coaches Poll: 28<br>  
 
 </td></tr></table>  
 

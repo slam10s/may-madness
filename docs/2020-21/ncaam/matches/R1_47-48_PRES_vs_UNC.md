@@ -7,22 +7,22 @@ Saturday, May 8 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">North Carolina</a></h3>  
-<br>ITA: 6 (72.02)  
-<br>Slam: 3 (99.37)  
-<br>TRN: 2 (99.37)  
-<br>Massey: 4 (8.94)  
-<br>UTR: 11 (79.64)  
-<br>USTA Poll: 5  
-<br>Coaches Poll: 6  
+ITA: 6 (72.02)<br>  
+Slam: 3 (99.37)<br>  
+TRN: 2 (99.37)<br>  
+Massey: 4 (8.94)<br>  
+UTR: 11 (79.64)<br>  
+USTA Poll: 5<br>  
+Coaches Poll: 6<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Presbyterian</a></h3>  
-<br>ITA: 59 (3.97)  
-<br>Slam: 59 (82.26)  
-<br>TRN: 59 (77.90)  
-<br>Massey: 61 (5.23)  
-<br>UTR: 61 (70.28)  
+ITA: 59 (3.97)<br>  
+Slam: 59 (82.26)<br>  
+TRN: 59 (77.90)<br>  
+Massey: 61 (5.23)<br>  
+UTR: 61 (70.28)<br>  
 
 </td></tr></table>  
 

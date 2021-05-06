@@ -7,22 +7,22 @@ Saturday, May 8 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Texas</a></h3>  
-<br>ITA: 5 (74.24)  
-<br>Slam: 8 (97.59)  
-<br>TRN: 7 (97.63)  
-<br>Massey: 11 (8.54)  
-<br>UTR: 14 (79.01)  
-<br>USTA Poll: 6  
-<br>Coaches Poll: 4  
+ITA: 5 (74.24)<br>  
+Slam: 8 (97.59)<br>  
+TRN: 7 (97.63)<br>  
+Massey: 11 (8.54)<br>  
+UTR: 14 (79.01)<br>  
+USTA Poll: 6<br>  
+Coaches Poll: 4<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Northern Ariz.</a></h3>  
-<br>ITA: 61 (2.13)  
-<br>Slam: 58 (82.40)  
-<br>TRN: 60 (77.79)  
-<br>Massey: 59 (5.53)  
-<br>UTR: 59 (70.85)  
+ITA: 61 (2.13)<br>  
+Slam: 58 (82.40)<br>  
+TRN: 60 (77.79)<br>  
+Massey: 59 (5.53)<br>  
+UTR: 59 (70.85)<br>  
 
 </td></tr></table>  
 

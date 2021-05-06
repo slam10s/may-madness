@@ -7,22 +7,22 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">South Carolina</a></h3>  
-<br>ITA: 13 (50.95)  
-<br>Slam: 15 (96.20)  
-<br>TRN: 15 (94.49)  
-<br>Massey: 16 (8.13)  
-<br>UTR: 17 (78.69)  
-<br>USTA Poll: 15  
-<br>Coaches Poll: 13  
+ITA: 13 (50.95)<br>  
+Slam: 15 (96.20)<br>  
+TRN: 15 (94.49)<br>  
+Massey: 16 (8.13)<br>  
+UTR: 17 (78.69)<br>  
+USTA Poll: 15<br>  
+Coaches Poll: 13<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">UNCW</a></h3>  
-<br>ITA: 51 (7.93)  
-<br>Slam: 48 (88.87)  
-<br>TRN: 49 (86.19)  
-<br>Massey: 49 (6.70)  
-<br>UTR: 48 (74.00)  
+ITA: 51 (7.93)<br>  
+Slam: 48 (88.87)<br>  
+TRN: 49 (86.19)<br>  
+Massey: 49 (6.70)<br>  
+UTR: 48 (74.00)<br>  
 
 </td></tr></table>  
 

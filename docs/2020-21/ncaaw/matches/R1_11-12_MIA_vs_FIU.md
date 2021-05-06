@@ -7,24 +7,24 @@ Friday, May 7 at 12:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">FIU</a></h3>  
-<br>ITA: 41 (18.12)  
-<br>Slam: 30 (88.35)  
-<br>TRN: 29 (81.34)  
-<br>Massey: 37 (6.98)  
-<br>UTR: 42 (59.00)  
-<br>USTA Poll: RV  
-<br>Coaches Poll: 50  
+ITA: 41 (18.12)<br>  
+Slam: 30 (88.35)<br>  
+TRN: 29 (81.34)<br>  
+Massey: 37 (6.98)<br>  
+UTR: 42 (59.00)<br>  
+USTA Poll: RV<br>  
+Coaches Poll: 50<br>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Miami (FL)</a></h3>  
-<br>ITA: 24 (38.72)  
-<br>Slam: 22 (90.21)  
-<br>TRN: 21 (82.31)  
-<br>Massey: 17 (7.84)  
-<br>UTR: 19 (61.89)  
-<br>USTA Poll: 21  
-<br>Coaches Poll: 21  
+ITA: 24 (38.72)<br>  
+Slam: 22 (90.21)<br>  
+TRN: 21 (82.31)<br>  
+Massey: 17 (7.84)<br>  
+UTR: 19 (61.89)<br>  
+USTA Poll: 21<br>  
+Coaches Poll: 21<br>  
 
 </td></tr></table>  
 

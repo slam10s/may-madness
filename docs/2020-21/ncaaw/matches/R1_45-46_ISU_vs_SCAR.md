@@ -7,23 +7,23 @@ Friday, May 7 at 12:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">South Carolina</a></h3>  
-<br>ITA: 22 (39.21)  
-<br>Slam: 27 (89.34)  
-<br>TRN: 28 (81.46)  
-<br>Massey: 27 (7.41)  
-<br>UTR: 29 (61.31)  
-<br>USTA Poll: RV  
-<br>Coaches Poll: 23  
+ITA: 22 (39.21)<br>  
+Slam: 27 (89.34)<br>  
+TRN: 28 (81.46)<br>  
+Massey: 27 (7.41)<br>  
+UTR: 29 (61.31)<br>  
+USTA Poll: RV<br>  
+Coaches Poll: 23<br>  
 
 </td><td>  
 
 <h3>#3 <a href="../">Iowa St.</a></h3>  
-<br>ITA: 36 (22.35)  
-<br>Slam: 41 (86.71)  
-<br>TRN: 42 (78.56)  
-<br>Massey: 39 (6.76)  
-<br>UTR: 39 (59.07)  
-<br>Coaches Poll: 36  
+ITA: 36 (22.35)<br>  
+Slam: 41 (86.71)<br>  
+TRN: 42 (78.56)<br>  
+Massey: 39 (6.76)<br>  
+UTR: 39 (59.07)<br>  
+Coaches Poll: 36<br>  
 
 </td></tr></table>  
 

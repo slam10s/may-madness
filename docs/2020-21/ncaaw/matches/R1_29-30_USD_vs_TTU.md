@@ -7,22 +7,22 @@ Friday, May 7 at 4:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Texas Tech</a></h3>  
-<br>ITA: 29 (28.07)  
-<br>Slam: 34 (87.92)  
-<br>TRN: 34 (79.75)  
-<br>Massey: 28 (7.39)  
-<br>UTR: 27 (61.44)  
-<br>Coaches Poll: 29  
+ITA: 29 (28.07)<br>  
+Slam: 34 (87.92)<br>  
+TRN: 34 (79.75)<br>  
+Massey: 28 (7.39)<br>  
+UTR: 27 (61.44)<br>  
+Coaches Poll: 29<br>  
 
 </td><td>  
 
 <h3>#3 <a href="../">San Diego</a></h3>  
-<br>ITA: 39 (19.12)  
-<br>Slam: 36 (87.64)  
-<br>TRN: 38 (78.95)  
-<br>Massey: 32 (7.31)  
-<br>UTR: 32 (60.57)  
-<br>Coaches Poll: 47  
+ITA: 39 (19.12)<br>  
+Slam: 36 (87.64)<br>  
+TRN: 38 (78.95)<br>  
+Massey: 32 (7.31)<br>  
+UTR: 32 (60.57)<br>  
+Coaches Poll: 47<br>  
 
 </td></tr></table>  
 

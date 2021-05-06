@@ -7,22 +7,22 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Georgia</a></h3>  
-<br>ITA: 3 (74.01)  
-<br>Slam: 3 (97.81)  
-<br>TRN: 3 (94.01)  
-<br>Massey: 3 (9.29)  
-<br>UTR: 3 (64.69)  
-<br>USTA Poll: 3  
-<br>Coaches Poll: 3  
+ITA: 3 (74.01)<br>  
+Slam: 3 (97.81)<br>  
+TRN: 3 (94.01)<br>  
+Massey: 3 (9.29)<br>  
+UTR: 3 (64.69)<br>  
+USTA Poll: 3<br>  
+Coaches Poll: 3<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Austin Peay</a></h3>  
-<br>ITA: 57 (3.35)  
-<br>Slam: 56 (77.22)  
-<br>TRN: 56 (67.26)  
-<br>Massey: 56 (4.88)  
-<br>UTR: 55 (52.40)  
+ITA: 57 (3.35)<br>  
+Slam: 56 (77.22)<br>  
+TRN: 56 (67.26)<br>  
+Massey: 56 (4.88)<br>  
+UTR: 55 (52.40)<br>  
 
 </td></tr></table>  
 

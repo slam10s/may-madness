@@ -7,22 +7,22 @@ Saturday, May 8 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Florida</a></h3>  
-<br>ITA: 2 (81.08)  
-<br>Slam: 2 (99.77)  
-<br>TRN: 3 (99.10)  
-<br>Massey: 1 (9.40)  
-<br>UTR: 1 (80.76)  
-<br>USTA Poll: 2  
-<br>Coaches Poll: 2  
+ITA: 2 (81.08)<br>  
+Slam: 2 (99.77)<br>  
+TRN: 3 (99.10)<br>  
+Massey: 1 (9.40)<br>  
+UTR: 1 (80.76)<br>  
+USTA Poll: 2<br>  
+Coaches Poll: 2<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">South Alabama</a></h3>  
-<br>ITA: 53 (6.83)  
-<br>Slam: 50 (87.64)  
-<br>TRN: 52 (84.26)  
-<br>Massey: 46 (6.79)  
-<br>UTR: 49 (73.92)  
+ITA: 53 (6.83)<br>  
+Slam: 50 (87.64)<br>  
+TRN: 52 (84.26)<br>  
+Massey: 46 (6.79)<br>  
+UTR: 49 (73.92)<br>  
 
 </td></tr></table>  
 

@@ -7,22 +7,22 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Kentucky</a></h3>  
-<br>ITA: 15 (44.70)  
-<br>Slam: 17 (95.87)  
-<br>TRN: 17 (93.83)  
-<br>Massey: 17 (8.12)  
-<br>UTR: 16 (78.88)  
-<br>USTA Poll: 17  
-<br>Coaches Poll: 15  
+ITA: 15 (44.70)<br>  
+Slam: 17 (95.87)<br>  
+TRN: 17 (93.83)<br>  
+Massey: 17 (8.12)<br>  
+UTR: 16 (78.88)<br>  
+USTA Poll: 17<br>  
+Coaches Poll: 15<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Cleveland St.</a></h3>  
-<br>ITA: 57 (4.43)  
-<br>Slam: 56 (84.36)  
-<br>TRN: 56 (81.28)  
-<br>Massey: 55 (5.83)  
-<br>UTR: 54 (71.52)  
+ITA: 57 (4.43)<br>  
+Slam: 56 (84.36)<br>  
+TRN: 56 (81.28)<br>  
+Massey: 55 (5.83)<br>  
+UTR: 54 (71.52)<br>  
 
 </td></tr></table>  
 

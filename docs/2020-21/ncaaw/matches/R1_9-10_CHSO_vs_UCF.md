@@ -7,22 +7,22 @@ Friday, May 7 at 3:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">UCF</a></h3>  
-<br>ITA: 9 (52.14)  
-<br>Slam: 12 (91.41)  
-<br>TRN: 12 (83.85)  
-<br>Massey: 10 (8.12)  
-<br>UTR: 16 (62.03)  
-<br>USTA Poll: 9  
-<br>Coaches Poll: 9  
+ITA: 9 (52.14)<br>  
+Slam: 12 (91.41)<br>  
+TRN: 12 (83.85)<br>  
+Massey: 10 (8.12)<br>  
+UTR: 16 (62.03)<br>  
+USTA Poll: 9<br>  
+Coaches Poll: 9<br>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Charleston So.</a></h3>  
-<br>ITA: 58 (2.77)  
-<br>Slam: 60 (75.63)  
-<br>TRN: 57 (65.77)  
-<br>Massey: 60 (4.33)  
-<br>UTR: 56 (51.92)  
+ITA: 58 (2.77)<br>  
+Slam: 60 (75.63)<br>  
+TRN: 57 (65.77)<br>  
+Massey: 60 (4.33)<br>  
+UTR: 56 (51.92)<br>  
 
 </td></tr></table>  
 
