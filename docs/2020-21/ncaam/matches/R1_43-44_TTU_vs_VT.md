@@ -5,7 +5,7 @@ Saturday, May 8 at 10:00 EDT
 
 <table><tr><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a>
 
-<h3>#3 [Virginia Tech](../index.md)</h3>
+<h3>#3 <a href="../index.md">Virginia Tech</a></h3>
 
 At-Large Bid
 
@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a>
 
-<h3>#2 [Texas Tech](../index.md)</h3>
+<h3>#2 <a href="../index.md">Texas Tech</a></h3>
 
 At-Large Bid
 
