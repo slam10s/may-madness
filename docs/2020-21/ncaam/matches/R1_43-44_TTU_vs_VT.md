@@ -45,6 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - USTA Poll: <b><i>TTU</i></b>- RV Texas Tech def. Virginia Tech
 - Coaches Poll: <b><i>TTU</i></b>- #27 Texas Tech def. #34 Virginia Tech
 - Seeding: <b><i>TTU</i></b>- #2 Texas Tech def. #3 Virginia Tech
+- Lineup: <b><i>TTU</i></b>- Texas Tech (75%) def. Virginia Tech (25%)
 
 ## Individual Matchups
 
