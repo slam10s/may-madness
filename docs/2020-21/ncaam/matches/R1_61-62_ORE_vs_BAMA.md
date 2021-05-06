@@ -3,10 +3,10 @@ Saturday, May 8 at 12:00 EDT
 ## [Oregon vs Alabama](https://www.ncaa.com/game/5833400) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../index.md">Alabama</a></h3>  
+<h3>#2 <a href="../">Alabama</a></h3>  
 
 <ol>  
 <li>ITA: 26 (30.96)</li>  
@@ -19,7 +19,7 @@ Saturday, May 8 at 12:00 EDT
 
 </td><td>  
 
-<h3>#3 <a href="../index.md">Oregon</a></h3>  
+<h3>#3 <a href="../">Oregon</a></h3>  
 
 <ol>  
 <li>ITA: 36 (23.55)</li>  

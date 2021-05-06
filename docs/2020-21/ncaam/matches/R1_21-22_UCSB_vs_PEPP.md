@@ -3,10 +3,10 @@ Friday, May 7 at 1:00 EDT
 ## [UC Santa Barbara vs Pepperdine](https://www.ncaa.com/game/5833380) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../index.md">Pepperdine</a></h3>  
+<h3>#2 <a href="../">Pepperdine</a></h3>  
 
 <ol>  
 <li>ITA: 28 (29.09)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 1:00 EDT
 
 </td><td>  
 
-<h3>#3 <a href="../index.md">UC Santa Barbara</a></h3>  
+<h3>#3 <a href="../">UC Santa Barbara</a></h3>  
 
 <ol>  
 <li>ITA: 54 (6.34)</li>  

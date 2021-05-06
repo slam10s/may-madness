@@ -3,10 +3,10 @@ Friday, May 7 at 5:00 EDT
 ## [DePaul vs #16 Illinois](https://www.ncaa.com/game/5833373) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">Illinois</a></h3>  
+<h3>#1 <a href="../">Illinois</a></h3>  
 
 <ol>  
 <li>ITA: 18 (36.82)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 5:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">DePaul</a></h3>  
+<h3>#4 <a href="../">DePaul</a></h3>  
 
 <ol>  
 <li>ITA: 55 (5.64)</li>  

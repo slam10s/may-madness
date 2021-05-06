@@ -3,10 +3,10 @@ Saturday, May 8 at 2:00 EDT
 ## [Monmouth vs #9 UCF](https://www.ncaa.com/game/5833374) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">UCF</a></h3>  
+<h3>#1 <a href="../">UCF</a></h3>  
 
 <ol>  
 <li>ITA: 10 (54.95)</li>  
@@ -20,7 +20,7 @@ Saturday, May 8 at 2:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">Monmouth</a></h3>  
+<h3>#4 <a href="../">Monmouth</a></h3>  
 
 <ol>  
 <li>ITA: 58 (4.41)</li>  

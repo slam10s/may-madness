@@ -3,10 +3,10 @@ Friday, May 7 at 2:00 EDT
 ## [VCU vs Ohio St.](https://www.ncaa.com/game/5833396) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../index.md">Ohio St.</a></h3>  
+<h3>#2 <a href="../">Ohio St.</a></h3>  
 
 <ol>  
 <li>ITA: 31 (26.40)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 2:00 EDT
 
 </td><td>  
 
-<h3>#3 <a href="../index.md">VCU</a></h3>  
+<h3>#3 <a href="../">VCU</a></h3>  
 
 <ol>  
 <li>ITA: 37 (23.44)</li>  

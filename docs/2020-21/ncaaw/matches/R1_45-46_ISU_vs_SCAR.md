@@ -3,10 +3,10 @@ Friday, May 7 at 12:00 EDT
 ## [Iowa St. vs South Carolina](https://www.ncaa.com/game/5833669) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../index.md">South Carolina</a></h3>  
+<h3>#2 <a href="../">South Carolina</a></h3>  
 
 <ol>  
 <li>ITA: 22 (39.21)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 12:00 EDT
 
 </td><td>  
 
-<h3>#3 <a href="../index.md">Iowa St.</a></h3>  
+<h3>#3 <a href="../">Iowa St.</a></h3>  
 
 <ol>  
 <li>ITA: 36 (22.35)</li>  

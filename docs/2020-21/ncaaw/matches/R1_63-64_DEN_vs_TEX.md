@@ -3,10 +3,10 @@ Friday, May 7 at 4:00 EDT
 ## [Denver vs #2 Texas](https://www.ncaa.com/game/5833678) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">Texas</a></h3>  
+<h3>#1 <a href="../">Texas</a></h3>  
 
 <ol>  
 <li>ITA: 2 (79.19)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 4:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">Denver</a></h3>  
+<h3>#4 <a href="../">Denver</a></h3>  
 
 <ol>  
 <li>ITA: 45 (11.66)</li>  

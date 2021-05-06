@@ -3,10 +3,10 @@ Saturday, May 8 at 12:00 EDT
 ## [Arizona St. vs Wichita St.](https://www.ncaa.com/game/5833395) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wichita-st.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wichita-st.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#3 <a href="../index.md">Wichita St.</a></h3>  
+<h3>#3 <a href="../">Wichita St.</a></h3>  
 
 <ol>  
 <li>ITA: 33 (25.34)</li>  
@@ -19,7 +19,7 @@ Saturday, May 8 at 12:00 EDT
 
 </td><td>  
 
-<h3>#2 <a href="../index.md">Arizona St.</a></h3>  
+<h3>#2 <a href="../">Arizona St.</a></h3>  
 
 <ol>  
 <li>ITA: 20 (34.84)</li>  

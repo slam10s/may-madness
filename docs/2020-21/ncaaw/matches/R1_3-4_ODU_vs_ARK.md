@@ -3,10 +3,10 @@ Friday, May 7 at 10:00 EDT
 ## [Old Dominion vs Arkansas](https://www.ncaa.com/game/5833648) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#3 <a href="../index.md">Arkansas</a></h3>  
+<h3>#3 <a href="../">Arkansas</a></h3>  
 
 <ol>  
 <li>ITA: 32 (26.02)</li>  
@@ -19,7 +19,7 @@ Friday, May 7 at 10:00 EDT
 
 </td><td>  
 
-<h3>#2 <a href="../index.md">Old Dominion</a></h3>  
+<h3>#2 <a href="../">Old Dominion</a></h3>  
 
 <ol>  
 <li>ITA: 30 (28.00)</li>  

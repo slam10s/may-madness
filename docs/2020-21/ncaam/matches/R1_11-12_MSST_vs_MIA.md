@@ -3,10 +3,10 @@ Saturday, May 8 at 11:00 EDT
 ## [Mississippi St. vs Miami (FL)](https://www.ncaa.com/game/5833375) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#3 <a href="../index.md">Miami (FL)</a></h3>  
+<h3>#3 <a href="../">Miami (FL)</a></h3>  
 
 <ol>  
 <li>ITA: 39 (19.34)</li>  
@@ -19,7 +19,7 @@ Saturday, May 8 at 11:00 EDT
 
 </td><td>  
 
-<h3>#2 <a href="../index.md">Mississippi St.</a></h3>  
+<h3>#2 <a href="../">Mississippi St.</a></h3>  
 
 <ol>  
 <li>ITA: 16 (41.29)</li>  

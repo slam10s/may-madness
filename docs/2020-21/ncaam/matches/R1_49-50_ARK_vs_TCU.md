@@ -3,10 +3,10 @@ Saturday, May 8 at 3:00 EDT
 ## [Arkansas vs #7 TCU](https://www.ncaa.com/game/5833394) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">TCU</a></h3>  
+<h3>#1 <a href="../">TCU</a></h3>  
 
 <ol>  
 <li>ITA: 7 (69.22)</li>  
@@ -20,7 +20,7 @@ Saturday, May 8 at 3:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">Arkansas</a></h3>  
+<h3>#4 <a href="../">Arkansas</a></h3>  
 
 <ol>  
 <li>ITA: 43 (18.30)</li>  

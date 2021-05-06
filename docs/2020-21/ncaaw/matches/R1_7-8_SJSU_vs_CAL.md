@@ -3,10 +3,10 @@ Friday, May 7 at 4:00 EDT
 ## [San Jose St. vs #16 California](https://www.ncaa.com/game/5833650) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">California</a></h3>  
+<h3>#1 <a href="../">California</a></h3>  
 
 <ol>  
 <li>ITA: 16 (45.98)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 4:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">San Jose St.</a></h3>  
+<h3>#4 <a href="../">San Jose St.</a></h3>  
 
 <ol>  
 <li>ITA: 47 (8.04)</li>  

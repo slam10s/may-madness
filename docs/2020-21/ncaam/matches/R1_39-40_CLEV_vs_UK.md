@@ -3,10 +3,10 @@ Friday, May 7 at 1:00 EDT
 ## [Cleveland St. vs #14 Kentucky](https://www.ncaa.com/game/5833389) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">Kentucky</a></h3>  
+<h3>#1 <a href="../">Kentucky</a></h3>  
 
 <ol>  
 <li>ITA: 15 (44.70)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 1:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">Cleveland St.</a></h3>  
+<h3>#4 <a href="../">Cleveland St.</a></h3>  
 
 <ol>  
 <li>ITA: 57 (4.43)</li>  

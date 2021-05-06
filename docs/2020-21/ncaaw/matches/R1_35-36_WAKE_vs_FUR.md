@@ -3,10 +3,10 @@ Friday, May 7 at 10:00 EDT
 ## [Wake Forest vs Furman](https://www.ncaa.com/game/5833664) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#3 <a href="../index.md">Furman</a></h3>  
+<h3>#3 <a href="../">Furman</a></h3>  
 
 <ol>  
 <li>ITA: 34 (25.42)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 10:00 EDT
 
 </td><td>  
 
-<h3>#2 <a href="../index.md">Wake Forest</a></h3>  
+<h3>#2 <a href="../">Wake Forest</a></h3>  
 
 <ol>  
 <li>ITA: 33 (25.77)</li>  

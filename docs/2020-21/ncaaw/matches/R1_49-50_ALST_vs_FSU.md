@@ -3,10 +3,10 @@ Friday, May 7 at 4:00 EDT
 ## [Alabama St. vs #7 Florida St.](https://www.ncaa.com/game/5833671) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">Florida St.</a></h3>  
+<h3>#1 <a href="../">Florida St.</a></h3>  
 
 <ol>  
 <li>ITA: 7 (55.15)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 4:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">Alabama St.</a></h3>  
+<h3>#4 <a href="../">Alabama St.</a></h3>  
 
 <ol>  
 <li>ITA: 61 (2.29)</li>  

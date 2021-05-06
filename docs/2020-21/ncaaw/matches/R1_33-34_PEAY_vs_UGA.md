@@ -3,10 +3,10 @@ Friday, May 7 at 1:00 EDT
 ## [Austin Peay vs #3 Georgia](https://www.ncaa.com/game/5833663) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">Georgia</a></h3>  
+<h3>#1 <a href="../">Georgia</a></h3>  
 
 <ol>  
 <li>ITA: 3 (74.01)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 1:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">Austin Peay</a></h3>  
+<h3>#4 <a href="../">Austin Peay</a></h3>  
 
 <ol>  
 <li>ITA: 57 (3.35)</li>  

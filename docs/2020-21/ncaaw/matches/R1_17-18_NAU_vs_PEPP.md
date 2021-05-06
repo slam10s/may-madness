@@ -3,10 +3,10 @@ Friday, May 7 at 5:00 EDT
 ## [Northern Ariz. vs #5 Pepperdine](https://www.ncaa.com/game/5833655) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">Pepperdine</a></h3>  
+<h3>#1 <a href="../">Pepperdine</a></h3>  
 
 <ol>  
 <li>ITA: 5 (60.71)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 5:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">Northern Ariz.</a></h3>  
+<h3>#4 <a href="../">Northern Ariz.</a></h3>  
 
 <ol>  
 <li>ITA: 54 (3.85)</li>  

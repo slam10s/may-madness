@@ -3,10 +3,10 @@ Friday, May 7 at 1:00 EDT
 ## [Syracuse vs Kentucky](https://www.ncaa.com/game/5833649) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../index.md">Kentucky</a></h3>  
+<h3>#2 <a href="../">Kentucky</a></h3>  
 
 <ol>  
 <li>ITA: 26 (37.41)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 1:00 EDT
 
 </td><td>  
 
-<h3>#3 <a href="../index.md">Syracuse</a></h3>  
+<h3>#3 <a href="../">Syracuse</a></h3>  
 
 <ol>  
 <li>ITA: 43 (15.84)</li>  

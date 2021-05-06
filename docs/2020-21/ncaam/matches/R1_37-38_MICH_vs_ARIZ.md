@@ -3,10 +3,10 @@ Friday, May 7 at 10:00 EDT
 ## [Michigan vs Arizona](https://www.ncaa.com/game/5833388) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../index.md">Arizona</a></h3>  
+<h3>#2 <a href="../">Arizona</a></h3>  
 
 <ol>  
 <li>ITA: 17 (38.97)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 10:00 EDT
 
 </td><td>  
 
-<h3>#3 <a href="../index.md">Michigan</a></h3>  
+<h3>#3 <a href="../">Michigan</a></h3>  
 
 <ol>  
 <li>ITA: 46 (15.17)</li>  

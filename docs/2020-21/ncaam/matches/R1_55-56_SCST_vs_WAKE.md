@@ -3,10 +3,10 @@ Friday, May 7 at 5:00 EDT
 ## [South Carolina St. vs #10 Wake Forest](https://www.ncaa.com/game/5833397) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">Wake Forest</a></h3>  
+<h3>#1 <a href="../">Wake Forest</a></h3>  
 
 <ol>  
 <li>ITA: 9 (56.82)</li>  
@@ -20,7 +20,7 @@ Friday, May 7 at 5:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">South Carolina St.</a></h3>  
+<h3>#4 <a href="../">South Carolina St.</a></h3>  
 
 <ol>  
 <li>ITA: 65 (0.72)</li>  

@@ -3,10 +3,10 @@ Saturday, May 8 at 3:00 EDT
 ## [A&M-Corpus Christi vs #2 Baylor](https://www.ncaa.com/game/5833401) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../index.md">Baylor</a></h3>  
+<h3>#1 <a href="../">Baylor</a></h3>  
 
 <ol>  
 <li>ITA: 1 (83.33)</li>  
@@ -20,7 +20,7 @@ Saturday, May 8 at 3:00 EDT
 
 </td><td>  
 
-<h3>#4 <a href="../index.md">A&M-Corpus Christi</a></h3>  
+<h3>#4 <a href="../">A&M-Corpus Christi</a></h3>  
 
 <ol>  
 <li>ITA: 60 (2.97)</li>  

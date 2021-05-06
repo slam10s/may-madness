@@ -3,10 +3,10 @@ Friday, May 7 at 11:00 EDT
 ## [Vanderbilt vs Ball St.](https://www.ncaa.com/game/5833676) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#3 <a href="../index.md">Ball St.</a></h3>  
+<h3>#3 <a href="../">Ball St.</a></h3>  
 
 <ol>  
 <li>ITA: 51 (4.35)</li>  
@@ -18,7 +18,7 @@ Friday, May 7 at 11:00 EDT
 
 </td><td>  
 
-<h3>#2 <a href="../index.md">Vanderbilt</a></h3>  
+<h3>#2 <a href="../">Vanderbilt</a></h3>  
 
 <ol>  
 <li>ITA: 27 (35.19)</li>  

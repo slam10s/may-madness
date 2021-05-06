@@ -3,10 +3,10 @@ Saturday, May 8 at 10:00 EDT
 ## [South Fla. vs Duke](https://www.ncaa.com/game/5833371) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#3 <a href="../index.md">Duke</a></h3>  
+<h3>#3 <a href="../">Duke</a></h3>  
 
 <ol>  
 <li>ITA: 35 (25.15)</li>  
@@ -19,7 +19,7 @@ Saturday, May 8 at 10:00 EDT
 
 </td><td>  
 
-<h3>#2 <a href="../index.md">South Fla.</a></h3>  
+<h3>#2 <a href="../">South Fla.</a></h3>  
 
 <ol>  
 <li>ITA: 32 (26.14)</li>  
