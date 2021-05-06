@@ -1,13 +1,13 @@
 First Round  
 Saturday, May 8 at 10:00 EDT
 
-## [Texas Tech vs Virginia Tech](https://www.ncaa.com/game/5833391)
+# [Texas Tech vs Virginia Tech](https://www.ncaa.com/game/5833391)
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>
 
-<h3>#3 <a href="../">Virginia Tech</a></h3>  
+<h2>#3 <a href="../">Virginia Tech</a></h2>  
 ITA: 29 (28.32)<br>  
 Slam: 30 (93.02)<br>  
 TRN: 29 (91.09)<br>  
@@ -18,7 +18,7 @@ Coaches Poll: 34<br>
 
 </td><td>
 
-<h3>#2 <a href="../">Texas Tech</a></h3>  
+<h2>#2 <a href="../">Texas Tech</a></h2>  
 ITA: 25 (31.34)<br>  
 Slam: 35 (92.60)<br>  
 TRN: 31 (90.98)<br>  
@@ -32,7 +32,7 @@ Coaches Poll: 27<br>
 
 Return to [List of Matches](../index.md)
 
-### Predictions
+## Predictions
 
 Ranks listed here are the metric's ranking within the field of 64:
 
@@ -45,11 +45,11 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: **_TTU_** - #27 Texas Tech def. #34 Virginia Tech
 - Seeding: **_TTU_** - #2 Texas Tech def. #3 Virginia Tech
 
-### Individual Matchups
+## Individual Matchups
 
 This assumes the top players and doubles teams listed are starting.
 
-#### Singles:
+### Singles:
 
 <ol>
 <li>
@@ -98,7 +98,7 @@ Isaac Arevalo (TTU) - 5-4 at #6, 8-5 in duals, 14-7 overall
 </li>
 </ol>
 
-#### Doubles:
+### Doubles:
 
 1. Chrysostom/Fishback (VT) - 6-4 at #1, 8-4 in duals, 8-4 overall  
    Wynn/Ribero (TTU) - 7-7 at #1, 7-7 in duals, 7-7 overall
