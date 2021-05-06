@@ -3,7 +3,7 @@ Friday, May 7 at 1:00 EDT
 ## [Siena vs #11 Florida](https://www.ncaa.com/game/5833667) 
 
 <table>  
-<tr style="background-color: red !important;"><td><a href="../index.md"><img src="<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a>" width="70" height="70" /></a></td><td><a href="../index.md"><img src="<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png" width="70" height="70" /></a>" width="70" height="70" /></a></td></tr>
+<tr><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a></a></td><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png" width="70" height="70" /></a></a></td></tr>
 <tr><td>  
 
 <h3>#1 <a href="../index.md">Florida</a></h3>  

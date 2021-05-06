@@ -3,7 +3,7 @@ Saturday, May 8 at 1:00 EDT
 ## [Presbyterian vs #6 North Carolina](https://www.ncaa.com/game/5833393) 
 
 <table>  
-<tr style="background-color: red !important;"><td><a href="../index.md"><img src="<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></a>" width="70" height="70" /></a></td><td><a href="../index.md"><img src="<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></a>" width="70" height="70" /></a></td></tr>
+<tr><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></a></a></td><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></a></a></td></tr>
 <tr><td>  
 
 <h3>#1 <a href="../index.md">North Carolina</a></h3>  
