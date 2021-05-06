@@ -56,20 +56,21 @@ This assumes the top players and doubles teams listed are starting.
 <details>
 <summary markdown="span">
 Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall
-<br>&nbsp;&nbsp;
+<br>
 Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall
 </summary>
 
-#### Predictions
-
-- Slam: **_VT_** - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)
-- TRN: **_VT_** - #29 Virginia Tech (51%) def. #31 Texas Tech (49%)
-- Massey: **_TTU_** - #28 Texas Tech (75%) def. #33 Virginia Tech (25%)
-- UTR: **_VT_** - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)
-- ITA: **_TTU_** - #25 Texas Tech def. #29 Virginia Tech
-- USTA Poll: **_TTU_** - RV Texas Tech def. Virginia Tech
-- Coaches Poll: **_TTU_** - #27 Texas Tech def. #34 Virginia Tech
-- Seeding: **_TTU_** - #2 Texas Tech def. #3 Virginia Tech
+<h4>Predictions</h4>
+<ul>
+<li>Slam: **_VT_** - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>
+<li>TRN: **_VT_** - #29 Virginia Tech (51%) def. #31 Texas Tech (49%)</li>
+<li>Massey: **_TTU_** - #28 Texas Tech (75%) def. #33 Virginia Tech (25%)</li>
+<li>UTR: **_VT_** - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)</li>
+<li>ITA: **_TTU_** - #25 Texas Tech def. #29 Virginia Tech</li>
+<li>USTA Poll: **_TTU_** - RV Texas Tech def. Virginia Tech</li>
+<li>Coaches Poll: **_TTU_** - #27 Texas Tech def. #34 Virginia Tech</li>
+<li>Seeding: **_TTU_** - #2 Texas Tech def. #3 Virginia Tech</li>
+</ul>
 
 </details>
 </li>
