@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png =50x50)](../index.md)  
+[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="50" height="50" />](../index.md)  
 
 ### #3 Northwestern  
 

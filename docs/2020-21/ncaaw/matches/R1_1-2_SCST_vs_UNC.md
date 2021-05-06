@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png =50x50)](../index.md)  
+[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="50" height="50" />](../index.md)  
 
 ### #4 South Carolina St.  
 
