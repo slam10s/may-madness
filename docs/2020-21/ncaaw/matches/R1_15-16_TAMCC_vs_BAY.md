@@ -43,23 +43,23 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Melany Krywoj (BAY) - 11-6 at 1, 11-6 in duals, 19-10 overall
+1. Melany Krywoj (BAY) - 11-6 at 1, 11-6 in duals, 19-10 overall  
   Mariya Shumeika (TAMCC) - 7-3 at 1, 19-3 in duals, 19-3 overall
-2. Jessica Hinojosa (BAY) - 7-6 at 2, 12-10 in duals, 18-15 overall
+2. Jessica Hinojosa (BAY) - 7-6 at 2, 12-10 in duals, 18-15 overall  
   Camille Townsend (TAMCC) - 6-3 at 2, 14-6 in duals, 14-6 overall
-3. Alicia Herrero (BAY) - 4-4 at 3, 13-8 in duals, 20-13 overall
+3. Alicia Herrero (BAY) - 4-4 at 3, 13-8 in duals, 20-13 overall  
   Emma Honore (TAMCC) - 16-4 at 3, 16-6 in duals, 15-6 overall
-4. Angie Shakhraichuck (BAY) - 6-4 at 4, 17-5 in duals, 24-10 overall
+4. Angie Shakhraichuck (BAY) - 6-4 at 4, 17-5 in duals, 24-10 overall  
   Emma Aucagne (TAMCC) - 20-1 at 4, 22-1 in duals, 22-1 overall
-5. Kristina Sorokolet (BAY) - 4-1 at 5, 11-3 in duals, 18-5 overall
+5. Kristina Sorokolet (BAY) - 4-1 at 5, 11-3 in duals, 18-5 overall  
   Leopoldine Boisseau (TAMCC) - 14-3 at 5, 17-3 in duals, 17-3 overall
-6. Paula Baranano (BAY) - 5-2 at 6, 12-3 in duals, 12-3 overall
+6. Paula Baranano (BAY) - 5-2 at 6, 12-3 in duals, 12-3 overall  
   Victoire Delattre (TAMCC) - 14-2 at 6, 17-2 in duals, 17-2 overall
 
  #### Doubles:  
-1. Shakhraichuk/Krywoj (BAY) - 9-1 at 1, 9-1 in duals, 9-1 overall
+1. Shakhraichuk/Krywoj (BAY) - 9-1 at 1, 9-1 in duals, 9-1 overall  
   Shumeika/Townsend (TAMCC) - 19-5 at 1, 19-5 in duals, 19-5 overall
-2. Hinojosa/Sorokolet (BAY) - 1-4 at 2, 2-6 in duals, 2-6 overall
+2. Hinojosa/Sorokolet (BAY) - 1-4 at 2, 2-6 in duals, 2-6 overall  
   E.Honore/E.Aucagne (TAMCC) - 16-4 at 2, 16-4 in duals, 16-4 overall
-3. Herrero/Boch-Collins (BAY) - 5-0 at 3, 5-0 in duals, 5-0 overall
+3. Herrero/Boch-Collins (BAY) - 5-0 at 3, 5-0 in duals, 5-0 overall  
   L.Boisseau/Delattre (TAMCC) - 15-4 at 3, 15-4 in duals, 15-4 overall

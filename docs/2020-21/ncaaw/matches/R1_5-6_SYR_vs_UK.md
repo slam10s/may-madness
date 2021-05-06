@@ -44,23 +44,23 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Akvile Parazinskaite (UK) - 16-6 at 1, 16-6 in duals, 19-10 overall
+1. Akvile Parazinskaite (UK) - 16-6 at 1, 16-6 in duals, 19-10 overall  
   Viktoriya Kanapatskaya (SYR) - 9-5 at 1, 11-5 in duals, 11-5 overall
-2. Lesedi Jacobs (UK) - 0-1 at 2, 9-5 in duals, 11-8 overall
+2. Lesedi Jacobs (UK) - 0-1 at 2, 9-5 in duals, 11-8 overall  
   Guzal Yusupova (SYR) - 4-6 at 2, 4-9 in duals, 4-9 overall
-3. Carlota Molina (UK) - 1-1 at 3, 12-7 in duals, 12-13 overall
+3. Carlota Molina (UK) - 1-1 at 3, 12-7 in duals, 12-13 overall  
   Natalie Novotna (SYR) - 4-6 at 3, 7-9 in duals, 7-9 overall
-4. Elizabeth Stevens (UK) - 1-5 at 4, 3-8 in duals, 6-13 overall
+4. Elizabeth Stevens (UK) - 1-5 at 4, 3-8 in duals, 6-13 overall  
   Miranda Ramirez (SYR) - 3-6 at 4, 4-13 in duals, 4-13 overall
-5. Carla Girbau (UK) - 2-1 at 5, 9-9 in duals, 11-14 overall
+5. Carla Girbau (UK) - 2-1 at 5, 9-9 in duals, 11-14 overall  
   Zeynep Erman (SYR) - 3-4 at 5, 4-4 in duals, 4-4 overall
-6. Fiona Arrese (UK) - 2-1 at 6, 10-4 in duals, 10-9 overall
+6. Fiona Arrese (UK) - 2-1 at 6, 10-4 in duals, 10-9 overall  
   Polina Kozyreva (SYR) - 7-5 at 6, 10-9 in duals, 10-9 overall
 
  #### Doubles:  
-1. Parazinskaite/Arrese (UK) - 17-2 at 1, 17-2 in duals, 20-2 overall
+1. Parazinskaite/Arrese (UK) - 17-2 at 1, 17-2 in duals, 20-2 overall  
   Kanapatskaya/Novotna (SYR) - 4-7 at 1, 8-8 in duals, 8-8 overall
-2. Tkachenko/Girbau (UK) - 1-3 at 2, 1-3 in duals, 1-3 overall
+2. Tkachenko/Girbau (UK) - 1-3 at 2, 1-3 in duals, 1-3 overall  
   Kozyreva/Trescheva (SYR) - 3-7 at 2, 5-12 in duals, 5-12 overall
-3. Jacobs/Stevens (UK) - 2-0 at 3, 2-0 in duals, 2-1 overall
+3. Jacobs/Stevens (UK) - 2-0 at 3, 2-0 in duals, 2-1 overall  
   Ramirez/Yusupova (SYR) - 5-5 at 3, 5-5 in duals, 5-5 overall

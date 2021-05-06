@@ -43,23 +43,23 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. McCartney Kessler (FLA) - 13-2 at 1, 13-2 in duals, 16-2 overall
+1. McCartney Kessler (FLA) - 13-2 at 1, 13-2 in duals, 16-2 overall  
   Meagan Brown (SIEN) - 7-3 at 1, 7-3 in duals, 7-3 overall
-2. Marlee Zein (FLA) - 6-5 at 2, 8-5 in duals, 10-8 overall
+2. Marlee Zein (FLA) - 6-5 at 2, 8-5 in duals, 10-8 overall  
   Kylie Mullaney (SIEN) - 3-5 at 2, 3-5 in duals, 3-5 overall
-3. Ida Jarlskog (FLA) - 6-2 at 3, 8-4 in duals, 8-4 overall
+3. Ida Jarlskog (FLA) - 6-2 at 3, 8-4 in duals, 8-4 overall  
   Petra Miszczak (SIEN) - 3-4 at 3, 4-4 in duals, 4-4 overall
-4. Layne Sleeth (FLA) - 7-0 at 4, 9-1 in duals, 9-1 overall
+4. Layne Sleeth (FLA) - 7-0 at 4, 9-1 in duals, 9-1 overall  
   Maanya Viswanath (SIEN) - 4-2 at 4, 5-2 in duals, 5-2 overall
-5. Sara Dahlstrom (FLA) - 3-4 at 5, 6-8 in duals, 9-11 overall
+5. Sara Dahlstrom (FLA) - 3-4 at 5, 6-8 in duals, 9-11 overall  
   Emma Boggiali (SIEN) - 5-2 at 5, 6-3 in duals, 6-3 overall
-6. Sydney Berlin (FLA) - 6-3 at 6, 11-4 in duals, 16-5 overall
+6. Sydney Berlin (FLA) - 6-3 at 6, 11-4 in duals, 16-5 overall  
   Anastasia Koniaev (SIEN) - 5-2 at 6, 6-2 in duals, 6-2 overall
 
  #### Doubles:  
-1. Kessler/Zein (FLA) - 9-6 at 1, 9-6 in duals, 13-7 overall
+1. Kessler/Zein (FLA) - 9-6 at 1, 9-6 in duals, 13-7 overall  
   Brown/Mullaney (SIEN) - 7-3 at 1, 7-3 in duals, 7-3 overall
-2. Jarlskog/Sleeth (FLA) - 6-0 at 2, 6-0 in duals, 6-0 overall
+2. Jarlskog/Sleeth (FLA) - 6-0 at 2, 6-0 in duals, 6-0 overall  
   Miszczak/Boggiali (SIEN) - 3-0 at 2, 3-0 in duals, 3-0 overall
-3. Dahlstrom/Berlin (FLA) - 3-5 at 3, 3-5 in duals, 6-7 overall
+3. Dahlstrom/Berlin (FLA) - 3-5 at 3, 3-5 in duals, 6-7 overall  
   Viswanath/Koniaev (SIEN) - 0-0 at 3, 0-0 in duals, 0-0 overall

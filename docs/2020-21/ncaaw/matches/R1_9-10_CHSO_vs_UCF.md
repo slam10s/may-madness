@@ -43,23 +43,23 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Valeriya Zeleva (UCF) - 9-2 at 1, 12-2 in duals, 13-3 overall
+1. Valeriya Zeleva (UCF) - 9-2 at 1, 12-2 in duals, 13-3 overall  
   Madalina Man (CHSO) - 9-6 at 1, 9-6 in duals, 9-6 overall
-2. Rebeka Stolmar (UCF) - 7-4 at 2, 12-6 in duals, 14-7 overall
+2. Rebeka Stolmar (UCF) - 7-4 at 2, 12-6 in duals, 14-7 overall  
   Luiza Fullana (CHSO) - 7-6 at 2, 7-6 in duals, 7-6 overall
-3. Evgeniya Levashova (UCF) - 6-2 at 3, 11-5 in duals, 11-5 overall
+3. Evgeniya Levashova (UCF) - 6-2 at 3, 11-5 in duals, 11-5 overall  
   Khyanna Singh (CHSO) - 8-8 at 3, 8-8 in duals, 8-8 overall
-4. Ksenia Kuznetsova (UCF) - 6-0 at 4, 11-3 in duals, 11-3 overall
+4. Ksenia Kuznetsova (UCF) - 6-0 at 4, 11-3 in duals, 11-3 overall  
   Zoe Cauthen (CHSO) - 9-5 at 4, 9-5 in duals, 9-5 overall
-5. Marie Mattel (UCF) - 2-0 at 5, 6-4 in duals, 6-4 overall
+5. Marie Mattel (UCF) - 2-0 at 5, 6-4 in duals, 6-4 overall  
   Michelle Schmitz (CHSO) - 9-8 at 5, 9-8 in duals, 9-8 overall
-6. Nadja Bay (UCF) - 0-0 at 6, 1-3 in duals, 1-3 overall
+6. Nadja Bay (UCF) - 0-0 at 6, 1-3 in duals, 1-3 overall  
   Tiffany Pyrtiz (CHSO) - 6-7 at 6, 6-7 in duals, 6-7 overall
 
  #### Doubles:  
-1. Stolmar/Mattel (UCF) - 4-7 at 1, 5-7 in duals, 5-7 overall
+1. Stolmar/Mattel (UCF) - 4-7 at 1, 5-7 in duals, 5-7 overall  
   Man/Singh (CHSO) - 9-5 at 1, 9-5 in duals, 9-5 overall
-2. Kuznetsova/Zeleva (UCF) - 8-0 at 2, 12-3 in duals, 12-3 overall
+2. Kuznetsova/Zeleva (UCF) - 8-0 at 2, 12-3 in duals, 12-3 overall  
   Cauthen/Pyrtiz (CHSO) - 10-5 at 2, 10-5 in duals, 10-5 overall
-3. Levashova/Bay (UCF) - 4-1 at 3, 7-3 in duals, 7-3 overall
+3. Levashova/Bay (UCF) - 4-1 at 3, 7-3 in duals, 7-3 overall  
   Fullana/Schmitz (CHSO) - 7-7 at 3, 7-7 in duals, 7-7 overall

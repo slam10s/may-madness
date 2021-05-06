@@ -42,23 +42,23 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Lisa Mays (TTU) - 9-7 at 1, 10-7 in duals, 12-8 overall
+1. Lisa Mays (TTU) - 9-7 at 1, 10-7 in duals, 12-8 overall  
   Solymar Colling (USD) - 14-4 at 1, 14-4 in duals, 14-3 overall
-2. Margarita Skriabina (TTU) - 2-0 at 2, 16-1 in duals, 18-2 overall
+2. Margarita Skriabina (TTU) - 2-0 at 2, 16-1 in duals, 18-2 overall  
   Elizabeth Goldsmith (USD) - 11-3 at 2, 11-3 in duals, 11-3 overall
-3. Kaitlin Staines (TTU) - 0-0 at 3, 6-9 in duals, 9-11 overall
+3. Kaitlin Staines (TTU) - 0-0 at 3, 6-9 in duals, 9-11 overall  
   Jordyn McBride (USD) - 12-3 at 3, 14-3 in duals, 14-3 overall
-4. Nell Miller (TTU) - 11-4 at 4, 14-6 in duals, 16-10 overall
+4. Nell Miller (TTU) - 11-4 at 4, 14-6 in duals, 16-10 overall  
   Abigail Desiatnikov (USD) - 6-3 at 4, 12-4 in duals, 12-4 overall
-5. Olivia Peet (TTU) - 9-6 at 5, 10-6 in duals, 12-6 overall
+5. Olivia Peet (TTU) - 9-6 at 5, 10-6 in duals, 12-6 overall  
   Victoria Kalaitzis (USD) - 8-2 at 5, 12-4 in duals, 12-4 overall
-6. Metka Komac (TTU) - 9-4 at 6, 10-5 in duals, 12-6 overall
+6. Metka Komac (TTU) - 9-4 at 6, 10-5 in duals, 12-6 overall  
   Katharina Kukaras (USD) - 5-3 at 6, 11-4 in duals, 11-4 overall
 
  #### Doubles:  
-1. Staines/Mays (TTU) - 9-7 at 1, 9-7 in duals, 9-7 overall
+1. Staines/Mays (TTU) - 9-7 at 1, 9-7 in duals, 9-7 overall  
   Colling/Goldsmith (USD) - 14-3 at 1, 14-3 in duals, 14-3 overall
-2. Peet/Skriabina (TTU) - 4-2 at 2, 4-2 in duals, 4-2 overall
+2. Peet/Skriabina (TTU) - 4-2 at 2, 4-2 in duals, 4-2 overall  
   Desiatnikov/McBride (USD) - 5-1 at 2, 12-4 in duals, 12-4 overall
-3. Miller/Komac (TTU) - 2-1 at 3, 2-1 in duals, 2-1 overall
+3. Miller/Komac (TTU) - 2-1 at 3, 2-1 in duals, 2-1 overall  
   Andryukhova/Kukaras (USD) - 2-2 at 3, 2-4 in duals, 2-4 overall

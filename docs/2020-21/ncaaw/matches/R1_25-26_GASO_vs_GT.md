@@ -42,23 +42,23 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Kenya Jones (GT) - 16-7 at 1, 16-7 in duals, 17-8 overall
+1. Kenya Jones (GT) - 16-7 at 1, 16-7 in duals, 17-8 overall  
   Nadja Meier (GASO) - 4-3 at 1, 15-9 in duals, 15-9 overall
-2. Victoria Flores (GT) - 12-4 at 2, 17-5 in duals, 18-6 overall
+2. Victoria Flores (GT) - 12-4 at 2, 17-5 in duals, 18-6 overall  
   Paula Boixader (GASO) - 2-1 at 2, 8-10 in duals, 8-10 overall
-3. Gia Cohen (GT) - 3-11 at 3, 8-14 in duals, 8-15 overall
+3. Gia Cohen (GT) - 3-11 at 3, 8-14 in duals, 8-15 overall  
   Sophie Wagemaker (GASO) - 10-3 at 3, 11-7 in duals, 11-7 overall
-4. Ava Hrastar (GT) - 2-3 at 4, 10-9 in duals, 12-9 overall
+4. Ava Hrastar (GT) - 2-3 at 4, 10-9 in duals, 12-9 overall  
   Charlotte van Diemen (GASO) - 3-1 at 4, 8-5 in duals, 8-5 overall
-5. Carol Lee (GT) - 5-8 at 5, 12-12 in duals, 14-12 overall
+5. Carol Lee (GT) - 5-8 at 5, 12-12 in duals, 14-12 overall  
   Mila Hartig (GASO) - 1-0 at 5, 14-4 in duals, 14-4 overall
-6. Mahak Jain (GT) - 7-2 at 6, 14-7 in duals, 16-7 overall
+6. Mahak Jain (GT) - 7-2 at 6, 14-7 in duals, 16-7 overall  
   Paula Hijos (GASO) - 2-0 at 6, 13-6 in duals, 13-6 overall
 
  #### Doubles:  
-1. Jones/Flores (GT) - 20-3 at 1, 20-3 in duals, 22-4 overall
+1. Jones/Flores (GT) - 20-3 at 1, 20-3 in duals, 22-4 overall  
   van Diemen/Wagemaker (GASO) - 9-8 at 1, 9-8 in duals, 9-8 overall
-2. Hrastar/Cohen (GT) - 5-6 at 2, 6-6 in duals, 6-6 overall
+2. Hrastar/Cohen (GT) - 5-6 at 2, 6-6 in duals, 6-6 overall  
   Boixader/Meier (GASO) - 6-3 at 2, 6-3 in duals, 6-3 overall
-3. Lee/Dedaj (GT) - 1-8 at 3, 1-8 in duals, 1-8 overall
+3. Lee/Dedaj (GT) - 1-8 at 3, 1-8 in duals, 1-8 overall  
   Goines/Keranen (GASO) - 8-3 at 3, 9-7 in duals, 9-7 overall
