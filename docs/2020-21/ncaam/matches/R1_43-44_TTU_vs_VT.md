@@ -6,19 +6,15 @@ Saturday, May 8 at 10:00 EDT
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td>
 
-[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png)](../index.md)
-
 <a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a>
 
 </td><td>
-
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png)](../index.md)
 
 <a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a>
 
 </td></tr><tr><td>
 
-<h3>#3 <a href="../index.md">Virginia Tech</a></h3>
+<h3>#3 <a href="../">Virginia Tech</a></h3>
 
 <ol>  
 <li>ITA: 29 (28.32)</li>  
@@ -31,7 +27,7 @@ Saturday, May 8 at 10:00 EDT
 
 </td><td>
 
-<h3>#2 <a href="../index.md">Texas Tech</a></h3>
+<h3>#2 <a href="../">Texas Tech</a></h3>
 
 <ol>  
 <li>ITA: 25 (31.34)</li>  
