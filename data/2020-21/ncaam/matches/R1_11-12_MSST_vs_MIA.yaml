@@ -9,6 +9,8 @@ Home:
   Team: Miami (FL)
   Entry: At-Large Bid
   Draw Line: 11
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 19.336 (39)
     SLM: 92.186 (37)
@@ -21,6 +23,8 @@ Visitor:
   Team: Mississippi St.
   Entry: At-Large Bid
   Draw Line: 12
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 41.294 (16)
     SLM: 94.391 (20)
@@ -38,6 +42,7 @@ Predictions:
   ITA: "MSST - #16 Mississippi St. def. #39 Miami (FL)"
   USTA: "MSST - #23 Mississippi St. def. Miami (FL)"
   Coach: "MSST - #18 Mississippi St. def. #43 Miami (FL)"
+  Seeding: "MSST - #2 Mississippi St. def. #3 Miami (FL)"
 Lineups:
   Predictions:
     Average EWPs for MIA: 54%,42%,26%,17%,21%,25%

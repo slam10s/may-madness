@@ -9,6 +9,8 @@ Home:
   Team: Duke
   Entry: At-Large Bid
   Draw Line: 13
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 43.032 (17)
     SLM: 90.907 (14)
@@ -22,6 +24,8 @@ Visitor:
   Team: Alabama
   Entry: At-Large Bid
   Draw Line: 14
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 16.54 (42)
     SLM: 86.227 (44)
@@ -38,6 +42,7 @@ Predictions:
   ITA: "DUKE - #17 Duke def. #42 Alabama"
   USTA: "DUKE - #14 Duke def. Alabama"
   Coach: "DUKE - #20 Duke def. #43 Alabama"
+  Seeding: "DUKE - #2 Duke def. #3 Alabama"
 Lineups:
   Predictions:
     Average EWPs for DUKE: 83%,87%,90%,89%,87%,86%

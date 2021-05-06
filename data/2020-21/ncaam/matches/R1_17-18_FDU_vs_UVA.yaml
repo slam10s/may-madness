@@ -6,10 +6,12 @@ Title: "Fairleigh Dickinson vs #5 Virginia"
 URL: https://www.ncaa.com/game/5833378
 Winner: TBD
 Home:
-  Seed: 5
   Team: Virginia
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 17
+  Seeding:
+    Overall: 5
+    Region: 1
   Ratings:
     ITA: 74.365 (4)
     SLM: 100 (1)
@@ -23,6 +25,8 @@ Visitor:
   Team: Fairleigh Dickinson
   Entry: Automatic Qualifier
   Draw Line: 18
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 1.953 (62)
     SLM: 72.332 (65)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "UVA - #4 Virginia def. #62 Fairleigh Dickinson"
   USTA: "UVA - #1 Virginia def. Fairleigh Dickinson"
   Coach: "UVA - #5 Virginia def. Fairleigh Dickinson"
+  Seeding: "UVA - #1 Virginia def. #4 Fairleigh Dickinson"
 Lineups:
   Predictions:
     Average EWPs for UVA: 7%,93%,93%,93%,93%,93%

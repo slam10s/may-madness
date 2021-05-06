@@ -9,6 +9,8 @@ Home:
   Team: Oklahoma St.
   Entry: At-Large Bid
   Draw Line: 51
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 20.712 (37)
     SLM: 87.452 (37)
@@ -21,6 +23,8 @@ Visitor:
   Team: Auburn
   Entry: At-Large Bid
   Draw Line: 52
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 41.171 (20)
     SLM: 89.445 (24)
@@ -38,6 +42,7 @@ Predictions:
   ITA: "AUB - #20 Auburn def. #37 Oklahoma St."
   USTA: "AUB - #25 Auburn def. Oklahoma St."
   Coach: "AUB - #22 Auburn def. #37 Oklahoma St."
+  Seeding: "AUB - #2 Auburn def. #3 Oklahoma St."
 Lineups:
   Predictions:
     Average EWPs for OKST: 80%,41%,71%,29%,67%,64%

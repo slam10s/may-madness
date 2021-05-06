@@ -6,10 +6,12 @@ Title: "Arkansas vs #7 TCU"
 URL: https://www.ncaa.com/game/5833394
 Winner: TBD
 Home:
-  Seed: 7
   Team: TCU
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 49
+  Seeding:
+    Overall: 7
+    Region: 1
   Ratings:
     ITA: 69.22 (7)
     SLM: 97.567 (9)
@@ -23,6 +25,8 @@ Visitor:
   Team: Arkansas
   Entry: At-Large Bid
   Draw Line: 50
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 18.298 (43)
     SLM: 91.551 (43)
@@ -39,6 +43,7 @@ Predictions:
   ITA: "TCU - #7 TCU def. #43 Arkansas"
   USTA: "TCU - #9 TCU def. Arkansas"
   Coach: "TCU - #7 TCU def. #40 Arkansas"
+  Seeding: "TCU - #1 TCU def. #4 Arkansas"
 Lineups:
   Predictions:
     Average EWPs for TCU: 84%,89%,81%,85%,84%,88%

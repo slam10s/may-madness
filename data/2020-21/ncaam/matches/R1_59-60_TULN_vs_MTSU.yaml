@@ -9,6 +9,8 @@ Home:
   Team: Middle Tenn.
   Entry: Automatic Qualifier
   Draw Line: 59
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 18.524 (42)
     SLM: 91.28 (45)
@@ -21,6 +23,8 @@ Visitor:
   Team: Tulane
   Entry: At-Large Bid
   Draw Line: 60
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 33.073 (22)
     SLM: 93.532 (26)
@@ -36,6 +40,7 @@ Predictions:
   UTR: "TULN - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)"
   ITA: "TULN - #22 Tulane def. #42 Middle Tenn."
   Coach: "TULN - #24 Tulane def. #42 Middle Tenn."
+  Seeding: "TULN - #2 Tulane def. #3 Middle Tenn."
 Lineups:
   Predictions:
     Average EWPs for MTSU: 28%,30%,22%,40%,34%,64%

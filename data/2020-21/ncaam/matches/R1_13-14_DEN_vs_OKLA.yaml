@@ -9,6 +9,8 @@ Home:
   Team: Oklahoma
   Entry: At-Large Bid
   Draw Line: 13
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 29.42 (27)
     SLM: 93.046 (29)
@@ -21,6 +23,8 @@ Visitor:
   Team: Denver
   Entry: Automatic Qualifier
   Draw Line: 14
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 17.165 (45)
     SLM: 91.672 (42)
@@ -36,6 +40,7 @@ Predictions:
   UTR: "OKLA - #28 Oklahoma (+3.10) def. #46 Denver (-3.10)"
   ITA: "OKLA - #27 Oklahoma def. #45 Denver"
   Coach: "OKLA - #26 Oklahoma def. #44 Denver"
+  Seeding: "OKLA - #2 Oklahoma def. #3 Denver"
 Lineups:
   Predictions:
     Average EWPs for OKLA: 53%,85%,76%,82%,61%,73%

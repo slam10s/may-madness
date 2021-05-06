@@ -9,6 +9,8 @@ Home:
   Team: Northwestern
   Entry: At-Large Bid
   Draw Line: 53
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 39.922 (21)
     SLM: 90.461 (18)
@@ -22,6 +24,8 @@ Visitor:
   Team: Xavier
   Entry: Automatic Qualifier
   Draw Line: 54
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 3.748 (55)
     SLM: 80.67 (49)
@@ -36,6 +40,7 @@ Predictions:
   ITA: "NW - #21 Northwestern def. #55 Xavier"
   USTA: "NW - #16 Northwestern def. Xavier"
   Coach: "NW - #19 Northwestern def. Xavier"
+  Seeding: "NW - #2 Northwestern def. #3 Xavier"
 Lineups:
   Predictions:
     Average EWPs for NW: 86%,86%,87%,90%,93%,91%

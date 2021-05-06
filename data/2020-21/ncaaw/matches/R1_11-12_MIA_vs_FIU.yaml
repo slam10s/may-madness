@@ -9,6 +9,8 @@ Home:
   Team: FIU
   Entry: At-Large Bid
   Draw Line: 11
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 18.116 (41)
     SLM: 88.346 (30)
@@ -16,12 +18,14 @@ Home:
     MAS: 6.98 (37)
     UTR: 59 (42)
   Polls:
-    USTA: .nan
+    USTA: RV
     Coach: 50
 Visitor:
   Team: Miami (FL)
   Entry: At-Large Bid
   Draw Line: 12
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 38.718 (24)
     SLM: 90.209 (22)
@@ -37,8 +41,8 @@ Predictions:
   MAS: "MIA - #17 Miami (FL) (75%) def. #37 FIU (25%)"
   UTR: "MIA - #19 Miami (FL) (+2.89) def. #42 FIU (-2.89)"
   ITA: "MIA - #24 Miami (FL) def. #41 FIU"
-  USTA: "MIA - #21 Miami (FL) def. FIU"
   Coach: "MIA - #21 Miami (FL) def. #50 FIU"
+  Seeding: "MIA - #2 Miami (FL) def. #3 FIU"
 Lineups:
   Predictions:
     Average EWPs for FIU: 10%,17%,50%,33%,36%,9%

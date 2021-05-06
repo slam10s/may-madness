@@ -9,6 +9,8 @@ Home:
   Team: Pepperdine
   Entry: Automatic Qualifier
   Draw Line: 21
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 29.095 (28)
     SLM: 92.694 (34)
@@ -22,6 +24,8 @@ Visitor:
   Team: UC Santa Barbara
   Entry: Automatic Qualifier
   Draw Line: 22
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 6.336 (54)
     SLM: 87.562 (51)
@@ -36,6 +40,7 @@ Predictions:
   ITA: "PEPP - #28 Pepperdine def. #54 UC Santa Barbara"
   USTA: "PEPP - #24 Pepperdine def. UC Santa Barbara"
   Coach: "PEPP - #30 Pepperdine def. UC Santa Barbara"
+  Seeding: "PEPP - #2 Pepperdine def. #3 UC Santa Barbara"
 Lineups:
   Predictions:
     Average EWPs for PEPP: 23%,89%,76%,81%,78%,84%

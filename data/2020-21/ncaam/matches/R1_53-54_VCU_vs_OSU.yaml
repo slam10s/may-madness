@@ -9,6 +9,8 @@ Home:
   Team: Ohio St.
   Entry: At-Large Bid
   Draw Line: 53
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 26.4 (31)
     SLM: 97.864 (7)
@@ -22,6 +24,8 @@ Visitor:
   Team: VCU
   Entry: Automatic Qualifier
   Draw Line: 54
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 23.443 (37)
     SLM: 92.402 (36)
@@ -38,6 +42,7 @@ Predictions:
   ITA: "OSU - #31 Ohio St. def. #37 VCU"
   USTA: "OSU - #7 Ohio St. def. VCU"
   Coach: "OSU - #17 Ohio St. def. #38 VCU"
+  Seeding: "OSU - #2 Ohio St. def. #3 VCU"
 Lineups:
   Predictions:
     Average EWPs for OSU: 85%,89%,87%,74%,85%,90%

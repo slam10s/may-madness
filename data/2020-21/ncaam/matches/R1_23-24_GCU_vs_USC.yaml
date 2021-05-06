@@ -6,10 +6,12 @@ Title: "Grand Canyon vs #12 Southern California"
 URL: https://www.ncaa.com/game/5833381
 Winner: TBD
 Home:
-  Seed: 12
   Team: Southern California
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 24
+  Seeding:
+    Overall: 12
+    Region: 1
   Ratings:
     ITA: 52.235 (12)
     SLM: 96.38 (14)
@@ -23,6 +25,8 @@ Visitor:
   Team: Grand Canyon
   Entry: Automatic Qualifier
   Draw Line: 23
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 1.382 (64)
     SLM: 81.822 (62)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "USC - #12 Southern California def. #64 Grand Canyon"
   USTA: "USC - #13 Southern California def. Grand Canyon"
   Coach: "USC - #12 Southern California def. Grand Canyon"
+  Seeding: "USC - #1 Southern California def. #4 Grand Canyon"
 Lineups:
   Predictions:
     Average EWPs for USC: 92%,92%,93%,93%,93%,91%

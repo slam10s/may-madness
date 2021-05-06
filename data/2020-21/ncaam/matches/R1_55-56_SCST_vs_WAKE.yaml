@@ -6,10 +6,12 @@ Title: "South Carolina St. vs #10 Wake Forest"
 URL: https://www.ncaa.com/game/5833397
 Winner: TBD
 Home:
-  Seed: 10
   Team: Wake Forest
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 56
+  Seeding:
+    Overall: 10
+    Region: 1
   Ratings:
     ITA: 56.819 (9)
     SLM: 97.17 (10)
@@ -23,6 +25,8 @@ Visitor:
   Team: South Carolina St.
   Entry: Automatic Qualifier
   Draw Line: 55
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 0.724 (65)
     SLM: 81.189 (63)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "WAKE - #9 Wake Forest def. #65 South Carolina St."
   USTA: "WAKE - #12 Wake Forest def. South Carolina St."
   Coach: "WAKE - #10 Wake Forest def. South Carolina St."
+  Seeding: "WAKE - #1 Wake Forest def. #4 South Carolina St."
 Lineups:
   Predictions:
     Average EWPs for WAKE: 93%,92%,93%,93%,93%,93%

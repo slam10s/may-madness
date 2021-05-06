@@ -9,6 +9,8 @@ Home:
   Team: FGCU
   Entry: Automatic Qualifier
   Draw Line: 27
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 8.375 (47)
     SLM: 87.658 (49)
@@ -19,6 +21,8 @@ Visitor:
   Team: NC State
   Entry: At-Large Bid
   Draw Line: 28
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 32.39 (23)
     SLM: 94.442 (19)
@@ -36,6 +40,7 @@ Predictions:
   ITA: "NCST - #23 NC State def. #47 FGCU"
   USTA: "NCST - #25 NC State def. FGCU"
   Coach: "NCST - #28 NC State def. FGCU"
+  Seeding: "NCST - #2 NC State def. #3 FGCU"
 Lineups:
   Predictions:
     Average EWPs for FGCU: 15%,22%,17%,21%,12%,15%

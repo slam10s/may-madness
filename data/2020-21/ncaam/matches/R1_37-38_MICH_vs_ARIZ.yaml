@@ -9,6 +9,8 @@ Home:
   Team: Arizona
   Entry: At-Large Bid
   Draw Line: 37
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 38.972 (17)
     SLM: 94.263 (21)
@@ -22,6 +24,8 @@ Visitor:
   Team: Michigan
   Entry: At-Large Bid
   Draw Line: 38
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 15.168 (46)
     SLM: 96.424 (13)
@@ -29,7 +33,7 @@ Visitor:
     MAS: 8.22 (14)
     UTR: 78.65 (18)
   Polls:
-    USTA: .nan
+    USTA: T10
     Coach: 23
 Predictions:
   SLM: "MICH - #13 Michigan (78%) def. #21 Arizona (22%)"
@@ -37,8 +41,8 @@ Predictions:
   MAS: "MICH - #14 Michigan (75%) def. #18 Arizona (25%)"
   UTR: "MICH - #18 Michigan (+0.3) def. #21 Arizona (-0.3)"
   ITA: "ARIZ - #17 Arizona def. #46 Michigan"
-  USTA: "ARIZ - #18 Arizona def. Michigan"
   Coach: "ARIZ - #19 Arizona def. #23 Michigan"
+  Seeding: "ARIZ - #2 Arizona def. #3 Michigan"
 Lineups:
   Predictions:
     Average EWPs for ARIZ: 69%,36%,61%,7%,47%,39%

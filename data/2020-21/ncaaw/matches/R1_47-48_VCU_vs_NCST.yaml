@@ -6,10 +6,12 @@ Title: "VCU vs #6 NC State"
 URL: https://www.ncaa.com/game/5833670
 Winner: TBD
 Home:
-  Seed: 6
   Team: NC State
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 48
+  Seeding:
+    Overall: 6
+    Region: 1
   Ratings:
     ITA: 55.66 (6)
     SLM: 91.646 (11)
@@ -23,6 +25,8 @@ Visitor:
   Team: VCU
   Entry: Automatic Qualifier
   Draw Line: 47
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 6.76 (49)
     SLM: 82.185 (48)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "NCST - #6 NC State def. #49 VCU"
   USTA: "NCST - #11 NC State def. VCU"
   Coach: "NCST - #6 NC State def. VCU"
+  Seeding: "NCST - #1 NC State def. #4 VCU"
 Lineups:
   Predictions:
     Average EWPs for NCST: 82%,91%,91%,90%,91%,91%

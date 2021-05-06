@@ -9,6 +9,8 @@ Home:
   Team: Kentucky
   Entry: At-Large Bid
   Draw Line: 5
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 37.407 (26)
     SLM: 89.359 (25)
@@ -22,6 +24,8 @@ Visitor:
   Team: Syracuse
   Entry: At-Large Bid
   Draw Line: 6
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 15.835 (43)
     SLM: 86.536 (43)
@@ -38,6 +42,7 @@ Predictions:
   ITA: "UK - #26 Kentucky def. #43 Syracuse"
   USTA: "UK - #24 Kentucky def. Syracuse"
   Coach: "UK - #27 Kentucky def. #45 Syracuse"
+  Seeding: "UK - #2 Kentucky def. #3 Syracuse"
 Lineups:
   Predictions:
     Average EWPs for UK: 34%,77%,73%,60%,56%,36%

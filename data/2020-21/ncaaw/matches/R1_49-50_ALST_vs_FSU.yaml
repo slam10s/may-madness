@@ -6,10 +6,12 @@ Title: "Alabama St. vs #7 Florida St."
 URL: https://www.ncaa.com/game/5833671
 Winner: TBD
 Home:
-  Seed: 7
   Team: Florida St.
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 49
+  Seeding:
+    Overall: 7
+    Region: 1
   Ratings:
     ITA: 55.151 (7)
     SLM: 91.814 (10)
@@ -23,6 +25,8 @@ Visitor:
   Team: Alabama St.
   Entry: Automatic Qualifier
   Draw Line: 50
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 2.286 (61)
     SLM: 69.749 (63)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "FSU - #7 Florida St. def. #61 Alabama St."
   USTA: "FSU - #12 Florida St. def. Alabama St."
   Coach: "FSU - #7 Florida St. def. Alabama St."
+  Seeding: "FSU - #1 Florida St. def. #4 Alabama St."
 Lineups:
   Predictions:
     Average EWPs for FSU: 93%,93%,93%,93%,93%,93%

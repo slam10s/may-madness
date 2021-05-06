@@ -9,6 +9,8 @@ Home:
   Team: Furman
   Entry: Automatic Qualifier
   Draw Line: 35
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 25.423 (34)
     SLM: 87.979 (33)
@@ -16,12 +18,14 @@ Home:
     MAS: 7.09 (35)
     UTR: 59.02 (41)
   Polls:
-    USTA: .nan
+    USTA: RV
     Coach: 35
 Visitor:
   Team: Wake Forest
   Entry: At-Large Bid
   Draw Line: 36
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 25.766 (33)
     SLM: 88.109 (32)
@@ -37,6 +41,7 @@ Predictions:
   UTR: "WAKE - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)"
   ITA: "WAKE - #33 Wake Forest def. #34 Furman"
   Coach: "WAKE - #31 Wake Forest def. #35 Furman"
+  Seeding: "WAKE - #2 Wake Forest def. #3 Furman"
 Lineups:
   Predictions:
     Average EWPs for FUR: 61%,63%,15%,32%,26%,32%

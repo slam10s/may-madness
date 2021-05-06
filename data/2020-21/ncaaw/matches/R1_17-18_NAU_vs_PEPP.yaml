@@ -6,10 +6,12 @@ Title: "Northern Ariz. vs #5 Pepperdine"
 URL: https://www.ncaa.com/game/5833655
 Winner: TBD
 Home:
-  Seed: 5
   Team: Pepperdine
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 17
+  Seeding:
+    Overall: 5
+    Region: 1
   Ratings:
     ITA: 60.711 (5)
     SLM: 92.643 (6)
@@ -23,6 +25,8 @@ Visitor:
   Team: Northern Ariz.
   Entry: Automatic Qualifier
   Draw Line: 18
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 3.85 (54)
     SLM: 79.815 (51)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "PEPP - #5 Pepperdine def. #54 Northern Ariz."
   USTA: "PEPP - #5 Pepperdine def. Northern Ariz."
   Coach: "PEPP - #4 Pepperdine def. Northern Ariz."
+  Seeding: "PEPP - #1 Pepperdine def. #4 Northern Ariz."
 Lineups:
   Predictions:
     Average EWPs for PEPP: 87%,93%,93%,93%,93%,93%

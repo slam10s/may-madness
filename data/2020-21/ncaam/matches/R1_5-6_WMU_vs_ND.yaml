@@ -9,6 +9,8 @@ Home:
   Team: Notre Dame
   Entry: At-Large Bid
   Draw Line: 5
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 25.217 (34)
     SLM: 91.964 (40)
@@ -21,6 +23,8 @@ Visitor:
   Team: Western Mich.
   Entry: Automatic Qualifier
   Draw Line: 6
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 18.885 (41)
     SLM: 89.827 (47)
@@ -28,7 +32,7 @@ Visitor:
     MAS: 7.02 (45)
     UTR: 72.95 (53)
   Polls:
-    USTA: .nan
+    USTA: RV
     Coach: 48
 Predictions:
   SLM: "ND - #40 Notre Dame (77%) def. #47 Western Mich. (23%)"
@@ -37,6 +41,7 @@ Predictions:
   UTR: "ND - #38 Notre Dame (+3.43) def. #53 Western Mich. (-3.43)"
   ITA: "ND - #34 Notre Dame def. #41 Western Mich."
   Coach: "ND - #37 Notre Dame def. #48 Western Mich."
+  Seeding: "ND - #2 Notre Dame def. #3 Western Mich."
 Lineups:
   Predictions:
     Average EWPs for ND: 83%,84%,85%,7%,62%,84%

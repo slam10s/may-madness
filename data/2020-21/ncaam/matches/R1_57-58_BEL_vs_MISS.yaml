@@ -6,10 +6,12 @@ Title: "Belmont vs #15 Ole Miss"
 URL: https://www.ncaa.com/game/5833398
 Winner: TBD
 Home:
-  Seed: 15
   Team: Ole Miss
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 57
+  Seeding:
+    Overall: 15
+    Region: 1
   Ratings:
     ITA: 44.944 (14)
     SLM: 95.003 (18)
@@ -23,6 +25,8 @@ Visitor:
   Team: Belmont
   Entry: Automatic Qualifier
   Draw Line: 58
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 4.476 (56)
     SLM: 83.1 (57)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "MISS - #14 Ole Miss def. #56 Belmont"
   USTA: "MISS - #21 Ole Miss def. Belmont"
   Coach: "MISS - #16 Ole Miss def. Belmont"
+  Seeding: "MISS - #1 Ole Miss def. #4 Belmont"
 Lineups:
   Predictions:
     Average EWPs for MISS: 84%,92%,91%,92%,91%,91%

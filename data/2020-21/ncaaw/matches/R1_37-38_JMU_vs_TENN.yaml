@@ -9,6 +9,8 @@ Home:
   Team: Tennessee
   Entry: At-Large Bid
   Draw Line: 37
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 46.781 (15)
     SLM: 90.431 (19)
@@ -22,6 +24,8 @@ Visitor:
   Team: James Madison
   Entry: Automatic Qualifier
   Draw Line: 38
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 8.952 (46)
     SLM: 84.231 (47)
@@ -36,6 +40,7 @@ Predictions:
   ITA: "TENN - #15 Tennessee def. #46 James Madison"
   USTA: "TENN - #19 Tennessee def. James Madison"
   Coach: "TENN - #16 Tennessee def. James Madison"
+  Seeding: "TENN - #2 Tennessee def. #3 James Madison"
 Lineups:
   Predictions:
     Average EWPs for TENN: 74%,84%,90%,87%,82%,84%

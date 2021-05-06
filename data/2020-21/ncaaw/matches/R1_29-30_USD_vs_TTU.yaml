@@ -9,6 +9,8 @@ Home:
   Team: Texas Tech
   Entry: At-Large Bid
   Draw Line: 29
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 28.067 (29)
     SLM: 87.918 (34)
@@ -21,6 +23,8 @@ Visitor:
   Team: San Diego
   Entry: At-Large Bid
   Draw Line: 30
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 19.118 (39)
     SLM: 87.644 (36)
@@ -36,6 +40,7 @@ Predictions:
   UTR: "TTU - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)"
   ITA: "TTU - #29 Texas Tech def. #39 San Diego"
   Coach: "TTU - #29 Texas Tech def. #47 San Diego"
+  Seeding: "TTU - #2 Texas Tech def. #3 San Diego"
 Lineups:
   Predictions:
     Average EWPs for TTU: 17%,66%,40%,52%,79%,78%

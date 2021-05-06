@@ -9,6 +9,8 @@ Home:
   Team: Alabama
   Entry: At-Large Bid
   Draw Line: 61
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 30.96 (26)
     SLM: 93.057 (28)
@@ -21,6 +23,8 @@ Visitor:
   Team: Oregon
   Entry: At-Large Bid
   Draw Line: 62
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 23.545 (36)
     SLM: 91.521 (44)
@@ -28,7 +32,7 @@ Visitor:
     MAS: 7.51 (30)
     UTR: 76.78 (33)
   Polls:
-    USTA: .nan
+    USTA: NR
     Coach: 41
 Predictions:
   SLM: "BAMA - #28 Alabama (70%) def. #44 Oregon (30%)"
@@ -37,6 +41,7 @@ Predictions:
   UTR: "BAMA - #30 Alabama (+0.28) def. #33 Oregon (-0.28)"
   ITA: "BAMA - #26 Alabama def. #36 Oregon"
   Coach: "BAMA - #25 Alabama def. #41 Oregon"
+  Seeding: "BAMA - #2 Alabama def. #3 Oregon"
 Lineups:
   Predictions:
     Average EWPs for BAMA: 26%,29%,72%,45%,70%,74%

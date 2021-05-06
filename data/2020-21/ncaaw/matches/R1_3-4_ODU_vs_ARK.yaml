@@ -9,6 +9,8 @@ Home:
   Team: Arkansas
   Entry: At-Large Bid
   Draw Line: 3
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 26.025 (32)
     SLM: 87.394 (38)
@@ -21,6 +23,8 @@ Visitor:
   Team: Old Dominion
   Entry: Automatic Qualifier
   Draw Line: 4
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 28 (30)
     SLM: 89.207 (28)
@@ -28,7 +32,7 @@ Visitor:
     MAS: 7.37 (29)
     UTR: 59.77 (37)
   Polls:
-    USTA: .nan
+    USTA: RV
     Coach: 32
 Predictions:
   SLM: "ODU - #28 Old Dominion (74%) def. #38 Arkansas (26%)"
@@ -37,6 +41,7 @@ Predictions:
   UTR: "ODU - #37 Old Dominion (+0.12) def. #38 Arkansas (-0.12)"
   ITA: "ODU - #30 Old Dominion def. #32 Arkansas"
   Coach: "ODU - #32 Old Dominion def. #33 Arkansas"
+  Seeding: "ODU - #2 Old Dominion def. #3 Arkansas"
 Lineups:
   Predictions:
     Average EWPs for ARK: 59%,35%,31%,71%,34%,42%

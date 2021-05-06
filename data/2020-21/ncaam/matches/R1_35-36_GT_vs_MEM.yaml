@@ -9,6 +9,8 @@ Home:
   Team: Memphis
   Entry: At-Large Bid
   Draw Line: 35
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 22.187 (38)
     SLM: 91.895 (41)
@@ -21,6 +23,8 @@ Visitor:
   Team: Georgia Tech
   Entry: At-Large Bid
   Draw Line: 36
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 27.754 (30)
     SLM: 93.356 (27)
@@ -28,7 +32,7 @@ Visitor:
     MAS: 7.67 (25)
     UTR: 76.54 (36)
   Polls:
-    USTA: .nan
+    USTA: RV
     Coach: 31
 Predictions:
   SLM: "GT - #27 Georgia Tech (70%) def. #41 Memphis (30%)"
@@ -37,6 +41,7 @@ Predictions:
   UTR: "GT - #36 Georgia Tech (+1.14) def. #43 Memphis (-1.14)"
   ITA: "GT - #30 Georgia Tech def. #38 Memphis"
   Coach: "GT - #31 Georgia Tech def. #35 Memphis"
+  Seeding: "GT - #2 Georgia Tech def. #3 Memphis"
 Lineups:
   Predictions:
     Average EWPs for MEM: 26%,19%,32%,22%,66%,28%

@@ -6,10 +6,12 @@ Title: "Charleston So. vs #9 UCF"
 URL: https://www.ncaa.com/game/5833651
 Winner: TBD
 Home:
-  Seed: 9
   Team: UCF
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 9
+  Seeding:
+    Overall: 9
+    Region: 1
   Ratings:
     ITA: 52.137 (9)
     SLM: 91.408 (12)
@@ -23,6 +25,8 @@ Visitor:
   Team: Charleston So.
   Entry: Automatic Qualifier
   Draw Line: 10
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 2.773 (58)
     SLM: 75.629 (60)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "UCF - #9 UCF def. #58 Charleston So."
   USTA: "UCF - #9 UCF def. Charleston So."
   Coach: "UCF - #9 UCF def. Charleston So."
+  Seeding: "UCF - #1 UCF def. #4 Charleston So."
 Lineups:
   Predictions:
     Average EWPs for UCF: 92%,92%,92%,93%,92%,7%

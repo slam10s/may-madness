@@ -6,10 +6,12 @@ Title: "South Alabama vs #1 Florida"
 URL: https://www.ncaa.com/game/5833370
 Winner: TBD
 Home:
-  Seed: 1
   Team: Florida
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 1
+  Seeding:
+    Overall: 1
+    Region: 1
   Ratings:
     ITA: 81.085 (2)
     SLM: 99.767 (2)
@@ -23,6 +25,8 @@ Visitor:
   Team: South Alabama
   Entry: Automatic Qualifier
   Draw Line: 2
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 6.833 (53)
     SLM: 87.642 (50)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "FLA - #2 Florida def. #53 South Alabama"
   USTA: "FLA - #2 Florida def. South Alabama"
   Coach: "FLA - #2 Florida def. South Alabama"
+  Seeding: "FLA - #1 Florida def. #4 South Alabama"
 Lineups:
   Predictions:
     Average EWPs for FLA: 87%,87%,90%,90%,91%,93%

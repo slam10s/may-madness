@@ -9,6 +9,8 @@ Home:
   Team: UC Santa Barbara
   Entry: Automatic Qualifier
   Draw Line: 19
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 14.681 (44)
     SLM: 87.384 (39)
@@ -19,6 +21,8 @@ Visitor:
   Team: Stanford
   Entry: At-Large Bid
   Draw Line: 20
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 35.106 (28)
     SLM: 90.017 (23)
@@ -36,6 +40,7 @@ Predictions:
   ITA: "STAN - #28 Stanford def. #44 UC Santa Barbara"
   USTA: "STAN - #18 Stanford def. UC Santa Barbara"
   Coach: "STAN - #26 Stanford def. UC Santa Barbara"
+  Seeding: "STAN - #2 Stanford def. #3 UC Santa Barbara"
 Lineups:
   Predictions:
     Average EWPs for UCSB: 21%,19%,52%,8%,8%,8%

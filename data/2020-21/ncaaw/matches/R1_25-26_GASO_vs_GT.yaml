@@ -6,10 +6,12 @@ Title: "Ga. Southern vs #13 Georgia Tech"
 URL: https://www.ncaa.com/game/5833659
 Winner: TBD
 Home:
-  Seed: 13
   Team: Georgia Tech
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 25
+  Seeding:
+    Overall: 13
+    Region: 1
   Ratings:
     ITA: 48.316 (13)
     SLM: 90.34 (20)
@@ -18,11 +20,13 @@ Home:
     UTR: 61.54 (24)
   Polls:
     USTA: 15
-    Coach: .nan
+    Coach: T11
 Visitor:
   Team: Ga. Southern
   Entry: Automatic Qualifier
   Draw Line: 26
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 4.077 (53)
     SLM: 78.879 (53)
@@ -36,6 +40,7 @@ Predictions:
   UTR: "GT - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)"
   ITA: "GT - #13 Georgia Tech def. #53 Ga. Southern"
   USTA: "GT - #15 Georgia Tech def. Ga. Southern"
+  Seeding: "GT - #1 Georgia Tech def. #4 Ga. Southern"
 Lineups:
   Predictions:
     Average EWPs for GT: 92%,92%,87%,91%,87%,92%

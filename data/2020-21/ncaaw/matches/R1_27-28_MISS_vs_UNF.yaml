@@ -9,6 +9,8 @@ Home:
   Team: North Florida
   Entry: Automatic Qualifier
   Draw Line: 27
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 8 (48)
     SLM: 84.689 (46)
@@ -19,6 +21,8 @@ Visitor:
   Team: Ole Miss
   Entry: At-Large Bid
   Draw Line: 28
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 38.655 (25)
     SLM: 89.341 (26)
@@ -26,7 +30,7 @@ Visitor:
     MAS: 7.37 (29)
     UTR: 61.75 (20)
   Polls:
-    USTA: .nan
+    USTA: NR
     Coach: 25
 Predictions:
   SLM: "MISS - #26 Ole Miss (94%) def. #46 North Florida (6%)"
@@ -35,6 +39,7 @@ Predictions:
   UTR: "MISS - #20 Ole Miss (+3.3) def. #44 North Florida (-3.3)"
   ITA: "MISS - #25 Ole Miss def. #48 North Florida"
   Coach: "MISS - #25 Ole Miss def. North Florida"
+  Seeding: "MISS - #2 Ole Miss def. #3 North Florida"
 Lineups:
   Predictions:
     Average EWPs for UNF: 19%,42%,11%,10%,33%,11%

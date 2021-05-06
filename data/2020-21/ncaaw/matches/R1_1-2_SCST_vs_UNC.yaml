@@ -6,10 +6,12 @@ Title: "South Carolina St. vs #1 North Carolina"
 URL: https://www.ncaa.com/game/5833647
 Winner: TBD
 Home:
-  Seed: 1
   Team: North Carolina
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 1
+  Seeding:
+    Overall: 1
+    Region: 1
   Ratings:
     ITA: 87.725 (1)
     SLM: 100 (1)
@@ -23,6 +25,8 @@ Visitor:
   Team: South Carolina St.
   Entry: Automatic Qualifier
   Draw Line: 2
+  Seeding:
+    Region: 4
   Ratings:
     SLM: 70.676 (62)
     TRN: 58.72 (61)
@@ -36,6 +40,7 @@ Predictions:
   ITA: "UNC - #1 North Carolina def. South Carolina St."
   USTA: "UNC - #1 North Carolina def. South Carolina St."
   Coach: "UNC - #1 North Carolina def. South Carolina St."
+  Seeding: "UNC - #1 North Carolina def. #4 South Carolina St."
 Lineups:
   Predictions:
     Average EWPs for UNC: 93%,93%,93%,93%,93%,93%

@@ -6,10 +6,12 @@ Title: "LIU vs #14 Virginia"
 URL: https://www.ncaa.com/game/5833666
 Winner: TBD
 Home:
-  Seed: 14
   Team: Virginia
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 40
+  Seeding:
+    Overall: 14
+    Region: 1
   Ratings:
     ITA: 47.674 (14)
     SLM: 91.876 (9)
@@ -18,11 +20,13 @@ Home:
     UTR: 62.41 (13)
   Polls:
     USTA: 10
-    Coach: .nan
+    Coach: T11
 Visitor:
   Team: LIU
   Entry: Automatic Qualifier
   Draw Line: 39
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 4.2 (52)
     SLM: 70.794 (61)
@@ -36,6 +40,7 @@ Predictions:
   UTR: "UVA - #13 Virginia (+12.56) def. #60 LIU (-12.56)"
   ITA: "UVA - #14 Virginia def. #52 LIU"
   USTA: "UVA - #10 Virginia def. LIU"
+  Seeding: "UVA - #1 Virginia def. #4 LIU"
 Lineups:
   Predictions:
     Average EWPs for UVA: 93%,93%,93%,93%,7%,93%

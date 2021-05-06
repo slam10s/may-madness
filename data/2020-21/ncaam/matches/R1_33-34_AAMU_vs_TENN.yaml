@@ -6,10 +6,12 @@ Title: "Alabama A&M vs #3 Tennessee"
 URL: https://www.ncaa.com/game/5833386
 Winner: TBD
 Home:
-  Seed: 3
   Team: Tennessee
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 33
+  Seeding:
+    Overall: 3
+    Region: 1
   Ratings:
     ITA: 74.511 (3)
     SLM: 99.183 (4)
@@ -23,6 +25,8 @@ Visitor:
   Team: Alabama A&M
   Entry: Automatic Qualifier
   Draw Line: 34
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 1.605 (63)
     SLM: 76.008 (64)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "TENN - #3 Tennessee def. #63 Alabama A&M"
   USTA: "TENN - #4 Tennessee def. Alabama A&M"
   Coach: "TENN - #3 Tennessee def. Alabama A&M"
+  Seeding: "TENN - #1 Tennessee def. #4 Alabama A&M"
 Lineups:
   Predictions:
     Average EWPs for TENN: 93%,93%,93%,93%,93%,93%

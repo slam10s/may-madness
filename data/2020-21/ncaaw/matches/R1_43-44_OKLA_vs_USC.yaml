@@ -9,6 +9,8 @@ Home:
   Team: Southern California
   Entry: At-Large Bid
   Draw Line: 43
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 23.168 (35)
     SLM: 87.724 (35)
@@ -21,6 +23,8 @@ Visitor:
   Team: Oklahoma
   Entry: At-Large Bid
   Draw Line: 44
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 39.041 (23)
     SLM: 91.06 (13)
@@ -38,6 +42,7 @@ Predictions:
   ITA: "OKLA - #23 Oklahoma def. #35 Southern California"
   USTA: "OKLA - #22 Oklahoma def. Southern California"
   Coach: "OKLA - #24 Oklahoma def. #34 Southern California"
+  Seeding: "OKLA - #2 Oklahoma def. #3 Southern California"
 Lineups:
   Predictions:
     Average EWPs for USC: 62%,52%,7%,79%,73%,93%

@@ -6,10 +6,12 @@ Title: "Northern Ariz. vs #4 Texas"
 URL: https://www.ncaa.com/game/5833385
 Winner: TBD
 Home:
-  Seed: 4
   Team: Texas
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 32
+  Seeding:
+    Overall: 4
+    Region: 1
   Ratings:
     ITA: 74.244 (5)
     SLM: 97.594 (8)
@@ -23,6 +25,8 @@ Visitor:
   Team: Northern Ariz.
   Entry: Automatic Qualifier
   Draw Line: 31
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 2.133 (61)
     SLM: 82.402 (58)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "TEX - #5 Texas def. #61 Northern Ariz."
   USTA: "TEX - #6 Texas def. Northern Ariz."
   Coach: "TEX - #4 Texas def. Northern Ariz."
+  Seeding: "TEX - #1 Texas def. #4 Northern Ariz."
 Lineups:
   Predictions:
     Average EWPs for TEX: 91%,91%,93%,92%,89%,91%

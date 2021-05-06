@@ -6,10 +6,12 @@ Title: "Presbyterian vs #6 North Carolina"
 URL: https://www.ncaa.com/game/5833393
 Winner: TBD
 Home:
-  Seed: 6
   Team: North Carolina
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 48
+  Seeding:
+    Overall: 6
+    Region: 1
   Ratings:
     ITA: 72.023 (6)
     SLM: 99.372 (3)
@@ -23,6 +25,8 @@ Visitor:
   Team: Presbyterian
   Entry: Automatic Qualifier
   Draw Line: 47
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 3.972 (59)
     SLM: 82.258 (59)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "UNC - #6 North Carolina def. #59 Presbyterian"
   USTA: "UNC - #5 North Carolina def. Presbyterian"
   Coach: "UNC - #6 North Carolina def. Presbyterian"
+  Seeding: "UNC - #1 North Carolina def. #4 Presbyterian"
 Lineups:
   Predictions:
     Average EWPs for UNC: 92%,93%,89%,93%,92%,92%

@@ -6,10 +6,12 @@ Title: "Cleveland St. vs #14 Kentucky"
 URL: https://www.ncaa.com/game/5833389
 Winner: TBD
 Home:
-  Seed: 14
   Team: Kentucky
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 40
+  Seeding:
+    Overall: 14
+    Region: 1
   Ratings:
     ITA: 44.704 (15)
     SLM: 95.866 (17)
@@ -23,6 +25,8 @@ Visitor:
   Team: Cleveland St.
   Entry: Automatic Qualifier
   Draw Line: 39
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 4.429 (57)
     SLM: 84.355 (56)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "UK - #15 Kentucky def. #57 Cleveland St."
   USTA: "UK - #17 Kentucky def. Cleveland St."
   Coach: "UK - #15 Kentucky def. Cleveland St."
+  Seeding: "UK - #1 Kentucky def. #4 Cleveland St."
 Lineups:
   Predictions:
     Average EWPs for UK: 92%,90%,90%,90%,92%,91%

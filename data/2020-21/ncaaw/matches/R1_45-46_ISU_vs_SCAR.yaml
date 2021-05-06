@@ -9,6 +9,8 @@ Home:
   Team: South Carolina
   Entry: At-Large Bid
   Draw Line: 45
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 39.212 (22)
     SLM: 89.339 (27)
@@ -16,12 +18,14 @@ Home:
     MAS: 7.41 (27)
     UTR: 61.31 (29)
   Polls:
-    USTA: .nan
+    USTA: RV
     Coach: 23
 Visitor:
   Team: Iowa St.
   Entry: At-Large Bid
   Draw Line: 46
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 22.348 (36)
     SLM: 86.706 (41)
@@ -37,6 +41,7 @@ Predictions:
   UTR: "SCAR - #29 South Carolina (+2.24) def. #39 Iowa St. (-2.24)"
   ITA: "SCAR - #22 South Carolina def. #36 Iowa St."
   Coach: "SCAR - #23 South Carolina def. #36 Iowa St."
+  Seeding: "SCAR - #2 South Carolina def. #3 Iowa St."
 Lineups:
   Predictions:
     Average EWPs for SCAR: 81%,82%,53%,85%,50%,28%

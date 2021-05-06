@@ -9,6 +9,8 @@ Home:
   Team: Arizona St.
   Entry: At-Large Bid
   Draw Line: 61
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 26.088 (31)
     SLM: 88.196 (31)
@@ -16,12 +18,14 @@ Home:
     MAS: 7.65 (24)
     UTR: 61.59 (23)
   Polls:
-    USTA: .nan
+    USTA: RV
     Coach: 30
 Visitor:
   Team: Mississippi St.
   Entry: At-Large Bid
   Draw Line: 62
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 19.836 (38)
     SLM: 86.6 (42)
@@ -37,6 +41,7 @@ Predictions:
   UTR: "AZST - #23 Arizona St. (+1.75) def. #36 Mississippi St. (-1.75)"
   ITA: "AZST - #31 Arizona St. def. #38 Mississippi St."
   Coach: "AZST - #30 Arizona St. def. #38 Mississippi St."
+  Seeding: "AZST - #2 Arizona St. def. #3 Mississippi St."
 Lineups:
   Predictions:
     Average EWPs for AZST: 43%,59%,74%,73%,76%,56%

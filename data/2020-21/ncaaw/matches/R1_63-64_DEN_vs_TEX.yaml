@@ -6,10 +6,12 @@ Title: "Denver vs #2 Texas"
 URL: https://www.ncaa.com/game/5833678
 Winner: TBD
 Home:
-  Seed: 2
   Team: Texas
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 64
+  Seeding:
+    Overall: 2
+    Region: 1
   Ratings:
     ITA: 79.185 (2)
     SLM: 98.435 (2)
@@ -23,6 +25,8 @@ Visitor:
   Team: Denver
   Entry: Automatic Qualifier
   Draw Line: 63
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 11.657 (45)
     SLM: 84.922 (45)
@@ -39,6 +43,7 @@ Predictions:
   ITA: "TEX - #2 Texas def. #45 Denver"
   USTA: "TEX - #2 Texas def. Denver"
   Coach: "TEX - #2 Texas def. #49 Denver"
+  Seeding: "TEX - #1 Texas def. #4 Denver"
 Lineups:
   Predictions:
     Average EWPs for TEX: 79%,89%,92%,93%,93%,92%

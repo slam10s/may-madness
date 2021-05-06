@@ -6,10 +6,12 @@ Title: "San Jose St. vs #16 California"
 URL: https://www.ncaa.com/game/5833650
 Winner: TBD
 Home:
-  Seed: 16
   Team: California
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 8
+  Seeding:
+    Overall: 16
+    Region: 1
   Ratings:
     ITA: 45.98 (16)
     SLM: 90.466 (17)
@@ -23,6 +25,8 @@ Visitor:
   Team: San Jose St.
   Entry: Automatic Qualifier
   Draw Line: 7
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 8.043 (47)
     SLM: 80.343 (50)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "CAL - #16 California def. #47 San Jose St."
   USTA: "CAL - #13 California def. San Jose St."
   Coach: "CAL - #17 California def. San Jose St."
+  Seeding: "CAL - #1 California def. #4 San Jose St."
 Lineups:
   Predictions:
     Average EWPs for CAL: 89%,91%,88%,91%,93%,92%

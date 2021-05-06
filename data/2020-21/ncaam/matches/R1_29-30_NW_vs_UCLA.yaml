@@ -9,6 +9,8 @@ Home:
   Team: UCLA
   Entry: At-Large Bid
   Draw Line: 29
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 32.146 (24)
     SLM: 93.839 (23)
@@ -22,6 +24,8 @@ Visitor:
   Team: Northwestern
   Entry: At-Large Bid
   Draw Line: 30
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 7.95 (50)
     SLM: 92.885 (33)
@@ -38,6 +42,7 @@ Predictions:
   ITA: "UCLA - #24 UCLA def. #50 Northwestern"
   USTA: "UCLA - #22 UCLA def. Northwestern"
   Coach: "UCLA - #29 UCLA def. #49 Northwestern"
+  Seeding: "UCLA - #2 UCLA def. #3 Northwestern"
 Lineups:
   Predictions:
     Average EWPs for UCLA: 74%,52%,33%,43%,58%,40%

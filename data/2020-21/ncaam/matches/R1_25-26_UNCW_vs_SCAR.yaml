@@ -6,10 +6,12 @@ Title: "UNCW vs #13 South Carolina"
 URL: https://www.ncaa.com/game/5833382
 Winner: TBD
 Home:
-  Seed: 13
   Team: South Carolina
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 25
+  Seeding:
+    Overall: 13
+    Region: 1
   Ratings:
     ITA: 50.948 (13)
     SLM: 96.202 (15)
@@ -23,6 +25,8 @@ Visitor:
   Team: UNCW
   Entry: Automatic Qualifier
   Draw Line: 26
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 7.929 (51)
     SLM: 88.868 (48)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "SCAR - #13 South Carolina def. #51 UNCW"
   USTA: "SCAR - #15 South Carolina def. UNCW"
   Coach: "SCAR - #13 South Carolina def. UNCW"
+  Seeding: "SCAR - #1 South Carolina def. #4 UNCW"
 Lineups:
   Predictions:
     Average EWPs for SCAR: 90%,88%,87%,89%,87%,87%

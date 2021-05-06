@@ -9,6 +9,8 @@ Home:
   Team: Ball St.
   Entry: Automatic Qualifier
   Draw Line: 59
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 4.347 (51)
     SLM: 79.303 (52)
@@ -19,6 +21,8 @@ Visitor:
   Team: Vanderbilt
   Entry: At-Large Bid
   Draw Line: 60
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 35.193 (27)
     SLM: 88.871 (29)
@@ -34,6 +38,7 @@ Predictions:
   UTR: "VANDY - #28 Vanderbilt (+6.81) def. #51 Ball St. (-6.81)"
   ITA: "VANDY - #27 Vanderbilt def. #51 Ball St."
   Coach: "VANDY - #28 Vanderbilt def. Ball St."
+  Seeding: "VANDY - #2 Vanderbilt def. #3 Ball St."
 Lineups:
   Predictions:
     Average EWPs for BALL: 10%,11%,11%,8%,9%,8%

@@ -6,10 +6,12 @@ Title: "Monmouth vs #9 UCF"
 URL: https://www.ncaa.com/game/5833374
 Winner: TBD
 Home:
-  Seed: 9
   Team: UCF
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 9
+  Seeding:
+    Overall: 9
+    Region: 1
   Ratings:
     ITA: 54.953 (10)
     SLM: 96.589 (12)
@@ -17,12 +19,14 @@ Home:
     MAS: 8.63 (7)
     UTR: 79.08 (12)
   Polls:
-    USTA: .nan
+    USTA: T10
     Coach: 9
 Visitor:
   Team: Monmouth
   Entry: Automatic Qualifier
   Draw Line: 10
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 4.412 (58)
     SLM: 82.179 (61)
@@ -36,6 +40,7 @@ Predictions:
   UTR: "UCF - #12 UCF (+9.47) def. #62 Monmouth (-9.47)"
   ITA: "UCF - #10 UCF def. #58 Monmouth"
   Coach: "UCF - #9 UCF def. Monmouth"
+  Seeding: "UCF - #1 UCF def. #4 Monmouth"
 Lineups:
   Predictions:
     Average EWPs for UCF: 92%,92%,92%,93%,93%,92%

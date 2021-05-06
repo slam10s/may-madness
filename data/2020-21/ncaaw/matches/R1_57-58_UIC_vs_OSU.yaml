@@ -6,10 +6,12 @@ Title: "UIC vs #15 Ohio St."
 URL: https://www.ncaa.com/game/5833675
 Winner: TBD
 Home:
-  Seed: 15
   Team: Ohio St.
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 57
+  Seeding:
+    Overall: 15
+    Region: 1
   Ratings:
     ITA: 43.022 (18)
     SLM: 92.947 (5)
@@ -23,6 +25,8 @@ Visitor:
   Team: UIC
   Entry: Automatic Qualifier
   Draw Line: 58
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 2.423 (59)
     SLM: 76.421 (57)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "OSU - #18 Ohio St. def. #59 UIC"
   USTA: "OSU - #6 Ohio St. def. UIC"
   Coach: "OSU - #13 Ohio St. def. UIC"
+  Seeding: "OSU - #1 Ohio St. def. #4 UIC"
 Lineups:
   Predictions:
     Average EWPs for OSU: 93%,92%,87%,92%,93%,93%

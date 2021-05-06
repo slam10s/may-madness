@@ -9,6 +9,8 @@ Home:
   Team: Duke
   Entry: At-Large Bid
   Draw Line: 3
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 25.154 (35)
     SLM: 92.997 (31)
@@ -21,6 +23,8 @@ Visitor:
   Team: South Fla.
   Entry: At-Large Bid
   Draw Line: 4
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 26.138 (32)
     SLM: 92.976 (32)
@@ -36,6 +40,7 @@ Predictions:
   UTR: "DUKE - #32 Duke (+0.35) def. #37 South Fla. (-0.35)"
   ITA: "USF - #32 South Fla. def. #35 Duke"
   Coach: "USF - #33 South Fla. def. #36 Duke"
+  Seeding: "USF - #2 South Fla. def. #3 Duke"
 Lineups:
   Predictions:
     Average EWPs for DUKE: 48%,36%,58%,60%,60%,44%

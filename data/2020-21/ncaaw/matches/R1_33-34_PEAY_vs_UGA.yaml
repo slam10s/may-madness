@@ -6,10 +6,12 @@ Title: "Austin Peay vs #3 Georgia"
 URL: https://www.ncaa.com/game/5833663
 Winner: TBD
 Home:
-  Seed: 3
   Team: Georgia
-  Entry: Automatic Qualifier
+  Entry: Regional Host
   Draw Line: 33
+  Seeding:
+    Overall: 3
+    Region: 1
   Ratings:
     ITA: 74.012 (3)
     SLM: 97.805 (3)
@@ -23,6 +25,8 @@ Visitor:
   Team: Austin Peay
   Entry: Automatic Qualifier
   Draw Line: 34
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 3.35 (57)
     SLM: 77.216 (56)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "UGA - #3 Georgia def. #57 Austin Peay"
   USTA: "UGA - #3 Georgia def. Austin Peay"
   Coach: "UGA - #3 Georgia def. Austin Peay"
+  Seeding: "UGA - #1 Georgia def. #4 Austin Peay"
 Lineups:
   Predictions:
     Average EWPs for UGA: 93%,93%,93%,93%,93%,93%

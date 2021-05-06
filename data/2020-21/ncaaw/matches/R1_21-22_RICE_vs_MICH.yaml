@@ -9,6 +9,8 @@ Home:
   Team: Michigan
   Entry: At-Large Bid
   Draw Line: 21
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 41.216 (19)
     SLM: 91.953 (8)
@@ -22,6 +24,8 @@ Visitor:
   Team: Rice
   Entry: At-Large Bid
   Draw Line: 22
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 18.245 (40)
     SLM: 87.142 (40)
@@ -38,6 +42,7 @@ Predictions:
   ITA: "MICH - #19 Michigan def. #40 Rice"
   USTA: "MICH - #7 Michigan def. Rice"
   Coach: "MICH - #18 Michigan def. #39 Rice"
+  Seeding: "MICH - #2 Michigan def. #3 Rice"
 Lineups:
   Predictions:
     Average EWPs for MICH: 89%,75%,66%,62%,73%,56%

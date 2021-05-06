@@ -9,6 +9,8 @@ Home:
   Team: Virginia Tech
   Entry: At-Large Bid
   Draw Line: 43
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 28.315 (29)
     SLM: 93.023 (30)
@@ -21,6 +23,8 @@ Visitor:
   Team: Texas Tech
   Entry: At-Large Bid
   Draw Line: 44
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 31.336 (25)
     SLM: 92.599 (35)
@@ -28,7 +32,7 @@ Visitor:
     MAS: 7.55 (28)
     UTR: 76.66 (35)
   Polls:
-    USTA: .nan
+    USTA: RV
     Coach: 27
 Predictions:
   SLM: "VT - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)"
@@ -37,6 +41,7 @@ Predictions:
   UTR: "VT - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)"
   ITA: "TTU - #25 Texas Tech def. #29 Virginia Tech"
   Coach: "TTU - #27 Texas Tech def. #34 Virginia Tech"
+  Seeding: "TTU - #2 Texas Tech def. #3 Virginia Tech"
 Lineups:
   Predictions:
     Average EWPs for VT: 77%,53%,73%,40%,62%,57%

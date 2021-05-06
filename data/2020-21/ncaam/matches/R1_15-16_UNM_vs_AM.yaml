@@ -6,10 +6,12 @@ Title: "New Mexico vs #8 Texas A&M"
 URL: https://www.ncaa.com/game/5833377
 Winner: TBD
 Home:
-  Seed: 8
   Team: Texas A&M
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 16
+  Seeding:
+    Overall: 8
+    Region: 1
   Ratings:
     ITA: 63.687 (8)
     SLM: 96.972 (11)
@@ -23,6 +25,8 @@ Visitor:
   Team: New Mexico
   Entry: Automatic Qualifier
   Draw Line: 15
+  Seeding:
+    Region: 4
   Ratings:
     ITA: 7.44 (52)
     SLM: 87.221 (53)
@@ -37,6 +41,7 @@ Predictions:
   ITA: "A&M - #8 Texas A&M def. #52 New Mexico"
   USTA: "A&M - #14 Texas A&M def. New Mexico"
   Coach: "A&M - #8 Texas A&M def. New Mexico"
+  Seeding: "A&M - #1 Texas A&M def. #4 New Mexico"
 Lineups:
   Predictions:
     Average EWPs for A&M: 88%,90%,89%,89%,91%,89%

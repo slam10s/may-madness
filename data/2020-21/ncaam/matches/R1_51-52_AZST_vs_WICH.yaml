@@ -9,6 +9,8 @@ Home:
   Team: Wichita St.
   Entry: At-Large Bid
   Draw Line: 51
+  Seeding:
+    Region: 3
   Ratings:
     ITA: 25.336 (33)
     SLM: 92.047 (39)
@@ -21,6 +23,8 @@ Visitor:
   Team: Arizona St.
   Entry: At-Large Bid
   Draw Line: 52
+  Seeding:
+    Region: 2
   Ratings:
     ITA: 34.844 (20)
     SLM: 93.56 (25)
@@ -38,6 +42,7 @@ Predictions:
   ITA: "AZST - #20 Arizona St. def. #33 Wichita St."
   USTA: "AZST - #19 Arizona St. def. Wichita St."
   Coach: "AZST - #22 Arizona St. def. #32 Wichita St."
+  Seeding: "AZST - #2 Arizona St. def. #3 Wichita St."
 Lineups:
   Predictions:
     Average EWPs for WICH: 50%,81%,18%,65%,35%,37%
