@@ -4,7 +4,7 @@ Friday, May 7 at 4:00 EDT
 
 <table><tr><td>  
 
-[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png)](../index.md)  
+[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" />](../index.md)  
 
 ### #1 Southern California  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="50" height="50" />](../index.md)  
+[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" />](../index.md)  
 
 ### #4 Grand Canyon  
 
