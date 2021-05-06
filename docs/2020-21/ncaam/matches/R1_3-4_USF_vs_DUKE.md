@@ -3,7 +3,7 @@ Saturday, May 8 at 10:00 EDT
 ## [South Fla. vs Duke](https://www.ncaa.com/game/5833371) 
 
 <table>  
-<tr style="background-color: #155997 !important"><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></a></td><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" /></a></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></a></td><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" /></a></a></td></tr>
 <tr><td>  
 
 <h3>#3 <a href="../index.md">Duke</a></h3>  

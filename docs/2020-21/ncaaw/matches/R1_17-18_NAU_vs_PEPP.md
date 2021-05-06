@@ -3,7 +3,7 @@ Friday, May 7 at 5:00 EDT
 ## [Northern Ariz. vs #5 Pepperdine](https://www.ncaa.com/game/5833655) 
 
 <table>  
-<tr style="background-color: #155997 !important"><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a></a></td><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a></a></td><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a></a></td></tr>
 <tr><td>  
 
 <h3>#1 <a href="../index.md">Pepperdine</a></h3>  
