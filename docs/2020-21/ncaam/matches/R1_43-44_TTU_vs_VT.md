@@ -1,7 +1,7 @@
 First Round  
 Saturday, May 8 at 10:00 EDT
 
-## [Texas Tech vs Virginia Tech](https://www.ncaa.com/game/5833391)
+## [Texas Tech vs Virginia Tech](https://www.ncaa.com/game/5833391){:target="\_blank"}
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td>
