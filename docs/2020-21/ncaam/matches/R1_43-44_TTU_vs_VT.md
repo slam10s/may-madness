@@ -8,23 +8,23 @@ Saturday, May 8 at 10:00 EDT
 <tr><td>
 
 <h2>#3 <a href="#">Virginia Tech</a></h2>  
-ITA: 29 (28.32)<br>  
+&nbsp; ITA: 29 (28.32)<br>  
 &#10004; Slam: 30 (93.02)<br>  
 &#10004;TRN: 29 (91.09)<br>  
-Massey: 33 (7.47)<br>  
+&nbsp; Massey: 33 (7.47)<br>  
 &#10004; UTR: 34 (76.77)<br>  
-Coaches Poll: 34<br>  
+&nbsp; Coaches Poll: 34<br>  
 <br>
 
 </td><td>
 
 <h2>#2 <a href="#">Texas Tech</a></h2>  
 &#10004; ITA: 25 (31.34)<br>  
-Slam: 35 (92.60)<br>  
-TRN: 31 (90.98)<br>  
+&nbsp; Slam: 35 (92.60)<br>  
+&nbsp; TRN: 31 (90.98)<br>  
 &#10004; Massey: 28 (7.55)<br>  
-UTR: 35 (76.66)<br>  
-USTA Poll: RV<br>  
+&nbsp; UTR: 35 (76.66)<br>  
+&nbsp; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 27<br>  
 <br>
 
