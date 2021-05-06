@@ -16,14 +16,12 @@ Saturday, May 8 at 10:00 EDT
 
 <h3>#3 <a href="../">Virginia Tech</a></h3>
 
-<ol>  
-<li>ITA: 29 (28.32)</li>  
-<li>Slam: 30 (93.02)</li>  
-<li>TRN: 29 (91.09)</li>  
-<li>Massey: 33 (7.47)</li>  
-<li>UTR: 34 (76.77)</li>  
-<li>Coaches Poll: 34</li>  
-</ol>
+ITA: 29 (28.32)  
+Slam: 30 (93.02)  
+TRN: 29 (91.09)  
+Massey: 33 (7.47)  
+UTR: 34 (76.77)  
+Coaches Poll: 34
 
 </td><td>
 
