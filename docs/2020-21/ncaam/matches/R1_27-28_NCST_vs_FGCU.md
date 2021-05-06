@@ -9,11 +9,14 @@ Friday, May 7 at 10:00 EDT
 <h3>#3 <a href="../index.md">FGCU</a></h3>  
 
 Automatic Qualifier  
-- ITA: 47 (8.38)  
-- Slam: 49 (87.66)  
-- TRN: 50 (85.24)  
-- Massey: 53 (6.42)  
-- UTR: 52 (73.58)  
+
+<ol>  
+<li>ITA: 47 (8.38)</li>  
+<li>Slam: 49 (87.66)</li>  
+<li>TRN: 50 (85.24)</li>  
+<li>Massey: 53 (6.42)</li>  
+<li>UTR: 52 (73.58)</li>  
+</ol>  
 
 </td><td>  
 
@@ -22,13 +25,16 @@ Automatic Qualifier
 <h3>#2 <a href="../index.md">NC State</a></h3>  
 
 At-Large Bid  
-- ITA: 23 (32.39)  
-- Slam: 19 (94.44)  
-- TRN: 22 (92.30)  
-- Massey: 23 (7.70)  
-- UTR: 22 (78.11)  
-- USTA Poll: 25  
-- Coaches Poll: 28  
+
+<ol>  
+<li>ITA: 23 (32.39)</li>  
+<li>Slam: 19 (94.44)</li>  
+<li>TRN: 22 (92.30)</li>  
+<li>Massey: 23 (7.70)</li>  
+<li>UTR: 22 (78.11)</li>  
+<li>USTA Poll: 25</li>  
+<li>Coaches Poll: 28</li>  
+</ol>  
 
 </td></tr></table>  
 

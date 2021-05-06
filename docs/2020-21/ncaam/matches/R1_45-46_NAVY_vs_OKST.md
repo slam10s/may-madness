@@ -9,13 +9,16 @@ Saturday, May 8 at 10:00 EDT
 <h3>#2 <a href="../index.md">Oklahoma St.</a></h3>  
 
 At-Large Bid  
-- ITA: 19 (35.31)  
-- Slam: 24 (93.68)  
-- TRN: 23 (91.93)  
-- Massey: 29 (7.54)  
-- UTR: 19 (78.43)  
-- USTA Poll: RV  
-- Coaches Poll: 21  
+
+<ol>  
+<li>ITA: 19 (35.31)</li>  
+<li>Slam: 24 (93.68)</li>  
+<li>TRN: 23 (91.93)</li>  
+<li>Massey: 29 (7.54)</li>  
+<li>UTR: 19 (78.43)</li>  
+<li>USTA Poll: RV</li>  
+<li>Coaches Poll: 21</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Navy</a></h3>  
 
 Automatic Qualifier  
-- ITA: 48 (8.28)  
-- Slam: 54 (86.71)  
-- TRN: 48 (87.45)  
-- Massey: 56 (5.80)  
-- UTR: 58 (70.91)  
+
+<ol>  
+<li>ITA: 48 (8.28)</li>  
+<li>Slam: 54 (86.71)</li>  
+<li>TRN: 48 (87.45)</li>  
+<li>Massey: 56 (5.80)</li>  
+<li>UTR: 58 (70.91)</li>  
+</ol>  
 
 </td></tr></table>  
 

@@ -9,13 +9,16 @@ Friday, May 7 at 4:00 EDT
 <h3>#1 <a href="../index.md">Texas</a></h3>  
 
 Regional Host  
-- ITA: 2 (79.19)  
-- Slam: 2 (98.44)  
-- TRN: 2 (97.97)  
-- Massey: 2 (9.38)  
-- UTR: 1 (65.59)  
-- USTA Poll: 2  
-- Coaches Poll: 2  
+
+<ol>  
+<li>ITA: 2 (79.19)</li>  
+<li>Slam: 2 (98.44)</li>  
+<li>TRN: 2 (97.97)</li>  
+<li>Massey: 2 (9.38)</li>  
+<li>UTR: 1 (65.59)</li>  
+<li>USTA Poll: 2</li>  
+<li>Coaches Poll: 2</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,12 +27,15 @@ Regional Host
 <h3>#4 <a href="../index.md">Denver</a></h3>  
 
 Automatic Qualifier  
-- ITA: 45 (11.66)  
-- Slam: 45 (84.92)  
-- TRN: 45 (76.03)  
-- Massey: 43 (6.53)  
-- UTR: 45 (58.03)  
-- Coaches Poll: 49  
+
+<ol>  
+<li>ITA: 45 (11.66)</li>  
+<li>Slam: 45 (84.92)</li>  
+<li>TRN: 45 (76.03)</li>  
+<li>Massey: 43 (6.53)</li>  
+<li>UTR: 45 (58.03)</li>  
+<li>Coaches Poll: 49</li>  
+</ol>  
 
 </td></tr></table>  
 

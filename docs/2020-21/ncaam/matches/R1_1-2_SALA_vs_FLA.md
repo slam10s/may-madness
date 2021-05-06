@@ -9,13 +9,16 @@ Saturday, May 8 at 1:00 EDT
 <h3>#1 <a href="../index.md">Florida</a></h3>  
 
 Regional Host  
-- ITA: 2 (81.08)  
-- Slam: 2 (99.77)  
-- TRN: 3 (99.10)  
-- Massey: 1 (9.40)  
-- UTR: 1 (80.76)  
-- USTA Poll: 2  
-- Coaches Poll: 2  
+
+<ol>  
+<li>ITA: 2 (81.08)</li>  
+<li>Slam: 2 (99.77)</li>  
+<li>TRN: 3 (99.10)</li>  
+<li>Massey: 1 (9.40)</li>  
+<li>UTR: 1 (80.76)</li>  
+<li>USTA Poll: 2</li>  
+<li>Coaches Poll: 2</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">South Alabama</a></h3>  
 
 Automatic Qualifier  
-- ITA: 53 (6.83)  
-- Slam: 50 (87.64)  
-- TRN: 52 (84.26)  
-- Massey: 46 (6.79)  
-- UTR: 49 (73.92)  
+
+<ol>  
+<li>ITA: 53 (6.83)</li>  
+<li>Slam: 50 (87.64)</li>  
+<li>TRN: 52 (84.26)</li>  
+<li>Massey: 46 (6.79)</li>  
+<li>UTR: 49 (73.92)</li>  
+</ol>  
 
 </td></tr></table>  
 

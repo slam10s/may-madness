@@ -9,13 +9,16 @@ Friday, May 7 at 3:00 EDT
 <h3>#1 <a href="../index.md">Texas A&M</a></h3>  
 
 Regional Host  
-- ITA: 8 (63.69)  
-- Slam: 11 (96.97)  
-- TRN: 11 (95.89)  
-- Massey: 12 (8.53)  
-- UTR: 8 (79.76)  
-- USTA Poll: 14  
-- Coaches Poll: 8  
+
+<ol>  
+<li>ITA: 8 (63.69)</li>  
+<li>Slam: 11 (96.97)</li>  
+<li>TRN: 11 (95.89)</li>  
+<li>Massey: 12 (8.53)</li>  
+<li>UTR: 8 (79.76)</li>  
+<li>USTA Poll: 14</li>  
+<li>Coaches Poll: 8</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">New Mexico</a></h3>  
 
 Automatic Qualifier  
-- ITA: 52 (7.44)  
-- Slam: 53 (87.22)  
-- TRN: 54 (83.45)  
-- Massey: 48 (6.71)  
-- UTR: 51 (73.79)  
+
+<ol>  
+<li>ITA: 52 (7.44)</li>  
+<li>Slam: 53 (87.22)</li>  
+<li>TRN: 54 (83.45)</li>  
+<li>Massey: 48 (6.71)</li>  
+<li>UTR: 51 (73.79)</li>  
+</ol>  
 
 </td></tr></table>  
 

@@ -9,13 +9,16 @@ Friday, May 7 at 3:00 EDT
 <h3>#1 <a href="../index.md">Virginia</a></h3>  
 
 Regional Host  
-- ITA: 14 (47.67)  
-- Slam: 9 (91.88)  
-- TRN: 11 (84.03)  
-- Massey: 7 (8.25)  
-- UTR: 13 (62.41)  
-- USTA Poll: 10  
-- Coaches Poll: T11  
+
+<ol>  
+<li>ITA: 14 (47.67)</li>  
+<li>Slam: 9 (91.88)</li>  
+<li>TRN: 11 (84.03)</li>  
+<li>Massey: 7 (8.25)</li>  
+<li>UTR: 13 (62.41)</li>  
+<li>USTA Poll: 10</li>  
+<li>Coaches Poll: T11</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">LIU</a></h3>  
 
 Automatic Qualifier  
-- ITA: 52 (4.20)  
-- Slam: 61 (70.79)  
-- TRN: 63 (55.66)  
-- Massey: 61 (4.25)  
-- UTR: 60 (49.85)  
+
+<ol>  
+<li>ITA: 52 (4.20)</li>  
+<li>Slam: 61 (70.79)</li>  
+<li>TRN: 63 (55.66)</li>  
+<li>Massey: 61 (4.25)</li>  
+<li>UTR: 60 (49.85)</li>  
+</ol>  
 
 </td></tr></table>  
 

@@ -9,13 +9,16 @@ Friday, May 7 at 12:00 EDT
 <h3>#2 <a href="../index.md">South Carolina</a></h3>  
 
 At-Large Bid  
-- ITA: 22 (39.21)  
-- Slam: 27 (89.34)  
-- TRN: 28 (81.46)  
-- Massey: 27 (7.41)  
-- UTR: 29 (61.31)  
-- USTA Poll: RV  
-- Coaches Poll: 23  
+
+<ol>  
+<li>ITA: 22 (39.21)</li>  
+<li>Slam: 27 (89.34)</li>  
+<li>TRN: 28 (81.46)</li>  
+<li>Massey: 27 (7.41)</li>  
+<li>UTR: 29 (61.31)</li>  
+<li>USTA Poll: RV</li>  
+<li>Coaches Poll: 23</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,12 +27,15 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Iowa St.</a></h3>  
 
 At-Large Bid  
-- ITA: 36 (22.35)  
-- Slam: 41 (86.71)  
-- TRN: 42 (78.56)  
-- Massey: 39 (6.76)  
-- UTR: 39 (59.07)  
-- Coaches Poll: 36  
+
+<ol>  
+<li>ITA: 36 (22.35)</li>  
+<li>Slam: 41 (86.71)</li>  
+<li>TRN: 42 (78.56)</li>  
+<li>Massey: 39 (6.76)</li>  
+<li>UTR: 39 (59.07)</li>  
+<li>Coaches Poll: 36</li>  
+</ol>  
 
 </td></tr></table>  
 

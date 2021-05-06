@@ -9,12 +9,15 @@ Friday, May 7 at 12:00 EDT
 <h3>#2 <a href="../index.md">Oklahoma</a></h3>  
 
 At-Large Bid  
-- ITA: 27 (29.42)  
-- Slam: 29 (93.05)  
-- TRN: 28 (91.23)  
-- Massey: 37 (7.32)  
-- UTR: 28 (77.53)  
-- Coaches Poll: 26  
+
+<ol>  
+<li>ITA: 27 (29.42)</li>  
+<li>Slam: 29 (93.05)</li>  
+<li>TRN: 28 (91.23)</li>  
+<li>Massey: 37 (7.32)</li>  
+<li>UTR: 28 (77.53)</li>  
+<li>Coaches Poll: 26</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,12 +26,15 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Denver</a></h3>  
 
 Automatic Qualifier  
-- ITA: 45 (17.16)  
-- Slam: 42 (91.67)  
-- TRN: 35 (90.56)  
-- Massey: 38 (7.31)  
-- UTR: 46 (74.43)  
-- Coaches Poll: 44  
+
+<ol>  
+<li>ITA: 45 (17.16)</li>  
+<li>Slam: 42 (91.67)</li>  
+<li>TRN: 35 (90.56)</li>  
+<li>Massey: 38 (7.31)</li>  
+<li>UTR: 46 (74.43)</li>  
+<li>Coaches Poll: 44</li>  
+</ol>  
 
 </td></tr></table>  
 

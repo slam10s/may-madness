@@ -9,12 +9,15 @@ Saturday, May 8 at 12:00 EDT
 <h3>#3 <a href="../index.md">Wichita St.</a></h3>  
 
 At-Large Bid  
-- ITA: 33 (25.34)  
-- Slam: 39 (92.05)  
-- TRN: 37 (90.31)  
-- Massey: 41 (7.28)  
-- UTR: 39 (75.93)  
-- Coaches Poll: 32  
+
+<ol>  
+<li>ITA: 33 (25.34)</li>  
+<li>Slam: 39 (92.05)</li>  
+<li>TRN: 37 (90.31)</li>  
+<li>Massey: 41 (7.28)</li>  
+<li>UTR: 39 (75.93)</li>  
+<li>Coaches Poll: 32</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,13 +26,16 @@ At-Large Bid
 <h3>#2 <a href="../index.md">Arizona St.</a></h3>  
 
 At-Large Bid  
-- ITA: 20 (34.84)  
-- Slam: 25 (93.56)  
-- TRN: 25 (91.79)  
-- Massey: 24 (7.68)  
-- UTR: 23 (78.03)  
-- USTA Poll: 19  
-- Coaches Poll: 22  
+
+<ol>  
+<li>ITA: 20 (34.84)</li>  
+<li>Slam: 25 (93.56)</li>  
+<li>TRN: 25 (91.79)</li>  
+<li>Massey: 24 (7.68)</li>  
+<li>UTR: 23 (78.03)</li>  
+<li>USTA Poll: 19</li>  
+<li>Coaches Poll: 22</li>  
+</ol>  
 
 </td></tr></table>  
 

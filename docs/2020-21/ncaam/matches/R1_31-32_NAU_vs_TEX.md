@@ -9,13 +9,16 @@ Saturday, May 8 at 1:00 EDT
 <h3>#1 <a href="../index.md">Texas</a></h3>  
 
 Regional Host  
-- ITA: 5 (74.24)  
-- Slam: 8 (97.59)  
-- TRN: 7 (97.63)  
-- Massey: 11 (8.54)  
-- UTR: 14 (79.01)  
-- USTA Poll: 6  
-- Coaches Poll: 4  
+
+<ol>  
+<li>ITA: 5 (74.24)</li>  
+<li>Slam: 8 (97.59)</li>  
+<li>TRN: 7 (97.63)</li>  
+<li>Massey: 11 (8.54)</li>  
+<li>UTR: 14 (79.01)</li>  
+<li>USTA Poll: 6</li>  
+<li>Coaches Poll: 4</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Northern Ariz.</a></h3>  
 
 Automatic Qualifier  
-- ITA: 61 (2.13)  
-- Slam: 58 (82.40)  
-- TRN: 60 (77.79)  
-- Massey: 59 (5.53)  
-- UTR: 59 (70.85)  
+
+<ol>  
+<li>ITA: 61 (2.13)</li>  
+<li>Slam: 58 (82.40)</li>  
+<li>TRN: 60 (77.79)</li>  
+<li>Massey: 59 (5.53)</li>  
+<li>UTR: 59 (70.85)</li>  
+</ol>  
 
 </td></tr></table>  
 

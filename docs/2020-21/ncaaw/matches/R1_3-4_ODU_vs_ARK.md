@@ -9,12 +9,15 @@ Friday, May 7 at 10:00 EDT
 <h3>#3 <a href="../index.md">Arkansas</a></h3>  
 
 At-Large Bid  
-- ITA: 32 (26.02)  
-- Slam: 38 (87.39)  
-- TRN: 32 (79.87)  
-- Massey: 41 (6.74)  
-- UTR: 38 (59.65)  
-- Coaches Poll: 33  
+
+<ol>  
+<li>ITA: 32 (26.02)</li>  
+<li>Slam: 38 (87.39)</li>  
+<li>TRN: 32 (79.87)</li>  
+<li>Massey: 41 (6.74)</li>  
+<li>UTR: 38 (59.65)</li>  
+<li>Coaches Poll: 33</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,13 +26,16 @@ At-Large Bid
 <h3>#2 <a href="../index.md">Old Dominion</a></h3>  
 
 Automatic Qualifier  
-- ITA: 30 (28.00)  
-- Slam: 28 (89.21)  
-- TRN: 25 (81.50)  
-- Massey: 29 (7.37)  
-- UTR: 37 (59.77)  
-- USTA Poll: RV  
-- Coaches Poll: 32  
+
+<ol>  
+<li>ITA: 30 (28.00)</li>  
+<li>Slam: 28 (89.21)</li>  
+<li>TRN: 25 (81.50)</li>  
+<li>Massey: 29 (7.37)</li>  
+<li>UTR: 37 (59.77)</li>  
+<li>USTA Poll: RV</li>  
+<li>Coaches Poll: 32</li>  
+</ol>  
 
 </td></tr></table>  
 

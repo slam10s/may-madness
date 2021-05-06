@@ -9,13 +9,16 @@ Friday, May 7 at 5:00 EDT
 <h3>#1 <a href="../index.md">Wake Forest</a></h3>  
 
 Regional Host  
-- ITA: 9 (56.82)  
-- Slam: 10 (97.17)  
-- TRN: 10 (95.99)  
-- Massey: 13 (8.43)  
-- UTR: 7 (79.79)  
-- USTA Poll: 12  
-- Coaches Poll: 10  
+
+<ol>  
+<li>ITA: 9 (56.82)</li>  
+<li>Slam: 10 (97.17)</li>  
+<li>TRN: 10 (95.99)</li>  
+<li>Massey: 13 (8.43)</li>  
+<li>UTR: 7 (79.79)</li>  
+<li>USTA Poll: 12</li>  
+<li>Coaches Poll: 10</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">South Carolina St.</a></h3>  
 
 Automatic Qualifier  
-- ITA: 65 (0.72)  
-- Slam: 63 (81.19)  
-- TRN: 63 (76.54)  
-- Massey: 63 (4.87)  
-- UTR: 63 (66.99)  
+
+<ol>  
+<li>ITA: 65 (0.72)</li>  
+<li>Slam: 63 (81.19)</li>  
+<li>TRN: 63 (76.54)</li>  
+<li>Massey: 63 (4.87)</li>  
+<li>UTR: 63 (66.99)</li>  
+</ol>  
 
 </td></tr></table>  
 

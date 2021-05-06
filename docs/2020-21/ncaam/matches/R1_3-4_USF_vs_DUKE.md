@@ -9,12 +9,15 @@ Saturday, May 8 at 10:00 EDT
 <h3>#3 <a href="../index.md">Duke</a></h3>  
 
 At-Large Bid  
-- ITA: 35 (25.15)  
-- Slam: 31 (93.00)  
-- TRN: 36 (90.55)  
-- Massey: 34 (7.39)  
-- UTR: 32 (76.86)  
-- Coaches Poll: 36  
+
+<ol>  
+<li>ITA: 35 (25.15)</li>  
+<li>Slam: 31 (93.00)</li>  
+<li>TRN: 36 (90.55)</li>  
+<li>Massey: 34 (7.39)</li>  
+<li>UTR: 32 (76.86)</li>  
+<li>Coaches Poll: 36</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,12 +26,15 @@ At-Large Bid
 <h3>#2 <a href="../index.md">South Fla.</a></h3>  
 
 At-Large Bid  
-- ITA: 32 (26.14)  
-- Slam: 32 (92.98)  
-- TRN: 34 (90.69)  
-- Massey: 32 (7.49)  
-- UTR: 37 (76.51)  
-- Coaches Poll: 33  
+
+<ol>  
+<li>ITA: 32 (26.14)</li>  
+<li>Slam: 32 (92.98)</li>  
+<li>TRN: 34 (90.69)</li>  
+<li>Massey: 32 (7.49)</li>  
+<li>UTR: 37 (76.51)</li>  
+<li>Coaches Poll: 33</li>  
+</ol>  
 
 </td></tr></table>  
 

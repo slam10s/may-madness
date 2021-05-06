@@ -9,13 +9,16 @@ Friday, May 7 at 2:00 EDT
 <h3>#1 <a href="../index.md">Ohio St.</a></h3>  
 
 Regional Host  
-- ITA: 18 (43.02)  
-- Slam: 5 (92.95)  
-- TRN: 5 (85.87)  
-- Massey: 8 (8.22)  
-- UTR: 25 (61.53)  
-- USTA Poll: 6  
-- Coaches Poll: 13  
+
+<ol>  
+<li>ITA: 18 (43.02)</li>  
+<li>Slam: 5 (92.95)</li>  
+<li>TRN: 5 (85.87)</li>  
+<li>Massey: 8 (8.22)</li>  
+<li>UTR: 25 (61.53)</li>  
+<li>USTA Poll: 6</li>  
+<li>Coaches Poll: 13</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">UIC</a></h3>  
 
 Automatic Qualifier  
-- ITA: 59 (2.42)  
-- Slam: 57 (76.42)  
-- TRN: 59 (65.14)  
-- Massey: 58 (4.62)  
-- UTR: 58 (51.39)  
+
+<ol>  
+<li>ITA: 59 (2.42)</li>  
+<li>Slam: 57 (76.42)</li>  
+<li>TRN: 59 (65.14)</li>  
+<li>Massey: 58 (4.62)</li>  
+<li>UTR: 58 (51.39)</li>  
+</ol>  
 
 </td></tr></table>  
 

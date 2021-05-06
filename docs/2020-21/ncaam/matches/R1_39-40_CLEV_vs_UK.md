@@ -9,13 +9,16 @@ Friday, May 7 at 1:00 EDT
 <h3>#1 <a href="../index.md">Kentucky</a></h3>  
 
 Regional Host  
-- ITA: 15 (44.70)  
-- Slam: 17 (95.87)  
-- TRN: 17 (93.83)  
-- Massey: 17 (8.12)  
-- UTR: 16 (78.88)  
-- USTA Poll: 17  
-- Coaches Poll: 15  
+
+<ol>  
+<li>ITA: 15 (44.70)</li>  
+<li>Slam: 17 (95.87)</li>  
+<li>TRN: 17 (93.83)</li>  
+<li>Massey: 17 (8.12)</li>  
+<li>UTR: 16 (78.88)</li>  
+<li>USTA Poll: 17</li>  
+<li>Coaches Poll: 15</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Cleveland St.</a></h3>  
 
 Automatic Qualifier  
-- ITA: 57 (4.43)  
-- Slam: 56 (84.36)  
-- TRN: 56 (81.28)  
-- Massey: 55 (5.83)  
-- UTR: 54 (71.52)  
+
+<ol>  
+<li>ITA: 57 (4.43)</li>  
+<li>Slam: 56 (84.36)</li>  
+<li>TRN: 56 (81.28)</li>  
+<li>Massey: 55 (5.83)</li>  
+<li>UTR: 54 (71.52)</li>  
+</ol>  
 
 </td></tr></table>  
 

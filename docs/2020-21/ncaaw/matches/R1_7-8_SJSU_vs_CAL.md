@@ -9,13 +9,16 @@ Friday, May 7 at 4:00 EDT
 <h3>#1 <a href="../index.md">California</a></h3>  
 
 Regional Host  
-- ITA: 16 (45.98)  
-- Slam: 17 (90.47)  
-- TRN: 17 (82.99)  
-- Massey: 14 (8.01)  
-- UTR: 15 (62.15)  
-- USTA Poll: 13  
-- Coaches Poll: 17  
+
+<ol>  
+<li>ITA: 16 (45.98)</li>  
+<li>Slam: 17 (90.47)</li>  
+<li>TRN: 17 (82.99)</li>  
+<li>Massey: 14 (8.01)</li>  
+<li>UTR: 15 (62.15)</li>  
+<li>USTA Poll: 13</li>  
+<li>Coaches Poll: 17</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">San Jose St.</a></h3>  
 
 Automatic Qualifier  
-- ITA: 47 (8.04)  
-- Slam: 50 (80.34)  
-- TRN: 49 (73.09)  
-- Massey: 49 (5.94)  
-- UTR: 50 (55.37)  
+
+<ol>  
+<li>ITA: 47 (8.04)</li>  
+<li>Slam: 50 (80.34)</li>  
+<li>TRN: 49 (73.09)</li>  
+<li>Massey: 49 (5.94)</li>  
+<li>UTR: 50 (55.37)</li>  
+</ol>  
 
 </td></tr></table>  
 

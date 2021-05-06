@@ -9,13 +9,16 @@ Friday, May 7 at 12:00 EDT
 <h3>#2 <a href="../index.md">Tennessee</a></h3>  
 
 At-Large Bid  
-- ITA: 15 (46.78)  
-- Slam: 19 (90.43)  
-- TRN: 19 (82.73)  
-- Massey: 19 (7.80)  
-- UTR: 22 (61.61)  
-- USTA Poll: 19  
-- Coaches Poll: 16  
+
+<ol>  
+<li>ITA: 15 (46.78)</li>  
+<li>Slam: 19 (90.43)</li>  
+<li>TRN: 19 (82.73)</li>  
+<li>Massey: 19 (7.80)</li>  
+<li>UTR: 22 (61.61)</li>  
+<li>USTA Poll: 19</li>  
+<li>Coaches Poll: 16</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ At-Large Bid
 <h3>#3 <a href="../index.md">James Madison</a></h3>  
 
 Automatic Qualifier  
-- ITA: 46 (8.95)  
-- Slam: 47 (84.23)  
-- TRN: 47 (75.57)  
-- Massey: 46 (6.46)  
-- UTR: 47 (56.89)  
+
+<ol>  
+<li>ITA: 46 (8.95)</li>  
+<li>Slam: 47 (84.23)</li>  
+<li>TRN: 47 (75.57)</li>  
+<li>Massey: 46 (6.46)</li>  
+<li>UTR: 47 (56.89)</li>  
+</ol>  
 
 </td></tr></table>  
 

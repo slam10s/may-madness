@@ -9,13 +9,16 @@ Friday, May 7 at 1:00 EDT
 <h3>#2 <a href="../index.md">Arizona St.</a></h3>  
 
 At-Large Bid  
-- ITA: 31 (26.09)  
-- Slam: 31 (88.20)  
-- TRN: 33 (79.83)  
-- Massey: 24 (7.65)  
-- UTR: 23 (61.59)  
-- USTA Poll: RV  
-- Coaches Poll: 30  
+
+<ol>  
+<li>ITA: 31 (26.09)</li>  
+<li>Slam: 31 (88.20)</li>  
+<li>TRN: 33 (79.83)</li>  
+<li>Massey: 24 (7.65)</li>  
+<li>UTR: 23 (61.59)</li>  
+<li>USTA Poll: RV</li>  
+<li>Coaches Poll: 30</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,12 +27,15 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Mississippi St.</a></h3>  
 
 At-Large Bid  
-- ITA: 38 (19.84)  
-- Slam: 42 (86.60)  
-- TRN: 39 (78.82)  
-- Massey: 44 (6.49)  
-- UTR: 36 (59.84)  
-- Coaches Poll: 38  
+
+<ol>  
+<li>ITA: 38 (19.84)</li>  
+<li>Slam: 42 (86.60)</li>  
+<li>TRN: 39 (78.82)</li>  
+<li>Massey: 44 (6.49)</li>  
+<li>UTR: 36 (59.84)</li>  
+<li>Coaches Poll: 38</li>  
+</ol>  
 
 </td></tr></table>  
 

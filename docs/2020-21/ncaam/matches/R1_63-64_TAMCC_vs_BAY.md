@@ -9,13 +9,16 @@ Saturday, May 8 at 3:00 EDT
 <h3>#1 <a href="../index.md">Baylor</a></h3>  
 
 Regional Host  
-- ITA: 1 (83.33)  
-- Slam: 5 (99.05)  
-- TRN: 6 (98.67)  
-- Massey: 5 (8.82)  
-- UTR: 9 (79.74)  
-- USTA Poll: 3  
-- Coaches Poll: 1  
+
+<ol>  
+<li>ITA: 1 (83.33)</li>  
+<li>Slam: 5 (99.05)</li>  
+<li>TRN: 6 (98.67)</li>  
+<li>Massey: 5 (8.82)</li>  
+<li>UTR: 9 (79.74)</li>  
+<li>USTA Poll: 3</li>  
+<li>Coaches Poll: 1</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">A&M-Corpus Christi</a></h3>  
 
 Automatic Qualifier  
-- ITA: 60 (2.97)  
-- Slam: 60 (82.18)  
-- TRN: 61 (76.91)  
-- Massey: 58 (5.69)  
-- UTR: 54 (71.52)  
+
+<ol>  
+<li>ITA: 60 (2.97)</li>  
+<li>Slam: 60 (82.18)</li>  
+<li>TRN: 61 (76.91)</li>  
+<li>Massey: 58 (5.69)</li>  
+<li>UTR: 54 (71.52)</li>  
+</ol>  
 
 </td></tr></table>  
 

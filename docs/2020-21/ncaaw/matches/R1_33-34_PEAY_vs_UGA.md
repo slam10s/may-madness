@@ -9,13 +9,16 @@ Friday, May 7 at 1:00 EDT
 <h3>#1 <a href="../index.md">Georgia</a></h3>  
 
 Regional Host  
-- ITA: 3 (74.01)  
-- Slam: 3 (97.81)  
-- TRN: 3 (94.01)  
-- Massey: 3 (9.29)  
-- UTR: 3 (64.69)  
-- USTA Poll: 3  
-- Coaches Poll: 3  
+
+<ol>  
+<li>ITA: 3 (74.01)</li>  
+<li>Slam: 3 (97.81)</li>  
+<li>TRN: 3 (94.01)</li>  
+<li>Massey: 3 (9.29)</li>  
+<li>UTR: 3 (64.69)</li>  
+<li>USTA Poll: 3</li>  
+<li>Coaches Poll: 3</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Austin Peay</a></h3>  
 
 Automatic Qualifier  
-- ITA: 57 (3.35)  
-- Slam: 56 (77.22)  
-- TRN: 56 (67.26)  
-- Massey: 56 (4.88)  
-- UTR: 55 (52.40)  
+
+<ol>  
+<li>ITA: 57 (3.35)</li>  
+<li>Slam: 56 (77.22)</li>  
+<li>TRN: 56 (67.26)</li>  
+<li>Massey: 56 (4.88)</li>  
+<li>UTR: 55 (52.40)</li>  
+</ol>  
 
 </td></tr></table>  
 

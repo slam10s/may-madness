@@ -9,13 +9,16 @@ Saturday, May 8 at 2:00 EDT
 <h3>#1 <a href="../index.md">UCF</a></h3>  
 
 Regional Host  
-- ITA: 10 (54.95)  
-- Slam: 12 (96.59)  
-- TRN: 13 (95.63)  
-- Massey: 7 (8.63)  
-- UTR: 12 (79.08)  
-- USTA Poll: T10  
-- Coaches Poll: 9  
+
+<ol>  
+<li>ITA: 10 (54.95)</li>  
+<li>Slam: 12 (96.59)</li>  
+<li>TRN: 13 (95.63)</li>  
+<li>Massey: 7 (8.63)</li>  
+<li>UTR: 12 (79.08)</li>  
+<li>USTA Poll: T10</li>  
+<li>Coaches Poll: 9</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Monmouth</a></h3>  
 
 Automatic Qualifier  
-- ITA: 58 (4.41)  
-- Slam: 61 (82.18)  
-- TRN: 57 (79.79)  
-- Massey: 60 (5.30)  
-- UTR: 62 (69.61)  
+
+<ol>  
+<li>ITA: 58 (4.41)</li>  
+<li>Slam: 61 (82.18)</li>  
+<li>TRN: 57 (79.79)</li>  
+<li>Massey: 60 (5.30)</li>  
+<li>UTR: 62 (69.61)</li>  
+</ol>  
 
 </td></tr></table>  
 

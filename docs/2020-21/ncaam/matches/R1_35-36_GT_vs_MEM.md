@@ -9,12 +9,15 @@ Saturday, May 8 at 10:00 EDT
 <h3>#3 <a href="../index.md">Memphis</a></h3>  
 
 At-Large Bid  
-- ITA: 38 (22.19)  
-- Slam: 41 (91.89)  
-- TRN: 40 (89.86)  
-- Massey: 43 (7.05)  
-- UTR: 43 (75.40)  
-- Coaches Poll: 35  
+
+<ol>  
+<li>ITA: 38 (22.19)</li>  
+<li>Slam: 41 (91.89)</li>  
+<li>TRN: 40 (89.86)</li>  
+<li>Massey: 43 (7.05)</li>  
+<li>UTR: 43 (75.40)</li>  
+<li>Coaches Poll: 35</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,13 +26,16 @@ At-Large Bid
 <h3>#2 <a href="../index.md">Georgia Tech</a></h3>  
 
 At-Large Bid  
-- ITA: 30 (27.75)  
-- Slam: 27 (93.36)  
-- TRN: 33 (90.89)  
-- Massey: 25 (7.67)  
-- UTR: 36 (76.54)  
-- USTA Poll: RV  
-- Coaches Poll: 31  
+
+<ol>  
+<li>ITA: 30 (27.75)</li>  
+<li>Slam: 27 (93.36)</li>  
+<li>TRN: 33 (90.89)</li>  
+<li>Massey: 25 (7.67)</li>  
+<li>UTR: 36 (76.54)</li>  
+<li>USTA Poll: RV</li>  
+<li>Coaches Poll: 31</li>  
+</ol>  
 
 </td></tr></table>  
 

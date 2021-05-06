@@ -9,13 +9,16 @@ Friday, May 7 at 3:00 EDT
 <h3>#1 <a href="../index.md">UCF</a></h3>  
 
 Regional Host  
-- ITA: 9 (52.14)  
-- Slam: 12 (91.41)  
-- TRN: 12 (83.85)  
-- Massey: 10 (8.12)  
-- UTR: 16 (62.03)  
-- USTA Poll: 9  
-- Coaches Poll: 9  
+
+<ol>  
+<li>ITA: 9 (52.14)</li>  
+<li>Slam: 12 (91.41)</li>  
+<li>TRN: 12 (83.85)</li>  
+<li>Massey: 10 (8.12)</li>  
+<li>UTR: 16 (62.03)</li>  
+<li>USTA Poll: 9</li>  
+<li>Coaches Poll: 9</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Charleston So.</a></h3>  
 
 Automatic Qualifier  
-- ITA: 58 (2.77)  
-- Slam: 60 (75.63)  
-- TRN: 57 (65.77)  
-- Massey: 60 (4.33)  
-- UTR: 56 (51.92)  
+
+<ol>  
+<li>ITA: 58 (2.77)</li>  
+<li>Slam: 60 (75.63)</li>  
+<li>TRN: 57 (65.77)</li>  
+<li>Massey: 60 (4.33)</li>  
+<li>UTR: 56 (51.92)</li>  
+</ol>  
 
 </td></tr></table>  
 

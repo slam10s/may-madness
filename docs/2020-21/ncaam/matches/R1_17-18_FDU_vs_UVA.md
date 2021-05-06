@@ -9,13 +9,16 @@ Saturday, May 8 at 1:00 EDT
 <h3>#1 <a href="../index.md">Virginia</a></h3>  
 
 Regional Host  
-- ITA: 4 (74.36)  
-- Slam: 1 (100.00)  
-- TRN: 1 (100.00)  
-- Massey: 3 (9.13)  
-- UTR: 6 (80.03)  
-- USTA Poll: 1  
-- Coaches Poll: 5  
+
+<ol>  
+<li>ITA: 4 (74.36)</li>  
+<li>Slam: 1 (100.00)</li>  
+<li>TRN: 1 (100.00)</li>  
+<li>Massey: 3 (9.13)</li>  
+<li>UTR: 6 (80.03)</li>  
+<li>USTA Poll: 1</li>  
+<li>Coaches Poll: 5</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Fairleigh Dickinson</a></h3>  
 
 Automatic Qualifier  
-- ITA: 62 (1.95)  
-- Slam: 65 (72.33)  
-- TRN: 65 (65.17)  
-- Massey: 64 (3.98)  
-- UTR: 64 (65.74)  
+
+<ol>  
+<li>ITA: 62 (1.95)</li>  
+<li>Slam: 65 (72.33)</li>  
+<li>TRN: 65 (65.17)</li>  
+<li>Massey: 64 (3.98)</li>  
+<li>UTR: 64 (65.74)</li>  
+</ol>  
 
 </td></tr></table>  
 

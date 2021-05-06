@@ -9,13 +9,16 @@ Friday, May 7 at 10:00 EDT
 <h3>#3 <a href="../index.md">Furman</a></h3>  
 
 Automatic Qualifier  
-- ITA: 34 (25.42)  
-- Slam: 33 (87.98)  
-- TRN: 35 (79.59)  
-- Massey: 35 (7.09)  
-- UTR: 41 (59.02)  
-- USTA Poll: RV  
-- Coaches Poll: 35  
+
+<ol>  
+<li>ITA: 34 (25.42)</li>  
+<li>Slam: 33 (87.98)</li>  
+<li>TRN: 35 (79.59)</li>  
+<li>Massey: 35 (7.09)</li>  
+<li>UTR: 41 (59.02)</li>  
+<li>USTA Poll: RV</li>  
+<li>Coaches Poll: 35</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,12 +27,15 @@ Automatic Qualifier
 <h3>#2 <a href="../index.md">Wake Forest</a></h3>  
 
 At-Large Bid  
-- ITA: 33 (25.77)  
-- Slam: 32 (88.11)  
-- TRN: 31 (80.20)  
-- Massey: 34 (7.13)  
-- UTR: 31 (60.70)  
-- Coaches Poll: 31  
+
+<ol>  
+<li>ITA: 33 (25.77)</li>  
+<li>Slam: 32 (88.11)</li>  
+<li>TRN: 31 (80.20)</li>  
+<li>Massey: 34 (7.13)</li>  
+<li>UTR: 31 (60.70)</li>  
+<li>Coaches Poll: 31</li>  
+</ol>  
 
 </td></tr></table>  
 

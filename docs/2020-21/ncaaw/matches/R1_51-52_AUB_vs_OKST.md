@@ -9,12 +9,15 @@ Friday, May 7 at 1:00 EDT
 <h3>#3 <a href="../index.md">Oklahoma St.</a></h3>  
 
 At-Large Bid  
-- ITA: 37 (20.71)  
-- Slam: 37 (87.45)  
-- TRN: 37 (79.03)  
-- Massey: 36 (7.02)  
-- UTR: 17 (61.98)  
-- Coaches Poll: 37  
+
+<ol>  
+<li>ITA: 37 (20.71)</li>  
+<li>Slam: 37 (87.45)</li>  
+<li>TRN: 37 (79.03)</li>  
+<li>Massey: 36 (7.02)</li>  
+<li>UTR: 17 (61.98)</li>  
+<li>Coaches Poll: 37</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,13 +26,16 @@ At-Large Bid
 <h3>#2 <a href="../index.md">Auburn</a></h3>  
 
 At-Large Bid  
-- ITA: 20 (41.17)  
-- Slam: 24 (89.44)  
-- TRN: 23 (81.74)  
-- Massey: 25 (7.48)  
-- UTR: 30 (60.99)  
-- USTA Poll: 25  
-- Coaches Poll: 22  
+
+<ol>  
+<li>ITA: 20 (41.17)</li>  
+<li>Slam: 24 (89.44)</li>  
+<li>TRN: 23 (81.74)</li>  
+<li>Massey: 25 (7.48)</li>  
+<li>UTR: 30 (60.99)</li>  
+<li>USTA Poll: 25</li>  
+<li>Coaches Poll: 22</li>  
+</ol>  
 
 </td></tr></table>  
 

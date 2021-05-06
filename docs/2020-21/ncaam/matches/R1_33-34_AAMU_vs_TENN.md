@@ -9,13 +9,16 @@ Saturday, May 8 at 1:00 EDT
 <h3>#1 <a href="../index.md">Tennessee</a></h3>  
 
 Regional Host  
-- ITA: 3 (74.51)  
-- Slam: 4 (99.18)  
-- TRN: 5 (98.72)  
-- Massey: 2 (9.17)  
-- UTR: 4 (80.17)  
-- USTA Poll: 4  
-- Coaches Poll: 3  
+
+<ol>  
+<li>ITA: 3 (74.51)</li>  
+<li>Slam: 4 (99.18)</li>  
+<li>TRN: 5 (98.72)</li>  
+<li>Massey: 2 (9.17)</li>  
+<li>UTR: 4 (80.17)</li>  
+<li>USTA Poll: 4</li>  
+<li>Coaches Poll: 3</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Alabama A&M</a></h3>  
 
 Automatic Qualifier  
-- ITA: 63 (1.60)  
-- Slam: 64 (76.01)  
-- TRN: 64 (72.43)  
-- Massey: 65 (3.71)  
-- UTR: 65 (63.25)  
+
+<ol>  
+<li>ITA: 63 (1.60)</li>  
+<li>Slam: 64 (76.01)</li>  
+<li>TRN: 64 (72.43)</li>  
+<li>Massey: 65 (3.71)</li>  
+<li>UTR: 65 (63.25)</li>  
+</ol>  
 
 </td></tr></table>  
 

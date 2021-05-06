@@ -9,13 +9,16 @@ Friday, May 7 at 4:00 EDT
 <h3>#1 <a href="../index.md">Southern California</a></h3>  
 
 Regional Host  
-- ITA: 12 (52.23)  
-- Slam: 14 (96.38)  
-- TRN: 16 (94.47)  
-- Massey: 8 (8.62)  
-- UTR: 2 (80.29)  
-- USTA Poll: 13  
-- Coaches Poll: 12  
+
+<ol>  
+<li>ITA: 12 (52.23)</li>  
+<li>Slam: 14 (96.38)</li>  
+<li>TRN: 16 (94.47)</li>  
+<li>Massey: 8 (8.62)</li>  
+<li>UTR: 2 (80.29)</li>  
+<li>USTA Poll: 13</li>  
+<li>Coaches Poll: 12</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Grand Canyon</a></h3>  
 
 Automatic Qualifier  
-- ITA: 64 (1.38)  
-- Slam: 62 (81.82)  
-- TRN: 62 (76.83)  
-- Massey: 62 (5.21)  
-- UTR: 56 (71.32)  
+
+<ol>  
+<li>ITA: 64 (1.38)</li>  
+<li>Slam: 62 (81.82)</li>  
+<li>TRN: 62 (76.83)</li>  
+<li>Massey: 62 (5.21)</li>  
+<li>UTR: 56 (71.32)</li>  
+</ol>  
 
 </td></tr></table>  
 

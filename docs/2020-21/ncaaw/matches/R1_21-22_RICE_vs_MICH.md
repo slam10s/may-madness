@@ -9,13 +9,16 @@ Friday, May 7 at 11:00 EDT
 <h3>#2 <a href="../index.md">Michigan</a></h3>  
 
 At-Large Bid  
-- ITA: 19 (41.22)  
-- Slam: 8 (91.95)  
-- TRN: 8 (85.13)  
-- Massey: 15 (7.96)  
-- UTR: 17 (61.98)  
-- USTA Poll: 7  
-- Coaches Poll: 18  
+
+<ol>  
+<li>ITA: 19 (41.22)</li>  
+<li>Slam: 8 (91.95)</li>  
+<li>TRN: 8 (85.13)</li>  
+<li>Massey: 15 (7.96)</li>  
+<li>UTR: 17 (61.98)</li>  
+<li>USTA Poll: 7</li>  
+<li>Coaches Poll: 18</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,12 +27,15 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Rice</a></h3>  
 
 At-Large Bid  
-- ITA: 40 (18.25)  
-- Slam: 40 (87.14)  
-- TRN: 36 (79.49)  
-- Massey: 38 (6.93)  
-- UTR: 35 (60.11)  
-- Coaches Poll: 39  
+
+<ol>  
+<li>ITA: 40 (18.25)</li>  
+<li>Slam: 40 (87.14)</li>  
+<li>TRN: 36 (79.49)</li>  
+<li>Massey: 38 (6.93)</li>  
+<li>UTR: 35 (60.11)</li>  
+<li>Coaches Poll: 39</li>  
+</ol>  
 
 </td></tr></table>  
 

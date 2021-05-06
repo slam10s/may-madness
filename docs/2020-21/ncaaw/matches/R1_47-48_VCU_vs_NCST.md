@@ -9,13 +9,16 @@ Friday, May 7 at 3:00 EDT
 <h3>#1 <a href="../index.md">NC State</a></h3>  
 
 Regional Host  
-- ITA: 6 (55.66)  
-- Slam: 11 (91.65)  
-- TRN: 10 (84.27)  
-- Massey: 6 (8.36)  
-- UTR: 9 (62.99)  
-- USTA Poll: 11  
-- Coaches Poll: 6  
+
+<ol>  
+<li>ITA: 6 (55.66)</li>  
+<li>Slam: 11 (91.65)</li>  
+<li>TRN: 10 (84.27)</li>  
+<li>Massey: 6 (8.36)</li>  
+<li>UTR: 9 (62.99)</li>  
+<li>USTA Poll: 11</li>  
+<li>Coaches Poll: 6</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">VCU</a></h3>  
 
 Automatic Qualifier  
-- ITA: 49 (6.76)  
-- Slam: 48 (82.19)  
-- TRN: 48 (73.53)  
-- Massey: 48 (6.03)  
-- UTR: 48 (55.75)  
+
+<ol>  
+<li>ITA: 49 (6.76)</li>  
+<li>Slam: 48 (82.19)</li>  
+<li>TRN: 48 (73.53)</li>  
+<li>Massey: 48 (6.03)</li>  
+<li>UTR: 48 (55.75)</li>  
+</ol>  
 
 </td></tr></table>  
 

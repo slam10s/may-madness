@@ -9,13 +9,16 @@ Friday, May 7 at 2:00 EDT
 <h3>#2 <a href="../index.md">Ohio St.</a></h3>  
 
 At-Large Bid  
-- ITA: 31 (26.40)  
-- Slam: 7 (97.86)  
-- TRN: 8 (97.23)  
-- Massey: 9 (8.60)  
-- UTR: 3 (80.28)  
-- USTA Poll: 7  
-- Coaches Poll: 17  
+
+<ol>  
+<li>ITA: 31 (26.40)</li>  
+<li>Slam: 7 (97.86)</li>  
+<li>TRN: 8 (97.23)</li>  
+<li>Massey: 9 (8.60)</li>  
+<li>UTR: 3 (80.28)</li>  
+<li>USTA Poll: 7</li>  
+<li>Coaches Poll: 17</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,12 +27,15 @@ At-Large Bid
 <h3>#3 <a href="../index.md">VCU</a></h3>  
 
 Automatic Qualifier  
-- ITA: 37 (23.44)  
-- Slam: 36 (92.40)  
-- TRN: 38 (90.23)  
-- Massey: 35 (7.38)  
-- UTR: 29 (77.07)  
-- Coaches Poll: 38  
+
+<ol>  
+<li>ITA: 37 (23.44)</li>  
+<li>Slam: 36 (92.40)</li>  
+<li>TRN: 38 (90.23)</li>  
+<li>Massey: 35 (7.38)</li>  
+<li>UTR: 29 (77.07)</li>  
+<li>Coaches Poll: 38</li>  
+</ol>  
 
 </td></tr></table>  
 

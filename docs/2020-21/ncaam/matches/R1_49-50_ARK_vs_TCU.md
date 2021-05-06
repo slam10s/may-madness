@@ -9,13 +9,16 @@ Saturday, May 8 at 3:00 EDT
 <h3>#1 <a href="../index.md">TCU</a></h3>  
 
 Regional Host  
-- ITA: 7 (69.22)  
-- Slam: 9 (97.57)  
-- TRN: 9 (96.56)  
-- Massey: 6 (8.76)  
-- UTR: 10 (79.71)  
-- USTA Poll: 9  
-- Coaches Poll: 7  
+
+<ol>  
+<li>ITA: 7 (69.22)</li>  
+<li>Slam: 9 (97.57)</li>  
+<li>TRN: 9 (96.56)</li>  
+<li>Massey: 6 (8.76)</li>  
+<li>UTR: 10 (79.71)</li>  
+<li>USTA Poll: 9</li>  
+<li>Coaches Poll: 7</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,12 +27,15 @@ Regional Host
 <h3>#4 <a href="../index.md">Arkansas</a></h3>  
 
 At-Large Bid  
-- ITA: 43 (18.30)  
-- Slam: 43 (91.55)  
-- TRN: 44 (89.43)  
-- Massey: 50 (6.64)  
-- UTR: 44 (75.30)  
-- Coaches Poll: 40  
+
+<ol>  
+<li>ITA: 43 (18.30)</li>  
+<li>Slam: 43 (91.55)</li>  
+<li>TRN: 44 (89.43)</li>  
+<li>Massey: 50 (6.64)</li>  
+<li>UTR: 44 (75.30)</li>  
+<li>Coaches Poll: 40</li>  
+</ol>  
 
 </td></tr></table>  
 

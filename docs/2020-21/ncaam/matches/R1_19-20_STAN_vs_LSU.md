@@ -9,12 +9,15 @@ Saturday, May 8 at 10:00 EDT
 <h3>#3 <a href="../index.md">LSU</a></h3>  
 
 At-Large Bid  
-- ITA: 40 (19.17)  
-- Slam: 38 (92.17)  
-- TRN: 39 (90.14)  
-- Massey: 47 (6.78)  
-- UTR: 42 (75.44)  
-- Coaches Poll: 39  
+
+<ol>  
+<li>ITA: 40 (19.17)</li>  
+<li>Slam: 38 (92.17)</li>  
+<li>TRN: 39 (90.14)</li>  
+<li>Massey: 47 (6.78)</li>  
+<li>UTR: 42 (75.44)</li>  
+<li>Coaches Poll: 39</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,13 +26,16 @@ At-Large Bid
 <h3>#2 <a href="../index.md">Stanford</a></h3>  
 
 At-Large Bid  
-- ITA: 21 (34.55)  
-- Slam: 22 (94.00)  
-- TRN: 21 (92.30)  
-- Massey: 20 (7.97)  
-- UTR: 5 (80.08)  
-- USTA Poll: 20  
-- Coaches Poll: 20  
+
+<ol>  
+<li>ITA: 21 (34.55)</li>  
+<li>Slam: 22 (94.00)</li>  
+<li>TRN: 21 (92.30)</li>  
+<li>Massey: 20 (7.97)</li>  
+<li>UTR: 5 (80.08)</li>  
+<li>USTA Poll: 20</li>  
+<li>Coaches Poll: 20</li>  
+</ol>  
 
 </td></tr></table>  
 

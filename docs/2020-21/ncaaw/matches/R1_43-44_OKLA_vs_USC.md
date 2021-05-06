@@ -9,12 +9,15 @@ Friday, May 7 at 10:00 EDT
 <h3>#3 <a href="../index.md">Southern California</a></h3>  
 
 At-Large Bid  
-- ITA: 35 (23.17)  
-- Slam: 35 (87.72)  
-- TRN: 41 (78.74)  
-- Massey: 26 (7.43)  
-- UTR: 6 (64.29)  
-- Coaches Poll: 34  
+
+<ol>  
+<li>ITA: 35 (23.17)</li>  
+<li>Slam: 35 (87.72)</li>  
+<li>TRN: 41 (78.74)</li>  
+<li>Massey: 26 (7.43)</li>  
+<li>UTR: 6 (64.29)</li>  
+<li>Coaches Poll: 34</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,13 +26,16 @@ At-Large Bid
 <h3>#2 <a href="../index.md">Oklahoma</a></h3>  
 
 At-Large Bid  
-- ITA: 23 (39.04)  
-- Slam: 13 (91.06)  
-- TRN: 22 (82.23)  
-- Massey: 12 (8.06)  
-- UTR: 14 (62.33)  
-- USTA Poll: 22  
-- Coaches Poll: 24  
+
+<ol>  
+<li>ITA: 23 (39.04)</li>  
+<li>Slam: 13 (91.06)</li>  
+<li>TRN: 22 (82.23)</li>  
+<li>Massey: 12 (8.06)</li>  
+<li>UTR: 14 (62.33)</li>  
+<li>USTA Poll: 22</li>  
+<li>Coaches Poll: 24</li>  
+</ol>  
 
 </td></tr></table>  
 

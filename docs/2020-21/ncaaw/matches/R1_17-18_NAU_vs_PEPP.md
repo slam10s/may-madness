@@ -9,13 +9,16 @@ Friday, May 7 at 5:00 EDT
 <h3>#1 <a href="../index.md">Pepperdine</a></h3>  
 
 Regional Host  
-- ITA: 5 (60.71)  
-- Slam: 6 (92.64)  
-- TRN: 6 (85.86)  
-- Massey: 5 (8.71)  
-- UTR: 4 (64.63)  
-- USTA Poll: 5  
-- Coaches Poll: 4  
+
+<ol>  
+<li>ITA: 5 (60.71)</li>  
+<li>Slam: 6 (92.64)</li>  
+<li>TRN: 6 (85.86)</li>  
+<li>Massey: 5 (8.71)</li>  
+<li>UTR: 4 (64.63)</li>  
+<li>USTA Poll: 5</li>  
+<li>Coaches Poll: 4</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Northern Ariz.</a></h3>  
 
 Automatic Qualifier  
-- ITA: 54 (3.85)  
-- Slam: 51 (79.81)  
-- TRN: 53 (69.11)  
-- Massey: 51 (5.50)  
-- UTR: 54 (52.95)  
+
+<ol>  
+<li>ITA: 54 (3.85)</li>  
+<li>Slam: 51 (79.81)</li>  
+<li>TRN: 53 (69.11)</li>  
+<li>Massey: 51 (5.50)</li>  
+<li>UTR: 54 (52.95)</li>  
+</ol>  
 
 </td></tr></table>  
 

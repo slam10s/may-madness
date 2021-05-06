@@ -9,13 +9,16 @@ Friday, May 7 at 1:00 EDT
 <h3>#2 <a href="../index.md">Kentucky</a></h3>  
 
 At-Large Bid  
-- ITA: 26 (37.41)  
-- Slam: 25 (89.36)  
-- TRN: 27 (81.49)  
-- Massey: 33 (7.29)  
-- UTR: 34 (60.15)  
-- USTA Poll: 24  
-- Coaches Poll: 27  
+
+<ol>  
+<li>ITA: 26 (37.41)</li>  
+<li>Slam: 25 (89.36)</li>  
+<li>TRN: 27 (81.49)</li>  
+<li>Massey: 33 (7.29)</li>  
+<li>UTR: 34 (60.15)</li>  
+<li>USTA Poll: 24</li>  
+<li>Coaches Poll: 27</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,12 +27,15 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Syracuse</a></h3>  
 
 At-Large Bid  
-- ITA: 43 (15.84)  
-- Slam: 43 (86.54)  
-- TRN: 43 (78.55)  
-- Massey: 42 (6.69)  
-- UTR: 43 (58.68)  
-- Coaches Poll: 45  
+
+<ol>  
+<li>ITA: 43 (15.84)</li>  
+<li>Slam: 43 (86.54)</li>  
+<li>TRN: 43 (78.55)</li>  
+<li>Massey: 42 (6.69)</li>  
+<li>UTR: 43 (58.68)</li>  
+<li>Coaches Poll: 45</li>  
+</ol>  
 
 </td></tr></table>  
 

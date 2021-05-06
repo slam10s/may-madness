@@ -9,13 +9,16 @@ Friday, May 7 at 2:00 EDT
 <h3>#1 <a href="../index.md">Georgia Tech</a></h3>  
 
 Regional Host  
-- ITA: 13 (48.32)  
-- Slam: 20 (90.34)  
-- TRN: 16 (83.31)  
-- Massey: 18 (7.83)  
-- UTR: 24 (61.54)  
-- USTA Poll: 15  
-- Coaches Poll: T11  
+
+<ol>  
+<li>ITA: 13 (48.32)</li>  
+<li>Slam: 20 (90.34)</li>  
+<li>TRN: 16 (83.31)</li>  
+<li>Massey: 18 (7.83)</li>  
+<li>UTR: 24 (61.54)</li>  
+<li>USTA Poll: 15</li>  
+<li>Coaches Poll: T11</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Ga. Southern</a></h3>  
 
 Automatic Qualifier  
-- ITA: 53 (4.08)  
-- Slam: 53 (78.88)  
-- TRN: 54 (68.86)  
-- Massey: 55 (5.15)  
-- UTR: 53 (54.43)  
+
+<ol>  
+<li>ITA: 53 (4.08)</li>  
+<li>Slam: 53 (78.88)</li>  
+<li>TRN: 54 (68.86)</li>  
+<li>Massey: 55 (5.15)</li>  
+<li>UTR: 53 (54.43)</li>  
+</ol>  
 
 </td></tr></table>  
 

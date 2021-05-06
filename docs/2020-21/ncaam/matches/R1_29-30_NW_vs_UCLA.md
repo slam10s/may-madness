@@ -9,13 +9,16 @@ Saturday, May 8 at 10:00 EDT
 <h3>#2 <a href="../index.md">UCLA</a></h3>  
 
 At-Large Bid  
-- ITA: 24 (32.15)  
-- Slam: 23 (93.84)  
-- TRN: 24 (91.84)  
-- Massey: 19 (8.03)  
-- UTR: 13 (79.06)  
-- USTA Poll: 22  
-- Coaches Poll: 29  
+
+<ol>  
+<li>ITA: 24 (32.15)</li>  
+<li>Slam: 23 (93.84)</li>  
+<li>TRN: 24 (91.84)</li>  
+<li>Massey: 19 (8.03)</li>  
+<li>UTR: 13 (79.06)</li>  
+<li>USTA Poll: 22</li>  
+<li>Coaches Poll: 29</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,12 +27,15 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Northwestern</a></h3>  
 
 At-Large Bid  
-- ITA: 50 (7.95)  
-- Slam: 33 (92.89)  
-- TRN: 32 (90.90)  
-- Massey: 31 (7.50)  
-- UTR: 27 (77.56)  
-- Coaches Poll: 49  
+
+<ol>  
+<li>ITA: 50 (7.95)</li>  
+<li>Slam: 33 (92.89)</li>  
+<li>TRN: 32 (90.90)</li>  
+<li>Massey: 31 (7.50)</li>  
+<li>UTR: 27 (77.56)</li>  
+<li>Coaches Poll: 49</li>  
+</ol>  
 
 </td></tr></table>  
 

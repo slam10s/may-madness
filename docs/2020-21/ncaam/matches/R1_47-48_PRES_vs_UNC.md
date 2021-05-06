@@ -9,13 +9,16 @@ Saturday, May 8 at 1:00 EDT
 <h3>#1 <a href="../index.md">North Carolina</a></h3>  
 
 Regional Host  
-- ITA: 6 (72.02)  
-- Slam: 3 (99.37)  
-- TRN: 2 (99.37)  
-- Massey: 4 (8.94)  
-- UTR: 11 (79.64)  
-- USTA Poll: 5  
-- Coaches Poll: 6  
+
+<ol>  
+<li>ITA: 6 (72.02)</li>  
+<li>Slam: 3 (99.37)</li>  
+<li>TRN: 2 (99.37)</li>  
+<li>Massey: 4 (8.94)</li>  
+<li>UTR: 11 (79.64)</li>  
+<li>USTA Poll: 5</li>  
+<li>Coaches Poll: 6</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Presbyterian</a></h3>  
 
 Automatic Qualifier  
-- ITA: 59 (3.97)  
-- Slam: 59 (82.26)  
-- TRN: 59 (77.90)  
-- Massey: 61 (5.23)  
-- UTR: 61 (70.28)  
+
+<ol>  
+<li>ITA: 59 (3.97)</li>  
+<li>Slam: 59 (82.26)</li>  
+<li>TRN: 59 (77.90)</li>  
+<li>Massey: 61 (5.23)</li>  
+<li>UTR: 61 (70.28)</li>  
+</ol>  
 
 </td></tr></table>  
 

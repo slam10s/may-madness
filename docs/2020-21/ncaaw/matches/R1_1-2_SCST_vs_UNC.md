@@ -9,13 +9,16 @@ Friday, May 7 at 1:00 EDT
 <h3>#1 <a href="../index.md">North Carolina</a></h3>  
 
 Regional Host  
-- ITA: 1 (87.72)  
-- Slam: 1 (100.00)  
-- TRN: 1 (100.00)  
-- Massey: 1 (9.82)  
-- UTR: 2 (65.21)  
-- USTA Poll: 1  
-- Coaches Poll: 1  
+
+<ol>  
+<li>ITA: 1 (87.72)</li>  
+<li>Slam: 1 (100.00)</li>  
+<li>TRN: 1 (100.00)</li>  
+<li>Massey: 1 (9.82)</li>  
+<li>UTR: 2 (65.21)</li>  
+<li>USTA Poll: 1</li>  
+<li>Coaches Poll: 1</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,10 +27,13 @@ Regional Host
 <h3>#4 <a href="../index.md">South Carolina St.</a></h3>  
 
 Automatic Qualifier  
-- Slam: 62 (70.68)  
-- TRN: 61 (58.72)  
-- Massey: 62 (3.52)  
-- UTR: 63 (44.35)  
+
+<ol>  
+<li>Slam: 62 (70.68)</li>  
+<li>TRN: 61 (58.72)</li>  
+<li>Massey: 62 (3.52)</li>  
+<li>UTR: 63 (44.35)</li>  
+</ol>  
 
 </td></tr></table>  
 

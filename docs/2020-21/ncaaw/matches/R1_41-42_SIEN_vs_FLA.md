@@ -9,13 +9,16 @@ Friday, May 7 at 1:00 EDT
 <h3>#1 <a href="../index.md">Florida</a></h3>  
 
 Regional Host  
-- ITA: 11 (49.18)  
-- Slam: 16 (90.47)  
-- TRN: 20 (82.70)  
-- Massey: 21 (7.77)  
-- UTR: 11 (62.70)  
-- USTA Poll: 20  
-- Coaches Poll: 15  
+
+<ol>  
+<li>ITA: 11 (49.18)</li>  
+<li>Slam: 16 (90.47)</li>  
+<li>TRN: 20 (82.70)</li>  
+<li>Massey: 21 (7.77)</li>  
+<li>UTR: 11 (62.70)</li>  
+<li>USTA Poll: 20</li>  
+<li>Coaches Poll: 15</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Siena</a></h3>  
 
 Automatic Qualifier  
-- ITA: 60 (2.41)  
-- Slam: 64 (65.57)  
-- TRN: 64 (50.23)  
-- Massey: 64 (2.92)  
-- UTR: 62 (46.43)  
+
+<ol>  
+<li>ITA: 60 (2.41)</li>  
+<li>Slam: 64 (65.57)</li>  
+<li>TRN: 64 (50.23)</li>  
+<li>Massey: 64 (2.92)</li>  
+<li>UTR: 62 (46.43)</li>  
+</ol>  
 
 </td></tr></table>  
 

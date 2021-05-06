@@ -9,11 +9,14 @@ Friday, May 7 at 1:00 EDT
 <h3>#3 <a href="../index.md">UC Santa Barbara</a></h3>  
 
 Automatic Qualifier  
-- ITA: 44 (14.68)  
-- Slam: 39 (87.38)  
-- TRN: 40 (78.81)  
-- Massey: 40 (6.75)  
-- UTR: 46 (57.03)  
+
+<ol>  
+<li>ITA: 44 (14.68)</li>  
+<li>Slam: 39 (87.38)</li>  
+<li>TRN: 40 (78.81)</li>  
+<li>Massey: 40 (6.75)</li>  
+<li>UTR: 46 (57.03)</li>  
+</ol>  
 
 </td><td>  
 
@@ -22,13 +25,16 @@ Automatic Qualifier
 <h3>#2 <a href="../index.md">Stanford</a></h3>  
 
 At-Large Bid  
-- ITA: 28 (35.11)  
-- Slam: 23 (90.02)  
-- TRN: 24 (81.66)  
-- Massey: 15 (7.96)  
-- UTR: 7 (63.45)  
-- USTA Poll: 18  
-- Coaches Poll: 26  
+
+<ol>  
+<li>ITA: 28 (35.11)</li>  
+<li>Slam: 23 (90.02)</li>  
+<li>TRN: 24 (81.66)</li>  
+<li>Massey: 15 (7.96)</li>  
+<li>UTR: 7 (63.45)</li>  
+<li>USTA Poll: 18</li>  
+<li>Coaches Poll: 26</li>  
+</ol>  
 
 </td></tr></table>  
 

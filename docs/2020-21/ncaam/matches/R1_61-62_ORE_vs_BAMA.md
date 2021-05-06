@@ -9,12 +9,15 @@ Saturday, May 8 at 12:00 EDT
 <h3>#2 <a href="../index.md">Alabama</a></h3>  
 
 At-Large Bid  
-- ITA: 26 (30.96)  
-- Slam: 28 (93.06)  
-- TRN: 27 (91.27)  
-- Massey: 38 (7.31)  
-- UTR: 30 (77.06)  
-- Coaches Poll: 25  
+
+<ol>  
+<li>ITA: 26 (30.96)</li>  
+<li>Slam: 28 (93.06)</li>  
+<li>TRN: 27 (91.27)</li>  
+<li>Massey: 38 (7.31)</li>  
+<li>UTR: 30 (77.06)</li>  
+<li>Coaches Poll: 25</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,13 +26,16 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Oregon</a></h3>  
 
 At-Large Bid  
-- ITA: 36 (23.55)  
-- Slam: 44 (91.52)  
-- TRN: 41 (89.70)  
-- Massey: 30 (7.51)  
-- UTR: 33 (76.78)  
-- USTA Poll: NR  
-- Coaches Poll: 41  
+
+<ol>  
+<li>ITA: 36 (23.55)</li>  
+<li>Slam: 44 (91.52)</li>  
+<li>TRN: 41 (89.70)</li>  
+<li>Massey: 30 (7.51)</li>  
+<li>UTR: 33 (76.78)</li>  
+<li>USTA Poll: NR</li>  
+<li>Coaches Poll: 41</li>  
+</ol>  
 
 </td></tr></table>  
 

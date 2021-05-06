@@ -9,13 +9,16 @@ Friday, May 7 at 10:00 EDT
 <h3>#2 <a href="../index.md">Arizona</a></h3>  
 
 At-Large Bid  
-- ITA: 17 (38.97)  
-- Slam: 21 (94.26)  
-- TRN: 20 (92.43)  
-- Massey: 18 (8.10)  
-- UTR: 21 (78.35)  
-- USTA Poll: 18  
-- Coaches Poll: 19  
+
+<ol>  
+<li>ITA: 17 (38.97)</li>  
+<li>Slam: 21 (94.26)</li>  
+<li>TRN: 20 (92.43)</li>  
+<li>Massey: 18 (8.10)</li>  
+<li>UTR: 21 (78.35)</li>  
+<li>USTA Poll: 18</li>  
+<li>Coaches Poll: 19</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,13 +27,16 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Michigan</a></h3>  
 
 At-Large Bid  
-- ITA: 46 (15.17)  
-- Slam: 13 (96.42)  
-- TRN: 12 (95.88)  
-- Massey: 14 (8.22)  
-- UTR: 18 (78.65)  
-- USTA Poll: T10  
-- Coaches Poll: 23  
+
+<ol>  
+<li>ITA: 46 (15.17)</li>  
+<li>Slam: 13 (96.42)</li>  
+<li>TRN: 12 (95.88)</li>  
+<li>Massey: 14 (8.22)</li>  
+<li>UTR: 18 (78.65)</li>  
+<li>USTA Poll: T10</li>  
+<li>Coaches Poll: 23</li>  
+</ol>  
 
 </td></tr></table>  
 

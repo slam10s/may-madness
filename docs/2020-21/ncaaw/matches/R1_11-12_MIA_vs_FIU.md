@@ -9,13 +9,16 @@ Friday, May 7 at 12:00 EDT
 <h3>#3 <a href="../index.md">FIU</a></h3>  
 
 At-Large Bid  
-- ITA: 41 (18.12)  
-- Slam: 30 (88.35)  
-- TRN: 29 (81.34)  
-- Massey: 37 (6.98)  
-- UTR: 42 (59.00)  
-- USTA Poll: RV  
-- Coaches Poll: 50  
+
+<ol>  
+<li>ITA: 41 (18.12)</li>  
+<li>Slam: 30 (88.35)</li>  
+<li>TRN: 29 (81.34)</li>  
+<li>Massey: 37 (6.98)</li>  
+<li>UTR: 42 (59.00)</li>  
+<li>USTA Poll: RV</li>  
+<li>Coaches Poll: 50</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,13 +27,16 @@ At-Large Bid
 <h3>#2 <a href="../index.md">Miami (FL)</a></h3>  
 
 At-Large Bid  
-- ITA: 24 (38.72)  
-- Slam: 22 (90.21)  
-- TRN: 21 (82.31)  
-- Massey: 17 (7.84)  
-- UTR: 19 (61.89)  
-- USTA Poll: 21  
-- Coaches Poll: 21  
+
+<ol>  
+<li>ITA: 24 (38.72)</li>  
+<li>Slam: 22 (90.21)</li>  
+<li>TRN: 21 (82.31)</li>  
+<li>Massey: 17 (7.84)</li>  
+<li>UTR: 19 (61.89)</li>  
+<li>USTA Poll: 21</li>  
+<li>Coaches Poll: 21</li>  
+</ol>  
 
 </td></tr></table>  
 

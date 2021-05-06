@@ -9,13 +9,16 @@ Friday, May 7 at 5:00 EDT
 <h3>#1 <a href="../index.md">Illinois</a></h3>  
 
 Regional Host  
-- ITA: 18 (36.82)  
-- Slam: 6 (98.81)  
-- TRN: 4 (98.96)  
-- Massey: 9 (8.60)  
-- UTR: 15 (78.92)  
-- USTA Poll: 8  
-- Coaches Poll: 13  
+
+<ol>  
+<li>ITA: 18 (36.82)</li>  
+<li>Slam: 6 (98.81)</li>  
+<li>TRN: 4 (98.96)</li>  
+<li>Massey: 9 (8.60)</li>  
+<li>UTR: 15 (78.92)</li>  
+<li>USTA Poll: 8</li>  
+<li>Coaches Poll: 13</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">DePaul</a></h3>  
 
 Automatic Qualifier  
-- ITA: 55 (5.64)  
-- Slam: 55 (85.74)  
-- TRN: 55 (82.45)  
-- Massey: 54 (5.94)  
-- UTR: 60 (70.67)  
+
+<ol>  
+<li>ITA: 55 (5.64)</li>  
+<li>Slam: 55 (85.74)</li>  
+<li>TRN: 55 (82.45)</li>  
+<li>Massey: 54 (5.94)</li>  
+<li>UTR: 60 (70.67)</li>  
+</ol>  
 
 </td></tr></table>  
 

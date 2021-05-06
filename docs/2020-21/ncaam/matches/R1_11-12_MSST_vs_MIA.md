@@ -9,12 +9,15 @@ Saturday, May 8 at 11:00 EDT
 <h3>#3 <a href="../index.md">Miami (FL)</a></h3>  
 
 At-Large Bid  
-- ITA: 39 (19.34)  
-- Slam: 37 (92.19)  
-- TRN: 43 (89.49)  
-- Massey: 38 (7.31)  
-- UTR: 40 (75.68)  
-- Coaches Poll: 43  
+
+<ol>  
+<li>ITA: 39 (19.34)</li>  
+<li>Slam: 37 (92.19)</li>  
+<li>TRN: 43 (89.49)</li>  
+<li>Massey: 38 (7.31)</li>  
+<li>UTR: 40 (75.68)</li>  
+<li>Coaches Poll: 43</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,13 +26,16 @@ At-Large Bid
 <h3>#2 <a href="../index.md">Mississippi St.</a></h3>  
 
 At-Large Bid  
-- ITA: 16 (41.29)  
-- Slam: 20 (94.39)  
-- TRN: 19 (92.98)  
-- Massey: 26 (7.63)  
-- UTR: 24 (77.84)  
-- USTA Poll: 23  
-- Coaches Poll: 18  
+
+<ol>  
+<li>ITA: 16 (41.29)</li>  
+<li>Slam: 20 (94.39)</li>  
+<li>TRN: 19 (92.98)</li>  
+<li>Massey: 26 (7.63)</li>  
+<li>UTR: 24 (77.84)</li>  
+<li>USTA Poll: 23</li>  
+<li>Coaches Poll: 18</li>  
+</ol>  
 
 </td></tr></table>  
 

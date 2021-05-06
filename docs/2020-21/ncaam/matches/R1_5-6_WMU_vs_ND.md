@@ -9,12 +9,15 @@ Friday, May 7 at 2:00 EDT
 <h3>#2 <a href="../index.md">Notre Dame</a></h3>  
 
 At-Large Bid  
-- ITA: 34 (25.22)  
-- Slam: 40 (91.96)  
-- TRN: 42 (89.57)  
-- Massey: 36 (7.36)  
-- UTR: 38 (76.38)  
-- Coaches Poll: 37  
+
+<ol>  
+<li>ITA: 34 (25.22)</li>  
+<li>Slam: 40 (91.96)</li>  
+<li>TRN: 42 (89.57)</li>  
+<li>Massey: 36 (7.36)</li>  
+<li>UTR: 38 (76.38)</li>  
+<li>Coaches Poll: 37</li>  
+</ol>  
 
 </td><td>  
 
@@ -23,13 +26,16 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Western Mich.</a></h3>  
 
 Automatic Qualifier  
-- ITA: 41 (18.89)  
-- Slam: 47 (89.83)  
-- TRN: 46 (88.71)  
-- Massey: 45 (7.02)  
-- UTR: 53 (72.95)  
-- USTA Poll: RV  
-- Coaches Poll: 48  
+
+<ol>  
+<li>ITA: 41 (18.89)</li>  
+<li>Slam: 47 (89.83)</li>  
+<li>TRN: 46 (88.71)</li>  
+<li>Massey: 45 (7.02)</li>  
+<li>UTR: 53 (72.95)</li>  
+<li>USTA Poll: RV</li>  
+<li>Coaches Poll: 48</li>  
+</ol>  
 
 </td></tr></table>  
 

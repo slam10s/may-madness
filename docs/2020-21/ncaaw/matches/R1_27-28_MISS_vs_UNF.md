@@ -9,11 +9,14 @@ Friday, May 7 at 11:00 EDT
 <h3>#3 <a href="../index.md">North Florida</a></h3>  
 
 Automatic Qualifier  
-- ITA: 48 (8.00)  
-- Slam: 46 (84.69)  
-- TRN: 46 (75.83)  
-- Massey: 47 (6.44)  
-- UTR: 44 (58.45)  
+
+<ol>  
+<li>ITA: 48 (8.00)</li>  
+<li>Slam: 46 (84.69)</li>  
+<li>TRN: 46 (75.83)</li>  
+<li>Massey: 47 (6.44)</li>  
+<li>UTR: 44 (58.45)</li>  
+</ol>  
 
 </td><td>  
 
@@ -22,13 +25,16 @@ Automatic Qualifier
 <h3>#2 <a href="../index.md">Ole Miss</a></h3>  
 
 At-Large Bid  
-- ITA: 25 (38.66)  
-- Slam: 26 (89.34)  
-- TRN: 26 (81.50)  
-- Massey: 29 (7.37)  
-- UTR: 20 (61.75)  
-- USTA Poll: NR  
-- Coaches Poll: 25  
+
+<ol>  
+<li>ITA: 25 (38.66)</li>  
+<li>Slam: 26 (89.34)</li>  
+<li>TRN: 26 (81.50)</li>  
+<li>Massey: 29 (7.37)</li>  
+<li>UTR: 20 (61.75)</li>  
+<li>USTA Poll: NR</li>  
+<li>Coaches Poll: 25</li>  
+</ol>  
 
 </td></tr></table>  
 

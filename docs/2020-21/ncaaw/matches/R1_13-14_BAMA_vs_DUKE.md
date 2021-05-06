@@ -9,13 +9,16 @@ Friday, May 7 at 3:00 EDT
 <h3>#2 <a href="../index.md">Duke</a></h3>  
 
 At-Large Bid  
-- ITA: 17 (43.03)  
-- Slam: 14 (90.91)  
-- TRN: 15 (83.33)  
-- Massey: 11 (8.09)  
-- UTR: 12 (62.45)  
-- USTA Poll: 14  
-- Coaches Poll: 20  
+
+<ol>  
+<li>ITA: 17 (43.03)</li>  
+<li>Slam: 14 (90.91)</li>  
+<li>TRN: 15 (83.33)</li>  
+<li>Massey: 11 (8.09)</li>  
+<li>UTR: 12 (62.45)</li>  
+<li>USTA Poll: 14</li>  
+<li>Coaches Poll: 20</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,12 +27,15 @@ At-Large Bid
 <h3>#3 <a href="../index.md">Alabama</a></h3>  
 
 At-Large Bid  
-- ITA: 42 (16.54)  
-- Slam: 44 (86.23)  
-- TRN: 44 (78.28)  
-- Massey: 44 (6.49)  
-- UTR: 40 (59.05)  
-- Coaches Poll: 43  
+
+<ol>  
+<li>ITA: 42 (16.54)</li>  
+<li>Slam: 44 (86.23)</li>  
+<li>TRN: 44 (78.28)</li>  
+<li>Massey: 44 (6.49)</li>  
+<li>UTR: 40 (59.05)</li>  
+<li>Coaches Poll: 43</li>  
+</ol>  
 
 </td></tr></table>  
 

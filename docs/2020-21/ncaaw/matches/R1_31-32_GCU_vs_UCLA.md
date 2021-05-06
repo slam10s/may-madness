@@ -9,13 +9,16 @@ Friday, May 7 at 1:00 EDT
 <h3>#1 <a href="../index.md">UCLA</a></h3>  
 
 Regional Host  
-- ITA: 4 (61.84)  
-- Slam: 4 (92.98)  
-- TRN: 7 (85.42)  
-- Massey: 4 (8.85)  
-- UTR: 5 (64.40)  
-- USTA Poll: 4  
-- Coaches Poll: 5  
+
+<ol>  
+<li>ITA: 4 (61.84)</li>  
+<li>Slam: 4 (92.98)</li>  
+<li>TRN: 7 (85.42)</li>  
+<li>Massey: 4 (8.85)</li>  
+<li>UTR: 5 (64.40)</li>  
+<li>USTA Poll: 4</li>  
+<li>Coaches Poll: 5</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Grand Canyon</a></h3>  
 
 Automatic Qualifier  
-- ITA: 62 (1.99)  
-- Slam: 59 (75.93)  
-- TRN: 60 (64.13)  
-- Massey: 57 (4.78)  
-- UTR: 57 (51.77)  
+
+<ol>  
+<li>ITA: 62 (1.99)</li>  
+<li>Slam: 59 (75.93)</li>  
+<li>TRN: 60 (64.13)</li>  
+<li>Massey: 57 (4.78)</li>  
+<li>UTR: 57 (51.77)</li>  
+</ol>  
 
 </td></tr></table>  
 

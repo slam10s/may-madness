@@ -9,13 +9,16 @@ Saturday, May 8 at 1:00 EDT
 <h3>#1 <a href="../index.md">Georgia</a></h3>  
 
 Regional Host  
-- ITA: 11 (54.81)  
-- Slam: 16 (96.08)  
-- TRN: 14 (94.91)  
-- Massey: 15 (8.18)  
-- UTR: 19 (78.43)  
-- USTA Poll: 16  
-- Coaches Poll: 11  
+
+<ol>  
+<li>ITA: 11 (54.81)</li>  
+<li>Slam: 16 (96.08)</li>  
+<li>TRN: 14 (94.91)</li>  
+<li>Massey: 15 (8.18)</li>  
+<li>UTR: 19 (78.43)</li>  
+<li>USTA Poll: 16</li>  
+<li>Coaches Poll: 11</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">ETSU</a></h3>  
 
 Automatic Qualifier  
-- ITA: 49 (7.97)  
-- Slam: 52 (87.30)  
-- TRN: 53 (84.02)  
-- Massey: 51 (6.56)  
-- UTR: 50 (73.91)  
+
+<ol>  
+<li>ITA: 49 (7.97)</li>  
+<li>Slam: 52 (87.30)</li>  
+<li>TRN: 53 (84.02)</li>  
+<li>Massey: 51 (6.56)</li>  
+<li>UTR: 50 (73.91)</li>  
+</ol>  
 
 </td></tr></table>  
 

@@ -9,13 +9,16 @@ Friday, May 7 at 1:00 EDT
 <h3>#2 <a href="../index.md">Pepperdine</a></h3>  
 
 Automatic Qualifier  
-- ITA: 28 (29.09)  
-- Slam: 34 (92.69)  
-- TRN: 30 (91.07)  
-- Massey: 22 (7.73)  
-- UTR: 26 (77.59)  
-- USTA Poll: 24  
-- Coaches Poll: 30  
+
+<ol>  
+<li>ITA: 28 (29.09)</li>  
+<li>Slam: 34 (92.69)</li>  
+<li>TRN: 30 (91.07)</li>  
+<li>Massey: 22 (7.73)</li>  
+<li>UTR: 26 (77.59)</li>  
+<li>USTA Poll: 24</li>  
+<li>Coaches Poll: 30</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Automatic Qualifier
 <h3>#3 <a href="../index.md">UC Santa Barbara</a></h3>  
 
 Automatic Qualifier  
-- ITA: 54 (6.34)  
-- Slam: 51 (87.56)  
-- TRN: 51 (84.30)  
-- Massey: 52 (6.48)  
-- UTR: 47 (74.20)  
+
+<ol>  
+<li>ITA: 54 (6.34)</li>  
+<li>Slam: 51 (87.56)</li>  
+<li>TRN: 51 (84.30)</li>  
+<li>Massey: 52 (6.48)</li>  
+<li>UTR: 47 (74.20)</li>  
+</ol>  
 
 </td></tr></table>  
 

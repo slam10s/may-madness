@@ -9,13 +9,16 @@ Friday, May 7 at 4:00 EDT
 <h3>#1 <a href="../index.md">Florida St.</a></h3>  
 
 Regional Host  
-- ITA: 7 (55.15)  
-- Slam: 10 (91.81)  
-- TRN: 9 (84.49)  
-- Massey: 9 (8.17)  
-- UTR: 10 (62.71)  
-- USTA Poll: 12  
-- Coaches Poll: 7  
+
+<ol>  
+<li>ITA: 7 (55.15)</li>  
+<li>Slam: 10 (91.81)</li>  
+<li>TRN: 9 (84.49)</li>  
+<li>Massey: 9 (8.17)</li>  
+<li>UTR: 10 (62.71)</li>  
+<li>USTA Poll: 12</li>  
+<li>Coaches Poll: 7</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Alabama St.</a></h3>  
 
 Automatic Qualifier  
-- ITA: 61 (2.29)  
-- Slam: 63 (69.75)  
-- TRN: 62 (58.32)  
-- Massey: 63 (3.41)  
-- UTR: 61 (46.66)  
+
+<ol>  
+<li>ITA: 61 (2.29)</li>  
+<li>Slam: 63 (69.75)</li>  
+<li>TRN: 62 (58.32)</li>  
+<li>Massey: 63 (3.41)</li>  
+<li>UTR: 61 (46.66)</li>  
+</ol>  
 
 </td></tr></table>  
 

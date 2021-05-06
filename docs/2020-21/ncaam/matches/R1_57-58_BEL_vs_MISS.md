@@ -9,13 +9,16 @@ Saturday, May 8 at 4:00 EDT
 <h3>#1 <a href="../index.md">Ole Miss</a></h3>  
 
 Regional Host  
-- ITA: 14 (44.94)  
-- Slam: 18 (95.00)  
-- TRN: 18 (93.41)  
-- Massey: 21 (7.84)  
-- UTR: 25 (77.70)  
-- USTA Poll: 21  
-- Coaches Poll: 16  
+
+<ol>  
+<li>ITA: 14 (44.94)</li>  
+<li>Slam: 18 (95.00)</li>  
+<li>TRN: 18 (93.41)</li>  
+<li>Massey: 21 (7.84)</li>  
+<li>UTR: 25 (77.70)</li>  
+<li>USTA Poll: 21</li>  
+<li>Coaches Poll: 16</li>  
+</ol>  
 
 </td><td>  
 
@@ -24,11 +27,14 @@ Regional Host
 <h3>#4 <a href="../index.md">Belmont</a></h3>  
 
 Automatic Qualifier  
-- ITA: 56 (4.48)  
-- Slam: 57 (83.10)  
-- TRN: 58 (79.14)  
-- Massey: 57 (5.77)  
-- UTR: 57 (70.99)  
+
+<ol>  
+<li>ITA: 56 (4.48)</li>  
+<li>Slam: 57 (83.10)</li>  
+<li>TRN: 58 (79.14)</li>  
+<li>Massey: 57 (5.77)</li>  
+<li>UTR: 57 (70.99)</li>  
+</ol>  
 
 </td></tr></table>  
 

@@ -9,11 +9,14 @@ Friday, May 7 at 11:00 EDT
 <h3>#3 <a href="../index.md">Ball St.</a></h3>  
 
 Automatic Qualifier  
-- ITA: 51 (4.35)  
-- Slam: 52 (79.30)  
-- TRN: 52 (70.33)  
-- Massey: 53 (5.40)  
-- UTR: 51 (54.58)  
+
+<ol>  
+<li>ITA: 51 (4.35)</li>  
+<li>Slam: 52 (79.30)</li>  
+<li>TRN: 52 (70.33)</li>  
+<li>Massey: 53 (5.40)</li>  
+<li>UTR: 51 (54.58)</li>  
+</ol>  
 
 </td><td>  
 
@@ -22,12 +25,15 @@ Automatic Qualifier
 <h3>#2 <a href="../index.md">Vanderbilt</a></h3>  
 
 At-Large Bid  
-- ITA: 27 (35.19)  
-- Slam: 29 (88.87)  
-- TRN: 30 (81.13)  
-- Massey: 31 (7.33)  
-- UTR: 28 (61.39)  
-- Coaches Poll: 28  
+
+<ol>  
+<li>ITA: 27 (35.19)</li>  
+<li>Slam: 29 (88.87)</li>  
+<li>TRN: 30 (81.13)</li>  
+<li>Massey: 31 (7.33)</li>  
+<li>UTR: 28 (61.39)</li>  
+<li>Coaches Poll: 28</li>  
+</ol>  
 
 </td></tr></table>  
 
