@@ -1,0 +1,111 @@
+Date: Friday, May 7
+Time: 5:00 EDT
+Round: First Round
+Lines: 55-56
+Title: "South Carolina St. vs #10 Wake Forest"
+URL: https://www.ncaa.com/game/5833397
+Winner: TBD
+Home:
+  Seed: 10
+  Team: Wake Forest
+  Entry: At-Large Bid
+  Draw Line: 56
+  Ratings:
+    ITA: 56.819 (9)
+    SLM: 97.17 (10)
+    TRN: 95.993 (10)
+    MAS: 8.43 (13)
+    UTR: 79.79 (7)
+  Polls:
+    USTA: 12
+    Coach: 10
+Visitor:
+  Team: South Carolina St.
+  Entry: Automatic Qualifier
+  Draw Line: 55
+  Ratings:
+    ITA: 0.724 (65)
+    SLM: 81.189 (63)
+    TRN: 76.543 (63)
+    MAS: 4.87 (63)
+    UTR: 66.99 (63)
+Predictions:
+  SLM: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
+  TRN: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
+  MAS: "WAKE - #13 Wake Forest (75%) def. #63 South Carolina St. (25%)"
+  UTR: "WAKE - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)"
+  ITA: "WAKE - #9 Wake Forest def. #65 South Carolina St."
+  USTA: "WAKE - #12 Wake Forest def. South Carolina St."
+  Coach: "WAKE - #10 Wake Forest def. South Carolina St."
+Lineups:
+  Predictions:
+    Average EWPs for WAKE: 93%,92%,93%,93%,93%,93%
+    Average EWPs for SCST: 7%,8%,7%,7%,7%,7%
+    WAKE wins 4 or more Singles points: 100%
+    SCST wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 0%
+  Singles:
+    - Position: 1
+      WAKE: Henri Squire - 15-6 at 1, 15-6 in duals, 15-6 overall
+      SCST: Aleksa Daskalovic - 2-6 at 1, 2-7 in duals, 2-7 overall
+      Predictions:
+        SLM: WAKE - Squire (100%) def. Daskalovic (0%)
+        TRN: WAKE - Squire (100%) def. Daskalovic (0%)
+        MAS: WAKE - Squire (75%) def. Daskalovic (25%)
+        UTR: WAKE - Squire (99%) def. Daskalovic (1%)
+        ITA: WAKE - Squire (38.10) def. Daskalovic (0.00)
+    - Position: 2
+      WAKE: Eduardo Nava - 6-3 at 2, 17-4 in duals, 17-4 overall
+      SCST: Marcelo Rodriguez - 5-3 at 2, 5-4 in duals, 5-4 overall
+      Predictions:
+        SLM: WAKE - Nava (99%) def. Rodriguez (1%)
+        TRN: WAKE - Nava (99%) def. Rodriguez (1%)
+        MAS: WAKE - Nava (75%) def. Rodriguez (25%)
+        UTR: WAKE - Nava (97%) def. Rodriguez (3%)
+        ITA: WAKE - Nava (19.97) def. Rodriguez (0.00)
+    - Position: 3
+      WAKE: Taha Baadi - 6-2 at 3, 13-8 in duals, 13-8 overall
+      SCST: Elyes Marouani - 9-2 at 3, 9-2 in duals, 9-2 overall
+      Predictions:
+        SLM: WAKE - Baadi (100%) def. Marouani (0%)
+        TRN: WAKE - Baadi (100%) def. Marouani (0%)
+        MAS: WAKE - Baadi (75%) def. Marouani (25%)
+        UTR: WAKE - Baadi (99%) def. Marouani (1%)
+        ITA: WAKE - Baadi (6.71) def. Marouani (1.53)
+    - Position: 4
+      WAKE: Rrezart Cungu - 7-3 at 4, 20-4 in duals, 20-4 overall
+      SCST: Omer Gorgun - 6-3 at 4, 6-3 in duals, 6-3 overall
+      Predictions:
+        SLM: WAKE - Cungu (99%) def. Gorgun (1%)
+        TRN: WAKE - Cungu (99%) def. Gorgun (1%)
+        MAS: WAKE - Cungu (75%) def. Gorgun (25%)
+        UTR: WAKE - Cungu (98%) def. Gorgun (2%)
+        ITA: WAKE - Cungu (3.35) def. Gorgun (0.00)
+    - Position: 5
+      WAKE: Melios Efstathiou - 6-2 at 5, 12-6 in duals, 12-6 overall
+      SCST: Diego Arzaluz - 5-3 at 5, 5-3 in duals, 5-3 overall
+      Predictions:
+        SLM: WAKE - Efstathiou (100%) def. Arzaluz (0%)
+        TRN: WAKE - Efstathiou (100%) def. Arzaluz (0%)
+        MAS: WAKE - Efstathiou (75%) def. Arzaluz (25%)
+        UTR: WAKE - Efstathiou (99%) def. Arzaluz (1%)
+        ITA: WAKE - Efstathiou (2.09) def. Arzaluz (0.00)
+    - Position: 6
+      WAKE: Sid Banthia - 7-1 at 6, 19-3 in duals, 19-3 overall
+      SCST: Luka Stefanovic - 4-1 at 6, 4-1 in duals, 4-1 overall
+      Predictions:
+        SLM: WAKE - Banthia (100%) def. Stefanovic (0%)
+        TRN: WAKE - Banthia (100%) def. Stefanovic (0%)
+        MAS: WAKE - Banthia (75%) def. Stefanovic (25%)
+        UTR: WAKE - Banthia (99%) def. Stefanovic (1%)
+        ITA: WAKE - Banthia (2.98) def. Stefanovic (0.00)
+  Doubles:
+    - Position: 1
+      WAKE: Nava/Squire - 13-5 at 1, 13-5 in duals, 13-5 overall
+      SCST: Rodriguez/Marouani - 6-6 at 1, 6-6 in duals, 6-6 overall
+    - Position: 2
+      WAKE: Thomson/Banthia - 7-4 at 2, 17-6 in duals, 17-6 overall
+      SCST: Daskalovic/Momo - 4-4 at 2, 4-4 in duals, 4-4 overall
+    - Position: 3
+      WAKE: Efstathiou/Baadi - 8-4 at 3, 12-5 in duals, 12-5 overall
+      SCST: Arzaluz/Ben Ali - 3-3 at 3, 3-3 in duals, 3-3 overall

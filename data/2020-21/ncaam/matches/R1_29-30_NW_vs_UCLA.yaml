@@ -1,0 +1,112 @@
+Date: Saturday, May 8
+Time: 10:00 EDT
+Round: First Round
+Lines: 29-30
+Title: Northwestern vs UCLA
+URL: https://www.ncaa.com/game/5833384
+Winner: TBD
+Home:
+  Team: UCLA
+  Entry: At-Large Bid
+  Draw Line: 29
+  Ratings:
+    ITA: 32.146 (24)
+    SLM: 93.839 (23)
+    TRN: 91.844 (24)
+    MAS: 8.03 (19)
+    UTR: 79.06 (13)
+  Polls:
+    USTA: 22
+    Coach: 29
+Visitor:
+  Team: Northwestern
+  Entry: At-Large Bid
+  Draw Line: 30
+  Ratings:
+    ITA: 7.95 (50)
+    SLM: 92.885 (33)
+    TRN: 90.901 (32)
+    MAS: 7.5 (31)
+    UTR: 77.56 (27)
+  Polls:
+    Coach: 49
+Predictions:
+  SLM: "UCLA - #23 UCLA (63%) def. #33 Northwestern (37%)"
+  TRN: "UCLA - #24 UCLA (63%) def. #32 Northwestern (37%)"
+  MAS: "UCLA - #19 UCLA (75%) def. #31 Northwestern (25%)"
+  UTR: "UCLA - #13 UCLA (+1.50) def. #27 Northwestern (-1.50)"
+  ITA: "UCLA - #24 UCLA def. #50 Northwestern"
+  USTA: "UCLA - #22 UCLA def. Northwestern"
+  Coach: "UCLA - #29 UCLA def. #49 Northwestern"
+Lineups:
+  Predictions:
+    Average EWPs for UCLA: 74%,52%,33%,43%,58%,40%
+    Average EWPs for NW: 26%,48%,67%,57%,42%,60%
+    UCLA wins 4 or more Singles points: 34%
+    NW wins 4 or more Singles points: 33%
+    Winner decided by the Doubles point: 33%
+  Singles:
+    - Position: 1
+      UCLA: Govind Nanda - 2-2 at 1, 8-3 in duals, 8-3 overall
+      NW: Steven Forman - 5-2 at 1, 5-2 in duals, 5-2 overall
+      Predictions:
+        SLM: UCLA - Nanda (63%) def. Forman (37%)
+        TRN: UCLA - Nanda (75%) def. Forman (25%)
+        MAS: UCLA - Nanda (75%) def. Forman (25%)
+        UTR: UCLA - Nanda (85%) def. Forman (15%)
+        ITA: UCLA - Nanda (4.24) def. Forman (2.23)
+    - Position: 2
+      UCLA: Drew Baird - 5-2 at 2, 9-6 in duals, 9-7 overall
+      NW: Dominik Stary - 4-0 at 2, 8-4 in duals, 9-6 overall
+      Predictions:
+        SLM: NW - Stary (69%) def. Baird (31%)
+        TRN: NW - Stary (64%) def. Baird (36%)
+        MAS: UCLA - Baird (75%) def. Stary (25%)
+        UTR: UCLA - Baird (66%) def. Stary (34%)
+        ITA: UCLA - Baird (3.85) def. Stary (0.00)
+    - Position: 3
+      UCLA: Ben Goldberg - 5-2 at 3, 8-8 in duals, 9-8 overall
+      NW: Nick Brookes - 1-5 at 3, 9-7 in duals, 11-9 overall
+      Predictions:
+        SLM: NW - Brookes (66%) def. Goldberg (34%)
+        TRN: NW - Brookes (52%) def. Goldberg (48%)
+        MAS: NW - Brookes (75%) def. Goldberg (25%)
+        UTR: NW - Brookes (77%) def. Goldberg (23%)
+        ITA: UCLA - Goldberg (1.97) def. Brookes (1.58)
+    - Position: 4
+      UCLA: Sam Feit - 6-1 at 4, 11-5 in duals, 11-6 overall
+      NW: Chris Ephron - 5-1 at 4, 9-5 in duals, 12-6 overall
+      Predictions:
+        SLM: NW - Ephron (65%) def. Feit (35%)
+        TRN: UCLA - Feit (51%) def. Ephron (49%)
+        MAS: NW - Ephron (75%) def. Feit (25%)
+        UTR: UCLA - Feit (56%) def. Ephron (44%)
+        ITA: NW - Ephron (2.01) def. Feit (1.91)
+    - Position: 5
+      UCLA: Roscoe Bellamy - 2-1 at 5, 8-2 in duals, 8-2 overall
+      NW: Trice Pickens - 3-3 at 5, 8-10 in duals, 13-10 overall
+      Predictions:
+        SLM: NW - Pickens (70%) def. Bellamy (30%)
+        TRN: NW - Pickens (56%) def. Bellamy (44%)
+        MAS: UCLA - Bellamy (75%) def. Pickens (25%)
+        UTR: UCLA - Bellamy (81%) def. Pickens (19%)
+        ITA: UCLA - Bellamy (2.89) def. Pickens (1.58)
+    - Position: 6
+      UCLA: Mathew Tsolakyan - 4-2 at 6, 10-3 in duals, 11-3 overall
+      NW: Simen Bratholm - 0-0 at 6, 5-4 in duals, 8-5 overall
+      Predictions:
+        SLM: NW - Bratholm (66%) def. Tsolakyan (34%)
+        TRN: NW - Bratholm (64%) def. Tsolakyan (36%)
+        MAS: NW - Bratholm (75%) def. Tsolakyan (25%)
+        UTR: UCLA - Tsolakyan (62%) def. Bratholm (38%)
+        ITA: UCLA - Tsolakyan (2.57) def. Bratholm (2.06)
+  Doubles:
+    - Position: 1
+      UCLA: Nanda/Baird - 2-2 at 1, 4-5 in duals, 4-5 overall
+      NW: Brookes/Bratholm - 9-4 at 1, 9-4 in duals, 12-7 overall
+    - Position: 2
+      UCLA: Pereira/Zahraj - 2-2 at 2, 2-2 in duals, 2-2 overall
+      NW: Ephron/Stary - 12-4 at 2, 12-4 in duals, 12-4 overall
+    - Position: 3
+      UCLA: Tsolakyan/Bellamy - 5-3 at 3, 5-3 in duals, 5-3 overall
+      NW: Forman/Spear - 5-1 at 3, 5-1 in duals, 5-1 overall

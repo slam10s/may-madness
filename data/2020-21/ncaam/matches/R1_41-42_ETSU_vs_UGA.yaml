@@ -1,0 +1,111 @@
+Date: Saturday, May 8
+Time: 1:00 EDT
+Round: First Round
+Lines: 41-42
+Title: "ETSU vs #11 Georgia"
+URL: https://www.ncaa.com/game/5833390
+Winner: TBD
+Home:
+  Seed: 11
+  Team: Georgia
+  Entry: At-Large Bid
+  Draw Line: 41
+  Ratings:
+    ITA: 54.806 (11)
+    SLM: 96.078 (16)
+    TRN: 94.909 (14)
+    MAS: 8.18 (15)
+    UTR: 78.43 (19)
+  Polls:
+    USTA: 16
+    Coach: 11
+Visitor:
+  Team: ETSU
+  Entry: Automatic Qualifier
+  Draw Line: 42
+  Ratings:
+    ITA: 7.967 (49)
+    SLM: 87.298 (52)
+    TRN: 84.021 (53)
+    MAS: 6.56 (51)
+    UTR: 73.91 (50)
+Predictions:
+  SLM: "UGA - #16 Georgia (99%) def. #52 ETSU (1%)"
+  TRN: "UGA - #14 Georgia (99%) def. #53 ETSU (1%)"
+  MAS: "UGA - #15 Georgia (75%) def. #51 ETSU (25%)"
+  UTR: "UGA - #19 Georgia (+4.52) def. #50 ETSU (-4.52)"
+  ITA: "UGA - #11 Georgia def. #49 ETSU"
+  USTA: "UGA - #16 Georgia def. ETSU"
+  Coach: "UGA - #11 Georgia def. ETSU"
+Lineups:
+  Predictions:
+    Average EWPs for UGA: 82%,87%,91%,88%,92%,92%
+    Average EWPs for ETSU: 18%,13%,9%,12%,8%,8%
+    UGA wins 4 or more Singles points: 98%
+    ETSU wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 2%
+  Singles:
+    - Position: 1
+      UGA: Trent Bryde - 9-10 at 1, 9-10 in duals, 14-13 overall
+      ETSU: Dimitri Badra - 11-3 at 1, 14-5 in duals, 14-5 overall
+      Predictions:
+        SLM: UGA - Bryde (85%) def. Badra (15%)
+        TRN: UGA - Bryde (79%) def. Badra (21%)
+        MAS: UGA - Bryde (75%) def. Badra (25%)
+        UTR: UGA - Bryde (88%) def. Badra (12%)
+        ITA: UGA - Bryde (36.71) def. Badra (10.52)
+    - Position: 2
+      UGA: Tyler Zink - 6-5 at 2, 9-5 in duals, 11-9 overall
+      ETSU: Frazier Rengifo - 10-4 at 2, 11-7 in duals, 11-7 overall
+      Predictions:
+        SLM: UGA - Zink (90%) def. Rengifo (10%)
+        TRN: UGA - Zink (93%) def. Rengifo (7%)
+        MAS: UGA - Zink (75%) def. Rengifo (25%)
+        UTR: UGA - Zink (91%) def. Rengifo (9%)
+        ITA: UGA - Zink (25.30) def. Rengifo (2.55)
+    - Position: 3
+      UGA: Philip Henning - 11-4 at 3, 13-6 in duals, 18-10 overall
+      ETSU: Juan Lugo - 5-1 at 3, 9-5 in duals, 9-5 overall
+      Predictions:
+        SLM: UGA - Henning (96%) def. Lugo (4%)
+        TRN: UGA - Henning (97%) def. Lugo (3%)
+        MAS: UGA - Henning (75%) def. Lugo (25%)
+        UTR: UGA - Henning (94%) def. Lugo (6%)
+        ITA: UGA - Henning (31.73) def. Lugo (2.15)
+    - Position: 4
+      UGA: Blake Croyder - 10-2 at 4, 11-5 in duals, 15-12 overall
+      ETSU: Thiago Pernas - 7-2 at 4, 10-8 in duals, 10-8 overall
+      Predictions:
+        SLM: UGA - Croyder (93%) def. Pernas (7%)
+        TRN: UGA - Croyder (96%) def. Pernas (4%)
+        MAS: UGA - Croyder (75%) def. Pernas (25%)
+        UTR: UGA - Croyder (91%) def. Pernas (9%)
+        ITA: UGA - Croyder (4.08) def. Pernas (1.71)
+    - Position: 5
+      UGA: Billy Rowe - 8-4 at 5, 12-7 in duals, 16-10 overall
+      ETSU: MIguel Este - 1-1 at 5, 8-5 in duals, 8-5 overall
+      Predictions:
+        SLM: UGA - Rowe (98%) def. Este (2%)
+        TRN: UGA - Rowe (99%) def. Este (1%)
+        MAS: UGA - Rowe (75%) def. Este (25%)
+        UTR: UGA - Rowe (96%) def. Este (4%)
+        ITA: ETSU - Este (2.15) def. Rowe (1.84)
+    - Position: 6
+      UGA: Erik Grevelius - 7-3 at 6, 9-4 in duals, 15-8 overall
+      ETSU: Juan Zabala - 2-1 at 6, 6-4 in duals, 6-4 overall
+      Predictions:
+        SLM: UGA - Grevelius (96%) def. Zabala (4%)
+        TRN: UGA - Grevelius (97%) def. Zabala (3%)
+        MAS: UGA - Grevelius (75%) def. Zabala (25%)
+        UTR: UGA - Grevelius (99%) def. Zabala (1%)
+        ITA: UGA - Grevelius (2.48) def. Zabala (1.96)
+  Doubles:
+    - Position: 1
+      UGA: Bryde/Zink - 8-4 at 1, 8-4 in duals, 13-6 overall
+      ETSU: Lugo/Rengifo - 8-5 at 1, 8-5 in duals, 8-5 overall
+    - Position: 2
+      UGA: Croyder/Rowe - 7-5 at 2, 8-5 in duals, 10-5 overall
+      ETSU: Este/Badra - 4-0 at 2, 12-1 in duals, 12-1 overall
+    - Position: 3
+      UGA: Henning/Grevelius - 9-5 at 3, 10-5 in duals, 10-7 overall
+      ETSU: Zabala/Pernas - 4-2 at 3, 8-4 in duals, 8-4 overall

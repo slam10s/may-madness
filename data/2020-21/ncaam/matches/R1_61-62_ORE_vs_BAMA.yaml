@@ -1,0 +1,111 @@
+Date: Saturday, May 8
+Time: 12:00 EDT
+Round: First Round
+Lines: 61-62
+Title: Oregon vs Alabama
+URL: https://www.ncaa.com/game/5833400
+Winner: TBD
+Home:
+  Team: Alabama
+  Entry: At-Large Bid
+  Draw Line: 61
+  Ratings:
+    ITA: 30.96 (26)
+    SLM: 93.057 (28)
+    TRN: 91.267 (27)
+    MAS: 7.31 (38)
+    UTR: 77.06 (30)
+  Polls:
+    Coach: 25
+Visitor:
+  Team: Oregon
+  Entry: At-Large Bid
+  Draw Line: 62
+  Ratings:
+    ITA: 23.545 (36)
+    SLM: 91.521 (44)
+    TRN: 89.696 (41)
+    MAS: 7.51 (30)
+    UTR: 76.78 (33)
+  Polls:
+    USTA: .nan
+    Coach: 41
+Predictions:
+  SLM: "BAMA - #28 Alabama (70%) def. #44 Oregon (30%)"
+  TRN: "BAMA - #27 Alabama (71%) def. #41 Oregon (29%)"
+  MAS: "ORE - #30 Oregon (75%) def. #38 Alabama (25%)"
+  UTR: "BAMA - #30 Alabama (+0.28) def. #33 Oregon (-0.28)"
+  ITA: "BAMA - #26 Alabama def. #36 Oregon"
+  Coach: "BAMA - #25 Alabama def. #41 Oregon"
+Lineups:
+  Predictions:
+    Average EWPs for BAMA: 26%,29%,72%,45%,70%,74%
+    Average EWPs for ORE: 74%,71%,28%,55%,30%,26%
+    BAMA wins 4 or more Singles points: 38%
+    ORE wins 4 or more Singles points: 27%
+    Winner decided by the Doubles point: 35%
+  Singles:
+    - Position: 1
+      BAMA: Edson Ortiz - 5-5 at 1, 12-10 in duals, 13-12 overall
+      ORE: Emmanuel Coste - 5-4 at 1, 11-6 in duals, 11-6 overall
+      Predictions:
+        SLM: ORE - Coste (73%) def. Ortiz (27%)
+        TRN: ORE - Coste (76%) def. Ortiz (24%)
+        MAS: ORE - Coste (75%) def. Ortiz (25%)
+        UTR: ORE - Coste (76%) def. Ortiz (24%)
+        ITA: BAMA - Ortiz (18.41) def. Coste (3.31)
+    - Position: 2
+      BAMA: Patrick Kaukovalta - 3-2 at 2, 9-11 in duals, 15-17 overall
+      ORE: Joshua Charlton - 6-2 at 2, 12-6 in duals, 12-6 overall
+      Predictions:
+        SLM: ORE - Charlton (68%) def. Kaukovalta (32%)
+        TRN: ORE - Charlton (68%) def. Kaukovalta (32%)
+        MAS: ORE - Charlton (75%) def. Kaukovalta (25%)
+        UTR: ORE - Charlton (76%) def. Kaukovalta (24%)
+        ITA: BAMA - Kaukovalta (11.09) def. Charlton (2.88)
+    - Position: 3
+      BAMA: Zhe Zhou - 3-1 at 3, 9-9 in duals, 15-15 overall
+      ORE: Quinn Vandecasteele - 10-8 at 3, 12-8 in duals, 12-8 overall
+      Predictions:
+        SLM: BAMA - Zhou (72%) def. Vandecasteele (28%)
+        TRN: BAMA - Zhou (76%) def. Vandecasteele (24%)
+        MAS: BAMA - Zhou (75%) def. Vandecasteele (25%)
+        UTR: BAMA - Zhou (63%) def. Vandecasteele (37%)
+        ITA: BAMA - Zhou (13.61) def. Vandecasteele (1.67)
+    - Position: 4
+      BAMA: Riccardo Roberto - 5-7 at 4, 11-8 in duals, 19-12 overall
+      ORE: Jesper Klov-Nilsson - 10-2 at 4, 17-3 in duals, 17-3 overall
+      Predictions:
+        SLM: BAMA - Roberto (50%) def. Klov-Nilsson (50%)
+        TRN: BAMA - Roberto (50%) def. Klov-Nilsson (50%)
+        MAS: ORE - Klov-Nilsson (75%) def. Roberto (25%)
+        UTR: BAMA - Roberto (53%) def. Klov-Nilsson (47%)
+        ITA: BAMA - Roberto (2.71) def. Klov-Nilsson (2.61)
+    - Position: 5
+      BAMA: Gabriel Diaz Freire - 3-1 at 5, 10-6 in duals, 15-10 overall
+      ORE: Brandon Lam - 7-3 at 5, 11-6 in duals, 11-6 overall
+      Predictions:
+        SLM: BAMA - Freire (68%) def. Lam (32%)
+        TRN: BAMA - Freire (72%) def. Lam (28%)
+        MAS: BAMA - Freire (75%) def. Lam (25%)
+        UTR: BAMA - Freire (68%) def. Lam (32%)
+        ITA: ORE - Lam (1.91) def. Freire (1.56)
+    - Position: 6
+      BAMA: Alexey Nesterov - 3-6 at 6, 7-6 in duals, 12-10 overall
+      ORE: Luke Vandecasteele - 3-6 at 6, 9-8 in duals, 9-8 overall
+      Predictions:
+        SLM: BAMA - Nesterov (69%) def. Vandecasteele (31%)
+        TRN: BAMA - Nesterov (74%) def. Vandecasteele (26%)
+        MAS: BAMA - Nesterov (75%) def. Vandecasteele (25%)
+        UTR: BAMA - Nesterov (80%) def. Vandecasteele (20%)
+        ITA: BAMA - Nesterov (1.92) def. Vandecasteele (1.57)
+  Doubles:
+    - Position: 1
+      BAMA: Kaukovalta/Roberto - 10-7 at 1, 11-9 in duals, 16-14 overall
+      ORE: Charlton/Vandecasteele - 9-3 at 1, 9-3 in duals, 9-3 overall
+    - Position: 2
+      BAMA: Nesterov/Ortiz - 3-3 at 2, 7-7 in duals, 7-7 overall
+      ORE: Coste/Klov-Nilsson - 4-5 at 2, 12-8 in duals, 12-8 overall
+    - Position: 3
+      BAMA: Garza/Zhou - 0-2 at 3, 0-2 in duals, 0-2 overall
+      ORE: Lam/Matsushita - 4-3 at 3, 4-3 in duals, 4-3 overall

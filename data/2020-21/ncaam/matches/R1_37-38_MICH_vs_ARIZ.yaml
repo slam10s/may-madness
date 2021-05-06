@@ -1,0 +1,113 @@
+Date: Friday, May 7
+Time: 10:00 EDT
+Round: First Round
+Lines: 37-38
+Title: Michigan vs Arizona
+URL: https://www.ncaa.com/game/5833388
+Winner: TBD
+Home:
+  Team: Arizona
+  Entry: At-Large Bid
+  Draw Line: 37
+  Ratings:
+    ITA: 38.972 (17)
+    SLM: 94.263 (21)
+    TRN: 92.428 (20)
+    MAS: 8.1 (18)
+    UTR: 78.35 (21)
+  Polls:
+    USTA: 18
+    Coach: 19
+Visitor:
+  Team: Michigan
+  Entry: At-Large Bid
+  Draw Line: 38
+  Ratings:
+    ITA: 15.168 (46)
+    SLM: 96.424 (13)
+    TRN: 95.884 (12)
+    MAS: 8.22 (14)
+    UTR: 78.65 (18)
+  Polls:
+    USTA: .nan
+    Coach: 23
+Predictions:
+  SLM: "MICH - #13 Michigan (78%) def. #21 Arizona (22%)"
+  TRN: "MICH - #12 Michigan (88%) def. #20 Arizona (12%)"
+  MAS: "MICH - #14 Michigan (75%) def. #18 Arizona (25%)"
+  UTR: "MICH - #18 Michigan (+0.3) def. #21 Arizona (-0.3)"
+  ITA: "ARIZ - #17 Arizona def. #46 Michigan"
+  USTA: "ARIZ - #18 Arizona def. Michigan"
+  Coach: "ARIZ - #19 Arizona def. #23 Michigan"
+Lineups:
+  Predictions:
+    Average EWPs for ARIZ: 69%,36%,61%,7%,47%,39%
+    Average EWPs for MICH: 31%,64%,39%,93%,53%,61%
+    ARIZ wins 4 or more Singles points: 20%
+    MICH wins 4 or more Singles points: 48%
+    Winner decided by the Doubles point: 32%
+  Singles:
+    - Position: 1
+      ARIZ: Gustaf Strom - 3-1 at 1, 17-2 in duals, 17-2 overall
+      MICH: Andrew Fenty - 10-3 at 1, 13-4 in duals, 16-9 overall
+      Predictions:
+        SLM: MICH - Fenty (56%) def. Strom (44%)
+        TRN: ARIZ - Strom (87%) def. Fenty (13%)
+        MAS: ARIZ - Strom (75%) def. Fenty (25%)
+        UTR: ARIZ - Strom (69%) def. Fenty (31%)
+        ITA: ARIZ - Strom (17.40) def. Fenty (1.71)
+    - Position: 2
+      ARIZ: Jonas Ziverts - 1-1 at 2, 9-8 in duals, 9-8 overall
+      MICH: Ondrej Styler - 7-3 at 2, 8-4 in duals, 12-7 overall
+      Predictions:
+        SLM: MICH - Styler (54%) def. Ziverts (46%)
+        TRN: MICH - Styler (55%) def. Ziverts (45%)
+        MAS: MICH - Styler (75%) def. Ziverts (25%)
+        UTR: MICH - Styler (76%) def. Ziverts (24%)
+        ITA: ARIZ - Ziverts (7.58) def. Styler (2.60)
+    - Position: 3
+      ARIZ: Filip Malbasic - 5-4 at 3, 14-9 in duals, 14-9 overall
+      MICH: Patrick Maloney - 7-3 at 3, 9-4 in duals, 9-4 overall
+      Predictions:
+        SLM: ARIZ - Malbasic (53%) def. Maloney (47%)
+        TRN: ARIZ - Malbasic (64%) def. Maloney (36%)
+        MAS: ARIZ - Malbasic (75%) def. Maloney (25%)
+        UTR: ARIZ - Malbasic (53%) def. Maloney (47%)
+        ITA: ARIZ - Malbasic (2.36) def. Maloney (2.15)
+    - Position: 4
+      ARIZ: Herman Hoeyeraal - 0-0 at 4, 4-0 in duals, 4-0 overall
+      MICH: Mattias Siimar - 8-1 at 4, 14-3 in duals, 17-6 overall
+      Predictions:
+        SLM: MICH - Siimar (100%) def. Hoeyeraal (0%)
+        TRN: MICH - Siimar (100%) def. Hoeyeraal (0%)
+        MAS: MICH - Siimar (75%) def. Hoeyeraal (25%)
+        UTR: MICH - Siimar (100%) def. Hoeyeraal (0%)
+        ITA: MICH - Siimar (2.45) def. Hoeyeraal (2.40)
+    - Position: 5
+      ARIZ: Alejandro Reguant - 0-0 at 5, 13-6 in duals, 13-6 overall
+      MICH: Nick Beaty - 8-2 at 5, 13-2 in duals, 19-4 overall
+      Predictions:
+        SLM: ARIZ - Reguant (55%) def. Beaty (45%)
+        TRN: MICH - Beaty (66%) def. Reguant (34%)
+        MAS: MICH - Beaty (75%) def. Reguant (25%)
+        UTR: ARIZ - Reguant (70%) def. Beaty (30%)
+        ITA: ARIZ - Reguant (2.55) def. Beaty (2.52)
+    - Position: 6
+      ARIZ: Carlos Hassey - 1-1 at 6, 12-7 in duals, 12-7 overall
+      MICH: Nino Ehrenschneider - 3-1 at 6, 4-1 in duals, 6-2 overall
+      Predictions:
+        SLM: MICH - Ehrenschneider (51%) def. Hassey (49%)
+        TRN: MICH - Ehrenschneider (66%) def. Hassey (34%)
+        MAS: MICH - Ehrenschneider (75%) def. Hassey (25%)
+        UTR: MICH - Ehrenschneider (57%) def. Hassey (43%)
+        ITA: MICH - Ehrenschneider (2.63) def. Hassey (1.70)
+  Doubles:
+    - Position: 1
+      ARIZ: Hassey/Reguant - 1-0 at 1, 10-3 in duals, 10-3 overall
+      MICH: Fenty/Siimar - 9-3 at 1, 9-3 in duals, 14-3 overall
+    - Position: 2
+      ARIZ: Ziverts/Hoeyeraal - 0-0 at 2, 0-0 in duals, 0-0 overall
+      MICH: Maloney/Styler - 2-0 at 2, 2-0 in duals, 2-0 overall
+    - Position: 3
+      ARIZ: Strom/Malbasic - 7-5 at 3, 9-5 in duals, 9-5 overall
+      MICH: Ehrenschneider/Johnston - 3-0 at 3, 3-0 in duals, 3-0 overall

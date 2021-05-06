@@ -1,0 +1,111 @@
+Date: Saturday, May 8
+Time: 3:00 EDT
+Round: First Round
+Lines: 63-64
+Title: "A&M-Corpus Christi vs #2 Baylor"
+URL: https://www.ncaa.com/game/5833401
+Winner: TBD
+Home:
+  Seed: 2
+  Team: Baylor
+  Entry: Automatic Qualifier
+  Draw Line: 64
+  Ratings:
+    ITA: 83.326 (1)
+    SLM: 99.051 (5)
+    TRN: 98.667 (6)
+    MAS: 8.82 (5)
+    UTR: 79.74 (9)
+  Polls:
+    USTA: 3
+    Coach: 1
+Visitor:
+  Team: A&M-Corpus Christi
+  Entry: Automatic Qualifier
+  Draw Line: 63
+  Ratings:
+    ITA: 2.974 (60)
+    SLM: 82.181 (60)
+    TRN: 76.91 (61)
+    MAS: 5.69 (58)
+    UTR: 71.52 (54)
+Predictions:
+  SLM: "BAY - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)"
+  TRN: "BAY - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)"
+  MAS: "BAY - #5 Baylor (75%) def. #58 A&M-Corpus Christi (25%)"
+  UTR: "BAY - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)"
+  ITA: "BAY - #1 Baylor def. #60 A&M-Corpus Christi"
+  USTA: "BAY - #3 Baylor def. A&M-Corpus Christi"
+  Coach: "BAY - #1 Baylor def. A&M-Corpus Christi"
+Lineups:
+  Predictions:
+    Average EWPs for BAY: 92%,93%,90%,91%,93%,92%
+    Average EWPs for TAMCC: 8%,7%,10%,9%,7%,8%
+    BAY wins 4 or more Singles points: 99%
+    TAMCC wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 1%
+  Singles:
+    - Position: 1
+      BAY: Adrian Boitan - 14-4 at 1, 15-5 in duals, 15-5 overall
+      TAMCC: Kyohei Yamanaka - 10-7 at 1, 10-7 in duals, 11-9 overall
+      Predictions:
+        SLM: BAY - Boitan (98%) def. Yamanaka (2%)
+        TRN: BAY - Boitan (99%) def. Yamanaka (1%)
+        MAS: BAY - Boitan (75%) def. Yamanaka (25%)
+        UTR: BAY - Boitan (97%) def. Yamanaka (3%)
+        ITA: BAY - Boitan (31.04) def. Yamanaka (1.61)
+    - Position: 2
+      BAY: Matias Soto - 12-3 at 2, 14-4 in duals, 18-4 overall
+      TAMCC: Ryuya Ata - 7-4 at 2, 8-8 in duals, 9-8 overall
+      Predictions:
+        SLM: BAY - Soto (99%) def. Ata (1%)
+        TRN: BAY - Soto (99%) def. Ata (1%)
+        MAS: BAY - Soto (75%) def. Ata (25%)
+        UTR: BAY - Soto (98%) def. Ata (2%)
+        ITA: BAY - Soto (41.70) def. Ata (1.70)
+    - Position: 3
+      BAY: Sven Lah - 6-7 at 3, 9-9 in duals, 11-12 overall
+      TAMCC: Nathan Schwartz - 7-4 at 3, 13-4 in duals, 15-5 overall
+      Predictions:
+        SLM: BAY - Lah (95%) def. Schwartz (5%)
+        TRN: BAY - Lah (96%) def. Schwartz (4%)
+        MAS: BAY - Lah (75%) def. Schwartz (25%)
+        UTR: BAY - Lah (94%) def. Schwartz (6%)
+        ITA: BAY - Lah (4.25) def. Schwartz (2.22)
+    - Position: 4
+      BAY: Nick Stachowiak - 8-2 at 4, 12-5 in duals, 19-7 overall
+      TAMCC: Pascal Loriel - 10-0 at 4, 15-0 in duals, 17-1 overall
+      Predictions:
+        SLM: BAY - Stachowiak (96%) def. Loriel (4%)
+        TRN: BAY - Stachowiak (97%) def. Loriel (3%)
+        MAS: BAY - Stachowiak (75%) def. Loriel (25%)
+        UTR: BAY - Stachowiak (95%) def. Loriel (5%)
+        ITA: TAMCC - Loriel (3.69) def. Stachowiak (3.38)
+    - Position: 5
+      BAY: Charlie Broom - 17-2 at 5, 21-3 in duals, 24-6 overall
+      TAMCC: Borja Delgado - 4-0 at 5, 14-1 in duals, 14-1 overall
+      Predictions:
+        SLM: BAY - Broom (99%) def. Delgado (1%)
+        TRN: BAY - Broom (99%) def. Delgado (1%)
+        MAS: BAY - Broom (75%) def. Delgado (25%)
+        UTR: BAY - Broom (99%) def. Delgado (1%)
+        ITA: BAY - Broom (3.72) def. Delgado (3.54)
+    - Position: 6
+      BAY: Spencer Furman - 11-2 at 6, 18-2 in duals, 21-3 overall
+      TAMCC: Guillermo Castaneda - 4-1 at 6, 10-1 in duals, 10-1 overall
+      Predictions:
+        SLM: BAY - Furman (99%) def. Castaneda (1%)
+        TRN: BAY - Furman (99%) def. Castaneda (1%)
+        MAS: BAY - Furman (75%) def. Castaneda (25%)
+        UTR: BAY - Furman (94%) def. Castaneda (6%)
+        ITA: BAY - Furman (4.24) def. Castaneda (3.54)
+  Doubles:
+    - Position: 1
+      BAY: Lah/Frantzen - 11-7 at 1, 11-7 in duals, 11-7 overall
+      TAMCC: K.Yamanaka/Ata - 8-6 at 1, 11-6 in duals, 12-9 overall
+    - Position: 2
+      BAY: Stachowiak/Soto - 7-1 at 2, 7-1 in duals, 10-1 overall
+      TAMCC: Schwartz/Lorieul - 2-2 at 2, 4-2 in duals, 15-8 overall
+    - Position: 3
+      BAY: Broom/Bass - 5-3 at 3, 5-3 in duals, 5-3 overall
+      TAMCC: B.Delgado/Ruiz - 5-0 at 3, 5-0 in duals, 18-4 overall

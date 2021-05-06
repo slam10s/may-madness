@@ -1,0 +1,110 @@
+Date: Saturday, May 8
+Time: 1:00 EDT
+Round: First Round
+Lines: 31-32
+Title: "Northern Ariz. vs #4 Texas"
+URL: https://www.ncaa.com/game/5833385
+Winner: TBD
+Home:
+  Seed: 4
+  Team: Texas
+  Entry: At-Large Bid
+  Draw Line: 32
+  Ratings:
+    ITA: 74.244 (5)
+    SLM: 97.594 (8)
+    TRN: 97.625 (7)
+    MAS: 8.54 (11)
+    UTR: 79.01 (14)
+  Polls:
+    USTA: 6
+    Coach: 4
+Visitor:
+  Team: Northern Ariz.
+  Entry: Automatic Qualifier
+  Draw Line: 31
+  Ratings:
+    ITA: 2.133 (61)
+    SLM: 82.402 (58)
+    TRN: 77.787 (60)
+    MAS: 5.53 (59)
+    UTR: 70.85 (59)
+Predictions:
+  SLM: "TEX - #8 Texas (99%) def. #58 Northern Ariz. (1%)"
+  TRN: "TEX - #7 Texas (99%) def. #60 Northern Ariz. (1%)"
+  MAS: "TEX - #11 Texas (75%) def. #59 Northern Ariz. (25%)"
+  UTR: "TEX - #14 Texas (+8.16) def. #59 Northern Ariz. (-8.16)"
+  ITA: "TEX - #5 Texas def. #61 Northern Ariz."
+  USTA: "TEX - #6 Texas def. Northern Ariz."
+  Coach: "TEX - #4 Texas def. Northern Ariz."
+Lineups:
+  Predictions:
+    Average EWPs for TEX: 91%,91%,93%,92%,89%,91%
+    Average EWPs for NAU: 9%,9%,7%,8%,11%,9%
+    TEX wins 4 or more Singles points: 99%
+    NAU wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 1%
+  Singles:
+    - Position: 1
+      TEX: Eliot Spizzirri - 9-6 at 1, 15-8 in duals, 22-9 overall
+      NAU: Eban Straker-Meads - 5-4 at 1, 6-6 in duals, 6-6 overall
+      Predictions:
+        SLM: TEX - Spizzirri (95%) def. Straker-Meads (5%)
+        TRN: TEX - Spizzirri (98%) def. Straker-Meads (2%)
+        MAS: TEX - Spizzirri (75%) def. Straker-Meads (25%)
+        UTR: TEX - Spizzirri (95%) def. Straker-Meads (5%)
+        ITA: TEX - Spizzirri (28.17) def. Straker-Meads (1.70)
+    - Position: 2
+      TEX: Micah Braswell - 9-4 at 2, 17-5 in duals, 32-6 overall
+      NAU: Facundo Tumosa - 3-3 at 2, 5-6 in duals, 5-6 overall
+      Predictions:
+        SLM: TEX - Braswell (95%) def. Tumosa (5%)
+        TRN: TEX - Braswell (97%) def. Tumosa (3%)
+        MAS: TEX - Braswell (75%) def. Tumosa (25%)
+        UTR: TEX - Braswell (96%) def. Tumosa (4%)
+        ITA: TEX - Braswell (20.88) def. Tumosa (1.38)
+    - Position: 3
+      TEX: Siem Woldeab - 5-1 at 3, 9-7 in duals, 14-12 overall
+      NAU: Dominik Buzonics - 4-3 at 3, 6-8 in duals, 6-8 overall
+      Predictions:
+        SLM: TEX - Woldeab (99%) def. Buzonics (1%)
+        TRN: TEX - Woldeab (99%) def. Buzonics (1%)
+        MAS: TEX - Woldeab (75%) def. Buzonics (25%)
+        UTR: TEX - Woldeab (97%) def. Buzonics (3%)
+        ITA: TEX - Woldeab (9.31) def. Buzonics (1.51)
+    - Position: 4
+      TEX: Cleeve Harper - 14-3 at 4, 17-5 in duals, 22-9 overall
+      NAU: Christopher Steele - 3-0 at 4, 7-7 in duals, 7-7 overall
+      Predictions:
+        SLM: TEX - Harper (98%) def. Steele (2%)
+        TRN: TEX - Harper (99%) def. Steele (1%)
+        MAS: TEX - Harper (75%) def. Steele (25%)
+        UTR: TEX - Harper (98%) def. Steele (2%)
+        ITA: TEX - Harper (5.83) def. Steele (2.01)
+    - Position: 5
+      TEX: Chih Chi Huang - 9-7 at 5, 11-8 in duals, 15-17 overall
+      NAU: Maciej Ziomber - 5-2 at 5, 11-4 in duals, 11-4 overall
+      Predictions:
+        SLM: TEX - Huang (95%) def. Ziomber (5%)
+        TRN: TEX - Huang (94%) def. Ziomber (6%)
+        MAS: TEX - Huang (75%) def. Ziomber (25%)
+        UTR: TEX - Huang (92%) def. Ziomber (8%)
+        ITA: NAU - Ziomber (2.68) def. Huang (0.00)
+    - Position: 6
+      TEX: Evin McDonald - 6-9 at 6, 11-10 in duals, 15-16 overall
+      NAU: Alexander Groves - 3-0 at 6, 6-8 in duals, 6-8 overall
+      Predictions:
+        SLM: TEX - McDonald (96%) def. Groves (4%)
+        TRN: TEX - McDonald (98%) def. Groves (2%)
+        MAS: TEX - McDonald (75%) def. Groves (25%)
+        UTR: TEX - McDonald (96%) def. Groves (4%)
+  Doubles:
+    - Position: 1
+      TEX: Spizzirri/Woldeab - 12-9 at 1, 12-9 in duals, 19-9 overall
+      NAU: Groves/Buzonics - 3-2 at 1, 3-2 in duals, 3-2 overall
+    - Position: 2
+      TEX: Harper/Huang - 5-4 at 2, 6-4 in duals, 10-7 overall
+      NAU: Tumosa/Straker-Meads - 1-0 at 2, 1-0 in duals, 1-0 overall
+    - Position: 3
+      TEX: Braswell/Holden - 4-1 at 3, 4-1 in duals, 7-2 overall
+      NAU: Steele/Ziomber - 3-0 at 3, 3-0 in duals, 3-0 overall
