@@ -4,7 +4,7 @@ Friday, May 7 at 12:00 EDT
 
 <table><tr><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fiu.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fiu.70.png" width="70" height="70" /></a></center>  
 
 ### #3 FIU  
 
@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></a></center>  
 
 ### #2 Miami (FL)  
 

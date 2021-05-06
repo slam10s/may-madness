@@ -4,7 +4,7 @@ Saturday, May 8 at 1:00 EDT
 
 <table><tr><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a></center>  
 
 ### #1 Florida  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png" width="70" height="70" /></a></center>  
 
 ### #4 South Alabama  
 

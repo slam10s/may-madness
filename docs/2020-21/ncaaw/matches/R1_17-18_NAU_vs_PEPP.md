@@ -4,7 +4,7 @@ Friday, May 7 at 5:00 EDT
 
 <table><tr><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a></center>  
 
 ### #1 Pepperdine  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a></center>  
 
 ### #4 Northern Ariz.  
 

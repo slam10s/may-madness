@@ -4,7 +4,7 @@ Friday, May 7 at 3:00 EDT
 
 <table><tr><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a></center>  
 
 ### #1 UCF  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png" width="70" height="70" /></a></center>  
 
 ### #4 Charleston So.  
 

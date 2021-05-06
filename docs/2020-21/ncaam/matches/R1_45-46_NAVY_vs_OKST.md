@@ -4,7 +4,7 @@ Saturday, May 8 at 10:00 EDT
 
 <table><tr><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a></center>  
 
 ### #2 Oklahoma St.  
 
@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png" width="70" height="70" /></a></center>  
 
 ### #3 Navy  
 

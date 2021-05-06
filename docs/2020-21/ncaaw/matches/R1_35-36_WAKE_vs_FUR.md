@@ -4,7 +4,7 @@ Friday, May 7 at 10:00 EDT
 
 <table><tr><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a></center>  
 
 ### #3 Furman  
 
@@ -19,7 +19,7 @@ Automatic Qualifier
 
 </td><td>  
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a>  
+<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></center>  
 
 ### #2 Wake Forest  
 
