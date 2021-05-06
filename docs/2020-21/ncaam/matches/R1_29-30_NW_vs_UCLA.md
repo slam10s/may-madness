@@ -2,7 +2,7 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## [Northwestern vs UCLA](https://www.ncaa.com/game/5833384) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #2 UCLA               | |  
 > | At-Large Bid              | |  
 > | - ITA: 32.146 (24)        | |  

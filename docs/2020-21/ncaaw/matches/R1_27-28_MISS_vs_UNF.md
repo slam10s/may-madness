@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 11:00 EDT
 ## [Ole Miss vs North Florida](https://www.ncaa.com/game/5833660) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #3 North Florida      | |  
 > | Automatic Qualifier       | |  
 > | - ITA: 8 (48)             | |  

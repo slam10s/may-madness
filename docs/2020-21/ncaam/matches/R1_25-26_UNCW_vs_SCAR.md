@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [UNCW vs #13 South Carolina](https://www.ncaa.com/game/5833382) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #1 South Carolina     | |  
 > | Regional Host             | |  
 > | - ITA: 50.948 (13)        | |  

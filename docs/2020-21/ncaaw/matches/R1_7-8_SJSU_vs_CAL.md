@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## [San Jose St. vs #16 California](https://www.ncaa.com/game/5833650) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #1 California         | |  
 > | Regional Host             | |  
 > | - ITA: 45.98 (16)         | |  

@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Drake vs #10 Texas A&M](https://www.ncaa.com/game/5833674) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #1 Texas A&M          | |  
 > | Regional Host             | |  
 > | - ITA: 50.147 (10)        | |  

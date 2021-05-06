@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [South Carolina St. vs #1 North Carolina](https://www.ncaa.com/game/5833647) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #1 North Carolina     | |  
 > | Regional Host             | |  
 > | - ITA: 87.725 (1)         | |  

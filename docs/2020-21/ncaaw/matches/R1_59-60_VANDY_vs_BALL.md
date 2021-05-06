@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 11:00 EDT
 ## [Vanderbilt vs Ball St.](https://www.ncaa.com/game/5833676) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #3 Ball St.           | |  
 > | Automatic Qualifier       | |  
 > | - ITA: 4.347 (51)         | |  

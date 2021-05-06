@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 12:00 EDT
 ## [James Madison vs Tennessee](https://www.ncaa.com/game/5833665) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #2 Tennessee          | |  
 > | At-Large Bid              | |  
 > | - ITA: 46.781 (15)        | |  

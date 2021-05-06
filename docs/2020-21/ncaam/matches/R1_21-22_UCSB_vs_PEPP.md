@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [UC Santa Barbara vs Pepperdine](https://www.ncaa.com/game/5833380) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #2 Pepperdine         | |  
 > | Automatic Qualifier       | |  
 > | - ITA: 29.095 (28)        | |  

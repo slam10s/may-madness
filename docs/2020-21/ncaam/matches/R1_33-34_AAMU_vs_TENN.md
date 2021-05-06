@@ -2,7 +2,7 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## [Alabama A&M vs #3 Tennessee](https://www.ncaa.com/game/5833386) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #1 Tennessee          | |  
 > | Regional Host             | |  
 > | - ITA: 74.511 (3)         | |  

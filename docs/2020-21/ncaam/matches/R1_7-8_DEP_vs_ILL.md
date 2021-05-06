@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 5:00 EDT
 ## [DePaul vs #16 Illinois](https://www.ncaa.com/game/5833373) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #1 Illinois           | |  
 > | Regional Host             | |  
 > | - ITA: 36.816 (18)        | |  

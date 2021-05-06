@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## [Michigan vs Arizona](https://www.ncaa.com/game/5833388) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #2 Arizona            | |  
 > | At-Large Bid              | |  
 > | - ITA: 38.972 (17)        | |  

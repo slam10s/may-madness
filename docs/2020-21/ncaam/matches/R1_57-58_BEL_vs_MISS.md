@@ -2,7 +2,7 @@ First Round
 Saturday, May 8 at 4:00 EDT
 ## [Belmont vs #15 Ole Miss](https://www.ncaa.com/game/5833398) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #1 Ole Miss           | |  
 > | Regional Host             | |  
 > | - ITA: 44.944 (14)        | |  

@@ -2,7 +2,7 @@ First Round
 Saturday, May 8 at 3:00 EDT
 ## [A&M-Corpus Christi vs #2 Baylor](https://www.ncaa.com/game/5833401) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #1 Baylor             | |  
 > | Regional Host             | |  
 > | - ITA: 83.326 (1)         | |  

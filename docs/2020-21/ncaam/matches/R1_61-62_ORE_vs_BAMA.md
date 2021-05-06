@@ -2,7 +2,7 @@ First Round
 Saturday, May 8 at 12:00 EDT
 ## [Oregon vs Alabama](https://www.ncaa.com/game/5833400) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #2 Alabama            | |  
 > | At-Large Bid              | |  
 > | - ITA: 30.96 (26)         | |  

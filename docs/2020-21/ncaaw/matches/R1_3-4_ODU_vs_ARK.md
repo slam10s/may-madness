@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## [Old Dominion vs Arkansas](https://www.ncaa.com/game/5833648) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #3 Arkansas           | |  
 > | At-Large Bid              | |  
 > | - ITA: 26.025 (32)        | |  

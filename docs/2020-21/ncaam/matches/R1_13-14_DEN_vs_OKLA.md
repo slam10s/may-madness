@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 12:00 EDT
 ## [Denver vs Oklahoma](https://www.ncaa.com/game/5833376) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #2 Oklahoma           | |  
 > | At-Large Bid              | |  
 > | - ITA: 29.42 (27)         | |  

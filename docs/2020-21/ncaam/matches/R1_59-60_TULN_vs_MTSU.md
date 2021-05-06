@@ -2,7 +2,7 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## [Tulane vs Middle Tenn.](https://www.ncaa.com/game/5833399) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #3 Middle Tenn.       | |  
 > | Automatic Qualifier       | |  
 > | - ITA: 18.524 (42)        | |  

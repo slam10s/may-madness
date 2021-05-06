@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## [NC State vs FGCU](https://www.ncaa.com/game/5833383) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #3 FGCU               | |  
 > | Automatic Qualifier       | |  
 > | - ITA: 8.375 (47)         | |  

@@ -2,7 +2,7 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## [Georgia Tech vs Memphis](https://www.ncaa.com/game/5833387) 
 
-> | :------------------------ | :------------------------ |
+> | :------------------------ | :------------------------ |  
 > | ### #3 Memphis            | |  
 > | At-Large Bid              | |  
 > | - ITA: 22.187 (38)        | |  
