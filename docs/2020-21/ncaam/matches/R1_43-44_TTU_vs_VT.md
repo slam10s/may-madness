@@ -3,14 +3,8 @@ Saturday, May 8 at 10:00 EDT
 
 ## [Texas Tech vs Virginia Tech](https://www.ncaa.com/game/5833391)
 
-<style>
-  .dark {
-    background-color: blue !important;
-  }
-</style>
-
 <table>  
-<tr class="dark" style="background-color: red !important;"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a></td></tr>  
+<tr style="background-color: red !important;"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a></td></tr>  
 <tr><td>
 
 <a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a>
