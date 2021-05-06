@@ -44,18 +44,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. James Story (MEM) - 8-6 at 1, 8-6 in duals, 8-6 overall  
-  Marcus McDaniel (GT) - 10-6 at 1, 15-6 in duals, 15-8 overall
-2. David Stevenson (MEM) - 2-5 at 2, 8-8 in duals, 8-8 overall  
-  Andres Martin (GT) - 11-5 at 2, 14-7 in duals, 16-8 overall
-3. Oscar Cutting (MEM) - 2-4 at 3, 8-9 in duals, 8-9 overall  
-  Pablo Schelcher (GT) - 8-5 at 3, 12-7 in duals, 13-9 overall
-4. Jan Pallares (MEM) - 4-4 at 4, 6-8 in duals, 6-8 overall  
-  Keshav Chopra (GT) - 8-3 at 4, 12-8 in duals, 14-9 overall
-5. Jeremy Taylor (MEM) - 5-3 at 5, 9-3 in duals, 9-3 overall  
-  Brandon McKinney (GT) - 7-8 at 5, 10-10 in duals, 12-11 overall
-6. Pau Fanlo (MEM) - 4-3 at 6, 6-5 in duals, 6-5 overall  
-  Chen Dong (GT) - 11-4 at 6, 11-4 in duals, 12-6 overall
+1. James Story (MEM) - 8-6 at #1, 8-6 in duals, 8-6 overall  
+  Marcus McDaniel (GT) - 10-6 at #1, 15-6 in duals, 15-8 overall
+2. David Stevenson (MEM) - 2-5 at #2, 8-8 in duals, 8-8 overall  
+  Andres Martin (GT) - 11-5 at #2, 14-7 in duals, 16-8 overall
+3. Oscar Cutting (MEM) - 2-4 at #3, 8-9 in duals, 8-9 overall  
+  Pablo Schelcher (GT) - 8-5 at #3, 12-7 in duals, 13-9 overall
+4. Jan Pallares (MEM) - 4-4 at #4, 6-8 in duals, 6-8 overall  
+  Keshav Chopra (GT) - 8-3 at #4, 12-8 in duals, 14-9 overall
+5. Jeremy Taylor (MEM) - 5-3 at #5, 9-3 in duals, 9-3 overall  
+  Brandon McKinney (GT) - 7-8 at #5, 10-10 in duals, 12-11 overall
+6. Pau Fanlo (MEM) - 4-3 at #6, 6-5 in duals, 6-5 overall  
+  Chen Dong (GT) - 11-4 at #6, 11-4 in duals, 12-6 overall
 
  #### Doubles:  
 1. Cutting/Stevenson (MEM) - 9-6 at #1, 9-6 in duals, 9-6 overall  

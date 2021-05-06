@@ -43,18 +43,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Katarina Jokic (UGA) - 15-0 at 1, 15-0 in duals, 24-1 overall  
-  Fabienne Schmidt (PEAY) - 10-5 at 1, 10-5 in duals, 10-5 overall
-2. Lea Ma (UGA) - 13-3 at 2, 13-3 in duals, 14-4 overall  
-  Danielle Morris (PEAY) - 9-5 at 2, 9-5 in duals, 9-5 overall
-3. Meg Kowalski (UGA) - 12-1 at 3, 12-1 in duals, 22-1 overall  
-  Jana Leder (PEAY) - 12-2 at 3, 12-2 in duals, 12-2 overall
-4. Morgan Coppoc (UGA) - 15-2 at 4, 15-2 in duals, 23-5 overall  
-  Aleks Topalovic (PEAY) - 4-3 at 4, 9-5 in duals, 9-5 overall
-5. Marta Gonzalez (UGA) - 1-1 at 5, 2-1 in duals, 11-1 overall  
-  Martina Paladini-Jennings (PEAY) - 4-4 at 5, 7-7 in duals, 7-7 overall
-6. Elena Christofi (UGA) - 9-0 at 6, 10-2 in duals, 17-4 overall  
-  Honoka Nakanishi (PEAY) - 7-3 at 6, 7-3 in duals, 7-3 overall
+1. Katarina Jokic (UGA) - 15-0 at #1, 15-0 in duals, 24-1 overall  
+  Fabienne Schmidt (PEAY) - 10-5 at #1, 10-5 in duals, 10-5 overall
+2. Lea Ma (UGA) - 13-3 at #2, 13-3 in duals, 14-4 overall  
+  Danielle Morris (PEAY) - 9-5 at #2, 9-5 in duals, 9-5 overall
+3. Meg Kowalski (UGA) - 12-1 at #3, 12-1 in duals, 22-1 overall  
+  Jana Leder (PEAY) - 12-2 at #3, 12-2 in duals, 12-2 overall
+4. Morgan Coppoc (UGA) - 15-2 at #4, 15-2 in duals, 23-5 overall  
+  Aleks Topalovic (PEAY) - 4-3 at #4, 9-5 in duals, 9-5 overall
+5. Marta Gonzalez (UGA) - 1-1 at #5, 2-1 in duals, 11-1 overall  
+  Martina Paladini-Jennings (PEAY) - 4-4 at #5, 7-7 in duals, 7-7 overall
+6. Elena Christofi (UGA) - 9-0 at #6, 10-2 in duals, 17-4 overall  
+  Honoka Nakanishi (PEAY) - 7-3 at #6, 7-3 in duals, 7-3 overall
 
  #### Doubles:  
 1. Jokic/Arseneault (UGA) - 11-4 at #1, 11-4 in duals, 14-6 overall  

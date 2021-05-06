@@ -43,18 +43,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Maria Shusharina (NW) - 5-12 at 1, 7-12 in duals, 9-13 overall  
-  Ahmeir Kyle (XAV) - 10-3 at 1, 10-3 in duals, 10-3 overall
-2. Clarissa Hand (NW) - 0-2 at 2, 14-6 in duals, 14-9 overall  
-  Kat Lyman (XAV) - 10-1 at 2, 13-3 in duals, 13-3 overall
-3. Julie Byrne (NW) - 4-0 at 3, 9-8 in duals, 11-9 overall  
-  Anna Roggenburk (XAV) - 7-2 at 3, 15-3 in duals, 15-3 overall
-4. Briana Crowley (NW) - 16-3 at 4, 16-5 in duals, 17-7 overall  
-  Imani Graham (XAV) - 8-4 at 4, 16-4 in duals, 16-4 overall
-5. Caroline Pozo (NW) - 11-6 at 5, 12-7 in duals, 12-8 overall  
-  Kaitlin Ruether (XAV) - 2-6 at 5, 6-12 in duals, 6-12 overall
-6. Christina Hand (NW) - 13-1 at 6, 13-1 in duals, 13-4 overall  
-  Emily Thomas (XAV) - 2-0 at 6, 8-4 in duals, 8-4 overall
+1. Maria Shusharina (NW) - 5-12 at #1, 7-12 in duals, 9-13 overall  
+  Ahmeir Kyle (XAV) - 10-3 at #1, 10-3 in duals, 10-3 overall
+2. Clarissa Hand (NW) - 0-2 at #2, 14-6 in duals, 14-9 overall  
+  Kat Lyman (XAV) - 10-1 at #2, 13-3 in duals, 13-3 overall
+3. Julie Byrne (NW) - 4-0 at #3, 9-8 in duals, 11-9 overall  
+  Anna Roggenburk (XAV) - 7-2 at #3, 15-3 in duals, 15-3 overall
+4. Briana Crowley (NW) - 16-3 at #4, 16-5 in duals, 17-7 overall  
+  Imani Graham (XAV) - 8-4 at #4, 16-4 in duals, 16-4 overall
+5. Caroline Pozo (NW) - 11-6 at #5, 12-7 in duals, 12-8 overall  
+  Kaitlin Ruether (XAV) - 2-6 at #5, 6-12 in duals, 6-12 overall
+6. Christina Hand (NW) - 13-1 at #6, 13-1 in duals, 13-4 overall  
+  Emily Thomas (XAV) - 2-0 at #6, 8-4 in duals, 8-4 overall
 
  #### Doubles:  
 1. Byrne/Crowley (NW) - 7-2 at #1, 7-2 in duals, 7-2 overall  

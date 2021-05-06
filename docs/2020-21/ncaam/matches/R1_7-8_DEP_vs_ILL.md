@@ -43,18 +43,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Aleks Kovacevic (ILL) - 10-1 at 1, 10-1 in duals, 10-1 overall  
-  Vito Tonejc (DEP) - 11-5 at 1, 13-5 in duals, 13-5 overall
-2. Siphosothando Montsi (ILL) - 7-2 at 2, 15-3 in duals, 15-3 overall  
-  Christopher Casati (DEP) - 3-7 at 2, 8-12 in duals, 8-12 overall
-3. Alex Brown (ILL) - 3-2 at 3, 8-9 in duals, 9-12 overall  
-  Boris Spanjaard (DEP) - 8-4 at 3, 12-6 in duals, 12-6 overall
-4. Zeke Clark (ILL) - 6-1 at 4, 16-1 in duals, 19-2 overall  
-  Tamas Zador (DEP) - 1-1 at 4, 3-3 in duals, 3-3 overall
-5. Hunter Heck (ILL) - 9-4 at 5, 13-5 in duals, 16-6 overall  
-  Fran Tonejc (DEP) - 1-3 at 5, 8-8 in duals, 8-8 overall
-6. Noe Khlif (ILL) - 5-0 at 6, 15-1 in duals, 15-1 overall  
-  Luuk Wassenaar (DEP) - 3-2 at 6, 11-6 in duals, 11-6 overall
+1. Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall  
+  Vito Tonejc (DEP) - 11-5 at #1, 13-5 in duals, 13-5 overall
+2. Siphosothando Montsi (ILL) - 7-2 at #2, 15-3 in duals, 15-3 overall  
+  Christopher Casati (DEP) - 3-7 at #2, 8-12 in duals, 8-12 overall
+3. Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall  
+  Boris Spanjaard (DEP) - 8-4 at #3, 12-6 in duals, 12-6 overall
+4. Zeke Clark (ILL) - 6-1 at #4, 16-1 in duals, 19-2 overall  
+  Tamas Zador (DEP) - 1-1 at #4, 3-3 in duals, 3-3 overall
+5. Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall  
+  Fran Tonejc (DEP) - 1-3 at #5, 8-8 in duals, 8-8 overall
+6. Noe Khlif (ILL) - 5-0 at #6, 15-1 in duals, 15-1 overall  
+  Luuk Wassenaar (DEP) - 3-2 at #6, 11-6 in duals, 11-6 overall
 
  #### Doubles:  
 1. Brown/Clark (ILL) - 8-2 at #1, 11-2 in duals, 11-2 overall  

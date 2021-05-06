@@ -44,18 +44,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Peyton Stearns (TEX) - 10-3 at 1, 10-3 in duals, 14-6 overall  
-  Anna Riedmiller (DEN) - 6-0 at 1, 14-1 in duals, 14-1 overall
-2. Anna Turati (TEX) - 9-2 at 2, 17-3 in duals, 17-3 overall  
-  Taylor Melville (DEN) - 5-0 at 2, 9-4 in duals, 9-4 overall
-3. Lulu Sun (TEX) - 12-1 at 3, 18-2 in duals, 18-2 overall  
-  Britt Pursell (DEN) - 11-3 at 3, 12-3 in duals, 12-3 overall
-4. Charlotte Chavatipon (TEX) - 16-1 at 4, 20-1 in duals, 23-1 overall  
-  Camille Verden-Anderson (DEN) - 3-1 at 4, 8-2 in duals, 8-2 overall
-5. Kylie Collins (TEX) - 9-2 at 5, 16-2 in duals, 16-2 overall  
-  Hada Chang (DEN) - 5-2 at 5, 7-2 in duals, 7-2 overall
-6. Fernanda Labrana (TEX) - 5-1 at 6, 14-1 in duals, 21-2 overall  
-  Tatum Burger (DEN) - 2-0 at 6, 8-6 in duals, 8-6 overall
+1. Peyton Stearns (TEX) - 10-3 at #1, 10-3 in duals, 14-6 overall  
+  Anna Riedmiller (DEN) - 6-0 at #1, 14-1 in duals, 14-1 overall
+2. Anna Turati (TEX) - 9-2 at #2, 17-3 in duals, 17-3 overall  
+  Taylor Melville (DEN) - 5-0 at #2, 9-4 in duals, 9-4 overall
+3. Lulu Sun (TEX) - 12-1 at #3, 18-2 in duals, 18-2 overall  
+  Britt Pursell (DEN) - 11-3 at #3, 12-3 in duals, 12-3 overall
+4. Charlotte Chavatipon (TEX) - 16-1 at #4, 20-1 in duals, 23-1 overall  
+  Camille Verden-Anderson (DEN) - 3-1 at #4, 8-2 in duals, 8-2 overall
+5. Kylie Collins (TEX) - 9-2 at #5, 16-2 in duals, 16-2 overall  
+  Hada Chang (DEN) - 5-2 at #5, 7-2 in duals, 7-2 overall
+6. Fernanda Labrana (TEX) - 5-1 at #6, 14-1 in duals, 21-2 overall  
+  Tatum Burger (DEN) - 2-0 at #6, 8-6 in duals, 8-6 overall
 
  #### Doubles:  
 1. Sun/Collins (TEX) - 16-4 at #1, 16-4 in duals, 16-4 overall  

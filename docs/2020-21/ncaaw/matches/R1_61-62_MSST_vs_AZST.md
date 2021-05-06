@@ -44,18 +44,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Ilze Hattingh (AZST) - 10-7 at 1, 10-7 in duals, 11-7 overall  
-  Emma Antonaki (MSST) - 5-2 at 1, 14-4 in duals, 16-4 overall
-2. Sammi Hampton (AZST) - 6-8 at 2, 6-8 in duals, 6-8 overall  
-  Magda Adaloglou (MSST) - 5-2 at 2, 11-4 in duals, 12-5 overall
-3. Lauryn John-Baptiste (AZST) - 11-6 at 3, 11-6 in duals, 11-6 overall  
-  Tamara Racine (MSST) - 1-1 at 3, 7-9 in duals, 9-13 overall
-4. Giulia Morlet (AZST) - 8-5 at 4, 9-5 in duals, 10-5 overall  
-  Alex Mikhailuk (MSST) - 6-7 at 4, 10-11 in duals, 16-15 overall
-5. Marianna Argyrokastriti (AZST) - 11-4 at 5, 14-5 in duals, 15-5 overall  
-  Lilian Poling (MSST) - 4-3 at 5, 5-9 in duals, 12-11 overall
-6. Domenika Turkovic (AZST) - 4-5 at 6, 8-6 in duals, 9-6 overall  
-  Chloe Cirotte (MSST) - 6-2 at 6, 10-5 in duals, 11-6 overall
+1. Ilze Hattingh (AZST) - 10-7 at #1, 10-7 in duals, 11-7 overall  
+  Emma Antonaki (MSST) - 5-2 at #1, 14-4 in duals, 16-4 overall
+2. Sammi Hampton (AZST) - 6-8 at #2, 6-8 in duals, 6-8 overall  
+  Magda Adaloglou (MSST) - 5-2 at #2, 11-4 in duals, 12-5 overall
+3. Lauryn John-Baptiste (AZST) - 11-6 at #3, 11-6 in duals, 11-6 overall  
+  Tamara Racine (MSST) - 1-1 at #3, 7-9 in duals, 9-13 overall
+4. Giulia Morlet (AZST) - 8-5 at #4, 9-5 in duals, 10-5 overall  
+  Alex Mikhailuk (MSST) - 6-7 at #4, 10-11 in duals, 16-15 overall
+5. Marianna Argyrokastriti (AZST) - 11-4 at #5, 14-5 in duals, 15-5 overall  
+  Lilian Poling (MSST) - 4-3 at #5, 5-9 in duals, 12-11 overall
+6. Domenika Turkovic (AZST) - 4-5 at #6, 8-6 in duals, 9-6 overall  
+  Chloe Cirotte (MSST) - 6-2 at #6, 10-5 in duals, 11-6 overall
 
  #### Doubles:  
 1. Hattingh/John-Baptiste (AZST) - 7-9 at #1, 7-9 in duals, 7-9 overall  

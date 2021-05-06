@@ -43,18 +43,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Duarte Vale (FLA) - 15-6 at 1, 15-6 in duals, 23-6 overall  
-  Julien Evrard (SALA) - 10-4 at 1, 13-4 in duals, 19-7 overall
-2. Sam Riffice (FLA) - 16-4 at 2, 18-4 in duals, 23-7 overall  
-  Clement Marzol (SALA) - 8-1 at 2, 12-2 in duals, 18-4 overall
-3. Andy Andrade (FLA) - 12-7 at 3, 14-7 in duals, 22-7 overall  
-  Loic Cloes (SALA) - 5-3 at 3, 9-4 in duals, 9-4 overall
-4. Blaise Bicknell (FLA) - 15-0 at 4, 20-0 in duals, 29-0 overall  
-  Sebastien Collard (SALA) - 7-4 at 4, 11-6 in duals, 20-6 overall
-5. Ben Shelton (FLA) - 15-4 at 5, 17-4 in duals, 24-5 overall  
-  Louis Delcour (SALA) - 5-2 at 5, 9-5 in duals, 9-5 overall
-6. Josh Goodger (FLA) - 12-0 at 6, 13-0 in duals, 19-0 overall  
-  Martin Bugaj (SALA) - 1-4 at 6, 4-8 in duals, 7-13 overall
+1. Duarte Vale (FLA) - 15-6 at #1, 15-6 in duals, 23-6 overall  
+  Julien Evrard (SALA) - 10-4 at #1, 13-4 in duals, 19-7 overall
+2. Sam Riffice (FLA) - 16-4 at #2, 18-4 in duals, 23-7 overall  
+  Clement Marzol (SALA) - 8-1 at #2, 12-2 in duals, 18-4 overall
+3. Andy Andrade (FLA) - 12-7 at #3, 14-7 in duals, 22-7 overall  
+  Loic Cloes (SALA) - 5-3 at #3, 9-4 in duals, 9-4 overall
+4. Blaise Bicknell (FLA) - 15-0 at #4, 20-0 in duals, 29-0 overall  
+  Sebastien Collard (SALA) - 7-4 at #4, 11-6 in duals, 20-6 overall
+5. Ben Shelton (FLA) - 15-4 at #5, 17-4 in duals, 24-5 overall  
+  Louis Delcour (SALA) - 5-2 at #5, 9-5 in duals, 9-5 overall
+6. Josh Goodger (FLA) - 12-0 at #6, 13-0 in duals, 19-0 overall  
+  Martin Bugaj (SALA) - 1-4 at #6, 4-8 in duals, 7-13 overall
 
  #### Doubles:  
 1. Ingildsen/Vale (FLA) - 0-0 at #1, 0-0 in duals, 0-0 overall  

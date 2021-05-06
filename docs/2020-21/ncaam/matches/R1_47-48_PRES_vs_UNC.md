@@ -43,18 +43,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. William Blumberg (UNC) - 8-3 at 1, 8-3 in duals, 9-3 overall  
-  Max Benson (PRES) - 10-5 at 1, 10-5 in duals, 10-5 overall
-2. Rinky Hijikata (UNC) - 4-2 at 2, 9-2 in duals, 11-2 overall  
-  Sebastian Dominguez (PRES) - 2-3 at 2, 4-6 in duals, 4-6 overall
-3. Benjamin Sigouin (UNC) - 3-2 at 3, 9-9 in duals, 9-9 overall  
-  Nick McKinney (PRES) - 3-1 at 3, 13-1 in duals, 13-1 overall
-4. Brian Cernoch (UNC) - 5-2 at 4, 17-5 in duals, 17-5 overall  
-  Georgije Babic (PRES) - 0-0 at 4, 2-8 in duals, 2-8 overall
-5. Josh Peck (UNC) - 3-1 at 5, 8-3 in duals, 8-3 overall  
-  Daniel Stenger (PRES) - 2-2 at 5, 7-8 in duals, 7-8 overall
-6. Simon Soendergaard (UNC) - 6-3 at 6, 10-5 in duals, 11-6 overall  
-  Javier Matos (PRES) - 6-2 at 6, 7-2 in duals, 7-2 overall
+1. William Blumberg (UNC) - 8-3 at #1, 8-3 in duals, 9-3 overall  
+  Max Benson (PRES) - 10-5 at #1, 10-5 in duals, 10-5 overall
+2. Rinky Hijikata (UNC) - 4-2 at #2, 9-2 in duals, 11-2 overall  
+  Sebastian Dominguez (PRES) - 2-3 at #2, 4-6 in duals, 4-6 overall
+3. Benjamin Sigouin (UNC) - 3-2 at #3, 9-9 in duals, 9-9 overall  
+  Nick McKinney (PRES) - 3-1 at #3, 13-1 in duals, 13-1 overall
+4. Brian Cernoch (UNC) - 5-2 at #4, 17-5 in duals, 17-5 overall  
+  Georgije Babic (PRES) - 0-0 at #4, 2-8 in duals, 2-8 overall
+5. Josh Peck (UNC) - 3-1 at #5, 8-3 in duals, 8-3 overall  
+  Daniel Stenger (PRES) - 2-2 at #5, 7-8 in duals, 7-8 overall
+6. Simon Soendergaard (UNC) - 6-3 at #6, 10-5 in duals, 11-6 overall  
+  Javier Matos (PRES) - 6-2 at #6, 7-2 in duals, 7-2 overall
 
  #### Doubles:  
 1. Blumberg/Cernoch (UNC) - 12-3 at #1, 12-3 in duals, 12-3 overall  

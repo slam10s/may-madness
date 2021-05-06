@@ -45,18 +45,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Gustaf Strom (ARIZ) - 3-1 at 1, 17-2 in duals, 17-2 overall  
-  Andrew Fenty (MICH) - 10-3 at 1, 13-4 in duals, 16-9 overall
-2. Jonas Ziverts (ARIZ) - 1-1 at 2, 9-8 in duals, 9-8 overall  
-  Ondrej Styler (MICH) - 7-3 at 2, 8-4 in duals, 12-7 overall
-3. Filip Malbasic (ARIZ) - 5-4 at 3, 14-9 in duals, 14-9 overall  
-  Patrick Maloney (MICH) - 7-3 at 3, 9-4 in duals, 9-4 overall
-4. Herman Hoeyeraal (ARIZ) - 0-0 at 4, 4-0 in duals, 4-0 overall  
-  Mattias Siimar (MICH) - 8-1 at 4, 14-3 in duals, 17-6 overall
-5. Alejandro Reguant (ARIZ) - 0-0 at 5, 13-6 in duals, 13-6 overall  
-  Nick Beaty (MICH) - 8-2 at 5, 13-2 in duals, 19-4 overall
-6. Carlos Hassey (ARIZ) - 1-1 at 6, 12-7 in duals, 12-7 overall  
-  Nino Ehrenschneider (MICH) - 3-1 at 6, 4-1 in duals, 6-2 overall
+1. Gustaf Strom (ARIZ) - 3-1 at #1, 17-2 in duals, 17-2 overall  
+  Andrew Fenty (MICH) - 10-3 at #1, 13-4 in duals, 16-9 overall
+2. Jonas Ziverts (ARIZ) - 1-1 at #2, 9-8 in duals, 9-8 overall  
+  Ondrej Styler (MICH) - 7-3 at #2, 8-4 in duals, 12-7 overall
+3. Filip Malbasic (ARIZ) - 5-4 at #3, 14-9 in duals, 14-9 overall  
+  Patrick Maloney (MICH) - 7-3 at #3, 9-4 in duals, 9-4 overall
+4. Herman Hoeyeraal (ARIZ) - 0-0 at #4, 4-0 in duals, 4-0 overall  
+  Mattias Siimar (MICH) - 8-1 at #4, 14-3 in duals, 17-6 overall
+5. Alejandro Reguant (ARIZ) - 0-0 at #5, 13-6 in duals, 13-6 overall  
+  Nick Beaty (MICH) - 8-2 at #5, 13-2 in duals, 19-4 overall
+6. Carlos Hassey (ARIZ) - 1-1 at #6, 12-7 in duals, 12-7 overall  
+  Nino Ehrenschneider (MICH) - 3-1 at #6, 4-1 in duals, 6-2 overall
 
  #### Doubles:  
 1. Hassey/Reguant (ARIZ) - 1-0 at #1, 10-3 in duals, 10-3 overall  

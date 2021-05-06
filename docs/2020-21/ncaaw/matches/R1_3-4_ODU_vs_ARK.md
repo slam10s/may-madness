@@ -44,18 +44,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Indianna Spink (ARK) - 6-4 at 1, 9-5 in duals, 9-5 overall  
-  Holly Hutchinson (ODU) - 7-8 at 1, 7-8 in duals, 8-9 overall
-2. Kelly Keller (ARK) - 7-3 at 2, 8-6 in duals, 8-6 overall  
-  Yulia Starodubtseva (ODU) - 11-1 at 2, 11-1 in duals, 11-1 overall
-3. Tatum Rice (ARK) - 8-7 at 3, 9-7 in duals, 9-7 overall  
-  Tatsiana Sasnouskaya (ODU) - 9-2 at 3, 13-2 in duals, 13-2 overall
-4. Morgan Cross (ARK) - 9-10 at 4, 10-10 in duals, 10-10 overall  
-  Alesya Yakubovich (ODU) - 4-5 at 4, 6-7 in duals, 6-7 overall
-5. Lauren Alter (ARK) - 5-5 at 5, 6-9 in duals, 6-9 overall  
-  Brooke Pilkington (ODU) - 2-3 at 5, 6-5 in duals, 6-5 overall
-6. Laura Rijkers (ARK) - 7-0 at 6, 7-8 in duals, 7-8 overall  
-  Alexandra Viktorovich (ODU) - 6-2 at 6, 7-4 in duals, 7-4 overall
+1. Indianna Spink (ARK) - 6-4 at #1, 9-5 in duals, 9-5 overall  
+  Holly Hutchinson (ODU) - 7-8 at #1, 7-8 in duals, 8-9 overall
+2. Kelly Keller (ARK) - 7-3 at #2, 8-6 in duals, 8-6 overall  
+  Yulia Starodubtseva (ODU) - 11-1 at #2, 11-1 in duals, 11-1 overall
+3. Tatum Rice (ARK) - 8-7 at #3, 9-7 in duals, 9-7 overall  
+  Tatsiana Sasnouskaya (ODU) - 9-2 at #3, 13-2 in duals, 13-2 overall
+4. Morgan Cross (ARK) - 9-10 at #4, 10-10 in duals, 10-10 overall  
+  Alesya Yakubovich (ODU) - 4-5 at #4, 6-7 in duals, 6-7 overall
+5. Lauren Alter (ARK) - 5-5 at #5, 6-9 in duals, 6-9 overall  
+  Brooke Pilkington (ODU) - 2-3 at #5, 6-5 in duals, 6-5 overall
+6. Laura Rijkers (ARK) - 7-0 at #6, 7-8 in duals, 7-8 overall  
+  Alexandra Viktorovich (ODU) - 6-2 at #6, 7-4 in duals, 7-4 overall
 
  #### Doubles:  
 1. Cross/Rice (ARK) - 5-2 at #1, 5-2 in duals, 5-2 overall  

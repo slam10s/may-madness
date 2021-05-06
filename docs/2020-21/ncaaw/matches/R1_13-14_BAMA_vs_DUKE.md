@@ -44,18 +44,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Kelly Chen (DUKE) - 5-9 at 1, 8-10 in duals, 10-11 overall  
-  Loudmilla Bencheikh (BAMA) - 2-5 at 1, 2-5 in duals, 2-5 overall
-2. Georgia Drummy (DUKE) - 7-3 at 2, 15-3 in duals, 17-4 overall  
-  Alba Cortina Pou (BAMA) - 3-2 at 2, 15-4 in duals, 15-7 overall
-3. Chloe Beck (DUKE) - 11-1 at 3, 15-3 in duals, 17-4 overall  
-  Anna Parkhomenko (BAMA) - 0-6 at 3, 11-7 in duals, 15-11 overall
-4. Meible Chi (DUKE) - 12-1 at 4, 18-2 in duals, 21-3 overall  
-  Anne Marie Hiser (BAMA) - 4-0 at 4, 13-8 in duals, 17-10 overall
-5. Margaryta Bilokin (DUKE) - 6-6 at 5, 11-8 in duals, 14-9 overall  
-  Sydney Riley (BAMA) - 2-0 at 5, 12-7 in duals, 14-13 overall
-6. Karolina Berankova (DUKE) - 7-7 at 6, 9-9 in duals, 10-11 overall  
-  Sydney Orefice (BAMA) - 2-0 at 6, 2-0 in duals, 2-5 overall
+1. Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall  
+  Loudmilla Bencheikh (BAMA) - 2-5 at #1, 2-5 in duals, 2-5 overall
+2. Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall  
+  Alba Cortina Pou (BAMA) - 3-2 at #2, 15-4 in duals, 15-7 overall
+3. Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall  
+  Anna Parkhomenko (BAMA) - 0-6 at #3, 11-7 in duals, 15-11 overall
+4. Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall  
+  Anne Marie Hiser (BAMA) - 4-0 at #4, 13-8 in duals, 17-10 overall
+5. Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall  
+  Sydney Riley (BAMA) - 2-0 at #5, 12-7 in duals, 14-13 overall
+6. Karolina Berankova (DUKE) - 7-7 at #6, 9-9 in duals, 10-11 overall  
+  Sydney Orefice (BAMA) - 2-0 at #6, 2-0 in duals, 2-5 overall
 
  #### Doubles:  
 1. Chi/Bilokin (DUKE) - 8-4 at #1, 9-4 in duals, 11-4 overall  

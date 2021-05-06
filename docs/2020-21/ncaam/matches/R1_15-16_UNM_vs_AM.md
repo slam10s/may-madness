@@ -43,18 +43,18 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-1. Valentin Vacherot (A&M) - 13-2 at 1, 16-3 in duals, 21-5 overall  
-  Raul Dobai (UNM) - 7-5 at 1, 9-7 in duals, 9-7 overall
-2. Hady Habib (A&M) - 7-3 at 2, 10-4 in duals, 15-5 overall  
-  Dominic West (UNM) - 6-3 at 2, 7-5 in duals, 7-5 overall
-3. Juan Carlos Aguilar (A&M) - 6-6 at 3, 10-8 in duals, 15-10 overall  
-  Stepan Holis (UNM) - 5-5 at 3, 7-5 in duals, 7-5 overall
-4. Noah Schachter (A&M) - 7-5 at 4, 12-10 in duals, 19-13 overall  
-  Rafael Abdulsalam (UNM) - 3-3 at 4, 6-6 in duals, 6-6 overall
-5. Pierce Rollins (A&M) - 3-3 at 5, 8-5 in duals, 15-9 overall  
-  Jake Trondson (UNM) - 3-0 at 5, 8-4 in duals, 8-4 overall
-6. Guido Marson (A&M) - 0-0 at 6, 5-6 in duals, 7-9 overall  
-  Sergio Molina (UNM) - 0-0 at 6, 1-7 in duals, 1-7 overall
+1. Valentin Vacherot (A&M) - 13-2 at #1, 16-3 in duals, 21-5 overall  
+  Raul Dobai (UNM) - 7-5 at #1, 9-7 in duals, 9-7 overall
+2. Hady Habib (A&M) - 7-3 at #2, 10-4 in duals, 15-5 overall  
+  Dominic West (UNM) - 6-3 at #2, 7-5 in duals, 7-5 overall
+3. Juan Carlos Aguilar (A&M) - 6-6 at #3, 10-8 in duals, 15-10 overall  
+  Stepan Holis (UNM) - 5-5 at #3, 7-5 in duals, 7-5 overall
+4. Noah Schachter (A&M) - 7-5 at #4, 12-10 in duals, 19-13 overall  
+  Rafael Abdulsalam (UNM) - 3-3 at #4, 6-6 in duals, 6-6 overall
+5. Pierce Rollins (A&M) - 3-3 at #5, 8-5 in duals, 15-9 overall  
+  Jake Trondson (UNM) - 3-0 at #5, 8-4 in duals, 8-4 overall
+6. Guido Marson (A&M) - 0-0 at #6, 5-6 in duals, 7-9 overall  
+  Sergio Molina (UNM) - 0-0 at #6, 1-7 in duals, 1-7 overall
 
  #### Doubles:  
 1. Aguilar/Thomson (A&M) - 7-6 at #1, 7-6 in duals, 10-8 overall  
