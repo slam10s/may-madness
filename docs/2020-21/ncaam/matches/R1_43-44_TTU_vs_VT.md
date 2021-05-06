@@ -48,7 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 
 ## Individual Matchups
 
-This assumes the top players and doubles teams listed are starting.
+This assumes the top players and doubles teams listed are starting. Click on a Singles line will show you individual predections for each match.
 
 ### Singles:
 
@@ -56,8 +56,7 @@ This assumes the top players and doubles teams listed are starting.
 <li>
 <details>
 <summary markdown="span">
-Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall
-<br>
+Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall<br>
 Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall
 </summary>
 
