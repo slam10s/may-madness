@@ -9,23 +9,23 @@ Saturday, May 8 at 10:00 EDT
 
 <h2>#3 <a href="#">Virginia Tech</a></h2>  
 ITA: 29 (28.32)<br>  
-Slam: 30 (93.02)  &#10004;<br>  
-TRN: 29 (91.09)  &#10004;<br>  
+&#10004; Slam: 30 (93.02)<br>  
+&#10004;TRN: 29 (91.09)<br>  
 Massey: 33 (7.47)<br>  
-UTR: 34 (76.77)  &#10004;<br>  
+&#10004; UTR: 34 (76.77)<br>  
 Coaches Poll: 34<br>  
 <br>
 
 </td><td>
 
 <h2>#2 <a href="#">Texas Tech</a></h2>  
-ITA: 25 (31.34)  &#10004;<br>  
+&#10004; ITA: 25 (31.34)<br>  
 Slam: 35 (92.60)<br>  
 TRN: 31 (90.98)<br>  
-Massey: 28 (7.55)  &#10004;<br>  
+&#10004; Massey: 28 (7.55)<br>  
 UTR: 35 (76.66)<br>  
 USTA Poll: RV<br>  
-Coaches Poll: 27  &#10004;<br>  
+&#10004; Coaches Poll: 27<br>  
 <br>
 
 </td></tr></table>
@@ -44,6 +44,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - USTA Poll: **_TTU_** - RV Texas Tech def. Virginia Tech
 - Coaches Poll: **_TTU_** - #27 Texas Tech def. #34 Virginia Tech
 - Seeding: **_TTU_** - #2 Texas Tech def. #3 Virginia Tech
+- Lineups: **_TTU_** - Texas Tech (75%) def. Virginia Tech (25%)
 
 ## Individual Matchups
 
