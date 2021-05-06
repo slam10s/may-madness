@@ -3,10 +3,8 @@ Friday, May 7 at 1:00 EDT
 ## [Mississippi St. vs Arizona St.](https://www.ncaa.com/game/5833677) 
 
 <table>  
-<tr><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a></td></tr>  
+<tr style="background-color: red !important;"><td><a href="../index.md"><img src="<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a>" width="70" height="70" /></a></td><td><a href="../index.md"><img src="<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a>" width="70" height="70" /></a></td></tr>
 <tr><td>  
-
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a>  
 
 <h3>#2 <a href="../index.md">Arizona St.</a></h3>  
 
@@ -23,8 +21,6 @@ At-Large Bid
 </ol>  
 
 </td><td>  
-
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a>  
 
 <h3>#3 <a href="../index.md">Mississippi St.</a></h3>  
 

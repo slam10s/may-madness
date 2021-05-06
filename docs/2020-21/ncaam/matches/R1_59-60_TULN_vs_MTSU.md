@@ -3,10 +3,8 @@ Saturday, May 8 at 1:00 EDT
 ## [Tulane vs Middle Tenn.](https://www.ncaa.com/game/5833399) 
 
 <table>  
-<tr><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></a></td></tr>  
+<tr style="background-color: red !important;"><td><a href="../index.md"><img src="<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></a>" width="70" height="70" /></a></td><td><a href="../index.md"><img src="<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></a>" width="70" height="70" /></a></td></tr>
 <tr><td>  
-
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></a>  
 
 <h3>#3 <a href="../index.md">Middle Tenn.</a></h3>  
 
@@ -22,8 +20,6 @@ Automatic Qualifier
 </ol>  
 
 </td><td>  
-
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></a>  
 
 <h3>#2 <a href="../index.md">Tulane</a></h3>  
 
