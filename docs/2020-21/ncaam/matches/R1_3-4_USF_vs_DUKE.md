@@ -3,7 +3,7 @@ Saturday, May 8 at 10:00 EDT
 
 ## [South Fla. vs Duke](https://www.ncaa.com/game/5833371)
 
-<table><tr><td stlye="width=50%">
+<table style="width: 100%"><tr><td stlye="width=50%">
 
 ### #2 South Fla.
 
