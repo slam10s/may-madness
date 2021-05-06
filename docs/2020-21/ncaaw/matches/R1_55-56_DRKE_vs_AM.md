@@ -14,6 +14,7 @@ Massey: 21 (7.77)<br>
 UTR: 21 (61.70)<br>  
 USTA Poll: 17<br>  
 Coaches Poll: 10<br>  
+<br>  
 
 </td><td>  
 
@@ -23,8 +24,10 @@ Slam: 58 (75.98)<br>
 TRN: 58 (65.50)<br>  
 Massey: 59 (4.59)<br>  
 UTR: 59 (50.87)<br>  
+<br>  
 
 </td></tr></table>  
+
 
 Return to [List of Matches](../index.md)  
 

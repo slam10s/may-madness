@@ -13,6 +13,7 @@ TRN: 45 (89.05)<br>
 Massey: 42 (7.21)<br>  
 UTR: 41 (75.54)<br>  
 Coaches Poll: 42<br>  
+<br>  
 
 </td><td>  
 
@@ -23,8 +24,10 @@ TRN: 26 (91.45)<br>
 Massey: 26 (7.63)<br>  
 UTR: 31 (76.99)<br>  
 Coaches Poll: 24<br>  
+<br>  
 
 </td></tr></table>  
+
 
 Return to [List of Matches](../index.md)  
 
