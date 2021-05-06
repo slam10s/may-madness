@@ -4,7 +4,7 @@ Saturday, May 8 at 3:00 EDT
 
 <table><tr><td>  
 
-<a href="../index.md"><img style="background-color: "#000">src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a>  
+<a href="../index.md"><img style="background-color: #000">src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a>  
 
 <h3>#1 <a href="../index.md">Baylor</a></h3>  
 
