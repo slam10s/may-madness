@@ -4,7 +4,7 @@ Saturday, May 8 at 10:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png)](../index.md)  
 
 ### #3 LSU  
 
@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png)](../index.md)  
 
 ### #2 Stanford  
 

@@ -4,7 +4,7 @@ Saturday, May 8 at 3:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png)](../index.md)  
 
 ### #1 TCU  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png)](../index.md)  
 
 ### #4 Arkansas  
 

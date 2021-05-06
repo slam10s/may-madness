@@ -4,7 +4,7 @@ Friday, May 7 at 3:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png)](../index.md)  
 
 ### #1 NC State  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png)](../index.md)  
 
 ### #4 VCU  
 

@@ -4,7 +4,7 @@ Saturday, May 8 at 12:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/w/wichita-st.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/w/wichita-st.70.png)](../index.md)  
 
 ### #3 Wichita St.  
 
@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png)](../index.md)  
 
 ### #2 Arizona St.  
 

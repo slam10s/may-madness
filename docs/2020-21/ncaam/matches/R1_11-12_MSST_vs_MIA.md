@@ -4,7 +4,7 @@ Saturday, May 8 at 11:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png)](../index.md)  
 
 ### #3 Miami (FL)  
 
@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png)](../index.md)  
 
 ### #2 Mississippi St.  
 

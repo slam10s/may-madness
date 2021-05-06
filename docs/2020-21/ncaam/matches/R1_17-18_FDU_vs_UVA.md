@@ -4,7 +4,7 @@ Saturday, May 8 at 1:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png)](../index.md)  
 
 ### #1 Virginia  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png)](../index.md)  
 
 ### #4 Fairleigh Dickinson  
 

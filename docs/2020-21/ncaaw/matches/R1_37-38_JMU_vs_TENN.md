@@ -4,7 +4,7 @@ Friday, May 7 at 12:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png)](../index.md)  
 
 ### #2 Tennessee  
 
@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/j/james-madison.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/j/james-madison.70.png)](../index.md)  
 
 ### #3 James Madison  
 

@@ -4,7 +4,7 @@ Friday, May 7 at 6:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png)](../index.md)  
 
 ### #1 Baylor  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png)](../index.md)  
 
 ### #4 A&M-Corpus Christi  
 

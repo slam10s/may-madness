@@ -4,7 +4,7 @@ Friday, May 7 at 12:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png)](../index.md)  
 
 ### #2 Oklahoma  
 
@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png)](../index.md)  
 
 ### #3 Denver  
 

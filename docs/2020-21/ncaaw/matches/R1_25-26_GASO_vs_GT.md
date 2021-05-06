@@ -4,7 +4,7 @@ Friday, May 7 at 2:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png)](../index.md)  
 
 ### #1 Georgia Tech  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png)](../index.md)  
 
 ### #4 Ga. Southern  
 

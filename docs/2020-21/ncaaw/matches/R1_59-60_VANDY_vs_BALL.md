@@ -4,7 +4,7 @@ Friday, May 7 at 11:00 EDT
 
 <table><tr><td>  
 
-![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png)  
+[![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png)](../index.md)  
 
 ### #3 Ball St.  
 
@@ -17,7 +17,7 @@ Automatic Qualifier
 
 </td><td>  
 
-![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png)](../index.md)  
 
 ### #2 Vanderbilt  
 
