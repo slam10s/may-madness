@@ -2,17 +2,17 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## Drake vs #10 Texas A&M
 
-> ***#1 Texas A&M***  
-> Regional Host  
-> - ITA: 50.147 (10)  
-> - SLM: 90.859 (15)  
-> - TRN: 83.428 (14)  
-> - MAS: 7.77 (21)  
-> - UTR: 61.7 (21)  
-> - USTA: 17  
-> - Coach: 10  
+> ### #1 Texas A&M***  
+Regional Host  
+- ITA: 50.147 (10)  
+- SLM: 90.859 (15)  
+- TRN: 83.428 (14)  
+- MAS: 7.77 (21)  
+- UTR: 61.7 (21)  
+- USTA: 17  
+- Coach: 10  
 
-> #### #4 Drake  
+> ### #4 Drake  
 > Automatic Qualifier  
 > - ITA: 1.976 (63)  
 > - SLM: 75.978 (58)  

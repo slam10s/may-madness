@@ -2,16 +2,16 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## Old Dominion vs Arkansas
 
-> ***#3 Arkansas***  
-> At-Large Bid  
-> - ITA: 26.025 (32)  
-> - SLM: 87.394 (38)  
-> - TRN: 79.872 (32)  
-> - MAS: 6.74 (41)  
-> - UTR: 59.65 (38)  
-> - Coach: 33  
+> ### #3 Arkansas***  
+At-Large Bid  
+- ITA: 26.025 (32)  
+- SLM: 87.394 (38)  
+- TRN: 79.872 (32)  
+- MAS: 6.74 (41)  
+- UTR: 59.65 (38)  
+- Coach: 33  
 
-> #### #2 Old Dominion  
+> ### #2 Old Dominion  
 > Automatic Qualifier  
 > - ITA: 28 (30)  
 > - SLM: 89.207 (28)  

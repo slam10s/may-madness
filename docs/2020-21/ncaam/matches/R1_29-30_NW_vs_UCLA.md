@@ -2,17 +2,17 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## Northwestern vs UCLA
 
-> ***#2 UCLA***  
-> At-Large Bid  
-> - ITA: 32.146 (24)  
-> - SLM: 93.839 (23)  
-> - TRN: 91.844 (24)  
-> - MAS: 8.03 (19)  
-> - UTR: 79.06 (13)  
-> - USTA: 22  
-> - Coach: 29  
+> ### #2 UCLA***  
+At-Large Bid  
+- ITA: 32.146 (24)  
+- SLM: 93.839 (23)  
+- TRN: 91.844 (24)  
+- MAS: 8.03 (19)  
+- UTR: 79.06 (13)  
+- USTA: 22  
+- Coach: 29  
 
-> #### #3 Northwestern  
+> ### #3 Northwestern  
 > At-Large Bid  
 > - ITA: 7.95 (50)  
 > - SLM: 92.885 (33)  

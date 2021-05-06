@@ -2,17 +2,17 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## Wake Forest vs Furman
 
-> ***#3 Furman***  
-> Automatic Qualifier  
-> - ITA: 25.423 (34)  
-> - SLM: 87.979 (33)  
-> - TRN: 79.59 (35)  
-> - MAS: 7.09 (35)  
-> - UTR: 59.02 (41)  
-> - USTA: RV  
-> - Coach: 35  
+> ### #3 Furman***  
+Automatic Qualifier  
+- ITA: 25.423 (34)  
+- SLM: 87.979 (33)  
+- TRN: 79.59 (35)  
+- MAS: 7.09 (35)  
+- UTR: 59.02 (41)  
+- USTA: RV  
+- Coach: 35  
 
-> #### #2 Wake Forest  
+> ### #2 Wake Forest  
 > At-Large Bid  
 > - ITA: 25.766 (33)  
 > - SLM: 88.109 (32)  
