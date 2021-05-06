@@ -31,20 +31,20 @@ Coaches Poll: 27<br>
 
 </td></tr></table>
 
-Return to [List of Matches](../index.md)
+<br>Return to [List of Matches](../index.md)
 
 ## Predictions
 
 Ranks listed here are the metric's ranking within the field of 64:
 
-- Slam: **_VT_** - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)
-- TRN: **_VT_** - #29 Virginia Tech (51%) def. #31 Texas Tech (49%)
-- Massey: **_TTU_** - #28 Texas Tech (75%) def. #33 Virginia Tech (25%)
-- UTR: **_VT_** - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)
-- ITA: **_TTU_** - #25 Texas Tech def. #29 Virginia Tech
-- USTA Poll: **_TTU_** - RV Texas Tech def. Virginia Tech
-- Coaches Poll: **_TTU_** - #27 Texas Tech def. #34 Virginia Tech
-- Seeding: **_TTU_** - #2 Texas Tech def. #3 Virginia Tech
+- Slam: <b><i>VT</i></b>- #30 Virginia Tech (56%) def. #35 Texas Tech (44%)
+- TRN: <b><i>VT</i></b>- #29 Virginia Tech (51%) def. #31 Texas Tech (49%)
+- Massey: <b><i>TTU</i></b>- #28 Texas Tech (75%) def. #33 Virginia Tech (25%)
+- UTR: <b><i>VT</i></b>- #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)
+- ITA: <b><i>TTU</i></b>- #25 Texas Tech def. #29 Virginia Tech
+- USTA Poll: <b><i>TTU</i></b>- RV Texas Tech def. Virginia Tech
+- Coaches Poll: <b><i>TTU</i></b>- #27 Texas Tech def. #34 Virginia Tech
+- Seeding: <b><i>TTU</i></b>- #2 Texas Tech def. #3 Virginia Tech
 
 ## Individual Matchups
 
