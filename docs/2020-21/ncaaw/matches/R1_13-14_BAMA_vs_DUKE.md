@@ -4,7 +4,7 @@ Friday, May 7 at 3:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png)  
 
 ### #2 Duke  
 
@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png)  
 
 ### #3 Alabama  
 

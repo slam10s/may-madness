@@ -4,7 +4,7 @@ Saturday, May 8 at 4:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png)  
 
 ### #1 Ole Miss  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png)  
 
 ### #4 Belmont  
 

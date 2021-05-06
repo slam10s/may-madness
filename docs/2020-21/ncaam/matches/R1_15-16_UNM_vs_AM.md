@@ -4,7 +4,7 @@ Friday, May 7 at 3:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png)  
 
 ### #1 Texas A&M  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png)  
 
 ### #4 New Mexico  
 

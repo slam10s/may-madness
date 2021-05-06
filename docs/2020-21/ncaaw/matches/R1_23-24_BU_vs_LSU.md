@@ -4,7 +4,7 @@ Friday, May 7 at 2:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png)  
 
 ### #1 LSU  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png)  
 
 ### #4 Boston U.  
 

@@ -4,7 +4,7 @@ Friday, May 7 at 10:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/f/fgcu.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/f/fgcu.70.png)  
 
 ### #3 FGCU  
 
@@ -17,7 +17,7 @@ Automatic Qualifier
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png)  
 
 ### #2 NC State  
 

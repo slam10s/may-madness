@@ -4,7 +4,7 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png)  
 
 ### #2 Pepperdine  
 
@@ -19,7 +19,7 @@ Automatic Qualifier
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png)  
 
 ### #3 UC Santa Barbara  
 

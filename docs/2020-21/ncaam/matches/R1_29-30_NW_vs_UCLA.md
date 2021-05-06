@@ -4,7 +4,7 @@ Saturday, May 8 at 10:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png)  
 
 ### #2 UCLA  
 
@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png)  
 
 ### #3 Northwestern  
 

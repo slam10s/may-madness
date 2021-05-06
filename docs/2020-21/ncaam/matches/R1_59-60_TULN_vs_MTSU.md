@@ -4,7 +4,7 @@ Saturday, May 8 at 1:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png)  
 
 ### #3 Middle Tenn.  
 
@@ -18,7 +18,7 @@ Automatic Qualifier
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png)  
 
 ### #2 Tulane  
 

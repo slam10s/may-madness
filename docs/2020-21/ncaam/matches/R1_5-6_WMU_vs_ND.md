@@ -4,7 +4,7 @@ Friday, May 7 at 2:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png)  
 
 ### #2 Notre Dame  
 
@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png)  
 
 ### #3 Western Mich.  
 

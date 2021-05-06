@@ -4,7 +4,7 @@ Friday, May 7 at 5:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png)  
 
 ### #1 Wake Forest  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png)  
 
 ### #4 South Carolina St.  
 

@@ -4,7 +4,7 @@ Friday, May 7 at 10:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png)  
 
 ### #3 Southern California  
 
@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png)  
 
 ### #2 Oklahoma  
 

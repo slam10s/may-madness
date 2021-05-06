@@ -4,7 +4,7 @@ Saturday, May 8 at 1:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png)  
 
 ### #1 North Carolina  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png)  
 
 ### #4 Presbyterian  
 

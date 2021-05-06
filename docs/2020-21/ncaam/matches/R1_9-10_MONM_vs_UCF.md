@@ -4,7 +4,7 @@ Saturday, May 8 at 2:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png)  
 
 ### #1 UCF  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png)  
 
 ### #4 Monmouth  
 

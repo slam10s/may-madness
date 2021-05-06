@@ -4,7 +4,7 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png)  
 
 ### #3 Oklahoma St.  
 
@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png)  
 
 ### #2 Auburn  
 

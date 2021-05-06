@@ -4,7 +4,7 @@ Saturday, May 8 at 1:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png)  
 
 ### #1 Tennessee  
 
@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png)  
 
 ### #4 Alabama A&M  
 

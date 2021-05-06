@@ -4,7 +4,7 @@ Friday, May 7 at 2:00 EDT
 
 <table><tr><td>  
 
-[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png)  
+![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png)  
 
 ### #2 Ohio St.  
 
@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png)  
+![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png)  
 
 ### #3 VCU  
 
