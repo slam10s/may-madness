@@ -45,47 +45,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***AUB*** - #2 Auburn def. #3 Oklahoma St.  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Bunyawi Thamchaiwat (OKST) - 9-2 at #1, 12-2 in duals, 20-4 overall<br>  
-Selin Ovunc (AUB) - 8-9 at #1, 8-9 in duals, 13-10 overall
+Bunyawi Thamchaiwat (OKST) - 9-2 at #1, 12-2 in duals, 20-4 overall<br>Selin Ovunc (AUB) - 8-9 at #1, 8-9 in duals, 13-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Ayumi Miyamoto (OKST) - 3-2 at #2, 11-5 in duals, 21-9 overall<br>  
-Carolyn Ansari (AUB) - 1-0 at #2, 12-3 in duals, 14-10 overall
+Ayumi Miyamoto (OKST) - 3-2 at #2, 11-5 in duals, 21-9 overall<br>Carolyn Ansari (AUB) - 1-0 at #2, 12-3 in duals, 14-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Alana Wolfberg (OKST) - 3-2 at #3, 7-8 in duals, 17-10 overall<br>  
-Yu Chen (AUB) - 0-2 at #3, 5-11 in duals, 12-13 overall
+Alana Wolfberg (OKST) - 3-2 at #3, 7-8 in duals, 17-10 overall<br>Yu Chen (AUB) - 0-2 at #3, 5-11 in duals, 12-13 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Dariya Detkovskaya (OKST) - 5-6 at #4, 9-6 in duals, 17-8 overall<br>  
-Georgie Axon (AUB) - 15-3 at #4, 16-3 in duals, 22-6 overall
+Dariya Detkovskaya (OKST) - 5-6 at #4, 9-6 in duals, 17-8 overall<br>Georgie Axon (AUB) - 15-3 at #4, 16-3 in duals, 22-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Lenka Stara (OKST) - 7-6 at #5, 10-8 in duals, 17-14 overall<br>  
-Adeline Flach (AUB) - 4-5 at #5, 11-7 in duals, 14-10 overall
+Lenka Stara (OKST) - 7-6 at #5, 10-8 in duals, 17-14 overall<br>Adeline Flach (AUB) - 4-5 at #5, 11-7 in duals, 14-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Daniella Medvedeva (OKST) - 3-7 at #6, 4-9 in duals, 10-12 overall<br>  
-Anastasia Astakhova (AUB) - 2-5 at #6, 2-5 in duals, 2-5 overall
+Daniella Medvedeva (OKST) - 3-7 at #6, 4-9 in duals, 10-12 overall<br>Anastasia Astakhova (AUB) - 2-5 at #6, 2-5 in duals, 2-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

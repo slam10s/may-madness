@@ -43,47 +43,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***GT*** - #1 Georgia Tech def. #4 Ga. Southern  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Kenya Jones (GT) - 16-7 at #1, 16-7 in duals, 17-8 overall<br>  
-Nadja Meier (GASO) - 4-3 at #1, 15-9 in duals, 15-9 overall
+Kenya Jones (GT) - 16-7 at #1, 16-7 in duals, 17-8 overall<br>Nadja Meier (GASO) - 4-3 at #1, 15-9 in duals, 15-9 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Victoria Flores (GT) - 12-4 at #2, 17-5 in duals, 18-6 overall<br>  
-Paula Boixader (GASO) - 2-1 at #2, 8-10 in duals, 8-10 overall
+Victoria Flores (GT) - 12-4 at #2, 17-5 in duals, 18-6 overall<br>Paula Boixader (GASO) - 2-1 at #2, 8-10 in duals, 8-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Gia Cohen (GT) - 3-11 at #3, 8-14 in duals, 8-15 overall<br>  
-Sophie Wagemaker (GASO) - 10-3 at #3, 11-7 in duals, 11-7 overall
+Gia Cohen (GT) - 3-11 at #3, 8-14 in duals, 8-15 overall<br>Sophie Wagemaker (GASO) - 10-3 at #3, 11-7 in duals, 11-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Ava Hrastar (GT) - 2-3 at #4, 10-9 in duals, 12-9 overall<br>  
-Charlotte van Diemen (GASO) - 3-1 at #4, 8-5 in duals, 8-5 overall
+Ava Hrastar (GT) - 2-3 at #4, 10-9 in duals, 12-9 overall<br>Charlotte van Diemen (GASO) - 3-1 at #4, 8-5 in duals, 8-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Carol Lee (GT) - 5-8 at #5, 12-12 in duals, 14-12 overall<br>  
-Mila Hartig (GASO) - 1-0 at #5, 14-4 in duals, 14-4 overall
+Carol Lee (GT) - 5-8 at #5, 12-12 in duals, 14-12 overall<br>Mila Hartig (GASO) - 1-0 at #5, 14-4 in duals, 14-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Mahak Jain (GT) - 7-2 at #6, 14-7 in duals, 16-7 overall<br>  
-Paula Hijos (GASO) - 2-0 at #6, 13-6 in duals, 13-6 overall
+Mahak Jain (GT) - 7-2 at #6, 14-7 in duals, 16-7 overall<br>Paula Hijos (GASO) - 2-0 at #6, 13-6 in duals, 13-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

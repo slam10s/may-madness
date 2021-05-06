@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***STAN*** - #2 Stanford def. #3 UC Santa Barbara  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Elizaveta Volodko (UCSB) - 9-4 at #1, 9-4 in duals, 9-4 overall<br>  
-Michaela Gordon (STAN) - 9-6 at #1, 9-6 in duals, 9-6 overall
+Elizaveta Volodko (UCSB) - 9-4 at #1, 9-4 in duals, 9-4 overall<br>Michaela Gordon (STAN) - 9-6 at #1, 9-6 in duals, 9-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Camille Kiss (UCSB) - 10-4 at #2, 10-4 in duals, 10-4 overall<br>  
-Angelica Blake (STAN) - 2-1 at #2, 7-2 in duals, 7-2 overall
+Camille Kiss (UCSB) - 10-4 at #2, 10-4 in duals, 10-4 overall<br>Angelica Blake (STAN) - 2-1 at #2, 7-2 in duals, 7-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Shakhnoza Khatamova (UCSB) - 15-2 at #3, 15-2 in duals, 15-2 overall<br>  
-Emily Arbuthnott (STAN) - 1-3 at #3, 8-7 in duals, 8-7 overall
+Shakhnoza Khatamova (UCSB) - 15-2 at #3, 15-2 in duals, 15-2 overall<br>Emily Arbuthnott (STAN) - 1-3 at #3, 8-7 in duals, 8-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Lise Sentenac (UCSB) - 6-4 at #4, 6-7 in duals, 6-7 overall<br>  
-Ana Geller (STAN) - 1-3 at #4, 7-3 in duals, 7-3 overall
+Lise Sentenac (UCSB) - 6-4 at #4, 6-7 in duals, 6-7 overall<br>Ana Geller (STAN) - 1-3 at #4, 7-3 in duals, 7-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Kira Reuter (UCSB) - 5-5 at #5, 5-7 in duals, 5-7 overall<br>  
-Sara Choy (STAN) - 3-2 at #5, 13-4 in duals, 13-4 overall
+Kira Reuter (UCSB) - 5-5 at #5, 5-7 in duals, 5-7 overall<br>Sara Choy (STAN) - 3-2 at #5, 13-4 in duals, 13-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Marta Gonzalez Ballbe (UCSB) - 6-3 at #6, 7-4 in duals, 7-4 overall<br>  
-Emma Higuchi (STAN) - 10-3 at #6, 14-3 in duals, 14-3 overall
+Marta Gonzalez Ballbe (UCSB) - 6-3 at #6, 7-4 in duals, 7-4 overall<br>Emma Higuchi (STAN) - 10-3 at #6, 14-3 in duals, 14-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

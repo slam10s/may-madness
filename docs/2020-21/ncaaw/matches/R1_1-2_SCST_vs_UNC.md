@@ -43,47 +43,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***UNC*** - #1 North Carolina def. #4 South Carolina St.  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Sara Daavettila (UNC) - 10-1 at #1, 15-1 in duals, 15-1 overall<br>  
-Rachida Berjane (SCST) - 6-2 at #1, 6-2 in duals, 6-2 overall
+Sara Daavettila (UNC) - 10-1 at #1, 15-1 in duals, 15-1 overall<br>Rachida Berjane (SCST) - 6-2 at #1, 6-2 in duals, 6-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Alexa Graham (UNC) - 5-0 at #2, 11-2 in duals, 16-2 overall<br>  
-Hind Semlali (SCST) - 6-3 at #2, 6-3 in duals, 6-3 overall
+Alexa Graham (UNC) - 5-0 at #2, 11-2 in duals, 16-2 overall<br>Hind Semlali (SCST) - 6-3 at #2, 6-3 in duals, 6-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Cameron Morra (UNC) - 6-2 at #3, 15-6 in duals, 15-6 overall<br>  
-Andjela Mihajilovic (SCST) - 2-6 at #3, 2-6 in duals, 2-6 overall
+Cameron Morra (UNC) - 6-2 at #3, 15-6 in duals, 15-6 overall<br>Andjela Mihajilovic (SCST) - 2-6 at #3, 2-6 in duals, 2-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Elizabeth Scotty (UNC) - 6-1 at #4, 11-2 in duals, 11-3 overall<br>  
-Lasya Patnaik (SCST) - 6-3 at #4, 6-3 in duals, 6-3 overall
+Elizabeth Scotty (UNC) - 6-1 at #4, 11-2 in duals, 11-3 overall<br>Lasya Patnaik (SCST) - 6-3 at #4, 6-3 in duals, 6-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Makenna Jones (UNC) - 1-2 at #5, 13-2 in duals, 15-2 overall<br>  
-Ikram Rassif (SCST) - 4-3 at #5, 4-3 in duals, 4-3 overall
+Makenna Jones (UNC) - 1-2 at #5, 13-2 in duals, 15-2 overall<br>Ikram Rassif (SCST) - 4-3 at #5, 4-3 in duals, 4-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Fiona Crawley (UNC) - 3-0 at #6, 23-0 in duals, 25-0 overall<br>  
-Anabel Aguilar (SCST) - 3-1 at #6, 3-1 in duals, 3-1 overall
+Fiona Crawley (UNC) - 3-0 at #6, 23-0 in duals, 25-0 overall<br>Anabel Aguilar (SCST) - 3-1 at #6, 3-1 in duals, 3-1 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

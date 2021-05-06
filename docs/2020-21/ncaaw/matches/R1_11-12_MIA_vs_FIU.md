@@ -46,47 +46,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***MIA*** - #2 Miami (FL) def. #3 FIU  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Kamila Umarova (FIU) - 10-2 at #1, 10-2 in duals, 10-2 overall<br>  
-Estela Perez-Somarriba (MIA) - 19-2 at #1, 19-2 in duals, 19-2 overall
+Kamila Umarova (FIU) - 10-2 at #1, 10-2 in duals, 10-2 overall<br>Estela Perez-Somarriba (MIA) - 19-2 at #1, 19-2 in duals, 19-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Marina Alcaide (FIU) - 3-0 at #2, 11-0 in duals, 11-0 overall<br>  
-Isabella Pfennig (MIA) - 12-4 at #2, 16-4 in duals, 16-4 overall
+Marina Alcaide (FIU) - 3-0 at #2, 11-0 in duals, 11-0 overall<br>Isabella Pfennig (MIA) - 12-4 at #2, 16-4 in duals, 16-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Andjela Skrobonja (FIU) - 0-0 at #3, 10-2 in duals, 10-2 overall<br>  
-Daevenia Achong (MIA) - 7-6 at #3, 7-11 in duals, 7-11 overall
+Andjela Skrobonja (FIU) - 0-0 at #3, 10-2 in duals, 10-2 overall<br>Daevenia Achong (MIA) - 7-6 at #3, 7-11 in duals, 7-11 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Basak Akbas (FIU) - 0-0 at #4, 5-5 in duals, 5-5 overall<br>  
-Florencia Urrutia (MIA) - 11-4 at #4, 12-8 in duals, 12-8 overall
+Basak Akbas (FIU) - 0-0 at #4, 5-5 in duals, 5-5 overall<br>Florencia Urrutia (MIA) - 11-4 at #4, 12-8 in duals, 12-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Andreea Velcea (FIU) - 6-2 at #5, 9-2 in duals, 9-2 overall<br>  
-Diana Khodan (MIA) - 5-5 at #5, 12-7 in duals, 12-7 overall
+Andreea Velcea (FIU) - 6-2 at #5, 9-2 in duals, 9-2 overall<br>Diana Khodan (MIA) - 5-5 at #5, 12-7 in duals, 12-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Kristina Miletic (FIU) - 1-5 at #6, 3-6 in duals, 3-6 overall<br>  
-Maya Tahan (MIA) - 6-1 at #6, 13-8 in duals, 13-8 overall
+Kristina Miletic (FIU) - 1-5 at #6, 3-6 in duals, 3-6 overall<br>Maya Tahan (MIA) - 6-1 at #6, 13-8 in duals, 13-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***TEX*** - #1 Texas def. #4 Northern Ariz.  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Eliot Spizzirri (TEX) - 9-6 at #1, 15-8 in duals, 22-9 overall<br>  
-Eban Straker-Meads (NAU) - 5-4 at #1, 6-6 in duals, 6-6 overall
+Eliot Spizzirri (TEX) - 9-6 at #1, 15-8 in duals, 22-9 overall<br>Eban Straker-Meads (NAU) - 5-4 at #1, 6-6 in duals, 6-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Micah Braswell (TEX) - 9-4 at #2, 17-5 in duals, 32-6 overall<br>  
-Facundo Tumosa (NAU) - 3-3 at #2, 5-6 in duals, 5-6 overall
+Micah Braswell (TEX) - 9-4 at #2, 17-5 in duals, 32-6 overall<br>Facundo Tumosa (NAU) - 3-3 at #2, 5-6 in duals, 5-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Siem Woldeab (TEX) - 5-1 at #3, 9-7 in duals, 14-12 overall<br>  
-Dominik Buzonics (NAU) - 4-3 at #3, 6-8 in duals, 6-8 overall
+Siem Woldeab (TEX) - 5-1 at #3, 9-7 in duals, 14-12 overall<br>Dominik Buzonics (NAU) - 4-3 at #3, 6-8 in duals, 6-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Cleeve Harper (TEX) - 14-3 at #4, 17-5 in duals, 22-9 overall<br>  
-Christopher Steele (NAU) - 3-0 at #4, 7-7 in duals, 7-7 overall
+Cleeve Harper (TEX) - 14-3 at #4, 17-5 in duals, 22-9 overall<br>Christopher Steele (NAU) - 3-0 at #4, 7-7 in duals, 7-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Chih Chi Huang (TEX) - 9-7 at #5, 11-8 in duals, 15-17 overall<br>  
-Maciej Ziomber (NAU) - 5-2 at #5, 11-4 in duals, 11-4 overall
+Chih Chi Huang (TEX) - 9-7 at #5, 11-8 in duals, 15-17 overall<br>Maciej Ziomber (NAU) - 5-2 at #5, 11-4 in duals, 11-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Evin McDonald (TEX) - 6-9 at #6, 11-10 in duals, 15-16 overall<br>  
-Alexander Groves (NAU) - 3-0 at #6, 6-8 in duals, 6-8 overall
+Evin McDonald (TEX) - 6-9 at #6, 11-10 in duals, 15-16 overall<br>Alexander Groves (NAU) - 3-0 at #6, 6-8 in duals, 6-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

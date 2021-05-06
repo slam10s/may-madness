@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***TENN*** - #1 Tennessee def. #4 Alabama A&M  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Adam Walton (TENN) - 8-7 at #1, 10-8 in duals, 16-10 overall<br>  
-Rodrigo Arana Rios (AAMU) - 1-10 at #1, 1-10 in duals, 1-10 overall
+Adam Walton (TENN) - 8-7 at #1, 10-8 in duals, 16-10 overall<br>Rodrigo Arana Rios (AAMU) - 1-10 at #1, 1-10 in duals, 1-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Johannus Monday (TENN) - 17-3 at #2, 22-4 in duals, 31-6 overall<br>  
-Gjorgji Popovski (AAMU) - 6-6 at #2, 6-6 in duals, 6-6 overall
+Johannus Monday (TENN) - 17-3 at #2, 22-4 in duals, 31-6 overall<br>Gjorgji Popovski (AAMU) - 6-6 at #2, 6-6 in duals, 6-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Martim Prata (TENN) - 11-8 at #3, 15-8 in duals, 22-12 overall<br>  
-Fermin Ruiz (AAMU) - 0-9 at #3, 0-12 in duals, 0-12 overall
+Martim Prata (TENN) - 11-8 at #3, 15-8 in duals, 22-12 overall<br>Fermin Ruiz (AAMU) - 0-9 at #3, 0-12 in duals, 0-12 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Luca Wiedenmann (TENN) - 8-2 at #4, 20-3 in duals, 30-4 overall<br>  
-Natiphat Mulada (AAMU) - 5-2 at #4, 5-4 in duals, 5-4 overall
+Luca Wiedenmann (TENN) - 8-2 at #4, 20-3 in duals, 30-4 overall<br>Natiphat Mulada (AAMU) - 5-2 at #4, 5-4 in duals, 5-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Giles Hussey (TENN) - 9-0 at #5, 18-3 in duals, 29-4 overall<br>  
-Panji Setiawan (AAMU) - 4-4 at #5, 4-7 in duals, 4-7 overall
+Giles Hussey (TENN) - 9-0 at #5, 18-3 in duals, 29-4 overall<br>Panji Setiawan (AAMU) - 4-4 at #5, 4-7 in duals, 4-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Pat Harper (TENN) - 5-3 at #6, 5-4 in duals, 12-5 overall<br>  
-Divesh Gahlot (AAMU) - 3-0 at #6, 3-0 in duals, 3-0 overall
+Pat Harper (TENN) - 5-3 at #6, 5-4 in duals, 12-5 overall<br>Divesh Gahlot (AAMU) - 3-0 at #6, 3-0 in duals, 3-0 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

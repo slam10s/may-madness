@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***NCST*** - #1 NC State def. #4 VCU  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Anna Rogers (NCST) - 14-6 at #1, 14-6 in duals, 19-6 overall<br>  
-Paola Exposito Diaz-Delgado (VCU) - 16-3 at #1, 16-3 in duals, 16-3 overall
+Anna Rogers (NCST) - 14-6 at #1, 14-6 in duals, 19-6 overall<br>Paola Exposito Diaz-Delgado (VCU) - 16-3 at #1, 16-3 in duals, 16-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Alana Smith (NCST) - 14-5 at #2, 14-5 in duals, 16-8 overall<br>  
-Luminita Tutunaru (VCU) - 7-8 at #2, 7-11 in duals, 7-11 overall
+Alana Smith (NCST) - 14-5 at #2, 14-5 in duals, 16-8 overall<br>Luminita Tutunaru (VCU) - 7-8 at #2, 7-11 in duals, 7-11 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Adriana Reami (NCST) - 12-4 at #3, 15-5 in duals, 16-9 overall<br>  
-Alessia Ciuca (VCU) - 10-7 at #3, 10-11 in duals, 10-11 overall
+Adriana Reami (NCST) - 12-4 at #3, 15-5 in duals, 16-9 overall<br>Alessia Ciuca (VCU) - 10-7 at #3, 10-11 in duals, 10-11 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Jaeda Daniel (NCST) - 10-6 at #4, 11-8 in duals, 13-10 overall<br>  
-Gabriela Davidescu (VCU) - 9-8 at #4, 10-8 in duals, 10-8 overall
+Jaeda Daniel (NCST) - 10-6 at #4, 11-8 in duals, 13-10 overall<br>Gabriela Davidescu (VCU) - 9-8 at #4, 10-8 in duals, 10-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Abigail Rencheli (NCST) - 5-2 at #5, 10-4 in duals, 13-5 overall<br>  
-Noumea Witmus (VCU) - 9-3 at #5, 13-6 in duals, 13-6 overall
+Abigail Rencheli (NCST) - 5-2 at #5, 10-4 in duals, 13-5 overall<br>Noumea Witmus (VCU) - 9-3 at #5, 13-6 in duals, 13-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Lexi Keberle (NCST) - 2-4 at #6, 13-6 in duals, 16-8 overall<br>  
-Shivani Manjanna (VCU) - 8-6 at #6, 11-7 in duals, 11-7 overall
+Lexi Keberle (NCST) - 2-4 at #6, 13-6 in duals, 16-8 overall<br>Shivani Manjanna (VCU) - 8-6 at #6, 11-7 in duals, 11-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

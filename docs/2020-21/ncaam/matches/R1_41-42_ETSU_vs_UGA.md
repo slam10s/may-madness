@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***UGA*** - #1 Georgia def. #4 ETSU  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Trent Bryde (UGA) - 9-10 at #1, 9-10 in duals, 14-13 overall<br>  
-Dimitri Badra (ETSU) - 11-3 at #1, 14-5 in duals, 14-5 overall
+Trent Bryde (UGA) - 9-10 at #1, 9-10 in duals, 14-13 overall<br>Dimitri Badra (ETSU) - 11-3 at #1, 14-5 in duals, 14-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Tyler Zink (UGA) - 6-5 at #2, 9-5 in duals, 11-9 overall<br>  
-Frazier Rengifo (ETSU) - 10-4 at #2, 11-7 in duals, 11-7 overall
+Tyler Zink (UGA) - 6-5 at #2, 9-5 in duals, 11-9 overall<br>Frazier Rengifo (ETSU) - 10-4 at #2, 11-7 in duals, 11-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Philip Henning (UGA) - 11-4 at #3, 13-6 in duals, 18-10 overall<br>  
-Juan Lugo (ETSU) - 5-1 at #3, 9-5 in duals, 9-5 overall
+Philip Henning (UGA) - 11-4 at #3, 13-6 in duals, 18-10 overall<br>Juan Lugo (ETSU) - 5-1 at #3, 9-5 in duals, 9-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Blake Croyder (UGA) - 10-2 at #4, 11-5 in duals, 15-12 overall<br>  
-Thiago Pernas (ETSU) - 7-2 at #4, 10-8 in duals, 10-8 overall
+Blake Croyder (UGA) - 10-2 at #4, 11-5 in duals, 15-12 overall<br>Thiago Pernas (ETSU) - 7-2 at #4, 10-8 in duals, 10-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Billy Rowe (UGA) - 8-4 at #5, 12-7 in duals, 16-10 overall<br>  
-MIguel Este (ETSU) - 1-1 at #5, 8-5 in duals, 8-5 overall
+Billy Rowe (UGA) - 8-4 at #5, 12-7 in duals, 16-10 overall<br>MIguel Este (ETSU) - 1-1 at #5, 8-5 in duals, 8-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Erik Grevelius (UGA) - 7-3 at #6, 9-4 in duals, 15-8 overall<br>  
-Juan Zabala (ETSU) - 2-1 at #6, 6-4 in duals, 6-4 overall
+Erik Grevelius (UGA) - 7-3 at #6, 9-4 in duals, 15-8 overall<br>Juan Zabala (ETSU) - 2-1 at #6, 6-4 in duals, 6-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

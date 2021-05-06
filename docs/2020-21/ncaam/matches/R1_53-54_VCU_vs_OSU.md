@@ -45,47 +45,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***OSU*** - #2 Ohio St. def. #3 VCU  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-John McNally (OSU) - 10-2 at #1, 16-4 in duals, 21-4 overall<br>  
-Lleyton Cronje (VCU) - 10-2 at #1, 12-3 in duals, 12-3 overall
+John McNally (OSU) - 10-2 at #1, 16-4 in duals, 21-4 overall<br>Lleyton Cronje (VCU) - 10-2 at #1, 12-3 in duals, 12-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Cannon Kingsley (OSU) - 12-0 at #2, 21-0 in duals, 27-0 overall<br>  
-Charles Bertimon (VCU) - 9-3 at #2, 11-4 in duals, 11-4 overall
+Cannon Kingsley (OSU) - 12-0 at #2, 21-0 in duals, 27-0 overall<br>Charles Bertimon (VCU) - 9-3 at #2, 11-4 in duals, 11-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-James Trotter (OSU) - 13-1 at #3, 13-1 in duals, 13-1 overall<br>  
-Inigo Torre (VCU) - 7-2 at #3, 10-3 in duals, 10-3 overall
+James Trotter (OSU) - 13-1 at #3, 13-1 in duals, 13-1 overall<br>Inigo Torre (VCU) - 7-2 at #3, 10-3 in duals, 10-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Justin Boulais (OSU) - 5-1 at #4, 7-1 in duals, 7-1 overall<br>  
-Rayane Stable (VCU) - 5-0 at #4, 15-2 in duals, 15-2 overall
+Justin Boulais (OSU) - 5-1 at #4, 7-1 in duals, 7-1 overall<br>Rayane Stable (VCU) - 5-0 at #4, 15-2 in duals, 15-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Kyle Seelig (OSU) - 3-0 at #5, 15-4 in duals, 18-8 overall<br>  
-Quentin Coulaud (VCU) - 1-2 at #5, 10-6 in duals, 10-6 overall
+Kyle Seelig (OSU) - 3-0 at #5, 15-4 in duals, 18-8 overall<br>Quentin Coulaud (VCU) - 1-2 at #5, 10-6 in duals, 10-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-JJ Tracy (OSU) - 6-0 at #6, 21-1 in duals, 24-3 overall<br>  
-Timo Zgraggen (VCU) - 6-0 at #6, 9-1 in duals, 9-1 overall
+JJ Tracy (OSU) - 6-0 at #6, 21-1 in duals, 24-3 overall<br>Timo Zgraggen (VCU) - 6-0 at #6, 9-1 in duals, 9-1 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

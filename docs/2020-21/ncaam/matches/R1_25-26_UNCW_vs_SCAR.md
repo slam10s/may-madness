@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***SCAR*** - #1 South Carolina def. #4 UNCW  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Daniel Rodrigues (SCAR) - 16-4 at #1, 16-4 in duals, 24-6 overall<br>  
-Bruno Caula (UNCW) - 11-6 at #1, 11-6 in duals, 11-6 overall
+Daniel Rodrigues (SCAR) - 16-4 at #1, 16-4 in duals, 24-6 overall<br>Bruno Caula (UNCW) - 11-6 at #1, 11-6 in duals, 11-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Connor Thomson (SCAR) - 6-5 at #2, 11-8 in duals, 18-12 overall<br>  
-Davide Innocenti (UNCW) - 8-3 at #2, 8-4 in duals, 8-4 overall
+Connor Thomson (SCAR) - 6-5 at #2, 11-8 in duals, 18-12 overall<br>Davide Innocenti (UNCW) - 8-3 at #2, 8-4 in duals, 8-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Toby Samuel (SCAR) - 4-2 at #3, 16-4 in duals, 24-7 overall<br>  
-Daniel Groom (UNCW) - 7-3 at #3, 10-4 in duals, 10-4 overall
+Toby Samuel (SCAR) - 4-2 at #3, 16-4 in duals, 24-7 overall<br>Daniel Groom (UNCW) - 7-3 at #3, 10-4 in duals, 10-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Raphael Lambling (SCAR) - 0-2 at #4, 6-12 in duals, 11-18 overall<br>  
-Bekhzod Rasamatov (UNCW) - 3-2 at #4, 11-4 in duals, 11-4 overall
+Raphael Lambling (SCAR) - 0-2 at #4, 6-12 in duals, 11-18 overall<br>Bekhzod Rasamatov (UNCW) - 3-2 at #4, 11-4 in duals, 11-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Jake Beasley (SCAR) - 7-7 at #5, 12-8 in duals, 18-10 overall<br>  
-Gabriel Hurtado (UNCW) - 4-3 at #5, 8-6 in duals, 8-6 overall
+Jake Beasley (SCAR) - 7-7 at #5, 12-8 in duals, 18-10 overall<br>Gabriel Hurtado (UNCW) - 4-3 at #5, 8-6 in duals, 8-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Thomas Brown (SCAR) - 2-2 at #6, 3-2 in duals, 11-6 overall<br>  
-Michael Copeland (UNCW) - 5-2 at #6, 13-6 in duals, 13-6 overall
+Thomas Brown (SCAR) - 2-2 at #6, 3-2 in duals, 11-6 overall<br>Michael Copeland (UNCW) - 5-2 at #6, 13-6 in duals, 13-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

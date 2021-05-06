@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***OSU*** - #1 Ohio St. def. #4 UIC  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Irina Cantos Siemers (OSU) - 10-5 at #1, 15-5 in duals, 18-5 overall<br>  
-Tamara Malazonia (UIC) - 9-12 at #1, 10-12 in duals, 10-12 overall
+Irina Cantos Siemers (OSU) - 10-5 at #1, 15-5 in duals, 18-5 overall<br>Tamara Malazonia (UIC) - 9-12 at #1, 10-12 in duals, 10-12 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Isabelle Boulais (OSU) - 6-3 at #2, 11-5 in duals, 11-5 overall<br>  
-Agnes Gustafsson (UIC) - 14-2 at #2, 15-4 in duals, 15-4 overall
+Isabelle Boulais (OSU) - 6-3 at #2, 11-5 in duals, 11-5 overall<br>Agnes Gustafsson (UIC) - 14-2 at #2, 15-4 in duals, 15-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Kolie Allen (OSU) - 7-3 at #3, 10-9 in duals, 10-12 overall<br>  
-Lucie Prochazkova (UIC) - 13-1 at #3, 15-2 in duals, 15-2 overall
+Kolie Allen (OSU) - 7-3 at #3, 10-9 in duals, 10-12 overall<br>Lucie Prochazkova (UIC) - 13-1 at #3, 15-2 in duals, 15-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Lisa Hofbauer (OSU) - 7-2 at #4, 12-6 in duals, 13-8 overall<br>  
-Ana Jover (UIC) - 13-2 at #4, 18-3 in duals, 18-3 overall
+Lisa Hofbauer (OSU) - 7-2 at #4, 12-6 in duals, 13-8 overall<br>Ana Jover (UIC) - 13-2 at #4, 18-3 in duals, 18-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Lucia Marzal (OSU) - 10-2 at #5, 19-2 in duals, 21-3 overall<br>  
-Georgia Gulin (UIC) - 12-1 at #5, 17-3 in duals, 17-3 overall
+Lucia Marzal (OSU) - 10-2 at #5, 19-2 in duals, 21-3 overall<br>Georgia Gulin (UIC) - 12-1 at #5, 17-3 in duals, 17-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Luna Dormet (OSU) - 9-1 at #6, 17-1 in duals, 19-1 overall<br>  
-Nell Arendt (UIC) - 9-2 at #6, 14-2 in duals, 14-2 overall
+Luna Dormet (OSU) - 9-1 at #6, 17-1 in duals, 19-1 overall<br>Nell Arendt (UIC) - 9-2 at #6, 14-2 in duals, 14-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

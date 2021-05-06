@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***ILL*** - #1 Illinois def. #4 DePaul  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>  
-Vito Tonejc (DEP) - 11-5 at #1, 13-5 in duals, 13-5 overall
+Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>Vito Tonejc (DEP) - 11-5 at #1, 13-5 in duals, 13-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Siphosothando Montsi (ILL) - 7-2 at #2, 15-3 in duals, 15-3 overall<br>  
-Christopher Casati (DEP) - 3-7 at #2, 8-12 in duals, 8-12 overall
+Siphosothando Montsi (ILL) - 7-2 at #2, 15-3 in duals, 15-3 overall<br>Christopher Casati (DEP) - 3-7 at #2, 8-12 in duals, 8-12 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall<br>  
-Boris Spanjaard (DEP) - 8-4 at #3, 12-6 in duals, 12-6 overall
+Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall<br>Boris Spanjaard (DEP) - 8-4 at #3, 12-6 in duals, 12-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Zeke Clark (ILL) - 6-1 at #4, 16-1 in duals, 19-2 overall<br>  
-Tamas Zador (DEP) - 1-1 at #4, 3-3 in duals, 3-3 overall
+Zeke Clark (ILL) - 6-1 at #4, 16-1 in duals, 19-2 overall<br>Tamas Zador (DEP) - 1-1 at #4, 3-3 in duals, 3-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall<br>  
-Fran Tonejc (DEP) - 1-3 at #5, 8-8 in duals, 8-8 overall
+Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall<br>Fran Tonejc (DEP) - 1-3 at #5, 8-8 in duals, 8-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Noe Khlif (ILL) - 5-0 at #6, 15-1 in duals, 15-1 overall<br>  
-Luuk Wassenaar (DEP) - 3-2 at #6, 11-6 in duals, 11-6 overall
+Noe Khlif (ILL) - 5-0 at #6, 15-1 in duals, 15-1 overall<br>Luuk Wassenaar (DEP) - 3-2 at #6, 11-6 in duals, 11-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

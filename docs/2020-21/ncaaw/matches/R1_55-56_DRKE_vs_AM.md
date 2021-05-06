@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***A&M*** - #1 Texas A&M def. #4 Drake  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Tatiana Makarova (A&M) - 12-4 at #1, 15-4 in duals, 23-6 overall<br>  
-Elizaveta Petushkova (DRKE) - 10-8 at #1, 10-8 in duals, 10-8 overall
+Tatiana Makarova (A&M) - 12-4 at #1, 15-4 in duals, 23-6 overall<br>Elizaveta Petushkova (DRKE) - 10-8 at #1, 10-8 in duals, 10-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Jayci Goldsmith (A&M) - 9-7 at #2, 11-9 in duals, 13-10 overall<br>  
-Daria Walczak (DRKE) - 6-7 at #2, 8-9 in duals, 8-9 overall
+Jayci Goldsmith (A&M) - 9-7 at #2, 11-9 in duals, 13-10 overall<br>Daria Walczak (DRKE) - 6-7 at #2, 8-9 in duals, 8-9 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Katya Townsend (A&M) - 9-6 at #3, 11-6 in duals, 18-9 overall<br>  
-Ines Stephani (DRKE) - 5-1 at #3, 12-4 in duals, 12-4 overall
+Katya Townsend (A&M) - 9-6 at #3, 11-6 in duals, 18-9 overall<br>Ines Stephani (DRKE) - 5-1 at #3, 12-4 in duals, 12-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall<br>  
-Maria Tatarnikova (DRKE) - 7-0 at #4, 12-6 in duals, 12-6 overall
+Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall<br>Maria Tatarnikova (DRKE) - 7-0 at #4, 12-6 in duals, 12-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Renee McBryde (A&M) - 10-1 at #5, 14-3 in duals, 17-4 overall<br>  
-Darinka Stepan (DRKE) - 9-4 at #5, 10-5 in duals, 10-5 overall
+Renee McBryde (A&M) - 10-1 at #5, 14-3 in duals, 17-4 overall<br>Darinka Stepan (DRKE) - 9-4 at #5, 10-5 in duals, 10-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Riley McQuaid (A&M) - 8-5 at #6, 11-5 in duals, 16-9 overall<br>  
-Kelsey Neville (DRKE) - 8-4 at #6, 9-7 in duals, 9-7 overall
+Riley McQuaid (A&M) - 8-5 at #6, 11-5 in duals, 16-9 overall<br>Kelsey Neville (DRKE) - 8-4 at #6, 9-7 in duals, 9-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

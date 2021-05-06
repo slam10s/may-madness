@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***NW*** - #2 Northwestern def. #3 Xavier  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Maria Shusharina (NW) - 5-12 at #1, 7-12 in duals, 9-13 overall<br>  
-Ahmeir Kyle (XAV) - 10-3 at #1, 10-3 in duals, 10-3 overall
+Maria Shusharina (NW) - 5-12 at #1, 7-12 in duals, 9-13 overall<br>Ahmeir Kyle (XAV) - 10-3 at #1, 10-3 in duals, 10-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Clarissa Hand (NW) - 0-2 at #2, 14-6 in duals, 14-9 overall<br>  
-Kat Lyman (XAV) - 10-1 at #2, 13-3 in duals, 13-3 overall
+Clarissa Hand (NW) - 0-2 at #2, 14-6 in duals, 14-9 overall<br>Kat Lyman (XAV) - 10-1 at #2, 13-3 in duals, 13-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Julie Byrne (NW) - 4-0 at #3, 9-8 in duals, 11-9 overall<br>  
-Anna Roggenburk (XAV) - 7-2 at #3, 15-3 in duals, 15-3 overall
+Julie Byrne (NW) - 4-0 at #3, 9-8 in duals, 11-9 overall<br>Anna Roggenburk (XAV) - 7-2 at #3, 15-3 in duals, 15-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Briana Crowley (NW) - 16-3 at #4, 16-5 in duals, 17-7 overall<br>  
-Imani Graham (XAV) - 8-4 at #4, 16-4 in duals, 16-4 overall
+Briana Crowley (NW) - 16-3 at #4, 16-5 in duals, 17-7 overall<br>Imani Graham (XAV) - 8-4 at #4, 16-4 in duals, 16-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Caroline Pozo (NW) - 11-6 at #5, 12-7 in duals, 12-8 overall<br>  
-Kaitlin Ruether (XAV) - 2-6 at #5, 6-12 in duals, 6-12 overall
+Caroline Pozo (NW) - 11-6 at #5, 12-7 in duals, 12-8 overall<br>Kaitlin Ruether (XAV) - 2-6 at #5, 6-12 in duals, 6-12 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Christina Hand (NW) - 13-1 at #6, 13-1 in duals, 13-4 overall<br>  
-Emily Thomas (XAV) - 2-0 at #6, 8-4 in duals, 8-4 overall
+Christina Hand (NW) - 13-1 at #6, 13-1 in duals, 13-4 overall<br>Emily Thomas (XAV) - 2-0 at #6, 8-4 in duals, 8-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

@@ -45,47 +45,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***TEX*** - #1 Texas def. #4 Denver  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Peyton Stearns (TEX) - 10-3 at #1, 10-3 in duals, 14-6 overall<br>  
-Anna Riedmiller (DEN) - 6-0 at #1, 14-1 in duals, 14-1 overall
+Peyton Stearns (TEX) - 10-3 at #1, 10-3 in duals, 14-6 overall<br>Anna Riedmiller (DEN) - 6-0 at #1, 14-1 in duals, 14-1 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Anna Turati (TEX) - 9-2 at #2, 17-3 in duals, 17-3 overall<br>  
-Taylor Melville (DEN) - 5-0 at #2, 9-4 in duals, 9-4 overall
+Anna Turati (TEX) - 9-2 at #2, 17-3 in duals, 17-3 overall<br>Taylor Melville (DEN) - 5-0 at #2, 9-4 in duals, 9-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Lulu Sun (TEX) - 12-1 at #3, 18-2 in duals, 18-2 overall<br>  
-Britt Pursell (DEN) - 11-3 at #3, 12-3 in duals, 12-3 overall
+Lulu Sun (TEX) - 12-1 at #3, 18-2 in duals, 18-2 overall<br>Britt Pursell (DEN) - 11-3 at #3, 12-3 in duals, 12-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Charlotte Chavatipon (TEX) - 16-1 at #4, 20-1 in duals, 23-1 overall<br>  
-Camille Verden-Anderson (DEN) - 3-1 at #4, 8-2 in duals, 8-2 overall
+Charlotte Chavatipon (TEX) - 16-1 at #4, 20-1 in duals, 23-1 overall<br>Camille Verden-Anderson (DEN) - 3-1 at #4, 8-2 in duals, 8-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Kylie Collins (TEX) - 9-2 at #5, 16-2 in duals, 16-2 overall<br>  
-Hada Chang (DEN) - 5-2 at #5, 7-2 in duals, 7-2 overall
+Kylie Collins (TEX) - 9-2 at #5, 16-2 in duals, 16-2 overall<br>Hada Chang (DEN) - 5-2 at #5, 7-2 in duals, 7-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Fernanda Labrana (TEX) - 5-1 at #6, 14-1 in duals, 21-2 overall<br>  
-Tatum Burger (DEN) - 2-0 at #6, 8-6 in duals, 8-6 overall
+Fernanda Labrana (TEX) - 5-1 at #6, 14-1 in duals, 21-2 overall<br>Tatum Burger (DEN) - 2-0 at #6, 8-6 in duals, 8-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

@@ -45,47 +45,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***DUKE*** - #2 Duke def. #3 Alabama  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall<br>  
-Loudmilla Bencheikh (BAMA) - 2-5 at #1, 2-5 in duals, 2-5 overall
+Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall<br>Loudmilla Bencheikh (BAMA) - 2-5 at #1, 2-5 in duals, 2-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall<br>  
-Alba Cortina Pou (BAMA) - 3-2 at #2, 15-4 in duals, 15-7 overall
+Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall<br>Alba Cortina Pou (BAMA) - 3-2 at #2, 15-4 in duals, 15-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall<br>  
-Anna Parkhomenko (BAMA) - 0-6 at #3, 11-7 in duals, 15-11 overall
+Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall<br>Anna Parkhomenko (BAMA) - 0-6 at #3, 11-7 in duals, 15-11 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall<br>  
-Anne Marie Hiser (BAMA) - 4-0 at #4, 13-8 in duals, 17-10 overall
+Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall<br>Anne Marie Hiser (BAMA) - 4-0 at #4, 13-8 in duals, 17-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall<br>  
-Sydney Riley (BAMA) - 2-0 at #5, 12-7 in duals, 14-13 overall
+Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall<br>Sydney Riley (BAMA) - 2-0 at #5, 12-7 in duals, 14-13 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Karolina Berankova (DUKE) - 7-7 at #6, 9-9 in duals, 10-11 overall<br>  
-Sydney Orefice (BAMA) - 2-0 at #6, 2-0 in duals, 2-5 overall
+Karolina Berankova (DUKE) - 7-7 at #6, 9-9 in duals, 10-11 overall<br>Sydney Orefice (BAMA) - 2-0 at #6, 2-0 in duals, 2-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***MISS*** - #1 Ole Miss def. #4 Belmont  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Tim Sandkaulen (MISS) - 1-7 at #1, 8-12 in duals, 13-16 overall<br>  
-Marko Ilic (BEL) - 13-4 at #1, 13-4 in duals, 13-4 overall
+Tim Sandkaulen (MISS) - 1-7 at #1, 8-12 in duals, 13-16 overall<br>Marko Ilic (BEL) - 13-4 at #1, 13-4 in duals, 13-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Finn Reynolds (MISS) - 6-1 at #2, 10-10 in duals, 10-10 overall<br>  
-Arthur Toledo (BEL) - 13-3 at #2, 13-3 in duals, 13-3 overall
+Finn Reynolds (MISS) - 6-1 at #2, 10-10 in duals, 10-10 overall<br>Arthur Toledo (BEL) - 13-3 at #2, 13-3 in duals, 13-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Nikola Slavic (MISS) - 12-7 at #3, 13-7 in duals, 13-7 overall<br>  
-Tomas Luis (BEL) - 7-5 at #3, 10-7 in duals, 10-7 overall
+Nikola Slavic (MISS) - 12-7 at #3, 13-7 in duals, 13-7 overall<br>Tomas Luis (BEL) - 7-5 at #3, 10-7 in duals, 10-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-John Hallquist Lithen (MISS) - 5-6 at #4, 12-7 in duals, 12-7 overall<br>  
-Diego Castro (BEL) - 6-4 at #4, 10-6 in duals, 10-6 overall
+John Hallquist Lithen (MISS) - 5-6 at #4, 12-7 in duals, 12-7 overall<br>Diego Castro (BEL) - 6-4 at #4, 10-6 in duals, 10-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Simon Junk (MISS) - 2-6 at #5, 9-11 in duals, 9-14 overall<br>  
-Taisei Miyamoto (BEL) - 5-3 at #5, 8-7 in duals, 8-7 overall
+Simon Junk (MISS) - 2-6 at #5, 9-11 in duals, 9-14 overall<br>Taisei Miyamoto (BEL) - 5-3 at #5, 8-7 in duals, 8-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Lukas Engelhardt (MISS) - 3-4 at #6, 3-7 in duals, 3-7 overall<br>  
-Alfred Wallin (BEL) - 9-4 at #6, 11-4 in duals, 11-4 overall
+Lukas Engelhardt (MISS) - 3-4 at #6, 3-7 in duals, 3-7 overall<br>Alfred Wallin (BEL) - 9-4 at #6, 11-4 in duals, 11-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

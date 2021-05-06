@@ -43,47 +43,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***TTU*** - #2 Texas Tech def. #3 San Diego  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Lisa Mays (TTU) - 9-7 at #1, 10-7 in duals, 12-8 overall<br>  
-Solymar Colling (USD) - 14-4 at #1, 14-4 in duals, 14-3 overall
+Lisa Mays (TTU) - 9-7 at #1, 10-7 in duals, 12-8 overall<br>Solymar Colling (USD) - 14-4 at #1, 14-4 in duals, 14-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Margarita Skriabina (TTU) - 2-0 at #2, 16-1 in duals, 18-2 overall<br>  
-Elizabeth Goldsmith (USD) - 11-3 at #2, 11-3 in duals, 11-3 overall
+Margarita Skriabina (TTU) - 2-0 at #2, 16-1 in duals, 18-2 overall<br>Elizabeth Goldsmith (USD) - 11-3 at #2, 11-3 in duals, 11-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Kaitlin Staines (TTU) - 0-0 at #3, 6-9 in duals, 9-11 overall<br>  
-Jordyn McBride (USD) - 12-3 at #3, 14-3 in duals, 14-3 overall
+Kaitlin Staines (TTU) - 0-0 at #3, 6-9 in duals, 9-11 overall<br>Jordyn McBride (USD) - 12-3 at #3, 14-3 in duals, 14-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Nell Miller (TTU) - 11-4 at #4, 14-6 in duals, 16-10 overall<br>  
-Abigail Desiatnikov (USD) - 6-3 at #4, 12-4 in duals, 12-4 overall
+Nell Miller (TTU) - 11-4 at #4, 14-6 in duals, 16-10 overall<br>Abigail Desiatnikov (USD) - 6-3 at #4, 12-4 in duals, 12-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Olivia Peet (TTU) - 9-6 at #5, 10-6 in duals, 12-6 overall<br>  
-Victoria Kalaitzis (USD) - 8-2 at #5, 12-4 in duals, 12-4 overall
+Olivia Peet (TTU) - 9-6 at #5, 10-6 in duals, 12-6 overall<br>Victoria Kalaitzis (USD) - 8-2 at #5, 12-4 in duals, 12-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Metka Komac (TTU) - 9-4 at #6, 10-5 in duals, 12-6 overall<br>  
-Katharina Kukaras (USD) - 5-3 at #6, 11-4 in duals, 11-4 overall
+Metka Komac (TTU) - 9-4 at #6, 10-5 in duals, 12-6 overall<br>Katharina Kukaras (USD) - 5-3 at #6, 11-4 in duals, 11-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

@@ -43,47 +43,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***UCF*** - #1 UCF def. #4 Monmouth  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Gabriel Decamps (UCF) - 16-4 at #1, 16-4 in duals, 16-4 overall<br>  
-William Cooke Wharton (MONM) - 9-4 at #1, 9-4 in duals, 9-4 overall
+Gabriel Decamps (UCF) - 16-4 at #1, 16-4 in duals, 16-4 overall<br>William Cooke Wharton (MONM) - 9-4 at #1, 9-4 in duals, 9-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Alan Rubio (UCF) - 8-5 at #2, 12-7 in duals, 12-7 overall<br>  
-Max Benaim (MONM) - 7-4 at #2, 8-4 in duals, 8-4 overall
+Alan Rubio (UCF) - 8-5 at #2, 12-7 in duals, 12-7 overall<br>Max Benaim (MONM) - 7-4 at #2, 8-4 in duals, 8-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Juan Pablo Mazzuchi (UCF) - 10-4 at #3, 15-5 in duals, 15-5 overall<br>  
-Victor Castro (MONM) - 4-0 at #3, 13-2 in duals, 13-2 overall
+Juan Pablo Mazzuchi (UCF) - 10-4 at #3, 15-5 in duals, 15-5 overall<br>Victor Castro (MONM) - 4-0 at #3, 13-2 in duals, 13-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Kento Yamada (UCF) - 10-1 at #4, 17-1 in duals, 17-1 overall<br>  
-Lucca Silva (MONM) - 1-1 at #4, 8-4 in duals, 8-4 overall
+Kento Yamada (UCF) - 10-1 at #4, 17-1 in duals, 17-1 overall<br>Lucca Silva (MONM) - 1-1 at #4, 8-4 in duals, 8-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Trey Hilderbrand (UCF) - 10-1 at #5, 17-4 in duals, 17-4 overall<br>  
-Sergio Martinez (MONM) - 10-2 at #5, 12-2 in duals, 12-2 overall
+Trey Hilderbrand (UCF) - 10-1 at #5, 17-4 in duals, 17-4 overall<br>Sergio Martinez (MONM) - 10-2 at #5, 12-2 in duals, 12-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Mikhail Sokolovskiy (UCF) - 13-4 at #6, 14-5 in duals, 14-5 overall<br>  
-Gabriel Busato (MONM) - 12-1 at #6, 14-2 in duals, 14-2 overall
+Mikhail Sokolovskiy (UCF) - 13-4 at #6, 14-5 in duals, 14-5 overall<br>Gabriel Busato (MONM) - 12-1 at #6, 14-2 in duals, 14-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

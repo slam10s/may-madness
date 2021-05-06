@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***WAKE*** - #1 Wake Forest def. #4 South Carolina St.  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Henri Squire (WAKE) - 15-6 at #1, 15-6 in duals, 15-6 overall<br>  
-Aleksa Daskalovic (SCST) - 2-6 at #1, 2-7 in duals, 2-7 overall
+Henri Squire (WAKE) - 15-6 at #1, 15-6 in duals, 15-6 overall<br>Aleksa Daskalovic (SCST) - 2-6 at #1, 2-7 in duals, 2-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Eduardo Nava (WAKE) - 6-3 at #2, 17-4 in duals, 17-4 overall<br>  
-Marcelo Rodriguez (SCST) - 5-3 at #2, 5-4 in duals, 5-4 overall
+Eduardo Nava (WAKE) - 6-3 at #2, 17-4 in duals, 17-4 overall<br>Marcelo Rodriguez (SCST) - 5-3 at #2, 5-4 in duals, 5-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Taha Baadi (WAKE) - 6-2 at #3, 13-8 in duals, 13-8 overall<br>  
-Elyes Marouani (SCST) - 9-2 at #3, 9-2 in duals, 9-2 overall
+Taha Baadi (WAKE) - 6-2 at #3, 13-8 in duals, 13-8 overall<br>Elyes Marouani (SCST) - 9-2 at #3, 9-2 in duals, 9-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Rrezart Cungu (WAKE) - 7-3 at #4, 20-4 in duals, 20-4 overall<br>  
-Omer Gorgun (SCST) - 6-3 at #4, 6-3 in duals, 6-3 overall
+Rrezart Cungu (WAKE) - 7-3 at #4, 20-4 in duals, 20-4 overall<br>Omer Gorgun (SCST) - 6-3 at #4, 6-3 in duals, 6-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Melios Efstathiou (WAKE) - 6-2 at #5, 12-6 in duals, 12-6 overall<br>  
-Diego Arzaluz (SCST) - 5-3 at #5, 5-3 in duals, 5-3 overall
+Melios Efstathiou (WAKE) - 6-2 at #5, 12-6 in duals, 12-6 overall<br>Diego Arzaluz (SCST) - 5-3 at #5, 5-3 in duals, 5-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Sid Banthia (WAKE) - 7-1 at #6, 19-3 in duals, 19-3 overall<br>  
-Luka Stefanovic (SCST) - 4-1 at #6, 4-1 in duals, 4-1 overall
+Sid Banthia (WAKE) - 7-1 at #6, 19-3 in duals, 19-3 overall<br>Luka Stefanovic (SCST) - 4-1 at #6, 4-1 in duals, 4-1 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

@@ -45,47 +45,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***MSST*** - #2 Mississippi St. def. #3 Miami (FL)  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Adria Soriano Barrera (MIA) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>  
-Giovanni Oradini (MSST) - 11-7 at #1, 11-10 in duals, 17-14 overall
+Adria Soriano Barrera (MIA) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>Giovanni Oradini (MSST) - 11-7 at #1, 11-10 in duals, 17-14 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Bojan Jankulovski (MIA) - 5-4 at #2, 9-5 in duals, 9-5 overall<br>  
-Florian Broska (MSST) - 10-5 at #2, 14-8 in duals, 20-12 overall
+Bojan Jankulovski (MIA) - 5-4 at #2, 9-5 in duals, 9-5 overall<br>Florian Broska (MSST) - 10-5 at #2, 14-8 in duals, 20-12 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Benjamin Hannestad (MIA) - 5-5 at #3, 6-10 in duals, 6-10 overall<br>  
-Nemanja Malesevic (MSST) - 9-5 at #3, 15-7 in duals, 20-11 overall
+Benjamin Hannestad (MIA) - 5-5 at #3, 6-10 in duals, 6-10 overall<br>Nemanja Malesevic (MSST) - 9-5 at #3, 15-7 in duals, 20-11 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Stefan Milicevic (MIA) - 4-7 at #4, 5-10 in duals, 5-10 overall<br>  
-Alberto Colas (MSST) - 6-7 at #4, 14-8 in duals, 4-6 overall
+Stefan Milicevic (MIA) - 4-7 at #4, 5-10 in duals, 5-10 overall<br>Alberto Colas (MSST) - 6-7 at #4, 14-8 in duals, 4-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Oren Vasser (MIA) - 3-1 at #5, 9-6 in duals, 9-6 overall<br>  
-Carles Hernandez (MSST) - 9-8 at #5, 14-8 in duals, 14-8 overall
+Oren Vasser (MIA) - 3-1 at #5, 9-6 in duals, 9-6 overall<br>Carles Hernandez (MSST) - 9-8 at #5, 14-8 in duals, 14-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Franco Aubone (MIA) - 1-4 at #6, 7-10 in duals, 7-10 overall<br>  
-Davide Tortora (MSST) - 7-3 at #6, 7-3 in duals, 13-7 overall
+Franco Aubone (MIA) - 1-4 at #6, 7-10 in duals, 7-10 overall<br>Davide Tortora (MSST) - 7-3 at #6, 7-3 in duals, 13-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

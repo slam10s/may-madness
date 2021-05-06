@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***UGA*** - #1 Georgia def. #4 Austin Peay  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Katarina Jokic (UGA) - 15-0 at #1, 15-0 in duals, 24-1 overall<br>  
-Fabienne Schmidt (PEAY) - 10-5 at #1, 10-5 in duals, 10-5 overall
+Katarina Jokic (UGA) - 15-0 at #1, 15-0 in duals, 24-1 overall<br>Fabienne Schmidt (PEAY) - 10-5 at #1, 10-5 in duals, 10-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Lea Ma (UGA) - 13-3 at #2, 13-3 in duals, 14-4 overall<br>  
-Danielle Morris (PEAY) - 9-5 at #2, 9-5 in duals, 9-5 overall
+Lea Ma (UGA) - 13-3 at #2, 13-3 in duals, 14-4 overall<br>Danielle Morris (PEAY) - 9-5 at #2, 9-5 in duals, 9-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Meg Kowalski (UGA) - 12-1 at #3, 12-1 in duals, 22-1 overall<br>  
-Jana Leder (PEAY) - 12-2 at #3, 12-2 in duals, 12-2 overall
+Meg Kowalski (UGA) - 12-1 at #3, 12-1 in duals, 22-1 overall<br>Jana Leder (PEAY) - 12-2 at #3, 12-2 in duals, 12-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Morgan Coppoc (UGA) - 15-2 at #4, 15-2 in duals, 23-5 overall<br>  
-Aleks Topalovic (PEAY) - 4-3 at #4, 9-5 in duals, 9-5 overall
+Morgan Coppoc (UGA) - 15-2 at #4, 15-2 in duals, 23-5 overall<br>Aleks Topalovic (PEAY) - 4-3 at #4, 9-5 in duals, 9-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Marta Gonzalez (UGA) - 1-1 at #5, 2-1 in duals, 11-1 overall<br>  
-Martina Paladini-Jennings (PEAY) - 4-4 at #5, 7-7 in duals, 7-7 overall
+Marta Gonzalez (UGA) - 1-1 at #5, 2-1 in duals, 11-1 overall<br>Martina Paladini-Jennings (PEAY) - 4-4 at #5, 7-7 in duals, 7-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Elena Christofi (UGA) - 9-0 at #6, 10-2 in duals, 17-4 overall<br>  
-Honoka Nakanishi (PEAY) - 7-3 at #6, 7-3 in duals, 7-3 overall
+Elena Christofi (UGA) - 9-0 at #6, 10-2 in duals, 17-4 overall<br>Honoka Nakanishi (PEAY) - 7-3 at #6, 7-3 in duals, 7-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

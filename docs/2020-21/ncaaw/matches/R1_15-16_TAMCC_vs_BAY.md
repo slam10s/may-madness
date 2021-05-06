@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***BAY*** - #1 Baylor def. #4 A&M-Corpus Christi  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Melany Krywoj (BAY) - 11-6 at #1, 11-6 in duals, 19-10 overall<br>  
-Mariya Shumeika (TAMCC) - 7-3 at #1, 19-3 in duals, 19-3 overall
+Melany Krywoj (BAY) - 11-6 at #1, 11-6 in duals, 19-10 overall<br>Mariya Shumeika (TAMCC) - 7-3 at #1, 19-3 in duals, 19-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Jessica Hinojosa (BAY) - 7-6 at #2, 12-10 in duals, 18-15 overall<br>  
-Camille Townsend (TAMCC) - 6-3 at #2, 14-6 in duals, 14-6 overall
+Jessica Hinojosa (BAY) - 7-6 at #2, 12-10 in duals, 18-15 overall<br>Camille Townsend (TAMCC) - 6-3 at #2, 14-6 in duals, 14-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Alicia Herrero (BAY) - 4-4 at #3, 13-8 in duals, 20-13 overall<br>  
-Emma Honore (TAMCC) - 16-4 at #3, 16-6 in duals, 15-6 overall
+Alicia Herrero (BAY) - 4-4 at #3, 13-8 in duals, 20-13 overall<br>Emma Honore (TAMCC) - 16-4 at #3, 16-6 in duals, 15-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Angie Shakhraichuck (BAY) - 6-4 at #4, 17-5 in duals, 24-10 overall<br>  
-Emma Aucagne (TAMCC) - 20-1 at #4, 22-1 in duals, 22-1 overall
+Angie Shakhraichuck (BAY) - 6-4 at #4, 17-5 in duals, 24-10 overall<br>Emma Aucagne (TAMCC) - 20-1 at #4, 22-1 in duals, 22-1 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Kristina Sorokolet (BAY) - 4-1 at #5, 11-3 in duals, 18-5 overall<br>  
-Leopoldine Boisseau (TAMCC) - 14-3 at #5, 17-3 in duals, 17-3 overall
+Kristina Sorokolet (BAY) - 4-1 at #5, 11-3 in duals, 18-5 overall<br>Leopoldine Boisseau (TAMCC) - 14-3 at #5, 17-3 in duals, 17-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Paula Baranano (BAY) - 5-2 at #6, 12-3 in duals, 12-3 overall<br>  
-Victoire Delattre (TAMCC) - 14-2 at #6, 17-2 in duals, 17-2 overall
+Paula Baranano (BAY) - 5-2 at #6, 12-3 in duals, 12-3 overall<br>Victoire Delattre (TAMCC) - 14-2 at #6, 17-2 in duals, 17-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

@@ -45,47 +45,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***TTU*** - #2 Texas Tech def. #3 Virginia Tech  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall<br>  
-Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall
+Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall<br>Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Alex Ribeiro (VT) - 2-1 at #2, 5-5 in duals, 5-5 overall<br>  
-Ilgiz Valiev (TTU) - 10-6 at #2, 11-7 in duals, 14-13 overall
+Alex Ribeiro (VT) - 2-1 at #2, 5-5 in duals, 5-5 overall<br>Ilgiz Valiev (TTU) - 10-6 at #2, 11-7 in duals, 14-13 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Matt Ross (VT) - 1-1 at #3, 8-12 in duals, 8-12 overall<br>  
-Franco Ribero (TTU) - 7-4 at #3, 8-5 in duals, 11-11 overall
+Matt Ross (VT) - 1-1 at #3, 8-12 in duals, 8-12 overall<br>Franco Ribero (TTU) - 7-4 at #3, 8-5 in duals, 11-11 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Carlo Donato (VT) - 0-2 at #4, 5-13 in duals, 5-13 overall<br>  
-Reed Collier (TTU) - 6-5 at #4, 7-7 in duals, 14-8 overall
+Carlo Donato (VT) - 0-2 at #4, 5-13 in duals, 5-13 overall<br>Reed Collier (TTU) - 6-5 at #4, 7-7 in duals, 14-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Hugo Maia (VT) - 0-2 at #5, 13-6 in duals, 13-6 overall<br>  
-Dimi Azoides (TTU) - 8-3 at #5, 12-4 in duals, 15-10 overall
+Hugo Maia (VT) - 0-2 at #5, 13-6 in duals, 13-6 overall<br>Dimi Azoides (TTU) - 8-3 at #5, 12-4 in duals, 15-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Ryan Fishback (VT) - 4-1 at #6, 13-6 in duals, 13-6 overall<br>  
-Isaac Arevalo (TTU) - 5-4 at #6, 8-5 in duals, 14-7 overall
+Ryan Fishback (VT) - 4-1 at #6, 13-6 in duals, 13-6 overall<br>Isaac Arevalo (TTU) - 5-4 at #6, 8-5 in duals, 14-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

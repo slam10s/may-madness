@@ -43,47 +43,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***MISS*** - #2 Ole Miss def. #3 North Florida  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Lucia Montano (UNF) - 14-8 at #1, 14-8 in duals, 14-8 overall<br>  
-Sabina Machalova (MISS) - 5-8 at #1, 8-8 in duals, 15-8 overall
+Lucia Montano (UNF) - 14-8 at #1, 14-8 in duals, 14-8 overall<br>Sabina Machalova (MISS) - 5-8 at #1, 8-8 in duals, 15-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Catherine Gulihur (UNF) - 17-3 at #2, 18-3 in duals, 18-3 overall<br>  
-Tiphanie Fiquet (MISS) - 8-4 at #2, 9-5 in duals, 14-8 overall
+Catherine Gulihur (UNF) - 17-3 at #2, 18-3 in duals, 18-3 overall<br>Tiphanie Fiquet (MISS) - 8-4 at #2, 9-5 in duals, 14-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Constanza Gorches (UNF) - 4-3 at #3, 13-9 in duals, 13-9 overall<br>  
-Tereza Janatova (MISS) - 9-3 at #3, 10-3 in duals, 11-3 overall
+Constanza Gorches (UNF) - 4-3 at #3, 13-9 in duals, 13-9 overall<br>Tereza Janatova (MISS) - 9-3 at #3, 10-3 in duals, 11-3 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Summer Yardley (UNF) - 3-3 at #4, 11-9 in duals, 11-9 overall<br>  
-Anna Vrbenska (MISS) - 9-4 at #4, 9-4 in duals, 8-4 overall
+Summer Yardley (UNF) - 3-3 at #4, 11-9 in duals, 11-9 overall<br>Anna Vrbenska (MISS) - 9-4 at #4, 9-4 in duals, 8-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Annabelle Davis (UNF) - 6-0 at #5, 10-1 in duals, 10-1 overall<br>  
-Reka Zadori (MISS) - 4-1 at #5, 9-3 in duals, 12-9 overall
+Annabelle Davis (UNF) - 6-0 at #5, 10-1 in duals, 10-1 overall<br>Reka Zadori (MISS) - 4-1 at #5, 9-3 in duals, 12-9 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Valentina Mariotto (UNF) - 3-1 at #6, 8-7 in duals, 8-7 overall<br>  
-Lillian Gabrielsen (MISS) - 2-1 at #6, 5-3 in duals, 8-8 overall
+Valentina Mariotto (UNF) - 3-1 at #6, 8-7 in duals, 8-7 overall<br>Lillian Gabrielsen (MISS) - 2-1 at #6, 5-3 in duals, 8-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

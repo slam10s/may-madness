@@ -45,47 +45,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***TCU*** - #1 TCU def. #4 Arkansas  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Alastair Gray (TCU) - 6-4 at #1, 13-7 in duals, 13-7 overall<br>  
-Alex Reco (ARK) - 2-11 at #1, 7-11 in duals, 8-12 overall
+Alastair Gray (TCU) - 6-4 at #1, 13-7 in duals, 13-7 overall<br>Alex Reco (ARK) - 2-11 at #1, 7-11 in duals, 8-12 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Luc Fomba (TCU) - 7-3 at #2, 12-6 in duals, 12-6 overall<br>  
-Max Verboven (ARK) - 1-7 at #2, 3-12 in duals, 3-12 overall
+Luc Fomba (TCU) - 7-3 at #2, 12-6 in duals, 12-6 overall<br>Max Verboven (ARK) - 1-7 at #2, 3-12 in duals, 3-12 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Sander Jong (TCU) - 10-5 at #3, 10-7 in duals, 11-8 overall<br>  
-Nico Rousett (ARK) - 8-5 at #3, 12-9 in duals, 15-12 overall
+Sander Jong (TCU) - 10-5 at #3, 10-7 in duals, 11-8 overall<br>Nico Rousett (ARK) - 8-5 at #3, 12-9 in duals, 15-12 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Jake Fearnley (TCU) - 4-2 at #4, 8-3 in duals, 8-3 overall<br>  
-Aleksa Bucan (ARK) - 3-4 at #4, 6-8 in duals, 10-10 overall
+Jake Fearnley (TCU) - 4-2 at #4, 8-3 in duals, 8-3 overall<br>Aleksa Bucan (ARK) - 3-4 at #4, 6-8 in duals, 10-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Tomas Jirousek (TCU) - 1-1 at #5, 6-5 in duals, 7-6 overall<br>  
-Adrien Burdet (ARK) - 11-10 at #5, 11-13 in duals, 11-13 overall
+Tomas Jirousek (TCU) - 1-1 at #5, 6-5 in duals, 7-6 overall<br>Adrien Burdet (ARK) - 11-10 at #5, 11-13 in duals, 11-13 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Tadeas Paroulek (TCU) - 1-3 at #6, 7-11 in duals, 7-12 overall<br>  
-Enrique Paya (ARK) - 6-10 at #6, 6-11 in duals, 6-11 overall
+Tadeas Paroulek (TCU) - 1-3 at #6, 7-11 in duals, 7-12 overall<br>Enrique Paya (ARK) - 6-10 at #6, 6-11 in duals, 6-11 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

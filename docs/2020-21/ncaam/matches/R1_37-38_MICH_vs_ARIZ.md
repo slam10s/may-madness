@@ -46,47 +46,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***ARIZ*** - #2 Arizona def. #3 Michigan  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Gustaf Strom (ARIZ) - 3-1 at #1, 17-2 in duals, 17-2 overall<br>  
-Andrew Fenty (MICH) - 10-3 at #1, 13-4 in duals, 16-9 overall
+Gustaf Strom (ARIZ) - 3-1 at #1, 17-2 in duals, 17-2 overall<br>Andrew Fenty (MICH) - 10-3 at #1, 13-4 in duals, 16-9 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Jonas Ziverts (ARIZ) - 1-1 at #2, 9-8 in duals, 9-8 overall<br>  
-Ondrej Styler (MICH) - 7-3 at #2, 8-4 in duals, 12-7 overall
+Jonas Ziverts (ARIZ) - 1-1 at #2, 9-8 in duals, 9-8 overall<br>Ondrej Styler (MICH) - 7-3 at #2, 8-4 in duals, 12-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Filip Malbasic (ARIZ) - 5-4 at #3, 14-9 in duals, 14-9 overall<br>  
-Patrick Maloney (MICH) - 7-3 at #3, 9-4 in duals, 9-4 overall
+Filip Malbasic (ARIZ) - 5-4 at #3, 14-9 in duals, 14-9 overall<br>Patrick Maloney (MICH) - 7-3 at #3, 9-4 in duals, 9-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Herman Hoeyeraal (ARIZ) - 0-0 at #4, 4-0 in duals, 4-0 overall<br>  
-Mattias Siimar (MICH) - 8-1 at #4, 14-3 in duals, 17-6 overall
+Herman Hoeyeraal (ARIZ) - 0-0 at #4, 4-0 in duals, 4-0 overall<br>Mattias Siimar (MICH) - 8-1 at #4, 14-3 in duals, 17-6 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Alejandro Reguant (ARIZ) - 0-0 at #5, 13-6 in duals, 13-6 overall<br>  
-Nick Beaty (MICH) - 8-2 at #5, 13-2 in duals, 19-4 overall
+Alejandro Reguant (ARIZ) - 0-0 at #5, 13-6 in duals, 13-6 overall<br>Nick Beaty (MICH) - 8-2 at #5, 13-2 in duals, 19-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Carlos Hassey (ARIZ) - 1-1 at #6, 12-7 in duals, 12-7 overall<br>  
-Nino Ehrenschneider (MICH) - 3-1 at #6, 4-1 in duals, 6-2 overall
+Carlos Hassey (ARIZ) - 1-1 at #6, 12-7 in duals, 12-7 overall<br>Nino Ehrenschneider (MICH) - 3-1 at #6, 4-1 in duals, 6-2 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

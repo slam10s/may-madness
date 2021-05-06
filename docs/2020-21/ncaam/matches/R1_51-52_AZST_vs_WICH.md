@@ -45,47 +45,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***AZST*** - #2 Arizona St. def. #3 Wichita St.  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Murkel Dellien (WICH) - 7-0 at #1, 13-2 in duals, 13-2 overall<br>  
-Nathan Ponwtih (AZST) - 14-7 at #1, 15-7 in duals, 15-7 overall
+Murkel Dellien (WICH) - 7-0 at #1, 13-2 in duals, 13-2 overall<br>Nathan Ponwtih (AZST) - 14-7 at #1, 15-7 in duals, 15-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Marius Frosa (WICH) - 6-3 at #2, 11-7 in duals, 11-7 overall<br>  
-Makey Rakotomalala (AZST) - 4-8 at #2, 9-10 in duals, 9-10 overall
+Marius Frosa (WICH) - 6-3 at #2, 11-7 in duals, 11-7 overall<br>Makey Rakotomalala (AZST) - 4-8 at #2, 9-10 in duals, 9-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Stefan Latinovic (WICH) - 4-8 at #3, 9-12 in duals, 9-12 overall<br>  
-Tim Ruehl (AZST) - 6-2 at #3, 10-5 in duals, 10-5 overall
+Stefan Latinovic (WICH) - 4-8 at #3, 9-12 in duals, 9-12 overall<br>Tim Ruehl (AZST) - 6-2 at #3, 10-5 in duals, 10-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Nicolas Acevedo (WICH) - 7-4 at #4, 12-8 in duals, 12-8 overall<br>  
-George Stoupe (AZST) - 4-4 at #4, 10-10 in duals, 10-10 overall
+Nicolas Acevedo (WICH) - 7-4 at #4, 12-8 in duals, 12-8 overall<br>George Stoupe (AZST) - 4-4 at #4, 10-10 in duals, 10-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Orel Ovil (WICH) - 6-3 at #5, 10-10 in duals, 10-10 overall<br>  
-Max McKennon (AZST) - 3-2 at #5, 4-5 in duals, 4-5 overall
+Orel Ovil (WICH) - 6-3 at #5, 10-10 in duals, 10-10 overall<br>Max McKennon (AZST) - 3-2 at #5, 4-5 in duals, 4-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Luka Mrsic (WICH) - 8-6 at #6, 9-6 in duals, 9-6 overall<br>  
-Christian Lerby (AZST) - 9-5 at #6, 12-7 in duals, 12-7 overall
+Luka Mrsic (WICH) - 8-6 at #6, 9-6 in duals, 9-6 overall<br>Christian Lerby (AZST) - 9-5 at #6, 12-7 in duals, 12-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>

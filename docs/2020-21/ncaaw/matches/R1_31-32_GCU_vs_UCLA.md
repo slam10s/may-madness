@@ -44,47 +44,38 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Seeding: ***UCLA*** - #1 UCLA def. #4 Grand Canyon  
 
 ## Individual Matchups  
-
 This assumes the top players and doubles teams listed are starting.  
-
 Click on a Singles match to show individual predections for each line.  
-
 ### Singles:  
 
 <ol>
 <li><details><summary markdown="span">
-Abbey Forbes (UCLA) - 17-2 at #1, 18-2 in duals, 18-2 overall<br>  
-Natahsa Puehse (GCU) - 14-4 at #1, 14-4 in duals, 14-4 overall
+Abbey Forbes (UCLA) - 17-2 at #1, 18-2 in duals, 18-2 overall<br>Natahsa Puehse (GCU) - 14-4 at #1, 14-4 in duals, 14-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall<br>  
-Emilia Occhipinti (GCU) - 12-5 at #2, 12-5 in duals, 12-5 overall
+Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall<br>Emilia Occhipinti (GCU) - 12-5 at #2, 12-5 in duals, 12-5 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Elysia Bolton (UCLA) - 5-2 at #3, 9-3 in duals, 9-3 overall<br>  
-Jana Weiss (GCU) - 15-4 at #3, 15-4 in duals, 15-4 overall
+Elysia Bolton (UCLA) - 5-2 at #3, 9-3 in duals, 9-3 overall<br>Jana Weiss (GCU) - 15-4 at #3, 15-4 in duals, 15-4 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Vivian Wolff (UCLA) - 9-4 at #4, 10-6 in duals, 10-6 overall<br>  
-Joely Lomas (GCU) - 9-4 at #4, 10-8 in duals, 10-8 overall
+Vivian Wolff (UCLA) - 9-4 at #4, 10-6 in duals, 10-6 overall<br>Joely Lomas (GCU) - 9-4 at #4, 10-8 in duals, 10-8 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Sasha Vagramov (UCLA) - 5-3 at #5, 9-5 in duals, 9-5 overall<br>  
-Autum Prudhomme (GCU) - 6-4 at #5, 7-10 in duals, 7-10 overall
+Sasha Vagramov (UCLA) - 5-3 at #5, 9-5 in duals, 9-5 overall<br>Autum Prudhomme (GCU) - 6-4 at #5, 7-10 in duals, 7-10 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 <li><details><summary markdown="span">
-Vanessa Ong (UCLA) - 3-1 at #6, 4-1 in duals, 4-1 overall<br>  
-Taylor Andersen (GCU) - 9-5 at #6, 10-7 in duals, 10-7 overall
+Vanessa Ong (UCLA) - 3-1 at #6, 4-1 in duals, 4-1 overall<br>Taylor Andersen (GCU) - 9-5 at #6, 10-7 in duals, 10-7 overall
 </summary><h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
