@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 2:00 EDT
 ## VCU vs Ohio St.
 
-> ***Ohio St.***  
+> ***#2 Ohio St.***  
 > At-Large Bid
 
-> ***VCU***  
+> ***#3 VCU***  
 > Automatic Qualifier

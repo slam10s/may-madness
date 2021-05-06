@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## VCU vs #6 NC State
 
-> ***NC State***  
+> ***#1 NC State***  
 > Regional Host
 
-> ***VCU***  
+> ***#4 VCU***  
 > Automatic Qualifier

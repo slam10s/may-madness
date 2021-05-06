@@ -2,8 +2,8 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## Tulane vs Middle Tenn.
 
-> ***Middle Tenn.***  
+> ***#3 Middle Tenn.***  
 > Automatic Qualifier
 
-> ***Tulane***  
+> ***#2 Tulane***  
 > At-Large Bid

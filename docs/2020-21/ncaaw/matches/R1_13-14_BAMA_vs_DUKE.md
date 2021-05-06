@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## Alabama vs Duke
 
-> ***Duke***  
+> ***#2 Duke***  
 > At-Large Bid
 
-> ***Alabama***  
+> ***#3 Alabama***  
 > At-Large Bid

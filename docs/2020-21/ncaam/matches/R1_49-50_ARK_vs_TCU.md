@@ -2,8 +2,8 @@ First Round
 Saturday, May 8 at 3:00 EDT
 ## Arkansas vs #7 TCU
 
-> ***TCU***  
+> ***#1 TCU***  
 > Regional Host
 
-> ***Arkansas***  
+> ***#4 Arkansas***  
 > At-Large Bid

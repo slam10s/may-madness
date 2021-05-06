@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## Wake Forest vs Furman
 
-> ***Furman***  
+> ***#3 Furman***  
 > Automatic Qualifier
 
-> ***Wake Forest***  
+> ***#2 Wake Forest***  
 > At-Large Bid

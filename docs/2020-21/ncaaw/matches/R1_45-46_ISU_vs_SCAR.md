@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 12:00 EDT
 ## Iowa St. vs South Carolina
 
-> ***South Carolina***  
+> ***#2 South Carolina***  
 > At-Large Bid
 
-> ***Iowa St.***  
+> ***#3 Iowa St.***  
 > At-Large Bid

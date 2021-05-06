@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 2:00 EDT
 ## UIC vs #15 Ohio St.
 
-> ***Ohio St.***  
+> ***#1 Ohio St.***  
 > Regional Host
 
-> ***UIC***  
+> ***#4 UIC***  
 > Automatic Qualifier

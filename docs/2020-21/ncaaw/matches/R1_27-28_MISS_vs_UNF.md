@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 11:00 EDT
 ## Ole Miss vs North Florida
 
-> ***North Florida***  
+> ***#3 North Florida***  
 > Automatic Qualifier
 
-> ***Ole Miss***  
+> ***#2 Ole Miss***  
 > At-Large Bid

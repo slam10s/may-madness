@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## LIU vs #14 Virginia
 
-> ***Virginia***  
+> ***#1 Virginia***  
 > Regional Host
 
-> ***LIU***  
+> ***#4 LIU***  
 > Automatic Qualifier

@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## Michigan vs Arizona
 
-> ***Arizona***  
+> ***#2 Arizona***  
 > At-Large Bid
 
-> ***Michigan***  
+> ***#3 Michigan***  
 > At-Large Bid

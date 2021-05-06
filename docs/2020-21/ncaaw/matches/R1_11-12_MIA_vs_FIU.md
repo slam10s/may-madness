@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 12:00 EDT
 ## Miami (FL) vs FIU
 
-> ***FIU***  
+> ***#3 FIU***  
 > At-Large Bid
 
-> ***Miami (FL)***  
+> ***#2 Miami (FL)***  
 > At-Large Bid

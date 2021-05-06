@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## Syracuse vs Kentucky
 
-> ***Kentucky***  
+> ***#2 Kentucky***  
 > At-Large Bid
 
-> ***Syracuse***  
+> ***#3 Syracuse***  
 > At-Large Bid
