@@ -49,42 +49,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Elizaveta Volodko (UCSB) - 9-4 at #1, 9-4 in duals, 9-4 overall<br>Michaela Gordon (STAN) - 9-6 at #1, 9-6 in duals, 9-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Elizaveta Volodko (UCSB) - 9-4 at #1, 9-4 in duals, 9-4 overall<br>Michaela Gordon (STAN) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Camille Kiss (UCSB) - 10-4 at #2, 10-4 in duals, 10-4 overall<br>Angelica Blake (STAN) - 2-1 at #2, 7-2 in duals, 7-2 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Camille Kiss (UCSB) - 10-4 at #2, 10-4 in duals, 10-4 overall<br>Angelica Blake (STAN) - 2-1 at #2, 7-2 in duals, 7-2 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Shakhnoza Khatamova (UCSB) - 15-2 at #3, 15-2 in duals, 15-2 overall<br>Emily Arbuthnott (STAN) - 1-3 at #3, 8-7 in duals, 8-7 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Shakhnoza Khatamova (UCSB) - 15-2 at #3, 15-2 in duals, 15-2 overall<br>Emily Arbuthnott (STAN) - 1-3 at #3, 8-7 in duals, 8-7 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Lise Sentenac (UCSB) - 6-4 at #4, 6-7 in duals, 6-7 overall<br>Ana Geller (STAN) - 1-3 at #4, 7-3 in duals, 7-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Lise Sentenac (UCSB) - 6-4 at #4, 6-7 in duals, 6-7 overall<br>Ana Geller (STAN) - 1-3 at #4, 7-3 in duals, 7-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Kira Reuter (UCSB) - 5-5 at #5, 5-7 in duals, 5-7 overall<br>Sara Choy (STAN) - 3-2 at #5, 13-4 in duals, 13-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Kira Reuter (UCSB) - 5-5 at #5, 5-7 in duals, 5-7 overall<br>Sara Choy (STAN) - 3-2 at #5, 13-4 in duals, 13-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Marta Gonzalez Ballbe (UCSB) - 6-3 at #6, 7-4 in duals, 7-4 overall<br>Emma Higuchi (STAN) - 10-3 at #6, 14-3 in duals, 14-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Marta Gonzalez Ballbe (UCSB) - 6-3 at #6, 7-4 in duals, 7-4 overall<br>Emma Higuchi (STAN) - 10-3 at #6, 14-3 in duals, 14-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Volodko/Sentenac (UCSB) - 6-6 at #1, 6-6 in duals, 6-6 overall  
-   Gordon/Madurawe (STAN) - 9-5 at #1, 9-5 in duals, 9-5 overall
-2. Reuter/Khatamova (UCSB) - 8-3 at #2, 8-3 in duals, 8-3 overall  
-   Arbuthnott/Blake (STAN) - 6-2 at #2, 6-2 in duals, 6-2 overall
-3. Kiss/Ballbe (UCSB) - 10-2 at #3, 10-2 in duals, 10-2 overall  
-   Choy/Higuchi (STAN) - 7-2 at #3, 7-2 in duals, 7-2 overall
+
+<ol>
+<li>Volodko/Sentenac (UCSB) - 6-6 at #1, 6-6 in duals, 6-6 overall<br>Gordon/Madurawe (STAN) - 9-5 at #1, 9-5 in duals, 9-5 overall<br>&nbsp;</li>
+<li>Reuter/Khatamova (UCSB) - 8-3 at #2, 8-3 in duals, 8-3 overall<br>Arbuthnott/Blake (STAN) - 6-2 at #2, 6-2 in duals, 6-2 overall<br>&nbsp;</li>
+<li>Kiss/Ballbe (UCSB) - 10-2 at #3, 10-2 in duals, 10-2 overall<br>Choy/Higuchi (STAN) - 7-2 at #3, 7-2 in duals, 7-2 overall<br>&nbsp;</li>
+</ol>

@@ -48,42 +48,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Emma Navarro (UVA) - 17-1 at #1, 17-1 in duals, 17-1 overall<br>Sofiya Kuzina (LIU) - 8-1 at #1, 8-1 in duals, 8-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Emma Navarro (UVA) - 17-1 at #1, 17-1 in duals, 17-1 overall<br>Sofiya Kuzina (LIU) - 8-1 at #1, 8-1 in duals, 8-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Natasha Subhash (UVA) - 14-4 at #2, 15-4 in duals, 15-5 overall<br>Valentina Dancenco (LIU) - 7-0 at #2, 7-0 in duals, 7-0 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Natasha Subhash (UVA) - 14-4 at #2, 15-4 in duals, 15-5 overall<br>Valentina Dancenco (LIU) - 7-0 at #2, 7-0 in duals, 7-0 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Rosie Johanson (UVA) - 15-2 at #3, 16-2 in duals, 16-4 overall<br>Victoria Erechtchenko (LIU) - 6-1 at #3, 7-1 in duals, 7-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Rosie Johanson (UVA) - 15-2 at #3, 16-2 in duals, 16-4 overall<br>Victoria Erechtchenko (LIU) - 6-1 at #3, 7-1 in duals, 7-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Hibah Shaikh (UVA) - 4-9 at #4, 6-9 in duals, 7-10 overall<br>Elinor Storkaas (LIU) - 1-4 at #4, 3-4 in duals, 3-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Hibah Shaikh (UVA) - 4-9 at #4, 6-9 in duals, 7-10 overall<br>Elinor Storkaas (LIU) - 1-4 at #4, 3-4 in duals, 3-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Amber O'Dell (UVA) - 1-3 at #5, 10-7 in duals, 10-9 overall<br>Bianca Compuesto (LIU) - 4-0 at #5, 6-0 in duals, 6-0 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Amber O'Dell (UVA) - 1-3 at #5, 10-7 in duals, 10-9 overall<br>Bianca Compuesto (LIU) - 4-0 at #5, 6-0 in duals, 6-0 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Vivian Glozman (UVA) - 2-1 at #6, 7-3 in duals, 8-4 overall<br>Ekaterine Jorjoliani (LIU) - 5-1 at #6, 7-1 in duals, 7-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Vivian Glozman (UVA) - 2-1 at #6, 7-3 in duals, 8-4 overall<br>Ekaterine Jorjoliani (LIU) - 5-1 at #6, 7-1 in duals, 7-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Navarro/Johanson (UVA) - 7-6 at #1, 9-8 in duals, 9-8 overall  
-   Dancenco/Kuzina (LIU) - 6-3 at #1, 6-3 in duals, 6-3 overall
-2. Munera/Subhash (UVA) - 6-5 at #2, 8-5 in duals, 10-7 overall  
-   Erechtchenko/Maduel (LIU) - 0-0 at #2, 7-2 in duals, 7-2 overall
-3. Glozman/Shaikh (UVA) - 1-1 at #3, 1-1 in duals, 1-2 overall  
-   Storkaas/Compuesto (LIU) - 0-0 at #3, 5-3 in duals, 5-3 overall
+
+<ol>
+<li>Navarro/Johanson (UVA) - 7-6 at #1, 9-8 in duals, 9-8 overall<br>Dancenco/Kuzina (LIU) - 6-3 at #1, 6-3 in duals, 6-3 overall<br>&nbsp;</li>
+<li>Munera/Subhash (UVA) - 6-5 at #2, 8-5 in duals, 10-7 overall<br>Erechtchenko/Maduel (LIU) - 0-0 at #2, 7-2 in duals, 7-2 overall<br>&nbsp;</li>
+<li>Glozman/Shaikh (UVA) - 1-1 at #3, 1-1 in duals, 1-2 overall<br>Storkaas/Compuesto (LIU) - 0-0 at #3, 5-3 in duals, 5-3 overall<br>&nbsp;</li>
+</ol>

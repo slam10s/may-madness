@@ -49,42 +49,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Rebeka Mertena (TENN) - 2-2 at #1, 11-6 in duals, 15-14 overall<br>Daria Afanasyeva (JMU) - 10-5 at #1, 10-5 in duals, 10-5 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Rebeka Mertena (TENN) - 2-2 at #1, 11-6 in duals, 15-14 overall<br>Daria Afanasyeva (JMU) - 10-5 at #1, 10-5 in duals, 10-5 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Eleonora Molinaro (TENN) - 1-2 at #2, 3-9 in duals, 3-9 overall<br>Jona Roka (JMU) - 10-4 at #2, 10-4 in duals, 10-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Eleonora Molinaro (TENN) - 1-2 at #2, 3-9 in duals, 3-9 overall<br>Jona Roka (JMU) - 10-4 at #2, 10-4 in duals, 10-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Carly Briggs (TENN) - 3-4 at #3, 6-12 in duals, 15-15 overall<br>Natalia Nikolopoulou (JMU) - 7-5 at #3, 8-5 in duals, 8-5 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Carly Briggs (TENN) - 3-4 at #3, 6-12 in duals, 15-15 overall<br>Natalia Nikolopoulou (JMU) - 7-5 at #3, 8-5 in duals, 8-5 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Daria Kuczer (TENN) - 8-1 at #4, 19-2 in duals, 25-7 overall<br>Kylie Moulin (JMU) - 12-1 at #4, 13-2 in duals, 13-2 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Daria Kuczer (TENN) - 8-1 at #4, 19-2 in duals, 25-7 overall<br>Kylie Moulin (JMU) - 12-1 at #4, 13-2 in duals, 13-2 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Tenika McGiffin (TENN) - 6-0 at #5, 15-4 in duals, 20-12 overall<br>Alexis Franco (JMU) - 10-1 at #5, 14-2 in duals, 14-2 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Tenika McGiffin (TENN) - 6-0 at #5, 15-4 in duals, 20-12 overall<br>Alexis Franco (JMU) - 10-1 at #5, 14-2 in duals, 14-2 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Johanna Silva (TENN) - 9-1 at #6, 9-4 in duals, 12-10 overall<br>Daniela Voloh (JMU) - 9-1 at #6, 12-1 in duals, 12-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Johanna Silva (TENN) - 9-1 at #6, 9-4 in duals, 12-10 overall<br>Daniela Voloh (JMU) - 9-1 at #6, 12-1 in duals, 12-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Molinaro/McGiffin (TENN) - 1-3 at #1, 3-3 in duals, 3-3 overall  
-   Afanasyeva/Franco (JMU) - 7-3 at #1, 7-3 in duals, 7-3 overall
-2. Adeshina/Kuczer (TENN) - 8-1 at #2, 11-6 in duals, 12-9 overall  
-   Roka/Moulin (JMU) - 12-2 at #2, 12-2 in duals, 12-2 overall
-3. Briggs/Mertena (TENN) - 4-3 at #3, 4-3 in duals, 4-3 overall  
-   Nikolopoulou/Nord (JMU) - 3-1 at #3, 3-1 in duals, 3-1 overall
+
+<ol>
+<li>Molinaro/McGiffin (TENN) - 1-3 at #1, 3-3 in duals, 3-3 overall<br>Afanasyeva/Franco (JMU) - 7-3 at #1, 7-3 in duals, 7-3 overall<br>&nbsp;</li>
+<li>Adeshina/Kuczer (TENN) - 8-1 at #2, 11-6 in duals, 12-9 overall<br>Roka/Moulin (JMU) - 12-2 at #2, 12-2 in duals, 12-2 overall<br>&nbsp;</li>
+<li>Briggs/Mertena (TENN) - 4-3 at #3, 4-3 in duals, 4-3 overall<br>Nikolopoulou/Nord (JMU) - 3-1 at #3, 3-1 in duals, 3-1 overall<br>&nbsp;</li>
+</ol>

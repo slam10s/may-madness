@@ -49,42 +49,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Adrian Boitan (BAY) - 14-4 at #1, 15-5 in duals, 15-5 overall<br>Kyohei Yamanaka (TAMCC) - 10-7 at #1, 10-7 in duals, 11-9 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Adrian Boitan (BAY) - 14-4 at #1, 15-5 in duals, 15-5 overall<br>Kyohei Yamanaka (TAMCC) - 10-7 at #1, 10-7 in duals, 11-9 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Matias Soto (BAY) - 12-3 at #2, 14-4 in duals, 18-4 overall<br>Ryuya Ata (TAMCC) - 7-4 at #2, 8-8 in duals, 9-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Matias Soto (BAY) - 12-3 at #2, 14-4 in duals, 18-4 overall<br>Ryuya Ata (TAMCC) - 7-4 at #2, 8-8 in duals, 9-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Sven Lah (BAY) - 6-7 at #3, 9-9 in duals, 11-12 overall<br>Nathan Schwartz (TAMCC) - 7-4 at #3, 13-4 in duals, 15-5 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Sven Lah (BAY) - 6-7 at #3, 9-9 in duals, 11-12 overall<br>Nathan Schwartz (TAMCC) - 7-4 at #3, 13-4 in duals, 15-5 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Nick Stachowiak (BAY) - 8-2 at #4, 12-5 in duals, 19-7 overall<br>Pascal Loriel (TAMCC) - 10-0 at #4, 15-0 in duals, 17-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Nick Stachowiak (BAY) - 8-2 at #4, 12-5 in duals, 19-7 overall<br>Pascal Loriel (TAMCC) - 10-0 at #4, 15-0 in duals, 17-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Charlie Broom (BAY) - 17-2 at #5, 21-3 in duals, 24-6 overall<br>Borja Delgado (TAMCC) - 4-0 at #5, 14-1 in duals, 14-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Charlie Broom (BAY) - 17-2 at #5, 21-3 in duals, 24-6 overall<br>Borja Delgado (TAMCC) - 4-0 at #5, 14-1 in duals, 14-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Spencer Furman (BAY) - 11-2 at #6, 18-2 in duals, 21-3 overall<br>Guillermo Castaneda (TAMCC) - 4-1 at #6, 10-1 in duals, 10-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Spencer Furman (BAY) - 11-2 at #6, 18-2 in duals, 21-3 overall<br>Guillermo Castaneda (TAMCC) - 4-1 at #6, 10-1 in duals, 10-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Lah/Frantzen (BAY) - 11-7 at #1, 11-7 in duals, 11-7 overall  
-   K.Yamanaka/Ata (TAMCC) - 8-6 at #1, 11-6 in duals, 12-9 overall
-2. Stachowiak/Soto (BAY) - 7-1 at #2, 7-1 in duals, 10-1 overall  
-   Schwartz/Lorieul (TAMCC) - 2-2 at #2, 4-2 in duals, 15-8 overall
-3. Broom/Bass (BAY) - 5-3 at #3, 5-3 in duals, 5-3 overall  
-   B.Delgado/Ruiz (TAMCC) - 5-0 at #3, 5-0 in duals, 18-4 overall
+
+<ol>
+<li>Lah/Frantzen (BAY) - 11-7 at #1, 11-7 in duals, 11-7 overall<br>K.Yamanaka/Ata (TAMCC) - 8-6 at #1, 11-6 in duals, 12-9 overall<br>&nbsp;</li>
+<li>Stachowiak/Soto (BAY) - 7-1 at #2, 7-1 in duals, 10-1 overall<br>Schwartz/Lorieul (TAMCC) - 2-2 at #2, 4-2 in duals, 15-8 overall<br>&nbsp;</li>
+<li>Broom/Bass (BAY) - 5-3 at #3, 5-3 in duals, 5-3 overall<br>B.Delgado/Ruiz (TAMCC) - 5-0 at #3, 5-0 in duals, 18-4 overall<br>&nbsp;</li>
+</ol>

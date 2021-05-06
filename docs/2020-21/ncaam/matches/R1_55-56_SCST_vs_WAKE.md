@@ -49,42 +49,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Henri Squire (WAKE) - 15-6 at #1, 15-6 in duals, 15-6 overall<br>Aleksa Daskalovic (SCST) - 2-6 at #1, 2-7 in duals, 2-7 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Henri Squire (WAKE) - 15-6 at #1, 15-6 in duals, 15-6 overall<br>Aleksa Daskalovic (SCST) - 2-6 at #1, 2-7 in duals, 2-7 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Eduardo Nava (WAKE) - 6-3 at #2, 17-4 in duals, 17-4 overall<br>Marcelo Rodriguez (SCST) - 5-3 at #2, 5-4 in duals, 5-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Eduardo Nava (WAKE) - 6-3 at #2, 17-4 in duals, 17-4 overall<br>Marcelo Rodriguez (SCST) - 5-3 at #2, 5-4 in duals, 5-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Taha Baadi (WAKE) - 6-2 at #3, 13-8 in duals, 13-8 overall<br>Elyes Marouani (SCST) - 9-2 at #3, 9-2 in duals, 9-2 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Taha Baadi (WAKE) - 6-2 at #3, 13-8 in duals, 13-8 overall<br>Elyes Marouani (SCST) - 9-2 at #3, 9-2 in duals, 9-2 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Rrezart Cungu (WAKE) - 7-3 at #4, 20-4 in duals, 20-4 overall<br>Omer Gorgun (SCST) - 6-3 at #4, 6-3 in duals, 6-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Rrezart Cungu (WAKE) - 7-3 at #4, 20-4 in duals, 20-4 overall<br>Omer Gorgun (SCST) - 6-3 at #4, 6-3 in duals, 6-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Melios Efstathiou (WAKE) - 6-2 at #5, 12-6 in duals, 12-6 overall<br>Diego Arzaluz (SCST) - 5-3 at #5, 5-3 in duals, 5-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Melios Efstathiou (WAKE) - 6-2 at #5, 12-6 in duals, 12-6 overall<br>Diego Arzaluz (SCST) - 5-3 at #5, 5-3 in duals, 5-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Sid Banthia (WAKE) - 7-1 at #6, 19-3 in duals, 19-3 overall<br>Luka Stefanovic (SCST) - 4-1 at #6, 4-1 in duals, 4-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Sid Banthia (WAKE) - 7-1 at #6, 19-3 in duals, 19-3 overall<br>Luka Stefanovic (SCST) - 4-1 at #6, 4-1 in duals, 4-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Nava/Squire (WAKE) - 13-5 at #1, 13-5 in duals, 13-5 overall  
-   Rodriguez/Marouani (SCST) - 6-6 at #1, 6-6 in duals, 6-6 overall
-2. Thomson/Banthia (WAKE) - 7-4 at #2, 17-6 in duals, 17-6 overall  
-   Daskalovic/Momo (SCST) - 4-4 at #2, 4-4 in duals, 4-4 overall
-3. Efstathiou/Baadi (WAKE) - 8-4 at #3, 12-5 in duals, 12-5 overall  
-   Arzaluz/Ben Ali (SCST) - 3-3 at #3, 3-3 in duals, 3-3 overall
+
+<ol>
+<li>Nava/Squire (WAKE) - 13-5 at #1, 13-5 in duals, 13-5 overall<br>Rodriguez/Marouani (SCST) - 6-6 at #1, 6-6 in duals, 6-6 overall<br>&nbsp;</li>
+<li>Thomson/Banthia (WAKE) - 7-4 at #2, 17-6 in duals, 17-6 overall<br>Daskalovic/Momo (SCST) - 4-4 at #2, 4-4 in duals, 4-4 overall<br>&nbsp;</li>
+<li>Efstathiou/Baadi (WAKE) - 8-4 at #3, 12-5 in duals, 12-5 overall<br>Arzaluz/Ben Ali (SCST) - 3-3 at #3, 3-3 in duals, 3-3 overall<br>&nbsp;</li>
+</ol>

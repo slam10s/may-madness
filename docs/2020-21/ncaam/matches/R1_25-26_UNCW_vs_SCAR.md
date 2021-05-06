@@ -49,42 +49,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Daniel Rodrigues (SCAR) - 16-4 at #1, 16-4 in duals, 24-6 overall<br>Bruno Caula (UNCW) - 11-6 at #1, 11-6 in duals, 11-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Daniel Rodrigues (SCAR) - 16-4 at #1, 16-4 in duals, 24-6 overall<br>Bruno Caula (UNCW) - 11-6 at #1, 11-6 in duals, 11-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Connor Thomson (SCAR) - 6-5 at #2, 11-8 in duals, 18-12 overall<br>Davide Innocenti (UNCW) - 8-3 at #2, 8-4 in duals, 8-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Connor Thomson (SCAR) - 6-5 at #2, 11-8 in duals, 18-12 overall<br>Davide Innocenti (UNCW) - 8-3 at #2, 8-4 in duals, 8-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Toby Samuel (SCAR) - 4-2 at #3, 16-4 in duals, 24-7 overall<br>Daniel Groom (UNCW) - 7-3 at #3, 10-4 in duals, 10-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Toby Samuel (SCAR) - 4-2 at #3, 16-4 in duals, 24-7 overall<br>Daniel Groom (UNCW) - 7-3 at #3, 10-4 in duals, 10-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Raphael Lambling (SCAR) - 0-2 at #4, 6-12 in duals, 11-18 overall<br>Bekhzod Rasamatov (UNCW) - 3-2 at #4, 11-4 in duals, 11-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Raphael Lambling (SCAR) - 0-2 at #4, 6-12 in duals, 11-18 overall<br>Bekhzod Rasamatov (UNCW) - 3-2 at #4, 11-4 in duals, 11-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Jake Beasley (SCAR) - 7-7 at #5, 12-8 in duals, 18-10 overall<br>Gabriel Hurtado (UNCW) - 4-3 at #5, 8-6 in duals, 8-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Jake Beasley (SCAR) - 7-7 at #5, 12-8 in duals, 18-10 overall<br>Gabriel Hurtado (UNCW) - 4-3 at #5, 8-6 in duals, 8-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Thomas Brown (SCAR) - 2-2 at #6, 3-2 in duals, 11-6 overall<br>Michael Copeland (UNCW) - 5-2 at #6, 13-6 in duals, 13-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Thomas Brown (SCAR) - 2-2 at #6, 3-2 in duals, 11-6 overall<br>Michael Copeland (UNCW) - 5-2 at #6, 13-6 in duals, 13-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Rodrigues/Thomson (SCAR) - 13-7 at #1, 13-7 in duals, 20-11 overall  
-   Groom/Caula (UNCW) - 11-4 at #1, 11-4 in duals, 11-4 overall
-2. Beasley/Samuel (SCAR) - 9-3 at #2, 15-7 in duals, 23-11 overall  
-   Gooch/Rasamatov (UNCW) - 3-2 at #2, 7-2 in duals, 7-2 overall
-3. Lambling/Jordan (SCAR) - 4-3 at #3, 6-7 in duals, 14-10 overall  
-   Sprovieri/Hurtado (UNCW) - 6-1 at #3, 7-2 in duals, 7-2 overall
+
+<ol>
+<li>Rodrigues/Thomson (SCAR) - 13-7 at #1, 13-7 in duals, 20-11 overall<br>Groom/Caula (UNCW) - 11-4 at #1, 11-4 in duals, 11-4 overall<br>&nbsp;</li>
+<li>Beasley/Samuel (SCAR) - 9-3 at #2, 15-7 in duals, 23-11 overall<br>Gooch/Rasamatov (UNCW) - 3-2 at #2, 7-2 in duals, 7-2 overall<br>&nbsp;</li>
+<li>Lambling/Jordan (SCAR) - 4-3 at #3, 6-7 in duals, 14-10 overall<br>Sprovieri/Hurtado (UNCW) - 6-1 at #3, 7-2 in duals, 7-2 overall<br>&nbsp;</li>
+</ol>

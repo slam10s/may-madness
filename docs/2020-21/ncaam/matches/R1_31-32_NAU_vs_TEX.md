@@ -49,42 +49,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Eliot Spizzirri (TEX) - 9-6 at #1, 15-8 in duals, 22-9 overall<br>Eban Straker-Meads (NAU) - 5-4 at #1, 6-6 in duals, 6-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Eliot Spizzirri (TEX) - 9-6 at #1, 15-8 in duals, 22-9 overall<br>Eban Straker-Meads (NAU) - 5-4 at #1, 6-6 in duals, 6-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Micah Braswell (TEX) - 9-4 at #2, 17-5 in duals, 32-6 overall<br>Facundo Tumosa (NAU) - 3-3 at #2, 5-6 in duals, 5-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Micah Braswell (TEX) - 9-4 at #2, 17-5 in duals, 32-6 overall<br>Facundo Tumosa (NAU) - 3-3 at #2, 5-6 in duals, 5-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Siem Woldeab (TEX) - 5-1 at #3, 9-7 in duals, 14-12 overall<br>Dominik Buzonics (NAU) - 4-3 at #3, 6-8 in duals, 6-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Siem Woldeab (TEX) - 5-1 at #3, 9-7 in duals, 14-12 overall<br>Dominik Buzonics (NAU) - 4-3 at #3, 6-8 in duals, 6-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Cleeve Harper (TEX) - 14-3 at #4, 17-5 in duals, 22-9 overall<br>Christopher Steele (NAU) - 3-0 at #4, 7-7 in duals, 7-7 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Cleeve Harper (TEX) - 14-3 at #4, 17-5 in duals, 22-9 overall<br>Christopher Steele (NAU) - 3-0 at #4, 7-7 in duals, 7-7 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Chih Chi Huang (TEX) - 9-7 at #5, 11-8 in duals, 15-17 overall<br>Maciej Ziomber (NAU) - 5-2 at #5, 11-4 in duals, 11-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Chih Chi Huang (TEX) - 9-7 at #5, 11-8 in duals, 15-17 overall<br>Maciej Ziomber (NAU) - 5-2 at #5, 11-4 in duals, 11-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Evin McDonald (TEX) - 6-9 at #6, 11-10 in duals, 15-16 overall<br>Alexander Groves (NAU) - 3-0 at #6, 6-8 in duals, 6-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Evin McDonald (TEX) - 6-9 at #6, 11-10 in duals, 15-16 overall<br>Alexander Groves (NAU) - 3-0 at #6, 6-8 in duals, 6-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Spizzirri/Woldeab (TEX) - 12-9 at #1, 12-9 in duals, 19-9 overall  
-   Groves/Buzonics (NAU) - 3-2 at #1, 3-2 in duals, 3-2 overall
-2. Harper/Huang (TEX) - 5-4 at #2, 6-4 in duals, 10-7 overall  
-   Tumosa/Straker-Meads (NAU) - 1-0 at #2, 1-0 in duals, 1-0 overall
-3. Braswell/Holden (TEX) - 4-1 at #3, 4-1 in duals, 7-2 overall  
-   Steele/Ziomber (NAU) - 3-0 at #3, 3-0 in duals, 3-0 overall
+
+<ol>
+<li>Spizzirri/Woldeab (TEX) - 12-9 at #1, 12-9 in duals, 19-9 overall<br>Groves/Buzonics (NAU) - 3-2 at #1, 3-2 in duals, 3-2 overall<br>&nbsp;</li>
+<li>Harper/Huang (TEX) - 5-4 at #2, 6-4 in duals, 10-7 overall<br>Tumosa/Straker-Meads (NAU) - 1-0 at #2, 1-0 in duals, 1-0 overall<br>&nbsp;</li>
+<li>Braswell/Holden (TEX) - 4-1 at #3, 4-1 in duals, 7-2 overall<br>Steele/Ziomber (NAU) - 3-0 at #3, 3-0 in duals, 3-0 overall<br>&nbsp;</li>
+</ol>

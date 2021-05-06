@@ -49,42 +49,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>Vito Tonejc (DEP) - 11-5 at #1, 13-5 in duals, 13-5 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>Vito Tonejc (DEP) - 11-5 at #1, 13-5 in duals, 13-5 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Siphosothando Montsi (ILL) - 7-2 at #2, 15-3 in duals, 15-3 overall<br>Christopher Casati (DEP) - 3-7 at #2, 8-12 in duals, 8-12 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Siphosothando Montsi (ILL) - 7-2 at #2, 15-3 in duals, 15-3 overall<br>Christopher Casati (DEP) - 3-7 at #2, 8-12 in duals, 8-12 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall<br>Boris Spanjaard (DEP) - 8-4 at #3, 12-6 in duals, 12-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall<br>Boris Spanjaard (DEP) - 8-4 at #3, 12-6 in duals, 12-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Zeke Clark (ILL) - 6-1 at #4, 16-1 in duals, 19-2 overall<br>Tamas Zador (DEP) - 1-1 at #4, 3-3 in duals, 3-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Zeke Clark (ILL) - 6-1 at #4, 16-1 in duals, 19-2 overall<br>Tamas Zador (DEP) - 1-1 at #4, 3-3 in duals, 3-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall<br>Fran Tonejc (DEP) - 1-3 at #5, 8-8 in duals, 8-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall<br>Fran Tonejc (DEP) - 1-3 at #5, 8-8 in duals, 8-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Noe Khlif (ILL) - 5-0 at #6, 15-1 in duals, 15-1 overall<br>Luuk Wassenaar (DEP) - 3-2 at #6, 11-6 in duals, 11-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Noe Khlif (ILL) - 5-0 at #6, 15-1 in duals, 15-1 overall<br>Luuk Wassenaar (DEP) - 3-2 at #6, 11-6 in duals, 11-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Brown/Clark (ILL) - 8-2 at #1, 11-2 in duals, 11-2 overall  
-   Casati/Spanjaard (DEP) - 12-4 at #1, 14-4 in duals, 14-4 overall
-2. Montsi/Khlif (ILL) - 5-1 at #2, 10-2 in duals, 10-2 overall  
-   Tonejc/Wassenaar (DEP) - 3-2 at #2, 6-4 in duals, 6-4 overall
-3. Kovacevic/Heck (ILL) - 2-1 at #3, 3-1 in duals, 3-1 overall  
-   Tonejc/Tuff (DEP) - 5-0 at #3, 9-6 in duals, 9-6 overall
+
+<ol>
+<li>Brown/Clark (ILL) - 8-2 at #1, 11-2 in duals, 11-2 overall<br>Casati/Spanjaard (DEP) - 12-4 at #1, 14-4 in duals, 14-4 overall<br>&nbsp;</li>
+<li>Montsi/Khlif (ILL) - 5-1 at #2, 10-2 in duals, 10-2 overall<br>Tonejc/Wassenaar (DEP) - 3-2 at #2, 6-4 in duals, 6-4 overall<br>&nbsp;</li>
+<li>Kovacevic/Heck (ILL) - 2-1 at #3, 3-1 in duals, 3-1 overall<br>Tonejc/Tuff (DEP) - 5-0 at #3, 9-6 in duals, 9-6 overall<br>&nbsp;</li>
+</ol>

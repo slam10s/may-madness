@@ -50,42 +50,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-James Story (MEM) - 8-6 at #1, 8-6 in duals, 8-6 overall<br>Marcus McDaniel (GT) - 10-6 at #1, 15-6 in duals, 15-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">James Story (MEM) - 8-6 at #1, 8-6 in duals, 8-6 overall<br>Marcus McDaniel (GT) - 10-6 at #1, 15-6 in duals, 15-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-David Stevenson (MEM) - 2-5 at #2, 8-8 in duals, 8-8 overall<br>Andres Martin (GT) - 11-5 at #2, 14-7 in duals, 16-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">David Stevenson (MEM) - 2-5 at #2, 8-8 in duals, 8-8 overall<br>Andres Martin (GT) - 11-5 at #2, 14-7 in duals, 16-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Oscar Cutting (MEM) - 2-4 at #3, 8-9 in duals, 8-9 overall<br>Pablo Schelcher (GT) - 8-5 at #3, 12-7 in duals, 13-9 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Oscar Cutting (MEM) - 2-4 at #3, 8-9 in duals, 8-9 overall<br>Pablo Schelcher (GT) - 8-5 at #3, 12-7 in duals, 13-9 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Jan Pallares (MEM) - 4-4 at #4, 6-8 in duals, 6-8 overall<br>Keshav Chopra (GT) - 8-3 at #4, 12-8 in duals, 14-9 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Jan Pallares (MEM) - 4-4 at #4, 6-8 in duals, 6-8 overall<br>Keshav Chopra (GT) - 8-3 at #4, 12-8 in duals, 14-9 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Jeremy Taylor (MEM) - 5-3 at #5, 9-3 in duals, 9-3 overall<br>Brandon McKinney (GT) - 7-8 at #5, 10-10 in duals, 12-11 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Jeremy Taylor (MEM) - 5-3 at #5, 9-3 in duals, 9-3 overall<br>Brandon McKinney (GT) - 7-8 at #5, 10-10 in duals, 12-11 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Pau Fanlo (MEM) - 4-3 at #6, 6-5 in duals, 6-5 overall<br>Chen Dong (GT) - 11-4 at #6, 11-4 in duals, 12-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Pau Fanlo (MEM) - 4-3 at #6, 6-5 in duals, 6-5 overall<br>Chen Dong (GT) - 11-4 at #6, 11-4 in duals, 12-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Cutting/Stevenson (MEM) - 9-6 at #1, 9-6 in duals, 9-6 overall  
-   McDaniel/Martin (GT) - 5-2 at #1, 5-2 in duals, 5-2 overall
-2. Pallares/Sydow (MEM) - 12-3 at #2, 12-3 in duals, 12-3 overall  
-   Schelcher/Freestone (GT) - 6-4 at #2, 6-4 in duals, 6-4 overall
-3. Story/Taylor (MEM) - 10-3 at #3, 10-3 in duals, 10-3 overall  
-   Chopra/Dong (GT) - 2-1 at #3, 2-1 in duals, 2-1 overall
+
+<ol>
+<li>Cutting/Stevenson (MEM) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>McDaniel/Martin (GT) - 5-2 at #1, 5-2 in duals, 5-2 overall<br>&nbsp;</li>
+<li>Pallares/Sydow (MEM) - 12-3 at #2, 12-3 in duals, 12-3 overall<br>Schelcher/Freestone (GT) - 6-4 at #2, 6-4 in duals, 6-4 overall<br>&nbsp;</li>
+<li>Story/Taylor (MEM) - 10-3 at #3, 10-3 in duals, 10-3 overall<br>Chopra/Dong (GT) - 2-1 at #3, 2-1 in duals, 2-1 overall<br>&nbsp;</li>
+</ol>

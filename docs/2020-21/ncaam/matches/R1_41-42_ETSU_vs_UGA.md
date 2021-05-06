@@ -49,42 +49,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Trent Bryde (UGA) - 9-10 at #1, 9-10 in duals, 14-13 overall<br>Dimitri Badra (ETSU) - 11-3 at #1, 14-5 in duals, 14-5 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Trent Bryde (UGA) - 9-10 at #1, 9-10 in duals, 14-13 overall<br>Dimitri Badra (ETSU) - 11-3 at #1, 14-5 in duals, 14-5 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Tyler Zink (UGA) - 6-5 at #2, 9-5 in duals, 11-9 overall<br>Frazier Rengifo (ETSU) - 10-4 at #2, 11-7 in duals, 11-7 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Tyler Zink (UGA) - 6-5 at #2, 9-5 in duals, 11-9 overall<br>Frazier Rengifo (ETSU) - 10-4 at #2, 11-7 in duals, 11-7 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Philip Henning (UGA) - 11-4 at #3, 13-6 in duals, 18-10 overall<br>Juan Lugo (ETSU) - 5-1 at #3, 9-5 in duals, 9-5 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Philip Henning (UGA) - 11-4 at #3, 13-6 in duals, 18-10 overall<br>Juan Lugo (ETSU) - 5-1 at #3, 9-5 in duals, 9-5 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Blake Croyder (UGA) - 10-2 at #4, 11-5 in duals, 15-12 overall<br>Thiago Pernas (ETSU) - 7-2 at #4, 10-8 in duals, 10-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Blake Croyder (UGA) - 10-2 at #4, 11-5 in duals, 15-12 overall<br>Thiago Pernas (ETSU) - 7-2 at #4, 10-8 in duals, 10-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Billy Rowe (UGA) - 8-4 at #5, 12-7 in duals, 16-10 overall<br>MIguel Este (ETSU) - 1-1 at #5, 8-5 in duals, 8-5 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Billy Rowe (UGA) - 8-4 at #5, 12-7 in duals, 16-10 overall<br>MIguel Este (ETSU) - 1-1 at #5, 8-5 in duals, 8-5 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Erik Grevelius (UGA) - 7-3 at #6, 9-4 in duals, 15-8 overall<br>Juan Zabala (ETSU) - 2-1 at #6, 6-4 in duals, 6-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Erik Grevelius (UGA) - 7-3 at #6, 9-4 in duals, 15-8 overall<br>Juan Zabala (ETSU) - 2-1 at #6, 6-4 in duals, 6-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Bryde/Zink (UGA) - 8-4 at #1, 8-4 in duals, 13-6 overall  
-   Lugo/Rengifo (ETSU) - 8-5 at #1, 8-5 in duals, 8-5 overall
-2. Croyder/Rowe (UGA) - 7-5 at #2, 8-5 in duals, 10-5 overall  
-   Este/Badra (ETSU) - 4-0 at #2, 12-1 in duals, 12-1 overall
-3. Henning/Grevelius (UGA) - 9-5 at #3, 10-5 in duals, 10-7 overall  
-   Zabala/Pernas (ETSU) - 4-2 at #3, 8-4 in duals, 8-4 overall
+
+<ol>
+<li>Bryde/Zink (UGA) - 8-4 at #1, 8-4 in duals, 13-6 overall<br>Lugo/Rengifo (ETSU) - 8-5 at #1, 8-5 in duals, 8-5 overall<br>&nbsp;</li>
+<li>Croyder/Rowe (UGA) - 7-5 at #2, 8-5 in duals, 10-5 overall<br>Este/Badra (ETSU) - 4-0 at #2, 12-1 in duals, 12-1 overall<br>&nbsp;</li>
+<li>Henning/Grevelius (UGA) - 9-5 at #3, 10-5 in duals, 10-7 overall<br>Zabala/Pernas (ETSU) - 4-2 at #3, 8-4 in duals, 8-4 overall<br>&nbsp;</li>
+</ol>

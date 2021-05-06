@@ -49,42 +49,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Adam Walton (TENN) - 8-7 at #1, 10-8 in duals, 16-10 overall<br>Rodrigo Arana Rios (AAMU) - 1-10 at #1, 1-10 in duals, 1-10 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Adam Walton (TENN) - 8-7 at #1, 10-8 in duals, 16-10 overall<br>Rodrigo Arana Rios (AAMU) - 1-10 at #1, 1-10 in duals, 1-10 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Johannus Monday (TENN) - 17-3 at #2, 22-4 in duals, 31-6 overall<br>Gjorgji Popovski (AAMU) - 6-6 at #2, 6-6 in duals, 6-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Johannus Monday (TENN) - 17-3 at #2, 22-4 in duals, 31-6 overall<br>Gjorgji Popovski (AAMU) - 6-6 at #2, 6-6 in duals, 6-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Martim Prata (TENN) - 11-8 at #3, 15-8 in duals, 22-12 overall<br>Fermin Ruiz (AAMU) - 0-9 at #3, 0-12 in duals, 0-12 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Martim Prata (TENN) - 11-8 at #3, 15-8 in duals, 22-12 overall<br>Fermin Ruiz (AAMU) - 0-9 at #3, 0-12 in duals, 0-12 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Luca Wiedenmann (TENN) - 8-2 at #4, 20-3 in duals, 30-4 overall<br>Natiphat Mulada (AAMU) - 5-2 at #4, 5-4 in duals, 5-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Luca Wiedenmann (TENN) - 8-2 at #4, 20-3 in duals, 30-4 overall<br>Natiphat Mulada (AAMU) - 5-2 at #4, 5-4 in duals, 5-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Giles Hussey (TENN) - 9-0 at #5, 18-3 in duals, 29-4 overall<br>Panji Setiawan (AAMU) - 4-4 at #5, 4-7 in duals, 4-7 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Giles Hussey (TENN) - 9-0 at #5, 18-3 in duals, 29-4 overall<br>Panji Setiawan (AAMU) - 4-4 at #5, 4-7 in duals, 4-7 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Pat Harper (TENN) - 5-3 at #6, 5-4 in duals, 12-5 overall<br>Divesh Gahlot (AAMU) - 3-0 at #6, 3-0 in duals, 3-0 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Pat Harper (TENN) - 5-3 at #6, 5-4 in duals, 12-5 overall<br>Divesh Gahlot (AAMU) - 3-0 at #6, 3-0 in duals, 3-0 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Walton/Harper (TENN) - 15-6 at #1, 15-6 in duals, 22-7 overall  
-   Setiawan/Rios (AAMU) - 3-7 at #1, 3-7 in duals, 3-7 overall
-2. Monday/Prata (TENN) - 12-7 at #2, 16-7 in duals, 17-8 overall  
-   Popovski/Chang (AAMU) - 0-0 at #2, 3-7 in duals, 3-7 overall
-3. Wallner/Hussey (TENN) - 14-5 at #3, 15-5 in duals, 15-5 overall  
-   Gahlot/Ruiz (AAMU) - 0-0 at #3, 1-1 in duals, 1-1 overall
+
+<ol>
+<li>Walton/Harper (TENN) - 15-6 at #1, 15-6 in duals, 22-7 overall<br>Setiawan/Rios (AAMU) - 3-7 at #1, 3-7 in duals, 3-7 overall<br>&nbsp;</li>
+<li>Monday/Prata (TENN) - 12-7 at #2, 16-7 in duals, 17-8 overall<br>Popovski/Chang (AAMU) - 0-0 at #2, 3-7 in duals, 3-7 overall<br>&nbsp;</li>
+<li>Wallner/Hussey (TENN) - 14-5 at #3, 15-5 in duals, 15-5 overall<br>Gahlot/Ruiz (AAMU) - 0-0 at #3, 1-1 in duals, 1-1 overall<br>&nbsp;</li>
+</ol>

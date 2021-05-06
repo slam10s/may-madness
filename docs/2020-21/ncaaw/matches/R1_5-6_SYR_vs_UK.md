@@ -50,42 +50,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Akvile Parazinskaite (UK) - 16-6 at #1, 16-6 in duals, 19-10 overall<br>Viktoriya Kanapatskaya (SYR) - 9-5 at #1, 11-5 in duals, 11-5 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Akvile Parazinskaite (UK) - 16-6 at #1, 16-6 in duals, 19-10 overall<br>Viktoriya Kanapatskaya (SYR) - 9-5 at #1, 11-5 in duals, 11-5 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Lesedi Jacobs (UK) - 0-1 at #2, 9-5 in duals, 11-8 overall<br>Guzal Yusupova (SYR) - 4-6 at #2, 4-9 in duals, 4-9 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Lesedi Jacobs (UK) - 0-1 at #2, 9-5 in duals, 11-8 overall<br>Guzal Yusupova (SYR) - 4-6 at #2, 4-9 in duals, 4-9 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Carlota Molina (UK) - 1-1 at #3, 12-7 in duals, 12-13 overall<br>Natalie Novotna (SYR) - 4-6 at #3, 7-9 in duals, 7-9 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Carlota Molina (UK) - 1-1 at #3, 12-7 in duals, 12-13 overall<br>Natalie Novotna (SYR) - 4-6 at #3, 7-9 in duals, 7-9 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Elizabeth Stevens (UK) - 1-5 at #4, 3-8 in duals, 6-13 overall<br>Miranda Ramirez (SYR) - 3-6 at #4, 4-13 in duals, 4-13 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Elizabeth Stevens (UK) - 1-5 at #4, 3-8 in duals, 6-13 overall<br>Miranda Ramirez (SYR) - 3-6 at #4, 4-13 in duals, 4-13 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Carla Girbau (UK) - 2-1 at #5, 9-9 in duals, 11-14 overall<br>Zeynep Erman (SYR) - 3-4 at #5, 4-4 in duals, 4-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Carla Girbau (UK) - 2-1 at #5, 9-9 in duals, 11-14 overall<br>Zeynep Erman (SYR) - 3-4 at #5, 4-4 in duals, 4-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Fiona Arrese (UK) - 2-1 at #6, 10-4 in duals, 10-9 overall<br>Polina Kozyreva (SYR) - 7-5 at #6, 10-9 in duals, 10-9 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Fiona Arrese (UK) - 2-1 at #6, 10-4 in duals, 10-9 overall<br>Polina Kozyreva (SYR) - 7-5 at #6, 10-9 in duals, 10-9 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Parazinskaite/Arrese (UK) - 17-2 at #1, 17-2 in duals, 20-2 overall  
-   Kanapatskaya/Novotna (SYR) - 4-7 at #1, 8-8 in duals, 8-8 overall
-2. Tkachenko/Girbau (UK) - 1-3 at #2, 1-3 in duals, 1-3 overall  
-   Kozyreva/Trescheva (SYR) - 3-7 at #2, 5-12 in duals, 5-12 overall
-3. Jacobs/Stevens (UK) - 2-0 at #3, 2-0 in duals, 2-1 overall  
-   Ramirez/Yusupova (SYR) - 5-5 at #3, 5-5 in duals, 5-5 overall
+
+<ol>
+<li>Parazinskaite/Arrese (UK) - 17-2 at #1, 17-2 in duals, 20-2 overall<br>Kanapatskaya/Novotna (SYR) - 4-7 at #1, 8-8 in duals, 8-8 overall<br>&nbsp;</li>
+<li>Tkachenko/Girbau (UK) - 1-3 at #2, 1-3 in duals, 1-3 overall<br>Kozyreva/Trescheva (SYR) - 3-7 at #2, 5-12 in duals, 5-12 overall<br>&nbsp;</li>
+<li>Jacobs/Stevens (UK) - 2-0 at #3, 2-0 in duals, 2-1 overall<br>Ramirez/Yusupova (SYR) - 5-5 at #3, 5-5 in duals, 5-5 overall<br>&nbsp;</li>
+</ol>

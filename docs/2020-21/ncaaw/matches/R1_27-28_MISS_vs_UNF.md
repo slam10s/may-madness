@@ -48,42 +48,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Lucia Montano (UNF) - 14-8 at #1, 14-8 in duals, 14-8 overall<br>Sabina Machalova (MISS) - 5-8 at #1, 8-8 in duals, 15-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Lucia Montano (UNF) - 14-8 at #1, 14-8 in duals, 14-8 overall<br>Sabina Machalova (MISS) - 5-8 at #1, 8-8 in duals, 15-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Catherine Gulihur (UNF) - 17-3 at #2, 18-3 in duals, 18-3 overall<br>Tiphanie Fiquet (MISS) - 8-4 at #2, 9-5 in duals, 14-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Catherine Gulihur (UNF) - 17-3 at #2, 18-3 in duals, 18-3 overall<br>Tiphanie Fiquet (MISS) - 8-4 at #2, 9-5 in duals, 14-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Constanza Gorches (UNF) - 4-3 at #3, 13-9 in duals, 13-9 overall<br>Tereza Janatova (MISS) - 9-3 at #3, 10-3 in duals, 11-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Constanza Gorches (UNF) - 4-3 at #3, 13-9 in duals, 13-9 overall<br>Tereza Janatova (MISS) - 9-3 at #3, 10-3 in duals, 11-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Summer Yardley (UNF) - 3-3 at #4, 11-9 in duals, 11-9 overall<br>Anna Vrbenska (MISS) - 9-4 at #4, 9-4 in duals, 8-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Summer Yardley (UNF) - 3-3 at #4, 11-9 in duals, 11-9 overall<br>Anna Vrbenska (MISS) - 9-4 at #4, 9-4 in duals, 8-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Annabelle Davis (UNF) - 6-0 at #5, 10-1 in duals, 10-1 overall<br>Reka Zadori (MISS) - 4-1 at #5, 9-3 in duals, 12-9 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Annabelle Davis (UNF) - 6-0 at #5, 10-1 in duals, 10-1 overall<br>Reka Zadori (MISS) - 4-1 at #5, 9-3 in duals, 12-9 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Valentina Mariotto (UNF) - 3-1 at #6, 8-7 in duals, 8-7 overall<br>Lillian Gabrielsen (MISS) - 2-1 at #6, 5-3 in duals, 8-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Valentina Mariotto (UNF) - 3-1 at #6, 8-7 in duals, 8-7 overall<br>Lillian Gabrielsen (MISS) - 2-1 at #6, 5-3 in duals, 8-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Montano/Gorches (UNF) - 5-1 at #1, 15-6 in duals, 15-6 overall  
-   Vrbenska/Bortles (MISS) - 2-3 at #1, 2-3 in duals, 2-3 overall
-2. Gulihur/Mariotto (UNF) - 3-3 at #2, 3-3 in duals, 3-3 overall  
-   Machalova/Fiquet (MISS) - 2-1 at #2, 2-1 in duals, 1-1 overall
-3. Yardley/Davis (UNF) - 1-1 at #3, 1-1 in duals, 1-1 overall  
-   Janatova/Mize (MISS) - 0-2 at #3, 0-2 in duals, 0-2 overall
+
+<ol>
+<li>Montano/Gorches (UNF) - 5-1 at #1, 15-6 in duals, 15-6 overall<br>Vrbenska/Bortles (MISS) - 2-3 at #1, 2-3 in duals, 2-3 overall<br>&nbsp;</li>
+<li>Gulihur/Mariotto (UNF) - 3-3 at #2, 3-3 in duals, 3-3 overall<br>Machalova/Fiquet (MISS) - 2-1 at #2, 2-1 in duals, 1-1 overall<br>&nbsp;</li>
+<li>Yardley/Davis (UNF) - 1-1 at #3, 1-1 in duals, 1-1 overall<br>Janatova/Mize (MISS) - 0-2 at #3, 0-2 in duals, 0-2 overall<br>&nbsp;</li>
+</ol>

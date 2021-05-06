@@ -50,42 +50,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Peyton Stearns (TEX) - 10-3 at #1, 10-3 in duals, 14-6 overall<br>Anna Riedmiller (DEN) - 6-0 at #1, 14-1 in duals, 14-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Peyton Stearns (TEX) - 10-3 at #1, 10-3 in duals, 14-6 overall<br>Anna Riedmiller (DEN) - 6-0 at #1, 14-1 in duals, 14-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Anna Turati (TEX) - 9-2 at #2, 17-3 in duals, 17-3 overall<br>Taylor Melville (DEN) - 5-0 at #2, 9-4 in duals, 9-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Anna Turati (TEX) - 9-2 at #2, 17-3 in duals, 17-3 overall<br>Taylor Melville (DEN) - 5-0 at #2, 9-4 in duals, 9-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Lulu Sun (TEX) - 12-1 at #3, 18-2 in duals, 18-2 overall<br>Britt Pursell (DEN) - 11-3 at #3, 12-3 in duals, 12-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Lulu Sun (TEX) - 12-1 at #3, 18-2 in duals, 18-2 overall<br>Britt Pursell (DEN) - 11-3 at #3, 12-3 in duals, 12-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Charlotte Chavatipon (TEX) - 16-1 at #4, 20-1 in duals, 23-1 overall<br>Camille Verden-Anderson (DEN) - 3-1 at #4, 8-2 in duals, 8-2 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Charlotte Chavatipon (TEX) - 16-1 at #4, 20-1 in duals, 23-1 overall<br>Camille Verden-Anderson (DEN) - 3-1 at #4, 8-2 in duals, 8-2 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Kylie Collins (TEX) - 9-2 at #5, 16-2 in duals, 16-2 overall<br>Hada Chang (DEN) - 5-2 at #5, 7-2 in duals, 7-2 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Kylie Collins (TEX) - 9-2 at #5, 16-2 in duals, 16-2 overall<br>Hada Chang (DEN) - 5-2 at #5, 7-2 in duals, 7-2 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Fernanda Labrana (TEX) - 5-1 at #6, 14-1 in duals, 21-2 overall<br>Tatum Burger (DEN) - 2-0 at #6, 8-6 in duals, 8-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Fernanda Labrana (TEX) - 5-1 at #6, 14-1 in duals, 21-2 overall<br>Tatum Burger (DEN) - 2-0 at #6, 8-6 in duals, 8-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Sun/Collins (TEX) - 16-4 at #1, 16-4 in duals, 16-4 overall  
-   Pursell/Verden-Anderson (DEN) - 6-1 at #1, 11-2 in duals, 11-2 overall
-2. Turati/Labrana (TEX) - 13-1 at #2, 14-1 in duals, 14-1 overall  
-   Riedmiller/Chang (DEN) - 5-1 at #2, 5-1 in duals, 5-1 overall
-3. Chavatipon/Stearns (TEX) - 11-1 at #3, 12-1 in duals, 14-2 overall  
-   Nelson/Melville (DEN) - 5-0 at #3, 6-0 in duals, 6-0 overall
+
+<ol>
+<li>Sun/Collins (TEX) - 16-4 at #1, 16-4 in duals, 16-4 overall<br>Pursell/Verden-Anderson (DEN) - 6-1 at #1, 11-2 in duals, 11-2 overall<br>&nbsp;</li>
+<li>Turati/Labrana (TEX) - 13-1 at #2, 14-1 in duals, 14-1 overall<br>Riedmiller/Chang (DEN) - 5-1 at #2, 5-1 in duals, 5-1 overall<br>&nbsp;</li>
+<li>Chavatipon/Stearns (TEX) - 11-1 at #3, 12-1 in duals, 14-2 overall<br>Nelson/Melville (DEN) - 5-0 at #3, 6-0 in duals, 6-0 overall<br>&nbsp;</li>
+</ol>

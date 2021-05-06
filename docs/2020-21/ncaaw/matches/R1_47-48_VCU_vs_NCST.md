@@ -49,42 +49,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Anna Rogers (NCST) - 14-6 at #1, 14-6 in duals, 19-6 overall<br>Paola Exposito Diaz-Delgado (VCU) - 16-3 at #1, 16-3 in duals, 16-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Anna Rogers (NCST) - 14-6 at #1, 14-6 in duals, 19-6 overall<br>Paola Exposito Diaz-Delgado (VCU) - 16-3 at #1, 16-3 in duals, 16-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Alana Smith (NCST) - 14-5 at #2, 14-5 in duals, 16-8 overall<br>Luminita Tutunaru (VCU) - 7-8 at #2, 7-11 in duals, 7-11 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Alana Smith (NCST) - 14-5 at #2, 14-5 in duals, 16-8 overall<br>Luminita Tutunaru (VCU) - 7-8 at #2, 7-11 in duals, 7-11 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Adriana Reami (NCST) - 12-4 at #3, 15-5 in duals, 16-9 overall<br>Alessia Ciuca (VCU) - 10-7 at #3, 10-11 in duals, 10-11 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Adriana Reami (NCST) - 12-4 at #3, 15-5 in duals, 16-9 overall<br>Alessia Ciuca (VCU) - 10-7 at #3, 10-11 in duals, 10-11 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Jaeda Daniel (NCST) - 10-6 at #4, 11-8 in duals, 13-10 overall<br>Gabriela Davidescu (VCU) - 9-8 at #4, 10-8 in duals, 10-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Jaeda Daniel (NCST) - 10-6 at #4, 11-8 in duals, 13-10 overall<br>Gabriela Davidescu (VCU) - 9-8 at #4, 10-8 in duals, 10-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Abigail Rencheli (NCST) - 5-2 at #5, 10-4 in duals, 13-5 overall<br>Noumea Witmus (VCU) - 9-3 at #5, 13-6 in duals, 13-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Abigail Rencheli (NCST) - 5-2 at #5, 10-4 in duals, 13-5 overall<br>Noumea Witmus (VCU) - 9-3 at #5, 13-6 in duals, 13-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Lexi Keberle (NCST) - 2-4 at #6, 13-6 in duals, 16-8 overall<br>Shivani Manjanna (VCU) - 8-6 at #6, 11-7 in duals, 11-7 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Lexi Keberle (NCST) - 2-4 at #6, 13-6 in duals, 16-8 overall<br>Shivani Manjanna (VCU) - 8-6 at #6, 11-7 in duals, 11-7 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Rogers/Smith (NCST) - 14-5 at #1, 14-5 in duals, 20-8 overall  
-   Tutunaru/Davidescu (VCU) - 7-5 at #1, 7-5 in duals, 7-5 overall
-2. Daniel/Reami (NCST) - 12-4 at #2, 12-4 in duals, 20-5 overall  
-   Diaz-Delgado/Witmus (VCU) - 13-8 at #2, 13-8 in duals, 13-8 overall
-3. Rajecki/Rencheli (NCST) - 11-1 at #3, 11-1 in duals, 12-2 overall  
-   Ciuca/Manjanna (VCU) - 12-3 at #3, 12-3 in duals, 12-3 overall
+
+<ol>
+<li>Rogers/Smith (NCST) - 14-5 at #1, 14-5 in duals, 20-8 overall<br>Tutunaru/Davidescu (VCU) - 7-5 at #1, 7-5 in duals, 7-5 overall<br>&nbsp;</li>
+<li>Daniel/Reami (NCST) - 12-4 at #2, 12-4 in duals, 20-5 overall<br>Diaz-Delgado/Witmus (VCU) - 13-8 at #2, 13-8 in duals, 13-8 overall<br>&nbsp;</li>
+<li>Rajecki/Rencheli (NCST) - 11-1 at #3, 11-1 in duals, 12-2 overall<br>Ciuca/Manjanna (VCU) - 12-3 at #3, 12-3 in duals, 12-3 overall<br>&nbsp;</li>
+</ol>

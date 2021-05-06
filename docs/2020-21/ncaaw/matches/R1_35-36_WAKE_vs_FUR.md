@@ -50,42 +50,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Katarina Kozarov (FUR) - 22-1 at #1, 22-1 in duals, 22-1 overall<br>Carolyn Campana (WAKE) - 9-5 at #1, 9-5 in duals, 9-5 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Katarina Kozarov (FUR) - 22-1 at #1, 22-1 in duals, 22-1 overall<br>Carolyn Campana (WAKE) - 9-5 at #1, 9-5 in duals, 9-5 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Julia Adams (FUR) - 15-6 at #2, 19-6 in duals, 19-6 overall<br>Anna Campana (WAKE) - 4-6 at #2, 6-10 in duals, 6-10 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Julia Adams (FUR) - 15-6 at #2, 19-6 in duals, 19-6 overall<br>Anna Campana (WAKE) - 4-6 at #2, 6-10 in duals, 6-10 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Madison Dillon (FUR) - 10-10 at #3, 12-12 in duals, 12-12 overall<br>Anna Brylin (WAKE) - 10-3 at #3, 12-8 in duals, 12-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Madison Dillon (FUR) - 10-10 at #3, 12-12 in duals, 12-12 overall<br>Anna Brylin (WAKE) - 10-3 at #3, 12-8 in duals, 12-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-MaryAnn Rompf (FUR) - 15-6 at #4, 18-8 in duals, 18-8 overall<br>Eliza Omirou (WAKE) - 3-3 at #4, 9-8 in duals, 9-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">MaryAnn Rompf (FUR) - 15-6 at #4, 18-8 in duals, 18-8 overall<br>Eliza Omirou (WAKE) - 3-3 at #4, 9-8 in duals, 9-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Maggie Pate (FUR) - 9-6 at #5, 15-7 in duals, 15-7 overall<br>Brooke Killingsworth (WAKE) - 1-1 at #5, 7-14 in duals, 7-14 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Maggie Pate (FUR) - 9-6 at #5, 15-7 in duals, 15-7 overall<br>Brooke Killingsworth (WAKE) - 1-1 at #5, 7-14 in duals, 7-14 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Ellie Schoppe (FUR) - 15-1 at #6, 20-3 in duals, 20-3 overall<br>Casie Wooten (WAKE) - 7-3 at #6, 12-7 in duals, 12-7 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Ellie Schoppe (FUR) - 15-1 at #6, 20-3 in duals, 20-3 overall<br>Casie Wooten (WAKE) - 7-3 at #6, 12-7 in duals, 12-7 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Kozarov/Adams (FUR) - 19-3 at #1, 19-3 in duals, 19-3 overall  
-   Omirou/Campana (WAKE) - 8-4 at #1, 9-4 in duals, 9-4 overall
-2. Dillon/Rompf (FUR) - 0-0 at #2, 19-2 in duals, 19-2 overall  
-   Brylin/Killingsworth (WAKE) - 7-4 at #2, 13-5 in duals, 13-5 overall
-3. Pate/Schoppe (FUR) - 0-0 at #3, 11-5 in duals, 11-5 overall  
-   Pesavento/Campana (WAKE) - 3-8 at #3, 3-8 in duals, 3-8 overall
+
+<ol>
+<li>Kozarov/Adams (FUR) - 19-3 at #1, 19-3 in duals, 19-3 overall<br>Omirou/Campana (WAKE) - 8-4 at #1, 9-4 in duals, 9-4 overall<br>&nbsp;</li>
+<li>Dillon/Rompf (FUR) - 0-0 at #2, 19-2 in duals, 19-2 overall<br>Brylin/Killingsworth (WAKE) - 7-4 at #2, 13-5 in duals, 13-5 overall<br>&nbsp;</li>
+<li>Pate/Schoppe (FUR) - 0-0 at #3, 11-5 in duals, 11-5 overall<br>Pesavento/Campana (WAKE) - 3-8 at #3, 3-8 in duals, 3-8 overall<br>&nbsp;</li>
+</ol>

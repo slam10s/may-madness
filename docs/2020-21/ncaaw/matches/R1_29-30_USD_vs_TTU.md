@@ -48,42 +48,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Lisa Mays (TTU) - 9-7 at #1, 10-7 in duals, 12-8 overall<br>Solymar Colling (USD) - 14-4 at #1, 14-4 in duals, 14-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Lisa Mays (TTU) - 9-7 at #1, 10-7 in duals, 12-8 overall<br>Solymar Colling (USD) - 14-4 at #1, 14-4 in duals, 14-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Margarita Skriabina (TTU) - 2-0 at #2, 16-1 in duals, 18-2 overall<br>Elizabeth Goldsmith (USD) - 11-3 at #2, 11-3 in duals, 11-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Margarita Skriabina (TTU) - 2-0 at #2, 16-1 in duals, 18-2 overall<br>Elizabeth Goldsmith (USD) - 11-3 at #2, 11-3 in duals, 11-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Kaitlin Staines (TTU) - 0-0 at #3, 6-9 in duals, 9-11 overall<br>Jordyn McBride (USD) - 12-3 at #3, 14-3 in duals, 14-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Kaitlin Staines (TTU) - 0-0 at #3, 6-9 in duals, 9-11 overall<br>Jordyn McBride (USD) - 12-3 at #3, 14-3 in duals, 14-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Nell Miller (TTU) - 11-4 at #4, 14-6 in duals, 16-10 overall<br>Abigail Desiatnikov (USD) - 6-3 at #4, 12-4 in duals, 12-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Nell Miller (TTU) - 11-4 at #4, 14-6 in duals, 16-10 overall<br>Abigail Desiatnikov (USD) - 6-3 at #4, 12-4 in duals, 12-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Olivia Peet (TTU) - 9-6 at #5, 10-6 in duals, 12-6 overall<br>Victoria Kalaitzis (USD) - 8-2 at #5, 12-4 in duals, 12-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Olivia Peet (TTU) - 9-6 at #5, 10-6 in duals, 12-6 overall<br>Victoria Kalaitzis (USD) - 8-2 at #5, 12-4 in duals, 12-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Metka Komac (TTU) - 9-4 at #6, 10-5 in duals, 12-6 overall<br>Katharina Kukaras (USD) - 5-3 at #6, 11-4 in duals, 11-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Metka Komac (TTU) - 9-4 at #6, 10-5 in duals, 12-6 overall<br>Katharina Kukaras (USD) - 5-3 at #6, 11-4 in duals, 11-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Staines/Mays (TTU) - 9-7 at #1, 9-7 in duals, 9-7 overall  
-   Colling/Goldsmith (USD) - 14-3 at #1, 14-3 in duals, 14-3 overall
-2. Peet/Skriabina (TTU) - 4-2 at #2, 4-2 in duals, 4-2 overall  
-   Desiatnikov/McBride (USD) - 5-1 at #2, 12-4 in duals, 12-4 overall
-3. Miller/Komac (TTU) - 2-1 at #3, 2-1 in duals, 2-1 overall  
-   Andryukhova/Kukaras (USD) - 2-2 at #3, 2-4 in duals, 2-4 overall
+
+<ol>
+<li>Staines/Mays (TTU) - 9-7 at #1, 9-7 in duals, 9-7 overall<br>Colling/Goldsmith (USD) - 14-3 at #1, 14-3 in duals, 14-3 overall<br>&nbsp;</li>
+<li>Peet/Skriabina (TTU) - 4-2 at #2, 4-2 in duals, 4-2 overall<br>Desiatnikov/McBride (USD) - 5-1 at #2, 12-4 in duals, 12-4 overall<br>&nbsp;</li>
+<li>Miller/Komac (TTU) - 2-1 at #3, 2-1 in duals, 2-1 overall<br>Andryukhova/Kukaras (USD) - 2-2 at #3, 2-4 in duals, 2-4 overall<br>&nbsp;</li>
+</ol>

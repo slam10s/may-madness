@@ -50,42 +50,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Alastair Gray (TCU) - 6-4 at #1, 13-7 in duals, 13-7 overall<br>Alex Reco (ARK) - 2-11 at #1, 7-11 in duals, 8-12 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Alastair Gray (TCU) - 6-4 at #1, 13-7 in duals, 13-7 overall<br>Alex Reco (ARK) - 2-11 at #1, 7-11 in duals, 8-12 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Luc Fomba (TCU) - 7-3 at #2, 12-6 in duals, 12-6 overall<br>Max Verboven (ARK) - 1-7 at #2, 3-12 in duals, 3-12 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Luc Fomba (TCU) - 7-3 at #2, 12-6 in duals, 12-6 overall<br>Max Verboven (ARK) - 1-7 at #2, 3-12 in duals, 3-12 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Sander Jong (TCU) - 10-5 at #3, 10-7 in duals, 11-8 overall<br>Nico Rousett (ARK) - 8-5 at #3, 12-9 in duals, 15-12 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Sander Jong (TCU) - 10-5 at #3, 10-7 in duals, 11-8 overall<br>Nico Rousett (ARK) - 8-5 at #3, 12-9 in duals, 15-12 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Jake Fearnley (TCU) - 4-2 at #4, 8-3 in duals, 8-3 overall<br>Aleksa Bucan (ARK) - 3-4 at #4, 6-8 in duals, 10-10 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Jake Fearnley (TCU) - 4-2 at #4, 8-3 in duals, 8-3 overall<br>Aleksa Bucan (ARK) - 3-4 at #4, 6-8 in duals, 10-10 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Tomas Jirousek (TCU) - 1-1 at #5, 6-5 in duals, 7-6 overall<br>Adrien Burdet (ARK) - 11-10 at #5, 11-13 in duals, 11-13 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Tomas Jirousek (TCU) - 1-1 at #5, 6-5 in duals, 7-6 overall<br>Adrien Burdet (ARK) - 11-10 at #5, 11-13 in duals, 11-13 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Tadeas Paroulek (TCU) - 1-3 at #6, 7-11 in duals, 7-12 overall<br>Enrique Paya (ARK) - 6-10 at #6, 6-11 in duals, 6-11 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Tadeas Paroulek (TCU) - 1-3 at #6, 7-11 in duals, 7-12 overall<br>Enrique Paya (ARK) - 6-10 at #6, 6-11 in duals, 6-11 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Gray/Fomba (TCU) - 10-6 at #1, 11-6 in duals, 13-6 overall  
-   Harrison/Paya (ARK) - 3-7 at #1, 3-7 in duals, 3-7 overall
-2. Jong/Paroulek (TCU) - 8-1 at #2, 10-3 in duals, 11-4 overall  
-   Burdet/Manuel (ARK) - 6-4 at #2, 7-4 in duals, 7-4 overall
-3. Kruger/Fearnley (TCU) - 2-1 at #3, 4-3 in duals, 4-3 overall  
-   Reco/Rouset (ARK) - 11-6 at #3, 11-8 in duals, 11-8 overall
+
+<ol>
+<li>Gray/Fomba (TCU) - 10-6 at #1, 11-6 in duals, 13-6 overall<br>Harrison/Paya (ARK) - 3-7 at #1, 3-7 in duals, 3-7 overall<br>&nbsp;</li>
+<li>Jong/Paroulek (TCU) - 8-1 at #2, 10-3 in duals, 11-4 overall<br>Burdet/Manuel (ARK) - 6-4 at #2, 7-4 in duals, 7-4 overall<br>&nbsp;</li>
+<li>Kruger/Fearnley (TCU) - 2-1 at #3, 4-3 in duals, 4-3 overall<br>Reco/Rouset (ARK) - 11-6 at #3, 11-8 in duals, 11-8 overall<br>&nbsp;</li>
+</ol>

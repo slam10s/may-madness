@@ -48,42 +48,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Garrett Johns (DUKE) - 8-8 at #1, 8-8 in duals, 9-9 overall<br>Jakub Wojcik (USF) - 4-1 at #1, 17-6 in duals, 17-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Garrett Johns (DUKE) - 8-8 at #1, 8-8 in duals, 9-9 overall<br>Jakub Wojcik (USF) - 4-1 at #1, 17-6 in duals, 17-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Sean Sculley (DUKE) - 2-3 at #2, 5-4 in duals, 6-4 overall<br>Chase Ferguson (USF) - 5-0 at #2, 13-9 in duals, 13-9 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Sean Sculley (DUKE) - 2-3 at #2, 5-4 in duals, 6-4 overall<br>Chase Ferguson (USF) - 5-0 at #2, 13-9 in duals, 13-9 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Andrew Zhang (DUKE) - 5-1 at #3, 10-5 in duals, 12-5 overall<br>Ivan Yatsuk (USF) - 12-6 at #3, 15-7 in duals, 15-7 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Andrew Zhang (DUKE) - 5-1 at #3, 10-5 in duals, 12-5 overall<br>Ivan Yatsuk (USF) - 12-6 at #3, 15-7 in duals, 15-7 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Edu Guell (DUKE) - 0-1 at #4, 7-10 in duals, 8-11 overall<br>Antonio Muniz-Hidalgo (USF) - 1-1 at #4, 5-4 in duals, 5-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Edu Guell (DUKE) - 0-1 at #4, 7-10 in duals, 8-11 overall<br>Antonio Muniz-Hidalgo (USF) - 1-1 at #4, 5-4 in duals, 5-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Luca Keist (DUKE) - 3-2 at #5, 7-3 in duals, 8-3 overall<br>Pierre Luquet (USF) - 0-2 at #5, 8-10 in duals, 8-10 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Luca Keist (DUKE) - 3-2 at #5, 7-3 in duals, 8-3 overall<br>Pierre Luquet (USF) - 0-2 at #5, 8-10 in duals, 8-10 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Andrew Dale (DUKE) - 0-2 at #6, 8-4 in duals, 10-4 overall<br>Sergio Gomez-Montesa (USF) - 2-1 at #6, 13-10 in duals, 13-10 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Andrew Dale (DUKE) - 0-2 at #6, 8-4 in duals, 10-4 overall<br>Sergio Gomez-Montesa (USF) - 2-1 at #6, 13-10 in duals, 13-10 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Sculley/Johns (DUKE) - 8-7 at #1, 8-7 in duals, 9-8 overall  
-   Bollipalli/Wojcik (USF) - 9-7 at #1, 9-7 in duals, 9-7 overall
-2. Heller/Zhang (DUKE) - 4-1 at #2, 5-2 in duals, 5-2 overall  
-   Ferguson/Yatsuk (USF) - 1-0 at #2, 2-1 in duals, 2-1 overall
-3. Keist/Dale (DUKE) - 1-1 at #3, 1-1 in duals, 1-1 overall  
-   Goncalves/Tudorica (USF) - 0-0 at #3, 0-0 in duals, 0-0 overall
+
+<ol>
+<li>Sculley/Johns (DUKE) - 8-7 at #1, 8-7 in duals, 9-8 overall<br>Bollipalli/Wojcik (USF) - 9-7 at #1, 9-7 in duals, 9-7 overall<br>&nbsp;</li>
+<li>Heller/Zhang (DUKE) - 4-1 at #2, 5-2 in duals, 5-2 overall<br>Ferguson/Yatsuk (USF) - 1-0 at #2, 2-1 in duals, 2-1 overall<br>&nbsp;</li>
+<li>Keist/Dale (DUKE) - 1-1 at #3, 1-1 in duals, 1-1 overall<br>Goncalves/Tudorica (USF) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>&nbsp;</li>
+</ol>

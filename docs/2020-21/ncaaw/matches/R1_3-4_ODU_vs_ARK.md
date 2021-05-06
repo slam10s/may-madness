@@ -50,42 +50,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Indianna Spink (ARK) - 6-4 at #1, 9-5 in duals, 9-5 overall<br>Holly Hutchinson (ODU) - 7-8 at #1, 7-8 in duals, 8-9 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Indianna Spink (ARK) - 6-4 at #1, 9-5 in duals, 9-5 overall<br>Holly Hutchinson (ODU) - 7-8 at #1, 7-8 in duals, 8-9 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Kelly Keller (ARK) - 7-3 at #2, 8-6 in duals, 8-6 overall<br>Yulia Starodubtseva (ODU) - 11-1 at #2, 11-1 in duals, 11-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Kelly Keller (ARK) - 7-3 at #2, 8-6 in duals, 8-6 overall<br>Yulia Starodubtseva (ODU) - 11-1 at #2, 11-1 in duals, 11-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Tatum Rice (ARK) - 8-7 at #3, 9-7 in duals, 9-7 overall<br>Tatsiana Sasnouskaya (ODU) - 9-2 at #3, 13-2 in duals, 13-2 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Tatum Rice (ARK) - 8-7 at #3, 9-7 in duals, 9-7 overall<br>Tatsiana Sasnouskaya (ODU) - 9-2 at #3, 13-2 in duals, 13-2 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Morgan Cross (ARK) - 9-10 at #4, 10-10 in duals, 10-10 overall<br>Alesya Yakubovich (ODU) - 4-5 at #4, 6-7 in duals, 6-7 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Morgan Cross (ARK) - 9-10 at #4, 10-10 in duals, 10-10 overall<br>Alesya Yakubovich (ODU) - 4-5 at #4, 6-7 in duals, 6-7 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Lauren Alter (ARK) - 5-5 at #5, 6-9 in duals, 6-9 overall<br>Brooke Pilkington (ODU) - 2-3 at #5, 6-5 in duals, 6-5 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Lauren Alter (ARK) - 5-5 at #5, 6-9 in duals, 6-9 overall<br>Brooke Pilkington (ODU) - 2-3 at #5, 6-5 in duals, 6-5 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Laura Rijkers (ARK) - 7-0 at #6, 7-8 in duals, 7-8 overall<br>Alexandra Viktorovich (ODU) - 6-2 at #6, 7-4 in duals, 7-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Laura Rijkers (ARK) - 7-0 at #6, 7-8 in duals, 7-8 overall<br>Alexandra Viktorovich (ODU) - 6-2 at #6, 7-4 in duals, 7-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Cross/Rice (ARK) - 5-2 at #1, 5-2 in duals, 5-2 overall  
-   Starodubtseva/Yakubovich (ODU) - 5-5 at #1, 5-5 in duals, 5-5 overall
-2. Alter/Spink (ARK) - 3-5 at #2, 3-5 in duals, 3-5 overall  
-   Hutchinson/Sasnouskaya (ODU) - 11-0 at #2, 12-1 in duals, 12-1 overall
-3. Keller/Carr (ARK) - 2-3 at #3, 2-3 in duals, 2-3 overall  
-   Pilkington/Viktorovich (ODU) - 7-2 at #3, 7-2 in duals, 7-2 overall
+
+<ol>
+<li>Cross/Rice (ARK) - 5-2 at #1, 5-2 in duals, 5-2 overall<br>Starodubtseva/Yakubovich (ODU) - 5-5 at #1, 5-5 in duals, 5-5 overall<br>&nbsp;</li>
+<li>Alter/Spink (ARK) - 3-5 at #2, 3-5 in duals, 3-5 overall<br>Hutchinson/Sasnouskaya (ODU) - 11-0 at #2, 12-1 in duals, 12-1 overall<br>&nbsp;</li>
+<li>Keller/Carr (ARK) - 2-3 at #3, 2-3 in duals, 2-3 overall<br>Pilkington/Viktorovich (ODU) - 7-2 at #3, 7-2 in duals, 7-2 overall<br>&nbsp;</li>
+</ol>

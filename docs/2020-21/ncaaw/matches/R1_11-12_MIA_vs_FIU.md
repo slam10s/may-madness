@@ -51,42 +51,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-Kamila Umarova (FIU) - 10-2 at #1, 10-2 in duals, 10-2 overall<br>Estela Perez-Somarriba (MIA) - 19-2 at #1, 19-2 in duals, 19-2 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Kamila Umarova (FIU) - 10-2 at #1, 10-2 in duals, 10-2 overall<br>Estela Perez-Somarriba (MIA) - 19-2 at #1, 19-2 in duals, 19-2 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Marina Alcaide (FIU) - 3-0 at #2, 11-0 in duals, 11-0 overall<br>Isabella Pfennig (MIA) - 12-4 at #2, 16-4 in duals, 16-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Marina Alcaide (FIU) - 3-0 at #2, 11-0 in duals, 11-0 overall<br>Isabella Pfennig (MIA) - 12-4 at #2, 16-4 in duals, 16-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Andjela Skrobonja (FIU) - 0-0 at #3, 10-2 in duals, 10-2 overall<br>Daevenia Achong (MIA) - 7-6 at #3, 7-11 in duals, 7-11 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Andjela Skrobonja (FIU) - 0-0 at #3, 10-2 in duals, 10-2 overall<br>Daevenia Achong (MIA) - 7-6 at #3, 7-11 in duals, 7-11 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Basak Akbas (FIU) - 0-0 at #4, 5-5 in duals, 5-5 overall<br>Florencia Urrutia (MIA) - 11-4 at #4, 12-8 in duals, 12-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Basak Akbas (FIU) - 0-0 at #4, 5-5 in duals, 5-5 overall<br>Florencia Urrutia (MIA) - 11-4 at #4, 12-8 in duals, 12-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Andreea Velcea (FIU) - 6-2 at #5, 9-2 in duals, 9-2 overall<br>Diana Khodan (MIA) - 5-5 at #5, 12-7 in duals, 12-7 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Andreea Velcea (FIU) - 6-2 at #5, 9-2 in duals, 9-2 overall<br>Diana Khodan (MIA) - 5-5 at #5, 12-7 in duals, 12-7 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Kristina Miletic (FIU) - 1-5 at #6, 3-6 in duals, 3-6 overall<br>Maya Tahan (MIA) - 6-1 at #6, 13-8 in duals, 13-8 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Kristina Miletic (FIU) - 1-5 at #6, 3-6 in duals, 3-6 overall<br>Maya Tahan (MIA) - 6-1 at #6, 13-8 in duals, 13-8 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Umarova/Skrobonja (FIU) - 5-0 at #1, 5-0 in duals, 5-0 overall  
-   Perez-Somarriba/Pfennig (MIA) - 7-6 at #1, 9-6 in duals, 9-6 overall
-2. Alcaide/Velcea (FIU) - 2-2 at #2, 2-2 in duals, 2-2 overall  
-   Khodan/Tahan (MIA) - 10-7 at #2, 10-7 in duals, 10-7 overall
-3. Akbas/Miletic (FIU) - 5-1 at #3, 5-1 in duals, 5-1 overall  
-   Achong/Urrutia (MIA) - 8-5 at #3, 8-5 in duals, 8-5 overall
+
+<ol>
+<li>Umarova/Skrobonja (FIU) - 5-0 at #1, 5-0 in duals, 5-0 overall<br>Perez-Somarriba/Pfennig (MIA) - 7-6 at #1, 9-6 in duals, 9-6 overall<br>&nbsp;</li>
+<li>Alcaide/Velcea (FIU) - 2-2 at #2, 2-2 in duals, 2-2 overall<br>Khodan/Tahan (MIA) - 10-7 at #2, 10-7 in duals, 10-7 overall<br>&nbsp;</li>
+<li>Akbas/Miletic (FIU) - 5-1 at #3, 5-1 in duals, 5-1 overall<br>Achong/Urrutia (MIA) - 8-5 at #3, 8-5 in duals, 8-5 overall<br>&nbsp;</li>
+</ol>

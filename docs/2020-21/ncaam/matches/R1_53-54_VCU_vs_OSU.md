@@ -50,42 +50,42 @@ Click on a Singles match to show individual predections for each line.
 ### Singles:  
 
 <ol>
-<li><details><summary markdown="span">
-John McNally (OSU) - 10-2 at #1, 16-4 in duals, 21-4 overall<br>Lleyton Cronje (VCU) - 10-2 at #1, 12-3 in duals, 12-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">John McNally (OSU) - 10-2 at #1, 16-4 in duals, 21-4 overall<br>Lleyton Cronje (VCU) - 10-2 at #1, 12-3 in duals, 12-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Cannon Kingsley (OSU) - 12-0 at #2, 21-0 in duals, 27-0 overall<br>Charles Bertimon (VCU) - 9-3 at #2, 11-4 in duals, 11-4 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Cannon Kingsley (OSU) - 12-0 at #2, 21-0 in duals, 27-0 overall<br>Charles Bertimon (VCU) - 9-3 at #2, 11-4 in duals, 11-4 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-James Trotter (OSU) - 13-1 at #3, 13-1 in duals, 13-1 overall<br>Inigo Torre (VCU) - 7-2 at #3, 10-3 in duals, 10-3 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">James Trotter (OSU) - 13-1 at #3, 13-1 in duals, 13-1 overall<br>Inigo Torre (VCU) - 7-2 at #3, 10-3 in duals, 10-3 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Justin Boulais (OSU) - 5-1 at #4, 7-1 in duals, 7-1 overall<br>Rayane Stable (VCU) - 5-0 at #4, 15-2 in duals, 15-2 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Justin Boulais (OSU) - 5-1 at #4, 7-1 in duals, 7-1 overall<br>Rayane Stable (VCU) - 5-0 at #4, 15-2 in duals, 15-2 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-Kyle Seelig (OSU) - 3-0 at #5, 15-4 in duals, 18-8 overall<br>Quentin Coulaud (VCU) - 1-2 at #5, 10-6 in duals, 10-6 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">Kyle Seelig (OSU) - 3-0 at #5, 15-4 in duals, 18-8 overall<br>Quentin Coulaud (VCU) - 1-2 at #5, 10-6 in duals, 10-6 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
-<li><details><summary markdown="span">
-JJ Tracy (OSU) - 6-0 at #6, 21-1 in duals, 24-3 overall<br>Timo Zgraggen (VCU) - 6-0 at #6, 9-1 in duals, 9-1 overall
-</summary><h4>Predictions</h4><ul>
+<li><details>
+<summary markdown="span">JJ Tracy (OSU) - 6-0 at #6, 21-1 in duals, 24-3 overall<br>Timo Zgraggen (VCU) - 6-0 at #6, 9-1 in duals, 9-1 overall<br>&nbsp;</summary>
+<h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
 </ul></details></li>
 </ol>
 
 ### Doubles:  
-1. Trotter/Boulais (OSU) - 3-2 at #1, 7-3 in duals, 7-3 overall  
-   Cronje/Cierny (VCU) - 2-1 at #1, 2-2 in duals, 2-2 overall
-2. McNally/Cash (OSU) - 6-1 at #2, 13-4 in duals, 14-5 overall  
-   Martin/Stable (VCU) - 11-1 at #2, 11-2 in duals, 11-2 overall
-3. Kingsley/Seelig (OSU) - 1-2 at #3, 2-5 in duals, 5-6 overall  
-   Coulaud/Bertimon (VCU) - 5-2 at #3, 11-7 in duals, 11-7 overall
+
+<ol>
+<li>Trotter/Boulais (OSU) - 3-2 at #1, 7-3 in duals, 7-3 overall<br>Cronje/Cierny (VCU) - 2-1 at #1, 2-2 in duals, 2-2 overall<br>&nbsp;</li>
+<li>McNally/Cash (OSU) - 6-1 at #2, 13-4 in duals, 14-5 overall<br>Martin/Stable (VCU) - 11-1 at #2, 11-2 in duals, 11-2 overall<br>&nbsp;</li>
+<li>Kingsley/Seelig (OSU) - 1-2 at #3, 2-5 in duals, 5-6 overall<br>Coulaud/Bertimon (VCU) - 5-2 at #3, 11-7 in duals, 11-7 overall<br>&nbsp;</li>
+</ol>
