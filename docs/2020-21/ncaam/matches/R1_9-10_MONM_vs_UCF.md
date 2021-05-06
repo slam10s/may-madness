@@ -3,7 +3,7 @@ Saturday, May 8 at 2:00 EDT
 ## [Monmouth vs #9 UCF](https://www.ncaa.com/game/5833374) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a></a></td><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></a></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td>[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" />](../index.md)</td><td>[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" />](../index.md)</td></tr>
 <tr><td>  
 
 <h3>#1 <a href="../index.md">UCF</a></h3>  

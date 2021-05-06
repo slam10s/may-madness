@@ -3,7 +3,7 @@ Friday, May 7 at 3:00 EDT
 ## [LIU vs #14 Virginia](https://www.ncaa.com/game/5833666) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></a></a></td><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" /></a></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td>[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" />](../index.md)</td><td>[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" />](../index.md)</td></tr>
 <tr><td>  
 
 <h3>#1 <a href="../index.md">Virginia</a></h3>  
