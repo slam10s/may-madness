@@ -8,8 +8,6 @@ Saturday, May 8 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">Tennessee</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 3 (74.51)</li>  
 <li>Slam: 4 (99.18)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Alabama A&M</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 63 (1.60)</li>  

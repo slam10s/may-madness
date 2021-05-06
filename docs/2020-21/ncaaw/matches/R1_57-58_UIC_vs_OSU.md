@@ -8,8 +8,6 @@ Friday, May 7 at 2:00 EDT
 
 <h3>#1 <a href="../index.md">Ohio St.</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 18 (43.02)</li>  
 <li>Slam: 5 (92.95)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">UIC</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 59 (2.42)</li>  

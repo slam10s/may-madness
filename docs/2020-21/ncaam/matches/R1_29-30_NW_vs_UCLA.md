@@ -8,8 +8,6 @@ Saturday, May 8 at 10:00 EDT
 
 <h3>#2 <a href="../index.md">UCLA</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 24 (32.15)</li>  
 <li>Slam: 23 (93.84)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Northwestern</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 50 (7.95)</li>  

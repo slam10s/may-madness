@@ -8,8 +8,6 @@ Friday, May 7 at 4:00 EDT
 
 <h3>#1 <a href="../index.md">Texas</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 2 (79.19)</li>  
 <li>Slam: 2 (98.44)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Denver</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 45 (11.66)</li>  

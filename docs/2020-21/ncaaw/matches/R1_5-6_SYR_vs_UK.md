@@ -8,8 +8,6 @@ Friday, May 7 at 1:00 EDT
 
 <h3>#2 <a href="../index.md">Kentucky</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 26 (37.41)</li>  
 <li>Slam: 25 (89.36)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Syracuse</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 43 (15.84)</li>  

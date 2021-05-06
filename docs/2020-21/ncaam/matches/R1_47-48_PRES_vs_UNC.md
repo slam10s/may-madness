@@ -8,8 +8,6 @@ Saturday, May 8 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">North Carolina</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 6 (72.02)</li>  
 <li>Slam: 3 (99.37)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Presbyterian</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 59 (3.97)</li>  

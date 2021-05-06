@@ -8,8 +8,6 @@ Friday, May 7 at 1:00 EDT
 
 <h3>#3 <a href="../index.md">Oklahoma St.</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 37 (20.71)</li>  
 <li>Slam: 37 (87.45)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#2 <a href="../index.md">Auburn</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 20 (41.17)</li>  

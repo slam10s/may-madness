@@ -8,8 +8,6 @@ Friday, May 7 at 10:00 EDT
 
 <h3>#3 <a href="../index.md">Furman</a></h3>  
 
-Automatic Qualifier  
-
 <ol>  
 <li>ITA: 34 (25.42)</li>  
 <li>Slam: 33 (87.98)</li>  
@@ -23,8 +21,6 @@ Automatic Qualifier
 </td><td>  
 
 <h3>#2 <a href="../index.md">Wake Forest</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 33 (25.77)</li>  

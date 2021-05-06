@@ -8,8 +8,6 @@ Friday, May 7 at 3:00 EDT
 
 <h3>#2 <a href="../index.md">Duke</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 17 (43.03)</li>  
 <li>Slam: 14 (90.91)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Alabama</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 42 (16.54)</li>  

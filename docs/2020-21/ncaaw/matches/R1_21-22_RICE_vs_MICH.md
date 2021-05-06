@@ -8,8 +8,6 @@ Friday, May 7 at 11:00 EDT
 
 <h3>#2 <a href="../index.md">Michigan</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 19 (41.22)</li>  
 <li>Slam: 8 (91.95)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Rice</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 40 (18.25)</li>  

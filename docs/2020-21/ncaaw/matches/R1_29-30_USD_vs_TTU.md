@@ -8,8 +8,6 @@ Friday, May 7 at 4:00 EDT
 
 <h3>#2 <a href="../index.md">Texas Tech</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 29 (28.07)</li>  
 <li>Slam: 34 (87.92)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">San Diego</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 39 (19.12)</li>  

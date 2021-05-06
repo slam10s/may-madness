@@ -8,8 +8,6 @@ Saturday, May 8 at 2:00 EDT
 
 <h3>#1 <a href="../index.md">UCF</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 10 (54.95)</li>  
 <li>Slam: 12 (96.59)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Monmouth</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 58 (4.41)</li>  

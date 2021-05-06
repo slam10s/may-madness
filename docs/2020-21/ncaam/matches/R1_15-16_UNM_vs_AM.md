@@ -8,8 +8,6 @@ Friday, May 7 at 3:00 EDT
 
 <h3>#1 <a href="../index.md">Texas A&M</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 8 (63.69)</li>  
 <li>Slam: 11 (96.97)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">New Mexico</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 52 (7.44)</li>  

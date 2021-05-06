@@ -8,8 +8,6 @@ Friday, May 7 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">Kentucky</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 15 (44.70)</li>  
 <li>Slam: 17 (95.87)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Cleveland St.</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 57 (4.43)</li>  

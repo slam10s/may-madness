@@ -8,8 +8,6 @@ Saturday, May 8 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">Florida</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 2 (81.08)</li>  
 <li>Slam: 2 (99.77)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">South Alabama</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 53 (6.83)</li>  

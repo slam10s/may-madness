@@ -8,8 +8,6 @@ Friday, May 7 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">North Carolina</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 1 (87.72)</li>  
 <li>Slam: 1 (100.00)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">South Carolina St.</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>Slam: 62 (70.68)</li>  

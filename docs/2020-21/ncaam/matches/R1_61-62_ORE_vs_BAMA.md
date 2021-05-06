@@ -8,8 +8,6 @@ Saturday, May 8 at 12:00 EDT
 
 <h3>#2 <a href="../index.md">Alabama</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 26 (30.96)</li>  
 <li>Slam: 28 (93.06)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Oregon</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 36 (23.55)</li>  

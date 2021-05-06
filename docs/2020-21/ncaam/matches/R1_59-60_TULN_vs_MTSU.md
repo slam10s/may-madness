@@ -8,8 +8,6 @@ Saturday, May 8 at 1:00 EDT
 
 <h3>#3 <a href="../index.md">Middle Tenn.</a></h3>  
 
-Automatic Qualifier  
-
 <ol>  
 <li>ITA: 42 (18.52)</li>  
 <li>Slam: 45 (91.28)</li>  
@@ -22,8 +20,6 @@ Automatic Qualifier
 </td><td>  
 
 <h3>#2 <a href="../index.md">Tulane</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 22 (33.07)</li>  

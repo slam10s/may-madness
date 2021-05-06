@@ -8,8 +8,6 @@ Saturday, May 8 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">Virginia</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 4 (74.36)</li>  
 <li>Slam: 1 (100.00)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Fairleigh Dickinson</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 62 (1.95)</li>  

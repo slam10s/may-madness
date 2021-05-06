@@ -8,8 +8,6 @@ Friday, May 7 at 12:00 EDT
 
 <h3>#3 <a href="../index.md">FIU</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 41 (18.12)</li>  
 <li>Slam: 30 (88.35)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#2 <a href="../index.md">Miami (FL)</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 24 (38.72)</li>  

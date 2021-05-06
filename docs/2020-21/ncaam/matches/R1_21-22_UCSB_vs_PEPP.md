@@ -8,8 +8,6 @@ Friday, May 7 at 1:00 EDT
 
 <h3>#2 <a href="../index.md">Pepperdine</a></h3>  
 
-Automatic Qualifier  
-
 <ol>  
 <li>ITA: 28 (29.09)</li>  
 <li>Slam: 34 (92.69)</li>  
@@ -23,8 +21,6 @@ Automatic Qualifier
 </td><td>  
 
 <h3>#3 <a href="../index.md">UC Santa Barbara</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 54 (6.34)</li>  

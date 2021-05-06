@@ -8,8 +8,6 @@ Friday, May 7 at 2:00 EDT
 
 <h3>#2 <a href="../index.md">Notre Dame</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 34 (25.22)</li>  
 <li>Slam: 40 (91.96)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Western Mich.</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 41 (18.89)</li>  

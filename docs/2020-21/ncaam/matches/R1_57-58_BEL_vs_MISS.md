@@ -8,8 +8,6 @@ Saturday, May 8 at 4:00 EDT
 
 <h3>#1 <a href="../index.md">Ole Miss</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 14 (44.94)</li>  
 <li>Slam: 18 (95.00)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Belmont</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 56 (4.48)</li>  

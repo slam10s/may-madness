@@ -8,8 +8,6 @@ Friday, May 7 at 2:00 EDT
 
 <h3>#1 <a href="../index.md">LSU</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 12 (48.73)</li>  
 <li>Slam: 21 (90.28)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Boston U.</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 50 (5.16)</li>  

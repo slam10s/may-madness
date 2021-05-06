@@ -8,8 +8,6 @@ Friday, May 7 at 1:00 EDT
 
 <h3>#2 <a href="../index.md">Arizona St.</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 31 (26.09)</li>  
 <li>Slam: 31 (88.20)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Mississippi St.</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 38 (19.84)</li>  

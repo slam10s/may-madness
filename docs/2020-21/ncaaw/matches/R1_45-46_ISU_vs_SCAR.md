@@ -8,8 +8,6 @@ Friday, May 7 at 12:00 EDT
 
 <h3>#2 <a href="../index.md">South Carolina</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 22 (39.21)</li>  
 <li>Slam: 27 (89.34)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Iowa St.</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 36 (22.35)</li>  

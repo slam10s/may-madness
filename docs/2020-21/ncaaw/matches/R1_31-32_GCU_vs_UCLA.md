@@ -8,8 +8,6 @@ Friday, May 7 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">UCLA</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 4 (61.84)</li>  
 <li>Slam: 4 (92.98)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Grand Canyon</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 62 (1.99)</li>  

@@ -8,8 +8,6 @@ Saturday, May 8 at 10:00 EDT
 
 <h3>#2 <a href="../index.md">Oklahoma St.</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 19 (35.31)</li>  
 <li>Slam: 24 (93.68)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Navy</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 48 (8.28)</li>  

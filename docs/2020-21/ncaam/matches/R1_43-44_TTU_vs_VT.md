@@ -8,8 +8,6 @@ Saturday, May 8 at 10:00 EDT
 
 <h3>#3 <a href="../index.md">Virginia Tech</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 29 (28.32)</li>  
 <li>Slam: 30 (93.02)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#2 <a href="../index.md">Texas Tech</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 25 (31.34)</li>  

@@ -8,8 +8,6 @@ Saturday, May 8 at 12:00 EDT
 
 <h3>#3 <a href="../index.md">Wichita St.</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 33 (25.34)</li>  
 <li>Slam: 39 (92.05)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#2 <a href="../index.md">Arizona St.</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 20 (34.84)</li>  

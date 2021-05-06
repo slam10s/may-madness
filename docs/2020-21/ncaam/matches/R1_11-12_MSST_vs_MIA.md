@@ -8,8 +8,6 @@ Saturday, May 8 at 11:00 EDT
 
 <h3>#3 <a href="../index.md">Miami (FL)</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 39 (19.34)</li>  
 <li>Slam: 37 (92.19)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#2 <a href="../index.md">Mississippi St.</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 16 (41.29)</li>  

@@ -8,8 +8,6 @@ Friday, May 7 at 2:00 EDT
 
 <h3>#2 <a href="../index.md">Ohio St.</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 31 (26.40)</li>  
 <li>Slam: 7 (97.86)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">VCU</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 37 (23.44)</li>  

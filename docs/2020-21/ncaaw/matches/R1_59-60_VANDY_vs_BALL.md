@@ -8,8 +8,6 @@ Friday, May 7 at 11:00 EDT
 
 <h3>#3 <a href="../index.md">Ball St.</a></h3>  
 
-Automatic Qualifier  
-
 <ol>  
 <li>ITA: 51 (4.35)</li>  
 <li>Slam: 52 (79.30)</li>  
@@ -21,8 +19,6 @@ Automatic Qualifier
 </td><td>  
 
 <h3>#2 <a href="../index.md">Vanderbilt</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 27 (35.19)</li>  

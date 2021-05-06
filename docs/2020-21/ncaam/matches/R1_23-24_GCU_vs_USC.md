@@ -8,8 +8,6 @@ Friday, May 7 at 4:00 EDT
 
 <h3>#1 <a href="../index.md">Southern California</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 12 (52.23)</li>  
 <li>Slam: 14 (96.38)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Grand Canyon</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 64 (1.38)</li>  

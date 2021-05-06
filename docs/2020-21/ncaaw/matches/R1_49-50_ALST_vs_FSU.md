@@ -8,8 +8,6 @@ Friday, May 7 at 4:00 EDT
 
 <h3>#1 <a href="../index.md">Florida St.</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 7 (55.15)</li>  
 <li>Slam: 10 (91.81)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Alabama St.</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 61 (2.29)</li>  

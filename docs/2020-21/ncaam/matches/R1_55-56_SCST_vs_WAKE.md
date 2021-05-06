@@ -8,8 +8,6 @@ Friday, May 7 at 5:00 EDT
 
 <h3>#1 <a href="../index.md">Wake Forest</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 9 (56.82)</li>  
 <li>Slam: 10 (97.17)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">South Carolina St.</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 65 (0.72)</li>  

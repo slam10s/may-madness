@@ -8,8 +8,6 @@ Friday, May 7 at 11:00 EDT
 
 <h3>#3 <a href="../index.md">North Florida</a></h3>  
 
-Automatic Qualifier  
-
 <ol>  
 <li>ITA: 48 (8.00)</li>  
 <li>Slam: 46 (84.69)</li>  
@@ -21,8 +19,6 @@ Automatic Qualifier
 </td><td>  
 
 <h3>#2 <a href="../index.md">Ole Miss</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 25 (38.66)</li>  

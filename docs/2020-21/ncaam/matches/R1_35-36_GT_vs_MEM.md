@@ -8,8 +8,6 @@ Saturday, May 8 at 10:00 EDT
 
 <h3>#3 <a href="../index.md">Memphis</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 38 (22.19)</li>  
 <li>Slam: 41 (91.89)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#2 <a href="../index.md">Georgia Tech</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 30 (27.75)</li>  

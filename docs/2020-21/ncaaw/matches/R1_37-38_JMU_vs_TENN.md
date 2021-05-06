@@ -8,8 +8,6 @@ Friday, May 7 at 12:00 EDT
 
 <h3>#2 <a href="../index.md">Tennessee</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 15 (46.78)</li>  
 <li>Slam: 19 (90.43)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">James Madison</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 46 (8.95)</li>  

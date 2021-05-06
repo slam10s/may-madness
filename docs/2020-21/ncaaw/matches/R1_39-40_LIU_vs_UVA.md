@@ -8,8 +8,6 @@ Friday, May 7 at 3:00 EDT
 
 <h3>#1 <a href="../index.md">Virginia</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 14 (47.67)</li>  
 <li>Slam: 9 (91.88)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">LIU</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 52 (4.20)</li>  

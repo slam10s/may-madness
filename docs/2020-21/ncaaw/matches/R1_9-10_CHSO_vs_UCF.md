@@ -8,8 +8,6 @@ Friday, May 7 at 3:00 EDT
 
 <h3>#1 <a href="../index.md">UCF</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 9 (52.14)</li>  
 <li>Slam: 12 (91.41)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Charleston So.</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 58 (2.77)</li>  

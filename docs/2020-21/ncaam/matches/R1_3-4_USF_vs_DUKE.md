@@ -8,8 +8,6 @@ Saturday, May 8 at 10:00 EDT
 
 <h3>#3 <a href="../index.md">Duke</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 35 (25.15)</li>  
 <li>Slam: 31 (93.00)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#2 <a href="../index.md">South Fla.</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 32 (26.14)</li>  

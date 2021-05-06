@@ -8,8 +8,6 @@ Friday, May 7 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">Florida</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 11 (49.18)</li>  
 <li>Slam: 16 (90.47)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Siena</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 60 (2.41)</li>  

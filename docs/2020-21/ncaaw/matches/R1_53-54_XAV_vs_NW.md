@@ -8,8 +8,6 @@ Friday, May 7 at 4:00 EDT
 
 <h3>#2 <a href="../index.md">Northwestern</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 21 (39.92)</li>  
 <li>Slam: 18 (90.46)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Xavier</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 55 (3.75)</li>  

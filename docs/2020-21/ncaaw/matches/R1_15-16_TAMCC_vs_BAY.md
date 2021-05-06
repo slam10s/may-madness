@@ -8,8 +8,6 @@ Friday, May 7 at 6:00 EDT
 
 <h3>#1 <a href="../index.md">Baylor</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 8 (52.73)</li>  
 <li>Slam: 7 (92.44)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">A&M-Corpus Christi</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 56 (3.61)</li>  

@@ -8,8 +8,6 @@ Friday, May 7 at 10:00 EDT
 
 <h3>#3 <a href="../index.md">Arkansas</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 32 (26.02)</li>  
 <li>Slam: 38 (87.39)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#2 <a href="../index.md">Old Dominion</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 30 (28.00)</li>  

@@ -8,8 +8,6 @@ Friday, May 7 at 12:00 EDT
 
 <h3>#2 <a href="../index.md">Oklahoma</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 27 (29.42)</li>  
 <li>Slam: 29 (93.05)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Denver</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 45 (17.16)</li>  

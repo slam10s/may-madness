@@ -8,8 +8,6 @@ Saturday, May 8 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">Texas</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 5 (74.24)</li>  
 <li>Slam: 8 (97.59)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Northern Ariz.</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 61 (2.13)</li>  

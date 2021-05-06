@@ -8,8 +8,6 @@ Friday, May 7 at 2:00 EDT
 
 <h3>#1 <a href="../index.md">Georgia Tech</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 13 (48.32)</li>  
 <li>Slam: 20 (90.34)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Ga. Southern</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 53 (4.08)</li>  

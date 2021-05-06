@@ -8,8 +8,6 @@ Saturday, May 8 at 10:00 EDT
 
 <h3>#3 <a href="../index.md">LSU</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 40 (19.17)</li>  
 <li>Slam: 38 (92.17)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#2 <a href="../index.md">Stanford</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 21 (34.55)</li>  

@@ -8,8 +8,6 @@ Friday, May 7 at 5:00 EDT
 
 <h3>#1 <a href="../index.md">Pepperdine</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 5 (60.71)</li>  
 <li>Slam: 6 (92.64)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Northern Ariz.</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 54 (3.85)</li>  

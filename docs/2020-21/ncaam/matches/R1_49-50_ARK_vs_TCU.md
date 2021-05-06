@@ -8,8 +8,6 @@ Saturday, May 8 at 3:00 EDT
 
 <h3>#1 <a href="../index.md">TCU</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 7 (69.22)</li>  
 <li>Slam: 9 (97.57)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">Arkansas</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 43 (18.30)</li>  

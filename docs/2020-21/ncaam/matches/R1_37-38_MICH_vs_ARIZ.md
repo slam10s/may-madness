@@ -8,8 +8,6 @@ Friday, May 7 at 10:00 EDT
 
 <h3>#2 <a href="../index.md">Arizona</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 17 (38.97)</li>  
 <li>Slam: 21 (94.26)</li>  
@@ -23,8 +21,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#3 <a href="../index.md">Michigan</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 46 (15.17)</li>  

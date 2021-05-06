@@ -8,8 +8,6 @@ Saturday, May 8 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">Georgia</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 11 (54.81)</li>  
 <li>Slam: 16 (96.08)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">ETSU</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 49 (7.97)</li>  

@@ -8,8 +8,6 @@ Friday, May 7 at 4:00 EDT
 
 <h3>#1 <a href="../index.md">California</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 16 (45.98)</li>  
 <li>Slam: 17 (90.47)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">San Jose St.</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 47 (8.04)</li>  

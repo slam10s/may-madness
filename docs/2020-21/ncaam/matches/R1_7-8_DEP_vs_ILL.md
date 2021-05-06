@@ -8,8 +8,6 @@ Friday, May 7 at 5:00 EDT
 
 <h3>#1 <a href="../index.md">Illinois</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 18 (36.82)</li>  
 <li>Slam: 6 (98.81)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">DePaul</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 55 (5.64)</li>  

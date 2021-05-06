@@ -8,8 +8,6 @@ Friday, May 7 at 1:00 EDT
 
 <h3>#1 <a href="../index.md">South Carolina</a></h3>  
 
-Regional Host  
-
 <ol>  
 <li>ITA: 13 (50.95)</li>  
 <li>Slam: 15 (96.20)</li>  
@@ -23,8 +21,6 @@ Regional Host
 </td><td>  
 
 <h3>#4 <a href="../index.md">UNCW</a></h3>  
-
-Automatic Qualifier  
 
 <ol>  
 <li>ITA: 51 (7.93)</li>  

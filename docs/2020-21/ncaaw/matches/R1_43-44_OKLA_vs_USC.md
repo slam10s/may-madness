@@ -8,8 +8,6 @@ Friday, May 7 at 10:00 EDT
 
 <h3>#3 <a href="../index.md">Southern California</a></h3>  
 
-At-Large Bid  
-
 <ol>  
 <li>ITA: 35 (23.17)</li>  
 <li>Slam: 35 (87.72)</li>  
@@ -22,8 +20,6 @@ At-Large Bid
 </td><td>  
 
 <h3>#2 <a href="../index.md">Oklahoma</a></h3>  
-
-At-Large Bid  
 
 <ol>  
 <li>ITA: 23 (39.04)</li>  
