@@ -51,11 +51,15 @@ This assumes the top players and doubles teams listed are starting.
 
 #### Singles:
 
+<ol>
+<li>
 <details><summary markdown="span">
-1. Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall  
+Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall  
 <br>Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall
 </summary>
+
 #### Predictions
+
 - Slam: **_VT_** - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)
 - TRN: **_VT_** - #29 Virginia Tech (51%) def. #31 Texas Tech (49%)
 - Massey: **_TTU_** - #28 Texas Tech (75%) def. #33 Virginia Tech (25%)
@@ -65,6 +69,8 @@ This assumes the top players and doubles teams listed are starting.
 - Coaches Poll: **_TTU_** - #27 Texas Tech def. #34 Virginia Tech
 - Seeding: **_TTU_** - #2 Texas Tech def. #3 Virginia Tech
 </details>
+</li>
+
 2. Alex Ribeiro (VT) - 2-1 at #2, 5-5 in duals, 5-5 overall  
    Ilgiz Valiev (TTU) - 10-6 at #2, 11-7 in duals, 14-13 overall
 3. Matt Ross (VT) - 1-1 at #3, 8-12 in duals, 8-12 overall  
