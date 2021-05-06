@@ -52,9 +52,11 @@ This assumes the top players and doubles teams listed are starting.
 #### Singles:
 
 <ol>
+<li>
 <details><summary markdown="span">
 Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall
-<br>&nbsp;&nbsp;&nbsp;Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall
+<br>&nbsp;&nbsp;&nbsp;&nbsp;
+Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall
 </summary>
 
 #### Predictions
@@ -68,17 +70,33 @@ Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall
 - Coaches Poll: **_TTU_** - #27 Texas Tech def. #34 Virginia Tech
 - Seeding: **_TTU_** - #2 Texas Tech def. #3 Virginia Tech
 </details>
+</li>
 
-2. Alex Ribeiro (VT) - 2-1 at #2, 5-5 in duals, 5-5 overall  
-   Ilgiz Valiev (TTU) - 10-6 at #2, 11-7 in duals, 14-13 overall
-3. Matt Ross (VT) - 1-1 at #3, 8-12 in duals, 8-12 overall  
-   Franco Ribero (TTU) - 7-4 at #3, 8-5 in duals, 11-11 overall
-4. Carlo Donato (VT) - 0-2 at #4, 5-13 in duals, 5-13 overall  
-   Reed Collier (TTU) - 6-5 at #4, 7-7 in duals, 14-8 overall
-5. Hugo Maia (VT) - 0-2 at #5, 13-6 in duals, 13-6 overall  
-   Dimi Azoides (TTU) - 8-3 at #5, 12-4 in duals, 15-10 overall
-6. Ryan Fishback (VT) - 4-1 at #6, 13-6 in duals, 13-6 overall  
-   Isaac Arevalo (TTU) - 5-4 at #6, 8-5 in duals, 14-7 overall
+<li>
+Alex Ribeiro (VT) - 2-1 at #2, 5-5 in duals, 5-5 overall  
+Ilgiz Valiev (TTU) - 10-6 at #2, 11-7 in duals, 14-13 overall
+</li>
+
+<li>
+Matt Ross (VT) - 1-1 at #3, 8-12 in duals, 8-12 overall  
+Franco Ribero (TTU) - 7-4 at #3, 8-5 in duals, 11-11 overall
+</li>
+
+<li>
+Carlo Donato (VT) - 0-2 at #4, 5-13 in duals, 5-13 overall  
+Reed Collier (TTU) - 6-5 at #4, 7-7 in duals, 14-8 overall
+</li>
+
+<li>
+Hugo Maia (VT) - 0-2 at #5, 13-6 in duals, 13-6 overall  
+Dimi Azoides (TTU) - 8-3 at #5, 12-4 in duals, 15-10 overall
+</li>
+
+<li>
+Ryan Fishback (VT) - 4-1 at #6, 13-6 in duals, 13-6 overall  
+Isaac Arevalo (TTU) - 5-4 at #6, 8-5 in duals, 14-7 overall
+</li>
+</ol>
 
 #### Doubles:
 
