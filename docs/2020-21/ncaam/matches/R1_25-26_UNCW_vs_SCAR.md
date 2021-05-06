@@ -2,21 +2,22 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [UNCW vs #13 South Carolina](https://www.ncaa.com/game/5833382) 
 
-| :------------------------ | :------------------------ |  
-| ### #1 South Carolina     | |  
-| Regional Host             | |  
-| - ITA: 50.948 (13)        | |  
-| - Slam: 96.202 (15)       | |  
-| - TRN: 94.494 (15)        | |  
-| - Massey: 8.13 (16)       | |  
-| - UTR: 78.69 (17)         | |  
-| - USTA Poll: 15           | |  
-| - Coached Poll: 13        | |  
-
-> ### #4 UNCW  
-> Automatic Qualifier  
-> - ITA: 7.929 (51)  
-> - Slam: 88.868 (48)  
-> - TRN: 86.189 (49)  
-> - Massey: 6.7 (49)  
-> - UTR: 74 (48)  
+<table><tr><td>  
+### #1 South Carolina  
+Regional Host  
+- ITA: 50.948 (13)  
+- Slam: 96.202 (15)  
+- TRN: 94.494 (15)  
+- Massey: 8.13 (16)  
+- UTR: 78.69 (17)  
+- USTA Poll: 15  
+- Coached Poll: 13  
+</td><td>  
+### #4 UNCW  
+Automatic Qualifier  
+- ITA: 7.929 (51)  
+- Slam: 88.868 (48)  
+- TRN: 86.189 (49)  
+- Massey: 6.7 (49)  
+- UTR: 74 (48)  
+</td></tr></table>  
