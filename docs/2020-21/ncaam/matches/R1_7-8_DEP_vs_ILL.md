@@ -4,9 +4,9 @@ Friday, May 7 at 5:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></a>  
 
-### #1 Illinois  
+### #1 [Illinois](../index.md)  
 
 Regional Host  
 - ITA: 18 (36.82)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></a>  
 
-### #4 DePaul  
+### #4 [DePaul](../index.md)  
 
 Automatic Qualifier  
 - ITA: 55 (5.64)  

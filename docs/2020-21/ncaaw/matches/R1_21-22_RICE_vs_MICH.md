@@ -4,9 +4,9 @@ Friday, May 7 at 11:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></a>  
 
-### #2 Michigan  
+### #2 [Michigan](../index.md)  
 
 At-Large Bid  
 - ITA: 19 (41.22)  
@@ -19,9 +19,9 @@ At-Large Bid
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/r/rice.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/r/rice.70.png" width="70" height="70" /></a>  
 
-### #3 Rice  
+### #3 [Rice](../index.md)  
 
 At-Large Bid  
 - ITA: 40 (18.25)  

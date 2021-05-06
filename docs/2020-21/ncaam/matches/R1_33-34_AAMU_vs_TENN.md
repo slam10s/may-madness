@@ -4,9 +4,9 @@ Saturday, May 8 at 1:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></a>  
 
-### #1 Tennessee  
+### #1 [Tennessee](../index.md)  
 
 Regional Host  
 - ITA: 3 (74.51)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png" width="70" height="70" /></a>  
 
-### #4 Alabama A&M  
+### #4 [Alabama A&M](../index.md)  
 
 Automatic Qualifier  
 - ITA: 63 (1.60)  

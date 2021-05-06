@@ -4,9 +4,9 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a>  
 
-### #2 Arizona St.  
+### #2 [Arizona St.](../index.md)  
 
 At-Large Bid  
 - ITA: 31 (26.09)  
@@ -19,9 +19,9 @@ At-Large Bid
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a>  
 
-### #3 Mississippi St.  
+### #3 [Mississippi St.](../index.md)  
 
 At-Large Bid  
 - ITA: 38 (19.84)  

@@ -4,9 +4,9 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a>  
 
-### #1 Kentucky  
+### #1 [Kentucky](../index.md)  
 
 Regional Host  
 - ITA: 15 (44.70)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" /></a>  
 
-### #4 Cleveland St.  
+### #4 [Cleveland St.](../index.md)  
 
 Automatic Qualifier  
 - ITA: 57 (4.43)  

@@ -4,9 +4,9 @@ Friday, May 7 at 12:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a>  
 
-### #2 Oklahoma  
+### #2 [Oklahoma](../index.md)  
 
 At-Large Bid  
 - ITA: 27 (29.42)  
@@ -18,9 +18,9 @@ At-Large Bid
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></a>  
 
-### #3 Denver  
+### #3 [Denver](../index.md)  
 
 Automatic Qualifier  
 - ITA: 45 (17.16)  

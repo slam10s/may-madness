@@ -4,9 +4,9 @@ Saturday, May 8 at 1:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></a>  
 
-### #1 North Carolina  
+### #1 [North Carolina](../index.md)  
 
 Regional Host  
 - ITA: 6 (72.02)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></a>  
 
-### #4 Presbyterian  
+### #4 [Presbyterian](../index.md)  
 
 Automatic Qualifier  
 - ITA: 59 (3.97)  

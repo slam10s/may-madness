@@ -4,9 +4,9 @@ Friday, May 7 at 4:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></a>  
 
-### #1 California  
+### #1 [California](../index.md)  
 
 Regional Host  
 - ITA: 16 (45.98)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></a>  
 
-### #4 San Jose St.  
+### #4 [San Jose St.](../index.md)  
 
 Automatic Qualifier  
 - ITA: 47 (8.04)  

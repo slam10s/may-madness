@@ -4,9 +4,9 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a>  
 
-### #1 Florida  
+### #1 [Florida](../index.md)  
 
 Regional Host  
 - ITA: 11 (49.18)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png" width="70" height="70" /></a>  
 
-### #4 Siena  
+### #4 [Siena](../index.md)  
 
 Automatic Qualifier  
 - ITA: 60 (2.41)  

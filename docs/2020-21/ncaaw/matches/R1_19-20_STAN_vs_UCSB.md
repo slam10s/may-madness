@@ -4,9 +4,9 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></a>  
 
-### #3 UC Santa Barbara  
+### #3 [UC Santa Barbara](../index.md)  
 
 Automatic Qualifier  
 - ITA: 44 (14.68)  
@@ -17,9 +17,9 @@ Automatic Qualifier
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></a>  
 
-### #2 Stanford  
+### #2 [Stanford](../index.md)  
 
 At-Large Bid  
 - ITA: 28 (35.11)  

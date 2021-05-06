@@ -4,9 +4,9 @@ Friday, May 7 at 10:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a>  
 
-### #3 Furman  
+### #3 [Furman](../index.md)  
 
 Automatic Qualifier  
 - ITA: 34 (25.42)  
@@ -19,9 +19,9 @@ Automatic Qualifier
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a>  
 
-### #2 Wake Forest  
+### #2 [Wake Forest](../index.md)  
 
 At-Large Bid  
 - ITA: 33 (25.77)  

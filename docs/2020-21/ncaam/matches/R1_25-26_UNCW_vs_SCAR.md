@@ -4,9 +4,9 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a>  
 
-### #1 South Carolina  
+### #1 [South Carolina](../index.md)  
 
 Regional Host  
 - ITA: 13 (50.95)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></a>  
 
-### #4 UNCW  
+### #4 [UNCW](../index.md)  
 
 Automatic Qualifier  
 - ITA: 51 (7.93)  

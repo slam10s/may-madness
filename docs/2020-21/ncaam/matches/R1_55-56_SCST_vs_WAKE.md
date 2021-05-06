@@ -4,9 +4,9 @@ Friday, May 7 at 5:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a>  
 
-### #1 Wake Forest  
+### #1 [Wake Forest](../index.md)  
 
 Regional Host  
 - ITA: 9 (56.82)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></a>  
 
-### #4 South Carolina St.  
+### #4 [South Carolina St.](../index.md)  
 
 Automatic Qualifier  
 - ITA: 65 (0.72)  

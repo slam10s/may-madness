@@ -4,9 +4,9 @@ Saturday, May 8 at 4:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" /></a>  
 
-### #1 Ole Miss  
+### #1 [Ole Miss](../index.md)  
 
 Regional Host  
 - ITA: 14 (44.94)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png" width="70" height="70" /></a>  
 
-### #4 Belmont  
+### #4 [Belmont](../index.md)  
 
 Automatic Qualifier  
 - ITA: 56 (4.48)  

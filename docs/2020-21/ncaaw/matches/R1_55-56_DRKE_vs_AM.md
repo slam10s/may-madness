@@ -4,9 +4,9 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></a>  
 
-### #1 Texas A&M  
+### #1 [Texas A&M](../index.md)  
 
 Regional Host  
 - ITA: 10 (50.15)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" /></a>  
 
-### #4 Drake  
+### #4 [Drake](../index.md)  
 
 Automatic Qualifier  
 - ITA: 63 (1.98)  

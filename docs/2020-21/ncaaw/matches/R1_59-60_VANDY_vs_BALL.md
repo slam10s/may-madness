@@ -4,9 +4,9 @@ Friday, May 7 at 11:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></a>  
 
-### #3 Ball St.  
+### #3 [Ball St.](../index.md)  
 
 Automatic Qualifier  
 - ITA: 51 (4.35)  
@@ -17,9 +17,9 @@ Automatic Qualifier
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></a>  
 
-### #2 Vanderbilt  
+### #2 [Vanderbilt](../index.md)  
 
 At-Large Bid  
 - ITA: 27 (35.19)  

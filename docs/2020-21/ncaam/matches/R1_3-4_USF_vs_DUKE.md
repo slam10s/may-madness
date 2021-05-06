@@ -4,9 +4,9 @@ Saturday, May 8 at 10:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a>  
 
-### #3 Duke  
+### #3 [Duke](../index.md)  
 
 At-Large Bid  
 - ITA: 35 (25.15)  
@@ -18,9 +18,9 @@ At-Large Bid
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" /></a>  
 
-### #2 South Fla.  
+### #2 [South Fla.](../index.md)  
 
 At-Large Bid  
 - ITA: 32 (26.14)  

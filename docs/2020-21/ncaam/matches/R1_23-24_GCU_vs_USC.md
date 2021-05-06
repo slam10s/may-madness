@@ -4,9 +4,9 @@ Friday, May 7 at 4:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a>  
 
-### #1 Southern California  
+### #1 [Southern California](../index.md)  
 
 Regional Host  
 - ITA: 12 (52.23)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" /></a>  
 
-### #4 Grand Canyon  
+### #4 [Grand Canyon](../index.md)  
 
 Automatic Qualifier  
 - ITA: 64 (1.38)  

@@ -4,9 +4,9 @@ Saturday, May 8 at 10:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a>  
 
-### #3 Virginia Tech  
+### #3 [Virginia Tech](../index.md)  
 
 At-Large Bid  
 - ITA: 29 (28.32)  
@@ -18,9 +18,9 @@ At-Large Bid
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a>  
 
-### #2 Texas Tech  
+### #2 [Texas Tech](../index.md)  
 
 At-Large Bid  
 - ITA: 25 (31.34)  

@@ -4,9 +4,9 @@ Saturday, May 8 at 12:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a>  
 
-### #2 Alabama  
+### #2 [Alabama](../index.md)  
 
 At-Large Bid  
 - ITA: 26 (30.96)  
@@ -18,9 +18,9 @@ At-Large Bid
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png" width="70" height="70" /></a>  
 
-### #3 Oregon  
+### #3 [Oregon](../index.md)  
 
 At-Large Bid  
 - ITA: 36 (23.55)  

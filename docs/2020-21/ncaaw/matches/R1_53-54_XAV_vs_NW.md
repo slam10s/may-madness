@@ -4,9 +4,9 @@ Friday, May 7 at 4:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></a>  
 
-### #2 Northwestern  
+### #2 [Northwestern](../index.md)  
 
 At-Large Bid  
 - ITA: 21 (39.92)  
@@ -19,9 +19,9 @@ At-Large Bid
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png" width="70" height="70" /></a>  
 
-### #3 Xavier  
+### #3 [Xavier](../index.md)  
 
 Automatic Qualifier  
 - ITA: 55 (3.75)  

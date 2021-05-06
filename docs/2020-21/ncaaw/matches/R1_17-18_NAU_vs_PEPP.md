@@ -4,9 +4,9 @@ Friday, May 7 at 5:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a>  
 
-### #1 Pepperdine  
+### #1 [Pepperdine](../index.md)  
 
 Regional Host  
 - ITA: 5 (60.71)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a>  
 
-### #4 Northern Ariz.  
+### #4 [Northern Ariz.](../index.md)  
 
 Automatic Qualifier  
 - ITA: 54 (3.85)  

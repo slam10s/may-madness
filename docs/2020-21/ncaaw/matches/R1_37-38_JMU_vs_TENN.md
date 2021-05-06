@@ -4,9 +4,9 @@ Friday, May 7 at 12:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></a>  
 
-### #2 Tennessee  
+### #2 [Tennessee](../index.md)  
 
 At-Large Bid  
 - ITA: 15 (46.78)  
@@ -19,9 +19,9 @@ At-Large Bid
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/j/james-madison.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/j/james-madison.70.png" width="70" height="70" /></a>  
 
-### #3 James Madison  
+### #3 [James Madison](../index.md)  
 
 Automatic Qualifier  
 - ITA: 46 (8.95)  

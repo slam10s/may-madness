@@ -4,9 +4,9 @@ Friday, May 7 at 2:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></a>  
 
-### #1 Ohio St.  
+### #1 [Ohio St.](../index.md)  
 
 Regional Host  
 - ITA: 18 (43.02)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/ill-chicago.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/ill-chicago.70.png" width="70" height="70" /></a>  
 
-### #4 UIC  
+### #4 [UIC](../index.md)  
 
 Automatic Qualifier  
 - ITA: 59 (2.42)  

@@ -4,9 +4,9 @@ Friday, May 7 at 2:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></a>  
 
-### #1 LSU  
+### #1 [LSU](../index.md)  
 
 Regional Host  
 - ITA: 12 (48.73)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" /></a>  
 
-### #4 Boston U.  
+### #4 [Boston U.](../index.md)  
 
 Automatic Qualifier  
 - ITA: 50 (5.16)  

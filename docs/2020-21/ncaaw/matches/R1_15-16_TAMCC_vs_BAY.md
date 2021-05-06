@@ -4,9 +4,9 @@ Friday, May 7 at 6:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a>  
 
-### #1 Baylor  
+### #1 [Baylor](../index.md)  
 
 Regional Host  
 - ITA: 8 (52.73)  
@@ -19,9 +19,9 @@ Regional Host
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a>  
 
-### #4 A&M-Corpus Christi  
+### #4 [A&M-Corpus Christi](../index.md)  
 
 Automatic Qualifier  
 - ITA: 56 (3.61)  

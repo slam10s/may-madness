@@ -4,9 +4,9 @@ Friday, May 7 at 4:00 EDT
 
 <table><tr><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a>  
 
-### #2 Texas Tech  
+### #2 [Texas Tech](../index.md)  
 
 At-Large Bid  
 - ITA: 29 (28.07)  
@@ -18,9 +18,9 @@ At-Large Bid
 
 </td><td>  
 
-<center><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png" width="70" height="70" /></a></center>  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png" width="70" height="70" /></a>  
 
-### #3 San Diego  
+### #3 [San Diego](../index.md)  
 
 At-Large Bid  
 - ITA: 39 (19.12)  
