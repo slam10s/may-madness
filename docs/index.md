@@ -1,6 +1,6 @@
 # May Madness Predictions
 
-Our [May Madness Predictions](./may-madness) aggregate several different metrics for each match played in the NCAA Men's and Women's Division I Tennis Championships.
+Our [May Madness Predictions](.) aggregate several different metrics for each match played in the NCAA Men's and Women's Division I Tennis Championships.
 
 ## Watch Live
 
