@@ -7,29 +7,23 @@ Friday, May 7 at 11:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Michigan</a></h3>  
-
-<ol>  
-<li>ITA: 19 (41.22)</li>  
-<li>Slam: 8 (91.95)</li>  
-<li>TRN: 8 (85.13)</li>  
-<li>Massey: 15 (7.96)</li>  
-<li>UTR: 17 (61.98)</li>  
-<li>USTA Poll: 7</li>  
-<li>Coaches Poll: 18</li>  
-</ol>  
+ITA: 19 (41.22)</li>  
+Slam: 8 (91.95)</li>  
+TRN: 8 (85.13)</li>  
+Massey: 15 (7.96)</li>  
+UTR: 17 (61.98)</li>  
+USTA Poll: 7</li>  
+Coaches Poll: 18</li>  
 
 </td><td>  
 
 <h3>#3 <a href="../">Rice</a></h3>  
-
-<ol>  
-<li>ITA: 40 (18.25)</li>  
-<li>Slam: 40 (87.14)</li>  
-<li>TRN: 36 (79.49)</li>  
-<li>Massey: 38 (6.93)</li>  
-<li>UTR: 35 (60.11)</li>  
-<li>Coaches Poll: 39</li>  
-</ol>  
+ITA: 40 (18.25)</li>  
+Slam: 40 (87.14)</li>  
+TRN: 36 (79.49)</li>  
+Massey: 38 (6.93)</li>  
+UTR: 35 (60.11)</li>  
+Coaches Poll: 39</li>  
 
 </td></tr></table>  
 

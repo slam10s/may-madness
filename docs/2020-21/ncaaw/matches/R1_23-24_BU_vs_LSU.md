@@ -7,28 +7,22 @@ Friday, May 7 at 2:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">LSU</a></h3>  
-
-<ol>  
-<li>ITA: 12 (48.73)</li>  
-<li>Slam: 21 (90.28)</li>  
-<li>TRN: 18 (82.92)</li>  
-<li>Massey: 21 (7.77)</li>  
-<li>UTR: 26 (61.48)</li>  
-<li>USTA Poll: 23</li>  
-<li>Coaches Poll: 14</li>  
-</ol>  
+ITA: 12 (48.73)</li>  
+Slam: 21 (90.28)</li>  
+TRN: 18 (82.92)</li>  
+Massey: 21 (7.77)</li>  
+UTR: 26 (61.48)</li>  
+USTA Poll: 23</li>  
+Coaches Poll: 14</li>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Boston U.</a></h3>  
-
-<ol>  
-<li>ITA: 50 (5.16)</li>  
-<li>Slam: 54 (78.65)</li>  
-<li>TRN: 51 (71.29)</li>  
-<li>Massey: 54 (5.32)</li>  
-<li>UTR: 49 (55.50)</li>  
-</ol>  
+ITA: 50 (5.16)</li>  
+Slam: 54 (78.65)</li>  
+TRN: 51 (71.29)</li>  
+Massey: 54 (5.32)</li>  
+UTR: 49 (55.50)</li>  
 
 </td></tr></table>  
 

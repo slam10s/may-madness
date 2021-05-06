@@ -7,27 +7,21 @@ Friday, May 7 at 11:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">Ball St.</a></h3>  
-
-<ol>  
-<li>ITA: 51 (4.35)</li>  
-<li>Slam: 52 (79.30)</li>  
-<li>TRN: 52 (70.33)</li>  
-<li>Massey: 53 (5.40)</li>  
-<li>UTR: 51 (54.58)</li>  
-</ol>  
+ITA: 51 (4.35)</li>  
+Slam: 52 (79.30)</li>  
+TRN: 52 (70.33)</li>  
+Massey: 53 (5.40)</li>  
+UTR: 51 (54.58)</li>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Vanderbilt</a></h3>  
-
-<ol>  
-<li>ITA: 27 (35.19)</li>  
-<li>Slam: 29 (88.87)</li>  
-<li>TRN: 30 (81.13)</li>  
-<li>Massey: 31 (7.33)</li>  
-<li>UTR: 28 (61.39)</li>  
-<li>Coaches Poll: 28</li>  
-</ol>  
+ITA: 27 (35.19)</li>  
+Slam: 29 (88.87)</li>  
+TRN: 30 (81.13)</li>  
+Massey: 31 (7.33)</li>  
+UTR: 28 (61.39)</li>  
+Coaches Poll: 28</li>  
 
 </td></tr></table>  
 

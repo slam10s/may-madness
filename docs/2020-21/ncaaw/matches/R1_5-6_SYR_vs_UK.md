@@ -7,29 +7,23 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Kentucky</a></h3>  
-
-<ol>  
-<li>ITA: 26 (37.41)</li>  
-<li>Slam: 25 (89.36)</li>  
-<li>TRN: 27 (81.49)</li>  
-<li>Massey: 33 (7.29)</li>  
-<li>UTR: 34 (60.15)</li>  
-<li>USTA Poll: 24</li>  
-<li>Coaches Poll: 27</li>  
-</ol>  
+ITA: 26 (37.41)</li>  
+Slam: 25 (89.36)</li>  
+TRN: 27 (81.49)</li>  
+Massey: 33 (7.29)</li>  
+UTR: 34 (60.15)</li>  
+USTA Poll: 24</li>  
+Coaches Poll: 27</li>  
 
 </td><td>  
 
 <h3>#3 <a href="../">Syracuse</a></h3>  
-
-<ol>  
-<li>ITA: 43 (15.84)</li>  
-<li>Slam: 43 (86.54)</li>  
-<li>TRN: 43 (78.55)</li>  
-<li>Massey: 42 (6.69)</li>  
-<li>UTR: 43 (58.68)</li>  
-<li>Coaches Poll: 45</li>  
-</ol>  
+ITA: 43 (15.84)</li>  
+Slam: 43 (86.54)</li>  
+TRN: 43 (78.55)</li>  
+Massey: 42 (6.69)</li>  
+UTR: 43 (58.68)</li>  
+Coaches Poll: 45</li>  
 
 </td></tr></table>  
 

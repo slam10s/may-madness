@@ -7,28 +7,22 @@ Friday, May 7 at 5:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Pepperdine</a></h3>  
-
-<ol>  
-<li>ITA: 5 (60.71)</li>  
-<li>Slam: 6 (92.64)</li>  
-<li>TRN: 6 (85.86)</li>  
-<li>Massey: 5 (8.71)</li>  
-<li>UTR: 4 (64.63)</li>  
-<li>USTA Poll: 5</li>  
-<li>Coaches Poll: 4</li>  
-</ol>  
+ITA: 5 (60.71)</li>  
+Slam: 6 (92.64)</li>  
+TRN: 6 (85.86)</li>  
+Massey: 5 (8.71)</li>  
+UTR: 4 (64.63)</li>  
+USTA Poll: 5</li>  
+Coaches Poll: 4</li>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Northern Ariz.</a></h3>  
-
-<ol>  
-<li>ITA: 54 (3.85)</li>  
-<li>Slam: 51 (79.81)</li>  
-<li>TRN: 53 (69.11)</li>  
-<li>Massey: 51 (5.50)</li>  
-<li>UTR: 54 (52.95)</li>  
-</ol>  
+ITA: 54 (3.85)</li>  
+Slam: 51 (79.81)</li>  
+TRN: 53 (69.11)</li>  
+Massey: 51 (5.50)</li>  
+UTR: 54 (52.95)</li>  
 
 </td></tr></table>  
 

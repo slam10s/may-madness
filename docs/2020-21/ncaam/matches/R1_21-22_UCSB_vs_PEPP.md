@@ -7,28 +7,22 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Pepperdine</a></h3>  
-
-<ol>  
-<li>ITA: 28 (29.09)</li>  
-<li>Slam: 34 (92.69)</li>  
-<li>TRN: 30 (91.07)</li>  
-<li>Massey: 22 (7.73)</li>  
-<li>UTR: 26 (77.59)</li>  
-<li>USTA Poll: 24</li>  
-<li>Coaches Poll: 30</li>  
-</ol>  
+ITA: 28 (29.09)</li>  
+Slam: 34 (92.69)</li>  
+TRN: 30 (91.07)</li>  
+Massey: 22 (7.73)</li>  
+UTR: 26 (77.59)</li>  
+USTA Poll: 24</li>  
+Coaches Poll: 30</li>  
 
 </td><td>  
 
 <h3>#3 <a href="../">UC Santa Barbara</a></h3>  
-
-<ol>  
-<li>ITA: 54 (6.34)</li>  
-<li>Slam: 51 (87.56)</li>  
-<li>TRN: 51 (84.30)</li>  
-<li>Massey: 52 (6.48)</li>  
-<li>UTR: 47 (74.20)</li>  
-</ol>  
+ITA: 54 (6.34)</li>  
+Slam: 51 (87.56)</li>  
+TRN: 51 (84.30)</li>  
+Massey: 52 (6.48)</li>  
+UTR: 47 (74.20)</li>  
 
 </td></tr></table>  
 

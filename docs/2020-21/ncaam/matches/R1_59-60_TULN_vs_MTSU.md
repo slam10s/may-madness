@@ -7,28 +7,22 @@ Saturday, May 8 at 1:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">Middle Tenn.</a></h3>  
-
-<ol>  
-<li>ITA: 42 (18.52)</li>  
-<li>Slam: 45 (91.28)</li>  
-<li>TRN: 45 (89.05)</li>  
-<li>Massey: 42 (7.21)</li>  
-<li>UTR: 41 (75.54)</li>  
-<li>Coaches Poll: 42</li>  
-</ol>  
+ITA: 42 (18.52)</li>  
+Slam: 45 (91.28)</li>  
+TRN: 45 (89.05)</li>  
+Massey: 42 (7.21)</li>  
+UTR: 41 (75.54)</li>  
+Coaches Poll: 42</li>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Tulane</a></h3>  
-
-<ol>  
-<li>ITA: 22 (33.07)</li>  
-<li>Slam: 26 (93.53)</li>  
-<li>TRN: 26 (91.45)</li>  
-<li>Massey: 26 (7.63)</li>  
-<li>UTR: 31 (76.99)</li>  
-<li>Coaches Poll: 24</li>  
-</ol>  
+ITA: 22 (33.07)</li>  
+Slam: 26 (93.53)</li>  
+TRN: 26 (91.45)</li>  
+Massey: 26 (7.63)</li>  
+UTR: 31 (76.99)</li>  
+Coaches Poll: 24</li>  
 
 </td></tr></table>  
 

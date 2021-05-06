@@ -7,28 +7,22 @@ Saturday, May 8 at 10:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Oklahoma St.</a></h3>  
-
-<ol>  
-<li>ITA: 19 (35.31)</li>  
-<li>Slam: 24 (93.68)</li>  
-<li>TRN: 23 (91.93)</li>  
-<li>Massey: 29 (7.54)</li>  
-<li>UTR: 19 (78.43)</li>  
-<li>USTA Poll: RV</li>  
-<li>Coaches Poll: 21</li>  
-</ol>  
+ITA: 19 (35.31)</li>  
+Slam: 24 (93.68)</li>  
+TRN: 23 (91.93)</li>  
+Massey: 29 (7.54)</li>  
+UTR: 19 (78.43)</li>  
+USTA Poll: RV</li>  
+Coaches Poll: 21</li>  
 
 </td><td>  
 
 <h3>#3 <a href="../">Navy</a></h3>  
-
-<ol>  
-<li>ITA: 48 (8.28)</li>  
-<li>Slam: 54 (86.71)</li>  
-<li>TRN: 48 (87.45)</li>  
-<li>Massey: 56 (5.80)</li>  
-<li>UTR: 58 (70.91)</li>  
-</ol>  
+ITA: 48 (8.28)</li>  
+Slam: 54 (86.71)</li>  
+TRN: 48 (87.45)</li>  
+Massey: 56 (5.80)</li>  
+UTR: 58 (70.91)</li>  
 
 </td></tr></table>  
 

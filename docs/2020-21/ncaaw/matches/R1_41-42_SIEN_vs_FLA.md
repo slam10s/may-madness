@@ -7,28 +7,22 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Florida</a></h3>  
-
-<ol>  
-<li>ITA: 11 (49.18)</li>  
-<li>Slam: 16 (90.47)</li>  
-<li>TRN: 20 (82.70)</li>  
-<li>Massey: 21 (7.77)</li>  
-<li>UTR: 11 (62.70)</li>  
-<li>USTA Poll: 20</li>  
-<li>Coaches Poll: 15</li>  
-</ol>  
+ITA: 11 (49.18)</li>  
+Slam: 16 (90.47)</li>  
+TRN: 20 (82.70)</li>  
+Massey: 21 (7.77)</li>  
+UTR: 11 (62.70)</li>  
+USTA Poll: 20</li>  
+Coaches Poll: 15</li>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Siena</a></h3>  
-
-<ol>  
-<li>ITA: 60 (2.41)</li>  
-<li>Slam: 64 (65.57)</li>  
-<li>TRN: 64 (50.23)</li>  
-<li>Massey: 64 (2.92)</li>  
-<li>UTR: 62 (46.43)</li>  
-</ol>  
+ITA: 60 (2.41)</li>  
+Slam: 64 (65.57)</li>  
+TRN: 64 (50.23)</li>  
+Massey: 64 (2.92)</li>  
+UTR: 62 (46.43)</li>  
 
 </td></tr></table>  
 

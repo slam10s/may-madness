@@ -7,29 +7,23 @@ Friday, May 7 at 4:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Texas</a></h3>  
-
-<ol>  
-<li>ITA: 2 (79.19)</li>  
-<li>Slam: 2 (98.44)</li>  
-<li>TRN: 2 (97.97)</li>  
-<li>Massey: 2 (9.38)</li>  
-<li>UTR: 1 (65.59)</li>  
-<li>USTA Poll: 2</li>  
-<li>Coaches Poll: 2</li>  
-</ol>  
+ITA: 2 (79.19)</li>  
+Slam: 2 (98.44)</li>  
+TRN: 2 (97.97)</li>  
+Massey: 2 (9.38)</li>  
+UTR: 1 (65.59)</li>  
+USTA Poll: 2</li>  
+Coaches Poll: 2</li>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Denver</a></h3>  
-
-<ol>  
-<li>ITA: 45 (11.66)</li>  
-<li>Slam: 45 (84.92)</li>  
-<li>TRN: 45 (76.03)</li>  
-<li>Massey: 43 (6.53)</li>  
-<li>UTR: 45 (58.03)</li>  
-<li>Coaches Poll: 49</li>  
-</ol>  
+ITA: 45 (11.66)</li>  
+Slam: 45 (84.92)</li>  
+TRN: 45 (76.03)</li>  
+Massey: 43 (6.53)</li>  
+UTR: 45 (58.03)</li>  
+Coaches Poll: 49</li>  
 
 </td></tr></table>  
 

@@ -7,29 +7,23 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Arizona St.</a></h3>  
-
-<ol>  
-<li>ITA: 31 (26.09)</li>  
-<li>Slam: 31 (88.20)</li>  
-<li>TRN: 33 (79.83)</li>  
-<li>Massey: 24 (7.65)</li>  
-<li>UTR: 23 (61.59)</li>  
-<li>USTA Poll: RV</li>  
-<li>Coaches Poll: 30</li>  
-</ol>  
+ITA: 31 (26.09)</li>  
+Slam: 31 (88.20)</li>  
+TRN: 33 (79.83)</li>  
+Massey: 24 (7.65)</li>  
+UTR: 23 (61.59)</li>  
+USTA Poll: RV</li>  
+Coaches Poll: 30</li>  
 
 </td><td>  
 
 <h3>#3 <a href="../">Mississippi St.</a></h3>  
-
-<ol>  
-<li>ITA: 38 (19.84)</li>  
-<li>Slam: 42 (86.60)</li>  
-<li>TRN: 39 (78.82)</li>  
-<li>Massey: 44 (6.49)</li>  
-<li>UTR: 36 (59.84)</li>  
-<li>Coaches Poll: 38</li>  
-</ol>  
+ITA: 38 (19.84)</li>  
+Slam: 42 (86.60)</li>  
+TRN: 39 (78.82)</li>  
+Massey: 44 (6.49)</li>  
+UTR: 36 (59.84)</li>  
+Coaches Poll: 38</li>  
 
 </td></tr></table>  
 

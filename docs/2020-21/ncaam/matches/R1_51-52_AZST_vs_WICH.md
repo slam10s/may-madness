@@ -7,29 +7,23 @@ Saturday, May 8 at 12:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">Wichita St.</a></h3>  
-
-<ol>  
-<li>ITA: 33 (25.34)</li>  
-<li>Slam: 39 (92.05)</li>  
-<li>TRN: 37 (90.31)</li>  
-<li>Massey: 41 (7.28)</li>  
-<li>UTR: 39 (75.93)</li>  
-<li>Coaches Poll: 32</li>  
-</ol>  
+ITA: 33 (25.34)</li>  
+Slam: 39 (92.05)</li>  
+TRN: 37 (90.31)</li>  
+Massey: 41 (7.28)</li>  
+UTR: 39 (75.93)</li>  
+Coaches Poll: 32</li>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Arizona St.</a></h3>  
-
-<ol>  
-<li>ITA: 20 (34.84)</li>  
-<li>Slam: 25 (93.56)</li>  
-<li>TRN: 25 (91.79)</li>  
-<li>Massey: 24 (7.68)</li>  
-<li>UTR: 23 (78.03)</li>  
-<li>USTA Poll: 19</li>  
-<li>Coaches Poll: 22</li>  
-</ol>  
+ITA: 20 (34.84)</li>  
+Slam: 25 (93.56)</li>  
+TRN: 25 (91.79)</li>  
+Massey: 24 (7.68)</li>  
+UTR: 23 (78.03)</li>  
+USTA Poll: 19</li>  
+Coaches Poll: 22</li>  
 
 </td></tr></table>  
 

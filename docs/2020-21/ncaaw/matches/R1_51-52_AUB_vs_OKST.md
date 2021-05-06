@@ -7,29 +7,23 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">Oklahoma St.</a></h3>  
-
-<ol>  
-<li>ITA: 37 (20.71)</li>  
-<li>Slam: 37 (87.45)</li>  
-<li>TRN: 37 (79.03)</li>  
-<li>Massey: 36 (7.02)</li>  
-<li>UTR: 17 (61.98)</li>  
-<li>Coaches Poll: 37</li>  
-</ol>  
+ITA: 37 (20.71)</li>  
+Slam: 37 (87.45)</li>  
+TRN: 37 (79.03)</li>  
+Massey: 36 (7.02)</li>  
+UTR: 17 (61.98)</li>  
+Coaches Poll: 37</li>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Auburn</a></h3>  
-
-<ol>  
-<li>ITA: 20 (41.17)</li>  
-<li>Slam: 24 (89.44)</li>  
-<li>TRN: 23 (81.74)</li>  
-<li>Massey: 25 (7.48)</li>  
-<li>UTR: 30 (60.99)</li>  
-<li>USTA Poll: 25</li>  
-<li>Coaches Poll: 22</li>  
-</ol>  
+ITA: 20 (41.17)</li>  
+Slam: 24 (89.44)</li>  
+TRN: 23 (81.74)</li>  
+Massey: 25 (7.48)</li>  
+UTR: 30 (60.99)</li>  
+USTA Poll: 25</li>  
+Coaches Poll: 22</li>  
 
 </td></tr></table>  
 

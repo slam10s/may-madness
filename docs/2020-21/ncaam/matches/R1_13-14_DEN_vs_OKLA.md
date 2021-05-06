@@ -7,28 +7,22 @@ Friday, May 7 at 12:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Oklahoma</a></h3>  
-
-<ol>  
-<li>ITA: 27 (29.42)</li>  
-<li>Slam: 29 (93.05)</li>  
-<li>TRN: 28 (91.23)</li>  
-<li>Massey: 37 (7.32)</li>  
-<li>UTR: 28 (77.53)</li>  
-<li>Coaches Poll: 26</li>  
-</ol>  
+ITA: 27 (29.42)</li>  
+Slam: 29 (93.05)</li>  
+TRN: 28 (91.23)</li>  
+Massey: 37 (7.32)</li>  
+UTR: 28 (77.53)</li>  
+Coaches Poll: 26</li>  
 
 </td><td>  
 
 <h3>#3 <a href="../">Denver</a></h3>  
-
-<ol>  
-<li>ITA: 45 (17.16)</li>  
-<li>Slam: 42 (91.67)</li>  
-<li>TRN: 35 (90.56)</li>  
-<li>Massey: 38 (7.31)</li>  
-<li>UTR: 46 (74.43)</li>  
-<li>Coaches Poll: 44</li>  
-</ol>  
+ITA: 45 (17.16)</li>  
+Slam: 42 (91.67)</li>  
+TRN: 35 (90.56)</li>  
+Massey: 38 (7.31)</li>  
+UTR: 46 (74.43)</li>  
+Coaches Poll: 44</li>  
 
 </td></tr></table>  
 

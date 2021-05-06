@@ -7,29 +7,23 @@ Saturday, May 8 at 12:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Alabama</a></h3>  
-
-<ol>  
-<li>ITA: 26 (30.96)</li>  
-<li>Slam: 28 (93.06)</li>  
-<li>TRN: 27 (91.27)</li>  
-<li>Massey: 38 (7.31)</li>  
-<li>UTR: 30 (77.06)</li>  
-<li>Coaches Poll: 25</li>  
-</ol>  
+ITA: 26 (30.96)</li>  
+Slam: 28 (93.06)</li>  
+TRN: 27 (91.27)</li>  
+Massey: 38 (7.31)</li>  
+UTR: 30 (77.06)</li>  
+Coaches Poll: 25</li>  
 
 </td><td>  
 
 <h3>#3 <a href="../">Oregon</a></h3>  
-
-<ol>  
-<li>ITA: 36 (23.55)</li>  
-<li>Slam: 44 (91.52)</li>  
-<li>TRN: 41 (89.70)</li>  
-<li>Massey: 30 (7.51)</li>  
-<li>UTR: 33 (76.78)</li>  
-<li>USTA Poll: NR</li>  
-<li>Coaches Poll: 41</li>  
-</ol>  
+ITA: 36 (23.55)</li>  
+Slam: 44 (91.52)</li>  
+TRN: 41 (89.70)</li>  
+Massey: 30 (7.51)</li>  
+UTR: 33 (76.78)</li>  
+USTA Poll: NR</li>  
+Coaches Poll: 41</li>  
 
 </td></tr></table>  
 

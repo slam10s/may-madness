@@ -7,28 +7,22 @@ Friday, May 7 at 3:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Texas A&M</a></h3>  
-
-<ol>  
-<li>ITA: 8 (63.69)</li>  
-<li>Slam: 11 (96.97)</li>  
-<li>TRN: 11 (95.89)</li>  
-<li>Massey: 12 (8.53)</li>  
-<li>UTR: 8 (79.76)</li>  
-<li>USTA Poll: 14</li>  
-<li>Coaches Poll: 8</li>  
-</ol>  
+ITA: 8 (63.69)</li>  
+Slam: 11 (96.97)</li>  
+TRN: 11 (95.89)</li>  
+Massey: 12 (8.53)</li>  
+UTR: 8 (79.76)</li>  
+USTA Poll: 14</li>  
+Coaches Poll: 8</li>  
 
 </td><td>  
 
 <h3>#4 <a href="../">New Mexico</a></h3>  
-
-<ol>  
-<li>ITA: 52 (7.44)</li>  
-<li>Slam: 53 (87.22)</li>  
-<li>TRN: 54 (83.45)</li>  
-<li>Massey: 48 (6.71)</li>  
-<li>UTR: 51 (73.79)</li>  
-</ol>  
+ITA: 52 (7.44)</li>  
+Slam: 53 (87.22)</li>  
+TRN: 54 (83.45)</li>  
+Massey: 48 (6.71)</li>  
+UTR: 51 (73.79)</li>  
 
 </td></tr></table>  
 

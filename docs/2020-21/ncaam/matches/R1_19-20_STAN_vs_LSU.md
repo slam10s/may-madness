@@ -7,29 +7,23 @@ Saturday, May 8 at 10:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">LSU</a></h3>  
-
-<ol>  
-<li>ITA: 40 (19.17)</li>  
-<li>Slam: 38 (92.17)</li>  
-<li>TRN: 39 (90.14)</li>  
-<li>Massey: 47 (6.78)</li>  
-<li>UTR: 42 (75.44)</li>  
-<li>Coaches Poll: 39</li>  
-</ol>  
+ITA: 40 (19.17)</li>  
+Slam: 38 (92.17)</li>  
+TRN: 39 (90.14)</li>  
+Massey: 47 (6.78)</li>  
+UTR: 42 (75.44)</li>  
+Coaches Poll: 39</li>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Stanford</a></h3>  
-
-<ol>  
-<li>ITA: 21 (34.55)</li>  
-<li>Slam: 22 (94.00)</li>  
-<li>TRN: 21 (92.30)</li>  
-<li>Massey: 20 (7.97)</li>  
-<li>UTR: 5 (80.08)</li>  
-<li>USTA Poll: 20</li>  
-<li>Coaches Poll: 20</li>  
-</ol>  
+ITA: 21 (34.55)</li>  
+Slam: 22 (94.00)</li>  
+TRN: 21 (92.30)</li>  
+Massey: 20 (7.97)</li>  
+UTR: 5 (80.08)</li>  
+USTA Poll: 20</li>  
+Coaches Poll: 20</li>  
 
 </td></tr></table>  
 

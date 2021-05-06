@@ -7,29 +7,23 @@ Friday, May 7 at 10:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">Furman</a></h3>  
-
-<ol>  
-<li>ITA: 34 (25.42)</li>  
-<li>Slam: 33 (87.98)</li>  
-<li>TRN: 35 (79.59)</li>  
-<li>Massey: 35 (7.09)</li>  
-<li>UTR: 41 (59.02)</li>  
-<li>USTA Poll: RV</li>  
-<li>Coaches Poll: 35</li>  
-</ol>  
+ITA: 34 (25.42)</li>  
+Slam: 33 (87.98)</li>  
+TRN: 35 (79.59)</li>  
+Massey: 35 (7.09)</li>  
+UTR: 41 (59.02)</li>  
+USTA Poll: RV</li>  
+Coaches Poll: 35</li>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Wake Forest</a></h3>  
-
-<ol>  
-<li>ITA: 33 (25.77)</li>  
-<li>Slam: 32 (88.11)</li>  
-<li>TRN: 31 (80.20)</li>  
-<li>Massey: 34 (7.13)</li>  
-<li>UTR: 31 (60.70)</li>  
-<li>Coaches Poll: 31</li>  
-</ol>  
+ITA: 33 (25.77)</li>  
+Slam: 32 (88.11)</li>  
+TRN: 31 (80.20)</li>  
+Massey: 34 (7.13)</li>  
+UTR: 31 (60.70)</li>  
+Coaches Poll: 31</li>  
 
 </td></tr></table>  
 

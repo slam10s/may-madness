@@ -7,28 +7,22 @@ Saturday, May 8 at 10:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">Duke</a></h3>  
-
-<ol>  
-<li>ITA: 35 (25.15)</li>  
-<li>Slam: 31 (93.00)</li>  
-<li>TRN: 36 (90.55)</li>  
-<li>Massey: 34 (7.39)</li>  
-<li>UTR: 32 (76.86)</li>  
-<li>Coaches Poll: 36</li>  
-</ol>  
+ITA: 35 (25.15)</li>  
+Slam: 31 (93.00)</li>  
+TRN: 36 (90.55)</li>  
+Massey: 34 (7.39)</li>  
+UTR: 32 (76.86)</li>  
+Coaches Poll: 36</li>  
 
 </td><td>  
 
 <h3>#2 <a href="../">South Fla.</a></h3>  
-
-<ol>  
-<li>ITA: 32 (26.14)</li>  
-<li>Slam: 32 (92.98)</li>  
-<li>TRN: 34 (90.69)</li>  
-<li>Massey: 32 (7.49)</li>  
-<li>UTR: 37 (76.51)</li>  
-<li>Coaches Poll: 33</li>  
-</ol>  
+ITA: 32 (26.14)</li>  
+Slam: 32 (92.98)</li>  
+TRN: 34 (90.69)</li>  
+Massey: 32 (7.49)</li>  
+UTR: 37 (76.51)</li>  
+Coaches Poll: 33</li>  
 
 </td></tr></table>  
 

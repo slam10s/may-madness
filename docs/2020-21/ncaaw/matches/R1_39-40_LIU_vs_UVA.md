@@ -7,28 +7,22 @@ Friday, May 7 at 3:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Virginia</a></h3>  
-
-<ol>  
-<li>ITA: 14 (47.67)</li>  
-<li>Slam: 9 (91.88)</li>  
-<li>TRN: 11 (84.03)</li>  
-<li>Massey: 7 (8.25)</li>  
-<li>UTR: 13 (62.41)</li>  
-<li>USTA Poll: 10</li>  
-<li>Coaches Poll: T11</li>  
-</ol>  
+ITA: 14 (47.67)</li>  
+Slam: 9 (91.88)</li>  
+TRN: 11 (84.03)</li>  
+Massey: 7 (8.25)</li>  
+UTR: 13 (62.41)</li>  
+USTA Poll: 10</li>  
+Coaches Poll: T11</li>  
 
 </td><td>  
 
 <h3>#4 <a href="../">LIU</a></h3>  
-
-<ol>  
-<li>ITA: 52 (4.20)</li>  
-<li>Slam: 61 (70.79)</li>  
-<li>TRN: 63 (55.66)</li>  
-<li>Massey: 61 (4.25)</li>  
-<li>UTR: 60 (49.85)</li>  
-</ol>  
+ITA: 52 (4.20)</li>  
+Slam: 61 (70.79)</li>  
+TRN: 63 (55.66)</li>  
+Massey: 61 (4.25)</li>  
+UTR: 60 (49.85)</li>  
 
 </td></tr></table>  
 

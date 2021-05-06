@@ -7,28 +7,22 @@ Saturday, May 8 at 3:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Baylor</a></h3>  
-
-<ol>  
-<li>ITA: 1 (83.33)</li>  
-<li>Slam: 5 (99.05)</li>  
-<li>TRN: 6 (98.67)</li>  
-<li>Massey: 5 (8.82)</li>  
-<li>UTR: 9 (79.74)</li>  
-<li>USTA Poll: 3</li>  
-<li>Coaches Poll: 1</li>  
-</ol>  
+ITA: 1 (83.33)</li>  
+Slam: 5 (99.05)</li>  
+TRN: 6 (98.67)</li>  
+Massey: 5 (8.82)</li>  
+UTR: 9 (79.74)</li>  
+USTA Poll: 3</li>  
+Coaches Poll: 1</li>  
 
 </td><td>  
 
 <h3>#4 <a href="../">A&M-Corpus Christi</a></h3>  
-
-<ol>  
-<li>ITA: 60 (2.97)</li>  
-<li>Slam: 60 (82.18)</li>  
-<li>TRN: 61 (76.91)</li>  
-<li>Massey: 58 (5.69)</li>  
-<li>UTR: 54 (71.52)</li>  
-</ol>  
+ITA: 60 (2.97)</li>  
+Slam: 60 (82.18)</li>  
+TRN: 61 (76.91)</li>  
+Massey: 58 (5.69)</li>  
+UTR: 54 (71.52)</li>  
 
 </td></tr></table>  
 

@@ -7,29 +7,23 @@ Friday, May 7 at 10:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">Southern California</a></h3>  
-
-<ol>  
-<li>ITA: 35 (23.17)</li>  
-<li>Slam: 35 (87.72)</li>  
-<li>TRN: 41 (78.74)</li>  
-<li>Massey: 26 (7.43)</li>  
-<li>UTR: 6 (64.29)</li>  
-<li>Coaches Poll: 34</li>  
-</ol>  
+ITA: 35 (23.17)</li>  
+Slam: 35 (87.72)</li>  
+TRN: 41 (78.74)</li>  
+Massey: 26 (7.43)</li>  
+UTR: 6 (64.29)</li>  
+Coaches Poll: 34</li>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Oklahoma</a></h3>  
-
-<ol>  
-<li>ITA: 23 (39.04)</li>  
-<li>Slam: 13 (91.06)</li>  
-<li>TRN: 22 (82.23)</li>  
-<li>Massey: 12 (8.06)</li>  
-<li>UTR: 14 (62.33)</li>  
-<li>USTA Poll: 22</li>  
-<li>Coaches Poll: 24</li>  
-</ol>  
+ITA: 23 (39.04)</li>  
+Slam: 13 (91.06)</li>  
+TRN: 22 (82.23)</li>  
+Massey: 12 (8.06)</li>  
+UTR: 14 (62.33)</li>  
+USTA Poll: 22</li>  
+Coaches Poll: 24</li>  
 
 </td></tr></table>  
 

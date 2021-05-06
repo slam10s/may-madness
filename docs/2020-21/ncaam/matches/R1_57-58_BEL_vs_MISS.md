@@ -7,28 +7,22 @@ Saturday, May 8 at 4:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Ole Miss</a></h3>  
-
-<ol>  
-<li>ITA: 14 (44.94)</li>  
-<li>Slam: 18 (95.00)</li>  
-<li>TRN: 18 (93.41)</li>  
-<li>Massey: 21 (7.84)</li>  
-<li>UTR: 25 (77.70)</li>  
-<li>USTA Poll: 21</li>  
-<li>Coaches Poll: 16</li>  
-</ol>  
+ITA: 14 (44.94)</li>  
+Slam: 18 (95.00)</li>  
+TRN: 18 (93.41)</li>  
+Massey: 21 (7.84)</li>  
+UTR: 25 (77.70)</li>  
+USTA Poll: 21</li>  
+Coaches Poll: 16</li>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Belmont</a></h3>  
-
-<ol>  
-<li>ITA: 56 (4.48)</li>  
-<li>Slam: 57 (83.10)</li>  
-<li>TRN: 58 (79.14)</li>  
-<li>Massey: 57 (5.77)</li>  
-<li>UTR: 57 (70.99)</li>  
-</ol>  
+ITA: 56 (4.48)</li>  
+Slam: 57 (83.10)</li>  
+TRN: 58 (79.14)</li>  
+Massey: 57 (5.77)</li>  
+UTR: 57 (70.99)</li>  
 
 </td></tr></table>  
 

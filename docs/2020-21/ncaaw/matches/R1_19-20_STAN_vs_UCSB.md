@@ -7,28 +7,22 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">UC Santa Barbara</a></h3>  
-
-<ol>  
-<li>ITA: 44 (14.68)</li>  
-<li>Slam: 39 (87.38)</li>  
-<li>TRN: 40 (78.81)</li>  
-<li>Massey: 40 (6.75)</li>  
-<li>UTR: 46 (57.03)</li>  
-</ol>  
+ITA: 44 (14.68)</li>  
+Slam: 39 (87.38)</li>  
+TRN: 40 (78.81)</li>  
+Massey: 40 (6.75)</li>  
+UTR: 46 (57.03)</li>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Stanford</a></h3>  
-
-<ol>  
-<li>ITA: 28 (35.11)</li>  
-<li>Slam: 23 (90.02)</li>  
-<li>TRN: 24 (81.66)</li>  
-<li>Massey: 15 (7.96)</li>  
-<li>UTR: 7 (63.45)</li>  
-<li>USTA Poll: 18</li>  
-<li>Coaches Poll: 26</li>  
-</ol>  
+ITA: 28 (35.11)</li>  
+Slam: 23 (90.02)</li>  
+TRN: 24 (81.66)</li>  
+Massey: 15 (7.96)</li>  
+UTR: 7 (63.45)</li>  
+USTA Poll: 18</li>  
+Coaches Poll: 26</li>  
 
 </td></tr></table>  
 

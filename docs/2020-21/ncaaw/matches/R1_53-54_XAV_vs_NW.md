@@ -7,28 +7,22 @@ Friday, May 7 at 4:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Northwestern</a></h3>  
-
-<ol>  
-<li>ITA: 21 (39.92)</li>  
-<li>Slam: 18 (90.46)</li>  
-<li>TRN: 13 (83.80)</li>  
-<li>Massey: 20 (7.78)</li>  
-<li>UTR: 33 (60.43)</li>  
-<li>USTA Poll: 16</li>  
-<li>Coaches Poll: 19</li>  
-</ol>  
+ITA: 21 (39.92)</li>  
+Slam: 18 (90.46)</li>  
+TRN: 13 (83.80)</li>  
+Massey: 20 (7.78)</li>  
+UTR: 33 (60.43)</li>  
+USTA Poll: 16</li>  
+Coaches Poll: 19</li>  
 
 </td><td>  
 
 <h3>#3 <a href="../">Xavier</a></h3>  
-
-<ol>  
-<li>ITA: 55 (3.75)</li>  
-<li>Slam: 49 (80.67)</li>  
-<li>TRN: 50 (71.88)</li>  
-<li>Massey: 50 (5.60)</li>  
-<li>UTR: 64 (24.06)</li>  
-</ol>  
+ITA: 55 (3.75)</li>  
+Slam: 49 (80.67)</li>  
+TRN: 50 (71.88)</li>  
+Massey: 50 (5.60)</li>  
+UTR: 64 (24.06)</li>  
 
 </td></tr></table>  
 

@@ -7,29 +7,23 @@ Saturday, May 8 at 10:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">UCLA</a></h3>  
-
-<ol>  
-<li>ITA: 24 (32.15)</li>  
-<li>Slam: 23 (93.84)</li>  
-<li>TRN: 24 (91.84)</li>  
-<li>Massey: 19 (8.03)</li>  
-<li>UTR: 13 (79.06)</li>  
-<li>USTA Poll: 22</li>  
-<li>Coaches Poll: 29</li>  
-</ol>  
+ITA: 24 (32.15)</li>  
+Slam: 23 (93.84)</li>  
+TRN: 24 (91.84)</li>  
+Massey: 19 (8.03)</li>  
+UTR: 13 (79.06)</li>  
+USTA Poll: 22</li>  
+Coaches Poll: 29</li>  
 
 </td><td>  
 
 <h3>#3 <a href="../">Northwestern</a></h3>  
-
-<ol>  
-<li>ITA: 50 (7.95)</li>  
-<li>Slam: 33 (92.89)</li>  
-<li>TRN: 32 (90.90)</li>  
-<li>Massey: 31 (7.50)</li>  
-<li>UTR: 27 (77.56)</li>  
-<li>Coaches Poll: 49</li>  
-</ol>  
+ITA: 50 (7.95)</li>  
+Slam: 33 (92.89)</li>  
+TRN: 32 (90.90)</li>  
+Massey: 31 (7.50)</li>  
+UTR: 27 (77.56)</li>  
+Coaches Poll: 49</li>  
 
 </td></tr></table>  
 

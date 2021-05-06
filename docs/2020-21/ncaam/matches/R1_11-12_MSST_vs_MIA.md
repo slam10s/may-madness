@@ -7,29 +7,23 @@ Saturday, May 8 at 11:00 EDT
 <tr><td>  
 
 <h3>#3 <a href="../">Miami (FL)</a></h3>  
-
-<ol>  
-<li>ITA: 39 (19.34)</li>  
-<li>Slam: 37 (92.19)</li>  
-<li>TRN: 43 (89.49)</li>  
-<li>Massey: 38 (7.31)</li>  
-<li>UTR: 40 (75.68)</li>  
-<li>Coaches Poll: 43</li>  
-</ol>  
+ITA: 39 (19.34)</li>  
+Slam: 37 (92.19)</li>  
+TRN: 43 (89.49)</li>  
+Massey: 38 (7.31)</li>  
+UTR: 40 (75.68)</li>  
+Coaches Poll: 43</li>  
 
 </td><td>  
 
 <h3>#2 <a href="../">Mississippi St.</a></h3>  
-
-<ol>  
-<li>ITA: 16 (41.29)</li>  
-<li>Slam: 20 (94.39)</li>  
-<li>TRN: 19 (92.98)</li>  
-<li>Massey: 26 (7.63)</li>  
-<li>UTR: 24 (77.84)</li>  
-<li>USTA Poll: 23</li>  
-<li>Coaches Poll: 18</li>  
-</ol>  
+ITA: 16 (41.29)</li>  
+Slam: 20 (94.39)</li>  
+TRN: 19 (92.98)</li>  
+Massey: 26 (7.63)</li>  
+UTR: 24 (77.84)</li>  
+USTA Poll: 23</li>  
+Coaches Poll: 18</li>  
 
 </td></tr></table>  
 

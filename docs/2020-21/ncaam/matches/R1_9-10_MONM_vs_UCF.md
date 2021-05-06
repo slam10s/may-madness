@@ -7,28 +7,22 @@ Saturday, May 8 at 2:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">UCF</a></h3>  
-
-<ol>  
-<li>ITA: 10 (54.95)</li>  
-<li>Slam: 12 (96.59)</li>  
-<li>TRN: 13 (95.63)</li>  
-<li>Massey: 7 (8.63)</li>  
-<li>UTR: 12 (79.08)</li>  
-<li>USTA Poll: T10</li>  
-<li>Coaches Poll: 9</li>  
-</ol>  
+ITA: 10 (54.95)</li>  
+Slam: 12 (96.59)</li>  
+TRN: 13 (95.63)</li>  
+Massey: 7 (8.63)</li>  
+UTR: 12 (79.08)</li>  
+USTA Poll: T10</li>  
+Coaches Poll: 9</li>  
 
 </td><td>  
 
 <h3>#4 <a href="../">Monmouth</a></h3>  
-
-<ol>  
-<li>ITA: 58 (4.41)</li>  
-<li>Slam: 61 (82.18)</li>  
-<li>TRN: 57 (79.79)</li>  
-<li>Massey: 60 (5.30)</li>  
-<li>UTR: 62 (69.61)</li>  
-</ol>  
+ITA: 58 (4.41)</li>  
+Slam: 61 (82.18)</li>  
+TRN: 57 (79.79)</li>  
+Massey: 60 (5.30)</li>  
+UTR: 62 (69.61)</li>  
 
 </td></tr></table>  
 

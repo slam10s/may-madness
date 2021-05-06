@@ -7,29 +7,23 @@ Friday, May 7 at 2:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Ohio St.</a></h3>  
-
-<ol>  
-<li>ITA: 31 (26.40)</li>  
-<li>Slam: 7 (97.86)</li>  
-<li>TRN: 8 (97.23)</li>  
-<li>Massey: 9 (8.60)</li>  
-<li>UTR: 3 (80.28)</li>  
-<li>USTA Poll: 7</li>  
-<li>Coaches Poll: 17</li>  
-</ol>  
+ITA: 31 (26.40)</li>  
+Slam: 7 (97.86)</li>  
+TRN: 8 (97.23)</li>  
+Massey: 9 (8.60)</li>  
+UTR: 3 (80.28)</li>  
+USTA Poll: 7</li>  
+Coaches Poll: 17</li>  
 
 </td><td>  
 
 <h3>#3 <a href="../">VCU</a></h3>  
-
-<ol>  
-<li>ITA: 37 (23.44)</li>  
-<li>Slam: 36 (92.40)</li>  
-<li>TRN: 38 (90.23)</li>  
-<li>Massey: 35 (7.38)</li>  
-<li>UTR: 29 (77.07)</li>  
-<li>Coaches Poll: 38</li>  
-</ol>  
+ITA: 37 (23.44)</li>  
+Slam: 36 (92.40)</li>  
+TRN: 38 (90.23)</li>  
+Massey: 35 (7.38)</li>  
+UTR: 29 (77.07)</li>  
+Coaches Poll: 38</li>  
 
 </td></tr></table>  
 
