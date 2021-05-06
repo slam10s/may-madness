@@ -13,7 +13,7 @@ Regional Host
 - Massey: 6 (8.36)  
 - UTR: 9 (62.99)  
 - USTA Poll: 11  
-- Coached Poll: 6  
+- Coaches Poll: 6  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***NCST*** - #11 NC State (99%) def. #48 VCU (1%)  
 - TRN: ***NCST*** - #10 NC State (99%) def. #48 VCU (1%)  
 - Massey: ***NCST*** - #6 NC State (75%) def. #48 VCU (25%)  
 - UTR: ***NCST*** - #9 NC State (+7.24) def. #48 VCU (-7.24)  
 - ITA: ***NCST*** - #6 NC State def. #49 VCU  
 - USTA Poll: ***NCST*** - #11 NC State def. VCU  
-- Coached Poll: ***NCST*** - #6 NC State def. VCU  
+- Coaches Poll: ***NCST*** - #6 NC State def. VCU  
 - Seeding: ***NCST*** - #1 NC State def. #4 VCU  

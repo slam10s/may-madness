@@ -13,7 +13,7 @@ Regional Host
 - Massey: 15 (8.18)  
 - UTR: 19 (78.43)  
 - USTA Poll: 16  
-- Coached Poll: 11  
+- Coaches Poll: 11  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UGA*** - #16 Georgia (99%) def. #52 ETSU (1%)  
 - TRN: ***UGA*** - #14 Georgia (99%) def. #53 ETSU (1%)  
 - Massey: ***UGA*** - #15 Georgia (75%) def. #51 ETSU (25%)  
 - UTR: ***UGA*** - #19 Georgia (+4.52) def. #50 ETSU (-4.52)  
 - ITA: ***UGA*** - #11 Georgia def. #49 ETSU  
 - USTA Poll: ***UGA*** - #16 Georgia def. ETSU  
-- Coached Poll: ***UGA*** - #11 Georgia def. ETSU  
+- Coaches Poll: ***UGA*** - #11 Georgia def. ETSU  
 - Seeding: ***UGA*** - #1 Georgia def. #4 ETSU  

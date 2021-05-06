@@ -13,7 +13,7 @@ At-Large Bid
 - Massey: 15 (7.96)  
 - UTR: 17 (61.98)  
 - USTA Poll: 7  
-- Coached Poll: 18  
+- Coaches Poll: 18  
 
 </td><td>  
 
@@ -25,16 +25,18 @@ At-Large Bid
 - TRN: 36 (79.49)  
 - Massey: 38 (6.93)  
 - UTR: 35 (60.11)  
-- Coached Poll: 39  
+- Coaches Poll: 39  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***MICH*** - #8 Michigan (94%) def. #40 Rice (6%)  
 - TRN: ***MICH*** - #8 Michigan (96%) def. #36 Rice (4%)  
 - Massey: ***MICH*** - #15 Michigan (75%) def. #38 Rice (25%)  
 - UTR: ***MICH*** - #17 Michigan (+1.87) def. #35 Rice (-1.87)  
 - ITA: ***MICH*** - #19 Michigan def. #40 Rice  
 - USTA Poll: ***MICH*** - #7 Michigan def. Rice  
-- Coached Poll: ***MICH*** - #18 Michigan def. #39 Rice  
+- Coaches Poll: ***MICH*** - #18 Michigan def. #39 Rice  
 - Seeding: ***MICH*** - #2 Michigan def. #3 Rice  

@@ -24,16 +24,18 @@ At-Large Bid
 - Massey: 15 (7.96)  
 - UTR: 7 (63.45)  
 - USTA Poll: 18  
-- Coached Poll: 26  
+- Coaches Poll: 26  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***STAN*** - #23 Stanford (82%) def. #39 UC Santa Barbara (18%)  
 - TRN: ***STAN*** - #24 Stanford (84%) def. #40 UC Santa Barbara (16%)  
 - Massey: ***STAN*** - #15 Stanford (75%) def. #40 UC Santa Barbara (25%)  
 - UTR: ***STAN*** - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)  
 - ITA: ***STAN*** - #28 Stanford def. #44 UC Santa Barbara  
 - USTA Poll: ***STAN*** - #18 Stanford def. UC Santa Barbara  
-- Coached Poll: ***STAN*** - #26 Stanford def. UC Santa Barbara  
+- Coaches Poll: ***STAN*** - #26 Stanford def. UC Santa Barbara  
 - Seeding: ***STAN*** - #2 Stanford def. #3 UC Santa Barbara  

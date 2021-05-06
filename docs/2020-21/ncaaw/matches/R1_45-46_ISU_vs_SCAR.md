@@ -13,7 +13,7 @@ At-Large Bid
 - Massey: 27 (7.41)  
 - UTR: 29 (61.31)  
 - USTA Poll: RV  
-- Coached Poll: 23  
+- Coaches Poll: 23  
 
 </td><td>  
 
@@ -25,15 +25,18 @@ At-Large Bid
 - TRN: 42 (78.56)  
 - Massey: 39 (6.76)  
 - UTR: 39 (59.07)  
-- Coached Poll: 36  
+- Coaches Poll: 36  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***SCAR*** - #27 South Carolina (81%) def. #41 Iowa St. (19%)  
 - TRN: ***SCAR*** - #28 South Carolina (84%) def. #42 Iowa St. (16%)  
 - Massey: ***SCAR*** - #27 South Carolina (75%) def. #39 Iowa St. (25%)  
 - UTR: ***SCAR*** - #29 South Carolina (+2.24) def. #39 Iowa St. (-2.24)  
 - ITA: ***SCAR*** - #22 South Carolina def. #36 Iowa St.  
-- Coached Poll: ***SCAR*** - #23 South Carolina def. #36 Iowa St.  
+- USTA Poll: ***SCAR*** - RV South Carolina def. Iowa St.  
+- Coaches Poll: ***SCAR*** - #23 South Carolina def. #36 Iowa St.  
 - Seeding: ***SCAR*** - #2 South Carolina def. #3 Iowa St.  

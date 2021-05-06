@@ -13,7 +13,7 @@ Regional Host
 - Massey: 14 (8.01)  
 - UTR: 15 (62.15)  
 - USTA Poll: 13  
-- Coached Poll: 17  
+- Coaches Poll: 17  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***CAL*** - #17 California (99%) def. #50 San Jose St. (1%)  
 - TRN: ***CAL*** - #17 California (99%) def. #49 San Jose St. (1%)  
 - Massey: ***CAL*** - #14 California (75%) def. #49 San Jose St. (25%)  
 - UTR: ***CAL*** - #15 California (+6.78) def. #50 San Jose St. (-6.78)  
 - ITA: ***CAL*** - #16 California def. #47 San Jose St.  
 - USTA Poll: ***CAL*** - #13 California def. San Jose St.  
-- Coached Poll: ***CAL*** - #17 California def. San Jose St.  
+- Coaches Poll: ***CAL*** - #17 California def. San Jose St.  
 - Seeding: ***CAL*** - #1 California def. #4 San Jose St.  

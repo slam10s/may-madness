@@ -13,7 +13,7 @@ Regional Host
 - Massey: 5 (8.71)  
 - UTR: 4 (64.63)  
 - USTA Poll: 5  
-- Coached Poll: 4  
+- Coaches Poll: 4  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***PEPP*** - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)  
 - TRN: ***PEPP*** - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)  
 - Massey: ***PEPP*** - #5 Pepperdine (75%) def. #51 Northern Ariz. (25%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #54 Northern Ariz.  
 - USTA Poll: ***PEPP*** - #5 Pepperdine def. Northern Ariz.  
-- Coached Poll: ***PEPP*** - #4 Pepperdine def. Northern Ariz.  
+- Coaches Poll: ***PEPP*** - #4 Pepperdine def. Northern Ariz.  
 - Seeding: ***PEPP*** - #1 Pepperdine def. #4 Northern Ariz.  

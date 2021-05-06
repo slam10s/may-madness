@@ -12,7 +12,7 @@ At-Large Bid
 - TRN: 36 (90.55)  
 - Massey: 34 (7.39)  
 - UTR: 32 (76.86)  
-- Coached Poll: 36  
+- Coaches Poll: 36  
 
 </td><td>  
 
@@ -24,15 +24,17 @@ At-Large Bid
 - TRN: 34 (90.69)  
 - Massey: 32 (7.49)  
 - UTR: 37 (76.51)  
-- Coached Poll: 33  
+- Coaches Poll: 33  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***DUKE*** - #31 Duke (50%) def. #32 South Fla. (50%)  
 - TRN: ***USF*** - #34 South Fla. (53%) def. #36 Duke (47%)  
 - Massey: ***USF*** - #32 South Fla. (75%) def. #34 Duke (25%)  
 - UTR: ***DUKE*** - #32 Duke (+0.35) def. #37 South Fla. (-0.35)  
 - ITA: ***USF*** - #32 South Fla. def. #35 Duke  
-- Coached Poll: ***USF*** - #33 South Fla. def. #36 Duke  
+- Coaches Poll: ***USF*** - #33 South Fla. def. #36 Duke  
 - Seeding: ***USF*** - #2 South Fla. def. #3 Duke  

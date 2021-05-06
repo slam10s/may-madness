@@ -13,7 +13,7 @@ Regional Host
 - Massey: 12 (8.53)  
 - UTR: 8 (79.76)  
 - USTA Poll: 14  
-- Coached Poll: 8  
+- Coaches Poll: 8  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***A&M*** - #11 Texas A&M (99%) def. #53 New Mexico (1%)  
 - TRN: ***A&M*** - #11 Texas A&M (99%) def. #54 New Mexico (1%)  
 - Massey: ***A&M*** - #12 Texas A&M (75%) def. #48 New Mexico (25%)  
 - UTR: ***A&M*** - #8 Texas A&M (+5.97) def. #51 New Mexico (-5.97)  
 - ITA: ***A&M*** - #8 Texas A&M def. #52 New Mexico  
 - USTA Poll: ***A&M*** - #14 Texas A&M def. New Mexico  
-- Coached Poll: ***A&M*** - #8 Texas A&M def. New Mexico  
+- Coaches Poll: ***A&M*** - #8 Texas A&M def. New Mexico  
 - Seeding: ***A&M*** - #1 Texas A&M def. #4 New Mexico  

@@ -24,15 +24,17 @@ At-Large Bid
 - Massey: 29 (7.37)  
 - UTR: 20 (61.75)  
 - USTA Poll: NR  
-- Coached Poll: 25  
+- Coaches Poll: 25  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***MISS*** - #26 Ole Miss (94%) def. #46 North Florida (6%)  
 - TRN: ***MISS*** - #26 Ole Miss (97%) def. #46 North Florida (3%)  
 - Massey: ***MISS*** - #29 Ole Miss (75%) def. #47 North Florida (25%)  
 - UTR: ***MISS*** - #20 Ole Miss (+3.3) def. #44 North Florida (-3.3)  
 - ITA: ***MISS*** - #25 Ole Miss def. #48 North Florida  
-- Coached Poll: ***MISS*** - #25 Ole Miss def. North Florida  
+- Coaches Poll: ***MISS*** - #25 Ole Miss def. North Florida  
 - Seeding: ***MISS*** - #2 Ole Miss def. #3 North Florida  

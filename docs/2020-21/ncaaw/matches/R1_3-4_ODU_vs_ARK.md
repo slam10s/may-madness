@@ -12,7 +12,7 @@ At-Large Bid
 - TRN: 32 (79.87)  
 - Massey: 41 (6.74)  
 - UTR: 38 (59.65)  
-- Coached Poll: 33  
+- Coaches Poll: 33  
 
 </td><td>  
 
@@ -25,15 +25,18 @@ Automatic Qualifier
 - Massey: 29 (7.37)  
 - UTR: 37 (59.77)  
 - USTA Poll: RV  
-- Coached Poll: 32  
+- Coaches Poll: 32  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***ODU*** - #28 Old Dominion (74%) def. #38 Arkansas (26%)  
 - TRN: ***ODU*** - #25 Old Dominion (72%) def. #32 Arkansas (28%)  
 - Massey: ***ODU*** - #29 Old Dominion (75%) def. #41 Arkansas (25%)  
 - UTR: ***ODU*** - #37 Old Dominion (+0.12) def. #38 Arkansas (-0.12)  
 - ITA: ***ODU*** - #30 Old Dominion def. #32 Arkansas  
-- Coached Poll: ***ODU*** - #32 Old Dominion def. #33 Arkansas  
+- USTA Poll: ***ODU*** - RV Old Dominion def. Arkansas  
+- Coaches Poll: ***ODU*** - #32 Old Dominion def. #33 Arkansas  
 - Seeding: ***ODU*** - #2 Old Dominion def. #3 Arkansas  

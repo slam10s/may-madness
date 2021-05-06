@@ -13,7 +13,7 @@ Regional Host
 - Massey: 21 (7.77)  
 - UTR: 11 (62.70)  
 - USTA Poll: 20  
-- Coached Poll: 15  
+- Coaches Poll: 15  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***FLA*** - #16 Florida (99%) def. #64 Siena (1%)  
 - TRN: ***FLA*** - #20 Florida (99%) def. #64 Siena (1%)  
 - Massey: ***FLA*** - #21 Florida (75%) def. #64 Siena (25%)  
 - UTR: ***FLA*** - #11 Florida (+16.27) def. #62 Siena (-16.27)  
 - ITA: ***FLA*** - #11 Florida def. #60 Siena  
 - USTA Poll: ***FLA*** - #20 Florida def. Siena  
-- Coached Poll: ***FLA*** - #15 Florida def. Siena  
+- Coaches Poll: ***FLA*** - #15 Florida def. Siena  
 - Seeding: ***FLA*** - #1 Florida def. #4 Siena  

@@ -13,7 +13,7 @@ Regional Host
 - Massey: 5 (8.82)  
 - UTR: 9 (79.74)  
 - USTA Poll: 3  
-- Coached Poll: 1  
+- Coaches Poll: 1  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***BAY*** - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)  
 - TRN: ***BAY*** - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)  
 - Massey: ***BAY*** - #5 Baylor (75%) def. #58 A&M-Corpus Christi (25%)  
 - UTR: ***BAY*** - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)  
 - ITA: ***BAY*** - #1 Baylor def. #60 A&M-Corpus Christi  
 - USTA Poll: ***BAY*** - #3 Baylor def. A&M-Corpus Christi  
-- Coached Poll: ***BAY*** - #1 Baylor def. A&M-Corpus Christi  
+- Coaches Poll: ***BAY*** - #1 Baylor def. A&M-Corpus Christi  
 - Seeding: ***BAY*** - #1 Baylor def. #4 A&M-Corpus Christi  

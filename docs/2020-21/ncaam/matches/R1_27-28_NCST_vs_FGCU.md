@@ -24,16 +24,18 @@ At-Large Bid
 - Massey: 23 (7.70)  
 - UTR: 22 (78.11)  
 - USTA Poll: 25  
-- Coached Poll: 28  
+- Coaches Poll: 28  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***NCST*** - #19 NC State (99%) def. #49 FGCU (1%)  
 - TRN: ***NCST*** - #22 NC State (99%) def. #50 FGCU (1%)  
 - Massey: ***NCST*** - #23 NC State (75%) def. #53 FGCU (25%)  
 - UTR: ***NCST*** - #22 NC State (+4.53) def. #52 FGCU (-4.53)  
 - ITA: ***NCST*** - #23 NC State def. #47 FGCU  
 - USTA Poll: ***NCST*** - #25 NC State def. FGCU  
-- Coached Poll: ***NCST*** - #28 NC State def. FGCU  
+- Coaches Poll: ***NCST*** - #28 NC State def. FGCU  
 - Seeding: ***NCST*** - #2 NC State def. #3 FGCU  

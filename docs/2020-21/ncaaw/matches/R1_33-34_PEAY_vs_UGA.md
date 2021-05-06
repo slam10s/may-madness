@@ -13,7 +13,7 @@ Regional Host
 - Massey: 3 (9.29)  
 - UTR: 3 (64.69)  
 - USTA Poll: 3  
-- Coached Poll: 3  
+- Coaches Poll: 3  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
 - TRN: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
 - Massey: ***UGA*** - #3 Georgia (75%) def. #56 Austin Peay (25%)  
 - UTR: ***UGA*** - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)  
 - ITA: ***UGA*** - #3 Georgia def. #57 Austin Peay  
 - USTA Poll: ***UGA*** - #3 Georgia def. Austin Peay  
-- Coached Poll: ***UGA*** - #3 Georgia def. Austin Peay  
+- Coaches Poll: ***UGA*** - #3 Georgia def. Austin Peay  
 - Seeding: ***UGA*** - #1 Georgia def. #4 Austin Peay  

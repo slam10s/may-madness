@@ -7,6 +7,7 @@
 The metrics disagree on the outcome of these matches:
 
 - Fri, 5/07 at  1:00 EDT	[Auburn vs Oklahoma St.](./matches/R1_51-52_AUB_vs_OKST.md) ... AUB (65%) / OKST (35%)
+- Fri, 5/07 at 10:00 EDT	[Wake Forest vs Furman](./matches/R1_35-36_WAKE_vs_FUR.md) ... WAKE (66%) / FUR (34%)
 - Fri, 5/07 at 10:00 EDT	[Oklahoma vs Southern California](./matches/R1_43-44_OKLA_vs_USC.md) ... OKLA (67%) / USC (33%)
 
 ### Intriguing Matches
@@ -14,7 +15,6 @@ The metrics disagree on the outcome of these matches:
 The metrics agree on the winner, but not by a lot:
 
 - Fri, 5/07 at  4:00 EDT	[San Diego vs Texas Tech](./matches/R1_29-30_USD_vs_TTU.md) ... TTU (63%) / USD (37%)
-- Fri, 5/07 at 10:00 EDT	[Wake Forest vs Furman](./matches/R1_35-36_WAKE_vs_FUR.md) ... WAKE (66%) / FUR (34%)
 - Fri, 5/07 at 10:00 EDT	[Old Dominion vs Arkansas](./matches/R1_3-4_ODU_vs_ARK.md) ... ODU (71%) / ARK (29%)
 - Fri, 5/07 at  1:00 EDT	[Mississippi St. vs Arizona St.](./matches/R1_61-62_MSST_vs_AZST.md) ... AZST (73%) / MSST (27%)
 - Fri, 5/07 at  1:00 EDT	[Syracuse vs Kentucky](./matches/R1_5-6_SYR_vs_UK.md) ... UK (77%) / SYR (23%)

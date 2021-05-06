@@ -13,7 +13,7 @@ Regional Host
 - Massey: 8 (8.62)  
 - UTR: 2 (80.29)  
 - USTA Poll: 13  
-- Coached Poll: 12  
+- Coaches Poll: 12  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***USC*** - #14 Southern California (99%) def. #62 Grand Canyon (1%)  
 - TRN: ***USC*** - #16 Southern California (99%) def. #62 Grand Canyon (1%)  
 - Massey: ***USC*** - #8 Southern California (75%) def. #62 Grand Canyon (25%)  
 - UTR: ***USC*** - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)  
 - ITA: ***USC*** - #12 Southern California def. #64 Grand Canyon  
 - USTA Poll: ***USC*** - #13 Southern California def. Grand Canyon  
-- Coached Poll: ***USC*** - #12 Southern California def. Grand Canyon  
+- Coaches Poll: ***USC*** - #12 Southern California def. Grand Canyon  
 - Seeding: ***USC*** - #1 Southern California def. #4 Grand Canyon  

@@ -13,7 +13,7 @@ At-Large Bid
 - Massey: 20 (7.78)  
 - UTR: 33 (60.43)  
 - USTA Poll: 16  
-- Coached Poll: 19  
+- Coaches Poll: 19  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***NW*** - #18 Northwestern (99%) def. #49 Xavier (1%)  
 - TRN: ***NW*** - #13 Northwestern (99%) def. #50 Xavier (1%)  
 - Massey: ***NW*** - #20 Northwestern (75%) def. #50 Xavier (25%)  
 - UTR: ***NW*** - #33 Northwestern (+36.37) def. #64 Xavier (-36.37)  
 - ITA: ***NW*** - #21 Northwestern def. #55 Xavier  
 - USTA Poll: ***NW*** - #16 Northwestern def. Xavier  
-- Coached Poll: ***NW*** - #19 Northwestern def. Xavier  
+- Coaches Poll: ***NW*** - #19 Northwestern def. Xavier  
 - Seeding: ***NW*** - #2 Northwestern def. #3 Xavier  

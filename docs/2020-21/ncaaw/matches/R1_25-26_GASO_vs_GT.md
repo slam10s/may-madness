@@ -13,7 +13,7 @@ Regional Host
 - Massey: 18 (7.83)  
 - UTR: 24 (61.54)  
 - USTA Poll: 15  
-- Coached Poll: T11  
+- Coaches Poll: T11  
 
 </td><td>  
 
@@ -28,7 +28,9 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***GT*** - #20 Georgia Tech (99%) def. #53 Ga. Southern (1%)  
 - TRN: ***GT*** - #16 Georgia Tech (99%) def. #54 Ga. Southern (1%)  
 - Massey: ***GT*** - #18 Georgia Tech (75%) def. #55 Ga. Southern (25%)  

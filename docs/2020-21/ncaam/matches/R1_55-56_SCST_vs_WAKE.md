@@ -13,7 +13,7 @@ Regional Host
 - Massey: 13 (8.43)  
 - UTR: 7 (79.79)  
 - USTA Poll: 12  
-- Coached Poll: 10  
+- Coaches Poll: 10  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
 - TRN: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
 - Massey: ***WAKE*** - #13 Wake Forest (75%) def. #63 South Carolina St. (25%)  
 - UTR: ***WAKE*** - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)  
 - ITA: ***WAKE*** - #9 Wake Forest def. #65 South Carolina St.  
 - USTA Poll: ***WAKE*** - #12 Wake Forest def. South Carolina St.  
-- Coached Poll: ***WAKE*** - #10 Wake Forest def. South Carolina St.  
+- Coaches Poll: ***WAKE*** - #10 Wake Forest def. South Carolina St.  
 - Seeding: ***WAKE*** - #1 Wake Forest def. #4 South Carolina St.  

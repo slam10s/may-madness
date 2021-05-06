@@ -13,7 +13,7 @@ Regional Host
 - Massey: 17 (8.12)  
 - UTR: 16 (78.88)  
 - USTA Poll: 17  
-- Coached Poll: 15  
+- Coaches Poll: 15  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
 - TRN: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
 - Massey: ***UK*** - #17 Kentucky (75%) def. #55 Cleveland St. (25%)  
 - UTR: ***UK*** - #16 Kentucky (+7.36) def. #54 Cleveland St. (-7.36)  
 - ITA: ***UK*** - #15 Kentucky def. #57 Cleveland St.  
 - USTA Poll: ***UK*** - #17 Kentucky def. Cleveland St.  
-- Coached Poll: ***UK*** - #15 Kentucky def. Cleveland St.  
+- Coaches Poll: ***UK*** - #15 Kentucky def. Cleveland St.  
 - Seeding: ***UK*** - #1 Kentucky def. #4 Cleveland St.  

@@ -12,7 +12,7 @@ At-Large Bid
 - TRN: 40 (89.86)  
 - Massey: 43 (7.05)  
 - UTR: 43 (75.40)  
-- Coached Poll: 35  
+- Coaches Poll: 35  
 
 </td><td>  
 
@@ -25,15 +25,18 @@ At-Large Bid
 - Massey: 25 (7.67)  
 - UTR: 36 (76.54)  
 - USTA Poll: RV  
-- Coached Poll: 31  
+- Coaches Poll: 31  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***GT*** - #27 Georgia Tech (70%) def. #41 Memphis (30%)  
 - TRN: ***GT*** - #33 Georgia Tech (65%) def. #40 Memphis (35%)  
 - Massey: ***GT*** - #25 Georgia Tech (75%) def. #43 Memphis (25%)  
 - UTR: ***GT*** - #36 Georgia Tech (+1.14) def. #43 Memphis (-1.14)  
 - ITA: ***GT*** - #30 Georgia Tech def. #38 Memphis  
-- Coached Poll: ***GT*** - #31 Georgia Tech def. #35 Memphis  
+- USTA Poll: ***GT*** - RV Georgia Tech def. Memphis  
+- Coaches Poll: ***GT*** - #31 Georgia Tech def. #35 Memphis  
 - Seeding: ***GT*** - #2 Georgia Tech def. #3 Memphis  

@@ -1,13 +1,13 @@
 round	lines	title	winner	score	slam	trn	massey	utr	ita	usta	coach	lineups	home	visitor	teams	composite	ewp	ewps	file
 First Round	51-52	Auburn vs Oklahoma St.                  			AUB 	AUB 	AUB 	OKST	AUB 	AUB 	AUB 	OKST	2	6	[object Object]	AUB 	65.00	76,83,75,26	R1_51-52_AUB_vs_OKST
+First Round	35-36	Wake Forest vs Furman                   			WAKE	WAKE	WAKE	WAKE	WAKE	FUR 	WAKE	WAKE	1	7	[object Object]	WAKE	66.75	52,59,75,81	R1_35-36_WAKE_vs_FUR
 First Round	43-44	Oklahoma vs Southern California         			OKLA	OKLA	OKLA	USC 	OKLA	OKLA	OKLA	USC 	2	6	[object Object]	OKLA	67.25	88,89,75,17	R1_43-44_OKLA_vs_USC
 First Round	29-30	San Diego vs Texas Tech                 			TTU 	TTU 	TTU 	TTU 	TTU 	    	TTU 	TTU 	7	0	[object Object]	TTU 	63.75	53,61,75,66	R1_29-30_USD_vs_TTU
-First Round	35-36	Wake Forest vs Furman                   			WAKE	WAKE	WAKE	WAKE	WAKE	    	WAKE	WAKE	0	7	[object Object]	WAKE	66.75	52,59,75,81	R1_35-36_WAKE_vs_FUR
-First Round	 3-4 	Old Dominion vs Arkansas                			ODU 	ODU 	ODU 	ODU 	ODU 	    	ODU 	ODU 	0	7	[object Object]	ODU 	71.00	74,72,75,63	R1_3-4_ODU_vs_ARK
-First Round	61-62	Mississippi St. vs Arizona St.          			AZST	AZST	AZST	AZST	AZST	    	AZST	AZST	7	0	[object Object]	AZST	73.50	71,64,75,84	R1_61-62_MSST_vs_AZST
+First Round	 3-4 	Old Dominion vs Arkansas                			ODU 	ODU 	ODU 	ODU 	ODU 	ODU 	ODU 	ODU 	0	8	[object Object]	ODU 	71.00	74,72,75,63	R1_3-4_ODU_vs_ARK
+First Round	61-62	Mississippi St. vs Arizona St.          			AZST	AZST	AZST	AZST	AZST	AZST	AZST	AZST	8	0	[object Object]	AZST	73.50	71,64,75,84	R1_61-62_MSST_vs_AZST
 First Round	 5-6 	Syracuse vs Kentucky                    			UK  	UK  	UK  	UK  	UK  	UK  	UK  	UK  	8	0	[object Object]	UK  	77.25	83,84,75,67	R1_5-6_SYR_vs_UK
-First Round	11-12	Miami (FL) vs FIU                       			MIA 	MIA 	MIA 	MIA 	MIA 	    	MIA 	MIA 	0	7	[object Object]	MIA 	77.50	75,64,75,96	R1_11-12_MIA_vs_FIU
-First Round	45-46	Iowa St. vs South Carolina              			SCAR	SCAR	SCAR	SCAR	SCAR	    	SCAR	SCAR	7	0	[object Object]	SCAR	81.50	81,84,75,86	R1_45-46_ISU_vs_SCAR
+First Round	11-12	Miami (FL) vs FIU                       			MIA 	MIA 	MIA 	MIA 	MIA 	MIA 	MIA 	MIA 	0	8	[object Object]	MIA 	77.50	75,64,75,96	R1_11-12_MIA_vs_FIU
+First Round	45-46	Iowa St. vs South Carolina              			SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	8	0	[object Object]	SCAR	81.50	81,84,75,86	R1_45-46_ISU_vs_SCAR
 First Round	19-20	Stanford vs UC Santa Barbara            			STAN	STAN	STAN	STAN	STAN	STAN	STAN	STAN	0	8	[object Object]	STAN	84.75	82,84,75,98	R1_19-20_STAN_vs_UCSB
 First Round	21-22	Rice vs Michigan                        			MICH	MICH	MICH	MICH	MICH	MICH	MICH	MICH	8	0	[object Object]	MICH	89.25	94,96,75,92	R1_21-22_RICE_vs_MICH
 First Round	13-14	Alabama vs Duke                         			DUKE	DUKE	DUKE	DUKE	DUKE	DUKE	DUKE	DUKE	8	0	[object Object]	DUKE	90.50	93,94,75,100	R1_13-14_BAMA_vs_DUKE

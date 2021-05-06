@@ -13,7 +13,7 @@ Regional Host
 - Massey: 21 (7.77)  
 - UTR: 21 (61.70)  
 - USTA Poll: 17  
-- Coached Poll: 10  
+- Coaches Poll: 10  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***A&M*** - #15 Texas A&M (99%) def. #58 Drake (1%)  
 - TRN: ***A&M*** - #14 Texas A&M (99%) def. #58 Drake (1%)  
 - Massey: ***A&M*** - #21 Texas A&M (75%) def. #59 Drake (25%)  
 - UTR: ***A&M*** - #21 Texas A&M (+10.83) def. #59 Drake (-10.83)  
 - ITA: ***A&M*** - #10 Texas A&M def. #63 Drake  
 - USTA Poll: ***A&M*** - #17 Texas A&M def. Drake  
-- Coached Poll: ***A&M*** - #10 Texas A&M def. Drake  
+- Coaches Poll: ***A&M*** - #10 Texas A&M def. Drake  
 - Seeding: ***A&M*** - #1 Texas A&M def. #4 Drake  

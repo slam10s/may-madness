@@ -13,7 +13,7 @@ Regional Host
 - Massey: 7 (8.63)  
 - UTR: 12 (79.08)  
 - USTA Poll: T10  
-- Coached Poll: 9  
+- Coaches Poll: 9  
 
 </td><td>  
 
@@ -28,11 +28,13 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCF*** - #12 UCF (99%) def. #61 Monmouth (1%)  
 - TRN: ***UCF*** - #13 UCF (99%) def. #57 Monmouth (1%)  
 - Massey: ***UCF*** - #7 UCF (75%) def. #60 Monmouth (25%)  
 - UTR: ***UCF*** - #12 UCF (+9.47) def. #62 Monmouth (-9.47)  
 - ITA: ***UCF*** - #10 UCF def. #58 Monmouth  
-- Coached Poll: ***UCF*** - #9 UCF def. Monmouth  
+- Coaches Poll: ***UCF*** - #9 UCF def. Monmouth  
 - Seeding: ***UCF*** - #1 UCF def. #4 Monmouth  

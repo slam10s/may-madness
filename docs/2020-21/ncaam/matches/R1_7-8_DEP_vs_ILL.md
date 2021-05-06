@@ -13,7 +13,7 @@ Regional Host
 - Massey: 9 (8.60)  
 - UTR: 15 (78.92)  
 - USTA Poll: 8  
-- Coached Poll: 13  
+- Coaches Poll: 13  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***ILL*** - #6 Illinois (99%) def. #55 DePaul (1%)  
 - TRN: ***ILL*** - #4 Illinois (99%) def. #55 DePaul (1%)  
 - Massey: ***ILL*** - #9 Illinois (75%) def. #54 DePaul (25%)  
 - UTR: ***ILL*** - #15 Illinois (+8.25) def. #60 DePaul (-8.25)  
 - ITA: ***ILL*** - #18 Illinois def. #55 DePaul  
 - USTA Poll: ***ILL*** - #8 Illinois def. DePaul  
-- Coached Poll: ***ILL*** - #13 Illinois def. DePaul  
+- Coaches Poll: ***ILL*** - #13 Illinois def. DePaul  
 - Seeding: ***ILL*** - #1 Illinois def. #4 DePaul  

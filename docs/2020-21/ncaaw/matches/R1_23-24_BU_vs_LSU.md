@@ -13,7 +13,7 @@ Regional Host
 - Massey: 21 (7.77)  
 - UTR: 26 (61.48)  
 - USTA Poll: 23  
-- Coached Poll: 14  
+- Coaches Poll: 14  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***LSU*** - #21 LSU (99%) def. #54 Boston U. (1%)  
 - TRN: ***LSU*** - #18 LSU (99%) def. #51 Boston U. (1%)  
 - Massey: ***LSU*** - #21 LSU (75%) def. #54 Boston U. (25%)  
 - UTR: ***LSU*** - #26 LSU (+5.98) def. #49 Boston U. (-5.98)  
 - ITA: ***LSU*** - #12 LSU def. #50 Boston U.  
 - USTA Poll: ***LSU*** - #23 LSU def. Boston U.  
-- Coached Poll: ***LSU*** - #14 LSU def. Boston U.  
+- Coaches Poll: ***LSU*** - #14 LSU def. Boston U.  
 - Seeding: ***LSU*** - #1 LSU def. #4 Boston U.  

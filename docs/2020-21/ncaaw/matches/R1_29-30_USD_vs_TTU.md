@@ -12,7 +12,7 @@ At-Large Bid
 - TRN: 34 (79.75)  
 - Massey: 28 (7.39)  
 - UTR: 27 (61.44)  
-- Coached Poll: 29  
+- Coaches Poll: 29  
 
 </td><td>  
 
@@ -24,15 +24,17 @@ At-Large Bid
 - TRN: 38 (78.95)  
 - Massey: 32 (7.31)  
 - UTR: 32 (60.57)  
-- Coached Poll: 47  
+- Coaches Poll: 47  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TTU*** - #34 Texas Tech (53%) def. #36 San Diego (47%)  
 - TRN: ***TTU*** - #34 Texas Tech (61%) def. #38 San Diego (39%)  
 - Massey: ***TTU*** - #28 Texas Tech (75%) def. #32 San Diego (25%)  
 - UTR: ***TTU*** - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)  
 - ITA: ***TTU*** - #29 Texas Tech def. #39 San Diego  
-- Coached Poll: ***TTU*** - #29 Texas Tech def. #47 San Diego  
+- Coaches Poll: ***TTU*** - #29 Texas Tech def. #47 San Diego  
 - Seeding: ***TTU*** - #2 Texas Tech def. #3 San Diego  

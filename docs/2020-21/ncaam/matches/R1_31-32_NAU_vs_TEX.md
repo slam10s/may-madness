@@ -13,7 +13,7 @@ Regional Host
 - Massey: 11 (8.54)  
 - UTR: 14 (79.01)  
 - USTA Poll: 6  
-- Coached Poll: 4  
+- Coaches Poll: 4  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TEX*** - #8 Texas (99%) def. #58 Northern Ariz. (1%)  
 - TRN: ***TEX*** - #7 Texas (99%) def. #60 Northern Ariz. (1%)  
 - Massey: ***TEX*** - #11 Texas (75%) def. #59 Northern Ariz. (25%)  
 - UTR: ***TEX*** - #14 Texas (+8.16) def. #59 Northern Ariz. (-8.16)  
 - ITA: ***TEX*** - #5 Texas def. #61 Northern Ariz.  
 - USTA Poll: ***TEX*** - #6 Texas def. Northern Ariz.  
-- Coached Poll: ***TEX*** - #4 Texas def. Northern Ariz.  
+- Coaches Poll: ***TEX*** - #4 Texas def. Northern Ariz.  
 - Seeding: ***TEX*** - #1 Texas def. #4 Northern Ariz.  

@@ -12,7 +12,7 @@ Automatic Qualifier
 - TRN: 45 (89.05)  
 - Massey: 42 (7.21)  
 - UTR: 41 (75.54)  
-- Coached Poll: 42  
+- Coaches Poll: 42  
 
 </td><td>  
 
@@ -24,15 +24,17 @@ At-Large Bid
 - TRN: 26 (91.45)  
 - Massey: 26 (7.63)  
 - UTR: 31 (76.99)  
-- Coached Poll: 24  
+- Coaches Poll: 24  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TULN*** - #26 Tulane (79%) def. #45 Middle Tenn. (21%)  
 - TRN: ***TULN*** - #26 Tulane (80%) def. #45 Middle Tenn. (20%)  
 - Massey: ***TULN*** - #26 Tulane (75%) def. #42 Middle Tenn. (25%)  
 - UTR: ***TULN*** - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)  
 - ITA: ***TULN*** - #22 Tulane def. #42 Middle Tenn.  
-- Coached Poll: ***TULN*** - #24 Tulane def. #42 Middle Tenn.  
+- Coaches Poll: ***TULN*** - #24 Tulane def. #42 Middle Tenn.  
 - Seeding: ***TULN*** - #2 Tulane def. #3 Middle Tenn.  

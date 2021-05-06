@@ -13,7 +13,7 @@ At-Large Bid
 - Massey: 18 (8.10)  
 - UTR: 21 (78.35)  
 - USTA Poll: 18  
-- Coached Poll: 19  
+- Coaches Poll: 19  
 
 </td><td>  
 
@@ -26,15 +26,18 @@ At-Large Bid
 - Massey: 14 (8.22)  
 - UTR: 18 (78.65)  
 - USTA Poll: T10  
-- Coached Poll: 23  
+- Coaches Poll: 23  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***MICH*** - #13 Michigan (78%) def. #21 Arizona (22%)  
 - TRN: ***MICH*** - #12 Michigan (88%) def. #20 Arizona (12%)  
 - Massey: ***MICH*** - #14 Michigan (75%) def. #18 Arizona (25%)  
 - UTR: ***MICH*** - #18 Michigan (+0.3) def. #21 Arizona (-0.3)  
 - ITA: ***ARIZ*** - #17 Arizona def. #46 Michigan  
-- Coached Poll: ***ARIZ*** - #19 Arizona def. #23 Michigan  
+- USTA Poll: ***ARIZ*** - #18 Arizona def. Michigan  
+- Coaches Poll: ***ARIZ*** - #19 Arizona def. #23 Michigan  
 - Seeding: ***ARIZ*** - #2 Arizona def. #3 Michigan  

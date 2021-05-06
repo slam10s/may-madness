@@ -13,7 +13,7 @@ Regional Host
 - Massey: 7 (8.25)  
 - UTR: 13 (62.41)  
 - USTA Poll: 10  
-- Coached Poll: T11  
+- Coaches Poll: T11  
 
 </td><td>  
 
@@ -28,7 +28,9 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UVA*** - #9 Virginia (99%) def. #61 LIU (1%)  
 - TRN: ***UVA*** - #11 Virginia (99%) def. #63 LIU (1%)  
 - Massey: ***UVA*** - #7 Virginia (75%) def. #61 LIU (25%)  

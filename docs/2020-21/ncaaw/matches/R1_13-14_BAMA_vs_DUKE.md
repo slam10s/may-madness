@@ -13,7 +13,7 @@ At-Large Bid
 - Massey: 11 (8.09)  
 - UTR: 12 (62.45)  
 - USTA Poll: 14  
-- Coached Poll: 20  
+- Coaches Poll: 20  
 
 </td><td>  
 
@@ -25,16 +25,18 @@ At-Large Bid
 - TRN: 44 (78.28)  
 - Massey: 44 (6.49)  
 - UTR: 40 (59.05)  
-- Coached Poll: 43  
+- Coaches Poll: 43  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***DUKE*** - #14 Duke (93%) def. #44 Alabama (7%)  
 - TRN: ***DUKE*** - #15 Duke (94%) def. #44 Alabama (6%)  
 - Massey: ***DUKE*** - #11 Duke (75%) def. #44 Alabama (25%)  
 - UTR: ***DUKE*** - #12 Duke (+3.40) def. #40 Alabama (-3.40)  
 - ITA: ***DUKE*** - #17 Duke def. #42 Alabama  
 - USTA Poll: ***DUKE*** - #14 Duke def. Alabama  
-- Coached Poll: ***DUKE*** - #20 Duke def. #43 Alabama  
+- Coaches Poll: ***DUKE*** - #20 Duke def. #43 Alabama  
 - Seeding: ***DUKE*** - #2 Duke def. #3 Alabama  

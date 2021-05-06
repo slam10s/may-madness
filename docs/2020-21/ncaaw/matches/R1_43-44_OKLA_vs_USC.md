@@ -12,7 +12,7 @@ At-Large Bid
 - TRN: 41 (78.74)  
 - Massey: 26 (7.43)  
 - UTR: 6 (64.29)  
-- Coached Poll: 34  
+- Coaches Poll: 34  
 
 </td><td>  
 
@@ -25,16 +25,18 @@ At-Large Bid
 - Massey: 12 (8.06)  
 - UTR: 14 (62.33)  
 - USTA Poll: 22  
-- Coached Poll: 24  
+- Coaches Poll: 24  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***OKLA*** - #13 Oklahoma (88%) def. #35 Southern California (12%)  
 - TRN: ***OKLA*** - #22 Oklahoma (89%) def. #41 Southern California (11%)  
 - Massey: ***OKLA*** - #12 Oklahoma (75%) def. #26 Southern California (25%)  
 - UTR: ***USC*** - #6 Southern California (+1.96) def. #14 Oklahoma (-1.96)  
 - ITA: ***OKLA*** - #23 Oklahoma def. #35 Southern California  
 - USTA Poll: ***OKLA*** - #22 Oklahoma def. Southern California  
-- Coached Poll: ***OKLA*** - #24 Oklahoma def. #34 Southern California  
+- Coaches Poll: ***OKLA*** - #24 Oklahoma def. #34 Southern California  
 - Seeding: ***OKLA*** - #2 Oklahoma def. #3 Southern California  

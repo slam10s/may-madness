@@ -13,7 +13,7 @@ Regional Host
 - Massey: 3 (9.13)  
 - UTR: 6 (80.03)  
 - USTA Poll: 1  
-- Coached Poll: 5  
+- Coaches Poll: 5  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - TRN: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - Massey: ***UVA*** - #3 Virginia (75%) def. #64 Fairleigh Dickinson (25%)  
 - UTR: ***UVA*** - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)  
 - ITA: ***UVA*** - #4 Virginia def. #62 Fairleigh Dickinson  
 - USTA Poll: ***UVA*** - #1 Virginia def. Fairleigh Dickinson  
-- Coached Poll: ***UVA*** - #5 Virginia def. Fairleigh Dickinson  
+- Coaches Poll: ***UVA*** - #5 Virginia def. Fairleigh Dickinson  
 - Seeding: ***UVA*** - #1 Virginia def. #4 Fairleigh Dickinson  

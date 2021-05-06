@@ -13,7 +13,7 @@ Regional Host
 - Massey: 1 (9.40)  
 - UTR: 1 (80.76)  
 - USTA Poll: 2  
-- Coached Poll: 2  
+- Coaches Poll: 2  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***FLA*** - #2 Florida (99%) def. #50 South Alabama (1%)  
 - TRN: ***FLA*** - #3 Florida (99%) def. #52 South Alabama (1%)  
 - Massey: ***FLA*** - #1 Florida (75%) def. #46 South Alabama (25%)  
 - UTR: ***FLA*** - #1 Florida (+6.84) def. #49 South Alabama (-6.84)  
 - ITA: ***FLA*** - #2 Florida def. #53 South Alabama  
 - USTA Poll: ***FLA*** - #2 Florida def. South Alabama  
-- Coached Poll: ***FLA*** - #2 Florida def. South Alabama  
+- Coaches Poll: ***FLA*** - #2 Florida def. South Alabama  
 - Seeding: ***FLA*** - #1 Florida def. #4 South Alabama  

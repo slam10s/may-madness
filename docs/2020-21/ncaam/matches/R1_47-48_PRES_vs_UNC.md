@@ -13,7 +13,7 @@ Regional Host
 - Massey: 4 (8.94)  
 - UTR: 11 (79.64)  
 - USTA Poll: 5  
-- Coached Poll: 6  
+- Coaches Poll: 6  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UNC*** - #3 North Carolina (99%) def. #59 Presbyterian (1%)  
 - TRN: ***UNC*** - #2 North Carolina (99%) def. #59 Presbyterian (1%)  
 - Massey: ***UNC*** - #4 North Carolina (75%) def. #61 Presbyterian (25%)  
 - UTR: ***UNC*** - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)  
 - ITA: ***UNC*** - #6 North Carolina def. #59 Presbyterian  
 - USTA Poll: ***UNC*** - #5 North Carolina def. Presbyterian  
-- Coached Poll: ***UNC*** - #6 North Carolina def. Presbyterian  
+- Coaches Poll: ***UNC*** - #6 North Carolina def. Presbyterian  
 - Seeding: ***UNC*** - #1 North Carolina def. #4 Presbyterian  

@@ -13,7 +13,7 @@ Regional Host
 - Massey: 10 (8.12)  
 - UTR: 16 (62.03)  
 - USTA Poll: 9  
-- Coached Poll: 9  
+- Coaches Poll: 9  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCF*** - #12 UCF (99%) def. #60 Charleston So. (1%)  
 - TRN: ***UCF*** - #12 UCF (99%) def. #57 Charleston So. (1%)  
 - Massey: ***UCF*** - #10 UCF (75%) def. #60 Charleston So. (25%)  
 - UTR: ***UCF*** - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)  
 - ITA: ***UCF*** - #9 UCF def. #58 Charleston So.  
 - USTA Poll: ***UCF*** - #9 UCF def. Charleston So.  
-- Coached Poll: ***UCF*** - #9 UCF def. Charleston So.  
+- Coaches Poll: ***UCF*** - #9 UCF def. Charleston So.  
 - Seeding: ***UCF*** - #1 UCF def. #4 Charleston So.  

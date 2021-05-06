@@ -13,7 +13,7 @@ Regional Host
 - Massey: 1 (9.82)  
 - UTR: 2 (65.21)  
 - USTA Poll: 1  
-- Coached Poll: 1  
+- Coaches Poll: 1  
 
 </td><td>  
 
@@ -27,12 +27,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #62 South Carolina St. (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #61 South Carolina St. (1%)  
 - Massey: ***UNC*** - #1 North Carolina (75%) def. #62 South Carolina St. (25%)  
 - UTR: ***UNC*** - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)  
 - ITA: ***UNC*** - #1 North Carolina def. South Carolina St.  
 - USTA Poll: ***UNC*** - #1 North Carolina def. South Carolina St.  
-- Coached Poll: ***UNC*** - #1 North Carolina def. South Carolina St.  
+- Coaches Poll: ***UNC*** - #1 North Carolina def. South Carolina St.  
 - Seeding: ***UNC*** - #1 North Carolina def. #4 South Carolina St.  

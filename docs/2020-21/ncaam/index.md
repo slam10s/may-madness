@@ -9,6 +9,7 @@ The metrics disagree on the outcome of these matches:
 - Sat, 5/08 at 10:00 EDT	[Texas Tech vs Virginia Tech](./matches/R1_43-44_TTU_vs_VT.md) ... VT (52%) / TTU (48%)
 - Sat, 5/08 at 12:00 EDT	[Oregon vs Alabama](./matches/R1_61-62_ORE_vs_BAMA.md) ... BAMA (56%) / ORE (44%)
 - Sat, 5/08 at 10:00 EDT	[South Fla. vs Duke](./matches/R1_3-4_USF_vs_DUKE.md) ... USF (56%) / DUKE (44%)
+- Fri, 5/07 at  2:00 EDT	[Western Mich. vs Notre Dame](./matches/R1_5-6_WMU_vs_ND.md) ... ND (76%) / WMU (24%)
 - Fri, 5/07 at 10:00 EDT	[Michigan vs Arizona](./matches/R1_37-38_MICH_vs_ARIZ.md) ... MICH (77%) / ARIZ (23%)
 
 ### Intriguing Matches
@@ -19,7 +20,6 @@ The metrics agree on the winner, but not by a lot:
 - Sat, 5/08 at 12:00 EDT	[Arizona St. vs Wichita St.](./matches/R1_51-52_AZST_vs_WICH.md) ... AZST (68%) / WICH (32%)
 - Fri, 5/07 at 12:00 EDT	[Denver vs Oklahoma](./matches/R1_13-14_DEN_vs_OKLA.md) ... OKLA (74%) / DEN (26%)
 - Sat, 5/08 at 10:00 EDT	[Georgia Tech vs Memphis](./matches/R1_35-36_GT_vs_MEM.md) ... GT (75%) / MEM (25%)
-- Fri, 5/07 at  2:00 EDT	[Western Mich. vs Notre Dame](./matches/R1_5-6_WMU_vs_ND.md) ... ND (76%) / WMU (24%)
 - Sat, 5/08 at  1:00 EDT	[Tulane vs Middle Tenn.](./matches/R1_59-60_TULN_vs_MTSU.md) ... TULN (79%) / MTSU (21%)
 
 ### Heavy Favorites

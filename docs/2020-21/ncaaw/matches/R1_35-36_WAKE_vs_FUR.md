@@ -13,7 +13,7 @@ Automatic Qualifier
 - Massey: 35 (7.09)  
 - UTR: 41 (59.02)  
 - USTA Poll: RV  
-- Coached Poll: 35  
+- Coaches Poll: 35  
 
 </td><td>  
 
@@ -25,15 +25,18 @@ At-Large Bid
 - TRN: 31 (80.20)  
 - Massey: 34 (7.13)  
 - UTR: 31 (60.70)  
-- Coached Poll: 31  
+- Coaches Poll: 31  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***WAKE*** - #32 Wake Forest (52%) def. #33 Furman (48%)  
 - TRN: ***WAKE*** - #31 Wake Forest (59%) def. #35 Furman (41%)  
 - Massey: ***WAKE*** - #34 Wake Forest (75%) def. #35 Furman (25%)  
 - UTR: ***WAKE*** - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)  
 - ITA: ***WAKE*** - #33 Wake Forest def. #34 Furman  
-- Coached Poll: ***WAKE*** - #31 Wake Forest def. #35 Furman  
+- USTA Poll: ***FUR*** - RV Furman def. Wake Forest  
+- Coaches Poll: ***WAKE*** - #31 Wake Forest def. #35 Furman  
 - Seeding: ***WAKE*** - #2 Wake Forest def. #3 Furman  

@@ -23,15 +23,17 @@ At-Large Bid
 - TRN: 30 (81.13)  
 - Massey: 31 (7.33)  
 - UTR: 28 (61.39)  
-- Coached Poll: 28  
+- Coaches Poll: 28  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***VANDY*** - #29 Vanderbilt (100%) def. #52 Ball St. (0%)  
 - TRN: ***VANDY*** - #30 Vanderbilt (100%) def. #52 Ball St. (0%)  
 - Massey: ***VANDY*** - #31 Vanderbilt (75%) def. #53 Ball St. (25%)  
 - UTR: ***VANDY*** - #28 Vanderbilt (+6.81) def. #51 Ball St. (-6.81)  
 - ITA: ***VANDY*** - #27 Vanderbilt def. #51 Ball St.  
-- Coached Poll: ***VANDY*** - #28 Vanderbilt def. Ball St.  
+- Coaches Poll: ***VANDY*** - #28 Vanderbilt def. Ball St.  
 - Seeding: ***VANDY*** - #2 Vanderbilt def. #3 Ball St.  

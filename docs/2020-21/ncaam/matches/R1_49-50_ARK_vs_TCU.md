@@ -13,7 +13,7 @@ Regional Host
 - Massey: 6 (8.76)  
 - UTR: 10 (79.71)  
 - USTA Poll: 9  
-- Coached Poll: 7  
+- Coaches Poll: 7  
 
 </td><td>  
 
@@ -25,16 +25,18 @@ At-Large Bid
 - TRN: 44 (89.43)  
 - Massey: 50 (6.64)  
 - UTR: 44 (75.30)  
-- Coached Poll: 40  
+- Coaches Poll: 40  
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TCU*** - #9 TCU (96%) def. #43 Arkansas (4%)  
 - TRN: ***TCU*** - #9 TCU (98%) def. #44 Arkansas (2%)  
 - Massey: ***TCU*** - #6 TCU (75%) def. #50 Arkansas (25%)  
 - UTR: ***TCU*** - #10 TCU (+4.41) def. #44 Arkansas (-4.41)  
 - ITA: ***TCU*** - #7 TCU def. #43 Arkansas  
 - USTA Poll: ***TCU*** - #9 TCU def. Arkansas  
-- Coached Poll: ***TCU*** - #7 TCU def. #40 Arkansas  
+- Coaches Poll: ***TCU*** - #7 TCU def. #40 Arkansas  
 - Seeding: ***TCU*** - #1 TCU def. #4 Arkansas  

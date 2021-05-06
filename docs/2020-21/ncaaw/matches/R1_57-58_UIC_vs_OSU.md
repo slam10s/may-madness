@@ -13,7 +13,7 @@ Regional Host
 - Massey: 8 (8.22)  
 - UTR: 25 (61.53)  
 - USTA Poll: 6  
-- Coached Poll: 13  
+- Coaches Poll: 13  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***OSU*** - #5 Ohio St. (99%) def. #57 UIC (1%)  
 - TRN: ***OSU*** - #5 Ohio St. (99%) def. #59 UIC (1%)  
 - Massey: ***OSU*** - #8 Ohio St. (75%) def. #58 UIC (25%)  
 - UTR: ***OSU*** - #25 Ohio St. (+10.14) def. #58 UIC (-10.14)  
 - ITA: ***OSU*** - #18 Ohio St. def. #59 UIC  
 - USTA Poll: ***OSU*** - #6 Ohio St. def. UIC  
-- Coached Poll: ***OSU*** - #13 Ohio St. def. UIC  
+- Coaches Poll: ***OSU*** - #13 Ohio St. def. UIC  
 - Seeding: ***OSU*** - #1 Ohio St. def. #4 UIC  

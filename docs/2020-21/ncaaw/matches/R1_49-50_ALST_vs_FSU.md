@@ -13,7 +13,7 @@ Regional Host
 - Massey: 9 (8.17)  
 - UTR: 10 (62.71)  
 - USTA Poll: 12  
-- Coached Poll: 7  
+- Coaches Poll: 7  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***FSU*** - #10 Florida St. (99%) def. #63 Alabama St. (1%)  
 - TRN: ***FSU*** - #9 Florida St. (99%) def. #62 Alabama St. (1%)  
 - Massey: ***FSU*** - #9 Florida St. (75%) def. #63 Alabama St. (25%)  
 - UTR: ***FSU*** - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)  
 - ITA: ***FSU*** - #7 Florida St. def. #61 Alabama St.  
 - USTA Poll: ***FSU*** - #12 Florida St. def. Alabama St.  
-- Coached Poll: ***FSU*** - #7 Florida St. def. Alabama St.  
+- Coaches Poll: ***FSU*** - #7 Florida St. def. Alabama St.  
 - Seeding: ***FSU*** - #1 Florida St. def. #4 Alabama St.  

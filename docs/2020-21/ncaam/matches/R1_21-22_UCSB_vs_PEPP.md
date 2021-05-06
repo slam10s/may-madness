@@ -13,7 +13,7 @@ Automatic Qualifier
 - Massey: 22 (7.73)  
 - UTR: 26 (77.59)  
 - USTA Poll: 24  
-- Coached Poll: 30  
+- Coaches Poll: 30  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***PEPP*** - #34 Pepperdine (95%) def. #51 UC Santa Barbara (5%)  
 - TRN: ***PEPP*** - #30 Pepperdine (98%) def. #51 UC Santa Barbara (2%)  
 - Massey: ***PEPP*** - #22 Pepperdine (75%) def. #52 UC Santa Barbara (25%)  
 - UTR: ***PEPP*** - #26 Pepperdine (+3.39) def. #47 UC Santa Barbara (-3.39)  
 - ITA: ***PEPP*** - #28 Pepperdine def. #54 UC Santa Barbara  
 - USTA Poll: ***PEPP*** - #24 Pepperdine def. UC Santa Barbara  
-- Coached Poll: ***PEPP*** - #30 Pepperdine def. UC Santa Barbara  
+- Coaches Poll: ***PEPP*** - #30 Pepperdine def. UC Santa Barbara  
 - Seeding: ***PEPP*** - #2 Pepperdine def. #3 UC Santa Barbara  

@@ -13,7 +13,7 @@ At-Large Bid
 - Massey: 19 (7.80)  
 - UTR: 22 (61.61)  
 - USTA Poll: 19  
-- Coached Poll: 16  
+- Coaches Poll: 16  
 
 </td><td>  
 
@@ -28,12 +28,14 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions:  
+ ### Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TENN*** - #19 Tennessee (97%) def. #47 James Madison (3%)  
 - TRN: ***TENN*** - #19 Tennessee (98%) def. #47 James Madison (2%)  
 - Massey: ***TENN*** - #19 Tennessee (75%) def. #46 James Madison (25%)  
 - UTR: ***TENN*** - #22 Tennessee (+4.72) def. #47 James Madison (-4.72)  
 - ITA: ***TENN*** - #15 Tennessee def. #46 James Madison  
 - USTA Poll: ***TENN*** - #19 Tennessee def. James Madison  
-- Coached Poll: ***TENN*** - #16 Tennessee def. James Madison  
+- Coaches Poll: ***TENN*** - #16 Tennessee def. James Madison  
 - Seeding: ***TENN*** - #2 Tennessee def. #3 James Madison  
