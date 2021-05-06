@@ -43,23 +43,23 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-- 1: Trent Bryde (UGA) - 9-10 at 1, 9-10 in duals, 14-13 overall  
-    Dimitri Badra (ETSU) - 11-3 at 1, 14-5 in duals, 14-5 overall  
-- 2: Tyler Zink (UGA) - 6-5 at 2, 9-5 in duals, 11-9 overall  
-    Frazier Rengifo (ETSU) - 10-4 at 2, 11-7 in duals, 11-7 overall  
-- 3: Philip Henning (UGA) - 11-4 at 3, 13-6 in duals, 18-10 overall  
-    Juan Lugo (ETSU) - 5-1 at 3, 9-5 in duals, 9-5 overall  
-- 4: Blake Croyder (UGA) - 10-2 at 4, 11-5 in duals, 15-12 overall  
-    Thiago Pernas (ETSU) - 7-2 at 4, 10-8 in duals, 10-8 overall  
-- 5: Billy Rowe (UGA) - 8-4 at 5, 12-7 in duals, 16-10 overall  
-    MIguel Este (ETSU) - 1-1 at 5, 8-5 in duals, 8-5 overall  
-- 6: Erik Grevelius (UGA) - 7-3 at 6, 9-4 in duals, 15-8 overall  
-    Juan Zabala (ETSU) - 2-1 at 6, 6-4 in duals, 6-4 overall  
+1. Trent Bryde (UGA) - 9-10 at 1, 9-10 in duals, 14-13 overall
+  Dimitri Badra (ETSU) - 11-3 at 1, 14-5 in duals, 14-5 overall
+2. Tyler Zink (UGA) - 6-5 at 2, 9-5 in duals, 11-9 overall
+  Frazier Rengifo (ETSU) - 10-4 at 2, 11-7 in duals, 11-7 overall
+3. Philip Henning (UGA) - 11-4 at 3, 13-6 in duals, 18-10 overall
+  Juan Lugo (ETSU) - 5-1 at 3, 9-5 in duals, 9-5 overall
+4. Blake Croyder (UGA) - 10-2 at 4, 11-5 in duals, 15-12 overall
+  Thiago Pernas (ETSU) - 7-2 at 4, 10-8 in duals, 10-8 overall
+5. Billy Rowe (UGA) - 8-4 at 5, 12-7 in duals, 16-10 overall
+  MIguel Este (ETSU) - 1-1 at 5, 8-5 in duals, 8-5 overall
+6. Erik Grevelius (UGA) - 7-3 at 6, 9-4 in duals, 15-8 overall
+  Juan Zabala (ETSU) - 2-1 at 6, 6-4 in duals, 6-4 overall
 
  #### Doubles:  
-- 1: Bryde/Zink (UGA) - 8-4 at 1, 8-4 in duals, 13-6 overall  
-    Lugo/Rengifo (ETSU) - 8-5 at 1, 8-5 in duals, 8-5 overall  
-- 2: Croyder/Rowe (UGA) - 7-5 at 2, 8-5 in duals, 10-5 overall  
-    Este/Badra (ETSU) - 4-0 at 2, 12-1 in duals, 12-1 overall  
-- 3: Henning/Grevelius (UGA) - 9-5 at 3, 10-5 in duals, 10-7 overall  
-    Zabala/Pernas (ETSU) - 4-2 at 3, 8-4 in duals, 8-4 overall  
+1. Bryde/Zink (UGA) - 8-4 at 1, 8-4 in duals, 13-6 overall
+  Lugo/Rengifo (ETSU) - 8-5 at 1, 8-5 in duals, 8-5 overall
+2. Croyder/Rowe (UGA) - 7-5 at 2, 8-5 in duals, 10-5 overall
+  Este/Badra (ETSU) - 4-0 at 2, 12-1 in duals, 12-1 overall
+3. Henning/Grevelius (UGA) - 9-5 at 3, 10-5 in duals, 10-7 overall
+  Zabala/Pernas (ETSU) - 4-2 at 3, 8-4 in duals, 8-4 overall

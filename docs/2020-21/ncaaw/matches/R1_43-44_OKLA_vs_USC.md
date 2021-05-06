@@ -44,23 +44,23 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-- 1: Salma Ewing (USC) - 4-2 at 1, 13-5 in duals, 13-5 overall  
-    Carmen Corley (OKLA) - 12-6 at 1, 12-6 in duals, 19-13 overall  
-- 2: Eryn Cayetano (USC) - 6-2 at 2, 10-5 in duals, 10-5 overall  
-    Dana Guzman (OKLA) - 13-1 at 2, 18-2 in duals, 18-2 overall  
-- 3: Angela Kulikov (USC) - 0-0 at 3, 0-1 in duals, 0-1 overall  
-    Ivana Corley (OKLA) - 11-5 at 3, 13-6 in duals, 20-12 overall  
-- 4: Naomi Cheong (USC) - 0-0 at 4, 9-8 in duals, 9-8 overall  
-    Martina Capurro (OKLA) - 9-3 at 4, 11-8 in duals, 11-8 overall  
-- 5: Dani Willson (USC) - 0-0 at 5, 12-8 in duals, 12-8 overall  
-    Kianah Motosono (OKLA) - 3-3 at 5, 10-7 in duals, 16-14 overall  
-- 6: Summer Dvorak (USC) - 0-0 at 6, 12-7 in duals, 12-7 overall  
-    Camila Romero (OKLA) - 1-1 at 6, 1-1 in duals, 1-1 overall  
+1. Salma Ewing (USC) - 4-2 at 1, 13-5 in duals, 13-5 overall
+  Carmen Corley (OKLA) - 12-6 at 1, 12-6 in duals, 19-13 overall
+2. Eryn Cayetano (USC) - 6-2 at 2, 10-5 in duals, 10-5 overall
+  Dana Guzman (OKLA) - 13-1 at 2, 18-2 in duals, 18-2 overall
+3. Angela Kulikov (USC) - 0-0 at 3, 0-1 in duals, 0-1 overall
+  Ivana Corley (OKLA) - 11-5 at 3, 13-6 in duals, 20-12 overall
+4. Naomi Cheong (USC) - 0-0 at 4, 9-8 in duals, 9-8 overall
+  Martina Capurro (OKLA) - 9-3 at 4, 11-8 in duals, 11-8 overall
+5. Dani Willson (USC) - 0-0 at 5, 12-8 in duals, 12-8 overall
+  Kianah Motosono (OKLA) - 3-3 at 5, 10-7 in duals, 16-14 overall
+6. Summer Dvorak (USC) - 0-0 at 6, 12-7 in duals, 12-7 overall
+  Camila Romero (OKLA) - 1-1 at 6, 1-1 in duals, 1-1 overall
 
  #### Doubles:  
-- 1: Kulikov/Cayetano (USC) - 6-5 at 1, 6-5 in duals, 6-5 overall  
-    Corley/Corley (OKLA) - 16-2 at 1, 16-2 in duals, 26-3 overall  
-- 2: Ewing/McKee (USC) - 8-4 at 2, 8-4 in duals, 8-4 overall  
-    Capurro/Romero (OKLA) - 7-3 at 2, 7-3 in duals, 7-3 overall  
-- 3: Dvorak/Willson (USC) - 8-5 at 3, 8-5 in duals, 8-5 overall  
-    Guzman/Motosono (OKLA) - 10-2 at 3, 10-2 in duals, 10-2 overall  
+1. Kulikov/Cayetano (USC) - 6-5 at 1, 6-5 in duals, 6-5 overall
+  Corley/Corley (OKLA) - 16-2 at 1, 16-2 in duals, 26-3 overall
+2. Ewing/McKee (USC) - 8-4 at 2, 8-4 in duals, 8-4 overall
+  Capurro/Romero (OKLA) - 7-3 at 2, 7-3 in duals, 7-3 overall
+3. Dvorak/Willson (USC) - 8-5 at 3, 8-5 in duals, 8-5 overall
+  Guzman/Motosono (OKLA) - 10-2 at 3, 10-2 in duals, 10-2 overall

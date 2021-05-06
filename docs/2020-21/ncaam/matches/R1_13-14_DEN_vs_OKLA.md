@@ -42,23 +42,23 @@ Ranks listed here are the metric's ranking within the field of 64:
  ### Lineups  
 
  #### Singles:  
-- 1: Jake Van Emburgh (OKLA) - 4-9 at 1, 8-10 in duals, 8-13 overall  
-    James Davis (DEN) - 4-1 at 1, 14-2 in duals, 14-2 overall  
-- 2: Mason Beiler (OKLA) - 7-4 at 2, 11-8 in duals, 16-13 overall  
-    Mattia Ros (DEN) - 4-1 at 2, 8-8 in duals, 8-8 overall  
-- 3: Alex Martinez (OKLA) - 6-2 at 3, 12-7 in duals, 15-13 overall  
-    Matt Summers (DEN) - 9-1 at 3, 10-6 in duals, 10-6 overall  
-- 4: Nathan Han (OKLA) - 2-6 at 4, 7-7 in duals, 13-11 overall  
-    Peter Sallay (DEN) - 12-4 at 4, 12-4 in duals, 12-4 overall  
-- 5: Justin Schlageter (OKLA) - 3-5 at 5, 6-6 in duals, 10-12 overall  
-    Nicolas Herrero Cuesta (DEN) - 10-1 at 5, 14-1 in duals, 14-1 overall  
-- 6: Mark Mandlik (OKLA) - 1-1 at 6, 6-14 in duals, 6-14 overall  
-    Ignacio Rivero Crespo (DEN) - 8-1 at 6, 9-1 in duals, 9-1 overall  
+1. Jake Van Emburgh (OKLA) - 4-9 at 1, 8-10 in duals, 8-13 overall
+  James Davis (DEN) - 4-1 at 1, 14-2 in duals, 14-2 overall
+2. Mason Beiler (OKLA) - 7-4 at 2, 11-8 in duals, 16-13 overall
+  Mattia Ros (DEN) - 4-1 at 2, 8-8 in duals, 8-8 overall
+3. Alex Martinez (OKLA) - 6-2 at 3, 12-7 in duals, 15-13 overall
+  Matt Summers (DEN) - 9-1 at 3, 10-6 in duals, 10-6 overall
+4. Nathan Han (OKLA) - 2-6 at 4, 7-7 in duals, 13-11 overall
+  Peter Sallay (DEN) - 12-4 at 4, 12-4 in duals, 12-4 overall
+5. Justin Schlageter (OKLA) - 3-5 at 5, 6-6 in duals, 10-12 overall
+  Nicolas Herrero Cuesta (DEN) - 10-1 at 5, 14-1 in duals, 14-1 overall
+6. Mark Mandlik (OKLA) - 1-1 at 6, 6-14 in duals, 6-14 overall
+  Ignacio Rivero Crespo (DEN) - 8-1 at 6, 9-1 in duals, 9-1 overall
 
  #### Doubles:  
-- 1: Mandlik/Stewart (OKLA) - 0-1 at 1, 2-3 in duals, 2-3 overall  
-    Summers/Davis (DEN) - 14-5 at 1, 14-5 in duals, 14-5 overall  
-- 2: Van Emburgh/Martinez (OKLA) - 0-1 at 2, 0-1 in duals, 0-1 overall  
-    Ros/Sallay (DEN) - 7-6 at 2, 7-6 in duals, 7-6 overall  
-- 3: Han/Beiler (OKLA) - 1-0 at 3, 1-0 in duals, 1-0 overall  
-    Cuesta/Crespo (DEN) - 10-4 at 3, 10-4 in duals, 10-4 overall  
+1. Mandlik/Stewart (OKLA) - 0-1 at 1, 2-3 in duals, 2-3 overall
+  Summers/Davis (DEN) - 14-5 at 1, 14-5 in duals, 14-5 overall
+2. Van Emburgh/Martinez (OKLA) - 0-1 at 2, 0-1 in duals, 0-1 overall
+  Ros/Sallay (DEN) - 7-6 at 2, 7-6 in duals, 7-6 overall
+3. Han/Beiler (OKLA) - 1-0 at 3, 1-0 in duals, 1-0 overall
+  Cuesta/Crespo (DEN) - 10-4 at 3, 10-4 in duals, 10-4 overall

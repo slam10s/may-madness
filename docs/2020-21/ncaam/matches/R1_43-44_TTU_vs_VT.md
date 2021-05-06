@@ -49,24 +49,24 @@ Ranks listed here are the metric's ranking within the field of 64:
 
 #### Singles:
 
-- 1: Mitch Harper (VT) - 7-4 at 1, 7-4 in duals, 7-4 overall  
+1. Mitch Harper (VT) - 7-4 at 1, 7-4 in duals, 7-4 overall
    Parker Wynn (TTU) - 5-9 at 1, 5-9 in duals, 9-13 overall
-- 2: Alex Ribeiro (VT) - 2-1 at 2, 5-5 in duals, 5-5 overall  
+2. Alex Ribeiro (VT) - 2-1 at 2, 5-5 in duals, 5-5 overall
    Ilgiz Valiev (TTU) - 10-6 at 2, 11-7 in duals, 14-13 overall
-- 3: Matt Ross (VT) - 1-1 at 3, 8-12 in duals, 8-12 overall  
+3. Matt Ross (VT) - 1-1 at 3, 8-12 in duals, 8-12 overall
    Franco Ribero (TTU) - 7-4 at 3, 8-5 in duals, 11-11 overall
-- 4: Carlo Donato (VT) - 0-2 at 4, 5-13 in duals, 5-13 overall  
+4. Carlo Donato (VT) - 0-2 at 4, 5-13 in duals, 5-13 overall
    Reed Collier (TTU) - 6-5 at 4, 7-7 in duals, 14-8 overall
-- 5: Hugo Maia (VT) - 0-2 at 5, 13-6 in duals, 13-6 overall  
+5. Hugo Maia (VT) - 0-2 at 5, 13-6 in duals, 13-6 overall
    Dimi Azoides (TTU) - 8-3 at 5, 12-4 in duals, 15-10 overall
-- 6: Ryan Fishback (VT) - 4-1 at 6, 13-6 in duals, 13-6 overall  
+6. Ryan Fishback (VT) - 4-1 at 6, 13-6 in duals, 13-6 overall
    Isaac Arevalo (TTU) - 5-4 at 6, 8-5 in duals, 14-7 overall
 
 #### Doubles:
 
-- 1: Chrysostom/Fishback (VT) - 6-4 at 1, 8-4 in duals, 8-4 overall  
+1. Chrysostom/Fishback (VT) - 6-4 at 1, 8-4 in duals, 8-4 overall
    Wynn/Ribero (TTU) - 7-7 at 1, 7-7 in duals, 7-7 overall
-- 2: Harper/Ribeiro (VT) - 3-4 at 2, 3-4 in duals, 3-4 overall  
+2. Harper/Ribeiro (VT) - 3-4 at 2, 3-4 in duals, 3-4 overall
    Arevalo/Collier (TTU) - 6-5 at 2, 6-5 in duals, 6-5 overall
-- 3: Donato/Ariza (VT) - 1-1 at 3, 1-1 in duals, 1-1 overall  
+3. Donato/Ariza (VT) - 1-1 at 3, 1-1 in duals, 1-1 overall
    Valiev/Azoides (TTU) - 8-2 at 3, 11-3 in duals, 12-4 overall
