@@ -7,22 +7,22 @@ Saturday, May 8 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Tennessee</a></h3>  
-ITA: 3 (74.51)</li>  
-Slam: 4 (99.18)</li>  
-TRN: 5 (98.72)</li>  
-Massey: 2 (9.17)</li>  
-UTR: 4 (80.17)</li>  
-USTA Poll: 4</li>  
-Coaches Poll: 3</li>  
+<br>ITA: 3 (74.51)  
+<br>Slam: 4 (99.18)  
+<br>TRN: 5 (98.72)  
+<br>Massey: 2 (9.17)  
+<br>UTR: 4 (80.17)  
+<br>USTA Poll: 4  
+<br>Coaches Poll: 3  
 
 </td><td>  
 
 <h3>#4 <a href="../">Alabama A&M</a></h3>  
-ITA: 63 (1.60)</li>  
-Slam: 64 (76.01)</li>  
-TRN: 64 (72.43)</li>  
-Massey: 65 (3.71)</li>  
-UTR: 65 (63.25)</li>  
+<br>ITA: 63 (1.60)  
+<br>Slam: 64 (76.01)  
+<br>TRN: 64 (72.43)  
+<br>Massey: 65 (3.71)  
+<br>UTR: 65 (63.25)  
 
 </td></tr></table>  
 

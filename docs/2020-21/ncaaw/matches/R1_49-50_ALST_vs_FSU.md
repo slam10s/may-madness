@@ -7,22 +7,22 @@ Friday, May 7 at 4:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Florida St.</a></h3>  
-ITA: 7 (55.15)</li>  
-Slam: 10 (91.81)</li>  
-TRN: 9 (84.49)</li>  
-Massey: 9 (8.17)</li>  
-UTR: 10 (62.71)</li>  
-USTA Poll: 12</li>  
-Coaches Poll: 7</li>  
+<br>ITA: 7 (55.15)  
+<br>Slam: 10 (91.81)  
+<br>TRN: 9 (84.49)  
+<br>Massey: 9 (8.17)  
+<br>UTR: 10 (62.71)  
+<br>USTA Poll: 12  
+<br>Coaches Poll: 7  
 
 </td><td>  
 
 <h3>#4 <a href="../">Alabama St.</a></h3>  
-ITA: 61 (2.29)</li>  
-Slam: 63 (69.75)</li>  
-TRN: 62 (58.32)</li>  
-Massey: 63 (3.41)</li>  
-UTR: 61 (46.66)</li>  
+<br>ITA: 61 (2.29)  
+<br>Slam: 63 (69.75)  
+<br>TRN: 62 (58.32)  
+<br>Massey: 63 (3.41)  
+<br>UTR: 61 (46.66)  
 
 </td></tr></table>  
 

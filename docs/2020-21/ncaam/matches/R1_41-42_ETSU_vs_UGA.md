@@ -7,22 +7,22 @@ Saturday, May 8 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Georgia</a></h3>  
-ITA: 11 (54.81)</li>  
-Slam: 16 (96.08)</li>  
-TRN: 14 (94.91)</li>  
-Massey: 15 (8.18)</li>  
-UTR: 19 (78.43)</li>  
-USTA Poll: 16</li>  
-Coaches Poll: 11</li>  
+<br>ITA: 11 (54.81)  
+<br>Slam: 16 (96.08)  
+<br>TRN: 14 (94.91)  
+<br>Massey: 15 (8.18)  
+<br>UTR: 19 (78.43)  
+<br>USTA Poll: 16  
+<br>Coaches Poll: 11  
 
 </td><td>  
 
 <h3>#4 <a href="../">ETSU</a></h3>  
-ITA: 49 (7.97)</li>  
-Slam: 52 (87.30)</li>  
-TRN: 53 (84.02)</li>  
-Massey: 51 (6.56)</li>  
-UTR: 50 (73.91)</li>  
+<br>ITA: 49 (7.97)  
+<br>Slam: 52 (87.30)  
+<br>TRN: 53 (84.02)  
+<br>Massey: 51 (6.56)  
+<br>UTR: 50 (73.91)  
 
 </td></tr></table>  
 

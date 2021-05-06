@@ -7,23 +7,23 @@ Saturday, May 8 at 3:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">TCU</a></h3>  
-ITA: 7 (69.22)</li>  
-Slam: 9 (97.57)</li>  
-TRN: 9 (96.56)</li>  
-Massey: 6 (8.76)</li>  
-UTR: 10 (79.71)</li>  
-USTA Poll: 9</li>  
-Coaches Poll: 7</li>  
+<br>ITA: 7 (69.22)  
+<br>Slam: 9 (97.57)  
+<br>TRN: 9 (96.56)  
+<br>Massey: 6 (8.76)  
+<br>UTR: 10 (79.71)  
+<br>USTA Poll: 9  
+<br>Coaches Poll: 7  
 
 </td><td>  
 
 <h3>#4 <a href="../">Arkansas</a></h3>  
-ITA: 43 (18.30)</li>  
-Slam: 43 (91.55)</li>  
-TRN: 44 (89.43)</li>  
-Massey: 50 (6.64)</li>  
-UTR: 44 (75.30)</li>  
-Coaches Poll: 40</li>  
+<br>ITA: 43 (18.30)  
+<br>Slam: 43 (91.55)  
+<br>TRN: 44 (89.43)  
+<br>Massey: 50 (6.64)  
+<br>UTR: 44 (75.30)  
+<br>Coaches Poll: 40  
 
 </td></tr></table>  
 

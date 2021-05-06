@@ -7,21 +7,21 @@ Friday, May 7 at 1:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">North Carolina</a></h3>  
-ITA: 1 (87.72)</li>  
-Slam: 1 (100.00)</li>  
-TRN: 1 (100.00)</li>  
-Massey: 1 (9.82)</li>  
-UTR: 2 (65.21)</li>  
-USTA Poll: 1</li>  
-Coaches Poll: 1</li>  
+<br>ITA: 1 (87.72)  
+<br>Slam: 1 (100.00)  
+<br>TRN: 1 (100.00)  
+<br>Massey: 1 (9.82)  
+<br>UTR: 2 (65.21)  
+<br>USTA Poll: 1  
+<br>Coaches Poll: 1  
 
 </td><td>  
 
 <h3>#4 <a href="../">South Carolina St.</a></h3>  
-Slam: 62 (70.68)</li>  
-TRN: 61 (58.72)</li>  
-Massey: 62 (3.52)</li>  
-UTR: 63 (44.35)</li>  
+<br>Slam: 62 (70.68)  
+<br>TRN: 61 (58.72)  
+<br>Massey: 62 (3.52)  
+<br>UTR: 63 (44.35)  
 
 </td></tr></table>  
 

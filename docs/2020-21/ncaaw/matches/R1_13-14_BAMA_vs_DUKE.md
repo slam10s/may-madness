@@ -7,23 +7,23 @@ Friday, May 7 at 3:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Duke</a></h3>  
-ITA: 17 (43.03)</li>  
-Slam: 14 (90.91)</li>  
-TRN: 15 (83.33)</li>  
-Massey: 11 (8.09)</li>  
-UTR: 12 (62.45)</li>  
-USTA Poll: 14</li>  
-Coaches Poll: 20</li>  
+<br>ITA: 17 (43.03)  
+<br>Slam: 14 (90.91)  
+<br>TRN: 15 (83.33)  
+<br>Massey: 11 (8.09)  
+<br>UTR: 12 (62.45)  
+<br>USTA Poll: 14  
+<br>Coaches Poll: 20  
 
 </td><td>  
 
 <h3>#3 <a href="../">Alabama</a></h3>  
-ITA: 42 (16.54)</li>  
-Slam: 44 (86.23)</li>  
-TRN: 44 (78.28)</li>  
-Massey: 44 (6.49)</li>  
-UTR: 40 (59.05)</li>  
-Coaches Poll: 43</li>  
+<br>ITA: 42 (16.54)  
+<br>Slam: 44 (86.23)  
+<br>TRN: 44 (78.28)  
+<br>Massey: 44 (6.49)  
+<br>UTR: 40 (59.05)  
+<br>Coaches Poll: 43  
 
 </td></tr></table>  
 

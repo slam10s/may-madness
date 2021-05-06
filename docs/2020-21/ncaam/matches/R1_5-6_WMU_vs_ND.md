@@ -7,23 +7,23 @@ Friday, May 7 at 2:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Notre Dame</a></h3>  
-ITA: 34 (25.22)</li>  
-Slam: 40 (91.96)</li>  
-TRN: 42 (89.57)</li>  
-Massey: 36 (7.36)</li>  
-UTR: 38 (76.38)</li>  
-Coaches Poll: 37</li>  
+<br>ITA: 34 (25.22)  
+<br>Slam: 40 (91.96)  
+<br>TRN: 42 (89.57)  
+<br>Massey: 36 (7.36)  
+<br>UTR: 38 (76.38)  
+<br>Coaches Poll: 37  
 
 </td><td>  
 
 <h3>#3 <a href="../">Western Mich.</a></h3>  
-ITA: 41 (18.89)</li>  
-Slam: 47 (89.83)</li>  
-TRN: 46 (88.71)</li>  
-Massey: 45 (7.02)</li>  
-UTR: 53 (72.95)</li>  
-USTA Poll: RV</li>  
-Coaches Poll: 48</li>  
+<br>ITA: 41 (18.89)  
+<br>Slam: 47 (89.83)  
+<br>TRN: 46 (88.71)  
+<br>Massey: 45 (7.02)  
+<br>UTR: 53 (72.95)  
+<br>USTA Poll: RV  
+<br>Coaches Poll: 48  
 
 </td></tr></table>  
 

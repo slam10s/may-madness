@@ -7,22 +7,22 @@ Friday, May 7 at 12:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Tennessee</a></h3>  
-ITA: 15 (46.78)</li>  
-Slam: 19 (90.43)</li>  
-TRN: 19 (82.73)</li>  
-Massey: 19 (7.80)</li>  
-UTR: 22 (61.61)</li>  
-USTA Poll: 19</li>  
-Coaches Poll: 16</li>  
+<br>ITA: 15 (46.78)  
+<br>Slam: 19 (90.43)  
+<br>TRN: 19 (82.73)  
+<br>Massey: 19 (7.80)  
+<br>UTR: 22 (61.61)  
+<br>USTA Poll: 19  
+<br>Coaches Poll: 16  
 
 </td><td>  
 
 <h3>#3 <a href="../">James Madison</a></h3>  
-ITA: 46 (8.95)</li>  
-Slam: 47 (84.23)</li>  
-TRN: 47 (75.57)</li>  
-Massey: 46 (6.46)</li>  
-UTR: 47 (56.89)</li>  
+<br>ITA: 46 (8.95)  
+<br>Slam: 47 (84.23)  
+<br>TRN: 47 (75.57)  
+<br>Massey: 46 (6.46)  
+<br>UTR: 47 (56.89)  
 
 </td></tr></table>  
 

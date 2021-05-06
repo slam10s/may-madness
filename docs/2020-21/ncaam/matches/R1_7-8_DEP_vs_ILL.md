@@ -7,22 +7,22 @@ Friday, May 7 at 5:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">Illinois</a></h3>  
-ITA: 18 (36.82)</li>  
-Slam: 6 (98.81)</li>  
-TRN: 4 (98.96)</li>  
-Massey: 9 (8.60)</li>  
-UTR: 15 (78.92)</li>  
-USTA Poll: 8</li>  
-Coaches Poll: 13</li>  
+<br>ITA: 18 (36.82)  
+<br>Slam: 6 (98.81)  
+<br>TRN: 4 (98.96)  
+<br>Massey: 9 (8.60)  
+<br>UTR: 15 (78.92)  
+<br>USTA Poll: 8  
+<br>Coaches Poll: 13  
 
 </td><td>  
 
 <h3>#4 <a href="../">DePaul</a></h3>  
-ITA: 55 (5.64)</li>  
-Slam: 55 (85.74)</li>  
-TRN: 55 (82.45)</li>  
-Massey: 54 (5.94)</li>  
-UTR: 60 (70.67)</li>  
+<br>ITA: 55 (5.64)  
+<br>Slam: 55 (85.74)  
+<br>TRN: 55 (82.45)  
+<br>Massey: 54 (5.94)  
+<br>UTR: 60 (70.67)  
 
 </td></tr></table>  
 

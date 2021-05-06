@@ -7,22 +7,22 @@ Friday, May 7 at 3:00 EDT
 <tr><td>  
 
 <h3>#1 <a href="../">NC State</a></h3>  
-ITA: 6 (55.66)</li>  
-Slam: 11 (91.65)</li>  
-TRN: 10 (84.27)</li>  
-Massey: 6 (8.36)</li>  
-UTR: 9 (62.99)</li>  
-USTA Poll: 11</li>  
-Coaches Poll: 6</li>  
+<br>ITA: 6 (55.66)  
+<br>Slam: 11 (91.65)  
+<br>TRN: 10 (84.27)  
+<br>Massey: 6 (8.36)  
+<br>UTR: 9 (62.99)  
+<br>USTA Poll: 11  
+<br>Coaches Poll: 6  
 
 </td><td>  
 
 <h3>#4 <a href="../">VCU</a></h3>  
-ITA: 49 (6.76)</li>  
-Slam: 48 (82.19)</li>  
-TRN: 48 (73.53)</li>  
-Massey: 48 (6.03)</li>  
-UTR: 48 (55.75)</li>  
+<br>ITA: 49 (6.76)  
+<br>Slam: 48 (82.19)  
+<br>TRN: 48 (73.53)  
+<br>Massey: 48 (6.03)  
+<br>UTR: 48 (55.75)  
 
 </td></tr></table>  
 

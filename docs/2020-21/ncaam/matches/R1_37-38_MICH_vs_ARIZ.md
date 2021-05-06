@@ -7,24 +7,24 @@ Friday, May 7 at 10:00 EDT
 <tr><td>  
 
 <h3>#2 <a href="../">Arizona</a></h3>  
-ITA: 17 (38.97)</li>  
-Slam: 21 (94.26)</li>  
-TRN: 20 (92.43)</li>  
-Massey: 18 (8.10)</li>  
-UTR: 21 (78.35)</li>  
-USTA Poll: 18</li>  
-Coaches Poll: 19</li>  
+<br>ITA: 17 (38.97)  
+<br>Slam: 21 (94.26)  
+<br>TRN: 20 (92.43)  
+<br>Massey: 18 (8.10)  
+<br>UTR: 21 (78.35)  
+<br>USTA Poll: 18  
+<br>Coaches Poll: 19  
 
 </td><td>  
 
 <h3>#3 <a href="../">Michigan</a></h3>  
-ITA: 46 (15.17)</li>  
-Slam: 13 (96.42)</li>  
-TRN: 12 (95.88)</li>  
-Massey: 14 (8.22)</li>  
-UTR: 18 (78.65)</li>  
-USTA Poll: T10</li>  
-Coaches Poll: 23</li>  
+<br>ITA: 46 (15.17)  
+<br>Slam: 13 (96.42)  
+<br>TRN: 12 (95.88)  
+<br>Massey: 14 (8.22)  
+<br>UTR: 18 (78.65)  
+<br>USTA Poll: T10  
+<br>Coaches Poll: 23  
 
 </td></tr></table>  
 
