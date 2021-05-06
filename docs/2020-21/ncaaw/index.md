@@ -4,9 +4,9 @@ Return to the [Home Page](../../index.md)
 
 ## First Round
 
-### Upset Alert
+### Upset Alert!
 
-The metrics disagree on the outcome of these matches:
+The various metrics disagree on the outcome of these matches:
 
 - Fri, 5/07 at  1:00 EDT	[Auburn vs Oklahoma St.](./matches/R1_51-52_AUB_vs_OKST.md) ... AUB (65%) / OKST (35%)
 - Fri, 5/07 at 10:00 EDT	[Wake Forest vs Furman](./matches/R1_35-36_WAKE_vs_FUR.md) ... WAKE (66%) / FUR (34%)
@@ -24,7 +24,7 @@ The metrics agree on the winner, but not by a lot:
 
 ### Heavy Favorites
 
-The favorite is expected to win more than 4 out of 5 these teams play:
+The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Fri, 5/07 at 12:00 EDT	[Iowa St. vs South Carolina](./matches/R1_45-46_ISU_vs_SCAR.md) ... SCAR (81%) / ISU (19%)
 - Fri, 5/07 at  1:00 EDT	[Stanford vs UC Santa Barbara](./matches/R1_19-20_STAN_vs_UCSB.md) ... STAN (84%) / UCSB (16%)

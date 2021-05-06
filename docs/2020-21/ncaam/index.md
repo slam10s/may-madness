@@ -4,9 +4,9 @@ Return to the [Home Page](../../index.md)
 
 ## First Round
 
-### Upset Alert
+### Upset Alert!
 
-The metrics disagree on the outcome of these matches:
+The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at 10:00 EDT	[Texas Tech vs Virginia Tech](./matches/R1_43-44_TTU_vs_VT.md) ... VT (52%) / TTU (48%)
 - Sat, 5/08 at 12:00 EDT	[Oregon vs Alabama](./matches/R1_61-62_ORE_vs_BAMA.md) ... BAMA (56%) / ORE (44%)
@@ -26,7 +26,7 @@ The metrics agree on the winner, but not by a lot:
 
 ### Heavy Favorites
 
-The favorite is expected to win more than 4 out of 5 these teams play:
+The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Sat, 5/08 at 10:00 EDT	[Stanford vs LSU](./matches/R1_19-20_STAN_vs_LSU.md) ... STAN (81%) / LSU (19%)
 - Sat, 5/08 at 11:00 EDT	[Mississippi St. vs Miami (FL)](./matches/R1_11-12_MSST_vs_MIA.md) ... MSST (83%) / MIA (17%)
