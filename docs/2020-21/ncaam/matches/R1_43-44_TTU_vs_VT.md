@@ -8,13 +8,13 @@ Saturday, May 8 at 10:00 EDT
 
 [![Home](https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png)](../index.md)
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a>
+<a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a>
 
 </td><td>
 
 [![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png)](../index.md)
 
-<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a>
+<a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a>
 
 </td></tr><tr><td>
 
