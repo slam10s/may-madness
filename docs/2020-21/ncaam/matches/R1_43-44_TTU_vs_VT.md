@@ -53,7 +53,8 @@ This assumes the top players and doubles teams listed are starting.
 
 <ol>
 <li>
-<details><summary markdown="span">
+<details>
+<summary markdown="span">
 Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall
 <br>&nbsp;&nbsp;
 Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall
@@ -69,6 +70,7 @@ Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall
 - USTA Poll: **_TTU_** - RV Texas Tech def. Virginia Tech
 - Coaches Poll: **_TTU_** - #27 Texas Tech def. #34 Virginia Tech
 - Seeding: **_TTU_** - #2 Texas Tech def. #3 Virginia Tech
+
 </details>
 </li>
 
