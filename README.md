@@ -11,7 +11,7 @@ If you want follow the matches, the best resource online is at [Bobby Knight](ht
 You can find a complete listing of the predictions for each match here:
 
 - [2021 NCAA Men's Championships](./docs/2020-21/ncaam/index.md)
-- [2021 NCAA Women's Championships](./docs/may-madness/2020-21/ncaaw/index.md)
+- [2021 NCAA Women's Championships](./docs/2020-21/ncaaw/index.md)
 
 ## The Metrics
 
