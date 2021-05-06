@@ -3,17 +3,17 @@ Friday, May 7 at 5:00 EDT
 ## Northern Ariz. vs #5 Pepperdine
 
 > ***#1 Pepperdine***  
-> <sub>Regional Host</sub>  
-> Ratings  
+> Regional Host  
 > - ITA: 60.711 (5)  
 > - SLM: 92.643 (6)  
 > - TRN: 85.86 (6)  
 > - MAS: 8.71 (5)  
 > - UTR: 64.63 (4)  
+> - USTA: 5  
+> - Coach: 4  
 
 > ***#4 Northern Ariz.***  
-> <sub>Automatic Qualifier</sub>  
-> Ratings  
+> Automatic Qualifier  
 > - ITA: 3.85 (54)  
 > - SLM: 79.815 (51)  
 > - TRN: 69.113 (53)  
