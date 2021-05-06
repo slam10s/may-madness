@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png =50x50)](../index.md)  
 
 ### #4 South Carolina St.  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***WAKE*** - #10 Wake Forest def. South Carolina St.  
 - Seeding: ***WAKE*** - #1 Wake Forest def. #4 South Carolina St.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Henri Squire (WAKE) - 15-6 at #1, 15-6 in duals, 15-6 overall  

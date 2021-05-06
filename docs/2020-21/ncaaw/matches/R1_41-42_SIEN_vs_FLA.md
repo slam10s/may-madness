@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png =50x50)](../index.md)  
 
 ### #4 Siena  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***FLA*** - #15 Florida def. Siena  
 - Seeding: ***FLA*** - #1 Florida def. #4 Siena  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. McCartney Kessler (FLA) - 13-2 at #1, 13-2 in duals, 16-2 overall  

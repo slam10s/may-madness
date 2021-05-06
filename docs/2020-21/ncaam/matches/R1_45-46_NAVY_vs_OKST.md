@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png =50x50)](../index.md)  
 
 ### #3 Navy  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***OKST*** - #21 Oklahoma St. def. Navy  
 - Seeding: ***OKST*** - #2 Oklahoma St. def. #3 Navy  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Matej Vocel (OKST) - 11-5 at #1, 11-5 in duals, 11-5 overall  

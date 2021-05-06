@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png =50x50)](../index.md)  
 
 ### #4 LIU  
 
@@ -43,7 +43,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - USTA Poll: ***UVA*** - #10 Virginia def. LIU  
 - Seeding: ***UVA*** - #1 Virginia def. #4 LIU  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Emma Navarro (UVA) - 17-1 at #1, 17-1 in duals, 17-1 overall  

@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png =50x50)](../index.md)  
 
 ### #3 VCU  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***OSU*** - #17 Ohio St. def. #38 VCU  
 - Seeding: ***OSU*** - #2 Ohio St. def. #3 VCU  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. John McNally (OSU) - 10-2 at #1, 16-4 in duals, 21-4 overall  

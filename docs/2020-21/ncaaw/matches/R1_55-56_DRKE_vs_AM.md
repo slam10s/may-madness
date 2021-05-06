@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png =50x50)](../index.md)  
 
 ### #4 Drake  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***A&M*** - #10 Texas A&M def. Drake  
 - Seeding: ***A&M*** - #1 Texas A&M def. #4 Drake  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Tatiana Makarova (A&M) - 12-4 at #1, 15-4 in duals, 23-6 overall  

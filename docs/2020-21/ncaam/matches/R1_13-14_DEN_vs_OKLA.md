@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png =50x50)](../index.md)  
 
 ### #3 Denver  
 
@@ -43,7 +43,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***OKLA*** - #26 Oklahoma def. #44 Denver  
 - Seeding: ***OKLA*** - #2 Oklahoma def. #3 Denver  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Jake Van Emburgh (OKLA) - 4-9 at #1, 8-10 in duals, 8-13 overall  

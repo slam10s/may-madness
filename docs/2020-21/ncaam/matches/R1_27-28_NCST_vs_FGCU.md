@@ -17,7 +17,7 @@ Automatic Qualifier
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png =50x50)](../index.md)  
 
 ### #2 NC State  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***NCST*** - #28 NC State def. FGCU  
 - Seeding: ***NCST*** - #2 NC State def. #3 FGCU  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Magnus Johnson (FGCU) - 9-3 at #1, 9-3 in duals, 9-3 overall  

@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png =50x50)](../index.md)  
 
 ### #2 Auburn  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***AUB*** - #22 Auburn def. #37 Oklahoma St.  
 - Seeding: ***AUB*** - #2 Auburn def. #3 Oklahoma St.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Bunyawi Thamchaiwat (OKST) - 9-2 at #1, 12-2 in duals, 20-4 overall  

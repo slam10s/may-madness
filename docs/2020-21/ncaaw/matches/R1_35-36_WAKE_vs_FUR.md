@@ -19,7 +19,7 @@ Automatic Qualifier
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png =50x50)](../index.md)  
 
 ### #2 Wake Forest  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***WAKE*** - #31 Wake Forest def. #35 Furman  
 - Seeding: ***WAKE*** - #2 Wake Forest def. #3 Furman  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Katarina Kozarov (FUR) - 22-1 at #1, 22-1 in duals, 22-1 overall  

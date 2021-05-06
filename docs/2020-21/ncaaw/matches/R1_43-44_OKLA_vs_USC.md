@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png =50x50)](../index.md)  
 
 ### #2 Oklahoma  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***OKLA*** - #24 Oklahoma def. #34 Southern California  
 - Seeding: ***OKLA*** - #2 Oklahoma def. #3 Southern California  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Salma Ewing (USC) - 4-2 at #1, 13-5 in duals, 13-5 overall  

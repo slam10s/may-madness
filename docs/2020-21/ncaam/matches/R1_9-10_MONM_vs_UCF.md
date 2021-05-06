@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png =50x50)](../index.md)  
 
 ### #4 Monmouth  
 
@@ -43,7 +43,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UCF*** - #9 UCF def. Monmouth  
 - Seeding: ***UCF*** - #1 UCF def. #4 Monmouth  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Gabriel Decamps (UCF) - 16-4 at #1, 16-4 in duals, 16-4 overall  

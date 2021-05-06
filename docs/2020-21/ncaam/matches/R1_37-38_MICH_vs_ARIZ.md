@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png =50x50)](../index.md)  
 
 ### #3 Michigan  
 
@@ -46,7 +46,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***ARIZ*** - #19 Arizona def. #23 Michigan  
 - Seeding: ***ARIZ*** - #2 Arizona def. #3 Michigan  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Gustaf Strom (ARIZ) - 3-1 at #1, 17-2 in duals, 17-2 overall  

@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png =50x50)](../index.md)  
 
 ### #4 Presbyterian  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UNC*** - #6 North Carolina def. Presbyterian  
 - Seeding: ***UNC*** - #1 North Carolina def. #4 Presbyterian  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. William Blumberg (UNC) - 8-3 at #1, 8-3 in duals, 9-3 overall  

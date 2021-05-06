@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png =50x50)](../index.md)  
 
 ### #3 Oregon  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***BAMA*** - #25 Alabama def. #41 Oregon  
 - Seeding: ***BAMA*** - #2 Alabama def. #3 Oregon  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Edson Ortiz (BAMA) - 5-5 at #1, 12-10 in duals, 13-12 overall  

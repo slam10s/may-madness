@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png =50x50)](../index.md)  
 
 ### #4 Northern Ariz.  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***PEPP*** - #4 Pepperdine def. Northern Ariz.  
 - Seeding: ***PEPP*** - #1 Pepperdine def. #4 Northern Ariz.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Ashley Lahey (PEPP) - 7-3 at #1, 10-4 in duals, 10-4 overall  

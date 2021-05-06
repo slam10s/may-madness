@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png =50x50)](../index.md)  
 
 ### #4 Cleveland St.  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UK*** - #15 Kentucky def. Cleveland St.  
 - Seeding: ***UK*** - #1 Kentucky def. #4 Cleveland St.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Liam Draxl (UK) - 19-2 at #1, 19-2 in duals, 19-2 overall  

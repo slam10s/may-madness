@@ -17,7 +17,7 @@ Automatic Qualifier
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png =50x50)](../index.md)  
 
 ### #2 Ole Miss  
 
@@ -43,7 +43,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***MISS*** - #25 Ole Miss def. North Florida  
 - Seeding: ***MISS*** - #2 Ole Miss def. #3 North Florida  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Lucia Montano (UNF) - 14-8 at #1, 14-8 in duals, 14-8 overall  

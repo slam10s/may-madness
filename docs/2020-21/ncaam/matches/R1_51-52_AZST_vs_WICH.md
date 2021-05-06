@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png =50x50)](../index.md)  
 
 ### #2 Arizona St.  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***AZST*** - #22 Arizona St. def. #32 Wichita St.  
 - Seeding: ***AZST*** - #2 Arizona St. def. #3 Wichita St.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Murkel Dellien (WICH) - 7-0 at #1, 13-2 in duals, 13-2 overall  

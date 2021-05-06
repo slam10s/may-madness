@@ -18,7 +18,7 @@ Automatic Qualifier
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png =50x50)](../index.md)  
 
 ### #2 Tulane  
 
@@ -43,7 +43,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***TULN*** - #24 Tulane def. #42 Middle Tenn.  
 - Seeding: ***TULN*** - #2 Tulane def. #3 Middle Tenn.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Francisco Rocha (MTSU) - 5-3 at #1, 13-5 in duals, 13-5 overall  

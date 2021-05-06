@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png =50x50)](../index.md)  
 
 ### #4 A&M-Corpus Christi  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***BAY*** - #1 Baylor def. A&M-Corpus Christi  
 - Seeding: ***BAY*** - #1 Baylor def. #4 A&M-Corpus Christi  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Adrian Boitan (BAY) - 14-4 at #1, 15-5 in duals, 15-5 overall  

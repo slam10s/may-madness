@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png =50x50)](../index.md)  
 
 ### #3 Northwestern  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UCLA*** - #29 UCLA def. #49 Northwestern  
 - Seeding: ***UCLA*** - #2 UCLA def. #3 Northwestern  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Govind Nanda (UCLA) - 2-2 at #1, 8-3 in duals, 8-3 overall  

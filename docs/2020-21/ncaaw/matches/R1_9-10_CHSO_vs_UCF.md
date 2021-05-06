@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png =50x50)](../index.md)  
 
 ### #4 Charleston So.  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UCF*** - #9 UCF def. Charleston So.  
 - Seeding: ***UCF*** - #1 UCF def. #4 Charleston So.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Valeriya Zeleva (UCF) - 9-2 at #1, 12-2 in duals, 13-3 overall  

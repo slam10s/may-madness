@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/r/rice.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/r/rice.70.png =50x50)](../index.md)  
 
 ### #3 Rice  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***MICH*** - #18 Michigan def. #39 Rice  
 - Seeding: ***MICH*** - #2 Michigan def. #3 Rice  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Kari Miller (MICH) - 11-3 at #1, 12-4 in duals, 15-4 overall  

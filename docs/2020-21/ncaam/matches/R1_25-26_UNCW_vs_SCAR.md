@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png =50x50)](../index.md)  
 
 ### #4 UNCW  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***SCAR*** - #13 South Carolina def. UNCW  
 - Seeding: ***SCAR*** - #1 South Carolina def. #4 UNCW  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Daniel Rodrigues (SCAR) - 16-4 at #1, 16-4 in duals, 24-6 overall  

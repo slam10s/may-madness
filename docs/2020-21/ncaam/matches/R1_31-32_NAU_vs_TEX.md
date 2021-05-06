@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png =50x50)](../index.md)  
 
 ### #4 Northern Ariz.  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***TEX*** - #4 Texas def. Northern Ariz.  
 - Seeding: ***TEX*** - #1 Texas def. #4 Northern Ariz.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Eliot Spizzirri (TEX) - 9-6 at #1, 15-8 in duals, 22-9 overall  

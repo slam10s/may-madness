@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png =50x50)](../index.md)  
 
 ### #2 Miami (FL)  
 
@@ -46,7 +46,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***MIA*** - #21 Miami (FL) def. #50 FIU  
 - Seeding: ***MIA*** - #2 Miami (FL) def. #3 FIU  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Kamila Umarova (FIU) - 10-2 at #1, 10-2 in duals, 10-2 overall  

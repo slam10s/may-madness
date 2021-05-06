@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png =50x50)](../index.md)  
 
 ### #2 Mississippi St.  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***MSST*** - #18 Mississippi St. def. #43 Miami (FL)  
 - Seeding: ***MSST*** - #2 Mississippi St. def. #3 Miami (FL)  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Adria Soriano Barrera (MIA) - 9-6 at #1, 9-6 in duals, 9-6 overall  

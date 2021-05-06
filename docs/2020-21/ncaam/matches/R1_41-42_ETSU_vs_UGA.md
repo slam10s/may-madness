@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png =50x50)](../index.md)  
 
 ### #4 ETSU  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UGA*** - #11 Georgia def. ETSU  
 - Seeding: ***UGA*** - #1 Georgia def. #4 ETSU  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Trent Bryde (UGA) - 9-10 at #1, 9-10 in duals, 14-13 overall  

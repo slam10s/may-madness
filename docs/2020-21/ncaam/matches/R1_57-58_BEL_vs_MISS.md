@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png =50x50)](../index.md)  
 
 ### #4 Belmont  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***MISS*** - #16 Ole Miss def. Belmont  
 - Seeding: ***MISS*** - #1 Ole Miss def. #4 Belmont  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Tim Sandkaulen (MISS) - 1-7 at #1, 8-12 in duals, 13-16 overall  

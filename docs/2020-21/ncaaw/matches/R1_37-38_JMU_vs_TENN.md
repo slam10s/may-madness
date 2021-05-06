@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/j/james-madison.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/j/james-madison.70.png =50x50)](../index.md)  
 
 ### #3 James Madison  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***TENN*** - #16 Tennessee def. James Madison  
 - Seeding: ***TENN*** - #2 Tennessee def. #3 James Madison  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Rebeka Mertena (TENN) - 2-2 at #1, 11-6 in duals, 15-14 overall  

@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png =50x50)](../index.md)  
 
 ### #3 Iowa St.  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***SCAR*** - #23 South Carolina def. #36 Iowa St.  
 - Seeding: ***SCAR*** - #2 South Carolina def. #3 Iowa St.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Mia Horvit (SCAR) - 9-7 at #1, 9-7 in duals, 11-9 overall  

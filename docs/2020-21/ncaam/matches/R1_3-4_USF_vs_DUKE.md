@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png =50x50)](../index.md)  
 
 ### #2 South Fla.  
 
@@ -43,7 +43,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***USF*** - #33 South Fla. def. #36 Duke  
 - Seeding: ***USF*** - #2 South Fla. def. #3 Duke  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Garrett Johns (DUKE) - 8-8 at #1, 8-8 in duals, 9-9 overall  

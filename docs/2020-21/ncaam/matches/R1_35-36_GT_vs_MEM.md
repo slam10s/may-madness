@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png =50x50)](../index.md)  
 
 ### #2 Georgia Tech  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***GT*** - #31 Georgia Tech def. #35 Memphis  
 - Seeding: ***GT*** - #2 Georgia Tech def. #3 Memphis  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. James Story (MEM) - 8-6 at #1, 8-6 in duals, 8-6 overall  

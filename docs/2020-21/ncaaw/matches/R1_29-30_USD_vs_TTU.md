@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png =50x50)](../index.md)  
 
 ### #3 San Diego  
 
@@ -43,7 +43,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***TTU*** - #29 Texas Tech def. #47 San Diego  
 - Seeding: ***TTU*** - #2 Texas Tech def. #3 San Diego  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Lisa Mays (TTU) - 9-7 at #1, 10-7 in duals, 12-8 overall  

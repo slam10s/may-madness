@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png =50x50)](../index.md)  
 
 ### #4 San Jose St.  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***CAL*** - #17 California def. San Jose St.  
 - Seeding: ***CAL*** - #1 California def. #4 San Jose St.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Haley Giavara (CAL) - 12-10 at #1, 12-10 in duals, 12-10 overall  

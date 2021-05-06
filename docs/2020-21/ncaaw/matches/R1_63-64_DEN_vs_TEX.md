@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png =50x50)](../index.md)  
 
 ### #4 Denver  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***TEX*** - #2 Texas def. #49 Denver  
 - Seeding: ***TEX*** - #1 Texas def. #4 Denver  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Peyton Stearns (TEX) - 10-3 at #1, 10-3 in duals, 14-6 overall  

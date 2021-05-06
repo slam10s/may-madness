@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png =50x50)](../index.md)  
 
 ### #4 Alabama A&M  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***TENN*** - #3 Tennessee def. Alabama A&M  
 - Seeding: ***TENN*** - #1 Tennessee def. #4 Alabama A&M  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Adam Walton (TENN) - 8-7 at #1, 10-8 in duals, 16-10 overall  

@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png =50x50)](../index.md)  
 
 ### #3 Mississippi St.  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***AZST*** - #30 Arizona St. def. #38 Mississippi St.  
 - Seeding: ***AZST*** - #2 Arizona St. def. #3 Mississippi St.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Ilze Hattingh (AZST) - 10-7 at #1, 10-7 in duals, 11-7 overall  

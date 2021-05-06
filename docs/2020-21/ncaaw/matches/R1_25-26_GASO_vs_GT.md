@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png =50x50)](../index.md)  
 
 ### #4 Ga. Southern  
 
@@ -43,7 +43,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - USTA Poll: ***GT*** - #15 Georgia Tech def. Ga. Southern  
 - Seeding: ***GT*** - #1 Georgia Tech def. #4 Ga. Southern  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Kenya Jones (GT) - 16-7 at #1, 16-7 in duals, 17-8 overall  

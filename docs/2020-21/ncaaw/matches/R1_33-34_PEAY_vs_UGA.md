@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png =50x50)](../index.md)  
 
 ### #4 Austin Peay  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UGA*** - #3 Georgia def. Austin Peay  
 - Seeding: ***UGA*** - #1 Georgia def. #4 Austin Peay  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Katarina Jokic (UGA) - 15-0 at #1, 15-0 in duals, 24-1 overall  

@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png =50x50)](../index.md)  
 
 ### #4 VCU  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***NCST*** - #6 NC State def. VCU  
 - Seeding: ***NCST*** - #1 NC State def. #4 VCU  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Anna Rogers (NCST) - 14-6 at #1, 14-6 in duals, 19-6 overall  

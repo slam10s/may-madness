@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png =50x50)](../index.md)  
 
 ### #3 Syracuse  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UK*** - #27 Kentucky def. #45 Syracuse  
 - Seeding: ***UK*** - #2 Kentucky def. #3 Syracuse  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Akvile Parazinskaite (UK) - 16-6 at #1, 16-6 in duals, 19-10 overall  

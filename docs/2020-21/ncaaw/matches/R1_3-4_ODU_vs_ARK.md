@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png =50x50)](../index.md)  
 
 ### #2 Old Dominion  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***ODU*** - #32 Old Dominion def. #33 Arkansas  
 - Seeding: ***ODU*** - #2 Old Dominion def. #3 Arkansas  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Indianna Spink (ARK) - 6-4 at #1, 9-5 in duals, 9-5 overall  

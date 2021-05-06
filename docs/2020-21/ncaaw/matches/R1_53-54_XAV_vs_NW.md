@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png =50x50)](../index.md)  
 
 ### #3 Xavier  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***NW*** - #19 Northwestern def. Xavier  
 - Seeding: ***NW*** - #2 Northwestern def. #3 Xavier  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Maria Shusharina (NW) - 5-12 at #1, 7-12 in duals, 9-13 overall  

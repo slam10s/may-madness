@@ -19,7 +19,7 @@ Automatic Qualifier
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png =50x50)](../index.md)  
 
 ### #3 UC Santa Barbara  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***PEPP*** - #30 Pepperdine def. UC Santa Barbara  
 - Seeding: ***PEPP*** - #2 Pepperdine def. #3 UC Santa Barbara  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Adrian Oetzbach (PEPP) - 7-7 at #1, 7-8 in duals, 8-9 overall  

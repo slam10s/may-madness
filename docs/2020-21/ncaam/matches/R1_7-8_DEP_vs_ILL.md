@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png =50x50)](../index.md)  
 
 ### #4 DePaul  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***ILL*** - #13 Illinois def. DePaul  
 - Seeding: ***ILL*** - #1 Illinois def. #4 DePaul  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall  

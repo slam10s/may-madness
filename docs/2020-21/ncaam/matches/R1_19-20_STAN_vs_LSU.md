@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png =50x50)](../index.md)  
 
 ### #2 Stanford  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***STAN*** - #20 Stanford def. #39 LSU  
 - Seeding: ***STAN*** - #2 Stanford def. #3 LSU  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Ronald Hohmann (LSU) - 10-9 at #1, 10-9 in duals, 13-12 overall  

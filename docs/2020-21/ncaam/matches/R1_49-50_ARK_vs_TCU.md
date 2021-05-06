@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png =50x50)](../index.md)  
 
 ### #4 Arkansas  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***TCU*** - #7 TCU def. #40 Arkansas  
 - Seeding: ***TCU*** - #1 TCU def. #4 Arkansas  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Alastair Gray (TCU) - 6-4 at #1, 13-7 in duals, 13-7 overall  

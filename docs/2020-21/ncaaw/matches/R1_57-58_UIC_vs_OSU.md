@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/i/ill-chicago.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/i/ill-chicago.70.png =50x50)](../index.md)  
 
 ### #4 UIC  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***OSU*** - #13 Ohio St. def. UIC  
 - Seeding: ***OSU*** - #1 Ohio St. def. #4 UIC  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Irina Cantos Siemers (OSU) - 10-5 at #1, 15-5 in duals, 18-5 overall  

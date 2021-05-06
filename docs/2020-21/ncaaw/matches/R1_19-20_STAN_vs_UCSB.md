@@ -17,7 +17,7 @@ Automatic Qualifier
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png =50x50)](../index.md)  
 
 ### #2 Stanford  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***STAN*** - #26 Stanford def. UC Santa Barbara  
 - Seeding: ***STAN*** - #2 Stanford def. #3 UC Santa Barbara  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Elizaveta Volodko (UCSB) - 9-4 at #1, 9-4 in duals, 9-4 overall  

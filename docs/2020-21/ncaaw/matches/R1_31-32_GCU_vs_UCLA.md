@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png =50x50)](../index.md)  
 
 ### #4 Grand Canyon  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UCLA*** - #5 UCLA def. Grand Canyon  
 - Seeding: ***UCLA*** - #1 UCLA def. #4 Grand Canyon  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Abbey Forbes (UCLA) - 17-2 at #1, 18-2 in duals, 18-2 overall  

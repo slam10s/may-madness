@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png =50x50)](../index.md)  
 
 ### #4 Fairleigh Dickinson  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UVA*** - #5 Virginia def. Fairleigh Dickinson  
 - Seeding: ***UVA*** - #1 Virginia def. #4 Fairleigh Dickinson  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Carl Soderlund (UVA) - 12-2 at #1, 12-2 in duals, 12-2 overall  

@@ -17,7 +17,7 @@ Automatic Qualifier
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png =50x50)](../index.md)  
 
 ### #2 Vanderbilt  
 
@@ -42,7 +42,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***VANDY*** - #28 Vanderbilt def. Ball St.  
 - Seeding: ***VANDY*** - #2 Vanderbilt def. #3 Ball St.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Emma Peeler (BALL) - 10-10 at #1, 10-10 in duals, 10-10 overall  

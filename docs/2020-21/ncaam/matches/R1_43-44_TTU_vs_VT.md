@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png =50x50)](../index.md)  
 
 ### #2 Texas Tech  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***TTU*** - #27 Texas Tech def. #34 Virginia Tech  
 - Seeding: ***TTU*** - #2 Texas Tech def. #3 Virginia Tech  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall  

@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png =50x50)](../index.md)  
 
 ### #4 South Carolina St.  
 
@@ -43,7 +43,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UNC*** - #1 North Carolina def. South Carolina St.  
 - Seeding: ***UNC*** - #1 North Carolina def. #4 South Carolina St.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Sara Daavettila (UNC) - 10-1 at #1, 15-1 in duals, 15-1 overall  

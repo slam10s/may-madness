@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png =50x50)](../index.md)  
 
 ### #4 South Alabama  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***FLA*** - #2 Florida def. South Alabama  
 - Seeding: ***FLA*** - #1 Florida def. #4 South Alabama  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Duarte Vale (FLA) - 15-6 at #1, 15-6 in duals, 23-6 overall  

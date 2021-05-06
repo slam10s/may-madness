@@ -19,7 +19,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png =50x50)](../index.md)  
 
 ### #3 Alabama  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***DUKE*** - #20 Duke def. #43 Alabama  
 - Seeding: ***DUKE*** - #2 Duke def. #3 Alabama  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall  

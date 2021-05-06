@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png =50x50)](../index.md)  
 
 ### #3 Western Mich.  
 
@@ -45,7 +45,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***ND*** - #37 Notre Dame def. #48 Western Mich.  
 - Seeding: ***ND*** - #2 Notre Dame def. #3 Western Mich.  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Axel Nefve (ND) - 13-2 at #1, 18-3 in duals, 18-3 overall  

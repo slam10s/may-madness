@@ -19,7 +19,7 @@ Regional Host
 
 </td><td>  
 
-[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png)](../index.md)  
+[![Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png =50x50)](../index.md)  
 
 ### #4 New Mexico  
 
@@ -44,7 +44,9 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***A&M*** - #8 Texas A&M def. New Mexico  
 - Seeding: ***A&M*** - #1 Texas A&M def. #4 New Mexico  
 
-### Lineups  
+### Individual Matchups  
+
+This assumes the top players and doubles teams listed are starting.  
 
 #### Singles:  
 1. Valentin Vacherot (A&M) - 13-2 at #1, 16-3 in duals, 21-5 overall  
