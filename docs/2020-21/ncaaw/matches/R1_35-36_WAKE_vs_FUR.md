@@ -3,7 +3,7 @@ Friday, May 7 at 10:00 EDT
 ## [Wake Forest vs Furman](https://www.ncaa.com/game/5833664) 
 
 <table>  
-<tr><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a></a></td><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></a></td></tr>
+<tr style="background-color: #155997 !important"><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a></a></td><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></a></td></tr>
 <tr><td>  
 
 <h3>#3 <a href="../index.md">Furman</a></h3>  

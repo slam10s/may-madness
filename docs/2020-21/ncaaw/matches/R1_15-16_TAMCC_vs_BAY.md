@@ -3,7 +3,7 @@ Friday, May 7 at 6:00 EDT
 ## [A&M-Corpus Christi vs #8 Baylor](https://www.ncaa.com/game/5833654) 
 
 <table>  
-<tr><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></a></td><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></a></td></tr>
+<tr style="background-color: #155997 !important"><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></a></td><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></a></td></tr>
 <tr><td>  
 
 <h3>#1 <a href="../index.md">Baylor</a></h3>  

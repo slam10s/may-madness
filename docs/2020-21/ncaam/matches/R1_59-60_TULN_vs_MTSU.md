@@ -3,7 +3,7 @@ Saturday, May 8 at 1:00 EDT
 ## [Tulane vs Middle Tenn.](https://www.ncaa.com/game/5833399) 
 
 <table>  
-<tr><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></a></a></td><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></a></a></td></tr>
+<tr style="background-color: #155997 !important"><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></a></a></td><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></a></a></td></tr>
 <tr><td>  
 
 <h3>#3 <a href="../index.md">Middle Tenn.</a></h3>  

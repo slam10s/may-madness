@@ -3,7 +3,7 @@ Friday, May 7 at 1:00 EDT
 ## [UNCW vs #13 South Carolina](https://www.ncaa.com/game/5833382) 
 
 <table>  
-<tr><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></a></td><td style="background-color: silver !important;"><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></a></a></td></tr>
+<tr style="background-color: #155997 !important"><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></a></td><td><a href="../index.md"><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></a></a></td></tr>
 <tr><td>  
 
 <h3>#1 <a href="../index.md">South Carolina</a></h3>  
