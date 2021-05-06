@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## Austin Peay vs #3 Georgia
 
-> ***Georgia***
+> ***Georgia***  
 > Regional Host
 
-> ***Austin Peay***
+> ***Austin Peay***  
 > Automatic Qualifier

@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## Xavier vs Northwestern
 
-> ***Northwestern***
+> ***Northwestern***  
 > At-Large Bid
 
-> ***Xavier***
+> ***Xavier***  
 > Automatic Qualifier

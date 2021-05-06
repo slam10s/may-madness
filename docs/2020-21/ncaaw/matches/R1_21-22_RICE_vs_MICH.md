@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 11:00 EDT
 ## Rice vs Michigan
 
-> ***Michigan***
+> ***Michigan***  
 > At-Large Bid
 
-> ***Rice***
+> ***Rice***  
 > At-Large Bid

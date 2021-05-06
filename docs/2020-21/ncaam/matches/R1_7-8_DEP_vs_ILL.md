@@ -2,8 +2,8 @@ First Round
 Friday, May 7 at 5:00 EDT
 ## DePaul vs #16 Illinois
 
-> ***Illinois***
+> ***Illinois***  
 > Regional Host
 
-> ***DePaul***
+> ***DePaul***  
 > Automatic Qualifier

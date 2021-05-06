@@ -2,8 +2,8 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## South Fla. vs Duke
 
-> ***Duke***
+> ***Duke***  
 > At-Large Bid
 
-> ***South Fla.***
+> ***South Fla.***  
 > At-Large Bid

@@ -2,8 +2,8 @@ First Round
 Saturday, May 8 at 12:00 EDT
 ## Oregon vs Alabama
 
-> ***Alabama***
+> ***Alabama***  
 > At-Large Bid
 
-> ***Oregon***
+> ***Oregon***  
 > At-Large Bid
