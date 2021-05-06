@@ -1,12 +1,12 @@
 First Round  
 Saturday, May 8 at 10:00 EDT
-## [Stanford vs LSU](https://www.ncaa.com/game/5833379) 
+# [Stanford vs LSU](https://www.ncaa.com/game/5833379) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#3 <a href="../">LSU</a></h3>  
+<h2>#3 <a href="#">LSU</a></h2>  
 ITA: 40 (19.17)<br>  
 Slam: 38 (92.17)<br>  
 TRN: 39 (90.14)<br>  
@@ -17,7 +17,7 @@ Coaches Poll: 39<br>
 
 </td><td>  
 
-<h3>#2 <a href="../">Stanford</a></h3>  
+<h2>#2 <a href="#">Stanford</a></h2>  
 ITA: 21 (34.55)<br>  
 Slam: 22 (94.00)<br>  
 TRN: 21 (92.30)<br>  
@@ -30,9 +30,9 @@ Coaches Poll: 20<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***STAN*** - #22 Stanford (75%) def. #38 LSU (25%)  
@@ -44,25 +44,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***STAN*** - #20 Stanford def. #39 LSU  
 - Seeding: ***STAN*** - #2 Stanford def. #3 LSU  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Ronald Hohmann (LSU) - 10-9 at #1, 10-9 in duals, 13-12 overall  
-   Axel Geller (STAN) - 5-6 at #1, 6-6 in duals, 6-6 overall
-2. Rafael Wagner (LSU) - 5-9 at #2, 7-9 in duals, 11-13 overall  
-   Arthur Fery (STAN) - 6-2 at #2, 11-3 in duals, 11-3 overall
-3. Joao Graca (LSU) - 0-4 at #3, 5-10 in duals, 5-10 overall  
-   Tristan Boyer (STAN) - 1-1 at #3, 8-5 in duals, 8-5 overall
-4. Boris Kozlov (LSU) - 5-4 at #4, 10-6 in duals, 13-11 overall  
-   Alex Rotsaert (STAN) - 0-0 at #4, 4-6 in duals, 4-6 overall
-5. Benjamin Ambrosio (LSU) - 1-3 at #5, 9-6 in duals, 9-6 overall  
-   Timothy Sah (STAN) - 6-3 at #5, 8-4 in duals, 8-4 overall
-6. Ben Koch (LSU) - 2-1 at #6, 4-2 in duals, 8-6 overall  
-   William Genesen (STAN) - 3-2 at #6, 5-3 in duals, 5-3 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Ronald Hohmann (LSU) - 10-9 at #1, 10-9 in duals, 13-12 overall<br>  
+Axel Geller (STAN) - 5-6 at #1, 6-6 in duals, 6-6 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Rafael Wagner (LSU) - 5-9 at #2, 7-9 in duals, 11-13 overall<br>  
+Arthur Fery (STAN) - 6-2 at #2, 11-3 in duals, 11-3 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Joao Graca (LSU) - 0-4 at #3, 5-10 in duals, 5-10 overall<br>  
+Tristan Boyer (STAN) - 1-1 at #3, 8-5 in duals, 8-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Boris Kozlov (LSU) - 5-4 at #4, 10-6 in duals, 13-11 overall<br>  
+Alex Rotsaert (STAN) - 0-0 at #4, 4-6 in duals, 4-6 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Benjamin Ambrosio (LSU) - 1-3 at #5, 9-6 in duals, 9-6 overall<br>  
+Timothy Sah (STAN) - 6-3 at #5, 8-4 in duals, 8-4 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Ben Koch (LSU) - 2-1 at #6, 4-2 in duals, 8-6 overall<br>  
+William Genesen (STAN) - 3-2 at #6, 5-3 in duals, 5-3 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Wagner/Hohmann (LSU) - 10-9 at #1, 10-9 in duals, 18-11 overall  
    Geller/Kopczynski (STAN) - 2-0 at #1, 3-0 in duals, 3-0 overall
 2. Thomas/Graca (LSU) - 6-10 at #2, 7-10 in duals, 7-10 overall  

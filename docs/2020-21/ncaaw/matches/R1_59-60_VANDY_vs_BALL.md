@@ -1,12 +1,12 @@
 First Round  
 Friday, May 7 at 11:00 EDT
-## [Vanderbilt vs Ball St.](https://www.ncaa.com/game/5833676) 
+# [Vanderbilt vs Ball St.](https://www.ncaa.com/game/5833676) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#3 <a href="../">Ball St.</a></h3>  
+<h2>#3 <a href="#">Ball St.</a></h2>  
 ITA: 51 (4.35)<br>  
 Slam: 52 (79.30)<br>  
 TRN: 52 (70.33)<br>  
@@ -16,7 +16,7 @@ UTR: 51 (54.58)<br>
 
 </td><td>  
 
-<h3>#2 <a href="../">Vanderbilt</a></h3>  
+<h2>#2 <a href="#">Vanderbilt</a></h2>  
 ITA: 27 (35.19)<br>  
 Slam: 29 (88.87)<br>  
 TRN: 30 (81.13)<br>  
@@ -28,9 +28,9 @@ Coaches Poll: 28<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***VANDY*** - #29 Vanderbilt (100%) def. #52 Ball St. (0%)  
@@ -41,25 +41,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***VANDY*** - #28 Vanderbilt def. Ball St.  
 - Seeding: ***VANDY*** - #2 Vanderbilt def. #3 Ball St.  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Emma Peeler (BALL) - 10-10 at #1, 10-10 in duals, 10-10 overall  
-   Christina Rosca (VANDY) - 3-5 at #1, 13-5 in duals, 13-5 overall
-2. Jessica Braun (BALL) - 6-5 at #2, 13-7 in duals, 13-7 overall  
-   Emma Kurtz (VANDY) - 6-5 at #2, 8-10 in duals, 11-16 overall
-3. Mariya Polishchuk (BALL) - 8-1 at #3, 14-6 in duals, 14-6 overall  
-   Anessa Lee (VANDY) - 3-1 at #3, 11-5 in duals, 16-8 overall
-4. Rebecca Herrington (BALL) - 7-2 at #4, 14-6 in duals, 14-6 overall  
-   Anna Ross (VANDY) - 0-1 at #4, 8-9 in duals, 8-10 overall
-5. Amy Kaplan (BALL) - 4-2 at #5, 12-7 in duals, 12-7 overall  
-   Marcella Cruz (VANDY) - 4-2 at #5, 13-4 in duals, 16-9 overall
-6. Livia Lukacs (BALL) - 6-2 at #6, 8-3 in duals, 8-3 overall  
-   Holly Staff (VANDY) - 0-0 at #6, 9-9 in duals, 14-12 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Emma Peeler (BALL) - 10-10 at #1, 10-10 in duals, 10-10 overall<br>  
+Christina Rosca (VANDY) - 3-5 at #1, 13-5 in duals, 13-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Jessica Braun (BALL) - 6-5 at #2, 13-7 in duals, 13-7 overall<br>  
+Emma Kurtz (VANDY) - 6-5 at #2, 8-10 in duals, 11-16 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Mariya Polishchuk (BALL) - 8-1 at #3, 14-6 in duals, 14-6 overall<br>  
+Anessa Lee (VANDY) - 3-1 at #3, 11-5 in duals, 16-8 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Rebecca Herrington (BALL) - 7-2 at #4, 14-6 in duals, 14-6 overall<br>  
+Anna Ross (VANDY) - 0-1 at #4, 8-9 in duals, 8-10 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Amy Kaplan (BALL) - 4-2 at #5, 12-7 in duals, 12-7 overall<br>  
+Marcella Cruz (VANDY) - 4-2 at #5, 13-4 in duals, 16-9 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Livia Lukacs (BALL) - 6-2 at #6, 8-3 in duals, 8-3 overall<br>  
+Holly Staff (VANDY) - 0-0 at #6, 9-9 in duals, 14-12 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Kaplan/Peeler (BALL) - 9-3 at #1, 9-4 in duals, 9-3 overall  
    Ross/Staff (VANDY) - 9-8 at #1, 10-8 in duals, 10-8 overall
 2. Braun/Polishchuk (BALL) - 0-0 at #2, 2-0 in duals, 2-0 overall  

@@ -1,12 +1,12 @@
 First Round  
 Saturday, May 8 at 10:00 EDT
-## [Northwestern vs UCLA](https://www.ncaa.com/game/5833384) 
+# [Northwestern vs UCLA](https://www.ncaa.com/game/5833384) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../">UCLA</a></h3>  
+<h2>#2 <a href="#">UCLA</a></h2>  
 ITA: 24 (32.15)<br>  
 Slam: 23 (93.84)<br>  
 TRN: 24 (91.84)<br>  
@@ -18,7 +18,7 @@ Coaches Poll: 29<br>
 
 </td><td>  
 
-<h3>#3 <a href="../">Northwestern</a></h3>  
+<h2>#3 <a href="#">Northwestern</a></h2>  
 ITA: 50 (7.95)<br>  
 Slam: 33 (92.89)<br>  
 TRN: 32 (90.90)<br>  
@@ -30,9 +30,9 @@ Coaches Poll: 49<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCLA*** - #23 UCLA (63%) def. #33 Northwestern (37%)  
@@ -44,25 +44,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UCLA*** - #29 UCLA def. #49 Northwestern  
 - Seeding: ***UCLA*** - #2 UCLA def. #3 Northwestern  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Govind Nanda (UCLA) - 2-2 at #1, 8-3 in duals, 8-3 overall  
-   Steven Forman (NW) - 5-2 at #1, 5-2 in duals, 5-2 overall
-2. Drew Baird (UCLA) - 5-2 at #2, 9-6 in duals, 9-7 overall  
-   Dominik Stary (NW) - 4-0 at #2, 8-4 in duals, 9-6 overall
-3. Ben Goldberg (UCLA) - 5-2 at #3, 8-8 in duals, 9-8 overall  
-   Nick Brookes (NW) - 1-5 at #3, 9-7 in duals, 11-9 overall
-4. Sam Feit (UCLA) - 6-1 at #4, 11-5 in duals, 11-6 overall  
-   Chris Ephron (NW) - 5-1 at #4, 9-5 in duals, 12-6 overall
-5. Roscoe Bellamy (UCLA) - 2-1 at #5, 8-2 in duals, 8-2 overall  
-   Trice Pickens (NW) - 3-3 at #5, 8-10 in duals, 13-10 overall
-6. Mathew Tsolakyan (UCLA) - 4-2 at #6, 10-3 in duals, 11-3 overall  
-   Simen Bratholm (NW) - 0-0 at #6, 5-4 in duals, 8-5 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Govind Nanda (UCLA) - 2-2 at #1, 8-3 in duals, 8-3 overall<br>  
+Steven Forman (NW) - 5-2 at #1, 5-2 in duals, 5-2 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Drew Baird (UCLA) - 5-2 at #2, 9-6 in duals, 9-7 overall<br>  
+Dominik Stary (NW) - 4-0 at #2, 8-4 in duals, 9-6 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Ben Goldberg (UCLA) - 5-2 at #3, 8-8 in duals, 9-8 overall<br>  
+Nick Brookes (NW) - 1-5 at #3, 9-7 in duals, 11-9 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Sam Feit (UCLA) - 6-1 at #4, 11-5 in duals, 11-6 overall<br>  
+Chris Ephron (NW) - 5-1 at #4, 9-5 in duals, 12-6 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Roscoe Bellamy (UCLA) - 2-1 at #5, 8-2 in duals, 8-2 overall<br>  
+Trice Pickens (NW) - 3-3 at #5, 8-10 in duals, 13-10 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Mathew Tsolakyan (UCLA) - 4-2 at #6, 10-3 in duals, 11-3 overall<br>  
+Simen Bratholm (NW) - 0-0 at #6, 5-4 in duals, 8-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Nanda/Baird (UCLA) - 2-2 at #1, 4-5 in duals, 4-5 overall  
    Brookes/Bratholm (NW) - 9-4 at #1, 9-4 in duals, 12-7 overall
 2. Pereira/Zahraj (UCLA) - 2-2 at #2, 2-2 in duals, 2-2 overall  

@@ -1,12 +1,12 @@
 First Round  
 Friday, May 7 at 3:00 EDT
-## [Alabama vs Duke](https://www.ncaa.com/game/5833653) 
+# [Alabama vs Duke](https://www.ncaa.com/game/5833653) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../">Duke</a></h3>  
+<h2>#2 <a href="#">Duke</a></h2>  
 ITA: 17 (43.03)<br>  
 Slam: 14 (90.91)<br>  
 TRN: 15 (83.33)<br>  
@@ -18,7 +18,7 @@ Coaches Poll: 20<br>
 
 </td><td>  
 
-<h3>#3 <a href="../">Alabama</a></h3>  
+<h2>#3 <a href="#">Alabama</a></h2>  
 ITA: 42 (16.54)<br>  
 Slam: 44 (86.23)<br>  
 TRN: 44 (78.28)<br>  
@@ -30,9 +30,9 @@ Coaches Poll: 43<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***DUKE*** - #14 Duke (93%) def. #44 Alabama (7%)  
@@ -44,25 +44,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***DUKE*** - #20 Duke def. #43 Alabama  
 - Seeding: ***DUKE*** - #2 Duke def. #3 Alabama  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall  
-   Loudmilla Bencheikh (BAMA) - 2-5 at #1, 2-5 in duals, 2-5 overall
-2. Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall  
-   Alba Cortina Pou (BAMA) - 3-2 at #2, 15-4 in duals, 15-7 overall
-3. Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall  
-   Anna Parkhomenko (BAMA) - 0-6 at #3, 11-7 in duals, 15-11 overall
-4. Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall  
-   Anne Marie Hiser (BAMA) - 4-0 at #4, 13-8 in duals, 17-10 overall
-5. Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall  
-   Sydney Riley (BAMA) - 2-0 at #5, 12-7 in duals, 14-13 overall
-6. Karolina Berankova (DUKE) - 7-7 at #6, 9-9 in duals, 10-11 overall  
-   Sydney Orefice (BAMA) - 2-0 at #6, 2-0 in duals, 2-5 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall<br>  
+Loudmilla Bencheikh (BAMA) - 2-5 at #1, 2-5 in duals, 2-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall<br>  
+Alba Cortina Pou (BAMA) - 3-2 at #2, 15-4 in duals, 15-7 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall<br>  
+Anna Parkhomenko (BAMA) - 0-6 at #3, 11-7 in duals, 15-11 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall<br>  
+Anne Marie Hiser (BAMA) - 4-0 at #4, 13-8 in duals, 17-10 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall<br>  
+Sydney Riley (BAMA) - 2-0 at #5, 12-7 in duals, 14-13 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Karolina Berankova (DUKE) - 7-7 at #6, 9-9 in duals, 10-11 overall<br>  
+Sydney Orefice (BAMA) - 2-0 at #6, 2-0 in duals, 2-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Chi/Bilokin (DUKE) - 8-4 at #1, 9-4 in duals, 11-4 overall  
    Hiser/Riley (BAMA) - 5-1 at #1, 14-3 in duals, 14-8 overall
 2. Beck/Berankova (DUKE) - 11-2 at #2, 12-2 in duals, 15-3 overall  

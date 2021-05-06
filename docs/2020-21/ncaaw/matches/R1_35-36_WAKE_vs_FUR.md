@@ -1,12 +1,12 @@
 First Round  
 Friday, May 7 at 10:00 EDT
-## [Wake Forest vs Furman](https://www.ncaa.com/game/5833664) 
+# [Wake Forest vs Furman](https://www.ncaa.com/game/5833664) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#3 <a href="../">Furman</a></h3>  
+<h2>#3 <a href="#">Furman</a></h2>  
 ITA: 34 (25.42)<br>  
 Slam: 33 (87.98)<br>  
 TRN: 35 (79.59)<br>  
@@ -18,7 +18,7 @@ Coaches Poll: 35<br>
 
 </td><td>  
 
-<h3>#2 <a href="../">Wake Forest</a></h3>  
+<h2>#2 <a href="#">Wake Forest</a></h2>  
 ITA: 33 (25.77)<br>  
 Slam: 32 (88.11)<br>  
 TRN: 31 (80.20)<br>  
@@ -30,9 +30,9 @@ Coaches Poll: 31<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***WAKE*** - #32 Wake Forest (52%) def. #33 Furman (48%)  
@@ -44,25 +44,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***WAKE*** - #31 Wake Forest def. #35 Furman  
 - Seeding: ***WAKE*** - #2 Wake Forest def. #3 Furman  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Katarina Kozarov (FUR) - 22-1 at #1, 22-1 in duals, 22-1 overall  
-   Carolyn Campana (WAKE) - 9-5 at #1, 9-5 in duals, 9-5 overall
-2. Julia Adams (FUR) - 15-6 at #2, 19-6 in duals, 19-6 overall  
-   Anna Campana (WAKE) - 4-6 at #2, 6-10 in duals, 6-10 overall
-3. Madison Dillon (FUR) - 10-10 at #3, 12-12 in duals, 12-12 overall  
-   Anna Brylin (WAKE) - 10-3 at #3, 12-8 in duals, 12-8 overall
-4. MaryAnn Rompf (FUR) - 15-6 at #4, 18-8 in duals, 18-8 overall  
-   Eliza Omirou (WAKE) - 3-3 at #4, 9-8 in duals, 9-8 overall
-5. Maggie Pate (FUR) - 9-6 at #5, 15-7 in duals, 15-7 overall  
-   Brooke Killingsworth (WAKE) - 1-1 at #5, 7-14 in duals, 7-14 overall
-6. Ellie Schoppe (FUR) - 15-1 at #6, 20-3 in duals, 20-3 overall  
-   Casie Wooten (WAKE) - 7-3 at #6, 12-7 in duals, 12-7 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Katarina Kozarov (FUR) - 22-1 at #1, 22-1 in duals, 22-1 overall<br>  
+Carolyn Campana (WAKE) - 9-5 at #1, 9-5 in duals, 9-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Julia Adams (FUR) - 15-6 at #2, 19-6 in duals, 19-6 overall<br>  
+Anna Campana (WAKE) - 4-6 at #2, 6-10 in duals, 6-10 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Madison Dillon (FUR) - 10-10 at #3, 12-12 in duals, 12-12 overall<br>  
+Anna Brylin (WAKE) - 10-3 at #3, 12-8 in duals, 12-8 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+MaryAnn Rompf (FUR) - 15-6 at #4, 18-8 in duals, 18-8 overall<br>  
+Eliza Omirou (WAKE) - 3-3 at #4, 9-8 in duals, 9-8 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Maggie Pate (FUR) - 9-6 at #5, 15-7 in duals, 15-7 overall<br>  
+Brooke Killingsworth (WAKE) - 1-1 at #5, 7-14 in duals, 7-14 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Ellie Schoppe (FUR) - 15-1 at #6, 20-3 in duals, 20-3 overall<br>  
+Casie Wooten (WAKE) - 7-3 at #6, 12-7 in duals, 12-7 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Kozarov/Adams (FUR) - 19-3 at #1, 19-3 in duals, 19-3 overall  
    Omirou/Campana (WAKE) - 8-4 at #1, 9-4 in duals, 9-4 overall
 2. Dillon/Rompf (FUR) - 0-0 at #2, 19-2 in duals, 19-2 overall  

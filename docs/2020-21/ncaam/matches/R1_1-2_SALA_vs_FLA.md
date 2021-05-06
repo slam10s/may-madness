@@ -1,12 +1,12 @@
 First Round  
 Saturday, May 8 at 1:00 EDT
-## [South Alabama vs #1 Florida](https://www.ncaa.com/game/5833370) 
+# [South Alabama vs #1 Florida](https://www.ncaa.com/game/5833370) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../">Florida</a></h3>  
+<h2>#1 <a href="#">Florida</a></h2>  
 ITA: 2 (81.08)<br>  
 Slam: 2 (99.77)<br>  
 TRN: 3 (99.10)<br>  
@@ -18,7 +18,7 @@ Coaches Poll: 2<br>
 
 </td><td>  
 
-<h3>#4 <a href="../">South Alabama</a></h3>  
+<h2>#4 <a href="#">South Alabama</a></h2>  
 ITA: 53 (6.83)<br>  
 Slam: 50 (87.64)<br>  
 TRN: 52 (84.26)<br>  
@@ -29,9 +29,9 @@ UTR: 49 (73.92)<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***FLA*** - #2 Florida (99%) def. #50 South Alabama (1%)  
@@ -43,25 +43,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***FLA*** - #2 Florida def. South Alabama  
 - Seeding: ***FLA*** - #1 Florida def. #4 South Alabama  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Duarte Vale (FLA) - 15-6 at #1, 15-6 in duals, 23-6 overall  
-   Julien Evrard (SALA) - 10-4 at #1, 13-4 in duals, 19-7 overall
-2. Sam Riffice (FLA) - 16-4 at #2, 18-4 in duals, 23-7 overall  
-   Clement Marzol (SALA) - 8-1 at #2, 12-2 in duals, 18-4 overall
-3. Andy Andrade (FLA) - 12-7 at #3, 14-7 in duals, 22-7 overall  
-   Loic Cloes (SALA) - 5-3 at #3, 9-4 in duals, 9-4 overall
-4. Blaise Bicknell (FLA) - 15-0 at #4, 20-0 in duals, 29-0 overall  
-   Sebastien Collard (SALA) - 7-4 at #4, 11-6 in duals, 20-6 overall
-5. Ben Shelton (FLA) - 15-4 at #5, 17-4 in duals, 24-5 overall  
-   Louis Delcour (SALA) - 5-2 at #5, 9-5 in duals, 9-5 overall
-6. Josh Goodger (FLA) - 12-0 at #6, 13-0 in duals, 19-0 overall  
-   Martin Bugaj (SALA) - 1-4 at #6, 4-8 in duals, 7-13 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Duarte Vale (FLA) - 15-6 at #1, 15-6 in duals, 23-6 overall<br>  
+Julien Evrard (SALA) - 10-4 at #1, 13-4 in duals, 19-7 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Sam Riffice (FLA) - 16-4 at #2, 18-4 in duals, 23-7 overall<br>  
+Clement Marzol (SALA) - 8-1 at #2, 12-2 in duals, 18-4 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Andy Andrade (FLA) - 12-7 at #3, 14-7 in duals, 22-7 overall<br>  
+Loic Cloes (SALA) - 5-3 at #3, 9-4 in duals, 9-4 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Blaise Bicknell (FLA) - 15-0 at #4, 20-0 in duals, 29-0 overall<br>  
+Sebastien Collard (SALA) - 7-4 at #4, 11-6 in duals, 20-6 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Ben Shelton (FLA) - 15-4 at #5, 17-4 in duals, 24-5 overall<br>  
+Louis Delcour (SALA) - 5-2 at #5, 9-5 in duals, 9-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Josh Goodger (FLA) - 12-0 at #6, 13-0 in duals, 19-0 overall<br>  
+Martin Bugaj (SALA) - 1-4 at #6, 4-8 in duals, 7-13 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Ingildsen/Vale (FLA) - 0-0 at #1, 0-0 in duals, 0-0 overall  
    Cloes/Marzol (SALA) - 10-2 at #1, 10-2 in duals, 10-2 overall
 2. Riffice/Shelton (FLA) - 0-0 at #2, 4-0 in duals, 6-1 overall  

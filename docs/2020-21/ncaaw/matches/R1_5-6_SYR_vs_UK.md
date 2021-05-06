@@ -1,12 +1,12 @@
 First Round  
 Friday, May 7 at 1:00 EDT
-## [Syracuse vs Kentucky](https://www.ncaa.com/game/5833649) 
+# [Syracuse vs Kentucky](https://www.ncaa.com/game/5833649) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../">Kentucky</a></h3>  
+<h2>#2 <a href="#">Kentucky</a></h2>  
 ITA: 26 (37.41)<br>  
 Slam: 25 (89.36)<br>  
 TRN: 27 (81.49)<br>  
@@ -18,7 +18,7 @@ Coaches Poll: 27<br>
 
 </td><td>  
 
-<h3>#3 <a href="../">Syracuse</a></h3>  
+<h2>#3 <a href="#">Syracuse</a></h2>  
 ITA: 43 (15.84)<br>  
 Slam: 43 (86.54)<br>  
 TRN: 43 (78.55)<br>  
@@ -30,9 +30,9 @@ Coaches Poll: 45<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UK*** - #25 Kentucky (83%) def. #43 Syracuse (17%)  
@@ -44,25 +44,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UK*** - #27 Kentucky def. #45 Syracuse  
 - Seeding: ***UK*** - #2 Kentucky def. #3 Syracuse  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Akvile Parazinskaite (UK) - 16-6 at #1, 16-6 in duals, 19-10 overall  
-   Viktoriya Kanapatskaya (SYR) - 9-5 at #1, 11-5 in duals, 11-5 overall
-2. Lesedi Jacobs (UK) - 0-1 at #2, 9-5 in duals, 11-8 overall  
-   Guzal Yusupova (SYR) - 4-6 at #2, 4-9 in duals, 4-9 overall
-3. Carlota Molina (UK) - 1-1 at #3, 12-7 in duals, 12-13 overall  
-   Natalie Novotna (SYR) - 4-6 at #3, 7-9 in duals, 7-9 overall
-4. Elizabeth Stevens (UK) - 1-5 at #4, 3-8 in duals, 6-13 overall  
-   Miranda Ramirez (SYR) - 3-6 at #4, 4-13 in duals, 4-13 overall
-5. Carla Girbau (UK) - 2-1 at #5, 9-9 in duals, 11-14 overall  
-   Zeynep Erman (SYR) - 3-4 at #5, 4-4 in duals, 4-4 overall
-6. Fiona Arrese (UK) - 2-1 at #6, 10-4 in duals, 10-9 overall  
-   Polina Kozyreva (SYR) - 7-5 at #6, 10-9 in duals, 10-9 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Akvile Parazinskaite (UK) - 16-6 at #1, 16-6 in duals, 19-10 overall<br>  
+Viktoriya Kanapatskaya (SYR) - 9-5 at #1, 11-5 in duals, 11-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Lesedi Jacobs (UK) - 0-1 at #2, 9-5 in duals, 11-8 overall<br>  
+Guzal Yusupova (SYR) - 4-6 at #2, 4-9 in duals, 4-9 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Carlota Molina (UK) - 1-1 at #3, 12-7 in duals, 12-13 overall<br>  
+Natalie Novotna (SYR) - 4-6 at #3, 7-9 in duals, 7-9 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Elizabeth Stevens (UK) - 1-5 at #4, 3-8 in duals, 6-13 overall<br>  
+Miranda Ramirez (SYR) - 3-6 at #4, 4-13 in duals, 4-13 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Carla Girbau (UK) - 2-1 at #5, 9-9 in duals, 11-14 overall<br>  
+Zeynep Erman (SYR) - 3-4 at #5, 4-4 in duals, 4-4 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Fiona Arrese (UK) - 2-1 at #6, 10-4 in duals, 10-9 overall<br>  
+Polina Kozyreva (SYR) - 7-5 at #6, 10-9 in duals, 10-9 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Parazinskaite/Arrese (UK) - 17-2 at #1, 17-2 in duals, 20-2 overall  
    Kanapatskaya/Novotna (SYR) - 4-7 at #1, 8-8 in duals, 8-8 overall
 2. Tkachenko/Girbau (UK) - 1-3 at #2, 1-3 in duals, 1-3 overall  

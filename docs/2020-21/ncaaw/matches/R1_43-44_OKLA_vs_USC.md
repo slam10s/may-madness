@@ -1,12 +1,12 @@
 First Round  
 Friday, May 7 at 10:00 EDT
-## [Oklahoma vs Southern California](https://www.ncaa.com/game/5833668) 
+# [Oklahoma vs Southern California](https://www.ncaa.com/game/5833668) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#3 <a href="../">Southern California</a></h3>  
+<h2>#3 <a href="#">Southern California</a></h2>  
 ITA: 35 (23.17)<br>  
 Slam: 35 (87.72)<br>  
 TRN: 41 (78.74)<br>  
@@ -17,7 +17,7 @@ Coaches Poll: 34<br>
 
 </td><td>  
 
-<h3>#2 <a href="../">Oklahoma</a></h3>  
+<h2>#2 <a href="#">Oklahoma</a></h2>  
 ITA: 23 (39.04)<br>  
 Slam: 13 (91.06)<br>  
 TRN: 22 (82.23)<br>  
@@ -30,9 +30,9 @@ Coaches Poll: 24<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***OKLA*** - #13 Oklahoma (88%) def. #35 Southern California (12%)  
@@ -44,25 +44,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***OKLA*** - #24 Oklahoma def. #34 Southern California  
 - Seeding: ***OKLA*** - #2 Oklahoma def. #3 Southern California  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Salma Ewing (USC) - 4-2 at #1, 13-5 in duals, 13-5 overall  
-   Carmen Corley (OKLA) - 12-6 at #1, 12-6 in duals, 19-13 overall
-2. Eryn Cayetano (USC) - 6-2 at #2, 10-5 in duals, 10-5 overall  
-   Dana Guzman (OKLA) - 13-1 at #2, 18-2 in duals, 18-2 overall
-3. Angela Kulikov (USC) - 0-0 at #3, 0-1 in duals, 0-1 overall  
-   Ivana Corley (OKLA) - 11-5 at #3, 13-6 in duals, 20-12 overall
-4. Naomi Cheong (USC) - 0-0 at #4, 9-8 in duals, 9-8 overall  
-   Martina Capurro (OKLA) - 9-3 at #4, 11-8 in duals, 11-8 overall
-5. Dani Willson (USC) - 0-0 at #5, 12-8 in duals, 12-8 overall  
-   Kianah Motosono (OKLA) - 3-3 at #5, 10-7 in duals, 16-14 overall
-6. Summer Dvorak (USC) - 0-0 at #6, 12-7 in duals, 12-7 overall  
-   Camila Romero (OKLA) - 1-1 at #6, 1-1 in duals, 1-1 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Salma Ewing (USC) - 4-2 at #1, 13-5 in duals, 13-5 overall<br>  
+Carmen Corley (OKLA) - 12-6 at #1, 12-6 in duals, 19-13 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Eryn Cayetano (USC) - 6-2 at #2, 10-5 in duals, 10-5 overall<br>  
+Dana Guzman (OKLA) - 13-1 at #2, 18-2 in duals, 18-2 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Angela Kulikov (USC) - 0-0 at #3, 0-1 in duals, 0-1 overall<br>  
+Ivana Corley (OKLA) - 11-5 at #3, 13-6 in duals, 20-12 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Naomi Cheong (USC) - 0-0 at #4, 9-8 in duals, 9-8 overall<br>  
+Martina Capurro (OKLA) - 9-3 at #4, 11-8 in duals, 11-8 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Dani Willson (USC) - 0-0 at #5, 12-8 in duals, 12-8 overall<br>  
+Kianah Motosono (OKLA) - 3-3 at #5, 10-7 in duals, 16-14 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Summer Dvorak (USC) - 0-0 at #6, 12-7 in duals, 12-7 overall<br>  
+Camila Romero (OKLA) - 1-1 at #6, 1-1 in duals, 1-1 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Kulikov/Cayetano (USC) - 6-5 at #1, 6-5 in duals, 6-5 overall  
    Corley/Corley (OKLA) - 16-2 at #1, 16-2 in duals, 26-3 overall
 2. Ewing/McKee (USC) - 8-4 at #2, 8-4 in duals, 8-4 overall  

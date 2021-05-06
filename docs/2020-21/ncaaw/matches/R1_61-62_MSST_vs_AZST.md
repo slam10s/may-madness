@@ -1,12 +1,12 @@
 First Round  
 Friday, May 7 at 1:00 EDT
-## [Mississippi St. vs Arizona St.](https://www.ncaa.com/game/5833677) 
+# [Mississippi St. vs Arizona St.](https://www.ncaa.com/game/5833677) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../">Arizona St.</a></h3>  
+<h2>#2 <a href="#">Arizona St.</a></h2>  
 ITA: 31 (26.09)<br>  
 Slam: 31 (88.20)<br>  
 TRN: 33 (79.83)<br>  
@@ -18,7 +18,7 @@ Coaches Poll: 30<br>
 
 </td><td>  
 
-<h3>#3 <a href="../">Mississippi St.</a></h3>  
+<h2>#3 <a href="#">Mississippi St.</a></h2>  
 ITA: 38 (19.84)<br>  
 Slam: 42 (86.60)<br>  
 TRN: 39 (78.82)<br>  
@@ -30,9 +30,9 @@ Coaches Poll: 38<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***AZST*** - #31 Arizona St. (71%) def. #42 Mississippi St. (29%)  
@@ -44,25 +44,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***AZST*** - #30 Arizona St. def. #38 Mississippi St.  
 - Seeding: ***AZST*** - #2 Arizona St. def. #3 Mississippi St.  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Ilze Hattingh (AZST) - 10-7 at #1, 10-7 in duals, 11-7 overall  
-   Emma Antonaki (MSST) - 5-2 at #1, 14-4 in duals, 16-4 overall
-2. Sammi Hampton (AZST) - 6-8 at #2, 6-8 in duals, 6-8 overall  
-   Magda Adaloglou (MSST) - 5-2 at #2, 11-4 in duals, 12-5 overall
-3. Lauryn John-Baptiste (AZST) - 11-6 at #3, 11-6 in duals, 11-6 overall  
-   Tamara Racine (MSST) - 1-1 at #3, 7-9 in duals, 9-13 overall
-4. Giulia Morlet (AZST) - 8-5 at #4, 9-5 in duals, 10-5 overall  
-   Alex Mikhailuk (MSST) - 6-7 at #4, 10-11 in duals, 16-15 overall
-5. Marianna Argyrokastriti (AZST) - 11-4 at #5, 14-5 in duals, 15-5 overall  
-   Lilian Poling (MSST) - 4-3 at #5, 5-9 in duals, 12-11 overall
-6. Domenika Turkovic (AZST) - 4-5 at #6, 8-6 in duals, 9-6 overall  
-   Chloe Cirotte (MSST) - 6-2 at #6, 10-5 in duals, 11-6 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Ilze Hattingh (AZST) - 10-7 at #1, 10-7 in duals, 11-7 overall<br>  
+Emma Antonaki (MSST) - 5-2 at #1, 14-4 in duals, 16-4 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Sammi Hampton (AZST) - 6-8 at #2, 6-8 in duals, 6-8 overall<br>  
+Magda Adaloglou (MSST) - 5-2 at #2, 11-4 in duals, 12-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Lauryn John-Baptiste (AZST) - 11-6 at #3, 11-6 in duals, 11-6 overall<br>  
+Tamara Racine (MSST) - 1-1 at #3, 7-9 in duals, 9-13 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Giulia Morlet (AZST) - 8-5 at #4, 9-5 in duals, 10-5 overall<br>  
+Alex Mikhailuk (MSST) - 6-7 at #4, 10-11 in duals, 16-15 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Marianna Argyrokastriti (AZST) - 11-4 at #5, 14-5 in duals, 15-5 overall<br>  
+Lilian Poling (MSST) - 4-3 at #5, 5-9 in duals, 12-11 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Domenika Turkovic (AZST) - 4-5 at #6, 8-6 in duals, 9-6 overall<br>  
+Chloe Cirotte (MSST) - 6-2 at #6, 10-5 in duals, 11-6 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Hattingh/John-Baptiste (AZST) - 7-9 at #1, 7-9 in duals, 7-9 overall  
    Adaloglou/Racine (MSST) - 5-5 at #1, 5-5 in duals, 5-5 overall
 2. Hampton/Argyrokastriti (AZST) - 4-4 at #2, 13-4 in duals, 13-4 overall  

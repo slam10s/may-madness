@@ -1,12 +1,12 @@
 First Round  
 Friday, May 7 at 4:00 EDT
-## [Grand Canyon vs #12 Southern California](https://www.ncaa.com/game/5833381) 
+# [Grand Canyon vs #12 Southern California](https://www.ncaa.com/game/5833381) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../">Southern California</a></h3>  
+<h2>#1 <a href="#">Southern California</a></h2>  
 ITA: 12 (52.23)<br>  
 Slam: 14 (96.38)<br>  
 TRN: 16 (94.47)<br>  
@@ -18,7 +18,7 @@ Coaches Poll: 12<br>
 
 </td><td>  
 
-<h3>#4 <a href="../">Grand Canyon</a></h3>  
+<h2>#4 <a href="#">Grand Canyon</a></h2>  
 ITA: 64 (1.38)<br>  
 Slam: 62 (81.82)<br>  
 TRN: 62 (76.83)<br>  
@@ -29,9 +29,9 @@ UTR: 56 (71.32)<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***USC*** - #14 Southern California (99%) def. #62 Grand Canyon (1%)  
@@ -43,25 +43,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***USC*** - #12 Southern California def. Grand Canyon  
 - Seeding: ***USC*** - #1 Southern California def. #4 Grand Canyon  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Daniel Cukierman (USC) - 12-5 at #1, 12-5 in duals, 14-5 overall  
-   Valentin Lang (GCU) - 8-10 at #1, 8-10 in duals, 8-10 overall
-2. Riley Smith (USC) - 9-5 at #2, 13-5 in duals, 15-5 overall  
-   Mariano Argote (GCU) - 5-6 at #2, 7-6 in duals, 7-6 overall
-3. Stefan Dostanic (USC) - 12-3 at #3, 16-3 in duals, 18-3 overall  
-   Justin Cvitanovic (GCU) - 4-6 at #3, 4-15 in duals, 4-15 overall
-4. Bradley Frye (USC) - 9-2 at #4, 15-4 in duals, 17-4 overall  
-   Jonathan Da Silva (GCU) - 5-2 at #4, 7-7 in duals, 7-7 overall
-5. Lodewijk Weststrate (USC) - 9-3 at #5, 21-4 in duals, 23-4 overall  
-   Jiri Novak (GCU) - 5-1 at #5, 8-9 in duals, 8-9 overall
-6. Jake Sands (USC) - 8-3 at #6, 14-4 in duals, 14-4 overall  
-   Freddie Grant (GCU) - 9-2 at #6, 9-8 in duals, 9-8 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Daniel Cukierman (USC) - 12-5 at #1, 12-5 in duals, 14-5 overall<br>  
+Valentin Lang (GCU) - 8-10 at #1, 8-10 in duals, 8-10 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Riley Smith (USC) - 9-5 at #2, 13-5 in duals, 15-5 overall<br>  
+Mariano Argote (GCU) - 5-6 at #2, 7-6 in duals, 7-6 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Stefan Dostanic (USC) - 12-3 at #3, 16-3 in duals, 18-3 overall<br>  
+Justin Cvitanovic (GCU) - 4-6 at #3, 4-15 in duals, 4-15 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Bradley Frye (USC) - 9-2 at #4, 15-4 in duals, 17-4 overall<br>  
+Jonathan Da Silva (GCU) - 5-2 at #4, 7-7 in duals, 7-7 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Lodewijk Weststrate (USC) - 9-3 at #5, 21-4 in duals, 23-4 overall<br>  
+Jiri Novak (GCU) - 5-1 at #5, 8-9 in duals, 8-9 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Jake Sands (USC) - 8-3 at #6, 14-4 in duals, 14-4 overall<br>  
+Freddie Grant (GCU) - 9-2 at #6, 9-8 in duals, 9-8 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Cukierman/Smith (USC) - 17-3 at #1, 17-3 in duals, 18-3 overall  
    Lang/Novak (GCU) - 10-6 at #1, 10-6 in duals, 10-6 overall
 2. Dostanic/Frye (USC) - 13-1 at #2, 13-1 in duals, 13-1 overall  

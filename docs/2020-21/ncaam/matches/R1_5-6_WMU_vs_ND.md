@@ -1,12 +1,12 @@
 First Round  
 Friday, May 7 at 2:00 EDT
-## [Western Mich. vs Notre Dame](https://www.ncaa.com/game/5833372) 
+# [Western Mich. vs Notre Dame](https://www.ncaa.com/game/5833372) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#2 <a href="../">Notre Dame</a></h3>  
+<h2>#2 <a href="#">Notre Dame</a></h2>  
 ITA: 34 (25.22)<br>  
 Slam: 40 (91.96)<br>  
 TRN: 42 (89.57)<br>  
@@ -17,7 +17,7 @@ Coaches Poll: 37<br>
 
 </td><td>  
 
-<h3>#3 <a href="../">Western Mich.</a></h3>  
+<h2>#3 <a href="#">Western Mich.</a></h2>  
 ITA: 41 (18.89)<br>  
 Slam: 47 (89.83)<br>  
 TRN: 46 (88.71)<br>  
@@ -30,9 +30,9 @@ Coaches Poll: 48<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***ND*** - #40 Notre Dame (77%) def. #47 Western Mich. (23%)  
@@ -44,25 +44,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***ND*** - #37 Notre Dame def. #48 Western Mich.  
 - Seeding: ***ND*** - #2 Notre Dame def. #3 Western Mich.  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Axel Nefve (ND) - 13-2 at #1, 18-3 in duals, 18-3 overall  
-   Jannik Opitz (WMU) - 20-2 at #1, 20-2 in duals, 20-2 overall
-2. Richard Ciamarra (ND) - 9-4 at #2, 14-7 in duals, 14-7 overall  
-   Peter Kuszynski (WMU) - 15-2 at #2, 18-2 in duals, 18-2 overall
-3. Tristan McCormick (ND) - 8-5 at #3, 10-6 in duals, 10-6 overall  
-   Fynn Lohse (WMU) - 7-4 at #3, 16-5 in duals, 16-5 overall
-4. William Howells (ND) - 0-0 at #4, 2-1 in duals, 2-1 overall  
-   Jackson Boone (WMU) - 5-3 at #4, 13-6 in duals, 13-6 overall
-5. Matthew Che (ND) - 0-1 at #5, 6-12 in duals, 6-12 overall  
-   Arjun Honnappa (WMU) - 11-3 at #5, 17-3 in duals, 17-3 overall
-6. Connor Fu (ND) - 0-1 at #6, 12-9 in duals, 12-9 overall  
-   Ben George (WMU) - 8-0 at #6, 11-0 in duals, 11-0 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Axel Nefve (ND) - 13-2 at #1, 18-3 in duals, 18-3 overall<br>  
+Jannik Opitz (WMU) - 20-2 at #1, 20-2 in duals, 20-2 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Richard Ciamarra (ND) - 9-4 at #2, 14-7 in duals, 14-7 overall<br>  
+Peter Kuszynski (WMU) - 15-2 at #2, 18-2 in duals, 18-2 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Tristan McCormick (ND) - 8-5 at #3, 10-6 in duals, 10-6 overall<br>  
+Fynn Lohse (WMU) - 7-4 at #3, 16-5 in duals, 16-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+William Howells (ND) - 0-0 at #4, 2-1 in duals, 2-1 overall<br>  
+Jackson Boone (WMU) - 5-3 at #4, 13-6 in duals, 13-6 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Matthew Che (ND) - 0-1 at #5, 6-12 in duals, 6-12 overall<br>  
+Arjun Honnappa (WMU) - 11-3 at #5, 17-3 in duals, 17-3 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Connor Fu (ND) - 0-1 at #6, 12-9 in duals, 12-9 overall<br>  
+Ben George (WMU) - 8-0 at #6, 11-0 in duals, 11-0 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. McCormick/Nefve (ND) - 10-4 at #1, 10-4 in duals, 10-4 overall  
    Opitz/Kuszynski (WMU) - 0-0 at #1, 0-0 in duals, 0-0 overall
 2. Ancona/Howells (ND) - 4-2 at #2, 7-5 in duals, 7-5 overall  

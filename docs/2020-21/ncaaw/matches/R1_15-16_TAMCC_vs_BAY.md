@@ -1,12 +1,12 @@
 First Round  
 Friday, May 7 at 6:00 EDT
-## [A&M-Corpus Christi vs #8 Baylor](https://www.ncaa.com/game/5833654) 
+# [A&M-Corpus Christi vs #8 Baylor](https://www.ncaa.com/game/5833654) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../">Baylor</a></h3>  
+<h2>#1 <a href="#">Baylor</a></h2>  
 ITA: 8 (52.73)<br>  
 Slam: 7 (92.44)<br>  
 TRN: 4 (89.86)<br>  
@@ -18,7 +18,7 @@ Coaches Poll: 8<br>
 
 </td><td>  
 
-<h3>#4 <a href="../">A&M-Corpus Christi</a></h3>  
+<h2>#4 <a href="#">A&M-Corpus Christi</a></h2>  
 ITA: 56 (3.61)<br>  
 Slam: 55 (78.55)<br>  
 TRN: 55 (67.73)<br>  
@@ -29,9 +29,9 @@ UTR: 52 (54.53)<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***BAY*** - #7 Baylor (99%) def. #55 A&M-Corpus Christi (1%)  
@@ -43,25 +43,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***BAY*** - #8 Baylor def. A&M-Corpus Christi  
 - Seeding: ***BAY*** - #1 Baylor def. #4 A&M-Corpus Christi  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Melany Krywoj (BAY) - 11-6 at #1, 11-6 in duals, 19-10 overall  
-   Mariya Shumeika (TAMCC) - 7-3 at #1, 19-3 in duals, 19-3 overall
-2. Jessica Hinojosa (BAY) - 7-6 at #2, 12-10 in duals, 18-15 overall  
-   Camille Townsend (TAMCC) - 6-3 at #2, 14-6 in duals, 14-6 overall
-3. Alicia Herrero (BAY) - 4-4 at #3, 13-8 in duals, 20-13 overall  
-   Emma Honore (TAMCC) - 16-4 at #3, 16-6 in duals, 15-6 overall
-4. Angie Shakhraichuck (BAY) - 6-4 at #4, 17-5 in duals, 24-10 overall  
-   Emma Aucagne (TAMCC) - 20-1 at #4, 22-1 in duals, 22-1 overall
-5. Kristina Sorokolet (BAY) - 4-1 at #5, 11-3 in duals, 18-5 overall  
-   Leopoldine Boisseau (TAMCC) - 14-3 at #5, 17-3 in duals, 17-3 overall
-6. Paula Baranano (BAY) - 5-2 at #6, 12-3 in duals, 12-3 overall  
-   Victoire Delattre (TAMCC) - 14-2 at #6, 17-2 in duals, 17-2 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Melany Krywoj (BAY) - 11-6 at #1, 11-6 in duals, 19-10 overall<br>  
+Mariya Shumeika (TAMCC) - 7-3 at #1, 19-3 in duals, 19-3 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Jessica Hinojosa (BAY) - 7-6 at #2, 12-10 in duals, 18-15 overall<br>  
+Camille Townsend (TAMCC) - 6-3 at #2, 14-6 in duals, 14-6 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Alicia Herrero (BAY) - 4-4 at #3, 13-8 in duals, 20-13 overall<br>  
+Emma Honore (TAMCC) - 16-4 at #3, 16-6 in duals, 15-6 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Angie Shakhraichuck (BAY) - 6-4 at #4, 17-5 in duals, 24-10 overall<br>  
+Emma Aucagne (TAMCC) - 20-1 at #4, 22-1 in duals, 22-1 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Kristina Sorokolet (BAY) - 4-1 at #5, 11-3 in duals, 18-5 overall<br>  
+Leopoldine Boisseau (TAMCC) - 14-3 at #5, 17-3 in duals, 17-3 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Paula Baranano (BAY) - 5-2 at #6, 12-3 in duals, 12-3 overall<br>  
+Victoire Delattre (TAMCC) - 14-2 at #6, 17-2 in duals, 17-2 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Shakhraichuk/Krywoj (BAY) - 9-1 at #1, 9-1 in duals, 9-1 overall  
    Shumeika/Townsend (TAMCC) - 19-5 at #1, 19-5 in duals, 19-5 overall
 2. Hinojosa/Sorokolet (BAY) - 1-4 at #2, 2-6 in duals, 2-6 overall  

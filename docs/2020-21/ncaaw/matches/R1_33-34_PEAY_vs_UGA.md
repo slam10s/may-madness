@@ -1,12 +1,12 @@
 First Round  
 Friday, May 7 at 1:00 EDT
-## [Austin Peay vs #3 Georgia](https://www.ncaa.com/game/5833663) 
+# [Austin Peay vs #3 Georgia](https://www.ncaa.com/game/5833663) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></a></td><td><a href="../"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" /></a></td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h3>#1 <a href="../">Georgia</a></h3>  
+<h2>#1 <a href="#">Georgia</a></h2>  
 ITA: 3 (74.01)<br>  
 Slam: 3 (97.81)<br>  
 TRN: 3 (94.01)<br>  
@@ -18,7 +18,7 @@ Coaches Poll: 3<br>
 
 </td><td>  
 
-<h3>#4 <a href="../">Austin Peay</a></h3>  
+<h2>#4 <a href="#">Austin Peay</a></h2>  
 ITA: 57 (3.35)<br>  
 Slam: 56 (77.22)<br>  
 TRN: 56 (67.26)<br>  
@@ -29,9 +29,9 @@ UTR: 55 (52.40)<br>
 </td></tr></table>  
 
 
-Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md)  
 
-### Predictions  
+## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
@@ -43,25 +43,54 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UGA*** - #3 Georgia def. Austin Peay  
 - Seeding: ***UGA*** - #1 Georgia def. #4 Austin Peay  
 
-### Individual Matchups  
+## Individual Matchups  
 
 This assumes the top players and doubles teams listed are starting.  
 
-#### Singles:  
-1. Katarina Jokic (UGA) - 15-0 at #1, 15-0 in duals, 24-1 overall  
-   Fabienne Schmidt (PEAY) - 10-5 at #1, 10-5 in duals, 10-5 overall
-2. Lea Ma (UGA) - 13-3 at #2, 13-3 in duals, 14-4 overall  
-   Danielle Morris (PEAY) - 9-5 at #2, 9-5 in duals, 9-5 overall
-3. Meg Kowalski (UGA) - 12-1 at #3, 12-1 in duals, 22-1 overall  
-   Jana Leder (PEAY) - 12-2 at #3, 12-2 in duals, 12-2 overall
-4. Morgan Coppoc (UGA) - 15-2 at #4, 15-2 in duals, 23-5 overall  
-   Aleks Topalovic (PEAY) - 4-3 at #4, 9-5 in duals, 9-5 overall
-5. Marta Gonzalez (UGA) - 1-1 at #5, 2-1 in duals, 11-1 overall  
-   Martina Paladini-Jennings (PEAY) - 4-4 at #5, 7-7 in duals, 7-7 overall
-6. Elena Christofi (UGA) - 9-0 at #6, 10-2 in duals, 17-4 overall  
-   Honoka Nakanishi (PEAY) - 7-3 at #6, 7-3 in duals, 7-3 overall
+Click on a Singles match to show individual predections for each line.  
 
-#### Doubles:  
+### Singles:  
+
+<ol>
+<li><details><summary markdown="span">
+Katarina Jokic (UGA) - 15-0 at #1, 15-0 in duals, 24-1 overall<br>  
+Fabienne Schmidt (PEAY) - 10-5 at #1, 10-5 in duals, 10-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Lea Ma (UGA) - 13-3 at #2, 13-3 in duals, 14-4 overall<br>  
+Danielle Morris (PEAY) - 9-5 at #2, 9-5 in duals, 9-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Meg Kowalski (UGA) - 12-1 at #3, 12-1 in duals, 22-1 overall<br>  
+Jana Leder (PEAY) - 12-2 at #3, 12-2 in duals, 12-2 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Morgan Coppoc (UGA) - 15-2 at #4, 15-2 in duals, 23-5 overall<br>  
+Aleks Topalovic (PEAY) - 4-3 at #4, 9-5 in duals, 9-5 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Marta Gonzalez (UGA) - 1-1 at #5, 2-1 in duals, 11-1 overall<br>  
+Martina Paladini-Jennings (PEAY) - 4-4 at #5, 7-7 in duals, 7-7 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+<li><details><summary markdown="span">
+Elena Christofi (UGA) - 9-0 at #6, 10-2 in duals, 17-4 overall<br>  
+Honoka Nakanishi (PEAY) - 7-3 at #6, 7-3 in duals, 7-3 overall
+</summary><h4>Predictions</h4><ul>
+<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
+</ul></details></li>
+</ol>
+
+### Doubles:  
 1. Jokic/Arseneault (UGA) - 11-4 at #1, 11-4 in duals, 14-6 overall  
    Schmidt/Morris (PEAY) - 12-2 at #1, 12-2 in duals, 12-2 overall
 2. Christofi/Coppoc (UGA) - 12-2 at #2, 12-2 in duals, 18-3 overall  
