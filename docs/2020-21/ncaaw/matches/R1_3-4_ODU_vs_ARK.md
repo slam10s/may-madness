@@ -3,7 +3,9 @@ Friday, May 7 at 10:00 EDT
 ## [Old Dominion vs Arkansas](https://www.ncaa.com/game/5833648) 
 
 <table><tr><td>  
+
 ### #3 Arkansas  
+
 At-Large Bid  
 - ITA: 26.025 (32)  
 - Slam: 87.394 (38)  
@@ -11,8 +13,11 @@ At-Large Bid
 - Massey: 6.74 (41)  
 - UTR: 59.65 (38)  
 - Coached Poll: 33  
+
 </td><td>  
+
 ### #2 Old Dominion  
+
 Automatic Qualifier  
 - ITA: 28 (30)  
 - Slam: 89.207 (28)  
@@ -21,4 +26,5 @@ Automatic Qualifier
 - UTR: 59.77 (37)  
 - USTA Poll: RV  
 - Coached Poll: 32  
+
 </td></tr></table>  

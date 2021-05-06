@@ -3,7 +3,9 @@ Friday, May 7 at 3:00 EDT
 ## [VCU vs #6 NC State](https://www.ncaa.com/game/5833670) 
 
 <table><tr><td>  
+
 ### #1 NC State  
+
 Regional Host  
 - ITA: 55.66 (6)  
 - Slam: 91.646 (11)  
@@ -12,12 +14,16 @@ Regional Host
 - UTR: 62.99 (9)  
 - USTA Poll: 11  
 - Coached Poll: 6  
+
 </td><td>  
+
 ### #4 VCU  
+
 Automatic Qualifier  
 - ITA: 6.76 (49)  
 - Slam: 82.185 (48)  
 - TRN: 73.529 (48)  
 - Massey: 6.03 (48)  
 - UTR: 55.75 (48)  
+
 </td></tr></table>  

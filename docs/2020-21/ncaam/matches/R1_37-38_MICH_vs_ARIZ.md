@@ -3,7 +3,9 @@ Friday, May 7 at 10:00 EDT
 ## [Michigan vs Arizona](https://www.ncaa.com/game/5833388) 
 
 <table><tr><td>  
+
 ### #2 Arizona  
+
 At-Large Bid  
 - ITA: 38.972 (17)  
 - Slam: 94.263 (21)  
@@ -12,8 +14,11 @@ At-Large Bid
 - UTR: 78.35 (21)  
 - USTA Poll: 18  
 - Coached Poll: 19  
+
 </td><td>  
+
 ### #3 Michigan  
+
 At-Large Bid  
 - ITA: 15.168 (46)  
 - Slam: 96.424 (13)  
@@ -22,4 +27,5 @@ At-Large Bid
 - UTR: 78.65 (18)  
 - USTA Poll: T10  
 - Coached Poll: 23  
+
 </td></tr></table>  

@@ -3,7 +3,9 @@ Friday, May 7 at 2:00 EDT
 ## [Western Mich. vs Notre Dame](https://www.ncaa.com/game/5833372) 
 
 <table><tr><td>  
+
 ### #2 Notre Dame  
+
 At-Large Bid  
 - ITA: 25.217 (34)  
 - Slam: 91.964 (40)  
@@ -11,8 +13,11 @@ At-Large Bid
 - Massey: 7.36 (36)  
 - UTR: 76.38 (38)  
 - Coached Poll: 37  
+
 </td><td>  
+
 ### #3 Western Mich.  
+
 Automatic Qualifier  
 - ITA: 18.885 (41)  
 - Slam: 89.827 (47)  
@@ -21,4 +26,5 @@ Automatic Qualifier
 - UTR: 72.95 (53)  
 - USTA Poll: RV  
 - Coached Poll: 48  
+
 </td></tr></table>  

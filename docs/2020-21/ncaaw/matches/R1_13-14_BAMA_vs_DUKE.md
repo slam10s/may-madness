@@ -3,7 +3,9 @@ Friday, May 7 at 3:00 EDT
 ## [Alabama vs Duke](https://www.ncaa.com/game/5833653) 
 
 <table><tr><td>  
+
 ### #2 Duke  
+
 At-Large Bid  
 - ITA: 43.032 (17)  
 - Slam: 90.907 (14)  
@@ -12,8 +14,11 @@ At-Large Bid
 - UTR: 62.45 (12)  
 - USTA Poll: 14  
 - Coached Poll: 20  
+
 </td><td>  
+
 ### #3 Alabama  
+
 At-Large Bid  
 - ITA: 16.54 (42)  
 - Slam: 86.227 (44)  
@@ -21,4 +26,5 @@ At-Large Bid
 - Massey: 6.49 (44)  
 - UTR: 59.05 (40)  
 - Coached Poll: 43  
+
 </td></tr></table>  

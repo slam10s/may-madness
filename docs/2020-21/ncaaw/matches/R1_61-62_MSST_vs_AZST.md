@@ -3,7 +3,9 @@ Friday, May 7 at 1:00 EDT
 ## [Mississippi St. vs Arizona St.](https://www.ncaa.com/game/5833677) 
 
 <table><tr><td>  
+
 ### #2 Arizona St.  
+
 At-Large Bid  
 - ITA: 26.088 (31)  
 - Slam: 88.196 (31)  
@@ -12,8 +14,11 @@ At-Large Bid
 - UTR: 61.59 (23)  
 - USTA Poll: RV  
 - Coached Poll: 30  
+
 </td><td>  
+
 ### #3 Mississippi St.  
+
 At-Large Bid  
 - ITA: 19.836 (38)  
 - Slam: 86.6 (42)  
@@ -21,4 +26,5 @@ At-Large Bid
 - Massey: 6.49 (44)  
 - UTR: 59.84 (36)  
 - Coached Poll: 38  
+
 </td></tr></table>  

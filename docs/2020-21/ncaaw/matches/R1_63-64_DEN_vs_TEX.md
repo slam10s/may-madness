@@ -3,7 +3,9 @@ Friday, May 7 at 4:00 EDT
 ## [Denver vs #2 Texas](https://www.ncaa.com/game/5833678) 
 
 <table><tr><td>  
+
 ### #1 Texas  
+
 Regional Host  
 - ITA: 79.185 (2)  
 - Slam: 98.435 (2)  
@@ -12,8 +14,11 @@ Regional Host
 - UTR: 65.59 (1)  
 - USTA Poll: 2  
 - Coached Poll: 2  
+
 </td><td>  
+
 ### #4 Denver  
+
 Automatic Qualifier  
 - ITA: 11.657 (45)  
 - Slam: 84.922 (45)  
@@ -21,4 +26,5 @@ Automatic Qualifier
 - Massey: 6.53 (43)  
 - UTR: 58.03 (45)  
 - Coached Poll: 49  
+
 </td></tr></table>  

@@ -3,7 +3,9 @@ Saturday, May 8 at 1:00 EDT
 ## [Alabama A&M vs #3 Tennessee](https://www.ncaa.com/game/5833386) 
 
 <table><tr><td>  
+
 ### #1 Tennessee  
+
 Regional Host  
 - ITA: 74.511 (3)  
 - Slam: 99.183 (4)  
@@ -12,12 +14,16 @@ Regional Host
 - UTR: 80.17 (4)  
 - USTA Poll: 4  
 - Coached Poll: 3  
+
 </td><td>  
+
 ### #4 Alabama A&M  
+
 Automatic Qualifier  
 - ITA: 1.605 (63)  
 - Slam: 76.008 (64)  
 - TRN: 72.428 (64)  
 - Massey: 3.71 (65)  
 - UTR: 63.25 (65)  
+
 </td></tr></table>  
