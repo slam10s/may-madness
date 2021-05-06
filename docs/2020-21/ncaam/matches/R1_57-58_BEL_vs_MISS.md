@@ -3,7 +3,7 @@ Saturday, May 8 at 4:00 EDT
 ## [Belmont vs #15 Ole Miss](https://www.ncaa.com/game/5833398) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td>[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" />](../index.md)</td><td>[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png" width="70" height="70" />](../index.md)</td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h3>#1 <a href="../index.md">Ole Miss</a></h3>  

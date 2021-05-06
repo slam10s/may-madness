@@ -3,7 +3,7 @@ Friday, May 7 at 4:00 EDT
 ## [San Diego vs Texas Tech](https://www.ncaa.com/game/5833661) 
 
 <table>  
-<tr style="background-color: #d9d9d9 !important"><td>[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" />](../index.md)</td><td>[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png" width="70" height="70" />](../index.md)</td></tr>
+<tr style="background-color: #d9d9d9 !important"><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a></td><td><a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h3>#2 <a href="../index.md">Texas Tech</a></h3>  
