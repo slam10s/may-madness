@@ -2,14 +2,14 @@ First Round
 Saturday, May 8 at 12:00 EDT
 ## Oregon vs Alabama
 
-> ### #2 Alabama***  
-At-Large Bid  
-- ITA: 30.96 (26)  
-- SLM: 93.057 (28)  
-- TRN: 91.267 (27)  
-- MAS: 7.31 (38)  
-- UTR: 77.06 (30)  
-- Coach: 25  
+> ### #2 Alabama  
+> At-Large Bid  
+> - ITA: 30.96 (26)  
+> - SLM: 93.057 (28)  
+> - TRN: 91.267 (27)  
+> - MAS: 7.31 (38)  
+> - UTR: 77.06 (30)  
+> - Coach: 25  
 
 > ### #3 Oregon  
 > At-Large Bid  

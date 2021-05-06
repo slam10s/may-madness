@@ -2,15 +2,15 @@ First Round
 Friday, May 7 at 2:00 EDT
 ## Ga. Southern vs #13 Georgia Tech
 
-> ### #1 Georgia Tech***  
-Regional Host  
-- ITA: 48.316 (13)  
-- SLM: 90.34 (20)  
-- TRN: 83.313 (16)  
-- MAS: 7.83 (18)  
-- UTR: 61.54 (24)  
-- USTA: 15  
-- Coach: T11  
+> ### #1 Georgia Tech  
+> Regional Host  
+> - ITA: 48.316 (13)  
+> - SLM: 90.34 (20)  
+> - TRN: 83.313 (16)  
+> - MAS: 7.83 (18)  
+> - UTR: 61.54 (24)  
+> - USTA: 15  
+> - Coach: T11  
 
 > ### #4 Ga. Southern  
 > Automatic Qualifier  

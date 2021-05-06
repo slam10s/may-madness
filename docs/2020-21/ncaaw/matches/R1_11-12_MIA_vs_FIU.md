@@ -2,15 +2,15 @@ First Round
 Friday, May 7 at 12:00 EDT
 ## Miami (FL) vs FIU
 
-> ### #3 FIU***  
-At-Large Bid  
-- ITA: 18.116 (41)  
-- SLM: 88.346 (30)  
-- TRN: 81.345 (29)  
-- MAS: 6.98 (37)  
-- UTR: 59 (42)  
-- USTA: RV  
-- Coach: 50  
+> ### #3 FIU  
+> At-Large Bid  
+> - ITA: 18.116 (41)  
+> - SLM: 88.346 (30)  
+> - TRN: 81.345 (29)  
+> - MAS: 6.98 (37)  
+> - UTR: 59 (42)  
+> - USTA: RV  
+> - Coach: 50  
 
 > ### #2 Miami (FL)  
 > At-Large Bid  

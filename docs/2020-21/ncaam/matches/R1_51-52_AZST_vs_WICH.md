@@ -2,14 +2,14 @@ First Round
 Saturday, May 8 at 12:00 EDT
 ## Arizona St. vs Wichita St.
 
-> ### #3 Wichita St.***  
-At-Large Bid  
-- ITA: 25.336 (33)  
-- SLM: 92.047 (39)  
-- TRN: 90.31 (37)  
-- MAS: 7.28 (41)  
-- UTR: 75.93 (39)  
-- Coach: 32  
+> ### #3 Wichita St.  
+> At-Large Bid  
+> - ITA: 25.336 (33)  
+> - SLM: 92.047 (39)  
+> - TRN: 90.31 (37)  
+> - MAS: 7.28 (41)  
+> - UTR: 75.93 (39)  
+> - Coach: 32  
 
 > ### #2 Arizona St.  
 > At-Large Bid  

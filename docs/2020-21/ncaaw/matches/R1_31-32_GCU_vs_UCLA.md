@@ -2,15 +2,15 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## Grand Canyon vs #4 UCLA
 
-> ### #1 UCLA***  
-Regional Host  
-- ITA: 61.844 (4)  
-- SLM: 92.977 (4)  
-- TRN: 85.423 (7)  
-- MAS: 8.85 (4)  
-- UTR: 64.4 (5)  
-- USTA: 4  
-- Coach: 5  
+> ### #1 UCLA  
+> Regional Host  
+> - ITA: 61.844 (4)  
+> - SLM: 92.977 (4)  
+> - TRN: 85.423 (7)  
+> - MAS: 8.85 (4)  
+> - UTR: 64.4 (5)  
+> - USTA: 4  
+> - Coach: 5  
 
 > ### #4 Grand Canyon  
 > Automatic Qualifier  

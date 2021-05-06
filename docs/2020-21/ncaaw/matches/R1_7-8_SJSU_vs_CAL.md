@@ -2,15 +2,15 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## San Jose St. vs #16 California
 
-> ### #1 California***  
-Regional Host  
-- ITA: 45.98 (16)  
-- SLM: 90.466 (17)  
-- TRN: 82.988 (17)  
-- MAS: 8.01 (14)  
-- UTR: 62.15 (15)  
-- USTA: 13  
-- Coach: 17  
+> ### #1 California  
+> Regional Host  
+> - ITA: 45.98 (16)  
+> - SLM: 90.466 (17)  
+> - TRN: 82.988 (17)  
+> - MAS: 8.01 (14)  
+> - UTR: 62.15 (15)  
+> - USTA: 13  
+> - Coach: 17  
 
 > ### #4 San Jose St.  
 > Automatic Qualifier  

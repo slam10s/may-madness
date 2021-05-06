@@ -2,14 +2,14 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## Tulane vs Middle Tenn.
 
-> ### #3 Middle Tenn.***  
-Automatic Qualifier  
-- ITA: 18.524 (42)  
-- SLM: 91.28 (45)  
-- TRN: 89.051 (45)  
-- MAS: 7.21 (42)  
-- UTR: 75.54 (41)  
-- Coach: 42  
+> ### #3 Middle Tenn.  
+> Automatic Qualifier  
+> - ITA: 18.524 (42)  
+> - SLM: 91.28 (45)  
+> - TRN: 89.051 (45)  
+> - MAS: 7.21 (42)  
+> - UTR: 75.54 (41)  
+> - Coach: 42  
 
 > ### #2 Tulane  
 > At-Large Bid  

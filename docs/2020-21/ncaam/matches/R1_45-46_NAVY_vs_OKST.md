@@ -2,15 +2,15 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## Navy vs Oklahoma St.
 
-> ### #2 Oklahoma St.***  
-At-Large Bid  
-- ITA: 35.308 (19)  
-- SLM: 93.677 (24)  
-- TRN: 91.927 (23)  
-- MAS: 7.54 (29)  
-- UTR: 78.43 (19)  
-- USTA: RV  
-- Coach: 21  
+> ### #2 Oklahoma St.  
+> At-Large Bid  
+> - ITA: 35.308 (19)  
+> - SLM: 93.677 (24)  
+> - TRN: 91.927 (23)  
+> - MAS: 7.54 (29)  
+> - UTR: 78.43 (19)  
+> - USTA: RV  
+> - Coach: 21  
 
 > ### #3 Navy  
 > Automatic Qualifier  

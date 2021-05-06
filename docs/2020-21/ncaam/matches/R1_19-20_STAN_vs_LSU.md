@@ -2,14 +2,14 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## Stanford vs LSU
 
-> ### #3 LSU***  
-At-Large Bid  
-- ITA: 19.168 (40)  
-- SLM: 92.165 (38)  
-- TRN: 90.144 (39)  
-- MAS: 6.78 (47)  
-- UTR: 75.44 (42)  
-- Coach: 39  
+> ### #3 LSU  
+> At-Large Bid  
+> - ITA: 19.168 (40)  
+> - SLM: 92.165 (38)  
+> - TRN: 90.144 (39)  
+> - MAS: 6.78 (47)  
+> - UTR: 75.44 (42)  
+> - Coach: 39  
 
 > ### #2 Stanford  
 > At-Large Bid  

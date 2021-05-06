@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## San Diego vs Texas Tech
 
-> ***#2 Texas Tech***  
+> ### #2 Texas Tech  
 > At-Large Bid  
 > - ITA: 28.067 (29)  
 > - SLM: 87.918 (34)  
@@ -11,7 +11,7 @@ Friday, May 7 at 4:00 EDT
 > - UTR: 61.44 (27)  
 > - Coach: 29  
 
-> #### #3 San Diego  
+> ### #3 San Diego  
 > At-Large Bid  
 > - ITA: 19.118 (39)  
 > - SLM: 87.644 (36)  

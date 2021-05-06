@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 5:00 EDT
 ## Northern Ariz. vs #5 Pepperdine
 
-> ***#1 Pepperdine***  
+> ### #1 Pepperdine  
 > Regional Host  
 > - ITA: 60.711 (5)  
 > - SLM: 92.643 (6)  
@@ -12,7 +12,7 @@ Friday, May 7 at 5:00 EDT
 > - USTA: 5  
 > - Coach: 4  
 
-> #### #4 Northern Ariz.  
+> ### #4 Northern Ariz.  
 > Automatic Qualifier  
 > - ITA: 3.85 (54)  
 > - SLM: 79.815 (51)  

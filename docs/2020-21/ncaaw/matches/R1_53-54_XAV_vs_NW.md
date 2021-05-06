@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## Xavier vs Northwestern
 
-> ***#2 Northwestern***  
+> ### #2 Northwestern  
 > At-Large Bid  
 > - ITA: 39.922 (21)  
 > - SLM: 90.461 (18)  
@@ -12,7 +12,7 @@ Friday, May 7 at 4:00 EDT
 > - USTA: 16  
 > - Coach: 19  
 
-> #### #3 Xavier  
+> ### #3 Xavier  
 > Automatic Qualifier  
 > - ITA: 3.748 (55)  
 > - SLM: 80.67 (49)  
