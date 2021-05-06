@@ -4,6 +4,8 @@ Friday, May 7 at 11:00 EDT
 
 <table><tr><td>  
 
+[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png)  
+
 ### #2 Michigan  
 
 At-Large Bid  
@@ -17,6 +19,8 @@ At-Large Bid
 
 </td><td>  
 
+[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/r/rice.70.png)  
+
 ### #3 Rice  
 
 At-Large Bid  
@@ -29,7 +33,7 @@ At-Large Bid
 
 </td></tr></table>  
 
- ### Predictions  
+### Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***MICH*** - #8 Michigan (94%) def. #40 Rice (6%)  
@@ -41,26 +45,26 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***MICH*** - #18 Michigan def. #39 Rice  
 - Seeding: ***MICH*** - #2 Michigan def. #3 Rice  
 
- ### Lineups  
+### Lineups  
 
- #### Singles:  
+#### Singles:  
 1. Kari Miller (MICH) - 11-3 at #1, 12-4 in duals, 15-4 overall  
-  Michaela Haet (RICE) - 4-3 at #1, 8-5 in duals, 9-11 overall
+   Michaela Haet (RICE) - 4-3 at #1, 8-5 in duals, 9-11 overall
 2. Chiara Lommer (MICH) - 10-3 at #2, 12-4 in duals, 14-5 overall  
-  Victoria Smirnova (RICE) - 1-0 at #2, 4-4 in duals, 5-4 overall
+   Victoria Smirnova (RICE) - 1-0 at #2, 4-4 in duals, 5-4 overall
 3. Andrea Cerdan (MICH) - 7-4 at #3, 11-6 in duals, 13-7 overall  
-  Federica Trevisan (RICE) - 12-1 at #3, 14-2 in duals, 17-6 overall
+   Federica Trevisan (RICE) - 12-1 at #3, 14-2 in duals, 17-6 overall
 4. Jaedan Brown (MICH) - 7-0 at #4, 15-2 in duals, 17-3 overall  
-  Linda Huang (RICE) - 0-0 at #4, 4-2 in duals, 7-5 overall
+   Linda Huang (RICE) - 0-0 at #4, 4-2 in duals, 7-5 overall
 5. Alyvia Jones (MICH) - 3-0 at #5, 7-2 in duals, 7-5 overall  
-  Anastasia Smirnova (RICE) - 3-2 at #5, 4-3 in duals, 4-3 overall
+   Anastasia Smirnova (RICE) - 3-2 at #5, 4-3 in duals, 4-3 overall
 6. Bella Lorenzini (MICH) - 2-0 at #6, 2-0 in duals, 4-0 overall  
-  Anna Bowtell (RICE) - 0-0 at #6, 11-5 in duals, 14-8 overall
+   Anna Bowtell (RICE) - 0-0 at #6, 11-5 in duals, 14-8 overall
 
- #### Doubles:  
+#### Doubles:  
 1. Jones/Brown (MICH) - 2-0 at #1, 2-0 in duals, 2-0 overall  
-  Budin/Jardi (RICE) - 13-5 at #1, 13-5 in duals, 17-9 overall
+   Budin/Jardi (RICE) - 13-5 at #1, 13-5 in duals, 17-9 overall
 2. Miller/Lommer (MICH) - 2-0 at #2, 2-0 in duals, 2-0 overall  
-  Trevisan/Haet (RICE) - 6-5 at #2, 8-5 in duals, 9-6 overall
+   Trevisan/Haet (RICE) - 6-5 at #2, 8-5 in duals, 9-6 overall
 3. Lorenzini/Cerdan (MICH) - 0-0 at #3, 0-0 in duals, 0-0 overall  
-  Bowtell/Smirnova (RICE) - 8-5 at #3, 9-6 in duals, 11-9 overall
+   Bowtell/Smirnova (RICE) - 8-5 at #3, 9-6 in duals, 11-9 overall

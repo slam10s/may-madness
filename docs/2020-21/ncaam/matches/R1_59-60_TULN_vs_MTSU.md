@@ -4,6 +4,8 @@ Saturday, May 8 at 1:00 EDT
 
 <table><tr><td>  
 
+[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png)  
+
 ### #3 Middle Tenn.  
 
 Automatic Qualifier  
@@ -15,6 +17,8 @@ Automatic Qualifier
 - Coaches Poll: 42  
 
 </td><td>  
+
+[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png)  
 
 ### #2 Tulane  
 
@@ -28,7 +32,7 @@ At-Large Bid
 
 </td></tr></table>  
 
- ### Predictions  
+### Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TULN*** - #26 Tulane (79%) def. #45 Middle Tenn. (21%)  
@@ -39,26 +43,26 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***TULN*** - #24 Tulane def. #42 Middle Tenn.  
 - Seeding: ***TULN*** - #2 Tulane def. #3 Middle Tenn.  
 
- ### Lineups  
+### Lineups  
 
- #### Singles:  
+#### Singles:  
 1. Francisco Rocha (MTSU) - 5-3 at #1, 13-5 in duals, 13-5 overall  
-  Hamish Stewart (TULN) - 12-7 at #1, 12-7 in duals, 12-7 overall
+   Hamish Stewart (TULN) - 12-7 at #1, 12-7 in duals, 12-7 overall
 2. Stijn Slump (MTSU) - 9-2 at #2, 16-5 in duals, 16-5 overall  
-  Ewan Moore (TULN) - 9-7 at #2, 10-7 in duals, 10-7 overall
+   Ewan Moore (TULN) - 9-7 at #2, 10-7 in duals, 10-7 overall
 3. Tom Moonen (MTSU) - 2-1 at #3, 8-11 in duals, 8-11 overall  
-  Luis Erlenbusch (TULN) - 13-5 at #3, 14-5 in duals, 14-5 overall
+   Luis Erlenbusch (TULN) - 13-5 at #3, 14-5 in duals, 14-5 overall
 4. Christopher Edge (MTSU) - 15-5 at #4, 15-5 in duals, 15-5 overall  
-  Billy Suarez (TULN) - 8-5 at #4, 9-6 in duals, 9-6 overall
+   Billy Suarez (TULN) - 8-5 at #4, 9-6 in duals, 9-6 overall
 5. Pavel Motl (MTSU) - 6-3 at #5, 9-6 in duals, 9-6 overall  
-  Rafael de Alba (TULN) - 3-2 at #5, 12-4 in duals, 12-4 overall
+   Rafael de Alba (TULN) - 3-2 at #5, 12-4 in duals, 12-4 overall
 6. Oskar Michalek (MTSU) - 1-0 at #6, 5-1 in duals, 5-1 overall  
-  Akos Kotorman (TULN) - 1-2 at #6, 2-3 in duals, 2-3 overall
+   Akos Kotorman (TULN) - 1-2 at #6, 2-3 in duals, 2-3 overall
 
- #### Doubles:  
+#### Doubles:  
 1. Motl/Slump (MTSU) - 9-9 at #1, 9-9 in duals, 9-9 overall  
-  Stewart/Moore (TULN) - 12-6 at #1, 12-6 in duals, 12-6 overall
+   Stewart/Moore (TULN) - 12-6 at #1, 12-6 in duals, 12-6 overall
 2. Moonen/Edge (MTSU) - 15-6 at #2, 15-6 in duals, 15-6 overall  
-  Kotorman/Suarez (TULN) - 12-6 at #2, 12-6 in duals, 12-6 overall
+   Kotorman/Suarez (TULN) - 12-6 at #2, 12-6 in duals, 12-6 overall
 3. Rocha/Rauch (MTSU) - 9-9 at #3, 11-9 in duals, 11-9 overall  
-  Erlenbusch/Kuenkler (TULN) - 10-4 at #3, 10-4 in duals, 10-4 overall
+   Erlenbusch/Kuenkler (TULN) - 10-4 at #3, 10-4 in duals, 10-4 overall

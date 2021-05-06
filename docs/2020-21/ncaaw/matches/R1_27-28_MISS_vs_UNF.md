@@ -4,6 +4,8 @@ Friday, May 7 at 11:00 EDT
 
 <table><tr><td>  
 
+[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-florida.70.png)  
+
 ### #3 North Florida  
 
 Automatic Qualifier  
@@ -14,6 +16,8 @@ Automatic Qualifier
 - UTR: 44 (58.45)  
 
 </td><td>  
+
+[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png)  
 
 ### #2 Ole Miss  
 
@@ -28,7 +32,7 @@ At-Large Bid
 
 </td></tr></table>  
 
- ### Predictions  
+### Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***MISS*** - #26 Ole Miss (94%) def. #46 North Florida (6%)  
@@ -39,26 +43,26 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***MISS*** - #25 Ole Miss def. North Florida  
 - Seeding: ***MISS*** - #2 Ole Miss def. #3 North Florida  
 
- ### Lineups  
+### Lineups  
 
- #### Singles:  
+#### Singles:  
 1. Lucia Montano (UNF) - 14-8 at #1, 14-8 in duals, 14-8 overall  
-  Sabina Machalova (MISS) - 5-8 at #1, 8-8 in duals, 15-8 overall
+   Sabina Machalova (MISS) - 5-8 at #1, 8-8 in duals, 15-8 overall
 2. Catherine Gulihur (UNF) - 17-3 at #2, 18-3 in duals, 18-3 overall  
-  Tiphanie Fiquet (MISS) - 8-4 at #2, 9-5 in duals, 14-8 overall
+   Tiphanie Fiquet (MISS) - 8-4 at #2, 9-5 in duals, 14-8 overall
 3. Constanza Gorches (UNF) - 4-3 at #3, 13-9 in duals, 13-9 overall  
-  Tereza Janatova (MISS) - 9-3 at #3, 10-3 in duals, 11-3 overall
+   Tereza Janatova (MISS) - 9-3 at #3, 10-3 in duals, 11-3 overall
 4. Summer Yardley (UNF) - 3-3 at #4, 11-9 in duals, 11-9 overall  
-  Anna Vrbenska (MISS) - 9-4 at #4, 9-4 in duals, 8-4 overall
+   Anna Vrbenska (MISS) - 9-4 at #4, 9-4 in duals, 8-4 overall
 5. Annabelle Davis (UNF) - 6-0 at #5, 10-1 in duals, 10-1 overall  
-  Reka Zadori (MISS) - 4-1 at #5, 9-3 in duals, 12-9 overall
+   Reka Zadori (MISS) - 4-1 at #5, 9-3 in duals, 12-9 overall
 6. Valentina Mariotto (UNF) - 3-1 at #6, 8-7 in duals, 8-7 overall  
-  Lillian Gabrielsen (MISS) - 2-1 at #6, 5-3 in duals, 8-8 overall
+   Lillian Gabrielsen (MISS) - 2-1 at #6, 5-3 in duals, 8-8 overall
 
- #### Doubles:  
+#### Doubles:  
 1. Montano/Gorches (UNF) - 5-1 at #1, 15-6 in duals, 15-6 overall  
-  Vrbenska/Bortles (MISS) - 2-3 at #1, 2-3 in duals, 2-3 overall
+   Vrbenska/Bortles (MISS) - 2-3 at #1, 2-3 in duals, 2-3 overall
 2. Gulihur/Mariotto (UNF) - 3-3 at #2, 3-3 in duals, 3-3 overall  
-  Machalova/Fiquet (MISS) - 2-1 at #2, 2-1 in duals, 1-1 overall
+   Machalova/Fiquet (MISS) - 2-1 at #2, 2-1 in duals, 1-1 overall
 3. Yardley/Davis (UNF) - 1-1 at #3, 1-1 in duals, 1-1 overall  
-  Janatova/Mize (MISS) - 0-2 at #3, 0-2 in duals, 0-2 overall
+   Janatova/Mize (MISS) - 0-2 at #3, 0-2 in duals, 0-2 overall

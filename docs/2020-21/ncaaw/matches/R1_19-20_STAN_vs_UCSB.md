@@ -4,6 +4,8 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
+[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png)  
+
 ### #3 UC Santa Barbara  
 
 Automatic Qualifier  
@@ -14,6 +16,8 @@ Automatic Qualifier
 - UTR: 46 (57.03)  
 
 </td><td>  
+
+[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png)  
 
 ### #2 Stanford  
 
@@ -28,7 +32,7 @@ At-Large Bid
 
 </td></tr></table>  
 
- ### Predictions  
+### Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***STAN*** - #23 Stanford (82%) def. #39 UC Santa Barbara (18%)  
@@ -40,26 +44,26 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***STAN*** - #26 Stanford def. UC Santa Barbara  
 - Seeding: ***STAN*** - #2 Stanford def. #3 UC Santa Barbara  
 
- ### Lineups  
+### Lineups  
 
- #### Singles:  
+#### Singles:  
 1. Elizaveta Volodko (UCSB) - 9-4 at #1, 9-4 in duals, 9-4 overall  
-  Michaela Gordon (STAN) - 9-6 at #1, 9-6 in duals, 9-6 overall
+   Michaela Gordon (STAN) - 9-6 at #1, 9-6 in duals, 9-6 overall
 2. Camille Kiss (UCSB) - 10-4 at #2, 10-4 in duals, 10-4 overall  
-  Angelica Blake (STAN) - 2-1 at #2, 7-2 in duals, 7-2 overall
+   Angelica Blake (STAN) - 2-1 at #2, 7-2 in duals, 7-2 overall
 3. Shakhnoza Khatamova (UCSB) - 15-2 at #3, 15-2 in duals, 15-2 overall  
-  Emily Arbuthnott (STAN) - 1-3 at #3, 8-7 in duals, 8-7 overall
+   Emily Arbuthnott (STAN) - 1-3 at #3, 8-7 in duals, 8-7 overall
 4. Lise Sentenac (UCSB) - 6-4 at #4, 6-7 in duals, 6-7 overall  
-  Ana Geller (STAN) - 1-3 at #4, 7-3 in duals, 7-3 overall
+   Ana Geller (STAN) - 1-3 at #4, 7-3 in duals, 7-3 overall
 5. Kira Reuter (UCSB) - 5-5 at #5, 5-7 in duals, 5-7 overall  
-  Sara Choy (STAN) - 3-2 at #5, 13-4 in duals, 13-4 overall
+   Sara Choy (STAN) - 3-2 at #5, 13-4 in duals, 13-4 overall
 6. Marta Gonzalez Ballbe (UCSB) - 6-3 at #6, 7-4 in duals, 7-4 overall  
-  Emma Higuchi (STAN) - 10-3 at #6, 14-3 in duals, 14-3 overall
+   Emma Higuchi (STAN) - 10-3 at #6, 14-3 in duals, 14-3 overall
 
- #### Doubles:  
+#### Doubles:  
 1. Volodko/Sentenac (UCSB) - 6-6 at #1, 6-6 in duals, 6-6 overall  
-  Gordon/Madurawe (STAN) - 9-5 at #1, 9-5 in duals, 9-5 overall
+   Gordon/Madurawe (STAN) - 9-5 at #1, 9-5 in duals, 9-5 overall
 2. Reuter/Khatamova (UCSB) - 8-3 at #2, 8-3 in duals, 8-3 overall  
-  Arbuthnott/Blake (STAN) - 6-2 at #2, 6-2 in duals, 6-2 overall
+   Arbuthnott/Blake (STAN) - 6-2 at #2, 6-2 in duals, 6-2 overall
 3. Kiss/Ballbe (UCSB) - 10-2 at #3, 10-2 in duals, 10-2 overall  
-  Choy/Higuchi (STAN) - 7-2 at #3, 7-2 in duals, 7-2 overall
+   Choy/Higuchi (STAN) - 7-2 at #3, 7-2 in duals, 7-2 overall

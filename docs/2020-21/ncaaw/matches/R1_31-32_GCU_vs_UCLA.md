@@ -4,6 +4,8 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
+[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png)  
+
 ### #1 UCLA  
 
 Regional Host  
@@ -17,6 +19,8 @@ Regional Host
 
 </td><td>  
 
+[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png)  
+
 ### #4 Grand Canyon  
 
 Automatic Qualifier  
@@ -28,7 +32,7 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions  
+### Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCLA*** - #4 UCLA (99%) def. #59 Grand Canyon (1%)  
@@ -40,26 +44,26 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***UCLA*** - #5 UCLA def. Grand Canyon  
 - Seeding: ***UCLA*** - #1 UCLA def. #4 Grand Canyon  
 
- ### Lineups  
+### Lineups  
 
- #### Singles:  
+#### Singles:  
 1. Abbey Forbes (UCLA) - 17-2 at #1, 18-2 in duals, 18-2 overall  
-  Natahsa Puehse (GCU) - 14-4 at #1, 14-4 in duals, 14-4 overall
+   Natahsa Puehse (GCU) - 14-4 at #1, 14-4 in duals, 14-4 overall
 2. Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall  
-  Emilia Occhipinti (GCU) - 12-5 at #2, 12-5 in duals, 12-5 overall
+   Emilia Occhipinti (GCU) - 12-5 at #2, 12-5 in duals, 12-5 overall
 3. Elysia Bolton (UCLA) - 5-2 at #3, 9-3 in duals, 9-3 overall  
-  Jana Weiss (GCU) - 15-4 at #3, 15-4 in duals, 15-4 overall
+   Jana Weiss (GCU) - 15-4 at #3, 15-4 in duals, 15-4 overall
 4. Vivian Wolff (UCLA) - 9-4 at #4, 10-6 in duals, 10-6 overall  
-  Joely Lomas (GCU) - 9-4 at #4, 10-8 in duals, 10-8 overall
+   Joely Lomas (GCU) - 9-4 at #4, 10-8 in duals, 10-8 overall
 5. Sasha Vagramov (UCLA) - 5-3 at #5, 9-5 in duals, 9-5 overall  
-  Autum Prudhomme (GCU) - 6-4 at #5, 7-10 in duals, 7-10 overall
+   Autum Prudhomme (GCU) - 6-4 at #5, 7-10 in duals, 7-10 overall
 6. Vanessa Ong (UCLA) - 3-1 at #6, 4-1 in duals, 4-1 overall  
-  Taylor Andersen (GCU) - 9-5 at #6, 10-7 in duals, 10-7 overall
+   Taylor Andersen (GCU) - 9-5 at #6, 10-7 in duals, 10-7 overall
 
- #### Doubles:  
+#### Doubles:  
 1. Forbes/Hart (UCLA) - 9-1 at #1, 9-1 in duals, 9-1 overall  
-  Puehse/Weiss (GCU) - 5-12 at #1, 5-12 in duals, 5-12 overall
+   Puehse/Weiss (GCU) - 5-12 at #1, 5-12 in duals, 5-12 overall
 2. Wolff/Goulak (UCLA) - 16-2 at #2, 16-2 in duals, 16-2 overall  
-  Occhipinti/Prudhomme (GCU) - 15-4 at #2, 15-4 in duals, 15-4 overall
+   Occhipinti/Prudhomme (GCU) - 15-4 at #2, 15-4 in duals, 15-4 overall
 3. Bolton/Altick (UCLA) - 3-0 at #3, 3-0 in duals, 3-0 overall  
-  Lomas/Andersen (GCU) - 12-6 at #3, 12-6 in duals, 12-6 overall
+   Lomas/Andersen (GCU) - 12-6 at #3, 12-6 in duals, 12-6 overall

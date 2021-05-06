@@ -4,6 +4,8 @@ Saturday, May 8 at 1:00 EDT
 
 <table><tr><td>  
 
+[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png)  
+
 ### #1 Texas  
 
 Regional Host  
@@ -17,6 +19,8 @@ Regional Host
 
 </td><td>  
 
+[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png)  
+
 ### #4 Northern Ariz.  
 
 Automatic Qualifier  
@@ -28,7 +32,7 @@ Automatic Qualifier
 
 </td></tr></table>  
 
- ### Predictions  
+### Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TEX*** - #8 Texas (99%) def. #58 Northern Ariz. (1%)  
@@ -40,26 +44,26 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***TEX*** - #4 Texas def. Northern Ariz.  
 - Seeding: ***TEX*** - #1 Texas def. #4 Northern Ariz.  
 
- ### Lineups  
+### Lineups  
 
- #### Singles:  
+#### Singles:  
 1. Eliot Spizzirri (TEX) - 9-6 at #1, 15-8 in duals, 22-9 overall  
-  Eban Straker-Meads (NAU) - 5-4 at #1, 6-6 in duals, 6-6 overall
+   Eban Straker-Meads (NAU) - 5-4 at #1, 6-6 in duals, 6-6 overall
 2. Micah Braswell (TEX) - 9-4 at #2, 17-5 in duals, 32-6 overall  
-  Facundo Tumosa (NAU) - 3-3 at #2, 5-6 in duals, 5-6 overall
+   Facundo Tumosa (NAU) - 3-3 at #2, 5-6 in duals, 5-6 overall
 3. Siem Woldeab (TEX) - 5-1 at #3, 9-7 in duals, 14-12 overall  
-  Dominik Buzonics (NAU) - 4-3 at #3, 6-8 in duals, 6-8 overall
+   Dominik Buzonics (NAU) - 4-3 at #3, 6-8 in duals, 6-8 overall
 4. Cleeve Harper (TEX) - 14-3 at #4, 17-5 in duals, 22-9 overall  
-  Christopher Steele (NAU) - 3-0 at #4, 7-7 in duals, 7-7 overall
+   Christopher Steele (NAU) - 3-0 at #4, 7-7 in duals, 7-7 overall
 5. Chih Chi Huang (TEX) - 9-7 at #5, 11-8 in duals, 15-17 overall  
-  Maciej Ziomber (NAU) - 5-2 at #5, 11-4 in duals, 11-4 overall
+   Maciej Ziomber (NAU) - 5-2 at #5, 11-4 in duals, 11-4 overall
 6. Evin McDonald (TEX) - 6-9 at #6, 11-10 in duals, 15-16 overall  
-  Alexander Groves (NAU) - 3-0 at #6, 6-8 in duals, 6-8 overall
+   Alexander Groves (NAU) - 3-0 at #6, 6-8 in duals, 6-8 overall
 
- #### Doubles:  
+#### Doubles:  
 1. Spizzirri/Woldeab (TEX) - 12-9 at #1, 12-9 in duals, 19-9 overall  
-  Groves/Buzonics (NAU) - 3-2 at #1, 3-2 in duals, 3-2 overall
+   Groves/Buzonics (NAU) - 3-2 at #1, 3-2 in duals, 3-2 overall
 2. Harper/Huang (TEX) - 5-4 at #2, 6-4 in duals, 10-7 overall  
-  Tumosa/Straker-Meads (NAU) - 1-0 at #2, 1-0 in duals, 1-0 overall
+   Tumosa/Straker-Meads (NAU) - 1-0 at #2, 1-0 in duals, 1-0 overall
 3. Braswell/Holden (TEX) - 4-1 at #3, 4-1 in duals, 7-2 overall  
-  Steele/Ziomber (NAU) - 3-0 at #3, 3-0 in duals, 3-0 overall
+   Steele/Ziomber (NAU) - 3-0 at #3, 3-0 in duals, 3-0 overall

@@ -4,6 +4,8 @@ Friday, May 7 at 11:00 EDT
 
 <table><tr><td>  
 
+[Home](https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png)  
+
 ### #3 Ball St.  
 
 Automatic Qualifier  
@@ -14,6 +16,8 @@ Automatic Qualifier
 - UTR: 51 (54.58)  
 
 </td><td>  
+
+[Visitor](https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png)  
 
 ### #2 Vanderbilt  
 
@@ -27,7 +31,7 @@ At-Large Bid
 
 </td></tr></table>  
 
- ### Predictions  
+### Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***VANDY*** - #29 Vanderbilt (100%) def. #52 Ball St. (0%)  
@@ -38,26 +42,26 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Coaches Poll: ***VANDY*** - #28 Vanderbilt def. Ball St.  
 - Seeding: ***VANDY*** - #2 Vanderbilt def. #3 Ball St.  
 
- ### Lineups  
+### Lineups  
 
- #### Singles:  
+#### Singles:  
 1. Emma Peeler (BALL) - 10-10 at #1, 10-10 in duals, 10-10 overall  
-  Christina Rosca (VANDY) - 3-5 at #1, 13-5 in duals, 13-5 overall
+   Christina Rosca (VANDY) - 3-5 at #1, 13-5 in duals, 13-5 overall
 2. Jessica Braun (BALL) - 6-5 at #2, 13-7 in duals, 13-7 overall  
-  Emma Kurtz (VANDY) - 6-5 at #2, 8-10 in duals, 11-16 overall
+   Emma Kurtz (VANDY) - 6-5 at #2, 8-10 in duals, 11-16 overall
 3. Mariya Polishchuk (BALL) - 8-1 at #3, 14-6 in duals, 14-6 overall  
-  Anessa Lee (VANDY) - 3-1 at #3, 11-5 in duals, 16-8 overall
+   Anessa Lee (VANDY) - 3-1 at #3, 11-5 in duals, 16-8 overall
 4. Rebecca Herrington (BALL) - 7-2 at #4, 14-6 in duals, 14-6 overall  
-  Anna Ross (VANDY) - 0-1 at #4, 8-9 in duals, 8-10 overall
+   Anna Ross (VANDY) - 0-1 at #4, 8-9 in duals, 8-10 overall
 5. Amy Kaplan (BALL) - 4-2 at #5, 12-7 in duals, 12-7 overall  
-  Marcella Cruz (VANDY) - 4-2 at #5, 13-4 in duals, 16-9 overall
+   Marcella Cruz (VANDY) - 4-2 at #5, 13-4 in duals, 16-9 overall
 6. Livia Lukacs (BALL) - 6-2 at #6, 8-3 in duals, 8-3 overall  
-  Holly Staff (VANDY) - 0-0 at #6, 9-9 in duals, 14-12 overall
+   Holly Staff (VANDY) - 0-0 at #6, 9-9 in duals, 14-12 overall
 
- #### Doubles:  
+#### Doubles:  
 1. Kaplan/Peeler (BALL) - 9-3 at #1, 9-4 in duals, 9-3 overall  
-  Ross/Staff (VANDY) - 9-8 at #1, 10-8 in duals, 10-8 overall
+   Ross/Staff (VANDY) - 9-8 at #1, 10-8 in duals, 10-8 overall
 2. Braun/Polishchuk (BALL) - 0-0 at #2, 2-0 in duals, 2-0 overall  
-  Kurtz/Cruz (VANDY) - 11-6 at #2, 11-6 in duals, 11-6 overall
+   Kurtz/Cruz (VANDY) - 11-6 at #2, 11-6 in duals, 11-6 overall
 3. Sec/Lukacs (BALL) - 6-0 at #3, 11-0 in duals, 11-0 overall  
-  Rosca/Lee (VANDY) - 11-4 at #3, 12-4 in duals, 12-4 overall
+   Rosca/Lee (VANDY) - 11-4 at #3, 12-4 in duals, 12-4 overall
