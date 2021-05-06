@@ -37,6 +37,8 @@ Automatic Qualifier
 
 </td></tr></table>  
 
+Return to [Match Listing](../index.md)  
+
 ### Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
