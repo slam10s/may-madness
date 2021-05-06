@@ -4,7 +4,7 @@ Friday, May 7 at 1:00 EDT
 
 <table><tr><td>  
 
-<a href="../index.md"><img style="background-color: #000">src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a>  
+<a href="../index.md"><img style="background-color: #000" src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a>  
 
 <h3>#2 <a href="../index.md">Pepperdine</a></h3>  
 
