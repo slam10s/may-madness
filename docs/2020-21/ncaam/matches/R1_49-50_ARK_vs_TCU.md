@@ -5,18 +5,18 @@ Saturday, May 8 at 3:00 EDT
 > ### #1 TCU  
 > Regional Host  
 > - ITA: 69.22 (7)  
-> - SLM: 97.567 (9)  
+> - Slam: 97.567 (9)  
 > - TRN: 96.563 (9)  
-> - MAS: 8.76 (6)  
+> - Massey: 8.76 (6)  
 > - UTR: 79.71 (10)  
-> - USTA: 9  
-> - Coach: 7  
+> - USTA Poll: 9  
+> - Coached Poll: 7  
 
 > ### #4 Arkansas  
 > At-Large Bid  
 > - ITA: 18.298 (43)  
-> - SLM: 91.551 (43)  
+> - Slam: 91.551 (43)  
 > - TRN: 89.427 (44)  
-> - MAS: 6.64 (50)  
+> - Massey: 6.64 (50)  
 > - UTR: 75.3 (44)  
-> - Coach: 40  
+> - Coached Poll: 40  

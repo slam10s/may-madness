@@ -5,17 +5,17 @@ Friday, May 7 at 5:00 EDT
 > ### #1 Illinois  
 > Regional Host  
 > - ITA: 36.816 (18)  
-> - SLM: 98.81 (6)  
+> - Slam: 98.81 (6)  
 > - TRN: 98.959 (4)  
-> - MAS: 8.6 (9)  
+> - Massey: 8.6 (9)  
 > - UTR: 78.92 (15)  
-> - USTA: 8  
-> - Coach: 13  
+> - USTA Poll: 8  
+> - Coached Poll: 13  
 
 > ### #4 DePaul  
 > Automatic Qualifier  
 > - ITA: 5.645 (55)  
-> - SLM: 85.738 (55)  
+> - Slam: 85.738 (55)  
 > - TRN: 82.453 (55)  
-> - MAS: 5.94 (54)  
+> - Massey: 5.94 (54)  
 > - UTR: 70.67 (60)  

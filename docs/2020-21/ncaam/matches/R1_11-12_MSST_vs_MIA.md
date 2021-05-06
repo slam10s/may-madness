@@ -5,18 +5,18 @@ Saturday, May 8 at 11:00 EDT
 > ### #3 Miami (FL)  
 > At-Large Bid  
 > - ITA: 19.336 (39)  
-> - SLM: 92.186 (37)  
+> - Slam: 92.186 (37)  
 > - TRN: 89.49 (43)  
-> - MAS: 7.31 (38)  
+> - Massey: 7.31 (38)  
 > - UTR: 75.68 (40)  
-> - Coach: 43  
+> - Coached Poll: 43  
 
 > ### #2 Mississippi St.  
 > At-Large Bid  
 > - ITA: 41.294 (16)  
-> - SLM: 94.391 (20)  
+> - Slam: 94.391 (20)  
 > - TRN: 92.984 (19)  
-> - MAS: 7.63 (26)  
+> - Massey: 7.63 (26)  
 > - UTR: 77.84 (24)  
-> - USTA: 23  
-> - Coach: 18  
+> - USTA Poll: 23  
+> - Coached Poll: 18  
