@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Shivani Manjanna (VCU) - 8-6 at 6, 11-7 in duals, 11-7 overall
 
  #### Doubles:  
-1. Rogers/Smith (NCST) - 14-5 at 1, 14-5 in duals, 20-8 overall  
-  Tutunaru/Davidescu (VCU) - 7-5 at 1, 7-5 in duals, 7-5 overall
-2. Daniel/Reami (NCST) - 12-4 at 2, 12-4 in duals, 20-5 overall  
-  Diaz-Delgado/Witmus (VCU) - 13-8 at 2, 13-8 in duals, 13-8 overall
-3. Rajecki/Rencheli (NCST) - 11-1 at 3, 11-1 in duals, 12-2 overall  
-  Ciuca/Manjanna (VCU) - 12-3 at 3, 12-3 in duals, 12-3 overall
+1. Rogers/Smith (NCST) - 14-5 at #1, 14-5 in duals, 20-8 overall  
+  Tutunaru/Davidescu (VCU) - 7-5 at #1, 7-5 in duals, 7-5 overall
+2. Daniel/Reami (NCST) - 12-4 at #2, 12-4 in duals, 20-5 overall  
+  Diaz-Delgado/Witmus (VCU) - 13-8 at #2, 13-8 in duals, 13-8 overall
+3. Rajecki/Rencheli (NCST) - 11-1 at #3, 11-1 in duals, 12-2 overall  
+  Ciuca/Manjanna (VCU) - 12-3 at #3, 12-3 in duals, 12-3 overall

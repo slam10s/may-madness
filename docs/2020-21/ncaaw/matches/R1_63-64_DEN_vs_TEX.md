@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Tatum Burger (DEN) - 2-0 at 6, 8-6 in duals, 8-6 overall
 
  #### Doubles:  
-1. Sun/Collins (TEX) - 16-4 at 1, 16-4 in duals, 16-4 overall  
-  Pursell/Verden-Anderson (DEN) - 6-1 at 1, 11-2 in duals, 11-2 overall
-2. Turati/Labrana (TEX) - 13-1 at 2, 14-1 in duals, 14-1 overall  
-  Riedmiller/Chang (DEN) - 5-1 at 2, 5-1 in duals, 5-1 overall
-3. Chavatipon/Stearns (TEX) - 11-1 at 3, 12-1 in duals, 14-2 overall  
-  Nelson/Melville (DEN) - 5-0 at 3, 6-0 in duals, 6-0 overall
+1. Sun/Collins (TEX) - 16-4 at #1, 16-4 in duals, 16-4 overall  
+  Pursell/Verden-Anderson (DEN) - 6-1 at #1, 11-2 in duals, 11-2 overall
+2. Turati/Labrana (TEX) - 13-1 at #2, 14-1 in duals, 14-1 overall  
+  Riedmiller/Chang (DEN) - 5-1 at #2, 5-1 in duals, 5-1 overall
+3. Chavatipon/Stearns (TEX) - 11-1 at #3, 12-1 in duals, 14-2 overall  
+  Nelson/Melville (DEN) - 5-0 at #3, 6-0 in duals, 6-0 overall

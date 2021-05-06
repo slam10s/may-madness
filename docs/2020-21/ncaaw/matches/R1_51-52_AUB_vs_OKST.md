@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Anastasia Astakhova (AUB) - 2-5 at 6, 2-5 in duals, 2-5 overall
 
  #### Doubles:  
-1. Wolfberg/Stara (OKST) - 3-2 at 1, 7-6 in duals, 7-6 overall  
-  Axon/Flach (AUB) - 2-4 at 1, 10-8 in duals, 14-10 overall
-2. Miyamoto/Detkovskaya (OKST) - 2-0 at 2, 2-0 in duals, 2-0 overall  
-  Ovunc/Ansari (AUB) - 3-4 at 2, 3-4 in duals, 4-6 overall
-3. Thamchaiwat/Medvedeva (OKST) - 3-1 at 3, 3-1 in duals, 3-1 overall  
-  Chen/Astakhova (AUB) - 4-3 at 3, 4-3 in duals, 4-3 overall
+1. Wolfberg/Stara (OKST) - 3-2 at #1, 7-6 in duals, 7-6 overall  
+  Axon/Flach (AUB) - 2-4 at #1, 10-8 in duals, 14-10 overall
+2. Miyamoto/Detkovskaya (OKST) - 2-0 at #2, 2-0 in duals, 2-0 overall  
+  Ovunc/Ansari (AUB) - 3-4 at #2, 3-4 in duals, 4-6 overall
+3. Thamchaiwat/Medvedeva (OKST) - 3-1 at #3, 3-1 in duals, 3-1 overall  
+  Chen/Astakhova (AUB) - 4-3 at #3, 4-3 in duals, 4-3 overall

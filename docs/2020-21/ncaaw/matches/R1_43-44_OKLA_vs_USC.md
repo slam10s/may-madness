@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Camila Romero (OKLA) - 1-1 at 6, 1-1 in duals, 1-1 overall
 
  #### Doubles:  
-1. Kulikov/Cayetano (USC) - 6-5 at 1, 6-5 in duals, 6-5 overall  
-  Corley/Corley (OKLA) - 16-2 at 1, 16-2 in duals, 26-3 overall
-2. Ewing/McKee (USC) - 8-4 at 2, 8-4 in duals, 8-4 overall  
-  Capurro/Romero (OKLA) - 7-3 at 2, 7-3 in duals, 7-3 overall
-3. Dvorak/Willson (USC) - 8-5 at 3, 8-5 in duals, 8-5 overall  
-  Guzman/Motosono (OKLA) - 10-2 at 3, 10-2 in duals, 10-2 overall
+1. Kulikov/Cayetano (USC) - 6-5 at #1, 6-5 in duals, 6-5 overall  
+  Corley/Corley (OKLA) - 16-2 at #1, 16-2 in duals, 26-3 overall
+2. Ewing/McKee (USC) - 8-4 at #2, 8-4 in duals, 8-4 overall  
+  Capurro/Romero (OKLA) - 7-3 at #2, 7-3 in duals, 7-3 overall
+3. Dvorak/Willson (USC) - 8-5 at #3, 8-5 in duals, 8-5 overall  
+  Guzman/Motosono (OKLA) - 10-2 at #3, 10-2 in duals, 10-2 overall

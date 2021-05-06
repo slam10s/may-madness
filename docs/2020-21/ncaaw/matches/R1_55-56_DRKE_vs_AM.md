@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Kelsey Neville (DRKE) - 8-4 at 6, 9-7 in duals, 9-7 overall
 
  #### Doubles:  
-1. Makarova/Goldsmith (A&M) - 11-9 at 1, 13-9 in duals, 18-9 overall  
-  Petushkova/Tatarnikova (DRKE) - 10-7 at 1, 10-7 in duals, 10-7 overall
-2. McBryde/Faa-Hviding (A&M) - 8-5 at 2, 8-5 in duals, 8-5 overall  
-  Neville/Webb (DRKE) - 3-6 at 2, 3-6 in duals, 3-6 overall
-3. McQuaid/Townsend (A&M) - 5-3 at 3, 5-3 in duals, 7-3 overall  
-  Stepan/Stephani (DRKE) - 7-8 at 3, 7-8 in duals, 7-8 overall
+1. Makarova/Goldsmith (A&M) - 11-9 at #1, 13-9 in duals, 18-9 overall  
+  Petushkova/Tatarnikova (DRKE) - 10-7 at #1, 10-7 in duals, 10-7 overall
+2. McBryde/Faa-Hviding (A&M) - 8-5 at #2, 8-5 in duals, 8-5 overall  
+  Neville/Webb (DRKE) - 3-6 at #2, 3-6 in duals, 3-6 overall
+3. McQuaid/Townsend (A&M) - 5-3 at #3, 5-3 in duals, 7-3 overall  
+  Stepan/Stephani (DRKE) - 7-8 at #3, 7-8 in duals, 7-8 overall

@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Christian Lerby (AZST) - 9-5 at 6, 12-7 in duals, 12-7 overall
 
  #### Doubles:  
-1. Dellien/Frosa (WICH) - 9-5 at 1, 9-5 in duals, 9-5 overall  
-  Rakotomalala/Ruehl (AZST) - 1-2 at 1, 6-4 in duals, 6-4 overall
-2. Mrsic/Ovil (WICH) - 5-5 at 2, 5-5 in duals, 5-5 overall  
-  McKennon/Ponwith (AZST) - 4-1 at 2, 5-2 in duals, 5-2 overall
-3. Latinovic/Acevedo (WICH) - 4-5 at 3, 4-5 in duals, 4-5 overall  
-  Lerby/Stoupe (AZST) - 3-1 at 3, 3-1 in duals, 3-1 overall
+1. Dellien/Frosa (WICH) - 9-5 at #1, 9-5 in duals, 9-5 overall  
+  Rakotomalala/Ruehl (AZST) - 1-2 at #1, 6-4 in duals, 6-4 overall
+2. Mrsic/Ovil (WICH) - 5-5 at #2, 5-5 in duals, 5-5 overall  
+  McKennon/Ponwith (AZST) - 4-1 at #2, 5-2 in duals, 5-2 overall
+3. Latinovic/Acevedo (WICH) - 4-5 at #3, 4-5 in duals, 4-5 overall  
+  Lerby/Stoupe (AZST) - 3-1 at #3, 3-1 in duals, 3-1 overall

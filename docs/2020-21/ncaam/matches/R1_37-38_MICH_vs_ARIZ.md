@@ -59,9 +59,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Nino Ehrenschneider (MICH) - 3-1 at 6, 4-1 in duals, 6-2 overall
 
  #### Doubles:  
-1. Hassey/Reguant (ARIZ) - 1-0 at 1, 10-3 in duals, 10-3 overall  
-  Fenty/Siimar (MICH) - 9-3 at 1, 9-3 in duals, 14-3 overall
-2. Ziverts/Hoeyeraal (ARIZ) - 0-0 at 2, 0-0 in duals, 0-0 overall  
-  Maloney/Styler (MICH) - 2-0 at 2, 2-0 in duals, 2-0 overall
-3. Strom/Malbasic (ARIZ) - 7-5 at 3, 9-5 in duals, 9-5 overall  
-  Ehrenschneider/Johnston (MICH) - 3-0 at 3, 3-0 in duals, 3-0 overall
+1. Hassey/Reguant (ARIZ) - 1-0 at #1, 10-3 in duals, 10-3 overall  
+  Fenty/Siimar (MICH) - 9-3 at #1, 9-3 in duals, 14-3 overall
+2. Ziverts/Hoeyeraal (ARIZ) - 0-0 at #2, 0-0 in duals, 0-0 overall  
+  Maloney/Styler (MICH) - 2-0 at #2, 2-0 in duals, 2-0 overall
+3. Strom/Malbasic (ARIZ) - 7-5 at #3, 9-5 in duals, 9-5 overall  
+  Ehrenschneider/Johnston (MICH) - 3-0 at #3, 3-0 in duals, 3-0 overall

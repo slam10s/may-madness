@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Kai Brady (UCSB) - 4-1 at 6, 7-2 in duals, 7-2 overall
 
  #### Doubles:  
-1. Oetzbach/Ouden (PEPP) - 10-4 at 1, 10-4 in duals, 10-4 overall  
-  Tsorotiotis/Vedri (UCSB) - 4-3 at 1, 4-3 in duals, 4-3 overall
-2. Summaria/Zeitvogel (PEPP) - 5-2 at 2, 5-2 in duals, 5-2 overall  
-  Krustev/Rotheram (UCSB) - 4-5 at 2, 4-6 in duals, 4-6 overall
-3. DeJonge/Fellin (PEPP) - 3-3 at 3, 3-3 in duals, 3-3 overall  
-  Guillin/Brady (UCSB) - 6-1 at 3, 6-1 in duals, 6-1 overall
+1. Oetzbach/Ouden (PEPP) - 10-4 at #1, 10-4 in duals, 10-4 overall  
+  Tsorotiotis/Vedri (UCSB) - 4-3 at #1, 4-3 in duals, 4-3 overall
+2. Summaria/Zeitvogel (PEPP) - 5-2 at #2, 5-2 in duals, 5-2 overall  
+  Krustev/Rotheram (UCSB) - 4-5 at #2, 4-6 in duals, 4-6 overall
+3. DeJonge/Fellin (PEPP) - 3-3 at #3, 3-3 in duals, 3-3 overall  
+  Guillin/Brady (UCSB) - 6-1 at #3, 6-1 in duals, 6-1 overall

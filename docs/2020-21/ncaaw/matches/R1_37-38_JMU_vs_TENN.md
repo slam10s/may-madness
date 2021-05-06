@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Daniela Voloh (JMU) - 9-1 at 6, 12-1 in duals, 12-1 overall
 
  #### Doubles:  
-1. Molinaro/McGiffin (TENN) - 1-3 at 1, 3-3 in duals, 3-3 overall  
-  Afanasyeva/Franco (JMU) - 7-3 at 1, 7-3 in duals, 7-3 overall
-2. Adeshina/Kuczer (TENN) - 8-1 at 2, 11-6 in duals, 12-9 overall  
-  Roka/Moulin (JMU) - 12-2 at 2, 12-2 in duals, 12-2 overall
-3. Briggs/Mertena (TENN) - 4-3 at 3, 4-3 in duals, 4-3 overall  
-  Nikolopoulou/Nord (JMU) - 3-1 at 3, 3-1 in duals, 3-1 overall
+1. Molinaro/McGiffin (TENN) - 1-3 at #1, 3-3 in duals, 3-3 overall  
+  Afanasyeva/Franco (JMU) - 7-3 at #1, 7-3 in duals, 7-3 overall
+2. Adeshina/Kuczer (TENN) - 8-1 at #2, 11-6 in duals, 12-9 overall  
+  Roka/Moulin (JMU) - 12-2 at #2, 12-2 in duals, 12-2 overall
+3. Briggs/Mertena (TENN) - 4-3 at #3, 4-3 in duals, 4-3 overall  
+  Nikolopoulou/Nord (JMU) - 3-1 at #3, 3-1 in duals, 3-1 overall

@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Raul Teichmann (CLEV) - 0-2 at 6, 3-4 in duals, 3-4 overall
 
  #### Doubles:  
-1. Diallo/Bourgois (UK) - 14-7 at 1, 14-7 in duals, 14-7 overall  
-  Mostardi/Phillips (CLEV) - 11-4 at 1, 11-4 in duals, 11-4 overall
-2. Draxl/Hurrion (UK) - 6-2 at 2, 6-2 in duals, 6-2 overall  
-  Terry/Mareschal-Hay (CLEV) - 0-0 at 2, 11-4 in duals, 11-4 overall
-3. Lapadat/LeBlanc (UK) - 4-2 at 3, 4-2 in duals, 4-4 overall  
-  Bilinovich/Mindry (CLEV) - 6-0 at 3, 6-0 in duals, 6-0 overall
+1. Diallo/Bourgois (UK) - 14-7 at #1, 14-7 in duals, 14-7 overall  
+  Mostardi/Phillips (CLEV) - 11-4 at #1, 11-4 in duals, 11-4 overall
+2. Draxl/Hurrion (UK) - 6-2 at #2, 6-2 in duals, 6-2 overall  
+  Terry/Mareschal-Hay (CLEV) - 0-0 at #2, 11-4 in duals, 11-4 overall
+3. Lapadat/LeBlanc (UK) - 4-2 at #3, 4-2 in duals, 4-4 overall  
+  Bilinovich/Mindry (CLEV) - 6-0 at #3, 6-0 in duals, 6-0 overall

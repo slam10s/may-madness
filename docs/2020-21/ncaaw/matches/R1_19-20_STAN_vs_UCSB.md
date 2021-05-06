@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Emma Higuchi (STAN) - 10-3 at 6, 14-3 in duals, 14-3 overall
 
  #### Doubles:  
-1. Volodko/Sentenac (UCSB) - 6-6 at 1, 6-6 in duals, 6-6 overall  
-  Gordon/Madurawe (STAN) - 9-5 at 1, 9-5 in duals, 9-5 overall
-2. Reuter/Khatamova (UCSB) - 8-3 at 2, 8-3 in duals, 8-3 overall  
-  Arbuthnott/Blake (STAN) - 6-2 at 2, 6-2 in duals, 6-2 overall
-3. Kiss/Ballbe (UCSB) - 10-2 at 3, 10-2 in duals, 10-2 overall  
-  Choy/Higuchi (STAN) - 7-2 at 3, 7-2 in duals, 7-2 overall
+1. Volodko/Sentenac (UCSB) - 6-6 at #1, 6-6 in duals, 6-6 overall  
+  Gordon/Madurawe (STAN) - 9-5 at #1, 9-5 in duals, 9-5 overall
+2. Reuter/Khatamova (UCSB) - 8-3 at #2, 8-3 in duals, 8-3 overall  
+  Arbuthnott/Blake (STAN) - 6-2 at #2, 6-2 in duals, 6-2 overall
+3. Kiss/Ballbe (UCSB) - 10-2 at #3, 10-2 in duals, 10-2 overall  
+  Choy/Higuchi (STAN) - 7-2 at #3, 7-2 in duals, 7-2 overall

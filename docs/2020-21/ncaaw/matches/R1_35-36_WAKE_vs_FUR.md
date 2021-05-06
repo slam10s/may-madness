@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Casie Wooten (WAKE) - 7-3 at 6, 12-7 in duals, 12-7 overall
 
  #### Doubles:  
-1. Kozarov/Adams (FUR) - 19-3 at 1, 19-3 in duals, 19-3 overall  
-  Omirou/Campana (WAKE) - 8-4 at 1, 9-4 in duals, 9-4 overall
-2. Dillon/Rompf (FUR) - 0-0 at 2, 19-2 in duals, 19-2 overall  
-  Brylin/Killingsworth (WAKE) - 7-4 at 2, 13-5 in duals, 13-5 overall
-3. Pate/Schoppe (FUR) - 0-0 at 3, 11-5 in duals, 11-5 overall  
-  Pesavento/Campana (WAKE) - 3-8 at 3, 3-8 in duals, 3-8 overall
+1. Kozarov/Adams (FUR) - 19-3 at #1, 19-3 in duals, 19-3 overall  
+  Omirou/Campana (WAKE) - 8-4 at #1, 9-4 in duals, 9-4 overall
+2. Dillon/Rompf (FUR) - 0-0 at #2, 19-2 in duals, 19-2 overall  
+  Brylin/Killingsworth (WAKE) - 7-4 at #2, 13-5 in duals, 13-5 overall
+3. Pate/Schoppe (FUR) - 0-0 at #3, 11-5 in duals, 11-5 overall  
+  Pesavento/Campana (WAKE) - 3-8 at #3, 3-8 in duals, 3-8 overall

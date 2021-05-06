@@ -56,9 +56,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Katharina Kukaras (USD) - 5-3 at 6, 11-4 in duals, 11-4 overall
 
  #### Doubles:  
-1. Staines/Mays (TTU) - 9-7 at 1, 9-7 in duals, 9-7 overall  
-  Colling/Goldsmith (USD) - 14-3 at 1, 14-3 in duals, 14-3 overall
-2. Peet/Skriabina (TTU) - 4-2 at 2, 4-2 in duals, 4-2 overall  
-  Desiatnikov/McBride (USD) - 5-1 at 2, 12-4 in duals, 12-4 overall
-3. Miller/Komac (TTU) - 2-1 at 3, 2-1 in duals, 2-1 overall  
-  Andryukhova/Kukaras (USD) - 2-2 at 3, 2-4 in duals, 2-4 overall
+1. Staines/Mays (TTU) - 9-7 at #1, 9-7 in duals, 9-7 overall  
+  Colling/Goldsmith (USD) - 14-3 at #1, 14-3 in duals, 14-3 overall
+2. Peet/Skriabina (TTU) - 4-2 at #2, 4-2 in duals, 4-2 overall  
+  Desiatnikov/McBride (USD) - 5-1 at #2, 12-4 in duals, 12-4 overall
+3. Miller/Komac (TTU) - 2-1 at #3, 2-1 in duals, 2-1 overall  
+  Andryukhova/Kukaras (USD) - 2-2 at #3, 2-4 in duals, 2-4 overall

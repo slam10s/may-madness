@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Youssef Sader (FDU) - 2-0 at 6, 5-4 in duals, 5-4 overall
 
  #### Doubles:  
-1. Soderlund/Woodall (UVA) - 9-8 at 1, 9-8 in duals, 9-8 overall  
-  Pukse/Gudins (FDU) - 2-2 at 1, 3-2 in duals, 3-2 overall
-2. Goetz/Rodesch (UVA) - 10-5 at 2, 10-5 in duals, 10-5 overall  
-  Budinszky/Sriram (FDU) - 0-0 at 2, 0-0 in duals, 0-0 overall
-3. von der Schulenburg/de la Torre (UVA) - 12-3 at 3, 15-4 in duals, 15-4 overall  
-  Pietsch/Cabral (FDU) - 0-0 at 3, 0-0 in duals, 0-0 overall
+1. Soderlund/Woodall (UVA) - 9-8 at #1, 9-8 in duals, 9-8 overall  
+  Pukse/Gudins (FDU) - 2-2 at #1, 3-2 in duals, 3-2 overall
+2. Goetz/Rodesch (UVA) - 10-5 at #2, 10-5 in duals, 10-5 overall  
+  Budinszky/Sriram (FDU) - 0-0 at #2, 0-0 in duals, 0-0 overall
+3. von der Schulenburg/de la Torre (UVA) - 12-3 at #3, 15-4 in duals, 15-4 overall  
+  Pietsch/Cabral (FDU) - 0-0 at #3, 0-0 in duals, 0-0 overall

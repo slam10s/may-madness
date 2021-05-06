@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Katya Martens (BU) - 0-0 at 6, 4-0 in duals, 4-0 overall
 
  #### Doubles:  
-1. Richardson/Geissler (LSU) - 4-7 at 1, 4-7 in duals, 4-10 overall  
-  Kim/Burchell (BU) - 3-1 at 1, 3-1 in duals, 3-1 overall
-2. Bridges/Corley (LSU) - 4-1 at 2, 12-4 in duals, 15-4 overall  
-  Carlsten/DiBattista (BU) - 2-1 at 2, 2-1 in duals, 2-1 overall
-3. Cubitt/Carrington (LSU) - 0-0 at 3, 5-3 in duals, 7-5 overall  
-  Tan/Yaloz (BU) - 4-0 at 3, 4-0 in duals, 4-0 overall
+1. Richardson/Geissler (LSU) - 4-7 at #1, 4-7 in duals, 4-10 overall  
+  Kim/Burchell (BU) - 3-1 at #1, 3-1 in duals, 3-1 overall
+2. Bridges/Corley (LSU) - 4-1 at #2, 12-4 in duals, 15-4 overall  
+  Carlsten/DiBattista (BU) - 2-1 at #2, 2-1 in duals, 2-1 overall
+3. Cubitt/Carrington (LSU) - 0-0 at #3, 5-3 in duals, 7-5 overall  
+  Tan/Yaloz (BU) - 4-0 at #3, 4-0 in duals, 4-0 overall

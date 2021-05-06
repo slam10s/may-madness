@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Alexandra Viktorovich (ODU) - 6-2 at 6, 7-4 in duals, 7-4 overall
 
  #### Doubles:  
-1. Cross/Rice (ARK) - 5-2 at 1, 5-2 in duals, 5-2 overall  
-  Starodubtseva/Yakubovich (ODU) - 5-5 at 1, 5-5 in duals, 5-5 overall
-2. Alter/Spink (ARK) - 3-5 at 2, 3-5 in duals, 3-5 overall  
-  Hutchinson/Sasnouskaya (ODU) - 11-0 at 2, 12-1 in duals, 12-1 overall
-3. Keller/Carr (ARK) - 2-3 at 3, 2-3 in duals, 2-3 overall  
-  Pilkington/Viktorovich (ODU) - 7-2 at 3, 7-2 in duals, 7-2 overall
+1. Cross/Rice (ARK) - 5-2 at #1, 5-2 in duals, 5-2 overall  
+  Starodubtseva/Yakubovich (ODU) - 5-5 at #1, 5-5 in duals, 5-5 overall
+2. Alter/Spink (ARK) - 3-5 at #2, 3-5 in duals, 3-5 overall  
+  Hutchinson/Sasnouskaya (ODU) - 11-0 at #2, 12-1 in duals, 12-1 overall
+3. Keller/Carr (ARK) - 2-3 at #3, 2-3 in duals, 2-3 overall  
+  Pilkington/Viktorovich (ODU) - 7-2 at #3, 7-2 in duals, 7-2 overall

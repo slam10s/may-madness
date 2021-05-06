@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Chloe Cirotte (MSST) - 6-2 at 6, 10-5 in duals, 11-6 overall
 
  #### Doubles:  
-1. Hattingh/John-Baptiste (AZST) - 7-9 at 1, 7-9 in duals, 7-9 overall  
-  Adaloglou/Racine (MSST) - 5-5 at 1, 5-5 in duals, 5-5 overall
-2. Hampton/Argyrokastriti (AZST) - 4-4 at 2, 13-4 in duals, 13-4 overall  
-  Antonaki/Falceto (MSST) - 2-4 at 2, 3-5 in duals, 3-5 overall
-3. Morlet/Kolarova (AZST) - 3-2 at 3, 8-2 in duals, 8-2 overall  
-  Mikhailuk/Poling (MSST) - 0-0 at 3, 0-2 in duals, 3-4 overall
+1. Hattingh/John-Baptiste (AZST) - 7-9 at #1, 7-9 in duals, 7-9 overall  
+  Adaloglou/Racine (MSST) - 5-5 at #1, 5-5 in duals, 5-5 overall
+2. Hampton/Argyrokastriti (AZST) - 4-4 at #2, 13-4 in duals, 13-4 overall  
+  Antonaki/Falceto (MSST) - 2-4 at #2, 3-5 in duals, 3-5 overall
+3. Morlet/Kolarova (AZST) - 3-2 at #3, 8-2 in duals, 8-2 overall  
+  Mikhailuk/Poling (MSST) - 0-0 at #3, 0-2 in duals, 3-4 overall

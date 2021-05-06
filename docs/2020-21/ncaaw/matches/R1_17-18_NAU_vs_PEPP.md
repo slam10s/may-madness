@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Madison Moore (NAU) - 6-8 at 6, 6-8 in duals, 6-8 overall
 
  #### Doubles:  
-1. Lahey/Zaar (PEPP) - 0-0 at 1, 0-0 in duals, 0-0 overall  
-  Millard/Bland (NAU) - 9-8 at 1, 9-8 in duals, 9-8 overall
-2. Fukuda/Pachkaleva (PEPP) - 0-0 at 2, 0-0 in duals, 0-0 overall  
-  Dittmann/Beazley (NAU) - 8-7 at 2, 10-7 in duals, 10-7 overall
-3. Failla/Iamachkine (PEPP) - 0-0 at 3, 0-0 in duals, 0-0 overall  
-  Moore/Neyestani (NAU) - 6-9 at 3, 7-10 in duals, 7-10 overall
+1. Lahey/Zaar (PEPP) - 0-0 at #1, 0-0 in duals, 0-0 overall  
+  Millard/Bland (NAU) - 9-8 at #1, 9-8 in duals, 9-8 overall
+2. Fukuda/Pachkaleva (PEPP) - 0-0 at #2, 0-0 in duals, 0-0 overall  
+  Dittmann/Beazley (NAU) - 8-7 at #2, 10-7 in duals, 10-7 overall
+3. Failla/Iamachkine (PEPP) - 0-0 at #3, 0-0 in duals, 0-0 overall  
+  Moore/Neyestani (NAU) - 6-9 at #3, 7-10 in duals, 7-10 overall

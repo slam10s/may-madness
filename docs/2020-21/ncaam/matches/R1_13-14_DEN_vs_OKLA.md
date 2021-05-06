@@ -56,9 +56,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Ignacio Rivero Crespo (DEN) - 8-1 at 6, 9-1 in duals, 9-1 overall
 
  #### Doubles:  
-1. Mandlik/Stewart (OKLA) - 0-1 at 1, 2-3 in duals, 2-3 overall  
-  Summers/Davis (DEN) - 14-5 at 1, 14-5 in duals, 14-5 overall
-2. Van Emburgh/Martinez (OKLA) - 0-1 at 2, 0-1 in duals, 0-1 overall  
-  Ros/Sallay (DEN) - 7-6 at 2, 7-6 in duals, 7-6 overall
-3. Han/Beiler (OKLA) - 1-0 at 3, 1-0 in duals, 1-0 overall  
-  Cuesta/Crespo (DEN) - 10-4 at 3, 10-4 in duals, 10-4 overall
+1. Mandlik/Stewart (OKLA) - 0-1 at #1, 2-3 in duals, 2-3 overall  
+  Summers/Davis (DEN) - 14-5 at #1, 14-5 in duals, 14-5 overall
+2. Van Emburgh/Martinez (OKLA) - 0-1 at #2, 0-1 in duals, 0-1 overall  
+  Ros/Sallay (DEN) - 7-6 at #2, 7-6 in duals, 7-6 overall
+3. Han/Beiler (OKLA) - 1-0 at #3, 1-0 in duals, 1-0 overall  
+  Cuesta/Crespo (DEN) - 10-4 at #3, 10-4 in duals, 10-4 overall

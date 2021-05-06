@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Sydney Orefice (BAMA) - 2-0 at 6, 2-0 in duals, 2-5 overall
 
  #### Doubles:  
-1. Chi/Bilokin (DUKE) - 8-4 at 1, 9-4 in duals, 11-4 overall  
-  Hiser/Riley (BAMA) - 5-1 at 1, 14-3 in duals, 14-8 overall
-2. Beck/Berankova (DUKE) - 11-2 at 2, 12-2 in duals, 15-3 overall  
-  Pou/Parkhomenko (BAMA) - 0-0 at 2, 8-4 in duals, 9-4 overall
-3. Chen/Drummy (DUKE) - 12-2 at 3, 13-2 in duals, 14-4 overall  
-  Bencheikh/Orefice (BAMA) - 0-0 at 3, 0-0 in duals, 0-0 overall
+1. Chi/Bilokin (DUKE) - 8-4 at #1, 9-4 in duals, 11-4 overall  
+  Hiser/Riley (BAMA) - 5-1 at #1, 14-3 in duals, 14-8 overall
+2. Beck/Berankova (DUKE) - 11-2 at #2, 12-2 in duals, 15-3 overall  
+  Pou/Parkhomenko (BAMA) - 0-0 at #2, 8-4 in duals, 9-4 overall
+3. Chen/Drummy (DUKE) - 12-2 at #3, 13-2 in duals, 14-4 overall  
+  Bencheikh/Orefice (BAMA) - 0-0 at #3, 0-0 in duals, 0-0 overall

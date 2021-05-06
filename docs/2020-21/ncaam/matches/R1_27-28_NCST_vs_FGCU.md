@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Robert Turzak (NCST) - 0-0 at 6, 6-4 in duals, 7-5 overall
 
  #### Doubles:  
-1. Johnson/Damm (FGCU) - 4-3 at 1, 7-4 in duals, 7-4 overall  
-  Babelis/Barkai (NCST) - 4-3 at 1, 5-3 in duals, 6-3 overall
-2. Ramirez/Montes (FGCU) - 2-1 at 2, 2-1 in duals, 2-1 overall  
-  Catry/Galarneau (NCST) - 2-1 at 2, 2-1 in duals, 2-1 overall
-3. Wilson/Sakalauskas (FGCU) - 0-0 at 3, 0-0 in duals, 0-0 overall  
-  Shick/Turzak (NCST) - 0-1 at 3, 0-1 in duals, 0-1 overall
+1. Johnson/Damm (FGCU) - 4-3 at #1, 7-4 in duals, 7-4 overall  
+  Babelis/Barkai (NCST) - 4-3 at #1, 5-3 in duals, 6-3 overall
+2. Ramirez/Montes (FGCU) - 2-1 at #2, 2-1 in duals, 2-1 overall  
+  Catry/Galarneau (NCST) - 2-1 at #2, 2-1 in duals, 2-1 overall
+3. Wilson/Sakalauskas (FGCU) - 0-0 at #3, 0-0 in duals, 0-0 overall  
+  Shick/Turzak (NCST) - 0-1 at #3, 0-1 in duals, 0-1 overall

@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Isaac Arevalo (TTU) - 5-4 at 6, 8-5 in duals, 14-7 overall
 
  #### Doubles:  
-1. Chrysostom/Fishback (VT) - 6-4 at 1, 8-4 in duals, 8-4 overall  
-  Wynn/Ribero (TTU) - 7-7 at 1, 7-7 in duals, 7-7 overall
-2. Harper/Ribeiro (VT) - 3-4 at 2, 3-4 in duals, 3-4 overall  
-  Arevalo/Collier (TTU) - 6-5 at 2, 6-5 in duals, 6-5 overall
-3. Donato/Ariza (VT) - 1-1 at 3, 1-1 in duals, 1-1 overall  
-  Valiev/Azoides (TTU) - 8-2 at 3, 11-3 in duals, 12-4 overall
+1. Chrysostom/Fishback (VT) - 6-4 at #1, 8-4 in duals, 8-4 overall  
+  Wynn/Ribero (TTU) - 7-7 at #1, 7-7 in duals, 7-7 overall
+2. Harper/Ribeiro (VT) - 3-4 at #2, 3-4 in duals, 3-4 overall  
+  Arevalo/Collier (TTU) - 6-5 at #2, 6-5 in duals, 6-5 overall
+3. Donato/Ariza (VT) - 1-1 at #3, 1-1 in duals, 1-1 overall  
+  Valiev/Azoides (TTU) - 8-2 at #3, 11-3 in duals, 12-4 overall

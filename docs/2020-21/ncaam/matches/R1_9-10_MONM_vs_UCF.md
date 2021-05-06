@@ -56,9 +56,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Gabriel Busato (MONM) - 12-1 at 6, 14-2 in duals, 14-2 overall
 
  #### Doubles:  
-1. Hilderbrand/Pavel (UCF) - 9-1 at 1, 9-1 in duals, 9-1 overall  
-  Benaim/Martinez (MONM) - 9-3 at 1, 9-3 in duals, 9-3 overall
-2. Mazzuchi/Decamps (UCF) - 8-2 at 2, 8-2 in duals, 9-1 overall  
-  Castro/Silva (MONM) - 7-1 at 2, 7-1 in duals, 7-1 overall
-3. Rubio/Yamada (UCF) - 2-4 at 3, 2-4 in duals, 2-4 overall  
-  Wharton/Gortzounian (MONM) - 9-1 at 3, 9-1 in duals, 9-1 overall
+1. Hilderbrand/Pavel (UCF) - 9-1 at #1, 9-1 in duals, 9-1 overall  
+  Benaim/Martinez (MONM) - 9-3 at #1, 9-3 in duals, 9-3 overall
+2. Mazzuchi/Decamps (UCF) - 8-2 at #2, 8-2 in duals, 9-1 overall  
+  Castro/Silva (MONM) - 7-1 at #2, 7-1 in duals, 7-1 overall
+3. Rubio/Yamada (UCF) - 2-4 at #3, 2-4 in duals, 2-4 overall  
+  Wharton/Gortzounian (MONM) - 9-1 at #3, 9-1 in duals, 9-1 overall

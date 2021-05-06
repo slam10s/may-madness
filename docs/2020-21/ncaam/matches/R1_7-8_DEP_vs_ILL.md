@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Luuk Wassenaar (DEP) - 3-2 at 6, 11-6 in duals, 11-6 overall
 
  #### Doubles:  
-1. Brown/Clark (ILL) - 8-2 at 1, 11-2 in duals, 11-2 overall  
-  Casati/Spanjaard (DEP) - 12-4 at 1, 14-4 in duals, 14-4 overall
-2. Montsi/Khlif (ILL) - 5-1 at 2, 10-2 in duals, 10-2 overall  
-  Tonejc/Wassenaar (DEP) - 3-2 at 2, 6-4 in duals, 6-4 overall
-3. Kovacevic/Heck (ILL) - 2-1 at 3, 3-1 in duals, 3-1 overall  
-  Tonejc/Tuff (DEP) - 5-0 at 3, 9-6 in duals, 9-6 overall
+1. Brown/Clark (ILL) - 8-2 at #1, 11-2 in duals, 11-2 overall  
+  Casati/Spanjaard (DEP) - 12-4 at #1, 14-4 in duals, 14-4 overall
+2. Montsi/Khlif (ILL) - 5-1 at #2, 10-2 in duals, 10-2 overall  
+  Tonejc/Wassenaar (DEP) - 3-2 at #2, 6-4 in duals, 6-4 overall
+3. Kovacevic/Heck (ILL) - 2-1 at #3, 3-1 in duals, 3-1 overall  
+  Tonejc/Tuff (DEP) - 5-0 at #3, 9-6 in duals, 9-6 overall

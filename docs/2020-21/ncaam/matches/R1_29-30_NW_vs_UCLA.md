@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Simen Bratholm (NW) - 0-0 at 6, 5-4 in duals, 8-5 overall
 
  #### Doubles:  
-1. Nanda/Baird (UCLA) - 2-2 at 1, 4-5 in duals, 4-5 overall  
-  Brookes/Bratholm (NW) - 9-4 at 1, 9-4 in duals, 12-7 overall
-2. Pereira/Zahraj (UCLA) - 2-2 at 2, 2-2 in duals, 2-2 overall  
-  Ephron/Stary (NW) - 12-4 at 2, 12-4 in duals, 12-4 overall
-3. Tsolakyan/Bellamy (UCLA) - 5-3 at 3, 5-3 in duals, 5-3 overall  
-  Forman/Spear (NW) - 5-1 at 3, 5-1 in duals, 5-1 overall
+1. Nanda/Baird (UCLA) - 2-2 at #1, 4-5 in duals, 4-5 overall  
+  Brookes/Bratholm (NW) - 9-4 at #1, 9-4 in duals, 12-7 overall
+2. Pereira/Zahraj (UCLA) - 2-2 at #2, 2-2 in duals, 2-2 overall  
+  Ephron/Stary (NW) - 12-4 at #2, 12-4 in duals, 12-4 overall
+3. Tsolakyan/Bellamy (UCLA) - 5-3 at #3, 5-3 in duals, 5-3 overall  
+  Forman/Spear (NW) - 5-1 at #3, 5-1 in duals, 5-1 overall

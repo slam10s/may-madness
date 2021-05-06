@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Victoire Delattre (TAMCC) - 14-2 at 6, 17-2 in duals, 17-2 overall
 
  #### Doubles:  
-1. Shakhraichuk/Krywoj (BAY) - 9-1 at 1, 9-1 in duals, 9-1 overall  
-  Shumeika/Townsend (TAMCC) - 19-5 at 1, 19-5 in duals, 19-5 overall
-2. Hinojosa/Sorokolet (BAY) - 1-4 at 2, 2-6 in duals, 2-6 overall  
-  E.Honore/E.Aucagne (TAMCC) - 16-4 at 2, 16-4 in duals, 16-4 overall
-3. Herrero/Boch-Collins (BAY) - 5-0 at 3, 5-0 in duals, 5-0 overall  
-  L.Boisseau/Delattre (TAMCC) - 15-4 at 3, 15-4 in duals, 15-4 overall
+1. Shakhraichuk/Krywoj (BAY) - 9-1 at #1, 9-1 in duals, 9-1 overall  
+  Shumeika/Townsend (TAMCC) - 19-5 at #1, 19-5 in duals, 19-5 overall
+2. Hinojosa/Sorokolet (BAY) - 1-4 at #2, 2-6 in duals, 2-6 overall  
+  E.Honore/E.Aucagne (TAMCC) - 16-4 at #2, 16-4 in duals, 16-4 overall
+3. Herrero/Boch-Collins (BAY) - 5-0 at #3, 5-0 in duals, 5-0 overall  
+  L.Boisseau/Delattre (TAMCC) - 15-4 at #3, 15-4 in duals, 15-4 overall

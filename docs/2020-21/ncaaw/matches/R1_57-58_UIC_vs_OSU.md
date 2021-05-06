@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Nell Arendt (UIC) - 9-2 at 6, 14-2 in duals, 14-2 overall
 
  #### Doubles:  
-1. Boulais/Allen (OSU) - 14-2 at 1, 14-2 in duals, 14-2 overall  
-  Malazonia/Gustafsson (UIC) - 6-3 at 1, 6-3 in duals, 6-3 overall
-2. Marzal/Hofbauer (OSU) - 10-2 at 2, 11-2 in duals, 11-2 overall  
-  Prochazkova/Jover (UIC) - 9-0 at 2, 10-1 in duals, 10-1 overall
-3. Dormet/Siemers (OSU) - 10-0 at 3, 11-0 in duals, 11-0 overall  
-  Arendt/Hermanny (UIC) - 0-0 at 3, 2-2 in duals, 2-2 overall
+1. Boulais/Allen (OSU) - 14-2 at #1, 14-2 in duals, 14-2 overall  
+  Malazonia/Gustafsson (UIC) - 6-3 at #1, 6-3 in duals, 6-3 overall
+2. Marzal/Hofbauer (OSU) - 10-2 at #2, 11-2 in duals, 11-2 overall  
+  Prochazkova/Jover (UIC) - 9-0 at #2, 10-1 in duals, 10-1 overall
+3. Dormet/Siemers (OSU) - 10-0 at #3, 11-0 in duals, 11-0 overall  
+  Arendt/Hermanny (UIC) - 0-0 at #3, 2-2 in duals, 2-2 overall

@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Ben George (WMU) - 8-0 at 6, 11-0 in duals, 11-0 overall
 
  #### Doubles:  
-1. McCormick/Nefve (ND) - 10-4 at 1, 10-4 in duals, 10-4 overall  
-  Opitz/Kuszynski (WMU) - 0-0 at 1, 0-0 in duals, 0-0 overall
-2. Ancona/Howells (ND) - 4-2 at 2, 7-5 in duals, 7-5 overall  
-  Randall/Lohse (WMU) - 6-0 at 2, 7-0 in duals, 7-0 overall
-3. Che/Ciamarra (ND) - 5-0 at 3, 6-1 in duals, 6-1 overall  
-  Faveri/Caballer (WMU) - 0-0 at 3, 0-0 in duals, 0-0 overall
+1. McCormick/Nefve (ND) - 10-4 at #1, 10-4 in duals, 10-4 overall  
+  Opitz/Kuszynski (WMU) - 0-0 at #1, 0-0 in duals, 0-0 overall
+2. Ancona/Howells (ND) - 4-2 at #2, 7-5 in duals, 7-5 overall  
+  Randall/Lohse (WMU) - 6-0 at #2, 7-0 in duals, 7-0 overall
+3. Che/Ciamarra (ND) - 5-0 at #3, 6-1 in duals, 6-1 overall  
+  Faveri/Caballer (WMU) - 0-0 at #3, 0-0 in duals, 0-0 overall

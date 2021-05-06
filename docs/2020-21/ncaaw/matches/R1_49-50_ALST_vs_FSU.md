@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Bea Acena (ALST) - 0-0 at 6, 7-6 in duals, 7-6 overall
 
  #### Doubles:  
-1. Salas/Allen (FSU) - 5-3 at 1, 5-3 in duals, 5-3 overall  
-  Dzemchanka/Tarbujaru (ALST) - 1-1 at 1, 1-1 in duals, 1-1 overall
-2. Das/Garcia (FSU) - 8-4 at 2, 14-4 in duals, 17-4 overall  
-  Andrade/Duca (ALST) - 4-0 at 2, 5-0 in duals, 5-0 overall
-3. Hule/Pairone (FSU) - 5-1 at 3, 5-1 in duals, 6-1 overall  
-  Velec/Hribljan (ALST) - 0-0 at 3, 0-0 in duals, 0-0 overall
+1. Salas/Allen (FSU) - 5-3 at #1, 5-3 in duals, 5-3 overall  
+  Dzemchanka/Tarbujaru (ALST) - 1-1 at #1, 1-1 in duals, 1-1 overall
+2. Das/Garcia (FSU) - 8-4 at #2, 14-4 in duals, 17-4 overall  
+  Andrade/Duca (ALST) - 4-0 at #2, 5-0 in duals, 5-0 overall
+3. Hule/Pairone (FSU) - 5-1 at #3, 5-1 in duals, 6-1 overall  
+  Velec/Hribljan (ALST) - 0-0 at #3, 0-0 in duals, 0-0 overall

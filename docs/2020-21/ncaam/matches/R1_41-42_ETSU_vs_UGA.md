@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Juan Zabala (ETSU) - 2-1 at 6, 6-4 in duals, 6-4 overall
 
  #### Doubles:  
-1. Bryde/Zink (UGA) - 8-4 at 1, 8-4 in duals, 13-6 overall  
-  Lugo/Rengifo (ETSU) - 8-5 at 1, 8-5 in duals, 8-5 overall
-2. Croyder/Rowe (UGA) - 7-5 at 2, 8-5 in duals, 10-5 overall  
-  Este/Badra (ETSU) - 4-0 at 2, 12-1 in duals, 12-1 overall
-3. Henning/Grevelius (UGA) - 9-5 at 3, 10-5 in duals, 10-7 overall  
-  Zabala/Pernas (ETSU) - 4-2 at 3, 8-4 in duals, 8-4 overall
+1. Bryde/Zink (UGA) - 8-4 at #1, 8-4 in duals, 13-6 overall  
+  Lugo/Rengifo (ETSU) - 8-5 at #1, 8-5 in duals, 8-5 overall
+2. Croyder/Rowe (UGA) - 7-5 at #2, 8-5 in duals, 10-5 overall  
+  Este/Badra (ETSU) - 4-0 at #2, 12-1 in duals, 12-1 overall
+3. Henning/Grevelius (UGA) - 9-5 at #3, 10-5 in duals, 10-7 overall  
+  Zabala/Pernas (ETSU) - 4-2 at #3, 8-4 in duals, 8-4 overall

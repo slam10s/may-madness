@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Javier Matos (PRES) - 6-2 at 6, 7-2 in duals, 7-2 overall
 
  #### Doubles:  
-1. Blumberg/Cernoch (UNC) - 12-3 at 1, 12-3 in duals, 12-3 overall  
-  Stenger/Dominguez (PRES) - 2-1 at 1, 6-4 in duals, 6-4 overall
-2. Kiger/Soendergaard (UNC) - 8-5 at 2, 10-7 in duals, 10-7 overall  
-  Matos/McKinney (PRES) - 0-0 at 2, 4-2 in duals, 4-2 overall
-3. Hijikata/Sigouin (UNC) - 3-3 at 3, 5-5 in duals, 5-5 overall  
-  Benson/Conde (PRES) - 0-0 at 3, 0-3 in duals, 0-3 overall
+1. Blumberg/Cernoch (UNC) - 12-3 at #1, 12-3 in duals, 12-3 overall  
+  Stenger/Dominguez (PRES) - 2-1 at #1, 6-4 in duals, 6-4 overall
+2. Kiger/Soendergaard (UNC) - 8-5 at #2, 10-7 in duals, 10-7 overall  
+  Matos/McKinney (PRES) - 0-0 at #2, 4-2 in duals, 4-2 overall
+3. Hijikata/Sigouin (UNC) - 3-3 at #3, 5-5 in duals, 5-5 overall  
+  Benson/Conde (PRES) - 0-0 at #3, 0-3 in duals, 0-3 overall

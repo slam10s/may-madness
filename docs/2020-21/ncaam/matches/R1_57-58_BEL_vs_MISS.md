@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Alfred Wallin (BEL) - 9-4 at 6, 11-4 in duals, 11-4 overall
 
  #### Doubles:  
-1. Sandkaulen/Reynolds (MISS) - 14-2 at 1, 14-2 in duals, 14-2 overall  
-  Ilic/Miyamoto (BEL) - 11-6 at 1, 11-6 in duals, 11-6 overall
-2. Draheim/Junk (MISS) - 8-7 at 2, 11-9 in duals, 11-9 overall  
-  Castro/Luis (BEL) - 11-2 at 2, 11-2 in duals, 11-2 overall
-3. Cadonau/Engelhardt (MISS) - 0-0 at 3, 0-0 in duals, 0-0 overall  
-  Briggs/Toledo (BEL) - 8-3 at 3, 8-3 in duals, 8-3 overall
+1. Sandkaulen/Reynolds (MISS) - 14-2 at #1, 14-2 in duals, 14-2 overall  
+  Ilic/Miyamoto (BEL) - 11-6 at #1, 11-6 in duals, 11-6 overall
+2. Draheim/Junk (MISS) - 8-7 at #2, 11-9 in duals, 11-9 overall  
+  Castro/Luis (BEL) - 11-2 at #2, 11-2 in duals, 11-2 overall
+3. Cadonau/Engelhardt (MISS) - 0-0 at #3, 0-0 in duals, 0-0 overall  
+  Briggs/Toledo (BEL) - 8-3 at #3, 8-3 in duals, 8-3 overall

@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Tiffany Pyrtiz (CHSO) - 6-7 at 6, 6-7 in duals, 6-7 overall
 
  #### Doubles:  
-1. Stolmar/Mattel (UCF) - 4-7 at 1, 5-7 in duals, 5-7 overall  
-  Man/Singh (CHSO) - 9-5 at 1, 9-5 in duals, 9-5 overall
-2. Kuznetsova/Zeleva (UCF) - 8-0 at 2, 12-3 in duals, 12-3 overall  
-  Cauthen/Pyrtiz (CHSO) - 10-5 at 2, 10-5 in duals, 10-5 overall
-3. Levashova/Bay (UCF) - 4-1 at 3, 7-3 in duals, 7-3 overall  
-  Fullana/Schmitz (CHSO) - 7-7 at 3, 7-7 in duals, 7-7 overall
+1. Stolmar/Mattel (UCF) - 4-7 at #1, 5-7 in duals, 5-7 overall  
+  Man/Singh (CHSO) - 9-5 at #1, 9-5 in duals, 9-5 overall
+2. Kuznetsova/Zeleva (UCF) - 8-0 at #2, 12-3 in duals, 12-3 overall  
+  Cauthen/Pyrtiz (CHSO) - 10-5 at #2, 10-5 in duals, 10-5 overall
+3. Levashova/Bay (UCF) - 4-1 at #3, 7-3 in duals, 7-3 overall  
+  Fullana/Schmitz (CHSO) - 7-7 at #3, 7-7 in duals, 7-7 overall

@@ -59,9 +59,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Maya Tahan (MIA) - 6-1 at 6, 13-8 in duals, 13-8 overall
 
  #### Doubles:  
-1. Umarova/Skrobonja (FIU) - 5-0 at 1, 5-0 in duals, 5-0 overall  
-  Perez-Somarriba/Pfennig (MIA) - 7-6 at 1, 9-6 in duals, 9-6 overall
-2. Alcaide/Velcea (FIU) - 2-2 at 2, 2-2 in duals, 2-2 overall  
-  Khodan/Tahan (MIA) - 10-7 at 2, 10-7 in duals, 10-7 overall
-3. Akbas/Miletic (FIU) - 5-1 at 3, 5-1 in duals, 5-1 overall  
-  Achong/Urrutia (MIA) - 8-5 at 3, 8-5 in duals, 8-5 overall
+1. Umarova/Skrobonja (FIU) - 5-0 at #1, 5-0 in duals, 5-0 overall  
+  Perez-Somarriba/Pfennig (MIA) - 7-6 at #1, 9-6 in duals, 9-6 overall
+2. Alcaide/Velcea (FIU) - 2-2 at #2, 2-2 in duals, 2-2 overall  
+  Khodan/Tahan (MIA) - 10-7 at #2, 10-7 in duals, 10-7 overall
+3. Akbas/Miletic (FIU) - 5-1 at #3, 5-1 in duals, 5-1 overall  
+  Achong/Urrutia (MIA) - 8-5 at #3, 8-5 in duals, 8-5 overall

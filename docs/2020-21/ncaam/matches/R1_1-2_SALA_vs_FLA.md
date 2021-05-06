@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Martin Bugaj (SALA) - 1-4 at 6, 4-8 in duals, 7-13 overall
 
  #### Doubles:  
-1. Ingildsen/Vale (FLA) - 0-0 at 1, 0-0 in duals, 0-0 overall  
-  Cloes/Marzol (SALA) - 10-2 at 1, 10-2 in duals, 10-2 overall
-2. Riffice/Shelton (FLA) - 0-0 at 2, 4-0 in duals, 6-1 overall  
-  Evrard/Collard (SALA) - 4-6 at 2, 4-6 in duals, 10-9 overall
-3. Berdusco/Grant (FLA) - 0-0 at 3, 0-0 in duals, 1-0 overall  
-  Delcour/Petko (SALA) - 2-2 at 3, 2-2 in duals, 2-2 overall
+1. Ingildsen/Vale (FLA) - 0-0 at #1, 0-0 in duals, 0-0 overall  
+  Cloes/Marzol (SALA) - 10-2 at #1, 10-2 in duals, 10-2 overall
+2. Riffice/Shelton (FLA) - 0-0 at #2, 4-0 in duals, 6-1 overall  
+  Evrard/Collard (SALA) - 4-6 at #2, 4-6 in duals, 10-9 overall
+3. Berdusco/Grant (FLA) - 0-0 at #3, 0-0 in duals, 1-0 overall  
+  Delcour/Petko (SALA) - 2-2 at #3, 2-2 in duals, 2-2 overall

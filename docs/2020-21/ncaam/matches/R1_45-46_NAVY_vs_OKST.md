@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Jack McBride (NAVY) - 4-0 at 6, 5-0 in duals, 5-0 overall
 
  #### Doubles:  
-1. Hudd/Vocel (OKST) - 6-4 at 1, 6-4 in duals, 6-4 overall  
-  Thompson/Ton (NAVY) - 0-0 at 1, 0-0 in duals, 0-0 overall
-2. Korsgaard/Hammond (OKST) - 0-0 at 2, 0-0 in duals, 0-0 overall  
-  Garner/Dabek (NAVY) - 0-0 at 2, 0-0 in duals, 0-0 overall
-3. Donnet/Bobichon (OKST) - 0-0 at 3, 0-0 in duals, 0-0 overall  
-  Segraves/Panyan (NAVY) - 0-0 at 3, 0-0 in duals, 0-0 overall
+1. Hudd/Vocel (OKST) - 6-4 at #1, 6-4 in duals, 6-4 overall  
+  Thompson/Ton (NAVY) - 0-0 at #1, 0-0 in duals, 0-0 overall
+2. Korsgaard/Hammond (OKST) - 0-0 at #2, 0-0 in duals, 0-0 overall  
+  Garner/Dabek (NAVY) - 0-0 at #2, 0-0 in duals, 0-0 overall
+3. Donnet/Bobichon (OKST) - 0-0 at #3, 0-0 in duals, 0-0 overall  
+  Segraves/Panyan (NAVY) - 0-0 at #3, 0-0 in duals, 0-0 overall

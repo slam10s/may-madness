@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Timo Zgraggen (VCU) - 6-0 at 6, 9-1 in duals, 9-1 overall
 
  #### Doubles:  
-1. Trotter/Boulais (OSU) - 3-2 at 1, 7-3 in duals, 7-3 overall  
-  Cronje/Cierny (VCU) - 2-1 at 1, 2-2 in duals, 2-2 overall
-2. McNally/Cash (OSU) - 6-1 at 2, 13-4 in duals, 14-5 overall  
-  Martin/Stable (VCU) - 11-1 at 2, 11-2 in duals, 11-2 overall
-3. Kingsley/Seelig (OSU) - 1-2 at 3, 2-5 in duals, 5-6 overall  
-  Coulaud/Bertimon (VCU) - 5-2 at 3, 11-7 in duals, 11-7 overall
+1. Trotter/Boulais (OSU) - 3-2 at #1, 7-3 in duals, 7-3 overall  
+  Cronje/Cierny (VCU) - 2-1 at #1, 2-2 in duals, 2-2 overall
+2. McNally/Cash (OSU) - 6-1 at #2, 13-4 in duals, 14-5 overall  
+  Martin/Stable (VCU) - 11-1 at #2, 11-2 in duals, 11-2 overall
+3. Kingsley/Seelig (OSU) - 1-2 at #3, 2-5 in duals, 5-6 overall  
+  Coulaud/Bertimon (VCU) - 5-2 at #3, 11-7 in duals, 11-7 overall

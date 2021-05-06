@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Enrique Paya (ARK) - 6-10 at 6, 6-11 in duals, 6-11 overall
 
  #### Doubles:  
-1. Gray/Fomba (TCU) - 10-6 at 1, 11-6 in duals, 13-6 overall  
-  Harrison/Paya (ARK) - 3-7 at 1, 3-7 in duals, 3-7 overall
-2. Jong/Paroulek (TCU) - 8-1 at 2, 10-3 in duals, 11-4 overall  
-  Burdet/Manuel (ARK) - 6-4 at 2, 7-4 in duals, 7-4 overall
-3. Kruger/Fearnley (TCU) - 2-1 at 3, 4-3 in duals, 4-3 overall  
-  Reco/Rouset (ARK) - 11-6 at 3, 11-8 in duals, 11-8 overall
+1. Gray/Fomba (TCU) - 10-6 at #1, 11-6 in duals, 13-6 overall  
+  Harrison/Paya (ARK) - 3-7 at #1, 3-7 in duals, 3-7 overall
+2. Jong/Paroulek (TCU) - 8-1 at #2, 10-3 in duals, 11-4 overall  
+  Burdet/Manuel (ARK) - 6-4 at #2, 7-4 in duals, 7-4 overall
+3. Kruger/Fearnley (TCU) - 2-1 at #3, 4-3 in duals, 4-3 overall  
+  Reco/Rouset (ARK) - 11-6 at #3, 11-8 in duals, 11-8 overall

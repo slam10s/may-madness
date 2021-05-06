@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   William Genesen (STAN) - 3-2 at 6, 5-3 in duals, 5-3 overall
 
  #### Doubles:  
-1. Wagner/Hohmann (LSU) - 10-9 at 1, 10-9 in duals, 18-11 overall  
-  Geller/Kopczynski (STAN) - 2-0 at 1, 3-0 in duals, 3-0 overall
-2. Thomas/Graca (LSU) - 6-10 at 2, 7-10 in duals, 7-10 overall  
-  Boyer/Sah (STAN) - 3-2 at 2, 3-3 in duals, 3-3 overall
-3. Watson/Kozlov (LSU) - 10-5 at 3, 11-5 in duals, 13-10 overall  
-  Fery/Rotsaert (STAN) - 7-0 at 3, 9-1 in duals, 9-1 overall
+1. Wagner/Hohmann (LSU) - 10-9 at #1, 10-9 in duals, 18-11 overall  
+  Geller/Kopczynski (STAN) - 2-0 at #1, 3-0 in duals, 3-0 overall
+2. Thomas/Graca (LSU) - 6-10 at #2, 7-10 in duals, 7-10 overall  
+  Boyer/Sah (STAN) - 3-2 at #2, 3-3 in duals, 3-3 overall
+3. Watson/Kozlov (LSU) - 10-5 at #3, 11-5 in duals, 13-10 overall  
+  Fery/Rotsaert (STAN) - 7-0 at #3, 9-1 in duals, 9-1 overall

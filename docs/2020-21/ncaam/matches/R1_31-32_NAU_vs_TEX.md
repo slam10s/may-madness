@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Alexander Groves (NAU) - 3-0 at 6, 6-8 in duals, 6-8 overall
 
  #### Doubles:  
-1. Spizzirri/Woldeab (TEX) - 12-9 at 1, 12-9 in duals, 19-9 overall  
-  Groves/Buzonics (NAU) - 3-2 at 1, 3-2 in duals, 3-2 overall
-2. Harper/Huang (TEX) - 5-4 at 2, 6-4 in duals, 10-7 overall  
-  Tumosa/Straker-Meads (NAU) - 1-0 at 2, 1-0 in duals, 1-0 overall
-3. Braswell/Holden (TEX) - 4-1 at 3, 4-1 in duals, 7-2 overall  
-  Steele/Ziomber (NAU) - 3-0 at 3, 3-0 in duals, 3-0 overall
+1. Spizzirri/Woldeab (TEX) - 12-9 at #1, 12-9 in duals, 19-9 overall  
+  Groves/Buzonics (NAU) - 3-2 at #1, 3-2 in duals, 3-2 overall
+2. Harper/Huang (TEX) - 5-4 at #2, 6-4 in duals, 10-7 overall  
+  Tumosa/Straker-Meads (NAU) - 1-0 at #2, 1-0 in duals, 1-0 overall
+3. Braswell/Holden (TEX) - 4-1 at #3, 4-1 in duals, 7-2 overall  
+  Steele/Ziomber (NAU) - 3-0 at #3, 3-0 in duals, 3-0 overall

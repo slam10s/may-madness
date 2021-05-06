@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Polina Kozyreva (SYR) - 7-5 at 6, 10-9 in duals, 10-9 overall
 
  #### Doubles:  
-1. Parazinskaite/Arrese (UK) - 17-2 at 1, 17-2 in duals, 20-2 overall  
-  Kanapatskaya/Novotna (SYR) - 4-7 at 1, 8-8 in duals, 8-8 overall
-2. Tkachenko/Girbau (UK) - 1-3 at 2, 1-3 in duals, 1-3 overall  
-  Kozyreva/Trescheva (SYR) - 3-7 at 2, 5-12 in duals, 5-12 overall
-3. Jacobs/Stevens (UK) - 2-0 at 3, 2-0 in duals, 2-1 overall  
-  Ramirez/Yusupova (SYR) - 5-5 at 3, 5-5 in duals, 5-5 overall
+1. Parazinskaite/Arrese (UK) - 17-2 at #1, 17-2 in duals, 20-2 overall  
+  Kanapatskaya/Novotna (SYR) - 4-7 at #1, 8-8 in duals, 8-8 overall
+2. Tkachenko/Girbau (UK) - 1-3 at #2, 1-3 in duals, 1-3 overall  
+  Kozyreva/Trescheva (SYR) - 3-7 at #2, 5-12 in duals, 5-12 overall
+3. Jacobs/Stevens (UK) - 2-0 at #3, 2-0 in duals, 2-1 overall  
+  Ramirez/Yusupova (SYR) - 5-5 at #3, 5-5 in duals, 5-5 overall

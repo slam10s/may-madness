@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Chen Dong (GT) - 11-4 at 6, 11-4 in duals, 12-6 overall
 
  #### Doubles:  
-1. Cutting/Stevenson (MEM) - 9-6 at 1, 9-6 in duals, 9-6 overall  
-  McDaniel/Martin (GT) - 5-2 at 1, 5-2 in duals, 5-2 overall
-2. Pallares/Sydow (MEM) - 12-3 at 2, 12-3 in duals, 12-3 overall  
-  Schelcher/Freestone (GT) - 6-4 at 2, 6-4 in duals, 6-4 overall
-3. Story/Taylor (MEM) - 10-3 at 3, 10-3 in duals, 10-3 overall  
-  Chopra/Dong (GT) - 2-1 at 3, 2-1 in duals, 2-1 overall
+1. Cutting/Stevenson (MEM) - 9-6 at #1, 9-6 in duals, 9-6 overall  
+  McDaniel/Martin (GT) - 5-2 at #1, 5-2 in duals, 5-2 overall
+2. Pallares/Sydow (MEM) - 12-3 at #2, 12-3 in duals, 12-3 overall  
+  Schelcher/Freestone (GT) - 6-4 at #2, 6-4 in duals, 6-4 overall
+3. Story/Taylor (MEM) - 10-3 at #3, 10-3 in duals, 10-3 overall  
+  Chopra/Dong (GT) - 2-1 at #3, 2-1 in duals, 2-1 overall

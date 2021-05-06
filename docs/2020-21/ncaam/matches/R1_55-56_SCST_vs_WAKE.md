@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Luka Stefanovic (SCST) - 4-1 at 6, 4-1 in duals, 4-1 overall
 
  #### Doubles:  
-1. Nava/Squire (WAKE) - 13-5 at 1, 13-5 in duals, 13-5 overall  
-  Rodriguez/Marouani (SCST) - 6-6 at 1, 6-6 in duals, 6-6 overall
-2. Thomson/Banthia (WAKE) - 7-4 at 2, 17-6 in duals, 17-6 overall  
-  Daskalovic/Momo (SCST) - 4-4 at 2, 4-4 in duals, 4-4 overall
-3. Efstathiou/Baadi (WAKE) - 8-4 at 3, 12-5 in duals, 12-5 overall  
-  Arzaluz/Ben Ali (SCST) - 3-3 at 3, 3-3 in duals, 3-3 overall
+1. Nava/Squire (WAKE) - 13-5 at #1, 13-5 in duals, 13-5 overall  
+  Rodriguez/Marouani (SCST) - 6-6 at #1, 6-6 in duals, 6-6 overall
+2. Thomson/Banthia (WAKE) - 7-4 at #2, 17-6 in duals, 17-6 overall  
+  Daskalovic/Momo (SCST) - 4-4 at #2, 4-4 in duals, 4-4 overall
+3. Efstathiou/Baadi (WAKE) - 8-4 at #3, 12-5 in duals, 12-5 overall  
+  Arzaluz/Ben Ali (SCST) - 3-3 at #3, 3-3 in duals, 3-3 overall

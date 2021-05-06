@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Michael Copeland (UNCW) - 5-2 at 6, 13-6 in duals, 13-6 overall
 
  #### Doubles:  
-1. Rodrigues/Thomson (SCAR) - 13-7 at 1, 13-7 in duals, 20-11 overall  
-  Groom/Caula (UNCW) - 11-4 at 1, 11-4 in duals, 11-4 overall
-2. Beasley/Samuel (SCAR) - 9-3 at 2, 15-7 in duals, 23-11 overall  
-  Gooch/Rasamatov (UNCW) - 3-2 at 2, 7-2 in duals, 7-2 overall
-3. Lambling/Jordan (SCAR) - 4-3 at 3, 6-7 in duals, 14-10 overall  
-  Sprovieri/Hurtado (UNCW) - 6-1 at 3, 7-2 in duals, 7-2 overall
+1. Rodrigues/Thomson (SCAR) - 13-7 at #1, 13-7 in duals, 20-11 overall  
+  Groom/Caula (UNCW) - 11-4 at #1, 11-4 in duals, 11-4 overall
+2. Beasley/Samuel (SCAR) - 9-3 at #2, 15-7 in duals, 23-11 overall  
+  Gooch/Rasamatov (UNCW) - 3-2 at #2, 7-2 in duals, 7-2 overall
+3. Lambling/Jordan (SCAR) - 4-3 at #3, 6-7 in duals, 14-10 overall  
+  Sprovieri/Hurtado (UNCW) - 6-1 at #3, 7-2 in duals, 7-2 overall

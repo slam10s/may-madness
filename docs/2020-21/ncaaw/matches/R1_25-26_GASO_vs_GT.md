@@ -56,9 +56,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Paula Hijos (GASO) - 2-0 at 6, 13-6 in duals, 13-6 overall
 
  #### Doubles:  
-1. Jones/Flores (GT) - 20-3 at 1, 20-3 in duals, 22-4 overall  
-  van Diemen/Wagemaker (GASO) - 9-8 at 1, 9-8 in duals, 9-8 overall
-2. Hrastar/Cohen (GT) - 5-6 at 2, 6-6 in duals, 6-6 overall  
-  Boixader/Meier (GASO) - 6-3 at 2, 6-3 in duals, 6-3 overall
-3. Lee/Dedaj (GT) - 1-8 at 3, 1-8 in duals, 1-8 overall  
-  Goines/Keranen (GASO) - 8-3 at 3, 9-7 in duals, 9-7 overall
+1. Jones/Flores (GT) - 20-3 at #1, 20-3 in duals, 22-4 overall  
+  van Diemen/Wagemaker (GASO) - 9-8 at #1, 9-8 in duals, 9-8 overall
+2. Hrastar/Cohen (GT) - 5-6 at #2, 6-6 in duals, 6-6 overall  
+  Boixader/Meier (GASO) - 6-3 at #2, 6-3 in duals, 6-3 overall
+3. Lee/Dedaj (GT) - 1-8 at #3, 1-8 in duals, 1-8 overall  
+  Goines/Keranen (GASO) - 8-3 at #3, 9-7 in duals, 9-7 overall

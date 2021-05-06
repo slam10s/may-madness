@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Sergio Molina (UNM) - 0-0 at 6, 1-7 in duals, 1-7 overall
 
  #### Doubles:  
-1. Aguilar/Thomson (A&M) - 7-6 at 1, 7-6 in duals, 10-8 overall  
-  West/Molina (UNM) - 8-3 at 1, 11-3 in duals, 11-3 overall
-2. Vacherot/Rollins (A&M) - 5-3 at 2, 12-5 in duals, 15-5 overall  
-  Trondson/Dobai (UNM) - 7-4 at 2, 8-7 in duals, 8-7 overall
-3. Kumar/Schachter (A&M) - 7-4 at 3, 7-4 in duals, 7-4 overall  
-  Maggs/Holis (UNM) - 5-4 at 3, 5-4 in duals, 5-4 overall
+1. Aguilar/Thomson (A&M) - 7-6 at #1, 7-6 in duals, 10-8 overall  
+  West/Molina (UNM) - 8-3 at #1, 11-3 in duals, 11-3 overall
+2. Vacherot/Rollins (A&M) - 5-3 at #2, 12-5 in duals, 15-5 overall  
+  Trondson/Dobai (UNM) - 7-4 at #2, 8-7 in duals, 8-7 overall
+3. Kumar/Schachter (A&M) - 7-4 at #3, 7-4 in duals, 7-4 overall  
+  Maggs/Holis (UNM) - 5-4 at #3, 5-4 in duals, 5-4 overall

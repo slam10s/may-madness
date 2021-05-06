@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Guillermo Castaneda (TAMCC) - 4-1 at 6, 10-1 in duals, 10-1 overall
 
  #### Doubles:  
-1. Lah/Frantzen (BAY) - 11-7 at 1, 11-7 in duals, 11-7 overall  
-  K.Yamanaka/Ata (TAMCC) - 8-6 at 1, 11-6 in duals, 12-9 overall
-2. Stachowiak/Soto (BAY) - 7-1 at 2, 7-1 in duals, 10-1 overall  
-  Schwartz/Lorieul (TAMCC) - 2-2 at 2, 4-2 in duals, 15-8 overall
-3. Broom/Bass (BAY) - 5-3 at 3, 5-3 in duals, 5-3 overall  
-  B.Delgado/Ruiz (TAMCC) - 5-0 at 3, 5-0 in duals, 18-4 overall
+1. Lah/Frantzen (BAY) - 11-7 at #1, 11-7 in duals, 11-7 overall  
+  K.Yamanaka/Ata (TAMCC) - 8-6 at #1, 11-6 in duals, 12-9 overall
+2. Stachowiak/Soto (BAY) - 7-1 at #2, 7-1 in duals, 10-1 overall  
+  Schwartz/Lorieul (TAMCC) - 2-2 at #2, 4-2 in duals, 15-8 overall
+3. Broom/Bass (BAY) - 5-3 at #3, 5-3 in duals, 5-3 overall  
+  B.Delgado/Ruiz (TAMCC) - 5-0 at #3, 5-0 in duals, 18-4 overall

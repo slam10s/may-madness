@@ -56,9 +56,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Akos Kotorman (TULN) - 1-2 at 6, 2-3 in duals, 2-3 overall
 
  #### Doubles:  
-1. Motl/Slump (MTSU) - 9-9 at 1, 9-9 in duals, 9-9 overall  
-  Stewart/Moore (TULN) - 12-6 at 1, 12-6 in duals, 12-6 overall
-2. Moonen/Edge (MTSU) - 15-6 at 2, 15-6 in duals, 15-6 overall  
-  Kotorman/Suarez (TULN) - 12-6 at 2, 12-6 in duals, 12-6 overall
-3. Rocha/Rauch (MTSU) - 9-9 at 3, 11-9 in duals, 11-9 overall  
-  Erlenbusch/Kuenkler (TULN) - 10-4 at 3, 10-4 in duals, 10-4 overall
+1. Motl/Slump (MTSU) - 9-9 at #1, 9-9 in duals, 9-9 overall  
+  Stewart/Moore (TULN) - 12-6 at #1, 12-6 in duals, 12-6 overall
+2. Moonen/Edge (MTSU) - 15-6 at #2, 15-6 in duals, 15-6 overall  
+  Kotorman/Suarez (TULN) - 12-6 at #2, 12-6 in duals, 12-6 overall
+3. Rocha/Rauch (MTSU) - 9-9 at #3, 11-9 in duals, 11-9 overall  
+  Erlenbusch/Kuenkler (TULN) - 10-4 at #3, 10-4 in duals, 10-4 overall

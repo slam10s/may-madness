@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Anastasia Koniaev (SIEN) - 5-2 at 6, 6-2 in duals, 6-2 overall
 
  #### Doubles:  
-1. Kessler/Zein (FLA) - 9-6 at 1, 9-6 in duals, 13-7 overall  
-  Brown/Mullaney (SIEN) - 7-3 at 1, 7-3 in duals, 7-3 overall
-2. Jarlskog/Sleeth (FLA) - 6-0 at 2, 6-0 in duals, 6-0 overall  
-  Miszczak/Boggiali (SIEN) - 3-0 at 2, 3-0 in duals, 3-0 overall
-3. Dahlstrom/Berlin (FLA) - 3-5 at 3, 3-5 in duals, 6-7 overall  
-  Viswanath/Koniaev (SIEN) - 0-0 at 3, 0-0 in duals, 0-0 overall
+1. Kessler/Zein (FLA) - 9-6 at #1, 9-6 in duals, 13-7 overall  
+  Brown/Mullaney (SIEN) - 7-3 at #1, 7-3 in duals, 7-3 overall
+2. Jarlskog/Sleeth (FLA) - 6-0 at #2, 6-0 in duals, 6-0 overall  
+  Miszczak/Boggiali (SIEN) - 3-0 at #2, 3-0 in duals, 3-0 overall
+3. Dahlstrom/Berlin (FLA) - 3-5 at #3, 3-5 in duals, 6-7 overall  
+  Viswanath/Koniaev (SIEN) - 0-0 at #3, 0-0 in duals, 0-0 overall

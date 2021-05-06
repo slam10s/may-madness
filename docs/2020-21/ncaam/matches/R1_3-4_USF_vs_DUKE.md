@@ -56,9 +56,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Sergio Gomez-Montesa (USF) - 2-1 at 6, 13-10 in duals, 13-10 overall
 
  #### Doubles:  
-1. Sculley/Johns (DUKE) - 8-7 at 1, 8-7 in duals, 9-8 overall  
-  Bollipalli/Wojcik (USF) - 9-7 at 1, 9-7 in duals, 9-7 overall
-2. Heller/Zhang (DUKE) - 4-1 at 2, 5-2 in duals, 5-2 overall  
-  Ferguson/Yatsuk (USF) - 1-0 at 2, 2-1 in duals, 2-1 overall
-3. Keist/Dale (DUKE) - 1-1 at 3, 1-1 in duals, 1-1 overall  
-  Goncalves/Tudorica (USF) - 0-0 at 3, 0-0 in duals, 0-0 overall
+1. Sculley/Johns (DUKE) - 8-7 at #1, 8-7 in duals, 9-8 overall  
+  Bollipalli/Wojcik (USF) - 9-7 at #1, 9-7 in duals, 9-7 overall
+2. Heller/Zhang (DUKE) - 4-1 at #2, 5-2 in duals, 5-2 overall  
+  Ferguson/Yatsuk (USF) - 1-0 at #2, 2-1 in duals, 2-1 overall
+3. Keist/Dale (DUKE) - 1-1 at #3, 1-1 in duals, 1-1 overall  
+  Goncalves/Tudorica (USF) - 0-0 at #3, 0-0 in duals, 0-0 overall

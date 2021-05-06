@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Davide Tortora (MSST) - 7-3 at 6, 7-3 in duals, 13-7 overall
 
  #### Doubles:  
-1. Hannestad/Aubone (MIA) - 7-8 at 1, 7-8 in duals, 7-8 overall  
-  Broska/Ramskogler (MSST) - 7-5 at 1, 11-6 in duals, 11-6 overall
-2. Barrera/Vasser (MIA) - 2-2 at 2, 2-2 in duals, 2-2 overall  
-  Malesevic/Tortora (MSST) - 3-3 at 2, 6-4 in duals, 9-7 overall
-3. Jankulovski/Milicevic (MIA) - 4-3 at 3, 4-3 in duals, 4-3 overall  
-  Ocana/Oradini (MSST) - 2-2 at 3, 2-2 in duals, 2-2 overall
+1. Hannestad/Aubone (MIA) - 7-8 at #1, 7-8 in duals, 7-8 overall  
+  Broska/Ramskogler (MSST) - 7-5 at #1, 11-6 in duals, 11-6 overall
+2. Barrera/Vasser (MIA) - 2-2 at #2, 2-2 in duals, 2-2 overall  
+  Malesevic/Tortora (MSST) - 3-3 at #2, 6-4 in duals, 9-7 overall
+3. Jankulovski/Milicevic (MIA) - 4-3 at #3, 4-3 in duals, 4-3 overall  
+  Ocana/Oradini (MSST) - 2-2 at #3, 2-2 in duals, 2-2 overall

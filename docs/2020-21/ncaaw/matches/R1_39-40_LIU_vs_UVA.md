@@ -56,9 +56,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Ekaterine Jorjoliani (LIU) - 5-1 at 6, 7-1 in duals, 7-1 overall
 
  #### Doubles:  
-1. Navarro/Johanson (UVA) - 7-6 at 1, 9-8 in duals, 9-8 overall  
-  Dancenco/Kuzina (LIU) - 6-3 at 1, 6-3 in duals, 6-3 overall
-2. Munera/Subhash (UVA) - 6-5 at 2, 8-5 in duals, 10-7 overall  
-  Erechtchenko/Maduel (LIU) - 0-0 at 2, 7-2 in duals, 7-2 overall
-3. Glozman/Shaikh (UVA) - 1-1 at 3, 1-1 in duals, 1-2 overall  
-  Storkaas/Compuesto (LIU) - 0-0 at 3, 5-3 in duals, 5-3 overall
+1. Navarro/Johanson (UVA) - 7-6 at #1, 9-8 in duals, 9-8 overall  
+  Dancenco/Kuzina (LIU) - 6-3 at #1, 6-3 in duals, 6-3 overall
+2. Munera/Subhash (UVA) - 6-5 at #2, 8-5 in duals, 10-7 overall  
+  Erechtchenko/Maduel (LIU) - 0-0 at #2, 7-2 in duals, 7-2 overall
+3. Glozman/Shaikh (UVA) - 1-1 at #3, 1-1 in duals, 1-2 overall  
+  Storkaas/Compuesto (LIU) - 0-0 at #3, 5-3 in duals, 5-3 overall

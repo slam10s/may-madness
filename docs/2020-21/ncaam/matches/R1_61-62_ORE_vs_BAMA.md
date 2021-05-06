@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Luke Vandecasteele (ORE) - 3-6 at 6, 9-8 in duals, 9-8 overall
 
  #### Doubles:  
-1. Kaukovalta/Roberto (BAMA) - 10-7 at 1, 11-9 in duals, 16-14 overall  
-  Charlton/Vandecasteele (ORE) - 9-3 at 1, 9-3 in duals, 9-3 overall
-2. Nesterov/Ortiz (BAMA) - 3-3 at 2, 7-7 in duals, 7-7 overall  
-  Coste/Klov-Nilsson (ORE) - 4-5 at 2, 12-8 in duals, 12-8 overall
-3. Garza/Zhou (BAMA) - 0-2 at 3, 0-2 in duals, 0-2 overall  
-  Lam/Matsushita (ORE) - 4-3 at 3, 4-3 in duals, 4-3 overall
+1. Kaukovalta/Roberto (BAMA) - 10-7 at #1, 11-9 in duals, 16-14 overall  
+  Charlton/Vandecasteele (ORE) - 9-3 at #1, 9-3 in duals, 9-3 overall
+2. Nesterov/Ortiz (BAMA) - 3-3 at #2, 7-7 in duals, 7-7 overall  
+  Coste/Klov-Nilsson (ORE) - 4-5 at #2, 12-8 in duals, 12-8 overall
+3. Garza/Zhou (BAMA) - 0-2 at #3, 0-2 in duals, 0-2 overall  
+  Lam/Matsushita (ORE) - 4-3 at #3, 4-3 in duals, 4-3 overall

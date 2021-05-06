@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Jovana Babic (SJSU) - 7-3 at 6, 7-3 in duals, 7-3 overall
 
  #### Doubles:  
-1. Giavara/Ivanov (CAL) - 12-5 at 1, 12-5 in duals, 12-5 overall  
-  Galindo/Mas (SJSU) - 0-3 at 1, 3-6 in duals, 3-6 overall
-2. Bright/Moeller (CAL) - 11-6 at 2, 11-6 in duals, 11-6 overall  
-  Culibrk/Muradyan (SJSU) - 1-1 at 2, 3-2 in duals, 3-3 overall
-3. Bui/Richardson (CAL) - 2-2 at 3, 2-2 in duals, 2-2 overall  
-  Youseva/Pereira (SJSU) - 2-3 at 3, 2-3 in duals, 2-3 overall
+1. Giavara/Ivanov (CAL) - 12-5 at #1, 12-5 in duals, 12-5 overall  
+  Galindo/Mas (SJSU) - 0-3 at #1, 3-6 in duals, 3-6 overall
+2. Bright/Moeller (CAL) - 11-6 at #2, 11-6 in duals, 11-6 overall  
+  Culibrk/Muradyan (SJSU) - 1-1 at #2, 3-2 in duals, 3-3 overall
+3. Bui/Richardson (CAL) - 2-2 at #3, 2-2 in duals, 2-2 overall  
+  Youseva/Pereira (SJSU) - 2-3 at #3, 2-3 in duals, 2-3 overall

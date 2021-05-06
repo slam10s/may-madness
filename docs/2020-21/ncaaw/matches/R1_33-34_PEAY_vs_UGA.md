@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Honoka Nakanishi (PEAY) - 7-3 at 6, 7-3 in duals, 7-3 overall
 
  #### Doubles:  
-1. Jokic/Arseneault (UGA) - 11-4 at 1, 11-4 in duals, 14-6 overall  
-  Schmidt/Morris (PEAY) - 12-2 at 1, 12-2 in duals, 12-2 overall
-2. Christofi/Coppoc (UGA) - 12-2 at 2, 12-2 in duals, 18-3 overall  
-  Leder/Topalovic (PEAY) - 7-3 at 2, 7-3 in duals, 7-3 overall
-3. Lea Ma/Kowalski (UGA) - 15-2 at 3, 15-2 in duals, 18-2 overall  
-  Nakanishi/Albertson (PEAY) - 5-6 at 3, 5-6 in duals, 5-6 overall
+1. Jokic/Arseneault (UGA) - 11-4 at #1, 11-4 in duals, 14-6 overall  
+  Schmidt/Morris (PEAY) - 12-2 at #1, 12-2 in duals, 12-2 overall
+2. Christofi/Coppoc (UGA) - 12-2 at #2, 12-2 in duals, 18-3 overall  
+  Leder/Topalovic (PEAY) - 7-3 at #2, 7-3 in duals, 7-3 overall
+3. Lea Ma/Kowalski (UGA) - 15-2 at #3, 15-2 in duals, 18-2 overall  
+  Nakanishi/Albertson (PEAY) - 5-6 at #3, 5-6 in duals, 5-6 overall

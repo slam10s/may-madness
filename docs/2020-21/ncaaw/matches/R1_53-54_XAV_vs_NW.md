@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Emily Thomas (XAV) - 2-0 at 6, 8-4 in duals, 8-4 overall
 
  #### Doubles:  
-1. Byrne/Crowley (NW) - 7-2 at 1, 7-2 in duals, 7-2 overall  
-  Kyle/Thomas (XAV) - 9-8 at 1, 9-8 in duals, 9-8 overall
-2. Hand/Hand (NW) - 4-3 at 2, 4-3 in duals, 4-3 overall  
-  Roggenburk/Graham (XAV) - 3-1 at 2, 10-2 in duals, 10-2 overall
-3. McColgan/Pozo (NW) - 5-2 at 3, 5-2 in duals, 5-2 overall  
-  Ruether/Lyman (XAV) - 2-0 at 3, 7-3 in duals, 7-3 overall
+1. Byrne/Crowley (NW) - 7-2 at #1, 7-2 in duals, 7-2 overall  
+  Kyle/Thomas (XAV) - 9-8 at #1, 9-8 in duals, 9-8 overall
+2. Hand/Hand (NW) - 4-3 at #2, 4-3 in duals, 4-3 overall  
+  Roggenburk/Graham (XAV) - 3-1 at #2, 10-2 in duals, 10-2 overall
+3. McColgan/Pozo (NW) - 5-2 at #3, 5-2 in duals, 5-2 overall  
+  Ruether/Lyman (XAV) - 2-0 at #3, 7-3 in duals, 7-3 overall

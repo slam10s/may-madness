@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Anna Bowtell (RICE) - 0-0 at 6, 11-5 in duals, 14-8 overall
 
  #### Doubles:  
-1. Jones/Brown (MICH) - 2-0 at 1, 2-0 in duals, 2-0 overall  
-  Budin/Jardi (RICE) - 13-5 at 1, 13-5 in duals, 17-9 overall
-2. Miller/Lommer (MICH) - 2-0 at 2, 2-0 in duals, 2-0 overall  
-  Trevisan/Haet (RICE) - 6-5 at 2, 8-5 in duals, 9-6 overall
-3. Lorenzini/Cerdan (MICH) - 0-0 at 3, 0-0 in duals, 0-0 overall  
-  Bowtell/Smirnova (RICE) - 8-5 at 3, 9-6 in duals, 11-9 overall
+1. Jones/Brown (MICH) - 2-0 at #1, 2-0 in duals, 2-0 overall  
+  Budin/Jardi (RICE) - 13-5 at #1, 13-5 in duals, 17-9 overall
+2. Miller/Lommer (MICH) - 2-0 at #2, 2-0 in duals, 2-0 overall  
+  Trevisan/Haet (RICE) - 6-5 at #2, 8-5 in duals, 9-6 overall
+3. Lorenzini/Cerdan (MICH) - 0-0 at #3, 0-0 in duals, 0-0 overall  
+  Bowtell/Smirnova (RICE) - 8-5 at #3, 9-6 in duals, 11-9 overall

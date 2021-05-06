@@ -58,9 +58,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Sofia Cabezas (ISU) - 9-3 at 6, 13-4 in duals, 13-4 overall
 
  #### Doubles:  
-1. Davies/Horvit (SCAR) - 9-8 at 1, 9-8 in duals, 13-10 overall  
-  Naklo/Hsieh (ISU) - 1-1 at 1, 1-1 in duals, 1-1 overall
-2. Chinellato/Shelton (SCAR) - 7-5 at 2, 7-5 in duals, 10-8 overall  
-  Kadleckova/Cabezas (ISU) - 1-0 at 2, 1-0 in duals, 1-0 overall
-3. Cruz/Gretkowski (SCAR) - 11-0 at 3, 11-2 in duals, 11-2 overall  
-  Cancini/Chang (ISU) - 6-3 at 3, 6-3 in duals, 6-3 overall
+1. Davies/Horvit (SCAR) - 9-8 at #1, 9-8 in duals, 13-10 overall  
+  Naklo/Hsieh (ISU) - 1-1 at #1, 1-1 in duals, 1-1 overall
+2. Chinellato/Shelton (SCAR) - 7-5 at #2, 7-5 in duals, 10-8 overall  
+  Kadleckova/Cabezas (ISU) - 1-0 at #2, 1-0 in duals, 1-0 overall
+3. Cruz/Gretkowski (SCAR) - 11-0 at #3, 11-2 in duals, 11-2 overall  
+  Cancini/Chang (ISU) - 6-3 at #3, 6-3 in duals, 6-3 overall

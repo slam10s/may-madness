@@ -56,9 +56,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Anabel Aguilar (SCST) - 3-1 at 6, 3-1 in duals, 3-1 overall
 
  #### Doubles:  
-1. Daavettila/Morra (UNC) - 10-1 at 1, 10-1 in duals, 10-1 overall  
-  Semlali/Patnaik (SCST) - 4-0 at 1, 4-0 in duals, 4-0 overall
-2. Jones/Scotty (UNC) - 8-1 at 2, 10-1 in duals, 10-1 overall  
-  Berjane/Cemalovic (SCST) - 1-1 at 2, 1-1 in duals, 1-1 overall
-3. Sanford/Tran (UNC) - 12-3 at 3, 16-3 in duals, 16-3 overall  
-  Mihajilovic/Aguilar (SCST) - 6-3 at 3, 6-3 in duals, 6-3 overall
+1. Daavettila/Morra (UNC) - 10-1 at #1, 10-1 in duals, 10-1 overall  
+  Semlali/Patnaik (SCST) - 4-0 at #1, 4-0 in duals, 4-0 overall
+2. Jones/Scotty (UNC) - 8-1 at #2, 10-1 in duals, 10-1 overall  
+  Berjane/Cemalovic (SCST) - 1-1 at #2, 1-1 in duals, 1-1 overall
+3. Sanford/Tran (UNC) - 12-3 at #3, 16-3 in duals, 16-3 overall  
+  Mihajilovic/Aguilar (SCST) - 6-3 at #3, 6-3 in duals, 6-3 overall

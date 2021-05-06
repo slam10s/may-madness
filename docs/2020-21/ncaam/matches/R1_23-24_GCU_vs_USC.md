@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Freddie Grant (GCU) - 9-2 at 6, 9-8 in duals, 9-8 overall
 
  #### Doubles:  
-1. Cukierman/Smith (USC) - 17-3 at 1, 17-3 in duals, 18-3 overall  
-  Lang/Novak (GCU) - 10-6 at 1, 10-6 in duals, 10-6 overall
-2. Dostanic/Frye (USC) - 13-1 at 2, 13-1 in duals, 13-1 overall  
-  Argote/Cvitanovic (GCU) - 7-4 at 2, 7-5 in duals, 7-5 overall
-3. Holt/Sands (USC) - 0-0 at 3, 0-0 in duals, 0-0 overall  
-  Grant/Van Zeggelaar (GCU) - 6-4 at 3, 6-4 in duals, 6-4 overall
+1. Cukierman/Smith (USC) - 17-3 at #1, 17-3 in duals, 18-3 overall  
+  Lang/Novak (GCU) - 10-6 at #1, 10-6 in duals, 10-6 overall
+2. Dostanic/Frye (USC) - 13-1 at #2, 13-1 in duals, 13-1 overall  
+  Argote/Cvitanovic (GCU) - 7-4 at #2, 7-5 in duals, 7-5 overall
+3. Holt/Sands (USC) - 0-0 at #3, 0-0 in duals, 0-0 overall  
+  Grant/Van Zeggelaar (GCU) - 6-4 at #3, 6-4 in duals, 6-4 overall

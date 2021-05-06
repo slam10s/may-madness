@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Divesh Gahlot (AAMU) - 3-0 at 6, 3-0 in duals, 3-0 overall
 
  #### Doubles:  
-1. Walton/Harper (TENN) - 15-6 at 1, 15-6 in duals, 22-7 overall  
-  Setiawan/Rios (AAMU) - 3-7 at 1, 3-7 in duals, 3-7 overall
-2. Monday/Prata (TENN) - 12-7 at 2, 16-7 in duals, 17-8 overall  
-  Popovski/Chang (AAMU) - 0-0 at 2, 3-7 in duals, 3-7 overall
-3. Wallner/Hussey (TENN) - 14-5 at 3, 15-5 in duals, 15-5 overall  
-  Gahlot/Ruiz (AAMU) - 0-0 at 3, 1-1 in duals, 1-1 overall
+1. Walton/Harper (TENN) - 15-6 at #1, 15-6 in duals, 22-7 overall  
+  Setiawan/Rios (AAMU) - 3-7 at #1, 3-7 in duals, 3-7 overall
+2. Monday/Prata (TENN) - 12-7 at #2, 16-7 in duals, 17-8 overall  
+  Popovski/Chang (AAMU) - 0-0 at #2, 3-7 in duals, 3-7 overall
+3. Wallner/Hussey (TENN) - 14-5 at #3, 15-5 in duals, 15-5 overall  
+  Gahlot/Ruiz (AAMU) - 0-0 at #3, 1-1 in duals, 1-1 overall

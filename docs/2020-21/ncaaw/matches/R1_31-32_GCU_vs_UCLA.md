@@ -57,9 +57,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Taylor Andersen (GCU) - 9-5 at 6, 10-7 in duals, 10-7 overall
 
  #### Doubles:  
-1. Forbes/Hart (UCLA) - 9-1 at 1, 9-1 in duals, 9-1 overall  
-  Puehse/Weiss (GCU) - 5-12 at 1, 5-12 in duals, 5-12 overall
-2. Wolff/Goulak (UCLA) - 16-2 at 2, 16-2 in duals, 16-2 overall  
-  Occhipinti/Prudhomme (GCU) - 15-4 at 2, 15-4 in duals, 15-4 overall
-3. Bolton/Altick (UCLA) - 3-0 at 3, 3-0 in duals, 3-0 overall  
-  Lomas/Andersen (GCU) - 12-6 at 3, 12-6 in duals, 12-6 overall
+1. Forbes/Hart (UCLA) - 9-1 at #1, 9-1 in duals, 9-1 overall  
+  Puehse/Weiss (GCU) - 5-12 at #1, 5-12 in duals, 5-12 overall
+2. Wolff/Goulak (UCLA) - 16-2 at #2, 16-2 in duals, 16-2 overall  
+  Occhipinti/Prudhomme (GCU) - 15-4 at #2, 15-4 in duals, 15-4 overall
+3. Bolton/Altick (UCLA) - 3-0 at #3, 3-0 in duals, 3-0 overall  
+  Lomas/Andersen (GCU) - 12-6 at #3, 12-6 in duals, 12-6 overall

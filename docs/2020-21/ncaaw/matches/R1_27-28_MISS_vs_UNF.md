@@ -56,9 +56,9 @@ Ranks listed here are the metric's ranking within the field of 64:
   Lillian Gabrielsen (MISS) - 2-1 at 6, 5-3 in duals, 8-8 overall
 
  #### Doubles:  
-1. Montano/Gorches (UNF) - 5-1 at 1, 15-6 in duals, 15-6 overall  
-  Vrbenska/Bortles (MISS) - 2-3 at 1, 2-3 in duals, 2-3 overall
-2. Gulihur/Mariotto (UNF) - 3-3 at 2, 3-3 in duals, 3-3 overall  
-  Machalova/Fiquet (MISS) - 2-1 at 2, 2-1 in duals, 1-1 overall
-3. Yardley/Davis (UNF) - 1-1 at 3, 1-1 in duals, 1-1 overall  
-  Janatova/Mize (MISS) - 0-2 at 3, 0-2 in duals, 0-2 overall
+1. Montano/Gorches (UNF) - 5-1 at #1, 15-6 in duals, 15-6 overall  
+  Vrbenska/Bortles (MISS) - 2-3 at #1, 2-3 in duals, 2-3 overall
+2. Gulihur/Mariotto (UNF) - 3-3 at #2, 3-3 in duals, 3-3 overall  
+  Machalova/Fiquet (MISS) - 2-1 at #2, 2-1 in duals, 1-1 overall
+3. Yardley/Davis (UNF) - 1-1 at #3, 1-1 in duals, 1-1 overall  
+  Janatova/Mize (MISS) - 0-2 at #3, 0-2 in duals, 0-2 overall
