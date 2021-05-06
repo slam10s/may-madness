@@ -1,0 +1,111 @@
+Date: Friday, May 7
+Time: 2:00 EDT
+Round: First Round
+Lines: 23-24
+Title: "Boston U. vs #12 LSU"
+URL: https://www.ncaa.com/game/5833658
+Winner: TBD
+Home:
+  Seed: 12
+  Team: LSU
+  Entry: At-Large Bid
+  Draw Line: 24
+  Ratings:
+    ITA: 48.734 (12)
+    SLM: 90.279 (21)
+    TRN: 82.923 (18)
+    MAS: 7.77 (21)
+    UTR: 61.48 (26)
+  Polls:
+    USTA: 23
+    Coach: 14
+Visitor:
+  Team: Boston U.
+  Entry: Automatic Qualifier
+  Draw Line: 23
+  Ratings:
+    ITA: 5.156 (50)
+    SLM: 78.647 (54)
+    TRN: 71.288 (51)
+    MAS: 5.32 (54)
+    UTR: 55.5 (49)
+Predictions:
+  SLM: "LSU - #21 LSU (99%) def. #54 Boston U. (1%)"
+  TRN: "LSU - #18 LSU (99%) def. #51 Boston U. (1%)"
+  MAS: "LSU - #21 LSU (75%) def. #54 Boston U. (25%)"
+  UTR: "LSU - #26 LSU (+5.98) def. #49 Boston U. (-5.98)"
+  ITA: "LSU - #12 LSU def. #50 Boston U."
+  USTA: "LSU - #23 LSU def. Boston U."
+  Coach: "LSU - #14 LSU def. Boston U."
+Lineups:
+  Predictions:
+    Average EWPs for LSU: 87%,68%,91%,91%,87%,90%
+    Average EWPs for BU: 13%,32%,9%,9%,13%,10%
+    LSU wins 4 or more Singles points: 97%
+    BU wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 3%
+  Singles:
+    - Position: 1
+      LSU: Taylor Bridges - 7-7 at 1, 7-7 in duals, 13-10 overall
+      BU: Victoria Carlsten - 2-2 at 1, 3-3 in duals, 3-3 overall
+      Predictions:
+        SLM: LSU - Bridges (94%) def. Carlsten (6%)
+        TRN: LSU - Bridges (94%) def. Carlsten (6%)
+        MAS: LSU - Bridges (75%) def. Carlsten (25%)
+        UTR: LSU - Bridges (86%) def. Carlsten (14%)
+        ITA: LSU - Bridges (11.61) def. Carlsten (0.00)
+    - Position: 2
+      LSU: Safiya Carrington - 2-5 at 2, 3-6 in duals, 10-10 overall
+      BU: Kaitlin Tan - 3-0 at 2, 5-0 in duals, 5-0 overall
+      Predictions:
+        SLM: LSU - Carrington (79%) def. Tan (21%)
+        TRN: LSU - Carrington (78%) def. Tan (22%)
+        MAS: BU - Tan (75%) def. Carrington (25%)
+        UTR: LSU - Carrington (91%) def. Tan (9%)
+        ITA: LSU - Carrington (4.09) def. Tan (3.03)
+    - Position: 3
+      LSU: Paris Corley - 6-2 at 3, 10-3 in duals, 18-4 overall
+      BU: Erica Di Battista - 1-1 at 3, 4-1 in duals, 4-1 overall
+      Predictions:
+        SLM: LSU - Corley (96%) def. Battista (4%)
+        TRN: LSU - Corley (97%) def. Battista (3%)
+        MAS: LSU - Corley (75%) def. Battista (25%)
+        UTR: LSU - Corley (97%) def. Battista (3%)
+        ITA: LSU - Corley (9.83) def. Battista (2.01)
+    - Position: 4
+      LSU: Maggie Cubitt - 4-1 at 4, 5-1 in duals, 6-4 overall
+      BU: Emily Kim - 2-1 at 4, 6-2 in duals, 6-2 overall
+      Predictions:
+        SLM: LSU - Cubitt (96%) def. Kim (4%)
+        TRN: LSU - Cubitt (96%) def. Kim (4%)
+        MAS: LSU - Cubitt (75%) def. Kim (25%)
+        UTR: LSU - Cubitt (97%) def. Kim (3%)
+        ITA: BU - Kim (2.60) def. Cubitt (2.11)
+    - Position: 5
+      LSU: Eden Richardson - 2-2 at 5, 4-6 in duals, 8-11 overall
+      BU: Lily Burchell - 4-0 at 5, 6-1 in duals, 6-1 overall
+      Predictions:
+        SLM: LSU - Richardson (94%) def. Burchell (6%)
+        TRN: LSU - Richardson (90%) def. Burchell (10%)
+        MAS: LSU - Richardson (75%) def. Burchell (25%)
+        UTR: LSU - Richardson (90%) def. Burchell (10%)
+        ITA: BU - Burchell (3.12) def. Richardson (1.47)
+    - Position: 6
+      LSU: Nina Geissler - 4-2 at 6, 10-3 in duals, 15-6 overall
+      BU: Katya Martens - 0-0 at 6, 4-0 in duals, 4-0 overall
+      Predictions:
+        SLM: LSU - Geissler (96%) def. Martens (4%)
+        TRN: LSU - Geissler (95%) def. Martens (5%)
+        MAS: LSU - Geissler (75%) def. Martens (25%)
+        UTR: LSU - Geissler (92%) def. Martens (8%)
+        ITA: BU - Martens (2.51) def. Geissler (2.01)
+  Doubles:
+    - Position: 1
+      LSU: Richardson/Geissler - 4-7 at 1, 4-7 in duals, 4-10 overall
+      BU: Kim/Burchell - 3-1 at 1, 3-1 in duals, 3-1 overall
+    - Position: 2
+      LSU: Bridges/Corley - 4-1 at 2, 12-4 in duals, 15-4 overall
+      BU: Carlsten/DiBattista - 2-1 at 2, 2-1 in duals, 2-1 overall
+    - Position: 3
+      LSU: Cubitt/Carrington - 0-0 at 3, 5-3 in duals, 7-5 overall
+      BU: Tan/Yaloz - 4-0 at 3, 4-0 in duals, 4-0 overall

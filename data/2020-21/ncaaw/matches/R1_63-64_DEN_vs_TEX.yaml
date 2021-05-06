@@ -1,0 +1,113 @@
+Date: Friday, May 7
+Time: 4:00 EDT
+Round: First Round
+Lines: 63-64
+Title: "Denver vs #2 Texas"
+URL: https://www.ncaa.com/game/5833678
+Winner: TBD
+Home:
+  Seed: 2
+  Team: Texas
+  Entry: Automatic Qualifier
+  Draw Line: 64
+  Ratings:
+    ITA: 79.185 (2)
+    SLM: 98.435 (2)
+    TRN: 97.973 (2)
+    MAS: 9.38 (2)
+    UTR: 65.59 (1)
+  Polls:
+    USTA: 2
+    Coach: 2
+Visitor:
+  Team: Denver
+  Entry: Automatic Qualifier
+  Draw Line: 63
+  Ratings:
+    ITA: 11.657 (45)
+    SLM: 84.922 (45)
+    TRN: 76.033 (45)
+    MAS: 6.53 (43)
+    UTR: 58.03 (45)
+  Polls:
+    Coach: 49
+Predictions:
+  SLM: "TEX - #2 Texas (99%) def. #45 Denver (1%)"
+  TRN: "TEX - #2 Texas (99%) def. #45 Denver (1%)"
+  MAS: "TEX - #2 Texas (75%) def. #43 Denver (25%)"
+  UTR: "TEX - #1 Texas (+7.56) def. #45 Denver (-7.56)"
+  ITA: "TEX - #2 Texas def. #45 Denver"
+  USTA: "TEX - #2 Texas def. Denver"
+  Coach: "TEX - #2 Texas def. #49 Denver"
+Lineups:
+  Predictions:
+    Average EWPs for TEX: 79%,89%,92%,93%,93%,92%
+    Average EWPs for DEN: 21%,11%,8%,7%,7%,8%
+    TEX wins 4 or more Singles points: 99%
+    DEN wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 1%
+  Singles:
+    - Position: 1
+      TEX: Peyton Stearns - 10-3 at 1, 10-3 in duals, 14-6 overall
+      DEN: Anna Riedmiller - 6-0 at 1, 14-1 in duals, 14-1 overall
+      Predictions:
+        SLM: TEX - Stearns (86%) def. Riedmiller (14%)
+        TRN: TEX - Stearns (65%) def. Riedmiller (35%)
+        MAS: TEX - Stearns (75%) def. Riedmiller (25%)
+        UTR: TEX - Stearns (90%) def. Riedmiller (10%)
+        ITA: TEX - Stearns (16.38) def. Riedmiller (4.70)
+    - Position: 2
+      TEX: Anna Turati - 9-2 at 2, 17-3 in duals, 17-3 overall
+      DEN: Taylor Melville - 5-0 at 2, 9-4 in duals, 9-4 overall
+      Predictions:
+        SLM: TEX - Turati (92%) def. Melville (8%)
+        TRN: TEX - Turati (97%) def. Melville (3%)
+        MAS: TEX - Turati (75%) def. Melville (25%)
+        UTR: TEX - Turati (94%) def. Melville (6%)
+        ITA: TEX - Turati (17.31) def. Melville (2.84)
+    - Position: 3
+      TEX: Lulu Sun - 12-1 at 3, 18-2 in duals, 18-2 overall
+      DEN: Britt Pursell - 11-3 at 3, 12-3 in duals, 12-3 overall
+      Predictions:
+        SLM: TEX - Sun (97%) def. Pursell (3%)
+        TRN: TEX - Sun (99%) def. Pursell (1%)
+        MAS: TEX - Sun (75%) def. Pursell (25%)
+        UTR: TEX - Sun (98%) def. Pursell (2%)
+        ITA: TEX - Sun (9.34) def. Pursell (2.61)
+    - Position: 4
+      TEX: Charlotte Chavatipon - 16-1 at 4, 20-1 in duals, 23-1 overall
+      DEN: Camille Verden-Anderson - 3-1 at 4, 8-2 in duals, 8-2 overall
+      Predictions:
+        SLM: TEX - Chavatipon (99%) def. Verden-Anderson (1%)
+        TRN: TEX - Chavatipon (99%) def. Verden-Anderson (1%)
+        MAS: TEX - Chavatipon (75%) def. Verden-Anderson (25%)
+        UTR: TEX - Chavatipon (98%) def. Verden-Anderson (2%)
+        ITA: TEX - Chavatipon (7.87) def. Verden-Anderson (3.01)
+    - Position: 5
+      TEX: Kylie Collins - 9-2 at 5, 16-2 in duals, 16-2 overall
+      DEN: Hada Chang - 5-2 at 5, 7-2 in duals, 7-2 overall
+      Predictions:
+        SLM: TEX - Collins (99%) def. Chang (1%)
+        TRN: TEX - Collins (99%) def. Chang (1%)
+        MAS: TEX - Collins (75%) def. Chang (25%)
+        UTR: TEX - Collins (98%) def. Chang (2%)
+        ITA: TEX - Collins (8.04) def. Chang (2.56)
+    - Position: 6
+      TEX: Fernanda Labrana - 5-1 at 6, 14-1 in duals, 21-2 overall
+      DEN: Tatum Burger - 2-0 at 6, 8-6 in duals, 8-6 overall
+      Predictions:
+        SLM: TEX - Labrana (99%) def. Burger (1%)
+        TRN: TEX - Labrana (99%) def. Burger (1%)
+        MAS: TEX - Labrana (75%) def. Burger (25%)
+        UTR: TEX - Labrana (97%) def. Burger (3%)
+        ITA: DEN - Burger (1.93) def. Labrana (0.00)
+  Doubles:
+    - Position: 1
+      TEX: Sun/Collins - 16-4 at 1, 16-4 in duals, 16-4 overall
+      DEN: Pursell/Verden-Anderson - 6-1 at 1, 11-2 in duals, 11-2 overall
+    - Position: 2
+      TEX: Turati/Labrana - 13-1 at 2, 14-1 in duals, 14-1 overall
+      DEN: Riedmiller/Chang - 5-1 at 2, 5-1 in duals, 5-1 overall
+    - Position: 3
+      TEX: Chavatipon/Stearns - 11-1 at 3, 12-1 in duals, 14-2 overall
+      DEN: Nelson/Melville - 5-0 at 3, 6-0 in duals, 6-0 overall

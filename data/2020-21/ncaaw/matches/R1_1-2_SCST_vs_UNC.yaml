@@ -1,0 +1,110 @@
+Date: Friday, May 7
+Time: 1:00 EDT
+Round: First Round
+Lines: 1-2
+Title: "South Carolina St. vs #1 North Carolina"
+URL: https://www.ncaa.com/game/5833647
+Winner: TBD
+Home:
+  Seed: 1
+  Team: North Carolina
+  Entry: Automatic Qualifier
+  Draw Line: 1
+  Ratings:
+    ITA: 87.725 (1)
+    SLM: 100 (1)
+    TRN: 100 (1)
+    MAS: 9.82 (1)
+    UTR: 65.21 (2)
+  Polls:
+    USTA: 1
+    Coach: 1
+Visitor:
+  Team: South Carolina St.
+  Entry: Automatic Qualifier
+  Draw Line: 2
+  Ratings:
+    SLM: 70.676 (62)
+    TRN: 58.72 (61)
+    MAS: 3.52 (62)
+    UTR: 44.35 (63)
+Predictions:
+  SLM: "UNC - #1 North Carolina (99%) def. #62 South Carolina St. (1%)"
+  TRN: "UNC - #1 North Carolina (99%) def. #61 South Carolina St. (1%)"
+  MAS: "UNC - #1 North Carolina (75%) def. #62 South Carolina St. (25%)"
+  UTR: "UNC - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)"
+  ITA: "UNC - #1 North Carolina def. South Carolina St."
+  USTA: "UNC - #1 North Carolina def. South Carolina St."
+  Coach: "UNC - #1 North Carolina def. South Carolina St."
+Lineups:
+  Predictions:
+    Average EWPs for UNC: 93%,93%,93%,93%,93%,93%
+    Average EWPs for SCST: 7%,7%,7%,7%,7%,7%
+    UNC wins 4 or more Singles points: 100%
+    SCST wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 0%
+  Singles:
+    - Position: 1
+      UNC: Sara Daavettila - 10-1 at 1, 15-1 in duals, 15-1 overall
+      SCST: Rachida Berjane - 6-2 at 1, 6-2 in duals, 6-2 overall
+      Predictions:
+        SLM: UNC - Daavettila (99%) def. Berjane (1%)
+        TRN: UNC - Daavettila (99%) def. Berjane (1%)
+        MAS: UNC - Daavettila (75%) def. Berjane (25%)
+        UTR: UNC - Daavettila (99%) def. Berjane (1%)
+        ITA: UNC - Daavettila (64.17) def. Berjane (0.00)
+    - Position: 2
+      UNC: Alexa Graham - 5-0 at 2, 11-2 in duals, 16-2 overall
+      SCST: Hind Semlali - 6-3 at 2, 6-3 in duals, 6-3 overall
+      Predictions:
+        SLM: UNC - Graham (99%) def. Semlali (1%)
+        TRN: UNC - Graham (99%) def. Semlali (1%)
+        MAS: UNC - Graham (75%) def. Semlali (25%)
+        UTR: UNC - Graham (99%) def. Semlali (1%)
+        ITA: UNC - Graham (15.03) def. Semlali (0.00)
+    - Position: 3
+      UNC: Cameron Morra - 6-2 at 3, 15-6 in duals, 15-6 overall
+      SCST: Andjela Mihajilovic - 2-6 at 3, 2-6 in duals, 2-6 overall
+      Predictions:
+        SLM: UNC - Morra (99%) def. Mihajilovic (1%)
+        TRN: UNC - Morra (99%) def. Mihajilovic (1%)
+        MAS: UNC - Morra (75%) def. Mihajilovic (25%)
+        UTR: UNC - Morra (99%) def. Mihajilovic (1%)
+        ITA: UNC - Morra (20.00) def. Mihajilovic (0.00)
+    - Position: 4
+      UNC: Elizabeth Scotty - 6-1 at 4, 11-2 in duals, 11-3 overall
+      SCST: Lasya Patnaik - 6-3 at 4, 6-3 in duals, 6-3 overall
+      Predictions:
+        SLM: UNC - Scotty (99%) def. Patnaik (1%)
+        TRN: UNC - Scotty (99%) def. Patnaik (1%)
+        MAS: UNC - Scotty (75%) def. Patnaik (25%)
+        UTR: UNC - Scotty (99%) def. Patnaik (1%)
+        ITA: UNC - Scotty (5.93) def. Patnaik (2.21)
+    - Position: 5
+      UNC: Makenna Jones - 1-2 at 5, 13-2 in duals, 15-2 overall
+      SCST: Ikram Rassif - 4-3 at 5, 4-3 in duals, 4-3 overall
+      Predictions:
+        SLM: UNC - Jones (99%) def. Rassif (1%)
+        TRN: UNC - Jones (99%) def. Rassif (1%)
+        MAS: UNC - Jones (75%) def. Rassif (25%)
+        UTR: UNC - Jones (99%) def. Rassif (1%)
+        ITA: UNC - Jones (18.39) def. Rassif (1.48)
+    - Position: 6
+      UNC: Fiona Crawley - 3-0 at 6, 23-0 in duals, 25-0 overall
+      SCST: Anabel Aguilar - 3-1 at 6, 3-1 in duals, 3-1 overall
+      Predictions:
+        SLM: UNC - Crawley (100%) def. Aguilar (0%)
+        TRN: UNC - Crawley (100%) def. Aguilar (0%)
+        MAS: UNC - Crawley (75%) def. Aguilar (25%)
+        UTR: UNC - Crawley (99%) def. Aguilar (1%)
+        ITA: UNC - Crawley (16.89) def. Aguilar (0.00)
+  Doubles:
+    - Position: 1
+      UNC: Daavettila/Morra - 10-1 at 1, 10-1 in duals, 10-1 overall
+      SCST: Semlali/Patnaik - 4-0 at 1, 4-0 in duals, 4-0 overall
+    - Position: 2
+      UNC: Jones/Scotty - 8-1 at 2, 10-1 in duals, 10-1 overall
+      SCST: Berjane/Cemalovic - 1-1 at 2, 1-1 in duals, 1-1 overall
+    - Position: 3
+      UNC: Sanford/Tran - 12-3 at 3, 16-3 in duals, 16-3 overall
+      SCST: Mihajilovic/Aguilar - 6-3 at 3, 6-3 in duals, 6-3 overall

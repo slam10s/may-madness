@@ -1,0 +1,110 @@
+Date: Friday, May 7
+Time: 2:00 EDT
+Round: First Round
+Lines: 25-26
+Title: "Ga. Southern vs #13 Georgia Tech"
+URL: https://www.ncaa.com/game/5833659
+Winner: TBD
+Home:
+  Seed: 13
+  Team: Georgia Tech
+  Entry: At-Large Bid
+  Draw Line: 25
+  Ratings:
+    ITA: 48.316 (13)
+    SLM: 90.34 (20)
+    TRN: 83.313 (16)
+    MAS: 7.83 (18)
+    UTR: 61.54 (24)
+  Polls:
+    USTA: 15
+    Coach: .nan
+Visitor:
+  Team: Ga. Southern
+  Entry: Automatic Qualifier
+  Draw Line: 26
+  Ratings:
+    ITA: 4.077 (53)
+    SLM: 78.879 (53)
+    TRN: 68.855 (54)
+    MAS: 5.15 (55)
+    UTR: 54.43 (53)
+Predictions:
+  SLM: "GT - #20 Georgia Tech (99%) def. #53 Ga. Southern (1%)"
+  TRN: "GT - #16 Georgia Tech (99%) def. #54 Ga. Southern (1%)"
+  MAS: "GT - #18 Georgia Tech (75%) def. #55 Ga. Southern (25%)"
+  UTR: "GT - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)"
+  ITA: "GT - #13 Georgia Tech def. #53 Ga. Southern"
+  USTA: "GT - #15 Georgia Tech def. Ga. Southern"
+Lineups:
+  Predictions:
+    Average EWPs for GT: 92%,92%,87%,91%,87%,92%
+    Average EWPs for GASO: 8%,8%,13%,9%,13%,8%
+    GT wins 4 or more Singles points: 99%
+    GASO wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 1%
+  Singles:
+    - Position: 1
+      GT: Kenya Jones - 16-7 at 1, 16-7 in duals, 17-8 overall
+      GASO: Nadja Meier - 4-3 at 1, 15-9 in duals, 15-9 overall
+      Predictions:
+        SLM: GT - Jones (99%) def. Meier (1%)
+        TRN: GT - Jones (99%) def. Meier (1%)
+        MAS: GT - Jones (75%) def. Meier (25%)
+        UTR: GT - Jones (96%) def. Meier (4%)
+        ITA: GT - Jones (50.31) def. Meier (1.56)
+    - Position: 2
+      GT: Victoria Flores - 12-4 at 2, 17-5 in duals, 18-6 overall
+      GASO: Paula Boixader - 2-1 at 2, 8-10 in duals, 8-10 overall
+      Predictions:
+        SLM: GT - Flores (97%) def. Boixader (3%)
+        TRN: GT - Flores (99%) def. Boixader (1%)
+        MAS: GT - Flores (75%) def. Boixader (25%)
+        UTR: GT - Flores (98%) def. Boixader (2%)
+        ITA: GT - Flores (29.63) def. Boixader (0.00)
+    - Position: 3
+      GT: Gia Cohen - 3-11 at 3, 8-14 in duals, 8-15 overall
+      GASO: Sophie Wagemaker - 10-3 at 3, 11-7 in duals, 11-7 overall
+      Predictions:
+        SLM: GT - Cohen (93%) def. Wagemaker (7%)
+        TRN: GT - Cohen (93%) def. Wagemaker (7%)
+        MAS: GT - Cohen (75%) def. Wagemaker (25%)
+        UTR: GT - Cohen (87%) def. Wagemaker (13%)
+        ITA: GT - Cohen (3.38) def. Wagemaker (1.85)
+    - Position: 4
+      GT: Ava Hrastar - 2-3 at 4, 10-9 in duals, 12-9 overall
+      GASO: Charlotte van Diemen - 3-1 at 4, 8-5 in duals, 8-5 overall
+      Predictions:
+        SLM: GT - Hrastar (96%) def. Diemen (4%)
+        TRN: GT - Hrastar (97%) def. Diemen (3%)
+        MAS: GT - Hrastar (75%) def. Diemen (25%)
+        UTR: GT - Hrastar (97%) def. Diemen (3%)
+        ITA: GT - Hrastar (5.81) def. Diemen (0.00)
+    - Position: 5
+      GT: Carol Lee - 5-8 at 5, 12-12 in duals, 14-12 overall
+      GASO: Mila Hartig - 1-0 at 5, 14-4 in duals, 14-4 overall
+      Predictions:
+        SLM: GT - Lee (93%) def. Hartig (7%)
+        TRN: GT - Lee (91%) def. Hartig (9%)
+        MAS: GT - Lee (75%) def. Hartig (25%)
+        UTR: GT - Lee (90%) def. Hartig (10%)
+        ITA: GT - Lee (4.33) def. Hartig (2.42)
+    - Position: 6
+      GT: Mahak Jain - 7-2 at 6, 14-7 in duals, 16-7 overall
+      GASO: Paula Hijos - 2-0 at 6, 13-6 in duals, 13-6 overall
+      Predictions:
+        SLM: GT - Jain (95%) def. Hijos (5%)
+        TRN: GT - Jain (97%) def. Hijos (3%)
+        MAS: GT - Jain (75%) def. Hijos (25%)
+        UTR: GT - Jain (99%) def. Hijos (1%)
+        ITA: GASO - Hijos (1.93) def. Jain (1.89)
+  Doubles:
+    - Position: 1
+      GT: Jones/Flores - 20-3 at 1, 20-3 in duals, 22-4 overall
+      GASO: van Diemen/Wagemaker - 9-8 at 1, 9-8 in duals, 9-8 overall
+    - Position: 2
+      GT: Hrastar/Cohen - 5-6 at 2, 6-6 in duals, 6-6 overall
+      GASO: Boixader/Meier - 6-3 at 2, 6-3 in duals, 6-3 overall
+    - Position: 3
+      GT: Lee/Dedaj - 1-8 at 3, 1-8 in duals, 1-8 overall
+      GASO: Goines/Keranen - 8-3 at 3, 9-7 in duals, 9-7 overall

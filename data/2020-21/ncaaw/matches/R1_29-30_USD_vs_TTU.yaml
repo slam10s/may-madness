@@ -1,0 +1,110 @@
+Date: Friday, May 7
+Time: 4:00 EDT
+Round: First Round
+Lines: 29-30
+Title: San Diego vs Texas Tech
+URL: https://www.ncaa.com/game/5833661
+Winner: TBD
+Home:
+  Team: Texas Tech
+  Entry: At-Large Bid
+  Draw Line: 29
+  Ratings:
+    ITA: 28.067 (29)
+    SLM: 87.918 (34)
+    TRN: 79.75 (34)
+    MAS: 7.39 (28)
+    UTR: 61.44 (27)
+  Polls:
+    Coach: 29
+Visitor:
+  Team: San Diego
+  Entry: At-Large Bid
+  Draw Line: 30
+  Ratings:
+    ITA: 19.118 (39)
+    SLM: 87.644 (36)
+    TRN: 78.946 (38)
+    MAS: 7.31 (32)
+    UTR: 60.57 (32)
+  Polls:
+    Coach: 47
+Predictions:
+  SLM: "TTU - #34 Texas Tech (53%) def. #36 San Diego (47%)"
+  TRN: "TTU - #34 Texas Tech (61%) def. #38 San Diego (39%)"
+  MAS: "TTU - #28 Texas Tech (75%) def. #32 San Diego (25%)"
+  UTR: "TTU - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)"
+  ITA: "TTU - #29 Texas Tech def. #39 San Diego"
+  Coach: "TTU - #29 Texas Tech def. #47 San Diego"
+Lineups:
+  Predictions:
+    Average EWPs for TTU: 17%,66%,40%,52%,79%,78%
+    Average EWPs for USD: 83%,34%,60%,48%,21%,22%
+    TTU wins 4 or more Singles points: 44%
+    USD wins 4 or more Singles points: 22%
+    Winner decided by the Doubles point: 34%
+  Singles:
+    - Position: 1
+      TTU: Lisa Mays - 9-7 at 1, 10-7 in duals, 12-8 overall
+      USD: Solymar Colling - 14-4 at 1, 14-4 in duals, 14-3 overall
+      Predictions:
+        SLM: USD - Colling (89%) def. Mays (11%)
+        TRN: USD - Colling (88%) def. Mays (12%)
+        MAS: USD - Colling (75%) def. Mays (25%)
+        UTR: USD - Colling (84%) def. Mays (16%)
+        ITA: USD - Colling (12.76) def. Mays (3.54)
+    - Position: 2
+      TTU: Margarita Skriabina - 2-0 at 2, 16-1 in duals, 18-2 overall
+      USD: Elizabeth Goldsmith - 11-3 at 2, 11-3 in duals, 11-3 overall
+      Predictions:
+        SLM: USD - Goldsmith (51%) def. Skriabina (49%)
+        TRN: TTU - Skriabina (54%) def. Goldsmith (46%)
+        MAS: TTU - Skriabina (75%) def. Goldsmith (25%)
+        UTR: TTU - Skriabina (86%) def. Goldsmith (14%)
+        ITA: TTU - Skriabina (6.63) def. Goldsmith (2.97)
+    - Position: 3
+      TTU: Kaitlin Staines - 0-0 at 3, 6-9 in duals, 9-11 overall
+      USD: Jordyn McBride - 12-3 at 3, 14-3 in duals, 14-3 overall
+      Predictions:
+        SLM: USD - McBride (52%) def. Staines (48%)
+        TRN: USD - McBride (58%) def. Staines (42%)
+        MAS: USD - McBride (75%) def. Staines (25%)
+        UTR: USD - McBride (59%) def. Staines (41%)
+        ITA: TTU - Staines (4.66) def. McBride (3.11)
+    - Position: 4
+      TTU: Nell Miller - 11-4 at 4, 14-6 in duals, 16-10 overall
+      USD: Abigail Desiatnikov - 6-3 at 4, 12-4 in duals, 12-4 overall
+      Predictions:
+        SLM: TTU - Miller (61%) def. Desiatnikov (39%)
+        TRN: USD - Desiatnikov (57%) def. Miller (43%)
+        MAS: TTU - Miller (75%) def. Desiatnikov (25%)
+        UTR: USD - Desiatnikov (71%) def. Miller (29%)
+        ITA: TTU - Miller (2.66) def. Desiatnikov (2.52)
+    - Position: 5
+      TTU: Olivia Peet - 9-6 at 5, 10-6 in duals, 12-6 overall
+      USD: Victoria Kalaitzis - 8-2 at 5, 12-4 in duals, 12-4 overall
+      Predictions:
+        SLM: TTU - Peet (83%) def. Kalaitzis (17%)
+        TRN: TTU - Peet (77%) def. Kalaitzis (23%)
+        MAS: TTU - Peet (75%) def. Kalaitzis (25%)
+        UTR: TTU - Peet (83%) def. Kalaitzis (17%)
+        ITA: USD - Kalaitzis (2.42) def. Peet (2.03)
+    - Position: 6
+      TTU: Metka Komac - 9-4 at 6, 10-5 in duals, 12-6 overall
+      USD: Katharina Kukaras - 5-3 at 6, 11-4 in duals, 11-4 overall
+      Predictions:
+        SLM: TTU - Komac (82%) def. Kukaras (18%)
+        TRN: TTU - Komac (83%) def. Kukaras (17%)
+        MAS: TTU - Komac (75%) def. Kukaras (25%)
+        UTR: TTU - Komac (72%) def. Kukaras (28%)
+        ITA: USD - Kukaras (2.39) def. Komac (1.98)
+  Doubles:
+    - Position: 1
+      TTU: Staines/Mays - 9-7 at 1, 9-7 in duals, 9-7 overall
+      USD: Colling/Goldsmith - 14-3 at 1, 14-3 in duals, 14-3 overall
+    - Position: 2
+      TTU: Peet/Skriabina - 4-2 at 2, 4-2 in duals, 4-2 overall
+      USD: Desiatnikov/McBride - 5-1 at 2, 12-4 in duals, 12-4 overall
+    - Position: 3
+      TTU: Miller/Komac - 2-1 at 3, 2-1 in duals, 2-1 overall
+      USD: Andryukhova/Kukaras - 2-2 at 3, 2-4 in duals, 2-4 overall

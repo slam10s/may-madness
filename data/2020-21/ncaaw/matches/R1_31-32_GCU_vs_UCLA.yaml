@@ -1,0 +1,111 @@
+Date: Friday, May 7
+Time: 1:00 EDT
+Round: First Round
+Lines: 31-32
+Title: "Grand Canyon vs #4 UCLA"
+URL: https://www.ncaa.com/game/5833662
+Winner: TBD
+Home:
+  Seed: 4
+  Team: UCLA
+  Entry: At-Large Bid
+  Draw Line: 32
+  Ratings:
+    ITA: 61.844 (4)
+    SLM: 92.977 (4)
+    TRN: 85.423 (7)
+    MAS: 8.85 (4)
+    UTR: 64.4 (5)
+  Polls:
+    USTA: 4
+    Coach: 5
+Visitor:
+  Team: Grand Canyon
+  Entry: Automatic Qualifier
+  Draw Line: 31
+  Ratings:
+    ITA: 1.988 (62)
+    SLM: 75.928 (59)
+    TRN: 64.129 (60)
+    MAS: 4.78 (57)
+    UTR: 51.77 (57)
+Predictions:
+  SLM: "UCLA - #4 UCLA (99%) def. #59 Grand Canyon (1%)"
+  TRN: "UCLA - #7 UCLA (99%) def. #60 Grand Canyon (1%)"
+  MAS: "UCLA - #4 UCLA (75%) def. #57 Grand Canyon (25%)"
+  UTR: "UCLA - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)"
+  ITA: "UCLA - #4 UCLA def. #62 Grand Canyon"
+  USTA: "UCLA - #4 UCLA def. Grand Canyon"
+  Coach: "UCLA - #5 UCLA def. Grand Canyon"
+Lineups:
+  Predictions:
+    Average EWPs for UCLA: 93%,93%,93%,93%,93%,93%
+    Average EWPs for GCU: 7%,7%,7%,7%,7%,7%
+    UCLA wins 4 or more Singles points: 99%
+    GCU wins 4 or more Singles points: 1%
+    Winner decided by the Doubles point: 0%
+  Singles:
+    - Position: 1
+      UCLA: Abbey Forbes - 17-2 at 1, 18-2 in duals, 18-2 overall
+      GCU: Natahsa Puehse - 14-4 at 1, 14-4 in duals, 14-4 overall
+      Predictions:
+        SLM: UCLA - Forbes (99%) def. Puehse (1%)
+        TRN: UCLA - Forbes (99%) def. Puehse (1%)
+        MAS: UCLA - Forbes (75%) def. Puehse (25%)
+        UTR: UCLA - Forbes (98%) def. Puehse (2%)
+        ITA: UCLA - Forbes (46.46) def. Puehse (2.45)
+    - Position: 2
+      UCLA: Jada Hart - 8-1 at 2, 11-2 in duals, 11-2 overall
+      GCU: Emilia Occhipinti - 12-5 at 2, 12-5 in duals, 12-5 overall
+      Predictions:
+        SLM: UCLA - Hart (99%) def. Occhipinti (1%)
+        TRN: UCLA - Hart (99%) def. Occhipinti (1%)
+        MAS: UCLA - Hart (75%) def. Occhipinti (25%)
+        UTR: UCLA - Hart (98%) def. Occhipinti (2%)
+        ITA: UCLA - Hart (12.21) def. Occhipinti (2.15)
+    - Position: 3
+      UCLA: Elysia Bolton - 5-2 at 3, 9-3 in duals, 9-3 overall
+      GCU: Jana Weiss - 15-4 at 3, 15-4 in duals, 15-4 overall
+      Predictions:
+        SLM: UCLA - Bolton (99%) def. Weiss (1%)
+        TRN: UCLA - Bolton (99%) def. Weiss (1%)
+        MAS: UCLA - Bolton (75%) def. Weiss (25%)
+        UTR: UCLA - Bolton (98%) def. Weiss (2%)
+        ITA: UCLA - Bolton (4.20) def. Weiss (2.42)
+    - Position: 4
+      UCLA: Vivian Wolff - 9-4 at 4, 10-6 in duals, 10-6 overall
+      GCU: Joely Lomas - 9-4 at 4, 10-8 in duals, 10-8 overall
+      Predictions:
+        SLM: UCLA - Wolff (99%) def. Lomas (1%)
+        TRN: UCLA - Wolff (99%) def. Lomas (1%)
+        MAS: UCLA - Wolff (75%) def. Lomas (25%)
+        UTR: UCLA - Wolff (98%) def. Lomas (2%)
+        ITA: UCLA - Wolff (2.06) def. Lomas (1.64)
+    - Position: 5
+      UCLA: Sasha Vagramov - 5-3 at 5, 9-5 in duals, 9-5 overall
+      GCU: Autum Prudhomme - 6-4 at 5, 7-10 in duals, 7-10 overall
+      Predictions:
+        SLM: UCLA - Vagramov (99%) def. Prudhomme (1%)
+        TRN: UCLA - Vagramov (99%) def. Prudhomme (1%)
+        MAS: UCLA - Vagramov (75%) def. Prudhomme (25%)
+        UTR: UCLA - Vagramov (99%) def. Prudhomme (1%)
+        ITA: UCLA - Vagramov (2.24) def. Prudhomme (0.00)
+    - Position: 6
+      UCLA: Vanessa Ong - 3-1 at 6, 4-1 in duals, 4-1 overall
+      GCU: Taylor Andersen - 9-5 at 6, 10-7 in duals, 10-7 overall
+      Predictions:
+        SLM: UCLA - Ong (99%) def. Andersen (1%)
+        TRN: UCLA - Ong (99%) def. Andersen (1%)
+        MAS: UCLA - Ong (75%) def. Andersen (25%)
+        UTR: UCLA - Ong (99%) def. Andersen (1%)
+        ITA: GCU - Andersen (1.96) def. Ong (1.95)
+  Doubles:
+    - Position: 1
+      UCLA: Forbes/Hart - 9-1 at 1, 9-1 in duals, 9-1 overall
+      GCU: Puehse/Weiss - 5-12 at 1, 5-12 in duals, 5-12 overall
+    - Position: 2
+      UCLA: Wolff/Goulak - 16-2 at 2, 16-2 in duals, 16-2 overall
+      GCU: Occhipinti/Prudhomme - 15-4 at 2, 15-4 in duals, 15-4 overall
+    - Position: 3
+      UCLA: Bolton/Altick - 3-0 at 3, 3-0 in duals, 3-0 overall
+      GCU: Lomas/Andersen - 12-6 at 3, 12-6 in duals, 12-6 overall
