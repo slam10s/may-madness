@@ -1,0 +1,910 @@
+line	seed	team	kind	position	player	partner	wins1	losses1	wins2	losses2	wins3	losses3	wins4	losses4	wins5	losses5	wins6	losses6	dualWins	dualLosses	overallWins	overallLosses
+1	1	FLA  	S	1	Duarte Vale              	                         	15	6											15	6	23	6
+1	1	FLA  	S	2	Sam Riffice              	                         			16	4	2	0							18	4	23	7
+1	1	FLA  	S	3	Andy Andrade             	                         			2	0	12	7							14	7	22	7
+1	1	FLA  	S	4	Blaise Bicknell          	                         							15	0	1	0	4	0	20	0	29	0
+1	1	FLA  	S	5	Ben Shelton              	                         							1	0	15	4	1	0	17	4	24	5
+1	1	FLA  	S	6	Josh Goodger             	                         									1	0	12	0	13	0	19	0
+1	1	FLA  	S	7	Johannes Ingildsen       	                         							3	3			1	0	4	3	4	3
+1	1	FLA  	S	8	Lukas Greif              	                         									1	0	3	1	4	1	11	2
+1	1	FLA  	S	9	Brian Berdusco           	                         													0	0	4	3
+1	1	FLA  	S	10	Will Grant               	                         													0	0	5	2
+1	1	FLA  	D	1	Johannes Ingildsen       	Duarte Vale              													0	0	0	0
+1	1	FLA  	D	2	Sam Riffice              	Ben Shelton              					4	0							4	0	6	1
+1	1	FLA  	D	3	Brian Berdusco           	Will Grant               													0	0	1	0
+1	1	FLA  	D	4	Andy Andrade             	Josh Goodger             													0	0	0	1
+64	2	BAY  	S	1	Adrian Boitan            	                         	14	4	1	1									15	5	15	5
+64	2	BAY  	S	2	Matias Soto              	                         	2	1	12	3									14	4	18	4
+64	2	BAY  	S	3	Sven Lah                 	                         	2	0			6	7	1	2					9	9	11	12
+64	2	BAY  	S	4	Nick Stachowiak          	                         	1	0	3	0	0	3	8	2					12	5	19	7
+64	2	BAY  	S	5	Charlie Broom            	                         	1	0	1	1	1	0	1	0	17	2			21	3	24	6
+64	2	BAY  	S	6	Spencer Furman           	                         	1	0	2	0	3	0			1	0	11	2	18	2	21	3
+64	2	BAY  	S	7	Constantin Frantzen      	                         	1	0	1	0	3	0	1	0	1	0	2	0	9	0	9	0
+64	2	BAY  	S	8	Ryan Dickerson           	                         			4	0	2	0	2	0	2	0	2	0	12	0	12	0
+64	2	BAY  	S	9	Finn Bass                	                         	1	0			2	0	4	0	1	0	0	1	8	1	15	3
+64	2	BAY  	S	10	Alex Garcia              	                         							2	0	2	0	3	0	7	0	7	0
+64	2	BAY  	S	11	Sebastian Nothhaft       	                         					1	0	0	1	2	0	4	0	7	1	13	5
+64	2	BAY  	S	12	Christopher Frantzen     	                         							2	0	3	0	1	0	6	0	7	0
+64	2	BAY  	S	13	Rahul Dhokia             	                         									1	0	1	0	2	0	2	2
+64	2	BAY  	S	14	Joseph Chen              	                         											2	0	2	0	3	0
+64	2	BAY  	D	1	Sven Lah                 	Constantin Frantzen      	11	7											11	7	11	7
+64	2	BAY  	D	2	Nick Stachowiak          	Matias Soto              			7	1									7	1	10	1
+64	2	BAY  	D	3	Charlie Broom            	Finn Bass                					5	3							5	3	5	3
+64	2	BAY  	D	4	Ryan Dickerson           	Adrian Boitan            	1	0	1	0									2	0	2	0
+33	3	TENN 	S	1	Adam Walton              	                         	8	7	2	1									10	8	16	10
+33	3	TENN 	S	2	Johannus Monday          	                         	4	1	17	3	1	0							22	4	31	6
+33	3	TENN 	S	3	Martim Prata             	                         	1	0	2	0	11	8	1	0					15	8	22	12
+33	3	TENN 	S	4	Luca Wiedenmann          	                         							8	2	12	1			20	3	30	4
+33	3	TENN 	S	5	Giles Hussey             	                         					2	0	7	3	9	0			18	3	29	4
+33	3	TENN 	S	6	Pat Harper               	                         									0	1	5	3	5	4	12	5
+33	3	TENN 	S	7	Andrew Rogers            	                         											3	3	3	3	10	3
+33	3	TENN 	S	8	Mark Wallner             	                         					1	0	1	1			3	1	5	2	12	2
+33	3	TENN 	S	9	Joel Gamerov             	                         									1	0	1	1	2	1	6	5
+33	3	TENN 	S	10	Josh Raab                	                         											1	0	1	0	7	3
+33	3	TENN 	D	1	Adam Walton              	Pat Harper               	15	6											15	6	22	7
+33	3	TENN 	D	2	Johannus Monday          	Martim Prata             	4	0	12	7									16	7	17	8
+33	3	TENN 	D	3	Mark Wallner             	Giles Hussey             			1	0	14	5							15	5	15	5
+33	3	TENN 	D	4	Andrew Rogers            	Joel Gamerov             													0	0	0	0
+32	4	TEX  	S	1	Eliot Spizzirri          	                         	9	6	5	2	1	0							15	8	22	9
+32	4	TEX  	S	2	Micah Braswell           	                         			9	4	8	1							17	5	32	6
+32	4	TEX  	S	3	Siem Woldeab             	                         	3	4	1	2	5	1							9	7	14	12
+32	4	TEX  	S	4	Cleeve Harper            	                         					3	2	14	3					17	5	22	9
+32	4	TEX  	S	5	Chih Chi Huang           	                         							2	1	9	7			11	8	15	17
+32	4	TEX  	S	6	Evin McDonald            	                         							1	0	4	1	6	9	11	10	15	16
+32	4	TEX  	S	7	Nevin Arimilli           	                         											5	1	5	1	9	9
+32	4	TEX  	S	8	Leighton Allen           	                         											1	0	1	0	5	11
+32	4	TEX  	S	9	Payton Holden            	                         													0	0	6	3
+32	4	TEX  	S	10	Jacob Bullard            	                         									0	1			0	1	9	7
+32	4	TEX  	S	11	Eshan Talluri            	                         													0	0	4	7
+32	4	TEX  	D	1	Eliot Spizzirri          	Siem Woldeab             	12	9											12	9	19	9
+32	4	TEX  	D	2	Cleeve Harper            	Chih Chi Huang           	1	0	5	4									6	4	10	7
+32	4	TEX  	D	3	Micah Braswell           	Payton Holden            					4	1							4	1	7	2
+32	4	TEX  	D	4	Nevin Arimilli           	Evin McDonald            													0	0	1	0
+17	5	UVA  	S	1	Carl Soderlund           	                         	12	2											12	2	12	2
+17	5	UVA  	S	2	Chris Rodesch            	                         			0	1	6	2	3	1	5	2			14	6	14	6
+17	5	UVA  	S	3	Jeffrey von der Schulenburg	                         	2	1	7	2	6	1	1	0					16	4	16	4
+17	5	UVA  	S	4	Inaki Montes de la Torre 	                         			5	3	4	1	6	0					15	4	15	4
+17	5	UVA  	S	5	Ryan Goetz               	                         	1	0	1	1	2	0	5	3	7	1			16	5	16	5
+17	5	UVA  	S	6	Gianni Ross              	                         							1	0	3	0	7	3	11	3	11	3
+17	5	UVA  	S	7	William Woodall          	                         									1	0	2	2	3	2	3	2
+17	5	UVA  	S	8	Alexander Kiefer         	                         									1	1	3	3	4	4	4	4
+17	5	UVA  	S	9	Matthew Lord             	                         													0	0	0	0
+17	5	UVA  	S	10	Ammar Alhaqbani          	                         													0	0	0	0
+17	5	UVA  	S	11	Jefferson Dockter        	                         													0	0	0	0
+17	5	UVA  	S	12	Spencer Bozsik           	                         													0	0	0	0
+17	5	UVA  	S	13	Ethan Moszkowski         	                         													0	0	0	0
+17	5	UVA  	S	14	Jerome Romualdez         	                         													0	0	0	0
+17	5	UVA  	D	1	Carl Soderlund           	William Woodall          	9	8											9	8	9	8
+17	5	UVA  	D	2	Ryan Goetz               	Chris Rodesch            			10	5									10	5	10	5
+17	5	UVA  	D	3	Jeffrey von der Schulenburg	Inaki Montes de la Torre 	0	1	3	0	12	3							15	4	15	4
+17	5	UVA  	D	4	Matthew Lord             	Gianni Ross              													0	0	0	0
+48	6	UNC  	S	1	William Blumberg         	                         	8	3											8	3	9	3
+48	6	UNC  	S	2	Rinky Hijikata           	                         	3	0	4	2	2	0							9	2	11	2
+48	6	UNC  	S	3	Benjamin Sigouin         	                         	1	3	5	4	3	2							9	9	9	9
+48	6	UNC  	S	4	Brian Cernoch            	                         			4	0	8	3	5	2					17	5	17	5
+48	6	UNC  	S	5	Josh Peck                	                         					3	1	2	1	3	1			8	3	8	3
+48	6	UNC  	S	6	Simon Soendergaard       	                         									4	2	6	3	10	5	11	6
+48	6	UNC  	S	7	Logan Zapp               	                         									3	2	4	1	7	3	8	4
+48	6	UNC  	S	8	Mac Kiger                	                         									3	1	5	5	8	6	8	6
+48	6	UNC  	S	9	Anuj Watane              	                         													0	0	3	2
+48	6	UNC  	S	10	Adam Neff                	                         													0	0	1	3
+48	6	UNC  	S	11	peter Murphy             	                         													0	0	1	1
+48	6	UNC  	S	12	Mark Dillon              	                         													0	0	2	2
+48	6	UNC  	D	1	William Blumberg         	Brian Cernoch            	12	3											12	3	12	3
+48	6	UNC  	D	2	Mac Kiger                	Simon Soendergaard       	2	2	8	5									10	7	10	7
+48	6	UNC  	D	3	Rinky Hijikata           	Ben Sigouin              			2	2	3	3							5	5	5	5
+48	6	UNC  	D	4	Peter Murphy             	Josh Peck                													0	0	0	0
+49	7	TCU  	S	1	Alastair Gray            	                         	6	4	7	3									13	7	13	7
+49	7	TCU  	S	2	Luc Fomba                	                         	5	3	7	3									12	6	12	6
+49	7	TCU  	S	3	Sander Jong              	                         					10	5	0	2					10	7	11	8
+49	7	TCU  	S	4	Jake Fearnley            	                         							4	2	2	0	2	1	8	3	8	3
+49	7	TCU  	S	5	Tomas Jirousek           	                         					0	2	5	2	1	1			6	5	7	6
+49	7	TCU  	S	6	Tadeas Paroulek          	                         							0	1	6	7	1	3	7	11	7	12
+49	7	TCU  	S	7	Juan Martin              	                         									1	2	6	1	7	3	8	4
+49	7	TCU  	S	8	Bertus Kruger            	                         									1	1	1	1	2	2	2	2
+49	7	TCU  	S	9	Max Kurzban              	                         											0	1	0	1	0	3
+49	7	TCU  	D	1	Alastair Gray            	Luc Fomba                	10	6	1	0									11	6	13	6
+49	7	TCU  	D	2	Sander Jong              	Tadeas Paroulek          	0	1	8	1	2	1							10	3	11	4
+49	7	TCU  	D	3	Bertus Kruger            	Jake Fearnley            			2	2	2	1							4	3	4	3
+49	7	TCU  	D	4	Max Kurzban              	Tomas Jirousek           													0	0	0	0
+16	8	A&M  	S	1	Valentin Vacherot        	                         	13	2	3	1									16	3	21	5
+16	8	A&M  	S	2	Hady Habib               	                         	3	1	7	3									10	4	15	5
+16	8	A&M  	S	3	Juan Carlos Aguilar      	                         			4	2	6	6							10	8	15	10
+16	8	A&M  	S	4	Noah Schachter           	                         			2	0	3	5	7	5					12	10	19	13
+16	8	A&M  	S	5	Pierce Rollins           	                         	1	0			1	0	2	2	3	3	1	0	8	5	15	9
+16	8	A&M  	S	6	Guido Marson             	                         							3	1	2	5			5	6	7	9
+16	8	A&M  	S	7	Raphael Perot            	                         							1	1	4	2	6	5	11	8	16	11
+16	8	A&M  	S	8	Bjorn Thomson            	                         			1	0					0	2	4	3	5	5	8	5
+16	8	A&M  	S	9	Pranav Kumar             	                         									1	0			1	0	1	2
+16	8	A&M  	S	10	Kenner Taylor            	                         											1	0	1	0	6	3
+16	8	A&M  	S	11	Austin Abbrat            	                         													0	0	1	1
+16	8	A&M  	D	1	Jun Carlos Aguilar       	Bjorn Thomson            	7	6											7	6	10	8
+16	8	A&M  	D	2	Valentin Vacherot        	Pierce Rollins           	1	0	5	3	6	2							12	5	15	5
+16	8	A&M  	D	3	Pranav Kumar             	Noah Schachter           					7	4							7	4	7	4
+16	8	A&M  	D	4	Hady Habib               	Kenner Taylor            													0	0	1	0
+9	9	UCF  	S	1	GABRIEL DECAMPS          	                         	16	4											16	4	16	4
+9	9	UCF  	S	2	ALAN RUBIO               	                         	1	0	8	5	1	0	2	2					12	7	12	7
+9	9	UCF  	S	3	JUAN PABLO MAZZUCHI      	                         			3	1	10	4	2	0					15	5	15	5
+9	9	UCF  	S	4	KENTO YAMADA             	                         					1	0	10	1	6	0			17	1	17	1
+9	9	UCF  	S	5	TREY HILDERBRAND         	                         			0	1	5	1	2	1	10	1			17	4	17	4
+9	9	UCF  	S	6	MIKHAIL SOKOLOVSKIY      	                         									1	1	13	4	14	5	14	5
+9	9	UCF  	S	7	BOGDAN PAVEL             	                         									0	2	2	1	2	3	2	3
+9	9	UCF  	S	8	QUINN SNYDER             	                         													0	0	0	0
+9	9	UCF  	S	9	VASYL KISELYOV           	                         													0	0	0	0
+9	9	UCF  	D	1	TREY HILDERBRAND         	BOGDAN PAVEL             	9	1											9	1	9	1
+9	9	UCF  	D	2	JUAN PABLO MAZZUCHI      	GABRIEL DECAMPS          			8	2									8	2	9	1
+9	9	UCF  	D	3	ALAN RUBIO               	KENTO YAMADA             					2	4							2	4	2	4
+9	9	UCF  	D	4	MIKHAIL SOKOLOVSKIY      	QUINN SNYDER             													0	0	0	0
+56	10	WAKE 	S	1	Henri Squire             	                         	15	6											15	6	15	6
+56	10	WAKE 	S	2	Eduardo Nava             	                         	2	0	6	3	9	1							17	4	17	4
+56	10	WAKE 	S	3	Taha Baadi               	                         	1	1	6	5	6	2							13	8	13	8
+56	10	WAKE 	S	4	Rrezart Cungu            	                         	1	0	2	0	2	0	7	3	2	1	6	0	20	4	20	4
+56	10	WAKE 	S	5	Melios Efstathiou        	                         	1	0			2	2	2	2	6	2	1	0	12	6	12	6
+56	10	WAKE 	S	6	Sid Banthia              	                         	3	0	2	0	1	1	1	1	5	0	7	1	19	3	19	3
+56	10	WAKE 	S	7	Filippo Moroni           	                         			1	0	3	1	2	2	0	1	4	0	10	4	10	4
+56	10	WAKE 	S	8	Robert Maciag            	                         			2	0			5	2	2	1	2	0	11	3	11	3
+56	10	WAKE 	S	9	Adam Ambrozy             	                         			2	0	1	0	2	0	5	1	1	0	11	1	11	1
+56	10	WAKE 	S	10	Luciano Tacchi           	                         							1	0	3	0	3	0	7	0	7	0
+56	10	WAKE 	S	11	Matt Thomson             	                         							1	0	1	0	3	0	5	0	5	0
+56	10	WAKE 	S	12	Juan Lopez               	                         											2	0	2	0	2	0
+56	10	WAKE 	S	13	Yuval Solomon            	                         													0	0	0	0
+56	10	WAKE 	D	1	Nava                     	Squire                   	13	5											13	5	13	5
+56	10	WAKE 	D	2	Thomson                  	Banthia                  	5	1	7	4	5	1							17	6	17	6
+56	10	WAKE 	D	3	Efstathiou               	Baadi                    			4	1	8	4							12	5	12	5
+56	10	WAKE 	D	4	Ambrozy                  	Maciag                   			4	0	1	0							5	0	5	0
+41	11	UGA  	S	1	Trent Bryde              	                         	9	10											9	10	14	13
+41	11	UGA  	S	2	Tyler Zink               	                         	1	0	6	5	2	0							9	5	11	9
+41	11	UGA  	S	3	Philip Henning           	                         			2	2	11	4							13	6	18	10
+41	11	UGA  	S	4	Blake Croyder            	                         			1	0	0	1	10	2	0	2			11	5	15	12
+41	11	UGA  	S	5	Billy Rowe               	                         					1	0	1	3	8	4	2	0	12	7	16	10
+41	11	UGA  	S	6	Erik Grevelius           	                         							0	1	2	0	7	3	9	4	15	8
+41	11	UGA  	S	7	Baptiste Anselmo         	                         							2	0	1	3	1	0	4	3	8	9
+41	11	UGA  	S	8	Britton Johnston         	                         											2	1	2	1	4	8
+41	11	UGA  	S	9	Alex Diaz                	                         													0	0	0	0
+41	11	UGA  	S	10	Thomas Paulsell          	                         													0	0	0	0
+41	11	UGA  	D	1	Trent Bryde              	Tyler Zink               	8	4											8	4	13	6
+41	11	UGA  	D	2	Blake Croyder            	Billy Rowe               			7	5	1	0							8	5	10	5
+41	11	UGA  	D	3	Philip Henning           	Erik Grevelius           			1	0	9	5							10	5	10	7
+41	11	UGA  	D	4	Baptiste Anselmo         	Britton Johnston         													0	0	4	2
+24	12	USC  	S	1	Daniel Cukierman         	                         	12	5											12	5	14	5
+24	12	USC  	S	2	Riley Smith              	                         	4	0	9	5									13	5	15	5
+24	12	USC  	S	3	Stefan Dostanic          	                         			4	0	12	3							16	3	18	3
+24	12	USC  	S	4	Bradley Frye             	                         			2	0	2	0	9	2	2	1	0	1	15	4	17	4
+24	12	USC  	S	5	Lodewijk Weststrate      	                         					1	0	7	1	9	3	4	0	21	4	23	4
+24	12	USC  	S	6	Jake Sands               	                         							1	0	5	1	8	3	14	4	14	4
+24	12	USC  	S	7	Ryder Jackson            	                         							0	2	1	0	2	0	3	2	5	2
+24	12	USC  	S	8	Colter Smith             	                         											4	0	4	0	6	0
+24	12	USC  	S	9	Sean Holt                	                         									1	0	0	2	1	2	1	2
+24	12	USC  	D	1	Daniel Cukierman         	Riley Smith              	17	3											17	3	18	3
+24	12	USC  	D	2	Stefan Dostanic          	Bradley Frye             			13	1									13	1	13	1
+24	12	USC  	D	3	Sean Holt                	Jake Sands               													0	0	0	0
+24	12	USC  	D	4	Ryder Jackson            	Lodewijk Weststrate      					1	3							1	3	1	4
+25	13	SCAR 	S	1	Daniel Rodrigues         	                         	16	4											16	4	24	6
+25	13	SCAR 	S	2	Connor Thomson           	                         			6	5	5	3							11	8	18	12
+25	13	SCAR 	S	3	Toby Samuel              	                         					4	2	12	2					16	4	24	7
+25	13	SCAR 	S	4	Raphael Lambling         	                         	1	0	2	7	3	3	0	2					6	12	11	18
+25	13	SCAR 	S	5	Jake Beasley             	                         									7	7	5	1	12	8	18	10
+25	13	SCAR 	S	6	Thomas Brown             	                         			1	0							2	2	3	2	11	6
+25	13	SCAR 	S	7	Phillip Jordan           	                         					0	2	2	0	3	3	1	4	6	9	11	16
+25	13	SCAR 	S	8	Bruno Oliveira           	                         							0	1			0	1	0	2	0	2
+25	13	SCAR 	S	9	Beau Pelletier           	                         											2	1	2	1	7	6
+25	13	SCAR 	S	10	Carter Morgan            	                         									0	1			0	1	2	7
+25	13	SCAR 	D	1	Daniel Rodrigues         	Connor Thomson           	13	7											13	7	20	11
+25	13	SCAR 	D	2	Jake Beasley             	Toby Samuel              			9	3	6	4							15	7	23	11
+25	13	SCAR 	D	3	Raphael Lambling         	Phillip Jordan           			2	4	4	3							6	7	14	10
+25	13	SCAR 	D	4	Bruno Oliveira           	Thomas Brown             													0	0	0	0
+40	14	UK   	S	1	Liam Draxl               	                         	19	2											19	2	19	2
+40	14	UK   	S	2	Gabriel Diallo           	                         			12	5	1	1	1	0					14	6	19	7
+40	14	UK   	S	3	Millen Hurrion           	                         			4	1	10	3							14	4	17	7
+40	14	UK   	S	4	Cesar Bourgois           	                         			1	0	1	0	9	6	3	0			14	6	14	6
+40	14	UK   	S	5	Joshua Lapadat           	                         					2	2	0	4	3	3	1	0	6	9	11	10
+40	14	UK   	S	6	Alexandre LeBlanc        	                         							1	0	1	0	2	4	4	4	5	9
+40	14	UK   	S	7	Yasha Zemel              	                         							2	0	4	4	1	2	7	6	7	6
+40	14	UK   	S	8	Mathis Moysan            	                         					1	0			1	0	2	3	4	3	4	3
+40	14	UK   	S	9	Jonathan Sorbo           	                         									1	0	2	0	3	0	4	4
+40	14	UK   	S	10	Ying-Ze Chen             	                         													0	0	1	5
+40	14	UK   	S	11	Tate Sandman             	                         													0	0	1	4
+40	14	UK   	S	12	Heman Nama               	                         											1	0	1	0	2	4
+40	14	UK   	D	1	Gabriel Diallo           	Cesar Bourgois           	14	7											14	7	14	7
+40	14	UK   	D	2	Liam Draxl               	Millen Hurrion           			6	2									6	2	6	2
+40	14	UK   	D	3	Joshua Lapadat           	Alexandre LeBlanc        					4	2							4	2	4	4
+40	14	UK   	D	4	Yasha Zemel              	Ying-Ze Chen             					0	2							0	2	0	2
+57	15	MISS 	S	1	Tim Sandkaulen           	                         	1	7	7	5									8	12	13	16
+57	15	MISS 	S	2	Finn Reynolds            	                         	4	9	6	1									10	10	10	10
+57	15	MISS 	S	3	Nikola Slavic            	                         			1	0	12	7							13	7	13	7
+57	15	MISS 	S	4	John Hallquist Lithen    	                         					1	0	5	6	6	1			12	7	12	7
+57	15	MISS 	S	5	Simon Junk               	                         							5	4	2	6	2	1	9	11	9	14
+57	15	MISS 	S	6	Lukas Engelhardt         	                         									0	3	3	4	3	7	3	7
+57	15	MISS 	S	7	Jakob Cadonau            	                         									0	1	3	3	3	4	3	4
+57	15	MISS 	S	8	Jan Soren Hain           	                         									0	1	1	1	1	2	1	8
+57	15	MISS 	S	9	Brady Draheim            	                         													0	0	2	7
+57	15	MISS 	D	1	Tim Sandkaulen           	Finn Reynolds            	14	2											14	2	14	2
+57	15	MISS 	D	2	Brady Draheim            	Simon Junk               			8	7	3	2							11	9	11	9
+57	15	MISS 	D	3	Jakob Cadonau            	Lukas Engelhardt         													0	0	0	0
+57	15	MISS 	D	4	Nikola Slavic            	Jan Soren Hain           													0	0	0	0
+8	16	ILL  	S	1	Aleks Kovacevic          	                         	10	1											10	1	10	1
+8	16	ILL  	S	2	Siphosothando Montsi     	                         	6	1	7	2	2	0							15	3	15	3
+8	16	ILL  	S	3	Alex Brown               	                         	0	2	5	5	3	2							8	9	9	12
+8	16	ILL  	S	4	Zeke Clark               	                         					10	0	6	1					16	1	19	2
+8	16	ILL  	S	5	Hunter Heck              	                         							3	0	9	4	1	1	13	5	16	6
+8	16	ILL  	S	6	Noe Khlif                	                         							8	0	2	1	5	0	15	1	15	1
+8	16	ILL  	S	7	Kweisi Kenyatte          	                         							0	1	2	1	4	4	6	6	7	9
+8	16	ILL  	S	8	Lucas Horve              	                         											3	1	3	1	4	3
+8	16	ILL  	S	9	Nic Meister              	                         													0	0	0	0
+8	16	ILL  	S	10	Vuk Budic                	                         													0	0	0	0
+8	16	ILL  	S	11	Alex Petrov              	                         													0	0	0	0
+8	16	ILL  	D	1	Alex Brown               	Zeke Clark               	8	2	3	0									11	2	11	2
+8	16	ILL  	D	2	Siphosothando Montsi     	Noe Khlif                			5	1	5	1							10	2	10	2
+8	16	ILL  	D	3	Aleks Kovacevic          	Hunter Heck              			1	0	2	1							3	1	3	1
+8	16	ILL  	D	4	Vuk Budic                	Lucas Horve              					0	1							0	1	0	1
+34		AAMU 	S	1	Rodrigo Arana Rios       	                         	1	10											1	10	1	10
+34		AAMU 	S	2	Gjorgji Popovski         	                         			6	6									6	6	6	6
+34		AAMU 	S	3	Fermin Ruiz              	                         			0	3	0	9							0	12	0	12
+34		AAMU 	S	4	Natiphat Mulada          	                         							5	2	0	2			5	4	5	4
+34		AAMU 	S	5	Panji Setiawan           	                         							0	3	4	4			4	7	4	7
+34		AAMU 	S	6	Divesh Gahlot            	                         											3	0	3	0	3	0
+34		AAMU 	S	7	Cheng Chang              	                         									0	2	1	2	1	4	1	4
+34		AAMU 	S	8	German Ruiz Crespo       	                         											0	2	0	2	0	2
+34		AAMU 	S	9	Austin Smith             	                         											0	1	0	1	0	1
+34		AAMU 	D	1	Panji Setiawan           	Rodrigo Arana Rios       	3	7											3	7	3	7
+34		AAMU 	D	2	Gjorgji Popovski         	Cheng Chang              	3	7											3	7	3	7
+34		AAMU 	D	3	Divesh Gahlot            	Fermin Ruiz              	1	1											1	1	1	1
+34		AAMU 	D	4	German Ruiz Crespo       	Natiphat Mulada          													0	0	0	0
+37		ARIZ 	S	1	Gustaf Strom             	                         	3	1	5	1	9	0							17	2	17	2
+37		ARIZ 	S	2	Jonas Ziverts            	                         	8	7	1	1									9	8	9	8
+37		ARIZ 	S	3	Filip Malbasic           	                         			3	3	5	4	6	2					14	9	14	9
+37		ARIZ 	S	4	Herman Hoeyeraal         	                         									1	0	3	0	4	0	4	0
+37		ARIZ 	S	5	Alejandro Reguant        	                         	3	0	4	3	1	0	5	3					13	6	13	6
+37		ARIZ 	S	6	Carlos Hassey            	                         					1	0	1	0	9	6	1	1	12	7	12	7
+37		ARIZ 	S	7	Nick Lagaev              	                         			1	0	1	0	1	0	2	0	8	5	13	5	13	5
+37		ARIZ 	S	8	Hiroki Sakagawa          	                         									3	0			3	0	3	0
+37		ARIZ 	S	9	Igor Karpovets           	                         							2	0	0	1			2	1	2	1
+37		ARIZ 	S	10	Jett Middleton           	                         					1	0	1	0			2	0	4	0	4	0
+37		ARIZ 	S	11	Conner Olsen             	                         											2	1	2	1	2	1
+37		ARIZ 	S	12	Jared Horwood            	                         									1	0			1	0	1	0
+37		ARIZ 	D	1	Carlos Hassey            	Alejandro Reguant        	1	0	9	3									10	3	10	3
+37		ARIZ 	D	2	Jonas Ziverts            	Herman Hoeyeraal         													0	0	0	0
+37		ARIZ 	D	3	Gustaf Strom             	Filip Malbasic           			2	0	7	5							9	5	9	5
+37		ARIZ 	D	4	Jett MIddleton           	Nick Lagaev              													0	0	0	0
+50		ARK  	S	1	Alex Reco                	                         	2	11	5	0									7	11	8	12
+50		ARK  	S	2	Max Verboven             	                         	2	5	1	7									3	12	3	12
+50		ARK  	S	3	Nico Rousett             	                         	1	0	3	4	8	5							12	9	15	12
+50		ARK  	S	4	Aleksa Bucan             	                         	0	1	0	1	3	2	3	4					6	8	10	10
+50		ARK  	S	5	Adrien Burdet            	                         							0	3	11	10			11	13	11	13
+50		ARK  	S	6	Enrique Paya             	                         									0	1	6	10	6	11	6	11
+50		ARK  	S	7	Melvin Manuel            	                         					0	1	6	7	0	1	1	1	7	10	9	14
+50		ARK  	S	8	Hunter Harrison          	                         											0	1	0	1	4	4
+50		ARK  	S	9	Jose Dominguez Alonso    	                         			1	0	0	1							1	1	1	1
+50		ARK  	S	10	Avery Zavala             	                         											2	0	2	0	4	4
+50		ARK  	S	11	Riccardo Trione          	                         					1	0							1	0	1	0
+50		ARK  	S	12	Josh Bortnick            	                         													0	0	3	3
+50		ARK  	S	13	Foster Rogers            	                         													0	0	2	3
+50		ARK  	D	1	Hunter Harrison          	Enrique Paya             	3	7											3	7	3	7
+50		ARK  	D	2	Adrien Burdet            	Melvin Manuel            			6	4	1	0							7	4	7	4
+50		ARK  	D	3	Alex Reco                	Nico Rouset              	0	1	0	1	11	6							11	8	11	8
+50		ARK  	D	4	Avery Zavala             	Max Verboven             			0	2									0	2	0	2
+52		AZST 	S	1	Nathan Ponwtih           	                         	14	7	1	0									15	7	15	7
+52		AZST 	S	2	Makey Rakotomalala       	                         	0	1	4	8	3	1	2	0					9	10	9	10
+52		AZST 	S	3	Tim Ruehl                	                         	1	0	3	3	6	2							10	5	10	5
+52		AZST 	S	4	George Stoupe            	                         							4	4	3	6	3	0	10	10	10	10
+52		AZST 	S	5	Max McKennon             	                         							1	2	3	2	0	1	4	5	4	5
+52		AZST 	S	6	Christian Lerby          	                         					2	1			1	1	9	5	12	7	12	7
+52		AZST 	S	7	Spencer Brachman         	                         									0	1	1	0	1	1	1	1
+52		AZST 	S	8	Jonah Wilson             	                         									2	0	1	2	3	2	3	2
+52		AZST 	S	9	Moritz Hoffmann          	                         									1	2			1	2	1	2
+52		AZST 	D	1	Makey Rakotomalala       	Tim Ruehl                	1	2	5	2									6	4	6	4
+52		AZST 	D	2	Max McKennon             	Nathan Ponwith           	1	1	4	1									5	2	5	2
+52		AZST 	D	3	Christian Lerby          	George Stoupe            					3	1							3	1	3	1
+52		AZST 	D	4	Moritz Hoffmann          	Jonah Wilson             					1	1							1	1	1	1
+61		BAMA 	S	1	Edson Ortiz              	                         	5	5	5	3	2	2							12	10	13	12
+61		BAMA 	S	2	Patrick Kaukovalta       	                         	4	3	3	2	2	6							9	11	15	17
+61		BAMA 	S	3	Zhe Zhou                 	                         	2	6	4	2	3	1							9	9	15	15
+61		BAMA 	S	4	Riccardo Roberto         	                         			0	1			5	7	6	0			11	8	19	12
+61		BAMA 	S	5	Gabriel Diaz Freire      	                         			2	0	2	1	2	4	3	1	1	0	10	6	15	10
+61		BAMA 	S	6	Alexey Nesterov          	                         							2	0	2	0	3	6	7	6	12	10
+61		BAMA 	S	7	Jeremy Gschwendtner      	                         					1	0	2	0	4	3	4	1	11	4	20	7
+61		BAMA 	S	8	Marcelo Sepulveda Garza  	                         											1	0	1	0	5	7
+61		BAMA 	S	9	Rudi Christiansen        	                         									1	0	3	0	4	0	6	1
+61		BAMA 	S	10	Vincent Rettke           	                         					1	1	1	0	1	1	1	2	4	4	13	7
+61		BAMA 	S	11	Sam Fischer              	                         													0	0	2	4
+61		BAMA 	S	12	Avi Shugar               	                         											1	0	1	0	4	4
+61		BAMA 	D	1	Patrick Kaukovalta       	Riccardo Roberto         	10	7	1	2									11	9	16	14
+61		BAMA 	D	2	Alexey Nesterov          	Edson Ortiz              			3	3	4	4							7	7	7	7
+61		BAMA 	D	3	Marcelo Sepulveda Garza  	Zhe Zhou                 					0	2							0	2	0	2
+61		BAMA 	D	4	Gabriel Diaz Freire      	Jeremy Gschwendtner      													0	0	0	0
+58		BEL  	S	1	Marko Ilic               	                         	13	4											13	4	13	4
+58		BEL  	S	2	Arthur Toledo            	                         			13	3									13	3	13	3
+58		BEL  	S	3	Tomas Luis               	                         			0	1	7	5	2	1	1	0			10	7	10	7
+58		BEL  	S	4	Diego Castro             	                         							6	4	3	2	1	0	10	6	10	6
+58		BEL  	S	5	Taisei Miyamoto          	                         					3	1	0	3	5	3			8	7	8	7
+58		BEL  	S	6	Alfred Wallin            	                         							1	0	1	0	9	4	11	4	11	4
+58		BEL  	S	7	Jake Briggs              	                         											1	0	1	0	1	0
+58		BEL  	S	8	David Faulkner           	                         													0	0	0	0
+58		BEL  	S	9	Grant Kelly              	                         													0	0	0	0
+58		BEL  	D	1	Marko Ilic               	Taisei Miyamoto          	11	6											11	6	11	6
+58		BEL  	D	2	Diego Castro             	Tomas Luis               			11	2									11	2	11	2
+58		BEL  	D	3	Jake Briggs              	Arthur Toledo            					8	3							8	3	8	3
+58		BEL  	D	4	Grant Kelly              	Alfred Wallin            					0	1							0	1	0	1
+39		CLEV 	S	1	Nico Mostardi            	                         	6	3											6	3	6	3
+39		CLEV 	S	2	Matt Terry               	                         	9	2	6	2									15	4	15	4
+39		CLEV 	S	3	Luke Phillips            	                         			10	1	4	2	3	0					17	3	17	3
+39		CLEV 	S	4	Maxime Mareschal-Hay     	                         			2	0	12	2	3	2					17	4	17	4
+39		CLEV 	S	5	Clark Bilinovich         	                         					0	1	7	3	2	2			9	6	9	6
+39		CLEV 	S	6	Raul Teichmann           	                         							1	0	2	2	0	2	3	4	3	4
+39		CLEV 	S	7	Kade Mindry              	                         									1	2	3	2	4	4	4	4
+39		CLEV 	S	8	Juandedios Abboud        	                         							0	1	5	3	2	5	7	9	7	9
+39		CLEV 	S	9	Jack Santilli            	                         									0	1	4	1	4	2	4	2
+39		CLEV 	S	10	Austin Staiger           	                         											1	2	1	2	1	2
+39		CLEV 	D	1	Nico Mostardi            	Luke Phillips            	11	4											11	4	11	4
+39		CLEV 	D	2	Matt Terry               	Maxime Mareschal-Hay     	11	4											11	4	11	4
+39		CLEV 	D	3	Clark Bilinovich         	Kade Mindry              					6	0							6	0	6	0
+39		CLEV 	D	4	Raul Teichmann           	Jack Santilli            					1	0							1	0	1	0
+14		DEN  	S	1	James Davis              	                         	4	1	6	0	4	1							14	2	14	2
+14		DEN  	S	2	Mattia Ros               	                         	2	7	4	1	2	0							8	8	8	8
+14		DEN  	S	3	Matt Summers             	                         	0	3	1	2	9	1							10	6	10	6
+14		DEN  	S	4	Peter Sallay             	                         							12	4					12	4	12	4
+14		DEN  	S	5	Nicolas Herrero Cuesta   	                         									10	1	4	0	14	1	14	1
+14		DEN  	S	6	Ignacio Rivero Crespo    	                         							1	0			8	1	9	1	9	1
+14		DEN  	S	7	Daniel Krulig            	                         									3	2	3	0	6	2	6	2
+14		DEN  	S	8	Charlie Miller           	                         											1	0	1	0	1	0
+14		DEN  	S	9	John Zakowski            	                         													0	0	0	0
+14		DEN  	D	1	Matt Summers             	James Davis              	14	5											14	5	14	5
+14		DEN  	D	2	Mattia Ros               	Peter Sallay             			7	6									7	6	7	6
+14		DEN  	D	3	Nicolas Herrero Cuesta   	Ignacio Rivero Crespo    					10	4							10	4	10	4
+14		DEN  	D	4	Daniel Krulig            	Charlie Miller           													0	0	0	0
+7		DEP  	S	1	Vito Tonejc              	                         	11	5	2	0									13	5	13	5
+7		DEP  	S	2	Christopher Casati       	                         	1	3	3	7	4	2							8	12	8	12
+7		DEP  	S	3	Boris Spanjaard          	                         			3	1	8	4	1	1					12	6	12	6
+7		DEP  	S	4	Tamas Zador              	                         			2	1	0	1	1	1					3	3	3	3
+7		DEP  	S	5	Fran Tonejc              	                         					2	0	5	5	1	3			8	8	8	8
+7		DEP  	S	6	Luuk Wassenaar           	                         							2	1	6	3	3	2	11	6	11	6
+7		DEP  	S	7	Tripp Tuff               	                         							1	0	6	2	7	5	14	7	14	7
+7		DEP  	S	8	Sunny Sirinit            	                         											1	2	1	2	1	2
+7		DEP  	S	9	Lars Minsaas             	                         													0	0	0	0
+7		DEP  	D	1	Christopher Casati       	Boris Spanjaard          	12	4	1	0	1	0							14	4	14	4
+7		DEP  	D	2	Vito Tonejc              	Luuk Wassenaar           			3	2	3	2							6	4	6	4
+7		DEP  	D	3	Fran Tonejc              	Tripp Tuff               			4	6	5	0							9	6	9	6
+7		DEP  	D	4	Tamas Zador              	Lars Minsaas             													0	0	0	0
+3		DUKE 	S	1	Garrett Johns            	                         	8	8											8	8	9	9
+3		DUKE 	S	2	Sean Sculley             	                         			2	3	3	1							5	4	6	4
+3		DUKE 	S	3	Andrew Zhang             	                         					5	1	5	4					10	5	12	5
+3		DUKE 	S	4	Edu Guell                	                         	1	0	4	6	2	3	0	1					7	10	8	11
+3		DUKE 	S	5	Luca Keist               	                         			1	0	0	1	3	0	3	2			7	3	8	3
+3		DUKE 	S	6	Andrew Dale              	                         							1	1	7	1	0	2	8	4	10	4
+3		DUKE 	S	7	Faris Khan               	                         							1	1	1	2	5	1	7	4	9	4
+3		DUKE 	S	8	Michael Heller           	                         											5	5	5	5	7	5
+3		DUKE 	D	1	Sean Sculley             	Garrett Johns            	8	7											8	7	9	8
+3		DUKE 	D	2	Michael Heller           	Andrew Zhang             	0	1	4	1	1	0							5	2	5	2
+3		DUKE 	D	3	Luca Keist               	Andrew Dale              					1	1							1	1	1	1
+3		DUKE 	D	4	Edu Guell                	Faris Khan               													0	0	0	0
+42		ETSU 	S	1	Dimitri Badra            	                         	11	3	1	1	2	1							14	5	14	5
+42		ETSU 	S	2	Frazier Rengifo          	                         	1	3	10	4									11	7	11	7
+42		ETSU 	S	3	Juan Lugo                	                         			1	0	5	1	3	4					9	5	9	5
+42		ETSU 	S	4	Thiago Pernas            	                         					3	3	7	2	0	1	0	2	10	8	10	8
+42		ETSU 	S	5	MIguel Este              	                         									1	1	7	4	8	5	8	5
+42		ETSU 	S	6	Juan Zabala              	                         									4	3	2	1	6	4	6	4
+42		ETSU 	S	7	Milo Bargeron            	                         			0	2	1	3	0	2	4	1	1	1	6	9	6	9
+42		ETSU 	D	1	Juan Lugo                	Frazier Rengifo          	8	5											8	5	8	5
+42		ETSU 	D	2	Miguel Este              	Dimitri Badra            			4	0	8	1							12	1	12	1
+42		ETSU 	D	3	Juan Zabala              	Thiago Pernas            			4	2	4	2							8	4	8	4
+18		FDU  	S	1	teodors pukse            	                         	4	3											4	3	4	3
+18		FDU  	S	2	andris gudins            	                         			2	3	2	2							4	5	4	5
+18		FDU  	S	3	maciej autuch            	                         					1	1	1	2	2	1	1	0	5	4	5	4
+18		FDU  	S	4	arjun sriram             	                         									1	0	0	1	1	1	1	1
+18		FDU  	S	5	moric budinszky          	                         							1	2	0	1	1	1	2	4	2	4
+18		FDU  	S	6	youssef sader            	                         					1	2	0	2	2	0	2	0	5	4	5	4
+18		FDU  	S	7	niclas pietsch           	                         							0	1	0	1			0	2	0	2
+18		FDU  	S	8	andrei oprisor           	                         									0	1	1	0	1	1	1	1
+18		FDU  	S	9	taiga koyama             	                         													0	0	0	0
+18		FDU  	S	10	eduardo cabral           	                         											0	1	0	1	0	1
+18		FDU  	S	11	dennis espiritu          	                         													0	0	0	0
+18		FDU  	D	1	teodors pukse            	andris gudins            	2	2	1	0									3	2	3	2
+18		FDU  	D	2	moric budinszky          	arjun sriram             													0	0	0	0
+18		FDU  	D	3	niclas pietsch           	eduardo cabral           													0	0	0	0
+18		FDU  	D	4	maciej autuch            	andrei oprisor           					0	1							0	1	0	1
+27		FGCU 	S	1	Magnus Johnson           	                         	9	3											9	3	9	3
+27		FGCU 	S	2	Juan Montes              	                         			7	4									7	4	7	4
+27		FGCU 	S	3	Randy Wilson             	                         			0	1	5	5	1	1					6	7	6	7
+27		FGCU 	S	4	Felipe Ramirez           	                         			0	2	1	1	1	1					2	4	2	4
+27		FGCU 	S	5	Guglielmo Stefanacci     	                         							1	2	3	3	4	0	8	5	8	5
+27		FGCU 	S	6	Alessandro Conca         	                         					0	1	3	4	0	2	0	2	3	9	3	9
+27		FGCU 	S	7	Max Damm                 	                         									0	1	0	2	0	3	0	3
+27		FGCU 	S	8	Feliksas Sakalauskas     	                         									0	2	1	1	1	3	1	3
+27		FGCU 	S	9	Pedro Maciel             	                         											1	2	1	2	1	2
+27		FGCU 	S	10	Carter Bradford          	                         													0	0	0	0
+27		FGCU 	D	1	Magnus Johnson           	Max Damm                 	4	3	1	0	2	1							7	4	7	4
+27		FGCU 	D	2	Felipe Ramirez           	Juan Montes              			2	1									2	1	2	1
+27		FGCU 	D	3	Randy Wilson             	Feliksas Sakalauskas     													0	0	0	0
+27		FGCU 	D	4	Guglielmo Stefanacci     	Carter Bradford          													0	0	0	0
+23		GCU  	S	1	Valentin Lang            	                         	8	10											8	10	8	10
+23		GCU  	S	2	Mariano Argote           	                         			5	6	2	0							7	6	7	6
+23		GCU  	S	3	Justin Cvitanovic        	                         	0	1	0	8	4	6							4	15	4	15
+23		GCU  	S	4	Jonathan Da Silva        	                         	0	1					5	2	2	2	0	2	7	7	7	7
+23		GCU  	S	5	Jiri Novak               	                         					1	4	2	4	5	1			8	9	8	9
+23		GCU  	S	6	Freddie Grant            	                         							0	5	0	1	9	2	9	8	9	8
+23		GCU  	S	7	Wolmar Boris-Moller      	                         					0	1			0	8			0	9	0	9
+23		GCU  	S	8	Loic Van Zeggelaar       	                         											1	4	1	4	1	4
+23		GCU  	D	1	Valentin Lang            	Jiri Novak               	10	6											10	6	10	6
+23		GCU  	D	2	Mariano Argote           	Justin Cvitanovic        	0	1	7	4									7	5	7	5
+23		GCU  	D	3	Freddie Grant            	Loic Van Zeggelaar       					6	4							6	4	6	4
+23		GCU  	D	4	Jonathan Da Silva        	Wolmar Boris-Moller      													0	0	0	0
+36		GT   	S	1	Marcus McDaniel          	                         	10	6	5	0									15	6	15	8
+36		GT   	S	2	Andres Martin            	                         	3	2	11	5									14	7	16	8
+36		GT   	S	3	Pablo Schelcher          	                         					8	5	3	1	1	1			12	7	13	9
+36		GT   	S	4	Keshav Chopra            	                         			1	0	3	5	8	3					12	8	14	9
+36		GT   	S	5	Brandon McKinney         	                         							3	2	7	8			10	10	12	11
+36		GT   	S	6	Chen Dong                	                         											11	4	11	4	12	6
+36		GT   	S	7	Brandon Freestone        	                         									3	0	1	1	4	1	6	2
+36		GT   	S	8	Zummy Bauer              	                         													0	0	0	0
+36		GT   	D	1	Marcus McDaniel          	Andres Martin            	5	2											5	2	5	2
+36		GT   	D	2	Pablo Schelcher          	Brandon Freestone        			6	4									6	4	6	4
+36		GT   	D	3	Keshav Chopra            	Chen Dong                					2	1							2	1	2	1
+36		GT   	D	4	Brandon McKinney         	Zummy Bauer              					6	4							6	4	6	4
+		LIB  	S	1	Nicaise Muamba           	                         	16	5											16	5	16	5
+		LIB  	S	2	Rafael Marques Da Silva  	                         	2	0	9	2	6	1	2	3					19	6	19	6
+		LIB  	S	3	Josh Wilson              	                         			6	5	2	1							8	6	8	6
+		LIB  	S	4	Deji Thomas-Smith        	                         			4	0	2	3	5	4	1	0	3	1	15	8	15	8
+		LIB  	S	5	Christiaan Worst         	                         					5	0	1	3	5	5	0	1	11	9	11	9
+		LIB  	S	6	Thando Longwe-Smit       	                         							4	1	3	2	6	1	13	4	13	4
+		LIB  	S	7	Goncalo Ferreira         	                         					0	5	2	2	4	3	3	1	9	11	9	11
+		LIB  	S	8	Zion Heaven              	                         											4	4	4	4	4	4
+		LIB  	S	9	Steve Mundt              	                         											1	0	1	0	1	0
+		LIB  	D	1	Christiaan Worst         	Deji Thomas-Smith        	7	4	3	2									10	6	10	6
+		LIB  	D	2	Rafael Marques Da Silva  	Nicaise Muamba           			9	3	7	2							16	5	16	5
+		LIB  	D	3	Josh Wilson              	Steve Mundt              					7	1							7	1	7	1
+		LIB  	D	4	Goncalo Ferreira         	Zion Heaven              													0	0	0	0
+19		LSU  	S	1	Ronald Hohmann           	                         	10	9											10	9	13	12
+19		LSU  	S	2	Rafael Wagner            	                         	2	0	5	9									7	9	11	13
+19		LSU  	S	3	Joao Graca               	                         			0	1	0	4	1	4	4	1			5	10	5	10
+19		LSU  	S	4	Boris Kozlov             	                         					2	0	5	4	3	2			10	6	13	11
+19		LSU  	S	5	Benjamin Ambrosio        	                         							2	1	1	3	6	2	9	6	9	6
+19		LSU  	S	6	Ben Koch                 	                         									2	1	2	1	4	2	8	6
+19		LSU  	S	7	Nick Watson              	                         									1	0	0	1	1	1	3	5
+19		LSU  	S	8	Tomas Descarrega         	                         							1	0	1	0	1	3	3	3	5	7
+19		LSU  	S	9	Joey Thomas              	                         							1	0			2	2	3	2	3	2
+19		LSU  	D	1	Rafael Wagner            	Ronald Hohmann           	10	9											10	9	18	11
+19		LSU  	D	2	Joey Thomas              	Joao Graca               	1	0	6	10									7	10	7	10
+19		LSU  	D	3	Nick Watson              	Boris Kozlov             			1	0	10	5							11	5	13	10
+19		LSU  	D	4	Tomas Descarrega         	Ben Koch                 													0	0	0	0
+35		MEM  	S	1	James Story              	                         	8	6											8	6	8	6
+35		MEM  	S	2	David Stevenson          	                         			2	5	6	3							8	8	8	8
+35		MEM  	S	3	Oscar Cutting            	                         			2	4	2	4	4	1					8	9	8	9
+35		MEM  	S	4	Jan Pallares             	                         			1	3	1	1	4	4					6	8	6	8
+35		MEM  	S	5	Jeremy Taylor            	                         							1	0	5	3	3	0	9	3	9	3
+35		MEM  	S	6	Pau Fanlo                	                         									2	2	4	3	6	5	6	5
+35		MEM  	S	7	Patrick Sydow            	                         											0	2	0	2	0	2
+35		MEM  	S	8	Antoine Marleau          	                         													0	0	0	0
+35		MEM  	D	1	Oscar Cutting            	David Stevenson          	9	6											9	6	9	6
+35		MEM  	D	2	Jan Pallares             	Patrick Sydow            			12	3									12	3	12	3
+35		MEM  	D	3	James Story              	Jeremy Taylor            					10	3							10	3	10	3
+35		MEM  	D	4	Pau Fanlo                	Antoine Marleau          													0	0	0	0
+11		MIA  	S	1	Adria Soriano Barrera    	                         	9	6											9	6	9	6
+11		MIA  	S	2	Bojan Jankulovski        	                         			5	4	2	0	2	1					9	5	9	5
+11		MIA  	S	3	Benjamin Hannestad       	                         			0	5	5	5	1	0					6	10	6	10
+11		MIA  	S	4	Stefan Milicevic         	                         					1	3	4	7					5	10	5	10
+11		MIA  	S	5	Oren Vasser              	                         									3	1	6	5	9	6	9	6
+11		MIA  	S	6	Franco Aubone            	                         									6	6	1	4	7	10	7	10
+11		MIA  	S	7	Stephen Madonia          	                         											1	0	1	0	1	0
+11		MIA  	D	1	Benjamin Hannestad       	Franco Aubone            	7	8											7	8	7	8
+11		MIA  	D	2	Adria Soriano Barrera    	Oren Vasser              			2	2									2	2	2	2
+11		MIA  	D	3	Bojan Jankulovski        	Stefan Milicevic         					4	3							4	3	4	3
+38		MICH 	S	1	Andrew Fenty             	                         	10	3	3	1									13	4	16	9
+38		MICH 	S	2	Ondrej Styler            	                         	1	1	7	3									8	4	12	7
+38		MICH 	S	3	Patrick Maloney          	                         			2	0	7	3	0	1					9	4	9	4
+38		MICH 	S	4	Mattias Siimar           	                         			2	0	4	2	8	1					14	3	17	6
+38		MICH 	S	5	Nick Beaty               	                         					1	0	4	0	8	2			13	2	19	4
+38		MICH 	S	6	Nino Ehrenschneider      	                         									1	0	3	1	4	1	6	2
+38		MICH 	S	7	Jacob Bickersteth        	                         							1	0	5	0	3	4	9	4	10	4
+38		MICH 	S	8	Connor Johnston          	                         											2	3	2	3	4	10
+38		MICH 	S	9	Harrison Brown           	                         													0	0	0	3
+38		MICH 	S	10	Kristofer Siimar         	                         													0	0	2	1
+38		MICH 	S	11	Ryan Fu                  	                         													0	0	0	6
+38		MICH 	S	12	Jonathan Yaffe           	                         													0	0	0	0
+38		MICH 	S	13	Teddy Oosterbaan         	                         													0	0	0	0
+38		MICH 	D	1	Andrew Fenty             	Mattias Siimar           	9	3											9	3	14	3
+38		MICH 	D	2	Patrick Maloney          	Ondrej Styler            			2	0									2	0	2	0
+38		MICH 	D	3	Nino Ehrenschneider      	Connor Johnston          					3	0							3	0	3	0
+38		MICH 	D	4	Nick Beaty               	Harry Brown              					3	2							3	2	3	4
+10		MONM 	S	1	William Cooke Wharton    	                         	9	4											9	4	9	4
+10		MONM 	S	2	Max Benaim               	                         			7	4	1	0							8	4	8	4
+10		MONM 	S	3	Victor Castro            	                         					4	0	9	2					13	2	13	2
+10		MONM 	S	4	Lucca Silva              	                         	0	2	3	0	4	1	1	1					8	4	8	4
+10		MONM 	S	5	Sergio Martinez          	                         							1	0	10	2	1	0	12	2	12	2
+10		MONM 	S	6	Gabriel Busato           	                         							1	0	1	1	12	1	14	2	14	2
+10		MONM 	S	7	Charles Gortzounian      	                         											1	0	1	0	1	0
+10		MONM 	S	8	Christof Zeiler          	                         													0	0	0	0
+10		MONM 	S	9	Diego Laporta            	                         											1	0	1	0	1	0
+10		MONM 	S	10	Arthur Dussaubat         	                         													0	0	0	0
+10		MONM 	S	11	Austin Klapman           	                         													0	0	0	0
+10		MONM 	S	12	Arthur Dussaubat         	                         													0	0	0	0
+10		MONM 	D	1	Max Benaim               	Sergio Martinez          	9	3											9	3	9	3
+10		MONM 	D	2	Victor Castro            	Lucca Silva              			7	1									7	1	7	1
+10		MONM 	D	3	William Cooke Wharton    	Charles Gortzounian      					9	1							9	1	9	1
+10		MONM 	D	4	Gabriel Busato           	Christof Zeiler          													0	0	0	0
+12		MSST 	S	1	Giovanni Oradini         	                         	11	7	0	3									11	10	17	14
+12		MSST 	S	2	Florian Broska           	                         	4	3	10	5									14	8	20	12
+12		MSST 	S	3	Nemanja Malesevic        	                         			4	0	9	5	2	2					15	7	20	11
+12		MSST 	S	4	Alberto Colas            	                         			2	0	6	1	6	7					14	8	4	6
+12		MSST 	S	5	Carles Hernandez         	                         							5	0	9	8			14	8	14	8
+12		MSST 	S	6	Davide Tortora           	                         											7	3	7	3	13	7
+12		MSST 	S	7	Gregor Ramskogler        	                         							1	0	4	1	4	8	9	9	14	14
+12		MSST 	S	8	Nicolas Ocana            	                         											0	1	0	1	4	6
+12		MSST 	S	9	Stedman Strickland       	                         													0	0	0	9
+12		MSST 	D	1	Florian Broska           	Gregor Ramskogler        	7	5	2	1	2	0							11	6	11	6
+12		MSST 	D	2	Nemanja Malesevic        	Davide Tortora           			3	3	3	1							6	4	9	7
+12		MSST 	D	3	Nicolas Ocana            	Giovanni Oradini         					2	2							2	2	2	2
+12		MSST 	D	4	Alberto Colas            	Carles Hernandez         					1	0							1	0	1	0
+59		MTSU 	S	1	Francisco Rocha          	                         	5	3	3	1	5	1							13	5	13	5
+59		MTSU 	S	2	Stijn Slump              	                         			9	2	7	3							16	5	16	5
+59		MTSU 	S	3	Tom Moonen               	                         	5	6	1	4	2	1							8	11	8	11
+59		MTSU 	S	4	Christopher Edge         	                         							15	5					15	5	15	5
+59		MTSU 	S	5	Pavel Motl               	                         									6	3	3	3	9	6	9	6
+59		MTSU 	S	6	Oskar Michalek           	                         									4	1	1	0	5	1	5	1
+59		MTSU 	S	7	Max Rauch                	                         					2	0			1	2	7	2	10	4	10	4
+59		MTSU 	S	8	Sean Presson             	                         							2	0	0	1			2	1	2	1
+59		MTSU 	S	9	Patrick Kristensen       	                         											2	0	2	0	2	0
+59		MTSU 	S	10	Andreas Kramer           	                         													0	0	0	0
+59		MTSU 	D	1	Pavel Motl               	Stijn Slump              	9	9											9	9	9	9
+59		MTSU 	D	2	Tom Moonen               	Christopher Edge         			15	6									15	6	15	6
+59		MTSU 	D	3	Francisco Rocha          	Max Rauch                			2	0	9	9							11	9	11	9
+59		MTSU 	D	4	Sean Presson             	Patrick Kristensen       					1	0							1	0	1	0
+31		NAU  	S	1	Eban Straker-Meads       	                         	5	4	1	2									6	6	6	6
+31		NAU  	S	2	Facundo Tumosa           	                         	2	3	3	3									5	6	5	6
+31		NAU  	S	3	Dominik Buzonics         	                         			0	1	4	3	2	2	0	2			6	8	6	8
+31		NAU  	S	4	Christopher Steele       	                         	0	1	1	4	3	2	3	0					7	7	7	7
+31		NAU  	S	5	Maciej Ziomber           	                         					0	1	3	0	5	2	3	1	11	4	11	4
+31		NAU  	S	6	Alexander Groves         	                         					0	1	1	4	2	3	3	0	6	8	6	8
+31		NAU  	S	7	Joachim Schaefer         	                         									0	1	1	2	1	3	1	3
+31		NAU  	S	8	Marcus Sulen             	                         									0	1	1	2	1	3	1	3
+31		NAU  	S	9	Daniel Dillon            	                         											0	2	0	2	0	2
+31		NAU  	S	10	Mikael Purne             	                         													0	0	0	0
+31		NAU  	D	1	Alexander Groves         	Dominik Buzonics         	3	2											3	2	3	2
+31		NAU  	D	2	Facundo Tumosa           	Eban Straker-Meads       			1	0									1	0	1	0
+31		NAU  	D	3	Christopher Steele       	Maciej Ziomber           					3	0							3	0	3	0
+31		NAU  	D	4	Daniel Dillon            	Marcus Sulen             													0	0	0	0
+46		NAVY 	S	1	Andrew Ton               	                         	8	0											8	0	8	0
+46		NAVY 	S	2	Derrick Thompson         	                         			9	0									9	0	9	0
+46		NAVY 	S	3	Jake Fishkin             	                         					2	4							2	4	2	4
+46		NAVY 	S	4	Finn Garner              	                         							4	2					4	2	4	2
+46		NAVY 	S	5	Gavin Segraves           	                         							1	0	7	0			8	0	8	0
+46		NAVY 	S	6	Jack McBride             	                         									1	0	4	0	5	0	5	0
+46		NAVY 	S	7	Sasha Panyan             	                         											1	0	1	0	1	0
+46		NAVY 	S	8	Connors O'Brien          	                         													0	0	0	0
+46		NAVY 	S	9	Jack Dabek               	                         													0	0	0	0
+46		NAVY 	S	10	Christian Pumpelly       	                         													0	0	0	0
+46		NAVY 	D	1	Derrick Thompson         	Andrew Ton               													0	0	0	0
+46		NAVY 	D	2	Finn Garner              	Jack Dabek               													0	0	0	0
+46		NAVY 	D	3	Gavin Segraves           	Sash Panyan              													0	0	0	0
+46		NAVY 	D	4	Jake Fishkin             	Jack McBride             													0	0	0	0
+28		NCST 	S	1	Alexis Galarneau         	                         	10	2											10	2	10	3
+28		NCST 	S	2	Rafael Izquierdo Luque   	                         	0	1	2	5	5	0	0	2					7	8	8	9
+28		NCST 	S	3	Tadas Babelis            	                         	0	2	2	1	3	4	0	1	0	1			5	9	6	10
+28		NCST 	S	4	Yannai Barkai            	                         			0	1	1	2	3	4			1	1	5	8	7	8
+28		NCST 	S	5	Robin Catry              	                         			1	1	1	1	4	3	4	0			10	5	10	6
+28		NCST 	S	6	Robert Turzak            	                         					0	1	4	1	2	2			6	4	7	5
+28		NCST 	S	7	Martins Rocens           	                         									1	2	4	1	5	3	5	5
+28		NCST 	S	8	Joseph Schrader          	                         									0	1			0	1	0	2
+28		NCST 	S	9	Collin Shick             	                         											0	1	0	1	0	2
+28		NCST 	S	10	Tristan Smith            	                         											1	0	1	0	1	1
+28		NCST 	S	11	Braden Shick             	                         													0	0	0	0
+28		NCST 	D	1	Tadas Babelis            	Yannai Barkai            	4	3	1	0									5	3	6	3
+28		NCST 	D	2	Robin Catry              	Alexis Galarneau         			2	1									2	1	2	1
+28		NCST 	D	3	Collin Shick             	Robert Turzak            					0	1							0	1	0	1
+28		NCST 	D	4	Rafael Izquierdo Luque   	Joseph Schrader          													0	0	0	0
+5		ND   	S	1	Axel Nefve               	                         	13	2	5	1									18	3	18	3
+5		ND   	S	2	Richard Ciamarra         	                         	5	3	9	4									14	7	14	7
+5		ND   	S	3	Tristan McCormick        	                         			2	1	8	5							10	6	10	6
+5		ND   	S	4	William Howells          	                         											2	1	2	1	2	1
+5		ND   	S	5	Matthew Che              	                         			1	0	2	4	3	7	0	1			6	12	6	12
+5		ND   	S	6	Connor Fu                	                         			1	0	2	0	4	3	5	5	0	1	12	9	12	9
+5		ND   	S	7	Brandon Ancona           	                         									2	1	4	5	6	6	6	6
+5		ND   	S	8	Jean-Marc Malkowski      	                         							0	1	2	4	1	0	3	5	3	5
+5		ND   	S	9	Braeden Ho               	                         											2	2	2	2	2	2
+5		ND   	S	10	Matthew Gamble           	                         					0	1			1	0			1	1	1	1
+5		ND   	S	11	Andrew Mariados          	                         											2	1	2	1	2	1
+5		ND   	S	12	Matt Halpin              	                         							1	1	1	0	0	1	2	2	2	2
+5		ND   	D	1	Tristan McCormick        	Axel Nefve               	10	4											10	4	10	4
+5		ND   	D	2	Brandon Ancona           	William Howells          			4	2	3	3							7	5	7	5
+5		ND   	D	3	Matthew Che              	Richard Ciamarra         			1	1	5	0							6	1	6	1
+5		ND   	D	4	Matthew Gamble           	Jean-Marc Malkowski      													0	0	0	0
+30		NW   	S	1	Steven Forman            	                         	5	2											5	2	5	2
+30		NW   	S	2	Dominik Stary            	                         	4	4	4	0									8	4	9	6
+30		NW   	S	3	Nick Brookes             	                         			8	2	1	5							9	7	11	9
+30		NW   	S	4	Chris Ephron             	                         					4	4	5	1					9	5	12	6
+30		NW   	S	5	Trice Pickens            	                         							5	7	3	3			8	10	13	10
+30		NW   	S	6	Simen Bratholm           	                         									5	4			5	4	8	5
+30		NW   	S	7	Gleb Blekher             	                         											4	3	4	3	8	3
+30		NW   	S	8	Presley Thieneman        	                         											11	0	11	0	15	1
+30		NW   	S	9	Natan Spear              	                         													0	0	4	0
+30		NW   	S	10	Abhijeet Joshi           	                         													0	0	0	2
+30		NW   	D	1	Nick Brookes             	Simen Bratholm           	9	4											9	4	12	7
+30		NW   	D	2	Chris Ephron             	Dominik Stary            			12	4									12	4	12	4
+30		NW   	D	3	Steven Forman            	Natan Spear              					5	1							5	1	5	1
+30		NW   	D	4	Gleb Blekher             	Presley Thieneman        													0	0	0	0
+13		OKLA 	S	1	Jake Van Emburgh         	                         	4	9			4	1							8	10	8	13
+13		OKLA 	S	2	Mason Beiler             	                         	1	2	7	4	3	2							11	8	16	13
+13		OKLA 	S	3	Alex Martinez            	                         	0	1	2	3	6	2	4	1					12	7	15	13
+13		OKLA 	S	4	Nathan Han               	                         							2	6	3	1	2	0	7	7	13	11
+13		OKLA 	S	5	Justin Schlageter        	                         					1	0			3	5	2	1	6	6	10	12
+13		OKLA 	S	6	Mark Mandlik             	                         	0	2	1	2	1	1	2	3	1	5	1	1	6	14	6	14
+13		OKLA 	S	7	Welsh Hotard             	                         									0	1	6	2	6	3	12	7
+13		OKLA 	S	8	Jonathan Sheehy          	                         											1	0	1	0	2	7
+13		OKLA 	S	9	Max Stewart              	                         					0	1			1	0	2	2	3	3	3	3
+13		OKLA 	S	10	Matt Rodriguez           	                         													0	0	3	4
+13		OKLA 	D	1	Mark Mandlik             	Max Stewart              	0	1	0	1	2	1							2	3	2	3
+13		OKLA 	D	2	Jake Van Emburgh         	Alex Martinez            			0	1									0	1	0	1
+13		OKLA 	D	3	Nathan Han               	Mason Beiler             					1	0							1	0	1	0
+13		OKLA 	D	4	Jonathan Sheehy          	Welsh Hotard             													0	0	0	0
+45		OKST 	S	1	Matej Vocel              	                         	11	5											11	5	11	5
+45		OKST 	S	2	Henrik Korsgaard         	                         			3	2	3	7	3	0					9	9	9	9
+45		OKST 	S	3	Emile Hudd               	                         			2	5	5	2							7	7	9	9
+45		OKST 	S	4	Mathieu Scaglia          	                         					2	0	4	5	3	2			9	7	9	8
+45		OKST 	S	5	Etienne Donnet           	                         							1	0	3	4	4	5	8	9	9	14
+45		OKST 	S	6	Matisse Bobichon         	                         											4	4	4	4	4	4
+45		OKST 	S	7	Luke Hammond             	                         													0	0	0	0
+45		OKST 	S	8	Max Tybar                	                         									1	0			1	0	1	0
+45		OKST 	D	1	Emile Hudd               	Matej Vocel              	6	4											6	4	6	4
+45		OKST 	D	2	Henrik Korsgaard         	Luke Hammond             													0	0	0	0
+45		OKST 	D	3	Etienne Donnet           	Matisse Bobichon         													0	0	0	0
+45		OKST 	D	4	Max Tybar                	Mathieu Scaglia          													0	0	0	0
+62		ORE  	S	1	Emmanuel Coste           	                         	5	4	6	2									11	6	11	6
+62		ORE  	S	2	Joshua Charlton          	                         	6	4	6	2									12	6	12	6
+62		ORE  	S	3	Quinn Vandecasteele      	                         			2	0	10	8							12	8	12	8
+62		ORE  	S	4	Jesper Klov-Nilsson      	                         							10	2	6	1	1	0	17	3	17	3
+62		ORE  	S	5	Brandon Lam              	                         					2	0	2	3	7	3			11	6	11	6
+62		ORE  	S	6	Luke Vandecasteele       	                         					1	0	3	1	2	1	3	6	9	8	9	8
+62		ORE  	S	7	Ryoma Matsushita         	                         									1	1	7	1	8	2	8	2
+62		ORE  	S	8	Giorgio Soemarno         	                         													0	0	0	0
+62		ORE  	S	9	Nima Movashaggi          	                         											0	1	0	1	0	1
+62		ORE  	D	1	Joshua Charlton          	Quinn Vandecasteele      	9	3											9	3	9	3
+62		ORE  	D	2	Emmanuel Coste           	Jesper Klov-Nilsson      			4	5	8	3							12	8	12	8
+62		ORE  	D	3	Brandon Lam              	Ryoma Matsushita         					4	3							4	3	4	3
+62		ORE  	D	4	Luke Vandecasteele       	Giorgio Soemarno         													0	0	0	0
+53		OSU  	S	1	John McNally             	                         	10	2	6	2									16	4	21	4
+53		OSU  	S	2	Cannon Kingsley          	                         	9	0	12	0									21	0	27	0
+53		OSU  	S	3	James Trotter            	                         					13	1							13	1	13	1
+53		OSU  	S	4	Justin Boulais           	                         							5	1	2	0			7	1	7	1
+53		OSU  	S	5	Kyle Seelig              	                         					4	1	8	3	3	0			15	4	18	8
+53		OSU  	S	6	JJ Tracy                 	                         							1	0	14	1	6	0	21	1	24	3
+53		OSU  	S	7	Robert Cash              	                         									1	0	9	4	10	4	16	4
+53		OSU  	S	8	Tim Seibert              	                         									1	0	1	0	2	0	2	0
+53		OSU  	S	9	JJ Mercer                	                         													0	0	4	3
+53		OSU  	S	10	Lancelot Carnello        	                         													0	0	0	1
+53		OSU  	S	11	Andrew Lutschaunig       	                         													0	0	0	0
+53		OSU  	S	12	Jacob Wareti             	                         													0	0	1	4
+53		OSU  	D	1	James Trotter            	Justin Boulais           	3	2	4	1									7	3	7	3
+53		OSU  	D	2	John McNally             	Robert Cash              	7	3	6	1									13	4	14	5
+53		OSU  	D	3	Cannon Kingsley          	Kyle Seelig              			1	3	1	2							2	5	5	6
+53		OSU  	D	4	JJ Tracy                 	JJ Mercer                					1	0							1	0	2	1
+21		PEPP 	S	1	Adrian Oetzbach          	                         	7	7	0	1									7	8	8	9
+21		PEPP 	S	2	Guy Den Ouden            	                         			10	4	5	1							15	5	15	5
+21		PEPP 	S	3	Daniel DeJonge           	                         			5	0	5	4							10	4	11	5
+21		PEPP 	S	4	Tim Zeitvogel            	                         							4	0	3	0			7	0	7	0
+21		PEPP 	S	5	Corrado Summaria         	                         					1	2	1	3	3	0	3	0	8	5	8	6
+21		PEPP 	S	6	Pietro Fellin            	                         									0	3	8	0	8	3	8	5
+21		PEPP 	S	7	Robert Shelton           	                         							2	3	4	1	1	0	7	4	8	5
+21		PEPP 	S	8	Pawel Jankowiak          	                         											2	2	2	2	2	4
+21		PEPP 	S	9	Tom Grosjean             	                         													0	0	0	2
+21		PEPP 	D	1	Adrian Oetzbach          	Guy Den Ouden            	10	4											10	4	10	4
+21		PEPP 	D	2	Corrado Summaria         	Tim Zeitvogel            			5	2									5	2	5	2
+21		PEPP 	D	3	Daniel DeJonge           	Pietro Fellin            					3	3							3	3	3	3
+21		PEPP 	D	4	Pawel Jankowiak          	Robert Shelton           													0	0	0	0
+47		PRES 	S	1	Max Benson               	                         	10	5											10	5	10	5
+47		PRES 	S	2	Sebastian Dominguez      	                         	1	0	2	3	1	3							4	6	4	6
+47		PRES 	S	3	Nick McKinney            	                         					3	1	5	0	5	0			13	1	13	1
+47		PRES 	S	4	Georgije Babic           	                         			2	3	0	5							2	8	2	8
+47		PRES 	S	5	Daniel Stenger           	                         			3	3			2	3	2	2			7	8	7	8
+47		PRES 	S	6	Javier Matos             	                         					1	0					6	2	7	2	7	2
+47		PRES 	S	7	Alberto Conde            	                         							4	0	1	2	1	1	6	3	6	3
+47		PRES 	S	8	Teo Cariov               	                         					1	1	1	2	2	0			4	3	4	3
+47		PRES 	S	9	Daniel Martens           	                         									0	2	0	5	0	7	0	7
+47		PRES 	S	10	Vance Mercer             	                         											1	1	1	1	1	1
+47		PRES 	D	1	Daniel Stenger           	Sebastian Dominguez      	2	1	4	3									6	4	6	4
+47		PRES 	D	2	Javier Matos             	Nick McKinney            					4	2							4	2	4	2
+47		PRES 	D	3	Max Benson               	Alberto Conde            			0	3									0	3	0	3
+47		PRES 	D	4	Georgije Babic           	Teo Cariov               													0	0	0	0
+2		SALA 	S	1	Julien Evrard            	                         	10	4	3	0									13	4	19	7
+2		SALA 	S	2	Clement Marzol           	                         	2	1	8	1	2	0							12	2	18	4
+2		SALA 	S	3	Loic Cloes               	                         			4	1	5	3							9	4	9	4
+2		SALA 	S	4	Sebastien Collard        	                         					4	0	7	4	0	2			11	6	20	6
+2		SALA 	S	5	Louis Delcour            	                         					0	1	4	2	5	2			9	5	9	5
+2		SALA 	S	6	Martin Bugaj             	                         									3	4	1	4	4	8	7	13
+2		SALA 	S	7	Leon Petko               	                         							1	0			1	5	2	5	2	5
+2		SALA 	S	8	Philip Bosman            	                         											2	2	2	2	4	8
+2		SALA 	S	9	Jordan Coutinho          	                         									1	0	0	1	1	1	5	6
+2		SALA 	S	10	Ezra Blissard            	                         													0	0	0	8
+2		SALA 	D	1	Loic Cloes               	Clement Marzol           	10	2											10	2	10	2
+2		SALA 	D	2	Julien Evrard            	Sebastien Collard        			4	6									4	6	10	9
+2		SALA 	D	3	Louis Delcour            	Leon Petko               					2	2							2	2	2	2
+2		SALA 	D	4	Martin Bugaj             	Philip Bosman            													0	0	0	1
+55		SCST 	S	1	Aleksa Daskalovic        	                         	2	6	0	1									2	7	2	7
+55		SCST 	S	2	Marcelo Rodriguez        	                         	0	1	5	3									5	4	5	4
+55		SCST 	S	3	Elyes Marouani           	                         					9	2							9	2	9	2
+55		SCST 	S	4	Omer Gorgun              	                         							6	3					6	3	6	3
+55		SCST 	S	5	Diego Arzaluz            	                         									5	3			5	3	5	3
+55		SCST 	S	6	Luka Stefanovic          	                         											4	1	4	1	4	1
+55		SCST 	S	7	Erwan Momo               	                         									1	0	3	3	4	3	4	3
+55		SCST 	S	8	Selim Ben Ali            	                         													0	0	0	0
+55		SCST 	S	9	Skander Ben Abdallah     	                         													0	0	0	0
+55		SCST 	D	1	Marcelo Rodriguez        	Elyes Marouani           	6	6											6	6	6	6
+55		SCST 	D	2	Aleksa Daskalovic        	Erwan Momo               			4	4									4	4	4	4
+55		SCST 	D	3	Diego Arzaluz            	Selim Ben Ali            					3	3							3	3	3	3
+55		SCST 	D	4	Omer Gorgun              	Luka Stefanovic          													0	0	0	0
+20		STAN 	S	1	Axel Geller              	                         	5	6	1	0									6	6	6	6
+20		STAN 	S	2	Arthur Fery              	                         	1	0	6	2	2	1	2	0					11	3	11	3
+20		STAN 	S	3	Tristan Boyer            	                         	0	1	1	0	1	1	6	3					8	5	8	5
+20		STAN 	S	4	Alex Rotsaert            	                         	1	0	0	3	3	3							4	6	4	6
+20		STAN 	S	5	Timothy Sah              	                         					2	0	0	1	6	3			8	4	8	4
+20		STAN 	S	6	William Genesen          	                         							1	0	1	1	3	2	5	3	5	3
+20		STAN 	S	7	Neel Rajesh              	                         							1	0	0	1	4	1	5	2	5	2
+20		STAN 	S	8	Aryan Chaudhary          	                         									1	0	0	1	1	1	1	1
+20		STAN 	S	9	Filip Kolasinski         	                         											1	0	1	0	1	0
+20		STAN 	S	10	Alex Lee                 	                         									1	0	0	1	1	1	1	1
+20		STAN 	S	11	Tomas Kopczynski         	                         													0	0	0	0
+20		STAN 	S	12	Kento Perera             	                         													0	0	0	0
+20		STAN 	D	1	Geller                   	Kopczynski               	2	0	1	0									3	0	3	0
+20		STAN 	D	2	Boyer                    	Sah                      	0	1	3	2									3	3	3	3
+20		STAN 	D	3	Fery                     	Rotsaert                 			2	1	7	0							9	1	9	1
+20		STAN 	D	4	Rajesh                   	Chaudhary                													0	0	0	0
+63		TAMCC	S	1	Kyohei Yamanaka          	                         	10	7											10	7	11	9
+63		TAMCC	S	2	Ryuya Ata                	                         	1	4	7	4									8	8	9	8
+63		TAMCC	S	3	Nathan Schwartz          	                         			4	0	7	4	2	0					13	4	15	5
+63		TAMCC	S	4	Pascal Loriel            	                         	1	0	1	0	3	0	10	0					15	0	17	1
+63		TAMCC	S	5	Borja Delgado            	                         					4	0	1	0	4	0	5	1	14	1	14	1
+63		TAMCC	S	6	Guillermo Castaneda      	                         							4	0	2	0	4	1	10	1	10	1
+63		TAMCC	S	7	Carlos Berna Ruiz        	                         							2	0	5	4	0	1	7	5	12	7
+63		TAMCC	S	8	Chad Nguyen              	                         									3	0	1	0	4	0	5	0
+63		TAMCC	S	9	Ernesto Mealla           	                         											3	0	3	0	3	0
+63		TAMCC	D	1	K.Yamanaka               	R. Ata                   	8	6	3	0									11	6	12	9
+63		TAMCC	D	2	N. Schwartz              	P. Lorieul               	2	0	2	2									4	2	15	8
+63		TAMCC	D	3	B.Delgado                	C. Berna Ruiz            					5	0							5	0	18	4
+63		TAMCC	D	4	C. Nguyen                	G.Castaneda              					9	3							9	3	10	3
+44		TTU  	S	1	Parker Wynn              	                         	5	9											5	9	9	13
+44		TTU  	S	2	Ilgiz Valiev             	                         	1	1	10	6									11	7	14	13
+44		TTU  	S	3	Franco Ribero            	                         					7	4	1	1					8	5	11	11
+44		TTU  	S	4	Reed Collier             	                         			1	0	0	2	6	5					7	7	14	8
+44		TTU  	S	5	Dimi Azoides             	                         							2	1	8	3	2	0	12	4	15	10
+44		TTU  	S	6	Isaac Arevalo            	                         							1	0	2	1	5	4	8	5	14	7
+44		TTU  	S	7	Fran Vittar              	                         											2	1	2	1	3	5
+44		TTU  	S	8	Justin Bloss             	                         													0	0	0	6
+44		TTU  	D	1	Wynn                     	Ribero                   	7	7											7	7	7	7
+44		TTU  	D	2	Arevalo                  	Collier                  			6	5									6	5	6	5
+44		TTU  	D	3	Valiev                   	Azoides                  			3	1	8	2							11	3	12	4
+44		TTU  	D	4	Vittar                   	Bloss                    													0	0	0	0
+60		TULN 	S	1	Hamish Stewart           	                         	12	7											12	7	12	7
+60		TULN 	S	2	Ewan Moore               	                         	1	0	9	7									10	7	10	7
+60		TULN 	S	3	Luis Erlenbusch          	                         			1	0	13	5							14	5	14	5
+60		TULN 	S	4	Billy Suarez             	                         					1	0	8	5	0	1			9	6	9	6
+60		TULN 	S	5	Rafael de Alba           	                         							0	1	3	2	9	1	12	4	12	4
+60		TULN 	S	6	Akos Kotorman            	                         							1	0	0	1	1	2	2	3	2	3
+60		TULN 	S	7	Fynn Kuenkler            	                         			1	0			0	1	3	5	1	2	5	8	5	8
+60		TULN 	S	8	Benji Jacobson           	                         													0	0	0	0
+60		TULN 	S	9	Charlie Barry            	                         					0	1							0	1	0	1
+60		TULN 	D	1	Hamish Stewart           	Ewan Moore               	12	6											12	6	12	6
+60		TULN 	D	2	Akos Kotorman            	Billy Suarez             			12	6									12	6	12	6
+60		TULN 	D	3	Luis Erlenbusch          	Fynn Kuenkler            					10	4							10	4	10	4
+60		TULN 	D	4	Benji Jacobson           	Charlie Barry            													0	0	0	0
+29		UCLA 	S	1	Govind Nanda             	                         	2	2	6	1									8	3	8	3
+29		UCLA 	S	2	Drew Baird               	                         			5	2	4	4							9	6	9	7
+29		UCLA 	S	3	Ben Goldberg             	                         			0	1	5	2	3	5					8	8	9	8
+29		UCLA 	S	4	Sam Feit                 	                         					1	2	6	1	4	2			11	5	11	6
+29		UCLA 	S	5	Roscoe Bellamy           	                         							1	0	2	1	5	1	8	2	8	2
+29		UCLA 	S	6	Mathew Tsolakyan         	                         									6	1	4	2	10	3	11	3
+29		UCLA 	S	7	Patrick Zahraj           	                         											1	2	1	2	1	2
+29		UCLA 	S	8	Stefan Leustian          	                         											1	0	1	0	2	0
+29		UCLA 	S	9	Eric Hahn                	                         											0	1	0	1	0	1
+29		UCLA 	S	10	Connor Hance             	                         													0	0	0	1
+29		UCLA 	S	11	Bryce Pereira            	                         													0	0	0	0
+29		UCLA 	S	12	Max Wild                 	                         													0	0	0	0
+29		UCLA 	S	13	Connor Rapp              	                         													0	0	0	0
+29		UCLA 	D	1	Govind Nanda             	Drew Baird               	2	2	2	3									4	5	4	5
+29		UCLA 	D	2	Bryce Pereira            	Patrick Zahraj           			2	2									2	2	2	2
+29		UCLA 	D	3	Mathew Tsolakyan         	Roscoe Bellamy           					5	3							5	3	5	3
+29		UCLA 	D	4	Ben Goldberg             	Sam Feit                 													0	0	0	0
+22		UCSB 	S	1	Joseph Guillin           	                         	8	2											8	2	8	2
+22		UCSB 	S	2	Stefano Tsorotiotis      	                         			4	5									4	5	4	5
+22		UCSB 	S	3	Victor Krustev           	                         	3	1			7	1	0	1					10	3	10	3
+22		UCSB 	S	4	Pablo Masjuan            	                         			2	2			4	0	2	0	1	2	9	4	9	4
+22		UCSB 	S	5	Joey Rotheram            	                         					3	1			3	2	0	1	6	4	6	4
+22		UCSB 	S	6	Kai Brady                	                         							3	1			4	1	7	2	7	2
+22		UCSB 	S	7	Alejandro Vedri          	                         					0	1	2	2	1	1			3	4	3	4
+22		UCSB 	S	8	Josh Williams            	                         									1	1			1	1	1	1
+22		UCSB 	D	1	Tsorotiotis              	Vedri                    	4	3											4	3	4	3
+22		UCSB 	D	2	Krustev                  	Rotheram                 	0	1	4	5									4	6	4	6
+22		UCSB 	D	3	Guillin                  	Brady                    					6	1							6	1	6	1
+22		UCSB 	D	4	Masjuan                  	Williams                 													0	0	0	0
+26		UNCW 	S	1	Bruno Caula              	                         	11	6											11	6	11	6
+26		UNCW 	S	2	Davide Innocenti         	                         			8	3	0	1							8	4	8	4
+26		UNCW 	S	3	Daniel Groom             	                         			3	1	7	3							10	4	10	4
+26		UNCW 	S	4	Bekhzod Rasamatov        	                         			2	0	1	1	3	2	3	0	2	1	11	4	11	4
+26		UNCW 	S	5	Gabriel Hurtado          	                         					3	0	1	3	4	3			8	6	8	6
+26		UNCW 	S	6	Michael Copeland         	                         							4	3	4	1	5	2	13	6	13	6
+26		UNCW 	S	7	Leo Sprovieri            	                         									2	0	6	1	8	1	8	1
+26		UNCW 	S	8	Dillon Gooch             	                         													0	0	0	0
+26		UNCW 	S	9	John Dransfeld           	                         											0	2	0	2	0	2
+26		UNCW 	D	1	Daniel Groom             	Bruno Caula              	11	4											11	4	11	4
+26		UNCW 	D	2	Dillon Gooch             	Bekhzod Rasamatov        			3	2	4	0							7	2	7	2
+26		UNCW 	D	3	Leo Sprovieri            	Gabriel Hurtado          			1	1	6	1							7	2	7	2
+26		UNCW 	D	4	Michael Copeland         	Davide Innocenti         													0	0	0	0
+15		UNM  	S	1	Raul Dobai               	                         	7	5	2	2									9	7	9	7
+15		UNM  	S	2	Dominic West             	                         	1	2	6	3									7	5	7	5
+15		UNM  	S	3	Stepan Holis             	                         					5	5	2	0					7	5	7	5
+15		UNM  	S	4	Rafael Abdulsalam        	                         					0	1	3	3	3	2			6	6	6	6
+15		UNM  	S	5	Jake Trondson            	                         									3	0	5	4	8	4	8	4
+15		UNM  	S	6	Sergio Molina            	                         							0	6	1	1			1	7	1	7
+15		UNM  	S	7	Nico Prieto              	                         											2	1	2	1	2	1
+15		UNM  	S	8	Alex Maggs               	                         									0	1			0	1	0	1
+15		UNM  	D	1	Dominic West             	Sergio Molina            	8	3	3	0									11	3	11	3
+15		UNM  	D	2	Jake Trondson            	Raul Dobai               	1	3	7	4									8	7	8	7
+15		UNM  	D	3	Alex Maggs               	Stepan Holis             					5	4							5	4	5	4
+15		UNM  	D	4	Nicolas Prieto           	Rafael Abdulsalam        													0	0	0	0
+4		USF  	S	1	jakub wojcik             	                         	4	1	13	5									17	6	17	6
+4		USF  	S	2	chase ferguson           	                         	8	9	5	0									13	9	13	9
+4		USF  	S	3	ivan yatsuk              	                         	0	1	1	0	12	6	2	0					15	7	15	7
+4		USF  	S	4	antonio muniz-hidalgo    	                         					1	1	1	1	1	0	2	2	5	4	5	4
+4		USF  	S	5	pierre luquet            	                         					2	3	6	5	0	2			8	10	8	10
+4		USF  	S	6	sergio gomez-montesa     	                         							3	3	8	6	2	1	13	10	13	10
+4		USF  	S	7	manuel goncalves         	                         											2	2	2	2	2	2
+4		USF  	S	8	alvin tudorica           	                         									1	1	5	3	6	4	6	4
+4		USF  	S	9	rithvik bollipalli       	                         							0	1	1	1	1	3	2	5	2	5
+4		USF  	D	1	rithvik bollipalli       	jakub wojcik             	9	7											9	7	9	7
+4		USF  	D	2	Chase Ferguson           	Ivan Yatsuk              	1	1	1	0									2	1	2	1
+4		USF  	D	3	Manuel Goncalves         	Alvin Tudorica           													0	0	0	0
+4		USF  	D	4	Sergio Gomez-Montesa     	Antonio Muniz-Hidalgo    					0	2							0	2	0	2
+54		VCU  	S	1	Lleyton Cronje           	                         	10	2	2	1									12	3	12	3
+54		VCU  	S	2	Charles Bertimon         	                         	2	1	9	3									11	4	11	4
+54		VCU  	S	3	Inigo Torre              	                         					7	2	3	1					10	3	10	3
+54		VCU  	S	4	Rayane Stable            	                         					1	0	5	0	6	1	3	1	15	2	15	2
+54		VCU  	S	5	Quentin Coulaud          	                         			2	0	2	2	5	2	1	2			10	6	10	6
+54		VCU  	S	6	Timo Zgraggen            	                         					1	0	1	0	1	1	6	0	9	1	9	1
+54		VCU  	S	7	David Cierny             	                         									4	1	5	2	9	3	9	3
+54		VCU  	S	8	Mario Duron              	                         							1	0			1	0	2	0	2	0
+54		VCU  	D	1	Lleyton Cronje           	David Cierny             	2	1	0	1									2	2	2	2
+54		VCU  	D	2	Inigo Torre Martin       	Rayane Stable            	0	1	11	1									11	2	11	2
+54		VCU  	D	3	Quentin Coulaud          	Charles Bertimon         	5	4	1	1	5	2							11	7	11	7
+54		VCU  	D	4	Mario Duron              	Timo Zgraggen            													0	0	0	0
+43		VT   	S	1	Mitch Harper             	                         	7	4											7	4	7	4
+43		VT   	S	2	Alex Ribeiro             	                         	1	1	2	1	2	3							5	5	5	5
+43		VT   	S	3	Matt Ross                	                         	1	2	6	9	1	1							8	12	8	12
+43		VT   	S	4	Carlo Donato             	                         	0	4	2	1	3	6	0	2					5	13	5	13
+43		VT   	S	5	Hugo Maia                	                         					2	1	11	3	0	2			13	6	13	6
+43		VT   	S	6	Ryan Fishback            	                         							2	0	7	5	4	1	13	6	13	6
+43		VT   	S	7	Alvaro Ariza             	                         									3	1	6	4	9	5	9	5
+43		VT   	S	8	Jordan Chrysostom        	                         											1	0	1	0	1	0
+43		VT   	S	9	Michael Shepheard        	                         											0	2	0	2	0	2
+43		VT   	S	10	Chase Bernstine          	                         													0	0	0	0
+43		VT   	S	11	Ryan Kros                	                         													0	0	0	0
+43		VT   	S	12	Alex Ix                  	                         													0	0	0	0
+43		VT   	S	13	Ryan Bernstine           	                         													0	0	0	0
+43		VT   	D	1	Jordan Chrysostom        	Ryan Fishback            	6	4	2	0									8	4	8	4
+43		VT   	D	2	Mitch Harper             	Alex Ribeiro             			3	4									3	4	3	4
+43		VT   	D	3	Carlo Donato             	Alvaro Ariza             					1	1							1	1	1	1
+43		VT   	D	4	Ryan Kros                	Micheal Shepheard        					0	2							0	2	0	2
+51		WICH 	S	1	Murkel Dellien           	                         	7	0	3	1	3	1							13	2	13	2
+51		WICH 	S	2	Marius Frosa             	                         	5	4	6	3									11	7	11	7
+51		WICH 	S	3	Stefan Latinovic         	                         	2	1	3	3	4	8							9	12	9	12
+51		WICH 	S	4	Nicolas Acevedo          	                         					2	1	7	4	3	3			12	8	12	8
+51		WICH 	S	5	Orel Ovil                	                         					0	2	4	5	6	3			10	10	10	10
+51		WICH 	S	6	Luka Mrsic               	                         									1	0	8	6	9	6	9	6
+51		WICH 	S	7	Ray Lo                   	                         							1	0	5	1	4	2	10	3	10	3
+51		WICH 	S	8	Alex Richards            	                         											1	0	1	0	1	0
+51		WICH 	S	9	Zach Grueber             	                         													0	0	0	0
+51		WICH 	D	1	Murkel Dellien           	Marius Frosa             	9	5											9	5	9	5
+51		WICH 	D	2	Luka Mrsic               	Orel Ovil                			5	5									5	5	5	5
+51		WICH 	D	3	Stefan Latinovic         	Nicolas Acevedo          					4	5							4	5	4	5
+51		WICH 	D	4	Alex Richards            	Zach Grueber             													0	0	0	0
+6		WMU  	S	1	Jannik Opitz             	                         	20	2											20	2	20	2
+6		WMU  	S	2	Peter Kuszynski          	                         	1	0	15	2	2	0							18	2	18	2
+6		WMU  	S	3	Fynn Lohse               	                         			3	0	7	4	5	1	1	0			16	5	16	5
+6		WMU  	S	4	Jackson Boone            	                         			2	1	6	2	5	3					13	6	13	6
+6		WMU  	S	5	Arjun Honnappa           	                         					1	0	5	0	11	3			17	3	17	3
+6		WMU  	S	6	Ben George               	                         							1	0	2	0	8	0	11	0	11	0
+6		WMU  	S	7	Brogan Pierce            	                         							1	0	3	1	12	1	16	2	16	2
+6		WMU  	S	8	Zac Faveri               	                         							1	0			1	0	2	0	2	0
+6		WMU  	S	9	Jack Randall             	                         													0	0	0	0
+6		WMU  	S	10	Joaquin Caballer         	                         							0	1	1	0	1	0	2	1	2	1
+6		WMU  	S	11	Ferdinand Schluter       	                         													0	0	0	0
+6		WMU  	D	1	Jannik Opitz             	Peter Kuszynski          													0	0	0	0
+6		WMU  	D	2	Jack Randall             	Fynn Lohse               			6	0	1	0							7	0	7	0
+6		WMU  	D	3	Zac Faveri               	Joaquin Caballer         													0	0	0	0
+6		WMU  	D	4	Ferdinand Schluter       	Arjun Honnappa           													0	0	0	0

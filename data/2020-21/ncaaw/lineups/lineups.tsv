@@ -1,0 +1,776 @@
+line	seed	team	kind	position	player	partner	wins1	losses1	wins2	losses2	wins3	losses3	wins4	losses4	wins5	losses5	wins6	losses6	dualWins	dualLosses	overallWins	overallLosses
+1	1	UNC  	S	1	Sara Daavettila          	                         	10	1	5	0									15	1	15	1
+1	1	UNC  	S	2	Alexa Graham             	                         	3	2	5	0	3	0							11	2	16	2
+1	1	UNC  	S	3	Cameron Morra            	                         	2	0	7	4	6	2							15	6	15	6
+1	1	UNC  	S	4	Elizabeth Scotty         	                         					5	1	6	1					11	2	11	3
+1	1	UNC  	S	5	Makenna Jones            	                         			2	0	3	0	7	0	1	2			13	2	15	2
+1	1	UNC  	S	6	Fiona Crawley            	                         	2	0			1	0	8	0	9	0	3	0	23	0	25	0
+1	1	UNC  	S	7	Reilly Tran              	                         							1	0	5	0	9	0	15	0	17	0
+1	1	UNC  	S	8	Anika Yarlagadda         	                         					2	0	1	0	5	0	3	1	11	1	13	1
+1	1	UNC  	S	9	Alle Sanford             	                         							1	0	1	0	3	0	5	0	5	2
+1	1	UNC  	S	10	Kacie Harvey             	                         											3	0	3	0	3	1
+1	1	UNC  	S	11	Sophia Patel             	                         													0	0	0	2
+1	1	UNC  	S	12	Sara McClure             	                         													0	0	0	1
+1	1	UNC  	S	13	Anna Harmon              	                         													0	0	0	0
+1	1	UNC  	D	1	Sara Daavettila          	Cameron Morra            	10	1											10	1	10	1
+1	1	UNC  	D	2	Makenna Jones            	Elizabeth Scotty         	1	0	8	1	1	0							10	1	10	1
+1	1	UNC  	D	3	Alle Sanford             	Reilly Tran              			4	0	12	3							16	3	16	3
+1	1	UNC  	D	4	Fiona Crawley            	Alexa Graham             													0	0	0	0
+64	2	TEX  	S	1	Peyton Stearns           	                         	10	3											10	3	14	6
+64	2	TEX  	S	2	Anna Turati              	                         	5	1	9	2	3	0							17	3	17	3
+64	2	TEX  	S	3	Lulu Sun                 	                         			6	1	12	1							18	2	18	2
+64	2	TEX  	S	4	Charlotte Chavatipon     	                         			2	0	2	0	16	1					20	1	23	1
+64	2	TEX  	S	5	Kylie Collins            	                         					2	0	4	0	9	2	1	0	16	2	16	2
+64	2	TEX  	S	6	Fernanda Labrana         	                         							3	0	6	0	5	1	14	1	21	2
+64	2	TEX  	S	7	Malaika Rapolu           	                         					1	0	1	0	2	0	13	1	17	1	24	2
+64	2	TEX  	S	8	marta perez mur          	                         									1	0	2	0	3	0	9	2
+64	2	TEX  	S	9	Tijana Spasojevic        	                         											1	0	1	0	1	0
+64	2	TEX  	D	1	Sun                      	Collins                  	16	4											16	4	16	4
+64	2	TEX  	D	2	Turati                   	Labrana                  	1	0	13	1									14	1	14	1
+64	2	TEX  	D	3	Chavatipon               	Stearns                  			1	0	11	1							12	1	14	2
+64	2	TEX  	D	4	Rapolu                   	Perez-Mut                													0	0	0	1
+33	3	UGA  	S	1	Katarina Jokic           	                         	15	0											15	0	24	1
+33	3	UGA  	S	2	Lea Ma                   	                         			13	3									13	3	14	4
+33	3	UGA  	S	3	Meg Kowalski             	                         					12	1							12	1	22	1
+33	3	UGA  	S	4	Morgan Coppoc            	                         							15	2					15	2	23	5
+33	3	UGA  	S	5	Marta Gonzalez           	                         							1	0	1	1			2	1	11	1
+33	3	UGA  	S	6	Elena Christofi          	                         									1	2	9	0	10	2	17	4
+33	3	UGA  	S	7	Ariana Arseneault        	                         											0	2	0	2	6	5
+33	3	UGA  	S	8	Anna Hertel              	                         									1	0	0	1	1	1	10	4
+33	3	UGA  	S	9	Alee Clayton             	                         											1	0	1	0	9	3
+33	3	UGA  	D	1	Katarina Jokic           	Ariana Arseneault        	11	4											11	4	14	6
+33	3	UGA  	D	2	Elena Christofi          	Morgan Coppoc            			12	2									12	2	18	3
+33	3	UGA  	D	3	Lea Ma                   	Meg Kowalski             					15	2							15	2	18	2
+33	3	UGA  	D	4	Anna Hertel              	Marta Gonzalez           													0	0	0	0
+32	4	UCLA 	S	1	Abbey Forbes             	                         	17	2	1	0									18	2	18	2
+32	4	UCLA 	S	2	Jada Hart                	                         	1	0	8	1	2	1							11	2	11	2
+32	4	UCLA 	S	3	Elysia Bolton            	                         	0	1	4	0	5	2							9	3	9	3
+32	4	UCLA 	S	4	Vivian Wolff             	                         			1	0	0	2	9	4					10	6	10	6
+32	4	UCLA 	S	5	Sasha Vagramov           	                         			2	0	1	2			5	3	1	0	9	5	9	5
+32	4	UCLA 	S	6	Vanessa Ong              	                         									1	0	3	1	4	1	4	1
+32	4	UCLA 	S	7	Abi Altick               	                         					2	0	2	2	0	1			4	3	4	3
+32	4	UCLA 	S	8	Annette Goulak           	                         							2	0	5	1	7	2	14	3	14	3
+32	4	UCLA 	S	9	Taylor Johnson           	                         											4	1	4	1	4	1
+32	4	UCLA 	D	1	Abbey Forbes             	Jada Hart                	9	1											9	1	9	1
+32	4	UCLA 	D	2	Vivian Wolff             	Annette Goulak           			16	2									16	2	16	2
+32	4	UCLA 	D	3	Elysia Bolton            	Abi Altick               					3	0							3	0	3	0
+32	4	UCLA 	D	4	Taylor Johnson           	Vanessa Ong              													0	0	0	0
+17	5	PEPP 	S	1	Ashley Lahey             	                         	7	3	3	1									10	4	10	4
+17	5	PEPP 	S	2	Jessica Failla           	                         	8	2	6	1									14	3	14	3
+17	5	PEPP 	S	3	Taisiya Pachkaleva       	                         			5	0	8	1	7	0	2	0			22	1	22	1
+17	5	PEPP 	S	4	Shiori Fukuda            	                         			2	1	6	3	6	0					14	4	14	4
+17	5	PEPP 	S	5	LIsa Zaar                	                         							4	0	10	1	5	0	19	1	19	1
+17	5	PEPP 	S	6	Nikki Redelijk           	                         							1	1	4	2	7	4	12	7	12	7
+17	5	PEPP 	S	7	Lexi Ryngler             	                         					0	3	2	1	1	1			3	5	3	4
+17	5	PEPP 	S	8	Anastasia Iamachkine     	                         													0	0	0	0
+17	5	PEPP 	S	9	Astrid Olsen             	                         											5	1	5	1	5	1
+17	5	PEPP 	D	1	Ashley Lahey             	Lisa Zaar                													0	0	0	0
+17	5	PEPP 	D	2	Shiori Fukuda            	Taisiya Pachkaleva       													0	0	0	0
+17	5	PEPP 	D	3	Jessica Failla           	Anastasia Iamachkine     													0	0	0	0
+17	5	PEPP 	D	4	Astrid Olsen             	Nikki Redelijk           			0	4	1	0							1	4	1	4
+48	6	NCST 	S	1	Anna Rogers              	                         	14	6											14	6	19	6
+48	6	NCST 	S	2	Alana Smith              	                         			14	5									14	5	16	8
+48	6	NCST 	S	3	Adriana Reami            	                         	1	0			12	4	2	1					15	5	16	9
+48	6	NCST 	S	4	Jaeda Daniel             	                         			1	0	0	2	10	6					11	8	13	10
+48	6	NCST 	S	5	Abigail Rencheli         	                         									5	2	5	2	10	4	13	5
+48	6	NCST 	S	6	Lexi Keberle             	                         					1	0			10	2	2	4	13	6	16	8
+48	6	NCST 	S	7	Millie Rajecki           	                         									1	0	3	2	4	2	6	5
+48	6	NCST 	S	8	Lana Mavor               	                         							1	0			1	0	2	0	6	0
+48	6	NCST 	S	9	Liz Norman               	                         											1	0	1	0	3	1
+48	6	NCST 	D	1	Anna Rogers              	Alana Smith              	14	5											14	5	20	8
+48	6	NCST 	D	2	Jaeda Daniel             	Adriana Reami            			12	4									12	4	20	5
+48	6	NCST 	D	3	Millie Rajecki           	Abigail Rencheli         					11	1							11	1	12	2
+48	6	NCST 	D	4	Lexi Keberle             	Lana Mavor               													0	0	0	0
+49	7	FSU  	S	1	Giulia Pairone           	                         	11	8											11	8	13	8
+49	7	FSU  	S	2	Emmanuelle Salas         	                         	0	1	5	6	1	0	1	2					7	9	7	10
+49	7	FSU  	S	3	Nandini Das              	                         			2	4	6	4	3	0					11	8	12	8
+49	7	FSU  	S	4	Petra Hule               	                         			0	1	1	1	4	0	7	1			12	3	13	3
+49	7	FSU  	S	5	Victoria Allen           	                         					1	0	3	4	7	0			11	4	12	5
+49	7	FSU  	S	6	Anna Arkadianou          	                         					1	4	1	0	1	0			3	4	4	5
+49	7	FSU  	S	7	Andrea Garcia            	                         							0	1	2	0	15	2	17	3	19	3
+49	7	FSU  	S	8	Alice Amendola           	                         											1	1	1	1	2	3
+49	7	FSU  	D	1	Emmanuelle Salas         	Victoria Allen           	5	3											5	3	5	3
+49	7	FSU  	D	2	Nandini Das              	Andrea Garcia            			8	4	6	0							14	4	17	4
+49	7	FSU  	D	3	Petra Hule               	Giulia Pairone           					5	1							5	1	6	1
+49	7	FSU  	D	4	Anna Arkadianou          	Alice Amendola           													0	0	0	0
+16	8	BAY  	S	1	Melany Krywoj            	                         	11	6											11	6	19	10
+16	8	BAY  	S	2	Jessica Hinojosa         	                         	3	1	7	6	2	3							12	10	18	15
+16	8	BAY  	S	3	Alicia Herrero           	                         	2	2	7	2	4	4							13	8	20	13
+16	8	BAY  	S	4	Angie Shakhraichuck      	                         					6	1	6	4	2	0	3	0	17	5	24	10
+16	8	BAY  	S	5	Kristina Sorokolet       	                         			1	0	2	0	0	1	4	1	4	1	11	3	18	5
+16	8	BAY  	S	6	Paula Baranano           	                         							2	0	5	1	5	2	12	3	12	3
+16	8	BAY  	S	7	Audrey Boch-Collins      	                         									3	1	7	1	10	2	16	3
+16	8	BAY  	S	8	Sara Ziodato             	                         							1	1	1	1	1	0	3	2	3	2
+16	8	BAY  	S	9	Hannah Pinto             	                         													0	0	1	5
+16	8	BAY  	D	1	Shakhraichuk             	Krywoj                   	9	1											9	1	9	1
+16	8	BAY  	D	2	Hinojosa                 	Sorokolet                	0	1	1	4	1	1							2	6	2	6
+16	8	BAY  	D	3	Herrero                  	Boch-Collins             					5	0							5	0	5	0
+16	8	BAY  	D	4	Baranano                 	Ziodato                  													0	0	0	0
+9	9	UCF  	S	1	Valeriya Zeleva          	                         	9	2	3	0									12	2	13	3
+9	9	UCF  	S	2	Rebeka Stolmar           	                         	4	1	7	4	1	1							12	6	14	7
+9	9	UCF  	S	3	Evgeniya Levashova       	                         	1	1	3	2	6	2	1	0					11	5	11	5
+9	9	UCF  	S	4	Ksenia Kuznetsova        	                         			1	1	2	2	6	0	2	0			11	3	11	3
+9	9	UCF  	S	5	Marie Mattel             	                         					2	0	2	3	2	0	0	1	6	4	6	4
+9	9	UCF  	S	6	Nadja Bay                	                         					1	0	0	1	0	2			1	3	1	3
+9	9	UCF  	S	7	Jaleesa Leslie           	                         							2	1	6	2	5	1	13	4	13	5
+9	9	UCF  	S	8	Nandini Sharma           	                         									3	0	7	2	10	2	12	3
+9	9	UCF  	S	9	Sara Culbertson          	                         											1	1	1	1	1	1
+9	9	UCF  	S	10	Marion Deloziere         	                         											0	1	0	1	0	1
+9	9	UCF  	D	1	Rebeka Stolmar           	Marie Mattel             	4	7	1	0									5	7	5	7
+9	9	UCF  	D	2	Ksenia Kuznetsova        	Valeriya Zeleva          	4	3	8	0									12	3	12	3
+9	9	UCF  	D	3	Evgeniya Levashova       	Nadja Bay                			3	2	4	1							7	3	7	3
+9	9	UCF  	D	4	Nandini Sharma           	Jaleesa Leslie           			1	0	1	0							2	0	2	0
+56	10	A&M  	S	1	Tatiana Makarova         	                         	12	4	3	0									15	4	23	6
+56	10	A&M  	S	2	Jayci Goldsmith          	                         	2	2	9	7									11	9	13	10
+56	10	A&M  	S	3	Katya Townsend           	                         			2	0	9	6							11	6	18	9
+56	10	A&M  	S	4	Dorthea Faa-Hviding      	                         			1	0	2	0	7	6	3	0			13	6	14	7
+56	10	A&M  	S	5	Renee McBryde            	                         					1	0	3	2	10	1			14	3	17	4
+56	10	A&M  	S	6	Riley McQuaid            	                         									3	0	8	5	11	5	16	9
+56	10	A&M  	S	7	Isa DiLaura              	                         									1	0	2	1	3	1	5	2
+56	10	A&M  	S	8	Elise Robbins            	                         											1	0	1	0	6	3
+56	10	A&M  	D	1	Tatiana Makarova         	Jayci Goldsmith          	11	9	2	0									13	9	18	9
+56	10	A&M  	D	2	Renee McBryde            	Dorthea Faa-Hviding      			8	5									8	5	8	5
+56	10	A&M  	D	3	Riley McQuaid            	Katya Townsend           					5	3							5	3	7	3
+56	10	A&M  	D	4	Isa DiLaura              	Elise Robbins            					1	0							1	0	2	1
+41	11	FLA  	S	1	McCartney Kessler        	                         	13	2											13	2	16	2
+41	11	FLA  	S	2	Ida Jarlskog             	                         			2	2	6	2							8	4	8	4
+41	11	FLA  	S	3	Layne Sleeth             	                         							7	0	1	1	1	0	9	1	9	1
+41	11	FLA  	S	4	Marlee Zein              	                         			6	5	2	0							8	5	10	8
+41	11	FLA  	S	5	Sara Dahlstrom           	                         							3	4	3	4			6	8	9	11
+41	11	FLA  	S	6	Sydney Berlin            	                         									5	1	6	3	11	4	16	5
+41	11	FLA  	S	7	Amber McGinnis           	                         									0	1	1	6	1	7	1	7
+41	11	FLA  	D	1	McCartney Kessler        	Marlee Zein              	9	6											9	6	13	7
+41	11	FLA  	D	2	Ida Jarlskog             	Layne Sleeth             			6	0									6	0	6	0
+41	11	FLA  	D	3	Sara Dahlstrom           	Sydney Berlin            					3	5							3	5	6	7
+24	12	LSU  	S	1	Taylor Bridges           	                         	7	7											7	7	13	10
+24	12	LSU  	S	2	Safiya Carrington        	                         	1	1	2	5									3	6	10	10
+24	12	LSU  	S	3	Paris Corley             	                         					6	2	2	1	2	0			10	3	18	4
+24	12	LSU  	S	4	Maggie Cubitt            	                         							4	1	1	0			5	1	6	4
+24	12	LSU  	S	5	Eden Richardson          	                         					2	3	0	1	2	2			4	6	8	11
+24	12	LSU  	S	6	Nina Geissler            	                         							1	1	5	0	4	2	10	3	15	6
+24	12	LSU  	S	7	Samantha Buyckx          	                         									1	0	6	1	7	1	11	6
+24	12	LSU  	S	8	Anna Loughlan            	                         													0	0	2	2
+24	12	LSU  	D	1	Eden Richardson          	Nina Geissler            	4	7											4	7	4	10
+24	12	LSU  	D	2	Taylor Bridges           	Paris Corley             	1	1	4	1	7	2							12	4	15	4
+24	12	LSU  	D	3	Maggie Cubitt            	Safiya Carrington        	1	1	4	2									5	3	7	5
+24	12	LSU  	D	4	Samantha Buyckx          	Anna Loughlan            													0	0	0	0
+25	13	GT   	S	1	Kenya Jones              	                         	16	7											16	7	17	8
+25	13	GT   	S	2	Victoria Flores          	                         	2	1	12	4	3	0							17	5	18	6
+25	13	GT   	S	3	Gia Cohen                	                         			1	0	3	11	4	3					8	14	8	15
+25	13	GT   	S	4	Ava Hrastar              	                         			4	2	4	4	2	3					10	9	12	9
+25	13	GT   	S	5	Carol Lee                	                         					2	1	3	1	5	8	2	2	12	12	14	12
+25	13	GT   	S	6	Mahak Jain               	                         							2	4	5	1	7	2	14	7	16	7
+25	13	GT   	S	7	Rosie Garcia Gross       	                         							1	4	1	1	3	6	5	11	5	11
+25	13	GT   	S	8	Monika Dedaj             	                         									2	4	1	0	3	4	4	4
+25	13	GT   	S	9	Ruth Marsh               	                         							0	1			0	2	0	3	1	4
+25	13	GT   	D	1	Jones                    	Flores                   	20	3											20	3	22	4
+25	13	GT   	D	2	Hrastar                  	Cohen                    	1	0	5	6									6	6	6	6
+25	13	GT   	D	3	Lee                      	Dedaj                    					1	8							1	8	1	8
+25	13	GT   	D	4	Garcia Gross             	Jain                     			0	1	0	1							0	2	0	2
+40	14	UVA  	S	1	Emma Navarro             	                         	17	1											17	1	17	1
+40	14	UVA  	S	2	Natasha Subhash          	                         	1	0	14	4									15	4	15	5
+40	14	UVA  	S	3	Rosie Johanson           	                         			1	0	15	2							16	2	16	4
+40	14	UVA  	S	4	Hibah Shaikh             	                         					1	0	4	9	1	0			6	9	7	10
+40	14	UVA  	S	5	Amber O'Dell             	                         									1	3	9	4	10	7	10	9
+40	14	UVA  	S	6	Vivian Glozman           	                         							1	0	4	2	2	1	7	3	8	4
+40	14	UVA  	S	7	Sofia Munera             	                         							5	0	1	4	2	2	8	6	9	7
+40	14	UVA  	S	8	Jourdan Krueger          	                         													0	0	0	0
+40	14	UVA  	D	1	Emma Navarro             	Rosie Johanson           	7	6	2	2									9	8	9	8
+40	14	UVA  	D	2	Sofia Munera             	Natasha Subhash          	2	0	6	5									8	5	10	7
+40	14	UVA  	D	3	Vivian Glozman           	Hibah Shaikh             					1	1							1	1	1	2
+40	14	UVA  	D	4	Amber O'Dell             	Jourdan Krueger          													0	0	0	0
+57	15	OSU  	S	1	Irina Cantos Siemers     	                         	10	5	5	0									15	5	18	5
+57	15	OSU  	S	2	Isabelle Boulais         	                         	3	1	6	3	2	1							11	5	11	5
+57	15	OSU  	S	3	Kolie Allen              	                         	0	1	0	3	7	3	3	2					10	9	10	12
+57	15	OSU  	S	4	Lisa Hofbauer            	                         			1	1	3	3	7	2	1	0			12	6	13	8
+57	15	OSU  	S	5	Lucia Marzal             	                         					1	0	7	0	10	2	1	0	19	2	21	3
+57	15	OSU  	S	6	Luna Dormet              	                         							1	0	7	0	9	1	17	1	19	1
+57	15	OSU  	S	7	Madeline Atway           	                         											2	1	2	1	4	2
+57	15	OSU  	S	8	Lina Ali                 	                         									1	0			1	0	2	2
+57	15	OSU  	D	1	Isabelle Boulais         	Kolie Allen              	14	2											14	2	14	2
+57	15	OSU  	D	2	Lucia Marzal             	Lisa Hofbauer            			10	2	1	0							11	2	11	2
+57	15	OSU  	D	3	Luna Dormet              	Irina Cantos Siemers     			1	0	10	0							11	0	11	0
+57	15	OSU  	D	4	Madeline Atway           	Lina Ali                 													0	0	0	1
+8	16	CAL  	S	1	Haley Giavara            	                         	12	10											12	10	12	10
+8	16	CAL  	S	2	Julia Rosenqvist         	                         			11	7	3	0							14	7	14	7
+8	16	CAL  	S	3	Valentina Ivanov         	                         	0	1	1	2	9	5							10	8	10	8
+8	16	CAL  	S	4	Jada Bui                 	                         					2	1	8	5					10	6	10	6
+8	16	CAL  	S	5	Hannah Viller Moeller    	                         					0	1	6	1	8	5			14	7	14	7
+8	16	CAL  	S	6	Anna Bright              	                         							1	0	7	0	10	3	18	3	18	3
+8	16	CAL  	S	7	Cami Brown               	                         											1	2	1	2	1	2
+8	16	CAL  	S	8	Erin Richardson          	                         									0	1	3	2	3	3	3	3
+8	16	CAL  	D	1	Haley Giavara            	Valentina Ivanov         	12	5											12	5	12	5
+8	16	CAL  	D	2	Anna Bright              	Hannah Viller Moeller    			11	6									11	6	11	6
+8	16	CAL  	D	3	Jada Bui                 	Erin Richardson          					2	2							2	2	2	2
+8	16	CAL  	D	4	Julia Rosenqvist         	Cami Brown               													0	0	0	0
+50		ALST 	S	1	Madalena Andrade         	                         	10	3											10	3	10	3
+50		ALST 	S	2	Lizaveta Dzemchanka      	                         					2	0					1	0	3	0	3	0
+50		ALST 	S	3	Urska Velec              	                         					3	1	5	1					8	2	8	2
+50		ALST 	S	4	Francesca Duca           	                         					0	2	8	0	0	2			8	4	8	4
+50		ALST 	S	5	Timothee Legaud          	                         									0	2	3	2	3	4	3	4
+50		ALST 	S	6	Bea Acena                	                         					0	1	2	3	5	2			7	6	7	6
+50		ALST 	S	7	Anja Hribljan            	                         			0	5									0	5	0	5
+50		ALST 	S	8	Ana Tarbujaru            	                         							0	1	1	1	2	1	3	3	3	3
+50		ALST 	D	1	Lizaveta Dzemchanka      	Ana Tarbujaru            	1	1											1	1	1	1
+50		ALST 	D	2	Madalena Andrade         	Francesca Duca           			4	0	1	0							5	0	5	0
+50		ALST 	D	3	Urska Velec              	Anja Hribljan            													0	0	0	0
+50		ALST 	D	4	Bea Acena                	Timothee Legaud          													0	0	0	0
+3		ARK  	S	1	Indianna Spink           	                         	6	4	3	1									9	5	9	5
+3		ARK  	S	2	Kelly Keller             	                         	1	3	7	3									8	6	8	6
+3		ARK  	S	3	Tatum Rice               	                         	1	0			8	7							9	7	9	7
+3		ARK  	S	4	Morgan Cross             	                         			1	0			9	10					10	10	10	10
+3		ARK  	S	5	Lauren Alter             	                         									5	5	1	4	6	9	6	9
+3		ARK  	S	6	Laura Rijkers            	                         									0	8	7	0	7	8	7	8
+3		ARK  	S	7	Jackie Carr              	                         											1	3	1	3	1	3
+3		ARK  	S	8	Presley Southerland      	                         							1	0					1	0	1	0
+3		ARK  	S	9	Claire Slaughter         	                         									1	0			1	0	1	0
+3		ARK  	D	1	Morgan Cross             	Tatum Rice               	5	2											5	2	5	2
+3		ARK  	D	2	Lauren Alter             	Indianna Spink           			3	5									3	5	3	5
+3		ARK  	D	3	Kelly Keller             	Jackie Carr              					2	3							2	3	2	3
+3		ARK  	D	4	Laura Rijkers            	Presley Southerland      													0	0	0	0
+52		AUB  	S	1	Selin Ovunc              	                         	8	9											8	9	13	10
+52		AUB  	S	2	Carolyn Ansari           	                         			1	0	11	3							12	3	14	10
+52		AUB  	S	3	Yu Chen                  	                         			5	9	0	2							5	11	12	13
+52		AUB  	S	4	Georgie Axon             	                         					1	0	15	3					16	3	22	6
+52		AUB  	S	5	Adeline Flach            	                         									4	5	7	2	11	7	14	10
+52		AUB  	S	6	Anastasia Astakhova      	                         											2	5	2	5	2	5
+52		AUB  	S	7	Shir Azran               	                         													0	0	3	6
+52		AUB  	S	8	Maddie Meredith          	                         													0	0	0	0
+52		AUB  	D	1	Georgie Axon             	Adeline Flach            	2	4	8	4									10	8	14	10
+52		AUB  	D	2	Selin Ovunc              	Carolyn Ansari           			3	4									3	4	4	6
+52		AUB  	D	3	Yu Chen                  	Anastasia Astakhova      					4	3							4	3	4	3
+52		AUB  	D	4	Shir Azran               	Maddie Meredith          													0	0	0	0
+61		AZST 	S	1	Ilze Hattingh            	                         	10	7											10	7	11	7
+61		AZST 	S	2	Sammi Hampton            	                         			6	8									6	8	6	8
+61		AZST 	S	3	Lauryn John-Baptiste     	                         					11	6							11	6	11	6
+61		AZST 	S	4	Giulia Morlet            	                         			1	0			8	5					9	5	10	5
+61		AZST 	S	5	Marianna Argyrokastriti  	                         					1	0	2	1	11	4			14	5	15	5
+61		AZST 	S	6	Domenika Turkovic        	                         							2	0	2	1	4	5	8	6	9	6
+61		AZST 	S	7	Cali Jankowski           	                         									1	0	4	2	5	2	6	2
+61		AZST 	S	8	Tereza Kolarova          	                         									1	0	3	1	4	1	4	2
+61		AZST 	S	9	Sa�a Klanecek            	                         													0	0	0	0
+61		AZST 	S	10	Alina Mukhortova         	                         													0	0	0	0
+61		AZST 	S	11	Natasha Hill             	                         													0	0	0	0
+61		AZST 	D	1	Ilze Hattingh            	Lauryn John-Baptiste     	7	9											7	9	7	9
+61		AZST 	D	2	Sammi Hampton            	Marianna Argyrokastriti  			4	4	9	0							13	4	13	4
+61		AZST 	D	3	Giulia Morlet            	Tereza Kolarova          			5	0	3	2							8	2	8	2
+61		AZST 	D	4	Cali Jankowski           	Domenika Turkovic        													0	0	0	1
+59		BALL 	S	1	Emma Peeler              	                         	10	10											10	10	10	10
+59		BALL 	S	2	Jessica Braun            	                         	1	0	6	5	6	2							13	7	13	7
+59		BALL 	S	3	Mariya Polishchuk        	                         	1	0	4	5	8	1	1	0					14	6	14	6
+59		BALL 	S	4	Rebecca Herrington       	                         			1	0	1	1	7	2	5	3			14	6	14	6
+59		BALL 	S	5	Amy Kaplan               	                         					1	2	7	3	4	2			12	7	12	7
+59		BALL 	S	6	Livia Lukacs             	                         							1	0	1	1	6	2	8	3	8	3
+59		BALL 	S	7	Silvia Martinez          	                         					1	0	1	0	2	0	9	2	13	2	13	2
+59		BALL 	S	8	Emily Desai              	                         									2	1			2	1	2	1
+59		BALL 	S	9	Victoria Sec             	                         											2	0	2	0	2	0
+59		BALL 	D	1	Amy Kaplan               	Emma Peeler              	9	3	0	1									9	4	9	3
+59		BALL 	D	2	Jessica Braun            	Mariya Polishchuk        					2	0							2	0	2	0
+59		BALL 	D	3	Victoria Sec             	Livia Lukacs             			5	0	6	0							11	0	11	0
+59		BALL 	D	4	Becca Herrington         	Silvia Martinez or Emily Desai													0	0	0	0
+14		BAMA 	S	1	Loudmilla Bencheikh      	                         	2	5											2	5	2	5
+14		BAMA 	S	2	Alba Cortina Pou         	                         			3	2	8	0	4	2					15	4	15	7
+14		BAMA 	S	3	Anna Parkhomenko         	                         					0	6	7	1	4	0			11	7	15	11
+14		BAMA 	S	4	Anne Marie Hiser         	                         					1	1	4	0	8	7			13	8	17	10
+14		BAMA 	S	5	Sydney Riley             	                         									2	0	10	7	12	7	14	13
+14		BAMA 	S	6	Sydney Orefice           	                         											2	0	2	0	2	5
+14		BAMA 	D	1	Anne Marie Hiser         	Sydney Riley             	5	1	9	2									14	3	14	8
+14		BAMA 	D	2	Alba Cortina Pou         	Anna Parkhomenko         					8	4							8	4	9	4
+14		BAMA 	D	3	Loudmilla Bencheikh      	Sydney Orefice           													0	0	0	0
+23		BU   	S	1	Victoria Carlsten        	                         	2	2	0	1	1	0							3	3	3	3
+23		BU   	S	2	Kaitlin Tan              	                         			3	0	2	0							5	0	5	0
+23		BU   	S	3	Erica Di Battista        	                         	1	0	2	0	1	1							4	1	4	1
+23		BU   	S	4	Emily Kim                	                         	2	1	1	0	1	0	2	1					6	2	6	2
+23		BU   	S	5	Lily Burchell            	                         			1	0	1	0	0	1	4	0			6	1	6	1
+23		BU   	S	6	Katya Martens            	                         							2	0	2	0			4	0	4	0
+23		BU   	S	7	Shelly Yaloz             	                         					2	0					0	2	2	2	2	2
+23		BU   	S	8	Stephanie Nguyen         	                         							1	0			1	0	2	0	2	0
+23		BU   	S	9	Alex Angyalosy           	                         											1	0	1	0	1	0
+23		BU   	S	10	Mia Wallace              	                         											2	0	2	0	2	0
+23		BU   	S	11	Dani Blaser              	                         							1	0	1	0			2	0	2	0
+23		BU   	D	1	Emily Kim                	Lily Burchell            	3	1											3	1	3	1
+23		BU   	D	2	Victoria Carlsten        	Erica DiBattista         			2	1									2	1	2	1
+23		BU   	D	3	Kaitlin Tan              	Shelly Yaloz             					4	0							4	0	4	0
+23		BU   	D	4	Dani Blaser              	Mia Wallace              					1	0							1	0	1	0
+10		CHSO 	S	1	madalina man             	                         	9	6											9	6	9	6
+10		CHSO 	S	2	luiza fullana            	                         			7	6									7	6	7	6
+10		CHSO 	S	3	khyanna singh            	                         					8	8							8	8	8	8
+10		CHSO 	S	4	zoe cauthen              	                         							9	5					9	5	9	5
+10		CHSO 	S	5	michelle schmitz         	                         									9	8			9	8	9	8
+10		CHSO 	S	6	tiffany pyrtiz           	                         											6	7	6	7	6	7
+10		CHSO 	S	7	tyler kirk               	                         											0	4	0	4	0	4
+10		CHSO 	D	1	madalina man             	khyanna singh            	9	5											9	5	9	5
+10		CHSO 	D	2	zoe cauthen              	tiffany pyrtiz           			10	5									10	5	10	5
+10		CHSO 	D	3	luiza fullana            	michelle schmitz         					7	7							7	7	7	7
+63		DEN  	S	1	Anna Riedmiller          	                         	6	0	8	1									14	1	14	1
+63		DEN  	S	2	Taylor Melville          	                         	4	4	5	0									9	4	9	4
+63		DEN  	S	3	Britt Pursell            	                         			1	0	11	3							12	3	12	3
+63		DEN  	S	4	Camille Verden-Anderson  	                         					2	0	3	1	2	1	1	0	8	2	8	2
+63		DEN  	S	5	Hada Chang               	                         							1	0	5	2	1	0	7	2	7	2
+63		DEN  	S	6	Tatum Burger             	                         							4	4	2	2	2	0	8	6	8	6
+63		DEN  	S	7	Toni Nelson              	                         											10	2	10	2	10	2
+63		DEN  	D	1	Britt Pursell            	Camille Verden-Anderson  	6	1	5	1									11	2	11	2
+63		DEN  	D	2	Anna Riedmiller          	Hada Chang               			5	1									5	1	5	1
+63		DEN  	D	3	Toni Nelson              	Taylor Melville          			1	0	5	0							6	0	6	0
+55		DRKE 	S	1	Elizaveta Petushkova     	                         	10	8											10	8	10	8
+55		DRKE 	S	2	Daria Walczak            	                         			6	7	2	2							8	9	8	9
+55		DRKE 	S	3	Ines Stephani            	                         					5	1	7	3					12	4	12	4
+55		DRKE 	S	4	Maria Tatarnikova        	                         			1	3	4	3	7	0					12	6	12	6
+55		DRKE 	S	5	Darinka Stepan           	                         									9	4	1	1	10	5	10	5
+55		DRKE 	S	6	Kelsey Neville           	                         							0	1	1	2	8	4	9	7	9	7
+55		DRKE 	S	7	Megan Webb               	                         									0	1	1	1	1	2	1	2
+55		DRKE 	S	8	Kendall Hunt             	                         											0	2	0	2	0	2
+55		DRKE 	D	1	Elizaveta Petushkova     	Maria Tatarnikova        	10	7											10	7	10	7
+55		DRKE 	D	2	Kelsey Neville           	Megan Webb               			3	6									3	6	3	6
+55		DRKE 	D	3	Darinka Stepan           	Ines Stephani            					7	8							7	8	7	8
+55		DRKE 	D	4	Daria Walczak            	Kendall Hunt             					1	0							1	0	1	0
+13		DUKE 	S	1	kelly chen               	                         	5	9	3	1									8	10	10	11
+13		DUKE 	S	2	georgia drummy           	                         	6	0	7	3	2	0							15	3	17	4
+13		DUKE 	S	3	chloe beck               	                         			3	1	11	1	0	1	1	0			15	3	17	4
+13		DUKE 	S	4	meible chi               	                         			3	0	1	1	12	1	2	0			18	2	21	3
+13		DUKE 	S	5	margaryta bilokin        	                         					1	2	4	0	6	6			11	8	14	9
+13		DUKE 	S	6	karolina berankova       	                         							1	1	1	1	7	7	9	9	10	11
+13		DUKE 	S	7	ema lazic                	                         											1	0	1	0	2	3
+13		DUKE 	S	8	hannah zhao              	                         									0	1	2	2	2	3	2	7
+13		DUKE 	D	1	meible chi               	margaryta bilokin        	8	4	1	0									9	4	11	4
+13		DUKE 	D	2	chloe beck               	karolina berankova       	1	0	11	2									12	2	15	3
+13		DUKE 	D	3	kelly chen               	georgia drummy           			1	0	12	2							13	2	14	4
+13		DUKE 	D	4	hannah zhao              	ema lazic                					1	0							1	0	3	0
+11		FIU  	S	1	Kamila Umarova           	                         	10	2											10	2	10	2
+11		FIU  	S	2	Marina Alcaide           	                         			3	0	8	0							11	0	11	0
+11		FIU  	S	3	Andjela Skrobonja        	                         							9	2	1	0			10	2	10	2
+11		FIU  	S	4	Basak Akbas              	                         	1	0	4	3	0	2							5	5	5	5
+11		FIU  	S	5	Andreea Velcea           	                         							2	0	6	2	1	0	9	2	9	2
+11		FIU  	S	6	Kristina Miletic         	                         					1	0			1	1	1	5	3	6	3	6
+11		FIU  	S	7	Francisca Vergara        	                         											1	2	1	2	1	2
+11		FIU  	D	1	Kamila Umarova           	Andjela Skrobonja        	5	0											5	0	5	0
+11		FIU  	D	2	Marina Alcaide           	Andreea Velcea           			2	2									2	2	2	2
+11		FIU  	D	3	Basak Akbas              	Kristina Miletic         					5	1							5	1	5	1
+35		FUR  	S	1	Katarina Kozarov         	                         	22	1											22	1	22	1
+35		FUR  	S	2	Julia Adams              	                         	4	0	15	6									19	6	19	6
+35		FUR  	S	3	Madison Dillon           	                         			2	2	10	10							12	12	12	12
+35		FUR  	S	4	MaryAnn Rompf            	                         			1	0	2	2	15	6					18	8	18	8
+35		FUR  	S	5	Maggie Pate              	                         							5	0	9	6	1	1	15	7	15	7
+35		FUR  	S	6	Ellie Schoppe            	                         									5	2	15	1	20	3	20	3
+35		FUR  	S	7	Ilayda Baykan            	                         											4	1	4	1	4	1
+35		FUR  	S	8	Eva Borders              	                         													0	0	0	0
+35		FUR  	S	9	Carol Elizabeth Kerman   	                         													0	0	0	0
+35		FUR  	D	1	Katarina Kozarov         	Julia Adams              	19	3											19	3	19	3
+35		FUR  	D	2	Madison Dillon           	MaryAnn Rompf            	19	2											19	2	19	2
+35		FUR  	D	3	Maggie Pate              	Ellie Schoppe            	11	5											11	5	11	5
+35		FUR  	D	4	Ilayda Baykan            	Eva Borders              													0	0	0	0
+26		GASO 	S	1	Nadja Meier              	                         	4	3	11	4	0	2							15	9	15	9
+26		GASO 	S	2	Paula Boixader           	                         	6	9	2	1									8	10	8	10
+26		GASO 	S	3	Sophie Wagemaker         	                         			0	3	10	3	1	1					11	7	11	7
+26		GASO 	S	4	Charlotte van Diemen     	                         			1	2	4	2	3	1					8	5	8	5
+26		GASO 	S	5	Mila Hartig              	                         			1	0	9	4	3	0	1	0			14	4	14	4
+26		GASO 	S	6	Paula Hijos              	                         					1	0	2	1	8	5	2	0	13	6	13	6
+26		GASO 	S	7	Elizabeth Goines         	                         							1	0	1	2	11	5	13	7	13	7
+26		GASO 	S	8	Sonja Keranen            	                         							1	0	1	0	1	0	3	0	3	0
+26		GASO 	S	9	Sara Barriendo           	                         									1	0	1	0	2	0	2	0
+26		GASO 	S	10	Hannah Daniel            	                         											1	0	1	0	1	0
+26		GASO 	D	1	Charlotte van Diemen     	Sophie Wagemaker         	9	8											9	8	9	8
+26		GASO 	D	2	Paula Boixader           	Nadja Meier              			6	3									6	3	6	3
+26		GASO 	D	3	Elizabeth Goines         	Sonja Keranen            			1	4	8	3							9	7	9	7
+26		GASO 	D	4	Hannah Daniel            	Mila Hartig              			1	0	1	0							2	0	2	0
+31		GCU  	S	1	Natahsa Puehse           	                         	14	4											14	4	14	4
+31		GCU  	S	2	Emilia Occhipinti        	                         			12	5									12	5	12	5
+31		GCU  	S	3	Jana Weiss               	                         					15	4							15	4	15	4
+31		GCU  	S	4	Joely Lomas              	                         					0	1	9	4	1	3			10	8	10	8
+31		GCU  	S	5	Autum Prudhomme          	                         							1	5	6	4	0	1	7	10	7	10
+31		GCU  	S	6	Taylor Andersen          	                         									1	2	9	5	10	7	10	7
+31		GCU  	S	7	Aline Buhr               	                         							0	1			0	2	0	3	0	3
+31		GCU  	S	8	Mathilde Lirzin          	                         													0	0	0	0
+31		GCU  	D	1	Natasha Puehse           	Jana Weiss               	5	12											5	12	5	12
+31		GCU  	D	2	Emilia Occhipinti        	Autum Prudhomme          			15	4									15	4	15	4
+31		GCU  	D	3	Joely Lomas              	Taylor Andersen          					12	6							12	6	12	6
+31		GCU  	D	4	Aline Buhr               	Mathilde Lirzin          													0	0	0	0
+46		ISU  	S	1	Thasaporn Naklo          	                         	10	7											10	7	10	7
+46		ISU  	S	2	Maty Cancini             	                         			6	9									6	9	6	9
+46		ISU  	S	3	Miska Kadleckova         	                         					6	1	8	2					14	3	14	3
+46		ISU  	S	4	Christin Hsieh           	                         			1	3	5	5	1	3					7	11	7	11
+46		ISU  	S	5	Chie Kezuka              	                         							3	2	7	4			10	6	10	6
+46		ISU  	S	6	Sofia Cabezas            	                         									4	1	9	3	13	4	13	4
+46		ISU  	S	7	Ting-Pei Chang           	                         											1	3	1	3	1	3
+46		ISU  	S	8	Ellie Murphy             	                         											0	1	0	1	0	1
+46		ISU  	D	1	Thasaporn Naklo          	Christin Hsieh           	1	1											1	1	1	1
+46		ISU  	D	2	Miska Kadleckova         	Sofia Cabezas            			1	0									1	0	1	0
+46		ISU  	D	3	Maty Cancini             	Ting-Pei Chang           					6	3							6	3	6	3
+46		ISU  	D	4	Chie Kezuka              	Ellie Murphy             													0	0	0	0
+38		JMU  	S	1	Daria Afanasyeva         	                         	10	5											10	5	10	5
+38		JMU  	S	2	Jona Roka                	                         			10	4									10	4	10	4
+38		JMU  	S	3	Natalia Nikolopoulou     	                         					7	5	1	0					8	5	8	5
+38		JMU  	S	4	Kylie Moulin             	                         					0	1	12	1	1	0			13	2	13	2
+38		JMU  	S	5	Alexis Franco            	                         					2	0	2	1	10	1			14	2	14	2
+38		JMU  	S	6	Daniela Voloh            	                         									3	0	9	1	12	1	12	1
+38		JMU  	S	7	Amanda Nord              	                         											4	1	4	1	4	1
+38		JMU  	S	8	Michelle Los Arcos       	                         											1	0	1	0	1	0
+38		JMU  	S	9	Shannon McCarthy         	                         													0	0	0	0
+38		JMU  	S	10	Paige Duncan             	                         													0	0	0	0
+38		JMU  	D	1	Daria Afanasyeva         	Alexis Franco            	7	3											7	3	7	3
+38		JMU  	D	2	Jona Roka                	Kylie Moulin             			12	2									12	2	12	2
+38		JMU  	D	3	Natalia Nikolopoulou     	Amanda Nord              					3	1							3	1	3	1
+38		JMU  	D	4	Daniela Voloh            	Michelle Los Arcos       													0	0	0	0
+39		LIU  	S	1	Sofiya Kuzina            	                         	8	1											8	1	8	1
+39		LIU  	S	2	Valentina Dancenco       	                         			7	0									7	0	7	0
+39		LIU  	S	3	Victoria Erechtchenko    	                         			1	0	6	1							7	1	7	1
+39		LIU  	S	4	Elinor Storkaas          	                         					1	0	1	4	1	0			3	4	3	4
+39		LIU  	S	5	Bianca Compuesto         	                         			1	0			1	0	4	0			6	0	6	0
+39		LIU  	S	6	Ekaterine Jorjoliani     	                         					1	0	1	0			5	1	7	1	7	1
+39		LIU  	S	7	Phoebe Watton            	                         									1	0	1	0	2	0	2	0
+39		LIU  	S	8	Jasmine Maduel           	                         									0	1			0	1	0	1
+39		LIU  	D	1	Valentina Dancenco       	Sofiya Kuzina            	6	3											6	3	6	3
+39		LIU  	D	2	Victoria Erechtchenko    	Jasmine Maduel           	7	2											7	2	7	2
+39		LIU  	D	3	Elinor Storkaas          	Bianca Compuesto         	5	3											5	3	5	3
+39		LIU  	D	4	Ekaterine Jorjoliani     	Phoebe Watton            													0	0	0	0
+12		MIA  	S	1	Estela Perez-Somarriba   	                         	19	2											19	2	19	2
+12		MIA  	S	2	Isabella Pfennig         	                         			12	4	1	0			2	0	1	0	16	4	16	4
+12		MIA  	S	3	Daevenia Achong          	                         			0	4	7	6	0	1					7	11	7	11
+12		MIA  	S	4	Florencia Urrutia        	                         					0	3	11	4	1	1			12	8	12	8
+12		MIA  	S	5	Diana Khodan             	                         									5	5	7	2	12	7	12	7
+12		MIA  	S	6	Maya Tahan               	                         					1	3	1	2	5	2	6	1	13	8	13	8
+12		MIA  	S	7	Nada Dimovska            	                         											0	2	0	2	0	2
+12		MIA  	D	1	Estela Perez-Somarriba   	Isabella Pfennig         	7	6	2	0									9	6	9	6
+12		MIA  	D	2	Diana Khodan             	Maya Tahan               			10	7									10	7	10	7
+12		MIA  	D	3	Daevenia Achong          	Florencia Urrutia        					8	5							8	5	8	5
+12		MIA  	D	4	Nada Dimovska            	n/a                      													0	0	0	0
+21		MICH 	S	1	Kari Miller              	                         	11	3	1	1									12	4	15	4
+21		MICH 	S	2	Chiara Lommer            	                         	1	1	10	3	1	0							12	4	14	5
+21		MICH 	S	3	Andrea Cerdan            	                         			0	1	7	4	4	1					11	6	13	7
+21		MICH 	S	4	Jaedan Brown             	                         					1	1	7	0	7	1			15	2	17	3
+21		MICH 	S	5	Alyvia Jones             	                         					2	1	2	1	3	0			7	2	7	5
+21		MICH 	S	6	Bella Lorenzini          	                         											2	0	2	0	4	0
+21		MICH 	S	7	Nicole Hammond           	                         											3	3	3	3	5	3
+21		MICH 	S	8	Merri Kelly              	                         											3	2	3	2	6	2
+21		MICH 	S	9	Anca Craciun             	                         													0	0	0	2
+21		MICH 	D	1	Alvyia Jones             	Jaedan Brown             	2	0											2	0	2	0
+21		MICH 	D	2	Kari Miller              	Chiara Lommer            			2	0									2	0	2	0
+21		MICH 	D	3	Bella Lorenzini          	Andrea Cerdan            													0	0	0	0
+21		MICH 	D	4	Merri Kelly              	Anca Craciun             													0	0	0	0
+28		MISS 	S	1	Sabina Machalova         	                         	5	8	3	0									8	8	15	8
+28		MISS 	S	2	Tiphanie Fiquet          	                         	1	1	8	4									9	5	14	8
+28		MISS 	S	3	Tereza Janatova          	                         			1	0	9	3							10	3	11	3
+28		MISS 	S	4	Anna Vrbenska            	                         							9	4					9	4	8	4
+28		MISS 	S	5	Reka Zadori              	                         									4	1	5	2	9	3	12	9
+28		MISS 	S	6	Lillian Gabrielsen       	                         							1	0	2	2	2	1	5	3	8	8
+28		MISS 	S	7	Alexa Bortles            	                         					1	0			0	4			1	4	3	10
+28		MISS 	S	8	Kelsey Mize              	                         					1	0			1	0	0	3	2	3	3	9
+28		MISS 	S	9	Elysia Pool              	                         											0	1	0	1	3	3
+28		MISS 	D	1	Anna Vrbenska            	Alexa Bortles            	2	3											2	3	2	3
+28		MISS 	D	2	Sabina Machalova         	Tiphanie Fiquet          			2	1									2	1	1	1
+28		MISS 	D	3	Tereza Janatova          	Kelsey Mize              					0	2							0	2	0	2
+28		MISS 	D	4	Reka Zadori              	Lillian Gabrielsen       													0	0	1	1
+62		MSST 	S	1	Emma Antonaki            	                         	5	2	8	2	1	0							14	4	16	4
+62		MSST 	S	2	Magda Adaloglou          	                         			5	2	6	2							11	4	12	5
+62		MSST 	S	3	Tamara Racine            	                         	6	7	0	1	1	1							7	9	9	13
+62		MSST 	S	4	Alex Mikhailuk           	                         					2	2	6	7	2	2			10	11	16	15
+62		MSST 	S	5	Lilian Poling            	                         					0	1	1	5	4	3			5	9	12	11
+62		MSST 	S	6	Chloe Cirotte            	                         							1	1	3	2	6	2	10	5	11	6
+62		MSST 	S	7	Marta Falceto            	                         									2	0	3	5	5	5	11	7
+62		MSST 	S	8	Valeria Nikolaev         	                         													0	0	2	1
+62		MSST 	D	1	Magda Adaloglou          	Tamara Racine            	5	5											5	5	5	5
+62		MSST 	D	2	Emma Antonaki            	Marta Falceto            			2	4	1	1							3	5	3	5
+62		MSST 	D	3	Alex Mikhailuk           	Lilian Poling            			0	2									0	2	3	4
+62		MSST 	D	4	Chloe Cirotte            	Valeria Nikolaev         													0	0	0	0
+18		NAU  	S	1	Gina Dittmann            	                         	14	1	1	0									15	1	15	1
+18		NAU  	S	2	Emily Bland              	                         			1	1	13	1	0	1					14	3	14	3
+18		NAU  	S	3	Eleanor Millard          	                         	1	0	7	5	3	0							11	5	11	5
+18		NAU  	S	4	Ava Neyestani            	                         					0	1	9	5	2	0			11	6	11	6
+18		NAU  	S	5	Elinor Beazley           	                         							1	0	5	5	2	0	8	5	8	5
+18		NAU  	S	6	Madison Moore            	                         											6	8	6	8	6	8
+18		NAU  	D	1	Eleanor Millard          	Emily Bland              	9	8											9	8	9	8
+18		NAU  	D	2	Gina Dittmann            	Elinor Beazley           			8	7	2	0							10	7	10	7
+18		NAU  	D	3	Madison Moore            	Ava Neyestani            			1	1	6	9							7	10	7	10
+53		NW   	S	1	Maria Shusharina         	                         	5	12	2	0									7	12	9	13
+53		NW   	S	2	Clarissa Hand            	                         			0	2	14	4							14	6	14	9
+53		NW   	S	3	Julie Byrne              	                         	1	1	4	7	4	0							9	8	11	9
+53		NW   	S	4	Briana Crowley           	                         					0	1	16	3	0	1			16	5	17	7
+53		NW   	S	5	Caroline Pozo            	                         							1	1	11	6			12	7	12	8
+53		NW   	S	6	Christina Hand           	                         											13	1	13	1	13	4
+53		NW   	S	7	Hannah McColgan          	                         									0	1	6	2	6	3	8	4
+53		NW   	S	8	Vanessa Streng           	                         													0	0	0	0
+53		NW   	D	1	Julie Byrne              	Briana Crowley           	7	2											7	2	7	2
+53		NW   	D	2	Christina Hand           	Clarissa Hand            			4	3									4	3	4	3
+53		NW   	D	3	Hannah McColgan          	Caroline Pozo            					5	2							5	2	5	2
+53		NW   	D	4	Vanesa Streng            	Maria Shusharina         													0	0	0	0
+4		ODU  	S	1	Holly Hutchinson         	                         	7	8											7	8	8	9
+4		ODU  	S	2	Yulia Starodubtseva      	                         			11	1									11	1	11	1
+4		ODU  	S	3	Tatsiana Sasnouskaya     	                         			1	0	9	2	2	0	1	0			13	2	13	2
+4		ODU  	S	4	Alesya Yakubovich        	                         					1	0	4	5	1	2			6	7	6	7
+4		ODU  	S	5	Brooke Pilkington        	                         							2	0	2	3	2	2	6	5	6	5
+4		ODU  	S	6	Alexandra Viktorovich    	                         							0	1	1	1	6	2	7	4	7	4
+4		ODU  	S	7	Shahar Biran             	                         					0	3			1	1	3	0	4	4	4	4
+4		ODU  	D	1	Yulia Starodubtseva      	Alesya Yakubovich        	5	5											5	5	5	5
+4		ODU  	D	2	Holly Hutchinson         	Tatsiana Sasnouskaya     			11	0	1	1							12	1	12	1
+4		ODU  	D	3	Brooke Pilkington        	Alexandra Viktorovich    					7	2							7	2	7	2
+44		OKLA 	S	1	Carmen Corley            	                         	12	6											12	6	19	13
+44		OKLA 	S	2	Dana Guzman              	                         			13	1	1	0	4	1					18	2	18	2
+44		OKLA 	S	3	Ivana Corley             	                         			1	0	11	5	1	1					13	6	20	12
+44		OKLA 	S	4	Martina Capurro          	                         			2	3	0	2	9	3					11	8	11	8
+44		OKLA 	S	5	Kianah Motosono          	                         									3	3	7	4	10	7	16	14
+44		OKLA 	S	6	Camila Romero            	                         											1	1	1	1	1	1
+44		OKLA 	S	7	Marcelina Podlinska      	                         							2	0	8	4	3	1	13	5	13	5
+44		OKLA 	D	1	Carmen Corley            	Ivana Corley             	16	2											16	2	26	3
+44		OKLA 	D	2	Martina Capurro          	Camila Romero            			7	3									7	3	7	3
+44		OKLA 	D	3	Dana Guzman              	Kianah Motosono          					10	2							10	2	10	2
+51		OKST 	S	1	Bunyawi Thamchaiwat      	                         	9	2	3	0									12	2	20	4
+51		OKST 	S	2	Ayumi Miyamoto           	                         			3	2	7	3	1	0					11	5	21	9
+51		OKST 	S	3	Alana Wolfberg           	                         	3	1	1	5	3	2							7	8	17	10
+51		OKST 	S	4	Dariya Detkovskaya       	                         			1	0	3	0	5	6					9	6	17	8
+51		OKST 	S	5	Lenka Stara              	                         							3	1	7	6	0	1	10	8	17	14
+51		OKST 	S	6	Daniella Medvedeva       	                         									1	2	3	7	4	9	10	12
+51		OKST 	S	7	Lora Boggs               	                         							0	2			1	3	1	5	1	7
+51		OKST 	D	1	Alana Wolfberg           	Lenka Stara              	3	2	4	4									7	6	7	6
+51		OKST 	D	2	Ayumi Miyamoto           	Dariya Detkovskaya       			2	0									2	0	2	0
+51		OKST 	D	3	Bunyawi Thamchaiwat      	Daniella Medvedeva       					3	1							3	1	3	1
+34		PEAY 	S	1	Fabienne Schmidt         	                         	10	5											10	5	10	5
+34		PEAY 	S	2	Danielle Morris          	                         			9	5									9	5	9	5
+34		PEAY 	S	3	Jana Leder               	                         					12	2							12	2	12	2
+34		PEAY 	S	4	Aleks Topalovic          	                         							4	3	5	2			9	5	9	5
+34		PEAY 	S	5	Martina Paladini-Jennings	                         							3	3	4	4			7	7	7	7
+34		PEAY 	S	6	Honoka Nakanishi         	                         											7	3	7	3	7	3
+34		PEAY 	S	7	Ana Albertson            	                         											1	2	1	2	1	2
+34		PEAY 	D	1	Fabienne Schmidt         	Danielle Morris          	12	2											12	2	12	2
+34		PEAY 	D	2	Jana Leder               	Aleks Topalovic          			7	3									7	3	7	3
+34		PEAY 	D	3	Honoka Nakanishi         	Ana Albertson            					5	6							5	6	5	6
+22		RICE 	S	1	Michaela Haet            	                         	4	3	4	2									8	5	9	11
+22		RICE 	S	2	Victoria Smirnova        	                         	3	4	1	0									4	4	5	4
+22		RICE 	S	3	Federica Trevisan        	                         			1	0	12	1	1	1					14	2	17	6
+22		RICE 	S	4	Linda Huang              	                         			1	2	1	0			1	0	1	0	4	2	7	5
+22		RICE 	S	5	Anastasia Smirnova       	                         							1	1	3	2			4	3	4	3
+22		RICE 	S	6	Anna Bowtell             	                         			1	1	2	1	6	2	2	1			11	5	14	8
+22		RICE 	S	7	Maria Budin              	                         							0	1	6	3	5	1	11	5	15	11
+22		RICE 	S	8	Diae El Jardi            	                         									0	1	8	2	8	3	10	10
+22		RICE 	D	1	Maria Budin              	Diae El Jardi            	13	5											13	5	17	9
+22		RICE 	D	2	Federica Trevisan        	Michaela Haet            			6	5	2	0							8	5	9	6
+22		RICE 	D	3	Anna Bowtell             	Victoria Smirnova        			1	1	8	5							9	6	11	9
+22		RICE 	D	4	Anastasia Smirnova       	Linda Huang              					3	2							3	2	3	2
+45		SCAR 	S	1	Mia Horvit               	                         	9	7											9	7	11	9
+45		SCAR 	S	2	Megan Davies             	                         			10	5									10	5	12	8
+45		SCAR 	S	3	Emma Shelton             	                         			1	1	7	7	2	0					10	8	13	11
+45		SCAR 	S	4	Silvia Chinellato        	                         					2	3	7	6	1	0			10	9	12	12
+45		SCAR 	S	5	Allie Gretkowski         	                         							2	3	5	9			7	12	7	12
+45		SCAR 	S	6	Ana Cruz                 	                         									1	2	4	4	5	6	5	6
+45		SCAR 	S	7	Gabriela Martinez        	                         											1	1	1	1	1	6
+45		SCAR 	S	8	Elise Mills              	                         							0	1	0	1	1	3	1	5	3	9
+45		SCAR 	S	9	Lindsay Tulenko          	                         											0	1	0	1	0	5
+45		SCAR 	S	10	Kendall Couch            	                         													0	0	0	2
+45		SCAR 	D	1	Megan Davies             	Mia Horvit               	9	8											9	8	13	10
+45		SCAR 	D	2	Silvia Chinellato        	Emma Shelton             			7	5									7	5	10	8
+45		SCAR 	D	3	Ana Cruz                 	Allie Gretkowski         			0	2	11	0							11	2	11	2
+45		SCAR 	D	4	Gabriela Martinez        	Kendall Couch            													0	0	1	0
+2		SCST 	S	1	Rachida Berjane          	                         	6	2											6	2	6	2
+2		SCST 	S	2	Hind Semlali             	                         			6	3									6	3	6	3
+2		SCST 	S	3	Andjela Mihajilovic      	                         					2	6							2	6	2	6
+2		SCST 	S	4	Lasya Patnaik            	                         							6	3					6	3	6	3
+2		SCST 	S	5	Ikram Rassif             	                         									4	3			4	3	4	3
+2		SCST 	S	6	Anabel Aguilar           	                         											3	1	3	1	3	1
+2		SCST 	S	7	Anais Peralta            	                         											0	2	0	2	0	2
+2		SCST 	S	8	Lajla Cemalovic          	                         									0	1			0	1	0	1
+2		SCST 	D	1	Hind Semlali             	Lasya Patnaik            	4	0											4	0	4	0
+2		SCST 	D	2	Rachida Berjane          	Lajla Cemalovic          			1	1									1	1	1	1
+2		SCST 	D	3	Andjela Mihajilovic      	Anabel Aguilar           					6	3							6	3	6	3
+2		SCST 	D	4	Ikram Rassif             	Anais Peralta            													0	0	0	0
+42		SIEN 	S	1	Meagan Brown             	                         	7	3											7	3	7	3
+42		SIEN 	S	2	Kylie Mullaney           	                         			3	5									3	5	3	5
+42		SIEN 	S	3	Petra Miszczak           	                         			1	0	3	4							4	4	4	4
+42		SIEN 	S	4	Maanya Viswanath         	                         					1	0	4	2					5	2	5	2
+42		SIEN 	S	5	Emma Boggiali            	                         					1	0	0	1	5	2			6	3	6	3
+42		SIEN 	S	6	Anastasia Koniaev        	                         									1	0	5	2	6	2	6	2
+42		SIEN 	S	7	Nanea Perkins            	                         							0	1					0	1	0	1
+42		SIEN 	S	8	Shelby Madeiros          	                         							1	0			2	0	3	0	3	0
+42		SIEN 	D	1	Meagan Brown             	Kylie Mullaney           	7	3											7	3	7	3
+42		SIEN 	D	2	Petra Miszczak           	Emma Boggiali            			3	0									3	0	3	0
+42		SIEN 	D	3	Maanya Viswanath         	Anastasia Koniaev        													0	0	0	0
+42		SIEN 	D	4	Nanea Perkins            	Shelby Madeiros          													0	0	0	0
+7		SJSU 	S	1	Alba Pedrero Galindo     	                         	11	4											11	4	11	4
+7		SJSU 	S	2	Rozalina Youseva         	                         			6	6									6	6	6	6
+7		SJSU 	S	3	Irena Muradyan           	                         					13	1			1	0			14	1	14	1
+7		SJSU 	S	4	Lara Marco Mas           	                         							4	5	1	0	1	0	6	5	6	5
+7		SJSU 	S	5	Raquel Villan Pereira    	                         									9	2			9	2	9	2
+7		SJSU 	S	6	Jovana Babic             	                         											7	3	7	3	7	3
+7		SJSU 	S	7	Tamara Culibrk           	                         					0	1			0	1			0	2	0	2
+7		SJSU 	D	1	Alba Pedrero Galindo     	Lara Marco Mas           	0	3	3	3									3	6	3	6
+7		SJSU 	D	2	Tamara Culibrk           	Irena Muradyan           			1	1	2	1							3	2	3	3
+7		SJSU 	D	3	Rozalina Youseva         	Raquel Villan Pereira    					2	3							2	3	2	3
+20		STAN 	S	1	Michaela Gordon          	                         	9	6											9	6	9	6
+20		STAN 	S	2	Angelica Blake           	                         			2	1	5	1							7	2	7	2
+20		STAN 	S	3	Emily Arbuthnott         	                         	0	1	7	3	1	3							8	7	8	7
+20		STAN 	S	4	Ana Geller               	                         			1	0	5	0	1	3					7	3	7	3
+20		STAN 	S	5	Sara Choy                	                         			1	0	1	0	8	2	3	2			13	4	13	4
+20		STAN 	S	6	Emma Higuchi             	                         			1	0					3	0	10	3	14	3	14	3
+20		STAN 	S	7	India Houghton           	                         											3	0	3	0	3	0
+20		STAN 	S	8	Niluka Madurawe          	                         					1	0			3	1	1	0	5	1	5	1
+20		STAN 	S	9	Janicce Shin             	                         							2	1	4	1			6	2	6	2
+20		STAN 	D	1	Gordon                   	Madurawe                 	9	5											9	5	9	5
+20		STAN 	D	2	Arbuthnott               	Blake                    			6	2									6	2	6	2
+20		STAN 	D	3	Choy                     	Higuchi                  					7	2							7	2	7	2
+20		STAN 	D	4	Shin                     	Houghton                 					1	0							1	0	1	0
+6		SYR  	S	1	Viktoriya Kanapatskaya   	                         	9	5	2	0									11	5	11	5
+6		SYR  	S	2	Guzal Yusupova           	                         	0	2	4	6	0	1							4	9	4	9
+6		SYR  	S	3	Natalie Novotna          	                         			2	1	4	6	1	2					7	9	7	9
+6		SYR  	S	4	Miranda Ramirez          	                         					1	6	3	6	0	1			4	13	4	13
+6		SYR  	S	5	Zeynep Erman             	                         									3	4	1	0	4	4	4	4
+6		SYR  	S	6	Polina Kozyreva          	                         							1	0	2	4	7	5	10	9	10	9
+6		SYR  	S	7	Sofya Trescheva          	                         							0	1	0	3	1	0	1	4	1	4
+6		SYR  	S	8	Ines Fonte               	                         					0	1	0	4	0	2	1	2	1	9	1	9
+6		SYR  	D	1	Viktoriya Kanapatskaya   	Natalie Novotna          	4	7	4	1									8	8	8	8
+6		SYR  	D	2	Polina Kozyreva          	Sofya Trescheva          	2	5	3	7									5	12	5	12
+6		SYR  	D	3	Miranda Ramirez          	Guzal Yusupova           					5	5							5	5	5	5
+6		SYR  	D	4	Zeynep Erman             	Ines Fonte               													0	0	0	0
+15		TAMCC	S	1	Mariya Shumeika          	                         	7	3	12	0									19	3	19	3
+15		TAMCC	S	2	Camille Townsend         	                         	8	2	6	3	0	1							14	6	14	6
+15		TAMCC	S	3	Emma Honore              	                         			0	2	16	4							16	6	15	6
+15		TAMCC	S	4	Emma Aucagne             	                         					2	0	20	1					22	1	22	1
+15		TAMCC	S	5	Leopoldine Boisseau      	                         					2	0	1	0	14	3			17	3	17	3
+15		TAMCC	S	6	Victoire Delattre        	                         							3	0			14	2	17	2	17	2
+15		TAMCC	S	7	Kateryna Rublevska       	                         									2	0	2	0	4	0	4	0
+15		TAMCC	S	8	Jordan Ortega Mendez     	                         									1	0	3	0	4	0	4	0
+15		TAMCC	D	1	M. Shumeika              	C. Townsend              	19	5											19	5	19	5
+15		TAMCC	D	2	E.Honore                 	E.Aucagne                			16	4									16	4	16	4
+15		TAMCC	D	3	L.Boisseau               	V. Delattre              					15	4							15	4	15	4
+15		TAMCC	D	4	K. Rublevska             	J. Ortega Mendez         					1	0							1	0	1	0
+37		TENN 	S	1	Rebeka Mertena           	                         	2	2	5	0	4	4							11	6	15	14
+37		TENN 	S	2	Eleonora Molinaro        	                         	2	7	1	2									3	9	3	9
+37		TENN 	S	3	Carly Briggs             	                         	2	2	1	6	3	4							6	12	15	15
+37		TENN 	S	4	Daria Kuczer             	                         					1	0	8	1	9	1	1	0	19	2	25	7
+37		TENN 	S	5	Tenika McGiffin          	                         	1	0			2	0	6	4	6	0			15	4	20	12
+37		TENN 	S	6	Johanna Silva            	                         			0	1	0	1			0	1	9	1	9	4	12	10
+37		TENN 	S	7	Esther Adeshina          	                         									1	0	1	1	2	1	8	6
+37		TENN 	S	8	Callie Creath            	                         							1	0	2	0	3	2	6	2	9	7
+37		TENN 	S	9	Kylie Duckworth          	                         													0	0	0	0
+37		TENN 	S	10	Julie Ball               	                         											1	0	1	0	2	1
+37		TENN 	D	1	Eleonora Molinaro        	Tenika McGiffin          	1	3	2	0									3	3	3	3
+37		TENN 	D	2	Esther Adeshina          	Daria Kuczer             	3	5	8	1									11	6	12	9
+37		TENN 	D	3	Carly Briggs             	Rebeka Mertena           					4	3							4	3	4	3
+37		TENN 	D	4	Kylie Duckworth          	Johanna Silva            													0	0	0	0
+29		TTU  	S	1	Lisa Mays                	                         	9	7	1	0									10	7	12	8
+29		TTU  	S	2	Margarita Skriabina      	                         			2	0	12	1	2	0					16	1	18	2
+29		TTU  	S	3	Kaitlin Staines          	                         	1	1	5	8									6	9	9	11
+29		TTU  	S	4	Nell Miller              	                         			0	1	3	1	11	4					14	6	16	10
+29		TTU  	S	5	Olivia Peet              	                         							1	0	9	6			10	6	12	6
+29		TTU  	S	6	Metka Komac              	                         							0	1	1	0	9	4	10	5	12	6
+29		TTU  	S	7	Bojana Marinkov          	                         									3	0	0	3	3	3	4	5
+29		TTU  	S	8	Camryn Stepp             	                         											0	2	0	2	2	5
+29		TTU  	S	9	Kailey Evans             	                         													0	0	3	2
+29		TTU  	D	1	kaitlin staines          	lisa mays                	9	7											9	7	9	7
+29		TTU  	D	2	Olivia Peet              	Margarita Skriabina      			4	2									4	2	4	2
+29		TTU  	D	3	Nell Miller              	Metka Komac              					2	1							2	1	2	1
+29		TTU  	D	4	Bojana Marinkov          	Camryn Stepp             													0	0	0	0
+19		UCSB 	S	1	Elizaveta Volodko        	                         	9	4											9	4	9	4
+19		UCSB 	S	2	Camille Kiss             	                         			10	4									10	4	10	4
+19		UCSB 	S	3	Shakhnoza Khatamova      	                         					15	2							15	2	15	2
+19		UCSB 	S	4	Lise Sentenac            	                         							6	4	0	1	0	2	6	7	6	7
+19		UCSB 	S	5	Kira Reuter              	                         							0	2	5	5			5	7	5	7
+19		UCSB 	S	6	Marta Gonzalez Ballbe    	                         									1	1	6	3	7	4	7	4
+19		UCSB 	D	1	Elizaveta Volodko        	Lise Sentenac            	6	6											6	6	6	6
+19		UCSB 	D	2	Kira Reuter              	Shakhnoza Khatamova      			8	3									8	3	8	3
+19		UCSB 	D	3	Camille Kiss             	Marta Gonzalez Ballbe    					10	2							10	2	10	2
+58		UIC  	S	1	Tamara Malazonia         	                         	9	12	1	0									10	12	10	12
+58		UIC  	S	2	Agnes Gustafsson         	                         	0	2	14	2	1	0							15	4	15	4
+58		UIC  	S	3	Lucie Prochazkova        	                         			2	1	13	1							15	2	15	2
+58		UIC  	S	4	Ana Jover                	                         					5	1	13	2					18	3	18	3
+58		UIC  	S	5	Georgia Gulin            	                         							2	1	12	1	3	1	17	3	17	3
+58		UIC  	S	6	Nell Arendt              	                         					1	0	1	0	3	0	9	2	14	2	14	2
+58		UIC  	S	7	Marina Hermanny          	                         							1	0	1	0	2	0	4	0	4	0
+58		UIC  	S	8	Tuva Wallin              	                         					1	0	2	1	2	4	1	0	6	5	6	5
+58		UIC  	D	1	Tamara Malazonia         	Agnes Gustafsson         	6	3											6	3	6	3
+58		UIC  	D	2	Lucie Prochazkova        	Ana Jover                	1	1	9	0									10	1	10	1
+58		UIC  	D	3	Nell Arendt              	Marina Hermanny          	2	2											2	2	2	2
+58		UIC  	D	4	Georgia Gulin            	Tuva Wallin              	0	1											0	1	0	1
+5		UK   	S	1	Akvile Parazinskaite     	                         	16	6											16	6	19	10
+5		UK   	S	2	Lesedi Jacobs            	                         			0	1	7	4	2	0					9	5	11	8
+5		UK   	S	3	Carlota Molina           	                         			11	6	1	1							12	7	12	13
+5		UK   	S	4	Elizabeth Stevens        	                         					1	2	1	5	1	1			3	8	6	13
+5		UK   	S	5	Carla Girbau             	                         			1	0	2	1	4	7	2	1			9	9	11	14
+5		UK   	S	6	Fiona Arrese             	                         					1	0	3	0	4	3	2	1	10	4	10	9
+5		UK   	S	7	Maialen Morante          	                         									1	0	5	4	6	4	9	7
+5		UK   	S	8	Ana Tkachenko            	                         											1	1	1	1	2	4
+5		UK   	S	9	Diana Tkachenko          	                         											1	0	1	0	0	0
+5		UK   	D	1	Akvile Parazinskaite     	Fiona Arrese             	17	2											17	2	20	2
+5		UK   	D	2	Ana Tkachenko            	Carla Girbau             			1	3									1	3	1	3
+5		UK   	D	3	Lesedi Jacobs            	Elizabeth Stevens        					2	0							2	0	2	1
+5		UK   	D	4	Carlota Molina           	Maialen Morante          													0	0	0	0
+27		UNF  	S	1	Lucia Montano            	                         	14	8											14	8	14	8
+27		UNF  	S	2	Catherine Gulihur        	                         	1	0	17	3									18	3	18	3
+27		UNF  	S	3	Constanza Gorches        	                         			2	0	4	3	7	6					13	9	13	9
+27		UNF  	S	4	Summer Yardley           	                         					2	0	3	3	3	2	3	4	11	9	11	9
+27		UNF  	S	5	Annabelle Davis          	                         							1	0	6	0	3	1	10	1	10	1
+27		UNF  	S	6	Valentina Mariotto       	                         							2	0	3	6	3	1	8	7	8	7
+27		UNF  	S	7	Sean Lodzki              	                         							1	0	1	0	2	1	4	1	4	1
+27		UNF  	S	8	Florencia Rossi          	                         									1	0			1	0	1	0
+27		UNF  	S	9	Ana Melilo               	                         			1	0	8	4							9	4	9	4
+27		UNF  	D	1	Lucia Montano            	Constanza Gorches        	5	1	10	5									15	6	15	6
+27		UNF  	D	2	Catherine Gulihur        	Valentina Mariotto       			3	3									3	3	3	3
+27		UNF  	D	3	Summer Yardley           	Annabelle Davis          					1	1							1	1	1	1
+27		UNF  	D	4	Florencia Rossi          	Sean Lodzki              					1	2							1	2	1	2
+43		USC  	S	1	Salma Ewing              	                         	4	2	3	0	6	3							13	5	13	5
+43		USC  	S	2	Eryn Cayetano            	                         	3	3	6	2	1	0							10	5	10	5
+43		USC  	S	3	Angela Kulikov           	                         	0	1											0	1	0	1
+43		USC  	S	4	Naomi Cheong             	                         	1	3	6	2	2	3							9	8	9	8
+43		USC  	S	5	Dani Willson             	                         					2	2	10	6					12	8	12	8
+43		USC  	S	6	Summer Dvorak            	                         							3	1	9	6			12	7	12	7
+43		USC  	S	7	Constance Branstine      	                         									0	2	1	1	1	3	1	3
+43		USC  	S	8	Clare McKee              	                         									2	1	6	9	8	10	8	10
+43		USC  	S	9	McKenna Koenig           	                         													0	0	0	0
+43		USC  	D	1	Angela Kulikov           	Eryn Cayetano            	6	5											6	5	6	5
+43		USC  	D	2	Salma Ewing              	Clare McKee              			8	4									8	4	8	4
+43		USC  	D	3	Summer Dvorak            	Dani Willson             					8	5							8	5	8	5
+43		USC  	D	4	Constance Branstine      	McKenna Koenig           													0	0	0	0
+30		USD  	S	1	Solymar Colling          	                         	14	4											14	4	14	3
+30		USD  	S	2	Elizabeth Goldsmith      	                         			11	3									11	3	11	3
+30		USD  	S	3	Jordyn McBride           	                         			2	0	12	3							14	3	14	3
+30		USD  	S	4	Abigail Desiatnikov      	                         					4	1	6	3	2	0			12	4	12	4
+30		USD  	S	5	Victoria Kalaitzis       	                         							4	1	8	2	0	1	12	4	12	4
+30		USD  	S	6	Katharina Kukaras        	                         							1	0	5	1	5	3	11	4	11	4
+30		USD  	S	7	Elisabeth Andryukhova    	                         									0	1	1	0	1	1	1	1
+30		USD  	S	8	Jessi Muljat             	                         											5	1	5	1	5	1
+30		USD  	D	1	Solymar Colling          	Elizabeth Goldsmith      	14	3											14	3	14	3
+30		USD  	D	2	Abigail Desiatnikov      	Jordyn McBride           			5	1	7	3							12	4	12	4
+30		USD  	D	3	Elisabeth Andryukhova    	Katharina Kukaras        			0	2	2	2							2	4	2	4
+30		USD  	D	4	Victoria Kalaitzis       	Jessi Muljat             					0	1							0	1	0	1
+60		VANDY	S	1	Christina Rosca          	                         	3	5	3	0	4	0	3	0					13	5	13	5
+60		VANDY	S	2	Emma Kurtz               	                         	2	5	6	5									8	10	11	16
+60		VANDY	S	3	Anessa Lee               	                         					3	1	2	2	6	2			11	5	16	8
+60		VANDY	S	4	Anna Ross                	                         	4	0	2	1	2	7	0	1					8	9	8	10
+60		VANDY	S	5	Marcella Cruz            	                         							1	0	4	2	8	2	13	4	16	9
+60		VANDY	S	6	Holly Staff              	                         			2	0	1	3	5	4	1	2			9	9	14	12
+60		VANDY	S	7	Dasha Kourkina           	                         									2	0	1	1	3	1	5	4
+60		VANDY	D	1	Anna Ross                	Holly Staff              	9	8	1	0									10	8	10	8
+60		VANDY	D	2	Emma Kurtz               	Marcella Cruz            			11	6									11	6	11	6
+60		VANDY	D	3	Christina Rosca          	Anessa Lee               			1	0	11	4							12	4	12	4
+47		VCU  	S	1	PAOLA EXPOSITO DIAZ-DELGADO	                         	16	3											16	3	16	3
+47		VCU  	S	2	LUMINITA TUTUNARU        	                         			7	8	0	3							7	11	7	11
+47		VCU  	S	3	ALESSIA CIUCA            	                         			0	4	10	7							10	11	10	11
+47		VCU  	S	4	GABRIELA DAVIDESCU       	                         					1	0	9	8					10	8	10	8
+47		VCU  	S	5	NOUMEA WITMUS            	                         							4	1	9	3	0	2	13	6	13	6
+47		VCU  	S	6	SHIVANI MANJANNA         	                         									3	1	8	6	11	7	11	7
+47		VCU  	S	7	LARA VAN DER MERWE       	                         											2	1	2	1	2	1
+47		VCU  	D	1	LUMINITA TUTUNARU        	GABRIELA DAVIDESCU       	7	5											7	5	7	5
+47		VCU  	D	2	PAOLA EXPOSITO DIAZ-DELGADO	NOUMEA WITMUS            			13	8									13	8	13	8
+47		VCU  	D	3	ALESSIA CIUCA            	SHIVANI MANJANNA         					12	3							12	3	12	3
+36		WAKE 	S	1	Carolyn Campana          	                         	9	5											9	5	9	5
+36		WAKE 	S	2	Anna Campana             	                         	2	4	4	6									6	10	6	10
+36		WAKE 	S	3	Anna Brylin              	                         			1	4	10	3	1	1					12	8	12	8
+36		WAKE 	S	4	Eliza Omirou             	                         					1	2	3	3	5	3			9	8	9	8
+36		WAKE 	S	5	Brooke Killingsworth     	                         			2	3	1	4	3	6	1	1			7	14	7	14
+36		WAKE 	S	6	Casie Wooten             	                         							1	0	4	4	7	3	12	7	12	7
+36		WAKE 	S	7	Peyton Pesavento         	                         							1	3			2	3	3	6	3	6
+36		WAKE 	S	8	Mia Ahmad                	                         									1	0	0	1	1	1	1	1
+36		WAKE 	D	1	Eliza Omirou             	Carolyn Campana          	8	4	1	0									9	4	9	4
+36		WAKE 	D	2	Anna Brylin              	Brooke Killingsworth     	6	1	7	4									13	5	13	5
+36		WAKE 	D	3	Peyton Pesavento         	Anna Campana             					3	8							3	8	3	8
+36		WAKE 	D	4	Casie Wooten             	Mia Ahmad                													0	0	0	0
+54		XAV  	S	1	Ahmeir Kyle              	                         	10	3											10	3	10	3
+54		XAV  	S	2	Kat Lyman                	                         	0	2	10	1	3	0							13	3	13	3
+54		XAV  	S	3	Anna Roggenburk          	                         	3	0	5	1	7	2							15	3	15	3
+54		XAV  	S	4	Imani Graham             	                         			2	0	6	0	8	4					16	4	16	4
+54		XAV  	S	5	Kaitlin Ruether          	                         					1	1	3	1	2	6	0	4	6	12	6	12
+54		XAV  	S	6	Emily Thomas             	                         							1	2	5	2	2	0	8	4	8	4
+54		XAV  	S	7	Lucy Octave              	                         									2	2	1	2	3	4	3	4
+54		XAV  	S	8	Blessing Nwaozuzu        	                         											3	3	3	3	3	3
+54		XAV  	S	9	Natalie Moyer            	                         											0	3	0	3	0	3
+54		XAV  	D	1	Ahmeir Kyle              	Emily Thomas             	9	8											9	8	9	8
+54		XAV  	D	2	Anna Roggenburk          	Imani Graham             			3	1	7	1							10	2	10	2
+54		XAV  	D	3	Kaitlin Ruether          	Kat Lyman                			5	3	2	0							7	3	7	3
+54		XAV  	D	4	Lucy Octave              	Blessing Nwaozuzu        					1	0							1	0	1	0
