@@ -4,7 +4,7 @@ Friday, May 7 at 10:00 EDT
 
 <table><tr><td>  
 
-[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" />](../index.md)  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a>  
 
 ### #3 Arkansas  
 
@@ -18,7 +18,7 @@ At-Large Bid
 
 </td><td>  
 
-[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" />](../index.md)  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></a>  
 
 ### #2 Old Dominion  
 

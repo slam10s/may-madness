@@ -1,55 +1,60 @@
 First Round  
 Saturday, May 8 at 10:00 EDT
-## [Texas Tech vs Virginia Tech](https://www.ncaa.com/game/5833391) 
 
-<table><tr><td>  
+## [Texas Tech vs Virginia Tech](https://www.ncaa.com/game/5833391)
 
-[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" />](../index.md)  
+<table><tr><td>
 
-### #3 Virginia Tech  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a>
 
-At-Large Bid  
-- ITA: 29 (28.32)  
-- Slam: 30 (93.02)  
-- TRN: 29 (91.09)  
-- Massey: 33 (7.47)  
-- UTR: 34 (76.77)  
-- Coaches Poll: 34  
+### #3 Virginia Tech
 
-</td><td>  
+At-Large Bid
 
-[<img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" />](../index.md)  
+- ITA: 29 (28.32)
+- Slam: 30 (93.02)
+- TRN: 29 (91.09)
+- Massey: 33 (7.47)
+- UTR: 34 (76.77)
+- Coaches Poll: 34
 
-### #2 Texas Tech  
+</td><td>
 
-At-Large Bid  
-- ITA: 25 (31.34)  
-- Slam: 35 (92.60)  
-- TRN: 31 (90.98)  
-- Massey: 28 (7.55)  
-- UTR: 35 (76.66)  
-- USTA Poll: RV  
-- Coaches Poll: 27  
+<a href="../index.md"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a>
 
-</td></tr></table>  
+### #2 Texas Tech
 
-### Predictions  
+At-Large Bid
 
-Ranks listed here are the metric's ranking within the field of 64:  
-- Slam: ***VT*** - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)  
-- TRN: ***VT*** - #29 Virginia Tech (51%) def. #31 Texas Tech (49%)  
-- Massey: ***TTU*** - #28 Texas Tech (75%) def. #33 Virginia Tech (25%)  
-- UTR: ***VT*** - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)  
-- ITA: ***TTU*** - #25 Texas Tech def. #29 Virginia Tech  
-- USTA Poll: ***TTU*** - RV Texas Tech def. Virginia Tech  
-- Coaches Poll: ***TTU*** - #27 Texas Tech def. #34 Virginia Tech  
-- Seeding: ***TTU*** - #2 Texas Tech def. #3 Virginia Tech  
+- ITA: 25 (31.34)
+- Slam: 35 (92.60)
+- TRN: 31 (90.98)
+- Massey: 28 (7.55)
+- UTR: 35 (76.66)
+- USTA Poll: RV
+- Coaches Poll: 27
 
-### Individual Matchups  
+</td></tr></table>
 
-This assumes the top players and doubles teams listed are starting.  
+### Predictions
 
-#### Singles:  
+Ranks listed here are the metric's ranking within the field of 64:
+
+- Slam: **_VT_** - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)
+- TRN: **_VT_** - #29 Virginia Tech (51%) def. #31 Texas Tech (49%)
+- Massey: **_TTU_** - #28 Texas Tech (75%) def. #33 Virginia Tech (25%)
+- UTR: **_VT_** - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)
+- ITA: **_TTU_** - #25 Texas Tech def. #29 Virginia Tech
+- USTA Poll: **_TTU_** - RV Texas Tech def. Virginia Tech
+- Coaches Poll: **_TTU_** - #27 Texas Tech def. #34 Virginia Tech
+- Seeding: **_TTU_** - #2 Texas Tech def. #3 Virginia Tech
+
+### Individual Matchups
+
+This assumes the top players and doubles teams listed are starting.
+
+#### Singles:
+
 1. Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall  
    Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall
 2. Alex Ribeiro (VT) - 2-1 at #2, 5-5 in duals, 5-5 overall  
@@ -63,7 +68,8 @@ This assumes the top players and doubles teams listed are starting.
 6. Ryan Fishback (VT) - 4-1 at #6, 13-6 in duals, 13-6 overall  
    Isaac Arevalo (TTU) - 5-4 at #6, 8-5 in duals, 14-7 overall
 
-#### Doubles:  
+#### Doubles:
+
 1. Chrysostom/Fishback (VT) - 6-4 at #1, 8-4 in duals, 8-4 overall  
    Wynn/Ribero (TTU) - 7-7 at #1, 7-7 in duals, 7-7 overall
 2. Harper/Ribeiro (VT) - 3-4 at #2, 3-4 in duals, 3-4 overall  
