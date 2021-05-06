@@ -13,9 +13,9 @@ Home:
     Overall: 1
     Region: 1
   Ratings:
-    ITA: 1 (87.725)
-    SLM: 1 (100)
-    TRN: 1 (100)
+    ITA: 1 (87.72)
+    SLM: 1 (100.00)
+    TRN: 1 (100.00)
     MAS: 1 (9.82)
     UTR: 2 (65.21)
   Polls:
@@ -28,7 +28,7 @@ Visitor:
   Seeding:
     Region: 4
   Ratings:
-    SLM: 62 (70.676)
+    SLM: 62 (70.68)
     TRN: 61 (58.72)
     MAS: 62 (3.52)
     UTR: 63 (44.35)

@@ -12,9 +12,9 @@ Home:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 47 (8.375)
-    SLM: 49 (87.658)
-    TRN: 50 (85.244)
+    ITA: 47 (8.38)
+    SLM: 49 (87.66)
+    TRN: 50 (85.24)
     MAS: 53 (6.42)
     UTR: 52 (73.58)
 Visitor:
@@ -25,9 +25,9 @@ Visitor:
     Region: 2
   Ratings:
     ITA: 23 (32.39)
-    SLM: 19 (94.442)
-    TRN: 22 (92.3)
-    MAS: 23 (7.7)
+    SLM: 19 (94.44)
+    TRN: 22 (92.30)
+    MAS: 23 (7.70)
     UTR: 22 (78.11)
   Polls:
     USTA: 25

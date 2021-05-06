@@ -7,11 +7,11 @@ Friday, May 7 at 1:00 EDT
 ### #1 Florida  
 
 Regional Host  
-- ITA: 11 (49.182)  
-- Slam: 16 (90.473)  
-- TRN: 20 (82.705)  
+- ITA: 11 (49.18)  
+- Slam: 16 (90.47)  
+- TRN: 20 (82.70)  
 - Massey: 21 (7.77)  
-- UTR: 11 (62.7)  
+- UTR: 11 (62.70)  
 - USTA Poll: 20  
 - Coached Poll: 15  
 
@@ -20,10 +20,20 @@ Regional Host
 ### #4 Siena  
 
 Automatic Qualifier  
-- ITA: 60 (2.407)  
-- Slam: 64 (65.568)  
-- TRN: 64 (50.233)  
+- ITA: 60 (2.41)  
+- Slam: 64 (65.57)  
+- TRN: 64 (50.23)  
 - Massey: 64 (2.92)  
 - UTR: 62 (46.43)  
 
 </td></tr></table>  
+
+ ### Predictions:  
+- Slam: ***FLA*** - #16 Florida (99%) def. #64 Siena (1%)  
+- TRN: ***FLA*** - #20 Florida (99%) def. #64 Siena (1%)  
+- Massey: ***FLA*** - #21 Florida (75%) def. #64 Siena (25%)  
+- UTR: ***FLA*** - #11 Florida (+16.27) def. #62 Siena (-16.27)  
+- ITA: ***FLA*** - #11 Florida def. #60 Siena  
+- USTA Poll: ***FLA*** - #20 Florida def. Siena  
+- Coached Poll: ***FLA*** - #15 Florida def. Siena  
+- Seeding: ***FLA*** - #1 Florida def. #4 Siena  

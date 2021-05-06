@@ -12,9 +12,9 @@ Home:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 19 (35.308)
-    SLM: 24 (93.677)
-    TRN: 23 (91.927)
+    ITA: 19 (35.31)
+    SLM: 24 (93.68)
+    TRN: 23 (91.93)
     MAS: 29 (7.54)
     UTR: 19 (78.43)
   Polls:
@@ -27,10 +27,10 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 48 (8.275)
-    SLM: 54 (86.711)
+    ITA: 48 (8.28)
+    SLM: 54 (86.71)
     TRN: 48 (87.45)
-    MAS: 56 (5.8)
+    MAS: 56 (5.80)
     UTR: 58 (70.91)
 Predictions:
   SLM: "OKST - #24 Oklahoma St. (98%) def. #54 Navy (2%)"

@@ -7,9 +7,9 @@ Saturday, May 8 at 1:00 EDT
 ### #1 Georgia  
 
 Regional Host  
-- ITA: 11 (54.806)  
-- Slam: 16 (96.078)  
-- TRN: 14 (94.909)  
+- ITA: 11 (54.81)  
+- Slam: 16 (96.08)  
+- TRN: 14 (94.91)  
 - Massey: 15 (8.18)  
 - UTR: 19 (78.43)  
 - USTA Poll: 16  
@@ -20,10 +20,20 @@ Regional Host
 ### #4 ETSU  
 
 Automatic Qualifier  
-- ITA: 49 (7.967)  
-- Slam: 52 (87.298)  
-- TRN: 53 (84.021)  
+- ITA: 49 (7.97)  
+- Slam: 52 (87.30)  
+- TRN: 53 (84.02)  
 - Massey: 51 (6.56)  
 - UTR: 50 (73.91)  
 
 </td></tr></table>  
+
+ ### Predictions:  
+- Slam: ***UGA*** - #16 Georgia (99%) def. #52 ETSU (1%)  
+- TRN: ***UGA*** - #14 Georgia (99%) def. #53 ETSU (1%)  
+- Massey: ***UGA*** - #15 Georgia (75%) def. #51 ETSU (25%)  
+- UTR: ***UGA*** - #19 Georgia (+4.52) def. #50 ETSU (-4.52)  
+- ITA: ***UGA*** - #11 Georgia def. #49 ETSU  
+- USTA Poll: ***UGA*** - #16 Georgia def. ETSU  
+- Coached Poll: ***UGA*** - #11 Georgia def. ETSU  
+- Seeding: ***UGA*** - #1 Georgia def. #4 ETSU  

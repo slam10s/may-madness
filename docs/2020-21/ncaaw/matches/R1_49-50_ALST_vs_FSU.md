@@ -7,9 +7,9 @@ Friday, May 7 at 4:00 EDT
 ### #1 Florida St.  
 
 Regional Host  
-- ITA: 7 (55.151)  
-- Slam: 10 (91.814)  
-- TRN: 9 (84.487)  
+- ITA: 7 (55.15)  
+- Slam: 10 (91.81)  
+- TRN: 9 (84.49)  
 - Massey: 9 (8.17)  
 - UTR: 10 (62.71)  
 - USTA Poll: 12  
@@ -20,10 +20,20 @@ Regional Host
 ### #4 Alabama St.  
 
 Automatic Qualifier  
-- ITA: 61 (2.286)  
-- Slam: 63 (69.749)  
-- TRN: 62 (58.323)  
+- ITA: 61 (2.29)  
+- Slam: 63 (69.75)  
+- TRN: 62 (58.32)  
 - Massey: 63 (3.41)  
 - UTR: 61 (46.66)  
 
 </td></tr></table>  
+
+ ### Predictions:  
+- Slam: ***FSU*** - #10 Florida St. (99%) def. #63 Alabama St. (1%)  
+- TRN: ***FSU*** - #9 Florida St. (99%) def. #62 Alabama St. (1%)  
+- Massey: ***FSU*** - #9 Florida St. (75%) def. #63 Alabama St. (25%)  
+- UTR: ***FSU*** - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)  
+- ITA: ***FSU*** - #7 Florida St. def. #61 Alabama St.  
+- USTA Poll: ***FSU*** - #12 Florida St. def. Alabama St.  
+- Coached Poll: ***FSU*** - #7 Florida St. def. Alabama St.  
+- Seeding: ***FSU*** - #1 Florida St. def. #4 Alabama St.  

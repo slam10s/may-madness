@@ -12,8 +12,8 @@ Home:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 29 (28.067)
-    SLM: 34 (87.918)
+    ITA: 29 (28.07)
+    SLM: 34 (87.92)
     TRN: 34 (79.75)
     MAS: 28 (7.39)
     UTR: 27 (61.44)
@@ -26,9 +26,9 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 39 (19.118)
-    SLM: 36 (87.644)
-    TRN: 38 (78.946)
+    ITA: 39 (19.12)
+    SLM: 36 (87.64)
+    TRN: 38 (78.95)
     MAS: 32 (7.31)
     UTR: 32 (60.57)
   Polls:

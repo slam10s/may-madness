@@ -12,11 +12,11 @@ Home:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 41 (18.116)
-    SLM: 30 (88.346)
-    TRN: 29 (81.345)
+    ITA: 41 (18.12)
+    SLM: 30 (88.35)
+    TRN: 29 (81.34)
     MAS: 37 (6.98)
-    UTR: 42 (59)
+    UTR: 42 (59.00)
   Polls:
     USTA: RV
     Coach: 50
@@ -27,8 +27,8 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 24 (38.718)
-    SLM: 22 (90.209)
+    ITA: 24 (38.72)
+    SLM: 22 (90.21)
     TRN: 21 (82.31)
     MAS: 17 (7.84)
     UTR: 19 (61.89)

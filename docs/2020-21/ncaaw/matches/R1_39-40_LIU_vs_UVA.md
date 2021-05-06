@@ -7,9 +7,9 @@ Friday, May 7 at 3:00 EDT
 ### #1 Virginia  
 
 Regional Host  
-- ITA: 14 (47.674)  
-- Slam: 9 (91.876)  
-- TRN: 11 (84.028)  
+- ITA: 14 (47.67)  
+- Slam: 9 (91.88)  
+- TRN: 11 (84.03)  
 - Massey: 7 (8.25)  
 - UTR: 13 (62.41)  
 - USTA Poll: 10  
@@ -20,10 +20,19 @@ Regional Host
 ### #4 LIU  
 
 Automatic Qualifier  
-- ITA: 52 (4.2)  
-- Slam: 61 (70.794)  
-- TRN: 63 (55.664)  
+- ITA: 52 (4.20)  
+- Slam: 61 (70.79)  
+- TRN: 63 (55.66)  
 - Massey: 61 (4.25)  
 - UTR: 60 (49.85)  
 
 </td></tr></table>  
+
+ ### Predictions:  
+- Slam: ***UVA*** - #9 Virginia (99%) def. #61 LIU (1%)  
+- TRN: ***UVA*** - #11 Virginia (99%) def. #63 LIU (1%)  
+- Massey: ***UVA*** - #7 Virginia (75%) def. #61 LIU (25%)  
+- UTR: ***UVA*** - #13 Virginia (+12.56) def. #60 LIU (-12.56)  
+- ITA: ***UVA*** - #14 Virginia def. #52 LIU  
+- USTA Poll: ***UVA*** - #10 Virginia def. LIU  
+- Seeding: ***UVA*** - #1 Virginia def. #4 LIU  

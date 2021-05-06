@@ -7,9 +7,9 @@ Friday, May 7 at 3:00 EDT
 ### #2 Duke  
 
 At-Large Bid  
-- ITA: 17 (43.032)  
-- Slam: 14 (90.907)  
-- TRN: 15 (83.332)  
+- ITA: 17 (43.03)  
+- Slam: 14 (90.91)  
+- TRN: 15 (83.33)  
 - Massey: 11 (8.09)  
 - UTR: 12 (62.45)  
 - USTA Poll: 14  
@@ -21,10 +21,20 @@ At-Large Bid
 
 At-Large Bid  
 - ITA: 42 (16.54)  
-- Slam: 44 (86.227)  
-- TRN: 44 (78.276)  
+- Slam: 44 (86.23)  
+- TRN: 44 (78.28)  
 - Massey: 44 (6.49)  
 - UTR: 40 (59.05)  
 - Coached Poll: 43  
 
 </td></tr></table>  
+
+ ### Predictions:  
+- Slam: ***DUKE*** - #14 Duke (93%) def. #44 Alabama (7%)  
+- TRN: ***DUKE*** - #15 Duke (94%) def. #44 Alabama (6%)  
+- Massey: ***DUKE*** - #11 Duke (75%) def. #44 Alabama (25%)  
+- UTR: ***DUKE*** - #12 Duke (+3.40) def. #40 Alabama (-3.40)  
+- ITA: ***DUKE*** - #17 Duke def. #42 Alabama  
+- USTA Poll: ***DUKE*** - #14 Duke def. Alabama  
+- Coached Poll: ***DUKE*** - #20 Duke def. #43 Alabama  
+- Seeding: ***DUKE*** - #2 Duke def. #3 Alabama  

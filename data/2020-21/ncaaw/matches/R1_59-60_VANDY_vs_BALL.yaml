@@ -12,10 +12,10 @@ Home:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 51 (4.347)
-    SLM: 52 (79.303)
-    TRN: 52 (70.334)
-    MAS: 53 (5.4)
+    ITA: 51 (4.35)
+    SLM: 52 (79.30)
+    TRN: 52 (70.33)
+    MAS: 53 (5.40)
     UTR: 51 (54.58)
 Visitor:
   Team: Vanderbilt
@@ -24,8 +24,8 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 27 (35.193)
-    SLM: 29 (88.871)
+    ITA: 27 (35.19)
+    SLM: 29 (88.87)
     TRN: 30 (81.13)
     MAS: 31 (7.33)
     UTR: 28 (61.39)

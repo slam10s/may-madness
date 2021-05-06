@@ -7,9 +7,9 @@ Friday, May 7 at 1:00 EDT
 ### #2 Arizona St.  
 
 At-Large Bid  
-- ITA: 31 (26.088)  
-- Slam: 31 (88.196)  
-- TRN: 33 (79.831)  
+- ITA: 31 (26.09)  
+- Slam: 31 (88.20)  
+- TRN: 33 (79.83)  
 - Massey: 24 (7.65)  
 - UTR: 23 (61.59)  
 - USTA Poll: RV  
@@ -20,11 +20,20 @@ At-Large Bid
 ### #3 Mississippi St.  
 
 At-Large Bid  
-- ITA: 38 (19.836)  
-- Slam: 42 (86.6)  
-- TRN: 39 (78.819)  
+- ITA: 38 (19.84)  
+- Slam: 42 (86.60)  
+- TRN: 39 (78.82)  
 - Massey: 44 (6.49)  
 - UTR: 36 (59.84)  
 - Coached Poll: 38  
 
 </td></tr></table>  
+
+ ### Predictions:  
+- Slam: ***AZST*** - #31 Arizona St. (71%) def. #42 Mississippi St. (29%)  
+- TRN: ***AZST*** - #33 Arizona St. (64%) def. #39 Mississippi St. (36%)  
+- Massey: ***AZST*** - #24 Arizona St. (75%) def. #44 Mississippi St. (25%)  
+- UTR: ***AZST*** - #23 Arizona St. (+1.75) def. #36 Mississippi St. (-1.75)  
+- ITA: ***AZST*** - #31 Arizona St. def. #38 Mississippi St.  
+- Coached Poll: ***AZST*** - #30 Arizona St. def. #38 Mississippi St.  
+- Seeding: ***AZST*** - #2 Arizona St. def. #3 Mississippi St.  
