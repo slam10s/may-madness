@@ -7,11 +7,11 @@ Friday, May 7 at 1:00 EDT
 ### #3 Oklahoma St.  
 
 At-Large Bid  
-- ITA: 20.712 (37)  
-- Slam: 87.452 (37)  
-- TRN: 79.029 (37)  
-- Massey: 7.02 (36)  
-- UTR: 61.98 (17)  
+- ITA: 37 (20.712)  
+- Slam: 37 (87.452)  
+- TRN: 37 (79.029)  
+- Massey: 36 (7.02)  
+- UTR: 17 (61.98)  
 - Coached Poll: 37  
 
 </td><td>  
@@ -19,11 +19,11 @@ At-Large Bid
 ### #2 Auburn  
 
 At-Large Bid  
-- ITA: 41.171 (20)  
-- Slam: 89.445 (24)  
-- TRN: 81.737 (23)  
-- Massey: 7.48 (25)  
-- UTR: 60.99 (30)  
+- ITA: 20 (41.171)  
+- Slam: 24 (89.445)  
+- TRN: 23 (81.737)  
+- Massey: 25 (7.48)  
+- UTR: 30 (60.99)  
 - USTA Poll: 25  
 - Coached Poll: 22  
 

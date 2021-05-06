@@ -7,11 +7,11 @@ Saturday, May 8 at 12:00 EDT
 ### #3 Wichita St.  
 
 At-Large Bid  
-- ITA: 25.336 (33)  
-- Slam: 92.047 (39)  
-- TRN: 90.31 (37)  
-- Massey: 7.28 (41)  
-- UTR: 75.93 (39)  
+- ITA: 33 (25.336)  
+- Slam: 39 (92.047)  
+- TRN: 37 (90.31)  
+- Massey: 41 (7.28)  
+- UTR: 39 (75.93)  
 - Coached Poll: 32  
 
 </td><td>  
@@ -19,11 +19,11 @@ At-Large Bid
 ### #2 Arizona St.  
 
 At-Large Bid  
-- ITA: 34.844 (20)  
-- Slam: 93.56 (25)  
-- TRN: 91.786 (25)  
-- Massey: 7.68 (24)  
-- UTR: 78.03 (23)  
+- ITA: 20 (34.844)  
+- Slam: 25 (93.56)  
+- TRN: 25 (91.786)  
+- Massey: 24 (7.68)  
+- UTR: 23 (78.03)  
 - USTA Poll: 19  
 - Coached Poll: 22  
 

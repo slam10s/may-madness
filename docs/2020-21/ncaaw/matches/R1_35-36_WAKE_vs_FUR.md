@@ -7,11 +7,11 @@ Friday, May 7 at 10:00 EDT
 ### #3 Furman  
 
 Automatic Qualifier  
-- ITA: 25.423 (34)  
-- Slam: 87.979 (33)  
-- TRN: 79.59 (35)  
-- Massey: 7.09 (35)  
-- UTR: 59.02 (41)  
+- ITA: 34 (25.423)  
+- Slam: 33 (87.979)  
+- TRN: 35 (79.59)  
+- Massey: 35 (7.09)  
+- UTR: 41 (59.02)  
 - USTA Poll: RV  
 - Coached Poll: 35  
 
@@ -20,11 +20,11 @@ Automatic Qualifier
 ### #2 Wake Forest  
 
 At-Large Bid  
-- ITA: 25.766 (33)  
-- Slam: 88.109 (32)  
-- TRN: 80.202 (31)  
-- Massey: 7.13 (34)  
-- UTR: 60.7 (31)  
+- ITA: 33 (25.766)  
+- Slam: 32 (88.109)  
+- TRN: 31 (80.202)  
+- Massey: 34 (7.13)  
+- UTR: 31 (60.7)  
 - Coached Poll: 31  
 
 </td></tr></table>  

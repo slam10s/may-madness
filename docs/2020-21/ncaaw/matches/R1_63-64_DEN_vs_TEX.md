@@ -7,11 +7,11 @@ Friday, May 7 at 4:00 EDT
 ### #1 Texas  
 
 Regional Host  
-- ITA: 79.185 (2)  
-- Slam: 98.435 (2)  
-- TRN: 97.973 (2)  
-- Massey: 9.38 (2)  
-- UTR: 65.59 (1)  
+- ITA: 2 (79.185)  
+- Slam: 2 (98.435)  
+- TRN: 2 (97.973)  
+- Massey: 2 (9.38)  
+- UTR: 1 (65.59)  
 - USTA Poll: 2  
 - Coached Poll: 2  
 
@@ -20,11 +20,11 @@ Regional Host
 ### #4 Denver  
 
 Automatic Qualifier  
-- ITA: 11.657 (45)  
-- Slam: 84.922 (45)  
-- TRN: 76.033 (45)  
-- Massey: 6.53 (43)  
-- UTR: 58.03 (45)  
+- ITA: 45 (11.657)  
+- Slam: 45 (84.922)  
+- TRN: 45 (76.033)  
+- Massey: 43 (6.53)  
+- UTR: 45 (58.03)  
 - Coached Poll: 49  
 
 </td></tr></table>  

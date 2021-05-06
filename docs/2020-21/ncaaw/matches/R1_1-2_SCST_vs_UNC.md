@@ -7,11 +7,11 @@ Friday, May 7 at 1:00 EDT
 ### #1 North Carolina  
 
 Regional Host  
-- ITA: 87.725 (1)  
-- Slam: 100 (1)  
-- TRN: 100 (1)  
-- Massey: 9.82 (1)  
-- UTR: 65.21 (2)  
+- ITA: 1 (87.725)  
+- Slam: 1 (100)  
+- TRN: 1 (100)  
+- Massey: 1 (9.82)  
+- UTR: 2 (65.21)  
 - USTA Poll: 1  
 - Coached Poll: 1  
 
@@ -20,9 +20,9 @@ Regional Host
 ### #4 South Carolina St.  
 
 Automatic Qualifier  
-- Slam: 70.676 (62)  
-- TRN: 58.72 (61)  
-- Massey: 3.52 (62)  
-- UTR: 44.35 (63)  
+- Slam: 62 (70.676)  
+- TRN: 61 (58.72)  
+- Massey: 62 (3.52)  
+- UTR: 63 (44.35)  
 
 </td></tr></table>  

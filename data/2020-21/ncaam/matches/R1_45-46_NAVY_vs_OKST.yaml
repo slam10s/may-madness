@@ -12,11 +12,11 @@ Home:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 35.308 (19)
-    SLM: 93.677 (24)
-    TRN: 91.927 (23)
-    MAS: 7.54 (29)
-    UTR: 78.43 (19)
+    ITA: 19 (35.308)
+    SLM: 24 (93.677)
+    TRN: 23 (91.927)
+    MAS: 29 (7.54)
+    UTR: 19 (78.43)
   Polls:
     USTA: RV
     Coach: 21
@@ -27,11 +27,11 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 8.275 (48)
-    SLM: 86.711 (54)
-    TRN: 87.45 (48)
-    MAS: 5.8 (56)
-    UTR: 70.91 (58)
+    ITA: 48 (8.275)
+    SLM: 54 (86.711)
+    TRN: 48 (87.45)
+    MAS: 56 (5.8)
+    UTR: 58 (70.91)
 Predictions:
   SLM: "OKST - #24 Oklahoma St. (98%) def. #54 Navy (2%)"
   TRN: "OKST - #23 Oklahoma St. (92%) def. #48 Navy (8%)"

@@ -7,11 +7,11 @@ Saturday, May 8 at 1:00 EDT
 ### #1 Georgia  
 
 Regional Host  
-- ITA: 54.806 (11)  
-- Slam: 96.078 (16)  
-- TRN: 94.909 (14)  
-- Massey: 8.18 (15)  
-- UTR: 78.43 (19)  
+- ITA: 11 (54.806)  
+- Slam: 16 (96.078)  
+- TRN: 14 (94.909)  
+- Massey: 15 (8.18)  
+- UTR: 19 (78.43)  
 - USTA Poll: 16  
 - Coached Poll: 11  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 ETSU  
 
 Automatic Qualifier  
-- ITA: 7.967 (49)  
-- Slam: 87.298 (52)  
-- TRN: 84.021 (53)  
-- Massey: 6.56 (51)  
-- UTR: 73.91 (50)  
+- ITA: 49 (7.967)  
+- Slam: 52 (87.298)  
+- TRN: 53 (84.021)  
+- Massey: 51 (6.56)  
+- UTR: 50 (73.91)  
 
 </td></tr></table>  

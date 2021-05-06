@@ -12,11 +12,11 @@ Home:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 39.922 (21)
-    SLM: 90.461 (18)
-    TRN: 83.804 (13)
-    MAS: 7.78 (20)
-    UTR: 60.43 (33)
+    ITA: 21 (39.922)
+    SLM: 18 (90.461)
+    TRN: 13 (83.804)
+    MAS: 20 (7.78)
+    UTR: 33 (60.43)
   Polls:
     USTA: 16
     Coach: 19
@@ -27,11 +27,11 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 3.748 (55)
-    SLM: 80.67 (49)
-    TRN: 71.877 (50)
-    MAS: 5.6 (50)
-    UTR: 24.06 (64)
+    ITA: 55 (3.748)
+    SLM: 49 (80.67)
+    TRN: 50 (71.877)
+    MAS: 50 (5.6)
+    UTR: 64 (24.06)
 Predictions:
   SLM: "NW - #18 Northwestern (99%) def. #49 Xavier (1%)"
   TRN: "NW - #13 Northwestern (99%) def. #50 Xavier (1%)"

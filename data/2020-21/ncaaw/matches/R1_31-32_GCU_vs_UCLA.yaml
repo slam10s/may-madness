@@ -13,11 +13,11 @@ Home:
     Overall: 4
     Region: 1
   Ratings:
-    ITA: 61.844 (4)
-    SLM: 92.977 (4)
-    TRN: 85.423 (7)
-    MAS: 8.85 (4)
-    UTR: 64.4 (5)
+    ITA: 4 (61.844)
+    SLM: 4 (92.977)
+    TRN: 7 (85.423)
+    MAS: 4 (8.85)
+    UTR: 5 (64.4)
   Polls:
     USTA: 4
     Coach: 5
@@ -28,11 +28,11 @@ Visitor:
   Seeding:
     Region: 4
   Ratings:
-    ITA: 1.988 (62)
-    SLM: 75.928 (59)
-    TRN: 64.129 (60)
-    MAS: 4.78 (57)
-    UTR: 51.77 (57)
+    ITA: 62 (1.988)
+    SLM: 59 (75.928)
+    TRN: 60 (64.129)
+    MAS: 57 (4.78)
+    UTR: 57 (51.77)
 Predictions:
   SLM: "UCLA - #4 UCLA (99%) def. #59 Grand Canyon (1%)"
   TRN: "UCLA - #7 UCLA (99%) def. #60 Grand Canyon (1%)"

@@ -7,11 +7,11 @@ Friday, May 7 at 12:00 EDT
 ### #2 Tennessee  
 
 At-Large Bid  
-- ITA: 46.781 (15)  
-- Slam: 90.431 (19)  
-- TRN: 82.732 (19)  
-- Massey: 7.8 (19)  
-- UTR: 61.61 (22)  
+- ITA: 15 (46.781)  
+- Slam: 19 (90.431)  
+- TRN: 19 (82.732)  
+- Massey: 19 (7.8)  
+- UTR: 22 (61.61)  
 - USTA Poll: 19  
 - Coached Poll: 16  
 
@@ -20,10 +20,10 @@ At-Large Bid
 ### #3 James Madison  
 
 Automatic Qualifier  
-- ITA: 8.952 (46)  
-- Slam: 84.231 (47)  
-- TRN: 75.572 (47)  
-- Massey: 6.46 (46)  
-- UTR: 56.89 (47)  
+- ITA: 46 (8.952)  
+- Slam: 47 (84.231)  
+- TRN: 47 (75.572)  
+- Massey: 46 (6.46)  
+- UTR: 47 (56.89)  
 
 </td></tr></table>  

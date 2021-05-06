@@ -7,11 +7,11 @@ Friday, May 7 at 2:00 EDT
 ### #2 Ohio St.  
 
 At-Large Bid  
-- ITA: 26.4 (31)  
-- Slam: 97.864 (7)  
-- TRN: 97.227 (8)  
-- Massey: 8.6 (9)  
-- UTR: 80.28 (3)  
+- ITA: 31 (26.4)  
+- Slam: 7 (97.864)  
+- TRN: 8 (97.227)  
+- Massey: 9 (8.6)  
+- UTR: 3 (80.28)  
 - USTA Poll: 7  
 - Coached Poll: 17  
 
@@ -20,11 +20,11 @@ At-Large Bid
 ### #3 VCU  
 
 Automatic Qualifier  
-- ITA: 23.443 (37)  
-- Slam: 92.402 (36)  
-- TRN: 90.232 (38)  
-- Massey: 7.38 (35)  
-- UTR: 77.07 (29)  
+- ITA: 37 (23.443)  
+- Slam: 36 (92.402)  
+- TRN: 38 (90.232)  
+- Massey: 35 (7.38)  
+- UTR: 29 (77.07)  
 - Coached Poll: 38  
 
 </td></tr></table>  

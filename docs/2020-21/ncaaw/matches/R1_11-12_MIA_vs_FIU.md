@@ -7,11 +7,11 @@ Friday, May 7 at 12:00 EDT
 ### #3 FIU  
 
 At-Large Bid  
-- ITA: 18.116 (41)  
-- Slam: 88.346 (30)  
-- TRN: 81.345 (29)  
-- Massey: 6.98 (37)  
-- UTR: 59 (42)  
+- ITA: 41 (18.116)  
+- Slam: 30 (88.346)  
+- TRN: 29 (81.345)  
+- Massey: 37 (6.98)  
+- UTR: 42 (59)  
 - USTA Poll: RV  
 - Coached Poll: 50  
 
@@ -20,11 +20,11 @@ At-Large Bid
 ### #2 Miami (FL)  
 
 At-Large Bid  
-- ITA: 38.718 (24)  
-- Slam: 90.209 (22)  
-- TRN: 82.31 (21)  
-- Massey: 7.84 (17)  
-- UTR: 61.89 (19)  
+- ITA: 24 (38.718)  
+- Slam: 22 (90.209)  
+- TRN: 21 (82.31)  
+- Massey: 17 (7.84)  
+- UTR: 19 (61.89)  
 - USTA Poll: 21  
 - Coached Poll: 21  
 

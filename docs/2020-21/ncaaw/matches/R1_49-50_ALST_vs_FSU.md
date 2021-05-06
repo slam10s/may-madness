@@ -7,11 +7,11 @@ Friday, May 7 at 4:00 EDT
 ### #1 Florida St.  
 
 Regional Host  
-- ITA: 55.151 (7)  
-- Slam: 91.814 (10)  
-- TRN: 84.487 (9)  
-- Massey: 8.17 (9)  
-- UTR: 62.71 (10)  
+- ITA: 7 (55.151)  
+- Slam: 10 (91.814)  
+- TRN: 9 (84.487)  
+- Massey: 9 (8.17)  
+- UTR: 10 (62.71)  
 - USTA Poll: 12  
 - Coached Poll: 7  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Alabama St.  
 
 Automatic Qualifier  
-- ITA: 2.286 (61)  
-- Slam: 69.749 (63)  
-- TRN: 58.323 (62)  
-- Massey: 3.41 (63)  
-- UTR: 46.66 (61)  
+- ITA: 61 (2.286)  
+- Slam: 63 (69.749)  
+- TRN: 62 (58.323)  
+- Massey: 63 (3.41)  
+- UTR: 61 (46.66)  
 
 </td></tr></table>  

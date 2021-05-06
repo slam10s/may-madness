@@ -7,22 +7,22 @@ Friday, May 7 at 11:00 EDT
 ### #3 Ball St.  
 
 Automatic Qualifier  
-- ITA: 4.347 (51)  
-- Slam: 79.303 (52)  
-- TRN: 70.334 (52)  
-- Massey: 5.4 (53)  
-- UTR: 54.58 (51)  
+- ITA: 51 (4.347)  
+- Slam: 52 (79.303)  
+- TRN: 52 (70.334)  
+- Massey: 53 (5.4)  
+- UTR: 51 (54.58)  
 
 </td><td>  
 
 ### #2 Vanderbilt  
 
 At-Large Bid  
-- ITA: 35.193 (27)  
-- Slam: 88.871 (29)  
-- TRN: 81.13 (30)  
-- Massey: 7.33 (31)  
-- UTR: 61.39 (28)  
+- ITA: 27 (35.193)  
+- Slam: 29 (88.871)  
+- TRN: 30 (81.13)  
+- Massey: 31 (7.33)  
+- UTR: 28 (61.39)  
 - Coached Poll: 28  
 
 </td></tr></table>  

@@ -7,11 +7,11 @@ Friday, May 7 at 1:00 EDT
 ### #1 Texas A&M  
 
 Regional Host  
-- ITA: 50.147 (10)  
-- Slam: 90.859 (15)  
-- TRN: 83.428 (14)  
-- Massey: 7.77 (21)  
-- UTR: 61.7 (21)  
+- ITA: 10 (50.147)  
+- Slam: 15 (90.859)  
+- TRN: 14 (83.428)  
+- Massey: 21 (7.77)  
+- UTR: 21 (61.7)  
 - USTA Poll: 17  
 - Coached Poll: 10  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Drake  
 
 Automatic Qualifier  
-- ITA: 1.976 (63)  
-- Slam: 75.978 (58)  
-- TRN: 65.504 (58)  
-- Massey: 4.59 (59)  
-- UTR: 50.87 (59)  
+- ITA: 63 (1.976)  
+- Slam: 58 (75.978)  
+- TRN: 58 (65.504)  
+- Massey: 59 (4.59)  
+- UTR: 59 (50.87)  
 
 </td></tr></table>  

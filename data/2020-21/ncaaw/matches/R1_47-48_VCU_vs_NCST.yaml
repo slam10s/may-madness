@@ -13,11 +13,11 @@ Home:
     Overall: 6
     Region: 1
   Ratings:
-    ITA: 55.66 (6)
-    SLM: 91.646 (11)
-    TRN: 84.273 (10)
-    MAS: 8.36 (6)
-    UTR: 62.99 (9)
+    ITA: 6 (55.66)
+    SLM: 11 (91.646)
+    TRN: 10 (84.273)
+    MAS: 6 (8.36)
+    UTR: 9 (62.99)
   Polls:
     USTA: 11
     Coach: 6
@@ -28,11 +28,11 @@ Visitor:
   Seeding:
     Region: 4
   Ratings:
-    ITA: 6.76 (49)
-    SLM: 82.185 (48)
-    TRN: 73.529 (48)
-    MAS: 6.03 (48)
-    UTR: 55.75 (48)
+    ITA: 49 (6.76)
+    SLM: 48 (82.185)
+    TRN: 48 (73.529)
+    MAS: 48 (6.03)
+    UTR: 48 (55.75)
 Predictions:
   SLM: "NCST - #11 NC State (99%) def. #48 VCU (1%)"
   TRN: "NCST - #10 NC State (99%) def. #48 VCU (1%)"

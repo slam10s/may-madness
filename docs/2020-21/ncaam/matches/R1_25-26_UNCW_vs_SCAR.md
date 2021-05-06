@@ -7,11 +7,11 @@ Friday, May 7 at 1:00 EDT
 ### #1 South Carolina  
 
 Regional Host  
-- ITA: 50.948 (13)  
-- Slam: 96.202 (15)  
-- TRN: 94.494 (15)  
-- Massey: 8.13 (16)  
-- UTR: 78.69 (17)  
+- ITA: 13 (50.948)  
+- Slam: 15 (96.202)  
+- TRN: 15 (94.494)  
+- Massey: 16 (8.13)  
+- UTR: 17 (78.69)  
 - USTA Poll: 15  
 - Coached Poll: 13  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 UNCW  
 
 Automatic Qualifier  
-- ITA: 7.929 (51)  
-- Slam: 88.868 (48)  
-- TRN: 86.189 (49)  
-- Massey: 6.7 (49)  
-- UTR: 74 (48)  
+- ITA: 51 (7.929)  
+- Slam: 48 (88.868)  
+- TRN: 49 (86.189)  
+- Massey: 49 (6.7)  
+- UTR: 48 (74)  
 
 </td></tr></table>  

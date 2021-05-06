@@ -7,22 +7,22 @@ Friday, May 7 at 1:00 EDT
 ### #3 UC Santa Barbara  
 
 Automatic Qualifier  
-- ITA: 14.681 (44)  
-- Slam: 87.384 (39)  
-- TRN: 78.807 (40)  
-- Massey: 6.75 (40)  
-- UTR: 57.03 (46)  
+- ITA: 44 (14.681)  
+- Slam: 39 (87.384)  
+- TRN: 40 (78.807)  
+- Massey: 40 (6.75)  
+- UTR: 46 (57.03)  
 
 </td><td>  
 
 ### #2 Stanford  
 
 At-Large Bid  
-- ITA: 35.106 (28)  
-- Slam: 90.017 (23)  
-- TRN: 81.662 (24)  
-- Massey: 7.96 (15)  
-- UTR: 63.45 (7)  
+- ITA: 28 (35.106)  
+- Slam: 23 (90.017)  
+- TRN: 24 (81.662)  
+- Massey: 15 (7.96)  
+- UTR: 7 (63.45)  
 - USTA Poll: 18  
 - Coached Poll: 26  
 

@@ -7,11 +7,11 @@ Saturday, May 8 at 2:00 EDT
 ### #1 UCF  
 
 Regional Host  
-- ITA: 54.953 (10)  
-- Slam: 96.589 (12)  
-- TRN: 95.633 (13)  
-- Massey: 8.63 (7)  
-- UTR: 79.08 (12)  
+- ITA: 10 (54.953)  
+- Slam: 12 (96.589)  
+- TRN: 13 (95.633)  
+- Massey: 7 (8.63)  
+- UTR: 12 (79.08)  
 - USTA Poll: T10  
 - Coached Poll: 9  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Monmouth  
 
 Automatic Qualifier  
-- ITA: 4.412 (58)  
-- Slam: 82.179 (61)  
-- TRN: 79.787 (57)  
-- Massey: 5.3 (60)  
-- UTR: 69.61 (62)  
+- ITA: 58 (4.412)  
+- Slam: 61 (82.179)  
+- TRN: 57 (79.787)  
+- Massey: 60 (5.3)  
+- UTR: 62 (69.61)  
 
 </td></tr></table>  

@@ -13,11 +13,11 @@ Home:
     Overall: 11
     Region: 1
   Ratings:
-    ITA: 49.182 (11)
-    SLM: 90.473 (16)
-    TRN: 82.705 (20)
-    MAS: 7.77 (21)
-    UTR: 62.7 (11)
+    ITA: 11 (49.182)
+    SLM: 16 (90.473)
+    TRN: 20 (82.705)
+    MAS: 21 (7.77)
+    UTR: 11 (62.7)
   Polls:
     USTA: 20
     Coach: 15
@@ -28,11 +28,11 @@ Visitor:
   Seeding:
     Region: 4
   Ratings:
-    ITA: 2.407 (60)
-    SLM: 65.568 (64)
-    TRN: 50.233 (64)
-    MAS: 2.92 (64)
-    UTR: 46.43 (62)
+    ITA: 60 (2.407)
+    SLM: 64 (65.568)
+    TRN: 64 (50.233)
+    MAS: 64 (2.92)
+    UTR: 62 (46.43)
 Predictions:
   SLM: "FLA - #16 Florida (99%) def. #64 Siena (1%)"
   TRN: "FLA - #20 Florida (99%) def. #64 Siena (1%)"

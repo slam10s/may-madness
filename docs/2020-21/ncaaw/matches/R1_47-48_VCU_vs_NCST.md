@@ -7,11 +7,11 @@ Friday, May 7 at 3:00 EDT
 ### #1 NC State  
 
 Regional Host  
-- ITA: 55.66 (6)  
-- Slam: 91.646 (11)  
-- TRN: 84.273 (10)  
-- Massey: 8.36 (6)  
-- UTR: 62.99 (9)  
+- ITA: 6 (55.66)  
+- Slam: 11 (91.646)  
+- TRN: 10 (84.273)  
+- Massey: 6 (8.36)  
+- UTR: 9 (62.99)  
 - USTA Poll: 11  
 - Coached Poll: 6  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 VCU  
 
 Automatic Qualifier  
-- ITA: 6.76 (49)  
-- Slam: 82.185 (48)  
-- TRN: 73.529 (48)  
-- Massey: 6.03 (48)  
-- UTR: 55.75 (48)  
+- ITA: 49 (6.76)  
+- Slam: 48 (82.185)  
+- TRN: 48 (73.529)  
+- Massey: 48 (6.03)  
+- UTR: 48 (55.75)  
 
 </td></tr></table>  

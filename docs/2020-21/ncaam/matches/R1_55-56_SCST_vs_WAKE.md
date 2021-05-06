@@ -7,11 +7,11 @@ Friday, May 7 at 5:00 EDT
 ### #1 Wake Forest  
 
 Regional Host  
-- ITA: 56.819 (9)  
-- Slam: 97.17 (10)  
-- TRN: 95.993 (10)  
-- Massey: 8.43 (13)  
-- UTR: 79.79 (7)  
+- ITA: 9 (56.819)  
+- Slam: 10 (97.17)  
+- TRN: 10 (95.993)  
+- Massey: 13 (8.43)  
+- UTR: 7 (79.79)  
 - USTA Poll: 12  
 - Coached Poll: 10  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 South Carolina St.  
 
 Automatic Qualifier  
-- ITA: 0.724 (65)  
-- Slam: 81.189 (63)  
-- TRN: 76.543 (63)  
-- Massey: 4.87 (63)  
-- UTR: 66.99 (63)  
+- ITA: 65 (0.724)  
+- Slam: 63 (81.189)  
+- TRN: 63 (76.543)  
+- Massey: 63 (4.87)  
+- UTR: 63 (66.99)  
 
 </td></tr></table>  

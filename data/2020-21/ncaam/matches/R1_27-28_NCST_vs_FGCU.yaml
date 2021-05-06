@@ -12,11 +12,11 @@ Home:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 8.375 (47)
-    SLM: 87.658 (49)
-    TRN: 85.244 (50)
-    MAS: 6.42 (53)
-    UTR: 73.58 (52)
+    ITA: 47 (8.375)
+    SLM: 49 (87.658)
+    TRN: 50 (85.244)
+    MAS: 53 (6.42)
+    UTR: 52 (73.58)
 Visitor:
   Team: NC State
   Entry: At-Large Bid
@@ -24,11 +24,11 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 32.39 (23)
-    SLM: 94.442 (19)
-    TRN: 92.3 (22)
-    MAS: 7.7 (23)
-    UTR: 78.11 (22)
+    ITA: 23 (32.39)
+    SLM: 19 (94.442)
+    TRN: 22 (92.3)
+    MAS: 23 (7.7)
+    UTR: 22 (78.11)
   Polls:
     USTA: 25
     Coach: 28

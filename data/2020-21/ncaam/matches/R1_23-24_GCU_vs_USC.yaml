@@ -13,11 +13,11 @@ Home:
     Overall: 12
     Region: 1
   Ratings:
-    ITA: 52.235 (12)
-    SLM: 96.38 (14)
-    TRN: 94.471 (16)
-    MAS: 8.62 (8)
-    UTR: 80.29 (2)
+    ITA: 12 (52.235)
+    SLM: 14 (96.38)
+    TRN: 16 (94.471)
+    MAS: 8 (8.62)
+    UTR: 2 (80.29)
   Polls:
     USTA: 13
     Coach: 12
@@ -28,11 +28,11 @@ Visitor:
   Seeding:
     Region: 4
   Ratings:
-    ITA: 1.382 (64)
-    SLM: 81.822 (62)
-    TRN: 76.83 (62)
-    MAS: 5.21 (62)
-    UTR: 71.32 (56)
+    ITA: 64 (1.382)
+    SLM: 62 (81.822)
+    TRN: 62 (76.83)
+    MAS: 62 (5.21)
+    UTR: 56 (71.32)
 Predictions:
   SLM: "USC - #14 Southern California (99%) def. #62 Grand Canyon (1%)"
   TRN: "USC - #16 Southern California (99%) def. #62 Grand Canyon (1%)"

@@ -13,11 +13,11 @@ Home:
     Overall: 2
     Region: 1
   Ratings:
-    ITA: 83.326 (1)
-    SLM: 99.051 (5)
-    TRN: 98.667 (6)
-    MAS: 8.82 (5)
-    UTR: 79.74 (9)
+    ITA: 1 (83.326)
+    SLM: 5 (99.051)
+    TRN: 6 (98.667)
+    MAS: 5 (8.82)
+    UTR: 9 (79.74)
   Polls:
     USTA: 3
     Coach: 1
@@ -28,11 +28,11 @@ Visitor:
   Seeding:
     Region: 4
   Ratings:
-    ITA: 2.974 (60)
-    SLM: 82.181 (60)
-    TRN: 76.91 (61)
-    MAS: 5.69 (58)
-    UTR: 71.52 (54)
+    ITA: 60 (2.974)
+    SLM: 60 (82.181)
+    TRN: 61 (76.91)
+    MAS: 58 (5.69)
+    UTR: 54 (71.52)
 Predictions:
   SLM: "BAY - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)"
   TRN: "BAY - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)"

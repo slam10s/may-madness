@@ -7,11 +7,11 @@ Friday, May 7 at 1:00 EDT
 ### #1 UCLA  
 
 Regional Host  
-- ITA: 61.844 (4)  
-- Slam: 92.977 (4)  
-- TRN: 85.423 (7)  
-- Massey: 8.85 (4)  
-- UTR: 64.4 (5)  
+- ITA: 4 (61.844)  
+- Slam: 4 (92.977)  
+- TRN: 7 (85.423)  
+- Massey: 4 (8.85)  
+- UTR: 5 (64.4)  
 - USTA Poll: 4  
 - Coached Poll: 5  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Grand Canyon  
 
 Automatic Qualifier  
-- ITA: 1.988 (62)  
-- Slam: 75.928 (59)  
-- TRN: 64.129 (60)  
-- Massey: 4.78 (57)  
-- UTR: 51.77 (57)  
+- ITA: 62 (1.988)  
+- Slam: 59 (75.928)  
+- TRN: 60 (64.129)  
+- Massey: 57 (4.78)  
+- UTR: 57 (51.77)  
 
 </td></tr></table>  

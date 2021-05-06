@@ -7,11 +7,11 @@ Saturday, May 8 at 10:00 EDT
 ### #3 Memphis  
 
 At-Large Bid  
-- ITA: 22.187 (38)  
-- Slam: 91.895 (41)  
-- TRN: 89.858 (40)  
-- Massey: 7.05 (43)  
-- UTR: 75.4 (43)  
+- ITA: 38 (22.187)  
+- Slam: 41 (91.895)  
+- TRN: 40 (89.858)  
+- Massey: 43 (7.05)  
+- UTR: 43 (75.4)  
 - Coached Poll: 35  
 
 </td><td>  
@@ -19,11 +19,11 @@ At-Large Bid
 ### #2 Georgia Tech  
 
 At-Large Bid  
-- ITA: 27.754 (30)  
-- Slam: 93.356 (27)  
-- TRN: 90.893 (33)  
-- Massey: 7.67 (25)  
-- UTR: 76.54 (36)  
+- ITA: 30 (27.754)  
+- Slam: 27 (93.356)  
+- TRN: 33 (90.893)  
+- Massey: 25 (7.67)  
+- UTR: 36 (76.54)  
 - USTA Poll: RV  
 - Coached Poll: 31  
 

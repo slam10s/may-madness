@@ -13,11 +13,11 @@ Home:
     Overall: 1
     Region: 1
   Ratings:
-    ITA: 81.085 (2)
-    SLM: 99.767 (2)
-    TRN: 99.101 (3)
-    MAS: 9.4 (1)
-    UTR: 80.76 (1)
+    ITA: 2 (81.085)
+    SLM: 2 (99.767)
+    TRN: 3 (99.101)
+    MAS: 1 (9.4)
+    UTR: 1 (80.76)
   Polls:
     USTA: 2
     Coach: 2
@@ -28,11 +28,11 @@ Visitor:
   Seeding:
     Region: 4
   Ratings:
-    ITA: 6.833 (53)
-    SLM: 87.642 (50)
-    TRN: 84.257 (52)
-    MAS: 6.79 (46)
-    UTR: 73.92 (49)
+    ITA: 53 (6.833)
+    SLM: 50 (87.642)
+    TRN: 52 (84.257)
+    MAS: 46 (6.79)
+    UTR: 49 (73.92)
 Predictions:
   SLM: "FLA - #2 Florida (99%) def. #50 South Alabama (1%)"
   TRN: "FLA - #3 Florida (99%) def. #52 South Alabama (1%)"

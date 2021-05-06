@@ -7,11 +7,11 @@ Friday, May 7 at 2:00 EDT
 ### #1 Ohio St.  
 
 Regional Host  
-- ITA: 43.022 (18)  
-- Slam: 92.947 (5)  
-- TRN: 85.866 (5)  
-- Massey: 8.22 (8)  
-- UTR: 61.53 (25)  
+- ITA: 18 (43.022)  
+- Slam: 5 (92.947)  
+- TRN: 5 (85.866)  
+- Massey: 8 (8.22)  
+- UTR: 25 (61.53)  
 - USTA Poll: 6  
 - Coached Poll: 13  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 UIC  
 
 Automatic Qualifier  
-- ITA: 2.423 (59)  
-- Slam: 76.421 (57)  
-- TRN: 65.139 (59)  
-- Massey: 4.62 (58)  
-- UTR: 51.39 (58)  
+- ITA: 59 (2.423)  
+- Slam: 57 (76.421)  
+- TRN: 59 (65.139)  
+- Massey: 58 (4.62)  
+- UTR: 58 (51.39)  
 
 </td></tr></table>  

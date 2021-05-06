@@ -7,11 +7,11 @@ Saturday, May 8 at 12:00 EDT
 ### #2 Alabama  
 
 At-Large Bid  
-- ITA: 30.96 (26)  
-- Slam: 93.057 (28)  
-- TRN: 91.267 (27)  
-- Massey: 7.31 (38)  
-- UTR: 77.06 (30)  
+- ITA: 26 (30.96)  
+- Slam: 28 (93.057)  
+- TRN: 27 (91.267)  
+- Massey: 38 (7.31)  
+- UTR: 30 (77.06)  
 - Coached Poll: 25  
 
 </td><td>  
@@ -19,11 +19,11 @@ At-Large Bid
 ### #3 Oregon  
 
 At-Large Bid  
-- ITA: 23.545 (36)  
-- Slam: 91.521 (44)  
-- TRN: 89.696 (41)  
-- Massey: 7.51 (30)  
-- UTR: 76.78 (33)  
+- ITA: 36 (23.545)  
+- Slam: 44 (91.521)  
+- TRN: 41 (89.696)  
+- Massey: 30 (7.51)  
+- UTR: 33 (76.78)  
 - USTA Poll: NR  
 - Coached Poll: 41  
 

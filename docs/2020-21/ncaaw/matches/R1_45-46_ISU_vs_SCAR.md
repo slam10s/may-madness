@@ -7,11 +7,11 @@ Friday, May 7 at 12:00 EDT
 ### #2 South Carolina  
 
 At-Large Bid  
-- ITA: 39.212 (22)  
-- Slam: 89.339 (27)  
-- TRN: 81.457 (28)  
-- Massey: 7.41 (27)  
-- UTR: 61.31 (29)  
+- ITA: 22 (39.212)  
+- Slam: 27 (89.339)  
+- TRN: 28 (81.457)  
+- Massey: 27 (7.41)  
+- UTR: 29 (61.31)  
 - USTA Poll: RV  
 - Coached Poll: 23  
 
@@ -20,11 +20,11 @@ At-Large Bid
 ### #3 Iowa St.  
 
 At-Large Bid  
-- ITA: 22.348 (36)  
-- Slam: 86.706 (41)  
-- TRN: 78.565 (42)  
-- Massey: 6.76 (39)  
-- UTR: 59.07 (39)  
+- ITA: 36 (22.348)  
+- Slam: 41 (86.706)  
+- TRN: 42 (78.565)  
+- Massey: 39 (6.76)  
+- UTR: 39 (59.07)  
 - Coached Poll: 36  
 
 </td></tr></table>  

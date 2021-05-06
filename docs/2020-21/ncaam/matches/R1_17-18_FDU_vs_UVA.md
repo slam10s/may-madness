@@ -7,11 +7,11 @@ Saturday, May 8 at 1:00 EDT
 ### #1 Virginia  
 
 Regional Host  
-- ITA: 74.365 (4)  
-- Slam: 100 (1)  
-- TRN: 100 (1)  
-- Massey: 9.13 (3)  
-- UTR: 80.03 (6)  
+- ITA: 4 (74.365)  
+- Slam: 1 (100)  
+- TRN: 1 (100)  
+- Massey: 3 (9.13)  
+- UTR: 6 (80.03)  
 - USTA Poll: 1  
 - Coached Poll: 5  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Fairleigh Dickinson  
 
 Automatic Qualifier  
-- ITA: 1.953 (62)  
-- Slam: 72.332 (65)  
-- TRN: 65.174 (65)  
-- Massey: 3.98 (64)  
-- UTR: 65.74 (64)  
+- ITA: 62 (1.953)  
+- Slam: 65 (72.332)  
+- TRN: 65 (65.174)  
+- Massey: 64 (3.98)  
+- UTR: 64 (65.74)  
 
 </td></tr></table>  

@@ -13,11 +13,11 @@ Home:
     Overall: 1
     Region: 1
   Ratings:
-    ITA: 87.725 (1)
-    SLM: 100 (1)
-    TRN: 100 (1)
-    MAS: 9.82 (1)
-    UTR: 65.21 (2)
+    ITA: 1 (87.725)
+    SLM: 1 (100)
+    TRN: 1 (100)
+    MAS: 1 (9.82)
+    UTR: 2 (65.21)
   Polls:
     USTA: 1
     Coach: 1
@@ -28,10 +28,10 @@ Visitor:
   Seeding:
     Region: 4
   Ratings:
-    SLM: 70.676 (62)
-    TRN: 58.72 (61)
-    MAS: 3.52 (62)
-    UTR: 44.35 (63)
+    SLM: 62 (70.676)
+    TRN: 61 (58.72)
+    MAS: 62 (3.52)
+    UTR: 63 (44.35)
 Predictions:
   SLM: "UNC - #1 North Carolina (99%) def. #62 South Carolina St. (1%)"
   TRN: "UNC - #1 North Carolina (99%) def. #61 South Carolina St. (1%)"

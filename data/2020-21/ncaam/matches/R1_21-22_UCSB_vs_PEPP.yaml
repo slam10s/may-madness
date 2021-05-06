@@ -12,11 +12,11 @@ Home:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 29.095 (28)
-    SLM: 92.694 (34)
-    TRN: 91.072 (30)
-    MAS: 7.73 (22)
-    UTR: 77.59 (26)
+    ITA: 28 (29.095)
+    SLM: 34 (92.694)
+    TRN: 30 (91.072)
+    MAS: 22 (7.73)
+    UTR: 26 (77.59)
   Polls:
     USTA: 24
     Coach: 30
@@ -27,11 +27,11 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 6.336 (54)
-    SLM: 87.562 (51)
-    TRN: 84.297 (51)
-    MAS: 6.48 (52)
-    UTR: 74.2 (47)
+    ITA: 54 (6.336)
+    SLM: 51 (87.562)
+    TRN: 51 (84.297)
+    MAS: 52 (6.48)
+    UTR: 47 (74.2)
 Predictions:
   SLM: "PEPP - #34 Pepperdine (95%) def. #51 UC Santa Barbara (5%)"
   TRN: "PEPP - #30 Pepperdine (98%) def. #51 UC Santa Barbara (2%)"

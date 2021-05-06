@@ -7,11 +7,11 @@ Saturday, May 8 at 10:00 EDT
 ### #3 Virginia Tech  
 
 At-Large Bid  
-- ITA: 28.315 (29)  
-- Slam: 93.023 (30)  
-- TRN: 91.089 (29)  
-- Massey: 7.47 (33)  
-- UTR: 76.77 (34)  
+- ITA: 29 (28.315)  
+- Slam: 30 (93.023)  
+- TRN: 29 (91.089)  
+- Massey: 33 (7.47)  
+- UTR: 34 (76.77)  
 - Coached Poll: 34  
 
 </td><td>  
@@ -19,11 +19,11 @@ At-Large Bid
 ### #2 Texas Tech  
 
 At-Large Bid  
-- ITA: 31.336 (25)  
-- Slam: 92.599 (35)  
-- TRN: 90.979 (31)  
-- Massey: 7.55 (28)  
-- UTR: 76.66 (35)  
+- ITA: 25 (31.336)  
+- Slam: 35 (92.599)  
+- TRN: 31 (90.979)  
+- Massey: 28 (7.55)  
+- UTR: 35 (76.66)  
 - USTA Poll: RV  
 - Coached Poll: 27  
 

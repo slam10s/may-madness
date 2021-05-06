@@ -13,11 +13,11 @@ Home:
     Overall: 5
     Region: 1
   Ratings:
-    ITA: 74.365 (4)
-    SLM: 100 (1)
-    TRN: 100 (1)
-    MAS: 9.13 (3)
-    UTR: 80.03 (6)
+    ITA: 4 (74.365)
+    SLM: 1 (100)
+    TRN: 1 (100)
+    MAS: 3 (9.13)
+    UTR: 6 (80.03)
   Polls:
     USTA: 1
     Coach: 5
@@ -28,11 +28,11 @@ Visitor:
   Seeding:
     Region: 4
   Ratings:
-    ITA: 1.953 (62)
-    SLM: 72.332 (65)
-    TRN: 65.174 (65)
-    MAS: 3.98 (64)
-    UTR: 65.74 (64)
+    ITA: 62 (1.953)
+    SLM: 65 (72.332)
+    TRN: 65 (65.174)
+    MAS: 64 (3.98)
+    UTR: 64 (65.74)
 Predictions:
   SLM: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
   TRN: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"

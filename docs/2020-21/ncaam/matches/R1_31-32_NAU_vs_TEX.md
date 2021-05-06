@@ -7,11 +7,11 @@ Saturday, May 8 at 1:00 EDT
 ### #1 Texas  
 
 Regional Host  
-- ITA: 74.244 (5)  
-- Slam: 97.594 (8)  
-- TRN: 97.625 (7)  
-- Massey: 8.54 (11)  
-- UTR: 79.01 (14)  
+- ITA: 5 (74.244)  
+- Slam: 8 (97.594)  
+- TRN: 7 (97.625)  
+- Massey: 11 (8.54)  
+- UTR: 14 (79.01)  
 - USTA Poll: 6  
 - Coached Poll: 4  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Northern Ariz.  
 
 Automatic Qualifier  
-- ITA: 2.133 (61)  
-- Slam: 82.402 (58)  
-- TRN: 77.787 (60)  
-- Massey: 5.53 (59)  
-- UTR: 70.85 (59)  
+- ITA: 61 (2.133)  
+- Slam: 58 (82.402)  
+- TRN: 60 (77.787)  
+- Massey: 59 (5.53)  
+- UTR: 59 (70.85)  
 
 </td></tr></table>  

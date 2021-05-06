@@ -7,11 +7,11 @@ Friday, May 7 at 2:00 EDT
 ### #1 LSU  
 
 Regional Host  
-- ITA: 48.734 (12)  
-- Slam: 90.279 (21)  
-- TRN: 82.923 (18)  
-- Massey: 7.77 (21)  
-- UTR: 61.48 (26)  
+- ITA: 12 (48.734)  
+- Slam: 21 (90.279)  
+- TRN: 18 (82.923)  
+- Massey: 21 (7.77)  
+- UTR: 26 (61.48)  
 - USTA Poll: 23  
 - Coached Poll: 14  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Boston U.  
 
 Automatic Qualifier  
-- ITA: 5.156 (50)  
-- Slam: 78.647 (54)  
-- TRN: 71.288 (51)  
-- Massey: 5.32 (54)  
-- UTR: 55.5 (49)  
+- ITA: 50 (5.156)  
+- Slam: 54 (78.647)  
+- TRN: 51 (71.288)  
+- Massey: 54 (5.32)  
+- UTR: 49 (55.5)  
 
 </td></tr></table>  

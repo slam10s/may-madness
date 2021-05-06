@@ -7,11 +7,11 @@ Saturday, May 8 at 1:00 EDT
 ### #1 North Carolina  
 
 Regional Host  
-- ITA: 72.023 (6)  
-- Slam: 99.372 (3)  
-- TRN: 99.367 (2)  
-- Massey: 8.94 (4)  
-- UTR: 79.64 (11)  
+- ITA: 6 (72.023)  
+- Slam: 3 (99.372)  
+- TRN: 2 (99.367)  
+- Massey: 4 (8.94)  
+- UTR: 11 (79.64)  
 - USTA Poll: 5  
 - Coached Poll: 6  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Presbyterian  
 
 Automatic Qualifier  
-- ITA: 3.972 (59)  
-- Slam: 82.258 (59)  
-- TRN: 77.901 (59)  
-- Massey: 5.23 (61)  
-- UTR: 70.28 (61)  
+- ITA: 59 (3.972)  
+- Slam: 59 (82.258)  
+- TRN: 59 (77.901)  
+- Massey: 61 (5.23)  
+- UTR: 61 (70.28)  
 
 </td></tr></table>  

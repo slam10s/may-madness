@@ -7,11 +7,11 @@ Friday, May 7 at 4:00 EDT
 ### #1 Southern California  
 
 Regional Host  
-- ITA: 52.235 (12)  
-- Slam: 96.38 (14)  
-- TRN: 94.471 (16)  
-- Massey: 8.62 (8)  
-- UTR: 80.29 (2)  
+- ITA: 12 (52.235)  
+- Slam: 14 (96.38)  
+- TRN: 16 (94.471)  
+- Massey: 8 (8.62)  
+- UTR: 2 (80.29)  
 - USTA Poll: 13  
 - Coached Poll: 12  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Grand Canyon  
 
 Automatic Qualifier  
-- ITA: 1.382 (64)  
-- Slam: 81.822 (62)  
-- TRN: 76.83 (62)  
-- Massey: 5.21 (62)  
-- UTR: 71.32 (56)  
+- ITA: 64 (1.382)  
+- Slam: 62 (81.822)  
+- TRN: 62 (76.83)  
+- Massey: 62 (5.21)  
+- UTR: 56 (71.32)  
 
 </td></tr></table>  

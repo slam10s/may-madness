@@ -7,22 +7,22 @@ Friday, May 7 at 11:00 EDT
 ### #3 North Florida  
 
 Automatic Qualifier  
-- ITA: 8 (48)  
-- Slam: 84.689 (46)  
-- TRN: 75.835 (46)  
-- Massey: 6.44 (47)  
-- UTR: 58.45 (44)  
+- ITA: 48 (8)  
+- Slam: 46 (84.689)  
+- TRN: 46 (75.835)  
+- Massey: 47 (6.44)  
+- UTR: 44 (58.45)  
 
 </td><td>  
 
 ### #2 Ole Miss  
 
 At-Large Bid  
-- ITA: 38.655 (25)  
-- Slam: 89.341 (26)  
-- TRN: 81.495 (26)  
-- Massey: 7.37 (29)  
-- UTR: 61.75 (20)  
+- ITA: 25 (38.655)  
+- Slam: 26 (89.341)  
+- TRN: 26 (81.495)  
+- Massey: 29 (7.37)  
+- UTR: 20 (61.75)  
 - USTA Poll: NR  
 - Coached Poll: 25  
 

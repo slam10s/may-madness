@@ -12,11 +12,11 @@ Home:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 8 (48)
-    SLM: 84.689 (46)
-    TRN: 75.835 (46)
-    MAS: 6.44 (47)
-    UTR: 58.45 (44)
+    ITA: 48 (8)
+    SLM: 46 (84.689)
+    TRN: 46 (75.835)
+    MAS: 47 (6.44)
+    UTR: 44 (58.45)
 Visitor:
   Team: Ole Miss
   Entry: At-Large Bid
@@ -24,11 +24,11 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 38.655 (25)
-    SLM: 89.341 (26)
-    TRN: 81.495 (26)
-    MAS: 7.37 (29)
-    UTR: 61.75 (20)
+    ITA: 25 (38.655)
+    SLM: 26 (89.341)
+    TRN: 26 (81.495)
+    MAS: 29 (7.37)
+    UTR: 20 (61.75)
   Polls:
     USTA: NR
     Coach: 25

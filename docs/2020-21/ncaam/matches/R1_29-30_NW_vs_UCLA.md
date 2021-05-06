@@ -7,11 +7,11 @@ Saturday, May 8 at 10:00 EDT
 ### #2 UCLA  
 
 At-Large Bid  
-- ITA: 32.146 (24)  
-- Slam: 93.839 (23)  
-- TRN: 91.844 (24)  
-- Massey: 8.03 (19)  
-- UTR: 79.06 (13)  
+- ITA: 24 (32.146)  
+- Slam: 23 (93.839)  
+- TRN: 24 (91.844)  
+- Massey: 19 (8.03)  
+- UTR: 13 (79.06)  
 - USTA Poll: 22  
 - Coached Poll: 29  
 
@@ -20,11 +20,11 @@ At-Large Bid
 ### #3 Northwestern  
 
 At-Large Bid  
-- ITA: 7.95 (50)  
-- Slam: 92.885 (33)  
-- TRN: 90.901 (32)  
-- Massey: 7.5 (31)  
-- UTR: 77.56 (27)  
+- ITA: 50 (7.95)  
+- Slam: 33 (92.885)  
+- TRN: 32 (90.901)  
+- Massey: 31 (7.5)  
+- UTR: 27 (77.56)  
 - Coached Poll: 49  
 
 </td></tr></table>  

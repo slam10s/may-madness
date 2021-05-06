@@ -13,11 +13,11 @@ Home:
     Overall: 12
     Region: 1
   Ratings:
-    ITA: 48.734 (12)
-    SLM: 90.279 (21)
-    TRN: 82.923 (18)
-    MAS: 7.77 (21)
-    UTR: 61.48 (26)
+    ITA: 12 (48.734)
+    SLM: 21 (90.279)
+    TRN: 18 (82.923)
+    MAS: 21 (7.77)
+    UTR: 26 (61.48)
   Polls:
     USTA: 23
     Coach: 14
@@ -28,11 +28,11 @@ Visitor:
   Seeding:
     Region: 4
   Ratings:
-    ITA: 5.156 (50)
-    SLM: 78.647 (54)
-    TRN: 71.288 (51)
-    MAS: 5.32 (54)
-    UTR: 55.5 (49)
+    ITA: 50 (5.156)
+    SLM: 54 (78.647)
+    TRN: 51 (71.288)
+    MAS: 54 (5.32)
+    UTR: 49 (55.5)
 Predictions:
   SLM: "LSU - #21 LSU (99%) def. #54 Boston U. (1%)"
   TRN: "LSU - #18 LSU (99%) def. #51 Boston U. (1%)"

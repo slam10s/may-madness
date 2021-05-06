@@ -7,22 +7,22 @@ Friday, May 7 at 10:00 EDT
 ### #3 FGCU  
 
 Automatic Qualifier  
-- ITA: 8.375 (47)  
-- Slam: 87.658 (49)  
-- TRN: 85.244 (50)  
-- Massey: 6.42 (53)  
-- UTR: 73.58 (52)  
+- ITA: 47 (8.375)  
+- Slam: 49 (87.658)  
+- TRN: 50 (85.244)  
+- Massey: 53 (6.42)  
+- UTR: 52 (73.58)  
 
 </td><td>  
 
 ### #2 NC State  
 
 At-Large Bid  
-- ITA: 32.39 (23)  
-- Slam: 94.442 (19)  
-- TRN: 92.3 (22)  
-- Massey: 7.7 (23)  
-- UTR: 78.11 (22)  
+- ITA: 23 (32.39)  
+- Slam: 19 (94.442)  
+- TRN: 22 (92.3)  
+- Massey: 23 (7.7)  
+- UTR: 22 (78.11)  
 - USTA Poll: 25  
 - Coached Poll: 28  
 

@@ -7,11 +7,11 @@ Friday, May 7 at 3:00 EDT
 ### #1 UCF  
 
 Regional Host  
-- ITA: 52.137 (9)  
-- Slam: 91.408 (12)  
-- TRN: 83.848 (12)  
-- Massey: 8.12 (10)  
-- UTR: 62.03 (16)  
+- ITA: 9 (52.137)  
+- Slam: 12 (91.408)  
+- TRN: 12 (83.848)  
+- Massey: 10 (8.12)  
+- UTR: 16 (62.03)  
 - USTA Poll: 9  
 - Coached Poll: 9  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Charleston So.  
 
 Automatic Qualifier  
-- ITA: 2.773 (58)  
-- Slam: 75.629 (60)  
-- TRN: 65.769 (57)  
-- Massey: 4.33 (60)  
-- UTR: 51.92 (56)  
+- ITA: 58 (2.773)  
+- Slam: 60 (75.629)  
+- TRN: 57 (65.769)  
+- Massey: 60 (4.33)  
+- UTR: 56 (51.92)  
 
 </td></tr></table>  

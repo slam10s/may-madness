@@ -7,11 +7,11 @@ Saturday, May 8 at 3:00 EDT
 ### #1 Baylor  
 
 Regional Host  
-- ITA: 83.326 (1)  
-- Slam: 99.051 (5)  
-- TRN: 98.667 (6)  
-- Massey: 8.82 (5)  
-- UTR: 79.74 (9)  
+- ITA: 1 (83.326)  
+- Slam: 5 (99.051)  
+- TRN: 6 (98.667)  
+- Massey: 5 (8.82)  
+- UTR: 9 (79.74)  
 - USTA Poll: 3  
 - Coached Poll: 1  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 A&M-Corpus Christi  
 
 Automatic Qualifier  
-- ITA: 2.974 (60)  
-- Slam: 82.181 (60)  
-- TRN: 76.91 (61)  
-- Massey: 5.69 (58)  
-- UTR: 71.52 (54)  
+- ITA: 60 (2.974)  
+- Slam: 60 (82.181)  
+- TRN: 61 (76.91)  
+- Massey: 58 (5.69)  
+- UTR: 54 (71.52)  
 
 </td></tr></table>  

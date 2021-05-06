@@ -7,11 +7,11 @@ Friday, May 7 at 5:00 EDT
 ### #1 Pepperdine  
 
 Regional Host  
-- ITA: 60.711 (5)  
-- Slam: 92.643 (6)  
-- TRN: 85.86 (6)  
-- Massey: 8.71 (5)  
-- UTR: 64.63 (4)  
+- ITA: 5 (60.711)  
+- Slam: 6 (92.643)  
+- TRN: 6 (85.86)  
+- Massey: 5 (8.71)  
+- UTR: 4 (64.63)  
 - USTA Poll: 5  
 - Coached Poll: 4  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Northern Ariz.  
 
 Automatic Qualifier  
-- ITA: 3.85 (54)  
-- Slam: 79.815 (51)  
-- TRN: 69.113 (53)  
-- Massey: 5.5 (51)  
-- UTR: 52.95 (54)  
+- ITA: 54 (3.85)  
+- Slam: 51 (79.815)  
+- TRN: 53 (69.113)  
+- Massey: 51 (5.5)  
+- UTR: 54 (52.95)  
 
 </td></tr></table>  

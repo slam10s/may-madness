@@ -7,11 +7,11 @@ Friday, May 7 at 10:00 EDT
 ### #3 Arkansas  
 
 At-Large Bid  
-- ITA: 26.025 (32)  
-- Slam: 87.394 (38)  
-- TRN: 79.872 (32)  
-- Massey: 6.74 (41)  
-- UTR: 59.65 (38)  
+- ITA: 32 (26.025)  
+- Slam: 38 (87.394)  
+- TRN: 32 (79.872)  
+- Massey: 41 (6.74)  
+- UTR: 38 (59.65)  
 - Coached Poll: 33  
 
 </td><td>  
@@ -19,11 +19,11 @@ At-Large Bid
 ### #2 Old Dominion  
 
 Automatic Qualifier  
-- ITA: 28 (30)  
-- Slam: 89.207 (28)  
-- TRN: 81.498 (25)  
-- Massey: 7.37 (29)  
-- UTR: 59.77 (37)  
+- ITA: 30 (28)  
+- Slam: 28 (89.207)  
+- TRN: 25 (81.498)  
+- Massey: 29 (7.37)  
+- UTR: 37 (59.77)  
 - USTA Poll: RV  
 - Coached Poll: 32  
 

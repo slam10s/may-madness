@@ -7,11 +7,11 @@ Friday, May 7 at 1:00 EDT
 ### #1 Kentucky  
 
 Regional Host  
-- ITA: 44.704 (15)  
-- Slam: 95.866 (17)  
-- TRN: 93.827 (17)  
-- Massey: 8.12 (17)  
-- UTR: 78.88 (16)  
+- ITA: 15 (44.704)  
+- Slam: 17 (95.866)  
+- TRN: 17 (93.827)  
+- Massey: 17 (8.12)  
+- UTR: 16 (78.88)  
 - USTA Poll: 17  
 - Coached Poll: 15  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Cleveland St.  
 
 Automatic Qualifier  
-- ITA: 4.429 (57)  
-- Slam: 84.355 (56)  
-- TRN: 81.283 (56)  
-- Massey: 5.83 (55)  
-- UTR: 71.52 (54)  
+- ITA: 57 (4.429)  
+- Slam: 56 (84.355)  
+- TRN: 56 (81.283)  
+- Massey: 55 (5.83)  
+- UTR: 54 (71.52)  
 
 </td></tr></table>  

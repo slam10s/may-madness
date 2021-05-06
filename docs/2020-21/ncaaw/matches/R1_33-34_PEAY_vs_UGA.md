@@ -7,11 +7,11 @@ Friday, May 7 at 1:00 EDT
 ### #1 Georgia  
 
 Regional Host  
-- ITA: 74.012 (3)  
-- Slam: 97.805 (3)  
-- TRN: 94.007 (3)  
-- Massey: 9.29 (3)  
-- UTR: 64.69 (3)  
+- ITA: 3 (74.012)  
+- Slam: 3 (97.805)  
+- TRN: 3 (94.007)  
+- Massey: 3 (9.29)  
+- UTR: 3 (64.69)  
 - USTA Poll: 3  
 - Coached Poll: 3  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Austin Peay  
 
 Automatic Qualifier  
-- ITA: 3.35 (57)  
-- Slam: 77.216 (56)  
-- TRN: 67.259 (56)  
-- Massey: 4.88 (56)  
-- UTR: 52.4 (55)  
+- ITA: 57 (3.35)  
+- Slam: 56 (77.216)  
+- TRN: 56 (67.259)  
+- Massey: 56 (4.88)  
+- UTR: 55 (52.4)  
 
 </td></tr></table>  

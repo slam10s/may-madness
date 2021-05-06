@@ -7,11 +7,11 @@ Friday, May 7 at 2:00 EDT
 ### #1 Georgia Tech  
 
 Regional Host  
-- ITA: 48.316 (13)  
-- Slam: 90.34 (20)  
-- TRN: 83.313 (16)  
-- Massey: 7.83 (18)  
-- UTR: 61.54 (24)  
+- ITA: 13 (48.316)  
+- Slam: 20 (90.34)  
+- TRN: 16 (83.313)  
+- Massey: 18 (7.83)  
+- UTR: 24 (61.54)  
 - USTA Poll: 15  
 - Coached Poll: T11  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 Ga. Southern  
 
 Automatic Qualifier  
-- ITA: 4.077 (53)  
-- Slam: 78.879 (53)  
-- TRN: 68.855 (54)  
-- Massey: 5.15 (55)  
-- UTR: 54.43 (53)  
+- ITA: 53 (4.077)  
+- Slam: 53 (78.879)  
+- TRN: 54 (68.855)  
+- Massey: 55 (5.15)  
+- UTR: 53 (54.43)  
 
 </td></tr></table>  

@@ -7,11 +7,11 @@ Friday, May 7 at 10:00 EDT
 ### #2 Arizona  
 
 At-Large Bid  
-- ITA: 38.972 (17)  
-- Slam: 94.263 (21)  
-- TRN: 92.428 (20)  
-- Massey: 8.1 (18)  
-- UTR: 78.35 (21)  
+- ITA: 17 (38.972)  
+- Slam: 21 (94.263)  
+- TRN: 20 (92.428)  
+- Massey: 18 (8.1)  
+- UTR: 21 (78.35)  
 - USTA Poll: 18  
 - Coached Poll: 19  
 
@@ -20,11 +20,11 @@ At-Large Bid
 ### #3 Michigan  
 
 At-Large Bid  
-- ITA: 15.168 (46)  
-- Slam: 96.424 (13)  
-- TRN: 95.884 (12)  
-- Massey: 8.22 (14)  
-- UTR: 78.65 (18)  
+- ITA: 46 (15.168)  
+- Slam: 13 (96.424)  
+- TRN: 12 (95.884)  
+- Massey: 14 (8.22)  
+- UTR: 18 (78.65)  
 - USTA Poll: T10  
 - Coached Poll: 23  
 

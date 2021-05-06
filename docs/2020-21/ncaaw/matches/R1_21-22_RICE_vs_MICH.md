@@ -7,11 +7,11 @@ Friday, May 7 at 11:00 EDT
 ### #2 Michigan  
 
 At-Large Bid  
-- ITA: 41.216 (19)  
-- Slam: 91.953 (8)  
-- TRN: 85.128 (8)  
-- Massey: 7.96 (15)  
-- UTR: 61.98 (17)  
+- ITA: 19 (41.216)  
+- Slam: 8 (91.953)  
+- TRN: 8 (85.128)  
+- Massey: 15 (7.96)  
+- UTR: 17 (61.98)  
 - USTA Poll: 7  
 - Coached Poll: 18  
 
@@ -20,11 +20,11 @@ At-Large Bid
 ### #3 Rice  
 
 At-Large Bid  
-- ITA: 18.245 (40)  
-- Slam: 87.142 (40)  
-- TRN: 79.492 (36)  
-- Massey: 6.93 (38)  
-- UTR: 60.11 (35)  
+- ITA: 40 (18.245)  
+- Slam: 40 (87.142)  
+- TRN: 36 (79.492)  
+- Massey: 38 (6.93)  
+- UTR: 35 (60.11)  
 - Coached Poll: 39  
 
 </td></tr></table>  

@@ -7,11 +7,11 @@ Saturday, May 8 at 1:00 EDT
 ### #3 Middle Tenn.  
 
 Automatic Qualifier  
-- ITA: 18.524 (42)  
-- Slam: 91.28 (45)  
-- TRN: 89.051 (45)  
-- Massey: 7.21 (42)  
-- UTR: 75.54 (41)  
+- ITA: 42 (18.524)  
+- Slam: 45 (91.28)  
+- TRN: 45 (89.051)  
+- Massey: 42 (7.21)  
+- UTR: 41 (75.54)  
 - Coached Poll: 42  
 
 </td><td>  
@@ -19,11 +19,11 @@ Automatic Qualifier
 ### #2 Tulane  
 
 At-Large Bid  
-- ITA: 33.073 (22)  
-- Slam: 93.532 (26)  
-- TRN: 91.45 (26)  
-- Massey: 7.63 (26)  
-- UTR: 76.99 (31)  
+- ITA: 22 (33.073)  
+- Slam: 26 (93.532)  
+- TRN: 26 (91.45)  
+- Massey: 26 (7.63)  
+- UTR: 31 (76.99)  
 - Coached Poll: 24  
 
 </td></tr></table>  

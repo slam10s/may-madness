@@ -7,11 +7,11 @@ Friday, May 7 at 3:00 EDT
 ### #1 Virginia  
 
 Regional Host  
-- ITA: 47.674 (14)  
-- Slam: 91.876 (9)  
-- TRN: 84.028 (11)  
-- Massey: 8.25 (7)  
-- UTR: 62.41 (13)  
+- ITA: 14 (47.674)  
+- Slam: 9 (91.876)  
+- TRN: 11 (84.028)  
+- Massey: 7 (8.25)  
+- UTR: 13 (62.41)  
 - USTA Poll: 10  
 - Coached Poll: T11  
 
@@ -20,10 +20,10 @@ Regional Host
 ### #4 LIU  
 
 Automatic Qualifier  
-- ITA: 4.2 (52)  
-- Slam: 70.794 (61)  
-- TRN: 55.664 (63)  
-- Massey: 4.25 (61)  
-- UTR: 49.85 (60)  
+- ITA: 52 (4.2)  
+- Slam: 61 (70.794)  
+- TRN: 63 (55.664)  
+- Massey: 61 (4.25)  
+- UTR: 60 (49.85)  
 
 </td></tr></table>  
