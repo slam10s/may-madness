@@ -9,7 +9,7 @@ Friday, May 7 at 12:00 EDT
 &nbsp; ITA: 36 (22.35)<br>  
 &nbsp; Slam: 41 (86.71)<br>  
 &nbsp; TRN: 42 (78.56)<br>  
-&nbsp; Massey: 39 (6.76)<br>  
+&nbsp; Massey: 39 (6.76)*<br>  
 &nbsp; UTR: 39 (59.07)<br>  
 &nbsp; Coaches Poll: 36<br>  
 <br>  
@@ -21,7 +21,7 @@ Friday, May 7 at 12:00 EDT
 &#10004; ITA: 22 (39.21)<br>  
 &#10004; Slam: 27 (89.34)<br>  
 &#10004; TRN: 28 (81.46)<br>  
-&#10004; Massey: 27 (7.41)<br>  
+&#10004; Massey: 27 (7.41)*<br>  
 &#10004; UTR: 29 (61.31)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 23<br>  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Horvit (81%) def. Naklo (19%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Horvit (85%) def. Naklo (15%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Horvit (75%) def. Naklo (25%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Horvit (75%) def. Naklo (25%)*</li>  
 <li>UTR: <b><i>SCAR</i></b> - Horvit (84%) def. Naklo (16%)</li>  
 <li>Composite: <b><i>SCAR</i></b> - Horvit (81%) def. Naklo (19%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Horvit (18.78) def. Naklo (2.77)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Davies (81%) def. Cancini (19%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Davies (88%) def. Cancini (12%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Davies (75%) def. Cancini (25%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Davies (75%) def. Cancini (25%)*</li>  
 <li>UTR: <b><i>SCAR</i></b> - Davies (86%) def. Cancini (14%)</li>  
 <li>Composite: <b><i>SCAR</i></b> - Davies (82%) def. Cancini (18%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Davies (10.26) def. Cancini (1.95)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Shelton (66%) def. Kadleckova (34%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Shelton (58%) def. Kadleckova (42%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Kadleckova (75%) def. Shelton (25%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Kadleckova (75%) def. Shelton (25%)*</li>  
 <li>UTR: <b><i>SCAR</i></b> - Shelton (65%) def. Kadleckova (35%)</li>  
 <li>Composite: <b><i>SCAR</i></b> - Shelton (53%) def. Kadleckova (47%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Shelton (6.55) def. Kadleckova (2.94)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Chinellato (83%) def. Hsieh (17%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Chinellato (88%) def. Hsieh (12%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Chinellato (75%) def. Hsieh (25%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Chinellato (75%) def. Hsieh (25%)*</li>  
 <li>UTR: <b><i>SCAR</i></b> - Chinellato (93%) def. Hsieh (7%)</li>  
 <li>Composite: <b><i>SCAR</i></b> - Chinellato (85%) def. Hsieh (15%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Chinellato (2.47) def. Hsieh (0.00)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Kezuka (53%) def. Gretkowski (47%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Kezuka (75%) def. Gretkowski (25%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Kezuka (75%) def. Gretkowski (25%)*</li>  
 <li>UTR: <b><i>SCAR</i></b> - Gretkowski (80%) def. Kezuka (20%)</li>  
 <li>Composite: <b><i>ISU</i></b> - Kezuka (51%) def. Gretkowski (49%)</li>  
 </ul>
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Cabezas (72%) def. Cruz (28%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Cabezas (75%) def. Cruz (25%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Cabezas (75%) def. Cruz (25%)*</li>  
 <li>UTR: <b><i>ISU</i></b> - Cabezas (80%) def. Cruz (20%)</li>  
 <li>Composite: <b><i>ISU</i></b> - Cabezas (72%) def. Cruz (28%)</li>  
 <li>ITA: <b><i>ISU</i></b> - Cabezas (2.42) def. Cruz (0.00)</li>  
@@ -146,3 +146,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _27%_ of the time.
 - If South Carolina wins the doubles point, their chances of winning the dual improve to _90%_.
 - If Iowa St. wins the doubles point, their chances of winning the dual improve to _37%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

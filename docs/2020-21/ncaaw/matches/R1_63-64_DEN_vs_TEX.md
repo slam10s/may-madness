@@ -9,7 +9,7 @@ Friday, May 7 at 4:00 EDT
 &nbsp; ITA: 45 (11.66)<br>  
 &nbsp; Slam: 45 (84.92)<br>  
 &nbsp; TRN: 45 (76.03)<br>  
-&nbsp; Massey: 43 (6.53)<br>  
+&nbsp; Massey: 43 (6.53)*<br>  
 &nbsp; UTR: 45 (58.03)<br>  
 &nbsp; Coaches Poll: 49<br>  
 <br>  
@@ -21,7 +21,7 @@ Friday, May 7 at 4:00 EDT
 &#10004; ITA: 2 (79.19)<br>  
 &#10004; Slam: 2 (98.44)<br>  
 &#10004; TRN: 2 (97.97)<br>  
-&#10004; Massey: 2 (9.38)<br>  
+&#10004; Massey: 2 (9.38)*<br>  
 &#10004; UTR: 1 (65.59)<br>  
 &#10004; USTA Poll: 2<br>  
 &#10004; Coaches Poll: 2<br>  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Stearns (86%) def. Riedmiller (14%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Stearns (65%) def. Riedmiller (35%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Stearns (75%) def. Riedmiller (25%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Stearns (75%) def. Riedmiller (25%)*</li>  
 <li>UTR: <b><i>TEX</i></b> - Stearns (90%) def. Riedmiller (10%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Stearns (79%) def. Riedmiller (21%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Stearns (16.38) def. Riedmiller (4.70)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Turati (92%) def. Melville (8%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Turati (97%) def. Melville (3%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Turati (75%) def. Melville (25%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Turati (75%) def. Melville (25%)*</li>  
 <li>UTR: <b><i>TEX</i></b> - Turati (94%) def. Melville (6%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Turati (89%) def. Melville (11%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Turati (17.31) def. Melville (2.84)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Sun (97%) def. Pursell (3%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Sun (99%) def. Pursell (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Sun (75%) def. Pursell (25%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Sun (75%) def. Pursell (25%)*</li>  
 <li>UTR: <b><i>TEX</i></b> - Sun (98%) def. Pursell (2%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Sun (92%) def. Pursell (8%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Sun (9.34) def. Pursell (2.61)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Chavatipon (75%) def. Verden-Anderson (25%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Chavatipon (75%) def. Verden-Anderson (25%)*</li>  
 <li>UTR: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Chavatipon (93%) def. Verden-Anderson (7%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Chavatipon (7.87) def. Verden-Anderson (3.01)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Collins (75%) def. Chang (25%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Collins (75%) def. Chang (25%)*</li>  
 <li>UTR: <b><i>TEX</i></b> - Collins (98%) def. Chang (2%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Collins (93%) def. Chang (7%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Collins (8.04) def. Chang (2.56)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Labrana (75%) def. Burger (25%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Labrana (75%) def. Burger (25%)*</li>  
 <li>UTR: <b><i>TEX</i></b> - Labrana (97%) def. Burger (3%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Labrana (92%) def. Burger (8%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Burger (1.93) def. Labrana (0.00)</li>  
@@ -147,3 +147,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _1%_ of the time.
 - If Texas wins the doubles point, their chances of winning the dual improve to _100%_.
 - If Denver wins the doubles point, their chances of winning the dual improve to _1%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

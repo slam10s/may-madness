@@ -9,7 +9,7 @@ Saturday, May 8 at 1:00 EDT
 &nbsp; ITA: 53 (6.83)<br>  
 &nbsp; Slam: 50 (87.64)<br>  
 &nbsp; TRN: 52 (84.26)<br>  
-&nbsp; Massey: 46 (6.79)<br>  
+&nbsp; Massey: 46 (6.79)*<br>  
 &nbsp; UTR: 49 (73.92)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Saturday, May 8 at 1:00 EDT
 &#10004; ITA: 2 (81.08)<br>  
 &#10004; Slam: 2 (99.77)<br>  
 &#10004; TRN: 3 (99.10)<br>  
-&#10004; Massey: 1 (9.40)<br>  
+&#10004; Massey: 1 (9.40)*<br>  
 &#10004; UTR: 1 (80.76)<br>  
 &#10004; USTA Poll: 2<br>  
 &#10004; Coaches Poll: 2<br>  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Vale (75%) def. Evrard (25%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Vale (75%) def. Evrard (25%)*</li>  
 <li>UTR: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Vale (87%) def. Evrard (13%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Vale (54.01) def. Evrard (8.29)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Riffice (90%) def. Marzol (10%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Riffice (75%) def. Marzol (25%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Riffice (75%) def. Marzol (25%)*</li>  
 <li>UTR: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Riffice (87%) def. Marzol (13%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Riffice (49.68) def. Marzol (8.12)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Andrade (96%) def. Cloes (4%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Andrade (75%) def. Cloes (25%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Andrade (75%) def. Cloes (25%)*</li>  
 <li>UTR: <b><i>FLA</i></b> - Andrade (94%) def. Cloes (6%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Andrade (90%) def. Cloes (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Andrade (32.71) def. Cloes (2.46)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Bicknell (98%) def. Collard (2%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Bicknell (75%) def. Collard (25%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Bicknell (75%) def. Collard (25%)*</li>  
 <li>UTR: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Bicknell (90%) def. Collard (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Bicknell (15.89) def. Collard (2.43)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Shelton (98%) def. Delcour (2%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Shelton (75%) def. Delcour (25%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Shelton (75%) def. Delcour (25%)*</li>  
 <li>UTR: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Shelton (91%) def. Delcour (9%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Shelton (3.20) def. Delcour (2.17)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Goodger (75%) def. Bugaj (25%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Goodger (75%) def. Bugaj (25%)*</li>  
 <li>UTR: <b><i>FLA</i></b> - Goodger (98%) def. Bugaj (2%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Goodger (93%) def. Bugaj (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Goodger (8.31) def. Bugaj (0.00)</li>  
@@ -146,3 +146,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _1%_ of the time.
 - If Florida wins the doubles point, their chances of winning the dual improve to _100%_.
 - If South Alabama wins the doubles point, their chances of winning the dual improve to _1%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

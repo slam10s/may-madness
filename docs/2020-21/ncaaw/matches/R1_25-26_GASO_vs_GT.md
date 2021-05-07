@@ -9,7 +9,7 @@ Friday, May 7 at 2:00 EDT
 &nbsp; ITA: 53 (4.08)<br>  
 &nbsp; Slam: 53 (78.88)<br>  
 &nbsp; TRN: 54 (68.86)<br>  
-&nbsp; Massey: 55 (5.15)<br>  
+&nbsp; Massey: 55 (5.15)*<br>  
 &nbsp; UTR: 53 (54.43)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 2:00 EDT
 &#10004; ITA: 13 (48.32)<br>  
 &#10004; Slam: 20 (90.34)<br>  
 &#10004; TRN: 16 (83.31)<br>  
-&#10004; Massey: 18 (7.83)<br>  
+&#10004; Massey: 18 (7.83)*<br>  
 &#10004; UTR: 24 (61.54)<br>  
 &#10004; USTA Poll: 15<br>  
 &nbsp; Coaches Poll: T11<br>  
@@ -57,7 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Jones (99%) def. Meier (1%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jones (99%) def. Meier (1%)</li>  
-<li>Massey: <b><i>GT</i></b> - Jones (75%) def. Meier (25%)</li>  
+<li>Massey: <b><i>GT</i></b> - Jones (75%) def. Meier (25%)*</li>  
 <li>UTR: <b><i>GT</i></b> - Jones (96%) def. Meier (4%)</li>  
 <li>Composite: <b><i>GT</i></b> - Jones (92%) def. Meier (8%)</li>  
 <li>ITA: <b><i>GT</i></b> - Jones (50.31) def. Meier (1.56)</li>  
@@ -68,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Flores (97%) def. Boixader (3%)</li>  
 <li>TRN: <b><i>GT</i></b> - Flores (99%) def. Boixader (1%)</li>  
-<li>Massey: <b><i>GT</i></b> - Flores (75%) def. Boixader (25%)</li>  
+<li>Massey: <b><i>GT</i></b> - Flores (75%) def. Boixader (25%)*</li>  
 <li>UTR: <b><i>GT</i></b> - Flores (98%) def. Boixader (2%)</li>  
 <li>Composite: <b><i>GT</i></b> - Flores (92%) def. Boixader (8%)</li>  
 <li>ITA: <b><i>GT</i></b> - Flores (29.63) def. Boixader (0.00)</li>  
@@ -79,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
 <li>TRN: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
-<li>Massey: <b><i>GT</i></b> - Cohen (75%) def. Wagemaker (25%)</li>  
+<li>Massey: <b><i>GT</i></b> - Cohen (75%) def. Wagemaker (25%)*</li>  
 <li>UTR: <b><i>GT</i></b> - Cohen (87%) def. Wagemaker (13%)</li>  
 <li>Composite: <b><i>GT</i></b> - Cohen (87%) def. Wagemaker (13%)</li>  
 <li>ITA: <b><i>GT</i></b> - Cohen (3.38) def. Wagemaker (1.85)</li>  
@@ -90,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Hrastar (96%) def. Diemen (4%)</li>  
 <li>TRN: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
-<li>Massey: <b><i>GT</i></b> - Hrastar (75%) def. Diemen (25%)</li>  
+<li>Massey: <b><i>GT</i></b> - Hrastar (75%) def. Diemen (25%)*</li>  
 <li>UTR: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
 <li>Composite: <b><i>GT</i></b> - Hrastar (91%) def. Diemen (9%)</li>  
 <li>ITA: <b><i>GT</i></b> - Hrastar (5.81) def. Diemen (0.00)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Lee (93%) def. Hartig (7%)</li>  
 <li>TRN: <b><i>GT</i></b> - Lee (91%) def. Hartig (9%)</li>  
-<li>Massey: <b><i>GT</i></b> - Lee (75%) def. Hartig (25%)</li>  
+<li>Massey: <b><i>GT</i></b> - Lee (75%) def. Hartig (25%)*</li>  
 <li>UTR: <b><i>GT</i></b> - Lee (90%) def. Hartig (10%)</li>  
 <li>Composite: <b><i>GT</i></b> - Lee (87%) def. Hartig (13%)</li>  
 <li>ITA: <b><i>GT</i></b> - Lee (4.33) def. Hartig (2.42)</li>  
@@ -112,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Jain (95%) def. Hijos (5%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jain (97%) def. Hijos (3%)</li>  
-<li>Massey: <b><i>GT</i></b> - Jain (75%) def. Hijos (25%)</li>  
+<li>Massey: <b><i>GT</i></b> - Jain (75%) def. Hijos (25%)*</li>  
 <li>UTR: <b><i>GT</i></b> - Jain (99%) def. Hijos (1%)</li>  
 <li>Composite: <b><i>GT</i></b> - Jain (92%) def. Hijos (8%)</li>  
 <li>ITA: <b><i>GASO</i></b> - Hijos (1.93) def. Jain (1.89)</li>  
@@ -145,3 +145,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _1%_ of the time.
 - If Georgia Tech wins the doubles point, their chances of winning the dual improve to _100%_.
 - If Ga. Southern wins the doubles point, their chances of winning the dual improve to _1%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

@@ -9,7 +9,7 @@ Friday, May 7 at 3:00 EDT
 &nbsp; ITA: 42 (16.54)<br>  
 &nbsp; Slam: 44 (86.23)<br>  
 &nbsp; TRN: 44 (78.28)<br>  
-&nbsp; Massey: 44 (6.49)<br>  
+&nbsp; Massey: 44 (6.49)*<br>  
 &nbsp; UTR: 40 (59.05)<br>  
 &nbsp; Coaches Poll: 43<br>  
 <br>  
@@ -21,7 +21,7 @@ Friday, May 7 at 3:00 EDT
 &#10004; ITA: 17 (43.03)<br>  
 &#10004; Slam: 14 (90.91)<br>  
 &#10004; TRN: 15 (83.33)<br>  
-&#10004; Massey: 11 (8.09)<br>  
+&#10004; Massey: 11 (8.09)*<br>  
 &#10004; UTR: 12 (62.45)<br>  
 &#10004; USTA Poll: 14<br>  
 &#10004; Coaches Poll: 20<br>  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chen (85%) def. Bencheikh (15%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Chen (75%) def. Bencheikh (25%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Chen (75%) def. Bencheikh (25%)*</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
 <li>Composite: <b><i>DUKE</i></b> - Chen (83%) def. Bencheikh (17%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chen (12.42) def. Bencheikh (1.60)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Drummy (93%) def. Pou (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Drummy (75%) def. Pou (25%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Drummy (75%) def. Pou (25%)*</li>  
 <li>UTR: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
 <li>Composite: <b><i>DUKE</i></b> - Drummy (87%) def. Pou (13%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Drummy (24.14) def. Pou (2.01)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Beck (75%) def. Parkhomenko (25%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Beck (75%) def. Parkhomenko (25%)*</li>  
 <li>UTR: <b><i>DUKE</i></b> - Beck (93%) def. Parkhomenko (7%)</li>  
 <li>Composite: <b><i>DUKE</i></b> - Beck (90%) def. Parkhomenko (10%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Beck (15.35) def. Parkhomenko (0.00)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Chi (93%) def. Hiser (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chi (96%) def. Hiser (4%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Chi (75%) def. Hiser (25%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Chi (75%) def. Hiser (25%)*</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chi (91%) def. Hiser (9%)</li>  
 <li>Composite: <b><i>DUKE</i></b> - Chi (89%) def. Hiser (11%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chi (15.20) def. Hiser (0.00)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Bilokin (93%) def. Riley (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Bilokin (90%) def. Riley (10%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Bilokin (75%) def. Riley (25%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Bilokin (75%) def. Riley (25%)*</li>  
 <li>UTR: <b><i>DUKE</i></b> - Bilokin (93%) def. Riley (7%)</li>  
 <li>Composite: <b><i>DUKE</i></b> - Bilokin (87%) def. Riley (13%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Bilokin (2.72) def. Riley (0.00)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Berankova (92%) def. Orefice (8%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Berankova (80%) def. Orefice (20%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Berankova (75%) def. Orefice (25%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Berankova (75%) def. Orefice (25%)*</li>  
 <li>UTR: <b><i>DUKE</i></b> - Berankova (97%) def. Orefice (3%)</li>  
 <li>Composite: <b><i>DUKE</i></b> - Berankova (86%) def. Orefice (14%)</li>  
 </ul>
@@ -146,3 +146,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _3%_ of the time.
 - If Duke wins the doubles point, their chances of winning the dual improve to _100%_.
 - If Alabama wins the doubles point, their chances of winning the dual improve to _3%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

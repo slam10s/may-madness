@@ -9,7 +9,7 @@ Friday, May 7 at 10:00 EDT
 &nbsp; ITA: 35 (23.17)<br>  
 &nbsp; Slam: 35 (87.72)<br>  
 &nbsp; TRN: 41 (78.74)<br>  
-&nbsp; Massey: 26 (7.43)<br>  
+&nbsp; Massey: 26 (7.43)*<br>  
 &#10004; UTR: 6 (64.29)<br>  
 &nbsp; Coaches Poll: 34<br>  
 <br>  
@@ -21,7 +21,7 @@ Friday, May 7 at 10:00 EDT
 &#10004; ITA: 23 (39.04)<br>  
 &#10004; Slam: 13 (91.06)<br>  
 &#10004; TRN: 22 (82.23)<br>  
-&#10004; Massey: 12 (8.06)<br>  
+&#10004; Massey: 12 (8.06)*<br>  
 &nbsp; UTR: 14 (62.33)<br>  
 &#10004; USTA Poll: 22<br>  
 &#10004; Coaches Poll: 24<br>  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Ewing (61%) def. Corley (39%)</li>  
 <li>TRN: <b><i>USC</i></b> - Ewing (85%) def. Corley (15%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Corley (75%) def. Ewing (25%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Corley (75%) def. Ewing (25%)*</li>  
 <li>UTR: <b><i>USC</i></b> - Ewing (80%) def. Corley (20%)</li>  
 <li>Composite: <b><i>USC</i></b> - Ewing (62%) def. Corley (38%)</li>  
 <li>ITA: <b><i>USC</i></b> - Ewing (14.56) def. Corley (9.20)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Cayetano (62%) def. Guzman (38%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cayetano (60%) def. Guzman (40%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Guzman (75%) def. Cayetano (25%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Guzman (75%) def. Cayetano (25%)*</li>  
 <li>UTR: <b><i>USC</i></b> - Cayetano (66%) def. Guzman (34%)</li>  
 <li>Composite: <b><i>USC</i></b> - Cayetano (52%) def. Guzman (48%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Guzman (9.21) def. Cayetano (5.85)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Corley (100%) def. Kulikov (0%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Corley (100%) def. Kulikov (0%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Corley (75%) def. Kulikov (25%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Corley (75%) def. Kulikov (25%)*</li>  
 <li>UTR: <b><i>OKLA</i></b> - Corley (99%) def. Kulikov (1%)</li>  
 <li>Composite: <b><i>OKLA</i></b> - Corley (93%) def. Kulikov (7%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Corley (6.90) def. Kulikov (0.00)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Cheong (81%) def. Capurro (19%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cheong (80%) def. Capurro (20%)</li>  
-<li>Massey: <b><i>USC</i></b> - Cheong (75%) def. Capurro (25%)</li>  
+<li>Massey: <b><i>USC</i></b> - Cheong (75%) def. Capurro (25%)*</li>  
 <li>UTR: <b><i>USC</i></b> - Cheong (81%) def. Capurro (19%)</li>  
 <li>Composite: <b><i>USC</i></b> - Cheong (79%) def. Capurro (21%)</li>  
 <li>ITA: <b><i>USC</i></b> - Cheong (4.19) def. Capurro (1.84)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Willson (73%) def. Motosono (27%)</li>  
 <li>TRN: <b><i>USC</i></b> - Willson (71%) def. Motosono (29%)</li>  
-<li>Massey: <b><i>USC</i></b> - Willson (75%) def. Motosono (25%)</li>  
+<li>Massey: <b><i>USC</i></b> - Willson (75%) def. Motosono (25%)*</li>  
 <li>UTR: <b><i>USC</i></b> - Willson (78%) def. Motosono (22%)</li>  
 <li>Composite: <b><i>USC</i></b> - Willson (73%) def. Motosono (27%)</li>  
 <li>ITA: <b><i>USC</i></b> - Willson (1.74) def. Motosono (1.65)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
 <li>TRN: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
-<li>Massey: <b><i>USC</i></b> - Dvorak (75%) def. Romero (25%)</li>  
+<li>Massey: <b><i>USC</i></b> - Dvorak (75%) def. Romero (25%)*</li>  
 <li>UTR: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
 <li>Composite: <b><i>USC</i></b> - Dvorak (93%) def. Romero (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dvorak (1.85) def. Romero (0.00)</li>  
@@ -147,3 +147,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _29%_ of the time.
 - If Oklahoma wins the doubles point, their chances of winning the dual improve to _41%_.
 - If Southern California wins the doubles point, their chances of winning the dual improve to _88%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

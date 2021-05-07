@@ -9,7 +9,7 @@ Friday, May 7 at 4:00 EDT
 &nbsp; ITA: 39 (19.12)<br>  
 &nbsp; Slam: 36 (87.64)<br>  
 &nbsp; TRN: 38 (78.95)<br>  
-&nbsp; Massey: 32 (7.31)<br>  
+&nbsp; Massey: 32 (7.31)*<br>  
 &nbsp; UTR: 32 (60.57)<br>  
 &nbsp; Coaches Poll: 47<br>  
 <br>  
@@ -21,7 +21,7 @@ Friday, May 7 at 4:00 EDT
 &#10004; ITA: 29 (28.07)<br>  
 &#10004; Slam: 34 (87.92)<br>  
 &#10004; TRN: 34 (79.75)<br>  
-&#10004; Massey: 28 (7.39)<br>  
+&#10004; Massey: 28 (7.39)*<br>  
 &#10004; UTR: 27 (61.44)<br>  
 &#10004; Coaches Poll: 29<br>  
 <br>  
@@ -57,7 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USD</i></b> - Colling (89%) def. Mays (11%)</li>  
 <li>TRN: <b><i>USD</i></b> - Colling (88%) def. Mays (12%)</li>  
-<li>Massey: <b><i>USD</i></b> - Colling (75%) def. Mays (25%)</li>  
+<li>Massey: <b><i>USD</i></b> - Colling (75%) def. Mays (25%)*</li>  
 <li>UTR: <b><i>USD</i></b> - Colling (84%) def. Mays (16%)</li>  
 <li>Composite: <b><i>USD</i></b> - Colling (83%) def. Mays (17%)</li>  
 <li>ITA: <b><i>USD</i></b> - Colling (12.76) def. Mays (3.54)</li>  
@@ -68,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USD</i></b> - Goldsmith (51%) def. Skriabina (49%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Skriabina (54%) def. Goldsmith (46%)</li>  
-<li>Massey: <b><i>TTU</i></b> - Skriabina (75%) def. Goldsmith (25%)</li>  
+<li>Massey: <b><i>TTU</i></b> - Skriabina (75%) def. Goldsmith (25%)*</li>  
 <li>UTR: <b><i>TTU</i></b> - Skriabina (86%) def. Goldsmith (14%)</li>  
 <li>Composite: <b><i>TTU</i></b> - Skriabina (66%) def. Goldsmith (34%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Skriabina (6.63) def. Goldsmith (2.97)</li>  
@@ -79,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USD</i></b> - McBride (52%) def. Staines (48%)</li>  
 <li>TRN: <b><i>USD</i></b> - McBride (58%) def. Staines (42%)</li>  
-<li>Massey: <b><i>USD</i></b> - McBride (75%) def. Staines (25%)</li>  
+<li>Massey: <b><i>USD</i></b> - McBride (75%) def. Staines (25%)*</li>  
 <li>UTR: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
 <li>Composite: <b><i>USD</i></b> - McBride (60%) def. Staines (40%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. McBride (3.11)</li>  
@@ -90,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TTU</i></b> - Miller (61%) def. Desiatnikov (39%)</li>  
 <li>TRN: <b><i>USD</i></b> - Desiatnikov (57%) def. Miller (43%)</li>  
-<li>Massey: <b><i>TTU</i></b> - Miller (75%) def. Desiatnikov (25%)</li>  
+<li>Massey: <b><i>TTU</i></b> - Miller (75%) def. Desiatnikov (25%)*</li>  
 <li>UTR: <b><i>USD</i></b> - Desiatnikov (71%) def. Miller (29%)</li>  
 <li>Composite: <b><i>TTU</i></b> - Miller (52%) def. Desiatnikov (48%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Miller (2.66) def. Desiatnikov (2.52)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TTU</i></b> - Peet (83%) def. Kalaitzis (17%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Peet (77%) def. Kalaitzis (23%)</li>  
-<li>Massey: <b><i>TTU</i></b> - Peet (75%) def. Kalaitzis (25%)</li>  
+<li>Massey: <b><i>TTU</i></b> - Peet (75%) def. Kalaitzis (25%)*</li>  
 <li>UTR: <b><i>TTU</i></b> - Peet (83%) def. Kalaitzis (17%)</li>  
 <li>Composite: <b><i>TTU</i></b> - Peet (79%) def. Kalaitzis (21%)</li>  
 <li>ITA: <b><i>USD</i></b> - Kalaitzis (2.42) def. Peet (2.03)</li>  
@@ -112,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TTU</i></b> - Komac (82%) def. Kukaras (18%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Komac (83%) def. Kukaras (17%)</li>  
-<li>Massey: <b><i>TTU</i></b> - Komac (75%) def. Kukaras (25%)</li>  
+<li>Massey: <b><i>TTU</i></b> - Komac (75%) def. Kukaras (25%)*</li>  
 <li>UTR: <b><i>TTU</i></b> - Komac (72%) def. Kukaras (28%)</li>  
 <li>Composite: <b><i>TTU</i></b> - Komac (78%) def. Kukaras (22%)</li>  
 <li>ITA: <b><i>USD</i></b> - Kukaras (2.39) def. Komac (1.98)</li>  
@@ -145,3 +145,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _34%_ of the time.
 - If Texas Tech wins the doubles point, their chances of winning the dual improve to _78%_.
 - If San Diego wins the doubles point, their chances of winning the dual improve to _56%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

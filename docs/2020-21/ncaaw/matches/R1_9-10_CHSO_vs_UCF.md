@@ -9,7 +9,7 @@ Friday, May 7 at 3:00 EDT
 &nbsp; ITA: 58 (2.77)<br>  
 &nbsp; Slam: 60 (75.63)<br>  
 &nbsp; TRN: 57 (65.77)<br>  
-&nbsp; Massey: 60 (4.33)<br>  
+&nbsp; Massey: 60 (4.33)*<br>  
 &nbsp; UTR: 56 (51.92)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 3:00 EDT
 &#10004; ITA: 9 (52.14)<br>  
 &#10004; Slam: 12 (91.41)<br>  
 &#10004; TRN: 12 (83.85)<br>  
-&#10004; Massey: 10 (8.12)<br>  
+&#10004; Massey: 10 (8.12)*<br>  
 &#10004; UTR: 16 (62.03)<br>  
 &#10004; USTA Poll: 9<br>  
 &#10004; Coaches Poll: 9<br>  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Zeleva (98%) def. Man (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Zeleva (99%) def. Man (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Zeleva (75%) def. Man (25%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Zeleva (75%) def. Man (25%)*</li>  
 <li>UTR: <b><i>UCF</i></b> - Zeleva (97%) def. Man (3%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Zeleva (92%) def. Man (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Zeleva (22.66) def. Man (1.99)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Stolmar (98%) def. Fullana (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Stolmar (99%) def. Fullana (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Stolmar (75%) def. Fullana (25%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Stolmar (75%) def. Fullana (25%)*</li>  
 <li>UTR: <b><i>UCF</i></b> - Stolmar (96%) def. Fullana (4%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Stolmar (92%) def. Fullana (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Stolmar (15.81) def. Fullana (1.91)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Levashova (98%) def. Singh (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Levashova (99%) def. Singh (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Levashova (75%) def. Singh (25%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Levashova (75%) def. Singh (25%)*</li>  
 <li>UTR: <b><i>UCF</i></b> - Levashova (98%) def. Singh (2%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Levashova (92%) def. Singh (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Levashova (4.48) def. Singh (1.60)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Kuznetsova (75%) def. Cauthen (25%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Kuznetsova (75%) def. Cauthen (25%)*</li>  
 <li>UTR: <b><i>UCF</i></b> - Kuznetsova (98%) def. Cauthen (2%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Kuznetsova (93%) def. Cauthen (7%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Kuznetsova (3.33) def. Cauthen (2.15)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Mattel (98%) def. Schmitz (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Mattel (99%) def. Schmitz (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Mattel (75%) def. Schmitz (25%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Mattel (75%) def. Schmitz (25%)*</li>  
 <li>UTR: <b><i>UCF</i></b> - Mattel (97%) def. Schmitz (3%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Mattel (92%) def. Schmitz (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mattel (2.00) def. Schmitz (1.70)</li>  
@@ -145,3 +145,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _4%_ of the time.
 - If UCF wins the doubles point, their chances of winning the dual improve to _100%_.
 - If Charleston So. wins the doubles point, their chances of winning the dual improve to _4%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

@@ -9,7 +9,7 @@ Friday, May 7 at 2:00 EDT
 &nbsp; ITA: 37 (23.44)<br>  
 &nbsp; Slam: 36 (92.40)<br>  
 &nbsp; TRN: 38 (90.23)<br>  
-&nbsp; Massey: 35 (7.38)<br>  
+&nbsp; Massey: 35 (7.38)*<br>  
 &nbsp; UTR: 29 (77.07)<br>  
 &nbsp; Coaches Poll: 38<br>  
 <br>  
@@ -21,7 +21,7 @@ Friday, May 7 at 2:00 EDT
 &#10004; ITA: 31 (26.40)<br>  
 &#10004; Slam: 7 (97.86)<br>  
 &#10004; TRN: 8 (97.23)<br>  
-&#10004; Massey: 9 (8.60)<br>  
+&#10004; Massey: 9 (8.60)*<br>  
 &#10004; UTR: 3 (80.28)<br>  
 &#10004; USTA Poll: 7<br>  
 &#10004; Coaches Poll: 17<br>  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - McNally (89%) def. Cronje (11%)</li>  
 <li>TRN: <b><i>OSU</i></b> - McNally (90%) def. Cronje (10%)</li>  
-<li>Massey: <b><i>OSU</i></b> - McNally (75%) def. Cronje (25%)</li>  
+<li>Massey: <b><i>OSU</i></b> - McNally (75%) def. Cronje (25%)*</li>  
 <li>UTR: <b><i>OSU</i></b> - McNally (85%) def. Cronje (15%)</li>  
 <li>Composite: <b><i>OSU</i></b> - McNally (85%) def. Cronje (15%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Cronje (8.20) def. McNally (3.89)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Kingsley (95%) def. Bertimon (5%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Kingsley (97%) def. Bertimon (3%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Kingsley (75%) def. Bertimon (25%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Kingsley (75%) def. Bertimon (25%)*</li>  
 <li>UTR: <b><i>OSU</i></b> - Kingsley (91%) def. Bertimon (9%)</li>  
 <li>Composite: <b><i>OSU</i></b> - Kingsley (89%) def. Bertimon (11%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Kingsley (5.20) def. Bertimon (3.10)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Trotter (91%) def. Torre (9%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Trotter (92%) def. Torre (8%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Trotter (75%) def. Torre (25%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Trotter (75%) def. Torre (25%)*</li>  
 <li>UTR: <b><i>OSU</i></b> - Trotter (89%) def. Torre (11%)</li>  
 <li>Composite: <b><i>OSU</i></b> - Trotter (87%) def. Torre (13%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Trotter (3.90) def. Torre (2.89)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Boulais (85%) def. Stable (15%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Boulais (73%) def. Stable (27%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Boulais (75%) def. Stable (25%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Boulais (75%) def. Stable (25%)*</li>  
 <li>UTR: <b><i>OSU</i></b> - Boulais (63%) def. Stable (37%)</li>  
 <li>Composite: <b><i>OSU</i></b> - Boulais (74%) def. Stable (26%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Stable (3.09) def. Boulais (2.92)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Seelig (87%) def. Coulaud (13%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Seelig (90%) def. Coulaud (10%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Seelig (75%) def. Coulaud (25%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Seelig (75%) def. Coulaud (25%)*</li>  
 <li>UTR: <b><i>OSU</i></b> - Seelig (89%) def. Coulaud (11%)</li>  
 <li>Composite: <b><i>OSU</i></b> - Seelig (85%) def. Coulaud (15%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Seelig (2.02) def. Coulaud (1.96)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Tracy (94%) def. Zgraggen (6%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Tracy (97%) def. Zgraggen (3%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Tracy (75%) def. Zgraggen (25%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Tracy (75%) def. Zgraggen (25%)*</li>  
 <li>UTR: <b><i>OSU</i></b> - Tracy (96%) def. Zgraggen (4%)</li>  
 <li>Composite: <b><i>OSU</i></b> - Tracy (90%) def. Zgraggen (10%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Zgraggen (3.45) def. Tracy (3.11)</li>  
@@ -147,3 +147,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _4%_ of the time.
 - If Ohio St. wins the doubles point, their chances of winning the dual improve to _100%_.
 - If VCU wins the doubles point, their chances of winning the dual improve to _4%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

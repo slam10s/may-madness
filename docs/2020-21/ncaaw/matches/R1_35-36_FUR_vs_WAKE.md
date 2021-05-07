@@ -9,7 +9,7 @@ Friday, May 7 at 10:00 EDT
 &nbsp; ITA: 34 (25.42)<br>  
 &nbsp; Slam: 33 (87.98)<br>  
 &nbsp; TRN: 35 (79.59)<br>  
-&nbsp; Massey: 35 (7.09)<br>  
+&nbsp; Massey: 35 (7.09)*<br>  
 &nbsp; UTR: 41 (59.02)<br>  
 &#10004; USTA Poll: RV<br>  
 &nbsp; Coaches Poll: 35<br>  
@@ -22,7 +22,7 @@ Friday, May 7 at 10:00 EDT
 &#10004; ITA: 33 (25.77)<br>  
 &#10004; Slam: 32 (88.11)<br>  
 &#10004; TRN: 31 (80.20)<br>  
-&#10004; Massey: 34 (7.13)<br>  
+&#10004; Massey: 34 (7.13)*<br>  
 &#10004; UTR: 31 (60.70)<br>  
 &#10004; Coaches Poll: 31<br>  
 <br>  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Kozarov (72%) def. Campana (28%)</li>  
-<li>Massey: <b><i>FUR</i></b> - Kozarov (75%) def. Campana (25%)</li>  
+<li>Massey: <b><i>FUR</i></b> - Kozarov (75%) def. Campana (25%)*</li>  
 <li>UTR: <b><i>WAKE</i></b> - Campana (56%) def. Kozarov (44%)</li>  
 <li>Composite: <b><i>FUR</i></b> - Kozarov (61%) def. Campana (39%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (28.61) def. Kozarov (26.43)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Campana (52%) def. Adams (48%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Adams (61%) def. Campana (39%)</li>  
-<li>Massey: <b><i>FUR</i></b> - Adams (75%) def. Campana (25%)</li>  
+<li>Massey: <b><i>FUR</i></b> - Adams (75%) def. Campana (25%)*</li>  
 <li>UTR: <b><i>FUR</i></b> - Adams (71%) def. Campana (29%)</li>  
 <li>Composite: <b><i>FUR</i></b> - Adams (63%) def. Campana (37%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (11.52) def. Adams (5.79)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Brylin (85%) def. Dillon (15%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Brylin (87%) def. Dillon (13%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Brylin (75%) def. Dillon (25%)</li>  
+<li>Massey: <b><i>WAKE</i></b> - Brylin (75%) def. Dillon (25%)*</li>  
 <li>UTR: <b><i>WAKE</i></b> - Brylin (92%) def. Dillon (8%)</li>  
 <li>Composite: <b><i>WAKE</i></b> - Brylin (85%) def. Dillon (15%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Brylin (2.10) def. Dillon (1.67)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Omirou (66%) def. Rompf (34%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Omirou (60%) def. Rompf (40%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Omirou (75%) def. Rompf (25%)</li>  
+<li>Massey: <b><i>WAKE</i></b> - Omirou (75%) def. Rompf (25%)*</li>  
 <li>UTR: <b><i>WAKE</i></b> - Omirou (72%) def. Rompf (28%)</li>  
 <li>Composite: <b><i>WAKE</i></b> - Omirou (68%) def. Rompf (32%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Omirou (1.88) def. Rompf (1.74)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Killingsworth (79%) def. Pate (21%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Killingsworth (66%) def. Pate (34%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Killingsworth (75%) def. Pate (25%)</li>  
+<li>Massey: <b><i>WAKE</i></b> - Killingsworth (75%) def. Pate (25%)*</li>  
 <li>UTR: <b><i>WAKE</i></b> - Killingsworth (77%) def. Pate (23%)</li>  
 <li>Composite: <b><i>WAKE</i></b> - Killingsworth (74%) def. Pate (26%)</li>  
 <li>ITA: <b><i>FUR</i></b> - Pate (1.95) def. Killingsworth (1.48)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Wooten (66%) def. Schoppe (34%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Wooten (57%) def. Schoppe (43%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Wooten (75%) def. Schoppe (25%)</li>  
+<li>Massey: <b><i>WAKE</i></b> - Wooten (75%) def. Schoppe (25%)*</li>  
 <li>UTR: <b><i>WAKE</i></b> - Wooten (75%) def. Schoppe (25%)</li>  
 <li>Composite: <b><i>WAKE</i></b> - Wooten (68%) def. Schoppe (32%)</li>  
 <li>ITA: <b><i>FUR</i></b> - Schoppe (2.79) def. Wooten (1.70)</li>  
@@ -147,3 +147,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _28%_ of the time.
 - If Wake Forest wins the doubles point, their chances of winning the dual improve to _87%_.
 - If Furman wins the doubles point, their chances of winning the dual improve to _41%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

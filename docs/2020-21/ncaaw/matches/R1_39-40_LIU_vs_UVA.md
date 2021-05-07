@@ -9,7 +9,7 @@ Friday, May 7 at 3:00 EDT
 &nbsp; ITA: 52 (4.20)<br>  
 &nbsp; Slam: 61 (70.79)<br>  
 &nbsp; TRN: 63 (55.66)<br>  
-&nbsp; Massey: 61 (4.25)<br>  
+&nbsp; Massey: 61 (4.25)*<br>  
 &nbsp; UTR: 60 (49.85)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 3:00 EDT
 &#10004; ITA: 14 (47.67)<br>  
 &#10004; Slam: 9 (91.88)<br>  
 &#10004; TRN: 11 (84.03)<br>  
-&#10004; Massey: 7 (8.25)<br>  
+&#10004; Massey: 7 (8.25)*<br>  
 &#10004; UTR: 13 (62.41)<br>  
 &#10004; USTA Poll: 10<br>  
 &nbsp; Coaches Poll: T11<br>  
@@ -57,7 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Navarro (75%) def. Kuzina (25%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Navarro (75%) def. Kuzina (25%)*</li>  
 <li>UTR: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>Composite: <b><i>UVA</i></b> - Navarro (93%) def. Kuzina (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Navarro (62.96) def. Kuzina (3.50)</li>  
@@ -68,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Subhash (75%) def. Dancenco (25%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Subhash (75%) def. Dancenco (25%)*</li>  
 <li>UTR: <b><i>UVA</i></b> - Subhash (98%) def. Dancenco (2%)</li>  
 <li>Composite: <b><i>UVA</i></b> - Subhash (93%) def. Dancenco (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Subhash (40.00) def. Dancenco (4.17)</li>  
@@ -79,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Johanson (75%) def. Erechtchenko (25%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Johanson (75%) def. Erechtchenko (25%)*</li>  
 <li>UTR: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>Composite: <b><i>UVA</i></b> - Johanson (93%) def. Erechtchenko (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Johanson (6.37) def. Erechtchenko (3.50)</li>  
@@ -90,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Shaikh (75%) def. Storkaas (25%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Shaikh (75%) def. Storkaas (25%)*</li>  
 <li>UTR: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>Composite: <b><i>UVA</i></b> - Shaikh (93%) def. Storkaas (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Shaikh (1.63) def. Storkaas (0.00)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>TRN: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
-<li>Massey: <b><i>LIU</i></b> - Compuesto (75%) def. O'Dell (25%)</li>  
+<li>Massey: <b><i>LIU</i></b> - Compuesto (75%) def. O'Dell (25%)*</li>  
 <li>UTR: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>Composite: <b><i>LIU</i></b> - Compuesto (93%) def. O'Dell (7%)</li>  
 <li>ITA: <b><i>LIU</i></b> - Compuesto (3.66) def. O'Dell (1.59)</li>  
@@ -112,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Glozman (75%) def. Jorjoliani (25%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Glozman (75%) def. Jorjoliani (25%)*</li>  
 <li>UTR: <b><i>UVA</i></b> - Glozman (98%) def. Jorjoliani (2%)</li>  
 <li>Composite: <b><i>UVA</i></b> - Glozman (93%) def. Jorjoliani (7%)</li>  
 <li>ITA: <b><i>LIU</i></b> - Jorjoliani (3.50) def. Glozman (2.77)</li>  
@@ -145,3 +145,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _3%_ of the time.
 - If Virginia wins the doubles point, their chances of winning the dual improve to _99%_.
 - If LIU wins the doubles point, their chances of winning the dual improve to _4%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

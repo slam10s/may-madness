@@ -9,7 +9,7 @@ Friday, May 7 at 2:00 EDT
 &nbsp; ITA: 41 (18.89)<br>  
 &nbsp; Slam: 47 (89.83)<br>  
 &nbsp; TRN: 46 (88.71)<br>  
-&nbsp; Massey: 45 (7.02)<br>  
+&nbsp; Massey: 45 (7.02)*<br>  
 &nbsp; UTR: 53 (72.95)<br>  
 &#10004; USTA Poll: RV<br>  
 &nbsp; Coaches Poll: 48<br>  
@@ -22,7 +22,7 @@ Friday, May 7 at 2:00 EDT
 &#10004; ITA: 34 (25.22)<br>  
 &#10004; Slam: 40 (91.96)<br>  
 &#10004; TRN: 42 (89.57)<br>  
-&#10004; Massey: 36 (7.36)<br>  
+&#10004; Massey: 36 (7.36)*<br>  
 &#10004; UTR: 38 (76.38)<br>  
 &#10004; Coaches Poll: 37<br>  
 <br>  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ND</i></b> - Nefve (82%) def. Opitz (18%)</li>  
 <li>TRN: <b><i>ND</i></b> - Nefve (84%) def. Opitz (16%)</li>  
-<li>Massey: <b><i>ND</i></b> - Nefve (75%) def. Opitz (25%)</li>  
+<li>Massey: <b><i>ND</i></b> - Nefve (75%) def. Opitz (25%)*</li>  
 <li>UTR: <b><i>ND</i></b> - Nefve (92%) def. Opitz (8%)</li>  
 <li>Composite: <b><i>ND</i></b> - Nefve (83%) def. Opitz (17%)</li>  
 <li>ITA: <b><i>ND</i></b> - Nefve (21.49) def. Opitz (3.71)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ND</i></b> - Ciamarra (89%) def. Kuszynski (11%)</li>  
 <li>TRN: <b><i>ND</i></b> - Ciamarra (82%) def. Kuszynski (18%)</li>  
-<li>Massey: <b><i>ND</i></b> - Ciamarra (75%) def. Kuszynski (25%)</li>  
+<li>Massey: <b><i>ND</i></b> - Ciamarra (75%) def. Kuszynski (25%)*</li>  
 <li>UTR: <b><i>ND</i></b> - Ciamarra (91%) def. Kuszynski (9%)</li>  
 <li>Composite: <b><i>ND</i></b> - Ciamarra (84%) def. Kuszynski (16%)</li>  
 <li>ITA: <b><i>ND</i></b> - Ciamarra (8.18) def. Kuszynski (3.15)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ND</i></b> - McCormick (88%) def. Lohse (12%)</li>  
 <li>TRN: <b><i>ND</i></b> - McCormick (88%) def. Lohse (12%)</li>  
-<li>Massey: <b><i>ND</i></b> - McCormick (75%) def. Lohse (25%)</li>  
+<li>Massey: <b><i>ND</i></b> - McCormick (75%) def. Lohse (25%)*</li>  
 <li>UTR: <b><i>ND</i></b> - McCormick (91%) def. Lohse (9%)</li>  
 <li>Composite: <b><i>ND</i></b> - McCormick (85%) def. Lohse (15%)</li>  
 <li>ITA: <b><i>ND</i></b> - McCormick (3.76) def. Lohse (2.10)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
 <li>TRN: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
-<li>Massey: <b><i>WMU</i></b> - Boone (75%) def. Howells (25%)</li>  
+<li>Massey: <b><i>WMU</i></b> - Boone (75%) def. Howells (25%)*</li>  
 <li>UTR: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
 <li>Composite: <b><i>WMU</i></b> - Boone (93%) def. Howells (7%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Boone (1.91) def. Howells (0.00)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ND</i></b> - Che (80%) def. Honnappa (20%)</li>  
 <li>TRN: <b><i>ND</i></b> - Che (65%) def. Honnappa (35%)</li>  
-<li>Massey: <b><i>WMU</i></b> - Honnappa (75%) def. Che (25%)</li>  
+<li>Massey: <b><i>WMU</i></b> - Honnappa (75%) def. Che (25%)*</li>  
 <li>UTR: <b><i>ND</i></b> - Che (78%) def. Honnappa (22%)</li>  
 <li>Composite: <b><i>ND</i></b> - Che (62%) def. Honnappa (38%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Honnappa (2.67) def. Che (0.00)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ND</i></b> - Fu (89%) def. George (11%)</li>  
 <li>TRN: <b><i>ND</i></b> - Fu (86%) def. George (14%)</li>  
-<li>Massey: <b><i>ND</i></b> - Fu (75%) def. George (25%)</li>  
+<li>Massey: <b><i>ND</i></b> - Fu (75%) def. George (25%)*</li>  
 <li>UTR: <b><i>ND</i></b> - Fu (86%) def. George (14%)</li>  
 <li>Composite: <b><i>ND</i></b> - Fu (84%) def. George (16%)</li>  
 <li>ITA: <b><i>WMU</i></b> - George (4.11) def. Fu (1.57)</li>  
@@ -147,3 +147,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _19%_ of the time.
 - If Notre Dame wins the doubles point, their chances of winning the dual improve to _95%_.
 - If Western Mich. wins the doubles point, their chances of winning the dual improve to _24%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

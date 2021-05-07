@@ -9,7 +9,7 @@ Saturday, May 8 at 3:00 EDT
 &nbsp; ITA: 43 (18.30)<br>  
 &nbsp; Slam: 43 (91.55)<br>  
 &nbsp; TRN: 44 (89.43)<br>  
-&nbsp; Massey: 50 (6.64)<br>  
+&nbsp; Massey: 50 (6.64)*<br>  
 &nbsp; UTR: 44 (75.30)<br>  
 &nbsp; Coaches Poll: 40<br>  
 <br>  
@@ -21,7 +21,7 @@ Saturday, May 8 at 3:00 EDT
 &#10004; ITA: 7 (69.22)<br>  
 &#10004; Slam: 9 (97.57)<br>  
 &#10004; TRN: 9 (96.56)<br>  
-&#10004; Massey: 6 (8.76)<br>  
+&#10004; Massey: 6 (8.76)*<br>  
 &#10004; UTR: 10 (79.71)<br>  
 &#10004; USTA Poll: 9<br>  
 &#10004; Coaches Poll: 7<br>  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Gray (83%) def. Reco (17%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Gray (88%) def. Reco (12%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Gray (75%) def. Reco (25%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Gray (75%) def. Reco (25%)*</li>  
 <li>UTR: <b><i>TCU</i></b> - Gray (89%) def. Reco (11%)</li>  
 <li>Composite: <b><i>TCU</i></b> - Gray (84%) def. Reco (16%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Gray (40.15) def. Reco (4.00)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Fomba (94%) def. Verboven (6%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Fomba (98%) def. Verboven (2%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Fomba (75%) def. Verboven (25%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Fomba (75%) def. Verboven (25%)*</li>  
 <li>UTR: <b><i>TCU</i></b> - Fomba (92%) def. Verboven (8%)</li>  
 <li>Composite: <b><i>TCU</i></b> - Fomba (89%) def. Verboven (11%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Fomba (35.12) def. Verboven (1.79)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Jong (79%) def. Rousett (21%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Jong (81%) def. Rousett (19%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Jong (75%) def. Rousett (25%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Jong (75%) def. Rousett (25%)*</li>  
 <li>UTR: <b><i>TCU</i></b> - Jong (91%) def. Rousett (9%)</li>  
 <li>Composite: <b><i>TCU</i></b> - Jong (81%) def. Rousett (19%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jong (11.43) def. Rousett (9.93)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Fearnley (83%) def. Bucan (17%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Fearnley (91%) def. Bucan (9%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Fearnley (75%) def. Bucan (25%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Fearnley (75%) def. Bucan (25%)*</li>  
 <li>UTR: <b><i>TCU</i></b> - Fearnley (91%) def. Bucan (9%)</li>  
 <li>Composite: <b><i>TCU</i></b> - Fearnley (85%) def. Bucan (15%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Fearnley (5.67) def. Bucan (2.10)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Jirousek (87%) def. Burdet (13%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Jirousek (88%) def. Burdet (12%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Jirousek (75%) def. Burdet (25%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Jirousek (75%) def. Burdet (25%)*</li>  
 <li>UTR: <b><i>TCU</i></b> - Jirousek (86%) def. Burdet (14%)</li>  
 <li>Composite: <b><i>TCU</i></b> - Jirousek (84%) def. Burdet (16%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jirousek (6.98) def. Burdet (1.73)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Paroulek (92%) def. Paya (8%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Paroulek (96%) def. Paya (4%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Paroulek (75%) def. Paya (25%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Paroulek (75%) def. Paya (25%)*</li>  
 <li>UTR: <b><i>TCU</i></b> - Paroulek (88%) def. Paya (12%)</li>  
 <li>Composite: <b><i>TCU</i></b> - Paroulek (88%) def. Paya (12%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Paroulek (1.35) def. Paya (0.00)</li>  
@@ -147,3 +147,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _4%_ of the time.
 - If TCU wins the doubles point, their chances of winning the dual improve to _100%_.
 - If Arkansas wins the doubles point, their chances of winning the dual improve to _4%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

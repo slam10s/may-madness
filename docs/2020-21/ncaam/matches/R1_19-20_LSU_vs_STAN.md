@@ -9,7 +9,7 @@ Saturday, May 8 at 10:00 EDT
 &nbsp; ITA: 40 (19.17)<br>  
 &nbsp; Slam: 38 (92.17)<br>  
 &nbsp; TRN: 39 (90.14)<br>  
-&nbsp; Massey: 47 (6.78)<br>  
+&nbsp; Massey: 47 (6.78)*<br>  
 &nbsp; UTR: 42 (75.44)<br>  
 &nbsp; Coaches Poll: 39<br>  
 <br>  
@@ -21,7 +21,7 @@ Saturday, May 8 at 10:00 EDT
 &#10004; ITA: 21 (34.55)<br>  
 &#10004; Slam: 22 (94.00)<br>  
 &#10004; TRN: 21 (92.30)<br>  
-&#10004; Massey: 20 (7.97)<br>  
+&#10004; Massey: 20 (7.97)*<br>  
 &#10004; UTR: 5 (80.08)<br>  
 &#10004; USTA Poll: 20<br>  
 &#10004; Coaches Poll: 20<br>  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Geller (70%) def. Hohmann (30%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Geller (80%) def. Hohmann (20%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Geller (75%) def. Hohmann (25%)</li>  
+<li>Massey: <b><i>STAN</i></b> - Geller (75%) def. Hohmann (25%)*</li>  
 <li>UTR: <b><i>STAN</i></b> - Geller (80%) def. Hohmann (20%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Geller (76%) def. Hohmann (24%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Hohmann (23.83) def. Geller (6.21)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Fery (86%) def. Wagner (14%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Fery (92%) def. Wagner (8%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Fery (75%) def. Wagner (25%)</li>  
+<li>Massey: <b><i>STAN</i></b> - Fery (75%) def. Wagner (25%)*</li>  
 <li>UTR: <b><i>STAN</i></b> - Fery (94%) def. Wagner (6%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Fery (87%) def. Wagner (13%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Fery (8.87) def. Wagner (6.22)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Boyer (86%) def. Graca (14%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Boyer (87%) def. Graca (13%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Boyer (75%) def. Graca (25%)</li>  
+<li>Massey: <b><i>STAN</i></b> - Boyer (75%) def. Graca (25%)*</li>  
 <li>UTR: <b><i>STAN</i></b> - Boyer (93%) def. Graca (7%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Boyer (85%) def. Graca (15%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Boyer (2.12) def. Graca (1.37)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Rotsaert (88%) def. Kozlov (12%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Rotsaert (83%) def. Kozlov (17%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Rotsaert (75%) def. Kozlov (25%)</li>  
+<li>Massey: <b><i>STAN</i></b> - Rotsaert (75%) def. Kozlov (25%)*</li>  
 <li>UTR: <b><i>STAN</i></b> - Rotsaert (83%) def. Kozlov (17%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Rotsaert (82%) def. Kozlov (18%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Rotsaert (1.37) def. Kozlov (1.32)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Sah (85%) def. Ambrosio (15%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Sah (82%) def. Ambrosio (18%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Sah (75%) def. Ambrosio (25%)</li>  
+<li>Massey: <b><i>STAN</i></b> - Sah (75%) def. Ambrosio (25%)*</li>  
 <li>UTR: <b><i>STAN</i></b> - Sah (90%) def. Ambrosio (10%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Sah (83%) def. Ambrosio (17%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Sah (2.32) def. Ambrosio (1.97)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Genesen (71%) def. Koch (29%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Genesen (78%) def. Koch (22%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Genesen (75%) def. Koch (25%)</li>  
+<li>Massey: <b><i>STAN</i></b> - Genesen (75%) def. Koch (25%)*</li>  
 <li>UTR: <b><i>STAN</i></b> - Genesen (79%) def. Koch (21%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Genesen (76%) def. Koch (24%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Genesen (1.81) def. Koch (1.76)</li>  
@@ -147,3 +147,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _6%_ of the time.
 - If Stanford wins the doubles point, their chances of winning the dual improve to _98%_.
 - If LSU wins the doubles point, their chances of winning the dual improve to _8%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

@@ -9,7 +9,7 @@ Friday, May 7 at 1:00 EDT
 &nbsp; ITA: 38 (19.84)<br>  
 &nbsp; Slam: 42 (86.60)<br>  
 &nbsp; TRN: 39 (78.82)<br>  
-&nbsp; Massey: 44 (6.49)<br>  
+&nbsp; Massey: 44 (6.49)*<br>  
 &nbsp; UTR: 36 (59.84)<br>  
 &nbsp; Coaches Poll: 38<br>  
 <br>  
@@ -21,7 +21,7 @@ Friday, May 7 at 1:00 EDT
 &#10004; ITA: 31 (26.09)<br>  
 &#10004; Slam: 31 (88.20)<br>  
 &#10004; TRN: 33 (79.83)<br>  
-&#10004; Massey: 24 (7.65)<br>  
+&#10004; Massey: 24 (7.65)*<br>  
 &#10004; UTR: 23 (61.59)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 30<br>  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AZST</i></b> - Hattingh (65%) def. Antonaki (35%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Antonaki (61%) def. Hattingh (39%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Antonaki (75%) def. Hattingh (25%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Antonaki (75%) def. Hattingh (25%)*</li>  
 <li>UTR: <b><i>MSST</i></b> - Antonaki (59%) def. Hattingh (41%)</li>  
 <li>Composite: <b><i>MSST</i></b> - Antonaki (57%) def. Hattingh (43%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Antonaki (17.81) def. Hattingh (6.86)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AZST</i></b> - Hampton (62%) def. Adaloglou (38%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Hampton (53%) def. Adaloglou (47%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Hampton (75%) def. Adaloglou (25%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Hampton (75%) def. Adaloglou (25%)*</li>  
 <li>UTR: <b><i>MSST</i></b> - Adaloglou (54%) def. Hampton (46%)</li>  
 <li>Composite: <b><i>AZST</i></b> - Hampton (59%) def. Adaloglou (41%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Adaloglou (3.24) def. Hampton (1.50)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AZST</i></b> - John-Baptiste (66%) def. Racine (34%)</li>  
 <li>TRN: <b><i>AZST</i></b> - John-Baptiste (76%) def. Racine (24%)</li>  
-<li>Massey: <b><i>AZST</i></b> - John-Baptiste (75%) def. Racine (25%)</li>  
+<li>Massey: <b><i>AZST</i></b> - John-Baptiste (75%) def. Racine (25%)*</li>  
 <li>UTR: <b><i>AZST</i></b> - John-Baptiste (81%) def. Racine (19%)</li>  
 <li>Composite: <b><i>AZST</i></b> - John-Baptiste (74%) def. Racine (26%)</li>  
 <li>ITA: <b><i>AZST</i></b> - John-Baptiste (2.78) def. Racine (2.04)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AZST</i></b> - Morlet (68%) def. Mikhailuk (32%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Morlet (67%) def. Mikhailuk (33%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Morlet (75%) def. Mikhailuk (25%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Morlet (75%) def. Mikhailuk (25%)*</li>  
 <li>UTR: <b><i>AZST</i></b> - Morlet (82%) def. Mikhailuk (18%)</li>  
 <li>Composite: <b><i>AZST</i></b> - Morlet (73%) def. Mikhailuk (27%)</li>  
 <li>ITA: <b><i>AZST</i></b> - Morlet (2.20) def. Mikhailuk (0.00)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AZST</i></b> - Argyrokastriti (69%) def. Poling (31%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Argyrokastriti (76%) def. Poling (24%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Argyrokastriti (75%) def. Poling (25%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Argyrokastriti (75%) def. Poling (25%)*</li>  
 <li>UTR: <b><i>AZST</i></b> - Argyrokastriti (85%) def. Poling (15%)</li>  
 <li>Composite: <b><i>AZST</i></b> - Argyrokastriti (76%) def. Poling (24%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Poling (2.33) def. Argyrokastriti (2.12)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Cirotte (52%) def. Turkovic (48%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Cirotte (55%) def. Turkovic (45%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Turkovic (75%) def. Cirotte (25%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Turkovic (75%) def. Cirotte (25%)*</li>  
 <li>UTR: <b><i>AZST</i></b> - Turkovic (56%) def. Cirotte (44%)</li>  
 <li>Composite: <b><i>AZST</i></b> - Turkovic (56%) def. Cirotte (44%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Cirotte (2.24) def. Turkovic (1.94)</li>  
@@ -147,3 +147,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _25%_ of the time.
 - If Arizona St. wins the doubles point, their chances of winning the dual improve to _88%_.
 - If Mississippi St. wins the doubles point, their chances of winning the dual improve to _37%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

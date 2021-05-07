@@ -9,7 +9,7 @@ Friday, May 7 at 5:00 EDT
 &nbsp; ITA: 55 (5.64)<br>  
 &nbsp; Slam: 55 (85.74)<br>  
 &nbsp; TRN: 55 (82.45)<br>  
-&nbsp; Massey: 54 (5.94)<br>  
+&nbsp; Massey: 54 (5.94)*<br>  
 &nbsp; UTR: 60 (70.67)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 5:00 EDT
 &#10004; ITA: 18 (36.82)<br>  
 &#10004; Slam: 6 (98.81)<br>  
 &#10004; TRN: 4 (98.96)<br>  
-&#10004; Massey: 9 (8.60)<br>  
+&#10004; Massey: 9 (8.60)*<br>  
 &#10004; UTR: 15 (78.92)<br>  
 &#10004; USTA Poll: 8<br>  
 &#10004; Coaches Poll: 13<br>  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Kovacevic (75%) def. Tonejc (25%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Kovacevic (75%) def. Tonejc (25%)*</li>  
 <li>UTR: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>Composite: <b><i>ILL</i></b> - Kovacevic (92%) def. Tonejc (8%)</li>  
 <li>ITA: <b><i>DEP</i></b> - Tonejc (4.23) def. Kovacevic (4.00)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Montsi (75%) def. Casati (25%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Montsi (75%) def. Casati (25%)*</li>  
 <li>UTR: <b><i>ILL</i></b> - Montsi (98%) def. Casati (2%)</li>  
 <li>Composite: <b><i>ILL</i></b> - Montsi (93%) def. Casati (7%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Montsi (4.79) def. Casati (0.00)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Brown (75%) def. Spanjaard (25%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Brown (75%) def. Spanjaard (25%)*</li>  
 <li>UTR: <b><i>ILL</i></b> - Brown (92%) def. Spanjaard (8%)</li>  
 <li>Composite: <b><i>ILL</i></b> - Brown (90%) def. Spanjaard (10%)</li>  
 <li>ITA: <b><i>DEP</i></b> - Spanjaard (2.02) def. Brown (1.47)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Clark (98%) def. Zador (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Clark (99%) def. Zador (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Clark (75%) def. Zador (25%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Clark (75%) def. Zador (25%)*</li>  
 <li>UTR: <b><i>ILL</i></b> - Clark (96%) def. Zador (4%)</li>  
 <li>Composite: <b><i>ILL</i></b> - Clark (92%) def. Zador (8%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Clark (6.43) def. Zador (1.31)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Heck (98%) def. Tonejc (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Heck (99%) def. Tonejc (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Heck (75%) def. Tonejc (25%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Heck (75%) def. Tonejc (25%)*</li>  
 <li>UTR: <b><i>ILL</i></b> - Heck (96%) def. Tonejc (4%)</li>  
 <li>Composite: <b><i>ILL</i></b> - Heck (92%) def. Tonejc (8%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Heck (2.36) def. Tonejc (1.51)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Khlif (75%) def. Wassenaar (25%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Khlif (75%) def. Wassenaar (25%)*</li>  
 <li>UTR: <b><i>ILL</i></b> - Khlif (97%) def. Wassenaar (3%)</li>  
 <li>Composite: <b><i>ILL</i></b> - Khlif (92%) def. Wassenaar (8%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Khlif (3.59) def. Wassenaar (2.18)</li>  
@@ -146,3 +146,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _1%_ of the time.
 - If Illinois wins the doubles point, their chances of winning the dual improve to _100%_.
 - If DePaul wins the doubles point, their chances of winning the dual improve to _1%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.

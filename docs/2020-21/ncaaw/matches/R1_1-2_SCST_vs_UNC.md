@@ -8,7 +8,7 @@ Friday, May 7 at 1:00 EDT
 <h2>#4 South Carolina St.</h2>  
 &nbsp; Slam: 62 (70.68)<br>  
 &nbsp; TRN: 61 (58.72)<br>  
-&nbsp; Massey: 62 (3.52)<br>  
+&nbsp; Massey: 62 (3.52)*<br>  
 &nbsp; UTR: 63 (44.35)<br>  
 <br>  
 
@@ -19,7 +19,7 @@ Friday, May 7 at 1:00 EDT
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
-&#10004; Massey: 1 (9.82)<br>  
+&#10004; Massey: 1 (9.82)*<br>  
 &#10004; UTR: 2 (65.21)<br>  
 &#10004; USTA Poll: 1<br>  
 &#10004; Coaches Poll: 1<br>  
@@ -57,7 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Daavettila (75%) def. Berjane (25%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Daavettila (75%) def. Berjane (25%)*</li>  
 <li>UTR: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>Composite: <b><i>UNC</i></b> - Daavettila (93%) def. Berjane (7%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Daavettila (64.17) def. Berjane (0.00)</li>  
@@ -68,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Graham (75%) def. Semlali (25%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Graham (75%) def. Semlali (25%)*</li>  
 <li>UTR: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>Composite: <b><i>UNC</i></b> - Graham (93%) def. Semlali (7%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Graham (15.03) def. Semlali (0.00)</li>  
@@ -79,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Morra (75%) def. Mihajilovic (25%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Morra (75%) def. Mihajilovic (25%)*</li>  
 <li>UTR: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>Composite: <b><i>UNC</i></b> - Morra (93%) def. Mihajilovic (7%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Morra (20.00) def. Mihajilovic (0.00)</li>  
@@ -90,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Scotty (75%) def. Patnaik (25%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Scotty (75%) def. Patnaik (25%)*</li>  
 <li>UTR: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>Composite: <b><i>UNC</i></b> - Scotty (93%) def. Patnaik (7%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Scotty (5.93) def. Patnaik (2.21)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Jones (75%) def. Rassif (25%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Jones (75%) def. Rassif (25%)*</li>  
 <li>UTR: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>Composite: <b><i>UNC</i></b> - Jones (93%) def. Rassif (7%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Jones (18.39) def. Rassif (1.48)</li>  
@@ -112,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Crawley (100%) def. Aguilar (0%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Crawley (100%) def. Aguilar (0%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Crawley (75%) def. Aguilar (25%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Crawley (75%) def. Aguilar (25%)*</li>  
 <li>UTR: <b><i>UNC</i></b> - Crawley (99%) def. Aguilar (1%)</li>  
 <li>Composite: <b><i>UNC</i></b> - Crawley (93%) def. Aguilar (7%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Crawley (16.89) def. Aguilar (0.00)</li>  
@@ -145,3 +145,5 @@ Based on the composite metrics for each individual match:
 - The winner of the doubles point will decide the match the other _0%_ of the time.
 - If North Carolina wins the doubles point, their chances of winning the dual improve to _100%_.
 - If South Carolina St. wins the doubles point, their chances of winning the dual improve to _0%_.
+
+* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
