@@ -8,6 +8,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#4 Presbyterian</h2>  
+(11-6)  
 &nbsp; ITA: 59 (3.97)<br>  
 &nbsp; Slam: 59 (82.26)<br>  
 &nbsp; TRN: 59 (77.90)<br>  
@@ -19,6 +20,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#1 North Carolina</h2>  
+(19-3)  
 &#10004; ITA: 6 (72.02)<br>  
 &#10004; Slam: 3 (99.37)<br>  
 &#10004; TRN: 2 (99.37)<br>  

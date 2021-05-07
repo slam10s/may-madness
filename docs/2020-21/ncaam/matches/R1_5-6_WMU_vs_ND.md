@@ -8,6 +8,7 @@ Urbana, Illinois
 <td>  
 
 <h2>#3 Western Mich.</h2>  
+(22-1)  
 &nbsp; ITA: 41 (18.89)<br>  
 &nbsp; Slam: 47 (89.83)<br>  
 &nbsp; TRN: 46 (88.71)<br>  
@@ -21,6 +22,7 @@ Urbana, Illinois
 <td>  
 
 <h2>#2 Notre Dame</h2>  
+(14-10)  
 &#10004; ITA: 34 (25.22)<br>  
 &#10004; Slam: 40 (91.96)<br>  
 &#10004; TRN: 42 (89.57)<br>  

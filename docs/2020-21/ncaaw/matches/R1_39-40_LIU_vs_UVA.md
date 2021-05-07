@@ -8,6 +8,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#4 LIU</h2>  
+(9-0)  
 &nbsp; ITA: 52 (4.20)<br>  
 &nbsp; Slam: 61 (70.79)<br>  
 &nbsp; TRN: 63 (55.66)<br>  
@@ -19,6 +20,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#1 Virginia</h2>  
+(14-6)  
 &#10004; ITA: 14 (47.67)<br>  
 &#10004; Slam: 9 (91.88)<br>  
 &#10004; TRN: 11 (84.03)<br>  

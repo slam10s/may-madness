@@ -8,6 +8,7 @@ Waco, Texas
 <td>  
 
 <h2>#3 Alabama</h2>  
+(12-12)  
 &nbsp; ITA: 42 (16.54)<br>  
 &nbsp; Slam: 44 (86.23)<br>  
 &nbsp; TRN: 44 (78.28)<br>  
@@ -20,6 +21,7 @@ Waco, Texas
 <td>  
 
 <h2>#2 Duke</h2>  
+(15-6)  
 &#10004; ITA: 17 (43.03)<br>  
 &#10004; Slam: 14 (90.91)<br>  
 &#10004; TRN: 15 (83.33)<br>  

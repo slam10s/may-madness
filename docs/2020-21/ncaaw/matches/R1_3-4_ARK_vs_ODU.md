@@ -8,6 +8,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#3 Arkansas</h2>  
+(11-11)  
 &nbsp; ITA: 32 (26.02)<br>  
 &nbsp; Slam: 38 (87.39)<br>  
 &nbsp; TRN: 32 (79.87)<br>  
@@ -20,6 +21,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#2 Old Dominion</h2>  
+(13-4)  
 &#10004; ITA: 30 (28.00)<br>  
 &#10004; Slam: 28 (89.21)<br>  
 &#10004; TRN: 25 (81.50)<br>  

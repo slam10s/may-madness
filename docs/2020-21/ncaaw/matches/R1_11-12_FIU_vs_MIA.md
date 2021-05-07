@@ -8,6 +8,7 @@ Orlando, Florida
 <td>  
 
 <h2>#3 FIU</h2>  
+(12-1)  
 &nbsp; ITA: 41 (18.12)<br>  
 &nbsp; Slam: 30 (88.35)<br>  
 &nbsp; TRN: 29 (81.34)<br>  
@@ -21,6 +22,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Miami (FL)</h2>  
+(14-8)  
 &#10004; ITA: 24 (38.72)<br>  
 &#10004; Slam: 22 (90.21)<br>  
 &#10004; TRN: 21 (82.31)<br>  

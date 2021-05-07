@@ -8,6 +8,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#4 Fairleigh Dickinson</h2>  
+(6-4)  
 &nbsp; ITA: 62 (1.95)<br>  
 &nbsp; Slam: 65 (72.33)<br>  
 &nbsp; TRN: 65 (65.17)<br>  
@@ -19,6 +20,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#1 Virginia</h2>  
+(21-2)  
 &#10004; ITA: 4 (74.36)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  

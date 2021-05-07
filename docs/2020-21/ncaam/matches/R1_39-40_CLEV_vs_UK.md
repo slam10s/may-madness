@@ -8,6 +8,7 @@ Lexington, Kentucky
 <td>  
 
 <h2>#4 Cleveland St.</h2>  
+(18-4)  
 &nbsp; ITA: 57 (4.43)<br>  
 &nbsp; Slam: 56 (84.36)<br>  
 &nbsp; TRN: 56 (81.28)<br>  
@@ -19,6 +20,7 @@ Lexington, Kentucky
 <td>  
 
 <h2>#1 Kentucky</h2>  
+(18-7)  
 &#10004; ITA: 15 (44.70)<br>  
 &#10004; Slam: 17 (95.87)<br>  
 &#10004; TRN: 17 (93.83)<br>  

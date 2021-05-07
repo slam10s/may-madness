@@ -8,6 +8,7 @@ Raleigh, North Carolina
 <td>  
 
 <h2>#3 Iowa St.</h2>  
+(13-7)  
 &nbsp; ITA: 36 (22.35)<br>  
 &nbsp; Slam: 41 (86.71)<br>  
 &nbsp; TRN: 42 (78.56)<br>  
@@ -20,6 +21,7 @@ Raleigh, North Carolina
 <td>  
 
 <h2>#2 South Carolina</h2>  
+(12-11)  
 &#10004; ITA: 22 (39.21)<br>  
 &#10004; Slam: 27 (89.34)<br>  
 &#10004; TRN: 28 (81.46)<br>  

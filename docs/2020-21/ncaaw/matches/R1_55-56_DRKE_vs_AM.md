@@ -8,6 +8,7 @@ Evanston, Illinois
 <td>  
 
 <h2>#4 Drake</h2>  
+(11-8)  
 &nbsp; ITA: 63 (1.98)<br>  
 &nbsp; Slam: 58 (75.98)<br>  
 &nbsp; TRN: 58 (65.50)<br>  
@@ -19,6 +20,7 @@ Evanston, Illinois
 <td>  
 
 <h2>#1 Texas A&M</h2>  
+(19-7)  
 &#10004; ITA: 10 (50.15)<br>  
 &#10004; Slam: 15 (90.86)<br>  
 &#10004; TRN: 14 (83.43)<br>  

@@ -8,6 +8,7 @@ Columbus, Ohio
 <td>  
 
 <h2>#4 UIC</h2>  
+(14-5)  
 &nbsp; ITA: 59 (2.42)<br>  
 &nbsp; Slam: 57 (76.42)<br>  
 &nbsp; TRN: 59 (65.14)<br>  
@@ -19,6 +20,7 @@ Columbus, Ohio
 <td>  
 
 <h2>#1 Ohio St.</h2>  
+(21-3)  
 &#10004; ITA: 18 (43.02)<br>  
 &#10004; Slam: 5 (92.95)<br>  
 &#10004; TRN: 5 (85.87)<br>  

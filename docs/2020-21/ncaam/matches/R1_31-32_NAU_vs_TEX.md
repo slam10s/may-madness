@@ -8,6 +8,7 @@ Austin, Texas
 <td>  
 
 <h2>#4 Northern Ariz.</h2>  
+(8-8)  
 &nbsp; ITA: 61 (2.13)<br>  
 &nbsp; Slam: 58 (82.40)<br>  
 &nbsp; TRN: 60 (77.79)<br>  
@@ -19,6 +20,7 @@ Austin, Texas
 <td>  
 
 <h2>#1 Texas</h2>  
+(20-5)  
 &#10004; ITA: 5 (74.24)<br>  
 &#10004; Slam: 8 (97.59)<br>  
 &#10004; TRN: 7 (97.63)<br>  

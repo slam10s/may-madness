@@ -8,6 +8,7 @@ Athens, Georgia
 <td>  
 
 <h2>#3 Furman</h2>  
+(21-7)  
 &nbsp; ITA: 34 (25.42)<br>  
 &nbsp; Slam: 33 (87.98)<br>  
 &nbsp; TRN: 35 (79.59)<br>  
@@ -21,6 +22,7 @@ Athens, Georgia
 <td>  
 
 <h2>#2 Wake Forest</h2>  
+(12-12)  
 &#10004; ITA: 33 (25.77)<br>  
 &#10004; Slam: 32 (88.11)<br>  
 &#10004; TRN: 31 (80.20)<br>  

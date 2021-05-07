@@ -8,6 +8,7 @@ Fort Worth, Texas
 <td>  
 
 <h2>#4 Arkansas</h2>  
+(10-14)  
 &nbsp; ITA: 43 (18.30)<br>  
 &nbsp; Slam: 43 (91.55)<br>  
 &nbsp; TRN: 44 (89.43)<br>  
@@ -20,6 +21,7 @@ Fort Worth, Texas
 <td>  
 
 <h2>#1 TCU</h2>  
+(16-7)  
 &#10004; ITA: 7 (69.22)<br>  
 &#10004; Slam: 9 (97.57)<br>  
 &#10004; TRN: 9 (96.56)<br>  

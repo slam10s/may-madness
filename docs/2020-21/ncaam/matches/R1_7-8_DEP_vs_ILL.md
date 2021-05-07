@@ -8,6 +8,7 @@ Urbana, Illinois
 <td>  
 
 <h2>#4 DePaul</h2>  
+(15-6)  
 &nbsp; ITA: 55 (5.64)<br>  
 &nbsp; Slam: 55 (85.74)<br>  
 &nbsp; TRN: 55 (82.45)<br>  
@@ -19,6 +20,7 @@ Urbana, Illinois
 <td>  
 
 <h2>#1 Illinois</h2>  
+(21-2)  
 &#10004; ITA: 18 (36.82)<br>  
 &#10004; Slam: 6 (98.81)<br>  
 &#10004; TRN: 4 (98.96)<br>  
