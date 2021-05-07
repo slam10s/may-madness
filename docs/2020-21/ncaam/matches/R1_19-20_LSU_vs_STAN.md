@@ -139,7 +139,7 @@ Click on a Singles match to show individual predections for each line.
 </details>&nbsp;</li>
 </ol>
 
-### Individual Predictions  
+### Dual Outcome Based on Individual Metrics  
 
 Based on the composite metrics for each individual match:  
 - Stanford should win 4 or more singles matches _92%_ of the time.
