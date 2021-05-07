@@ -32,6 +32,8 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  4:00 EDT	[Arizona St. vs #2 Texas](./matches/R2_61-64_AZST_vs_TEX.md) ... TEX (93%) / AZST (7%)
 ## First Round
 
+### Intriguing Matches
+
 The various metrics disagree on the outcome of these matches:
 
 - Fri, 5/07 at  1:00 EDT	[Oklahoma St. vs Auburn](./matches/R1_51-52_OKST_vs_AUB.md) ... <b>AUB (4)</b> / OKST (2)

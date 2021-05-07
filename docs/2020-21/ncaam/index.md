@@ -19,6 +19,8 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... A&M (89%) / OKLA (11%)
 ## First Round
 
+### Intriguing Matches
+
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at 10:00 EDT	[Virginia Tech vs Texas Tech](./matches/R1_43-44_VT_vs_TTU.md) ... TTU (48%) / <i>VT (52%)</i>
