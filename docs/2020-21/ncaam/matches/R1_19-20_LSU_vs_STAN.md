@@ -1,6 +1,8 @@
 First Round  
-Saturday, May 8 at 10:00 EDT
-## [LSU vs Stanford](https://www.ncaa.com/game/5833379) 
+Saturday, May 8 at 10:00 EDT  
+Virginia Tennis Facility at the Boar’s Head Resort  
+Charlottesville, pre  
+## [LSU vs Stanford](https://www.ncaa.com/game/5833379)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></td></tr><tr>
 <td>  

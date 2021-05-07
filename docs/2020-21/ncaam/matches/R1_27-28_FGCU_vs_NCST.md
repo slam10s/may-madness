@@ -1,6 +1,8 @@
 First Round  
-Friday, May 7 at 10:00 EDT
-## [FGCU vs NC State](https://www.ncaa.com/game/5833383) 
+Friday, May 7 at 10:00 EDT  
+Carolina Tennis Center  
+Columbia, pre  
+## [FGCU vs NC State](https://www.ncaa.com/game/5833383)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fgcu.70.png" width="70" height="70" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  

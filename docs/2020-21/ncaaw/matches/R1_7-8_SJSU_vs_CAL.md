@@ -1,6 +1,8 @@
 First Round  
-Friday, May 7 at 4:00 EDT
-## [San Jose St. vs #16 California](https://www.ncaa.com/game/5833650) 
+Friday, May 7 at 4:00 EDT  
+Hellman Tennis Complex  
+Berkeley, pre  
+## [San Jose St. vs #16 California](https://www.ncaa.com/game/5833650)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0032A0 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></td><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
