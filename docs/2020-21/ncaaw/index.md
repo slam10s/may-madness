@@ -4,7 +4,7 @@ Return to the [Home Page](../../index.md)
 
 ## First Round
 
-### Upset Alert!
+### Evenly Matched
 
 The various metrics disagree on the outcome of these matches:
 
