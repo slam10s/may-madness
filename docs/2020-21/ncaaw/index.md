@@ -3,6 +3,9 @@
 Return to the [Home Page](../../index.md)
 
 ## Second Round
+
+### Intriguing Matches
+
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at  1:00 EDT	[Northwestern vs #10 Texas A&M](./matches/R2_53-56_NW_vs_AM.md) ... NW (51%) / A&M (49%)
@@ -10,6 +13,7 @@ The various metrics disagree on the outcome of these matches:
 - Sat, 5/08 at  4:00 EDT	[Tennessee vs #14 Virginia](./matches/R2_37-40_TENN_vs_UVA.md) ... UVA (69%) / TENN (31%)
 - Sat, 5/08 at  2:00 EDT	[Michigan vs #12 LSU](./matches/R2_21-24_MICH_vs_LSU.md) ... MICH (75%) / LSU (25%)
 - Sat, 5/08 at  4:00 EDT	[Southern California vs #11 Florida](./matches/R2_41-44_USC_vs_FLA.md) ... FLA (81%) / USC (19%)
+
 The metrics agree on the winner, but not by a lot:
 
 - Sat, 5/08 at  4:00 EDT	[Kentucky vs #16 California](./matches/R2_5-8_UK_vs_CAL.md) ... CAL (76%) / UK (24%)
@@ -26,11 +30,13 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  4:00 EDT	[Wake Forest vs #3 Georgia](./matches/R2_33-36_WAKE_vs_UGA.md) ... UGA (93%) / WAKE (7%)
 - Sat, 5/08 at  4:00 EDT	[Arizona St. vs #2 Texas](./matches/R2_61-64_AZST_vs_TEX.md) ... TEX (93%) / AZST (7%)
 ## First Round
+
 The various metrics disagree on the outcome of these matches:
 
 - Fri, 5/07 at  1:00 EDT	[Oklahoma St. vs Auburn](./matches/R1_51-52_OKST_vs_AUB.md) ... <b>AUB (4)</b> / OKST (2)
 - Fri, 5/07 at 10:00 EDT	[Southern California vs Oklahoma](./matches/R1_43-44_USC_vs_OKLA.md) ... OKLA (3) / <b>USC (4)</b>
 - Fri, 5/07 at 10:00 EDT	[Furman vs Wake Forest](./matches/R1_35-36_FUR_vs_WAKE.md) ... <b>WAKE (4)</b> / FUR (2)
+
 The metrics agree on the winner, but not by a lot:
 
 - Fri, 5/07 at  4:00 EDT	[San Diego vs Texas Tech](./matches/R1_29-30_USD_vs_TTU.md) ... TTU (64%) / USD (36%)

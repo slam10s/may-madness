@@ -3,6 +3,9 @@
 Return to the [Home Page](../../index.md)
 
 ## Second Round
+
+### Intriguing Matches
+
 The metrics agree on the winner, but not by a lot:
 
 - Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (74%) / ARIZ (26%)
@@ -15,6 +18,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  4:00 EDT	[Pepperdine vs #12 Southern California](./matches/R2_21-24_PEPP_vs_USC.md) ... USC (87%) / PEPP (13%)
 - Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... A&M (89%) / OKLA (11%)
 ## First Round
+
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at 10:00 EDT	[Virginia Tech vs Texas Tech](./matches/R1_43-44_VT_vs_TTU.md) ... VT (52%) / TTU (48%)
@@ -22,6 +26,7 @@ The various metrics disagree on the outcome of these matches:
 - Sat, 5/08 at 12:00 EDT	[Oregon vs Alabama](./matches/R1_61-62_ORE_vs_BAMA.md) ... BAMA (56%) / ORE (44%)
 - Fri, 5/07 at 10:00 EDT	[Michigan vs Arizona](./matches/R1_37-38_MICH_vs_ARIZ.md) ... MICH (3) / <b>ARIZ (4)</b>
 - Fri, 5/07 at  2:00 EDT	[Western Mich. vs Notre Dame](./matches/R1_5-6_WMU_vs_ND.md) ... <b>ND (4)</b> / WMU (1)
+
 The metrics agree on the winner, but not by a lot:
 
 - Sat, 5/08 at 10:00 EDT	[Northwestern vs UCLA](./matches/R1_29-30_NW_vs_UCLA.md) ... UCLA (63%) / NW (37%)
