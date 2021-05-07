@@ -1,7 +1,7 @@
 First Round  
 Friday, May 7 at 2:00 EDT  
 J.W. Isenhour Tennis Center  
-Raleigh, pre  
+Raleigh, North Carolina  
 ## [VCU vs #6 NC State](https://www.ncaa.com/game/5833670)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></td></tr><tr>

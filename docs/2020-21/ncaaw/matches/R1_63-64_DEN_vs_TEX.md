@@ -1,7 +1,7 @@
 First Round  
 Friday, May 7 at 4:00 EDT  
 Texas Tennis Center  
-Austin, pre  
+Austin, Texas  
 ## [Denver vs #2 Texas](https://www.ncaa.com/game/5833678)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></td><td style="background-color: #CB6015 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></td></tr><tr>

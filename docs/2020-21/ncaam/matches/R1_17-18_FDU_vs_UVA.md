@@ -1,7 +1,7 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
 Virginia Tennis Facility at the Boar’s Head Resort  
-Charlottesville, pre  
+Charlottesville, Virginia  
 ## [Fairleigh Dickinson vs #5 Virginia](https://www.ncaa.com/game/5833378)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002F6C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>

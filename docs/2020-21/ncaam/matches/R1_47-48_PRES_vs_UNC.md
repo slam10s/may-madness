@@ -1,7 +1,7 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
 Cone-Kenfield Center  
-Chapel Hill, pre  
+Chapel Hill, North Carolina  
 ## [Presbyterian vs #6 North Carolina](https://www.ncaa.com/game/5833393)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005394 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></td></tr><tr>

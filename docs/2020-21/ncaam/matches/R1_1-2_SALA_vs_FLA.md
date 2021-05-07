@@ -1,7 +1,7 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
 Alfred A. Ring Tennis Complex  
-Gainesville, pre  
+Gainesville, Florida  
 ## [South Alabama vs #1 Florida](https://www.ncaa.com/game/5833370)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BF0D3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png" width="70" height="70" /></td><td style="background-color: #003087 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></td></tr><tr>

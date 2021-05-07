@@ -1,7 +1,7 @@
 First Round  
 Friday, May 7 at 11:00 EDT  
 J.W. Isenhour Tennis Center  
-Raleigh, pre  
+Raleigh, North Carolina  
 ## [Iowa St. vs South Carolina](https://www.ncaa.com/game/5833669)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #A6192E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></td><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></td></tr><tr>
