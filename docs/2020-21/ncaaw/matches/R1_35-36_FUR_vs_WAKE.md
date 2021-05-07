@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 10:00 EDT
-## [Wake Forest vs Furman](https://www.ncaa.com/game/5833664) 
+## [Furman vs Wake Forest](https://www.ncaa.com/game/5833664) 
 
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></td></tr><tr>
 <td>  

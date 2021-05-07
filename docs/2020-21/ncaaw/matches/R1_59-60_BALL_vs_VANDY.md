@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 11:00 EDT
-## [Vanderbilt vs Ball St.](https://www.ncaa.com/game/5833676) 
+## [Ball St. vs Vanderbilt](https://www.ncaa.com/game/5833676) 
 
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
