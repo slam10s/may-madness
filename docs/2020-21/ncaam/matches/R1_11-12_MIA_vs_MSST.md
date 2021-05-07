@@ -138,3 +138,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- Mississippi St. should win 4 or more singles matches _75%_ of the time.
+- Miami (FL) should win 4 or more singles matches _6%_ of the time.
+- The winner of the doubles point will decide the match the other _19%_ of the time.
+- If Mississippi St. wins the doubles point, their chances of winning the dual improve to _94%_.
+- If Miami (FL) wins the doubles point, their chances of winning the dual improve to _25%_.

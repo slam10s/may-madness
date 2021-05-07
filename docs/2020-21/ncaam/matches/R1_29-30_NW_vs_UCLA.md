@@ -137,3 +137,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- UCLA should win 4 or more singles matches _34%_ of the time.
+- Northwestern should win 4 or more singles matches _33%_ of the time.
+- The winner of the doubles point will decide the match the other _33%_ of the time.
+- If UCLA wins the doubles point, their chances of winning the dual improve to _67%_.
+- If Northwestern wins the doubles point, their chances of winning the dual improve to _66%_.

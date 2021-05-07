@@ -137,3 +137,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- Oklahoma St. should win 4 or more singles matches _97%_ of the time.
+- Navy should win 4 or more singles matches _0%_ of the time.
+- The winner of the doubles point will decide the match the other _3%_ of the time.
+- If Oklahoma St. wins the doubles point, their chances of winning the dual improve to _100%_.
+- If Navy wins the doubles point, their chances of winning the dual improve to _3%_.

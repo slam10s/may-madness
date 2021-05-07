@@ -135,3 +135,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- Vanderbilt should win 4 or more singles matches _99%_ of the time.
+- Ball St. should win 4 or more singles matches _0%_ of the time.
+- The winner of the doubles point will decide the match the other _1%_ of the time.
+- If Vanderbilt wins the doubles point, their chances of winning the dual improve to _100%_.
+- If Ball St. wins the doubles point, their chances of winning the dual improve to _1%_.

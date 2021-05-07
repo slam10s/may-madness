@@ -137,3 +137,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- Auburn should win 4 or more singles matches _18%_ of the time.
+- Oklahoma St. should win 4 or more singles matches _52%_ of the time.
+- The winner of the doubles point will decide the match the other _30%_ of the time.
+- If Auburn wins the doubles point, their chances of winning the dual improve to _48%_.
+- If Oklahoma St. wins the doubles point, their chances of winning the dual improve to _82%_.

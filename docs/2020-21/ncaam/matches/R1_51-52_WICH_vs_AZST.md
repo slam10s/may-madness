@@ -138,3 +138,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- Arizona St. should win 4 or more singles matches _37%_ of the time.
+- Wichita St. should win 4 or more singles matches _28%_ of the time.
+- The winner of the doubles point will decide the match the other _35%_ of the time.
+- If Arizona St. wins the doubles point, their chances of winning the dual improve to _72%_.
+- If Wichita St. wins the doubles point, their chances of winning the dual improve to _63%_.

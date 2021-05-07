@@ -136,3 +136,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- Texas Tech should win 4 or more singles matches _44%_ of the time.
+- San Diego should win 4 or more singles matches _22%_ of the time.
+- The winner of the doubles point will decide the match the other _34%_ of the time.
+- If Texas Tech wins the doubles point, their chances of winning the dual improve to _78%_.
+- If San Diego wins the doubles point, their chances of winning the dual improve to _56%_.

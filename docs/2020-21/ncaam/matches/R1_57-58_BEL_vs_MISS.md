@@ -137,3 +137,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- Ole Miss should win 4 or more singles matches _99%_ of the time.
+- Belmont should win 4 or more singles matches _0%_ of the time.
+- The winner of the doubles point will decide the match the other _1%_ of the time.
+- If Ole Miss wins the doubles point, their chances of winning the dual improve to _100%_.
+- If Belmont wins the doubles point, their chances of winning the dual improve to _1%_.

@@ -137,3 +137,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- Georgia should win 4 or more singles matches _98%_ of the time.
+- ETSU should win 4 or more singles matches _0%_ of the time.
+- The winner of the doubles point will decide the match the other _2%_ of the time.
+- If Georgia wins the doubles point, their chances of winning the dual improve to _100%_.
+- If ETSU wins the doubles point, their chances of winning the dual improve to _2%_.

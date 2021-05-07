@@ -137,3 +137,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- Pepperdine should win 4 or more singles matches _82%_ of the time.
+- UC Santa Barbara should win 4 or more singles matches _4%_ of the time.
+- The winner of the doubles point will decide the match the other _14%_ of the time.
+- If Pepperdine wins the doubles point, their chances of winning the dual improve to _96%_.
+- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _18%_.

@@ -138,3 +138,12 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
+
+### Individual Predictions  
+
+Based on the composite metrics for each individual match:  
+- Georgia Tech should win 4 or more singles matches _73%_ of the time.
+- Memphis should win 4 or more singles matches _7%_ of the time.
+- The winner of the doubles point will decide the match the other _20%_ of the time.
+- If Georgia Tech wins the doubles point, their chances of winning the dual improve to _93%_.
+- If Memphis wins the doubles point, their chances of winning the dual improve to _27%_.
