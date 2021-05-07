@@ -53,7 +53,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Ilze Hattingh (MSST) - 10-7 at #1, 10-7 in duals, 11-7 overall<br>Emma Antonaki (AZST) - 5-2 at #1, 14-4 in duals, 16-4 overall</summary>
+<summary markdown="span">Emma Antonaki (MSST) - 5-2 at #1, 14-4 in duals, 16-4 overall<br>Ilze Hattingh (AZST) - 10-7 at #1, 10-7 in duals, 11-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AZST</i></b> - Hattingh (65%) def. Antonaki (35%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Antonaki (61%) def. Hattingh (39%)</li>  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Sammi Hampton (MSST) - 6-8 at #2, 6-8 in duals, 6-8 overall<br>Magda Adaloglou (AZST) - 5-2 at #2, 11-4 in duals, 12-5 overall</summary>
+<summary markdown="span">Magda Adaloglou (MSST) - 5-2 at #2, 11-4 in duals, 12-5 overall<br>Sammi Hampton (AZST) - 6-8 at #2, 6-8 in duals, 6-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AZST</i></b> - Hampton (62%) def. Adaloglou (38%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Hampton (53%) def. Adaloglou (47%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lauryn John-Baptiste (MSST) - 11-6 at #3, 11-6 in duals, 11-6 overall<br>Tamara Racine (AZST) - 1-1 at #3, 7-9 in duals, 9-13 overall</summary>
+<summary markdown="span">Tamara Racine (MSST) - 1-1 at #3, 7-9 in duals, 9-13 overall<br>Lauryn John-Baptiste (AZST) - 11-6 at #3, 11-6 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AZST</i></b> - John-Baptiste (66%) def. Racine (34%)</li>  
 <li>TRN: <b><i>AZST</i></b> - John-Baptiste (76%) def. Racine (24%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Giulia Morlet (MSST) - 8-5 at #4, 9-5 in duals, 10-5 overall<br>Alex Mikhailuk (AZST) - 6-7 at #4, 10-11 in duals, 16-15 overall</summary>
+<summary markdown="span">Alex Mikhailuk (MSST) - 6-7 at #4, 10-11 in duals, 16-15 overall<br>Giulia Morlet (AZST) - 8-5 at #4, 9-5 in duals, 10-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AZST</i></b> - Morlet (68%) def. Mikhailuk (32%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Morlet (67%) def. Mikhailuk (33%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Marianna Argyrokastriti (MSST) - 11-4 at #5, 14-5 in duals, 15-5 overall<br>Lilian Poling (AZST) - 4-3 at #5, 5-9 in duals, 12-11 overall</summary>
+<summary markdown="span">Lilian Poling (MSST) - 4-3 at #5, 5-9 in duals, 12-11 overall<br>Marianna Argyrokastriti (AZST) - 11-4 at #5, 14-5 in duals, 15-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AZST</i></b> - Argyrokastriti (69%) def. Poling (31%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Argyrokastriti (76%) def. Poling (24%)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Domenika Turkovic (MSST) - 4-5 at #6, 8-6 in duals, 9-6 overall<br>Chloe Cirotte (AZST) - 6-2 at #6, 10-5 in duals, 11-6 overall</summary>
+<summary markdown="span">Chloe Cirotte (MSST) - 6-2 at #6, 10-5 in duals, 11-6 overall<br>Domenika Turkovic (AZST) - 4-5 at #6, 8-6 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Cirotte (52%) def. Turkovic (48%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Cirotte (55%) def. Turkovic (45%)</li>  
@@ -118,15 +118,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Hattingh/John-Baptiste (MSST) - 7-9 at #1, 7-9 in duals, 7-9 overall<br>Adaloglou/Racine (AZST) - 5-5 at #1, 5-5 in duals, 5-5 overall</summary>
+<summary markdown="span">Adaloglou/Racine (MSST) - 5-5 at #1, 5-5 in duals, 5-5 overall<br>Hattingh/John-Baptiste (AZST) - 7-9 at #1, 7-9 in duals, 7-9 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Hampton/Argyrokastriti (MSST) - 4-4 at #2, 13-4 in duals, 13-4 overall<br>Antonaki/Falceto (AZST) - 2-4 at #2, 3-5 in duals, 3-5 overall</summary>
+<summary markdown="span">Antonaki/Falceto (MSST) - 2-4 at #2, 3-5 in duals, 3-5 overall<br>Hampton/Argyrokastriti (AZST) - 4-4 at #2, 13-4 in duals, 13-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Morlet/Kolarova (MSST) - 3-2 at #3, 8-2 in duals, 8-2 overall<br>Mikhailuk/Poling (AZST) - 0-0 at #3, 0-2 in duals, 3-4 overall</summary>
+<summary markdown="span">Mikhailuk/Poling (MSST) - 0-0 at #3, 0-2 in duals, 3-4 overall<br>Morlet/Kolarova (AZST) - 3-2 at #3, 8-2 in duals, 8-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

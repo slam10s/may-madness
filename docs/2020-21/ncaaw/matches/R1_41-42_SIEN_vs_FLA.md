@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">McCartney Kessler (SIEN) - 13-2 at #1, 13-2 in duals, 16-2 overall<br>Meagan Brown (FLA) - 7-3 at #1, 7-3 in duals, 7-3 overall</summary>
+<summary markdown="span">Meagan Brown (SIEN) - 7-3 at #1, 7-3 in duals, 7-3 overall<br>McCartney Kessler (FLA) - 13-2 at #1, 13-2 in duals, 16-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Marlee Zein (SIEN) - 6-5 at #2, 8-5 in duals, 10-8 overall<br>Kylie Mullaney (FLA) - 3-5 at #2, 3-5 in duals, 3-5 overall</summary>
+<summary markdown="span">Kylie Mullaney (SIEN) - 3-5 at #2, 3-5 in duals, 3-5 overall<br>Marlee Zein (FLA) - 6-5 at #2, 8-5 in duals, 10-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ida Jarlskog (SIEN) - 6-2 at #3, 8-4 in duals, 8-4 overall<br>Petra Miszczak (FLA) - 3-4 at #3, 4-4 in duals, 4-4 overall</summary>
+<summary markdown="span">Petra Miszczak (SIEN) - 3-4 at #3, 4-4 in duals, 4-4 overall<br>Ida Jarlskog (FLA) - 6-2 at #3, 8-4 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Layne Sleeth (SIEN) - 7-0 at #4, 9-1 in duals, 9-1 overall<br>Maanya Viswanath (FLA) - 4-2 at #4, 5-2 in duals, 5-2 overall</summary>
+<summary markdown="span">Maanya Viswanath (SIEN) - 4-2 at #4, 5-2 in duals, 5-2 overall<br>Layne Sleeth (FLA) - 7-0 at #4, 9-1 in duals, 9-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Sara Dahlstrom (SIEN) - 3-4 at #5, 6-8 in duals, 9-11 overall<br>Emma Boggiali (FLA) - 5-2 at #5, 6-3 in duals, 6-3 overall</summary>
+<summary markdown="span">Emma Boggiali (SIEN) - 5-2 at #5, 6-3 in duals, 6-3 overall<br>Sara Dahlstrom (FLA) - 3-4 at #5, 6-8 in duals, 9-11 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Sydney Berlin (SIEN) - 6-3 at #6, 11-4 in duals, 16-5 overall<br>Anastasia Koniaev (FLA) - 5-2 at #6, 6-2 in duals, 6-2 overall</summary>
+<summary markdown="span">Anastasia Koniaev (SIEN) - 5-2 at #6, 6-2 in duals, 6-2 overall<br>Sydney Berlin (FLA) - 6-3 at #6, 11-4 in duals, 16-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Kessler/Zein (SIEN) - 9-6 at #1, 9-6 in duals, 13-7 overall<br>Brown/Mullaney (FLA) - 7-3 at #1, 7-3 in duals, 7-3 overall</summary>
+<summary markdown="span">Brown/Mullaney (SIEN) - 7-3 at #1, 7-3 in duals, 7-3 overall<br>Kessler/Zein (FLA) - 9-6 at #1, 9-6 in duals, 13-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jarlskog/Sleeth (SIEN) - 6-0 at #2, 6-0 in duals, 6-0 overall<br>Miszczak/Boggiali (FLA) - 3-0 at #2, 3-0 in duals, 3-0 overall</summary>
+<summary markdown="span">Miszczak/Boggiali (SIEN) - 3-0 at #2, 3-0 in duals, 3-0 overall<br>Jarlskog/Sleeth (FLA) - 6-0 at #2, 6-0 in duals, 6-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Dahlstrom/Berlin (SIEN) - 3-5 at #3, 3-5 in duals, 6-7 overall<br>Viswanath/Koniaev (FLA) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
+<summary markdown="span">Viswanath/Koniaev (SIEN) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Dahlstrom/Berlin (FLA) - 3-5 at #3, 3-5 in duals, 6-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

@@ -1,23 +1,24 @@
 round	lines	title	winner	score	slam	trn	massey	utr	ita	usta	coach	lineups	home	visitor	teams	composite	ewp	ewps	file
-First Round	51-52	Auburn vs Oklahoma St.                  			AUB 	AUB 	AUB 	OKST	AUB 	AUB 	AUB 	OKST	2	6	[object Object]	AUB 	65.00	76,83,75,26	R1_51-52_AUB_vs_OKST
-First Round	35-36	Wake Forest vs Furman                   			WAKE	WAKE	WAKE	WAKE	WAKE	FUR 	WAKE	WAKE	1	7	[object Object]	WAKE	66.75	52,59,75,81	R1_35-36_WAKE_vs_FUR
-First Round	43-44	Oklahoma vs Southern California         			OKLA	OKLA	OKLA	USC 	OKLA	OKLA	OKLA	USC 	2	6	[object Object]	OKLA	67.25	88,89,75,17	R1_43-44_OKLA_vs_USC
+First Round	51-52	Auburn vs Oklahoma St.                  			AUB 	AUB 	AUB 	OKST	AUB 	AUB 	AUB 	OKST	6	2	[object Object]	AUB 	64.50	75,82,75,26	R1_51-52_OKST_vs_AUB
+First Round	35-36	Wake Forest vs Furman                   			WAKE	WAKE	WAKE	WAKE	WAKE	FUR 	WAKE	WAKE	7	1	[object Object]	WAKE	66.25	51,58,75,81	R1_35-36_FUR_vs_WAKE
+First Round	43-44	Oklahoma vs Southern California         			OKLA	OKLA	OKLA	USC 	OKLA	OKLA	OKLA	USC 	6	2	[object Object]	OKLA	66.75	87,88,75,17	R1_43-44_USC_vs_OKLA
 First Round	29-30	San Diego vs Texas Tech                 			TTU 	TTU 	TTU 	TTU 	TTU 	    	TTU 	TTU 	7	0	[object Object]	TTU 	63.75	53,61,75,66	R1_29-30_USD_vs_TTU
-First Round	 3-4 	Old Dominion vs Arkansas                			ODU 	ODU 	ODU 	ODU 	ODU 	ODU 	ODU 	ODU 	0	8	[object Object]	ODU 	71.00	74,72,75,63	R1_3-4_ODU_vs_ARK
+First Round	 3-4 	Old Dominion vs Arkansas                			ODU 	ODU 	ODU 	ODU 	ODU 	ODU 	ODU 	ODU 	8	0	[object Object]	ODU 	70.50	73,71,75,63	R1_3-4_ARK_vs_ODU
 First Round	61-62	Mississippi St. vs Arizona St.          			AZST	AZST	AZST	AZST	AZST	AZST	AZST	AZST	8	0	[object Object]	AZST	73.50	71,64,75,84	R1_61-62_MSST_vs_AZST
+First Round	11-12	Miami (FL) vs FIU                       			MIA 	MIA 	MIA 	MIA 	MIA 	MIA 	MIA 	MIA 	8	0	[object Object]	MIA 	77.00	74,63,75,96	R1_11-12_FIU_vs_MIA
 First Round	 5-6 	Syracuse vs Kentucky                    			UK  	UK  	UK  	UK  	UK  	UK  	UK  	UK  	8	0	[object Object]	UK  	77.25	83,84,75,67	R1_5-6_SYR_vs_UK
-First Round	11-12	Miami (FL) vs FIU                       			MIA 	MIA 	MIA 	MIA 	MIA 	MIA 	MIA 	MIA 	0	8	[object Object]	MIA 	77.50	75,64,75,96	R1_11-12_MIA_vs_FIU
 First Round	45-46	Iowa St. vs South Carolina              			SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	8	0	[object Object]	SCAR	81.50	81,84,75,86	R1_45-46_ISU_vs_SCAR
-First Round	19-20	Stanford vs UC Santa Barbara            			STAN	STAN	STAN	STAN	STAN	STAN	STAN	STAN	0	8	[object Object]	STAN	84.75	82,84,75,98	R1_19-20_STAN_vs_UCSB
+First Round	19-20	Stanford vs UC Santa Barbara            			STAN	STAN	STAN	STAN	STAN	STAN	STAN	STAN	8	0	[object Object]	STAN	84.25	81,83,75,98	R1_19-20_UCSB_vs_STAN
 First Round	21-22	Rice vs Michigan                        			MICH	MICH	MICH	MICH	MICH	MICH	MICH	MICH	8	0	[object Object]	MICH	89.25	94,96,75,92	R1_21-22_RICE_vs_MICH
+First Round	27-28	Ole Miss vs North Florida               			MISS	MISS	MISS	MISS	MISS	    	MISS	MISS	7	0	[object Object]	MISS	90.50	93,96,75,98	R1_27-28_UNF_vs_MISS
 First Round	13-14	Alabama vs Duke                         			DUKE	DUKE	DUKE	DUKE	DUKE	DUKE	DUKE	DUKE	8	0	[object Object]	DUKE	90.50	93,94,75,100	R1_13-14_BAMA_vs_DUKE
-First Round	27-28	Ole Miss vs North Florida               			MISS	MISS	MISS	MISS	MISS	    	MISS	MISS	0	7	[object Object]	MISS	91.00	94,97,75,98	R1_27-28_MISS_vs_UNF
 First Round	37-38	James Madison vs Tennessee              			TENN	TENN	TENN	TENN	TENN	TENN	TENN	TENN	8	0	[object Object]	TENN	92.00	97,98,75,98	R1_37-38_JMU_vs_TENN
 First Round	39-40	LIU vs #14 Virginia                     			UVA 	UVA 	UVA 	UVA 	UVA 	UVA 	    	UVA 	7	0	[object Object]	UVA 	92.75	99,99,75,98	R1_39-40_LIU_vs_UVA
 First Round	47-48	VCU vs #6 NC State                      			NCST	NCST	NCST	NCST	NCST	NCST	NCST	NCST	8	0	[object Object]	NCST	92.75	99,99,75,98	R1_47-48_VCU_vs_NCST
 First Round	15-16	A&M-Corpus Christi vs #8 Baylor         			BAY 	BAY 	BAY 	BAY 	BAY 	BAY 	BAY 	BAY 	8	0	[object Object]	BAY 	92.75	99,99,75,98	R1_15-16_TAMCC_vs_BAY
 First Round	31-32	Grand Canyon vs #4 UCLA                 			UCLA	UCLA	UCLA	UCLA	UCLA	UCLA	UCLA	UCLA	8	0	[object Object]	UCLA	93.00	99,99,75,99	R1_31-32_GCU_vs_UCLA
 First Round	33-34	Austin Peay vs #3 Georgia               			UGA 	UGA 	UGA 	UGA 	UGA 	UGA 	UGA 	UGA 	8	0	[object Object]	UGA 	93.00	99,99,75,99	R1_33-34_PEAY_vs_UGA
+First Round	59-60	Vanderbilt vs Ball St.                  			VANDY	VANDY	VANDY	VANDY	VANDY	    	VANDY	VANDY	7	0	[object Object]	VANDY	93.25	99,99,75,100	R1_59-60_BALL_vs_VANDY
 First Round	25-26	Ga. Southern vs #13 Georgia Tech        			GT  	GT  	GT  	GT  	GT  	GT  	    	GT  	7	0	[object Object]	GT  	93.25	99,99,75,100	R1_25-26_GASO_vs_GT
 First Round	 1-2 	South Carolina St. vs #1 North Carolina 			UNC 	UNC 	UNC 	UNC 	UNC 	UNC 	UNC 	UNC 	8	0	[object Object]	UNC 	93.25	99,99,75,100	R1_1-2_SCST_vs_UNC
 First Round	41-42	Siena vs #11 Florida                    			FLA 	FLA 	FLA 	FLA 	FLA 	FLA 	FLA 	FLA 	8	0	[object Object]	FLA 	93.25	99,99,75,100	R1_41-42_SIEN_vs_FLA
@@ -30,4 +31,3 @@ First Round	49-50	Alabama St. vs #7 Florida St.           			FSU 	FSU 	FSU 	FSU 
 First Round	53-54	Xavier vs Northwestern                  			NW  	NW  	NW  	NW  	NW  	NW  	NW  	NW  	8	0	[object Object]	NW  	93.25	99,99,75,100	R1_53-54_XAV_vs_NW
 First Round	63-64	Denver vs #2 Texas                      			TEX 	TEX 	TEX 	TEX 	TEX 	TEX 	TEX 	TEX 	8	0	[object Object]	TEX 	93.25	99,99,75,100	R1_63-64_DEN_vs_TEX
 First Round	17-18	Northern Ariz. vs #5 Pepperdine         			PEPP	PEPP	PEPP	PEPP	PEPP	PEPP	PEPP	PEPP	8	0	[object Object]	PEPP	93.25	99,99,75,100	R1_17-18_NAU_vs_PEPP
-First Round	59-60	Vanderbilt vs Ball St.                  			VANDY	VANDY	VANDY	VANDY	VANDY	    	VANDY	VANDY	0	7	[object Object]	VANDY	93.75	100,100,75,100	R1_59-60_VANDY_vs_BALL

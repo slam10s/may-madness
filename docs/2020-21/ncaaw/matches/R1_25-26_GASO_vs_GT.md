@@ -51,7 +51,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Kenya Jones (GASO) - 16-7 at #1, 16-7 in duals, 17-8 overall<br>Nadja Meier (GT) - 4-3 at #1, 15-9 in duals, 15-9 overall</summary>
+<summary markdown="span">Nadja Meier (GASO) - 4-3 at #1, 15-9 in duals, 15-9 overall<br>Kenya Jones (GT) - 16-7 at #1, 16-7 in duals, 17-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Jones (99%) def. Meier (1%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jones (99%) def. Meier (1%)</li>  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Victoria Flores (GASO) - 12-4 at #2, 17-5 in duals, 18-6 overall<br>Paula Boixader (GT) - 2-1 at #2, 8-10 in duals, 8-10 overall</summary>
+<summary markdown="span">Paula Boixader (GASO) - 2-1 at #2, 8-10 in duals, 8-10 overall<br>Victoria Flores (GT) - 12-4 at #2, 17-5 in duals, 18-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Flores (97%) def. Boixader (3%)</li>  
 <li>TRN: <b><i>GT</i></b> - Flores (99%) def. Boixader (1%)</li>  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Gia Cohen (GASO) - 3-11 at #3, 8-14 in duals, 8-15 overall<br>Sophie Wagemaker (GT) - 10-3 at #3, 11-7 in duals, 11-7 overall</summary>
+<summary markdown="span">Sophie Wagemaker (GASO) - 10-3 at #3, 11-7 in duals, 11-7 overall<br>Gia Cohen (GT) - 3-11 at #3, 8-14 in duals, 8-15 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
 <li>TRN: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ava Hrastar (GASO) - 2-3 at #4, 10-9 in duals, 12-9 overall<br>Charlotte van Diemen (GT) - 3-1 at #4, 8-5 in duals, 8-5 overall</summary>
+<summary markdown="span">Charlotte van Diemen (GASO) - 3-1 at #4, 8-5 in duals, 8-5 overall<br>Ava Hrastar (GT) - 2-3 at #4, 10-9 in duals, 12-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Hrastar (96%) def. Diemen (4%)</li>  
 <li>TRN: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Carol Lee (GASO) - 5-8 at #5, 12-12 in duals, 14-12 overall<br>Mila Hartig (GT) - 1-0 at #5, 14-4 in duals, 14-4 overall</summary>
+<summary markdown="span">Mila Hartig (GASO) - 1-0 at #5, 14-4 in duals, 14-4 overall<br>Carol Lee (GT) - 5-8 at #5, 12-12 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Lee (93%) def. Hartig (7%)</li>  
 <li>TRN: <b><i>GT</i></b> - Lee (91%) def. Hartig (9%)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mahak Jain (GASO) - 7-2 at #6, 14-7 in duals, 16-7 overall<br>Paula Hijos (GT) - 2-0 at #6, 13-6 in duals, 13-6 overall</summary>
+<summary markdown="span">Paula Hijos (GASO) - 2-0 at #6, 13-6 in duals, 13-6 overall<br>Mahak Jain (GT) - 7-2 at #6, 14-7 in duals, 16-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Jain (95%) def. Hijos (5%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jain (97%) def. Hijos (3%)</li>  
@@ -116,15 +116,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Jones/Flores (GASO) - 20-3 at #1, 20-3 in duals, 22-4 overall<br>van Diemen/Wagemaker (GT) - 9-8 at #1, 9-8 in duals, 9-8 overall</summary>
+<summary markdown="span">van Diemen/Wagemaker (GASO) - 9-8 at #1, 9-8 in duals, 9-8 overall<br>Jones/Flores (GT) - 20-3 at #1, 20-3 in duals, 22-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Hrastar/Cohen (GASO) - 5-6 at #2, 6-6 in duals, 6-6 overall<br>Boixader/Meier (GT) - 6-3 at #2, 6-3 in duals, 6-3 overall</summary>
+<summary markdown="span">Boixader/Meier (GASO) - 6-3 at #2, 6-3 in duals, 6-3 overall<br>Hrastar/Cohen (GT) - 5-6 at #2, 6-6 in duals, 6-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lee/Dedaj (GASO) - 1-8 at #3, 1-8 in duals, 1-8 overall<br>Goines/Keranen (GT) - 8-3 at #3, 9-7 in duals, 9-7 overall</summary>
+<summary markdown="span">Goines/Keranen (GASO) - 8-3 at #3, 9-7 in duals, 9-7 overall<br>Lee/Dedaj (GT) - 1-8 at #3, 1-8 in duals, 1-8 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

@@ -1,0 +1,119 @@
+Date: Friday, May 7
+Time: 10:00 EDT
+Round: First Round
+Lines: 35-36
+Title: Wake Forest vs Furman
+URL: https://www.ncaa.com/game/5833664
+Winner: TBD
+Home:
+  Team: Wake Forest
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png
+  Entry: At-Large Bid
+  Draw Line: 36
+  Seeding:
+    Region: 2
+  Ratings:
+    ITA: 33 (25.77)
+    SLM: 32 (88.11)
+    TRN: 31 (80.20)
+    MAS: 34 (7.13)
+    UTR: 31 (60.70)
+  Polls:
+    Coach: 31
+Visitor:
+  Team: Furman
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png
+  Entry: Automatic Qualifier
+  Draw Line: 35
+  Seeding:
+    Region: 3
+  Ratings:
+    ITA: 34 (25.42)
+    SLM: 33 (87.98)
+    TRN: 35 (79.59)
+    MAS: 35 (7.09)
+    UTR: 41 (59.02)
+  Polls:
+    USTA: RV
+    Coach: 35
+Predictions:
+  SLM: "WAKE - #32 Wake Forest (51%) def. #33 Furman (49%)"
+  TRN: "WAKE - #31 Wake Forest (58%) def. #35 Furman (42%)"
+  MAS: "WAKE - #34 Wake Forest (75%) def. #35 Furman (25%)"
+  UTR: "WAKE - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)"
+  ITA: "WAKE - #33 Wake Forest def. #34 Furman"
+  USTA: FUR - RV Furman def. Wake Forest
+  Coach: "WAKE - #31 Wake Forest def. #35 Furman"
+  Seeding: "WAKE - #2 Wake Forest def. #3 Furman"
+Lineups:
+  Predictions:
+    Average EWPs for WAKE: 39%,37%,85%,68%,74%,68%
+    Average EWPs for FUR: 61%,63%,15%,32%,26%,32%
+    WAKE wins 4 or more Singles points: 59%
+    FUR wins 4 or more Singles points: 13%
+    Winner decided by the Doubles point: 28%
+  Singles:
+    - Position: 1
+      WAKE: Carolyn Campana - 9-5 at 1, 9-5 in duals, 9-5 overall
+      FUR: Katarina Kozarov - 22-1 at 1, 22-1 in duals, 22-1 overall
+      Predictions:
+        SLM: FUR - Kozarov (56%) def. Campana (44%)
+        TRN: FUR - Kozarov (72%) def. Campana (28%)
+        MAS: FUR - Kozarov (75%) def. Campana (25%)
+        UTR: WAKE - Campana (56%) def. Kozarov (44%)
+        ITA: WAKE - Campana (28.61) def. Kozarov (26.43)
+    - Position: 2
+      WAKE: Anna Campana - 4-6 at 2, 6-10 in duals, 6-10 overall
+      FUR: Julia Adams - 15-6 at 2, 19-6 in duals, 19-6 overall
+      Predictions:
+        SLM: WAKE - Campana (52%) def. Adams (48%)
+        TRN: FUR - Adams (61%) def. Campana (39%)
+        MAS: FUR - Adams (75%) def. Campana (25%)
+        UTR: FUR - Adams (71%) def. Campana (29%)
+        ITA: WAKE - Campana (11.52) def. Adams (5.79)
+    - Position: 3
+      WAKE: Anna Brylin - 10-3 at 3, 12-8 in duals, 12-8 overall
+      FUR: Madison Dillon - 10-10 at 3, 12-12 in duals, 12-12 overall
+      Predictions:
+        SLM: WAKE - Brylin (85%) def. Dillon (15%)
+        TRN: WAKE - Brylin (87%) def. Dillon (13%)
+        MAS: WAKE - Brylin (75%) def. Dillon (25%)
+        UTR: WAKE - Brylin (92%) def. Dillon (8%)
+        ITA: WAKE - Brylin (2.10) def. Dillon (1.67)
+    - Position: 4
+      WAKE: Eliza Omirou - 3-3 at 4, 9-8 in duals, 9-8 overall
+      FUR: MaryAnn Rompf - 15-6 at 4, 18-8 in duals, 18-8 overall
+      Predictions:
+        SLM: WAKE - Omirou (66%) def. Rompf (34%)
+        TRN: WAKE - Omirou (60%) def. Rompf (40%)
+        MAS: WAKE - Omirou (75%) def. Rompf (25%)
+        UTR: WAKE - Omirou (72%) def. Rompf (28%)
+        ITA: WAKE - Omirou (1.88) def. Rompf (1.74)
+    - Position: 5
+      WAKE: Brooke Killingsworth - 1-1 at 5, 7-14 in duals, 7-14 overall
+      FUR: Maggie Pate - 9-6 at 5, 15-7 in duals, 15-7 overall
+      Predictions:
+        SLM: WAKE - Killingsworth (79%) def. Pate (21%)
+        TRN: WAKE - Killingsworth (66%) def. Pate (34%)
+        MAS: WAKE - Killingsworth (75%) def. Pate (25%)
+        UTR: WAKE - Killingsworth (77%) def. Pate (23%)
+        ITA: FUR - Pate (1.95) def. Killingsworth (1.48)
+    - Position: 6
+      WAKE: Casie Wooten - 7-3 at 6, 12-7 in duals, 12-7 overall
+      FUR: Ellie Schoppe - 15-1 at 6, 20-3 in duals, 20-3 overall
+      Predictions:
+        SLM: WAKE - Wooten (66%) def. Schoppe (34%)
+        TRN: WAKE - Wooten (57%) def. Schoppe (43%)
+        MAS: WAKE - Wooten (75%) def. Schoppe (25%)
+        UTR: WAKE - Wooten (75%) def. Schoppe (25%)
+        ITA: FUR - Schoppe (2.79) def. Wooten (1.70)
+  Doubles:
+    - Position: 1
+      WAKE: Omirou/Campana - 8-4 at 1, 9-4 in duals, 9-4 overall
+      FUR: Kozarov/Adams - 19-3 at 1, 19-3 in duals, 19-3 overall
+    - Position: 2
+      WAKE: Brylin/Killingsworth - 7-4 at 2, 13-5 in duals, 13-5 overall
+      FUR: Dillon/Rompf - 0-0 at 2, 19-2 in duals, 19-2 overall
+    - Position: 3
+      WAKE: Pesavento/Campana - 3-8 at 3, 3-8 in duals, 3-8 overall
+      FUR: Pate/Schoppe - 0-0 at 3, 11-5 in duals, 11-5 overall

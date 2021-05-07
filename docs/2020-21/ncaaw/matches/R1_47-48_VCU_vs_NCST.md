@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Anna Rogers (VCU) - 14-6 at #1, 14-6 in duals, 19-6 overall<br>Paola Exposito Diaz-Delgado (NCST) - 16-3 at #1, 16-3 in duals, 16-3 overall</summary>
+<summary markdown="span">Paola Exposito Diaz-Delgado (VCU) - 16-3 at #1, 16-3 in duals, 16-3 overall<br>Anna Rogers (NCST) - 14-6 at #1, 14-6 in duals, 19-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rogers (81%) def. Diaz-Delgado (19%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alana Smith (VCU) - 14-5 at #2, 14-5 in duals, 16-8 overall<br>Luminita Tutunaru (NCST) - 7-8 at #2, 7-11 in duals, 7-11 overall</summary>
+<summary markdown="span">Luminita Tutunaru (VCU) - 7-8 at #2, 7-11 in duals, 7-11 overall<br>Alana Smith (NCST) - 14-5 at #2, 14-5 in duals, 16-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Smith (96%) def. Tutunaru (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Smith (98%) def. Tutunaru (2%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Adriana Reami (VCU) - 12-4 at #3, 15-5 in duals, 16-9 overall<br>Alessia Ciuca (NCST) - 10-7 at #3, 10-11 in duals, 10-11 overall</summary>
+<summary markdown="span">Alessia Ciuca (VCU) - 10-7 at #3, 10-11 in duals, 10-11 overall<br>Adriana Reami (NCST) - 12-4 at #3, 15-5 in duals, 16-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Reami (96%) def. Ciuca (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jaeda Daniel (VCU) - 10-6 at #4, 11-8 in duals, 13-10 overall<br>Gabriela Davidescu (NCST) - 9-8 at #4, 10-8 in duals, 10-8 overall</summary>
+<summary markdown="span">Gabriela Davidescu (VCU) - 9-8 at #4, 10-8 in duals, 10-8 overall<br>Jaeda Daniel (NCST) - 10-6 at #4, 11-8 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Daniel (95%) def. Davidescu (5%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Abigail Rencheli (VCU) - 5-2 at #5, 10-4 in duals, 13-5 overall<br>Noumea Witmus (NCST) - 9-3 at #5, 13-6 in duals, 13-6 overall</summary>
+<summary markdown="span">Noumea Witmus (VCU) - 9-3 at #5, 13-6 in duals, 13-6 overall<br>Abigail Rencheli (NCST) - 5-2 at #5, 10-4 in duals, 13-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Rencheli (95%) def. Witmus (5%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rencheli (97%) def. Witmus (3%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lexi Keberle (VCU) - 2-4 at #6, 13-6 in duals, 16-8 overall<br>Shivani Manjanna (NCST) - 8-6 at #6, 11-7 in duals, 11-7 overall</summary>
+<summary markdown="span">Shivani Manjanna (VCU) - 8-6 at #6, 11-7 in duals, 11-7 overall<br>Lexi Keberle (NCST) - 2-4 at #6, 13-6 in duals, 16-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Keberle (97%) def. Manjanna (3%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Keberle (98%) def. Manjanna (2%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Rogers/Smith (VCU) - 14-5 at #1, 14-5 in duals, 20-8 overall<br>Tutunaru/Davidescu (NCST) - 7-5 at #1, 7-5 in duals, 7-5 overall</summary>
+<summary markdown="span">Tutunaru/Davidescu (VCU) - 7-5 at #1, 7-5 in duals, 7-5 overall<br>Rogers/Smith (NCST) - 14-5 at #1, 14-5 in duals, 20-8 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Daniel/Reami (VCU) - 12-4 at #2, 12-4 in duals, 20-5 overall<br>Diaz-Delgado/Witmus (NCST) - 13-8 at #2, 13-8 in duals, 13-8 overall</summary>
+<summary markdown="span">Diaz-Delgado/Witmus (VCU) - 13-8 at #2, 13-8 in duals, 13-8 overall<br>Daniel/Reami (NCST) - 12-4 at #2, 12-4 in duals, 20-5 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Rajecki/Rencheli (VCU) - 11-1 at #3, 11-1 in duals, 12-2 overall<br>Ciuca/Manjanna (NCST) - 12-3 at #3, 12-3 in duals, 12-3 overall</summary>
+<summary markdown="span">Ciuca/Manjanna (VCU) - 12-3 at #3, 12-3 in duals, 12-3 overall<br>Rajecki/Rencheli (NCST) - 11-1 at #3, 11-1 in duals, 12-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

@@ -1,0 +1,117 @@
+Date: Friday, May 7
+Time: 1:00 EDT
+Round: First Round
+Lines: 19-20
+Title: Stanford vs UC Santa Barbara
+URL: https://www.ncaa.com/game/5833656
+Winner: TBD
+Home:
+  Team: Stanford
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png
+  Entry: At-Large Bid
+  Draw Line: 20
+  Seeding:
+    Region: 2
+  Ratings:
+    ITA: 28 (35.11)
+    SLM: 23 (90.02)
+    TRN: 24 (81.66)
+    MAS: 15 (7.96)
+    UTR: 7 (63.45)
+  Polls:
+    USTA: 18
+    Coach: 26
+Visitor:
+  Team: UC Santa Barbara
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png
+  Entry: Automatic Qualifier
+  Draw Line: 19
+  Seeding:
+    Region: 3
+  Ratings:
+    ITA: 44 (14.68)
+    SLM: 39 (87.38)
+    TRN: 40 (78.81)
+    MAS: 40 (6.75)
+    UTR: 46 (57.03)
+Predictions:
+  SLM: "STAN - #23 Stanford (81%) def. #39 UC Santa Barbara (19%)"
+  TRN: "STAN - #24 Stanford (83%) def. #40 UC Santa Barbara (17%)"
+  MAS: "STAN - #15 Stanford (75%) def. #40 UC Santa Barbara (25%)"
+  UTR: "STAN - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)"
+  ITA: "STAN - #28 Stanford def. #44 UC Santa Barbara"
+  USTA: "STAN - #18 Stanford def. UC Santa Barbara"
+  Coach: "STAN - #26 Stanford def. UC Santa Barbara"
+  Seeding: "STAN - #2 Stanford def. #3 UC Santa Barbara"
+Lineups:
+  Predictions:
+    Average EWPs for STAN: 79%,81%,48%,92%,92%,92%
+    Average EWPs for UCSB: 21%,19%,52%,8%,8%,8%
+    STAN wins 4 or more Singles points: 93%
+    UCSB wins 4 or more Singles points: 1%
+    Winner decided by the Doubles point: 6%
+  Singles:
+    - Position: 1
+      STAN: Michaela Gordon - 9-6 at 1, 9-6 in duals, 9-6 overall
+      UCSB: Elizaveta Volodko - 9-4 at 1, 9-4 in duals, 9-4 overall
+      Predictions:
+        SLM: STAN - Gordon (76%) def. Volodko (24%)
+        TRN: STAN - Gordon (76%) def. Volodko (24%)
+        MAS: STAN - Gordon (75%) def. Volodko (25%)
+        UTR: STAN - Gordon (87%) def. Volodko (13%)
+        ITA: STAN - Gordon (17.68) def. Volodko (4.21)
+    - Position: 2
+      STAN: Angelica Blake - 2-1 at 2, 7-2 in duals, 7-2 overall
+      UCSB: Camille Kiss - 10-4 at 2, 10-4 in duals, 10-4 overall
+      Predictions:
+        SLM: STAN - Blake (75%) def. Kiss (25%)
+        TRN: STAN - Blake (87%) def. Kiss (13%)
+        MAS: STAN - Blake (75%) def. Kiss (25%)
+        UTR: STAN - Blake (88%) def. Kiss (12%)
+        ITA: STAN - Blake (5.37) def. Kiss (2.42)
+    - Position: 3
+      STAN: Emily Arbuthnott - 1-3 at 3, 8-7 in duals, 8-7 overall
+      UCSB: Shakhnoza Khatamova - 15-2 at 3, 15-2 in duals, 15-2 overall
+      Predictions:
+        SLM: STAN - Arbuthnott (56%) def. Khatamova (44%)
+        TRN: UCSB - Khatamova (73%) def. Arbuthnott (27%)
+        MAS: UCSB - Khatamova (75%) def. Arbuthnott (25%)
+        UTR: STAN - Arbuthnott (80%) def. Khatamova (20%)
+        ITA: UCSB - Khatamova (6.05) def. Arbuthnott (1.89)
+    - Position: 4
+      STAN: Ana Geller - 1-3 at 4, 7-3 in duals, 7-3 overall
+      UCSB: Lise Sentenac - 6-4 at 4, 6-7 in duals, 6-7 overall
+      Predictions:
+        SLM: STAN - Geller (98%) def. Sentenac (2%)
+        TRN: STAN - Geller (98%) def. Sentenac (2%)
+        MAS: STAN - Geller (75%) def. Sentenac (25%)
+        UTR: STAN - Geller (98%) def. Sentenac (2%)
+        ITA: STAN - Geller (2.62) def. Sentenac (1.51)
+    - Position: 5
+      STAN: Sara Choy - 3-2 at 5, 13-4 in duals, 13-4 overall
+      UCSB: Kira Reuter - 5-5 at 5, 5-7 in duals, 5-7 overall
+      Predictions:
+        SLM: STAN - Choy (98%) def. Reuter (2%)
+        TRN: STAN - Choy (99%) def. Reuter (1%)
+        MAS: STAN - Choy (75%) def. Reuter (25%)
+        UTR: STAN - Choy (98%) def. Reuter (2%)
+        ITA: STAN - Choy (2.38) def. Reuter (0.00)
+    - Position: 6
+      STAN: Emma Higuchi - 10-3 at 6, 14-3 in duals, 14-3 overall
+      UCSB: Marta Gonzalez Ballbe - 6-3 at 6, 7-4 in duals, 7-4 overall
+      Predictions:
+        SLM: STAN - Higuchi (97%) def. Ballbe (3%)
+        TRN: STAN - Higuchi (98%) def. Ballbe (2%)
+        MAS: STAN - Higuchi (75%) def. Ballbe (25%)
+        UTR: STAN - Higuchi (99%) def. Ballbe (1%)
+        ITA: STAN - Higuchi (2.68) def. Ballbe (2.38)
+  Doubles:
+    - Position: 1
+      STAN: Gordon/Madurawe - 9-5 at 1, 9-5 in duals, 9-5 overall
+      UCSB: Volodko/Sentenac - 6-6 at 1, 6-6 in duals, 6-6 overall
+    - Position: 2
+      STAN: Arbuthnott/Blake - 6-2 at 2, 6-2 in duals, 6-2 overall
+      UCSB: Reuter/Khatamova - 8-3 at 2, 8-3 in duals, 8-3 overall
+    - Position: 3
+      STAN: Choy/Higuchi - 7-2 at 3, 7-2 in duals, 7-2 overall
+      UCSB: Kiss/Ballbe - 10-2 at 3, 10-2 in duals, 10-2 overall

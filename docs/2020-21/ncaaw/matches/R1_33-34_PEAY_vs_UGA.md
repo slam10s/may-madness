@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Katarina Jokic (PEAY) - 15-0 at #1, 15-0 in duals, 24-1 overall<br>Fabienne Schmidt (UGA) - 10-5 at #1, 10-5 in duals, 10-5 overall</summary>
+<summary markdown="span">Fabienne Schmidt (PEAY) - 10-5 at #1, 10-5 in duals, 10-5 overall<br>Katarina Jokic (UGA) - 15-0 at #1, 15-0 in duals, 24-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Jokic (99%) def. Schmidt (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Jokic (99%) def. Schmidt (1%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lea Ma (PEAY) - 13-3 at #2, 13-3 in duals, 14-4 overall<br>Danielle Morris (UGA) - 9-5 at #2, 9-5 in duals, 9-5 overall</summary>
+<summary markdown="span">Danielle Morris (PEAY) - 9-5 at #2, 9-5 in duals, 9-5 overall<br>Lea Ma (UGA) - 13-3 at #2, 13-3 in duals, 14-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Meg Kowalski (PEAY) - 12-1 at #3, 12-1 in duals, 22-1 overall<br>Jana Leder (UGA) - 12-2 at #3, 12-2 in duals, 12-2 overall</summary>
+<summary markdown="span">Jana Leder (PEAY) - 12-2 at #3, 12-2 in duals, 12-2 overall<br>Meg Kowalski (UGA) - 12-1 at #3, 12-1 in duals, 22-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Morgan Coppoc (PEAY) - 15-2 at #4, 15-2 in duals, 23-5 overall<br>Aleks Topalovic (UGA) - 4-3 at #4, 9-5 in duals, 9-5 overall</summary>
+<summary markdown="span">Aleks Topalovic (PEAY) - 4-3 at #4, 9-5 in duals, 9-5 overall<br>Morgan Coppoc (UGA) - 15-2 at #4, 15-2 in duals, 23-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Marta Gonzalez (PEAY) - 1-1 at #5, 2-1 in duals, 11-1 overall<br>Martina Paladini-Jennings (UGA) - 4-4 at #5, 7-7 in duals, 7-7 overall</summary>
+<summary markdown="span">Martina Paladini-Jennings (PEAY) - 4-4 at #5, 7-7 in duals, 7-7 overall<br>Marta Gonzalez (UGA) - 1-1 at #5, 2-1 in duals, 11-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Elena Christofi (PEAY) - 9-0 at #6, 10-2 in duals, 17-4 overall<br>Honoka Nakanishi (UGA) - 7-3 at #6, 7-3 in duals, 7-3 overall</summary>
+<summary markdown="span">Honoka Nakanishi (PEAY) - 7-3 at #6, 7-3 in duals, 7-3 overall<br>Elena Christofi (UGA) - 9-0 at #6, 10-2 in duals, 17-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Christofi (99%) def. Nakanishi (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Christofi (99%) def. Nakanishi (1%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Jokic/Arseneault (PEAY) - 11-4 at #1, 11-4 in duals, 14-6 overall<br>Schmidt/Morris (UGA) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
+<summary markdown="span">Schmidt/Morris (PEAY) - 12-2 at #1, 12-2 in duals, 12-2 overall<br>Jokic/Arseneault (UGA) - 11-4 at #1, 11-4 in duals, 14-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Christofi/Coppoc (PEAY) - 12-2 at #2, 12-2 in duals, 18-3 overall<br>Leder/Topalovic (UGA) - 7-3 at #2, 7-3 in duals, 7-3 overall</summary>
+<summary markdown="span">Leder/Topalovic (PEAY) - 7-3 at #2, 7-3 in duals, 7-3 overall<br>Christofi/Coppoc (UGA) - 12-2 at #2, 12-2 in duals, 18-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lea Ma/Kowalski (PEAY) - 15-2 at #3, 15-2 in duals, 18-2 overall<br>Nakanishi/Albertson (UGA) - 5-6 at #3, 5-6 in duals, 5-6 overall</summary>
+<summary markdown="span">Nakanishi/Albertson (PEAY) - 5-6 at #3, 5-6 in duals, 5-6 overall<br>Lea Ma/Kowalski (UGA) - 15-2 at #3, 15-2 in duals, 18-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

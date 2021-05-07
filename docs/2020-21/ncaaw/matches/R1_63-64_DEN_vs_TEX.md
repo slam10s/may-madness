@@ -53,7 +53,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Peyton Stearns (DEN) - 10-3 at #1, 10-3 in duals, 14-6 overall<br>Anna Riedmiller (TEX) - 6-0 at #1, 14-1 in duals, 14-1 overall</summary>
+<summary markdown="span">Anna Riedmiller (DEN) - 6-0 at #1, 14-1 in duals, 14-1 overall<br>Peyton Stearns (TEX) - 10-3 at #1, 10-3 in duals, 14-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Stearns (86%) def. Riedmiller (14%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Stearns (65%) def. Riedmiller (35%)</li>  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Anna Turati (DEN) - 9-2 at #2, 17-3 in duals, 17-3 overall<br>Taylor Melville (TEX) - 5-0 at #2, 9-4 in duals, 9-4 overall</summary>
+<summary markdown="span">Taylor Melville (DEN) - 5-0 at #2, 9-4 in duals, 9-4 overall<br>Anna Turati (TEX) - 9-2 at #2, 17-3 in duals, 17-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Turati (92%) def. Melville (8%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Turati (97%) def. Melville (3%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lulu Sun (DEN) - 12-1 at #3, 18-2 in duals, 18-2 overall<br>Britt Pursell (TEX) - 11-3 at #3, 12-3 in duals, 12-3 overall</summary>
+<summary markdown="span">Britt Pursell (DEN) - 11-3 at #3, 12-3 in duals, 12-3 overall<br>Lulu Sun (TEX) - 12-1 at #3, 18-2 in duals, 18-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Sun (97%) def. Pursell (3%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Sun (99%) def. Pursell (1%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Charlotte Chavatipon (DEN) - 16-1 at #4, 20-1 in duals, 23-1 overall<br>Camille Verden-Anderson (TEX) - 3-1 at #4, 8-2 in duals, 8-2 overall</summary>
+<summary markdown="span">Camille Verden-Anderson (DEN) - 3-1 at #4, 8-2 in duals, 8-2 overall<br>Charlotte Chavatipon (TEX) - 16-1 at #4, 20-1 in duals, 23-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kylie Collins (DEN) - 9-2 at #5, 16-2 in duals, 16-2 overall<br>Hada Chang (TEX) - 5-2 at #5, 7-2 in duals, 7-2 overall</summary>
+<summary markdown="span">Hada Chang (DEN) - 5-2 at #5, 7-2 in duals, 7-2 overall<br>Kylie Collins (TEX) - 9-2 at #5, 16-2 in duals, 16-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Fernanda Labrana (DEN) - 5-1 at #6, 14-1 in duals, 21-2 overall<br>Tatum Burger (TEX) - 2-0 at #6, 8-6 in duals, 8-6 overall</summary>
+<summary markdown="span">Tatum Burger (DEN) - 2-0 at #6, 8-6 in duals, 8-6 overall<br>Fernanda Labrana (TEX) - 5-1 at #6, 14-1 in duals, 21-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
@@ -118,15 +118,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Sun/Collins (DEN) - 16-4 at #1, 16-4 in duals, 16-4 overall<br>Pursell/Verden-Anderson (TEX) - 6-1 at #1, 11-2 in duals, 11-2 overall</summary>
+<summary markdown="span">Pursell/Verden-Anderson (DEN) - 6-1 at #1, 11-2 in duals, 11-2 overall<br>Sun/Collins (TEX) - 16-4 at #1, 16-4 in duals, 16-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Turati/Labrana (DEN) - 13-1 at #2, 14-1 in duals, 14-1 overall<br>Riedmiller/Chang (TEX) - 5-1 at #2, 5-1 in duals, 5-1 overall</summary>
+<summary markdown="span">Riedmiller/Chang (DEN) - 5-1 at #2, 5-1 in duals, 5-1 overall<br>Turati/Labrana (TEX) - 13-1 at #2, 14-1 in duals, 14-1 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Chavatipon/Stearns (DEN) - 11-1 at #3, 12-1 in duals, 14-2 overall<br>Nelson/Melville (TEX) - 5-0 at #3, 6-0 in duals, 6-0 overall</summary>
+<summary markdown="span">Nelson/Melville (DEN) - 5-0 at #3, 6-0 in duals, 6-0 overall<br>Chavatipon/Stearns (TEX) - 11-1 at #3, 12-1 in duals, 14-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

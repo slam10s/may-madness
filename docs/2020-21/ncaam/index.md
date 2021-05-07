@@ -8,9 +8,9 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Sat, 5/08 at 10:00 EDT	[Texas Tech vs Virginia Tech](./matches/R1_43-44_TTU_vs_VT.md) ... VT (52%) / TTU (48%)
+- Sat, 5/08 at 10:00 EDT	[Texas Tech vs Virginia Tech](./matches/R1_43-44_VT_vs_TTU.md) ... TTU (47%) / VT (53%)
+- Sat, 5/08 at 10:00 EDT	[South Fla. vs Duke](./matches/R1_3-4_DUKE_vs_USF.md) ... USF (56%) / DUKE (44%)
 - Sat, 5/08 at 12:00 EDT	[Oregon vs Alabama](./matches/R1_61-62_ORE_vs_BAMA.md) ... BAMA (56%) / ORE (44%)
-- Sat, 5/08 at 10:00 EDT	[South Fla. vs Duke](./matches/R1_3-4_USF_vs_DUKE.md) ... USF (56%) / DUKE (44%)
 - Fri, 5/07 at  2:00 EDT	[Western Mich. vs Notre Dame](./matches/R1_5-6_WMU_vs_ND.md) ... ND (76%) / WMU (24%)
 - Fri, 5/07 at 10:00 EDT	[Michigan vs Arizona](./matches/R1_37-38_MICH_vs_ARIZ.md) ... MICH (77%) / ARIZ (23%)
 
@@ -19,22 +19,22 @@ The various metrics disagree on the outcome of these matches:
 The metrics agree on the winner, but not by a lot:
 
 - Sat, 5/08 at 10:00 EDT	[Northwestern vs UCLA](./matches/R1_29-30_NW_vs_UCLA.md) ... UCLA (62%) / NW (38%)
-- Sat, 5/08 at 12:00 EDT	[Arizona St. vs Wichita St.](./matches/R1_51-52_AZST_vs_WICH.md) ... AZST (68%) / WICH (32%)
+- Sat, 5/08 at 12:00 EDT	[Arizona St. vs Wichita St.](./matches/R1_51-52_WICH_vs_AZST.md) ... AZST (67%) / WICH (33%)
 - Fri, 5/07 at 12:00 EDT	[Denver vs Oklahoma](./matches/R1_13-14_DEN_vs_OKLA.md) ... OKLA (74%) / DEN (26%)
-- Sat, 5/08 at 10:00 EDT	[Georgia Tech vs Memphis](./matches/R1_35-36_GT_vs_MEM.md) ... GT (75%) / MEM (25%)
-- Sat, 5/08 at  1:00 EDT	[Tulane vs Middle Tenn.](./matches/R1_59-60_TULN_vs_MTSU.md) ... TULN (79%) / MTSU (21%)
+- Sat, 5/08 at 10:00 EDT	[Georgia Tech vs Memphis](./matches/R1_35-36_MEM_vs_GT.md) ... GT (74%) / MEM (26%)
+- Sat, 5/08 at  1:00 EDT	[Tulane vs Middle Tenn.](./matches/R1_59-60_MTSU_vs_TULN.md) ... TULN (79%) / MTSU (21%)
 
 ### Heavy Favorites
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Sat, 5/08 at 10:00 EDT	[Stanford vs LSU](./matches/R1_19-20_STAN_vs_LSU.md) ... STAN (81%) / LSU (19%)
-- Sat, 5/08 at 11:00 EDT	[Mississippi St. vs Miami (FL)](./matches/R1_11-12_MSST_vs_MIA.md) ... MSST (83%) / MIA (17%)
+- Sat, 5/08 at 10:00 EDT	[Stanford vs LSU](./matches/R1_19-20_LSU_vs_STAN.md) ... STAN (80%) / LSU (20%)
+- Sat, 5/08 at 11:00 EDT	[Mississippi St. vs Miami (FL)](./matches/R1_11-12_MIA_vs_MSST.md) ... MSST (83%) / MIA (17%)
 - Fri, 5/07 at  1:00 EDT	[UC Santa Barbara vs Pepperdine](./matches/R1_21-22_UCSB_vs_PEPP.md) ... PEPP (90%) / UCSB (10%)
 - Sat, 5/08 at 10:00 EDT	[Navy vs Oklahoma St.](./matches/R1_45-46_NAVY_vs_OKST.md) ... OKST (91%) / NAVY (9%)
 - Fri, 5/07 at  2:00 EDT	[VCU vs Ohio St.](./matches/R1_53-54_VCU_vs_OSU.md) ... OSU (92%) / VCU (8%)
+- Fri, 5/07 at 10:00 EDT	[NC State vs FGCU](./matches/R1_27-28_FGCU_vs_NCST.md) ... NCST (92%) / FGCU (8%)
 - Sat, 5/08 at  3:00 EDT	[Arkansas vs #7 TCU](./matches/R1_49-50_ARK_vs_TCU.md) ... TCU (92%) / ARK (8%)
-- Fri, 5/07 at 10:00 EDT	[NC State vs FGCU](./matches/R1_27-28_NCST_vs_FGCU.md) ... NCST (92%) / FGCU (8%)
 - Fri, 5/07 at  3:00 EDT	[New Mexico vs #8 Texas A&M](./matches/R1_15-16_UNM_vs_AM.md) ... A&M (92%) / UNM (8%)
 - Fri, 5/07 at  1:00 EDT	[UNCW vs #13 South Carolina](./matches/R1_25-26_UNCW_vs_SCAR.md) ... SCAR (93%) / UNCW (7%)
 - Sat, 5/08 at  2:00 EDT	[Monmouth vs #9 UCF](./matches/R1_9-10_MONM_vs_UCF.md) ... UCF (93%) / MONM (7%)

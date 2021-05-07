@@ -51,7 +51,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Emma Navarro (LIU) - 17-1 at #1, 17-1 in duals, 17-1 overall<br>Sofiya Kuzina (UVA) - 8-1 at #1, 8-1 in duals, 8-1 overall</summary>
+<summary markdown="span">Sofiya Kuzina (LIU) - 8-1 at #1, 8-1 in duals, 8-1 overall<br>Emma Navarro (UVA) - 17-1 at #1, 17-1 in duals, 17-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Natasha Subhash (LIU) - 14-4 at #2, 15-4 in duals, 15-5 overall<br>Valentina Dancenco (UVA) - 7-0 at #2, 7-0 in duals, 7-0 overall</summary>
+<summary markdown="span">Valentina Dancenco (LIU) - 7-0 at #2, 7-0 in duals, 7-0 overall<br>Natasha Subhash (UVA) - 14-4 at #2, 15-4 in duals, 15-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Rosie Johanson (LIU) - 15-2 at #3, 16-2 in duals, 16-4 overall<br>Victoria Erechtchenko (UVA) - 6-1 at #3, 7-1 in duals, 7-1 overall</summary>
+<summary markdown="span">Victoria Erechtchenko (LIU) - 6-1 at #3, 7-1 in duals, 7-1 overall<br>Rosie Johanson (UVA) - 15-2 at #3, 16-2 in duals, 16-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Hibah Shaikh (LIU) - 4-9 at #4, 6-9 in duals, 7-10 overall<br>Elinor Storkaas (UVA) - 1-4 at #4, 3-4 in duals, 3-4 overall</summary>
+<summary markdown="span">Elinor Storkaas (LIU) - 1-4 at #4, 3-4 in duals, 3-4 overall<br>Hibah Shaikh (UVA) - 4-9 at #4, 6-9 in duals, 7-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Amber O'Dell (LIU) - 1-3 at #5, 10-7 in duals, 10-9 overall<br>Bianca Compuesto (UVA) - 4-0 at #5, 6-0 in duals, 6-0 overall</summary>
+<summary markdown="span">Bianca Compuesto (LIU) - 4-0 at #5, 6-0 in duals, 6-0 overall<br>Amber O'Dell (UVA) - 1-3 at #5, 10-7 in duals, 10-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>TRN: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Vivian Glozman (LIU) - 2-1 at #6, 7-3 in duals, 8-4 overall<br>Ekaterine Jorjoliani (UVA) - 5-1 at #6, 7-1 in duals, 7-1 overall</summary>
+<summary markdown="span">Ekaterine Jorjoliani (LIU) - 5-1 at #6, 7-1 in duals, 7-1 overall<br>Vivian Glozman (UVA) - 2-1 at #6, 7-3 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
@@ -116,15 +116,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Navarro/Johanson (LIU) - 7-6 at #1, 9-8 in duals, 9-8 overall<br>Dancenco/Kuzina (UVA) - 6-3 at #1, 6-3 in duals, 6-3 overall</summary>
+<summary markdown="span">Dancenco/Kuzina (LIU) - 6-3 at #1, 6-3 in duals, 6-3 overall<br>Navarro/Johanson (UVA) - 7-6 at #1, 9-8 in duals, 9-8 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Munera/Subhash (LIU) - 6-5 at #2, 8-5 in duals, 10-7 overall<br>Erechtchenko/Maduel (UVA) - 0-0 at #2, 7-2 in duals, 7-2 overall</summary>
+<summary markdown="span">Erechtchenko/Maduel (LIU) - 0-0 at #2, 7-2 in duals, 7-2 overall<br>Munera/Subhash (UVA) - 6-5 at #2, 8-5 in duals, 10-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Glozman/Shaikh (LIU) - 1-1 at #3, 1-1 in duals, 1-2 overall<br>Storkaas/Compuesto (UVA) - 0-0 at #3, 5-3 in duals, 5-3 overall</summary>
+<summary markdown="span">Storkaas/Compuesto (LIU) - 0-0 at #3, 5-3 in duals, 5-3 overall<br>Glozman/Shaikh (UVA) - 1-1 at #3, 1-1 in duals, 1-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
