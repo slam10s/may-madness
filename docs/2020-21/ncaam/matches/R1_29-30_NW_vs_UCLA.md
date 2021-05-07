@@ -8,7 +8,7 @@ Austin, Texas
 <td>  
 
 <h2>#3 Northwestern</h2>  
-(13-7)<br>  
+Record: 13-7<br>  
 &nbsp; ITA: 50 (7.95)<br>  
 &nbsp; Slam: 33 (92.89)<br>  
 &nbsp; TRN: 32 (90.90)<br>  
@@ -21,7 +21,7 @@ Austin, Texas
 <td>  
 
 <h2>#2 UCLA</h2>  
-(13-6)<br>  
+Record: 13-6<br>  
 &#10004; ITA: 24 (32.15)<br>  
 &#10004; Slam: 23 (93.84)<br>  
 &#10004; TRN: 24 (91.84)<br>  

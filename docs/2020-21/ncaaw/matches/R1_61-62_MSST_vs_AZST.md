@@ -8,7 +8,7 @@ Austin, Texas
 <td>  
 
 <h2>#3 Mississippi St.</h2>  
-(11-12)<br>  
+Record: 11-12<br>  
 &nbsp; ITA: 38 (19.84)<br>  
 &nbsp; Slam: 42 (86.60)<br>  
 &nbsp; TRN: 39 (78.82)<br>  
@@ -21,7 +21,7 @@ Austin, Texas
 <td>  
 
 <h2>#2 Arizona St.</h2>  
-(14-8)<br>  
+Record: 14-8<br>  
 &#10004; ITA: 31 (26.09)<br>  
 &#10004; Slam: 31 (88.20)<br>  
 &#10004; TRN: 33 (79.83)<br>  

@@ -8,7 +8,7 @@ Orlando, Florida
 <td>  
 
 <h2>#4 Monmouth</h2>  
-(14-2)<br>  
+Record: 14-2<br>  
 &nbsp; ITA: 58 (4.41)<br>  
 &nbsp; Slam: 61 (82.18)<br>  
 &nbsp; TRN: 57 (79.79)<br>  
@@ -20,7 +20,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 UCF</h2>  
-(21-3)<br>  
+Record: 21-3<br>  
 &#10004; ITA: 10 (54.95)<br>  
 &#10004; Slam: 12 (96.59)<br>  
 &#10004; TRN: 13 (95.63)<br>  

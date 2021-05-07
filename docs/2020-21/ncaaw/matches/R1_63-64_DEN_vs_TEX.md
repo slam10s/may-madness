@@ -8,7 +8,7 @@ Austin, Texas
 <td>  
 
 <h2>#4 Denver</h2>  
-(14-3)<br>  
+Record: 14-3<br>  
 &nbsp; ITA: 45 (11.66)<br>  
 &nbsp; Slam: 45 (84.92)<br>  
 &nbsp; TRN: 45 (76.03)<br>  
@@ -21,7 +21,7 @@ Austin, Texas
 <td>  
 
 <h2>#1 Texas</h2>  
-(25-1)<br>  
+Record: 25-1<br>  
 &#10004; ITA: 2 (79.19)<br>  
 &#10004; Slam: 2 (98.44)<br>  
 &#10004; TRN: 2 (97.97)<br>  

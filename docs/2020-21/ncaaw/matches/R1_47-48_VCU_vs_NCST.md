@@ -8,7 +8,7 @@ Raleigh, North Carolina
 <td>  
 
 <h2>#4 VCU</h2>  
-(14-9)<br>  
+Record: 14-9<br>  
 &nbsp; ITA: 49 (6.76)<br>  
 &nbsp; Slam: 48 (82.19)<br>  
 &nbsp; TRN: 48 (73.53)<br>  
@@ -20,7 +20,7 @@ Raleigh, North Carolina
 <td>  
 
 <h2>#1 NC State</h2>  
-(16-5)<br>  
+Record: 16-5<br>  
 &#10004; ITA: 6 (55.66)<br>  
 &#10004; Slam: 11 (91.65)<br>  
 &#10004; TRN: 10 (84.27)<br>  

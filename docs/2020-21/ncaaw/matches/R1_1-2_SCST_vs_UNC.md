@@ -8,7 +8,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#4 South Carolina St.</h2>  
-(6-4)<br>  
+Record: 6-4<br>  
 &nbsp; Slam: 62 (70.68)<br>  
 &nbsp; TRN: 61 (58.72)<br>  
 &nbsp; Massey: 62 (3.52)<br>  
@@ -19,7 +19,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#1 North Carolina</h2>  
-(26-0)<br>  
+Record: 26-0<br>  
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  

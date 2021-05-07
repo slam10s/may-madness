@@ -8,7 +8,7 @@ Knoxville, Tennessee
 <td>  
 
 <h2>#3 Memphis</h2>  
-(9-8)<br>  
+Record: 9-8<br>  
 &nbsp; ITA: 38 (22.19)<br>  
 &nbsp; Slam: 41 (91.89)<br>  
 &nbsp; TRN: 40 (89.86)<br>  
@@ -21,7 +21,7 @@ Knoxville, Tennessee
 <td>  
 
 <h2>#2 Georgia Tech</h2>  
-(13-9)<br>  
+Record: 13-9<br>  
 &#10004; ITA: 30 (27.75)<br>  
 &#10004; Slam: 27 (93.36)<br>  
 &#10004; TRN: 33 (90.89)<br>  

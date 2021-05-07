@@ -8,7 +8,7 @@ Fort Worth, Texas
 <td>  
 
 <h2>#3 Wichita St.</h2>  
-(15-8)<br>  
+Record: 15-8<br>  
 &nbsp; ITA: 33 (25.34)<br>  
 &nbsp; Slam: 39 (92.05)<br>  
 &nbsp; TRN: 37 (90.31)<br>  
@@ -21,7 +21,7 @@ Fort Worth, Texas
 <td>  
 
 <h2>#2 Arizona St.</h2>  
-(16-8)<br>  
+Record: 16-8<br>  
 &#10004; ITA: 20 (34.84)<br>  
 &#10004; Slam: 25 (93.56)<br>  
 &#10004; TRN: 25 (91.79)<br>  

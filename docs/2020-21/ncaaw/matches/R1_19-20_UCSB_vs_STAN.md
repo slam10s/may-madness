@@ -8,7 +8,7 @@ Malibu, California
 <td>  
 
 <h2>#3 UC Santa Barbara</h2>  
-(13-3)<br>  
+Record: 13-3<br>  
 &nbsp; ITA: 44 (14.68)<br>  
 &nbsp; Slam: 39 (87.38)<br>  
 &nbsp; TRN: 40 (78.81)<br>  
@@ -20,7 +20,7 @@ Malibu, California
 <td>  
 
 <h2>#2 Stanford</h2>  
-(14-4)<br>  
+Record: 14-4<br>  
 &#10004; ITA: 28 (35.11)<br>  
 &#10004; Slam: 23 (90.02)<br>  
 &#10004; TRN: 24 (81.66)<br>  

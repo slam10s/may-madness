@@ -8,7 +8,7 @@ Athens, Georgia
 <td>  
 
 <h2>#3 Virginia Tech</h2>  
-(12-9)<br>  
+Record: 12-9<br>  
 &nbsp; ITA: 29 (28.32)<br>  
 &#10004; Slam: 30 (93.02)<br>  
 &#10004; TRN: 29 (91.09)<br>  
@@ -21,7 +21,7 @@ Athens, Georgia
 <td>  
 
 <h2>#2 Texas Tech</h2>  
-(12-7)<br>  
+Record: 12-7<br>  
 &#10004; ITA: 25 (31.34)<br>  
 &nbsp; Slam: 35 (92.60)<br>  
 &nbsp; TRN: 31 (90.98)<br>  

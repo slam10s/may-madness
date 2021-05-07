@@ -8,7 +8,7 @@ Baton Rouge, Louisiana
 <td>  
 
 <h2>#3 Rice</h2>  
-(15-7)<br>  
+Record: 15-7<br>  
 &nbsp; ITA: 40 (18.25)<br>  
 &nbsp; Slam: 40 (87.14)<br>  
 &nbsp; TRN: 36 (79.49)<br>  
@@ -21,7 +21,7 @@ Baton Rouge, Louisiana
 <td>  
 
 <h2>#2 Michigan</h2>  
-(18-3)<br>  
+Record: 18-3<br>  
 &#10004; ITA: 19 (41.22)<br>  
 &#10004; Slam: 8 (91.95)<br>  
 &#10004; TRN: 8 (85.13)<br>  

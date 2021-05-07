@@ -8,7 +8,7 @@ Atlanta, Georgia
 <td>  
 
 <h2>#4 Ga. Southern</h2>  
-(19-8)<br>  
+Record: 19-8<br>  
 &nbsp; ITA: 53 (4.08)<br>  
 &nbsp; Slam: 53 (78.88)<br>  
 &nbsp; TRN: 54 (68.86)<br>  
@@ -20,7 +20,7 @@ Atlanta, Georgia
 <td>  
 
 <h2>#1 Georgia Tech</h2>  
-(18-10)<br>  
+Record: 18-10<br>  
 &#10004; ITA: 13 (48.32)<br>  
 &#10004; Slam: 20 (90.34)<br>  
 &#10004; TRN: 16 (83.31)<br>  

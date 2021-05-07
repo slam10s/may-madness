@@ -8,7 +8,7 @@ Orlando, Florida
 <td>  
 
 <h2>#4 Charleston So.</h2>  
-(10-7)<br>  
+Record: 10-7<br>  
 &nbsp; ITA: 58 (2.77)<br>  
 &nbsp; Slam: 60 (75.63)<br>  
 &nbsp; TRN: 57 (65.77)<br>  
@@ -20,7 +20,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 UCF</h2>  
-(18-4)<br>  
+Record: 18-4<br>  
 &#10004; ITA: 9 (52.14)<br>  
 &#10004; Slam: 12 (91.41)<br>  
 &#10004; TRN: 12 (83.85)<br>  

@@ -8,7 +8,7 @@ College Station, Texas
 <td>  
 
 <h2>#3 Denver</h2>  
-(16-3)<br>  
+Record: 16-3<br>  
 &nbsp; ITA: 45 (17.16)<br>  
 &nbsp; Slam: 42 (91.67)<br>  
 &nbsp; TRN: 35 (90.56)<br>  
@@ -21,7 +21,7 @@ College Station, Texas
 <td>  
 
 <h2>#2 Oklahoma</h2>  
-(10-14)<br>  
+Record: 10-14<br>  
 &#10004; ITA: 27 (29.42)<br>  
 &#10004; Slam: 29 (93.05)<br>  
 &#10004; TRN: 28 (91.23)<br>  

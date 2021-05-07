@@ -8,7 +8,7 @@ Berkeley, California
 <td>  
 
 <h2>#4 San Jose St.</h2>  
-(15-1)<br>  
+Record: 15-1<br>  
 &nbsp; ITA: 47 (8.04)<br>  
 &nbsp; Slam: 50 (80.34)<br>  
 &nbsp; TRN: 49 (73.09)<br>  
@@ -20,7 +20,7 @@ Berkeley, California
 <td>  
 
 <h2>#1 California</h2>  
-(17-6)<br>  
+Record: 17-6<br>  
 &#10004; ITA: 16 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
 &#10004; TRN: 17 (82.99)<br>  

@@ -8,7 +8,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#4 Siena</h2>  
-(7-3)<br>  
+Record: 7-3<br>  
 &nbsp; ITA: 60 (2.41)<br>  
 &nbsp; Slam: 64 (65.57)<br>  
 &nbsp; TRN: 64 (50.23)<br>  
@@ -20,7 +20,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#1 Florida</h2>  
-(12-7)<br>  
+Record: 12-7<br>  
 &#10004; ITA: 11 (49.18)<br>  
 &#10004; Slam: 16 (90.47)<br>  
 &#10004; TRN: 20 (82.70)<br>  
