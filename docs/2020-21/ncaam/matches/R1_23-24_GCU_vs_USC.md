@@ -8,7 +8,7 @@ Los Angeles, California
 <td>  
 
 <h2>#4 Grand Canyon</h2>  
-&nbsp; Record: 8-12<br>  
+&nbsp; Record: 8-13<br>  
 &nbsp; ITA: 64 (1.38)<br>  
 &nbsp; Slam: 62 (81.82)<br>  
 &nbsp; TRN: 62 (76.83)<br>  
@@ -20,7 +20,7 @@ Los Angeles, California
 <td>  
 
 <h2>#1 Southern California</h2>  
-&nbsp; Record: 20-6<br>  
+&nbsp; Record: 21-6<br>  
 &#10004; ITA: 12 (52.23)<br>  
 &#10004; Slam: 14 (96.38)<br>  
 &#10004; TRN: 16 (94.47)<br>  
@@ -35,6 +35,9 @@ Los Angeles, California
 
 
 <br>Return to [List of Matches](../index.md)  
+
+## Match Information  
+***USC def. Grand Canyon 4-0***  
 
 ## Predictions  
 
