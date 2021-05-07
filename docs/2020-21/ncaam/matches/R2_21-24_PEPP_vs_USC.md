@@ -4,10 +4,11 @@ David X. Marks Tennis Stadium
 Los Angeles, California  
 ## [Pepperdine vs #12 Southern California](https://www.ncaa.com/game/5833407)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #F46F1B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Pepperdine</h2>  
+&nbsp; Record: 16-6<br>  
 &nbsp; ITA: 28 (29.09)<br>  
 &nbsp; Slam: 34 (92.69)<br>  
 &nbsp; TRN: 30 (91.07)<br>  
@@ -21,6 +22,7 @@ Los Angeles, California
 <td>  
 
 <h2>#1 Southern California</h2>  
+&nbsp; Record: 21-6<br>  
 &#10004; ITA: 12 (52.23)<br>  
 &#10004; Slam: 14 (96.38)<br>  
 &#10004; TRN: 16 (94.47)<br>  

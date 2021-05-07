@@ -4,10 +4,11 @@ Scott Speicher Tennis Center
 Tallahassee, Florida  
 ## [Auburn vs #7 Florida St.](https://www.ncaa.com/game/5833691)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #FA4616 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" /></td><td style="background-color: #76253A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Auburn</h2>  
+&nbsp; Record: 14-8<br>  
 &nbsp; ITA: 20 (41.17)<br>  
 &nbsp; Slam: 24 (89.44)<br>  
 &nbsp; TRN: 23 (81.74)<br>  
@@ -21,6 +22,7 @@ Tallahassee, Florida
 <td>  
 
 <h2>#1 Florida St.</h2>  
+&nbsp; Record: 17-5<br>  
 &#10004; ITA: 7 (55.15)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  

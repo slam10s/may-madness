@@ -4,10 +4,11 @@ Combe Tennis Center
 Evanston, Illinois  
 ## [Northwestern vs #10 Texas A&M](https://www.ncaa.com/game/5833692)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #4E2A84 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Northwestern</h2>  
+&nbsp; Record: 19-5<br>  
 &nbsp; ITA: 21 (39.92)<br>  
 &nbsp; Slam: 18 (90.46)<br>  
 &#10004; TRN: 13 (83.80)<br>  

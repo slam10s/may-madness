@@ -6,6 +6,10 @@ Return to the [Home Page](../../index.md)
 
 ### Intriguing Matches
 
+The various metrics disagree on the outcome of these matches:
+
+- Sat, 5/08 at  5:00 EDT	[Ohio St. vs #10 Wake Forest](./matches/R2_53-56_OSU_vs_WAKE.md) ... WAKE (30%) / <i>OSU (70%)</i>
+
 The metrics agree on the winner, but not by a lot:
 
 - Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (74%) / ARIZ (26%)
@@ -17,6 +21,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Sat, 5/08 at  4:00 EDT	[Pepperdine vs #12 Southern California](./matches/R2_21-24_PEPP_vs_USC.md) ... USC (87%) / PEPP (13%)
 - Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... A&M (89%) / OKLA (11%)
+- Sat, 5/08 at  4:00 EDT	[Notre Dame vs #16 Illinois](./matches/R2_5-8_ND_vs_ILL.md) ... ILL (92%) / ND (8%)
 ## First Round
 
 ### Intriguing Matches
@@ -53,8 +58,8 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Fri, 5/07 at  1:00 EDT	[Cleveland St. vs #14 Kentucky](./matches/R1_39-40_CLEV_vs_UK.md) ... <b>UK (4)</b> / CLEV (1)
 - Fri, 5/07 at  3:00 EDT	[New Mexico vs #8 Texas A&M](./matches/R1_15-16_UNM_vs_AM.md) ... <b>A&M (4)</b> / UNM (1)
 - Fri, 5/07 at  4:00 EDT	[Grand Canyon vs #12 Southern California](./matches/R1_23-24_GCU_vs_USC.md) ... <b>USC (4)</b> / GCU (0)
-- Fri, 5/07 at  5:00 EDT	[DePaul vs #16 Illinois](./matches/R1_7-8_DEP_vs_ILL.md) ... ILL (93%) / DEP (7%)
-- Fri, 5/07 at  5:00 EDT	[South Carolina St. vs #10 Wake Forest](./matches/R1_55-56_SCST_vs_WAKE.md) ... WAKE (93%) / SCST (7%)
+- Fri, 5/07 at  5:00 EDT	[DePaul vs #16 Illinois](./matches/R1_7-8_DEP_vs_ILL.md) ... <b>ILL (4)</b> / DEP (1)
+- Fri, 5/07 at  5:00 EDT	[South Carolina St. vs #10 Wake Forest](./matches/R1_55-56_SCST_vs_WAKE.md) ... <b>WAKE (4)</b> / SCST (0)
 - Sat, 5/08 at  1:00 EDT	[South Alabama vs #1 Florida](./matches/R1_1-2_SALA_vs_FLA.md) ... FLA (93%) / SALA (7%)
 - Sat, 5/08 at  1:00 EDT	[Fairleigh Dickinson vs #5 Virginia](./matches/R1_17-18_FDU_vs_UVA.md) ... UVA (93%) / FDU (7%)
 - Sat, 5/08 at  1:00 EDT	[Northern Ariz. vs #4 Texas](./matches/R1_31-32_NAU_vs_TEX.md) ... TEX (93%) / NAU (7%)

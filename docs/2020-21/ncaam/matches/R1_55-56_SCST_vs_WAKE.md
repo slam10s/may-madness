@@ -8,7 +8,7 @@ Winston-Salem, North Carolina
 <td>  
 
 <h2>#4 South Carolina St.</h2>  
-&nbsp; Record: 7-5<br>  
+&nbsp; Record: 7-6<br>  
 &nbsp; ITA: 65 (0.72)<br>  
 &nbsp; Slam: 63 (81.19)<br>  
 &nbsp; TRN: 63 (76.54)<br>  
@@ -20,7 +20,7 @@ Winston-Salem, North Carolina
 <td>  
 
 <h2>#1 Wake Forest</h2>  
-&nbsp; Record: 28-6<br>  
+&nbsp; Record: 29-6<br>  
 &#10004; ITA: 9 (56.82)<br>  
 &#10004; Slam: 10 (97.17)<br>  
 &#10004; TRN: 10 (95.99)<br>  
@@ -35,6 +35,9 @@ Winston-Salem, North Carolina
 
 
 <br>Return to [List of Matches](../index.md)  
+
+## Match Information  
+***Wake Forest def. S.C. State 4-0***  
 
 ## Predictions  
 

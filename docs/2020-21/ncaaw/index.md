@@ -23,6 +23,7 @@ The metrics agree on the winner, but not by a lot:
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Sat, 5/08 at  4:00 EDT	[Auburn vs #7 Florida St.](./matches/R2_49-52_AUB_vs_FSU.md) ... FSU (82%) / AUB (18%)
+- Sat, 5/08 at  4:00 EDT	[Stanford vs #5 Pepperdine](./matches/R2_17-20_STAN_vs_PEPP.md) ... PEPP (84%) / STAN (16%)
 - Sat, 5/08 at 12:00 EDT	[Vanderbilt vs #15 Ohio St.](./matches/R2_57-60_VANDY_vs_OSU.md) ... OSU (85%) / VANDY (15%)
 - Sat, 5/08 at  3:00 EDT	[Texas Tech vs #4 UCLA](./matches/R2_29-32_TTU_vs_UCLA.md) ... UCLA (90%) / TTU (10%)
 - Sat, 5/08 at  2:00 EDT	[Iowa St. vs #6 NC State](./matches/R2_45-48_ISU_vs_NCST.md) ... NCST (91%) / ISU (9%)
@@ -74,7 +75,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Fri, 5/07 at  4:00 EDT	[Alabama St. vs #7 Florida St.](./matches/R1_49-50_ALST_vs_FSU.md) ... <b>FSU (4)</b> / ALST (0)
 - Fri, 5/07 at  4:00 EDT	[Xavier vs Northwestern](./matches/R1_53-54_XAV_vs_NW.md) ... <b>NW (4)</b> / XAV (0)
 - Fri, 5/07 at  4:00 EDT	[Denver vs #2 Texas](./matches/R1_63-64_DEN_vs_TEX.md) ... <b>TEX (4)</b> / DEN (0)
-- Fri, 5/07 at  5:00 EDT	[Northern Ariz. vs #5 Pepperdine](./matches/R1_17-18_NAU_vs_PEPP.md) ... PEPP (93%) / NAU (7%)
+- Fri, 5/07 at  5:00 EDT	[Northern Ariz. vs #5 Pepperdine](./matches/R1_17-18_NAU_vs_PEPP.md) ... <b>PEPP (5)</b> / NAU (0)
 - Fri, 5/07 at  6:00 EDT	[A&M-Corpus Christi vs #8 Baylor](./matches/R1_15-16_TAMCC_vs_BAY.md) ... BAY (93%) / TAMCC (7%)
   
 Return to the [Home Page](../../index.md)

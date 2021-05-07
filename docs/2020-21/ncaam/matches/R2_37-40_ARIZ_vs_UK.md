@@ -4,7 +4,7 @@ Boone Tennis Complex
 Lexington, Kentucky  
 ## [Arizona vs #14 Kentucky](https://www.ncaa.com/game/5833411)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></td><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Arizona</h2>  
@@ -22,6 +22,7 @@ Lexington, Kentucky
 <td>  
 
 <h2>#1 Kentucky</h2>  
+&nbsp; Record: 19-7<br>  
 &#10004; ITA: 15 (44.70)<br>  
 &#10004; Slam: 17 (95.87)<br>  
 &#10004; TRN: 17 (93.83)<br>  

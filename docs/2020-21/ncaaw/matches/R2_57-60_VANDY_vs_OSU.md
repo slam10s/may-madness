@@ -4,7 +4,7 @@ Varsity Tennis Center
 Columbus, Ohio  
 ## [Vanderbilt vs #15 Ohio St.](https://www.ncaa.com/game/5833693)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></td><td style="background-color: #CE0F3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Vanderbilt</h2>  
@@ -21,6 +21,7 @@ Columbus, Ohio
 <td>  
 
 <h2>#1 Ohio St.</h2>  
+&nbsp; Record: 22-3<br>  
 &#10004; ITA: 18 (43.02)<br>  
 &#10004; Slam: 5 (92.95)<br>  
 &#10004; TRN: 5 (85.87)<br>  

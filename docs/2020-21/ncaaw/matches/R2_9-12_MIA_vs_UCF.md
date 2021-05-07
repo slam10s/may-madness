@@ -4,7 +4,7 @@ USTA National Campus
 Orlando, Florida  
 ## [Miami (FL) vs #9 UCF](https://www.ncaa.com/game/5833681)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #154734 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #154734 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Miami (FL)</h2>  
@@ -22,6 +22,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 UCF</h2>  
+&nbsp; Record: 19-4<br>  
 &#10004; ITA: 9 (52.14)<br>  
 &#10004; Slam: 12 (91.41)<br>  
 &#10004; TRN: 12 (83.85)<br>  

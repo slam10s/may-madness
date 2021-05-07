@@ -4,7 +4,7 @@ Virginia Tennis Facility at the Boar’s Head Resort
 Charlottesville, Virginia  
 ## [Tennessee vs #14 Virginia](https://www.ncaa.com/game/5833688)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Tennessee</h2>  
@@ -22,6 +22,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#1 Virginia</h2>  
+&nbsp; Record: 15-6<br>  
 &#10004; ITA: 14 (47.67)<br>  
 &#10004; Slam: 9 (91.88)<br>  
 &#10004; TRN: 11 (84.03)<br>  

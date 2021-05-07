@@ -4,10 +4,11 @@ Hellman Tennis Complex
 Berkeley, California  
 ## [Kentucky vs #16 California](https://www.ncaa.com/game/5833680)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Kentucky</h2>  
+&nbsp; Record: 16-8<br>  
 &nbsp; ITA: 26 (37.41)<br>  
 &nbsp; Slam: 25 (89.36)<br>  
 &nbsp; TRN: 27 (81.49)<br>  
@@ -21,6 +22,7 @@ Berkeley, California
 <td>  
 
 <h2>#1 California</h2>  
+&nbsp; Record: 18-6<br>  
 &#10004; ITA: 16 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
 &#10004; TRN: 17 (82.99)<br>  

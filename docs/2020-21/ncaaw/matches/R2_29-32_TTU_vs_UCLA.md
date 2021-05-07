@@ -4,10 +4,11 @@ Los Angeles Tennis Center
 Los Angeles, California  
 ## [Texas Tech vs #4 UCLA](https://www.ncaa.com/game/5833686)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #ED1F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Texas Tech</h2>  
+&nbsp; Record: 16-8<br>  
 &nbsp; ITA: 29 (28.07)<br>  
 &nbsp; Slam: 34 (87.92)<br>  
 &nbsp; TRN: 34 (79.75)<br>  

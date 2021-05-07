@@ -4,7 +4,7 @@ LSU Tennis Complex
 Baton Rouge, Louisiana  
 ## [Michigan vs #12 LSU](https://www.ncaa.com/game/5833684)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Michigan</h2>  
@@ -22,6 +22,7 @@ Baton Rouge, Louisiana
 <td>  
 
 <h2>#1 LSU</h2>  
+&nbsp; Record: 15-5<br>  
 &#10004; ITA: 12 (48.73)<br>  
 &nbsp; Slam: 21 (90.28)<br>  
 &nbsp; TRN: 18 (82.92)<br>  
