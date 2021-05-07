@@ -4,7 +4,7 @@ Return to the [Home Page](../../index.md)
 
 ## First Round
 
-### Evenly Matched
+### Intriguing Matches
 
 The various metrics disagree on the outcome of these matches:
 
@@ -12,7 +12,6 @@ The various metrics disagree on the outcome of these matches:
 - Fri, 5/07 at 10:00 EDT	[Southern California vs Oklahoma](./matches/R1_43-44_USC_vs_OKLA.md) ... OKLA (66%) / USC (34%)
 - Fri, 5/07 at 10:00 EDT	[Furman vs Wake Forest](./matches/R1_35-36_FUR_vs_WAKE.md) ... WAKE (66%) / FUR (34%)
 
-### Intriguing Matches
 
 The metrics agree on the winner, but not by a lot:
 

@@ -4,7 +4,7 @@ Return to the [Home Page](../../index.md)
 
 ## First Round
 
-### Evenly Matched
+### Intriguing Matches
 
 The various metrics disagree on the outcome of these matches:
 
@@ -14,7 +14,6 @@ The various metrics disagree on the outcome of these matches:
 - Fri, 5/07 at 10:00 EDT	[Michigan vs Arizona](./matches/R1_37-38_MICH_vs_ARIZ.md) ... MICH (77%) / ARIZ (23%)
 - Fri, 5/07 at  2:00 EDT	[Western Mich. vs Notre Dame](./matches/R1_5-6_WMU_vs_ND.md) ... ND (77%) / WMU (23%)
 
-### Intriguing Matches
 
 The metrics agree on the winner, but not by a lot:
 
