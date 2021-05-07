@@ -37,6 +37,9 @@ Urbana, Illinois
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+***Notre Dame def. Western Michigan 4-1***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

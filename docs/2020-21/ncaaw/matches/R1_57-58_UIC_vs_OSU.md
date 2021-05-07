@@ -36,6 +36,9 @@ Columbus, Ohio
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+***Ohio State def. Illinois - Chicago 4-0***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

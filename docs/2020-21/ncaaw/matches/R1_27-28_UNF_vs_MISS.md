@@ -36,6 +36,9 @@ Atlanta, Georgia
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+***North Florida def. Ole Miss 4-3***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

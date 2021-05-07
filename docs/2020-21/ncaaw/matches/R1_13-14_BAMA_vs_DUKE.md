@@ -37,6 +37,9 @@ Waco, Texas
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+***Duke def. Alabama 4-0***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

@@ -36,6 +36,9 @@ Evanston, Illinois
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+***Texas A&M def. Drake 4-0***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

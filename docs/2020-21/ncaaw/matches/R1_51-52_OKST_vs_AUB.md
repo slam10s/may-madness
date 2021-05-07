@@ -37,6 +37,9 @@ Tallahassee, Florida
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+***Auburn def. Oklahoma State 4-2***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

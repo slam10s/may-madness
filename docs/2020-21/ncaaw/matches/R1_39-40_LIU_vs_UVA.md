@@ -36,6 +36,9 @@ Charlottesville, Virginia
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+***Virginia def. Long Island 4-0***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

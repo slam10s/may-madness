@@ -36,6 +36,9 @@ Los Angeles, California
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+***UCLA def. Grand Canyon 4-0***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

@@ -37,6 +37,9 @@ Athens, Georgia
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+***Wake Forest def. Furman 4-2***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

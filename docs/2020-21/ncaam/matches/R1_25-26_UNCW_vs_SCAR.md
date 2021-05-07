@@ -36,6 +36,9 @@ Columbia, South Carolina
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+***South Carolina def. UNC Wilmington 4-0***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
