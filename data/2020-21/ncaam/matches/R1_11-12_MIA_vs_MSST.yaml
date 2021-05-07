@@ -41,7 +41,7 @@ Predictions:
   TRN: "MSST - #19 Mississippi St. (88%) def. #43 Miami (FL) (12%)"
   MAS: "MSST - #26 Mississippi St. (75%) def. #38 Miami (FL) (25%)"
   LNUP: MSST - Mississippi St. (92%) def. Miami (FL) (8%)
-  AVG: MSST - Mississippi St. (69%) def. Miami (FL) (31%)
+  AVG: MSST - Mississippi St. (83%) def. Miami (FL) (17%)
   UTR: "MSST - #24 Mississippi St. (+2.16) def. #40 Miami (FL) (-2.16)"
   ITA: "MSST - #16 Mississippi St. def. #39 Miami (FL)"
   USTA: "MSST - #23 Mississippi St. def. Miami (FL)"
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "MSST - #2 Mississippi St. def. #3 Miami (FL)"
 Lineups:
   Predictions:
-    Average EWPs for MSST: 46%,58%,74%,83%,79%,75%
-    Average EWPs for MIA: 54%,42%,26%,17%,21%,25%
+    Average EWPs for MSST: 78%,88%,75%,92%
+    Average EWPs for MIA: 22%,12%,25%,8%
     MSST wins 4 or more Singles points: 75%
     MIA wins 4 or more Singles points: 6%
     Winner decided by the Doubles point: 19%

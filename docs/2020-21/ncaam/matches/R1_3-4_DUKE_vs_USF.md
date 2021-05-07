@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***USF*** - #34 South Fla. (52%) def. #36 Duke (48%)  
 - Massey: ***USF*** - #32 South Fla. (75%) def. #34 Duke (25%)  
 - Lineup: ***DUKE*** - Duke (52%) def. South Fla. (48%)  
-- Composite: ***DUKE*** - Duke (51%) def. South Fla. (49%)  
+- Composite: ***USF*** - South Fla. (55%) def. Duke (45%)  
 - UTR: ***DUKE*** - #32 Duke (+0.35) def. #37 South Fla. (-0.35)  
 - ITA: ***USF*** - #32 South Fla. def. #35 Duke  
 - Coaches Poll: ***USF*** - #33 South Fla. def. #36 Duke  

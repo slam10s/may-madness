@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
 - Massey: ***UK*** - #17 Kentucky (75%) def. #55 Cleveland St. (25%)  
 - Lineup: ***UK*** - Kentucky (100%) def. Cleveland St. (0%)  
-- Composite: ***UK*** - Kentucky (91%) def. Cleveland St. (9%)  
+- Composite: ***UK*** - Kentucky (93%) def. Cleveland St. (7%)  
 - UTR: ***UK*** - #16 Kentucky (+7.36) def. #54 Cleveland St. (-7.36)  
 - ITA: ***UK*** - #15 Kentucky def. #57 Cleveland St.  
 - USTA Poll: ***UK*** - #17 Kentucky def. Cleveland St.  

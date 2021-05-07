@@ -40,7 +40,7 @@ Predictions:
   TRN: "MISS - #18 Ole Miss (99%) def. #58 Belmont (1%)"
   MAS: "MISS - #21 Ole Miss (75%) def. #57 Belmont (25%)"
   LNUP: MISS - Ole Miss (100%) def. Belmont (0%)
-  AVG: MISS - Ole Miss (90%) def. Belmont (10%)
+  AVG: MISS - Ole Miss (93%) def. Belmont (7%)
   UTR: "MISS - #25 Ole Miss (+6.71) def. #57 Belmont (-6.71)"
   ITA: "MISS - #14 Ole Miss def. #56 Belmont"
   USTA: "MISS - #21 Ole Miss def. Belmont"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "MISS - #1 Ole Miss def. #4 Belmont"
 Lineups:
   Predictions:
-    Average EWPs for MISS: 84%,92%,91%,92%,91%,91%
-    Average EWPs for BEL: 16%,8%,9%,8%,9%,9%
+    Average EWPs for MISS: 99%,99%,75%,100%
+    Average EWPs for BEL: 1%,1%,25%,0%
     MISS wins 4 or more Singles points: 99%
     BEL wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%

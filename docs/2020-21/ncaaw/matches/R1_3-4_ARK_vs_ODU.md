@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***ODU*** - #25 Old Dominion (71%) def. #32 Arkansas (29%)  
 - Massey: ***ODU*** - #29 Old Dominion (75%) def. #41 Arkansas (25%)  
 - Lineup: ***ODU*** - Old Dominion (63%) def. Arkansas (37%)  
-- Composite: ***ODU*** - Old Dominion (54%) def. Arkansas (46%)  
+- Composite: ***ODU*** - Old Dominion (71%) def. Arkansas (29%)  
 - UTR: ***ODU*** - #37 Old Dominion (+0.12) def. #38 Arkansas (-0.12)  
 - ITA: ***ODU*** - #30 Old Dominion def. #32 Arkansas  
 - USTA Poll: ***ODU*** - RV Old Dominion def. Arkansas  

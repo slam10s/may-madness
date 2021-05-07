@@ -41,7 +41,7 @@ Predictions:
   TRN: "DUKE - #15 Duke (94%) def. #44 Alabama (6%)"
   MAS: "DUKE - #11 Duke (75%) def. #44 Alabama (25%)"
   LNUP: DUKE - Duke (100%) def. Alabama (0%)
-  AVG: DUKE - Duke (87%) def. Alabama (13%)
+  AVG: DUKE - Duke (90%) def. Alabama (10%)
   UTR: "DUKE - #12 Duke (+3.40) def. #40 Alabama (-3.40)"
   ITA: "DUKE - #17 Duke def. #42 Alabama"
   USTA: "DUKE - #14 Duke def. Alabama"
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "DUKE - #2 Duke def. #3 Alabama"
 Lineups:
   Predictions:
-    Average EWPs for DUKE: 83%,87%,90%,89%,87%,86%
-    Average EWPs for BAMA: 17%,13%,10%,11%,13%,14%
+    Average EWPs for DUKE: 93%,94%,75%,100%
+    Average EWPs for BAMA: 7%,6%,25%,0%
     DUKE wins 4 or more Singles points: 97%
     BAMA wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 3%

@@ -40,15 +40,15 @@ Predictions:
   TRN: "USF - #34 South Fla. (52%) def. #36 Duke (48%)"
   MAS: "USF - #32 South Fla. (75%) def. #34 Duke (25%)"
   LNUP: DUKE - Duke (52%) def. South Fla. (48%)
-  AVG: DUKE - Duke (51%) def. South Fla. (49%)
+  AVG: USF - South Fla. (55%) def. Duke (45%)
   UTR: "DUKE - #32 Duke (+0.35) def. #37 South Fla. (-0.35)"
   ITA: "USF - #32 South Fla. def. #35 Duke"
   Coach: "USF - #33 South Fla. def. #36 Duke"
   Seeding: "USF - #2 South Fla. def. #3 Duke"
 Lineups:
   Predictions:
-    Average EWPs for USF: 52%,64%,42%,40%,40%,56%
-    Average EWPs for DUKE: 48%,36%,58%,60%,60%,44%
+    Average EWPs for USF: 50%,52%,75%,48%
+    Average EWPs for DUKE: 50%,48%,25%,52%
     USF wins 4 or more Singles points: 32%
     DUKE wins 4 or more Singles points: 36%
     Winner decided by the Doubles point: 32%

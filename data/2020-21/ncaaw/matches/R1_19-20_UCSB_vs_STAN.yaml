@@ -39,7 +39,7 @@ Predictions:
   TRN: "STAN - #24 Stanford (83%) def. #40 UC Santa Barbara (17%)"
   MAS: "STAN - #15 Stanford (75%) def. #40 UC Santa Barbara (25%)"
   LNUP: STAN - Stanford (98%) def. UC Santa Barbara (2%)
-  AVG: STAN - Stanford (81%) def. UC Santa Barbara (19%)
+  AVG: STAN - Stanford (84%) def. UC Santa Barbara (16%)
   UTR: "STAN - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)"
   ITA: "STAN - #28 Stanford def. #44 UC Santa Barbara"
   USTA: "STAN - #18 Stanford def. UC Santa Barbara"
@@ -47,8 +47,8 @@ Predictions:
   Seeding: "STAN - #2 Stanford def. #3 UC Santa Barbara"
 Lineups:
   Predictions:
-    Average EWPs for STAN: 79%,81%,48%,92%,92%,92%
-    Average EWPs for UCSB: 21%,19%,52%,8%,8%,8%
+    Average EWPs for STAN: 81%,83%,75%,98%
+    Average EWPs for UCSB: 19%,17%,25%,2%
     STAN wins 4 or more Singles points: 93%
     UCSB wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 6%

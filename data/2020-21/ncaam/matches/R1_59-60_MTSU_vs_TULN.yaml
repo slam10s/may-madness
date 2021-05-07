@@ -40,15 +40,15 @@ Predictions:
   TRN: "TULN - #26 Tulane (79%) def. #45 Middle Tenn. (21%)"
   MAS: "TULN - #26 Tulane (75%) def. #42 Middle Tenn. (25%)"
   LNUP: TULN - Tulane (85%) def. Middle Tenn. (15%)
-  AVG: TULN - Tulane (64%) def. Middle Tenn. (36%)
+  AVG: TULN - Tulane (79%) def. Middle Tenn. (21%)
   UTR: "TULN - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)"
   ITA: "TULN - #22 Tulane def. #42 Middle Tenn."
   Coach: "TULN - #24 Tulane def. #42 Middle Tenn."
   Seeding: "TULN - #2 Tulane def. #3 Middle Tenn."
 Lineups:
   Predictions:
-    Average EWPs for TULN: 72%,70%,78%,60%,66%,36%
-    Average EWPs for MTSU: 28%,30%,22%,40%,34%,64%
+    Average EWPs for TULN: 78%,79%,75%,85%
+    Average EWPs for MTSU: 22%,21%,25%,15%
     TULN wins 4 or more Singles points: 64%
     MTSU wins 4 or more Singles points: 11%
     Winner decided by the Doubles point: 25%

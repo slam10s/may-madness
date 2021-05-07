@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***AZST*** - #33 Arizona St. (64%) def. #39 Mississippi St. (36%)  
 - Massey: ***AZST*** - #24 Arizona St. (75%) def. #44 Mississippi St. (25%)  
 - Lineup: ***AZST*** - Arizona St. (84%) def. Mississippi St. (16%)  
-- Composite: ***AZST*** - Arizona St. (63%) def. Mississippi St. (37%)  
+- Composite: ***AZST*** - Arizona St. (73%) def. Mississippi St. (27%)  
 - UTR: ***AZST*** - #23 Arizona St. (+1.75) def. #36 Mississippi St. (-1.75)  
 - ITA: ***AZST*** - #31 Arizona St. def. #38 Mississippi St.  
 - USTA Poll: ***AZST*** - RV Arizona St. def. Mississippi St.  

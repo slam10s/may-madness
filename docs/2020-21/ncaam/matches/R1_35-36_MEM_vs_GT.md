@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***GT*** - #33 Georgia Tech (64%) def. #40 Memphis (36%)  
 - Massey: ***GT*** - #25 Georgia Tech (75%) def. #43 Memphis (25%)  
 - Lineup: ***GT*** - Georgia Tech (91%) def. Memphis (9%)  
-- Composite: ***GT*** - Georgia Tech (68%) def. Memphis (32%)  
+- Composite: ***GT*** - Georgia Tech (75%) def. Memphis (25%)  
 - UTR: ***GT*** - #36 Georgia Tech (+1.14) def. #43 Memphis (-1.14)  
 - ITA: ***GT*** - #30 Georgia Tech def. #38 Memphis  
 - USTA Poll: ***GT*** - RV Georgia Tech def. Memphis  

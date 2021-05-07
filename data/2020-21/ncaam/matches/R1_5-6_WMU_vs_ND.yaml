@@ -41,7 +41,7 @@ Predictions:
   TRN: "ND - #42 Notre Dame (62%) def. #46 Western Mich. (38%)"
   MAS: "ND - #36 Notre Dame (75%) def. #45 Western Mich. (25%)"
   LNUP: ND - Notre Dame (93%) def. Western Mich. (7%)
-  AVG: ND - Notre Dame (67%) def. Western Mich. (33%)
+  AVG: ND - Notre Dame (77%) def. Western Mich. (23%)
   UTR: "ND - #38 Notre Dame (+3.43) def. #53 Western Mich. (-3.43)"
   ITA: "ND - #34 Notre Dame def. #41 Western Mich."
   USTA: WMU - RV Western Mich. def. Notre Dame
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "ND - #2 Notre Dame def. #3 Western Mich."
 Lineups:
   Predictions:
-    Average EWPs for ND: 83%,84%,85%,7%,62%,84%
-    Average EWPs for WMU: 17%,16%,15%,93%,38%,16%
+    Average EWPs for ND: 77%,62%,75%,93%
+    Average EWPs for WMU: 23%,38%,25%,7%
     ND wins 4 or more Singles points: 76%
     WMU wins 4 or more Singles points: 5%
     Winner decided by the Doubles point: 19%

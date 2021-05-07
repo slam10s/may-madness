@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***CAL*** - #17 California (99%) def. #49 San Jose St. (1%)  
 - Massey: ***CAL*** - #14 California (75%) def. #49 San Jose St. (25%)  
 - Lineup: ***CAL*** - California (100%) def. San Jose St. (0%)  
-- Composite: ***CAL*** - California (91%) def. San Jose St. (9%)  
+- Composite: ***CAL*** - California (93%) def. San Jose St. (7%)  
 - UTR: ***CAL*** - #15 California (+6.78) def. #50 San Jose St. (-6.78)  
 - ITA: ***CAL*** - #16 California def. #47 San Jose St.  
 - USTA Poll: ***CAL*** - #13 California def. San Jose St.  

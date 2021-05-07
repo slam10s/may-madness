@@ -39,15 +39,15 @@ Predictions:
   TRN: "MISS - #26 Ole Miss (96%) def. #46 North Florida (4%)"
   MAS: "MISS - #29 Ole Miss (75%) def. #47 North Florida (25%)"
   LNUP: MISS - Ole Miss (98%) def. North Florida (2%)
-  AVG: MISS - Ole Miss (79%) def. North Florida (21%)
+  AVG: MISS - Ole Miss (90%) def. North Florida (10%)
   UTR: "MISS - #20 Ole Miss (+3.30) def. #44 North Florida (-3.30)"
   ITA: "MISS - #25 Ole Miss def. #48 North Florida"
   Coach: "MISS - #25 Ole Miss def. North Florida"
   Seeding: "MISS - #2 Ole Miss def. #3 North Florida"
 Lineups:
   Predictions:
-    Average EWPs for MISS: 81%,58%,89%,90%,67%,89%
-    Average EWPs for UNF: 19%,42%,11%,10%,33%,11%
+    Average EWPs for MISS: 93%,96%,75%,98%
+    Average EWPs for UNF: 7%,4%,25%,2%
     MISS wins 4 or more Singles points: 91%
     UNF wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 8%

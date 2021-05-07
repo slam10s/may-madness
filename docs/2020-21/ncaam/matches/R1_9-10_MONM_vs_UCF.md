@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UCF*** - #13 UCF (99%) def. #57 Monmouth (1%)  
 - Massey: ***UCF*** - #7 UCF (75%) def. #60 Monmouth (25%)  
 - Lineup: ***UCF*** - UCF (100%) def. Monmouth (0%)  
-- Composite: ***UCF*** - UCF (92%) def. Monmouth (8%)  
+- Composite: ***UCF*** - UCF (93%) def. Monmouth (7%)  
 - UTR: ***UCF*** - #12 UCF (+9.47) def. #62 Monmouth (-9.47)  
 - ITA: ***UCF*** - #10 UCF def. #58 Monmouth  
 - Coaches Poll: ***UCF*** - #9 UCF def. Monmouth  

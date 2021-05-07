@@ -39,7 +39,7 @@ Predictions:
   TRN: "OKST - #23 Oklahoma St. (92%) def. #48 Navy (8%)"
   MAS: "OKST - #29 Oklahoma St. (75%) def. #56 Navy (25%)"
   LNUP: OKST - Oklahoma St. (100%) def. Navy (0%)
-  AVG: OKST - Oklahoma St. (86%) def. Navy (14%)
+  AVG: OKST - Oklahoma St. (91%) def. Navy (9%)
   UTR: "OKST - #19 Oklahoma St. (+7.52) def. #58 Navy (-7.52)"
   ITA: "OKST - #19 Oklahoma St. def. #48 Navy"
   USTA: OKST - RV Oklahoma St. def. Navy
@@ -47,8 +47,8 @@ Predictions:
   Seeding: "OKST - #2 Oklahoma St. def. #3 Navy"
 Lineups:
   Predictions:
-    Average EWPs for OKST: 89%,81%,93%,91%,85%,79%
-    Average EWPs for NAVY: 11%,19%,7%,9%,15%,21%
+    Average EWPs for OKST: 98%,92%,75%,100%
+    Average EWPs for NAVY: 2%,8%,25%,0%
     OKST wins 4 or more Singles points: 97%
     NAVY wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 3%

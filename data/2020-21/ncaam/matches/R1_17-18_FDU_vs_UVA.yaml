@@ -40,7 +40,7 @@ Predictions:
   TRN: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
   MAS: "UVA - #3 Virginia (75%) def. #64 Fairleigh Dickinson (25%)"
   LNUP: UVA - Virginia (100%) def. Fairleigh Dickinson (0%)
-  AVG: UVA - Virginia (79%) def. Fairleigh Dickinson (21%)
+  AVG: UVA - Virginia (93%) def. Fairleigh Dickinson (7%)
   UTR: "UVA - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)"
   ITA: "UVA - #4 Virginia def. #62 Fairleigh Dickinson"
   USTA: "UVA - #1 Virginia def. Fairleigh Dickinson"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "UVA - #1 Virginia def. #4 Fairleigh Dickinson"
 Lineups:
   Predictions:
-    Average EWPs for UVA: 7%,93%,93%,93%,93%,93%
-    Average EWPs for FDU: 93%,7%,7%,7%,7%,7%
+    Average EWPs for UVA: 99%,99%,75%,100%
+    Average EWPs for FDU: 1%,1%,25%,0%
     UVA wins 4 or more Singles points: 97%
     FDU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 3%

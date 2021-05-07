@@ -41,7 +41,7 @@ Predictions:
   TRN: "AUB - #23 Auburn (82%) def. #37 Oklahoma St. (18%)"
   MAS: "AUB - #25 Auburn (75%) def. #36 Oklahoma St. (25%)"
   LNUP: OKST - Oklahoma St. (74%) def. Auburn (26%)
-  AVG: OKST - Oklahoma St. (58%) def. Auburn (42%)
+  AVG: AUB - Auburn (64%) def. Oklahoma St. (36%)
   UTR: "OKST - #17 Oklahoma St. (+0.99) def. #30 Auburn (-0.99)"
   ITA: "AUB - #20 Auburn def. #37 Oklahoma St."
   USTA: "AUB - #25 Auburn def. Oklahoma St."
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "AUB - #2 Auburn def. #3 Oklahoma St."
 Lineups:
   Predictions:
-    Average EWPs for AUB: 20%,59%,29%,71%,33%,36%
-    Average EWPs for OKST: 80%,41%,71%,29%,67%,64%
+    Average EWPs for AUB: 75%,82%,75%,26%
+    Average EWPs for OKST: 25%,18%,25%,74%
     AUB wins 4 or more Singles points: 18%
     OKST wins 4 or more Singles points: 52%
     Winner decided by the Doubles point: 30%

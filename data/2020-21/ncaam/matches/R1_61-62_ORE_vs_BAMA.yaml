@@ -41,15 +41,15 @@ Predictions:
   TRN: "BAMA - #27 Alabama (71%) def. #41 Oregon (29%)"
   MAS: "ORE - #30 Oregon (75%) def. #38 Alabama (25%)"
   LNUP: BAMA - Alabama (58%) def. Oregon (42%)
-  AVG: BAMA - Alabama (52%) def. Oregon (48%)
+  AVG: BAMA - Alabama (56%) def. Oregon (44%)
   UTR: "BAMA - #30 Alabama (+0.28) def. #33 Oregon (-0.28)"
   ITA: "BAMA - #26 Alabama def. #36 Oregon"
   Coach: "BAMA - #25 Alabama def. #41 Oregon"
   Seeding: "BAMA - #2 Alabama def. #3 Oregon"
 Lineups:
   Predictions:
-    Average EWPs for BAMA: 26%,29%,72%,45%,70%,74%
-    Average EWPs for ORE: 74%,71%,28%,55%,30%,26%
+    Average EWPs for BAMA: 70%,71%,26%,58%
+    Average EWPs for ORE: 30%,29%,74%,42%
     BAMA wins 4 or more Singles points: 38%
     ORE wins 4 or more Singles points: 27%
     Winner decided by the Doubles point: 35%

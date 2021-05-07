@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***A&M*** - #11 Texas A&M (99%) def. #54 New Mexico (1%)  
 - Massey: ***A&M*** - #12 Texas A&M (75%) def. #48 New Mexico (25%)  
 - Lineup: ***A&M*** - Texas A&M (98%) def. New Mexico (2%)  
-- Composite: ***A&M*** - Texas A&M (90%) def. New Mexico (10%)  
+- Composite: ***A&M*** - Texas A&M (93%) def. New Mexico (7%)  
 - UTR: ***A&M*** - #8 Texas A&M (+5.97) def. #51 New Mexico (-5.97)  
 - ITA: ***A&M*** - #8 Texas A&M def. #52 New Mexico  
 - USTA Poll: ***A&M*** - #14 Texas A&M def. New Mexico  

@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***PEPP*** - #30 Pepperdine (98%) def. #51 UC Santa Barbara (2%)  
 - Massey: ***PEPP*** - #22 Pepperdine (75%) def. #52 UC Santa Barbara (25%)  
 - Lineup: ***PEPP*** - Pepperdine (95%) def. UC Santa Barbara (5%)  
-- Composite: ***PEPP*** - Pepperdine (72%) def. UC Santa Barbara (28%)  
+- Composite: ***PEPP*** - Pepperdine (90%) def. UC Santa Barbara (10%)  
 - UTR: ***PEPP*** - #26 Pepperdine (+3.39) def. #47 UC Santa Barbara (-3.39)  
 - ITA: ***PEPP*** - #28 Pepperdine def. #54 UC Santa Barbara  
 - USTA Poll: ***PEPP*** - #24 Pepperdine def. UC Santa Barbara  

@@ -41,7 +41,7 @@ Predictions:
   TRN: "AZST - #33 Arizona St. (64%) def. #39 Mississippi St. (36%)"
   MAS: "AZST - #24 Arizona St. (75%) def. #44 Mississippi St. (25%)"
   LNUP: AZST - Arizona St. (84%) def. Mississippi St. (16%)
-  AVG: AZST - Arizona St. (63%) def. Mississippi St. (37%)
+  AVG: AZST - Arizona St. (73%) def. Mississippi St. (27%)
   UTR: "AZST - #23 Arizona St. (+1.75) def. #36 Mississippi St. (-1.75)"
   ITA: "AZST - #31 Arizona St. def. #38 Mississippi St."
   USTA: AZST - RV Arizona St. def. Mississippi St.
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "AZST - #2 Arizona St. def. #3 Mississippi St."
 Lineups:
   Predictions:
-    Average EWPs for AZST: 43%,59%,74%,73%,76%,56%
-    Average EWPs for MSST: 57%,41%,26%,27%,24%,44%
+    Average EWPs for AZST: 71%,64%,75%,84%
+    Average EWPs for MSST: 29%,36%,25%,16%
     AZST wins 4 or more Singles points: 63%
     MSST wins 4 or more Singles points: 12%
     Winner decided by the Doubles point: 25%

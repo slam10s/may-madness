@@ -42,7 +42,7 @@ Predictions:
   TRN: "TEX - #2 Texas (99%) def. #45 Denver (1%)"
   MAS: "TEX - #2 Texas (75%) def. #43 Denver (25%)"
   LNUP: TEX - Texas (100%) def. Denver (0%)
-  AVG: TEX - Texas (90%) def. Denver (10%)
+  AVG: TEX - Texas (93%) def. Denver (7%)
   UTR: "TEX - #1 Texas (+7.56) def. #45 Denver (-7.56)"
   ITA: "TEX - #2 Texas def. #45 Denver"
   USTA: "TEX - #2 Texas def. Denver"
@@ -50,8 +50,8 @@ Predictions:
   Seeding: "TEX - #1 Texas def. #4 Denver"
 Lineups:
   Predictions:
-    Average EWPs for TEX: 79%,89%,92%,93%,93%,92%
-    Average EWPs for DEN: 21%,11%,8%,7%,7%,8%
+    Average EWPs for TEX: 99%,99%,75%,100%
+    Average EWPs for DEN: 1%,1%,25%,0%
     TEX wins 4 or more Singles points: 99%
     DEN wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%

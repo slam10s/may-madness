@@ -41,7 +41,7 @@ Predictions:
   TRN: "SCAR - #28 South Carolina (84%) def. #42 Iowa St. (16%)"
   MAS: "SCAR - #27 South Carolina (75%) def. #39 Iowa St. (25%)"
   LNUP: SCAR - South Carolina (86%) def. Iowa St. (14%)
-  AVG: SCAR - South Carolina (63%) def. Iowa St. (37%)
+  AVG: SCAR - South Carolina (81%) def. Iowa St. (19%)
   UTR: "SCAR - #29 South Carolina (+2.24) def. #39 Iowa St. (-2.24)"
   ITA: "SCAR - #22 South Carolina def. #36 Iowa St."
   USTA: SCAR - RV South Carolina def. Iowa St.
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "SCAR - #2 South Carolina def. #3 Iowa St."
 Lineups:
   Predictions:
-    Average EWPs for SCAR: 81%,82%,53%,85%,50%,28%
-    Average EWPs for ISU: 19%,18%,47%,15%,50%,72%
+    Average EWPs for SCAR: 81%,84%,75%,86%
+    Average EWPs for ISU: 19%,16%,25%,14%
     SCAR wins 4 or more Singles points: 63%
     ISU wins 4 or more Singles points: 10%
     Winner decided by the Doubles point: 27%

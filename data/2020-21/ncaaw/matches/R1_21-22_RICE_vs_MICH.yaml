@@ -41,7 +41,7 @@ Predictions:
   TRN: "MICH - #8 Michigan (96%) def. #36 Rice (4%)"
   MAS: "MICH - #15 Michigan (75%) def. #38 Rice (25%)"
   LNUP: MICH - Michigan (92%) def. Rice (8%)
-  AVG: MICH - Michigan (70%) def. Rice (30%)
+  AVG: MICH - Michigan (89%) def. Rice (11%)
   UTR: "MICH - #17 Michigan (+1.87) def. #35 Rice (-1.87)"
   ITA: "MICH - #19 Michigan def. #40 Rice"
   USTA: "MICH - #7 Michigan def. Rice"
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "MICH - #2 Michigan def. #3 Rice"
 Lineups:
   Predictions:
-    Average EWPs for MICH: 89%,75%,66%,62%,73%,56%
-    Average EWPs for RICE: 11%,25%,34%,38%,27%,44%
+    Average EWPs for MICH: 94%,96%,75%,92%
+    Average EWPs for RICE: 6%,4%,25%,8%
     MICH wins 4 or more Singles points: 76%
     RICE wins 4 or more Singles points: 6%
     Winner decided by the Doubles point: 18%

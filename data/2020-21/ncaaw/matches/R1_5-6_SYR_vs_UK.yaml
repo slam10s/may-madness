@@ -41,7 +41,7 @@ Predictions:
   TRN: "UK - #27 Kentucky (84%) def. #43 Syracuse (16%)"
   MAS: "UK - #33 Kentucky (75%) def. #42 Syracuse (25%)"
   LNUP: UK - Kentucky (67%) def. Syracuse (33%)
-  AVG: UK - Kentucky (56%) def. Syracuse (44%)
+  AVG: UK - Kentucky (77%) def. Syracuse (23%)
   UTR: "UK - #34 Kentucky (+1.47) def. #43 Syracuse (-1.47)"
   ITA: "UK - #26 Kentucky def. #43 Syracuse"
   USTA: "UK - #24 Kentucky def. Syracuse"
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "UK - #2 Kentucky def. #3 Syracuse"
 Lineups:
   Predictions:
-    Average EWPs for UK: 34%,77%,73%,60%,56%,36%
-    Average EWPs for SYR: 66%,23%,27%,40%,44%,64%
+    Average EWPs for UK: 83%,84%,75%,67%
+    Average EWPs for SYR: 17%,16%,25%,33%
     UK wins 4 or more Singles points: 46%
     SYR wins 4 or more Singles points: 22%
     Winner decided by the Doubles point: 32%

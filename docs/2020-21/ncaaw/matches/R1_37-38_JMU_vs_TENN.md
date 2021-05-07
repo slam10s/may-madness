@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***TENN*** - #19 Tennessee (98%) def. #47 James Madison (2%)  
 - Massey: ***TENN*** - #19 Tennessee (75%) def. #46 James Madison (25%)  
 - Lineup: ***TENN*** - Tennessee (98%) def. James Madison (2%)  
-- Composite: ***TENN*** - Tennessee (83%) def. James Madison (17%)  
+- Composite: ***TENN*** - Tennessee (92%) def. James Madison (8%)  
 - UTR: ***TENN*** - #22 Tennessee (+4.72) def. #47 James Madison (-4.72)  
 - ITA: ***TENN*** - #15 Tennessee def. #46 James Madison  
 - USTA Poll: ***TENN*** - #19 Tennessee def. James Madison  

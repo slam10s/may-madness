@@ -39,7 +39,7 @@ Predictions:
   TRN: "NW - #13 Northwestern (99%) def. #50 Xavier (1%)"
   MAS: "NW - #20 Northwestern (75%) def. #50 Xavier (25%)"
   LNUP: NW - Northwestern (100%) def. Xavier (0%)
-  AVG: NW - Northwestern (89%) def. Xavier (11%)
+  AVG: NW - Northwestern (93%) def. Xavier (7%)
   UTR: "NW - #33 Northwestern (+36.37) def. #64 Xavier (-36.37)"
   ITA: "NW - #21 Northwestern def. #55 Xavier"
   USTA: "NW - #16 Northwestern def. Xavier"
@@ -47,8 +47,8 @@ Predictions:
   Seeding: "NW - #2 Northwestern def. #3 Xavier"
 Lineups:
   Predictions:
-    Average EWPs for NW: 86%,86%,87%,90%,93%,91%
-    Average EWPs for XAV: 14%,14%,13%,10%,7%,9%
+    Average EWPs for NW: 99%,99%,75%,100%
+    Average EWPs for XAV: 1%,1%,25%,0%
     NW wins 4 or more Singles points: 98%
     XAV wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 2%

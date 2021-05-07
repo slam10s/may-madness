@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***MSST*** - #19 Mississippi St. (88%) def. #43 Miami (FL) (12%)  
 - Massey: ***MSST*** - #26 Mississippi St. (75%) def. #38 Miami (FL) (25%)  
 - Lineup: ***MSST*** - Mississippi St. (92%) def. Miami (FL) (8%)  
-- Composite: ***MSST*** - Mississippi St. (69%) def. Miami (FL) (31%)  
+- Composite: ***MSST*** - Mississippi St. (83%) def. Miami (FL) (17%)  
 - UTR: ***MSST*** - #24 Mississippi St. (+2.16) def. #40 Miami (FL) (-2.16)  
 - ITA: ***MSST*** - #16 Mississippi St. def. #39 Miami (FL)  
 - USTA Poll: ***MSST*** - #23 Mississippi St. def. Miami (FL)  

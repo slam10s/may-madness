@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***DUKE*** - #15 Duke (94%) def. #44 Alabama (6%)  
 - Massey: ***DUKE*** - #11 Duke (75%) def. #44 Alabama (25%)  
 - Lineup: ***DUKE*** - Duke (100%) def. Alabama (0%)  
-- Composite: ***DUKE*** - Duke (87%) def. Alabama (13%)  
+- Composite: ***DUKE*** - Duke (90%) def. Alabama (10%)  
 - UTR: ***DUKE*** - #12 Duke (+3.40) def. #40 Alabama (-3.40)  
 - ITA: ***DUKE*** - #17 Duke def. #42 Alabama  
 - USTA Poll: ***DUKE*** - #14 Duke def. Alabama  

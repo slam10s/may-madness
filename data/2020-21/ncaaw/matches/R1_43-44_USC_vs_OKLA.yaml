@@ -41,7 +41,7 @@ Predictions:
   TRN: "OKLA - #22 Oklahoma (88%) def. #41 Southern California (12%)"
   MAS: "OKLA - #12 Oklahoma (75%) def. #26 Southern California (25%)"
   LNUP: USC - Southern California (83%) def. Oklahoma (17%)
-  AVG: USC - Southern California (61%) def. Oklahoma (39%)
+  AVG: OKLA - Oklahoma (66%) def. Southern California (34%)
   UTR: "USC - #6 Southern California (+1.96) def. #14 Oklahoma (-1.96)"
   ITA: "OKLA - #23 Oklahoma def. #35 Southern California"
   USTA: "OKLA - #22 Oklahoma def. Southern California"
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "OKLA - #2 Oklahoma def. #3 Southern California"
 Lineups:
   Predictions:
-    Average EWPs for OKLA: 38%,48%,93%,21%,27%,7%
-    Average EWPs for USC: 62%,52%,7%,79%,73%,93%
+    Average EWPs for OKLA: 87%,88%,75%,17%
+    Average EWPs for USC: 13%,12%,25%,83%
     OKLA wins 4 or more Singles points: 12%
     USC wins 4 or more Singles points: 59%
     Winner decided by the Doubles point: 29%

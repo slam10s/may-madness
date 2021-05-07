@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UNC*** - #2 North Carolina (99%) def. #59 Presbyterian (1%)  
 - Massey: ***UNC*** - #4 North Carolina (75%) def. #61 Presbyterian (25%)  
 - Lineup: ***UNC*** - North Carolina (100%) def. Presbyterian (0%)  
-- Composite: ***UNC*** - North Carolina (92%) def. Presbyterian (8%)  
+- Composite: ***UNC*** - North Carolina (93%) def. Presbyterian (7%)  
 - UTR: ***UNC*** - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)  
 - ITA: ***UNC*** - #6 North Carolina def. #59 Presbyterian  
 - USTA Poll: ***UNC*** - #5 North Carolina def. Presbyterian  

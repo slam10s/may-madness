@@ -41,7 +41,7 @@ Predictions:
   TRN: "OSU - #8 Ohio St. (98%) def. #38 VCU (2%)"
   MAS: "OSU - #9 Ohio St. (75%) def. #35 VCU (25%)"
   LNUP: OSU - Ohio St. (100%) def. VCU (0%)
-  AVG: OSU - Ohio St. (85%) def. VCU (15%)
+  AVG: OSU - Ohio St. (92%) def. VCU (8%)
   UTR: "OSU - #3 Ohio St. (+3.21) def. #29 VCU (-3.21)"
   ITA: "OSU - #31 Ohio St. def. #37 VCU"
   USTA: "OSU - #7 Ohio St. def. VCU"
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "OSU - #2 Ohio St. def. #3 VCU"
 Lineups:
   Predictions:
-    Average EWPs for OSU: 85%,89%,87%,74%,85%,90%
-    Average EWPs for VCU: 15%,11%,13%,26%,15%,10%
+    Average EWPs for OSU: 95%,98%,75%,100%
+    Average EWPs for VCU: 5%,2%,25%,0%
     OSU wins 4 or more Singles points: 96%
     VCU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 4%

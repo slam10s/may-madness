@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***BAMA*** - #27 Alabama (71%) def. #41 Oregon (29%)  
 - Massey: ***ORE*** - #30 Oregon (75%) def. #38 Alabama (25%)  
 - Lineup: ***BAMA*** - Alabama (58%) def. Oregon (42%)  
-- Composite: ***BAMA*** - Alabama (52%) def. Oregon (48%)  
+- Composite: ***BAMA*** - Alabama (56%) def. Oregon (44%)  
 - UTR: ***BAMA*** - #30 Alabama (+0.28) def. #33 Oregon (-0.28)  
 - ITA: ***BAMA*** - #26 Alabama def. #36 Oregon  
 - Coaches Poll: ***BAMA*** - #25 Alabama def. #41 Oregon  

@@ -40,7 +40,7 @@ Predictions:
   TRN: "UGA - #14 Georgia (99%) def. #53 ETSU (1%)"
   MAS: "UGA - #15 Georgia (75%) def. #51 ETSU (25%)"
   LNUP: UGA - Georgia (100%) def. ETSU (0%)
-  AVG: UGA - Georgia (89%) def. ETSU (11%)
+  AVG: UGA - Georgia (93%) def. ETSU (7%)
   UTR: "UGA - #19 Georgia (+4.52) def. #50 ETSU (-4.52)"
   ITA: "UGA - #11 Georgia def. #49 ETSU"
   USTA: "UGA - #16 Georgia def. ETSU"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "UGA - #1 Georgia def. #4 ETSU"
 Lineups:
   Predictions:
-    Average EWPs for UGA: 82%,87%,91%,88%,92%,92%
-    Average EWPs for ETSU: 18%,13%,9%,12%,8%,8%
+    Average EWPs for UGA: 99%,99%,75%,100%
+    Average EWPs for ETSU: 1%,1%,25%,0%
     UGA wins 4 or more Singles points: 98%
     ETSU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 2%

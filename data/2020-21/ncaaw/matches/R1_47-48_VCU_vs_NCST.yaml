@@ -40,7 +40,7 @@ Predictions:
   TRN: "NCST - #10 NC State (99%) def. #48 VCU (1%)"
   MAS: "NCST - #6 NC State (75%) def. #48 VCU (25%)"
   LNUP: NCST - NC State (98%) def. VCU (2%)
-  AVG: NCST - NC State (89%) def. VCU (11%)
+  AVG: NCST - NC State (93%) def. VCU (7%)
   UTR: "NCST - #9 NC State (+7.24) def. #48 VCU (-7.24)"
   ITA: "NCST - #6 NC State def. #49 VCU"
   USTA: "NCST - #11 NC State def. VCU"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "NCST - #1 NC State def. #4 VCU"
 Lineups:
   Predictions:
-    Average EWPs for NCST: 82%,91%,91%,90%,91%,91%
-    Average EWPs for VCU: 18%,9%,9%,10%,9%,9%
+    Average EWPs for NCST: 99%,99%,75%,98%
+    Average EWPs for VCU: 1%,1%,25%,2%
     NCST wins 4 or more Singles points: 98%
     VCU wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 1%

@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***USC*** - #16 Southern California (99%) def. #62 Grand Canyon (1%)  
 - Massey: ***USC*** - #8 Southern California (75%) def. #62 Grand Canyon (25%)  
 - Lineup: ***USC*** - Southern California (100%) def. Grand Canyon (0%)  
-- Composite: ***USC*** - Southern California (92%) def. Grand Canyon (8%)  
+- Composite: ***USC*** - Southern California (93%) def. Grand Canyon (7%)  
 - UTR: ***USC*** - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)  
 - ITA: ***USC*** - #12 Southern California def. #64 Grand Canyon  
 - USTA Poll: ***USC*** - #13 Southern California def. Grand Canyon  

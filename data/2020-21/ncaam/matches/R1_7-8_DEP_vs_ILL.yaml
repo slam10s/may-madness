@@ -40,7 +40,7 @@ Predictions:
   TRN: "ILL - #4 Illinois (99%) def. #55 DePaul (1%)"
   MAS: "ILL - #9 Illinois (75%) def. #54 DePaul (25%)"
   LNUP: ILL - Illinois (100%) def. DePaul (0%)
-  AVG: ILL - Illinois (92%) def. DePaul (8%)
+  AVG: ILL - Illinois (93%) def. DePaul (7%)
   UTR: "ILL - #15 Illinois (+8.25) def. #60 DePaul (-8.25)"
   ITA: "ILL - #18 Illinois def. #55 DePaul"
   USTA: "ILL - #8 Illinois def. DePaul"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "ILL - #1 Illinois def. #4 DePaul"
 Lineups:
   Predictions:
-    Average EWPs for ILL: 92%,93%,90%,92%,92%,92%
-    Average EWPs for DEP: 8%,7%,10%,8%,8%,8%
+    Average EWPs for ILL: 99%,99%,75%,100%
+    Average EWPs for DEP: 1%,1%,25%,0%
     ILL wins 4 or more Singles points: 99%
     DEP wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%

@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***NCST*** - #22 NC State (98%) def. #50 FGCU (2%)  
 - Massey: ***NCST*** - #23 NC State (75%) def. #53 FGCU (25%)  
 - Lineup: ***NCST*** - NC State (98%) def. FGCU (2%)  
-- Composite: ***NCST*** - NC State (83%) def. FGCU (17%)  
+- Composite: ***NCST*** - NC State (92%) def. FGCU (8%)  
 - UTR: ***NCST*** - #22 NC State (+4.53) def. #52 FGCU (-4.53)  
 - ITA: ***NCST*** - #23 NC State def. #47 FGCU  
 - USTA Poll: ***NCST*** - #25 NC State def. FGCU  

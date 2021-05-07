@@ -40,15 +40,15 @@ Predictions:
   TRN: "OKLA - #28 Oklahoma (59%) def. #35 Denver (41%)"
   MAS: "OKLA - #37 Oklahoma (75%) def. #38 Denver (25%)"
   LNUP: OKLA - Oklahoma (94%) def. Denver (6%)
-  AVG: OKLA - Oklahoma (72%) def. Denver (28%)
+  AVG: OKLA - Oklahoma (74%) def. Denver (26%)
   UTR: "OKLA - #28 Oklahoma (+3.10) def. #46 Denver (-3.10)"
   ITA: "OKLA - #27 Oklahoma def. #45 Denver"
   Coach: "OKLA - #26 Oklahoma def. #44 Denver"
   Seeding: "OKLA - #2 Oklahoma def. #3 Denver"
 Lineups:
   Predictions:
-    Average EWPs for OKLA: 53%,85%,76%,82%,61%,73%
-    Average EWPs for DEN: 47%,15%,24%,18%,39%,27%
+    Average EWPs for OKLA: 68%,59%,75%,94%
+    Average EWPs for DEN: 32%,41%,25%,6%
     OKLA wins 4 or more Singles points: 79%
     DEN wins 4 or more Singles points: 5%
     Winner decided by the Doubles point: 16%

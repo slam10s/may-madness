@@ -39,7 +39,7 @@ Predictions:
   TRN: "PEPP - #30 Pepperdine (98%) def. #51 UC Santa Barbara (2%)"
   MAS: "PEPP - #22 Pepperdine (75%) def. #52 UC Santa Barbara (25%)"
   LNUP: PEPP - Pepperdine (95%) def. UC Santa Barbara (5%)
-  AVG: PEPP - Pepperdine (72%) def. UC Santa Barbara (28%)
+  AVG: PEPP - Pepperdine (90%) def. UC Santa Barbara (10%)
   UTR: "PEPP - #26 Pepperdine (+3.39) def. #47 UC Santa Barbara (-3.39)"
   ITA: "PEPP - #28 Pepperdine def. #54 UC Santa Barbara"
   USTA: "PEPP - #24 Pepperdine def. UC Santa Barbara"
@@ -47,8 +47,8 @@ Predictions:
   Seeding: "PEPP - #2 Pepperdine def. #3 UC Santa Barbara"
 Lineups:
   Predictions:
-    Average EWPs for PEPP: 23%,89%,76%,81%,78%,84%
-    Average EWPs for UCSB: 77%,11%,24%,19%,22%,16%
+    Average EWPs for PEPP: 95%,98%,75%,95%
+    Average EWPs for UCSB: 5%,2%,25%,5%
     PEPP wins 4 or more Singles points: 82%
     UCSB wins 4 or more Singles points: 4%
     Winner decided by the Doubles point: 14%

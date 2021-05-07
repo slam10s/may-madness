@@ -40,15 +40,15 @@ Predictions:
   TRN: "UVA - #11 Virginia (99%) def. #63 LIU (1%)"
   MAS: "UVA - #7 Virginia (75%) def. #61 LIU (25%)"
   LNUP: UVA - Virginia (98%) def. LIU (2%)
-  AVG: UVA - Virginia (78%) def. LIU (22%)
+  AVG: UVA - Virginia (93%) def. LIU (7%)
   UTR: "UVA - #13 Virginia (+12.56) def. #60 LIU (-12.56)"
   ITA: "UVA - #14 Virginia def. #52 LIU"
   USTA: "UVA - #10 Virginia def. LIU"
   Seeding: "UVA - #1 Virginia def. #4 LIU"
 Lineups:
   Predictions:
-    Average EWPs for UVA: 93%,93%,93%,93%,7%,93%
-    Average EWPs for LIU: 7%,7%,7%,7%,93%,7%
+    Average EWPs for UVA: 99%,99%,75%,98%
+    Average EWPs for LIU: 1%,1%,25%,2%
     UVA wins 4 or more Singles points: 96%
     LIU wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 3%

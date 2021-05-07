@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***NW*** - #13 Northwestern (99%) def. #50 Xavier (1%)  
 - Massey: ***NW*** - #20 Northwestern (75%) def. #50 Xavier (25%)  
 - Lineup: ***NW*** - Northwestern (100%) def. Xavier (0%)  
-- Composite: ***NW*** - Northwestern (89%) def. Xavier (11%)  
+- Composite: ***NW*** - Northwestern (93%) def. Xavier (7%)  
 - UTR: ***NW*** - #33 Northwestern (+36.37) def. #64 Xavier (-36.37)  
 - ITA: ***NW*** - #21 Northwestern def. #55 Xavier  
 - USTA Poll: ***NW*** - #16 Northwestern def. Xavier  

@@ -40,7 +40,7 @@ Predictions:
   TRN: "PEPP - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)"
   MAS: "PEPP - #5 Pepperdine (75%) def. #51 Northern Ariz. (25%)"
   LNUP: PEPP - Pepperdine (100%) def. Northern Ariz. (0%)
-  AVG: PEPP - Pepperdine (92%) def. Northern Ariz. (8%)
+  AVG: PEPP - Pepperdine (93%) def. Northern Ariz. (7%)
   UTR: "PEPP - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)"
   ITA: "PEPP - #5 Pepperdine def. #54 Northern Ariz."
   USTA: "PEPP - #5 Pepperdine def. Northern Ariz."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "PEPP - #1 Pepperdine def. #4 Northern Ariz."
 Lineups:
   Predictions:
-    Average EWPs for PEPP: 87%,93%,93%,93%,93%,93%
-    Average EWPs for NAU: 13%,7%,7%,7%,7%,7%
+    Average EWPs for PEPP: 99%,99%,75%,100%
+    Average EWPs for NAU: 1%,1%,25%,0%
     PEPP wins 4 or more Singles points: 99%
     NAU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%

@@ -40,7 +40,7 @@ Predictions:
   TRN: "SCAR - #15 South Carolina (99%) def. #49 UNCW (1%)"
   MAS: "SCAR - #16 South Carolina (75%) def. #49 UNCW (25%)"
   LNUP: SCAR - South Carolina (100%) def. UNCW (0%)
-  AVG: SCAR - South Carolina (88%) def. UNCW (12%)
+  AVG: SCAR - South Carolina (93%) def. UNCW (7%)
   UTR: "SCAR - #17 South Carolina (+4.69) def. #48 UNCW (-4.69)"
   ITA: "SCAR - #13 South Carolina def. #51 UNCW"
   USTA: "SCAR - #15 South Carolina def. UNCW"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "SCAR - #1 South Carolina def. #4 UNCW"
 Lineups:
   Predictions:
-    Average EWPs for SCAR: 90%,88%,87%,89%,87%,87%
-    Average EWPs for UNCW: 10%,12%,13%,11%,13%,13%
+    Average EWPs for SCAR: 98%,99%,75%,100%
+    Average EWPs for UNCW: 2%,1%,25%,0%
     SCAR wins 4 or more Singles points: 98%
     UNCW wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 2%

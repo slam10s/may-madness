@@ -40,7 +40,7 @@ Predictions:
   TRN: "A&M - #14 Texas A&M (99%) def. #58 Drake (1%)"
   MAS: "A&M - #21 Texas A&M (75%) def. #59 Drake (25%)"
   LNUP: A&M - Texas A&M (100%) def. Drake (0%)
-  AVG: A&M - Texas A&M (92%) def. Drake (8%)
+  AVG: A&M - Texas A&M (93%) def. Drake (7%)
   UTR: "A&M - #21 Texas A&M (+10.83) def. #59 Drake (-10.83)"
   ITA: "A&M - #10 Texas A&M def. #63 Drake"
   USTA: "A&M - #17 Texas A&M def. Drake"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "A&M - #1 Texas A&M def. #4 Drake"
 Lineups:
   Predictions:
-    Average EWPs for A&M: 92%,92%,92%,92%,92%,93%
-    Average EWPs for DRKE: 8%,8%,8%,8%,8%,7%
+    Average EWPs for A&M: 99%,99%,75%,100%
+    Average EWPs for DRKE: 1%,1%,25%,0%
     A&M wins 4 or more Singles points: 99%
     DRKE wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%

@@ -41,7 +41,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***MICH*** - #12 Michigan (88%) def. #20 Arizona (12%)  
 - Massey: ***MICH*** - #14 Michigan (75%) def. #18 Arizona (25%)  
 - Lineup: ***MICH*** - Michigan (70%) def. Arizona (30%)  
-- Composite: ***MICH*** - Michigan (57%) def. Arizona (43%)  
+- Composite: ***MICH*** - Michigan (77%) def. Arizona (23%)  
 - UTR: ***MICH*** - #18 Michigan (+0.3) def. #21 Arizona (-0.3)  
 - ITA: ***ARIZ*** - #17 Arizona def. #46 Michigan  
 - USTA Poll: ***ARIZ*** - #18 Arizona def. Michigan  

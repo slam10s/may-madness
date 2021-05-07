@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UVA*** - #11 Virginia (99%) def. #63 LIU (1%)  
 - Massey: ***UVA*** - #7 Virginia (75%) def. #61 LIU (25%)  
 - Lineup: ***UVA*** - Virginia (98%) def. LIU (2%)  
-- Composite: ***UVA*** - Virginia (78%) def. LIU (22%)  
+- Composite: ***UVA*** - Virginia (93%) def. LIU (7%)  
 - UTR: ***UVA*** - #13 Virginia (+12.56) def. #60 LIU (-12.56)  
 - ITA: ***UVA*** - #14 Virginia def. #52 LIU  
 - USTA Poll: ***UVA*** - #10 Virginia def. LIU  

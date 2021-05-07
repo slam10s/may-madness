@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***OSU*** - #5 Ohio St. (99%) def. #59 UIC (1%)  
 - Massey: ***OSU*** - #8 Ohio St. (75%) def. #58 UIC (25%)  
 - Lineup: ***OSU*** - Ohio St. (100%) def. UIC (0%)  
-- Composite: ***OSU*** - Ohio St. (92%) def. UIC (8%)  
+- Composite: ***OSU*** - Ohio St. (93%) def. UIC (7%)  
 - UTR: ***OSU*** - #25 Ohio St. (+10.14) def. #58 UIC (-10.14)  
 - ITA: ***OSU*** - #18 Ohio St. def. #59 UIC  
 - USTA Poll: ***OSU*** - #6 Ohio St. def. UIC  

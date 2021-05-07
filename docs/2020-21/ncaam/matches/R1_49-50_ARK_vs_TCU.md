@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***TCU*** - #9 TCU (98%) def. #44 Arkansas (2%)  
 - Massey: ***TCU*** - #6 TCU (75%) def. #50 Arkansas (25%)  
 - Lineup: ***TCU*** - TCU (100%) def. Arkansas (0%)  
-- Composite: ***TCU*** - TCU (85%) def. Arkansas (15%)  
+- Composite: ***TCU*** - TCU (92%) def. Arkansas (8%)  
 - UTR: ***TCU*** - #10 TCU (+4.41) def. #44 Arkansas (-4.41)  
 - ITA: ***TCU*** - #7 TCU def. #43 Arkansas  
 - USTA Poll: ***TCU*** - #9 TCU def. Arkansas  

@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***GT*** - #16 Georgia Tech (99%) def. #54 Ga. Southern (1%)  
 - Massey: ***GT*** - #18 Georgia Tech (75%) def. #55 Ga. Southern (25%)  
 - Lineup: ***GT*** - Georgia Tech (100%) def. Ga. Southern (0%)  
-- Composite: ***GT*** - Georgia Tech (90%) def. Ga. Southern (10%)  
+- Composite: ***GT*** - Georgia Tech (93%) def. Ga. Southern (7%)  
 - UTR: ***GT*** - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)  
 - ITA: ***GT*** - #13 Georgia Tech def. #53 Ga. Southern  
 - USTA Poll: ***GT*** - #15 Georgia Tech def. Ga. Southern  

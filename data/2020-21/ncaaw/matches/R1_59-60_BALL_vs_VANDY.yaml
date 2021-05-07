@@ -38,15 +38,15 @@ Predictions:
   TRN: "VANDY - #30 Vanderbilt (99%) def. #52 Ball St. (1%)"
   MAS: "VANDY - #31 Vanderbilt (75%) def. #53 Ball St. (25%)"
   LNUP: VANDY - Vanderbilt (100%) def. Ball St. (0%)
-  AVG: VANDY - Vanderbilt (91%) def. Ball St. (9%)
+  AVG: VANDY - Vanderbilt (93%) def. Ball St. (7%)
   UTR: "VANDY - #28 Vanderbilt (+6.81) def. #51 Ball St. (-6.81)"
   ITA: "VANDY - #27 Vanderbilt def. #51 Ball St."
   Coach: "VANDY - #28 Vanderbilt def. Ball St."
   Seeding: "VANDY - #2 Vanderbilt def. #3 Ball St."
 Lineups:
   Predictions:
-    Average EWPs for VANDY: 90%,89%,89%,92%,91%,92%
-    Average EWPs for BALL: 10%,11%,11%,8%,9%,8%
+    Average EWPs for VANDY: 99%,99%,75%,100%
+    Average EWPs for BALL: 1%,1%,25%,0%
     VANDY wins 4 or more Singles points: 99%
     BALL wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%

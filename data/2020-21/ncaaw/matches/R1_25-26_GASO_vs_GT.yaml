@@ -40,15 +40,15 @@ Predictions:
   TRN: "GT - #16 Georgia Tech (99%) def. #54 Ga. Southern (1%)"
   MAS: "GT - #18 Georgia Tech (75%) def. #55 Ga. Southern (25%)"
   LNUP: GT - Georgia Tech (100%) def. Ga. Southern (0%)
-  AVG: GT - Georgia Tech (90%) def. Ga. Southern (10%)
+  AVG: GT - Georgia Tech (93%) def. Ga. Southern (7%)
   UTR: "GT - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)"
   ITA: "GT - #13 Georgia Tech def. #53 Ga. Southern"
   USTA: "GT - #15 Georgia Tech def. Ga. Southern"
   Seeding: "GT - #1 Georgia Tech def. #4 Ga. Southern"
 Lineups:
   Predictions:
-    Average EWPs for GT: 92%,92%,87%,91%,87%,92%
-    Average EWPs for GASO: 8%,8%,13%,9%,13%,8%
+    Average EWPs for GT: 99%,99%,75%,100%
+    Average EWPs for GASO: 1%,1%,25%,0%
     GT wins 4 or more Singles points: 99%
     GASO wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%

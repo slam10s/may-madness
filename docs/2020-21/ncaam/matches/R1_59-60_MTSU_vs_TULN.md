@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***TULN*** - #26 Tulane (79%) def. #45 Middle Tenn. (21%)  
 - Massey: ***TULN*** - #26 Tulane (75%) def. #42 Middle Tenn. (25%)  
 - Lineup: ***TULN*** - Tulane (85%) def. Middle Tenn. (15%)  
-- Composite: ***TULN*** - Tulane (64%) def. Middle Tenn. (36%)  
+- Composite: ***TULN*** - Tulane (79%) def. Middle Tenn. (21%)  
 - UTR: ***TULN*** - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)  
 - ITA: ***TULN*** - #22 Tulane def. #42 Middle Tenn.  
 - Coaches Poll: ***TULN*** - #24 Tulane def. #42 Middle Tenn.  

@@ -41,7 +41,7 @@ Predictions:
   TRN: "AZST - #25 Arizona St. (70%) def. #37 Wichita St. (30%)"
   MAS: "AZST - #24 Arizona St. (75%) def. #41 Wichita St. (25%)"
   LNUP: AZST - Arizona St. (56%) def. Wichita St. (44%)
-  AVG: AZST - Arizona St. (52%) def. Wichita St. (48%)
+  AVG: AZST - Arizona St. (68%) def. Wichita St. (32%)
   UTR: "AZST - #23 Arizona St. (+2.10) def. #39 Wichita St. (-2.10)"
   ITA: "AZST - #20 Arizona St. def. #33 Wichita St."
   USTA: "AZST - #19 Arizona St. def. Wichita St."
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "AZST - #2 Arizona St. def. #3 Wichita St."
 Lineups:
   Predictions:
-    Average EWPs for AZST: 50%,19%,82%,35%,65%,63%
-    Average EWPs for WICH: 50%,81%,18%,65%,35%,37%
+    Average EWPs for AZST: 70%,70%,75%,56%
+    Average EWPs for WICH: 30%,30%,25%,44%
     AZST wins 4 or more Singles points: 37%
     WICH wins 4 or more Singles points: 28%
     Winner decided by the Doubles point: 35%

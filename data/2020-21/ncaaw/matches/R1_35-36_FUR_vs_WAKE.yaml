@@ -41,7 +41,7 @@ Predictions:
   TRN: "WAKE - #31 Wake Forest (58%) def. #35 Furman (42%)"
   MAS: "WAKE - #34 Wake Forest (75%) def. #35 Furman (25%)"
   LNUP: WAKE - Wake Forest (81%) def. Furman (19%)
-  AVG: WAKE - Wake Forest (62%) def. Furman (38%)
+  AVG: WAKE - Wake Forest (66%) def. Furman (34%)
   UTR: "WAKE - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)"
   ITA: "WAKE - #33 Wake Forest def. #34 Furman"
   USTA: FUR - RV Furman def. Wake Forest
@@ -49,8 +49,8 @@ Predictions:
   Seeding: "WAKE - #2 Wake Forest def. #3 Furman"
 Lineups:
   Predictions:
-    Average EWPs for WAKE: 39%,37%,85%,68%,74%,68%
-    Average EWPs for FUR: 61%,63%,15%,32%,26%,32%
+    Average EWPs for WAKE: 51%,58%,75%,81%
+    Average EWPs for FUR: 49%,42%,25%,19%
     WAKE wins 4 or more Singles points: 59%
     FUR wins 4 or more Singles points: 13%
     Winner decided by the Doubles point: 28%

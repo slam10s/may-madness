@@ -40,6 +40,7 @@ Predictions:
   SLM: "UCLA - #23 UCLA (63%) def. #33 Northwestern (37%)"
   TRN: "UCLA - #24 UCLA (63%) def. #32 Northwestern (37%)"
   MAS: "UCLA - #19 UCLA (75%) def. #31 Northwestern (25%)"
+  AVG: UCLA - UCLA (63%) def. Northwestern (37%)
   UTR: "UCLA - #13 UCLA (+1.50) def. #27 Northwestern (-1.50)"
   ITA: "UCLA - #24 UCLA def. #50 Northwestern"
   USTA: "UCLA - #22 UCLA def. Northwestern"
@@ -47,8 +48,8 @@ Predictions:
   Seeding: "UCLA - #2 UCLA def. #3 Northwestern"
 Lineups:
   Predictions:
-    Average EWPs for UCLA: 74%,52%,33%,43%,58%,40%
-    Average EWPs for NW: 26%,48%,67%,57%,42%,60%
+    Average EWPs for UCLA: 63%,63%,75%,50%
+    Average EWPs for NW: 37%,37%,25%,50%
     UCLA wins 4 or more Singles points: 34%
     NW wins 4 or more Singles points: 33%
     Winner decided by the Doubles point: 33%

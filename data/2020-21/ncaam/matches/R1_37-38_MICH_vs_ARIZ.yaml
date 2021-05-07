@@ -42,7 +42,7 @@ Predictions:
   TRN: "MICH - #12 Michigan (88%) def. #20 Arizona (12%)"
   MAS: "MICH - #14 Michigan (75%) def. #18 Arizona (25%)"
   LNUP: MICH - Michigan (70%) def. Arizona (30%)
-  AVG: MICH - Michigan (57%) def. Arizona (43%)
+  AVG: MICH - Michigan (77%) def. Arizona (23%)
   UTR: "MICH - #18 Michigan (+0.3) def. #21 Arizona (-0.3)"
   ITA: "ARIZ - #17 Arizona def. #46 Michigan"
   USTA: "ARIZ - #18 Arizona def. Michigan"
@@ -50,8 +50,8 @@ Predictions:
   Seeding: "ARIZ - #2 Arizona def. #3 Michigan"
 Lineups:
   Predictions:
-    Average EWPs for ARIZ: 69%,36%,61%,7%,47%,39%
-    Average EWPs for MICH: 31%,64%,39%,93%,53%,61%
+    Average EWPs for ARIZ: 23%,13%,26%,30%
+    Average EWPs for MICH: 77%,87%,74%,70%
     ARIZ wins 4 or more Singles points: 20%
     MICH wins 4 or more Singles points: 48%
     Winner decided by the Doubles point: 32%

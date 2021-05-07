@@ -40,7 +40,7 @@ Predictions:
   TRN: "UCF - #12 UCF (99%) def. #57 Charleston So. (1%)"
   MAS: "UCF - #10 UCF (75%) def. #60 Charleston So. (25%)"
   LNUP: UCF - UCF (100%) def. Charleston So. (0%)
-  AVG: UCF - UCF (78%) def. Charleston So. (22%)
+  AVG: UCF - UCF (93%) def. Charleston So. (7%)
   UTR: "UCF - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)"
   ITA: "UCF - #9 UCF def. #58 Charleston So."
   USTA: "UCF - #9 UCF def. Charleston So."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "UCF - #1 UCF def. #4 Charleston So."
 Lineups:
   Predictions:
-    Average EWPs for UCF: 92%,92%,92%,93%,92%,7%
-    Average EWPs for CHSO: 8%,8%,8%,7%,8%,93%
+    Average EWPs for UCF: 99%,99%,75%,100%
+    Average EWPs for CHSO: 1%,1%,25%,0%
     UCF wins 4 or more Singles points: 96%
     CHSO wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 4%

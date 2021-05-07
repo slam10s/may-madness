@@ -39,6 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UCLA*** - #23 UCLA (63%) def. #33 Northwestern (37%)  
 - TRN: ***UCLA*** - #24 UCLA (63%) def. #32 Northwestern (37%)  
 - Massey: ***UCLA*** - #19 UCLA (75%) def. #31 Northwestern (25%)  
+- Composite: ***UCLA*** - UCLA (63%) def. Northwestern (37%)  
 - UTR: ***UCLA*** - #13 UCLA (+1.50) def. #27 Northwestern (-1.50)  
 - ITA: ***UCLA*** - #24 UCLA def. #50 Northwestern  
 - USTA Poll: ***UCLA*** - #22 UCLA def. Northwestern  

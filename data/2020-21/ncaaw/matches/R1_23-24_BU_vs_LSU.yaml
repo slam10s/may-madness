@@ -40,7 +40,7 @@ Predictions:
   TRN: "LSU - #18 LSU (99%) def. #51 Boston U. (1%)"
   MAS: "LSU - #21 LSU (75%) def. #54 Boston U. (25%)"
   LNUP: LSU - LSU (100%) def. Boston U. (0%)
-  AVG: LSU - LSU (86%) def. Boston U. (14%)
+  AVG: LSU - LSU (93%) def. Boston U. (7%)
   UTR: "LSU - #26 LSU (+5.98) def. #49 Boston U. (-5.98)"
   ITA: "LSU - #12 LSU def. #50 Boston U."
   USTA: "LSU - #23 LSU def. Boston U."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "LSU - #1 LSU def. #4 Boston U."
 Lineups:
   Predictions:
-    Average EWPs for LSU: 87%,68%,91%,91%,87%,90%
-    Average EWPs for BU: 13%,32%,9%,9%,13%,10%
+    Average EWPs for LSU: 99%,99%,75%,100%
+    Average EWPs for BU: 1%,1%,25%,0%
     LSU wins 4 or more Singles points: 97%
     BU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 3%

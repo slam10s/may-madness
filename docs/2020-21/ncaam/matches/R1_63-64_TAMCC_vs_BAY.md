@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***BAY*** - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)  
 - Massey: ***BAY*** - #5 Baylor (75%) def. #58 A&M-Corpus Christi (25%)  
 - Lineup: ***BAY*** - Baylor (100%) def. A&M-Corpus Christi (0%)  
-- Composite: ***BAY*** - Baylor (92%) def. A&M-Corpus Christi (8%)  
+- Composite: ***BAY*** - Baylor (93%) def. A&M-Corpus Christi (7%)  
 - UTR: ***BAY*** - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)  
 - ITA: ***BAY*** - #1 Baylor def. #60 A&M-Corpus Christi  
 - USTA Poll: ***BAY*** - #3 Baylor def. A&M-Corpus Christi  

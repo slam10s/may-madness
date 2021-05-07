@@ -40,7 +40,7 @@ Predictions:
   TRN: "TEX - #7 Texas (99%) def. #60 Northern Ariz. (1%)"
   MAS: "TEX - #11 Texas (75%) def. #59 Northern Ariz. (25%)"
   LNUP: TEX - Texas (100%) def. Northern Ariz. (0%)
-  AVG: TEX - Texas (91%) def. Northern Ariz. (9%)
+  AVG: TEX - Texas (93%) def. Northern Ariz. (7%)
   UTR: "TEX - #14 Texas (+8.16) def. #59 Northern Ariz. (-8.16)"
   ITA: "TEX - #5 Texas def. #61 Northern Ariz."
   USTA: "TEX - #6 Texas def. Northern Ariz."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "TEX - #1 Texas def. #4 Northern Ariz."
 Lineups:
   Predictions:
-    Average EWPs for TEX: 91%,91%,93%,92%,89%,91%
-    Average EWPs for NAU: 9%,9%,7%,8%,11%,9%
+    Average EWPs for TEX: 99%,99%,75%,100%
+    Average EWPs for NAU: 1%,1%,25%,0%
     TEX wins 4 or more Singles points: 99%
     NAU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%

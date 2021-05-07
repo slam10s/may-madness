@@ -42,7 +42,7 @@ Predictions:
   TRN: "MIA - #21 Miami (FL) (63%) def. #29 FIU (37%)"
   MAS: "MIA - #17 Miami (FL) (75%) def. #37 FIU (25%)"
   LNUP: MIA - Miami (FL) (96%) def. FIU (4%)
-  AVG: MIA - Miami (FL) (74%) def. FIU (26%)
+  AVG: MIA - Miami (FL) (77%) def. FIU (23%)
   UTR: "MIA - #19 Miami (FL) (+2.89) def. #42 FIU (-2.89)"
   ITA: "MIA - #24 Miami (FL) def. #41 FIU"
   USTA: "MIA - #21 Miami (FL) def. RV FIU"
@@ -50,8 +50,8 @@ Predictions:
   Seeding: "MIA - #2 Miami (FL) def. #3 FIU"
 Lineups:
   Predictions:
-    Average EWPs for MIA: 90%,83%,50%,67%,64%,91%
-    Average EWPs for FIU: 10%,17%,50%,33%,36%,9%
+    Average EWPs for MIA: 74%,63%,75%,96%
+    Average EWPs for FIU: 26%,37%,25%,4%
     MIA wins 4 or more Singles points: 84%
     FIU wins 4 or more Singles points: 3%
     Winner decided by the Doubles point: 13%

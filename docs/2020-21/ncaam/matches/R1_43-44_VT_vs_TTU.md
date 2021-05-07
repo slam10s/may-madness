@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***VT*** - #29 Virginia Tech (52%) def. #31 Texas Tech (48%)  
 - Massey: ***TTU*** - #28 Texas Tech (75%) def. #33 Virginia Tech (25%)  
 - Lineup: ***VT*** - Virginia Tech (77%) def. Texas Tech (23%)  
-- Composite: ***VT*** - Virginia Tech (60%) def. Texas Tech (40%)  
+- Composite: ***VT*** - Virginia Tech (52%) def. Texas Tech (48%)  
 - UTR: ***VT*** - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)  
 - ITA: ***TTU*** - #25 Texas Tech def. #29 Virginia Tech  
 - USTA Poll: ***TTU*** - RV Texas Tech def. Virginia Tech  

@@ -40,7 +40,7 @@ Predictions:
   TRN: "UK - #17 Kentucky (99%) def. #56 Cleveland St. (1%)"
   MAS: "UK - #17 Kentucky (75%) def. #55 Cleveland St. (25%)"
   LNUP: UK - Kentucky (100%) def. Cleveland St. (0%)
-  AVG: UK - Kentucky (91%) def. Cleveland St. (9%)
+  AVG: UK - Kentucky (93%) def. Cleveland St. (7%)
   UTR: "UK - #16 Kentucky (+7.36) def. #54 Cleveland St. (-7.36)"
   ITA: "UK - #15 Kentucky def. #57 Cleveland St."
   USTA: "UK - #17 Kentucky def. Cleveland St."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "UK - #1 Kentucky def. #4 Cleveland St."
 Lineups:
   Predictions:
-    Average EWPs for UK: 92%,90%,90%,90%,92%,91%
-    Average EWPs for CLEV: 8%,10%,10%,10%,8%,9%
+    Average EWPs for UK: 99%,99%,75%,100%
+    Average EWPs for CLEV: 1%,1%,25%,0%
     UK wins 4 or more Singles points: 99%
     CLEV wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%

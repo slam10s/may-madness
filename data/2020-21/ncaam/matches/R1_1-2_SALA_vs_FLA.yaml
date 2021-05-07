@@ -40,7 +40,7 @@ Predictions:
   TRN: "FLA - #3 Florida (99%) def. #52 South Alabama (1%)"
   MAS: "FLA - #1 Florida (75%) def. #46 South Alabama (25%)"
   LNUP: FLA - Florida (100%) def. South Alabama (0%)
-  AVG: FLA - Florida (90%) def. South Alabama (10%)
+  AVG: FLA - Florida (93%) def. South Alabama (7%)
   UTR: "FLA - #1 Florida (+6.84) def. #49 South Alabama (-6.84)"
   ITA: "FLA - #2 Florida def. #53 South Alabama"
   USTA: "FLA - #2 Florida def. South Alabama"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "FLA - #1 Florida def. #4 South Alabama"
 Lineups:
   Predictions:
-    Average EWPs for FLA: 87%,87%,90%,90%,91%,93%
-    Average EWPs for SALA: 13%,13%,10%,10%,9%,7%
+    Average EWPs for FLA: 99%,99%,75%,100%
+    Average EWPs for SALA: 1%,1%,25%,0%
     FLA wins 4 or more Singles points: 99%
     SALA wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%

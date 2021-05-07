@@ -39,7 +39,7 @@ Predictions:
   TRN: "NCST - #22 NC State (98%) def. #50 FGCU (2%)"
   MAS: "NCST - #23 NC State (75%) def. #53 FGCU (25%)"
   LNUP: NCST - NC State (98%) def. FGCU (2%)
-  AVG: NCST - NC State (83%) def. FGCU (17%)
+  AVG: NCST - NC State (92%) def. FGCU (8%)
   UTR: "NCST - #22 NC State (+4.53) def. #52 FGCU (-4.53)"
   ITA: "NCST - #23 NC State def. #47 FGCU"
   USTA: "NCST - #25 NC State def. FGCU"
@@ -47,8 +47,8 @@ Predictions:
   Seeding: "NCST - #2 NC State def. #3 FGCU"
 Lineups:
   Predictions:
-    Average EWPs for NCST: 85%,78%,83%,79%,88%,85%
-    Average EWPs for FGCU: 15%,22%,17%,21%,12%,15%
+    Average EWPs for NCST: 98%,98%,75%,98%
+    Average EWPs for FGCU: 2%,2%,25%,2%
     NCST wins 4 or more Singles points: 94%
     FGCU wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 5%

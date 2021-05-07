@@ -40,7 +40,7 @@ Predictions:
   TRN: "BAY - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)"
   MAS: "BAY - #5 Baylor (75%) def. #58 A&M-Corpus Christi (25%)"
   LNUP: BAY - Baylor (100%) def. A&M-Corpus Christi (0%)
-  AVG: BAY - Baylor (92%) def. A&M-Corpus Christi (8%)
+  AVG: BAY - Baylor (93%) def. A&M-Corpus Christi (7%)
   UTR: "BAY - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)"
   ITA: "BAY - #1 Baylor def. #60 A&M-Corpus Christi"
   USTA: "BAY - #3 Baylor def. A&M-Corpus Christi"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "BAY - #1 Baylor def. #4 A&M-Corpus Christi"
 Lineups:
   Predictions:
-    Average EWPs for BAY: 92%,93%,90%,91%,93%,92%
-    Average EWPs for TAMCC: 8%,7%,10%,9%,7%,8%
+    Average EWPs for BAY: 99%,99%,75%,100%
+    Average EWPs for TAMCC: 1%,1%,25%,0%
     BAY wins 4 or more Singles points: 99%
     TAMCC wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
