@@ -59,6 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Antonaki (61%) def. Hattingh (39%)</li>  
 <li>Massey: <b><i>MSST</i></b> - Antonaki (75%) def. Hattingh (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Antonaki (59%) def. Hattingh (41%)</li>  
+<li>Average: <b><i>MSST</i></b> - Antonaki (57%) def. Hattingh (43%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Antonaki (17.81) def. Hattingh (6.86)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,6 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AZST</i></b> - Hampton (53%) def. Adaloglou (47%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Hampton (75%) def. Adaloglou (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Adaloglou (54%) def. Hampton (46%)</li>  
+<li>Average: <b><i>AZST</i></b> - Hampton (59%) def. Adaloglou (41%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Adaloglou (3.24) def. Hampton (1.50)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -79,6 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AZST</i></b> - John-Baptiste (76%) def. Racine (24%)</li>  
 <li>Massey: <b><i>AZST</i></b> - John-Baptiste (75%) def. Racine (25%)</li>  
 <li>UTR: <b><i>AZST</i></b> - John-Baptiste (81%) def. Racine (19%)</li>  
+<li>Average: <b><i>AZST</i></b> - John-Baptiste (74%) def. Racine (26%)</li>  
 <li>ITA: <b><i>AZST</i></b> - John-Baptiste (2.78) def. Racine (2.04)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -89,6 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AZST</i></b> - Morlet (67%) def. Mikhailuk (33%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Morlet (75%) def. Mikhailuk (25%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Morlet (82%) def. Mikhailuk (18%)</li>  
+<li>Average: <b><i>AZST</i></b> - Morlet (73%) def. Mikhailuk (27%)</li>  
 <li>ITA: <b><i>AZST</i></b> - Morlet (2.20) def. Mikhailuk (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,6 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AZST</i></b> - Argyrokastriti (76%) def. Poling (24%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Argyrokastriti (75%) def. Poling (25%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Argyrokastriti (85%) def. Poling (15%)</li>  
+<li>Average: <b><i>AZST</i></b> - Argyrokastriti (76%) def. Poling (24%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Poling (2.33) def. Argyrokastriti (2.12)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,6 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Cirotte (55%) def. Turkovic (45%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Turkovic (75%) def. Cirotte (25%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Turkovic (56%) def. Cirotte (44%)</li>  
+<li>Average: <b><i>AZST</i></b> - Turkovic (56%) def. Cirotte (44%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Cirotte (2.24) def. Turkovic (1.94)</li>  
 </ul>
 </details>&nbsp;</li>

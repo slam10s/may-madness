@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>STAN</i></b> - Gordon (76%) def. Volodko (24%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Gordon (75%) def. Volodko (25%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Gordon (87%) def. Volodko (13%)</li>  
+<li>Average: <b><i>STAN</i></b> - Gordon (79%) def. Volodko (21%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Gordon (17.68) def. Volodko (4.21)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>STAN</i></b> - Blake (87%) def. Kiss (13%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Blake (75%) def. Kiss (25%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Blake (88%) def. Kiss (12%)</li>  
+<li>Average: <b><i>STAN</i></b> - Blake (81%) def. Kiss (19%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Blake (5.37) def. Kiss (2.42)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCSB</i></b> - Khatamova (73%) def. Arbuthnott (27%)</li>  
 <li>Massey: <b><i>UCSB</i></b> - Khatamova (75%) def. Arbuthnott (25%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Arbuthnott (80%) def. Khatamova (20%)</li>  
+<li>Average: <b><i>UCSB</i></b> - Khatamova (52%) def. Arbuthnott (48%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Khatamova (6.05) def. Arbuthnott (1.89)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>STAN</i></b> - Geller (98%) def. Sentenac (2%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Geller (75%) def. Sentenac (25%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Geller (98%) def. Sentenac (2%)</li>  
+<li>Average: <b><i>STAN</i></b> - Geller (92%) def. Sentenac (8%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Geller (2.62) def. Sentenac (1.51)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>STAN</i></b> - Choy (99%) def. Reuter (1%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Choy (75%) def. Reuter (25%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Choy (98%) def. Reuter (2%)</li>  
+<li>Average: <b><i>STAN</i></b> - Choy (92%) def. Reuter (8%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Choy (2.38) def. Reuter (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>STAN</i></b> - Higuchi (98%) def. Ballbe (2%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Higuchi (75%) def. Ballbe (25%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Higuchi (99%) def. Ballbe (1%)</li>  
+<li>Average: <b><i>STAN</i></b> - Higuchi (92%) def. Ballbe (8%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Higuchi (2.68) def. Ballbe (2.38)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -59,6 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKST</i></b> - Thamchaiwat (83%) def. Ovunc (17%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Thamchaiwat (75%) def. Ovunc (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Thamchaiwat (91%) def. Ovunc (9%)</li>  
+<li>Average: <b><i>OKST</i></b> - Thamchaiwat (80%) def. Ovunc (20%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Thamchaiwat (21.36) def. Ovunc (9.63)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,6 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKST</i></b> - Miyamoto (52%) def. Ansari (48%)</li>  
 <li>Massey: <b><i>AUB</i></b> - Ansari (75%) def. Miyamoto (25%)</li>  
 <li>UTR: <b><i>AUB</i></b> - Ansari (62%) def. Miyamoto (38%)</li>  
+<li>Average: <b><i>AUB</i></b> - Ansari (59%) def. Miyamoto (41%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Ansari (7.96) def. Miyamoto (4.02)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -79,6 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKST</i></b> - Wolfberg (67%) def. Chen (33%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Wolfberg (75%) def. Chen (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Wolfberg (81%) def. Chen (19%)</li>  
+<li>Average: <b><i>OKST</i></b> - Wolfberg (71%) def. Chen (29%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Wolfberg (10.37) def. Chen (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -89,6 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AUB</i></b> - Axon (65%) def. Detkovskaya (35%)</li>  
 <li>Massey: <b><i>AUB</i></b> - Axon (75%) def. Detkovskaya (25%)</li>  
 <li>UTR: <b><i>AUB</i></b> - Axon (86%) def. Detkovskaya (14%)</li>  
+<li>Average: <b><i>AUB</i></b> - Axon (71%) def. Detkovskaya (29%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Detkovskaya (2.79) def. Axon (2.43)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,6 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKST</i></b> - Stara (62%) def. Flach (38%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Stara (75%) def. Flach (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Stara (67%) def. Flach (33%)</li>  
+<li>Average: <b><i>OKST</i></b> - Stara (67%) def. Flach (33%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Flach (1.50) def. Stara (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,6 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AUB</i></b> - Astakhova (58%) def. Medvedeva (42%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Medvedeva (75%) def. Astakhova (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Medvedeva (82%) def. Astakhova (18%)</li>  
+<li>Average: <b><i>OKST</i></b> - Medvedeva (64%) def. Astakhova (36%)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Boitan (99%) def. Yamanaka (1%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Boitan (75%) def. Yamanaka (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Boitan (97%) def. Yamanaka (3%)</li>  
+<li>Average: <b><i>BAY</i></b> - Boitan (92%) def. Yamanaka (8%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Boitan (31.04) def. Yamanaka (1.61)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Soto (99%) def. Ata (1%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Soto (75%) def. Ata (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Soto (98%) def. Ata (2%)</li>  
+<li>Average: <b><i>BAY</i></b> - Soto (93%) def. Ata (7%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Soto (41.70) def. Ata (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Lah (96%) def. Schwartz (4%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Lah (75%) def. Schwartz (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Lah (94%) def. Schwartz (6%)</li>  
+<li>Average: <b><i>BAY</i></b> - Lah (90%) def. Schwartz (10%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Lah (4.25) def. Schwartz (2.22)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Stachowiak (97%) def. Loriel (3%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Stachowiak (75%) def. Loriel (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Stachowiak (95%) def. Loriel (5%)</li>  
+<li>Average: <b><i>BAY</i></b> - Stachowiak (91%) def. Loriel (9%)</li>  
 <li>ITA: <b><i>TAMCC</i></b> - Loriel (3.69) def. Stachowiak (3.38)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Broom (75%) def. Delgado (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
+<li>Average: <b><i>BAY</i></b> - Broom (93%) def. Delgado (7%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Broom (3.72) def. Delgado (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Furman (99%) def. Castaneda (1%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Furman (75%) def. Castaneda (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Furman (94%) def. Castaneda (6%)</li>  
+<li>Average: <b><i>BAY</i></b> - Furman (92%) def. Castaneda (8%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Furman (4.24) def. Castaneda (3.54)</li>  
 </ul>
 </details>&nbsp;</li>

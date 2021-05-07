@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UGA</i></b> - Bryde (79%) def. Badra (21%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Bryde (75%) def. Badra (25%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Bryde (88%) def. Badra (12%)</li>  
+<li>Average: <b><i>UGA</i></b> - Bryde (82%) def. Badra (18%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Bryde (36.71) def. Badra (10.52)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UGA</i></b> - Zink (93%) def. Rengifo (7%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Zink (75%) def. Rengifo (25%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Zink (91%) def. Rengifo (9%)</li>  
+<li>Average: <b><i>UGA</i></b> - Zink (87%) def. Rengifo (13%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Zink (25.30) def. Rengifo (2.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UGA</i></b> - Henning (97%) def. Lugo (3%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Henning (75%) def. Lugo (25%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Henning (94%) def. Lugo (6%)</li>  
+<li>Average: <b><i>UGA</i></b> - Henning (91%) def. Lugo (9%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Henning (31.73) def. Lugo (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UGA</i></b> - Croyder (96%) def. Pernas (4%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Croyder (75%) def. Pernas (25%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Croyder (91%) def. Pernas (9%)</li>  
+<li>Average: <b><i>UGA</i></b> - Croyder (88%) def. Pernas (12%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Croyder (4.08) def. Pernas (1.71)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UGA</i></b> - Rowe (99%) def. Este (1%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Rowe (75%) def. Este (25%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Rowe (96%) def. Este (4%)</li>  
+<li>Average: <b><i>UGA</i></b> - Rowe (92%) def. Este (8%)</li>  
 <li>ITA: <b><i>ETSU</i></b> - Este (2.15) def. Rowe (1.84)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UGA</i></b> - Grevelius (97%) def. Zabala (3%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Grevelius (75%) def. Zabala (25%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Grevelius (99%) def. Zabala (1%)</li>  
+<li>Average: <b><i>UGA</i></b> - Grevelius (92%) def. Zabala (8%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Grevelius (2.48) def. Zabala (1.96)</li>  
 </ul>
 </details>&nbsp;</li>

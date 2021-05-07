@@ -60,6 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MIA</i></b> - Perez-Somarriba (97%) def. Umarova (3%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (75%) def. Umarova (25%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Perez-Somarriba (95%) def. Umarova (5%)</li>  
+<li>Average: <b><i>MIA</i></b> - Perez-Somarriba (90%) def. Umarova (10%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Perez-Somarriba (69.45) def. Umarova (3.07)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -70,6 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MIA</i></b> - Pfennig (87%) def. Alcaide (13%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Pfennig (75%) def. Alcaide (25%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Pfennig (88%) def. Alcaide (12%)</li>  
+<li>Average: <b><i>MIA</i></b> - Pfennig (83%) def. Alcaide (17%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Pfennig (32.52) def. Alcaide (6.23)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -89,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MIA</i></b> - Urrutia (63%) def. Akbas (37%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Urrutia (75%) def. Akbas (25%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Urrutia (82%) def. Akbas (18%)</li>  
+<li>Average: <b><i>MIA</i></b> - Urrutia (67%) def. Akbas (33%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Urrutia (1.96) def. Akbas (1.61)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MIA</i></b> - Khodan (83%) def. Velcea (17%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Khodan (75%) def. Velcea (25%)</li>  
 <li>UTR: <b><i>FIU</i></b> - Velcea (82%) def. Khodan (18%)</li>  
+<li>Average: <b><i>MIA</i></b> - Khodan (64%) def. Velcea (36%)</li>  
 <li>ITA: <b><i>FIU</i></b> - Velcea (3.05) def. Khodan (1.90)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MIA</i></b> - Tahan (98%) def. Miletic (2%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Tahan (75%) def. Miletic (25%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Tahan (95%) def. Miletic (5%)</li>  
+<li>Average: <b><i>MIA</i></b> - Tahan (91%) def. Miletic (9%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Tahan (2.26) def. Miletic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

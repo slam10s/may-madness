@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>Massey: <b><i>ILL</i></b> - Kovacevic (75%) def. Tonejc (25%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
+<li>Average: <b><i>ILL</i></b> - Kovacevic (92%) def. Tonejc (8%)</li>  
 <li>ITA: <b><i>DEP</i></b> - Tonejc (4.23) def. Kovacevic (4.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
 <li>Massey: <b><i>ILL</i></b> - Montsi (75%) def. Casati (25%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Montsi (98%) def. Casati (2%)</li>  
+<li>Average: <b><i>ILL</i></b> - Montsi (93%) def. Casati (7%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Montsi (4.79) def. Casati (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
 <li>Massey: <b><i>ILL</i></b> - Brown (75%) def. Spanjaard (25%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Brown (92%) def. Spanjaard (8%)</li>  
+<li>Average: <b><i>ILL</i></b> - Brown (90%) def. Spanjaard (10%)</li>  
 <li>ITA: <b><i>DEP</i></b> - Spanjaard (2.02) def. Brown (1.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ILL</i></b> - Clark (99%) def. Zador (1%)</li>  
 <li>Massey: <b><i>ILL</i></b> - Clark (75%) def. Zador (25%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Clark (96%) def. Zador (4%)</li>  
+<li>Average: <b><i>ILL</i></b> - Clark (92%) def. Zador (8%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Clark (6.43) def. Zador (1.31)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ILL</i></b> - Heck (99%) def. Tonejc (1%)</li>  
 <li>Massey: <b><i>ILL</i></b> - Heck (75%) def. Tonejc (25%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Heck (96%) def. Tonejc (4%)</li>  
+<li>Average: <b><i>ILL</i></b> - Heck (92%) def. Tonejc (8%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Heck (2.36) def. Tonejc (1.51)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
 <li>Massey: <b><i>ILL</i></b> - Khlif (75%) def. Wassenaar (25%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Khlif (97%) def. Wassenaar (3%)</li>  
+<li>Average: <b><i>ILL</i></b> - Khlif (92%) def. Wassenaar (8%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Khlif (3.59) def. Wassenaar (2.18)</li>  
 </ul>
 </details>&nbsp;</li>

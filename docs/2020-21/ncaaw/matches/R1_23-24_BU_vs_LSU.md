@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>LSU</i></b> - Bridges (94%) def. Carlsten (6%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Bridges (75%) def. Carlsten (25%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Bridges (86%) def. Carlsten (14%)</li>  
+<li>Average: <b><i>LSU</i></b> - Bridges (87%) def. Carlsten (13%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Bridges (11.61) def. Carlsten (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>LSU</i></b> - Carrington (78%) def. Tan (22%)</li>  
 <li>Massey: <b><i>BU</i></b> - Tan (75%) def. Carrington (25%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Carrington (91%) def. Tan (9%)</li>  
+<li>Average: <b><i>LSU</i></b> - Carrington (68%) def. Tan (32%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Carrington (4.09) def. Tan (3.03)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>LSU</i></b> - Corley (97%) def. Battista (3%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Corley (75%) def. Battista (25%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Corley (97%) def. Battista (3%)</li>  
+<li>Average: <b><i>LSU</i></b> - Corley (91%) def. Battista (9%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Corley (9.83) def. Battista (2.01)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>LSU</i></b> - Cubitt (96%) def. Kim (4%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Cubitt (75%) def. Kim (25%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Cubitt (97%) def. Kim (3%)</li>  
+<li>Average: <b><i>LSU</i></b> - Cubitt (91%) def. Kim (9%)</li>  
 <li>ITA: <b><i>BU</i></b> - Kim (2.60) def. Cubitt (2.11)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>LSU</i></b> - Richardson (90%) def. Burchell (10%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Richardson (75%) def. Burchell (25%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Richardson (90%) def. Burchell (10%)</li>  
+<li>Average: <b><i>LSU</i></b> - Richardson (87%) def. Burchell (13%)</li>  
 <li>ITA: <b><i>BU</i></b> - Burchell (3.12) def. Richardson (1.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>LSU</i></b> - Geissler (95%) def. Martens (5%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Geissler (75%) def. Martens (25%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Geissler (92%) def. Martens (8%)</li>  
+<li>Average: <b><i>LSU</i></b> - Geissler (90%) def. Martens (10%)</li>  
 <li>ITA: <b><i>BU</i></b> - Martens (2.51) def. Geissler (2.01)</li>  
 </ul>
 </details>&nbsp;</li>

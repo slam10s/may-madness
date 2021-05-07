@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Kessler (75%) def. Brown (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
+<li>Average: <b><i>FLA</i></b> - Kessler (93%) def. Brown (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Kessler (45.58) def. Brown (2.61)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Zein (75%) def. Mullaney (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
+<li>Average: <b><i>FLA</i></b> - Zein (93%) def. Mullaney (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Zein (8.25) def. Mullaney (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Jarlskog (75%) def. Miszczak (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
+<li>Average: <b><i>FLA</i></b> - Jarlskog (93%) def. Miszczak (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Jarlskog (5.66) def. Miszczak (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Sleeth (75%) def. Viswanath (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
+<li>Average: <b><i>FLA</i></b> - Sleeth (93%) def. Viswanath (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Sleeth (7.72) def. Viswanath (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Dahlstrom (75%) def. Boggiali (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
+<li>Average: <b><i>FLA</i></b> - Dahlstrom (93%) def. Boggiali (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Dahlstrom (3.40) def. Boggiali (2.28)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Berlin (75%) def. Koniaev (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
+<li>Average: <b><i>FLA</i></b> - Berlin (93%) def. Koniaev (7%)</li>  
 <li>ITA: <b><i>SIEN</i></b> - Koniaev (2.56) def. Berlin (2.47)</li>  
 </ul>
 </details>&nbsp;</li>

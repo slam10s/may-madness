@@ -61,6 +61,7 @@ Lineups:
         TRN: STAN - Geller (80%) def. Hohmann (20%)
         MAS: STAN - Geller (75%) def. Hohmann (25%)
         UTR: STAN - Geller (80%) def. Hohmann (20%)
+        AVG: STAN - Geller (76%) def. Hohmann (24%)
         ITA: LSU - Hohmann (23.83) def. Geller (6.21)
     - Position: 2
       STAN: Arthur Fery - 6-2 at 2, 11-3 in duals, 11-3 overall
@@ -70,6 +71,7 @@ Lineups:
         TRN: STAN - Fery (92%) def. Wagner (8%)
         MAS: STAN - Fery (75%) def. Wagner (25%)
         UTR: STAN - Fery (94%) def. Wagner (6%)
+        AVG: STAN - Fery (87%) def. Wagner (13%)
         ITA: STAN - Fery (8.87) def. Wagner (6.22)
     - Position: 3
       STAN: Tristan Boyer - 1-1 at 3, 8-5 in duals, 8-5 overall
@@ -79,6 +81,7 @@ Lineups:
         TRN: STAN - Boyer (87%) def. Graca (13%)
         MAS: STAN - Boyer (75%) def. Graca (25%)
         UTR: STAN - Boyer (93%) def. Graca (7%)
+        AVG: STAN - Boyer (85%) def. Graca (15%)
         ITA: STAN - Boyer (2.12) def. Graca (1.37)
     - Position: 4
       STAN: Alex Rotsaert - 0-0 at 4, 4-6 in duals, 4-6 overall
@@ -88,6 +91,7 @@ Lineups:
         TRN: STAN - Rotsaert (83%) def. Kozlov (17%)
         MAS: STAN - Rotsaert (75%) def. Kozlov (25%)
         UTR: STAN - Rotsaert (83%) def. Kozlov (17%)
+        AVG: STAN - Rotsaert (82%) def. Kozlov (18%)
         ITA: STAN - Rotsaert (1.37) def. Kozlov (1.32)
     - Position: 5
       STAN: Timothy Sah - 6-3 at 5, 8-4 in duals, 8-4 overall
@@ -97,6 +101,7 @@ Lineups:
         TRN: STAN - Sah (82%) def. Ambrosio (18%)
         MAS: STAN - Sah (75%) def. Ambrosio (25%)
         UTR: STAN - Sah (90%) def. Ambrosio (10%)
+        AVG: STAN - Sah (83%) def. Ambrosio (17%)
         ITA: STAN - Sah (2.32) def. Ambrosio (1.97)
     - Position: 6
       STAN: William Genesen - 3-2 at 6, 5-3 in duals, 5-3 overall
@@ -106,6 +111,7 @@ Lineups:
         TRN: STAN - Genesen (78%) def. Koch (22%)
         MAS: STAN - Genesen (75%) def. Koch (25%)
         UTR: STAN - Genesen (79%) def. Koch (21%)
+        AVG: STAN - Genesen (76%) def. Koch (24%)
         ITA: STAN - Genesen (1.81) def. Koch (1.76)
   Doubles:
     - Position: 1

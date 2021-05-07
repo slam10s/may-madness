@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Mertena (67%) def. Afanasyeva (33%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Mertena (75%) def. Afanasyeva (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Mertena (91%) def. Afanasyeva (9%)</li>  
+<li>Average: <b><i>TENN</i></b> - Mertena (74%) def. Afanasyeva (26%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Mertena (7.45) def. Afanasyeva (2.51)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Molinaro (84%) def. Roka (16%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Molinaro (75%) def. Roka (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Molinaro (92%) def. Roka (8%)</li>  
+<li>Average: <b><i>TENN</i></b> - Molinaro (84%) def. Roka (16%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Molinaro (5.46) def. Roka (2.41)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Briggs (94%) def. Nikolopoulou (6%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Briggs (75%) def. Nikolopoulou (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Briggs (95%) def. Nikolopoulou (5%)</li>  
+<li>Average: <b><i>TENN</i></b> - Briggs (90%) def. Nikolopoulou (10%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Briggs (8.89) def. Nikolopoulou (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Kuczer (91%) def. Moulin (9%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Kuczer (75%) def. Moulin (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Kuczer (91%) def. Moulin (9%)</li>  
+<li>Average: <b><i>TENN</i></b> - Kuczer (87%) def. Moulin (13%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Kuczer (3.41) def. Moulin (3.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - McGiffin (79%) def. Franco (21%)</li>  
 <li>Massey: <b><i>TENN</i></b> - McGiffin (75%) def. Franco (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - McGiffin (88%) def. Franco (12%)</li>  
+<li>Average: <b><i>TENN</i></b> - McGiffin (82%) def. Franco (18%)</li>  
 <li>ITA: <b><i>JMU</i></b> - Franco (3.01) def. McGiffin (1.61)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Silva (87%) def. Voloh (13%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Silva (75%) def. Voloh (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Silva (86%) def. Voloh (14%)</li>  
+<li>Average: <b><i>TENN</i></b> - Silva (84%) def. Voloh (16%)</li>  
 <li>ITA: <b><i>JMU</i></b> - Voloh (3.50) def. Silva (1.85)</li>  
 </ul>
 </details>&nbsp;</li>

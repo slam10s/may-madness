@@ -57,6 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TULN</i></b> - Stewart (60%) def. Rocha (40%)</li>  
 <li>Massey: <b><i>TULN</i></b> - Stewart (75%) def. Rocha (25%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Stewart (85%) def. Rocha (15%)</li>  
+<li>Average: <b><i>TULN</i></b> - Stewart (72%) def. Rocha (28%)</li>  
 <li>ITA: <b><i>TULN</i></b> - Stewart (22.58) def. Rocha (14.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -67,6 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TULN</i></b> - Moore (58%) def. Slump (42%)</li>  
 <li>Massey: <b><i>TULN</i></b> - Moore (75%) def. Slump (25%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Moore (78%) def. Slump (22%)</li>  
+<li>Average: <b><i>TULN</i></b> - Moore (70%) def. Slump (30%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Slump (3.60) def. Moore (3.08)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,6 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TULN</i></b> - Erlenbusch (81%) def. Moonen (19%)</li>  
 <li>Massey: <b><i>TULN</i></b> - Erlenbusch (75%) def. Moonen (25%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Erlenbusch (86%) def. Moonen (14%)</li>  
+<li>Average: <b><i>TULN</i></b> - Erlenbusch (78%) def. Moonen (22%)</li>  
 <li>ITA: <b><i>TULN</i></b> - Erlenbusch (4.16) def. Moonen (1.88)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,6 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TULN</i></b> - Suarez (60%) def. Edge (40%)</li>  
 <li>Massey: <b><i>TULN</i></b> - Suarez (75%) def. Edge (25%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Suarez (56%) def. Edge (44%)</li>  
+<li>Average: <b><i>TULN</i></b> - Suarez (60%) def. Edge (40%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Edge (4.29) def. Suarez (2.40)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,6 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TULN</i></b> - Alba (67%) def. Motl (33%)</li>  
 <li>Massey: <b><i>TULN</i></b> - Alba (75%) def. Motl (25%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Alba (67%) def. Motl (33%)</li>  
+<li>Average: <b><i>TULN</i></b> - Alba (66%) def. Motl (34%)</li>  
 <li>ITA: <b><i>TULN</i></b> - Alba (2.39) def. Motl (1.44)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,6 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TULN</i></b> - Kotorman (58%) def. Michalek (42%)</li>  
 <li>Massey: <b><i>MTSU</i></b> - Michalek (75%) def. Kotorman (25%)</li>  
 <li>UTR: <b><i>MTSU</i></b> - Michalek (83%) def. Kotorman (17%)</li>  
+<li>Average: <b><i>MTSU</i></b> - Michalek (64%) def. Kotorman (36%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Michalek (1.92) def. Kotorman (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

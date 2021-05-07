@@ -59,6 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VT</i></b> - Harper (80%) def. Wynn (20%)</li>  
 <li>Massey: <b><i>VT</i></b> - Harper (75%) def. Wynn (25%)</li>  
 <li>UTR: <b><i>VT</i></b> - Harper (81%) def. Wynn (19%)</li>  
+<li>Average: <b><i>VT</i></b> - Harper (77%) def. Wynn (23%)</li>  
 <li>ITA: <b><i>VT</i></b> - Harper (7.69) def. Wynn (1.67)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,6 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VT</i></b> - Ribeiro (58%) def. Valiev (42%)</li>  
 <li>Massey: <b><i>VT</i></b> - Ribeiro (75%) def. Valiev (25%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Valiev (75%) def. Ribeiro (25%)</li>  
+<li>Average: <b><i>VT</i></b> - Ribeiro (53%) def. Valiev (47%)</li>  
 <li>ITA: <b><i>VT</i></b> - Ribeiro (9.63) def. Valiev (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -79,6 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VT</i></b> - Ross (72%) def. Ribero (28%)</li>  
 <li>Massey: <b><i>VT</i></b> - Ross (75%) def. Ribero (25%)</li>  
 <li>UTR: <b><i>VT</i></b> - Ross (71%) def. Ribero (29%)</li>  
+<li>Average: <b><i>VT</i></b> - Ross (73%) def. Ribero (27%)</li>  
 <li>ITA: <b><i>VT</i></b> - Ross (6.68) def. Ribero (1.57)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -89,6 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TTU</i></b> - Collier (50%) def. Donato (50%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Collier (75%) def. Donato (25%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Collier (76%) def. Donato (24%)</li>  
+<li>Average: <b><i>TTU</i></b> - Collier (60%) def. Donato (40%)</li>  
 <li>ITA: <b><i>VT</i></b> - Donato (2.08) def. Collier (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,6 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VT</i></b> - Maia (71%) def. Azoides (29%)</li>  
 <li>Massey: <b><i>VT</i></b> - Maia (75%) def. Azoides (25%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Azoides (62%) def. Maia (38%)</li>  
+<li>Average: <b><i>VT</i></b> - Maia (62%) def. Azoides (38%)</li>  
 <li>ITA: <b><i>VT</i></b> - Maia (2.60) def. Azoides (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,6 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VT</i></b> - Fishback (61%) def. Arevalo (39%)</li>  
 <li>Massey: <b><i>VT</i></b> - Fishback (75%) def. Arevalo (25%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Arevalo (60%) def. Fishback (40%)</li>  
+<li>Average: <b><i>VT</i></b> - Fishback (57%) def. Arevalo (43%)</li>  
 <li>ITA: <b><i>VT</i></b> - Fishback (2.03) def. Arevalo (1.77)</li>  
 </ul>
 </details>&nbsp;</li>

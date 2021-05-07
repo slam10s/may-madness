@@ -57,6 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USF</i></b> - Wojcik (67%) def. Johns (33%)</li>  
 <li>Massey: <b><i>USF</i></b> - Wojcik (75%) def. Johns (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Johns (76%) def. Wojcik (24%)</li>  
+<li>Average: <b><i>USF</i></b> - Wojcik (52%) def. Johns (48%)</li>  
 <li>ITA: <b><i>USF</i></b> - Wojcik (16.76) def. Johns (9.19)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -67,6 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USF</i></b> - Ferguson (56%) def. Sculley (44%)</li>  
 <li>Massey: <b><i>USF</i></b> - Ferguson (75%) def. Sculley (25%)</li>  
 <li>UTR: <b><i>USF</i></b> - Ferguson (53%) def. Sculley (47%)</li>  
+<li>Average: <b><i>USF</i></b> - Ferguson (64%) def. Sculley (36%)</li>  
 <li>ITA: <b><i>USF</i></b> - Ferguson (11.90) def. Sculley (3.41)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,6 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USF</i></b> - Yatsuk (56%) def. Zhang (44%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Zhang (75%) def. Yatsuk (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Zhang (68%) def. Yatsuk (32%)</li>  
+<li>Average: <b><i>DUKE</i></b> - Zhang (58%) def. Yatsuk (42%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Zhang (3.87) def. Yatsuk (2.48)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,6 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Guell (59%) def. Muniz-Hidalgo (41%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Guell (75%) def. Muniz-Hidalgo (25%)</li>  
 <li>UTR: <b><i>USF</i></b> - Muniz-Hidalgo (66%) def. Guell (34%)</li>  
+<li>Average: <b><i>DUKE</i></b> - Guell (60%) def. Muniz-Hidalgo (40%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Guell (4.04) def. Muniz-Hidalgo (1.67)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,6 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Keist (72%) def. Luquet (28%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Keist (75%) def. Luquet (25%)</li>  
 <li>UTR: <b><i>USF</i></b> - Luquet (68%) def. Keist (32%)</li>  
+<li>Average: <b><i>DUKE</i></b> - Keist (60%) def. Luquet (40%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Keist (3.16) def. Luquet (1.56)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,6 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USF</i></b> - Gomez-Montesa (58%) def. Dale (42%)</li>  
 <li>Massey: <b><i>USF</i></b> - Gomez-Montesa (75%) def. Dale (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Dale (54%) def. Gomez-Montesa (46%)</li>  
+<li>Average: <b><i>USF</i></b> - Gomez-Montesa (56%) def. Dale (44%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Dale (2.29) def. Gomez-Montesa (1.78)</li>  
 </ul>
 </details>&nbsp;</li>

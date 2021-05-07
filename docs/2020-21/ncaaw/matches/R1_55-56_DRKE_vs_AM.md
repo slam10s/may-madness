@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Makarova (99%) def. Petushkova (1%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Makarova (75%) def. Petushkova (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
+<li>Average: <b><i>A&M</i></b> - Makarova (92%) def. Petushkova (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Makarova (21.86) def. Petushkova (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Goldsmith (75%) def. Walczak (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
+<li>Average: <b><i>A&M</i></b> - Goldsmith (92%) def. Walczak (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Goldsmith (3.03) def. Walczak (1.52)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Townsend (75%) def. Stephani (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
+<li>Average: <b><i>A&M</i></b> - Townsend (92%) def. Stephani (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Townsend (3.71) def. Stephani (2.39)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (98%) def. Tatarnikova (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Faa-Hviding (75%) def. Tatarnikova (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
+<li>Average: <b><i>A&M</i></b> - Faa-Hviding (92%) def. Tatarnikova (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Faa-Hviding (1.87) def. Tatarnikova (1.80)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
 <li>Massey: <b><i>A&M</i></b> - McBryde (75%) def. Stepan (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McBryde (97%) def. Stepan (3%)</li>  
+<li>Average: <b><i>A&M</i></b> - McBryde (92%) def. Stepan (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McBryde (2.44) def. Stepan (1.93)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>Massey: <b><i>A&M</i></b> - McQuaid (75%) def. Neville (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
+<li>Average: <b><i>A&M</i></b> - McQuaid (93%) def. Neville (7%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McQuaid (2.12) def. Neville (1.64)</li>  
 </ul>
 </details>&nbsp;</li>

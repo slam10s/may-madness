@@ -56,6 +56,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VANDY</i></b> - Rosca (98%) def. Peeler (2%)</li>  
 <li>Massey: <b><i>VANDY</i></b> - Rosca (75%) def. Peeler (25%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Rosca (96%) def. Peeler (4%)</li>  
+<li>Average: <b><i>VANDY</i></b> - Rosca (90%) def. Peeler (10%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Rosca (14.48) def. Peeler (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -66,6 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VANDY</i></b> - Kurtz (95%) def. Braun (5%)</li>  
 <li>Massey: <b><i>VANDY</i></b> - Kurtz (75%) def. Braun (25%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Kurtz (93%) def. Braun (7%)</li>  
+<li>Average: <b><i>VANDY</i></b> - Kurtz (89%) def. Braun (11%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Kurtz (3.05) def. Braun (1.69)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,6 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VANDY</i></b> - Lee (95%) def. Polishchuk (5%)</li>  
 <li>Massey: <b><i>VANDY</i></b> - Lee (75%) def. Polishchuk (25%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Lee (93%) def. Polishchuk (7%)</li>  
+<li>Average: <b><i>VANDY</i></b> - Lee (89%) def. Polishchuk (11%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Lee (2.64) def. Polishchuk (1.84)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,6 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VANDY</i></b> - Ross (98%) def. Herrington (2%)</li>  
 <li>Massey: <b><i>VANDY</i></b> - Ross (75%) def. Herrington (25%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Ross (96%) def. Herrington (4%)</li>  
+<li>Average: <b><i>VANDY</i></b> - Ross (92%) def. Herrington (8%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Ross (2.20) def. Herrington (1.96)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -96,6 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VANDY</i></b> - Cruz (98%) def. Kaplan (2%)</li>  
 <li>Massey: <b><i>VANDY</i></b> - Cruz (75%) def. Kaplan (25%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Cruz (96%) def. Kaplan (4%)</li>  
+<li>Average: <b><i>VANDY</i></b> - Cruz (91%) def. Kaplan (9%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Cruz (2.13) def. Kaplan (1.71)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -106,6 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>VANDY</i></b> - Staff (99%) def. Lukacs (1%)</li>  
 <li>Massey: <b><i>VANDY</i></b> - Staff (75%) def. Lukacs (25%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Staff (97%) def. Lukacs (3%)</li>  
+<li>Average: <b><i>VANDY</i></b> - Staff (92%) def. Lukacs (8%)</li>  
 <li>ITA: <b><i>BALL</i></b> - Lukacs (2.68) def. Staff (1.75)</li>  
 </ul>
 </details>&nbsp;</li>

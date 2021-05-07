@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Walton (75%) def. Rios (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
+<li>Average: <b><i>TENN</i></b> - Walton (93%) def. Rios (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Walton (42.60) def. Rios (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Monday (75%) def. Popovski (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
+<li>Average: <b><i>TENN</i></b> - Monday (93%) def. Popovski (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Monday (43.71) def. Popovski (1.64)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Prata (100%) def. Ruiz (0%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Prata (75%) def. Ruiz (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Prata (99%) def. Ruiz (1%)</li>  
+<li>Average: <b><i>TENN</i></b> - Prata (93%) def. Ruiz (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Prata (18.77) def. Ruiz (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Wiedenmann (75%) def. Mulada (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
+<li>Average: <b><i>TENN</i></b> - Wiedenmann (93%) def. Mulada (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Wiedenmann (4.02) def. Mulada (1.65)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Hussey (75%) def. Setiawan (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
+<li>Average: <b><i>TENN</i></b> - Hussey (93%) def. Setiawan (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Hussey (7.54) def. Setiawan (1.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Harper (100%) def. Gahlot (0%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Harper (75%) def. Gahlot (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
+<li>Average: <b><i>TENN</i></b> - Harper (93%) def. Gahlot (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Harper (5.43) def. Gahlot (1.77)</li>  
 </ul>
 </details>&nbsp;</li>

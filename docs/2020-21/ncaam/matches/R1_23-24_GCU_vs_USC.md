@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Cukierman (99%) def. Lang (1%)</li>  
 <li>Massey: <b><i>USC</i></b> - Cukierman (75%) def. Lang (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cukierman (97%) def. Lang (3%)</li>  
+<li>Average: <b><i>USC</i></b> - Cukierman (92%) def. Lang (8%)</li>  
 <li>ITA: <b><i>USC</i></b> - Cukierman (16.39) def. Lang (1.42)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Smith (99%) def. Argote (1%)</li>  
 <li>Massey: <b><i>USC</i></b> - Smith (75%) def. Argote (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Smith (97%) def. Argote (3%)</li>  
+<li>Average: <b><i>USC</i></b> - Smith (92%) def. Argote (8%)</li>  
 <li>ITA: <b><i>USC</i></b> - Smith (15.48) def. Argote (1.91)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Dostanic (99%) def. Cvitanovic (1%)</li>  
 <li>Massey: <b><i>USC</i></b> - Dostanic (75%) def. Cvitanovic (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Dostanic (98%) def. Cvitanovic (2%)</li>  
+<li>Average: <b><i>USC</i></b> - Dostanic (93%) def. Cvitanovic (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dostanic (5.43) def. Cvitanovic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Frye (99%) def. Silva (1%)</li>  
 <li>Massey: <b><i>USC</i></b> - Frye (75%) def. Silva (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Frye (98%) def. Silva (2%)</li>  
+<li>Average: <b><i>USC</i></b> - Frye (93%) def. Silva (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Frye (2.44) def. Silva (1.73)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
 <li>Massey: <b><i>USC</i></b> - Weststrate (75%) def. Novak (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Weststrate (98%) def. Novak (2%)</li>  
+<li>Average: <b><i>USC</i></b> - Weststrate (93%) def. Novak (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Weststrate (2.93) def. Novak (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Sands (99%) def. Grant (1%)</li>  
 <li>Massey: <b><i>USC</i></b> - Sands (75%) def. Grant (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Sands (94%) def. Grant (6%)</li>  
+<li>Average: <b><i>USC</i></b> - Sands (91%) def. Grant (9%)</li>  
 <li>ITA: <b><i>USC</i></b> - Sands (2.42) def. Grant (1.60)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Forbes (99%) def. Puehse (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Forbes (75%) def. Puehse (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Forbes (98%) def. Puehse (2%)</li>  
+<li>Average: <b><i>UCLA</i></b> - Forbes (93%) def. Puehse (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Forbes (46.46) def. Puehse (2.45)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Hart (75%) def. Occhipinti (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Hart (98%) def. Occhipinti (2%)</li>  
+<li>Average: <b><i>UCLA</i></b> - Hart (93%) def. Occhipinti (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Hart (12.21) def. Occhipinti (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Bolton (75%) def. Weiss (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bolton (98%) def. Weiss (2%)</li>  
+<li>Average: <b><i>UCLA</i></b> - Bolton (93%) def. Weiss (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Bolton (4.20) def. Weiss (2.42)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Wolff (99%) def. Lomas (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Wolff (75%) def. Lomas (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Wolff (98%) def. Lomas (2%)</li>  
+<li>Average: <b><i>UCLA</i></b> - Wolff (93%) def. Lomas (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Wolff (2.06) def. Lomas (1.64)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Vagramov (75%) def. Prudhomme (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
+<li>Average: <b><i>UCLA</i></b> - Vagramov (93%) def. Prudhomme (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Prudhomme (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Ong (75%) def. Andersen (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
+<li>Average: <b><i>UCLA</i></b> - Ong (93%) def. Andersen (7%)</li>  
 <li>ITA: <b><i>GCU</i></b> - Andersen (1.96) def. Ong (1.95)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -59,6 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MIA</i></b> - Barrera (57%) def. Oradini (43%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Barrera (75%) def. Oradini (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Oradini (68%) def. Barrera (32%)</li>  
+<li>Average: <b><i>MIA</i></b> - Barrera (54%) def. Oradini (46%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Oradini (31.20) def. Barrera (18.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,6 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Broska (63%) def. Jankulovski (37%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Jankulovski (75%) def. Broska (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Broska (78%) def. Jankulovski (22%)</li>  
+<li>Average: <b><i>MSST</i></b> - Broska (58%) def. Jankulovski (42%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Broska (16.73) def. Jankulovski (3.33)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -79,6 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Malesevic (77%) def. Hannestad (23%)</li>  
 <li>Massey: <b><i>MSST</i></b> - Malesevic (75%) def. Hannestad (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Malesevic (74%) def. Hannestad (26%)</li>  
+<li>Average: <b><i>MSST</i></b> - Malesevic (74%) def. Hannestad (26%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Malesevic (15.40) def. Hannestad (1.40)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -89,6 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Colas (86%) def. Milicevic (14%)</li>  
 <li>Massey: <b><i>MSST</i></b> - Colas (75%) def. Milicevic (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Colas (91%) def. Milicevic (9%)</li>  
+<li>Average: <b><i>MSST</i></b> - Colas (83%) def. Milicevic (17%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Colas (5.15) def. Milicevic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,6 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Hernandez (79%) def. Vasser (21%)</li>  
 <li>Massey: <b><i>MSST</i></b> - Hernandez (75%) def. Vasser (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Hernandez (85%) def. Vasser (15%)</li>  
+<li>Average: <b><i>MSST</i></b> - Hernandez (79%) def. Vasser (21%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Vasser (1.93) def. Hernandez (1.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,6 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Tortora (89%) def. Aubone (11%)</li>  
 <li>Massey: <b><i>MSST</i></b> - Tortora (75%) def. Aubone (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Tortora (59%) def. Aubone (41%)</li>  
+<li>Average: <b><i>MSST</i></b> - Tortora (75%) def. Aubone (25%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Tortora (9.41) def. Aubone (1.40)</li>  
 </ul>
 </details>&nbsp;</li>

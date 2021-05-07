@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Zeleva (99%) def. Man (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Zeleva (75%) def. Man (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Zeleva (97%) def. Man (3%)</li>  
+<li>Average: <b><i>UCF</i></b> - Zeleva (92%) def. Man (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Zeleva (22.66) def. Man (1.99)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Stolmar (99%) def. Fullana (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Stolmar (75%) def. Fullana (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Stolmar (96%) def. Fullana (4%)</li>  
+<li>Average: <b><i>UCF</i></b> - Stolmar (92%) def. Fullana (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Stolmar (15.81) def. Fullana (1.91)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Levashova (99%) def. Singh (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Levashova (75%) def. Singh (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Levashova (98%) def. Singh (2%)</li>  
+<li>Average: <b><i>UCF</i></b> - Levashova (92%) def. Singh (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Levashova (4.48) def. Singh (1.60)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Kuznetsova (75%) def. Cauthen (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Kuznetsova (98%) def. Cauthen (2%)</li>  
+<li>Average: <b><i>UCF</i></b> - Kuznetsova (93%) def. Cauthen (7%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Kuznetsova (3.33) def. Cauthen (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Mattel (99%) def. Schmitz (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Mattel (75%) def. Schmitz (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Mattel (97%) def. Schmitz (3%)</li>  
+<li>Average: <b><i>UCF</i></b> - Mattel (92%) def. Schmitz (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mattel (2.00) def. Schmitz (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,6 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
 <li>TRN: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
 <li>UTR: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
+<li>Average: <b><i>CHSO</i></b> - Pyrtiz (93%) def. Bay (7%)</li>  
 <li>ITA: <b><i>CHSO</i></b> - Pyrtiz (1.53) def. Bay (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

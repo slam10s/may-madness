@@ -57,6 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Decamps (99%) def. Wharton (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Decamps (75%) def. Wharton (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Decamps (98%) def. Wharton (2%)</li>  
+<li>Average: <b><i>UCF</i></b> - Decamps (92%) def. Wharton (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Decamps (42.84) def. Wharton (2.36)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -67,6 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Rubio (99%) def. Benaim (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Rubio (75%) def. Benaim (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Rubio (96%) def. Benaim (4%)</li>  
+<li>Average: <b><i>UCF</i></b> - Rubio (92%) def. Benaim (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Rubio (3.77) def. Benaim (2.42)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,6 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Mazzuchi (99%) def. Castro (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Mazzuchi (75%) def. Castro (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Mazzuchi (97%) def. Castro (3%)</li>  
+<li>Average: <b><i>UCF</i></b> - Mazzuchi (92%) def. Castro (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mazzuchi (7.08) def. Castro (3.09)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,6 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Yamada (99%) def. Silva (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Yamada (75%) def. Silva (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Yamada (97%) def. Silva (3%)</li>  
+<li>Average: <b><i>UCF</i></b> - Yamada (93%) def. Silva (7%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Yamada (4.27) def. Silva (2.39)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,6 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Hilderbrand (99%) def. Martinez (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Hilderbrand (75%) def. Martinez (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Hilderbrand (98%) def. Martinez (2%)</li>  
+<li>Average: <b><i>UCF</i></b> - Hilderbrand (93%) def. Martinez (7%)</li>  
 <li>ITA: <b><i>MONM</i></b> - Martinez (3.09) def. Hilderbrand (2.90)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,6 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Sokolovskiy (98%) def. Busato (2%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Sokolovskiy (75%) def. Busato (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Sokolovskiy (96%) def. Busato (4%)</li>  
+<li>Average: <b><i>UCF</i></b> - Sokolovskiy (92%) def. Busato (8%)</li>  
 <li>ITA: <b><i>MONM</i></b> - Busato (3.43) def. Sokolovskiy (2.26)</li>  
 </ul>
 </details>&nbsp;</li>

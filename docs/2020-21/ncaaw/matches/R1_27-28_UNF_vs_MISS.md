@@ -57,6 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Machalova (87%) def. Montano (13%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Machalova (75%) def. Montano (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Machalova (91%) def. Montano (9%)</li>  
+<li>Average: <b><i>MISS</i></b> - Machalova (81%) def. Montano (19%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Machalova (19.63) def. Montano (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -67,6 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Fiquet (68%) def. Gulihur (32%)</li>  
 <li>Massey: <b><i>UNF</i></b> - Gulihur (75%) def. Fiquet (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Fiquet (74%) def. Gulihur (26%)</li>  
+<li>Average: <b><i>MISS</i></b> - Fiquet (58%) def. Gulihur (42%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Fiquet (6.49) def. Gulihur (3.92)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,6 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Janatova (95%) def. Gorches (5%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Janatova (75%) def. Gorches (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Janatova (92%) def. Gorches (8%)</li>  
+<li>Average: <b><i>MISS</i></b> - Janatova (89%) def. Gorches (11%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Janatova (4.99) def. Gorches (1.63)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,6 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Vrbenska (95%) def. Yardley (5%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Vrbenska (75%) def. Yardley (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Vrbenska (94%) def. Yardley (6%)</li>  
+<li>Average: <b><i>MISS</i></b> - Vrbenska (90%) def. Yardley (10%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Vrbenska (2.42) def. Yardley (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,6 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Zadori (73%) def. Davis (27%)</li>  
 <li>Massey: <b><i>UNF</i></b> - Davis (75%) def. Zadori (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Zadori (88%) def. Davis (12%)</li>  
+<li>Average: <b><i>MISS</i></b> - Zadori (67%) def. Davis (33%)</li>  
 <li>ITA: <b><i>UNF</i></b> - Davis (3.59) def. Zadori (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,6 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Gabrielsen (95%) def. Mariotto (5%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Gabrielsen (75%) def. Mariotto (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Gabrielsen (94%) def. Mariotto (6%)</li>  
+<li>Average: <b><i>MISS</i></b> - Gabrielsen (89%) def. Mariotto (11%)</li>  
 <li>ITA: <b><i>UNF</i></b> - Mariotto (1.74) def. Gabrielsen (1.53)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NW</i></b> - Shusharina (84%) def. Kyle (16%)</li>  
 <li>Massey: <b><i>NW</i></b> - Shusharina (75%) def. Kyle (25%)</li>  
 <li>UTR: <b><i>NW</i></b> - Shusharina (99%) def. Kyle (1%)</li>  
+<li>Average: <b><i>NW</i></b> - Shusharina (86%) def. Kyle (14%)</li>  
 <li>ITA: <b><i>XAV</i></b> - Kyle (4.79) def. Shusharina (3.92)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NW</i></b> - Hand (84%) def. Lyman (16%)</li>  
 <li>Massey: <b><i>NW</i></b> - Hand (75%) def. Lyman (25%)</li>  
 <li>UTR: <b><i>NW</i></b> - Hand (99%) def. Lyman (1%)</li>  
+<li>Average: <b><i>NW</i></b> - Hand (86%) def. Lyman (14%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (4.82) def. Lyman (2.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NW</i></b> - Byrne (84%) def. Roggenburk (16%)</li>  
 <li>Massey: <b><i>NW</i></b> - Byrne (75%) def. Roggenburk (25%)</li>  
 <li>UTR: <b><i>NW</i></b> - Byrne (99%) def. Roggenburk (1%)</li>  
+<li>Average: <b><i>NW</i></b> - Byrne (87%) def. Roggenburk (13%)</li>  
 <li>ITA: <b><i>XAV</i></b> - Roggenburk (2.75) def. Byrne (1.56)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NW</i></b> - Crowley (92%) def. Graham (8%)</li>  
 <li>Massey: <b><i>NW</i></b> - Crowley (75%) def. Graham (25%)</li>  
 <li>UTR: <b><i>NW</i></b> - Crowley (99%) def. Graham (1%)</li>  
+<li>Average: <b><i>NW</i></b> - Crowley (90%) def. Graham (10%)</li>  
 <li>ITA: <b><i>XAV</i></b> - Graham (2.45) def. Crowley (1.93)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NW</i></b> - Pozo (99%) def. Ruether (1%)</li>  
 <li>Massey: <b><i>NW</i></b> - Pozo (75%) def. Ruether (25%)</li>  
 <li>UTR: <b><i>NW</i></b> - Pozo (99%) def. Ruether (1%)</li>  
+<li>Average: <b><i>NW</i></b> - Pozo (93%) def. Ruether (7%)</li>  
 <li>ITA: <b><i>NW</i></b> - Pozo (1.76) def. Ruether (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NW</i></b> - Hand (96%) def. Thomas (4%)</li>  
 <li>Massey: <b><i>NW</i></b> - Hand (75%) def. Thomas (25%)</li>  
 <li>UTR: <b><i>NW</i></b> - Hand (99%) def. Thomas (1%)</li>  
+<li>Average: <b><i>NW</i></b> - Hand (91%) def. Thomas (9%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (2.48) def. Thomas (2.39)</li>  
 </ul>
 </details>&nbsp;</li>

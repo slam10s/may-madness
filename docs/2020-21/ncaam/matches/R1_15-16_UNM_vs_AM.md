@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Vacherot (95%) def. Dobai (5%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Vacherot (75%) def. Dobai (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Vacherot (92%) def. Dobai (8%)</li>  
+<li>Average: <b><i>A&M</i></b> - Vacherot (88%) def. Dobai (12%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Vacherot (51.31) def. Dobai (2.42)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Habib (98%) def. West (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Habib (75%) def. West (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Habib (93%) def. West (7%)</li>  
+<li>Average: <b><i>A&M</i></b> - Habib (90%) def. West (10%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Habib (54.57) def. West (2.18)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Aguilar (96%) def. Holis (4%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Aguilar (75%) def. Holis (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Aguilar (93%) def. Holis (7%)</li>  
+<li>Average: <b><i>A&M</i></b> - Aguilar (89%) def. Holis (11%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Aguilar (23.98) def. Holis (2.18)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Schachter (96%) def. Abdulsalam (4%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Schachter (75%) def. Abdulsalam (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Schachter (92%) def. Abdulsalam (8%)</li>  
+<li>Average: <b><i>A&M</i></b> - Schachter (89%) def. Abdulsalam (11%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Schachter (6.58) def. Abdulsalam (1.72)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Rollins (98%) def. Trondson (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Rollins (75%) def. Trondson (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Rollins (95%) def. Trondson (5%)</li>  
+<li>Average: <b><i>A&M</i></b> - Rollins (91%) def. Trondson (9%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Rollins (5.08) def. Trondson (2.42)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Marson (98%) def. Molina (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Marson (75%) def. Molina (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Marson (91%) def. Molina (9%)</li>  
+<li>Average: <b><i>A&M</i></b> - Marson (89%) def. Molina (11%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Marson (1.86) def. Molina (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

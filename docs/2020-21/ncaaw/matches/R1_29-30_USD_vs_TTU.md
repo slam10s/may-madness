@@ -57,6 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USD</i></b> - Colling (88%) def. Mays (12%)</li>  
 <li>Massey: <b><i>USD</i></b> - Colling (75%) def. Mays (25%)</li>  
 <li>UTR: <b><i>USD</i></b> - Colling (84%) def. Mays (16%)</li>  
+<li>Average: <b><i>USD</i></b> - Colling (83%) def. Mays (17%)</li>  
 <li>ITA: <b><i>USD</i></b> - Colling (12.76) def. Mays (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -67,6 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TTU</i></b> - Skriabina (54%) def. Goldsmith (46%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Skriabina (75%) def. Goldsmith (25%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Skriabina (86%) def. Goldsmith (14%)</li>  
+<li>Average: <b><i>TTU</i></b> - Skriabina (66%) def. Goldsmith (34%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Skriabina (6.63) def. Goldsmith (2.97)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,6 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USD</i></b> - McBride (58%) def. Staines (42%)</li>  
 <li>Massey: <b><i>USD</i></b> - McBride (75%) def. Staines (25%)</li>  
 <li>UTR: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
+<li>Average: <b><i>USD</i></b> - McBride (60%) def. Staines (40%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. McBride (3.11)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,6 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USD</i></b> - Desiatnikov (57%) def. Miller (43%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Miller (75%) def. Desiatnikov (25%)</li>  
 <li>UTR: <b><i>USD</i></b> - Desiatnikov (71%) def. Miller (29%)</li>  
+<li>Average: <b><i>TTU</i></b> - Miller (52%) def. Desiatnikov (48%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Miller (2.66) def. Desiatnikov (2.52)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,6 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TTU</i></b> - Peet (77%) def. Kalaitzis (23%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Peet (75%) def. Kalaitzis (25%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Peet (83%) def. Kalaitzis (17%)</li>  
+<li>Average: <b><i>TTU</i></b> - Peet (79%) def. Kalaitzis (21%)</li>  
 <li>ITA: <b><i>USD</i></b> - Kalaitzis (2.42) def. Peet (2.03)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,6 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TTU</i></b> - Komac (83%) def. Kukaras (17%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Komac (75%) def. Kukaras (25%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Komac (72%) def. Kukaras (28%)</li>  
+<li>Average: <b><i>TTU</i></b> - Komac (78%) def. Kukaras (22%)</li>  
 <li>ITA: <b><i>USD</i></b> - Kukaras (2.39) def. Komac (1.98)</li>  
 </ul>
 </details>&nbsp;</li>

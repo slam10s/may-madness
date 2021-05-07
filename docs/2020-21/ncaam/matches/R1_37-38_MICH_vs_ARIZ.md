@@ -60,6 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ARIZ</i></b> - Strom (87%) def. Fenty (13%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Strom (75%) def. Fenty (25%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Strom (69%) def. Fenty (31%)</li>  
+<li>Average: <b><i>ARIZ</i></b> - Strom (69%) def. Fenty (31%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Strom (17.40) def. Fenty (1.71)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -70,6 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MICH</i></b> - Styler (55%) def. Ziverts (45%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Styler (75%) def. Ziverts (25%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Styler (76%) def. Ziverts (24%)</li>  
+<li>Average: <b><i>MICH</i></b> - Styler (64%) def. Ziverts (36%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Ziverts (7.58) def. Styler (2.60)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -80,6 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ARIZ</i></b> - Malbasic (64%) def. Maloney (36%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Malbasic (75%) def. Maloney (25%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
+<li>Average: <b><i>ARIZ</i></b> - Malbasic (61%) def. Maloney (39%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Malbasic (2.36) def. Maloney (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -90,6 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Siimar (75%) def. Hoeyeraal (25%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
+<li>Average: <b><i>MICH</i></b> - Siimar (93%) def. Hoeyeraal (7%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Siimar (2.45) def. Hoeyeraal (2.40)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -100,6 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MICH</i></b> - Beaty (66%) def. Reguant (34%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Beaty (75%) def. Reguant (25%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Reguant (70%) def. Beaty (30%)</li>  
+<li>Average: <b><i>MICH</i></b> - Beaty (53%) def. Reguant (47%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Reguant (2.55) def. Beaty (2.52)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -110,6 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MICH</i></b> - Ehrenschneider (66%) def. Hassey (34%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Ehrenschneider (75%) def. Hassey (25%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
+<li>Average: <b><i>MICH</i></b> - Ehrenschneider (61%) def. Hassey (39%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Ehrenschneider (2.63) def. Hassey (1.70)</li>  
 </ul>
 </details>&nbsp;</li>

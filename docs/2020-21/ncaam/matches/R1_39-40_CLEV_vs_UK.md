@@ -58,6 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Draxl (99%) def. Mostardi (1%)</li>  
 <li>Massey: <b><i>UK</i></b> - Draxl (75%) def. Mostardi (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Draxl (96%) def. Mostardi (4%)</li>  
+<li>Average: <b><i>UK</i></b> - Draxl (92%) def. Mostardi (8%)</li>  
 <li>ITA: <b><i>UK</i></b> - Draxl (64.58) def. Mostardi (2.33)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,6 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Diallo (96%) def. Terry (4%)</li>  
 <li>Massey: <b><i>UK</i></b> - Diallo (75%) def. Terry (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Diallo (95%) def. Terry (5%)</li>  
+<li>Average: <b><i>UK</i></b> - Diallo (90%) def. Terry (10%)</li>  
 <li>ITA: <b><i>UK</i></b> - Diallo (37.70) def. Terry (2.92)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,6 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Hurrion (96%) def. Phillips (4%)</li>  
 <li>Massey: <b><i>UK</i></b> - Hurrion (75%) def. Phillips (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Hurrion (94%) def. Phillips (6%)</li>  
+<li>Average: <b><i>UK</i></b> - Hurrion (90%) def. Phillips (10%)</li>  
 <li>ITA: <b><i>UK</i></b> - Hurrion (22.80) def. Phillips (2.83)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,6 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Bourgois (96%) def. Mareschal-Hay (4%)</li>  
 <li>Massey: <b><i>UK</i></b> - Bourgois (75%) def. Mareschal-Hay (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Bourgois (93%) def. Mareschal-Hay (7%)</li>  
+<li>Average: <b><i>UK</i></b> - Bourgois (90%) def. Mareschal-Hay (10%)</li>  
 <li>ITA: <b><i>UK</i></b> - Bourgois (7.98) def. Mareschal-Hay (2.45)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Lapadat (99%) def. Bilinovich (1%)</li>  
 <li>Massey: <b><i>UK</i></b> - Lapadat (75%) def. Bilinovich (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Lapadat (97%) def. Bilinovich (3%)</li>  
+<li>Average: <b><i>UK</i></b> - Lapadat (92%) def. Bilinovich (8%)</li>  
 <li>ITA: <b><i>UK</i></b> - Lapadat (6.21) def. Bilinovich (1.91)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - LeBlanc (97%) def. Teichmann (3%)</li>  
 <li>Massey: <b><i>UK</i></b> - LeBlanc (75%) def. Teichmann (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - LeBlanc (96%) def. Teichmann (4%)</li>  
+<li>Average: <b><i>UK</i></b> - LeBlanc (91%) def. Teichmann (9%)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

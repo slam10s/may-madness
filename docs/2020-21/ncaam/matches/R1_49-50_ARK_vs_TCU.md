@@ -59,6 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TCU</i></b> - Gray (88%) def. Reco (12%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Gray (75%) def. Reco (25%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Gray (89%) def. Reco (11%)</li>  
+<li>Average: <b><i>TCU</i></b> - Gray (84%) def. Reco (16%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Gray (40.15) def. Reco (4.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,6 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TCU</i></b> - Fomba (98%) def. Verboven (2%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Fomba (75%) def. Verboven (25%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Fomba (92%) def. Verboven (8%)</li>  
+<li>Average: <b><i>TCU</i></b> - Fomba (89%) def. Verboven (11%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Fomba (35.12) def. Verboven (1.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -79,6 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TCU</i></b> - Jong (81%) def. Rousett (19%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Jong (75%) def. Rousett (25%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Jong (91%) def. Rousett (9%)</li>  
+<li>Average: <b><i>TCU</i></b> - Jong (81%) def. Rousett (19%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jong (11.43) def. Rousett (9.93)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -89,6 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TCU</i></b> - Fearnley (91%) def. Bucan (9%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Fearnley (75%) def. Bucan (25%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Fearnley (91%) def. Bucan (9%)</li>  
+<li>Average: <b><i>TCU</i></b> - Fearnley (85%) def. Bucan (15%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Fearnley (5.67) def. Bucan (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,6 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TCU</i></b> - Jirousek (88%) def. Burdet (12%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Jirousek (75%) def. Burdet (25%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Jirousek (86%) def. Burdet (14%)</li>  
+<li>Average: <b><i>TCU</i></b> - Jirousek (84%) def. Burdet (16%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jirousek (6.98) def. Burdet (1.73)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,6 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TCU</i></b> - Paroulek (96%) def. Paya (4%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Paroulek (75%) def. Paya (25%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Paroulek (88%) def. Paya (12%)</li>  
+<li>Average: <b><i>TCU</i></b> - Paroulek (88%) def. Paya (12%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Paroulek (1.35) def. Paya (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

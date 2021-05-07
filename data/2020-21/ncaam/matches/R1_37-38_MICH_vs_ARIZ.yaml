@@ -62,6 +62,7 @@ Lineups:
         TRN: ARIZ - Strom (87%) def. Fenty (13%)
         MAS: ARIZ - Strom (75%) def. Fenty (25%)
         UTR: ARIZ - Strom (69%) def. Fenty (31%)
+        AVG: ARIZ - Strom (69%) def. Fenty (31%)
         ITA: ARIZ - Strom (17.40) def. Fenty (1.71)
     - Position: 2
       ARIZ: Jonas Ziverts - 1-1 at 2, 9-8 in duals, 9-8 overall
@@ -71,6 +72,7 @@ Lineups:
         TRN: MICH - Styler (55%) def. Ziverts (45%)
         MAS: MICH - Styler (75%) def. Ziverts (25%)
         UTR: MICH - Styler (76%) def. Ziverts (24%)
+        AVG: MICH - Styler (64%) def. Ziverts (36%)
         ITA: ARIZ - Ziverts (7.58) def. Styler (2.60)
     - Position: 3
       ARIZ: Filip Malbasic - 5-4 at 3, 14-9 in duals, 14-9 overall
@@ -80,6 +82,7 @@ Lineups:
         TRN: ARIZ - Malbasic (64%) def. Maloney (36%)
         MAS: ARIZ - Malbasic (75%) def. Maloney (25%)
         UTR: ARIZ - Malbasic (53%) def. Maloney (47%)
+        AVG: ARIZ - Malbasic (61%) def. Maloney (39%)
         ITA: ARIZ - Malbasic (2.36) def. Maloney (2.15)
     - Position: 4
       ARIZ: Herman Hoeyeraal - 0-0 at 4, 4-0 in duals, 4-0 overall
@@ -89,6 +92,7 @@ Lineups:
         TRN: MICH - Siimar (100%) def. Hoeyeraal (0%)
         MAS: MICH - Siimar (75%) def. Hoeyeraal (25%)
         UTR: MICH - Siimar (100%) def. Hoeyeraal (0%)
+        AVG: MICH - Siimar (93%) def. Hoeyeraal (7%)
         ITA: MICH - Siimar (2.45) def. Hoeyeraal (2.40)
     - Position: 5
       ARIZ: Alejandro Reguant - 0-0 at 5, 13-6 in duals, 13-6 overall
@@ -98,6 +102,7 @@ Lineups:
         TRN: MICH - Beaty (66%) def. Reguant (34%)
         MAS: MICH - Beaty (75%) def. Reguant (25%)
         UTR: ARIZ - Reguant (70%) def. Beaty (30%)
+        AVG: MICH - Beaty (53%) def. Reguant (47%)
         ITA: ARIZ - Reguant (2.55) def. Beaty (2.52)
     - Position: 6
       ARIZ: Carlos Hassey - 1-1 at 6, 12-7 in duals, 12-7 overall
@@ -107,6 +112,7 @@ Lineups:
         TRN: MICH - Ehrenschneider (66%) def. Hassey (34%)
         MAS: MICH - Ehrenschneider (75%) def. Hassey (25%)
         UTR: MICH - Ehrenschneider (57%) def. Hassey (43%)
+        AVG: MICH - Ehrenschneider (61%) def. Hassey (39%)
         ITA: MICH - Ehrenschneider (2.63) def. Hassey (1.70)
   Doubles:
     - Position: 1

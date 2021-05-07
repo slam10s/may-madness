@@ -59,6 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>SYR</i></b> - Kanapatskaya (65%) def. Parazinskaite (35%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Kanapatskaya (75%) def. Parazinskaite (25%)</li>  
 <li>UTR: <b><i>SYR</i></b> - Kanapatskaya (64%) def. Parazinskaite (36%)</li>  
+<li>Average: <b><i>SYR</i></b> - Kanapatskaya (66%) def. Parazinskaite (34%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Kanapatskaya (30.96) def. Parazinskaite (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,6 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Jacobs (76%) def. Yusupova (24%)</li>  
 <li>Massey: <b><i>UK</i></b> - Jacobs (75%) def. Yusupova (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Jacobs (89%) def. Yusupova (11%)</li>  
+<li>Average: <b><i>UK</i></b> - Jacobs (77%) def. Yusupova (23%)</li>  
 <li>ITA: <b><i>UK</i></b> - Jacobs (5.00) def. Yusupova (4.12)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -79,6 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Molina (73%) def. Novotna (27%)</li>  
 <li>Massey: <b><i>UK</i></b> - Molina (75%) def. Novotna (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Molina (77%) def. Novotna (23%)</li>  
+<li>Average: <b><i>UK</i></b> - Molina (73%) def. Novotna (27%)</li>  
 <li>ITA: <b><i>UK</i></b> - Molina (2.40) def. Novotna (2.02)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -89,6 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Stevens (65%) def. Ramirez (35%)</li>  
 <li>Massey: <b><i>UK</i></b> - Stevens (75%) def. Ramirez (25%)</li>  
 <li>UTR: <b><i>SYR</i></b> - Ramirez (57%) def. Stevens (43%)</li>  
+<li>Average: <b><i>UK</i></b> - Stevens (60%) def. Ramirez (40%)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -98,6 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Girbau (61%) def. Erman (39%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Erman (75%) def. Girbau (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Girbau (74%) def. Erman (26%)</li>  
+<li>Average: <b><i>UK</i></b> - Girbau (56%) def. Erman (44%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Erman (1.82) def. Girbau (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,6 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Arrese (57%) def. Kozyreva (43%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Kozyreva (75%) def. Arrese (25%)</li>  
 <li>UTR: <b><i>SYR</i></b> - Kozyreva (100%) def. Arrese (0%)</li>  
+<li>Average: <b><i>SYR</i></b> - Kozyreva (64%) def. Arrese (36%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Kozyreva (1.79) def. Arrese (1.49)</li>  
 </ul>
 </details>&nbsp;</li>
