@@ -35,7 +35,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 The various metrics disagree on the outcome of these matches:
 
 - Fri, 5/07 at  1:00 EDT	[Oklahoma St. vs Auburn](./matches/R1_51-52_OKST_vs_AUB.md) ... <b>AUB (4)</b> / OKST (2)
-- Fri, 5/07 at 10:00 EDT	[Southern California vs Oklahoma](./matches/R1_43-44_USC_vs_OKLA.md) ... OKLA (3) / <b>USC (4)</b>
+- Fri, 5/07 at 10:00 EDT	[Southern California vs Oklahoma](./matches/R1_43-44_USC_vs_OKLA.md) ... OKLA (3) / <b><i>USC (4)</i></b>
 - Fri, 5/07 at 10:00 EDT	[Furman vs Wake Forest](./matches/R1_35-36_FUR_vs_WAKE.md) ... <b>WAKE (4)</b> / FUR (2)
 
 The metrics agree on the winner, but not by a lot:
@@ -50,10 +50,10 @@ The metrics agree on the winner, but not by a lot:
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Fri, 5/07 at 11:00 EDT	[Iowa St. vs South Carolina](./matches/R1_45-46_ISU_vs_SCAR.md) ... SCAR (2) / <b>ISU (4)</b>
+- Fri, 5/07 at 11:00 EDT	[Iowa St. vs South Carolina](./matches/R1_45-46_ISU_vs_SCAR.md) ... SCAR (2) / <b><i>ISU (4)</i></b>
 - Fri, 5/07 at  1:00 EDT	[UC Santa Barbara vs Stanford](./matches/R1_19-20_UCSB_vs_STAN.md) ... <b>STAN (4)</b> / UCSB (0)
 - Fri, 5/07 at 11:00 EDT	[Rice vs Michigan](./matches/R1_21-22_RICE_vs_MICH.md) ... <b>MICH (4)</b> / RICE (1)
-- Fri, 5/07 at 11:00 EDT	[North Florida vs Ole Miss](./matches/R1_27-28_UNF_vs_MISS.md) ... MISS (3) / <b>UNF (4)</b>
+- Fri, 5/07 at 11:00 EDT	[North Florida vs Ole Miss](./matches/R1_27-28_UNF_vs_MISS.md) ... MISS (3) / <b><i>UNF (4)</i></b>
 - Fri, 5/07 at  3:00 EDT	[Alabama vs Duke](./matches/R1_13-14_BAMA_vs_DUKE.md) ... <b>DUKE (4)</b> / BAMA (0)
 - Fri, 5/07 at 12:00 EDT	[James Madison vs Tennessee](./matches/R1_37-38_JMU_vs_TENN.md) ... <b>TENN (4)</b> / JMU (0)
 - Fri, 5/07 at 11:00 EDT	[Ball St. vs Vanderbilt](./matches/R1_59-60_BALL_vs_VANDY.md) ... <b>VANDY (4)</b> / BALL (0)
