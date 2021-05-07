@@ -8,7 +8,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#4 Fairleigh Dickinson</h2>  
-Record: 6-4<br>  
+&nbsp; Record: 6-4<br>  
 &nbsp; ITA: 62 (1.95)<br>  
 &nbsp; Slam: 65 (72.33)<br>  
 &nbsp; TRN: 65 (65.17)<br>  
@@ -20,7 +20,7 @@ Record: 6-4<br>
 <td>  
 
 <h2>#1 Virginia</h2>  
-Record: 21-2<br>  
+&nbsp; Record: 21-2<br>  
 &#10004; ITA: 4 (74.36)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  

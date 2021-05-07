@@ -8,7 +8,7 @@ Oxford, Mississippi
 <td>  
 
 <h2>#4 Belmont</h2>  
-Record: 13-4<br>  
+&nbsp; Record: 13-4<br>  
 &nbsp; ITA: 56 (4.48)<br>  
 &nbsp; Slam: 57 (83.10)<br>  
 &nbsp; TRN: 58 (79.14)<br>  
@@ -20,7 +20,7 @@ Record: 13-4<br>
 <td>  
 
 <h2>#1 Ole Miss</h2>  
-Record: 11-10<br>  
+&nbsp; Record: 11-10<br>  
 &#10004; ITA: 14 (44.94)<br>  
 &#10004; Slam: 18 (95.00)<br>  
 &#10004; TRN: 18 (93.41)<br>  

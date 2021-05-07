@@ -8,7 +8,7 @@ Atlanta, Georgia
 <td>  
 
 <h2>#3 North Florida</h2>  
-Record: 17-7<br>  
+&nbsp; Record: 17-7<br>  
 &nbsp; ITA: 48 (8.00)<br>  
 &nbsp; Slam: 46 (84.69)<br>  
 &nbsp; TRN: 46 (75.83)<br>  
@@ -20,7 +20,7 @@ Record: 17-7<br>
 <td>  
 
 <h2>#2 Ole Miss</h2>  
-Record: 11-9<br>  
+&nbsp; Record: 11-9<br>  
 &#10004; ITA: 25 (38.66)<br>  
 &#10004; Slam: 26 (89.34)<br>  
 &#10004; TRN: 26 (81.50)<br>  

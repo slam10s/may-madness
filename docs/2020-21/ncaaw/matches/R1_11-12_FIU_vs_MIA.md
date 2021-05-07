@@ -8,7 +8,7 @@ Orlando, Florida
 <td>  
 
 <h2>#3 FIU</h2>  
-Record: 12-1<br>  
+&nbsp; Record: 12-1<br>  
 &nbsp; ITA: 41 (18.12)<br>  
 &nbsp; Slam: 30 (88.35)<br>  
 &nbsp; TRN: 29 (81.34)<br>  
@@ -22,7 +22,7 @@ Record: 12-1<br>
 <td>  
 
 <h2>#2 Miami (FL)</h2>  
-Record: 14-8<br>  
+&nbsp; Record: 14-8<br>  
 &#10004; ITA: 24 (38.72)<br>  
 &#10004; Slam: 22 (90.21)<br>  
 &#10004; TRN: 21 (82.31)<br>  

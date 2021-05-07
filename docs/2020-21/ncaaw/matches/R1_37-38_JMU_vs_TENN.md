@@ -8,7 +8,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#3 James Madison</h2>  
-Record: 14-3<br>  
+&nbsp; Record: 14-3<br>  
 &nbsp; ITA: 46 (8.95)<br>  
 &nbsp; Slam: 47 (84.23)<br>  
 &nbsp; TRN: 47 (75.57)<br>  
@@ -20,7 +20,7 @@ Record: 14-3<br>
 <td>  
 
 <h2>#2 Tennessee</h2>  
-Record: 16-8<br>  
+&nbsp; Record: 16-8<br>  
 &#10004; ITA: 15 (46.78)<br>  
 &#10004; Slam: 19 (90.43)<br>  
 &#10004; TRN: 19 (82.73)<br>  

@@ -8,7 +8,7 @@ Malibu, California
 <td>  
 
 <h2>#4 Northern Ariz.</h2>  
-Record: 14-4<br>  
+&nbsp; Record: 14-4<br>  
 &nbsp; ITA: 54 (3.85)<br>  
 &nbsp; Slam: 51 (79.81)<br>  
 &nbsp; TRN: 53 (69.11)<br>  
@@ -20,7 +20,7 @@ Record: 14-4<br>
 <td>  
 
 <h2>#1 Pepperdine</h2>  
-Record: 20-3<br>  
+&nbsp; Record: 20-3<br>  
 &#10004; ITA: 5 (60.71)<br>  
 &#10004; Slam: 6 (92.64)<br>  
 &#10004; TRN: 6 (85.86)<br>  

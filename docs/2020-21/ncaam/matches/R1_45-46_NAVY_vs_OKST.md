@@ -8,7 +8,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#3 Navy</h2>  
-Record: 9-0<br>  
+&nbsp; Record: 9-0<br>  
 &nbsp; ITA: 48 (8.28)<br>  
 &nbsp; Slam: 54 (86.71)<br>  
 &nbsp; TRN: 48 (87.45)<br>  
@@ -20,7 +20,7 @@ Record: 9-0<br>
 <td>  
 
 <h2>#2 Oklahoma St.</h2>  
-Record: 9-11<br>  
+&nbsp; Record: 9-11<br>  
 &#10004; ITA: 19 (35.31)<br>  
 &#10004; Slam: 24 (93.68)<br>  
 &#10004; TRN: 23 (91.93)<br>  

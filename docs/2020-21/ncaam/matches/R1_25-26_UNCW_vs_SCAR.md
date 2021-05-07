@@ -8,7 +8,7 @@ Columbia, South Carolina
 <td>  
 
 <h2>#4 UNCW</h2>  
-Record: 15-5<br>  
+&nbsp; Record: 15-5<br>  
 &nbsp; ITA: 51 (7.93)<br>  
 &nbsp; Slam: 48 (88.87)<br>  
 &nbsp; TRN: 49 (86.19)<br>  
@@ -20,7 +20,7 @@ Record: 15-5<br>
 <td>  
 
 <h2>#1 South Carolina</h2>  
-Record: 15-9<br>  
+&nbsp; Record: 15-9<br>  
 &#10004; ITA: 13 (50.95)<br>  
 &#10004; Slam: 15 (96.20)<br>  
 &#10004; TRN: 15 (94.49)<br>  

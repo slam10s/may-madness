@@ -8,7 +8,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#3 Duke</h2>  
-Record: 12-10<br>  
+&nbsp; Record: 12-10<br>  
 &nbsp; ITA: 35 (25.15)<br>  
 &#10004; Slam: 31 (93.00)<br>  
 &nbsp; TRN: 36 (90.55)<br>  
@@ -21,7 +21,7 @@ Record: 12-10<br>
 <td>  
 
 <h2>#2 South Fla.</h2>  
-Record: 16-9<br>  
+&nbsp; Record: 16-9<br>  
 &#10004; ITA: 32 (26.14)<br>  
 &nbsp; Slam: 32 (92.98)<br>  
 &#10004; TRN: 34 (90.69)<br>  

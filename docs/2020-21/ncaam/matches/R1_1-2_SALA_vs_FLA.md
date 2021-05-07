@@ -8,7 +8,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#4 South Alabama</h2>  
-Record: 12-7<br>  
+&nbsp; Record: 12-7<br>  
 &nbsp; ITA: 53 (6.83)<br>  
 &nbsp; Slam: 50 (87.64)<br>  
 &nbsp; TRN: 52 (84.26)<br>  
@@ -20,7 +20,7 @@ Record: 12-7<br>
 <td>  
 
 <h2>#1 Florida</h2>  
-Record: 20-2<br>  
+&nbsp; Record: 20-2<br>  
 &#10004; ITA: 2 (81.08)<br>  
 &#10004; Slam: 2 (99.77)<br>  
 &#10004; TRN: 3 (99.10)<br>  

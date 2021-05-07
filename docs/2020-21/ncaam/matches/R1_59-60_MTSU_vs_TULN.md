@@ -8,7 +8,7 @@ Oxford, Mississippi
 <td>  
 
 <h2>#3 Middle Tenn.</h2>  
-Record: 17-7<br>  
+&nbsp; Record: 17-7<br>  
 &nbsp; ITA: 42 (18.52)<br>  
 &nbsp; Slam: 45 (91.28)<br>  
 &nbsp; TRN: 45 (89.05)<br>  
@@ -21,7 +21,7 @@ Record: 17-7<br>
 <td>  
 
 <h2>#2 Tulane</h2>  
-Record: 14-7<br>  
+&nbsp; Record: 14-7<br>  
 &#10004; ITA: 22 (33.07)<br>  
 &#10004; Slam: 26 (93.53)<br>  
 &#10004; TRN: 26 (91.45)<br>  

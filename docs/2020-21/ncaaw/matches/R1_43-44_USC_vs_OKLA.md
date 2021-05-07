@@ -8,7 +8,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#3 Southern California</h2>  
-Record: 12-10<br>  
+&nbsp; Record: 12-10<br>  
 &nbsp; ITA: 35 (23.17)<br>  
 &nbsp; Slam: 35 (87.72)<br>  
 &nbsp; TRN: 41 (78.74)<br>  
@@ -21,7 +21,7 @@ Record: 12-10<br>
 <td>  
 
 <h2>#2 Oklahoma</h2>  
-Record: 15-7<br>  
+&nbsp; Record: 15-7<br>  
 &#10004; ITA: 23 (39.04)<br>  
 &#10004; Slam: 13 (91.06)<br>  
 &#10004; TRN: 22 (82.23)<br>  

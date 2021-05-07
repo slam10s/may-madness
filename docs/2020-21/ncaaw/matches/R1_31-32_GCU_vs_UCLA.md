@@ -8,7 +8,7 @@ Los Angeles, California
 <td>  
 
 <h2>#4 Grand Canyon</h2>  
-Record: 10-8<br>  
+&nbsp; Record: 10-8<br>  
 &nbsp; ITA: 62 (1.99)<br>  
 &nbsp; Slam: 59 (75.93)<br>  
 &nbsp; TRN: 60 (64.13)<br>  
@@ -20,7 +20,7 @@ Record: 10-8<br>
 <td>  
 
 <h2>#1 UCLA</h2>  
-Record: 19-4<br>  
+&nbsp; Record: 19-4<br>  
 &#10004; ITA: 4 (61.84)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  

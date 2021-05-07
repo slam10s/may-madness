@@ -8,7 +8,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#4 Presbyterian</h2>  
-Record: 11-6<br>  
+&nbsp; Record: 11-6<br>  
 &nbsp; ITA: 59 (3.97)<br>  
 &nbsp; Slam: 59 (82.26)<br>  
 &nbsp; TRN: 59 (77.90)<br>  
@@ -20,7 +20,7 @@ Record: 11-6<br>
 <td>  
 
 <h2>#1 North Carolina</h2>  
-Record: 19-3<br>  
+&nbsp; Record: 19-3<br>  
 &#10004; ITA: 6 (72.02)<br>  
 &#10004; Slam: 3 (99.37)<br>  
 &#10004; TRN: 2 (99.37)<br>  

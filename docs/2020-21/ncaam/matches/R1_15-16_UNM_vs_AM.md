@@ -8,7 +8,7 @@ College Station, Texas
 <td>  
 
 <h2>#4 New Mexico</h2>  
-Record: 8-9<br>  
+&nbsp; Record: 8-9<br>  
 &nbsp; ITA: 52 (7.44)<br>  
 &nbsp; Slam: 53 (87.22)<br>  
 &nbsp; TRN: 54 (83.45)<br>  
@@ -20,7 +20,7 @@ Record: 8-9<br>
 <td>  
 
 <h2>#1 Texas A&M</h2>  
-Record: 16-8<br>  
+&nbsp; Record: 16-8<br>  
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 11 (96.97)<br>  
 &#10004; TRN: 11 (95.89)<br>  

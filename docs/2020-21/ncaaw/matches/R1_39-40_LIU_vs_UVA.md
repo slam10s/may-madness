@@ -8,7 +8,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#4 LIU</h2>  
-Record: 9-0<br>  
+&nbsp; Record: 9-0<br>  
 &nbsp; ITA: 52 (4.20)<br>  
 &nbsp; Slam: 61 (70.79)<br>  
 &nbsp; TRN: 63 (55.66)<br>  
@@ -20,7 +20,7 @@ Record: 9-0<br>
 <td>  
 
 <h2>#1 Virginia</h2>  
-Record: 14-6<br>  
+&nbsp; Record: 14-6<br>  
 &#10004; ITA: 14 (47.67)<br>  
 &#10004; Slam: 9 (91.88)<br>  
 &#10004; TRN: 11 (84.03)<br>  

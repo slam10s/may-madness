@@ -8,7 +8,7 @@ Baton Rouge, Louisiana
 <td>  
 
 <h2>#4 Boston U.</h2>  
-Record: 10-1<br>  
+&nbsp; Record: 10-1<br>  
 &nbsp; ITA: 50 (5.16)<br>  
 &nbsp; Slam: 54 (78.65)<br>  
 &nbsp; TRN: 51 (71.29)<br>  
@@ -20,7 +20,7 @@ Record: 10-1<br>
 <td>  
 
 <h2>#1 LSU</h2>  
-Record: 14-5<br>  
+&nbsp; Record: 14-5<br>  
 &#10004; ITA: 12 (48.73)<br>  
 &#10004; Slam: 21 (90.28)<br>  
 &#10004; TRN: 18 (82.92)<br>  

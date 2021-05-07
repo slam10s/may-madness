@@ -8,7 +8,7 @@ Los Angeles, California
 <td>  
 
 <h2>#3 UC Santa Barbara</h2>  
-Record: 10-5<br>  
+&nbsp; Record: 10-5<br>  
 &nbsp; ITA: 54 (6.34)<br>  
 &nbsp; Slam: 51 (87.56)<br>  
 &nbsp; TRN: 51 (84.30)<br>  
@@ -20,7 +20,7 @@ Record: 10-5<br>
 <td>  
 
 <h2>#2 Pepperdine</h2>  
-Record: 15-6<br>  
+&nbsp; Record: 15-6<br>  
 &#10004; ITA: 28 (29.09)<br>  
 &#10004; Slam: 34 (92.69)<br>  
 &#10004; TRN: 30 (91.07)<br>  

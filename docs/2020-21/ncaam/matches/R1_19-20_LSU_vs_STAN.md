@@ -8,7 +8,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#3 LSU</h2>  
-Record: 12-12<br>  
+&nbsp; Record: 12-12<br>  
 &nbsp; ITA: 40 (19.17)<br>  
 &nbsp; Slam: 38 (92.17)<br>  
 &nbsp; TRN: 39 (90.14)<br>  
@@ -21,7 +21,7 @@ Record: 12-12<br>
 <td>  
 
 <h2>#2 Stanford</h2>  
-Record: 10-5<br>  
+&nbsp; Record: 10-5<br>  
 &#10004; ITA: 21 (34.55)<br>  
 &#10004; Slam: 22 (94.00)<br>  
 &#10004; TRN: 21 (92.30)<br>  

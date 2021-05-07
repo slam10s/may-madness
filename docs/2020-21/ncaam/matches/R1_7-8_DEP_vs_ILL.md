@@ -8,7 +8,7 @@ Urbana, Illinois
 <td>  
 
 <h2>#4 DePaul</h2>  
-Record: 15-6<br>  
+&nbsp; Record: 15-6<br>  
 &nbsp; ITA: 55 (5.64)<br>  
 &nbsp; Slam: 55 (85.74)<br>  
 &nbsp; TRN: 55 (82.45)<br>  
@@ -20,7 +20,7 @@ Record: 15-6<br>
 <td>  
 
 <h2>#1 Illinois</h2>  
-Record: 21-2<br>  
+&nbsp; Record: 21-2<br>  
 &#10004; ITA: 18 (36.82)<br>  
 &#10004; Slam: 6 (98.81)<br>  
 &#10004; TRN: 4 (98.96)<br>  
