@@ -140,14 +140,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Georgia Tech should win 4 or more singles matches _73%_ of the time.
-- Memphis should win 4 or more singles matches _7%_ of the time.
-- The winner of the doubles point will decide the match the other _20%_ of the time.
-- If Georgia Tech wins the doubles point, their chances of winning the dual improve to _93%_.
-- If Memphis wins the doubles point, their chances of winning the dual improve to _27%_.
-
-
+- Georgia Tech should win 4 or more singles matches _73%_ of the time.  
+- Memphis should win 4 or more singles matches _7%_ of the time.  
+- The winner of the doubles point will decide the match the other _20%_ of the time.  
+- If Georgia Tech wins the doubles point, their chances of winning the dual improve to _93%_.  
+- If Memphis wins the doubles point, their chances of winning the dual improve to _27%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

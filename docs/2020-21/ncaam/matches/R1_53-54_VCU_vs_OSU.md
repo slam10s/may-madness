@@ -140,14 +140,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Ohio St. should win 4 or more singles matches _96%_ of the time.
-- VCU should win 4 or more singles matches _0%_ of the time.
-- The winner of the doubles point will decide the match the other _4%_ of the time.
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to _100%_.
-- If VCU wins the doubles point, their chances of winning the dual improve to _4%_.
-
-
+- Ohio St. should win 4 or more singles matches _96%_ of the time.  
+- VCU should win 4 or more singles matches _0%_ of the time.  
+- The winner of the doubles point will decide the match the other _4%_ of the time.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to _100%_.  
+- If VCU wins the doubles point, their chances of winning the dual improve to _4%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

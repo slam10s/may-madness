@@ -139,14 +139,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Pepperdine should win 4 or more singles matches _99%_ of the time.
-- Northern Ariz. should win 4 or more singles matches _0%_ of the time.
-- The winner of the doubles point will decide the match the other _1%_ of the time.
-- If Pepperdine wins the doubles point, their chances of winning the dual improve to _100%_.
-- If Northern Ariz. wins the doubles point, their chances of winning the dual improve to _1%_.
-
-
+- Pepperdine should win 4 or more singles matches _99%_ of the time.  
+- Northern Ariz. should win 4 or more singles matches _0%_ of the time.  
+- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- If Pepperdine wins the doubles point, their chances of winning the dual improve to _100%_.  
+- If Northern Ariz. wins the doubles point, their chances of winning the dual improve to _1%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

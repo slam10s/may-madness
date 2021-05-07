@@ -139,14 +139,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Alabama should win 4 or more singles matches _38%_ of the time.
-- Oregon should win 4 or more singles matches _27%_ of the time.
-- The winner of the doubles point will decide the match the other _35%_ of the time.
-- If Alabama wins the doubles point, their chances of winning the dual improve to _73%_.
-- If Oregon wins the doubles point, their chances of winning the dual improve to _62%_.
-
-
+- Alabama should win 4 or more singles matches _38%_ of the time.  
+- Oregon should win 4 or more singles matches _27%_ of the time.  
+- The winner of the doubles point will decide the match the other _35%_ of the time.  
+- If Alabama wins the doubles point, their chances of winning the dual improve to _73%_.  
+- If Oregon wins the doubles point, their chances of winning the dual improve to _62%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

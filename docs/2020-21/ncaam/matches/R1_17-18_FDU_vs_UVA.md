@@ -138,14 +138,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Virginia should win 4 or more singles matches _97%_ of the time.
-- Fairleigh Dickinson should win 4 or more singles matches _0%_ of the time.
-- The winner of the doubles point will decide the match the other _3%_ of the time.
-- If Virginia wins the doubles point, their chances of winning the dual improve to _100%_.
-- If Fairleigh Dickinson wins the doubles point, their chances of winning the dual improve to _3%_.
-
-
+- Virginia should win 4 or more singles matches _97%_ of the time.  
+- Fairleigh Dickinson should win 4 or more singles matches _0%_ of the time.  
+- The winner of the doubles point will decide the match the other _3%_ of the time.  
+- If Virginia wins the doubles point, their chances of winning the dual improve to _100%_.  
+- If Fairleigh Dickinson wins the doubles point, their chances of winning the dual improve to _3%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

@@ -139,14 +139,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Pepperdine should win 4 or more singles matches _82%_ of the time.
-- UC Santa Barbara should win 4 or more singles matches _4%_ of the time.
-- The winner of the doubles point will decide the match the other _14%_ of the time.
-- If Pepperdine wins the doubles point, their chances of winning the dual improve to _96%_.
-- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _18%_.
-
-
+- Pepperdine should win 4 or more singles matches _82%_ of the time.  
+- UC Santa Barbara should win 4 or more singles matches _4%_ of the time.  
+- The winner of the doubles point will decide the match the other _14%_ of the time.  
+- If Pepperdine wins the doubles point, their chances of winning the dual improve to _96%_.  
+- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _18%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

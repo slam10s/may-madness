@@ -138,14 +138,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Ole Miss should win 4 or more singles matches _91%_ of the time.
-- North Florida should win 4 or more singles matches _1%_ of the time.
-- The winner of the doubles point will decide the match the other _8%_ of the time.
-- If Ole Miss wins the doubles point, their chances of winning the dual improve to _99%_.
-- If North Florida wins the doubles point, their chances of winning the dual improve to _9%_.
-
-
+- Ole Miss should win 4 or more singles matches _91%_ of the time.  
+- North Florida should win 4 or more singles matches _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _8%_ of the time.  
+- If Ole Miss wins the doubles point, their chances of winning the dual improve to _99%_.  
+- If North Florida wins the doubles point, their chances of winning the dual improve to _9%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

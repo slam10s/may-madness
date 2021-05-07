@@ -139,14 +139,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Northwestern should win 4 or more singles matches _98%_ of the time.
-- Xavier should win 4 or more singles matches _0%_ of the time.
-- The winner of the doubles point will decide the match the other _2%_ of the time.
-- If Northwestern wins the doubles point, their chances of winning the dual improve to _100%_.
-- If Xavier wins the doubles point, their chances of winning the dual improve to _2%_.
-
-
+- Northwestern should win 4 or more singles matches _98%_ of the time.  
+- Xavier should win 4 or more singles matches _0%_ of the time.  
+- The winner of the doubles point will decide the match the other _2%_ of the time.  
+- If Northwestern wins the doubles point, their chances of winning the dual improve to _100%_.  
+- If Xavier wins the doubles point, their chances of winning the dual improve to _2%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

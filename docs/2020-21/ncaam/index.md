@@ -49,3 +49,5 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  1:00 EDT	[Presbyterian vs #6 North Carolina](./matches/R1_47-48_PRES_vs_UNC.md) ... UNC (93%) / PRES (7%)
 - Sat, 5/08 at  3:00 EDT	[A&M-Corpus Christi vs #2 Baylor](./matches/R1_63-64_TAMCC_vs_BAY.md) ... BAY (93%) / TAMCC (7%)
 - Sat, 5/08 at  4:00 EDT	[Belmont vs #15 Ole Miss](./matches/R1_57-58_BEL_vs_MISS.md) ... MISS (93%) / BEL (7%)
+  
+Return to the [Home Page](../../index.md)

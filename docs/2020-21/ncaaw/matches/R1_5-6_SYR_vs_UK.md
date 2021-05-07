@@ -139,14 +139,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Kentucky should win 4 or more singles matches _46%_ of the time.
-- Syracuse should win 4 or more singles matches _22%_ of the time.
-- The winner of the doubles point will decide the match the other _32%_ of the time.
-- If Kentucky wins the doubles point, their chances of winning the dual improve to _78%_.
-- If Syracuse wins the doubles point, their chances of winning the dual improve to _54%_.
-
-
+- Kentucky should win 4 or more singles matches _46%_ of the time.  
+- Syracuse should win 4 or more singles matches _22%_ of the time.  
+- The winner of the doubles point will decide the match the other _32%_ of the time.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to _78%_.  
+- If Syracuse wins the doubles point, their chances of winning the dual improve to _54%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

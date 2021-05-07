@@ -140,14 +140,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Mississippi St. should win 4 or more singles matches _75%_ of the time.
-- Miami (FL) should win 4 or more singles matches _6%_ of the time.
-- The winner of the doubles point will decide the match the other _19%_ of the time.
-- If Mississippi St. wins the doubles point, their chances of winning the dual improve to _94%_.
-- If Miami (FL) wins the doubles point, their chances of winning the dual improve to _25%_.
-
-
+- Mississippi St. should win 4 or more singles matches _75%_ of the time.  
+- Miami (FL) should win 4 or more singles matches _6%_ of the time.  
+- The winner of the doubles point will decide the match the other _19%_ of the time.  
+- If Mississippi St. wins the doubles point, their chances of winning the dual improve to _94%_.  
+- If Miami (FL) wins the doubles point, their chances of winning the dual improve to _25%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

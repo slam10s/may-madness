@@ -140,14 +140,15 @@ Click on a Singles match to show individual predections for each line.
 </ol>
 
 ### Dual Outcome Based on Individual Metrics  
-
+  
 Based on the composite metrics for each individual match:  
-- Stanford should win 4 or more singles matches _92%_ of the time.
-- LSU should win 4 or more singles matches _2%_ of the time.
-- The winner of the doubles point will decide the match the other _6%_ of the time.
-- If Stanford wins the doubles point, their chances of winning the dual improve to _98%_.
-- If LSU wins the doubles point, their chances of winning the dual improve to _8%_.
-
-
+- Stanford should win 4 or more singles matches _92%_ of the time.  
+- LSU should win 4 or more singles matches _2%_ of the time.  
+- The winner of the doubles point will decide the match the other _6%_ of the time.  
+- If Stanford wins the doubles point, their chances of winning the dual improve to _98%_.  
+- If LSU wins the doubles point, their chances of winning the dual improve to _8%_.  
+  
+Return to [List of Matches](../index.md)  
+  
 ------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

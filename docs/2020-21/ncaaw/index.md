@@ -49,3 +49,5 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Fri, 5/07 at  4:00 EDT	[Denver vs #2 Texas](./matches/R1_63-64_DEN_vs_TEX.md) ... TEX (93%) / DEN (7%)
 - Fri, 5/07 at  5:00 EDT	[Northern Ariz. vs #5 Pepperdine](./matches/R1_17-18_NAU_vs_PEPP.md) ... PEPP (93%) / NAU (7%)
 - Fri, 5/07 at  6:00 EDT	[A&M-Corpus Christi vs #8 Baylor](./matches/R1_15-16_TAMCC_vs_BAY.md) ... BAY (93%) / TAMCC (7%)
+  
+Return to the [Home Page](../../index.md)
