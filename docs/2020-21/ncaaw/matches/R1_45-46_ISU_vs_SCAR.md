@@ -1,5 +1,5 @@
 First Round  
-Friday, May 7 at 12:00 EDT
+Friday, May 7 at 11:00 EDT
 ## [Iowa St. vs South Carolina](https://www.ncaa.com/game/5833669) 
 
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></td></tr><tr>

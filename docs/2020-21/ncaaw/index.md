@@ -25,7 +25,7 @@ The metrics agree on the winner, but not by a lot:
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Fri, 5/07 at 12:00 EDT	[Iowa St. vs South Carolina](./matches/R1_45-46_ISU_vs_SCAR.md) ... SCAR (81%) / ISU (19%)
+- Fri, 5/07 at 11:00 EDT	[Iowa St. vs South Carolina](./matches/R1_45-46_ISU_vs_SCAR.md) ... SCAR (81%) / ISU (19%)
 - Fri, 5/07 at  1:00 EDT	[UC Santa Barbara vs Stanford](./matches/R1_19-20_UCSB_vs_STAN.md) ... STAN (84%) / UCSB (16%)
 - Fri, 5/07 at 11:00 EDT	[Rice vs Michigan](./matches/R1_21-22_RICE_vs_MICH.md) ... MICH (89%) / RICE (11%)
 - Fri, 5/07 at 11:00 EDT	[North Florida vs Ole Miss](./matches/R1_27-28_UNF_vs_MISS.md) ... MISS (90%) / UNF (10%)
