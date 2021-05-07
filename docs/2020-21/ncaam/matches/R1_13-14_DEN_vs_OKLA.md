@@ -37,7 +37,7 @@ Friday, May 7 at 12:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***OKLA*** - #29 Oklahoma (68%) def. #42 Denver (32%)  
 - TRN: ***OKLA*** - #28 Oklahoma (59%) def. #35 Denver (41%)  
-- Massey: ***OKLA*** - #37 Oklahoma (75%) def. #38 Denver (25%)[^1]  
+- Massey: ***OKLA*** - #37 Oklahoma (75%) def. #38 Denver (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***OKLA*** - Oklahoma (94%) def. Denver (6%)  
 - Composite: ***OKLA*** - Oklahoma (74%) def. Denver (26%)  
 - UTR: ***OKLA*** - #28 Oklahoma (+3.10) def. #46 Denver (-3.10)  
@@ -57,7 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Emburgh (57%) def. Davis (43%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Emburgh (53%) def. Davis (47%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Davis (75%) def. Emburgh (25%)[^1]</li>  
+<li>Massey: <b><i>DEN</i></b> - Davis (75%) def. Emburgh (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>OKLA</i></b> - Emburgh (79%) def. Davis (21%)</li>  
 <li>Composite: <b><i>OKLA</i></b> - Emburgh (53%) def. Davis (47%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Emburgh (7.98) def. Davis (6.67)</li>  
@@ -68,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Beiler (80%) def. Ros (20%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Beiler (93%) def. Ros (7%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Beiler (75%) def. Ros (25%)[^1]</li>  
+<li>Massey: <b><i>OKLA</i></b> - Beiler (75%) def. Ros (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>OKLA</i></b> - Beiler (92%) def. Ros (8%)</li>  
 <li>Composite: <b><i>OKLA</i></b> - Beiler (85%) def. Ros (15%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Beiler (10.05) def. Ros (1.92)</li>  
@@ -79,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Martinez (71%) def. Summers (29%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Martinez (83%) def. Summers (17%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Martinez (75%) def. Summers (25%)[^1]</li>  
+<li>Massey: <b><i>OKLA</i></b> - Martinez (75%) def. Summers (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>OKLA</i></b> - Martinez (74%) def. Summers (26%)</li>  
 <li>Composite: <b><i>OKLA</i></b> - Martinez (76%) def. Summers (24%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Martinez (2.93) def. Summers (2.15)</li>  
@@ -90,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Han (80%) def. Sallay (20%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Han (87%) def. Sallay (13%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Han (75%) def. Sallay (25%)[^1]</li>  
+<li>Massey: <b><i>OKLA</i></b> - Han (75%) def. Sallay (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>OKLA</i></b> - Han (86%) def. Sallay (14%)</li>  
 <li>Composite: <b><i>OKLA</i></b> - Han (82%) def. Sallay (18%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Sallay (2.45) def. Han (1.72)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Schlageter (72%) def. Cuesta (28%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Schlageter (65%) def. Cuesta (35%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Cuesta (75%) def. Schlageter (25%)[^1]</li>  
+<li>Massey: <b><i>DEN</i></b> - Cuesta (75%) def. Schlageter (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>OKLA</i></b> - Schlageter (85%) def. Cuesta (15%)</li>  
 <li>Composite: <b><i>OKLA</i></b> - Schlageter (61%) def. Cuesta (39%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Cuesta (3.64) def. Schlageter (0.00)</li>  
@@ -112,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Mandlik (91%) def. Crespo (9%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Mandlik (78%) def. Crespo (22%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Crespo (75%) def. Mandlik (25%)[^1]</li>  
+<li>Massey: <b><i>DEN</i></b> - Crespo (75%) def. Mandlik (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>OKLA</i></b> - Mandlik (99%) def. Crespo (1%)</li>  
 <li>Composite: <b><i>OKLA</i></b> - Mandlik (73%) def. Crespo (27%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Crespo (3.50) def. Mandlik (0.00)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If Denver wins the doubles point, their chances of winning the dual improve to _21%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

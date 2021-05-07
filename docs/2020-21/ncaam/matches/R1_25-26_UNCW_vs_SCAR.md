@@ -37,7 +37,7 @@ Friday, May 7 at 1:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***SCAR*** - #15 South Carolina (98%) def. #48 UNCW (2%)  
 - TRN: ***SCAR*** - #15 South Carolina (99%) def. #49 UNCW (1%)  
-- Massey: ***SCAR*** - #16 South Carolina (75%) def. #49 UNCW (25%)[^1]  
+- Massey: ***SCAR*** - #16 South Carolina (75%) def. #49 UNCW (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***SCAR*** - South Carolina (100%) def. UNCW (0%)  
 - Composite: ***SCAR*** - South Carolina (93%) def. UNCW (7%)  
 - UTR: ***SCAR*** - #17 South Carolina (+4.69) def. #48 UNCW (-4.69)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Rodrigues (94%) def. Caula (6%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Rodrigues (97%) def. Caula (3%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Rodrigues (75%) def. Caula (25%)[^1]</li>  
+<li>Massey: <b><i>SCAR</i></b> - Rodrigues (75%) def. Caula (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>SCAR</i></b> - Rodrigues (95%) def. Caula (5%)</li>  
 <li>Composite: <b><i>SCAR</i></b> - Rodrigues (90%) def. Caula (10%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Rodrigues (58.79) def. Caula (2.92)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Thomson (91%) def. Innocenti (9%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Thomson (96%) def. Innocenti (4%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Thomson (75%) def. Innocenti (25%)[^1]</li>  
+<li>Massey: <b><i>SCAR</i></b> - Thomson (75%) def. Innocenti (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>SCAR</i></b> - Thomson (91%) def. Innocenti (9%)</li>  
 <li>Composite: <b><i>SCAR</i></b> - Thomson (88%) def. Innocenti (12%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Thomson (28.97) def. Innocenti (2.85)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Samuel (89%) def. Groom (11%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Samuel (95%) def. Groom (5%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Samuel (75%) def. Groom (25%)[^1]</li>  
+<li>Massey: <b><i>SCAR</i></b> - Samuel (75%) def. Groom (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>SCAR</i></b> - Samuel (90%) def. Groom (10%)</li>  
 <li>Composite: <b><i>SCAR</i></b> - Samuel (87%) def. Groom (13%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Samuel (10.78) def. Groom (2.67)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Lambling (95%) def. Rasamatov (5%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Lambling (93%) def. Rasamatov (7%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Lambling (75%) def. Rasamatov (25%)[^1]</li>  
+<li>Massey: <b><i>SCAR</i></b> - Lambling (75%) def. Rasamatov (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>SCAR</i></b> - Lambling (92%) def. Rasamatov (8%)</li>  
 <li>Composite: <b><i>SCAR</i></b> - Lambling (89%) def. Rasamatov (11%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Lambling (15.34) def. Rasamatov (2.15)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Beasley (91%) def. Hurtado (9%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Beasley (95%) def. Hurtado (5%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Beasley (75%) def. Hurtado (25%)[^1]</li>  
+<li>Massey: <b><i>SCAR</i></b> - Beasley (75%) def. Hurtado (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>SCAR</i></b> - Beasley (87%) def. Hurtado (13%)</li>  
 <li>Composite: <b><i>SCAR</i></b> - Beasley (87%) def. Hurtado (13%)</li>  
 <li>ITA: <b><i>UNCW</i></b> - Hurtado (1.80) def. Beasley (1.73)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Brown (89%) def. Copeland (11%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Brown (93%) def. Copeland (7%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Brown (75%) def. Copeland (25%)[^1]</li>  
+<li>Massey: <b><i>SCAR</i></b> - Brown (75%) def. Copeland (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>SCAR</i></b> - Brown (90%) def. Copeland (10%)</li>  
 <li>Composite: <b><i>SCAR</i></b> - Brown (87%) def. Copeland (13%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Brown (2.19) def. Copeland (1.97)</li>  
@@ -148,4 +148,5 @@ Based on the composite metrics for each individual match:
 - If UNCW wins the doubles point, their chances of winning the dual improve to _2%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

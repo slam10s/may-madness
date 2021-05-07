@@ -38,7 +38,7 @@ Saturday, May 8 at 12:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***BAMA*** - #28 Alabama (70%) def. #44 Oregon (30%)  
 - TRN: ***BAMA*** - #27 Alabama (71%) def. #41 Oregon (29%)  
-- Massey: ***ORE*** - #30 Oregon (75%) def. #38 Alabama (25%)[^1]  
+- Massey: ***ORE*** - #30 Oregon (75%) def. #38 Alabama (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***BAMA*** - Alabama (58%) def. Oregon (42%)  
 - Composite: ***BAMA*** - Alabama (56%) def. Oregon (44%)  
 - UTR: ***BAMA*** - #30 Alabama (+0.28) def. #33 Oregon (-0.28)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ORE</i></b> - Coste (73%) def. Ortiz (27%)</li>  
 <li>TRN: <b><i>ORE</i></b> - Coste (76%) def. Ortiz (24%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Coste (75%) def. Ortiz (25%)[^1]</li>  
+<li>Massey: <b><i>ORE</i></b> - Coste (75%) def. Ortiz (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>ORE</i></b> - Coste (76%) def. Ortiz (24%)</li>  
 <li>Composite: <b><i>ORE</i></b> - Coste (74%) def. Ortiz (26%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Ortiz (18.41) def. Coste (3.31)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
 <li>TRN: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Charlton (75%) def. Kaukovalta (25%)[^1]</li>  
+<li>Massey: <b><i>ORE</i></b> - Charlton (75%) def. Kaukovalta (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>ORE</i></b> - Charlton (76%) def. Kaukovalta (24%)</li>  
 <li>Composite: <b><i>ORE</i></b> - Charlton (71%) def. Kaukovalta (29%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Kaukovalta (11.09) def. Charlton (2.88)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAMA</i></b> - Zhou (72%) def. Vandecasteele (28%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Zhou (76%) def. Vandecasteele (24%)</li>  
-<li>Massey: <b><i>BAMA</i></b> - Zhou (75%) def. Vandecasteele (25%)[^1]</li>  
+<li>Massey: <b><i>BAMA</i></b> - Zhou (75%) def. Vandecasteele (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>BAMA</i></b> - Zhou (63%) def. Vandecasteele (37%)</li>  
 <li>Composite: <b><i>BAMA</i></b> - Zhou (72%) def. Vandecasteele (28%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Zhou (13.61) def. Vandecasteele (1.67)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Klov-Nilsson (75%) def. Roberto (25%)[^1]</li>  
+<li>Massey: <b><i>ORE</i></b> - Klov-Nilsson (75%) def. Roberto (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>BAMA</i></b> - Roberto (53%) def. Klov-Nilsson (47%)</li>  
 <li>Composite: <b><i>ORE</i></b> - Klov-Nilsson (55%) def. Roberto (45%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Roberto (2.71) def. Klov-Nilsson (2.61)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAMA</i></b> - Freire (68%) def. Lam (32%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Freire (72%) def. Lam (28%)</li>  
-<li>Massey: <b><i>BAMA</i></b> - Freire (75%) def. Lam (25%)[^1]</li>  
+<li>Massey: <b><i>BAMA</i></b> - Freire (75%) def. Lam (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>BAMA</i></b> - Freire (68%) def. Lam (32%)</li>  
 <li>Composite: <b><i>BAMA</i></b> - Freire (70%) def. Lam (30%)</li>  
 <li>ITA: <b><i>ORE</i></b> - Lam (1.91) def. Freire (1.56)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAMA</i></b> - Nesterov (69%) def. Vandecasteele (31%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Nesterov (74%) def. Vandecasteele (26%)</li>  
-<li>Massey: <b><i>BAMA</i></b> - Nesterov (75%) def. Vandecasteele (25%)[^1]</li>  
+<li>Massey: <b><i>BAMA</i></b> - Nesterov (75%) def. Vandecasteele (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>BAMA</i></b> - Nesterov (80%) def. Vandecasteele (20%)</li>  
 <li>Composite: <b><i>BAMA</i></b> - Nesterov (74%) def. Vandecasteele (26%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Nesterov (1.92) def. Vandecasteele (1.57)</li>  
@@ -148,4 +148,5 @@ Based on the composite metrics for each individual match:
 - If Oregon wins the doubles point, their chances of winning the dual improve to _62%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

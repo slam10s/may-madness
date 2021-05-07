@@ -38,7 +38,7 @@ Saturday, May 8 at 10:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***VT*** - #30 Virginia Tech (57%) def. #35 Texas Tech (43%)  
 - TRN: ***VT*** - #29 Virginia Tech (52%) def. #31 Texas Tech (48%)  
-- Massey: ***TTU*** - #28 Texas Tech (75%) def. #33 Virginia Tech (25%)[^1]  
+- Massey: ***TTU*** - #28 Texas Tech (75%) def. #33 Virginia Tech (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***VT*** - Virginia Tech (77%) def. Texas Tech (23%)  
 - Composite: ***VT*** - Virginia Tech (52%) def. Texas Tech (48%)  
 - UTR: ***VT*** - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Harper (78%) def. Wynn (22%)</li>  
 <li>TRN: <b><i>VT</i></b> - Harper (80%) def. Wynn (20%)</li>  
-<li>Massey: <b><i>VT</i></b> - Harper (75%) def. Wynn (25%)[^1]</li>  
+<li>Massey: <b><i>VT</i></b> - Harper (75%) def. Wynn (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>VT</i></b> - Harper (81%) def. Wynn (19%)</li>  
 <li>Composite: <b><i>VT</i></b> - Harper (77%) def. Wynn (23%)</li>  
 <li>ITA: <b><i>VT</i></b> - Harper (7.69) def. Wynn (1.67)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Ribeiro (59%) def. Valiev (41%)</li>  
 <li>TRN: <b><i>VT</i></b> - Ribeiro (58%) def. Valiev (42%)</li>  
-<li>Massey: <b><i>VT</i></b> - Ribeiro (75%) def. Valiev (25%)[^1]</li>  
+<li>Massey: <b><i>VT</i></b> - Ribeiro (75%) def. Valiev (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>TTU</i></b> - Valiev (75%) def. Ribeiro (25%)</li>  
 <li>Composite: <b><i>VT</i></b> - Ribeiro (53%) def. Valiev (47%)</li>  
 <li>ITA: <b><i>VT</i></b> - Ribeiro (9.63) def. Valiev (1.70)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Ross (78%) def. Ribero (22%)</li>  
 <li>TRN: <b><i>VT</i></b> - Ross (72%) def. Ribero (28%)</li>  
-<li>Massey: <b><i>VT</i></b> - Ross (75%) def. Ribero (25%)[^1]</li>  
+<li>Massey: <b><i>VT</i></b> - Ross (75%) def. Ribero (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>VT</i></b> - Ross (71%) def. Ribero (29%)</li>  
 <li>Composite: <b><i>VT</i></b> - Ross (73%) def. Ribero (27%)</li>  
 <li>ITA: <b><i>VT</i></b> - Ross (6.68) def. Ribero (1.57)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Donato (59%) def. Collier (41%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Collier (50%) def. Donato (50%)</li>  
-<li>Massey: <b><i>TTU</i></b> - Collier (75%) def. Donato (25%)[^1]</li>  
+<li>Massey: <b><i>TTU</i></b> - Collier (75%) def. Donato (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>TTU</i></b> - Collier (76%) def. Donato (24%)</li>  
 <li>Composite: <b><i>TTU</i></b> - Collier (60%) def. Donato (40%)</li>  
 <li>ITA: <b><i>VT</i></b> - Donato (2.08) def. Collier (1.70)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Maia (68%) def. Azoides (32%)</li>  
 <li>TRN: <b><i>VT</i></b> - Maia (71%) def. Azoides (29%)</li>  
-<li>Massey: <b><i>VT</i></b> - Maia (75%) def. Azoides (25%)[^1]</li>  
+<li>Massey: <b><i>VT</i></b> - Maia (75%) def. Azoides (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>TTU</i></b> - Azoides (62%) def. Maia (38%)</li>  
 <li>Composite: <b><i>VT</i></b> - Maia (62%) def. Azoides (38%)</li>  
 <li>ITA: <b><i>VT</i></b> - Maia (2.60) def. Azoides (1.70)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Fishback (54%) def. Arevalo (46%)</li>  
 <li>TRN: <b><i>VT</i></b> - Fishback (61%) def. Arevalo (39%)</li>  
-<li>Massey: <b><i>VT</i></b> - Fishback (75%) def. Arevalo (25%)[^1]</li>  
+<li>Massey: <b><i>VT</i></b> - Fishback (75%) def. Arevalo (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>TTU</i></b> - Arevalo (60%) def. Fishback (40%)</li>  
 <li>Composite: <b><i>VT</i></b> - Fishback (57%) def. Arevalo (43%)</li>  
 <li>ITA: <b><i>VT</i></b> - Fishback (2.03) def. Arevalo (1.77)</li>  
@@ -149,4 +149,5 @@ Based on the composite metrics for each individual match:
 - If Virginia Tech wins the doubles point, their chances of winning the dual improve to _84%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

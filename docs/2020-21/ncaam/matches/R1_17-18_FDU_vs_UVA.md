@@ -37,7 +37,7 @@ Saturday, May 8 at 1:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - TRN: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
-- Massey: ***UVA*** - #3 Virginia (75%) def. #64 Fairleigh Dickinson (25%)[^1]  
+- Massey: ***UVA*** - #3 Virginia (75%) def. #64 Fairleigh Dickinson (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***UVA*** - Virginia (100%) def. Fairleigh Dickinson (0%)  
 - Composite: ***UVA*** - Virginia (93%) def. Fairleigh Dickinson (7%)  
 - UTR: ***UVA*** - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)  
@@ -68,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Schulenburg (75%) def. Gudins (25%)[^1]</li>  
+<li>Massey: <b><i>UVA</i></b> - Schulenburg (75%) def. Gudins (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>Composite: <b><i>UVA</i></b> - Schulenburg (93%) def. Gudins (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Schulenburg (18.39) def. Gudins (1.26)</li>  
@@ -79,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Rodesch (75%) def. Autuch (25%)[^1]</li>  
+<li>Massey: <b><i>UVA</i></b> - Rodesch (75%) def. Autuch (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>Composite: <b><i>UVA</i></b> - Rodesch (93%) def. Autuch (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Rodesch (3.82) def. Autuch (1.74)</li>  
@@ -90,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Torre (100%) def. Sriram (0%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Torre (100%) def. Sriram (0%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Torre (75%) def. Sriram (25%)[^1]</li>  
+<li>Massey: <b><i>UVA</i></b> - Torre (75%) def. Sriram (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>UVA</i></b> - Torre (99%) def. Sriram (1%)</li>  
 <li>Composite: <b><i>UVA</i></b> - Torre (93%) def. Sriram (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Torre (12.34) def. Sriram (0.00)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Goetz (75%) def. Budinszky (25%)[^1]</li>  
+<li>Massey: <b><i>UVA</i></b> - Goetz (75%) def. Budinszky (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>Composite: <b><i>UVA</i></b> - Goetz (93%) def. Budinszky (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Goetz (6.09) def. Budinszky (0.00)</li>  
@@ -112,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Ross (75%) def. Sader (25%)[^1]</li>  
+<li>Massey: <b><i>UVA</i></b> - Ross (75%) def. Sader (25%)<sup>[1](#footnote1)</sup></li>  
 <li>UTR: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>Composite: <b><i>UVA</i></b> - Ross (93%) def. Sader (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Ross (2.67) def. Sader (1.68)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If Fairleigh Dickinson wins the doubles point, their chances of winning the dual improve to _3%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
