@@ -8,7 +8,7 @@ Evanston, Illinois
 <td>  
 
 <h2>#3 Xavier</h2>  
-&nbsp; Record: 17-3<br>  
+&nbsp; Record: 17-4<br>  
 &nbsp; ITA: 55 (3.75)<br>  
 &nbsp; Slam: 49 (80.67)<br>  
 &nbsp; TRN: 50 (71.88)<br>  
@@ -20,7 +20,7 @@ Evanston, Illinois
 <td>  
 
 <h2>#2 Northwestern</h2>  
-&nbsp; Record: 18-5<br>  
+&nbsp; Record: 19-5<br>  
 &#10004; ITA: 21 (39.92)<br>  
 &#10004; Slam: 18 (90.46)<br>  
 &#10004; TRN: 13 (83.80)<br>  
