@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  
 Click on a Singles match to show individual predections for each line.  
+
 ### Singles:  
 
 <ol>
@@ -111,6 +112,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 </ol>
+
 ### Doubles:  
 
 <ol>
