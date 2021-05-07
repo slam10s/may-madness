@@ -5,6 +5,18 @@ Saturday, May 8 at 10:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a></td></tr><tr>
 <td>  
 
+<h2>#3 <a href="#">Virginia Tech</a></h2>  
+&nbsp; ITA: 29 (28.32)<br>  
+&#10004; Slam: 30 (93.02)<br>  
+&#10004; TRN: 29 (91.09)<br>  
+&nbsp; Massey: 33 (7.47)<br>  
+&#10004; UTR: 34 (76.77)<br>  
+&nbsp; Coaches Poll: 34<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#2 <a href="#">Texas Tech</a></h2>  
 &#10004; ITA: 25 (31.34)<br>  
 &nbsp; Slam: 35 (92.60)<br>  
@@ -13,18 +25,6 @@ Saturday, May 8 at 10:00 EDT
 &nbsp; UTR: 35 (76.66)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 27<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#3 <a href="#">Virginia Tech</a></h2>  
-&nbsp; ITA: 29 (28.32)<br>  
-&#10004; Slam: 30 (93.02)<br>  
-&#10004; TRN: 29 (91.09)<br>  
-&nbsp; Massey: 33 (7.47)<br>  
-&#10004; UTR: 34 (76.77)<br>  
-&nbsp; Coaches Poll: 34<br>  
 <br>  
 
 </td>
@@ -53,7 +53,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Parker Wynn (VT) - 5-9 at #1, 5-9 in duals, 9-13 overall<br>Mitch Harper (TTU) - 7-4 at #1, 7-4 in duals, 7-4 overall</summary>
+<summary markdown="span">Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall<br>Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Harper (77%) def. Wynn (23%)</li>  
 <li>TRN: <b><i>VT</i></b> - Harper (79%) def. Wynn (21%)</li>  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ilgiz Valiev (VT) - 10-6 at #2, 11-7 in duals, 14-13 overall<br>Alex Ribeiro (TTU) - 2-1 at #2, 5-5 in duals, 5-5 overall</summary>
+<summary markdown="span">Alex Ribeiro (VT) - 2-1 at #2, 5-5 in duals, 5-5 overall<br>Ilgiz Valiev (TTU) - 10-6 at #2, 11-7 in duals, 14-13 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Ribeiro (58%) def. Valiev (42%)</li>  
 <li>TRN: <b><i>VT</i></b> - Ribeiro (57%) def. Valiev (43%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Franco Ribero (VT) - 7-4 at #3, 8-5 in duals, 11-11 overall<br>Matt Ross (TTU) - 1-1 at #3, 8-12 in duals, 8-12 overall</summary>
+<summary markdown="span">Matt Ross (VT) - 1-1 at #3, 8-12 in duals, 8-12 overall<br>Franco Ribero (TTU) - 7-4 at #3, 8-5 in duals, 11-11 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Ross (77%) def. Ribero (23%)</li>  
 <li>TRN: <b><i>VT</i></b> - Ross (71%) def. Ribero (29%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Reed Collier (VT) - 6-5 at #4, 7-7 in duals, 14-8 overall<br>Carlo Donato (TTU) - 0-2 at #4, 5-13 in duals, 5-13 overall</summary>
+<summary markdown="span">Carlo Donato (VT) - 0-2 at #4, 5-13 in duals, 5-13 overall<br>Reed Collier (TTU) - 6-5 at #4, 7-7 in duals, 14-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Donato (58%) def. Collier (42%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Collier (51%) def. Donato (49%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Dimi Azoides (VT) - 8-3 at #5, 12-4 in duals, 15-10 overall<br>Hugo Maia (TTU) - 0-2 at #5, 13-6 in duals, 13-6 overall</summary>
+<summary markdown="span">Hugo Maia (VT) - 0-2 at #5, 13-6 in duals, 13-6 overall<br>Dimi Azoides (TTU) - 8-3 at #5, 12-4 in duals, 15-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Maia (67%) def. Azoides (33%)</li>  
 <li>TRN: <b><i>VT</i></b> - Maia (70%) def. Azoides (30%)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Isaac Arevalo (VT) - 5-4 at #6, 8-5 in duals, 14-7 overall<br>Ryan Fishback (TTU) - 4-1 at #6, 13-6 in duals, 13-6 overall</summary>
+<summary markdown="span">Ryan Fishback (VT) - 4-1 at #6, 13-6 in duals, 13-6 overall<br>Isaac Arevalo (TTU) - 5-4 at #6, 8-5 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VT</i></b> - Fishback (53%) def. Arevalo (47%)</li>  
 <li>TRN: <b><i>VT</i></b> - Fishback (60%) def. Arevalo (40%)</li>  
@@ -118,15 +118,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Wynn/Ribero (VT) - 7-7 at #1, 7-7 in duals, 7-7 overall<br>Chrysostom/Fishback (TTU) - 6-4 at #1, 8-4 in duals, 8-4 overall</summary>
+<summary markdown="span">Chrysostom/Fishback (VT) - 6-4 at #1, 8-4 in duals, 8-4 overall<br>Wynn/Ribero (TTU) - 7-7 at #1, 7-7 in duals, 7-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Arevalo/Collier (VT) - 6-5 at #2, 6-5 in duals, 6-5 overall<br>Harper/Ribeiro (TTU) - 3-4 at #2, 3-4 in duals, 3-4 overall</summary>
+<summary markdown="span">Harper/Ribeiro (VT) - 3-4 at #2, 3-4 in duals, 3-4 overall<br>Arevalo/Collier (TTU) - 6-5 at #2, 6-5 in duals, 6-5 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Valiev/Azoides (VT) - 8-2 at #3, 11-3 in duals, 12-4 overall<br>Donato/Ariza (TTU) - 1-1 at #3, 1-1 in duals, 1-1 overall</summary>
+<summary markdown="span">Donato/Ariza (VT) - 1-1 at #3, 1-1 in duals, 1-1 overall<br>Valiev/Azoides (TTU) - 8-2 at #3, 11-3 in duals, 12-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

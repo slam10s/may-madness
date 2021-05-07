@@ -5,17 +5,6 @@ Friday, May 7 at 6:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></td></tr><tr>
 <td>  
 
-<h2>#4 <a href="#">A&M-Corpus Christi</a></h2>  
-&nbsp; ITA: 56 (3.61)<br>  
-&nbsp; Slam: 55 (78.55)<br>  
-&nbsp; TRN: 55 (67.73)<br>  
-&nbsp; Massey: 52 (5.45)<br>  
-&nbsp; UTR: 52 (54.53)<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#1 <a href="#">Baylor</a></h2>  
 &#10004; ITA: 8 (52.73)<br>  
 &#10004; Slam: 7 (92.44)<br>  
@@ -24,6 +13,17 @@ Friday, May 7 at 6:00 EDT
 &#10004; UTR: 8 (63.14)<br>  
 &#10004; USTA Poll: 8<br>  
 &#10004; Coaches Poll: 8<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#4 <a href="#">A&M-Corpus Christi</a></h2>  
+&nbsp; ITA: 56 (3.61)<br>  
+&nbsp; Slam: 55 (78.55)<br>  
+&nbsp; TRN: 55 (67.73)<br>  
+&nbsp; Massey: 52 (5.45)<br>  
+&nbsp; UTR: 52 (54.53)<br>  
 <br>  
 
 </td>
@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Mariya Shumeika (BAY) - 7-3 at #1, 19-3 in duals, 19-3 overall<br>Melany Krywoj (TAMCC) - 11-6 at #1, 11-6 in duals, 19-10 overall</summary>
+<summary markdown="span">Melany Krywoj (BAY) - 11-6 at #1, 11-6 in duals, 19-10 overall<br>Mariya Shumeika (TAMCC) - 7-3 at #1, 19-3 in duals, 19-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Krywoj (95%) def. Shumeika (5%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Krywoj (90%) def. Shumeika (10%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Camille Townsend (BAY) - 6-3 at #2, 14-6 in duals, 14-6 overall<br>Jessica Hinojosa (TAMCC) - 7-6 at #2, 12-10 in duals, 18-15 overall</summary>
+<summary markdown="span">Jessica Hinojosa (BAY) - 7-6 at #2, 12-10 in duals, 18-15 overall<br>Camille Townsend (TAMCC) - 6-3 at #2, 14-6 in duals, 14-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Hinojosa (90%) def. Townsend (10%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Hinojosa (95%) def. Townsend (5%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Emma Honore (BAY) - 16-4 at #3, 16-6 in duals, 15-6 overall<br>Alicia Herrero (TAMCC) - 4-4 at #3, 13-8 in duals, 20-13 overall</summary>
+<summary markdown="span">Alicia Herrero (BAY) - 4-4 at #3, 13-8 in duals, 20-13 overall<br>Emma Honore (TAMCC) - 16-4 at #3, 16-6 in duals, 15-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Herrero (97%) def. Honore (3%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Herrero (98%) def. Honore (2%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Emma Aucagne (BAY) - 20-1 at #4, 22-1 in duals, 22-1 overall<br>Angie Shakhraichuck (TAMCC) - 6-4 at #4, 17-5 in duals, 24-10 overall</summary>
+<summary markdown="span">Angie Shakhraichuck (BAY) - 6-4 at #4, 17-5 in duals, 24-10 overall<br>Emma Aucagne (TAMCC) - 20-1 at #4, 22-1 in duals, 22-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Shakhraichuck (96%) def. Aucagne (4%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Shakhraichuck (96%) def. Aucagne (4%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Leopoldine Boisseau (BAY) - 14-3 at #5, 17-3 in duals, 17-3 overall<br>Kristina Sorokolet (TAMCC) - 4-1 at #5, 11-3 in duals, 18-5 overall</summary>
+<summary markdown="span">Kristina Sorokolet (BAY) - 4-1 at #5, 11-3 in duals, 18-5 overall<br>Leopoldine Boisseau (TAMCC) - 14-3 at #5, 17-3 in duals, 17-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Sorokolet (96%) def. Boisseau (4%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Sorokolet (96%) def. Boisseau (4%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Victoire Delattre (BAY) - 14-2 at #6, 17-2 in duals, 17-2 overall<br>Paula Baranano (TAMCC) - 5-2 at #6, 12-3 in duals, 12-3 overall</summary>
+<summary markdown="span">Paula Baranano (BAY) - 5-2 at #6, 12-3 in duals, 12-3 overall<br>Victoire Delattre (TAMCC) - 14-2 at #6, 17-2 in duals, 17-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Baranano (99%) def. Delattre (1%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Baranano (99%) def. Delattre (1%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Shumeika/Townsend (BAY) - 19-5 at #1, 19-5 in duals, 19-5 overall<br>Shakhraichuk/Krywoj (TAMCC) - 9-1 at #1, 9-1 in duals, 9-1 overall</summary>
+<summary markdown="span">Shakhraichuk/Krywoj (BAY) - 9-1 at #1, 9-1 in duals, 9-1 overall<br>Shumeika/Townsend (TAMCC) - 19-5 at #1, 19-5 in duals, 19-5 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">E.Honore/E.Aucagne (BAY) - 16-4 at #2, 16-4 in duals, 16-4 overall<br>Hinojosa/Sorokolet (TAMCC) - 1-4 at #2, 2-6 in duals, 2-6 overall</summary>
+<summary markdown="span">Hinojosa/Sorokolet (BAY) - 1-4 at #2, 2-6 in duals, 2-6 overall<br>E.Honore/E.Aucagne (TAMCC) - 16-4 at #2, 16-4 in duals, 16-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">L.Boisseau/Delattre (BAY) - 15-4 at #3, 15-4 in duals, 15-4 overall<br>Herrero/Boch-Collins (TAMCC) - 5-0 at #3, 5-0 in duals, 5-0 overall</summary>
+<summary markdown="span">Herrero/Boch-Collins (BAY) - 5-0 at #3, 5-0 in duals, 5-0 overall<br>L.Boisseau/Delattre (TAMCC) - 15-4 at #3, 15-4 in duals, 15-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

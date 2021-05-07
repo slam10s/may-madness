@@ -5,6 +5,18 @@ Friday, May 7 at 2:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></a></td></tr><tr>
 <td>  
 
+<h2>#2 <a href="#">Notre Dame</a></h2>  
+&#10004; ITA: 34 (25.22)<br>  
+&#10004; Slam: 40 (91.96)<br>  
+&#10004; TRN: 42 (89.57)<br>  
+&#10004; Massey: 36 (7.36)<br>  
+&#10004; UTR: 38 (76.38)<br>  
+&#10004; Coaches Poll: 37<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#3 <a href="#">Western Mich.</a></h2>  
 &nbsp; ITA: 41 (18.89)<br>  
 &nbsp; Slam: 47 (89.83)<br>  
@@ -13,18 +25,6 @@ Friday, May 7 at 2:00 EDT
 &nbsp; UTR: 53 (72.95)<br>  
 &#10004; USTA Poll: RV<br>  
 &nbsp; Coaches Poll: 48<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#2 <a href="#">Notre Dame</a></h2>  
-&#10004; ITA: 34 (25.22)<br>  
-&#10004; Slam: 40 (91.96)<br>  
-&#10004; TRN: 42 (89.57)<br>  
-&#10004; Massey: 36 (7.36)<br>  
-&#10004; UTR: 38 (76.38)<br>  
-&#10004; Coaches Poll: 37<br>  
 <br>  
 
 </td>
@@ -53,7 +53,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Jannik Opitz (ND) - 20-2 at #1, 20-2 in duals, 20-2 overall<br>Axel Nefve (WMU) - 13-2 at #1, 18-3 in duals, 18-3 overall</summary>
+<summary markdown="span">Axel Nefve (ND) - 13-2 at #1, 18-3 in duals, 18-3 overall<br>Jannik Opitz (WMU) - 20-2 at #1, 20-2 in duals, 20-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ND</i></b> - Nefve (82%) def. Opitz (18%)</li>  
 <li>TRN: <b><i>ND</i></b> - Nefve (84%) def. Opitz (16%)</li>  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Peter Kuszynski (ND) - 15-2 at #2, 18-2 in duals, 18-2 overall<br>Richard Ciamarra (WMU) - 9-4 at #2, 14-7 in duals, 14-7 overall</summary>
+<summary markdown="span">Richard Ciamarra (ND) - 9-4 at #2, 14-7 in duals, 14-7 overall<br>Peter Kuszynski (WMU) - 15-2 at #2, 18-2 in duals, 18-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ND</i></b> - Ciamarra (89%) def. Kuszynski (11%)</li>  
 <li>TRN: <b><i>ND</i></b> - Ciamarra (82%) def. Kuszynski (18%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Fynn Lohse (ND) - 7-4 at #3, 16-5 in duals, 16-5 overall<br>Tristan McCormick (WMU) - 8-5 at #3, 10-6 in duals, 10-6 overall</summary>
+<summary markdown="span">Tristan McCormick (ND) - 8-5 at #3, 10-6 in duals, 10-6 overall<br>Fynn Lohse (WMU) - 7-4 at #3, 16-5 in duals, 16-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ND</i></b> - McCormick (88%) def. Lohse (12%)</li>  
 <li>TRN: <b><i>ND</i></b> - McCormick (88%) def. Lohse (12%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jackson Boone (ND) - 5-3 at #4, 13-6 in duals, 13-6 overall<br>William Howells (WMU) - 0-0 at #4, 2-1 in duals, 2-1 overall</summary>
+<summary markdown="span">William Howells (ND) - 0-0 at #4, 2-1 in duals, 2-1 overall<br>Jackson Boone (WMU) - 5-3 at #4, 13-6 in duals, 13-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
 <li>TRN: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Arjun Honnappa (ND) - 11-3 at #5, 17-3 in duals, 17-3 overall<br>Matthew Che (WMU) - 0-1 at #5, 6-12 in duals, 6-12 overall</summary>
+<summary markdown="span">Matthew Che (ND) - 0-1 at #5, 6-12 in duals, 6-12 overall<br>Arjun Honnappa (WMU) - 11-3 at #5, 17-3 in duals, 17-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ND</i></b> - Che (80%) def. Honnappa (20%)</li>  
 <li>TRN: <b><i>ND</i></b> - Che (65%) def. Honnappa (35%)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ben George (ND) - 8-0 at #6, 11-0 in duals, 11-0 overall<br>Connor Fu (WMU) - 0-1 at #6, 12-9 in duals, 12-9 overall</summary>
+<summary markdown="span">Connor Fu (ND) - 0-1 at #6, 12-9 in duals, 12-9 overall<br>Ben George (WMU) - 8-0 at #6, 11-0 in duals, 11-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ND</i></b> - Fu (89%) def. George (11%)</li>  
 <li>TRN: <b><i>ND</i></b> - Fu (86%) def. George (14%)</li>  
@@ -118,15 +118,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Opitz/Kuszynski (ND) - 0-0 at #1, 0-0 in duals, 0-0 overall<br>McCormick/Nefve (WMU) - 10-4 at #1, 10-4 in duals, 10-4 overall</summary>
+<summary markdown="span">McCormick/Nefve (ND) - 10-4 at #1, 10-4 in duals, 10-4 overall<br>Opitz/Kuszynski (WMU) - 0-0 at #1, 0-0 in duals, 0-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Randall/Lohse (ND) - 6-0 at #2, 7-0 in duals, 7-0 overall<br>Ancona/Howells (WMU) - 4-2 at #2, 7-5 in duals, 7-5 overall</summary>
+<summary markdown="span">Ancona/Howells (ND) - 4-2 at #2, 7-5 in duals, 7-5 overall<br>Randall/Lohse (WMU) - 6-0 at #2, 7-0 in duals, 7-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Faveri/Caballer (ND) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Che/Ciamarra (WMU) - 5-0 at #3, 6-1 in duals, 6-1 overall</summary>
+<summary markdown="span">Che/Ciamarra (ND) - 5-0 at #3, 6-1 in duals, 6-1 overall<br>Faveri/Caballer (WMU) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

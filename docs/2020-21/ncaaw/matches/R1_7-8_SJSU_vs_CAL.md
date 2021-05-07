@@ -5,17 +5,6 @@ Friday, May 7 at 4:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></a></td></tr><tr>
 <td>  
 
-<h2>#4 <a href="#">San Jose St.</a></h2>  
-&nbsp; ITA: 47 (8.04)<br>  
-&nbsp; Slam: 50 (80.34)<br>  
-&nbsp; TRN: 49 (73.09)<br>  
-&nbsp; Massey: 49 (5.94)<br>  
-&nbsp; UTR: 50 (55.37)<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#1 <a href="#">California</a></h2>  
 &#10004; ITA: 16 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
@@ -24,6 +13,17 @@ Friday, May 7 at 4:00 EDT
 &#10004; UTR: 15 (62.15)<br>  
 &#10004; USTA Poll: 13<br>  
 &#10004; Coaches Poll: 17<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#4 <a href="#">San Jose St.</a></h2>  
+&nbsp; ITA: 47 (8.04)<br>  
+&nbsp; Slam: 50 (80.34)<br>  
+&nbsp; TRN: 49 (73.09)<br>  
+&nbsp; Massey: 49 (5.94)<br>  
+&nbsp; UTR: 50 (55.37)<br>  
 <br>  
 
 </td>
@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Alba Pedrero Galindo (CAL) - 11-4 at #1, 11-4 in duals, 11-4 overall<br>Haley Giavara (SJSU) - 12-10 at #1, 12-10 in duals, 12-10 overall</summary>
+<summary markdown="span">Haley Giavara (CAL) - 12-10 at #1, 12-10 in duals, 12-10 overall<br>Alba Pedrero Galindo (SJSU) - 11-4 at #1, 11-4 in duals, 11-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Giavara (93%) def. Galindo (7%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Giavara (95%) def. Galindo (5%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Rozalina Youseva (CAL) - 6-6 at #2, 6-6 in duals, 6-6 overall<br>Julia Rosenqvist (SJSU) - 11-7 at #2, 14-7 in duals, 14-7 overall</summary>
+<summary markdown="span">Julia Rosenqvist (CAL) - 11-7 at #2, 14-7 in duals, 14-7 overall<br>Rozalina Youseva (SJSU) - 6-6 at #2, 6-6 in duals, 6-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Rosenqvist (96%) def. Youseva (4%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Rosenqvist (97%) def. Youseva (3%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Irena Muradyan (CAL) - 13-1 at #3, 14-1 in duals, 14-1 overall<br>Valentina Ivanov (SJSU) - 9-5 at #3, 10-8 in duals, 10-8 overall</summary>
+<summary markdown="span">Valentina Ivanov (CAL) - 9-5 at #3, 10-8 in duals, 10-8 overall<br>Irena Muradyan (SJSU) - 13-1 at #3, 14-1 in duals, 14-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Ivanov (94%) def. Muradyan (6%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Ivanov (92%) def. Muradyan (8%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lara Marco Mas (CAL) - 4-5 at #4, 6-5 in duals, 6-5 overall<br>Jada Bui (SJSU) - 8-5 at #4, 10-6 in duals, 10-6 overall</summary>
+<summary markdown="span">Jada Bui (CAL) - 8-5 at #4, 10-6 in duals, 10-6 overall<br>Lara Marco Mas (SJSU) - 4-5 at #4, 6-5 in duals, 6-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Bui (98%) def. Mas (2%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Bui (99%) def. Mas (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Raquel Villan Pereira (CAL) - 9-2 at #5, 9-2 in duals, 9-2 overall<br>Hannah Viller Moeller (SJSU) - 8-5 at #5, 14-7 in duals, 14-7 overall</summary>
+<summary markdown="span">Hannah Viller Moeller (CAL) - 8-5 at #5, 14-7 in duals, 14-7 overall<br>Raquel Villan Pereira (SJSU) - 9-2 at #5, 9-2 in duals, 9-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Moeller (98%) def. Pereira (2%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Moeller (98%) def. Pereira (2%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jovana Babic (CAL) - 7-3 at #6, 7-3 in duals, 7-3 overall<br>Anna Bright (SJSU) - 10-3 at #6, 18-3 in duals, 18-3 overall</summary>
+<summary markdown="span">Anna Bright (CAL) - 10-3 at #6, 18-3 in duals, 18-3 overall<br>Jovana Babic (SJSU) - 7-3 at #6, 7-3 in duals, 7-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Bright (99%) def. Babic (1%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Bright (99%) def. Babic (1%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Galindo/Mas (CAL) - 0-3 at #1, 3-6 in duals, 3-6 overall<br>Giavara/Ivanov (SJSU) - 12-5 at #1, 12-5 in duals, 12-5 overall</summary>
+<summary markdown="span">Giavara/Ivanov (CAL) - 12-5 at #1, 12-5 in duals, 12-5 overall<br>Galindo/Mas (SJSU) - 0-3 at #1, 3-6 in duals, 3-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Culibrk/Muradyan (CAL) - 1-1 at #2, 3-2 in duals, 3-3 overall<br>Bright/Moeller (SJSU) - 11-6 at #2, 11-6 in duals, 11-6 overall</summary>
+<summary markdown="span">Bright/Moeller (CAL) - 11-6 at #2, 11-6 in duals, 11-6 overall<br>Culibrk/Muradyan (SJSU) - 1-1 at #2, 3-2 in duals, 3-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Youseva/Pereira (CAL) - 2-3 at #3, 2-3 in duals, 2-3 overall<br>Bui/Richardson (SJSU) - 2-2 at #3, 2-2 in duals, 2-2 overall</summary>
+<summary markdown="span">Bui/Richardson (CAL) - 2-2 at #3, 2-2 in duals, 2-2 overall<br>Youseva/Pereira (SJSU) - 2-3 at #3, 2-3 in duals, 2-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

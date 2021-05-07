@@ -5,17 +5,6 @@ Friday, May 7 at 4:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></a></td></tr><tr>
 <td>  
 
-<h2>#3 <a href="#">Xavier</a></h2>  
-&nbsp; ITA: 55 (3.75)<br>  
-&nbsp; Slam: 49 (80.67)<br>  
-&nbsp; TRN: 50 (71.88)<br>  
-&nbsp; Massey: 50 (5.60)<br>  
-&nbsp; UTR: 64 (24.06)<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#2 <a href="#">Northwestern</a></h2>  
 &#10004; ITA: 21 (39.92)<br>  
 &#10004; Slam: 18 (90.46)<br>  
@@ -24,6 +13,17 @@ Friday, May 7 at 4:00 EDT
 &#10004; UTR: 33 (60.43)<br>  
 &#10004; USTA Poll: 16<br>  
 &#10004; Coaches Poll: 19<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#3 <a href="#">Xavier</a></h2>  
+&nbsp; ITA: 55 (3.75)<br>  
+&nbsp; Slam: 49 (80.67)<br>  
+&nbsp; TRN: 50 (71.88)<br>  
+&nbsp; Massey: 50 (5.60)<br>  
+&nbsp; UTR: 64 (24.06)<br>  
 <br>  
 
 </td>
@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Ahmeir Kyle (NW) - 10-3 at #1, 10-3 in duals, 10-3 overall<br>Maria Shusharina (XAV) - 5-12 at #1, 7-12 in duals, 9-13 overall</summary>
+<summary markdown="span">Maria Shusharina (NW) - 5-12 at #1, 7-12 in duals, 9-13 overall<br>Ahmeir Kyle (XAV) - 10-3 at #1, 10-3 in duals, 10-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Shusharina (85%) def. Kyle (15%)</li>  
 <li>TRN: <b><i>NW</i></b> - Shusharina (84%) def. Kyle (16%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kat Lyman (NW) - 10-1 at #2, 13-3 in duals, 13-3 overall<br>Clarissa Hand (XAV) - 0-2 at #2, 14-6 in duals, 14-9 overall</summary>
+<summary markdown="span">Clarissa Hand (NW) - 0-2 at #2, 14-6 in duals, 14-9 overall<br>Kat Lyman (XAV) - 10-1 at #2, 13-3 in duals, 13-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Hand (84%) def. Lyman (16%)</li>  
 <li>TRN: <b><i>NW</i></b> - Hand (84%) def. Lyman (16%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Anna Roggenburk (NW) - 7-2 at #3, 15-3 in duals, 15-3 overall<br>Julie Byrne (XAV) - 4-0 at #3, 9-8 in duals, 11-9 overall</summary>
+<summary markdown="span">Julie Byrne (NW) - 4-0 at #3, 9-8 in duals, 11-9 overall<br>Anna Roggenburk (XAV) - 7-2 at #3, 15-3 in duals, 15-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Byrne (89%) def. Roggenburk (11%)</li>  
 <li>TRN: <b><i>NW</i></b> - Byrne (84%) def. Roggenburk (16%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Imani Graham (NW) - 8-4 at #4, 16-4 in duals, 16-4 overall<br>Briana Crowley (XAV) - 16-3 at #4, 16-5 in duals, 17-7 overall</summary>
+<summary markdown="span">Briana Crowley (NW) - 16-3 at #4, 16-5 in duals, 17-7 overall<br>Imani Graham (XAV) - 8-4 at #4, 16-4 in duals, 16-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Crowley (93%) def. Graham (7%)</li>  
 <li>TRN: <b><i>NW</i></b> - Crowley (92%) def. Graham (8%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kaitlin Ruether (NW) - 2-6 at #5, 6-12 in duals, 6-12 overall<br>Caroline Pozo (XAV) - 11-6 at #5, 12-7 in duals, 12-8 overall</summary>
+<summary markdown="span">Caroline Pozo (NW) - 11-6 at #5, 12-7 in duals, 12-8 overall<br>Kaitlin Ruether (XAV) - 2-6 at #5, 6-12 in duals, 6-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Pozo (98%) def. Ruether (2%)</li>  
 <li>TRN: <b><i>NW</i></b> - Pozo (99%) def. Ruether (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Emily Thomas (NW) - 2-0 at #6, 8-4 in duals, 8-4 overall<br>Christina Hand (XAV) - 13-1 at #6, 13-1 in duals, 13-4 overall</summary>
+<summary markdown="span">Christina Hand (NW) - 13-1 at #6, 13-1 in duals, 13-4 overall<br>Emily Thomas (XAV) - 2-0 at #6, 8-4 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Hand (95%) def. Thomas (5%)</li>  
 <li>TRN: <b><i>NW</i></b> - Hand (96%) def. Thomas (4%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Kyle/Thomas (NW) - 9-8 at #1, 9-8 in duals, 9-8 overall<br>Byrne/Crowley (XAV) - 7-2 at #1, 7-2 in duals, 7-2 overall</summary>
+<summary markdown="span">Byrne/Crowley (NW) - 7-2 at #1, 7-2 in duals, 7-2 overall<br>Kyle/Thomas (XAV) - 9-8 at #1, 9-8 in duals, 9-8 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Roggenburk/Graham (NW) - 3-1 at #2, 10-2 in duals, 10-2 overall<br>Hand/Hand (XAV) - 4-3 at #2, 4-3 in duals, 4-3 overall</summary>
+<summary markdown="span">Hand/Hand (NW) - 4-3 at #2, 4-3 in duals, 4-3 overall<br>Roggenburk/Graham (XAV) - 3-1 at #2, 10-2 in duals, 10-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ruether/Lyman (NW) - 2-0 at #3, 7-3 in duals, 7-3 overall<br>McColgan/Pozo (XAV) - 5-2 at #3, 5-2 in duals, 5-2 overall</summary>
+<summary markdown="span">McColgan/Pozo (NW) - 5-2 at #3, 5-2 in duals, 5-2 overall<br>Ruether/Lyman (XAV) - 2-0 at #3, 7-3 in duals, 7-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

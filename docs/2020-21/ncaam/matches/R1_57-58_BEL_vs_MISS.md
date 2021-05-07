@@ -5,17 +5,6 @@ Saturday, May 8 at 4:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" /></a></td></tr><tr>
 <td>  
 
-<h2>#4 <a href="#">Belmont</a></h2>  
-&nbsp; ITA: 56 (4.48)<br>  
-&nbsp; Slam: 57 (83.10)<br>  
-&nbsp; TRN: 58 (79.14)<br>  
-&nbsp; Massey: 57 (5.77)<br>  
-&nbsp; UTR: 57 (70.99)<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#1 <a href="#">Ole Miss</a></h2>  
 &#10004; ITA: 14 (44.94)<br>  
 &#10004; Slam: 18 (95.00)<br>  
@@ -24,6 +13,17 @@ Saturday, May 8 at 4:00 EDT
 &#10004; UTR: 25 (77.70)<br>  
 &#10004; USTA Poll: 21<br>  
 &#10004; Coaches Poll: 16<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#4 <a href="#">Belmont</a></h2>  
+&nbsp; ITA: 56 (4.48)<br>  
+&nbsp; Slam: 57 (83.10)<br>  
+&nbsp; TRN: 58 (79.14)<br>  
+&nbsp; Massey: 57 (5.77)<br>  
+&nbsp; UTR: 57 (70.99)<br>  
 <br>  
 
 </td>
@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Marko Ilic (MISS) - 13-4 at #1, 13-4 in duals, 13-4 overall<br>Tim Sandkaulen (BEL) - 1-7 at #1, 8-12 in duals, 13-16 overall</summary>
+<summary markdown="span">Tim Sandkaulen (MISS) - 1-7 at #1, 8-12 in duals, 13-16 overall<br>Marko Ilic (BEL) - 13-4 at #1, 13-4 in duals, 13-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Sandkaulen (79%) def. Ilic (21%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Sandkaulen (91%) def. Ilic (9%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Arthur Toledo (MISS) - 13-3 at #2, 13-3 in duals, 13-3 overall<br>Finn Reynolds (BEL) - 6-1 at #2, 10-10 in duals, 10-10 overall</summary>
+<summary markdown="span">Finn Reynolds (MISS) - 6-1 at #2, 10-10 in duals, 10-10 overall<br>Arthur Toledo (BEL) - 13-3 at #2, 13-3 in duals, 13-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Reynolds (97%) def. Toledo (3%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Reynolds (98%) def. Toledo (2%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Tomas Luis (MISS) - 7-5 at #3, 10-7 in duals, 10-7 overall<br>Nikola Slavic (BEL) - 12-7 at #3, 13-7 in duals, 13-7 overall</summary>
+<summary markdown="span">Nikola Slavic (MISS) - 12-7 at #3, 13-7 in duals, 13-7 overall<br>Tomas Luis (BEL) - 7-5 at #3, 10-7 in duals, 10-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Slavic (99%) def. Luis (1%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Slavic (99%) def. Luis (1%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Diego Castro (MISS) - 6-4 at #4, 10-6 in duals, 10-6 overall<br>John Hallquist Lithen (BEL) - 5-6 at #4, 12-7 in duals, 12-7 overall</summary>
+<summary markdown="span">John Hallquist Lithen (MISS) - 5-6 at #4, 12-7 in duals, 12-7 overall<br>Diego Castro (BEL) - 6-4 at #4, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Lithen (98%) def. Castro (2%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Lithen (99%) def. Castro (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Taisei Miyamoto (MISS) - 5-3 at #5, 8-7 in duals, 8-7 overall<br>Simon Junk (BEL) - 2-6 at #5, 9-11 in duals, 9-14 overall</summary>
+<summary markdown="span">Simon Junk (MISS) - 2-6 at #5, 9-11 in duals, 9-14 overall<br>Taisei Miyamoto (BEL) - 5-3 at #5, 8-7 in duals, 8-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Junk (97%) def. Miyamoto (3%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Junk (98%) def. Miyamoto (2%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alfred Wallin (MISS) - 9-4 at #6, 11-4 in duals, 11-4 overall<br>Lukas Engelhardt (BEL) - 3-4 at #6, 3-7 in duals, 3-7 overall</summary>
+<summary markdown="span">Lukas Engelhardt (MISS) - 3-4 at #6, 3-7 in duals, 3-7 overall<br>Alfred Wallin (BEL) - 9-4 at #6, 11-4 in duals, 11-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Engelhardt (98%) def. Wallin (2%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Engelhardt (98%) def. Wallin (2%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Ilic/Miyamoto (MISS) - 11-6 at #1, 11-6 in duals, 11-6 overall<br>Sandkaulen/Reynolds (BEL) - 14-2 at #1, 14-2 in duals, 14-2 overall</summary>
+<summary markdown="span">Sandkaulen/Reynolds (MISS) - 14-2 at #1, 14-2 in duals, 14-2 overall<br>Ilic/Miyamoto (BEL) - 11-6 at #1, 11-6 in duals, 11-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Castro/Luis (MISS) - 11-2 at #2, 11-2 in duals, 11-2 overall<br>Draheim/Junk (BEL) - 8-7 at #2, 11-9 in duals, 11-9 overall</summary>
+<summary markdown="span">Draheim/Junk (MISS) - 8-7 at #2, 11-9 in duals, 11-9 overall<br>Castro/Luis (BEL) - 11-2 at #2, 11-2 in duals, 11-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Briggs/Toledo (MISS) - 8-3 at #3, 8-3 in duals, 8-3 overall<br>Cadonau/Engelhardt (BEL) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
+<summary markdown="span">Cadonau/Engelhardt (MISS) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Briggs/Toledo (BEL) - 8-3 at #3, 8-3 in duals, 8-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

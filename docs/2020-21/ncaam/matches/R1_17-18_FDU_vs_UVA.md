@@ -5,17 +5,6 @@ Saturday, May 8 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></a></td></tr><tr>
 <td>  
 
-<h2>#4 <a href="#">Fairleigh Dickinson</a></h2>  
-&nbsp; ITA: 62 (1.95)<br>  
-&nbsp; Slam: 65 (72.33)<br>  
-&nbsp; TRN: 65 (65.17)<br>  
-&nbsp; Massey: 64 (3.98)<br>  
-&nbsp; UTR: 64 (65.74)<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#1 <a href="#">Virginia</a></h2>  
 &#10004; ITA: 4 (74.36)<br>  
 &#10004; Slam: 1 (100.00)<br>  
@@ -24,6 +13,17 @@ Saturday, May 8 at 1:00 EDT
 &#10004; UTR: 6 (80.03)<br>  
 &#10004; USTA Poll: 1<br>  
 &#10004; Coaches Poll: 5<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#4 <a href="#">Fairleigh Dickinson</a></h2>  
+&nbsp; ITA: 62 (1.95)<br>  
+&nbsp; Slam: 65 (72.33)<br>  
+&nbsp; TRN: 65 (65.17)<br>  
+&nbsp; Massey: 64 (3.98)<br>  
+&nbsp; UTR: 64 (65.74)<br>  
 <br>  
 
 </td>
@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Teodors Pukse (UVA) - 4-3 at #1, 4-3 in duals, 4-3 overall<br>Carl Soderlund (FDU) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
+<summary markdown="span">Carl Soderlund (UVA) - 12-2 at #1, 12-2 in duals, 12-2 overall<br>Teodors Pukse (FDU) - 4-3 at #1, 4-3 in duals, 4-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>TRN: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Andris Gudins (UVA) - 2-3 at #2, 4-5 in duals, 4-5 overall<br>Jeffrey von der Schulenburg (FDU) - 7-2 at #2, 16-4 in duals, 16-4 overall</summary>
+<summary markdown="span">Jeffrey von der Schulenburg (UVA) - 7-2 at #2, 16-4 in duals, 16-4 overall<br>Andris Gudins (FDU) - 2-3 at #2, 4-5 in duals, 4-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">MacIej Autuch (UVA) - 1-1 at #3, 5-4 in duals, 5-4 overall<br>Chris Rodesch (FDU) - 6-2 at #3, 14-6 in duals, 14-6 overall</summary>
+<summary markdown="span">Chris Rodesch (UVA) - 6-2 at #3, 14-6 in duals, 14-6 overall<br>MacIej Autuch (FDU) - 1-1 at #3, 5-4 in duals, 5-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Arjun Sriram (UVA) - 0-0 at #4, 1-1 in duals, 1-1 overall<br>Inaki Montes de la Torre (FDU) - 6-0 at #4, 15-4 in duals, 15-4 overall</summary>
+<summary markdown="span">Inaki Montes de la Torre (UVA) - 6-0 at #4, 15-4 in duals, 15-4 overall<br>Arjun Sriram (FDU) - 0-0 at #4, 1-1 in duals, 1-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Torre (100%) def. Sriram (0%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Torre (100%) def. Sriram (0%)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Moric Budinszky (UVA) - 0-1 at #5, 2-4 in duals, 2-4 overall<br>Ryan Goetz (FDU) - 7-1 at #5, 16-5 in duals, 16-5 overall</summary>
+<summary markdown="span">Ryan Goetz (UVA) - 7-1 at #5, 16-5 in duals, 16-5 overall<br>Moric Budinszky (FDU) - 0-1 at #5, 2-4 in duals, 2-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Youssef Sader (UVA) - 2-0 at #6, 5-4 in duals, 5-4 overall<br>Gianni Ross (FDU) - 7-3 at #6, 11-3 in duals, 11-3 overall</summary>
+<summary markdown="span">Gianni Ross (UVA) - 7-3 at #6, 11-3 in duals, 11-3 overall<br>Youssef Sader (FDU) - 2-0 at #6, 5-4 in duals, 5-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
@@ -116,15 +116,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Pukse/Gudins (UVA) - 2-2 at #1, 3-2 in duals, 3-2 overall<br>Soderlund/Woodall (FDU) - 9-8 at #1, 9-8 in duals, 9-8 overall</summary>
+<summary markdown="span">Soderlund/Woodall (UVA) - 9-8 at #1, 9-8 in duals, 9-8 overall<br>Pukse/Gudins (FDU) - 2-2 at #1, 3-2 in duals, 3-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Budinszky/Sriram (UVA) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Goetz/Rodesch (FDU) - 10-5 at #2, 10-5 in duals, 10-5 overall</summary>
+<summary markdown="span">Goetz/Rodesch (UVA) - 10-5 at #2, 10-5 in duals, 10-5 overall<br>Budinszky/Sriram (FDU) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Pietsch/Cabral (UVA) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>von der Schulenburg/de la Torre (FDU) - 12-3 at #3, 15-4 in duals, 15-4 overall</summary>
+<summary markdown="span">von der Schulenburg/de la Torre (UVA) - 12-3 at #3, 15-4 in duals, 15-4 overall<br>Pietsch/Cabral (FDU) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

@@ -5,17 +5,6 @@ Saturday, May 8 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></a></td></tr><tr>
 <td>  
 
-<h2>#4 <a href="#">Alabama A&M</a></h2>  
-&nbsp; ITA: 63 (1.60)<br>  
-&nbsp; Slam: 64 (76.01)<br>  
-&nbsp; TRN: 64 (72.43)<br>  
-&nbsp; Massey: 65 (3.71)<br>  
-&nbsp; UTR: 65 (63.25)<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#1 <a href="#">Tennessee</a></h2>  
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.18)<br>  
@@ -24,6 +13,17 @@ Saturday, May 8 at 1:00 EDT
 &#10004; UTR: 4 (80.17)<br>  
 &#10004; USTA Poll: 4<br>  
 &#10004; Coaches Poll: 3<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#4 <a href="#">Alabama A&M</a></h2>  
+&nbsp; ITA: 63 (1.60)<br>  
+&nbsp; Slam: 64 (76.01)<br>  
+&nbsp; TRN: 64 (72.43)<br>  
+&nbsp; Massey: 65 (3.71)<br>  
+&nbsp; UTR: 65 (63.25)<br>  
 <br>  
 
 </td>
@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Rodrigo Arana Rios (TENN) - 1-10 at #1, 1-10 in duals, 1-10 overall<br>Adam Walton (AAMU) - 8-7 at #1, 10-8 in duals, 16-10 overall</summary>
+<summary markdown="span">Adam Walton (TENN) - 8-7 at #1, 10-8 in duals, 16-10 overall<br>Rodrigo Arana Rios (AAMU) - 1-10 at #1, 1-10 in duals, 1-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Gjorgji Popovski (TENN) - 6-6 at #2, 6-6 in duals, 6-6 overall<br>Johannus Monday (AAMU) - 17-3 at #2, 22-4 in duals, 31-6 overall</summary>
+<summary markdown="span">Johannus Monday (TENN) - 17-3 at #2, 22-4 in duals, 31-6 overall<br>Gjorgji Popovski (AAMU) - 6-6 at #2, 6-6 in duals, 6-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Fermin Ruiz (TENN) - 0-9 at #3, 0-12 in duals, 0-12 overall<br>Martim Prata (AAMU) - 11-8 at #3, 15-8 in duals, 22-12 overall</summary>
+<summary markdown="span">Martim Prata (TENN) - 11-8 at #3, 15-8 in duals, 22-12 overall<br>Fermin Ruiz (AAMU) - 0-9 at #3, 0-12 in duals, 0-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Prata (100%) def. Ruiz (0%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Prata (100%) def. Ruiz (0%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Natiphat Mulada (TENN) - 5-2 at #4, 5-4 in duals, 5-4 overall<br>Luca Wiedenmann (AAMU) - 8-2 at #4, 20-3 in duals, 30-4 overall</summary>
+<summary markdown="span">Luca Wiedenmann (TENN) - 8-2 at #4, 20-3 in duals, 30-4 overall<br>Natiphat Mulada (AAMU) - 5-2 at #4, 5-4 in duals, 5-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Panji Setiawan (TENN) - 4-4 at #5, 4-7 in duals, 4-7 overall<br>Giles Hussey (AAMU) - 9-0 at #5, 18-3 in duals, 29-4 overall</summary>
+<summary markdown="span">Giles Hussey (TENN) - 9-0 at #5, 18-3 in duals, 29-4 overall<br>Panji Setiawan (AAMU) - 4-4 at #5, 4-7 in duals, 4-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Divesh Gahlot (TENN) - 3-0 at #6, 3-0 in duals, 3-0 overall<br>Pat Harper (AAMU) - 5-3 at #6, 5-4 in duals, 12-5 overall</summary>
+<summary markdown="span">Pat Harper (TENN) - 5-3 at #6, 5-4 in duals, 12-5 overall<br>Divesh Gahlot (AAMU) - 3-0 at #6, 3-0 in duals, 3-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Harper (100%) def. Gahlot (0%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Harper (100%) def. Gahlot (0%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Setiawan/Rios (TENN) - 3-7 at #1, 3-7 in duals, 3-7 overall<br>Walton/Harper (AAMU) - 15-6 at #1, 15-6 in duals, 22-7 overall</summary>
+<summary markdown="span">Walton/Harper (TENN) - 15-6 at #1, 15-6 in duals, 22-7 overall<br>Setiawan/Rios (AAMU) - 3-7 at #1, 3-7 in duals, 3-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Popovski/Chang (TENN) - 0-0 at #2, 3-7 in duals, 3-7 overall<br>Monday/Prata (AAMU) - 12-7 at #2, 16-7 in duals, 17-8 overall</summary>
+<summary markdown="span">Monday/Prata (TENN) - 12-7 at #2, 16-7 in duals, 17-8 overall<br>Popovski/Chang (AAMU) - 0-0 at #2, 3-7 in duals, 3-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Gahlot/Ruiz (TENN) - 0-0 at #3, 1-1 in duals, 1-1 overall<br>Wallner/Hussey (AAMU) - 14-5 at #3, 15-5 in duals, 15-5 overall</summary>
+<summary markdown="span">Wallner/Hussey (TENN) - 14-5 at #3, 15-5 in duals, 15-5 overall<br>Gahlot/Ruiz (AAMU) - 0-0 at #3, 1-1 in duals, 1-1 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

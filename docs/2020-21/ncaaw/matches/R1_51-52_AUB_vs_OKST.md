@@ -5,6 +5,18 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a></td></tr><tr>
 <td>  
 
+<h2>#3 <a href="#">Oklahoma St.</a></h2>  
+&nbsp; ITA: 37 (20.71)<br>  
+&nbsp; Slam: 37 (87.45)<br>  
+&nbsp; TRN: 37 (79.03)<br>  
+&nbsp; Massey: 36 (7.02)<br>  
+&#10004; UTR: 17 (61.98)<br>  
+&nbsp; Coaches Poll: 37<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#2 <a href="#">Auburn</a></h2>  
 &#10004; ITA: 20 (41.17)<br>  
 &#10004; Slam: 24 (89.44)<br>  
@@ -13,18 +25,6 @@ Friday, May 7 at 1:00 EDT
 &nbsp; UTR: 30 (60.99)<br>  
 &#10004; USTA Poll: 25<br>  
 &#10004; Coaches Poll: 22<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#3 <a href="#">Oklahoma St.</a></h2>  
-&nbsp; ITA: 37 (20.71)<br>  
-&nbsp; Slam: 37 (87.45)<br>  
-&nbsp; TRN: 37 (79.03)<br>  
-&nbsp; Massey: 36 (7.02)<br>  
-&#10004; UTR: 17 (61.98)<br>  
-&nbsp; Coaches Poll: 37<br>  
 <br>  
 
 </td>
@@ -53,7 +53,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Selin Ovunc (OKST) - 8-9 at #1, 8-9 in duals, 13-10 overall<br>Bunyawi Thamchaiwat (AUB) - 9-2 at #1, 12-2 in duals, 20-4 overall</summary>
+<summary markdown="span">Bunyawi Thamchaiwat (OKST) - 9-2 at #1, 12-2 in duals, 20-4 overall<br>Selin Ovunc (AUB) - 8-9 at #1, 8-9 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Thamchaiwat (74%) def. Ovunc (26%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Thamchaiwat (82%) def. Ovunc (18%)</li>  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Carolyn Ansari (OKST) - 1-0 at #2, 12-3 in duals, 14-10 overall<br>Ayumi Miyamoto (AUB) - 3-2 at #2, 11-5 in duals, 21-9 overall</summary>
+<summary markdown="span">Ayumi Miyamoto (OKST) - 3-2 at #2, 11-5 in duals, 21-9 overall<br>Carolyn Ansari (AUB) - 1-0 at #2, 12-3 in duals, 14-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AUB</i></b> - Ansari (52%) def. Miyamoto (48%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Miyamoto (51%) def. Ansari (49%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Yu Chen (OKST) - 0-2 at #3, 5-11 in duals, 12-13 overall<br>Alana Wolfberg (AUB) - 3-2 at #3, 7-8 in duals, 17-10 overall</summary>
+<summary markdown="span">Alana Wolfberg (OKST) - 3-2 at #3, 7-8 in duals, 17-10 overall<br>Yu Chen (AUB) - 0-2 at #3, 5-11 in duals, 12-13 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Wolfberg (64%) def. Chen (36%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Wolfberg (66%) def. Chen (34%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Georgie Axon (OKST) - 15-3 at #4, 16-3 in duals, 22-6 overall<br>Dariya Detkovskaya (AUB) - 5-6 at #4, 9-6 in duals, 17-8 overall</summary>
+<summary markdown="span">Dariya Detkovskaya (OKST) - 5-6 at #4, 9-6 in duals, 17-8 overall<br>Georgie Axon (AUB) - 15-3 at #4, 16-3 in duals, 22-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AUB</i></b> - Axon (59%) def. Detkovskaya (41%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Axon (66%) def. Detkovskaya (34%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Adeline Flach (OKST) - 4-5 at #5, 11-7 in duals, 14-10 overall<br>Lenka Stara (AUB) - 7-6 at #5, 10-8 in duals, 17-14 overall</summary>
+<summary markdown="span">Lenka Stara (OKST) - 7-6 at #5, 10-8 in duals, 17-14 overall<br>Adeline Flach (AUB) - 4-5 at #5, 11-7 in duals, 14-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Stara (65%) def. Flach (35%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Stara (61%) def. Flach (39%)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Anastasia Astakhova (OKST) - 2-5 at #6, 2-5 in duals, 2-5 overall<br>Daniella Medvedeva (AUB) - 3-7 at #6, 4-9 in duals, 10-12 overall</summary>
+<summary markdown="span">Daniella Medvedeva (OKST) - 3-7 at #6, 4-9 in duals, 10-12 overall<br>Anastasia Astakhova (AUB) - 2-5 at #6, 2-5 in duals, 2-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Medvedeva (60%) def. Astakhova (40%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Astakhova (59%) def. Medvedeva (41%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Axon/Flach (OKST) - 2-4 at #1, 10-8 in duals, 14-10 overall<br>Wolfberg/Stara (AUB) - 3-2 at #1, 7-6 in duals, 7-6 overall</summary>
+<summary markdown="span">Wolfberg/Stara (OKST) - 3-2 at #1, 7-6 in duals, 7-6 overall<br>Axon/Flach (AUB) - 2-4 at #1, 10-8 in duals, 14-10 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ovunc/Ansari (OKST) - 3-4 at #2, 3-4 in duals, 4-6 overall<br>Miyamoto/Detkovskaya (AUB) - 2-0 at #2, 2-0 in duals, 2-0 overall</summary>
+<summary markdown="span">Miyamoto/Detkovskaya (OKST) - 2-0 at #2, 2-0 in duals, 2-0 overall<br>Ovunc/Ansari (AUB) - 3-4 at #2, 3-4 in duals, 4-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Chen/Astakhova (OKST) - 4-3 at #3, 4-3 in duals, 4-3 overall<br>Thamchaiwat/Medvedeva (AUB) - 3-1 at #3, 3-1 in duals, 3-1 overall</summary>
+<summary markdown="span">Thamchaiwat/Medvedeva (OKST) - 3-1 at #3, 3-1 in duals, 3-1 overall<br>Chen/Astakhova (AUB) - 4-3 at #3, 4-3 in duals, 4-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

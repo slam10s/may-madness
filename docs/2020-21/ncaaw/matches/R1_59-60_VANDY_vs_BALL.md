@@ -5,6 +5,17 @@ Friday, May 7 at 11:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></a></td></tr><tr>
 <td>  
 
+<h2>#3 <a href="#">Ball St.</a></h2>  
+&nbsp; ITA: 51 (4.35)<br>  
+&nbsp; Slam: 52 (79.30)<br>  
+&nbsp; TRN: 52 (70.33)<br>  
+&nbsp; Massey: 53 (5.40)<br>  
+&nbsp; UTR: 51 (54.58)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#2 <a href="#">Vanderbilt</a></h2>  
 &#10004; ITA: 27 (35.19)<br>  
 &#10004; Slam: 29 (88.87)<br>  
@@ -12,17 +23,6 @@ Friday, May 7 at 11:00 EDT
 &#10004; Massey: 31 (7.33)<br>  
 &#10004; UTR: 28 (61.39)<br>  
 &#10004; Coaches Poll: 28<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#3 <a href="#">Ball St.</a></h2>  
-&nbsp; ITA: 51 (4.35)<br>  
-&nbsp; Slam: 52 (79.30)<br>  
-&nbsp; TRN: 52 (70.33)<br>  
-&nbsp; Massey: 53 (5.40)<br>  
-&nbsp; UTR: 51 (54.58)<br>  
 <br>  
 
 </td>
@@ -50,7 +50,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Christina Rosca (BALL) - 3-5 at #1, 13-5 in duals, 13-5 overall<br>Emma Peeler (VANDY) - 10-10 at #1, 10-10 in duals, 10-10 overall</summary>
+<summary markdown="span">Emma Peeler (BALL) - 10-10 at #1, 10-10 in duals, 10-10 overall<br>Christina Rosca (VANDY) - 3-5 at #1, 13-5 in duals, 13-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Rosca (93%) def. Peeler (7%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Rosca (99%) def. Peeler (1%)</li>  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Emma Kurtz (BALL) - 6-5 at #2, 8-10 in duals, 11-16 overall<br>Jessica Braun (VANDY) - 6-5 at #2, 13-7 in duals, 13-7 overall</summary>
+<summary markdown="span">Jessica Braun (BALL) - 6-5 at #2, 13-7 in duals, 13-7 overall<br>Emma Kurtz (VANDY) - 6-5 at #2, 8-10 in duals, 11-16 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Kurtz (95%) def. Braun (5%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Kurtz (96%) def. Braun (4%)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Anessa Lee (BALL) - 3-1 at #3, 11-5 in duals, 16-8 overall<br>Mariya Polishchuk (VANDY) - 8-1 at #3, 14-6 in duals, 14-6 overall</summary>
+<summary markdown="span">Mariya Polishchuk (BALL) - 8-1 at #3, 14-6 in duals, 14-6 overall<br>Anessa Lee (VANDY) - 3-1 at #3, 11-5 in duals, 16-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Lee (93%) def. Polishchuk (7%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Lee (96%) def. Polishchuk (4%)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Anna Ross (BALL) - 0-1 at #4, 8-9 in duals, 8-10 overall<br>Rebecca Herrington (VANDY) - 7-2 at #4, 14-6 in duals, 14-6 overall</summary>
+<summary markdown="span">Rebecca Herrington (BALL) - 7-2 at #4, 14-6 in duals, 14-6 overall<br>Anna Ross (VANDY) - 0-1 at #4, 8-9 in duals, 8-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Ross (99%) def. Herrington (1%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Ross (99%) def. Herrington (1%)</li>  
@@ -90,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Marcella Cruz (BALL) - 4-2 at #5, 13-4 in duals, 16-9 overall<br>Amy Kaplan (VANDY) - 4-2 at #5, 12-7 in duals, 12-7 overall</summary>
+<summary markdown="span">Amy Kaplan (BALL) - 4-2 at #5, 12-7 in duals, 12-7 overall<br>Marcella Cruz (VANDY) - 4-2 at #5, 13-4 in duals, 16-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Cruz (98%) def. Kaplan (2%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Cruz (99%) def. Kaplan (1%)</li>  
@@ -100,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Holly Staff (BALL) - 0-0 at #6, 9-9 in duals, 14-12 overall<br>Livia Lukacs (VANDY) - 6-2 at #6, 8-3 in duals, 8-3 overall</summary>
+<summary markdown="span">Livia Lukacs (BALL) - 6-2 at #6, 8-3 in duals, 8-3 overall<br>Holly Staff (VANDY) - 0-0 at #6, 9-9 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Staff (100%) def. Lukacs (0%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Staff (100%) def. Lukacs (0%)</li>  
@@ -115,15 +115,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Ross/Staff (BALL) - 9-8 at #1, 10-8 in duals, 10-8 overall<br>Kaplan/Peeler (VANDY) - 9-3 at #1, 9-4 in duals, 9-3 overall</summary>
+<summary markdown="span">Kaplan/Peeler (BALL) - 9-3 at #1, 9-4 in duals, 9-3 overall<br>Ross/Staff (VANDY) - 9-8 at #1, 10-8 in duals, 10-8 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kurtz/Cruz (BALL) - 11-6 at #2, 11-6 in duals, 11-6 overall<br>Braun/Polishchuk (VANDY) - 0-0 at #2, 2-0 in duals, 2-0 overall</summary>
+<summary markdown="span">Braun/Polishchuk (BALL) - 0-0 at #2, 2-0 in duals, 2-0 overall<br>Kurtz/Cruz (VANDY) - 11-6 at #2, 11-6 in duals, 11-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Rosca/Lee (BALL) - 11-4 at #3, 12-4 in duals, 12-4 overall<br>Sec/Lukacs (VANDY) - 6-0 at #3, 11-0 in duals, 11-0 overall</summary>
+<summary markdown="span">Sec/Lukacs (BALL) - 6-0 at #3, 11-0 in duals, 11-0 overall<br>Rosca/Lee (VANDY) - 11-4 at #3, 12-4 in duals, 12-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
