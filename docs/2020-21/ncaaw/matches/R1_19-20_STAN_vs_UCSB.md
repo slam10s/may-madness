@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Elizaveta Volodko (STAN) - 9-4 at #1, 9-4 in duals, 9-4 overall<br>Michaela Gordon (UCSB) - 9-6 at #1, 9-6 in duals, 9-6 overall</summary>
+<summary markdown="span">Michaela Gordon (STAN) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>Elizaveta Volodko (UCSB) - 9-4 at #1, 9-4 in duals, 9-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Gordon (77%) def. Volodko (23%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Gordon (77%) def. Volodko (23%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Camille Kiss (STAN) - 10-4 at #2, 10-4 in duals, 10-4 overall<br>Angelica Blake (UCSB) - 2-1 at #2, 7-2 in duals, 7-2 overall</summary>
+<summary markdown="span">Angelica Blake (STAN) - 2-1 at #2, 7-2 in duals, 7-2 overall<br>Camille Kiss (UCSB) - 10-4 at #2, 10-4 in duals, 10-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Blake (76%) def. Kiss (24%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Blake (88%) def. Kiss (12%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Shakhnoza Khatamova (STAN) - 15-2 at #3, 15-2 in duals, 15-2 overall<br>Emily Arbuthnott (UCSB) - 1-3 at #3, 8-7 in duals, 8-7 overall</summary>
+<summary markdown="span">Emily Arbuthnott (STAN) - 1-3 at #3, 8-7 in duals, 8-7 overall<br>Shakhnoza Khatamova (UCSB) - 15-2 at #3, 15-2 in duals, 15-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Arbuthnott (57%) def. Khatamova (43%)</li>  
 <li>TRN: <b><i>UCSB</i></b> - Khatamova (72%) def. Arbuthnott (28%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lise Sentenac (STAN) - 6-4 at #4, 6-7 in duals, 6-7 overall<br>Ana Geller (UCSB) - 1-3 at #4, 7-3 in duals, 7-3 overall</summary>
+<summary markdown="span">Ana Geller (STAN) - 1-3 at #4, 7-3 in duals, 7-3 overall<br>Lise Sentenac (UCSB) - 6-4 at #4, 6-7 in duals, 6-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Geller (99%) def. Sentenac (1%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Geller (99%) def. Sentenac (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kira Reuter (STAN) - 5-5 at #5, 5-7 in duals, 5-7 overall<br>Sara Choy (UCSB) - 3-2 at #5, 13-4 in duals, 13-4 overall</summary>
+<summary markdown="span">Sara Choy (STAN) - 3-2 at #5, 13-4 in duals, 13-4 overall<br>Kira Reuter (UCSB) - 5-5 at #5, 5-7 in duals, 5-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Choy (99%) def. Reuter (1%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Choy (100%) def. Reuter (0%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Marta Gonzalez Ballbe (STAN) - 6-3 at #6, 7-4 in duals, 7-4 overall<br>Emma Higuchi (UCSB) - 10-3 at #6, 14-3 in duals, 14-3 overall</summary>
+<summary markdown="span">Emma Higuchi (STAN) - 10-3 at #6, 14-3 in duals, 14-3 overall<br>Marta Gonzalez Ballbe (UCSB) - 6-3 at #6, 7-4 in duals, 7-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Higuchi (98%) def. Ballbe (2%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Higuchi (99%) def. Ballbe (1%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Volodko/Sentenac (STAN) - 6-6 at #1, 6-6 in duals, 6-6 overall<br>Gordon/Madurawe (UCSB) - 9-5 at #1, 9-5 in duals, 9-5 overall</summary>
+<summary markdown="span">Gordon/Madurawe (STAN) - 9-5 at #1, 9-5 in duals, 9-5 overall<br>Volodko/Sentenac (UCSB) - 6-6 at #1, 6-6 in duals, 6-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Reuter/Khatamova (STAN) - 8-3 at #2, 8-3 in duals, 8-3 overall<br>Arbuthnott/Blake (UCSB) - 6-2 at #2, 6-2 in duals, 6-2 overall</summary>
+<summary markdown="span">Arbuthnott/Blake (STAN) - 6-2 at #2, 6-2 in duals, 6-2 overall<br>Reuter/Khatamova (UCSB) - 8-3 at #2, 8-3 in duals, 8-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kiss/Ballbe (STAN) - 10-2 at #3, 10-2 in duals, 10-2 overall<br>Choy/Higuchi (UCSB) - 7-2 at #3, 7-2 in duals, 7-2 overall</summary>
+<summary markdown="span">Choy/Higuchi (STAN) - 7-2 at #3, 7-2 in duals, 7-2 overall<br>Kiss/Ballbe (UCSB) - 10-2 at #3, 10-2 in duals, 10-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

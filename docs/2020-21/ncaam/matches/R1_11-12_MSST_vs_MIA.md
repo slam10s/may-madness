@@ -53,7 +53,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Adria Soriano Barrera (MSST) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>Giovanni Oradini (MIA) - 11-7 at #1, 11-10 in duals, 17-14 overall</summary>
+<summary markdown="span">Giovanni Oradini (MSST) - 11-7 at #1, 11-10 in duals, 17-14 overall<br>Adria Soriano Barrera (MIA) - 9-6 at #1, 9-6 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Barrera (53%) def. Oradini (47%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Barrera (56%) def. Oradini (44%)</li>  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Bojan Jankulovski (MSST) - 5-4 at #2, 9-5 in duals, 9-5 overall<br>Florian Broska (MIA) - 10-5 at #2, 14-8 in duals, 20-12 overall</summary>
+<summary markdown="span">Florian Broska (MSST) - 10-5 at #2, 14-8 in duals, 20-12 overall<br>Bojan Jankulovski (MIA) - 5-4 at #2, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Broska (69%) def. Jankulovski (31%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Broska (64%) def. Jankulovski (36%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Benjamin Hannestad (MSST) - 5-5 at #3, 6-10 in duals, 6-10 overall<br>Nemanja Malesevic (MIA) - 9-5 at #3, 15-7 in duals, 20-11 overall</summary>
+<summary markdown="span">Nemanja Malesevic (MSST) - 9-5 at #3, 15-7 in duals, 20-11 overall<br>Benjamin Hannestad (MIA) - 5-5 at #3, 6-10 in duals, 6-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Malesevic (73%) def. Hannestad (27%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Malesevic (78%) def. Hannestad (22%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Stefan Milicevic (MSST) - 4-7 at #4, 5-10 in duals, 5-10 overall<br>Alberto Colas (MIA) - 6-7 at #4, 14-8 in duals, 4-6 overall</summary>
+<summary markdown="span">Alberto Colas (MSST) - 6-7 at #4, 14-8 in duals, 4-6 overall<br>Stefan Milicevic (MIA) - 4-7 at #4, 5-10 in duals, 5-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Colas (83%) def. Milicevic (17%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Colas (87%) def. Milicevic (13%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Oren Vasser (MSST) - 3-1 at #5, 9-6 in duals, 9-6 overall<br>Carles Hernandez (MIA) - 9-8 at #5, 14-8 in duals, 14-8 overall</summary>
+<summary markdown="span">Carles Hernandez (MSST) - 9-8 at #5, 14-8 in duals, 14-8 overall<br>Oren Vasser (MIA) - 3-1 at #5, 9-6 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Hernandez (79%) def. Vasser (21%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Hernandez (80%) def. Vasser (20%)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Franco Aubone (MSST) - 1-4 at #6, 7-10 in duals, 7-10 overall<br>Davide Tortora (MIA) - 7-3 at #6, 7-3 in duals, 13-7 overall</summary>
+<summary markdown="span">Davide Tortora (MSST) - 7-3 at #6, 7-3 in duals, 13-7 overall<br>Franco Aubone (MIA) - 1-4 at #6, 7-10 in duals, 7-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Tortora (78%) def. Aubone (22%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Tortora (90%) def. Aubone (10%)</li>  
@@ -118,15 +118,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Hannestad/Aubone (MSST) - 7-8 at #1, 7-8 in duals, 7-8 overall<br>Broska/Ramskogler (MIA) - 7-5 at #1, 11-6 in duals, 11-6 overall</summary>
+<summary markdown="span">Broska/Ramskogler (MSST) - 7-5 at #1, 11-6 in duals, 11-6 overall<br>Hannestad/Aubone (MIA) - 7-8 at #1, 7-8 in duals, 7-8 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Barrera/Vasser (MSST) - 2-2 at #2, 2-2 in duals, 2-2 overall<br>Malesevic/Tortora (MIA) - 3-3 at #2, 6-4 in duals, 9-7 overall</summary>
+<summary markdown="span">Malesevic/Tortora (MSST) - 3-3 at #2, 6-4 in duals, 9-7 overall<br>Barrera/Vasser (MIA) - 2-2 at #2, 2-2 in duals, 2-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jankulovski/Milicevic (MSST) - 4-3 at #3, 4-3 in duals, 4-3 overall<br>Ocana/Oradini (MIA) - 2-2 at #3, 2-2 in duals, 2-2 overall</summary>
+<summary markdown="span">Ocana/Oradini (MSST) - 2-2 at #3, 2-2 in duals, 2-2 overall<br>Jankulovski/Milicevic (MIA) - 4-3 at #3, 4-3 in duals, 4-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

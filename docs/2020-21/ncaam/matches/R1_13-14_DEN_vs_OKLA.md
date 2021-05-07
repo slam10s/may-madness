@@ -51,7 +51,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Jake Van Emburgh (DEN) - 4-9 at #1, 8-10 in duals, 8-13 overall<br>James Davis (OKLA) - 4-1 at #1, 14-2 in duals, 14-2 overall</summary>
+<summary markdown="span">James Davis (DEN) - 4-1 at #1, 14-2 in duals, 14-2 overall<br>Jake Van Emburgh (OKLA) - 4-9 at #1, 8-10 in duals, 8-13 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Emburgh (57%) def. Davis (43%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Emburgh (53%) def. Davis (47%)</li>  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mason Beiler (DEN) - 7-4 at #2, 11-8 in duals, 16-13 overall<br>Mattia Ros (OKLA) - 4-1 at #2, 8-8 in duals, 8-8 overall</summary>
+<summary markdown="span">Mattia Ros (DEN) - 4-1 at #2, 8-8 in duals, 8-8 overall<br>Mason Beiler (OKLA) - 7-4 at #2, 11-8 in duals, 16-13 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Beiler (80%) def. Ros (20%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Beiler (93%) def. Ros (7%)</li>  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alex Martinez (DEN) - 6-2 at #3, 12-7 in duals, 15-13 overall<br>Matt Summers (OKLA) - 9-1 at #3, 10-6 in duals, 10-6 overall</summary>
+<summary markdown="span">Matt Summers (DEN) - 9-1 at #3, 10-6 in duals, 10-6 overall<br>Alex Martinez (OKLA) - 6-2 at #3, 12-7 in duals, 15-13 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Martinez (71%) def. Summers (29%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Martinez (83%) def. Summers (17%)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nathan Han (DEN) - 2-6 at #4, 7-7 in duals, 13-11 overall<br>Peter Sallay (OKLA) - 12-4 at #4, 12-4 in duals, 12-4 overall</summary>
+<summary markdown="span">Peter Sallay (DEN) - 12-4 at #4, 12-4 in duals, 12-4 overall<br>Nathan Han (OKLA) - 2-6 at #4, 7-7 in duals, 13-11 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Han (80%) def. Sallay (20%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Han (87%) def. Sallay (13%)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Justin Schlageter (DEN) - 3-5 at #5, 6-6 in duals, 10-12 overall<br>Nicolas Herrero Cuesta (OKLA) - 10-1 at #5, 14-1 in duals, 14-1 overall</summary>
+<summary markdown="span">Nicolas Herrero Cuesta (DEN) - 10-1 at #5, 14-1 in duals, 14-1 overall<br>Justin Schlageter (OKLA) - 3-5 at #5, 6-6 in duals, 10-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Schlageter (72%) def. Cuesta (28%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Schlageter (65%) def. Cuesta (35%)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mark Mandlik (DEN) - 1-1 at #6, 6-14 in duals, 6-14 overall<br>Ignacio Rivero Crespo (OKLA) - 8-1 at #6, 9-1 in duals, 9-1 overall</summary>
+<summary markdown="span">Ignacio Rivero Crespo (DEN) - 8-1 at #6, 9-1 in duals, 9-1 overall<br>Mark Mandlik (OKLA) - 1-1 at #6, 6-14 in duals, 6-14 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKLA</i></b> - Mandlik (91%) def. Crespo (9%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Mandlik (78%) def. Crespo (22%)</li>  
@@ -116,15 +116,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Mandlik/Stewart (DEN) - 0-1 at #1, 2-3 in duals, 2-3 overall<br>Summers/Davis (OKLA) - 14-5 at #1, 14-5 in duals, 14-5 overall</summary>
+<summary markdown="span">Summers/Davis (DEN) - 14-5 at #1, 14-5 in duals, 14-5 overall<br>Mandlik/Stewart (OKLA) - 0-1 at #1, 2-3 in duals, 2-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Van Emburgh/Martinez (DEN) - 0-1 at #2, 0-1 in duals, 0-1 overall<br>Ros/Sallay (OKLA) - 7-6 at #2, 7-6 in duals, 7-6 overall</summary>
+<summary markdown="span">Ros/Sallay (DEN) - 7-6 at #2, 7-6 in duals, 7-6 overall<br>Van Emburgh/Martinez (OKLA) - 0-1 at #2, 0-1 in duals, 0-1 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Han/Beiler (DEN) - 1-0 at #3, 1-0 in duals, 1-0 overall<br>Cuesta/Crespo (OKLA) - 10-4 at #3, 10-4 in duals, 10-4 overall</summary>
+<summary markdown="span">Cuesta/Crespo (DEN) - 10-4 at #3, 10-4 in duals, 10-4 overall<br>Han/Beiler (OKLA) - 1-0 at #3, 1-0 in duals, 1-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

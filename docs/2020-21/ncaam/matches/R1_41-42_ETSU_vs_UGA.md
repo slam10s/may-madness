@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Trent Bryde (ETSU) - 9-10 at #1, 9-10 in duals, 14-13 overall<br>Dimitri Badra (UGA) - 11-3 at #1, 14-5 in duals, 14-5 overall</summary>
+<summary markdown="span">Dimitri Badra (ETSU) - 11-3 at #1, 14-5 in duals, 14-5 overall<br>Trent Bryde (UGA) - 9-10 at #1, 9-10 in duals, 14-13 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Bryde (85%) def. Badra (15%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Bryde (79%) def. Badra (21%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Tyler Zink (ETSU) - 6-5 at #2, 9-5 in duals, 11-9 overall<br>Frazier Rengifo (UGA) - 10-4 at #2, 11-7 in duals, 11-7 overall</summary>
+<summary markdown="span">Frazier Rengifo (ETSU) - 10-4 at #2, 11-7 in duals, 11-7 overall<br>Tyler Zink (UGA) - 6-5 at #2, 9-5 in duals, 11-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Zink (90%) def. Rengifo (10%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Zink (93%) def. Rengifo (7%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Philip Henning (ETSU) - 11-4 at #3, 13-6 in duals, 18-10 overall<br>Juan Lugo (UGA) - 5-1 at #3, 9-5 in duals, 9-5 overall</summary>
+<summary markdown="span">Juan Lugo (ETSU) - 5-1 at #3, 9-5 in duals, 9-5 overall<br>Philip Henning (UGA) - 11-4 at #3, 13-6 in duals, 18-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Henning (96%) def. Lugo (4%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Henning (97%) def. Lugo (3%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Blake Croyder (ETSU) - 10-2 at #4, 11-5 in duals, 15-12 overall<br>Thiago Pernas (UGA) - 7-2 at #4, 10-8 in duals, 10-8 overall</summary>
+<summary markdown="span">Thiago Pernas (ETSU) - 7-2 at #4, 10-8 in duals, 10-8 overall<br>Blake Croyder (UGA) - 10-2 at #4, 11-5 in duals, 15-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Croyder (93%) def. Pernas (7%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Croyder (96%) def. Pernas (4%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Billy Rowe (ETSU) - 8-4 at #5, 12-7 in duals, 16-10 overall<br>MIguel Este (UGA) - 1-1 at #5, 8-5 in duals, 8-5 overall</summary>
+<summary markdown="span">MIguel Este (ETSU) - 1-1 at #5, 8-5 in duals, 8-5 overall<br>Billy Rowe (UGA) - 8-4 at #5, 12-7 in duals, 16-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Rowe (98%) def. Este (2%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Rowe (99%) def. Este (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Erik Grevelius (ETSU) - 7-3 at #6, 9-4 in duals, 15-8 overall<br>Juan Zabala (UGA) - 2-1 at #6, 6-4 in duals, 6-4 overall</summary>
+<summary markdown="span">Juan Zabala (ETSU) - 2-1 at #6, 6-4 in duals, 6-4 overall<br>Erik Grevelius (UGA) - 7-3 at #6, 9-4 in duals, 15-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Grevelius (96%) def. Zabala (4%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Grevelius (97%) def. Zabala (3%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Bryde/Zink (ETSU) - 8-4 at #1, 8-4 in duals, 13-6 overall<br>Lugo/Rengifo (UGA) - 8-5 at #1, 8-5 in duals, 8-5 overall</summary>
+<summary markdown="span">Lugo/Rengifo (ETSU) - 8-5 at #1, 8-5 in duals, 8-5 overall<br>Bryde/Zink (UGA) - 8-4 at #1, 8-4 in duals, 13-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Croyder/Rowe (ETSU) - 7-5 at #2, 8-5 in duals, 10-5 overall<br>Este/Badra (UGA) - 4-0 at #2, 12-1 in duals, 12-1 overall</summary>
+<summary markdown="span">Este/Badra (ETSU) - 4-0 at #2, 12-1 in duals, 12-1 overall<br>Croyder/Rowe (UGA) - 7-5 at #2, 8-5 in duals, 10-5 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Henning/Grevelius (ETSU) - 9-5 at #3, 10-5 in duals, 10-7 overall<br>Zabala/Pernas (UGA) - 4-2 at #3, 8-4 in duals, 8-4 overall</summary>
+<summary markdown="span">Zabala/Pernas (ETSU) - 4-2 at #3, 8-4 in duals, 8-4 overall<br>Henning/Grevelius (UGA) - 9-5 at #3, 10-5 in duals, 10-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

@@ -53,7 +53,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">John McNally (VCU) - 10-2 at #1, 16-4 in duals, 21-4 overall<br>Lleyton Cronje (OSU) - 10-2 at #1, 12-3 in duals, 12-3 overall</summary>
+<summary markdown="span">Lleyton Cronje (VCU) - 10-2 at #1, 12-3 in duals, 12-3 overall<br>John McNally (OSU) - 10-2 at #1, 16-4 in duals, 21-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - McNally (89%) def. Cronje (11%)</li>  
 <li>TRN: <b><i>OSU</i></b> - McNally (90%) def. Cronje (10%)</li>  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Cannon Kingsley (VCU) - 12-0 at #2, 21-0 in duals, 27-0 overall<br>Charles Bertimon (OSU) - 9-3 at #2, 11-4 in duals, 11-4 overall</summary>
+<summary markdown="span">Charles Bertimon (VCU) - 9-3 at #2, 11-4 in duals, 11-4 overall<br>Cannon Kingsley (OSU) - 12-0 at #2, 21-0 in duals, 27-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Kingsley (95%) def. Bertimon (5%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Kingsley (97%) def. Bertimon (3%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">James Trotter (VCU) - 13-1 at #3, 13-1 in duals, 13-1 overall<br>Inigo Torre (OSU) - 7-2 at #3, 10-3 in duals, 10-3 overall</summary>
+<summary markdown="span">Inigo Torre (VCU) - 7-2 at #3, 10-3 in duals, 10-3 overall<br>James Trotter (OSU) - 13-1 at #3, 13-1 in duals, 13-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Trotter (91%) def. Torre (9%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Trotter (92%) def. Torre (8%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Justin Boulais (VCU) - 5-1 at #4, 7-1 in duals, 7-1 overall<br>Rayane Stable (OSU) - 5-0 at #4, 15-2 in duals, 15-2 overall</summary>
+<summary markdown="span">Rayane Stable (VCU) - 5-0 at #4, 15-2 in duals, 15-2 overall<br>Justin Boulais (OSU) - 5-1 at #4, 7-1 in duals, 7-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Boulais (85%) def. Stable (15%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Boulais (73%) def. Stable (27%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kyle Seelig (VCU) - 3-0 at #5, 15-4 in duals, 18-8 overall<br>Quentin Coulaud (OSU) - 1-2 at #5, 10-6 in duals, 10-6 overall</summary>
+<summary markdown="span">Quentin Coulaud (VCU) - 1-2 at #5, 10-6 in duals, 10-6 overall<br>Kyle Seelig (OSU) - 3-0 at #5, 15-4 in duals, 18-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Seelig (87%) def. Coulaud (13%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Seelig (90%) def. Coulaud (10%)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">JJ Tracy (VCU) - 6-0 at #6, 21-1 in duals, 24-3 overall<br>Timo Zgraggen (OSU) - 6-0 at #6, 9-1 in duals, 9-1 overall</summary>
+<summary markdown="span">Timo Zgraggen (VCU) - 6-0 at #6, 9-1 in duals, 9-1 overall<br>JJ Tracy (OSU) - 6-0 at #6, 21-1 in duals, 24-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Tracy (94%) def. Zgraggen (6%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Tracy (97%) def. Zgraggen (3%)</li>  
@@ -118,15 +118,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Trotter/Boulais (VCU) - 3-2 at #1, 7-3 in duals, 7-3 overall<br>Cronje/Cierny (OSU) - 2-1 at #1, 2-2 in duals, 2-2 overall</summary>
+<summary markdown="span">Cronje/Cierny (VCU) - 2-1 at #1, 2-2 in duals, 2-2 overall<br>Trotter/Boulais (OSU) - 3-2 at #1, 7-3 in duals, 7-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">McNally/Cash (VCU) - 6-1 at #2, 13-4 in duals, 14-5 overall<br>Martin/Stable (OSU) - 11-1 at #2, 11-2 in duals, 11-2 overall</summary>
+<summary markdown="span">Martin/Stable (VCU) - 11-1 at #2, 11-2 in duals, 11-2 overall<br>McNally/Cash (OSU) - 6-1 at #2, 13-4 in duals, 14-5 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kingsley/Seelig (VCU) - 1-2 at #3, 2-5 in duals, 5-6 overall<br>Coulaud/Bertimon (OSU) - 5-2 at #3, 11-7 in duals, 11-7 overall</summary>
+<summary markdown="span">Coulaud/Bertimon (VCU) - 5-2 at #3, 11-7 in duals, 11-7 overall<br>Kingsley/Seelig (OSU) - 1-2 at #3, 2-5 in duals, 5-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
