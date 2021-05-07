@@ -35,6 +35,9 @@ Gainesville, Florida
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+### USC def. Oklahoma 4-3
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

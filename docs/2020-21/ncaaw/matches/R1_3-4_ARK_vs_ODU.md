@@ -35,6 +35,9 @@ Chapel Hill, North Carolina
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+### Old Dominion def. Arkansas 4-2
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
