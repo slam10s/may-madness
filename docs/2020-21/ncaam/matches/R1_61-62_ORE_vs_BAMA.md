@@ -8,7 +8,7 @@ Waco, Texas
 <td>  
 
 <h2>#3 Oregon</h2>  
-(16-6)  
+(16-6)<br>  
 &nbsp; ITA: 36 (23.55)<br>  
 &nbsp; Slam: 44 (91.52)<br>  
 &nbsp; TRN: 41 (89.70)<br>  
@@ -22,7 +22,7 @@ Waco, Texas
 <td>  
 
 <h2>#2 Alabama</h2>  
-(14-11)  
+(14-11)<br>  
 &#10004; ITA: 26 (30.96)<br>  
 &#10004; Slam: 28 (93.06)<br>  
 &#10004; TRN: 27 (91.27)<br>  

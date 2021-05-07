@@ -8,7 +8,7 @@ Waco, Texas
 <td>  
 
 <h2>#4 A&M-Corpus Christi</h2>  
-(19-4)  
+(19-4)<br>  
 &nbsp; ITA: 60 (2.97)<br>  
 &nbsp; Slam: 60 (82.18)<br>  
 &nbsp; TRN: 61 (76.91)<br>  
@@ -20,7 +20,7 @@ Waco, Texas
 <td>  
 
 <h2>#1 Baylor</h2>  
-(29-4)  
+(29-4)<br>  
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 5 (99.05)<br>  
 &#10004; TRN: 6 (98.67)<br>  

@@ -8,7 +8,7 @@ Tallahassee, Florida
 <td>  
 
 <h2>#4 Alabama St.</h2>  
-(9-6)  
+(9-6)<br>  
 &nbsp; ITA: 61 (2.29)<br>  
 &nbsp; Slam: 63 (69.75)<br>  
 &nbsp; TRN: 62 (58.32)<br>  
@@ -20,7 +20,7 @@ Tallahassee, Florida
 <td>  
 
 <h2>#1 Florida St.</h2>  
-(16-5)  
+(16-5)<br>  
 &#10004; ITA: 7 (55.15)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  

@@ -8,7 +8,7 @@ Berkeley, California
 <td>  
 
 <h2>#3 Syracuse</h2>  
-(8-11)  
+(8-11)<br>  
 &nbsp; ITA: 43 (15.84)<br>  
 &nbsp; Slam: 43 (86.54)<br>  
 &nbsp; TRN: 43 (78.55)<br>  
@@ -21,7 +21,7 @@ Berkeley, California
 <td>  
 
 <h2>#2 Kentucky</h2>  
-(15-8)  
+(15-8)<br>  
 &#10004; ITA: 26 (37.41)<br>  
 &#10004; Slam: 25 (89.36)<br>  
 &#10004; TRN: 27 (81.49)<br>  

@@ -8,7 +8,7 @@ Winston-Salem, North Carolina
 <td>  
 
 <h2>#4 South Carolina St.</h2>  
-(7-5)  
+(7-5)<br>  
 &nbsp; ITA: 65 (0.72)<br>  
 &nbsp; Slam: 63 (81.19)<br>  
 &nbsp; TRN: 63 (76.54)<br>  
@@ -20,7 +20,7 @@ Winston-Salem, North Carolina
 <td>  
 
 <h2>#1 Wake Forest</h2>  
-(28-6)  
+(28-6)<br>  
 &#10004; ITA: 9 (56.82)<br>  
 &#10004; Slam: 10 (97.17)<br>  
 &#10004; TRN: 10 (95.99)<br>  

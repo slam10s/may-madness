@@ -8,7 +8,7 @@ Columbia, South Carolina
 <td>  
 
 <h2>#3 FGCU</h2>  
-(8-6)  
+(8-6)<br>  
 &nbsp; ITA: 47 (8.38)<br>  
 &nbsp; Slam: 49 (87.66)<br>  
 &nbsp; TRN: 50 (85.24)<br>  
@@ -20,7 +20,7 @@ Columbia, South Carolina
 <td>  
 
 <h2>#2 NC State</h2>  
-(11-8)  
+(11-8)<br>  
 &#10004; ITA: 23 (32.39)<br>  
 &#10004; Slam: 19 (94.44)<br>  
 &#10004; TRN: 22 (92.30)<br>  

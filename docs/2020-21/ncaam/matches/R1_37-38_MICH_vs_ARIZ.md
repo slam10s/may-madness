@@ -8,7 +8,7 @@ Lexington, Kentucky
 <td>  
 
 <h2>#3 Michigan</h2>  
-(15-5)  
+(15-5)<br>  
 &nbsp; ITA: 46 (15.17)<br>  
 &#10004; Slam: 13 (96.42)<br>  
 &#10004; TRN: 12 (95.88)<br>  
@@ -22,7 +22,7 @@ Lexington, Kentucky
 <td>  
 
 <h2>#2 Arizona</h2>  
-(20-7)  
+(20-7)<br>  
 &#10004; ITA: 17 (38.97)<br>  
 &nbsp; Slam: 21 (94.26)<br>  
 &nbsp; TRN: 20 (92.43)<br>  

@@ -8,7 +8,7 @@ Columbus, Ohio
 <td>  
 
 <h2>#3 Ball St.</h2>  
-(22-4)  
+(22-4)<br>  
 &nbsp; ITA: 51 (4.35)<br>  
 &nbsp; Slam: 52 (79.30)<br>  
 &nbsp; TRN: 52 (70.33)<br>  
@@ -20,7 +20,7 @@ Columbus, Ohio
 <td>  
 
 <h2>#2 Vanderbilt</h2>  
-(14-9)  
+(14-9)<br>  
 &#10004; ITA: 27 (35.19)<br>  
 &#10004; Slam: 29 (88.87)<br>  
 &#10004; TRN: 30 (81.13)<br>  

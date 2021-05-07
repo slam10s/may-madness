@@ -8,7 +8,7 @@ Tallahassee, Florida
 <td>  
 
 <h2>#3 Oklahoma St.</h2>  
-(11-11)  
+(11-11)<br>  
 &nbsp; ITA: 37 (20.71)<br>  
 &nbsp; Slam: 37 (87.45)<br>  
 &nbsp; TRN: 37 (79.03)<br>  
@@ -21,7 +21,7 @@ Tallahassee, Florida
 <td>  
 
 <h2>#2 Auburn</h2>  
-(13-8)  
+(13-8)<br>  
 &#10004; ITA: 20 (41.17)<br>  
 &#10004; Slam: 24 (89.44)<br>  
 &#10004; TRN: 23 (81.74)<br>  

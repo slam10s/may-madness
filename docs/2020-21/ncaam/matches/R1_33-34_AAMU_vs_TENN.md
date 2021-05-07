@@ -8,7 +8,7 @@ Knoxville, Tennessee
 <td>  
 
 <h2>#4 Alabama A&M</h2>  
-(6-6)  
+(6-6)<br>  
 &nbsp; ITA: 63 (1.60)<br>  
 &nbsp; Slam: 64 (76.01)<br>  
 &nbsp; TRN: 64 (72.43)<br>  
@@ -20,7 +20,7 @@ Knoxville, Tennessee
 <td>  
 
 <h2>#1 Tennessee</h2>  
-(24-3)  
+(24-3)<br>  
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.18)<br>  
 &#10004; TRN: 5 (98.72)<br>  

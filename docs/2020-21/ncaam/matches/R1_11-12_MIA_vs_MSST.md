@@ -8,7 +8,7 @@ Orlando, Florida
 <td>  
 
 <h2>#3 Miami (FL)</h2>  
-(8-10)  
+(8-10)<br>  
 &nbsp; ITA: 39 (19.34)<br>  
 &nbsp; Slam: 37 (92.19)<br>  
 &nbsp; TRN: 43 (89.49)<br>  
@@ -21,7 +21,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Mississippi St.</h2>  
-(16-9)  
+(16-9)<br>  
 &#10004; ITA: 16 (41.29)<br>  
 &#10004; Slam: 20 (94.39)<br>  
 &#10004; TRN: 19 (92.98)<br>  

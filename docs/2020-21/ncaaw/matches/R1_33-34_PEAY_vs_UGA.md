@@ -8,7 +8,7 @@ Athens, Georgia
 <td>  
 
 <h2>#4 Austin Peay</h2>  
-(12-3)  
+(12-3)<br>  
 &nbsp; ITA: 57 (3.35)<br>  
 &nbsp; Slam: 56 (77.22)<br>  
 &nbsp; TRN: 56 (67.26)<br>  
@@ -20,7 +20,7 @@ Athens, Georgia
 <td>  
 
 <h2>#1 Georgia</h2>  
-(20-1)  
+(20-1)<br>  
 &#10004; ITA: 3 (74.01)<br>  
 &#10004; Slam: 3 (97.81)<br>  
 &#10004; TRN: 3 (94.01)<br>  
