@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## [Alabama St. vs #7 Florida St.](https://www.ncaa.com/game/5833671) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">Alabama St.</a></h2>  
 &nbsp; ITA: 61 (2.29)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 4:00 EDT
 &nbsp; UTR: 61 (46.66)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">Florida St.</a></h2>  
 &#10004; ITA: 7 (55.15)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 4:00 EDT
 &#10004; Coaches Poll: 7<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

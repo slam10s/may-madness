@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## [Oklahoma vs Southern California](https://www.ncaa.com/game/5833668) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#2 <a href="#">Oklahoma</a></h2>  
 &#10004; ITA: 23 (39.04)<br>  
@@ -16,8 +15,8 @@ Friday, May 7 at 10:00 EDT
 &#10004; Coaches Poll: 24<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#3 <a href="#">Southern California</a></h2>  
 &nbsp; ITA: 35 (23.17)<br>  
@@ -28,8 +27,8 @@ Friday, May 7 at 10:00 EDT
 &nbsp; Coaches Poll: 34<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

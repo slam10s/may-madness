@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [UNCW vs #13 South Carolina](https://www.ncaa.com/game/5833382) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">UNCW</a></h2>  
 &nbsp; ITA: 51 (7.93)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 1:00 EDT
 &nbsp; UTR: 48 (74.00)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">South Carolina</a></h2>  
 &#10004; ITA: 13 (50.95)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 1:00 EDT
 &#10004; Coaches Poll: 13<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

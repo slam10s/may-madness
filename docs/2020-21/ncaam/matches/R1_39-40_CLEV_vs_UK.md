@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Cleveland St. vs #14 Kentucky](https://www.ncaa.com/game/5833389) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">Cleveland St.</a></h2>  
 &nbsp; ITA: 57 (4.43)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 1:00 EDT
 &nbsp; UTR: 54 (71.52)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">Kentucky</a></h2>  
 &#10004; ITA: 15 (44.70)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 1:00 EDT
 &#10004; Coaches Poll: 15<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

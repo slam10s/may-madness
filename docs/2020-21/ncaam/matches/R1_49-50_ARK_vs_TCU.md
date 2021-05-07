@@ -2,9 +2,8 @@ First Round
 Saturday, May 8 at 3:00 EDT
 ## [Arkansas vs #7 TCU](https://www.ncaa.com/game/5833394) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">Arkansas</a></h2>  
 &nbsp; ITA: 43 (18.30)<br>  
@@ -15,8 +14,8 @@ Saturday, May 8 at 3:00 EDT
 &nbsp; Coaches Poll: 40<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">TCU</a></h2>  
 &#10004; ITA: 7 (69.22)<br>  
@@ -28,8 +27,8 @@ Saturday, May 8 at 3:00 EDT
 &#10004; Coaches Poll: 7<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

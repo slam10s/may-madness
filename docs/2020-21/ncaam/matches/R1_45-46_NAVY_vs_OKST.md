@@ -2,9 +2,8 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## [Navy vs Oklahoma St.](https://www.ncaa.com/game/5833392) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#3 <a href="#">Navy</a></h2>  
 &nbsp; ITA: 48 (8.28)<br>  
@@ -14,8 +13,8 @@ Saturday, May 8 at 10:00 EDT
 &nbsp; UTR: 58 (70.91)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#2 <a href="#">Oklahoma St.</a></h2>  
 &#10004; ITA: 19 (35.31)<br>  
@@ -27,8 +26,8 @@ Saturday, May 8 at 10:00 EDT
 &#10004; Coaches Poll: 21<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

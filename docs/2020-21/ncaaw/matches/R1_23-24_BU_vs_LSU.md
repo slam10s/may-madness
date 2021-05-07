@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 2:00 EDT
 ## [Boston U. vs #12 LSU](https://www.ncaa.com/game/5833658) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">Boston U.</a></h2>  
 &nbsp; ITA: 50 (5.16)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 2:00 EDT
 &nbsp; UTR: 49 (55.50)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">LSU</a></h2>  
 &#10004; ITA: 12 (48.73)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 2:00 EDT
 &#10004; Coaches Poll: 14<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

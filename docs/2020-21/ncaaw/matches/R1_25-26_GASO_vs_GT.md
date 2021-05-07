@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 2:00 EDT
 ## [Ga. Southern vs #13 Georgia Tech](https://www.ncaa.com/game/5833659) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">Ga. Southern</a></h2>  
 &nbsp; ITA: 53 (4.08)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 2:00 EDT
 &nbsp; UTR: 53 (54.43)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">Georgia Tech</a></h2>  
 &#10004; ITA: 13 (48.32)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 2:00 EDT
 &nbsp; Coaches Poll: T11<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

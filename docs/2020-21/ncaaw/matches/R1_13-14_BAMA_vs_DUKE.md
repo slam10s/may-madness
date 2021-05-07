@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## [Alabama vs Duke](https://www.ncaa.com/game/5833653) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#3 <a href="#">Alabama</a></h2>  
 &nbsp; ITA: 42 (16.54)<br>  
@@ -15,8 +14,8 @@ Friday, May 7 at 3:00 EDT
 &nbsp; Coaches Poll: 43<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#2 <a href="#">Duke</a></h2>  
 &#10004; ITA: 17 (43.03)<br>  
@@ -28,8 +27,8 @@ Friday, May 7 at 3:00 EDT
 &#10004; Coaches Poll: 20<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

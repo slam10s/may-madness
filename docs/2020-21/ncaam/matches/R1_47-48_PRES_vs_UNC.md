@@ -2,9 +2,8 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## [Presbyterian vs #6 North Carolina](https://www.ncaa.com/game/5833393) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">Presbyterian</a></h2>  
 &nbsp; ITA: 59 (3.97)<br>  
@@ -14,8 +13,8 @@ Saturday, May 8 at 1:00 EDT
 &nbsp; UTR: 61 (70.28)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">North Carolina</a></h2>  
 &#10004; ITA: 6 (72.02)<br>  
@@ -27,8 +26,8 @@ Saturday, May 8 at 1:00 EDT
 &#10004; Coaches Poll: 6<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

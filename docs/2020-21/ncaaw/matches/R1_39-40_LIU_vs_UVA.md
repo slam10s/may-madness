@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## [LIU vs #14 Virginia](https://www.ncaa.com/game/5833666) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">LIU</a></h2>  
 &nbsp; ITA: 52 (4.20)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 3:00 EDT
 &nbsp; UTR: 60 (49.85)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">Virginia</a></h2>  
 &#10004; ITA: 14 (47.67)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 3:00 EDT
 &nbsp; Coaches Poll: T11<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

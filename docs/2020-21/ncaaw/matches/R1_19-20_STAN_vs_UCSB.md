@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Stanford vs UC Santa Barbara](https://www.ncaa.com/game/5833656) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#2 <a href="#">Stanford</a></h2>  
 &#10004; ITA: 28 (35.11)<br>  
@@ -16,8 +15,8 @@ Friday, May 7 at 1:00 EDT
 &#10004; Coaches Poll: 26<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#3 <a href="#">UC Santa Barbara</a></h2>  
 &nbsp; ITA: 44 (14.68)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 1:00 EDT
 &nbsp; UTR: 46 (57.03)<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

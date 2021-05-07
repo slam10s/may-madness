@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Drake vs #10 Texas A&M](https://www.ncaa.com/game/5833674) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">Drake</a></h2>  
 &nbsp; ITA: 63 (1.98)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 1:00 EDT
 &nbsp; UTR: 59 (50.87)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">Texas A&M</a></h2>  
 &#10004; ITA: 10 (50.15)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 1:00 EDT
 &#10004; Coaches Poll: 10<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

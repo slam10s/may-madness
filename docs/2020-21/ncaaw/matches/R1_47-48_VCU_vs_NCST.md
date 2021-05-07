@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## [VCU vs #6 NC State](https://www.ncaa.com/game/5833670) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">VCU</a></h2>  
 &nbsp; ITA: 49 (6.76)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 3:00 EDT
 &nbsp; UTR: 48 (55.75)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">NC State</a></h2>  
 &#10004; ITA: 6 (55.66)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 3:00 EDT
 &#10004; Coaches Poll: 6<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

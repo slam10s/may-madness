@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 6:00 EDT
 ## [A&M-Corpus Christi vs #8 Baylor](https://www.ncaa.com/game/5833654) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">A&M-Corpus Christi</a></h2>  
 &nbsp; ITA: 56 (3.61)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 6:00 EDT
 &nbsp; UTR: 52 (54.53)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">Baylor</a></h2>  
 &#10004; ITA: 8 (52.73)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 6:00 EDT
 &#10004; Coaches Poll: 8<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

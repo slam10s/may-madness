@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 12:00 EDT
 ## [Iowa St. vs South Carolina](https://www.ncaa.com/game/5833669) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#3 <a href="#">Iowa St.</a></h2>  
 &nbsp; ITA: 36 (22.35)<br>  
@@ -15,8 +14,8 @@ Friday, May 7 at 12:00 EDT
 &nbsp; Coaches Poll: 36<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#2 <a href="#">South Carolina</a></h2>  
 &#10004; ITA: 22 (39.21)<br>  
@@ -28,8 +27,8 @@ Friday, May 7 at 12:00 EDT
 &#10004; Coaches Poll: 23<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

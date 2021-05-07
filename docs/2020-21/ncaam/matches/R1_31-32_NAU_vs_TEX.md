@@ -2,9 +2,8 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## [Northern Ariz. vs #4 Texas](https://www.ncaa.com/game/5833385) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">Northern Ariz.</a></h2>  
 &nbsp; ITA: 61 (2.13)<br>  
@@ -14,8 +13,8 @@ Saturday, May 8 at 1:00 EDT
 &nbsp; UTR: 59 (70.85)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">Texas</a></h2>  
 &#10004; ITA: 5 (74.24)<br>  
@@ -27,8 +26,8 @@ Saturday, May 8 at 1:00 EDT
 &#10004; Coaches Poll: 4<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

@@ -2,9 +2,8 @@ First Round
 Saturday, May 8 at 2:00 EDT
 ## [Monmouth vs #9 UCF](https://www.ncaa.com/game/5833374) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">Monmouth</a></h2>  
 &nbsp; ITA: 58 (4.41)<br>  
@@ -14,8 +13,8 @@ Saturday, May 8 at 2:00 EDT
 &nbsp; UTR: 62 (69.61)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">UCF</a></h2>  
 &#10004; ITA: 10 (54.95)<br>  
@@ -27,8 +26,8 @@ Saturday, May 8 at 2:00 EDT
 &#10004; Coaches Poll: 9<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

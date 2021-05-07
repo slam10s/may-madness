@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## [San Jose St. vs #16 California](https://www.ncaa.com/game/5833650) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">San Jose St.</a></h2>  
 &nbsp; ITA: 47 (8.04)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 4:00 EDT
 &nbsp; UTR: 50 (55.37)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">California</a></h2>  
 &#10004; ITA: 16 (45.98)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 4:00 EDT
 &#10004; Coaches Poll: 17<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

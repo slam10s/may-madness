@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 11:00 EDT
 ## [Rice vs Michigan](https://www.ncaa.com/game/5833657) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/r/rice.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/r/rice.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#3 <a href="#">Rice</a></h2>  
 &nbsp; ITA: 40 (18.25)<br>  
@@ -15,8 +14,8 @@ Friday, May 7 at 11:00 EDT
 &nbsp; Coaches Poll: 39<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#2 <a href="#">Michigan</a></h2>  
 &#10004; ITA: 19 (41.22)<br>  
@@ -28,8 +27,8 @@ Friday, May 7 at 11:00 EDT
 &#10004; Coaches Poll: 18<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  

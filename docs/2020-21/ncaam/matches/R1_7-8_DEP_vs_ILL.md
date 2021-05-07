@@ -2,9 +2,8 @@ First Round
 Friday, May 7 at 5:00 EDT
 ## [DePaul vs #16 Illinois](https://www.ncaa.com/game/5833373) 
 
-<table>  
-<tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></a></td></tr>
-<tr><td>  
+<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></a></td></tr><tr>
+<td>  
 
 <h2>#4 <a href="#">DePaul</a></h2>  
 &nbsp; ITA: 55 (5.64)<br>  
@@ -14,8 +13,8 @@ Friday, May 7 at 5:00 EDT
 &nbsp; UTR: 60 (70.67)<br>  
 <br>  
 
-</td><td>  
-<tr><td>  
+</td>
+<td>  
 
 <h2>#1 <a href="#">Illinois</a></h2>  
 &#10004; ITA: 18 (36.82)<br>  
@@ -27,8 +26,8 @@ Friday, May 7 at 5:00 EDT
 &#10004; Coaches Poll: 13<br>  
 <br>  
 
-</td><td>  
-</table>  
+</td>
+</tr></table>  
 
 
 <br>Return to [List of Matches](../index.md)  
