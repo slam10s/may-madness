@@ -9,15 +9,28 @@ Return to the [Home Page](../../index.md)
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at  5:00 EDT	[Miami (FL) vs #9 UCF](./matches/R2_9-12_MIA_vs_UCF.md) ... UCF (57%) / MIA (43%)
-## First Round
-- Fri, 5/07 at  1:00 EDT	[Oklahoma St. vs Auburn](./matches/R1_51-52_OKST_vs_AUB.md) ... AUB (64%) / OKST (36%)
-- Fri, 5/07 at 10:00 EDT	[Southern California vs Oklahoma](./matches/R1_43-44_USC_vs_OKLA.md) ... OKLA (66%) / USC (34%)
-- Fri, 5/07 at 10:00 EDT	[Furman vs Wake Forest](./matches/R1_35-36_FUR_vs_WAKE.md) ... WAKE (66%) / FUR (34%)
-## Second Round
 - Sat, 5/08 at  4:00 EDT	[Tennessee vs #14 Virginia](./matches/R2_37-40_TENN_vs_UVA.md) ... UVA (69%) / TENN (31%)
 - Sat, 5/08 at  2:00 EDT	[Michigan vs #12 LSU](./matches/R2_21-24_MICH_vs_LSU.md) ... <b>MICH (75%)</b> / LSU (25%)
 - Sat, 5/08 at  4:00 EDT	[Southern California vs #11 Florida](./matches/R2_41-44_USC_vs_FLA.md) ... FLA (81%) / USC (19%)
+
+### Heavy Favorites
+
+The favorite is expected to win at least 4 out of every 5 these teams play:
+
+- Sat, 5/08 at 12:00 EDT	[Vanderbilt vs #15 Ohio St.](./matches/R2_57-60_VANDY_vs_OSU.md) ... OSU (85%) / VANDY (15%)
+- Sat, 5/08 at  2:00 EDT	[Iowa St. vs #6 NC State](./matches/R2_45-48_ISU_vs_NCST.md) ... NCST (91%) / ISU (9%)
+- Sat, 5/08 at  2:00 EDT	[North Florida vs #13 Georgia Tech](./matches/R2_25-28_UNF_vs_GT.md) ... GT (92%) / UNF (8%)
+- Sat, 5/08 at  4:00 EDT	[Old Dominion vs #1 North Carolina](./matches/R2_1-4_ODU_vs_UNC.md) ... UNC (93%) / ODU (7%)
+- Sat, 5/08 at  4:00 EDT	[Wake Forest vs #3 Georgia](./matches/R2_33-36_WAKE_vs_UGA.md) ... UGA (93%) / WAKE (7%)
 ## First Round
+
+### Intriguing Matches
+
+The various metrics disagree on the outcome of these matches:
+
+- Fri, 5/07 at  1:00 EDT	[Oklahoma St. vs Auburn](./matches/R1_51-52_OKST_vs_AUB.md) ... AUB (64%) / OKST (36%)
+- Fri, 5/07 at 10:00 EDT	[Southern California vs Oklahoma](./matches/R1_43-44_USC_vs_OKLA.md) ... OKLA (66%) / USC (34%)
+- Fri, 5/07 at 10:00 EDT	[Furman vs Wake Forest](./matches/R1_35-36_FUR_vs_WAKE.md) ... WAKE (66%) / FUR (34%)
 
 
 The metrics agree on the winner, but not by a lot:
@@ -34,16 +47,9 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Fri, 5/07 at 11:00 EDT	[Iowa St. vs South Carolina](./matches/R1_45-46_ISU_vs_SCAR.md) ... SCAR (81%) / ISU (19%)
 - Fri, 5/07 at  1:00 EDT	[UC Santa Barbara vs Stanford](./matches/R1_19-20_UCSB_vs_STAN.md) ... STAN (84%) / UCSB (16%)
-## Second Round
-- Sat, 5/08 at 12:00 EDT	[Vanderbilt vs #15 Ohio St.](./matches/R2_57-60_VANDY_vs_OSU.md) ... OSU (85%) / VANDY (15%)
-## First Round
 - Fri, 5/07 at 11:00 EDT	[Rice vs Michigan](./matches/R1_21-22_RICE_vs_MICH.md) ... MICH (89%) / RICE (11%)
 - Fri, 5/07 at 11:00 EDT	[North Florida vs Ole Miss](./matches/R1_27-28_UNF_vs_MISS.md) ... MISS (90%) / UNF (10%)
 - Fri, 5/07 at  3:00 EDT	[Alabama vs Duke](./matches/R1_13-14_BAMA_vs_DUKE.md) ... DUKE (90%) / BAMA (10%)
-## Second Round
-- Sat, 5/08 at  2:00 EDT	[Iowa St. vs #6 NC State](./matches/R2_45-48_ISU_vs_NCST.md) ... NCST (91%) / ISU (9%)
-- Sat, 5/08 at  2:00 EDT	[North Florida vs #13 Georgia Tech](./matches/R2_25-28_UNF_vs_GT.md) ... GT (92%) / UNF (8%)
-## First Round
 - Fri, 5/07 at 12:00 EDT	[James Madison vs Tennessee](./matches/R1_37-38_JMU_vs_TENN.md) ... TENN (92%) / JMU (8%)
 - Fri, 5/07 at 11:00 EDT	[Ball St. vs Vanderbilt](./matches/R1_59-60_BALL_vs_VANDY.md) ... VANDY (93%) / BALL (7%)
 - Fri, 5/07 at  2:00 EDT	[Ga. Southern vs #13 Georgia Tech](./matches/R1_25-26_GASO_vs_GT.md) ... GT (93%) / GASO (7%)
@@ -63,8 +69,5 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Fri, 5/07 at  4:00 EDT	[Denver vs #2 Texas](./matches/R1_63-64_DEN_vs_TEX.md) ... TEX (93%) / DEN (7%)
 - Fri, 5/07 at  5:00 EDT	[Northern Ariz. vs #5 Pepperdine](./matches/R1_17-18_NAU_vs_PEPP.md) ... PEPP (93%) / NAU (7%)
 - Fri, 5/07 at  6:00 EDT	[A&M-Corpus Christi vs #8 Baylor](./matches/R1_15-16_TAMCC_vs_BAY.md) ... BAY (93%) / TAMCC (7%)
-## Second Round
-- Sat, 5/08 at  4:00 EDT	[Old Dominion vs #1 North Carolina](./matches/R2_1-4_ODU_vs_UNC.md) ... UNC (93%) / ODU (7%)
-- Sat, 5/08 at  4:00 EDT	[Wake Forest vs #3 Georgia](./matches/R2_33-36_WAKE_vs_UGA.md) ... UGA (93%) / WAKE (7%)
   
 Return to the [Home Page](../../index.md)

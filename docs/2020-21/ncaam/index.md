@@ -2,6 +2,18 @@
 
 Return to the [Home Page](../../index.md)
 
+## Second Round
+
+### Intriguing Matches
+
+The metrics agree on the winner, but not by a lot:
+
+- Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (74%) / ARIZ (26%)
+
+
+The metrics agree on the winner, but not by a lot:
+
+- Sat, 5/08 at  1:00 EDT	[NC State vs #13 South Carolina](./matches/R2_25-28_NCST_vs_SCAR.md) ... SCAR (78%) / NCST (22%)
 ## First Round
 
 ### Intriguing Matches
@@ -20,13 +32,7 @@ The metrics agree on the winner, but not by a lot:
 - Sat, 5/08 at 10:00 EDT	[Northwestern vs UCLA](./matches/R1_29-30_NW_vs_UCLA.md) ... UCLA (63%) / NW (37%)
 - Sat, 5/08 at 12:00 EDT	[Wichita St. vs Arizona St.](./matches/R1_51-52_WICH_vs_AZST.md) ... AZST (68%) / WICH (32%)
 - Fri, 5/07 at 12:00 EDT	[Denver vs Oklahoma](./matches/R1_13-14_DEN_vs_OKLA.md) ... OKLA (74%) / DEN (26%)
-## Second Round
-- Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (74%) / ARIZ (26%)
-## First Round
 - Sat, 5/08 at 10:00 EDT	[Memphis vs Georgia Tech](./matches/R1_35-36_MEM_vs_GT.md) ... GT (75%) / MEM (25%)
-## Second Round
-- Sat, 5/08 at  1:00 EDT	[NC State vs #13 South Carolina](./matches/R2_25-28_NCST_vs_SCAR.md) ... SCAR (78%) / NCST (22%)
-## First Round
 - Sat, 5/08 at  1:00 EDT	[Middle Tenn. vs Tulane](./matches/R1_59-60_MTSU_vs_TULN.md) ... TULN (79%) / MTSU (21%)
 
 ### Heavy Favorites
