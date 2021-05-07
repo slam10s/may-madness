@@ -8,10 +8,10 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Sat, 5/08 at  1:00 EDT	[Northwestern vs #10 Texas A&M](./matches/R2_53-56_NW_vs_AM.md) ... NW (51%) / A&M (49%)
+- Sat, 5/08 at  1:00 EDT	[Northwestern vs #10 Texas A&M](./matches/R2_53-56_NW_vs_AM.md) ... A&M (49%) / <b>NW (51%)</b>
 - Sat, 5/08 at  5:00 EDT	[Miami (FL) vs #9 UCF](./matches/R2_9-12_MIA_vs_UCF.md) ... UCF (57%) / MIA (43%)
 - Sat, 5/08 at  4:00 EDT	[Tennessee vs #14 Virginia](./matches/R2_37-40_TENN_vs_UVA.md) ... UVA (69%) / TENN (31%)
-- Sat, 5/08 at  2:00 EDT	[Michigan vs #12 LSU](./matches/R2_21-24_MICH_vs_LSU.md) ... MICH (75%) / LSU (25%)
+- Sat, 5/08 at  2:00 EDT	[Michigan vs #12 LSU](./matches/R2_21-24_MICH_vs_LSU.md) ... LSU (25%) / <b>MICH (75%)</b>
 - Sat, 5/08 at  4:00 EDT	[Southern California vs #11 Florida](./matches/R2_41-44_USC_vs_FLA.md) ... FLA (81%) / USC (19%)
 
 The metrics agree on the winner, but not by a lot:
@@ -24,6 +24,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Sat, 5/08 at  4:00 EDT	[Auburn vs #7 Florida St.](./matches/R2_49-52_AUB_vs_FSU.md) ... FSU (82%) / AUB (18%)
 - Sat, 5/08 at 12:00 EDT	[Vanderbilt vs #15 Ohio St.](./matches/R2_57-60_VANDY_vs_OSU.md) ... OSU (85%) / VANDY (15%)
+- Sat, 5/08 at  3:00 EDT	[Texas Tech vs #4 UCLA](./matches/R2_29-32_TTU_vs_UCLA.md) ... UCLA (90%) / TTU (10%)
 - Sat, 5/08 at  2:00 EDT	[Iowa St. vs #6 NC State](./matches/R2_45-48_ISU_vs_NCST.md) ... NCST (91%) / ISU (9%)
 - Sat, 5/08 at  2:00 EDT	[North Florida vs #13 Georgia Tech](./matches/R2_25-28_UNF_vs_GT.md) ... GT (92%) / UNF (8%)
 - Sat, 5/08 at  4:00 EDT	[Old Dominion vs #1 North Carolina](./matches/R2_1-4_ODU_vs_UNC.md) ... UNC (93%) / ODU (7%)
@@ -39,7 +40,7 @@ The various metrics disagree on the outcome of these matches:
 
 The metrics agree on the winner, but not by a lot:
 
-- Fri, 5/07 at  4:00 EDT	[San Diego vs Texas Tech](./matches/R1_29-30_USD_vs_TTU.md) ... TTU (64%) / USD (36%)
+- Fri, 5/07 at  4:00 EDT	[San Diego vs Texas Tech](./matches/R1_29-30_USD_vs_TTU.md) ... <b>TTU (4)</b> / USD (0)
 - Fri, 5/07 at 10:00 EDT	[Arkansas vs Old Dominion](./matches/R1_3-4_ARK_vs_ODU.md) ... <b>ODU (4)</b> / ARK (2)
 - Fri, 5/07 at  1:00 EDT	[Mississippi St. vs Arizona St.](./matches/R1_61-62_MSST_vs_AZST.md) ... <b>AZST (4)</b> / MSST (0)
 - Fri, 5/07 at 12:00 EDT	[FIU vs Miami (FL)](./matches/R1_11-12_FIU_vs_MIA.md) ... <b>MIA (4)</b> / FIU (0)
