@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 12:00 EDT
 ## [FIU vs Miami (FL)](https://www.ncaa.com/game/5833652) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fiu.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fiu.70.png" width="70" height="70" /></td><td style="background-color: #154734 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 FIU</h2>  

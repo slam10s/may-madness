@@ -1,10 +1,9 @@
 First Round  
 Saturday, May 8 at 12:00 EDT
+## [Wichita St. vs Arizona St.](https://www.ncaa.com/game/5833395) 
 
-## [Wichita St. vs Arizona St.](https://www.ncaa.com/game/5833395)
-
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wichita-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></td></tr><tr>
-<td>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wichita-st.70.png" width="70" height="70" /></td><td style="background-color: #8A0C3C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></td></tr><tr>
+<td>  
 
 <h2>#3 Wichita St.</h2>  
 &nbsp; ITA: 33 (25.34)<br>  
@@ -13,10 +12,10 @@ Saturday, May 8 at 12:00 EDT
 &nbsp; Massey: 41 (7.28)<br>  
 &nbsp; UTR: 39 (75.93)<br>  
 &nbsp; Coaches Poll: 32<br>  
-<br>
+<br>  
 
 </td>
-<td>
+<td>  
 
 <h2>#2 Arizona St.</h2>  
 &#10004; ITA: 20 (34.84)<br>  
@@ -26,34 +25,33 @@ Saturday, May 8 at 12:00 EDT
 &#10004; UTR: 23 (78.03)<br>  
 &#10004; USTA Poll: 19<br>  
 &#10004; Coaches Poll: 22<br>  
-<br>
+<br>  
 
 </td>
-</tr></table>
+</tr></table>  
 
-<br>Return to [List of Matches](../index.md)
 
-## Predictions
+<br>Return to [List of Matches](../index.md)  
 
-Ranks listed here are the metric's ranking within the field of 64:
+## Predictions  
 
-- Slam: **_AZST_** - #25 Arizona St. (70%) def. #39 Wichita St. (30%)
-- TRN: **_AZST_** - #25 Arizona St. (70%) def. #37 Wichita St. (30%)
-- Massey: **_AZST_** - #24 Arizona St. (75%) def. #41 Wichita St. (25%)<sup>[1](#footnote1)</sup>
-- Lineup: **_AZST_** - Arizona St. (56%) def. Wichita St. (44%)
-- Composite: **_AZST_** - Arizona St. (68%) def. Wichita St. (32%)
-- UTR: **_AZST_** - #23 Arizona St. (+2.10) def. #39 Wichita St. (-2.10)
-- ITA: **_AZST_** - #20 Arizona St. def. #33 Wichita St.
-- USTA Poll: **_AZST_** - #19 Arizona St. def. Wichita St.
-- Coaches Poll: **_AZST_** - #22 Arizona St. def. #32 Wichita St.
-- Seeding: **_AZST_** - #2 Arizona St. def. #3 Wichita St.
+Ranks listed here are the metric's ranking within the field of 64:  
+- Slam: ***AZST*** - #25 Arizona St. (70%) def. #39 Wichita St. (30%)  
+- TRN: ***AZST*** - #25 Arizona St. (70%) def. #37 Wichita St. (30%)  
+- Massey: ***AZST*** - #24 Arizona St. (75%) def. #41 Wichita St. (25%)<sup>[1](#footnote1)</sup>  
+- Lineup: ***AZST*** - Arizona St. (56%) def. Wichita St. (44%)  
+- Composite: ***AZST*** - Arizona St. (68%) def. Wichita St. (32%)  
+- UTR: ***AZST*** - #23 Arizona St. (+2.10) def. #39 Wichita St. (-2.10)  
+- ITA: ***AZST*** - #20 Arizona St. def. #33 Wichita St.  
+- USTA Poll: ***AZST*** - #19 Arizona St. def. Wichita St.  
+- Coaches Poll: ***AZST*** - #22 Arizona St. def. #32 Wichita St.  
+- Seeding: ***AZST*** - #2 Arizona St. def. #3 Wichita St.  
 
-## Individual Matchups
-
+## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  
-Click on a Singles match to show individual predections for each line.
+Click on a Singles match to show individual predections for each line.  
 
-### Singles:
+### Singles:  
 
 <ol>
 <li><details>
@@ -124,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 </details>&nbsp;</li>
 </ol>
 
-### Doubles:
+### Doubles:  
 
 <ol>
 <li><details>
@@ -141,18 +139,16 @@ Click on a Singles match to show individual predections for each line.
 </details>&nbsp;</li>
 </ol>
 
-### Dual Outcome Based on Individual Metrics
-
-Based on the composite metrics for each individual match:
-
-- Arizona St. should win 4 or more singles matches _37%_ of the time.
-- Wichita St. should win 4 or more singles matches _28%_ of the time.
-- The winner of the doubles point will decide the match the other _35%_ of the time.
-- If Arizona St. wins the doubles point, their chances of winning the dual improve to _72%_.
-- If Wichita St. wins the doubles point, their chances of winning the dual improve to _63%_.
-
-Return to [List of Matches](../index.md)
-
----
-
+### Dual Outcome Based on Individual Metrics  
+  
+Based on the composite metrics for each individual match:  
+- Arizona St. should win 4 or more singles matches _37%_ of the time.  
+- Wichita St. should win 4 or more singles matches _28%_ of the time.  
+- The winner of the doubles point will decide the match the other _35%_ of the time.  
+- If Arizona St. wins the doubles point, their chances of winning the dual improve to _72%_.  
+- If Wichita St. wins the doubles point, their chances of winning the dual improve to _63%_.  
+  
+Return to [List of Matches](../index.md)  
+  
+------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

@@ -2,7 +2,7 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## [Xavier vs Northwestern](https://www.ncaa.com/game/5833673) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png" width="70" height="70" /></td><td style="background-color: #4E2A84 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Xavier</h2>  
