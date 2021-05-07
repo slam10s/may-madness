@@ -1,29 +1,29 @@
 First Round  
 Saturday, May 8 at 1:00 EDT
-# [Tulane vs Middle Tenn.](https://www.ncaa.com/game/5833399) 
+## [Tulane vs Middle Tenn.](https://www.ncaa.com/game/5833399) 
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h2>#3 <a href="#">Middle Tenn.</a></h2>  
-ITA: 42 (18.52)<br>  
-Slam: 45 (91.28)<br>  
-TRN: 45 (89.05)<br>  
-Massey: 42 (7.21)<br>  
-UTR: 41 (75.54)<br>  
-Coaches Poll: 42<br>  
+&nbsp; ITA: 42 (18.52)<br>  
+&nbsp; Slam: 45 (91.28)<br>  
+&nbsp; TRN: 45 (89.05)<br>  
+&nbsp; Massey: 42 (7.21)<br>  
+&nbsp; UTR: 41 (75.54)<br>  
+&nbsp; Coaches Poll: 42<br>  
 <br>  
 
 </td><td>  
 
 <h2>#2 <a href="#">Tulane</a></h2>  
-ITA: 22 (33.07)<br>  
-Slam: 26 (93.53)<br>  
-TRN: 26 (91.45)<br>  
-Massey: 26 (7.63)<br>  
-UTR: 31 (76.99)<br>  
-Coaches Poll: 24<br>  
+&#10004; ITA: 22 (33.07)<br>  
+&#10004; Slam: 26 (93.53)<br>  
+&#10004; TRN: 26 (91.45)<br>  
+&#10004; Massey: 26 (7.63)<br>  
+&#10004; UTR: 31 (76.99)<br>  
+&#10004; Coaches Poll: 24<br>  
 <br>  
 
 </td></tr></table>  
@@ -49,41 +49,71 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Francisco Rocha (MTSU) - 5-3 at #1, 13-5 in duals, 13-5 overall<br>Hamish Stewart (TULN) - 12-7 at #1, 12-7 in duals, 12-7 overall<br>&nbsp;</summary>
+<summary markdown="span">Francisco Rocha (MTSU) - 5-3 at #1, 13-5 in duals, 13-5 overall<br>Hamish Stewart (TULN) - 12-7 at #1, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>TULN</i></b> - Stewart (71%) def. Rocha (29%)</li>  
+<li>TRN: <b><i>TULN</i></b> - Stewart (61%) def. Rocha (39%)</li>  
+<li>Massey: <b><i>TULN</i></b> - Stewart (75%) def. Rocha (25%)</li>  
+<li>UTR: <b><i>TULN</i></b> - Stewart (86%) def. Rocha (14%)</li>  
+<li>ITA: <b><i>TULN</i></b> - Stewart (22.58) def. Rocha (14.55)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Stijn Slump (MTSU) - 9-2 at #2, 16-5 in duals, 16-5 overall<br>Ewan Moore (TULN) - 9-7 at #2, 10-7 in duals, 10-7 overall<br>&nbsp;</summary>
+<summary markdown="span">Stijn Slump (MTSU) - 9-2 at #2, 16-5 in duals, 16-5 overall<br>Ewan Moore (TULN) - 9-7 at #2, 10-7 in duals, 10-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>TULN</i></b> - Moore (70%) def. Slump (30%)</li>  
+<li>TRN: <b><i>TULN</i></b> - Moore (59%) def. Slump (41%)</li>  
+<li>Massey: <b><i>TULN</i></b> - Moore (75%) def. Slump (25%)</li>  
+<li>UTR: <b><i>TULN</i></b> - Moore (79%) def. Slump (21%)</li>  
+<li>ITA: <b><i>MTSU</i></b> - Slump (3.60) def. Moore (3.08)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Tom Moonen (MTSU) - 2-1 at #3, 8-11 in duals, 8-11 overall<br>Luis Erlenbusch (TULN) - 13-5 at #3, 14-5 in duals, 14-5 overall<br>&nbsp;</summary>
+<summary markdown="span">Tom Moonen (MTSU) - 2-1 at #3, 8-11 in duals, 8-11 overall<br>Luis Erlenbusch (TULN) - 13-5 at #3, 14-5 in duals, 14-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>TULN</i></b> - Erlenbusch (73%) def. Moonen (27%)</li>  
+<li>TRN: <b><i>TULN</i></b> - Erlenbusch (82%) def. Moonen (18%)</li>  
+<li>Massey: <b><i>TULN</i></b> - Erlenbusch (75%) def. Moonen (25%)</li>  
+<li>UTR: <b><i>TULN</i></b> - Erlenbusch (87%) def. Moonen (13%)</li>  
+<li>ITA: <b><i>TULN</i></b> - Erlenbusch (4.16) def. Moonen (1.88)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Christopher Edge (MTSU) - 15-5 at #4, 15-5 in duals, 15-5 overall<br>Billy Suarez (TULN) - 8-5 at #4, 9-6 in duals, 9-6 overall<br>&nbsp;</summary>
+<summary markdown="span">Christopher Edge (MTSU) - 15-5 at #4, 15-5 in duals, 15-5 overall<br>Billy Suarez (TULN) - 8-5 at #4, 9-6 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>MTSU</i></b> - Edge (50%) def. Suarez (50%)</li>  
+<li>TRN: <b><i>TULN</i></b> - Suarez (61%) def. Edge (39%)</li>  
+<li>Massey: <b><i>TULN</i></b> - Suarez (75%) def. Edge (25%)</li>  
+<li>UTR: <b><i>TULN</i></b> - Suarez (57%) def. Edge (43%)</li>  
+<li>ITA: <b><i>MTSU</i></b> - Edge (4.29) def. Suarez (2.40)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Pavel Motl (MTSU) - 6-3 at #5, 9-6 in duals, 9-6 overall<br>Rafael de Alba (TULN) - 3-2 at #5, 12-4 in duals, 12-4 overall<br>&nbsp;</summary>
+<summary markdown="span">Pavel Motl (MTSU) - 6-3 at #5, 9-6 in duals, 9-6 overall<br>Rafael de Alba (TULN) - 3-2 at #5, 12-4 in duals, 12-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>TULN</i></b> - Alba (58%) def. Motl (42%)</li>  
+<li>TRN: <b><i>TULN</i></b> - Alba (68%) def. Motl (32%)</li>  
+<li>Massey: <b><i>TULN</i></b> - Alba (75%) def. Motl (25%)</li>  
+<li>UTR: <b><i>TULN</i></b> - Alba (68%) def. Motl (32%)</li>  
+<li>ITA: <b><i>TULN</i></b> - Alba (2.39) def. Motl (1.44)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Oskar Michalek (MTSU) - 1-0 at #6, 5-1 in duals, 5-1 overall<br>Akos Kotorman (TULN) - 1-2 at #6, 2-3 in duals, 2-3 overall<br>&nbsp;</summary>
+<summary markdown="span">Oskar Michalek (MTSU) - 1-0 at #6, 5-1 in duals, 5-1 overall<br>Akos Kotorman (TULN) - 1-2 at #6, 2-3 in duals, 2-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>MTSU</i></b> - Michalek (59%) def. Kotorman (41%)</li>  
+<li>TRN: <b><i>TULN</i></b> - Kotorman (59%) def. Michalek (41%)</li>  
+<li>Massey: <b><i>MTSU</i></b> - Michalek (75%) def. Kotorman (25%)</li>  
+<li>UTR: <b><i>MTSU</i></b> - Michalek (82%) def. Kotorman (18%)</li>  
+<li>ITA: <b><i>MTSU</i></b> - Michalek (1.92) def. Kotorman (0.00)</li>  
+</ul></details>&nbsp;</li>
 </ol>
 
 ### Doubles:  
 
 <ol>
-<li>Motl/Slump (MTSU) - 9-9 at #1, 9-9 in duals, 9-9 overall<br>Stewart/Moore (TULN) - 12-6 at #1, 12-6 in duals, 12-6 overall<br>&nbsp;</li>
-<li>Moonen/Edge (MTSU) - 15-6 at #2, 15-6 in duals, 15-6 overall<br>Kotorman/Suarez (TULN) - 12-6 at #2, 12-6 in duals, 12-6 overall<br>&nbsp;</li>
-<li>Rocha/Rauch (MTSU) - 9-9 at #3, 11-9 in duals, 11-9 overall<br>Erlenbusch/Kuenkler (TULN) - 10-4 at #3, 10-4 in duals, 10-4 overall<br>&nbsp;</li>
+<li><details>
+<summary markdown="span">Motl/Slump (MTSU) - 9-9 at #1, 9-9 in duals, 9-9 overall<br>Stewart/Moore (TULN) - 12-6 at #1, 12-6 in duals, 12-6 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Moonen/Edge (MTSU) - 15-6 at #2, 15-6 in duals, 15-6 overall<br>Kotorman/Suarez (TULN) - 12-6 at #2, 12-6 in duals, 12-6 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Rocha/Rauch (MTSU) - 9-9 at #3, 11-9 in duals, 11-9 overall<br>Erlenbusch/Kuenkler (TULN) - 10-4 at #3, 10-4 in duals, 10-4 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

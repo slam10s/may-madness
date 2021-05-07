@@ -1,30 +1,30 @@
 First Round  
 Friday, May 7 at 2:00 EDT
-# [VCU vs Ohio St.](https://www.ncaa.com/game/5833396) 
+## [VCU vs Ohio St.](https://www.ncaa.com/game/5833396) 
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h2>#2 <a href="#">Ohio St.</a></h2>  
-ITA: 31 (26.40)<br>  
-Slam: 7 (97.86)<br>  
-TRN: 8 (97.23)<br>  
-Massey: 9 (8.60)<br>  
-UTR: 3 (80.28)<br>  
-USTA Poll: 7<br>  
-Coaches Poll: 17<br>  
+&#10004; ITA: 31 (26.40)<br>  
+&#10004; Slam: 7 (97.86)<br>  
+&#10004; TRN: 8 (97.23)<br>  
+&#10004; Massey: 9 (8.60)<br>  
+&#10004; UTR: 3 (80.28)<br>  
+&#10004; USTA Poll: 7<br>  
+&#10004; Coaches Poll: 17<br>  
 <br>  
 
 </td><td>  
 
 <h2>#3 <a href="#">VCU</a></h2>  
-ITA: 37 (23.44)<br>  
-Slam: 36 (92.40)<br>  
-TRN: 38 (90.23)<br>  
-Massey: 35 (7.38)<br>  
-UTR: 29 (77.07)<br>  
-Coaches Poll: 38<br>  
+&nbsp; ITA: 37 (23.44)<br>  
+&nbsp; Slam: 36 (92.40)<br>  
+&nbsp; TRN: 38 (90.23)<br>  
+&nbsp; Massey: 35 (7.38)<br>  
+&nbsp; UTR: 29 (77.07)<br>  
+&nbsp; Coaches Poll: 38<br>  
 <br>  
 
 </td></tr></table>  
@@ -51,41 +51,71 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">John McNally (OSU) - 10-2 at #1, 16-4 in duals, 21-4 overall<br>Lleyton Cronje (VCU) - 10-2 at #1, 12-3 in duals, 12-3 overall<br>&nbsp;</summary>
+<summary markdown="span">John McNally (OSU) - 10-2 at #1, 16-4 in duals, 21-4 overall<br>Lleyton Cronje (VCU) - 10-2 at #1, 12-3 in duals, 12-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OSU</i></b> - McNally (89%) def. Cronje (11%)</li>  
+<li>TRN: <b><i>OSU</i></b> - McNally (90%) def. Cronje (10%)</li>  
+<li>Massey: <b><i>OSU</i></b> - McNally (75%) def. Cronje (25%)</li>  
+<li>UTR: <b><i>OSU</i></b> - McNally (85%) def. Cronje (15%)</li>  
+<li>ITA: <b><i>VCU</i></b> - Cronje (8.20) def. McNally (3.89)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Cannon Kingsley (OSU) - 12-0 at #2, 21-0 in duals, 27-0 overall<br>Charles Bertimon (VCU) - 9-3 at #2, 11-4 in duals, 11-4 overall<br>&nbsp;</summary>
+<summary markdown="span">Cannon Kingsley (OSU) - 12-0 at #2, 21-0 in duals, 27-0 overall<br>Charles Bertimon (VCU) - 9-3 at #2, 11-4 in duals, 11-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OSU</i></b> - Kingsley (95%) def. Bertimon (5%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Kingsley (97%) def. Bertimon (3%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Kingsley (75%) def. Bertimon (25%)</li>  
+<li>UTR: <b><i>OSU</i></b> - Kingsley (91%) def. Bertimon (9%)</li>  
+<li>ITA: <b><i>OSU</i></b> - Kingsley (5.20) def. Bertimon (3.10)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">James Trotter (OSU) - 13-1 at #3, 13-1 in duals, 13-1 overall<br>Inigo Torre (VCU) - 7-2 at #3, 10-3 in duals, 10-3 overall<br>&nbsp;</summary>
+<summary markdown="span">James Trotter (OSU) - 13-1 at #3, 13-1 in duals, 13-1 overall<br>Inigo Torre (VCU) - 7-2 at #3, 10-3 in duals, 10-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OSU</i></b> - Trotter (91%) def. Torre (9%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Trotter (92%) def. Torre (8%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Trotter (75%) def. Torre (25%)</li>  
+<li>UTR: <b><i>OSU</i></b> - Trotter (89%) def. Torre (11%)</li>  
+<li>ITA: <b><i>OSU</i></b> - Trotter (3.90) def. Torre (2.89)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Justin Boulais (OSU) - 5-1 at #4, 7-1 in duals, 7-1 overall<br>Rayane Stable (VCU) - 5-0 at #4, 15-2 in duals, 15-2 overall<br>&nbsp;</summary>
+<summary markdown="span">Justin Boulais (OSU) - 5-1 at #4, 7-1 in duals, 7-1 overall<br>Rayane Stable (VCU) - 5-0 at #4, 15-2 in duals, 15-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OSU</i></b> - Boulais (85%) def. Stable (15%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Boulais (73%) def. Stable (27%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Boulais (75%) def. Stable (25%)</li>  
+<li>UTR: <b><i>OSU</i></b> - Boulais (63%) def. Stable (37%)</li>  
+<li>ITA: <b><i>VCU</i></b> - Stable (3.09) def. Boulais (2.92)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kyle Seelig (OSU) - 3-0 at #5, 15-4 in duals, 18-8 overall<br>Quentin Coulaud (VCU) - 1-2 at #5, 10-6 in duals, 10-6 overall<br>&nbsp;</summary>
+<summary markdown="span">Kyle Seelig (OSU) - 3-0 at #5, 15-4 in duals, 18-8 overall<br>Quentin Coulaud (VCU) - 1-2 at #5, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OSU</i></b> - Seelig (87%) def. Coulaud (13%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Seelig (90%) def. Coulaud (10%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Seelig (75%) def. Coulaud (25%)</li>  
+<li>UTR: <b><i>OSU</i></b> - Seelig (89%) def. Coulaud (11%)</li>  
+<li>ITA: <b><i>OSU</i></b> - Seelig (2.02) def. Coulaud (1.96)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">JJ Tracy (OSU) - 6-0 at #6, 21-1 in duals, 24-3 overall<br>Timo Zgraggen (VCU) - 6-0 at #6, 9-1 in duals, 9-1 overall<br>&nbsp;</summary>
+<summary markdown="span">JJ Tracy (OSU) - 6-0 at #6, 21-1 in duals, 24-3 overall<br>Timo Zgraggen (VCU) - 6-0 at #6, 9-1 in duals, 9-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OSU</i></b> - Tracy (94%) def. Zgraggen (6%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Tracy (97%) def. Zgraggen (3%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Tracy (75%) def. Zgraggen (25%)</li>  
+<li>UTR: <b><i>OSU</i></b> - Tracy (96%) def. Zgraggen (4%)</li>  
+<li>ITA: <b><i>VCU</i></b> - Zgraggen (3.45) def. Tracy (3.11)</li>  
+</ul></details>&nbsp;</li>
 </ol>
 
 ### Doubles:  
 
 <ol>
-<li>Trotter/Boulais (OSU) - 3-2 at #1, 7-3 in duals, 7-3 overall<br>Cronje/Cierny (VCU) - 2-1 at #1, 2-2 in duals, 2-2 overall<br>&nbsp;</li>
-<li>McNally/Cash (OSU) - 6-1 at #2, 13-4 in duals, 14-5 overall<br>Martin/Stable (VCU) - 11-1 at #2, 11-2 in duals, 11-2 overall<br>&nbsp;</li>
-<li>Kingsley/Seelig (OSU) - 1-2 at #3, 2-5 in duals, 5-6 overall<br>Coulaud/Bertimon (VCU) - 5-2 at #3, 11-7 in duals, 11-7 overall<br>&nbsp;</li>
+<li><details>
+<summary markdown="span">Trotter/Boulais (OSU) - 3-2 at #1, 7-3 in duals, 7-3 overall<br>Cronje/Cierny (VCU) - 2-1 at #1, 2-2 in duals, 2-2 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">McNally/Cash (OSU) - 6-1 at #2, 13-4 in duals, 14-5 overall<br>Martin/Stable (VCU) - 11-1 at #2, 11-2 in duals, 11-2 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Kingsley/Seelig (OSU) - 1-2 at #3, 2-5 in duals, 5-6 overall<br>Coulaud/Bertimon (VCU) - 5-2 at #3, 11-7 in duals, 11-7 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

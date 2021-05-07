@@ -1,30 +1,30 @@
 First Round  
 Saturday, May 8 at 12:00 EDT
-# [Arizona St. vs Wichita St.](https://www.ncaa.com/game/5833395) 
+## [Arizona St. vs Wichita St.](https://www.ncaa.com/game/5833395) 
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wichita-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h2>#3 <a href="#">Wichita St.</a></h2>  
-ITA: 33 (25.34)<br>  
-Slam: 39 (92.05)<br>  
-TRN: 37 (90.31)<br>  
-Massey: 41 (7.28)<br>  
-UTR: 39 (75.93)<br>  
-Coaches Poll: 32<br>  
+&nbsp; ITA: 33 (25.34)<br>  
+&nbsp; Slam: 39 (92.05)<br>  
+&nbsp; TRN: 37 (90.31)<br>  
+&nbsp; Massey: 41 (7.28)<br>  
+&nbsp; UTR: 39 (75.93)<br>  
+&nbsp; Coaches Poll: 32<br>  
 <br>  
 
 </td><td>  
 
 <h2>#2 <a href="#">Arizona St.</a></h2>  
-ITA: 20 (34.84)<br>  
-Slam: 25 (93.56)<br>  
-TRN: 25 (91.79)<br>  
-Massey: 24 (7.68)<br>  
-UTR: 23 (78.03)<br>  
-USTA Poll: 19<br>  
-Coaches Poll: 22<br>  
+&#10004; ITA: 20 (34.84)<br>  
+&#10004; Slam: 25 (93.56)<br>  
+&#10004; TRN: 25 (91.79)<br>  
+&#10004; Massey: 24 (7.68)<br>  
+&#10004; UTR: 23 (78.03)<br>  
+&#10004; USTA Poll: 19<br>  
+&#10004; Coaches Poll: 22<br>  
 <br>  
 
 </td></tr></table>  
@@ -51,41 +51,71 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Murkel Dellien (WICH) - 7-0 at #1, 13-2 in duals, 13-2 overall<br>Nathan Ponwtih (AZST) - 14-7 at #1, 15-7 in duals, 15-7 overall<br>&nbsp;</summary>
+<summary markdown="span">Murkel Dellien (WICH) - 7-0 at #1, 13-2 in duals, 13-2 overall<br>Nathan Ponwtih (AZST) - 14-7 at #1, 15-7 in duals, 15-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>AZST</i></b> - Ponwtih (69%) def. Dellien (31%)</li>  
+<li>TRN: <b><i>AZST</i></b> - Ponwtih (60%) def. Dellien (40%)</li>  
+<li>Massey: <b><i>WICH</i></b> - Dellien (75%) def. Ponwtih (25%)</li>  
+<li>UTR: <b><i>WICH</i></b> - Dellien (55%) def. Ponwtih (45%)</li>  
+<li>ITA: <b><i>WICH</i></b> - Dellien (19.99) def. Ponwtih (8.02)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Marius Frosa (WICH) - 6-3 at #2, 11-7 in duals, 11-7 overall<br>Makey Rakotomalala (AZST) - 4-8 at #2, 9-10 in duals, 9-10 overall<br>&nbsp;</summary>
+<summary markdown="span">Marius Frosa (WICH) - 6-3 at #2, 11-7 in duals, 11-7 overall<br>Makey Rakotomalala (AZST) - 4-8 at #2, 9-10 in duals, 9-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>WICH</i></b> - Frosa (100%) def. Rakotomalala (0%)</li>  
+<li>TRN: <b><i>WICH</i></b> - Frosa (100%) def. Rakotomalala (0%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Rakotomalala (75%) def. Frosa (25%)</li>  
+<li>UTR: <b><i>WICH</i></b> - Frosa (99%) def. Rakotomalala (1%)</li>  
+<li>ITA: <b><i>WICH</i></b> - Frosa (2.75) def. Rakotomalala (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Stefan Latinovic (WICH) - 4-8 at #3, 9-12 in duals, 9-12 overall<br>Tim Ruehl (AZST) - 6-2 at #3, 10-5 in duals, 10-5 overall<br>&nbsp;</summary>
+<summary markdown="span">Stefan Latinovic (WICH) - 4-8 at #3, 9-12 in duals, 9-12 overall<br>Tim Ruehl (AZST) - 6-2 at #3, 10-5 in duals, 10-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>AZST</i></b> - Ruehl (81%) def. Latinovic (19%)</li>  
+<li>TRN: <b><i>AZST</i></b> - Ruehl (85%) def. Latinovic (15%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Ruehl (75%) def. Latinovic (25%)</li>  
+<li>UTR: <b><i>AZST</i></b> - Ruehl (89%) def. Latinovic (11%)</li>  
+<li>ITA: <b><i>AZST</i></b> - Ruehl (2.65) def. Latinovic (1.52)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nicolas Acevedo (WICH) - 7-4 at #4, 12-8 in duals, 12-8 overall<br>George Stoupe (AZST) - 4-4 at #4, 10-10 in duals, 10-10 overall<br>&nbsp;</summary>
+<summary markdown="span">Nicolas Acevedo (WICH) - 7-4 at #4, 12-8 in duals, 12-8 overall<br>George Stoupe (AZST) - 4-4 at #4, 10-10 in duals, 10-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>WICH</i></b> - Acevedo (62%) def. Stoupe (38%)</li>  
+<li>TRN: <b><i>WICH</i></b> - Acevedo (61%) def. Stoupe (39%)</li>  
+<li>Massey: <b><i>WICH</i></b> - Acevedo (75%) def. Stoupe (25%)</li>  
+<li>UTR: <b><i>WICH</i></b> - Acevedo (63%) def. Stoupe (37%)</li>  
+<li>ITA: <b><i>WICH</i></b> - Acevedo (1.90) def. Stoupe (1.41)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Orel Ovil (WICH) - 6-3 at #5, 10-10 in duals, 10-10 overall<br>Max McKennon (AZST) - 3-2 at #5, 4-5 in duals, 4-5 overall<br>&nbsp;</summary>
+<summary markdown="span">Orel Ovil (WICH) - 6-3 at #5, 10-10 in duals, 10-10 overall<br>Max McKennon (AZST) - 3-2 at #5, 4-5 in duals, 4-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>WICH</i></b> - Ovil (55%) def. McKennon (45%)</li>  
+<li>TRN: <b><i>AZST</i></b> - McKennon (56%) def. Ovil (44%)</li>  
+<li>Massey: <b><i>AZST</i></b> - McKennon (75%) def. Ovil (25%)</li>  
+<li>UTR: <b><i>AZST</i></b> - McKennon (86%) def. Ovil (14%)</li>  
+<li>ITA: <b><i>WICH</i></b> - Ovil (1.40) def. McKennon (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Luka Mrsic (WICH) - 8-6 at #6, 9-6 in duals, 9-6 overall<br>Christian Lerby (AZST) - 9-5 at #6, 12-7 in duals, 12-7 overall<br>&nbsp;</summary>
+<summary markdown="span">Luka Mrsic (WICH) - 8-6 at #6, 9-6 in duals, 9-6 overall<br>Christian Lerby (AZST) - 9-5 at #6, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>AZST</i></b> - Lerby (54%) def. Mrsic (46%)</li>  
+<li>TRN: <b><i>AZST</i></b> - Lerby (57%) def. Mrsic (43%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Lerby (75%) def. Mrsic (25%)</li>  
+<li>UTR: <b><i>AZST</i></b> - Lerby (68%) def. Mrsic (32%)</li>  
+<li>ITA: <b><i>WICH</i></b> - Mrsic (1.93) def. Lerby (1.82)</li>  
+</ul></details>&nbsp;</li>
 </ol>
 
 ### Doubles:  
 
 <ol>
-<li>Dellien/Frosa (WICH) - 9-5 at #1, 9-5 in duals, 9-5 overall<br>Rakotomalala/Ruehl (AZST) - 1-2 at #1, 6-4 in duals, 6-4 overall<br>&nbsp;</li>
-<li>Mrsic/Ovil (WICH) - 5-5 at #2, 5-5 in duals, 5-5 overall<br>McKennon/Ponwith (AZST) - 4-1 at #2, 5-2 in duals, 5-2 overall<br>&nbsp;</li>
-<li>Latinovic/Acevedo (WICH) - 4-5 at #3, 4-5 in duals, 4-5 overall<br>Lerby/Stoupe (AZST) - 3-1 at #3, 3-1 in duals, 3-1 overall<br>&nbsp;</li>
+<li><details>
+<summary markdown="span">Dellien/Frosa (WICH) - 9-5 at #1, 9-5 in duals, 9-5 overall<br>Rakotomalala/Ruehl (AZST) - 1-2 at #1, 6-4 in duals, 6-4 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Mrsic/Ovil (WICH) - 5-5 at #2, 5-5 in duals, 5-5 overall<br>McKennon/Ponwith (AZST) - 4-1 at #2, 5-2 in duals, 5-2 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Latinovic/Acevedo (WICH) - 4-5 at #3, 4-5 in duals, 4-5 overall<br>Lerby/Stoupe (AZST) - 3-1 at #3, 3-1 in duals, 3-1 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -1,29 +1,29 @@
 First Round  
 Friday, May 7 at 5:00 EDT
-# [DePaul vs #16 Illinois](https://www.ncaa.com/game/5833373) 
+## [DePaul vs #16 Illinois](https://www.ncaa.com/game/5833373) 
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h2>#1 <a href="#">Illinois</a></h2>  
-ITA: 18 (36.82)<br>  
-Slam: 6 (98.81)<br>  
-TRN: 4 (98.96)<br>  
-Massey: 9 (8.60)<br>  
-UTR: 15 (78.92)<br>  
-USTA Poll: 8<br>  
-Coaches Poll: 13<br>  
+&#10004; ITA: 18 (36.82)<br>  
+&#10004; Slam: 6 (98.81)<br>  
+&#10004; TRN: 4 (98.96)<br>  
+&#10004; Massey: 9 (8.60)<br>  
+&#10004; UTR: 15 (78.92)<br>  
+&#10004; USTA Poll: 8<br>  
+&#10004; Coaches Poll: 13<br>  
 <br>  
 
 </td><td>  
 
 <h2>#4 <a href="#">DePaul</a></h2>  
-ITA: 55 (5.64)<br>  
-Slam: 55 (85.74)<br>  
-TRN: 55 (82.45)<br>  
-Massey: 54 (5.94)<br>  
-UTR: 60 (70.67)<br>  
+&nbsp; ITA: 55 (5.64)<br>  
+&nbsp; Slam: 55 (85.74)<br>  
+&nbsp; TRN: 55 (82.45)<br>  
+&nbsp; Massey: 54 (5.94)<br>  
+&nbsp; UTR: 60 (70.67)<br>  
 <br>  
 
 </td></tr></table>  
@@ -50,41 +50,71 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>Vito Tonejc (DEP) - 11-5 at #1, 13-5 in duals, 13-5 overall<br>&nbsp;</summary>
+<summary markdown="span">Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>Vito Tonejc (DEP) - 11-5 at #1, 13-5 in duals, 13-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
+<li>TRN: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Kovacevic (75%) def. Tonejc (25%)</li>  
+<li>UTR: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
+<li>ITA: <b><i>DEP</i></b> - Tonejc (4.23) def. Kovacevic (4.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Siphosothando Montsi (ILL) - 7-2 at #2, 15-3 in duals, 15-3 overall<br>Christopher Casati (DEP) - 3-7 at #2, 8-12 in duals, 8-12 overall<br>&nbsp;</summary>
+<summary markdown="span">Siphosothando Montsi (ILL) - 7-2 at #2, 15-3 in duals, 15-3 overall<br>Christopher Casati (DEP) - 3-7 at #2, 8-12 in duals, 8-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
+<li>TRN: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Montsi (75%) def. Casati (25%)</li>  
+<li>UTR: <b><i>ILL</i></b> - Montsi (98%) def. Casati (2%)</li>  
+<li>ITA: <b><i>ILL</i></b> - Montsi (4.79) def. Casati (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall<br>Boris Spanjaard (DEP) - 8-4 at #3, 12-6 in duals, 12-6 overall<br>&nbsp;</summary>
+<summary markdown="span">Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall<br>Boris Spanjaard (DEP) - 8-4 at #3, 12-6 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
+<li>TRN: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Brown (75%) def. Spanjaard (25%)</li>  
+<li>UTR: <b><i>ILL</i></b> - Brown (92%) def. Spanjaard (8%)</li>  
+<li>ITA: <b><i>DEP</i></b> - Spanjaard (2.02) def. Brown (1.47)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Zeke Clark (ILL) - 6-1 at #4, 16-1 in duals, 19-2 overall<br>Tamas Zador (DEP) - 1-1 at #4, 3-3 in duals, 3-3 overall<br>&nbsp;</summary>
+<summary markdown="span">Zeke Clark (ILL) - 6-1 at #4, 16-1 in duals, 19-2 overall<br>Tamas Zador (DEP) - 1-1 at #4, 3-3 in duals, 3-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>ILL</i></b> - Clark (98%) def. Zador (2%)</li>  
+<li>TRN: <b><i>ILL</i></b> - Clark (99%) def. Zador (1%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Clark (75%) def. Zador (25%)</li>  
+<li>UTR: <b><i>ILL</i></b> - Clark (96%) def. Zador (4%)</li>  
+<li>ITA: <b><i>ILL</i></b> - Clark (6.43) def. Zador (1.31)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall<br>Fran Tonejc (DEP) - 1-3 at #5, 8-8 in duals, 8-8 overall<br>&nbsp;</summary>
+<summary markdown="span">Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall<br>Fran Tonejc (DEP) - 1-3 at #5, 8-8 in duals, 8-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>ILL</i></b> - Heck (98%) def. Tonejc (2%)</li>  
+<li>TRN: <b><i>ILL</i></b> - Heck (99%) def. Tonejc (1%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Heck (75%) def. Tonejc (25%)</li>  
+<li>UTR: <b><i>ILL</i></b> - Heck (96%) def. Tonejc (4%)</li>  
+<li>ITA: <b><i>ILL</i></b> - Heck (2.36) def. Tonejc (1.51)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Noe Khlif (ILL) - 5-0 at #6, 15-1 in duals, 15-1 overall<br>Luuk Wassenaar (DEP) - 3-2 at #6, 11-6 in duals, 11-6 overall<br>&nbsp;</summary>
+<summary markdown="span">Noe Khlif (ILL) - 5-0 at #6, 15-1 in duals, 15-1 overall<br>Luuk Wassenaar (DEP) - 3-2 at #6, 11-6 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
+<li>TRN: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Khlif (75%) def. Wassenaar (25%)</li>  
+<li>UTR: <b><i>ILL</i></b> - Khlif (97%) def. Wassenaar (3%)</li>  
+<li>ITA: <b><i>ILL</i></b> - Khlif (3.59) def. Wassenaar (2.18)</li>  
+</ul></details>&nbsp;</li>
 </ol>
 
 ### Doubles:  
 
 <ol>
-<li>Brown/Clark (ILL) - 8-2 at #1, 11-2 in duals, 11-2 overall<br>Casati/Spanjaard (DEP) - 12-4 at #1, 14-4 in duals, 14-4 overall<br>&nbsp;</li>
-<li>Montsi/Khlif (ILL) - 5-1 at #2, 10-2 in duals, 10-2 overall<br>Tonejc/Wassenaar (DEP) - 3-2 at #2, 6-4 in duals, 6-4 overall<br>&nbsp;</li>
-<li>Kovacevic/Heck (ILL) - 2-1 at #3, 3-1 in duals, 3-1 overall<br>Tonejc/Tuff (DEP) - 5-0 at #3, 9-6 in duals, 9-6 overall<br>&nbsp;</li>
+<li><details>
+<summary markdown="span">Brown/Clark (ILL) - 8-2 at #1, 11-2 in duals, 11-2 overall<br>Casati/Spanjaard (DEP) - 12-4 at #1, 14-4 in duals, 14-4 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Montsi/Khlif (ILL) - 5-1 at #2, 10-2 in duals, 10-2 overall<br>Tonejc/Wassenaar (DEP) - 3-2 at #2, 6-4 in duals, 6-4 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Kovacevic/Heck (ILL) - 2-1 at #3, 3-1 in duals, 3-1 overall<br>Tonejc/Tuff (DEP) - 5-0 at #3, 9-6 in duals, 9-6 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -1,29 +1,29 @@
 First Round  
 Friday, May 7 at 4:00 EDT
-# [Alabama St. vs #7 Florida St.](https://www.ncaa.com/game/5833671) 
+## [Alabama St. vs #7 Florida St.](https://www.ncaa.com/game/5833671) 
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h2>#1 <a href="#">Florida St.</a></h2>  
-ITA: 7 (55.15)<br>  
-Slam: 10 (91.81)<br>  
-TRN: 9 (84.49)<br>  
-Massey: 9 (8.17)<br>  
-UTR: 10 (62.71)<br>  
-USTA Poll: 12<br>  
-Coaches Poll: 7<br>  
+&#10004; ITA: 7 (55.15)<br>  
+&#10004; Slam: 10 (91.81)<br>  
+&#10004; TRN: 9 (84.49)<br>  
+&#10004; Massey: 9 (8.17)<br>  
+&#10004; UTR: 10 (62.71)<br>  
+&#10004; USTA Poll: 12<br>  
+&#10004; Coaches Poll: 7<br>  
 <br>  
 
 </td><td>  
 
 <h2>#4 <a href="#">Alabama St.</a></h2>  
-ITA: 61 (2.29)<br>  
-Slam: 63 (69.75)<br>  
-TRN: 62 (58.32)<br>  
-Massey: 63 (3.41)<br>  
-UTR: 61 (46.66)<br>  
+&nbsp; ITA: 61 (2.29)<br>  
+&nbsp; Slam: 63 (69.75)<br>  
+&nbsp; TRN: 62 (58.32)<br>  
+&nbsp; Massey: 63 (3.41)<br>  
+&nbsp; UTR: 61 (46.66)<br>  
 <br>  
 
 </td></tr></table>  
@@ -50,41 +50,71 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Giulia Pairone (FSU) - 11-8 at #1, 11-8 in duals, 13-8 overall<br>Madalena Andrade (ALST) - 10-3 at #1, 10-3 in duals, 10-3 overall<br>&nbsp;</summary>
+<summary markdown="span">Giulia Pairone (FSU) - 11-8 at #1, 11-8 in duals, 13-8 overall<br>Madalena Andrade (ALST) - 10-3 at #1, 10-3 in duals, 10-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Pairone (75%) def. Andrade (25%)</li>  
+<li>UTR: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
+<li>ITA: <b><i>FSU</i></b> - Pairone (30.67) def. Andrade (2.89)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Emmanuelle Salas (FSU) - 5-6 at #2, 7-9 in duals, 7-10 overall<br>Lizaveta Dzemchanka (ALST) - 0-0 at #2, 3-0 in duals, 3-0 overall<br>&nbsp;</summary>
+<summary markdown="span">Emmanuelle Salas (FSU) - 5-6 at #2, 7-9 in duals, 7-10 overall<br>Lizaveta Dzemchanka (ALST) - 0-0 at #2, 3-0 in duals, 3-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>FSU</i></b> - Salas (100%) def. Dzemchanka (0%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Salas (100%) def. Dzemchanka (0%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Salas (75%) def. Dzemchanka (25%)</li>  
+<li>UTR: <b><i>FSU</i></b> - Salas (99%) def. Dzemchanka (1%)</li>  
+<li>ITA: <b><i>FSU</i></b> - Salas (14.35) def. Dzemchanka (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nandini Das (FSU) - 6-4 at #3, 11-8 in duals, 12-8 overall<br>Urska Velec (ALST) - 3-1 at #3, 8-2 in duals, 8-2 overall<br>&nbsp;</summary>
+<summary markdown="span">Nandini Das (FSU) - 6-4 at #3, 11-8 in duals, 12-8 overall<br>Urska Velec (ALST) - 3-1 at #3, 8-2 in duals, 8-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Das (75%) def. Velec (25%)</li>  
+<li>UTR: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
+<li>ITA: <b><i>ALST</i></b> - Velec (2.89) def. Das (2.52)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Petra Hule (FSU) - 4-0 at #4, 12-3 in duals, 13-3 overall<br>Francesca Duca (ALST) - 8-0 at #4, 8-4 in duals, 8-4 overall<br>&nbsp;</summary>
+<summary markdown="span">Petra Hule (FSU) - 4-0 at #4, 12-3 in duals, 13-3 overall<br>Francesca Duca (ALST) - 8-0 at #4, 8-4 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Hule (75%) def. Duca (25%)</li>  
+<li>UTR: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
+<li>ITA: <b><i>FSU</i></b> - Hule (3.24) def. Duca (2.26)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Victoria Allen (FSU) - 7-0 at #5, 11-4 in duals, 12-5 overall<br>Timothee Legaud (ALST) - 0-2 at #5, 3-4 in duals, 3-4 overall<br>&nbsp;</summary>
+<summary markdown="span">Victoria Allen (FSU) - 7-0 at #5, 11-4 in duals, 12-5 overall<br>Timothee Legaud (ALST) - 0-2 at #5, 3-4 in duals, 3-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Allen (75%) def. Legaud (25%)</li>  
+<li>UTR: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
+<li>ITA: <b><i>FSU</i></b> - Allen (2.90) def. Legaud (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Anna Arkadianou (FSU) - 0-0 at #6, 3-4 in duals, 4-5 overall<br>Bea Acena (ALST) - 0-0 at #6, 7-6 in duals, 7-6 overall<br>&nbsp;</summary>
+<summary markdown="span">Anna Arkadianou (FSU) - 0-0 at #6, 3-4 in duals, 4-5 overall<br>Bea Acena (ALST) - 0-0 at #6, 7-6 in duals, 7-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Arkadianou (75%) def. Acena (25%)</li>  
+<li>UTR: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
+<li>ITA: <b><i>ALST</i></b> - Acena (1.75) def. Arkadianou (0.00)</li>  
+</ul></details>&nbsp;</li>
 </ol>
 
 ### Doubles:  
 
 <ol>
-<li>Salas/Allen (FSU) - 5-3 at #1, 5-3 in duals, 5-3 overall<br>Dzemchanka/Tarbujaru (ALST) - 1-1 at #1, 1-1 in duals, 1-1 overall<br>&nbsp;</li>
-<li>Das/Garcia (FSU) - 8-4 at #2, 14-4 in duals, 17-4 overall<br>Andrade/Duca (ALST) - 4-0 at #2, 5-0 in duals, 5-0 overall<br>&nbsp;</li>
-<li>Hule/Pairone (FSU) - 5-1 at #3, 5-1 in duals, 6-1 overall<br>Velec/Hribljan (ALST) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>&nbsp;</li>
+<li><details>
+<summary markdown="span">Salas/Allen (FSU) - 5-3 at #1, 5-3 in duals, 5-3 overall<br>Dzemchanka/Tarbujaru (ALST) - 1-1 at #1, 1-1 in duals, 1-1 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Das/Garcia (FSU) - 8-4 at #2, 14-4 in duals, 17-4 overall<br>Andrade/Duca (ALST) - 4-0 at #2, 5-0 in duals, 5-0 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Hule/Pairone (FSU) - 5-1 at #3, 5-1 in duals, 6-1 overall<br>Velec/Hribljan (ALST) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

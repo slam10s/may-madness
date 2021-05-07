@@ -1,29 +1,29 @@
 First Round  
 Friday, May 7 at 1:00 EDT
-# [Drake vs #10 Texas A&M](https://www.ncaa.com/game/5833674) 
+## [Drake vs #10 Texas A&M](https://www.ncaa.com/game/5833674) 
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h2>#1 <a href="#">Texas A&M</a></h2>  
-ITA: 10 (50.15)<br>  
-Slam: 15 (90.86)<br>  
-TRN: 14 (83.43)<br>  
-Massey: 21 (7.77)<br>  
-UTR: 21 (61.70)<br>  
-USTA Poll: 17<br>  
-Coaches Poll: 10<br>  
+&#10004; ITA: 10 (50.15)<br>  
+&#10004; Slam: 15 (90.86)<br>  
+&#10004; TRN: 14 (83.43)<br>  
+&#10004; Massey: 21 (7.77)<br>  
+&#10004; UTR: 21 (61.70)<br>  
+&#10004; USTA Poll: 17<br>  
+&#10004; Coaches Poll: 10<br>  
 <br>  
 
 </td><td>  
 
 <h2>#4 <a href="#">Drake</a></h2>  
-ITA: 63 (1.98)<br>  
-Slam: 58 (75.98)<br>  
-TRN: 58 (65.50)<br>  
-Massey: 59 (4.59)<br>  
-UTR: 59 (50.87)<br>  
+&nbsp; ITA: 63 (1.98)<br>  
+&nbsp; Slam: 58 (75.98)<br>  
+&nbsp; TRN: 58 (65.50)<br>  
+&nbsp; Massey: 59 (4.59)<br>  
+&nbsp; UTR: 59 (50.87)<br>  
 <br>  
 
 </td></tr></table>  
@@ -50,41 +50,71 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Tatiana Makarova (A&M) - 12-4 at #1, 15-4 in duals, 23-6 overall<br>Elizaveta Petushkova (DRKE) - 10-8 at #1, 10-8 in duals, 10-8 overall<br>&nbsp;</summary>
+<summary markdown="span">Tatiana Makarova (A&M) - 12-4 at #1, 15-4 in duals, 23-6 overall<br>Elizaveta Petushkova (DRKE) - 10-8 at #1, 10-8 in duals, 10-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>A&M</i></b> - Makarova (97%) def. Petushkova (3%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Makarova (99%) def. Petushkova (1%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Makarova (75%) def. Petushkova (25%)</li>  
+<li>UTR: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
+<li>ITA: <b><i>A&M</i></b> - Makarova (21.86) def. Petushkova (1.55)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jayci Goldsmith (A&M) - 9-7 at #2, 11-9 in duals, 13-10 overall<br>Daria Walczak (DRKE) - 6-7 at #2, 8-9 in duals, 8-9 overall<br>&nbsp;</summary>
+<summary markdown="span">Jayci Goldsmith (A&M) - 9-7 at #2, 11-9 in duals, 13-10 overall<br>Daria Walczak (DRKE) - 6-7 at #2, 8-9 in duals, 8-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Goldsmith (75%) def. Walczak (25%)</li>  
+<li>UTR: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
+<li>ITA: <b><i>A&M</i></b> - Goldsmith (3.03) def. Walczak (1.52)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Katya Townsend (A&M) - 9-6 at #3, 11-6 in duals, 18-9 overall<br>Ines Stephani (DRKE) - 5-1 at #3, 12-4 in duals, 12-4 overall<br>&nbsp;</summary>
+<summary markdown="span">Katya Townsend (A&M) - 9-6 at #3, 11-6 in duals, 18-9 overall<br>Ines Stephani (DRKE) - 5-1 at #3, 12-4 in duals, 12-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Townsend (75%) def. Stephani (25%)</li>  
+<li>UTR: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
+<li>ITA: <b><i>A&M</i></b> - Townsend (3.71) def. Stephani (2.39)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall<br>Maria Tatarnikova (DRKE) - 7-0 at #4, 12-6 in duals, 12-6 overall<br>&nbsp;</summary>
+<summary markdown="span">Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall<br>Maria Tatarnikova (DRKE) - 7-0 at #4, 12-6 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Faa-Hviding (98%) def. Tatarnikova (2%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Faa-Hviding (75%) def. Tatarnikova (25%)</li>  
+<li>UTR: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
+<li>ITA: <b><i>A&M</i></b> - Faa-Hviding (1.87) def. Tatarnikova (1.80)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Renee McBryde (A&M) - 10-1 at #5, 14-3 in duals, 17-4 overall<br>Darinka Stepan (DRKE) - 9-4 at #5, 10-5 in duals, 10-5 overall<br>&nbsp;</summary>
+<summary markdown="span">Renee McBryde (A&M) - 10-1 at #5, 14-3 in duals, 17-4 overall<br>Darinka Stepan (DRKE) - 9-4 at #5, 10-5 in duals, 10-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
+<li>TRN: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
+<li>Massey: <b><i>A&M</i></b> - McBryde (75%) def. Stepan (25%)</li>  
+<li>UTR: <b><i>A&M</i></b> - McBryde (97%) def. Stepan (3%)</li>  
+<li>ITA: <b><i>A&M</i></b> - McBryde (2.44) def. Stepan (1.93)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Riley McQuaid (A&M) - 8-5 at #6, 11-5 in duals, 16-9 overall<br>Kelsey Neville (DRKE) - 8-4 at #6, 9-7 in duals, 9-7 overall<br>&nbsp;</summary>
+<summary markdown="span">Riley McQuaid (A&M) - 8-5 at #6, 11-5 in duals, 16-9 overall<br>Kelsey Neville (DRKE) - 8-4 at #6, 9-7 in duals, 9-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
+<li>TRN: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
+<li>Massey: <b><i>A&M</i></b> - McQuaid (75%) def. Neville (25%)</li>  
+<li>UTR: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
+<li>ITA: <b><i>A&M</i></b> - McQuaid (2.12) def. Neville (1.64)</li>  
+</ul></details>&nbsp;</li>
 </ol>
 
 ### Doubles:  
 
 <ol>
-<li>Makarova/Goldsmith (A&M) - 11-9 at #1, 13-9 in duals, 18-9 overall<br>Petushkova/Tatarnikova (DRKE) - 10-7 at #1, 10-7 in duals, 10-7 overall<br>&nbsp;</li>
-<li>McBryde/Faa-Hviding (A&M) - 8-5 at #2, 8-5 in duals, 8-5 overall<br>Neville/Webb (DRKE) - 3-6 at #2, 3-6 in duals, 3-6 overall<br>&nbsp;</li>
-<li>McQuaid/Townsend (A&M) - 5-3 at #3, 5-3 in duals, 7-3 overall<br>Stepan/Stephani (DRKE) - 7-8 at #3, 7-8 in duals, 7-8 overall<br>&nbsp;</li>
+<li><details>
+<summary markdown="span">Makarova/Goldsmith (A&M) - 11-9 at #1, 13-9 in duals, 18-9 overall<br>Petushkova/Tatarnikova (DRKE) - 10-7 at #1, 10-7 in duals, 10-7 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">McBryde/Faa-Hviding (A&M) - 8-5 at #2, 8-5 in duals, 8-5 overall<br>Neville/Webb (DRKE) - 3-6 at #2, 3-6 in duals, 3-6 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">McQuaid/Townsend (A&M) - 5-3 at #3, 5-3 in duals, 7-3 overall<br>Stepan/Stephani (DRKE) - 7-8 at #3, 7-8 in duals, 7-8 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

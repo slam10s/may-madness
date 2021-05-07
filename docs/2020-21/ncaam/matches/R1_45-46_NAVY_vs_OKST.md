@@ -1,29 +1,29 @@
 First Round  
 Saturday, May 8 at 10:00 EDT
-# [Navy vs Oklahoma St.](https://www.ncaa.com/game/5833392) 
+## [Navy vs Oklahoma St.](https://www.ncaa.com/game/5833392) 
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h2>#2 <a href="#">Oklahoma St.</a></h2>  
-ITA: 19 (35.31)<br>  
-Slam: 24 (93.68)<br>  
-TRN: 23 (91.93)<br>  
-Massey: 29 (7.54)<br>  
-UTR: 19 (78.43)<br>  
-USTA Poll: RV<br>  
-Coaches Poll: 21<br>  
+&#10004; ITA: 19 (35.31)<br>  
+&#10004; Slam: 24 (93.68)<br>  
+&#10004; TRN: 23 (91.93)<br>  
+&#10004; Massey: 29 (7.54)<br>  
+&#10004; UTR: 19 (78.43)<br>  
+&#10004; USTA Poll: RV<br>  
+&#10004; Coaches Poll: 21<br>  
 <br>  
 
 </td><td>  
 
 <h2>#3 <a href="#">Navy</a></h2>  
-ITA: 48 (8.28)<br>  
-Slam: 54 (86.71)<br>  
-TRN: 48 (87.45)<br>  
-Massey: 56 (5.80)<br>  
-UTR: 58 (70.91)<br>  
+&nbsp; ITA: 48 (8.28)<br>  
+&nbsp; Slam: 54 (86.71)<br>  
+&nbsp; TRN: 48 (87.45)<br>  
+&nbsp; Massey: 56 (5.80)<br>  
+&nbsp; UTR: 58 (70.91)<br>  
 <br>  
 
 </td></tr></table>  
@@ -50,41 +50,71 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Matej Vocel (OKST) - 11-5 at #1, 11-5 in duals, 11-5 overall<br>Andrew Ton (NAVY) - 8-0 at #1, 8-0 in duals, 8-0 overall<br>&nbsp;</summary>
+<summary markdown="span">Matej Vocel (OKST) - 11-5 at #1, 11-5 in duals, 11-5 overall<br>Andrew Ton (NAVY) - 8-0 at #1, 8-0 in duals, 8-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKST</i></b> - Vocel (92%) def. Ton (8%)</li>  
+<li>TRN: <b><i>OKST</i></b> - Vocel (93%) def. Ton (7%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Vocel (75%) def. Ton (25%)</li>  
+<li>UTR: <b><i>OKST</i></b> - Vocel (95%) def. Ton (5%)</li>  
+<li>ITA: <b><i>OKST</i></b> - Vocel (20.98) def. Ton (4.17)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Henrik Korsgaard (OKST) - 3-2 at #2, 9-9 in duals, 9-9 overall<br>Derrick Thompson (NAVY) - 9-0 at #2, 9-0 in duals, 9-0 overall<br>&nbsp;</summary>
+<summary markdown="span">Henrik Korsgaard (OKST) - 3-2 at #2, 9-9 in duals, 9-9 overall<br>Derrick Thompson (NAVY) - 9-0 at #2, 9-0 in duals, 9-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKST</i></b> - Korsgaard (80%) def. Thompson (20%)</li>  
+<li>TRN: <b><i>OKST</i></b> - Korsgaard (84%) def. Thompson (16%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Korsgaard (75%) def. Thompson (25%)</li>  
+<li>UTR: <b><i>OKST</i></b> - Korsgaard (85%) def. Thompson (15%)</li>  
+<li>ITA: <b><i>NAVY</i></b> - Thompson (4.17) def. Korsgaard (2.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Emile Hudd (OKST) - 5-2 at #3, 7-7 in duals, 9-9 overall<br>Jake Fishkin (NAVY) - 2-4 at #3, 2-4 in duals, 2-4 overall<br>&nbsp;</summary>
+<summary markdown="span">Emile Hudd (OKST) - 5-2 at #3, 7-7 in duals, 9-9 overall<br>Jake Fishkin (NAVY) - 2-4 at #3, 2-4 in duals, 2-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKST</i></b> - Hudd (99%) def. Fishkin (1%)</li>  
+<li>TRN: <b><i>OKST</i></b> - Hudd (99%) def. Fishkin (1%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Hudd (75%) def. Fishkin (25%)</li>  
+<li>UTR: <b><i>OKST</i></b> - Hudd (98%) def. Fishkin (2%)</li>  
+<li>ITA: <b><i>OKST</i></b> - Hudd (4.25) def. Fishkin (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mathieu Scaglia (OKST) - 4-5 at #4, 9-7 in duals, 9-8 overall<br>Finn Garner (NAVY) - 4-2 at #4, 4-2 in duals, 4-2 overall<br>&nbsp;</summary>
+<summary markdown="span">Mathieu Scaglia (OKST) - 4-5 at #4, 9-7 in duals, 9-8 overall<br>Finn Garner (NAVY) - 4-2 at #4, 4-2 in duals, 4-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
+<li>TRN: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Scaglia (75%) def. Garner (25%)</li>  
+<li>UTR: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
+<li>ITA: <b><i>OKST</i></b> - Scaglia (2.10) def. Garner (1.69)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Etienne Donnet (OKST) - 3-4 at #5, 8-9 in duals, 9-14 overall<br>Gavin Segraves (NAVY) - 7-0 at #5, 8-0 in duals, 8-0 overall<br>&nbsp;</summary>
+<summary markdown="span">Etienne Donnet (OKST) - 3-4 at #5, 8-9 in duals, 9-14 overall<br>Gavin Segraves (NAVY) - 7-0 at #5, 8-0 in duals, 8-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKST</i></b> - Donnet (87%) def. Segraves (13%)</li>  
+<li>TRN: <b><i>OKST</i></b> - Donnet (88%) def. Segraves (12%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Donnet (75%) def. Segraves (25%)</li>  
+<li>UTR: <b><i>OKST</i></b> - Donnet (89%) def. Segraves (11%)</li>  
+<li>ITA: <b><i>NAVY</i></b> - Segraves (4.17) def. Donnet (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Matisse Bobichon (OKST) - 4-4 at #6, 4-4 in duals, 4-4 overall<br>Jack McBride (NAVY) - 4-0 at #6, 5-0 in duals, 5-0 overall<br>&nbsp;</summary>
+<summary markdown="span">Matisse Bobichon (OKST) - 4-4 at #6, 4-4 in duals, 4-4 overall<br>Jack McBride (NAVY) - 4-0 at #6, 5-0 in duals, 5-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKST</i></b> - Bobichon (81%) def. McBride (19%)</li>  
+<li>TRN: <b><i>OKST</i></b> - Bobichon (67%) def. McBride (33%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Bobichon (75%) def. McBride (25%)</li>  
+<li>UTR: <b><i>OKST</i></b> - Bobichon (93%) def. McBride (7%)</li>  
+<li>ITA: <b><i>NAVY</i></b> - McBride (2.91) def. Bobichon (1.32)</li>  
+</ul></details>&nbsp;</li>
 </ol>
 
 ### Doubles:  
 
 <ol>
-<li>Hudd/Vocel (OKST) - 6-4 at #1, 6-4 in duals, 6-4 overall<br>Thompson/Ton (NAVY) - 0-0 at #1, 0-0 in duals, 0-0 overall<br>&nbsp;</li>
-<li>Korsgaard/Hammond (OKST) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Garner/Dabek (NAVY) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>&nbsp;</li>
-<li>Donnet/Bobichon (OKST) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Segraves/Panyan (NAVY) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>&nbsp;</li>
+<li><details>
+<summary markdown="span">Hudd/Vocel (OKST) - 6-4 at #1, 6-4 in duals, 6-4 overall<br>Thompson/Ton (NAVY) - 0-0 at #1, 0-0 in duals, 0-0 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Korsgaard/Hammond (OKST) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Garner/Dabek (NAVY) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Donnet/Bobichon (OKST) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Segraves/Panyan (NAVY) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

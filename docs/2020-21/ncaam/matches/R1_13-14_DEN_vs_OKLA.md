@@ -1,29 +1,29 @@
 First Round  
 Friday, May 7 at 12:00 EDT
-# [Denver vs Oklahoma](https://www.ncaa.com/game/5833376) 
+## [Denver vs Oklahoma](https://www.ncaa.com/game/5833376) 
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h2>#2 <a href="#">Oklahoma</a></h2>  
-ITA: 27 (29.42)<br>  
-Slam: 29 (93.05)<br>  
-TRN: 28 (91.23)<br>  
-Massey: 37 (7.32)<br>  
-UTR: 28 (77.53)<br>  
-Coaches Poll: 26<br>  
+&#10004; ITA: 27 (29.42)<br>  
+&#10004; Slam: 29 (93.05)<br>  
+&#10004; TRN: 28 (91.23)<br>  
+&#10004; Massey: 37 (7.32)<br>  
+&#10004; UTR: 28 (77.53)<br>  
+&#10004; Coaches Poll: 26<br>  
 <br>  
 
 </td><td>  
 
 <h2>#3 <a href="#">Denver</a></h2>  
-ITA: 45 (17.16)<br>  
-Slam: 42 (91.67)<br>  
-TRN: 35 (90.56)<br>  
-Massey: 38 (7.31)<br>  
-UTR: 46 (74.43)<br>  
-Coaches Poll: 44<br>  
+&nbsp; ITA: 45 (17.16)<br>  
+&nbsp; Slam: 42 (91.67)<br>  
+&nbsp; TRN: 35 (90.56)<br>  
+&nbsp; Massey: 38 (7.31)<br>  
+&nbsp; UTR: 46 (74.43)<br>  
+&nbsp; Coaches Poll: 44<br>  
 <br>  
 
 </td></tr></table>  
@@ -49,41 +49,71 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Jake Van Emburgh (OKLA) - 4-9 at #1, 8-10 in duals, 8-13 overall<br>James Davis (DEN) - 4-1 at #1, 14-2 in duals, 14-2 overall<br>&nbsp;</summary>
+<summary markdown="span">Jake Van Emburgh (OKLA) - 4-9 at #1, 8-10 in duals, 8-13 overall<br>James Davis (DEN) - 4-1 at #1, 14-2 in duals, 14-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKLA</i></b> - Emburgh (57%) def. Davis (43%)</li>  
+<li>TRN: <b><i>OKLA</i></b> - Emburgh (53%) def. Davis (47%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Davis (75%) def. Emburgh (25%)</li>  
+<li>UTR: <b><i>OKLA</i></b> - Emburgh (79%) def. Davis (21%)</li>  
+<li>ITA: <b><i>OKLA</i></b> - Emburgh (7.98) def. Davis (6.67)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mason Beiler (OKLA) - 7-4 at #2, 11-8 in duals, 16-13 overall<br>Mattia Ros (DEN) - 4-1 at #2, 8-8 in duals, 8-8 overall<br>&nbsp;</summary>
+<summary markdown="span">Mason Beiler (OKLA) - 7-4 at #2, 11-8 in duals, 16-13 overall<br>Mattia Ros (DEN) - 4-1 at #2, 8-8 in duals, 8-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKLA</i></b> - Beiler (80%) def. Ros (20%)</li>  
+<li>TRN: <b><i>OKLA</i></b> - Beiler (93%) def. Ros (7%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Beiler (75%) def. Ros (25%)</li>  
+<li>UTR: <b><i>OKLA</i></b> - Beiler (92%) def. Ros (8%)</li>  
+<li>ITA: <b><i>OKLA</i></b> - Beiler (10.05) def. Ros (1.92)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alex Martinez (OKLA) - 6-2 at #3, 12-7 in duals, 15-13 overall<br>Matt Summers (DEN) - 9-1 at #3, 10-6 in duals, 10-6 overall<br>&nbsp;</summary>
+<summary markdown="span">Alex Martinez (OKLA) - 6-2 at #3, 12-7 in duals, 15-13 overall<br>Matt Summers (DEN) - 9-1 at #3, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKLA</i></b> - Martinez (71%) def. Summers (29%)</li>  
+<li>TRN: <b><i>OKLA</i></b> - Martinez (83%) def. Summers (17%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Martinez (75%) def. Summers (25%)</li>  
+<li>UTR: <b><i>OKLA</i></b> - Martinez (74%) def. Summers (26%)</li>  
+<li>ITA: <b><i>OKLA</i></b> - Martinez (2.93) def. Summers (2.15)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nathan Han (OKLA) - 2-6 at #4, 7-7 in duals, 13-11 overall<br>Peter Sallay (DEN) - 12-4 at #4, 12-4 in duals, 12-4 overall<br>&nbsp;</summary>
+<summary markdown="span">Nathan Han (OKLA) - 2-6 at #4, 7-7 in duals, 13-11 overall<br>Peter Sallay (DEN) - 12-4 at #4, 12-4 in duals, 12-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKLA</i></b> - Han (80%) def. Sallay (20%)</li>  
+<li>TRN: <b><i>OKLA</i></b> - Han (87%) def. Sallay (13%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Han (75%) def. Sallay (25%)</li>  
+<li>UTR: <b><i>OKLA</i></b> - Han (86%) def. Sallay (14%)</li>  
+<li>ITA: <b><i>DEN</i></b> - Sallay (2.45) def. Han (1.72)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Justin Schlageter (OKLA) - 3-5 at #5, 6-6 in duals, 10-12 overall<br>Nicolas Herrero Cuesta (DEN) - 10-1 at #5, 14-1 in duals, 14-1 overall<br>&nbsp;</summary>
+<summary markdown="span">Justin Schlageter (OKLA) - 3-5 at #5, 6-6 in duals, 10-12 overall<br>Nicolas Herrero Cuesta (DEN) - 10-1 at #5, 14-1 in duals, 14-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKLA</i></b> - Schlageter (72%) def. Cuesta (28%)</li>  
+<li>TRN: <b><i>OKLA</i></b> - Schlageter (65%) def. Cuesta (35%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Cuesta (75%) def. Schlageter (25%)</li>  
+<li>UTR: <b><i>OKLA</i></b> - Schlageter (85%) def. Cuesta (15%)</li>  
+<li>ITA: <b><i>DEN</i></b> - Cuesta (3.64) def. Schlageter (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mark Mandlik (OKLA) - 1-1 at #6, 6-14 in duals, 6-14 overall<br>Ignacio Rivero Crespo (DEN) - 8-1 at #6, 9-1 in duals, 9-1 overall<br>&nbsp;</summary>
+<summary markdown="span">Mark Mandlik (OKLA) - 1-1 at #6, 6-14 in duals, 6-14 overall<br>Ignacio Rivero Crespo (DEN) - 8-1 at #6, 9-1 in duals, 9-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>OKLA</i></b> - Mandlik (91%) def. Crespo (9%)</li>  
+<li>TRN: <b><i>OKLA</i></b> - Mandlik (78%) def. Crespo (22%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Crespo (75%) def. Mandlik (25%)</li>  
+<li>UTR: <b><i>OKLA</i></b> - Mandlik (99%) def. Crespo (1%)</li>  
+<li>ITA: <b><i>DEN</i></b> - Crespo (3.50) def. Mandlik (0.00)</li>  
+</ul></details>&nbsp;</li>
 </ol>
 
 ### Doubles:  
 
 <ol>
-<li>Mandlik/Stewart (OKLA) - 0-1 at #1, 2-3 in duals, 2-3 overall<br>Summers/Davis (DEN) - 14-5 at #1, 14-5 in duals, 14-5 overall<br>&nbsp;</li>
-<li>Van Emburgh/Martinez (OKLA) - 0-1 at #2, 0-1 in duals, 0-1 overall<br>Ros/Sallay (DEN) - 7-6 at #2, 7-6 in duals, 7-6 overall<br>&nbsp;</li>
-<li>Han/Beiler (OKLA) - 1-0 at #3, 1-0 in duals, 1-0 overall<br>Cuesta/Crespo (DEN) - 10-4 at #3, 10-4 in duals, 10-4 overall<br>&nbsp;</li>
+<li><details>
+<summary markdown="span">Mandlik/Stewart (OKLA) - 0-1 at #1, 2-3 in duals, 2-3 overall<br>Summers/Davis (DEN) - 14-5 at #1, 14-5 in duals, 14-5 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Van Emburgh/Martinez (OKLA) - 0-1 at #2, 0-1 in duals, 0-1 overall<br>Ros/Sallay (DEN) - 7-6 at #2, 7-6 in duals, 7-6 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Han/Beiler (OKLA) - 1-0 at #3, 1-0 in duals, 1-0 overall<br>Cuesta/Crespo (DEN) - 10-4 at #3, 10-4 in duals, 10-4 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

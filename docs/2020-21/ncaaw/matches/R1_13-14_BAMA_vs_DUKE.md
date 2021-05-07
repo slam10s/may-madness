@@ -1,30 +1,30 @@
 First Round  
 Friday, May 7 at 3:00 EDT
-# [Alabama vs Duke](https://www.ncaa.com/game/5833653) 
+## [Alabama vs Duke](https://www.ncaa.com/game/5833653) 
 
 <table>  
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
 <h2>#2 <a href="#">Duke</a></h2>  
-ITA: 17 (43.03)<br>  
-Slam: 14 (90.91)<br>  
-TRN: 15 (83.33)<br>  
-Massey: 11 (8.09)<br>  
-UTR: 12 (62.45)<br>  
-USTA Poll: 14<br>  
-Coaches Poll: 20<br>  
+&#10004; ITA: 17 (43.03)<br>  
+&#10004; Slam: 14 (90.91)<br>  
+&#10004; TRN: 15 (83.33)<br>  
+&#10004; Massey: 11 (8.09)<br>  
+&#10004; UTR: 12 (62.45)<br>  
+&#10004; USTA Poll: 14<br>  
+&#10004; Coaches Poll: 20<br>  
 <br>  
 
 </td><td>  
 
 <h2>#3 <a href="#">Alabama</a></h2>  
-ITA: 42 (16.54)<br>  
-Slam: 44 (86.23)<br>  
-TRN: 44 (78.28)<br>  
-Massey: 44 (6.49)<br>  
-UTR: 40 (59.05)<br>  
-Coaches Poll: 43<br>  
+&nbsp; ITA: 42 (16.54)<br>  
+&nbsp; Slam: 44 (86.23)<br>  
+&nbsp; TRN: 44 (78.28)<br>  
+&nbsp; Massey: 44 (6.49)<br>  
+&nbsp; UTR: 40 (59.05)<br>  
+&nbsp; Coaches Poll: 43<br>  
 <br>  
 
 </td></tr></table>  
@@ -51,41 +51,70 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall<br>Loudmilla Bencheikh (BAMA) - 2-5 at #1, 2-5 in duals, 2-5 overall<br>&nbsp;</summary>
+<summary markdown="span">Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall<br>Loudmilla Bencheikh (BAMA) - 2-5 at #1, 2-5 in duals, 2-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Chen (85%) def. Bencheikh (15%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Chen (75%) def. Bencheikh (25%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
+<li>ITA: <b><i>DUKE</i></b> - Chen (12.42) def. Bencheikh (1.60)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall<br>Alba Cortina Pou (BAMA) - 3-2 at #2, 15-4 in duals, 15-7 overall<br>&nbsp;</summary>
+<summary markdown="span">Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall<br>Alba Cortina Pou (BAMA) - 3-2 at #2, 15-4 in duals, 15-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>DUKE</i></b> - Drummy (93%) def. Pou (7%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Drummy (75%) def. Pou (25%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
+<li>ITA: <b><i>DUKE</i></b> - Drummy (24.14) def. Pou (2.01)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall<br>Anna Parkhomenko (BAMA) - 0-6 at #3, 11-7 in duals, 15-11 overall<br>&nbsp;</summary>
+<summary markdown="span">Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall<br>Anna Parkhomenko (BAMA) - 0-6 at #3, 11-7 in duals, 15-11 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Beck (75%) def. Parkhomenko (25%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Beck (93%) def. Parkhomenko (7%)</li>  
+<li>ITA: <b><i>DUKE</i></b> - Beck (15.35) def. Parkhomenko (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall<br>Anne Marie Hiser (BAMA) - 4-0 at #4, 13-8 in duals, 17-10 overall<br>&nbsp;</summary>
+<summary markdown="span">Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall<br>Anne Marie Hiser (BAMA) - 4-0 at #4, 13-8 in duals, 17-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>DUKE</i></b> - Chi (93%) def. Hiser (7%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Chi (96%) def. Hiser (4%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Chi (75%) def. Hiser (25%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Chi (91%) def. Hiser (9%)</li>  
+<li>ITA: <b><i>DUKE</i></b> - Chi (15.20) def. Hiser (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall<br>Sydney Riley (BAMA) - 2-0 at #5, 12-7 in duals, 14-13 overall<br>&nbsp;</summary>
+<summary markdown="span">Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall<br>Sydney Riley (BAMA) - 2-0 at #5, 12-7 in duals, 14-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>DUKE</i></b> - Bilokin (93%) def. Riley (7%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Bilokin (90%) def. Riley (10%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Bilokin (75%) def. Riley (25%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Bilokin (93%) def. Riley (7%)</li>  
+<li>ITA: <b><i>DUKE</i></b> - Bilokin (2.72) def. Riley (0.00)</li>  
+</ul></details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Karolina Berankova (DUKE) - 7-7 at #6, 9-9 in duals, 10-11 overall<br>Sydney Orefice (BAMA) - 2-0 at #6, 2-0 in duals, 2-5 overall<br>&nbsp;</summary>
+<summary markdown="span">Karolina Berankova (DUKE) - 7-7 at #6, 9-9 in duals, 10-11 overall<br>Sydney Orefice (BAMA) - 2-0 at #6, 2-0 in duals, 2-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>VT</i></b> - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)</li>  
-</ul></details></li>
+<li>Slam: <b><i>DUKE</i></b> - Berankova (92%) def. Orefice (8%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Berankova (80%) def. Orefice (20%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Berankova (75%) def. Orefice (25%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Berankova (97%) def. Orefice (3%)</li>  
+</ul></details>&nbsp;</li>
 </ol>
 
 ### Doubles:  
 
 <ol>
-<li>Chi/Bilokin (DUKE) - 8-4 at #1, 9-4 in duals, 11-4 overall<br>Hiser/Riley (BAMA) - 5-1 at #1, 14-3 in duals, 14-8 overall<br>&nbsp;</li>
-<li>Beck/Berankova (DUKE) - 11-2 at #2, 12-2 in duals, 15-3 overall<br>Pou/Parkhomenko (BAMA) - 0-0 at #2, 8-4 in duals, 9-4 overall<br>&nbsp;</li>
-<li>Chen/Drummy (DUKE) - 12-2 at #3, 13-2 in duals, 14-4 overall<br>Bencheikh/Orefice (BAMA) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>&nbsp;</li>
+<li><details>
+<summary markdown="span">Chi/Bilokin (DUKE) - 8-4 at #1, 9-4 in duals, 11-4 overall<br>Hiser/Riley (BAMA) - 5-1 at #1, 14-3 in duals, 14-8 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Beck/Berankova (DUKE) - 11-2 at #2, 12-2 in duals, 15-3 overall<br>Pou/Parkhomenko (BAMA) - 0-0 at #2, 8-4 in duals, 9-4 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Chen/Drummy (DUKE) - 12-2 at #3, 13-2 in duals, 14-4 overall<br>Bencheikh/Orefice (BAMA) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
+We don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>
