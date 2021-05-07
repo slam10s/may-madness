@@ -1,11 +1,13 @@
 Second Round  
 Saturday, May 8 at 4:00 EDT  
+Cone-Kenfield Center  
 ## [Old Dominion vs #1 North Carolina](https://www.ncaa.com/game/5833679)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0B4071 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Old Dominion</h2>  
+&nbsp; Record: 13-4<br>  
 &nbsp; ITA: 30 (28.00)<br>  
 &nbsp; Slam: 28 (89.21)<br>  
 &nbsp; TRN: 25 (81.50)<br>  
@@ -19,6 +21,7 @@ Saturday, May 8 at 4:00 EDT
 <td>  
 
 <h2>#1 North Carolina</h2>  
+&nbsp; Record: 27-0<br>  
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  

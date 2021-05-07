@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 4:00 EDT  
+Texas Tennis Center  
 ## [Denver vs #2 Texas](https://www.ncaa.com/game/5833678)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></td><td style="background-color: #CB6015 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Denver</h2>  
+&nbsp; Record: 14-4<br>  
 &nbsp; ITA: 45 (11.66)<br>  
 &nbsp; Slam: 45 (84.92)<br>  
 &nbsp; TRN: 45 (76.03)<br>  
@@ -18,6 +20,7 @@ Friday, May 7 at 4:00 EDT
 <td>  
 
 <h2>#1 Texas</h2>  
+&nbsp; Record: 26-1<br>  
 &#10004; ITA: 2 (79.19)<br>  
 &#10004; Slam: 2 (98.44)<br>  
 &#10004; TRN: 2 (97.97)<br>  

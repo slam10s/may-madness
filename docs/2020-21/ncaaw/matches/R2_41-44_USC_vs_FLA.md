@@ -1,11 +1,13 @@
 Second Round  
 Saturday, May 8 at 4:00 EDT  
+Alfred A. Ring Tennis Complex  
 ## [Southern California vs #11 Florida](https://www.ncaa.com/game/5833689)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></td><td style="background-color: #003087 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Southern California</h2>  
+&nbsp; Record: 12-10<br>  
 &nbsp; ITA: 35 (23.17)<br>  
 &nbsp; Slam: 35 (87.72)<br>  
 &nbsp; TRN: 41 (78.74)<br>  
@@ -18,6 +20,7 @@ Saturday, May 8 at 4:00 EDT
 <td>  
 
 <h2>#1 Florida</h2>  
+&nbsp; Record: 13-7<br>  
 &#10004; ITA: 11 (49.18)<br>  
 &#10004; Slam: 16 (90.47)<br>  
 &#10004; TRN: 20 (82.70)<br>  

@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 2:00 EDT  
+Wake Forest Tennis Complex  
 ## [VCU vs Ohio St.](https://www.ncaa.com/game/5833396)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></td><td style="background-color: #CE0F3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 VCU</h2>  
+&nbsp; Record: 17-5<br>  
 &nbsp; ITA: 37 (23.44)<br>  
 &nbsp; Slam: 36 (92.40)<br>  
 &nbsp; TRN: 38 (90.23)<br>  
@@ -18,6 +20,7 @@ Friday, May 7 at 2:00 EDT
 <td>  
 
 <h2>#2 Ohio St.</h2>  
+&nbsp; Record: 21-3<br>  
 &#10004; ITA: 31 (26.40)<br>  
 &#10004; Slam: 7 (97.86)<br>  
 &#10004; TRN: 8 (97.23)<br>  

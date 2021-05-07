@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 2:00 EDT  
+J.W. Isenhour Tennis Center  
 ## [VCU vs #6 NC State](https://www.ncaa.com/game/5833670)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 VCU</h2>  
+&nbsp; Record: 14-10<br>  
 &nbsp; ITA: 49 (6.76)<br>  
 &nbsp; Slam: 48 (82.19)<br>  
 &nbsp; TRN: 48 (73.53)<br>  
@@ -17,6 +19,7 @@ Friday, May 7 at 2:00 EDT
 <td>  
 
 <h2>#1 NC State</h2>  
+&nbsp; Record: 17-5<br>  
 &#10004; ITA: 6 (55.66)<br>  
 &#10004; Slam: 11 (91.65)<br>  
 &#10004; TRN: 10 (84.27)<br>  

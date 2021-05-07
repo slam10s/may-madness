@@ -1,11 +1,13 @@
 Second Round  
 Saturday, May 8 at 4:00 EDT  
+Virginia Tennis Facility at the Boar’s Head Resort  
 ## [Tennessee vs #14 Virginia](https://www.ncaa.com/game/5833688)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Tennessee</h2>  
+&nbsp; Record: 17-8<br>  
 &nbsp; ITA: 15 (46.78)<br>  
 &nbsp; Slam: 19 (90.43)<br>  
 &nbsp; TRN: 19 (82.73)<br>  

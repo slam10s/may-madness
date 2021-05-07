@@ -17,11 +17,13 @@ The various metrics disagree on the outcome of these matches:
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
+- Sat, 5/08 at  4:00 EDT	[Auburn vs #7 Florida St.](./matches/R2_49-52_AUB_vs_FSU.md) ... FSU (82%) / AUB (18%)
 - Sat, 5/08 at 12:00 EDT	[Vanderbilt vs #15 Ohio St.](./matches/R2_57-60_VANDY_vs_OSU.md) ... OSU (85%) / VANDY (15%)
 - Sat, 5/08 at  2:00 EDT	[Iowa St. vs #6 NC State](./matches/R2_45-48_ISU_vs_NCST.md) ... NCST (91%) / ISU (9%)
 - Sat, 5/08 at  2:00 EDT	[North Florida vs #13 Georgia Tech](./matches/R2_25-28_UNF_vs_GT.md) ... GT (92%) / UNF (8%)
 - Sat, 5/08 at  4:00 EDT	[Old Dominion vs #1 North Carolina](./matches/R2_1-4_ODU_vs_UNC.md) ... UNC (93%) / ODU (7%)
 - Sat, 5/08 at  4:00 EDT	[Wake Forest vs #3 Georgia](./matches/R2_33-36_WAKE_vs_UGA.md) ... UGA (93%) / WAKE (7%)
+- Sat, 5/08 at  4:00 EDT	[Arizona St. vs #2 Texas](./matches/R2_61-64_AZST_vs_TEX.md) ... TEX (93%) / AZST (7%)
 ## First Round
 
 ### Intriguing Matches

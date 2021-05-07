@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 12:00 EDT  
+George P. Mitchell Tennis Center  
 ## [Denver vs Oklahoma](https://www.ncaa.com/game/5833376)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Denver</h2>  
+&nbsp; Record: 16-4<br>  
 &nbsp; ITA: 45 (17.16)<br>  
 &nbsp; Slam: 42 (91.67)<br>  
 &nbsp; TRN: 35 (90.56)<br>  
@@ -18,6 +20,7 @@ Friday, May 7 at 12:00 EDT
 <td>  
 
 <h2>#2 Oklahoma</h2>  
+&nbsp; Record: 11-14<br>  
 &#10004; ITA: 27 (29.42)<br>  
 &#10004; Slam: 29 (93.05)<br>  
 &#10004; TRN: 28 (91.23)<br>  

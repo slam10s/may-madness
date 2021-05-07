@@ -1,11 +1,13 @@
 Second Round  
 Saturday, May 8 at 2:00 EDT  
+LSU Tennis Complex  
 ## [Michigan vs #12 LSU](https://www.ncaa.com/game/5833684)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Michigan</h2>  
+&nbsp; Record: 18-3<br>  
 &nbsp; ITA: 19 (41.22)<br>  
 &#10004; Slam: 8 (91.95)<br>  
 &#10004; TRN: 8 (85.13)<br>  

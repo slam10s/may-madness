@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 5:00 EDT  
+Ralphs-Straus Tennis Center  
 ## [Northern Ariz. vs #5 Pepperdine](https://www.ncaa.com/game/5833655)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></td><td style="background-color: #F46F1B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Northern Ariz.</h2>  
+&nbsp; Record: 14-4<br>  
 &nbsp; ITA: 54 (3.85)<br>  
 &nbsp; Slam: 51 (79.81)<br>  
 &nbsp; TRN: 53 (69.11)<br>  
@@ -17,6 +19,7 @@ Friday, May 7 at 5:00 EDT
 <td>  
 
 <h2>#1 Pepperdine</h2>  
+&nbsp; Record: 20-3<br>  
 &#10004; ITA: 5 (60.71)<br>  
 &#10004; Slam: 6 (92.64)<br>  
 &#10004; TRN: 6 (85.86)<br>  

@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 3:00 EDT  
+Hurd Tennis Center  
 ## [Alabama vs Duke](https://www.ncaa.com/game/5833653)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></td><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Alabama</h2>  
+&nbsp; Record: 12-13<br>  
 &nbsp; ITA: 42 (16.54)<br>  
 &nbsp; Slam: 44 (86.23)<br>  
 &nbsp; TRN: 44 (78.28)<br>  
@@ -18,6 +20,7 @@ Friday, May 7 at 3:00 EDT
 <td>  
 
 <h2>#2 Duke</h2>  
+&nbsp; Record: 16-6<br>  
 &#10004; ITA: 17 (43.03)<br>  
 &#10004; Slam: 14 (90.91)<br>  
 &#10004; TRN: 15 (83.33)<br>  

@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 2:00 EDT  
+LSU Tennis Complex  
 ## [Boston U. vs #12 LSU](https://www.ncaa.com/game/5833658)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Boston U.</h2>  
+&nbsp; Record: 10-2<br>  
 &nbsp; ITA: 50 (5.16)<br>  
 &nbsp; Slam: 54 (78.65)<br>  
 &nbsp; TRN: 51 (71.29)<br>  
@@ -17,6 +19,7 @@ Friday, May 7 at 2:00 EDT
 <td>  
 
 <h2>#1 LSU</h2>  
+&nbsp; Record: 15-5<br>  
 &#10004; ITA: 12 (48.73)<br>  
 &#10004; Slam: 21 (90.28)<br>  
 &#10004; TRN: 18 (82.92)<br>  

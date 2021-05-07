@@ -2,10 +2,11 @@ Second Round
 Saturday, May 8 at 1:00 EDT  
 ## [NC State vs #13 South Carolina](https://www.ncaa.com/game/5833408)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 NC State</h2>  
+&nbsp; Record: 12-8<br>  
 &nbsp; ITA: 23 (32.39)<br>  
 &nbsp; Slam: 19 (94.44)<br>  
 &nbsp; TRN: 22 (92.30)<br>  

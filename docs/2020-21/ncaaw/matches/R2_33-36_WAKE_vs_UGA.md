@@ -1,11 +1,13 @@
 Second Round  
 Saturday, May 8 at 4:00 EDT  
+Dan Magill Tennis Complex  
 ## [Wake Forest vs #3 Georgia](https://www.ncaa.com/game/5833687)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></td><td style="background-color: #DA291C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Wake Forest</h2>  
+&nbsp; Record: 12-12<br>  
 &nbsp; ITA: 33 (25.77)<br>  
 &nbsp; Slam: 32 (88.11)<br>  
 &nbsp; TRN: 31 (80.20)<br>  
@@ -18,6 +20,7 @@ Saturday, May 8 at 4:00 EDT
 <td>  
 
 <h2>#1 Georgia</h2>  
+&nbsp; Record: 21-1<br>  
 &#10004; ITA: 3 (74.01)<br>  
 &#10004; Slam: 3 (97.81)<br>  
 &#10004; TRN: 3 (94.01)<br>  

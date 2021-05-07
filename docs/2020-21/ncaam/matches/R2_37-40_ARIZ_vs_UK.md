@@ -1,11 +1,13 @@
 Second Round  
 Saturday, May 8 at 1:00 EDT  
+Boone Tennis Complex  
 ## [Arizona vs #14 Kentucky](https://www.ncaa.com/game/5833411)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#2 Arizona</h2>  
+&nbsp; Record: 20-7<br>  
 &nbsp; ITA: 17 (38.97)<br>  
 &nbsp; Slam: 21 (94.26)<br>  
 &nbsp; TRN: 20 (92.43)<br>  

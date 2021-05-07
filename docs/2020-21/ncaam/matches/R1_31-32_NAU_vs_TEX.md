@@ -1,11 +1,13 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
+Texas Tennis Center  
 ## [Northern Ariz. vs #4 Texas](https://www.ncaa.com/game/5833385)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></td><td style="background-color: #CB6015 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Northern Ariz.</h2>  
+&nbsp; Record: 8-8<br>  
 &nbsp; ITA: 61 (2.13)<br>  
 &nbsp; Slam: 58 (82.40)<br>  
 &nbsp; TRN: 60 (77.79)<br>  
@@ -17,6 +19,7 @@ Saturday, May 8 at 1:00 EDT
 <td>  
 
 <h2>#1 Texas</h2>  
+&nbsp; Record: 20-5<br>  
 &#10004; ITA: 5 (74.24)<br>  
 &#10004; Slam: 8 (97.59)<br>  
 &#10004; TRN: 7 (97.63)<br>  

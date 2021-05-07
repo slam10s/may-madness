@@ -1,11 +1,13 @@
 Second Round  
 Saturday, May 8 at 2:00 EDT  
+J.W. Isenhour Tennis Center  
 ## [Iowa St. vs #6 NC State](https://www.ncaa.com/game/5833690)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #A6192E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Iowa St.</h2>  
+&nbsp; Record: 14-7<br>  
 &nbsp; ITA: 36 (22.35)<br>  
 &nbsp; Slam: 41 (86.71)<br>  
 &nbsp; TRN: 42 (78.56)<br>  

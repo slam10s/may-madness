@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
+Texas Tennis Center  
 ## [Mississippi St. vs Arizona St.](https://www.ncaa.com/game/5833677)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #6F2C3F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></td><td style="background-color: #8A0C3C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Mississippi St.</h2>  
+&nbsp; Record: 11-13<br>  
 &nbsp; ITA: 38 (19.84)<br>  
 &nbsp; Slam: 42 (86.60)<br>  
 &nbsp; TRN: 39 (78.82)<br>  
@@ -18,6 +20,7 @@ Friday, May 7 at 1:00 EDT
 <td>  
 
 <h2>#2 Arizona St.</h2>  
+&nbsp; Record: 15-8<br>  
 &#10004; ITA: 31 (26.09)<br>  
 &#10004; Slam: 31 (88.20)<br>  
 &#10004; TRN: 33 (79.83)<br>  

@@ -1,11 +1,13 @@
 First Round  
 Saturday, May 8 at 10:00 EDT  
+Virginia Tennis Facility at the Boar’s Head Resort  
 ## [LSU vs Stanford](https://www.ncaa.com/game/5833379)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 LSU</h2>  
+&nbsp; Record: 12-12<br>  
 &nbsp; ITA: 40 (19.17)<br>  
 &nbsp; Slam: 38 (92.17)<br>  
 &nbsp; TRN: 39 (90.14)<br>  
@@ -18,6 +20,7 @@ Saturday, May 8 at 10:00 EDT
 <td>  
 
 <h2>#2 Stanford</h2>  
+&nbsp; Record: 10-5<br>  
 &#10004; ITA: 21 (34.55)<br>  
 &#10004; Slam: 22 (94.00)<br>  
 &#10004; TRN: 21 (92.30)<br>  

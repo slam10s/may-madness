@@ -1,11 +1,13 @@
 Second Round  
 Saturday, May 8 at 2:00 EDT  
+Ken Byers Tennis Complex  
 ## [North Florida vs #13 Georgia Tech](https://www.ncaa.com/game/5833685)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-florida.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-florida.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 North Florida</h2>  
+&nbsp; Record: 18-7<br>  
 &nbsp; ITA: 48 (8.00)<br>  
 &nbsp; Slam: 46 (84.69)<br>  
 &nbsp; TRN: 46 (75.83)<br>  

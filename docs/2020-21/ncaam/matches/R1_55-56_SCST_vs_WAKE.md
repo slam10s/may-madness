@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 5:00 EDT  
+Wake Forest Tennis Complex  
 ## [South Carolina St. vs #10 Wake Forest](https://www.ncaa.com/game/5833397)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 South Carolina St.</h2>  
+&nbsp; Record: 7-5<br>  
 &nbsp; ITA: 65 (0.72)<br>  
 &nbsp; Slam: 63 (81.19)<br>  
 &nbsp; TRN: 63 (76.54)<br>  
@@ -17,6 +19,7 @@ Friday, May 7 at 5:00 EDT
 <td>  
 
 <h2>#1 Wake Forest</h2>  
+&nbsp; Record: 28-6<br>  
 &#10004; ITA: 9 (56.82)<br>  
 &#10004; Slam: 10 (97.17)<br>  
 &#10004; TRN: 10 (95.99)<br>  

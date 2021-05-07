@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 6:00 EDT  
+Hurd Tennis Center  
 ## [A&M-Corpus Christi vs #8 Baylor](https://www.ncaa.com/game/5833654)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005EB8 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 A&M-Corpus Christi</h2>  
+&nbsp; Record: 21-4<br>  
 &nbsp; ITA: 56 (3.61)<br>  
 &nbsp; Slam: 55 (78.55)<br>  
 &nbsp; TRN: 55 (67.73)<br>  
@@ -17,6 +19,7 @@ Friday, May 7 at 6:00 EDT
 <td>  
 
 <h2>#1 Baylor</h2>  
+&nbsp; Record: 23-4<br>  
 &#10004; ITA: 8 (52.73)<br>  
 &#10004; Slam: 7 (92.44)<br>  
 &#10004; TRN: 4 (89.86)<br>  

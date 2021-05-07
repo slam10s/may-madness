@@ -1,11 +1,13 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
+Barksdale Stadium  
 ## [Alabama A&M vs #3 Tennessee](https://www.ncaa.com/game/5833386)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png" width="70" height="70" /></td><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Alabama A&M</h2>  
+&nbsp; Record: 6-6<br>  
 &nbsp; ITA: 63 (1.60)<br>  
 &nbsp; Slam: 64 (76.01)<br>  
 &nbsp; TRN: 64 (72.43)<br>  
@@ -17,6 +19,7 @@ Saturday, May 8 at 1:00 EDT
 <td>  
 
 <h2>#1 Tennessee</h2>  
+&nbsp; Record: 24-3<br>  
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.18)<br>  
 &#10004; TRN: 5 (98.72)<br>  

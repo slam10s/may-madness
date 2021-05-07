@@ -14,6 +14,12 @@ The metrics agree on the winner, but not by a lot:
 The metrics agree on the winner, but not by a lot:
 
 - Sat, 5/08 at  1:00 EDT	[NC State vs #13 South Carolina](./matches/R2_25-28_NCST_vs_SCAR.md) ... SCAR (78%) / NCST (22%)
+
+### Heavy Favorites
+
+The favorite is expected to win at least 4 out of every 5 these teams play:
+
+- Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... A&M (89%) / OKLA (11%)
 ## First Round
 
 ### Intriguing Matches

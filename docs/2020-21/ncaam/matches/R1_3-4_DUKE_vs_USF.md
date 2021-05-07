@@ -1,11 +1,13 @@
 First Round  
 Saturday, May 8 at 10:00 EDT  
+Alfred A. Ring Tennis Complex  
 ## [Duke vs South Fla.](https://www.ncaa.com/game/5833371)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></td><td style="background-color: #006747 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Duke</h2>  
+&nbsp; Record: 12-10<br>  
 &nbsp; ITA: 35 (25.15)<br>  
 &#10004; Slam: 31 (93.00)<br>  
 &nbsp; TRN: 36 (90.55)<br>  
@@ -18,6 +20,7 @@ Saturday, May 8 at 10:00 EDT
 <td>  
 
 <h2>#2 South Fla.</h2>  
+&nbsp; Record: 16-9<br>  
 &#10004; ITA: 32 (26.14)<br>  
 &nbsp; Slam: 32 (92.98)<br>  
 &#10004; TRN: 34 (90.69)<br>  

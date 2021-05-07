@@ -1,11 +1,13 @@
 First Round  
 Friday, May 7 at 10:00 EDT  
+Boone Tennis Complex  
 ## [Michigan vs Arizona](https://www.ncaa.com/game/5833388)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></td><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Michigan</h2>  
+&nbsp; Record: 15-5<br>  
 &nbsp; ITA: 46 (15.17)<br>  
 &#10004; Slam: 13 (96.42)<br>  
 &#10004; TRN: 12 (95.88)<br>  
@@ -19,6 +21,7 @@ Friday, May 7 at 10:00 EDT
 <td>  
 
 <h2>#2 Arizona</h2>  
+&nbsp; Record: 20-7<br>  
 &#10004; ITA: 17 (38.97)<br>  
 &nbsp; Slam: 21 (94.26)<br>  
 &nbsp; TRN: 20 (92.43)<br>  
