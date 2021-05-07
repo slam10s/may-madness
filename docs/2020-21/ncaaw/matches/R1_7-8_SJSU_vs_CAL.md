@@ -38,6 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***CAL*** - #17 California (99%) def. #50 San Jose St. (1%)  
 - TRN: ***CAL*** - #17 California (99%) def. #49 San Jose St. (1%)  
 - Massey: ***CAL*** - #14 California (75%) def. #49 San Jose St. (25%)  
+- Lineup: ***CAL*** - California (100%) def. San Jose St. (0%)  
+- Composite: ***CAL*** - California (92%) def. San Jose St. (8%)  
 - UTR: ***CAL*** - #15 California (+6.78) def. #50 San Jose St. (-6.78)  
 - ITA: ***CAL*** - #16 California def. #47 San Jose St.  
 - USTA Poll: ***CAL*** - #13 California def. San Jose St.  
@@ -58,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>CAL</i></b> - Giavara (95%) def. Galindo (5%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Giavara (75%) def. Galindo (25%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Giavara (91%) def. Galindo (9%)</li>  
-<li>Average: <b><i>CAL</i></b> - Giavara (89%) def. Galindo (11%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Giavara (88%) def. Galindo (12%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Giavara (18.44) def. Galindo (2.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>CAL</i></b> - Rosenqvist (97%) def. Youseva (3%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Rosenqvist (75%) def. Youseva (25%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Rosenqvist (98%) def. Youseva (2%)</li>  
-<li>Average: <b><i>CAL</i></b> - Rosenqvist (91%) def. Youseva (9%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Rosenqvist (91%) def. Youseva (9%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Rosenqvist (2.23) def. Youseva (1.67)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -80,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>CAL</i></b> - Ivanov (92%) def. Muradyan (8%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Ivanov (75%) def. Muradyan (25%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Ivanov (91%) def. Muradyan (9%)</li>  
-<li>Average: <b><i>CAL</i></b> - Ivanov (88%) def. Muradyan (12%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Ivanov (87%) def. Muradyan (13%)</li>  
 <li>ITA: <b><i>SJSU</i></b> - Muradyan (3.64) def. Ivanov (1.97)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -91,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>CAL</i></b> - Bui (99%) def. Mas (1%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Bui (75%) def. Mas (25%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Bui (94%) def. Mas (6%)</li>  
-<li>Average: <b><i>CAL</i></b> - Bui (91%) def. Mas (9%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Bui (91%) def. Mas (9%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Bui (1.95) def. Mas (1.77)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -102,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>CAL</i></b> - Moeller (98%) def. Pereira (2%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Moeller (75%) def. Pereira (25%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Moeller (99%) def. Pereira (1%)</li>  
-<li>Average: <b><i>CAL</i></b> - Moeller (93%) def. Pereira (7%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Moeller (92%) def. Pereira (8%)</li>  
 <li>ITA: <b><i>SJSU</i></b> - Pereira (3.01) def. Moeller (1.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -113,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>CAL</i></b> - Bright (99%) def. Babic (1%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Bright (75%) def. Babic (25%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Bright (97%) def. Babic (3%)</li>  
-<li>Average: <b><i>CAL</i></b> - Bright (92%) def. Babic (8%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Bright (92%) def. Babic (8%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Bright (2.79) def. Babic (2.68)</li>  
 </ul>
 </details>&nbsp;</li>

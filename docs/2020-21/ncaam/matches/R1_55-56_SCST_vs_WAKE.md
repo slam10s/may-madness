@@ -38,6 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
 - TRN: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
 - Massey: ***WAKE*** - #13 Wake Forest (75%) def. #63 South Carolina St. (25%)  
+- Lineup: ***WAKE*** - Wake Forest (100%) def. South Carolina St. (0%)  
+- Composite: ***WAKE*** - Wake Forest (93%) def. South Carolina St. (7%)  
 - UTR: ***WAKE*** - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)  
 - ITA: ***WAKE*** - #9 Wake Forest def. #65 South Carolina St.  
 - USTA Poll: ***WAKE*** - #12 Wake Forest def. South Carolina St.  
@@ -58,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WAKE</i></b> - Squire (100%) def. Daskalovic (0%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Squire (75%) def. Daskalovic (25%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Squire (99%) def. Daskalovic (1%)</li>  
-<li>Average: <b><i>WAKE</i></b> - Squire (93%) def. Daskalovic (7%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Squire (93%) def. Daskalovic (7%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Squire (38.10) def. Daskalovic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WAKE</i></b> - Nava (99%) def. Rodriguez (1%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Nava (75%) def. Rodriguez (25%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Nava (97%) def. Rodriguez (3%)</li>  
-<li>Average: <b><i>WAKE</i></b> - Nava (92%) def. Rodriguez (8%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Nava (92%) def. Rodriguez (8%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Nava (19.97) def. Rodriguez (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -80,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WAKE</i></b> - Baadi (100%) def. Marouani (0%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Baadi (75%) def. Marouani (25%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Baadi (99%) def. Marouani (1%)</li>  
-<li>Average: <b><i>WAKE</i></b> - Baadi (93%) def. Marouani (7%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Baadi (93%) def. Marouani (7%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Baadi (6.71) def. Marouani (1.53)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -91,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WAKE</i></b> - Cungu (99%) def. Gorgun (1%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Cungu (75%) def. Gorgun (25%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Cungu (98%) def. Gorgun (2%)</li>  
-<li>Average: <b><i>WAKE</i></b> - Cungu (93%) def. Gorgun (7%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Cungu (92%) def. Gorgun (8%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Cungu (3.35) def. Gorgun (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -102,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WAKE</i></b> - Efstathiou (100%) def. Arzaluz (0%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Efstathiou (75%) def. Arzaluz (25%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Efstathiou (99%) def. Arzaluz (1%)</li>  
-<li>Average: <b><i>WAKE</i></b> - Efstathiou (93%) def. Arzaluz (7%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Efstathiou (93%) def. Arzaluz (7%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Efstathiou (2.09) def. Arzaluz (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -113,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WAKE</i></b> - Banthia (100%) def. Stefanovic (0%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Banthia (75%) def. Stefanovic (25%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Banthia (99%) def. Stefanovic (1%)</li>  
-<li>Average: <b><i>WAKE</i></b> - Banthia (93%) def. Stefanovic (7%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Banthia (93%) def. Stefanovic (7%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Banthia (2.98) def. Stefanovic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

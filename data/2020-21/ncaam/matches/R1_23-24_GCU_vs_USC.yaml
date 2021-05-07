@@ -39,6 +39,8 @@ Predictions:
   SLM: "USC - #14 Southern California (99%) def. #62 Grand Canyon (1%)"
   TRN: "USC - #16 Southern California (99%) def. #62 Grand Canyon (1%)"
   MAS: "USC - #8 Southern California (75%) def. #62 Grand Canyon (25%)"
+  LNUP: USC - Southern California (100%) def. Grand Canyon (0%)
+  AVG: USC - Southern California (93%) def. Grand Canyon (7%)
   UTR: "USC - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)"
   ITA: "USC - #12 Southern California def. #64 Grand Canyon"
   USTA: "USC - #13 Southern California def. Grand Canyon"
@@ -46,8 +48,8 @@ Predictions:
   Seeding: "USC - #1 Southern California def. #4 Grand Canyon"
 Lineups:
   Predictions:
-    Average EWPs for USC: 92%,92%,93%,93%,93%,91%
-    Average EWPs for GCU: 8%,8%,7%,7%,7%,9%
+    Average EWPs for USC: 92%,92%,92%,92%,92%,91%
+    Average EWPs for GCU: 8%,8%,8%,8%,8%,9%
     USC wins 4 or more Singles points: 99%
     GCU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -80,7 +82,7 @@ Lineups:
         TRN: USC - Dostanic (99%) def. Cvitanovic (1%)
         MAS: USC - Dostanic (75%) def. Cvitanovic (25%)
         UTR: USC - Dostanic (98%) def. Cvitanovic (2%)
-        AVG: USC - Dostanic (93%) def. Cvitanovic (7%)
+        AVG: USC - Dostanic (92%) def. Cvitanovic (8%)
         ITA: USC - Dostanic (5.43) def. Cvitanovic (0.00)
     - Position: 4
       USC: Bradley Frye - 9-2 at 4, 15-4 in duals, 17-4 overall
@@ -90,7 +92,7 @@ Lineups:
         TRN: USC - Frye (99%) def. Silva (1%)
         MAS: USC - Frye (75%) def. Silva (25%)
         UTR: USC - Frye (98%) def. Silva (2%)
-        AVG: USC - Frye (93%) def. Silva (7%)
+        AVG: USC - Frye (92%) def. Silva (8%)
         ITA: USC - Frye (2.44) def. Silva (1.73)
     - Position: 5
       USC: Lodewijk Weststrate - 9-3 at 5, 21-4 in duals, 23-4 overall
@@ -100,7 +102,7 @@ Lineups:
         TRN: USC - Weststrate (99%) def. Novak (1%)
         MAS: USC - Weststrate (75%) def. Novak (25%)
         UTR: USC - Weststrate (98%) def. Novak (2%)
-        AVG: USC - Weststrate (93%) def. Novak (7%)
+        AVG: USC - Weststrate (92%) def. Novak (8%)
         ITA: USC - Weststrate (2.93) def. Novak (1.55)
     - Position: 6
       USC: Jake Sands - 8-3 at 6, 14-4 in duals, 14-4 overall

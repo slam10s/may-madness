@@ -39,6 +39,8 @@ Predictions:
   SLM: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
   TRN: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
   MAS: "WAKE - #13 Wake Forest (75%) def. #63 South Carolina St. (25%)"
+  LNUP: WAKE - Wake Forest (100%) def. South Carolina St. (0%)
+  AVG: WAKE - Wake Forest (93%) def. South Carolina St. (7%)
   UTR: "WAKE - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)"
   ITA: "WAKE - #9 Wake Forest def. #65 South Carolina St."
   USTA: "WAKE - #12 Wake Forest def. South Carolina St."
@@ -46,11 +48,11 @@ Predictions:
   Seeding: "WAKE - #1 Wake Forest def. #4 South Carolina St."
 Lineups:
   Predictions:
-    Average EWPs for WAKE: 93%,92%,93%,93%,93%,93%
-    Average EWPs for SCST: 7%,8%,7%,7%,7%,7%
-    WAKE wins 4 or more Singles points: 100%
+    Average EWPs for WAKE: 93%,92%,93%,92%,93%,93%
+    Average EWPs for SCST: 7%,8%,7%,8%,7%,7%
+    WAKE wins 4 or more Singles points: 99%
     SCST wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 0%
+    Winner decided by the Doubles point: 1%
   Singles:
     - Position: 1
       WAKE: Henri Squire - 15-6 at 1, 15-6 in duals, 15-6 overall
@@ -90,7 +92,7 @@ Lineups:
         TRN: WAKE - Cungu (99%) def. Gorgun (1%)
         MAS: WAKE - Cungu (75%) def. Gorgun (25%)
         UTR: WAKE - Cungu (98%) def. Gorgun (2%)
-        AVG: WAKE - Cungu (93%) def. Gorgun (7%)
+        AVG: WAKE - Cungu (92%) def. Gorgun (8%)
         ITA: WAKE - Cungu (3.35) def. Gorgun (0.00)
     - Position: 5
       WAKE: Melios Efstathiou - 6-2 at 5, 12-6 in duals, 12-6 overall

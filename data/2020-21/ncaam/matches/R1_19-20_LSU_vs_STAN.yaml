@@ -40,6 +40,8 @@ Predictions:
   SLM: "STAN - #22 Stanford (74%) def. #38 LSU (26%)"
   TRN: "STAN - #21 Stanford (77%) def. #39 LSU (23%)"
   MAS: "STAN - #20 Stanford (75%) def. #47 LSU (25%)"
+  LNUP: STAN - Stanford (98%) def. LSU (2%)
+  AVG: STAN - Stanford (80%) def. LSU (20%)
   UTR: "STAN - #5 Stanford (+4.64) def. #42 LSU (-4.64)"
   ITA: "STAN - #21 Stanford def. #40 LSU"
   USTA: "STAN - #20 Stanford def. LSU"
@@ -47,11 +49,11 @@ Predictions:
   Seeding: "STAN - #2 Stanford def. #3 LSU"
 Lineups:
   Predictions:
-    Average EWPs for STAN: 76%,87%,85%,82%,83%,76%
-    Average EWPs for LSU: 24%,13%,15%,18%,17%,24%
+    Average EWPs for STAN: 76%,86%,85%,82%,83%,76%
+    Average EWPs for LSU: 24%,14%,15%,18%,17%,24%
     STAN wins 4 or more Singles points: 92%
-    LSU wins 4 or more Singles points: 2%
-    Winner decided by the Doubles point: 6%
+    LSU wins 4 or more Singles points: 1%
+    Winner decided by the Doubles point: 7%
   Singles:
     - Position: 1
       STAN: Axel Geller - 5-6 at 1, 6-6 in duals, 6-6 overall
@@ -71,7 +73,7 @@ Lineups:
         TRN: STAN - Fery (92%) def. Wagner (8%)
         MAS: STAN - Fery (75%) def. Wagner (25%)
         UTR: STAN - Fery (94%) def. Wagner (6%)
-        AVG: STAN - Fery (87%) def. Wagner (13%)
+        AVG: STAN - Fery (86%) def. Wagner (14%)
         ITA: STAN - Fery (8.87) def. Wagner (6.22)
     - Position: 3
       STAN: Tristan Boyer - 1-1 at 3, 8-5 in duals, 8-5 overall

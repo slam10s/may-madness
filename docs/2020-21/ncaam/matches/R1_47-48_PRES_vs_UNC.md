@@ -38,6 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UNC*** - #3 North Carolina (99%) def. #59 Presbyterian (1%)  
 - TRN: ***UNC*** - #2 North Carolina (99%) def. #59 Presbyterian (1%)  
 - Massey: ***UNC*** - #4 North Carolina (75%) def. #61 Presbyterian (25%)  
+- Lineup: ***UNC*** - North Carolina (100%) def. Presbyterian (0%)  
+- Composite: ***UNC*** - North Carolina (93%) def. Presbyterian (7%)  
 - UTR: ***UNC*** - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)  
 - ITA: ***UNC*** - #6 North Carolina def. #59 Presbyterian  
 - USTA Poll: ***UNC*** - #5 North Carolina def. Presbyterian  
@@ -58,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Blumberg (99%) def. Benson (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Blumberg (75%) def. Benson (25%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Blumberg (97%) def. Benson (3%)</li>  
-<li>Average: <b><i>UNC</i></b> - Blumberg (92%) def. Benson (8%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Blumberg (92%) def. Benson (8%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Blumberg (21.87) def. Benson (2.12)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Hijikata (75%) def. Dominguez (25%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Hijikata (98%) def. Dominguez (2%)</li>  
-<li>Average: <b><i>UNC</i></b> - Hijikata (93%) def. Dominguez (7%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Hijikata (92%) def. Dominguez (8%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Hijikata (27.96) def. Dominguez (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -80,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Sigouin (96%) def. McKinney (4%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Sigouin (75%) def. McKinney (25%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Sigouin (89%) def. McKinney (11%)</li>  
-<li>Average: <b><i>UNC</i></b> - Sigouin (89%) def. McKinney (11%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Sigouin (89%) def. McKinney (11%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Sigouin (13.85) def. McKinney (3.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -91,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Cernoch (75%) def. Babic (25%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
-<li>Average: <b><i>UNC</i></b> - Cernoch (93%) def. Babic (7%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Cernoch (92%) def. Babic (8%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Cernoch (12.67) def. Babic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -102,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Peck (99%) def. Stenger (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Peck (75%) def. Stenger (25%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Peck (98%) def. Stenger (2%)</li>  
-<li>Average: <b><i>UNC</i></b> - Peck (92%) def. Stenger (8%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Peck (92%) def. Stenger (8%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Peck (4.29) def. Stenger (1.37)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -113,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Soendergaard (99%) def. Matos (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Soendergaard (75%) def. Matos (25%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Soendergaard (95%) def. Matos (5%)</li>  
-<li>Average: <b><i>UNC</i></b> - Soendergaard (92%) def. Matos (8%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Soendergaard (91%) def. Matos (9%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Soendergaard (3.62) def. Matos (2.56)</li>  
 </ul>
 </details>&nbsp;</li>

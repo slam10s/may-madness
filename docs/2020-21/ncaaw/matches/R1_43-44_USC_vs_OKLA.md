@@ -39,6 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***OKLA*** - #13 Oklahoma (87%) def. #35 Southern California (13%)  
 - TRN: ***OKLA*** - #22 Oklahoma (88%) def. #41 Southern California (12%)  
 - Massey: ***OKLA*** - #12 Oklahoma (75%) def. #26 Southern California (25%)  
+- Lineup: ***USC*** - Southern California (89%) def. Oklahoma (11%)  
+- Composite: ***USC*** - Southern California (51%) def. Oklahoma (49%)  
 - UTR: ***USC*** - #6 Southern California (+1.96) def. #14 Oklahoma (-1.96)  
 - ITA: ***OKLA*** - #23 Oklahoma def. #35 Southern California  
 - USTA Poll: ***OKLA*** - #22 Oklahoma def. Southern California  
@@ -59,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Ewing (85%) def. Corley (15%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Corley (75%) def. Ewing (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Ewing (80%) def. Corley (20%)</li>  
-<li>Average: <b><i>USC</i></b> - Ewing (62%) def. Corley (38%)</li>  
+<li>Composite: <b><i>USC</i></b> - Ewing (68%) def. Corley (32%)</li>  
 <li>ITA: <b><i>USC</i></b> - Ewing (14.56) def. Corley (9.20)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -70,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Cayetano (60%) def. Guzman (40%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Guzman (75%) def. Cayetano (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cayetano (66%) def. Guzman (34%)</li>  
-<li>Average: <b><i>USC</i></b> - Cayetano (52%) def. Guzman (48%)</li>  
+<li>Composite: <b><i>USC</i></b> - Cayetano (55%) def. Guzman (45%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Guzman (9.21) def. Cayetano (5.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -81,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKLA</i></b> - Corley (100%) def. Kulikov (0%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Corley (75%) def. Kulikov (25%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Corley (99%) def. Kulikov (1%)</li>  
-<li>Average: <b><i>OKLA</i></b> - Corley (93%) def. Kulikov (7%)</li>  
+<li>Composite: <b><i>OKLA</i></b> - Corley (93%) def. Kulikov (7%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Corley (6.90) def. Kulikov (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -92,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Cheong (80%) def. Capurro (20%)</li>  
 <li>Massey: <b><i>USC</i></b> - Cheong (75%) def. Capurro (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cheong (81%) def. Capurro (19%)</li>  
-<li>Average: <b><i>USC</i></b> - Cheong (79%) def. Capurro (21%)</li>  
+<li>Composite: <b><i>USC</i></b> - Cheong (79%) def. Capurro (21%)</li>  
 <li>ITA: <b><i>USC</i></b> - Cheong (4.19) def. Capurro (1.84)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -103,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Willson (71%) def. Motosono (29%)</li>  
 <li>Massey: <b><i>USC</i></b> - Willson (75%) def. Motosono (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Willson (78%) def. Motosono (22%)</li>  
-<li>Average: <b><i>USC</i></b> - Willson (73%) def. Motosono (27%)</li>  
+<li>Composite: <b><i>USC</i></b> - Willson (74%) def. Motosono (26%)</li>  
 <li>ITA: <b><i>USC</i></b> - Willson (1.74) def. Motosono (1.65)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -114,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
 <li>Massey: <b><i>USC</i></b> - Dvorak (75%) def. Romero (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
-<li>Average: <b><i>USC</i></b> - Dvorak (93%) def. Romero (7%)</li>  
+<li>Composite: <b><i>USC</i></b> - Dvorak (99%) def. Romero (1%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dvorak (1.85) def. Romero (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

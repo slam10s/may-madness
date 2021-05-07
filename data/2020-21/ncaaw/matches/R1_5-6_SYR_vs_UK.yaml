@@ -40,6 +40,8 @@ Predictions:
   SLM: "UK - #25 Kentucky (83%) def. #43 Syracuse (17%)"
   TRN: "UK - #27 Kentucky (84%) def. #43 Syracuse (16%)"
   MAS: "UK - #33 Kentucky (75%) def. #42 Syracuse (25%)"
+  LNUP: SYR - Syracuse (51%) def. Kentucky (49%)
+  AVG: UK - Kentucky (71%) def. Syracuse (29%)
   UTR: "UK - #34 Kentucky (+1.47) def. #43 Syracuse (-1.47)"
   ITA: "UK - #26 Kentucky def. #43 Syracuse"
   USTA: "UK - #24 Kentucky def. Syracuse"
@@ -47,11 +49,11 @@ Predictions:
   Seeding: "UK - #2 Kentucky def. #3 Syracuse"
 Lineups:
   Predictions:
-    Average EWPs for UK: 34%,77%,73%,60%,56%,36%
-    Average EWPs for SYR: 66%,23%,27%,40%,44%,64%
-    UK wins 4 or more Singles points: 46%
-    SYR wins 4 or more Singles points: 22%
-    Winner decided by the Doubles point: 32%
+    Average EWPs for UK: 33%,76%,73%,59%,52%,3%
+    Average EWPs for SYR: 67%,24%,27%,41%,48%,97%
+    UK wins 4 or more Singles points: 31%
+    SYR wins 4 or more Singles points: 32%
+    Winner decided by the Doubles point: 37%
   Singles:
     - Position: 1
       UK: Akvile Parazinskaite - 16-6 at 1, 16-6 in duals, 19-10 overall
@@ -61,7 +63,7 @@ Lineups:
         TRN: SYR - Kanapatskaya (65%) def. Parazinskaite (35%)
         MAS: SYR - Kanapatskaya (75%) def. Parazinskaite (25%)
         UTR: SYR - Kanapatskaya (64%) def. Parazinskaite (36%)
-        AVG: SYR - Kanapatskaya (66%) def. Parazinskaite (34%)
+        AVG: SYR - Kanapatskaya (67%) def. Parazinskaite (33%)
         ITA: SYR - Kanapatskaya (30.96) def. Parazinskaite (0.00)
     - Position: 2
       UK: Lesedi Jacobs - 0-1 at 2, 9-5 in duals, 11-8 overall
@@ -71,7 +73,7 @@ Lineups:
         TRN: UK - Jacobs (76%) def. Yusupova (24%)
         MAS: UK - Jacobs (75%) def. Yusupova (25%)
         UTR: UK - Jacobs (89%) def. Yusupova (11%)
-        AVG: UK - Jacobs (77%) def. Yusupova (23%)
+        AVG: UK - Jacobs (76%) def. Yusupova (24%)
         ITA: UK - Jacobs (5.00) def. Yusupova (4.12)
     - Position: 3
       UK: Carlota Molina - 1-1 at 3, 12-7 in duals, 12-13 overall
@@ -91,7 +93,7 @@ Lineups:
         TRN: UK - Stevens (65%) def. Ramirez (35%)
         MAS: UK - Stevens (75%) def. Ramirez (25%)
         UTR: SYR - Ramirez (57%) def. Stevens (43%)
-        AVG: UK - Stevens (60%) def. Ramirez (40%)
+        AVG: UK - Stevens (59%) def. Ramirez (41%)
     - Position: 5
       UK: Carla Girbau - 2-1 at 5, 9-9 in duals, 11-14 overall
       SYR: Zeynep Erman - 3-4 at 5, 4-4 in duals, 4-4 overall
@@ -100,7 +102,7 @@ Lineups:
         TRN: UK - Girbau (61%) def. Erman (39%)
         MAS: SYR - Erman (75%) def. Girbau (25%)
         UTR: UK - Girbau (74%) def. Erman (26%)
-        AVG: UK - Girbau (56%) def. Erman (44%)
+        AVG: UK - Girbau (52%) def. Erman (48%)
         ITA: SYR - Erman (1.82) def. Girbau (0.00)
     - Position: 6
       UK: Fiona Arrese - 2-1 at 6, 10-4 in duals, 10-9 overall
@@ -110,7 +112,7 @@ Lineups:
         TRN: UK - Arrese (57%) def. Kozyreva (43%)
         MAS: SYR - Kozyreva (75%) def. Arrese (25%)
         UTR: SYR - Kozyreva (100%) def. Arrese (0%)
-        AVG: SYR - Kozyreva (64%) def. Arrese (36%)
+        AVG: SYR - Kozyreva (97%) def. Arrese (3%)
         ITA: SYR - Kozyreva (1.79) def. Arrese (1.49)
   Doubles:
     - Position: 1

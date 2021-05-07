@@ -38,6 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***MISS*** - #18 Ole Miss (99%) def. #57 Belmont (1%)  
 - TRN: ***MISS*** - #18 Ole Miss (99%) def. #58 Belmont (1%)  
 - Massey: ***MISS*** - #21 Ole Miss (75%) def. #57 Belmont (25%)  
+- Lineup: ***MISS*** - Ole Miss (100%) def. Belmont (0%)  
+- Composite: ***MISS*** - Ole Miss (93%) def. Belmont (7%)  
 - UTR: ***MISS*** - #25 Ole Miss (+6.71) def. #57 Belmont (-6.71)  
 - ITA: ***MISS*** - #14 Ole Miss def. #56 Belmont  
 - USTA Poll: ***MISS*** - #21 Ole Miss def. Belmont  
@@ -58,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Sandkaulen (91%) def. Ilic (9%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Sandkaulen (75%) def. Ilic (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Sandkaulen (93%) def. Ilic (7%)</li>  
-<li>Average: <b><i>MISS</i></b> - Sandkaulen (84%) def. Ilic (16%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Sandkaulen (84%) def. Ilic (16%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Sandkaulen (22.95) def. Ilic (2.51)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Reynolds (98%) def. Toledo (2%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Reynolds (75%) def. Toledo (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Reynolds (97%) def. Toledo (3%)</li>  
-<li>Average: <b><i>MISS</i></b> - Reynolds (92%) def. Toledo (8%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Reynolds (91%) def. Toledo (9%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Reynolds (36.17) def. Toledo (2.71)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -80,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Slavic (99%) def. Luis (1%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Slavic (75%) def. Luis (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Slavic (92%) def. Luis (8%)</li>  
-<li>Average: <b><i>MISS</i></b> - Slavic (91%) def. Luis (9%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Slavic (90%) def. Luis (10%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Slavic (24.24) def. Luis (1.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -91,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Lithen (99%) def. Castro (1%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Lithen (75%) def. Castro (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Lithen (96%) def. Castro (4%)</li>  
-<li>Average: <b><i>MISS</i></b> - Lithen (92%) def. Castro (8%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Lithen (91%) def. Castro (9%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Lithen (2.40) def. Castro (1.99)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -102,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Junk (98%) def. Miyamoto (2%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Junk (75%) def. Miyamoto (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Junk (96%) def. Miyamoto (4%)</li>  
-<li>Average: <b><i>MISS</i></b> - Junk (91%) def. Miyamoto (9%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Junk (91%) def. Miyamoto (9%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Junk (1.99) def. Miyamoto (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -113,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Engelhardt (98%) def. Wallin (2%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Engelhardt (75%) def. Wallin (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Engelhardt (94%) def. Wallin (6%)</li>  
-<li>Average: <b><i>MISS</i></b> - Engelhardt (91%) def. Wallin (9%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Engelhardt (90%) def. Wallin (10%)</li>  
 <li>ITA: <b><i>BEL</i></b> - Wallin (2.75) def. Engelhardt (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

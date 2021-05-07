@@ -39,6 +39,8 @@ Predictions:
   SLM: "PEPP - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)"
   TRN: "PEPP - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)"
   MAS: "PEPP - #5 Pepperdine (75%) def. #51 Northern Ariz. (25%)"
+  LNUP: PEPP - Pepperdine (100%) def. Northern Ariz. (0%)
+  AVG: PEPP - Pepperdine (93%) def. Northern Ariz. (7%)
   UTR: "PEPP - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)"
   ITA: "PEPP - #5 Pepperdine def. #54 Northern Ariz."
   USTA: "PEPP - #5 Pepperdine def. Northern Ariz."
@@ -46,8 +48,8 @@ Predictions:
   Seeding: "PEPP - #1 Pepperdine def. #4 Northern Ariz."
 Lineups:
   Predictions:
-    Average EWPs for PEPP: 87%,93%,93%,93%,93%,93%
-    Average EWPs for NAU: 13%,7%,7%,7%,7%,7%
+    Average EWPs for PEPP: 86%,92%,92%,92%,92%,92%
+    Average EWPs for NAU: 14%,8%,8%,8%,8%,8%
     PEPP wins 4 or more Singles points: 99%
     NAU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -60,7 +62,7 @@ Lineups:
         TRN: PEPP - Lahey (92%) def. Dittmann (8%)
         MAS: PEPP - Lahey (75%) def. Dittmann (25%)
         UTR: PEPP - Lahey (92%) def. Dittmann (8%)
-        AVG: PEPP - Lahey (87%) def. Dittmann (13%)
+        AVG: PEPP - Lahey (86%) def. Dittmann (14%)
         ITA: PEPP - Lahey (7.80) def. Dittmann (4.32)
     - Position: 2
       PEPP: Jessica Failla - 6-1 at 2, 14-3 in duals, 14-3 overall
@@ -70,7 +72,7 @@ Lineups:
         TRN: PEPP - Failla (99%) def. Bland (1%)
         MAS: PEPP - Failla (75%) def. Bland (25%)
         UTR: PEPP - Failla (97%) def. Bland (3%)
-        AVG: PEPP - Failla (93%) def. Bland (7%)
+        AVG: PEPP - Failla (92%) def. Bland (8%)
         ITA: PEPP - Failla (23.38) def. Bland (2.75)
     - Position: 3
       PEPP: Taisiya Pachkaleva - 8-1 at 3, 22-1 in duals, 22-1 overall
@@ -80,7 +82,7 @@ Lineups:
         TRN: PEPP - Pachkaleva (99%) def. Millard (1%)
         MAS: PEPP - Pachkaleva (75%) def. Millard (25%)
         UTR: PEPP - Pachkaleva (98%) def. Millard (2%)
-        AVG: PEPP - Pachkaleva (93%) def. Millard (7%)
+        AVG: PEPP - Pachkaleva (92%) def. Millard (8%)
         ITA: PEPP - Pachkaleva (6.37) def. Millard (2.21)
     - Position: 4
       PEPP: Shiori Fukuda - 6-0 at 4, 14-4 in duals, 14-4 overall
@@ -90,7 +92,7 @@ Lineups:
         TRN: PEPP - Fukuda (99%) def. Neyestani (1%)
         MAS: PEPP - Fukuda (75%) def. Neyestani (25%)
         UTR: PEPP - Fukuda (98%) def. Neyestani (2%)
-        AVG: PEPP - Fukuda (93%) def. Neyestani (7%)
+        AVG: PEPP - Fukuda (92%) def. Neyestani (8%)
         ITA: PEPP - Fukuda (4.88) def. Neyestani (1.91)
     - Position: 5
       PEPP: LIsa Zaar - 10-1 at 5, 19-1 in duals, 19-1 overall
@@ -100,7 +102,7 @@ Lineups:
         TRN: PEPP - Zaar (99%) def. Beazley (1%)
         MAS: PEPP - Zaar (75%) def. Beazley (25%)
         UTR: PEPP - Zaar (98%) def. Beazley (2%)
-        AVG: PEPP - Zaar (93%) def. Beazley (7%)
+        AVG: PEPP - Zaar (92%) def. Beazley (8%)
         ITA: PEPP - Zaar (4.47) def. Beazley (2.10)
     - Position: 6
       PEPP: Nikki Redelijk - 7-4 at 6, 12-7 in duals, 12-7 overall
@@ -110,7 +112,7 @@ Lineups:
         TRN: PEPP - Redelijk (99%) def. Moore (1%)
         MAS: PEPP - Redelijk (75%) def. Moore (25%)
         UTR: PEPP - Redelijk (99%) def. Moore (1%)
-        AVG: PEPP - Redelijk (93%) def. Moore (7%)
+        AVG: PEPP - Redelijk (92%) def. Moore (8%)
         ITA: PEPP - Redelijk (1.87) def. Moore (1.46)
   Doubles:
     - Position: 1

@@ -38,6 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***BAY*** - #7 Baylor (99%) def. #55 A&M-Corpus Christi (1%)  
 - TRN: ***BAY*** - #4 Baylor (99%) def. #55 A&M-Corpus Christi (1%)  
 - Massey: ***BAY*** - #12 Baylor (75%) def. #52 A&M-Corpus Christi (25%)  
+- Lineup: ***BAY*** - Baylor (100%) def. A&M-Corpus Christi (0%)  
+- Composite: ***BAY*** - Baylor (93%) def. A&M-Corpus Christi (7%)  
 - UTR: ***BAY*** - #8 Baylor (+8.61) def. #52 A&M-Corpus Christi (-8.61)  
 - ITA: ***BAY*** - #8 Baylor def. #56 A&M-Corpus Christi  
 - USTA Poll: ***BAY*** - #8 Baylor def. A&M-Corpus Christi  
@@ -58,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Krywoj (90%) def. Shumeika (10%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Krywoj (75%) def. Shumeika (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Krywoj (97%) def. Shumeika (3%)</li>  
-<li>Average: <b><i>BAY</i></b> - Krywoj (89%) def. Shumeika (11%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Krywoj (89%) def. Shumeika (11%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Krywoj (8.77) def. Shumeika (2.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Hinojosa (95%) def. Townsend (5%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Hinojosa (75%) def. Townsend (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Hinojosa (95%) def. Townsend (5%)</li>  
-<li>Average: <b><i>BAY</i></b> - Hinojosa (89%) def. Townsend (11%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Hinojosa (88%) def. Townsend (12%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Hinojosa (3.62) def. Townsend (1.97)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -80,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Herrero (98%) def. Honore (2%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Herrero (75%) def. Honore (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Herrero (97%) def. Honore (3%)</li>  
-<li>Average: <b><i>BAY</i></b> - Herrero (92%) def. Honore (8%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Herrero (91%) def. Honore (9%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Herrero (2.87) def. Honore (2.07)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -91,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Shakhraichuck (96%) def. Aucagne (4%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Shakhraichuck (75%) def. Aucagne (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Shakhraichuck (72%) def. Aucagne (28%)</li>  
-<li>Average: <b><i>BAY</i></b> - Shakhraichuck (84%) def. Aucagne (16%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Shakhraichuck (84%) def. Aucagne (16%)</li>  
 <li>ITA: <b><i>TAMCC</i></b> - Aucagne (3.69) def. Shakhraichuck (1.88)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -102,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Sorokolet (96%) def. Boisseau (4%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Sorokolet (75%) def. Boisseau (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Sorokolet (95%) def. Boisseau (5%)</li>  
-<li>Average: <b><i>BAY</i></b> - Sorokolet (91%) def. Boisseau (9%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Sorokolet (90%) def. Boisseau (10%)</li>  
 <li>ITA: <b><i>TAMCC</i></b> - Boisseau (2.71) def. Sorokolet (1.95)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -113,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Baranano (99%) def. Delattre (1%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Baranano (75%) def. Delattre (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Baranano (98%) def. Delattre (2%)</li>  
-<li>Average: <b><i>BAY</i></b> - Baranano (93%) def. Delattre (7%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Baranano (92%) def. Delattre (8%)</li>  
 <li>ITA: <b><i>TAMCC</i></b> - Delattre (3.13) def. Baranano (2.52)</li>  
 </ul>
 </details>&nbsp;</li>

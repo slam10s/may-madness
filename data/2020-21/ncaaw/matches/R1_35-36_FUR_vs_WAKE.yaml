@@ -40,6 +40,8 @@ Predictions:
   SLM: "WAKE - #32 Wake Forest (51%) def. #33 Furman (49%)"
   TRN: "WAKE - #31 Wake Forest (58%) def. #35 Furman (42%)"
   MAS: "WAKE - #34 Wake Forest (75%) def. #35 Furman (25%)"
+  LNUP: WAKE - Wake Forest (80%) def. Furman (20%)
+  AVG: WAKE - Wake Forest (65%) def. Furman (35%)
   UTR: "WAKE - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)"
   ITA: "WAKE - #33 Wake Forest def. #34 Furman"
   USTA: FUR - RV Furman def. Wake Forest
@@ -47,11 +49,11 @@ Predictions:
   Seeding: "WAKE - #2 Wake Forest def. #3 Furman"
 Lineups:
   Predictions:
-    Average EWPs for WAKE: 39%,37%,85%,68%,74%,68%
-    Average EWPs for FUR: 61%,63%,15%,32%,26%,32%
-    WAKE wins 4 or more Singles points: 59%
-    FUR wins 4 or more Singles points: 13%
-    Winner decided by the Doubles point: 28%
+    Average EWPs for WAKE: 37%,36%,84%,68%,74%,68%
+    Average EWPs for FUR: 63%,64%,16%,32%,26%,32%
+    WAKE wins 4 or more Singles points: 57%
+    FUR wins 4 or more Singles points: 14%
+    Winner decided by the Doubles point: 29%
   Singles:
     - Position: 1
       WAKE: Carolyn Campana - 9-5 at 1, 9-5 in duals, 9-5 overall
@@ -61,7 +63,7 @@ Lineups:
         TRN: FUR - Kozarov (72%) def. Campana (28%)
         MAS: FUR - Kozarov (75%) def. Campana (25%)
         UTR: WAKE - Campana (56%) def. Kozarov (44%)
-        AVG: FUR - Kozarov (61%) def. Campana (39%)
+        AVG: FUR - Kozarov (63%) def. Campana (37%)
         ITA: WAKE - Campana (28.61) def. Kozarov (26.43)
     - Position: 2
       WAKE: Anna Campana - 4-6 at 2, 6-10 in duals, 6-10 overall
@@ -71,7 +73,7 @@ Lineups:
         TRN: FUR - Adams (61%) def. Campana (39%)
         MAS: FUR - Adams (75%) def. Campana (25%)
         UTR: FUR - Adams (71%) def. Campana (29%)
-        AVG: FUR - Adams (63%) def. Campana (37%)
+        AVG: FUR - Adams (64%) def. Campana (36%)
         ITA: WAKE - Campana (11.52) def. Adams (5.79)
     - Position: 3
       WAKE: Anna Brylin - 10-3 at 3, 12-8 in duals, 12-8 overall
@@ -81,7 +83,7 @@ Lineups:
         TRN: WAKE - Brylin (87%) def. Dillon (13%)
         MAS: WAKE - Brylin (75%) def. Dillon (25%)
         UTR: WAKE - Brylin (92%) def. Dillon (8%)
-        AVG: WAKE - Brylin (85%) def. Dillon (15%)
+        AVG: WAKE - Brylin (84%) def. Dillon (16%)
         ITA: WAKE - Brylin (2.10) def. Dillon (1.67)
     - Position: 4
       WAKE: Eliza Omirou - 3-3 at 4, 9-8 in duals, 9-8 overall

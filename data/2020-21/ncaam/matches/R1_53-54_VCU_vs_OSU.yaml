@@ -40,6 +40,8 @@ Predictions:
   SLM: "OSU - #7 Ohio St. (95%) def. #36 VCU (5%)"
   TRN: "OSU - #8 Ohio St. (98%) def. #38 VCU (2%)"
   MAS: "OSU - #9 Ohio St. (75%) def. #35 VCU (25%)"
+  LNUP: OSU - Ohio St. (98%) def. VCU (2%)
+  AVG: OSU - Ohio St. (91%) def. VCU (9%)
   UTR: "OSU - #3 Ohio St. (+3.21) def. #29 VCU (-3.21)"
   ITA: "OSU - #31 Ohio St. def. #37 VCU"
   USTA: "OSU - #7 Ohio St. def. VCU"
@@ -47,10 +49,10 @@ Predictions:
   Seeding: "OSU - #2 Ohio St. def. #3 VCU"
 Lineups:
   Predictions:
-    Average EWPs for OSU: 85%,89%,87%,74%,85%,90%
-    Average EWPs for VCU: 15%,11%,13%,26%,15%,10%
-    OSU wins 4 or more Singles points: 96%
-    VCU wins 4 or more Singles points: 0%
+    Average EWPs for OSU: 84%,89%,86%,73%,85%,90%
+    Average EWPs for VCU: 16%,11%,14%,27%,15%,10%
+    OSU wins 4 or more Singles points: 95%
+    VCU wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 4%
   Singles:
     - Position: 1
@@ -61,7 +63,7 @@ Lineups:
         TRN: OSU - McNally (90%) def. Cronje (10%)
         MAS: OSU - McNally (75%) def. Cronje (25%)
         UTR: OSU - McNally (85%) def. Cronje (15%)
-        AVG: OSU - McNally (85%) def. Cronje (15%)
+        AVG: OSU - McNally (84%) def. Cronje (16%)
         ITA: VCU - Cronje (8.20) def. McNally (3.89)
     - Position: 2
       OSU: Cannon Kingsley - 12-0 at 2, 21-0 in duals, 27-0 overall
@@ -81,7 +83,7 @@ Lineups:
         TRN: OSU - Trotter (92%) def. Torre (8%)
         MAS: OSU - Trotter (75%) def. Torre (25%)
         UTR: OSU - Trotter (89%) def. Torre (11%)
-        AVG: OSU - Trotter (87%) def. Torre (13%)
+        AVG: OSU - Trotter (86%) def. Torre (14%)
         ITA: OSU - Trotter (3.90) def. Torre (2.89)
     - Position: 4
       OSU: Justin Boulais - 5-1 at 4, 7-1 in duals, 7-1 overall
@@ -91,7 +93,7 @@ Lineups:
         TRN: OSU - Boulais (73%) def. Stable (27%)
         MAS: OSU - Boulais (75%) def. Stable (25%)
         UTR: OSU - Boulais (63%) def. Stable (37%)
-        AVG: OSU - Boulais (74%) def. Stable (26%)
+        AVG: OSU - Boulais (73%) def. Stable (27%)
         ITA: VCU - Stable (3.09) def. Boulais (2.92)
     - Position: 5
       OSU: Kyle Seelig - 3-0 at 5, 15-4 in duals, 18-8 overall

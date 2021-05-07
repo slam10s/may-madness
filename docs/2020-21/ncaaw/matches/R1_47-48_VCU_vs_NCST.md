@@ -38,6 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***NCST*** - #11 NC State (99%) def. #48 VCU (1%)  
 - TRN: ***NCST*** - #10 NC State (99%) def. #48 VCU (1%)  
 - Massey: ***NCST*** - #6 NC State (75%) def. #48 VCU (25%)  
+- Lineup: ***NCST*** - NC State (100%) def. VCU (0%)  
+- Composite: ***NCST*** - NC State (92%) def. VCU (8%)  
 - UTR: ***NCST*** - #9 NC State (+7.24) def. #48 VCU (-7.24)  
 - ITA: ***NCST*** - #6 NC State def. #49 VCU  
 - USTA Poll: ***NCST*** - #11 NC State def. VCU  
@@ -58,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NCST</i></b> - Rogers (81%) def. Diaz-Delgado (19%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Rogers (75%) def. Diaz-Delgado (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
-<li>Average: <b><i>NCST</i></b> - Rogers (82%) def. Diaz-Delgado (18%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rogers (81%) def. Diaz-Delgado (19%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rogers (48.19) def. Diaz-Delgado (5.71)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NCST</i></b> - Smith (98%) def. Tutunaru (2%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Smith (75%) def. Tutunaru (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Smith (97%) def. Tutunaru (3%)</li>  
-<li>Average: <b><i>NCST</i></b> - Smith (91%) def. Tutunaru (9%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Smith (91%) def. Tutunaru (9%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Smith (22.32) def. Tutunaru (1.60)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -80,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Reami (75%) def. Ciuca (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
-<li>Average: <b><i>NCST</i></b> - Reami (91%) def. Ciuca (9%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Reami (91%) def. Ciuca (9%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Reami (4.00) def. Ciuca (1.68)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -91,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NCST</i></b> - Daniel (95%) def. Davidescu (5%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Daniel (75%) def. Davidescu (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
-<li>Average: <b><i>NCST</i></b> - Daniel (90%) def. Davidescu (10%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Daniel (90%) def. Davidescu (10%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Daniel (1.87) def. Davidescu (1.64)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -102,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NCST</i></b> - Rencheli (97%) def. Witmus (3%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Rencheli (75%) def. Witmus (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rencheli (96%) def. Witmus (4%)</li>  
-<li>Average: <b><i>NCST</i></b> - Rencheli (91%) def. Witmus (9%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rencheli (90%) def. Witmus (10%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rencheli (7.12) def. Witmus (2.03)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -113,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NCST</i></b> - Keberle (98%) def. Manjanna (2%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Keberle (75%) def. Manjanna (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Keberle (96%) def. Manjanna (4%)</li>  
-<li>Average: <b><i>NCST</i></b> - Keberle (91%) def. Manjanna (9%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Keberle (91%) def. Manjanna (9%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Manjanna (1.77) def. Keberle (1.71)</li>  
 </ul>
 </details>&nbsp;</li>

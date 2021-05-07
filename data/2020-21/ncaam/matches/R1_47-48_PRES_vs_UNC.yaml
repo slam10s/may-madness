@@ -39,6 +39,8 @@ Predictions:
   SLM: "UNC - #3 North Carolina (99%) def. #59 Presbyterian (1%)"
   TRN: "UNC - #2 North Carolina (99%) def. #59 Presbyterian (1%)"
   MAS: "UNC - #4 North Carolina (75%) def. #61 Presbyterian (25%)"
+  LNUP: UNC - North Carolina (100%) def. Presbyterian (0%)
+  AVG: UNC - North Carolina (93%) def. Presbyterian (7%)
   UTR: "UNC - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)"
   ITA: "UNC - #6 North Carolina def. #59 Presbyterian"
   USTA: "UNC - #5 North Carolina def. Presbyterian"
@@ -46,8 +48,8 @@ Predictions:
   Seeding: "UNC - #1 North Carolina def. #4 Presbyterian"
 Lineups:
   Predictions:
-    Average EWPs for UNC: 92%,93%,89%,93%,92%,92%
-    Average EWPs for PRES: 8%,7%,11%,7%,8%,8%
+    Average EWPs for UNC: 92%,92%,89%,92%,92%,91%
+    Average EWPs for PRES: 8%,8%,11%,8%,8%,9%
     UNC wins 4 or more Singles points: 99%
     PRES wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -70,7 +72,7 @@ Lineups:
         TRN: UNC - Hijikata (99%) def. Dominguez (1%)
         MAS: UNC - Hijikata (75%) def. Dominguez (25%)
         UTR: UNC - Hijikata (98%) def. Dominguez (2%)
-        AVG: UNC - Hijikata (93%) def. Dominguez (7%)
+        AVG: UNC - Hijikata (92%) def. Dominguez (8%)
         ITA: UNC - Hijikata (27.96) def. Dominguez (0.00)
     - Position: 3
       UNC: Benjamin Sigouin - 3-2 at 3, 9-9 in duals, 9-9 overall
@@ -90,7 +92,7 @@ Lineups:
         TRN: UNC - Cernoch (99%) def. Babic (1%)
         MAS: UNC - Cernoch (75%) def. Babic (25%)
         UTR: UNC - Cernoch (99%) def. Babic (1%)
-        AVG: UNC - Cernoch (93%) def. Babic (7%)
+        AVG: UNC - Cernoch (92%) def. Babic (8%)
         ITA: UNC - Cernoch (12.67) def. Babic (0.00)
     - Position: 5
       UNC: Josh Peck - 3-1 at 5, 8-3 in duals, 8-3 overall
@@ -110,7 +112,7 @@ Lineups:
         TRN: UNC - Soendergaard (99%) def. Matos (1%)
         MAS: UNC - Soendergaard (75%) def. Matos (25%)
         UTR: UNC - Soendergaard (95%) def. Matos (5%)
-        AVG: UNC - Soendergaard (92%) def. Matos (8%)
+        AVG: UNC - Soendergaard (91%) def. Matos (9%)
         ITA: UNC - Soendergaard (3.62) def. Matos (2.56)
   Doubles:
     - Position: 1

@@ -40,6 +40,8 @@ Predictions:
   SLM: "AUB - #24 Auburn (75%) def. #37 Oklahoma St. (25%)"
   TRN: "AUB - #23 Auburn (82%) def. #37 Oklahoma St. (18%)"
   MAS: "AUB - #25 Auburn (75%) def. #36 Oklahoma St. (25%)"
+  LNUP: OKST - Oklahoma St. (77%) def. Auburn (23%)
+  AVG: AUB - Auburn (57%) def. Oklahoma St. (43%)
   UTR: "OKST - #17 Oklahoma St. (+0.99) def. #30 Auburn (-0.99)"
   ITA: "AUB - #20 Auburn def. #37 Oklahoma St."
   USTA: "AUB - #25 Auburn def. Oklahoma St."
@@ -47,11 +49,11 @@ Predictions:
   Seeding: "AUB - #2 Auburn def. #3 Oklahoma St."
 Lineups:
   Predictions:
-    Average EWPs for AUB: 20%,59%,29%,71%,33%,36%
-    Average EWPs for OKST: 80%,41%,71%,29%,67%,64%
-    AUB wins 4 or more Singles points: 18%
-    OKST wins 4 or more Singles points: 52%
-    Winner decided by the Doubles point: 30%
+    Average EWPs for AUB: 19%,58%,28%,70%,33%,33%
+    Average EWPs for OKST: 81%,42%,72%,30%,67%,67%
+    AUB wins 4 or more Singles points: 16%
+    OKST wins 4 or more Singles points: 55%
+    Winner decided by the Doubles point: 29%
   Singles:
     - Position: 1
       AUB: Selin Ovunc - 8-9 at 1, 8-9 in duals, 13-10 overall
@@ -61,7 +63,7 @@ Lineups:
         TRN: OKST - Thamchaiwat (83%) def. Ovunc (17%)
         MAS: OKST - Thamchaiwat (75%) def. Ovunc (25%)
         UTR: OKST - Thamchaiwat (91%) def. Ovunc (9%)
-        AVG: OKST - Thamchaiwat (80%) def. Ovunc (20%)
+        AVG: OKST - Thamchaiwat (81%) def. Ovunc (19%)
         ITA: OKST - Thamchaiwat (21.36) def. Ovunc (9.63)
     - Position: 2
       AUB: Carolyn Ansari - 1-0 at 2, 12-3 in duals, 14-10 overall
@@ -71,7 +73,7 @@ Lineups:
         TRN: OKST - Miyamoto (52%) def. Ansari (48%)
         MAS: AUB - Ansari (75%) def. Miyamoto (25%)
         UTR: AUB - Ansari (62%) def. Miyamoto (38%)
-        AVG: AUB - Ansari (59%) def. Miyamoto (41%)
+        AVG: AUB - Ansari (58%) def. Miyamoto (42%)
         ITA: AUB - Ansari (7.96) def. Miyamoto (4.02)
     - Position: 3
       AUB: Yu Chen - 0-2 at 3, 5-11 in duals, 12-13 overall
@@ -81,7 +83,7 @@ Lineups:
         TRN: OKST - Wolfberg (67%) def. Chen (33%)
         MAS: OKST - Wolfberg (75%) def. Chen (25%)
         UTR: OKST - Wolfberg (81%) def. Chen (19%)
-        AVG: OKST - Wolfberg (71%) def. Chen (29%)
+        AVG: OKST - Wolfberg (72%) def. Chen (28%)
         ITA: OKST - Wolfberg (10.37) def. Chen (3.54)
     - Position: 4
       AUB: Georgie Axon - 15-3 at 4, 16-3 in duals, 22-6 overall
@@ -91,7 +93,7 @@ Lineups:
         TRN: AUB - Axon (65%) def. Detkovskaya (35%)
         MAS: AUB - Axon (75%) def. Detkovskaya (25%)
         UTR: AUB - Axon (86%) def. Detkovskaya (14%)
-        AVG: AUB - Axon (71%) def. Detkovskaya (29%)
+        AVG: AUB - Axon (70%) def. Detkovskaya (30%)
         ITA: OKST - Detkovskaya (2.79) def. Axon (2.43)
     - Position: 5
       AUB: Adeline Flach - 4-5 at 5, 11-7 in duals, 14-10 overall
@@ -111,7 +113,7 @@ Lineups:
         TRN: AUB - Astakhova (58%) def. Medvedeva (42%)
         MAS: OKST - Medvedeva (75%) def. Astakhova (25%)
         UTR: OKST - Medvedeva (82%) def. Astakhova (18%)
-        AVG: OKST - Medvedeva (64%) def. Astakhova (36%)
+        AVG: OKST - Medvedeva (67%) def. Astakhova (33%)
   Doubles:
     - Position: 1
       AUB: Axon/Flach - 2-4 at 1, 10-8 in duals, 14-10 overall

@@ -38,6 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***OKLA*** - #29 Oklahoma (68%) def. #42 Denver (32%)  
 - TRN: ***OKLA*** - #28 Oklahoma (59%) def. #35 Denver (41%)  
 - Massey: ***OKLA*** - #37 Oklahoma (75%) def. #38 Denver (25%)  
+- Lineup: ***OKLA*** - Oklahoma (91%) def. Denver (9%)  
+- Composite: ***OKLA*** - Oklahoma (72%) def. Denver (28%)  
 - UTR: ***OKLA*** - #28 Oklahoma (+3.10) def. #46 Denver (-3.10)  
 - ITA: ***OKLA*** - #27 Oklahoma def. #45 Denver  
 - Coaches Poll: ***OKLA*** - #26 Oklahoma def. #44 Denver  
@@ -57,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKLA</i></b> - Emburgh (53%) def. Davis (47%)</li>  
 <li>Massey: <b><i>DEN</i></b> - Davis (75%) def. Emburgh (25%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Emburgh (79%) def. Davis (21%)</li>  
-<li>Average: <b><i>OKLA</i></b> - Emburgh (53%) def. Davis (47%)</li>  
+<li>Composite: <b><i>DEN</i></b> - Davis (51%) def. Emburgh (49%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Emburgh (7.98) def. Davis (6.67)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKLA</i></b> - Beiler (93%) def. Ros (7%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Beiler (75%) def. Ros (25%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Beiler (92%) def. Ros (8%)</li>  
-<li>Average: <b><i>OKLA</i></b> - Beiler (85%) def. Ros (15%)</li>  
+<li>Composite: <b><i>OKLA</i></b> - Beiler (85%) def. Ros (15%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Beiler (10.05) def. Ros (1.92)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -79,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKLA</i></b> - Martinez (83%) def. Summers (17%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Martinez (75%) def. Summers (25%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Martinez (74%) def. Summers (26%)</li>  
-<li>Average: <b><i>OKLA</i></b> - Martinez (76%) def. Summers (24%)</li>  
+<li>Composite: <b><i>OKLA</i></b> - Martinez (75%) def. Summers (25%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Martinez (2.93) def. Summers (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -90,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKLA</i></b> - Han (87%) def. Sallay (13%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Han (75%) def. Sallay (25%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Han (86%) def. Sallay (14%)</li>  
-<li>Average: <b><i>OKLA</i></b> - Han (82%) def. Sallay (18%)</li>  
+<li>Composite: <b><i>OKLA</i></b> - Han (82%) def. Sallay (18%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Sallay (2.45) def. Han (1.72)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -101,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKLA</i></b> - Schlageter (65%) def. Cuesta (35%)</li>  
 <li>Massey: <b><i>DEN</i></b> - Cuesta (75%) def. Schlageter (25%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Schlageter (85%) def. Cuesta (15%)</li>  
-<li>Average: <b><i>OKLA</i></b> - Schlageter (61%) def. Cuesta (39%)</li>  
+<li>Composite: <b><i>OKLA</i></b> - Schlageter (56%) def. Cuesta (44%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Cuesta (3.64) def. Schlageter (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -112,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKLA</i></b> - Mandlik (78%) def. Crespo (22%)</li>  
 <li>Massey: <b><i>DEN</i></b> - Crespo (75%) def. Mandlik (25%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Mandlik (99%) def. Crespo (1%)</li>  
-<li>Average: <b><i>OKLA</i></b> - Mandlik (73%) def. Crespo (27%)</li>  
+<li>Composite: <b><i>OKLA</i></b> - Mandlik (65%) def. Crespo (35%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Crespo (3.50) def. Mandlik (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

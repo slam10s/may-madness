@@ -38,6 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***OSU*** - #5 Ohio St. (99%) def. #57 UIC (1%)  
 - TRN: ***OSU*** - #5 Ohio St. (99%) def. #59 UIC (1%)  
 - Massey: ***OSU*** - #8 Ohio St. (75%) def. #58 UIC (25%)  
+- Lineup: ***OSU*** - Ohio St. (100%) def. UIC (0%)  
+- Composite: ***OSU*** - Ohio St. (93%) def. UIC (7%)  
 - UTR: ***OSU*** - #25 Ohio St. (+10.14) def. #58 UIC (-10.14)  
 - ITA: ***OSU*** - #18 Ohio St. def. #59 UIC  
 - USTA Poll: ***OSU*** - #6 Ohio St. def. UIC  
@@ -58,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Siemers (75%) def. Malazonia (25%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
-<li>Average: <b><i>OSU</i></b> - Siemers (93%) def. Malazonia (7%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Siemers (92%) def. Malazonia (8%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Siemers (24.34) def. Malazonia (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OSU</i></b> - Boulais (99%) def. Gustafsson (1%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Boulais (75%) def. Gustafsson (25%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Boulais (96%) def. Gustafsson (4%)</li>  
-<li>Average: <b><i>OSU</i></b> - Boulais (92%) def. Gustafsson (8%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Boulais (91%) def. Gustafsson (9%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Boulais (2.65) def. Gustafsson (1.82)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -80,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OSU</i></b> - Allen (84%) def. Prochazkova (16%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Allen (75%) def. Prochazkova (25%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Allen (96%) def. Prochazkova (4%)</li>  
-<li>Average: <b><i>OSU</i></b> - Allen (87%) def. Prochazkova (13%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Allen (87%) def. Prochazkova (13%)</li>  
 <li>ITA: <b><i>UIC</i></b> - Prochazkova (3.17) def. Allen (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -91,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OSU</i></b> - Hofbauer (98%) def. Jover (2%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Hofbauer (75%) def. Jover (25%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Hofbauer (97%) def. Jover (3%)</li>  
-<li>Average: <b><i>OSU</i></b> - Hofbauer (92%) def. Jover (8%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Hofbauer (91%) def. Jover (9%)</li>  
 <li>ITA: <b><i>UIC</i></b> - Jover (2.79) def. Hofbauer (2.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -102,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OSU</i></b> - Marzal (99%) def. Gulin (1%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Marzal (75%) def. Gulin (25%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Marzal (98%) def. Gulin (2%)</li>  
-<li>Average: <b><i>OSU</i></b> - Marzal (93%) def. Gulin (7%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Marzal (92%) def. Gulin (8%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Marzal (3.08) def. Gulin (2.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -113,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OSU</i></b> - Dormet (99%) def. Arendt (1%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Dormet (75%) def. Arendt (25%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Dormet (98%) def. Arendt (2%)</li>  
-<li>Average: <b><i>OSU</i></b> - Dormet (93%) def. Arendt (7%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Dormet (92%) def. Arendt (8%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Dormet (3.78) def. Arendt (3.01)</li>  
 </ul>
 </details>&nbsp;</li>

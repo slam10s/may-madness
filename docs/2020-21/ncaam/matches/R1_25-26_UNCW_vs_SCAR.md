@@ -38,6 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***SCAR*** - #15 South Carolina (98%) def. #48 UNCW (2%)  
 - TRN: ***SCAR*** - #15 South Carolina (99%) def. #49 UNCW (1%)  
 - Massey: ***SCAR*** - #16 South Carolina (75%) def. #49 UNCW (25%)  
+- Lineup: ***SCAR*** - South Carolina (98%) def. UNCW (2%)  
+- Composite: ***SCAR*** - South Carolina (92%) def. UNCW (8%)  
 - UTR: ***SCAR*** - #17 South Carolina (+4.69) def. #48 UNCW (-4.69)  
 - ITA: ***SCAR*** - #13 South Carolina def. #51 UNCW  
 - USTA Poll: ***SCAR*** - #15 South Carolina def. UNCW  
@@ -58,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>SCAR</i></b> - Rodrigues (97%) def. Caula (3%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Rodrigues (75%) def. Caula (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Rodrigues (95%) def. Caula (5%)</li>  
-<li>Average: <b><i>SCAR</i></b> - Rodrigues (90%) def. Caula (10%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Rodrigues (90%) def. Caula (10%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Rodrigues (58.79) def. Caula (2.92)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -69,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>SCAR</i></b> - Thomson (96%) def. Innocenti (4%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Thomson (75%) def. Innocenti (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Thomson (91%) def. Innocenti (9%)</li>  
-<li>Average: <b><i>SCAR</i></b> - Thomson (88%) def. Innocenti (12%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Thomson (88%) def. Innocenti (12%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Thomson (28.97) def. Innocenti (2.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -80,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>SCAR</i></b> - Samuel (95%) def. Groom (5%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Samuel (75%) def. Groom (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Samuel (90%) def. Groom (10%)</li>  
-<li>Average: <b><i>SCAR</i></b> - Samuel (87%) def. Groom (13%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Samuel (87%) def. Groom (13%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Samuel (10.78) def. Groom (2.67)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -91,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>SCAR</i></b> - Lambling (93%) def. Rasamatov (7%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Lambling (75%) def. Rasamatov (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Lambling (92%) def. Rasamatov (8%)</li>  
-<li>Average: <b><i>SCAR</i></b> - Lambling (89%) def. Rasamatov (11%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Lambling (88%) def. Rasamatov (12%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Lambling (15.34) def. Rasamatov (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -102,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>SCAR</i></b> - Beasley (95%) def. Hurtado (5%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Beasley (75%) def. Hurtado (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Beasley (87%) def. Hurtado (13%)</li>  
-<li>Average: <b><i>SCAR</i></b> - Beasley (87%) def. Hurtado (13%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Beasley (87%) def. Hurtado (13%)</li>  
 <li>ITA: <b><i>UNCW</i></b> - Hurtado (1.80) def. Beasley (1.73)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -113,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>SCAR</i></b> - Brown (93%) def. Copeland (7%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Brown (75%) def. Copeland (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Brown (90%) def. Copeland (10%)</li>  
-<li>Average: <b><i>SCAR</i></b> - Brown (87%) def. Copeland (13%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Brown (86%) def. Copeland (14%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Brown (2.19) def. Copeland (1.97)</li>  
 </ul>
 </details>&nbsp;</li>

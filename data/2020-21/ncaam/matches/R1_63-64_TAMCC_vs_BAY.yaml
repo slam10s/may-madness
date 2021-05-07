@@ -39,6 +39,8 @@ Predictions:
   SLM: "BAY - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)"
   TRN: "BAY - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)"
   MAS: "BAY - #5 Baylor (75%) def. #58 A&M-Corpus Christi (25%)"
+  LNUP: BAY - Baylor (100%) def. A&M-Corpus Christi (0%)
+  AVG: BAY - Baylor (93%) def. A&M-Corpus Christi (7%)
   UTR: "BAY - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)"
   ITA: "BAY - #1 Baylor def. #60 A&M-Corpus Christi"
   USTA: "BAY - #3 Baylor def. A&M-Corpus Christi"
@@ -46,8 +48,8 @@ Predictions:
   Seeding: "BAY - #1 Baylor def. #4 A&M-Corpus Christi"
 Lineups:
   Predictions:
-    Average EWPs for BAY: 92%,93%,90%,91%,93%,92%
-    Average EWPs for TAMCC: 8%,7%,10%,9%,7%,8%
+    Average EWPs for BAY: 92%,92%,89%,90%,92%,91%
+    Average EWPs for TAMCC: 8%,8%,11%,10%,8%,9%
     BAY wins 4 or more Singles points: 99%
     TAMCC wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -70,7 +72,7 @@ Lineups:
         TRN: BAY - Soto (99%) def. Ata (1%)
         MAS: BAY - Soto (75%) def. Ata (25%)
         UTR: BAY - Soto (98%) def. Ata (2%)
-        AVG: BAY - Soto (93%) def. Ata (7%)
+        AVG: BAY - Soto (92%) def. Ata (8%)
         ITA: BAY - Soto (41.70) def. Ata (1.70)
     - Position: 3
       BAY: Sven Lah - 6-7 at 3, 9-9 in duals, 11-12 overall
@@ -80,7 +82,7 @@ Lineups:
         TRN: BAY - Lah (96%) def. Schwartz (4%)
         MAS: BAY - Lah (75%) def. Schwartz (25%)
         UTR: BAY - Lah (94%) def. Schwartz (6%)
-        AVG: BAY - Lah (90%) def. Schwartz (10%)
+        AVG: BAY - Lah (89%) def. Schwartz (11%)
         ITA: BAY - Lah (4.25) def. Schwartz (2.22)
     - Position: 4
       BAY: Nick Stachowiak - 8-2 at 4, 12-5 in duals, 19-7 overall
@@ -90,7 +92,7 @@ Lineups:
         TRN: BAY - Stachowiak (97%) def. Loriel (3%)
         MAS: BAY - Stachowiak (75%) def. Loriel (25%)
         UTR: BAY - Stachowiak (95%) def. Loriel (5%)
-        AVG: BAY - Stachowiak (91%) def. Loriel (9%)
+        AVG: BAY - Stachowiak (90%) def. Loriel (10%)
         ITA: TAMCC - Loriel (3.69) def. Stachowiak (3.38)
     - Position: 5
       BAY: Charlie Broom - 17-2 at 5, 21-3 in duals, 24-6 overall
@@ -100,7 +102,7 @@ Lineups:
         TRN: BAY - Broom (99%) def. Delgado (1%)
         MAS: BAY - Broom (75%) def. Delgado (25%)
         UTR: BAY - Broom (99%) def. Delgado (1%)
-        AVG: BAY - Broom (93%) def. Delgado (7%)
+        AVG: BAY - Broom (92%) def. Delgado (8%)
         ITA: BAY - Broom (3.72) def. Delgado (3.54)
     - Position: 6
       BAY: Spencer Furman - 11-2 at 6, 18-2 in duals, 21-3 overall
@@ -110,7 +112,7 @@ Lineups:
         TRN: BAY - Furman (99%) def. Castaneda (1%)
         MAS: BAY - Furman (75%) def. Castaneda (25%)
         UTR: BAY - Furman (94%) def. Castaneda (6%)
-        AVG: BAY - Furman (92%) def. Castaneda (8%)
+        AVG: BAY - Furman (91%) def. Castaneda (9%)
         ITA: BAY - Furman (4.24) def. Castaneda (3.54)
   Doubles:
     - Position: 1

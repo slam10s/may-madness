@@ -41,6 +41,8 @@ Predictions:
   SLM: "MICH - #13 Michigan (78%) def. #21 Arizona (22%)"
   TRN: "MICH - #12 Michigan (88%) def. #20 Arizona (12%)"
   MAS: "MICH - #14 Michigan (75%) def. #18 Arizona (25%)"
+  LNUP: MICH - Michigan (76%) def. Arizona (24%)
+  AVG: MICH - Michigan (80%) def. Arizona (20%)
   UTR: "MICH - #18 Michigan (+0.3) def. #21 Arizona (-0.3)"
   ITA: "ARIZ - #17 Arizona def. #46 Michigan"
   USTA: "ARIZ - #18 Arizona def. Michigan"
@@ -48,11 +50,11 @@ Predictions:
   Seeding: "ARIZ - #2 Arizona def. #3 Michigan"
 Lineups:
   Predictions:
-    Average EWPs for ARIZ: 69%,36%,61%,7%,47%,39%
-    Average EWPs for MICH: 31%,64%,39%,93%,53%,61%
-    ARIZ wins 4 or more Singles points: 20%
-    MICH wins 4 or more Singles points: 48%
-    Winner decided by the Doubles point: 32%
+    Average EWPs for ARIZ: 67%,34%,60%,1%,44%,37%
+    Average EWPs for MICH: 33%,66%,40%,99%,56%,63%
+    ARIZ wins 4 or more Singles points: 16%
+    MICH wins 4 or more Singles points: 53%
+    Winner decided by the Doubles point: 31%
   Singles:
     - Position: 1
       ARIZ: Gustaf Strom - 3-1 at 1, 17-2 in duals, 17-2 overall
@@ -62,7 +64,7 @@ Lineups:
         TRN: ARIZ - Strom (87%) def. Fenty (13%)
         MAS: ARIZ - Strom (75%) def. Fenty (25%)
         UTR: ARIZ - Strom (69%) def. Fenty (31%)
-        AVG: ARIZ - Strom (69%) def. Fenty (31%)
+        AVG: ARIZ - Strom (67%) def. Fenty (33%)
         ITA: ARIZ - Strom (17.40) def. Fenty (1.71)
     - Position: 2
       ARIZ: Jonas Ziverts - 1-1 at 2, 9-8 in duals, 9-8 overall
@@ -72,7 +74,7 @@ Lineups:
         TRN: MICH - Styler (55%) def. Ziverts (45%)
         MAS: MICH - Styler (75%) def. Ziverts (25%)
         UTR: MICH - Styler (76%) def. Ziverts (24%)
-        AVG: MICH - Styler (64%) def. Ziverts (36%)
+        AVG: MICH - Styler (66%) def. Ziverts (34%)
         ITA: ARIZ - Ziverts (7.58) def. Styler (2.60)
     - Position: 3
       ARIZ: Filip Malbasic - 5-4 at 3, 14-9 in duals, 14-9 overall
@@ -82,7 +84,7 @@ Lineups:
         TRN: ARIZ - Malbasic (64%) def. Maloney (36%)
         MAS: ARIZ - Malbasic (75%) def. Maloney (25%)
         UTR: ARIZ - Malbasic (53%) def. Maloney (47%)
-        AVG: ARIZ - Malbasic (61%) def. Maloney (39%)
+        AVG: ARIZ - Malbasic (60%) def. Maloney (40%)
         ITA: ARIZ - Malbasic (2.36) def. Maloney (2.15)
     - Position: 4
       ARIZ: Herman Hoeyeraal - 0-0 at 4, 4-0 in duals, 4-0 overall
@@ -92,7 +94,7 @@ Lineups:
         TRN: MICH - Siimar (100%) def. Hoeyeraal (0%)
         MAS: MICH - Siimar (75%) def. Hoeyeraal (25%)
         UTR: MICH - Siimar (100%) def. Hoeyeraal (0%)
-        AVG: MICH - Siimar (93%) def. Hoeyeraal (7%)
+        AVG: MICH - Siimar (99%) def. Hoeyeraal (1%)
         ITA: MICH - Siimar (2.45) def. Hoeyeraal (2.40)
     - Position: 5
       ARIZ: Alejandro Reguant - 0-0 at 5, 13-6 in duals, 13-6 overall
@@ -102,7 +104,7 @@ Lineups:
         TRN: MICH - Beaty (66%) def. Reguant (34%)
         MAS: MICH - Beaty (75%) def. Reguant (25%)
         UTR: ARIZ - Reguant (70%) def. Beaty (30%)
-        AVG: MICH - Beaty (53%) def. Reguant (47%)
+        AVG: MICH - Beaty (56%) def. Reguant (44%)
         ITA: ARIZ - Reguant (2.55) def. Beaty (2.52)
     - Position: 6
       ARIZ: Carlos Hassey - 1-1 at 6, 12-7 in duals, 12-7 overall
@@ -112,7 +114,7 @@ Lineups:
         TRN: MICH - Ehrenschneider (66%) def. Hassey (34%)
         MAS: MICH - Ehrenschneider (75%) def. Hassey (25%)
         UTR: MICH - Ehrenschneider (57%) def. Hassey (43%)
-        AVG: MICH - Ehrenschneider (61%) def. Hassey (39%)
+        AVG: MICH - Ehrenschneider (63%) def. Hassey (37%)
         ITA: MICH - Ehrenschneider (2.63) def. Hassey (1.70)
   Doubles:
     - Position: 1

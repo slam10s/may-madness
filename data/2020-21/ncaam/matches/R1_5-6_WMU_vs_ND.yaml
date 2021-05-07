@@ -40,6 +40,8 @@ Predictions:
   SLM: "ND - #40 Notre Dame (77%) def. #47 Western Mich. (23%)"
   TRN: "ND - #42 Notre Dame (62%) def. #46 Western Mich. (38%)"
   MAS: "ND - #36 Notre Dame (75%) def. #45 Western Mich. (25%)"
+  LNUP: ND - Notre Dame (92%) def. Western Mich. (8%)
+  AVG: ND - Notre Dame (75%) def. Western Mich. (25%)
   UTR: "ND - #38 Notre Dame (+3.43) def. #53 Western Mich. (-3.43)"
   ITA: "ND - #34 Notre Dame def. #41 Western Mich."
   USTA: WMU - RV Western Mich. def. Notre Dame
@@ -47,11 +49,11 @@ Predictions:
   Seeding: "ND - #2 Notre Dame def. #3 Western Mich."
 Lineups:
   Predictions:
-    Average EWPs for ND: 83%,84%,85%,7%,62%,84%
-    Average EWPs for WMU: 17%,16%,15%,93%,38%,16%
-    ND wins 4 or more Singles points: 76%
-    WMU wins 4 or more Singles points: 5%
-    Winner decided by the Doubles point: 19%
+    Average EWPs for ND: 83%,84%,85%,1%,56%,84%
+    Average EWPs for WMU: 17%,16%,15%,99%,44%,16%
+    ND wins 4 or more Singles points: 72%
+    WMU wins 4 or more Singles points: 6%
+    Winner decided by the Doubles point: 22%
   Singles:
     - Position: 1
       ND: Axel Nefve - 13-2 at 1, 18-3 in duals, 18-3 overall
@@ -91,7 +93,7 @@ Lineups:
         TRN: WMU - Boone (100%) def. Howells (0%)
         MAS: WMU - Boone (75%) def. Howells (25%)
         UTR: WMU - Boone (100%) def. Howells (0%)
-        AVG: WMU - Boone (93%) def. Howells (7%)
+        AVG: WMU - Boone (99%) def. Howells (1%)
         ITA: WMU - Boone (1.91) def. Howells (0.00)
     - Position: 5
       ND: Matthew Che - 0-1 at 5, 6-12 in duals, 6-12 overall
@@ -101,7 +103,7 @@ Lineups:
         TRN: ND - Che (65%) def. Honnappa (35%)
         MAS: WMU - Honnappa (75%) def. Che (25%)
         UTR: ND - Che (78%) def. Honnappa (22%)
-        AVG: ND - Che (62%) def. Honnappa (38%)
+        AVG: ND - Che (56%) def. Honnappa (44%)
         ITA: WMU - Honnappa (2.67) def. Che (0.00)
     - Position: 6
       ND: Connor Fu - 0-1 at 6, 12-9 in duals, 12-9 overall

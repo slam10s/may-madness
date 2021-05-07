@@ -39,6 +39,8 @@ Predictions:
   SLM: "FLA - #2 Florida (99%) def. #50 South Alabama (1%)"
   TRN: "FLA - #3 Florida (99%) def. #52 South Alabama (1%)"
   MAS: "FLA - #1 Florida (75%) def. #46 South Alabama (25%)"
+  LNUP: FLA - Florida (100%) def. South Alabama (0%)
+  AVG: FLA - Florida (93%) def. South Alabama (7%)
   UTR: "FLA - #1 Florida (+6.84) def. #49 South Alabama (-6.84)"
   ITA: "FLA - #2 Florida def. #53 South Alabama"
   USTA: "FLA - #2 Florida def. South Alabama"
@@ -46,11 +48,11 @@ Predictions:
   Seeding: "FLA - #1 Florida def. #4 South Alabama"
 Lineups:
   Predictions:
-    Average EWPs for FLA: 87%,87%,90%,90%,91%,93%
-    Average EWPs for SALA: 13%,13%,10%,10%,9%,7%
-    FLA wins 4 or more Singles points: 99%
+    Average EWPs for FLA: 87%,87%,89%,90%,90%,92%
+    Average EWPs for SALA: 13%,13%,11%,10%,10%,8%
+    FLA wins 4 or more Singles points: 98%
     SALA wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 1%
+    Winner decided by the Doubles point: 2%
   Singles:
     - Position: 1
       FLA: Duarte Vale - 15-6 at 1, 15-6 in duals, 23-6 overall
@@ -80,7 +82,7 @@ Lineups:
         TRN: FLA - Andrade (96%) def. Cloes (4%)
         MAS: FLA - Andrade (75%) def. Cloes (25%)
         UTR: FLA - Andrade (94%) def. Cloes (6%)
-        AVG: FLA - Andrade (90%) def. Cloes (10%)
+        AVG: FLA - Andrade (89%) def. Cloes (11%)
         ITA: FLA - Andrade (32.71) def. Cloes (2.46)
     - Position: 4
       FLA: Blaise Bicknell - 15-0 at 4, 20-0 in duals, 29-0 overall
@@ -100,7 +102,7 @@ Lineups:
         TRN: FLA - Shelton (98%) def. Delcour (2%)
         MAS: FLA - Shelton (75%) def. Delcour (25%)
         UTR: FLA - Shelton (96%) def. Delcour (4%)
-        AVG: FLA - Shelton (91%) def. Delcour (9%)
+        AVG: FLA - Shelton (90%) def. Delcour (10%)
         ITA: FLA - Shelton (3.20) def. Delcour (2.17)
     - Position: 6
       FLA: Josh Goodger - 12-0 at 6, 13-0 in duals, 19-0 overall
@@ -110,7 +112,7 @@ Lineups:
         TRN: FLA - Goodger (99%) def. Bugaj (1%)
         MAS: FLA - Goodger (75%) def. Bugaj (25%)
         UTR: FLA - Goodger (98%) def. Bugaj (2%)
-        AVG: FLA - Goodger (93%) def. Bugaj (7%)
+        AVG: FLA - Goodger (92%) def. Bugaj (8%)
         ITA: FLA - Goodger (8.31) def. Bugaj (0.00)
   Doubles:
     - Position: 1

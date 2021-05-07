@@ -40,6 +40,8 @@ Predictions:
   SLM: "AZST - #31 Arizona St. (71%) def. #42 Mississippi St. (29%)"
   TRN: "AZST - #33 Arizona St. (64%) def. #39 Mississippi St. (36%)"
   MAS: "AZST - #24 Arizona St. (75%) def. #44 Mississippi St. (25%)"
+  LNUP: AZST - Arizona St. (82%) def. Mississippi St. (18%)
+  AVG: AZST - Arizona St. (72%) def. Mississippi St. (28%)
   UTR: "AZST - #23 Arizona St. (+1.75) def. #36 Mississippi St. (-1.75)"
   ITA: "AZST - #31 Arizona St. def. #38 Mississippi St."
   USTA: AZST - RV Arizona St. def. Mississippi St.
@@ -47,11 +49,11 @@ Predictions:
   Seeding: "AZST - #2 Arizona St. def. #3 Mississippi St."
 Lineups:
   Predictions:
-    Average EWPs for AZST: 43%,59%,74%,73%,76%,56%
-    Average EWPs for MSST: 57%,41%,26%,27%,24%,44%
-    AZST wins 4 or more Singles points: 63%
-    MSST wins 4 or more Singles points: 12%
-    Winner decided by the Doubles point: 25%
+    Average EWPs for AZST: 41%,58%,74%,72%,76%,55%
+    Average EWPs for MSST: 59%,42%,26%,28%,24%,45%
+    AZST wins 4 or more Singles points: 61%
+    MSST wins 4 or more Singles points: 13%
+    Winner decided by the Doubles point: 26%
   Singles:
     - Position: 1
       AZST: Ilze Hattingh - 10-7 at 1, 10-7 in duals, 11-7 overall
@@ -61,7 +63,7 @@ Lineups:
         TRN: MSST - Antonaki (61%) def. Hattingh (39%)
         MAS: MSST - Antonaki (75%) def. Hattingh (25%)
         UTR: MSST - Antonaki (59%) def. Hattingh (41%)
-        AVG: MSST - Antonaki (57%) def. Hattingh (43%)
+        AVG: MSST - Antonaki (59%) def. Hattingh (41%)
         ITA: MSST - Antonaki (17.81) def. Hattingh (6.86)
     - Position: 2
       AZST: Sammi Hampton - 6-8 at 2, 6-8 in duals, 6-8 overall
@@ -71,7 +73,7 @@ Lineups:
         TRN: AZST - Hampton (53%) def. Adaloglou (47%)
         MAS: AZST - Hampton (75%) def. Adaloglou (25%)
         UTR: MSST - Adaloglou (54%) def. Hampton (46%)
-        AVG: AZST - Hampton (59%) def. Adaloglou (41%)
+        AVG: AZST - Hampton (58%) def. Adaloglou (42%)
         ITA: MSST - Adaloglou (3.24) def. Hampton (1.50)
     - Position: 3
       AZST: Lauryn John-Baptiste - 11-6 at 3, 11-6 in duals, 11-6 overall
@@ -91,7 +93,7 @@ Lineups:
         TRN: AZST - Morlet (67%) def. Mikhailuk (33%)
         MAS: AZST - Morlet (75%) def. Mikhailuk (25%)
         UTR: AZST - Morlet (82%) def. Mikhailuk (18%)
-        AVG: AZST - Morlet (73%) def. Mikhailuk (27%)
+        AVG: AZST - Morlet (72%) def. Mikhailuk (28%)
         ITA: AZST - Morlet (2.20) def. Mikhailuk (0.00)
     - Position: 5
       AZST: Marianna Argyrokastriti - 11-4 at 5, 14-5 in duals, 15-5 overall
@@ -111,7 +113,7 @@ Lineups:
         TRN: MSST - Cirotte (55%) def. Turkovic (45%)
         MAS: AZST - Turkovic (75%) def. Cirotte (25%)
         UTR: AZST - Turkovic (56%) def. Cirotte (44%)
-        AVG: AZST - Turkovic (56%) def. Cirotte (44%)
+        AVG: AZST - Turkovic (55%) def. Cirotte (45%)
         ITA: MSST - Cirotte (2.24) def. Turkovic (1.94)
   Doubles:
     - Position: 1

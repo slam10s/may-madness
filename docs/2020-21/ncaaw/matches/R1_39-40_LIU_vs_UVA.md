@@ -38,6 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UVA*** - #9 Virginia (99%) def. #61 LIU (1%)  
 - TRN: ***UVA*** - #11 Virginia (99%) def. #63 LIU (1%)  
 - Massey: ***UVA*** - #7 Virginia (75%) def. #61 LIU (25%)  
+- Lineup: ***UVA*** - Virginia (98%) def. LIU (2%)  
+- Composite: ***UVA*** - Virginia (92%) def. LIU (8%)  
 - UTR: ***UVA*** - #13 Virginia (+12.56) def. #60 LIU (-12.56)  
 - ITA: ***UVA*** - #14 Virginia def. #52 LIU  
 - USTA Poll: ***UVA*** - #10 Virginia def. LIU  
@@ -57,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Navarro (75%) def. Kuzina (25%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
-<li>Average: <b><i>UVA</i></b> - Navarro (93%) def. Kuzina (7%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Navarro (92%) def. Kuzina (8%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Navarro (62.96) def. Kuzina (3.50)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -68,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Subhash (75%) def. Dancenco (25%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Subhash (98%) def. Dancenco (2%)</li>  
-<li>Average: <b><i>UVA</i></b> - Subhash (93%) def. Dancenco (7%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Subhash (92%) def. Dancenco (8%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Subhash (40.00) def. Dancenco (4.17)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -79,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Johanson (75%) def. Erechtchenko (25%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
-<li>Average: <b><i>UVA</i></b> - Johanson (93%) def. Erechtchenko (7%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Johanson (92%) def. Erechtchenko (8%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Johanson (6.37) def. Erechtchenko (3.50)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -90,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Shaikh (75%) def. Storkaas (25%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
-<li>Average: <b><i>UVA</i></b> - Shaikh (93%) def. Storkaas (7%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Shaikh (92%) def. Storkaas (8%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Shaikh (1.63) def. Storkaas (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -101,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>Massey: <b><i>LIU</i></b> - Compuesto (75%) def. O'Dell (25%)</li>  
 <li>UTR: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
-<li>Average: <b><i>LIU</i></b> - Compuesto (93%) def. O'Dell (7%)</li>  
+<li>Composite: <b><i>LIU</i></b> - Compuesto (99%) def. O'Dell (1%)</li>  
 <li>ITA: <b><i>LIU</i></b> - Compuesto (3.66) def. O'Dell (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -112,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Glozman (75%) def. Jorjoliani (25%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Glozman (98%) def. Jorjoliani (2%)</li>  
-<li>Average: <b><i>UVA</i></b> - Glozman (93%) def. Jorjoliani (7%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Glozman (92%) def. Jorjoliani (8%)</li>  
 <li>ITA: <b><i>LIU</i></b> - Jorjoliani (3.50) def. Glozman (2.77)</li>  
 </ul>
 </details>&nbsp;</li>

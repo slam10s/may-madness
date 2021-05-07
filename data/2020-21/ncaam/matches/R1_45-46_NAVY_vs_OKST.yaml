@@ -38,6 +38,8 @@ Predictions:
   SLM: "OKST - #24 Oklahoma St. (98%) def. #54 Navy (2%)"
   TRN: "OKST - #23 Oklahoma St. (92%) def. #48 Navy (8%)"
   MAS: "OKST - #29 Oklahoma St. (75%) def. #56 Navy (25%)"
+  LNUP: OKST - Oklahoma St. (98%) def. Navy (2%)
+  AVG: OKST - Oklahoma St. (90%) def. Navy (10%)
   UTR: "OKST - #19 Oklahoma St. (+7.52) def. #58 Navy (-7.52)"
   ITA: "OKST - #19 Oklahoma St. def. #48 Navy"
   USTA: OKST - RV Oklahoma St. def. Navy
@@ -45,10 +47,10 @@ Predictions:
   Seeding: "OKST - #2 Oklahoma St. def. #3 Navy"
 Lineups:
   Predictions:
-    Average EWPs for OKST: 89%,81%,93%,91%,85%,79%
-    Average EWPs for NAVY: 11%,19%,7%,9%,15%,21%
-    OKST wins 4 or more Singles points: 97%
-    NAVY wins 4 or more Singles points: 0%
+    Average EWPs for OKST: 88%,81%,92%,90%,84%,78%
+    Average EWPs for NAVY: 12%,19%,8%,10%,16%,22%
+    OKST wins 4 or more Singles points: 96%
+    NAVY wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 3%
   Singles:
     - Position: 1
@@ -59,7 +61,7 @@ Lineups:
         TRN: OKST - Vocel (93%) def. Ton (7%)
         MAS: OKST - Vocel (75%) def. Ton (25%)
         UTR: OKST - Vocel (95%) def. Ton (5%)
-        AVG: OKST - Vocel (89%) def. Ton (11%)
+        AVG: OKST - Vocel (88%) def. Ton (12%)
         ITA: OKST - Vocel (20.98) def. Ton (4.17)
     - Position: 2
       OKST: Henrik Korsgaard - 3-2 at 2, 9-9 in duals, 9-9 overall
@@ -79,7 +81,7 @@ Lineups:
         TRN: OKST - Hudd (99%) def. Fishkin (1%)
         MAS: OKST - Hudd (75%) def. Fishkin (25%)
         UTR: OKST - Hudd (98%) def. Fishkin (2%)
-        AVG: OKST - Hudd (93%) def. Fishkin (7%)
+        AVG: OKST - Hudd (92%) def. Fishkin (8%)
         ITA: OKST - Hudd (4.25) def. Fishkin (0.00)
     - Position: 4
       OKST: Mathieu Scaglia - 4-5 at 4, 9-7 in duals, 9-8 overall
@@ -89,7 +91,7 @@ Lineups:
         TRN: OKST - Scaglia (96%) def. Garner (4%)
         MAS: OKST - Scaglia (75%) def. Garner (25%)
         UTR: OKST - Scaglia (96%) def. Garner (4%)
-        AVG: OKST - Scaglia (91%) def. Garner (9%)
+        AVG: OKST - Scaglia (90%) def. Garner (10%)
         ITA: OKST - Scaglia (2.10) def. Garner (1.69)
     - Position: 5
       OKST: Etienne Donnet - 3-4 at 5, 8-9 in duals, 9-14 overall
@@ -99,7 +101,7 @@ Lineups:
         TRN: OKST - Donnet (88%) def. Segraves (12%)
         MAS: OKST - Donnet (75%) def. Segraves (25%)
         UTR: OKST - Donnet (89%) def. Segraves (11%)
-        AVG: OKST - Donnet (85%) def. Segraves (15%)
+        AVG: OKST - Donnet (84%) def. Segraves (16%)
         ITA: NAVY - Segraves (4.17) def. Donnet (0.00)
     - Position: 6
       OKST: Matisse Bobichon - 4-4 at 6, 4-4 in duals, 4-4 overall
@@ -109,7 +111,7 @@ Lineups:
         TRN: OKST - Bobichon (67%) def. McBride (33%)
         MAS: OKST - Bobichon (75%) def. McBride (25%)
         UTR: OKST - Bobichon (93%) def. McBride (7%)
-        AVG: OKST - Bobichon (79%) def. McBride (21%)
+        AVG: OKST - Bobichon (78%) def. McBride (22%)
         ITA: NAVY - McBride (2.91) def. Bobichon (1.32)
   Doubles:
     - Position: 1

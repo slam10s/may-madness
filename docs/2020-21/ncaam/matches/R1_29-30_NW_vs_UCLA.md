@@ -39,6 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UCLA*** - #23 UCLA (63%) def. #33 Northwestern (37%)  
 - TRN: ***UCLA*** - #24 UCLA (63%) def. #32 Northwestern (37%)  
 - Massey: ***UCLA*** - #19 UCLA (75%) def. #31 Northwestern (25%)  
+- Lineup: ***NW*** - Northwestern (56%) def. UCLA (44%)  
+- Composite: ***UCLA*** - UCLA (60%) def. Northwestern (40%)  
 - UTR: ***UCLA*** - #13 UCLA (+1.50) def. #27 Northwestern (-1.50)  
 - ITA: ***UCLA*** - #24 UCLA def. #50 Northwestern  
 - USTA Poll: ***UCLA*** - #22 UCLA def. Northwestern  
@@ -59,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Nanda (75%) def. Forman (25%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Nanda (75%) def. Forman (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Nanda (85%) def. Forman (15%)</li>  
-<li>Average: <b><i>UCLA</i></b> - Nanda (74%) def. Forman (26%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Nanda (74%) def. Forman (26%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Nanda (4.24) def. Forman (2.23)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -70,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NW</i></b> - Stary (64%) def. Baird (36%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Baird (75%) def. Stary (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Baird (66%) def. Stary (34%)</li>  
-<li>Average: <b><i>UCLA</i></b> - Baird (52%) def. Stary (48%)</li>  
+<li>Composite: <b><i>NW</i></b> - Stary (51%) def. Baird (49%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Baird (3.85) def. Stary (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -81,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NW</i></b> - Brookes (52%) def. Goldberg (48%)</li>  
 <li>Massey: <b><i>NW</i></b> - Brookes (75%) def. Goldberg (25%)</li>  
 <li>UTR: <b><i>NW</i></b> - Brookes (77%) def. Goldberg (23%)</li>  
-<li>Average: <b><i>NW</i></b> - Brookes (67%) def. Goldberg (33%)</li>  
+<li>Composite: <b><i>NW</i></b> - Brookes (68%) def. Goldberg (32%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Goldberg (1.97) def. Brookes (1.58)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -92,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Feit (51%) def. Ephron (49%)</li>  
 <li>Massey: <b><i>NW</i></b> - Ephron (75%) def. Feit (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Feit (56%) def. Ephron (44%)</li>  
-<li>Average: <b><i>NW</i></b> - Ephron (57%) def. Feit (43%)</li>  
+<li>Composite: <b><i>NW</i></b> - Ephron (59%) def. Feit (41%)</li>  
 <li>ITA: <b><i>NW</i></b> - Ephron (2.01) def. Feit (1.91)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -103,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NW</i></b> - Pickens (56%) def. Bellamy (44%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Bellamy (75%) def. Pickens (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bellamy (81%) def. Pickens (19%)</li>  
-<li>Average: <b><i>UCLA</i></b> - Bellamy (58%) def. Pickens (42%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Bellamy (53%) def. Pickens (47%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Bellamy (2.89) def. Pickens (1.58)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -114,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NW</i></b> - Bratholm (64%) def. Tsolakyan (36%)</li>  
 <li>Massey: <b><i>NW</i></b> - Bratholm (75%) def. Tsolakyan (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Tsolakyan (62%) def. Bratholm (38%)</li>  
-<li>Average: <b><i>NW</i></b> - Bratholm (60%) def. Tsolakyan (40%)</li>  
+<li>Composite: <b><i>NW</i></b> - Bratholm (62%) def. Tsolakyan (38%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Tsolakyan (2.57) def. Bratholm (2.06)</li>  
 </ul>
 </details>&nbsp;</li>

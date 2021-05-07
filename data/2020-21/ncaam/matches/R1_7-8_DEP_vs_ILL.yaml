@@ -39,6 +39,8 @@ Predictions:
   SLM: "ILL - #6 Illinois (99%) def. #55 DePaul (1%)"
   TRN: "ILL - #4 Illinois (99%) def. #55 DePaul (1%)"
   MAS: "ILL - #9 Illinois (75%) def. #54 DePaul (25%)"
+  LNUP: ILL - Illinois (100%) def. DePaul (0%)
+  AVG: ILL - Illinois (93%) def. DePaul (7%)
   UTR: "ILL - #15 Illinois (+8.25) def. #60 DePaul (-8.25)"
   ITA: "ILL - #18 Illinois def. #55 DePaul"
   USTA: "ILL - #8 Illinois def. DePaul"
@@ -46,8 +48,8 @@ Predictions:
   Seeding: "ILL - #1 Illinois def. #4 DePaul"
 Lineups:
   Predictions:
-    Average EWPs for ILL: 92%,93%,90%,92%,92%,92%
-    Average EWPs for DEP: 8%,7%,10%,8%,8%,8%
+    Average EWPs for ILL: 92%,92%,90%,91%,91%,92%
+    Average EWPs for DEP: 8%,8%,10%,9%,9%,8%
     ILL wins 4 or more Singles points: 99%
     DEP wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -70,7 +72,7 @@ Lineups:
         TRN: ILL - Montsi (99%) def. Casati (1%)
         MAS: ILL - Montsi (75%) def. Casati (25%)
         UTR: ILL - Montsi (98%) def. Casati (2%)
-        AVG: ILL - Montsi (93%) def. Casati (7%)
+        AVG: ILL - Montsi (92%) def. Casati (8%)
         ITA: ILL - Montsi (4.79) def. Casati (0.00)
     - Position: 3
       ILL: Alex Brown - 3-2 at 3, 8-9 in duals, 9-12 overall
@@ -90,7 +92,7 @@ Lineups:
         TRN: ILL - Clark (99%) def. Zador (1%)
         MAS: ILL - Clark (75%) def. Zador (25%)
         UTR: ILL - Clark (96%) def. Zador (4%)
-        AVG: ILL - Clark (92%) def. Zador (8%)
+        AVG: ILL - Clark (91%) def. Zador (9%)
         ITA: ILL - Clark (6.43) def. Zador (1.31)
     - Position: 5
       ILL: Hunter Heck - 9-4 at 5, 13-5 in duals, 16-6 overall
@@ -100,7 +102,7 @@ Lineups:
         TRN: ILL - Heck (99%) def. Tonejc (1%)
         MAS: ILL - Heck (75%) def. Tonejc (25%)
         UTR: ILL - Heck (96%) def. Tonejc (4%)
-        AVG: ILL - Heck (92%) def. Tonejc (8%)
+        AVG: ILL - Heck (91%) def. Tonejc (9%)
         ITA: ILL - Heck (2.36) def. Tonejc (1.51)
     - Position: 6
       ILL: Noe Khlif - 5-0 at 6, 15-1 in duals, 15-1 overall

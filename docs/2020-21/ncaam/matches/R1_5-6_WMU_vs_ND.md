@@ -39,6 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***ND*** - #40 Notre Dame (77%) def. #47 Western Mich. (23%)  
 - TRN: ***ND*** - #42 Notre Dame (62%) def. #46 Western Mich. (38%)  
 - Massey: ***ND*** - #36 Notre Dame (75%) def. #45 Western Mich. (25%)  
+- Lineup: ***ND*** - Notre Dame (92%) def. Western Mich. (8%)  
+- Composite: ***ND*** - Notre Dame (75%) def. Western Mich. (25%)  
 - UTR: ***ND*** - #38 Notre Dame (+3.43) def. #53 Western Mich. (-3.43)  
 - ITA: ***ND*** - #34 Notre Dame def. #41 Western Mich.  
 - USTA Poll: ***WMU*** - RV Western Mich. def. Notre Dame  
@@ -59,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ND</i></b> - Nefve (84%) def. Opitz (16%)</li>  
 <li>Massey: <b><i>ND</i></b> - Nefve (75%) def. Opitz (25%)</li>  
 <li>UTR: <b><i>ND</i></b> - Nefve (92%) def. Opitz (8%)</li>  
-<li>Average: <b><i>ND</i></b> - Nefve (83%) def. Opitz (17%)</li>  
+<li>Composite: <b><i>ND</i></b> - Nefve (83%) def. Opitz (17%)</li>  
 <li>ITA: <b><i>ND</i></b> - Nefve (21.49) def. Opitz (3.71)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -70,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ND</i></b> - Ciamarra (82%) def. Kuszynski (18%)</li>  
 <li>Massey: <b><i>ND</i></b> - Ciamarra (75%) def. Kuszynski (25%)</li>  
 <li>UTR: <b><i>ND</i></b> - Ciamarra (91%) def. Kuszynski (9%)</li>  
-<li>Average: <b><i>ND</i></b> - Ciamarra (84%) def. Kuszynski (16%)</li>  
+<li>Composite: <b><i>ND</i></b> - Ciamarra (84%) def. Kuszynski (16%)</li>  
 <li>ITA: <b><i>ND</i></b> - Ciamarra (8.18) def. Kuszynski (3.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -81,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ND</i></b> - McCormick (88%) def. Lohse (12%)</li>  
 <li>Massey: <b><i>ND</i></b> - McCormick (75%) def. Lohse (25%)</li>  
 <li>UTR: <b><i>ND</i></b> - McCormick (91%) def. Lohse (9%)</li>  
-<li>Average: <b><i>ND</i></b> - McCormick (85%) def. Lohse (15%)</li>  
+<li>Composite: <b><i>ND</i></b> - McCormick (85%) def. Lohse (15%)</li>  
 <li>ITA: <b><i>ND</i></b> - McCormick (3.76) def. Lohse (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -92,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
 <li>Massey: <b><i>WMU</i></b> - Boone (75%) def. Howells (25%)</li>  
 <li>UTR: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
-<li>Average: <b><i>WMU</i></b> - Boone (93%) def. Howells (7%)</li>  
+<li>Composite: <b><i>WMU</i></b> - Boone (99%) def. Howells (1%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Boone (1.91) def. Howells (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -103,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ND</i></b> - Che (65%) def. Honnappa (35%)</li>  
 <li>Massey: <b><i>WMU</i></b> - Honnappa (75%) def. Che (25%)</li>  
 <li>UTR: <b><i>ND</i></b> - Che (78%) def. Honnappa (22%)</li>  
-<li>Average: <b><i>ND</i></b> - Che (62%) def. Honnappa (38%)</li>  
+<li>Composite: <b><i>ND</i></b> - Che (56%) def. Honnappa (44%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Honnappa (2.67) def. Che (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -114,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ND</i></b> - Fu (86%) def. George (14%)</li>  
 <li>Massey: <b><i>ND</i></b> - Fu (75%) def. George (25%)</li>  
 <li>UTR: <b><i>ND</i></b> - Fu (86%) def. George (14%)</li>  
-<li>Average: <b><i>ND</i></b> - Fu (84%) def. George (16%)</li>  
+<li>Composite: <b><i>ND</i></b> - Fu (84%) def. George (16%)</li>  
 <li>ITA: <b><i>WMU</i></b> - George (4.11) def. Fu (1.57)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -38,6 +38,8 @@ Predictions:
   SLM: "PEPP - #34 Pepperdine (95%) def. #51 UC Santa Barbara (5%)"
   TRN: "PEPP - #30 Pepperdine (98%) def. #51 UC Santa Barbara (2%)"
   MAS: "PEPP - #22 Pepperdine (75%) def. #52 UC Santa Barbara (25%)"
+  LNUP: PEPP - Pepperdine (96%) def. UC Santa Barbara (4%)
+  AVG: PEPP - Pepperdine (90%) def. UC Santa Barbara (10%)
   UTR: "PEPP - #26 Pepperdine (+3.39) def. #47 UC Santa Barbara (-3.39)"
   ITA: "PEPP - #28 Pepperdine def. #54 UC Santa Barbara"
   USTA: "PEPP - #24 Pepperdine def. UC Santa Barbara"
@@ -45,11 +47,11 @@ Predictions:
   Seeding: "PEPP - #2 Pepperdine def. #3 UC Santa Barbara"
 Lineups:
   Predictions:
-    Average EWPs for PEPP: 23%,89%,76%,81%,78%,84%
-    Average EWPs for UCSB: 77%,11%,24%,19%,22%,16%
+    Average EWPs for PEPP: 22%,89%,76%,81%,78%,84%
+    Average EWPs for UCSB: 78%,11%,24%,19%,22%,16%
     PEPP wins 4 or more Singles points: 82%
-    UCSB wins 4 or more Singles points: 4%
-    Winner decided by the Doubles point: 14%
+    UCSB wins 4 or more Singles points: 3%
+    Winner decided by the Doubles point: 15%
   Singles:
     - Position: 1
       PEPP: Adrian Oetzbach - 7-7 at 1, 7-8 in duals, 8-9 overall
@@ -59,7 +61,7 @@ Lineups:
         TRN: UCSB - Guillin (83%) def. Oetzbach (17%)
         MAS: UCSB - Guillin (75%) def. Oetzbach (25%)
         UTR: UCSB - Guillin (75%) def. Oetzbach (25%)
-        AVG: UCSB - Guillin (77%) def. Oetzbach (23%)
+        AVG: UCSB - Guillin (78%) def. Oetzbach (22%)
         ITA: PEPP - Oetzbach (5.20) def. Guillin (3.96)
     - Position: 2
       PEPP: Guy Den Ouden - 10-4 at 2, 15-5 in duals, 15-5 overall

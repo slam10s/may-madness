@@ -39,6 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***DUKE*** - #14 Duke (93%) def. #44 Alabama (7%)  
 - TRN: ***DUKE*** - #15 Duke (94%) def. #44 Alabama (6%)  
 - Massey: ***DUKE*** - #11 Duke (75%) def. #44 Alabama (25%)  
+- Lineup: ***DUKE*** - Duke (100%) def. Alabama (0%)  
+- Composite: ***DUKE*** - Duke (90%) def. Alabama (10%)  
 - UTR: ***DUKE*** - #12 Duke (+3.40) def. #40 Alabama (-3.40)  
 - ITA: ***DUKE*** - #17 Duke def. #42 Alabama  
 - USTA Poll: ***DUKE*** - #14 Duke def. Alabama  
@@ -59,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Chen (85%) def. Bencheikh (15%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chen (75%) def. Bencheikh (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
-<li>Average: <b><i>DUKE</i></b> - Chen (83%) def. Bencheikh (17%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Chen (83%) def. Bencheikh (17%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chen (12.42) def. Bencheikh (1.60)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -70,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Drummy (75%) def. Pou (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
-<li>Average: <b><i>DUKE</i></b> - Drummy (87%) def. Pou (13%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Drummy (86%) def. Pou (14%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Drummy (24.14) def. Pou (2.01)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -81,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Beck (75%) def. Parkhomenko (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Beck (93%) def. Parkhomenko (7%)</li>  
-<li>Average: <b><i>DUKE</i></b> - Beck (90%) def. Parkhomenko (10%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Beck (89%) def. Parkhomenko (11%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Beck (15.35) def. Parkhomenko (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -92,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Chi (96%) def. Hiser (4%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chi (75%) def. Hiser (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chi (91%) def. Hiser (9%)</li>  
-<li>Average: <b><i>DUKE</i></b> - Chi (89%) def. Hiser (11%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Chi (88%) def. Hiser (12%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chi (15.20) def. Hiser (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -103,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Bilokin (90%) def. Riley (10%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Bilokin (75%) def. Riley (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Bilokin (93%) def. Riley (7%)</li>  
-<li>Average: <b><i>DUKE</i></b> - Bilokin (87%) def. Riley (13%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Bilokin (87%) def. Riley (13%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Bilokin (2.72) def. Riley (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -114,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Berankova (80%) def. Orefice (20%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Berankova (75%) def. Orefice (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Berankova (97%) def. Orefice (3%)</li>  
-<li>Average: <b><i>DUKE</i></b> - Berankova (86%) def. Orefice (14%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Berankova (86%) def. Orefice (14%)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

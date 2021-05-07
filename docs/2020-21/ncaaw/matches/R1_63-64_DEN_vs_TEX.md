@@ -39,6 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
 - TRN: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
 - Massey: ***TEX*** - #2 Texas (75%) def. #43 Denver (25%)  
+- Lineup: ***TEX*** - Texas (98%) def. Denver (2%)  
+- Composite: ***TEX*** - Texas (92%) def. Denver (8%)  
 - UTR: ***TEX*** - #1 Texas (+7.56) def. #45 Denver (-7.56)  
 - ITA: ***TEX*** - #2 Texas def. #45 Denver  
 - USTA Poll: ***TEX*** - #2 Texas def. Denver  
@@ -59,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - Stearns (65%) def. Riedmiller (35%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Stearns (75%) def. Riedmiller (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Stearns (90%) def. Riedmiller (10%)</li>  
-<li>Average: <b><i>TEX</i></b> - Stearns (79%) def. Riedmiller (21%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Stearns (78%) def. Riedmiller (22%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Stearns (16.38) def. Riedmiller (4.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -70,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - Turati (97%) def. Melville (3%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Turati (75%) def. Melville (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Turati (94%) def. Melville (6%)</li>  
-<li>Average: <b><i>TEX</i></b> - Turati (89%) def. Melville (11%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Turati (89%) def. Melville (11%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Turati (17.31) def. Melville (2.84)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -81,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - Sun (99%) def. Pursell (1%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Sun (75%) def. Pursell (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Sun (98%) def. Pursell (2%)</li>  
-<li>Average: <b><i>TEX</i></b> - Sun (92%) def. Pursell (8%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Sun (91%) def. Pursell (9%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Sun (9.34) def. Pursell (2.61)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -92,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Chavatipon (75%) def. Verden-Anderson (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
-<li>Average: <b><i>TEX</i></b> - Chavatipon (93%) def. Verden-Anderson (7%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Chavatipon (92%) def. Verden-Anderson (8%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Chavatipon (7.87) def. Verden-Anderson (3.01)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -103,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Collins (75%) def. Chang (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Collins (98%) def. Chang (2%)</li>  
-<li>Average: <b><i>TEX</i></b> - Collins (93%) def. Chang (7%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Collins (92%) def. Chang (8%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Collins (8.04) def. Chang (2.56)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -114,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Labrana (75%) def. Burger (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Labrana (97%) def. Burger (3%)</li>  
-<li>Average: <b><i>TEX</i></b> - Labrana (92%) def. Burger (8%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Labrana (92%) def. Burger (8%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Burger (1.93) def. Labrana (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

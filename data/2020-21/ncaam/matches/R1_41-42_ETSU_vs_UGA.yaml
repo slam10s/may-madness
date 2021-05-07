@@ -39,6 +39,8 @@ Predictions:
   SLM: "UGA - #16 Georgia (99%) def. #52 ETSU (1%)"
   TRN: "UGA - #14 Georgia (99%) def. #53 ETSU (1%)"
   MAS: "UGA - #15 Georgia (75%) def. #51 ETSU (25%)"
+  LNUP: UGA - Georgia (100%) def. ETSU (0%)
+  AVG: UGA - Georgia (92%) def. ETSU (8%)
   UTR: "UGA - #19 Georgia (+4.52) def. #50 ETSU (-4.52)"
   ITA: "UGA - #11 Georgia def. #49 ETSU"
   USTA: "UGA - #16 Georgia def. ETSU"
@@ -46,8 +48,8 @@ Predictions:
   Seeding: "UGA - #1 Georgia def. #4 ETSU"
 Lineups:
   Predictions:
-    Average EWPs for UGA: 82%,87%,91%,88%,92%,92%
-    Average EWPs for ETSU: 18%,13%,9%,12%,8%,8%
+    Average EWPs for UGA: 82%,87%,90%,88%,91%,91%
+    Average EWPs for ETSU: 18%,13%,10%,12%,9%,9%
     UGA wins 4 or more Singles points: 98%
     ETSU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 2%
@@ -80,7 +82,7 @@ Lineups:
         TRN: UGA - Henning (97%) def. Lugo (3%)
         MAS: UGA - Henning (75%) def. Lugo (25%)
         UTR: UGA - Henning (94%) def. Lugo (6%)
-        AVG: UGA - Henning (91%) def. Lugo (9%)
+        AVG: UGA - Henning (90%) def. Lugo (10%)
         ITA: UGA - Henning (31.73) def. Lugo (2.15)
     - Position: 4
       UGA: Blake Croyder - 10-2 at 4, 11-5 in duals, 15-12 overall
@@ -100,7 +102,7 @@ Lineups:
         TRN: UGA - Rowe (99%) def. Este (1%)
         MAS: UGA - Rowe (75%) def. Este (25%)
         UTR: UGA - Rowe (96%) def. Este (4%)
-        AVG: UGA - Rowe (92%) def. Este (8%)
+        AVG: UGA - Rowe (91%) def. Este (9%)
         ITA: ETSU - Este (2.15) def. Rowe (1.84)
     - Position: 6
       UGA: Erik Grevelius - 7-3 at 6, 9-4 in duals, 15-8 overall
@@ -110,7 +112,7 @@ Lineups:
         TRN: UGA - Grevelius (97%) def. Zabala (3%)
         MAS: UGA - Grevelius (75%) def. Zabala (25%)
         UTR: UGA - Grevelius (99%) def. Zabala (1%)
-        AVG: UGA - Grevelius (92%) def. Zabala (8%)
+        AVG: UGA - Grevelius (91%) def. Zabala (9%)
         ITA: UGA - Grevelius (2.48) def. Zabala (1.96)
   Doubles:
     - Position: 1

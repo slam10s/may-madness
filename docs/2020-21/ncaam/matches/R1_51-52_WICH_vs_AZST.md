@@ -39,6 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***AZST*** - #25 Arizona St. (70%) def. #39 Wichita St. (30%)  
 - TRN: ***AZST*** - #25 Arizona St. (70%) def. #37 Wichita St. (30%)  
 - Massey: ***AZST*** - #24 Arizona St. (75%) def. #41 Wichita St. (25%)  
+- Lineup: ***WICH*** - Wichita St. (55%) def. Arizona St. (45%)  
+- Composite: ***AZST*** - Arizona St. (63%) def. Wichita St. (37%)  
 - UTR: ***AZST*** - #23 Arizona St. (+2.10) def. #39 Wichita St. (-2.10)  
 - ITA: ***AZST*** - #20 Arizona St. def. #33 Wichita St.  
 - USTA Poll: ***AZST*** - #19 Arizona St. def. Wichita St.  
@@ -59,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AZST</i></b> - Ponwtih (59%) def. Dellien (41%)</li>  
 <li>Massey: <b><i>WICH</i></b> - Dellien (75%) def. Ponwtih (25%)</li>  
 <li>UTR: <b><i>WICH</i></b> - Dellien (56%) def. Ponwtih (44%)</li>  
-<li>Average: <b><i>WICH</i></b> - Dellien (51%) def. Ponwtih (49%)</li>  
+<li>Composite: <b><i>WICH</i></b> - Dellien (53%) def. Ponwtih (47%)</li>  
 <li>ITA: <b><i>WICH</i></b> - Dellien (19.99) def. Ponwtih (8.02)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -70,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WICH</i></b> - Frosa (100%) def. Rakotomalala (0%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Rakotomalala (75%) def. Frosa (25%)</li>  
 <li>UTR: <b><i>WICH</i></b> - Frosa (100%) def. Rakotomalala (0%)</li>  
-<li>Average: <b><i>WICH</i></b> - Frosa (81%) def. Rakotomalala (19%)</li>  
+<li>Composite: <b><i>WICH</i></b> - Frosa (99%) def. Rakotomalala (1%)</li>  
 <li>ITA: <b><i>WICH</i></b> - Frosa (2.75) def. Rakotomalala (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -81,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AZST</i></b> - Ruehl (84%) def. Latinovic (16%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Ruehl (75%) def. Latinovic (25%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Ruehl (88%) def. Latinovic (12%)</li>  
-<li>Average: <b><i>AZST</i></b> - Ruehl (82%) def. Latinovic (18%)</li>  
+<li>Composite: <b><i>AZST</i></b> - Ruehl (81%) def. Latinovic (19%)</li>  
 <li>ITA: <b><i>AZST</i></b> - Ruehl (2.65) def. Latinovic (1.52)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -92,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WICH</i></b> - Acevedo (62%) def. Stoupe (38%)</li>  
 <li>Massey: <b><i>WICH</i></b> - Acevedo (75%) def. Stoupe (25%)</li>  
 <li>UTR: <b><i>WICH</i></b> - Acevedo (64%) def. Stoupe (36%)</li>  
-<li>Average: <b><i>WICH</i></b> - Acevedo (65%) def. Stoupe (35%)</li>  
+<li>Composite: <b><i>WICH</i></b> - Acevedo (66%) def. Stoupe (34%)</li>  
 <li>ITA: <b><i>WICH</i></b> - Acevedo (1.90) def. Stoupe (1.41)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -103,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AZST</i></b> - McKennon (55%) def. Ovil (45%)</li>  
 <li>Massey: <b><i>AZST</i></b> - McKennon (75%) def. Ovil (25%)</li>  
 <li>UTR: <b><i>AZST</i></b> - McKennon (85%) def. Ovil (15%)</li>  
-<li>Average: <b><i>AZST</i></b> - McKennon (65%) def. Ovil (35%)</li>  
+<li>Composite: <b><i>AZST</i></b> - McKennon (63%) def. Ovil (37%)</li>  
 <li>ITA: <b><i>WICH</i></b> - Ovil (1.40) def. McKennon (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -114,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AZST</i></b> - Lerby (56%) def. Mrsic (44%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Lerby (75%) def. Mrsic (25%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Lerby (67%) def. Mrsic (33%)</li>  
-<li>Average: <b><i>AZST</i></b> - Lerby (63%) def. Mrsic (37%)</li>  
+<li>Composite: <b><i>AZST</i></b> - Lerby (62%) def. Mrsic (38%)</li>  
 <li>ITA: <b><i>WICH</i></b> - Mrsic (1.93) def. Lerby (1.82)</li>  
 </ul>
 </details>&nbsp;</li>

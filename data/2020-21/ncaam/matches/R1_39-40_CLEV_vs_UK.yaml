@@ -39,6 +39,8 @@ Predictions:
   SLM: "UK - #17 Kentucky (99%) def. #56 Cleveland St. (1%)"
   TRN: "UK - #17 Kentucky (99%) def. #56 Cleveland St. (1%)"
   MAS: "UK - #17 Kentucky (75%) def. #55 Cleveland St. (25%)"
+  LNUP: UK - Kentucky (100%) def. Cleveland St. (0%)
+  AVG: UK - Kentucky (93%) def. Cleveland St. (7%)
   UTR: "UK - #16 Kentucky (+7.36) def. #54 Cleveland St. (-7.36)"
   ITA: "UK - #15 Kentucky def. #57 Cleveland St."
   USTA: "UK - #17 Kentucky def. Cleveland St."
@@ -46,8 +48,8 @@ Predictions:
   Seeding: "UK - #1 Kentucky def. #4 Cleveland St."
 Lineups:
   Predictions:
-    Average EWPs for UK: 92%,90%,90%,90%,92%,91%
-    Average EWPs for CLEV: 8%,10%,10%,10%,8%,9%
+    Average EWPs for UK: 91%,90%,89%,89%,91%,91%
+    Average EWPs for CLEV: 9%,10%,11%,11%,9%,9%
     UK wins 4 or more Singles points: 99%
     CLEV wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -60,7 +62,7 @@ Lineups:
         TRN: UK - Draxl (99%) def. Mostardi (1%)
         MAS: UK - Draxl (75%) def. Mostardi (25%)
         UTR: UK - Draxl (96%) def. Mostardi (4%)
-        AVG: UK - Draxl (92%) def. Mostardi (8%)
+        AVG: UK - Draxl (91%) def. Mostardi (9%)
         ITA: UK - Draxl (64.58) def. Mostardi (2.33)
     - Position: 2
       UK: Gabriel Diallo - 12-5 at 2, 14-6 in duals, 19-7 overall
@@ -80,7 +82,7 @@ Lineups:
         TRN: UK - Hurrion (96%) def. Phillips (4%)
         MAS: UK - Hurrion (75%) def. Phillips (25%)
         UTR: UK - Hurrion (94%) def. Phillips (6%)
-        AVG: UK - Hurrion (90%) def. Phillips (10%)
+        AVG: UK - Hurrion (89%) def. Phillips (11%)
         ITA: UK - Hurrion (22.80) def. Phillips (2.83)
     - Position: 4
       UK: Cesar Bourgois - 9-6 at 4, 14-6 in duals, 14-6 overall
@@ -90,7 +92,7 @@ Lineups:
         TRN: UK - Bourgois (96%) def. Mareschal-Hay (4%)
         MAS: UK - Bourgois (75%) def. Mareschal-Hay (25%)
         UTR: UK - Bourgois (93%) def. Mareschal-Hay (7%)
-        AVG: UK - Bourgois (90%) def. Mareschal-Hay (10%)
+        AVG: UK - Bourgois (89%) def. Mareschal-Hay (11%)
         ITA: UK - Bourgois (7.98) def. Mareschal-Hay (2.45)
     - Position: 5
       UK: Joshua Lapadat - 3-3 at 5, 6-9 in duals, 11-10 overall
@@ -100,7 +102,7 @@ Lineups:
         TRN: UK - Lapadat (99%) def. Bilinovich (1%)
         MAS: UK - Lapadat (75%) def. Bilinovich (25%)
         UTR: UK - Lapadat (97%) def. Bilinovich (3%)
-        AVG: UK - Lapadat (92%) def. Bilinovich (8%)
+        AVG: UK - Lapadat (91%) def. Bilinovich (9%)
         ITA: UK - Lapadat (6.21) def. Bilinovich (1.91)
     - Position: 6
       UK: Alexandre LeBlanc - 2-4 at 6, 4-4 in duals, 5-9 overall

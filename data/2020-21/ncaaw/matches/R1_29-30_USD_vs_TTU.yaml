@@ -39,17 +39,19 @@ Predictions:
   SLM: "TTU - #34 Texas Tech (53%) def. #36 San Diego (47%)"
   TRN: "TTU - #34 Texas Tech (61%) def. #38 San Diego (39%)"
   MAS: "TTU - #28 Texas Tech (75%) def. #32 San Diego (25%)"
+  LNUP: TTU - Texas Tech (63%) def. San Diego (37%)
+  AVG: TTU - Texas Tech (62%) def. San Diego (38%)
   UTR: "TTU - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)"
   ITA: "TTU - #29 Texas Tech def. #39 San Diego"
   Coach: "TTU - #29 Texas Tech def. #47 San Diego"
   Seeding: "TTU - #2 Texas Tech def. #3 San Diego"
 Lineups:
   Predictions:
-    Average EWPs for TTU: 17%,66%,40%,52%,79%,78%
-    Average EWPs for USD: 83%,34%,60%,48%,21%,22%
-    TTU wins 4 or more Singles points: 44%
-    USD wins 4 or more Singles points: 22%
-    Winner decided by the Doubles point: 34%
+    Average EWPs for TTU: 16%,64%,39%,50%,79%,78%
+    Average EWPs for USD: 84%,36%,61%,50%,21%,22%
+    TTU wins 4 or more Singles points: 41%
+    USD wins 4 or more Singles points: 24%
+    Winner decided by the Doubles point: 35%
   Singles:
     - Position: 1
       TTU: Lisa Mays - 9-7 at 1, 10-7 in duals, 12-8 overall
@@ -59,7 +61,7 @@ Lineups:
         TRN: USD - Colling (88%) def. Mays (12%)
         MAS: USD - Colling (75%) def. Mays (25%)
         UTR: USD - Colling (84%) def. Mays (16%)
-        AVG: USD - Colling (83%) def. Mays (17%)
+        AVG: USD - Colling (84%) def. Mays (16%)
         ITA: USD - Colling (12.76) def. Mays (3.54)
     - Position: 2
       TTU: Margarita Skriabina - 2-0 at 2, 16-1 in duals, 18-2 overall
@@ -69,7 +71,7 @@ Lineups:
         TRN: TTU - Skriabina (54%) def. Goldsmith (46%)
         MAS: TTU - Skriabina (75%) def. Goldsmith (25%)
         UTR: TTU - Skriabina (86%) def. Goldsmith (14%)
-        AVG: TTU - Skriabina (66%) def. Goldsmith (34%)
+        AVG: TTU - Skriabina (64%) def. Goldsmith (36%)
         ITA: TTU - Skriabina (6.63) def. Goldsmith (2.97)
     - Position: 3
       TTU: Kaitlin Staines - 0-0 at 3, 6-9 in duals, 9-11 overall
@@ -79,7 +81,7 @@ Lineups:
         TRN: USD - McBride (58%) def. Staines (42%)
         MAS: USD - McBride (75%) def. Staines (25%)
         UTR: USD - McBride (59%) def. Staines (41%)
-        AVG: USD - McBride (60%) def. Staines (40%)
+        AVG: USD - McBride (61%) def. Staines (39%)
         ITA: TTU - Staines (4.66) def. McBride (3.11)
     - Position: 4
       TTU: Nell Miller - 11-4 at 4, 14-6 in duals, 16-10 overall
@@ -89,7 +91,7 @@ Lineups:
         TRN: USD - Desiatnikov (57%) def. Miller (43%)
         MAS: TTU - Miller (75%) def. Desiatnikov (25%)
         UTR: USD - Desiatnikov (71%) def. Miller (29%)
-        AVG: TTU - Miller (52%) def. Desiatnikov (48%)
+        AVG: USD - Desiatnikov (51%) def. Miller (49%)
         ITA: TTU - Miller (2.66) def. Desiatnikov (2.52)
     - Position: 5
       TTU: Olivia Peet - 9-6 at 5, 10-6 in duals, 12-6 overall

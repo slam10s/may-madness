@@ -39,17 +39,19 @@ Predictions:
   SLM: "TULN - #26 Tulane (78%) def. #45 Middle Tenn. (22%)"
   TRN: "TULN - #26 Tulane (79%) def. #45 Middle Tenn. (21%)"
   MAS: "TULN - #26 Tulane (75%) def. #42 Middle Tenn. (25%)"
+  LNUP: TULN - Tulane (83%) def. Middle Tenn. (17%)
+  AVG: TULN - Tulane (79%) def. Middle Tenn. (21%)
   UTR: "TULN - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)"
   ITA: "TULN - #22 Tulane def. #42 Middle Tenn."
   Coach: "TULN - #24 Tulane def. #42 Middle Tenn."
   Seeding: "TULN - #2 Tulane def. #3 Middle Tenn."
 Lineups:
   Predictions:
-    Average EWPs for TULN: 72%,70%,78%,60%,66%,36%
-    Average EWPs for MTSU: 28%,30%,22%,40%,34%,64%
-    TULN wins 4 or more Singles points: 64%
-    MTSU wins 4 or more Singles points: 11%
-    Winner decided by the Doubles point: 25%
+    Average EWPs for TULN: 72%,70%,78%,59%,66%,32%
+    Average EWPs for MTSU: 28%,30%,22%,41%,34%,68%
+    TULN wins 4 or more Singles points: 62%
+    MTSU wins 4 or more Singles points: 12%
+    Winner decided by the Doubles point: 26%
   Singles:
     - Position: 1
       TULN: Hamish Stewart - 12-7 at 1, 12-7 in duals, 12-7 overall
@@ -89,7 +91,7 @@ Lineups:
         TRN: TULN - Suarez (60%) def. Edge (40%)
         MAS: TULN - Suarez (75%) def. Edge (25%)
         UTR: TULN - Suarez (56%) def. Edge (44%)
-        AVG: TULN - Suarez (60%) def. Edge (40%)
+        AVG: TULN - Suarez (59%) def. Edge (41%)
         ITA: MTSU - Edge (4.29) def. Suarez (2.40)
     - Position: 5
       TULN: Rafael de Alba - 3-2 at 5, 12-4 in duals, 12-4 overall
@@ -109,7 +111,7 @@ Lineups:
         TRN: TULN - Kotorman (58%) def. Michalek (42%)
         MAS: MTSU - Michalek (75%) def. Kotorman (25%)
         UTR: MTSU - Michalek (83%) def. Kotorman (17%)
-        AVG: MTSU - Michalek (64%) def. Kotorman (36%)
+        AVG: MTSU - Michalek (68%) def. Kotorman (32%)
         ITA: MTSU - Michalek (1.92) def. Kotorman (0.00)
   Doubles:
     - Position: 1

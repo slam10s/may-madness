@@ -38,6 +38,8 @@ Predictions:
   SLM: "STAN - #23 Stanford (81%) def. #39 UC Santa Barbara (19%)"
   TRN: "STAN - #24 Stanford (83%) def. #40 UC Santa Barbara (17%)"
   MAS: "STAN - #15 Stanford (75%) def. #40 UC Santa Barbara (25%)"
+  LNUP: STAN - Stanford (98%) def. UC Santa Barbara (2%)
+  AVG: STAN - Stanford (84%) def. UC Santa Barbara (16%)
   UTR: "STAN - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)"
   ITA: "STAN - #28 Stanford def. #44 UC Santa Barbara"
   USTA: "STAN - #18 Stanford def. UC Santa Barbara"
@@ -45,11 +47,11 @@ Predictions:
   Seeding: "STAN - #2 Stanford def. #3 UC Santa Barbara"
 Lineups:
   Predictions:
-    Average EWPs for STAN: 79%,81%,48%,92%,92%,92%
-    Average EWPs for UCSB: 21%,19%,52%,8%,8%,8%
-    STAN wins 4 or more Singles points: 93%
+    Average EWPs for STAN: 78%,81%,42%,92%,92%,92%
+    Average EWPs for UCSB: 22%,19%,58%,8%,8%,8%
+    STAN wins 4 or more Singles points: 92%
     UCSB wins 4 or more Singles points: 1%
-    Winner decided by the Doubles point: 6%
+    Winner decided by the Doubles point: 7%
   Singles:
     - Position: 1
       STAN: Michaela Gordon - 9-6 at 1, 9-6 in duals, 9-6 overall
@@ -59,7 +61,7 @@ Lineups:
         TRN: STAN - Gordon (76%) def. Volodko (24%)
         MAS: STAN - Gordon (75%) def. Volodko (25%)
         UTR: STAN - Gordon (87%) def. Volodko (13%)
-        AVG: STAN - Gordon (79%) def. Volodko (21%)
+        AVG: STAN - Gordon (78%) def. Volodko (22%)
         ITA: STAN - Gordon (17.68) def. Volodko (4.21)
     - Position: 2
       STAN: Angelica Blake - 2-1 at 2, 7-2 in duals, 7-2 overall
@@ -79,7 +81,7 @@ Lineups:
         TRN: UCSB - Khatamova (73%) def. Arbuthnott (27%)
         MAS: UCSB - Khatamova (75%) def. Arbuthnott (25%)
         UTR: STAN - Arbuthnott (80%) def. Khatamova (20%)
-        AVG: UCSB - Khatamova (52%) def. Arbuthnott (48%)
+        AVG: UCSB - Khatamova (58%) def. Arbuthnott (42%)
         ITA: UCSB - Khatamova (6.05) def. Arbuthnott (1.89)
     - Position: 4
       STAN: Ana Geller - 1-3 at 4, 7-3 in duals, 7-3 overall

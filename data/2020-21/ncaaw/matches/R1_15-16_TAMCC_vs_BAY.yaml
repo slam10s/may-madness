@@ -39,6 +39,8 @@ Predictions:
   SLM: "BAY - #7 Baylor (99%) def. #55 A&M-Corpus Christi (1%)"
   TRN: "BAY - #4 Baylor (99%) def. #55 A&M-Corpus Christi (1%)"
   MAS: "BAY - #12 Baylor (75%) def. #52 A&M-Corpus Christi (25%)"
+  LNUP: BAY - Baylor (100%) def. A&M-Corpus Christi (0%)
+  AVG: BAY - Baylor (93%) def. A&M-Corpus Christi (7%)
   UTR: "BAY - #8 Baylor (+8.61) def. #52 A&M-Corpus Christi (-8.61)"
   ITA: "BAY - #8 Baylor def. #56 A&M-Corpus Christi"
   USTA: "BAY - #8 Baylor def. A&M-Corpus Christi"
@@ -46,11 +48,11 @@ Predictions:
   Seeding: "BAY - #1 Baylor def. #4 A&M-Corpus Christi"
 Lineups:
   Predictions:
-    Average EWPs for BAY: 89%,89%,92%,84%,91%,93%
-    Average EWPs for TAMCC: 11%,11%,8%,16%,9%,7%
+    Average EWPs for BAY: 89%,88%,91%,84%,90%,92%
+    Average EWPs for TAMCC: 11%,12%,9%,16%,10%,8%
     BAY wins 4 or more Singles points: 98%
-    TAMCC wins 4 or more Singles points: 1%
-    Winner decided by the Doubles point: 1%
+    TAMCC wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 2%
   Singles:
     - Position: 1
       BAY: Melany Krywoj - 11-6 at 1, 11-6 in duals, 19-10 overall
@@ -70,7 +72,7 @@ Lineups:
         TRN: BAY - Hinojosa (95%) def. Townsend (5%)
         MAS: BAY - Hinojosa (75%) def. Townsend (25%)
         UTR: BAY - Hinojosa (95%) def. Townsend (5%)
-        AVG: BAY - Hinojosa (89%) def. Townsend (11%)
+        AVG: BAY - Hinojosa (88%) def. Townsend (12%)
         ITA: BAY - Hinojosa (3.62) def. Townsend (1.97)
     - Position: 3
       BAY: Alicia Herrero - 4-4 at 3, 13-8 in duals, 20-13 overall
@@ -80,7 +82,7 @@ Lineups:
         TRN: BAY - Herrero (98%) def. Honore (2%)
         MAS: BAY - Herrero (75%) def. Honore (25%)
         UTR: BAY - Herrero (97%) def. Honore (3%)
-        AVG: BAY - Herrero (92%) def. Honore (8%)
+        AVG: BAY - Herrero (91%) def. Honore (9%)
         ITA: BAY - Herrero (2.87) def. Honore (2.07)
     - Position: 4
       BAY: Angie Shakhraichuck - 6-4 at 4, 17-5 in duals, 24-10 overall
@@ -100,7 +102,7 @@ Lineups:
         TRN: BAY - Sorokolet (96%) def. Boisseau (4%)
         MAS: BAY - Sorokolet (75%) def. Boisseau (25%)
         UTR: BAY - Sorokolet (95%) def. Boisseau (5%)
-        AVG: BAY - Sorokolet (91%) def. Boisseau (9%)
+        AVG: BAY - Sorokolet (90%) def. Boisseau (10%)
         ITA: TAMCC - Boisseau (2.71) def. Sorokolet (1.95)
     - Position: 6
       BAY: Paula Baranano - 5-2 at 6, 12-3 in duals, 12-3 overall
@@ -110,7 +112,7 @@ Lineups:
         TRN: BAY - Baranano (99%) def. Delattre (1%)
         MAS: BAY - Baranano (75%) def. Delattre (25%)
         UTR: BAY - Baranano (98%) def. Delattre (2%)
-        AVG: BAY - Baranano (93%) def. Delattre (7%)
+        AVG: BAY - Baranano (92%) def. Delattre (8%)
         ITA: TAMCC - Delattre (3.13) def. Baranano (2.52)
   Doubles:
     - Position: 1

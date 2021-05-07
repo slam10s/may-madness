@@ -39,17 +39,19 @@ Predictions:
   SLM: "OKLA - #29 Oklahoma (68%) def. #42 Denver (32%)"
   TRN: "OKLA - #28 Oklahoma (59%) def. #35 Denver (41%)"
   MAS: "OKLA - #37 Oklahoma (75%) def. #38 Denver (25%)"
+  LNUP: OKLA - Oklahoma (91%) def. Denver (9%)
+  AVG: OKLA - Oklahoma (72%) def. Denver (28%)
   UTR: "OKLA - #28 Oklahoma (+3.10) def. #46 Denver (-3.10)"
   ITA: "OKLA - #27 Oklahoma def. #45 Denver"
   Coach: "OKLA - #26 Oklahoma def. #44 Denver"
   Seeding: "OKLA - #2 Oklahoma def. #3 Denver"
 Lineups:
   Predictions:
-    Average EWPs for OKLA: 53%,85%,76%,82%,61%,73%
-    Average EWPs for DEN: 47%,15%,24%,18%,39%,27%
-    OKLA wins 4 or more Singles points: 79%
-    DEN wins 4 or more Singles points: 5%
-    Winner decided by the Doubles point: 16%
+    Average EWPs for OKLA: 50%,85%,75%,82%,56%,65%
+    Average EWPs for DEN: 50%,15%,25%,18%,44%,35%
+    OKLA wins 4 or more Singles points: 73%
+    DEN wins 4 or more Singles points: 7%
+    Winner decided by the Doubles point: 20%
   Singles:
     - Position: 1
       OKLA: Jake Van Emburgh - 4-9 at 1, 8-10 in duals, 8-13 overall
@@ -59,7 +61,7 @@ Lineups:
         TRN: OKLA - Emburgh (53%) def. Davis (47%)
         MAS: DEN - Davis (75%) def. Emburgh (25%)
         UTR: OKLA - Emburgh (79%) def. Davis (21%)
-        AVG: OKLA - Emburgh (53%) def. Davis (47%)
+        AVG: DEN - Davis (51%) def. Emburgh (49%)
         ITA: OKLA - Emburgh (7.98) def. Davis (6.67)
     - Position: 2
       OKLA: Mason Beiler - 7-4 at 2, 11-8 in duals, 16-13 overall
@@ -79,7 +81,7 @@ Lineups:
         TRN: OKLA - Martinez (83%) def. Summers (17%)
         MAS: OKLA - Martinez (75%) def. Summers (25%)
         UTR: OKLA - Martinez (74%) def. Summers (26%)
-        AVG: OKLA - Martinez (76%) def. Summers (24%)
+        AVG: OKLA - Martinez (75%) def. Summers (25%)
         ITA: OKLA - Martinez (2.93) def. Summers (2.15)
     - Position: 4
       OKLA: Nathan Han - 2-6 at 4, 7-7 in duals, 13-11 overall
@@ -99,7 +101,7 @@ Lineups:
         TRN: OKLA - Schlageter (65%) def. Cuesta (35%)
         MAS: DEN - Cuesta (75%) def. Schlageter (25%)
         UTR: OKLA - Schlageter (85%) def. Cuesta (15%)
-        AVG: OKLA - Schlageter (61%) def. Cuesta (39%)
+        AVG: OKLA - Schlageter (56%) def. Cuesta (44%)
         ITA: DEN - Cuesta (3.64) def. Schlageter (0.00)
     - Position: 6
       OKLA: Mark Mandlik - 1-1 at 6, 6-14 in duals, 6-14 overall
@@ -109,7 +111,7 @@ Lineups:
         TRN: OKLA - Mandlik (78%) def. Crespo (22%)
         MAS: DEN - Crespo (75%) def. Mandlik (25%)
         UTR: OKLA - Mandlik (99%) def. Crespo (1%)
-        AVG: OKLA - Mandlik (73%) def. Crespo (27%)
+        AVG: OKLA - Mandlik (65%) def. Crespo (35%)
         ITA: DEN - Crespo (3.50) def. Mandlik (0.00)
   Doubles:
     - Position: 1

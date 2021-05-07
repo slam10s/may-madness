@@ -39,6 +39,8 @@ Predictions:
   SLM: "OSU - #5 Ohio St. (99%) def. #57 UIC (1%)"
   TRN: "OSU - #5 Ohio St. (99%) def. #59 UIC (1%)"
   MAS: "OSU - #8 Ohio St. (75%) def. #58 UIC (25%)"
+  LNUP: OSU - Ohio St. (100%) def. UIC (0%)
+  AVG: OSU - Ohio St. (93%) def. UIC (7%)
   UTR: "OSU - #25 Ohio St. (+10.14) def. #58 UIC (-10.14)"
   ITA: "OSU - #18 Ohio St. def. #59 UIC"
   USTA: "OSU - #6 Ohio St. def. UIC"
@@ -46,8 +48,8 @@ Predictions:
   Seeding: "OSU - #1 Ohio St. def. #4 UIC"
 Lineups:
   Predictions:
-    Average EWPs for OSU: 93%,92%,87%,92%,93%,93%
-    Average EWPs for UIC: 7%,8%,13%,8%,7%,7%
+    Average EWPs for OSU: 92%,91%,87%,91%,92%,92%
+    Average EWPs for UIC: 8%,9%,13%,9%,8%,8%
     OSU wins 4 or more Singles points: 99%
     UIC wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -60,7 +62,7 @@ Lineups:
         TRN: OSU - Siemers (99%) def. Malazonia (1%)
         MAS: OSU - Siemers (75%) def. Malazonia (25%)
         UTR: OSU - Siemers (99%) def. Malazonia (1%)
-        AVG: OSU - Siemers (93%) def. Malazonia (7%)
+        AVG: OSU - Siemers (92%) def. Malazonia (8%)
         ITA: OSU - Siemers (24.34) def. Malazonia (0.00)
     - Position: 2
       OSU: Isabelle Boulais - 6-3 at 2, 11-5 in duals, 11-5 overall
@@ -70,7 +72,7 @@ Lineups:
         TRN: OSU - Boulais (99%) def. Gustafsson (1%)
         MAS: OSU - Boulais (75%) def. Gustafsson (25%)
         UTR: OSU - Boulais (96%) def. Gustafsson (4%)
-        AVG: OSU - Boulais (92%) def. Gustafsson (8%)
+        AVG: OSU - Boulais (91%) def. Gustafsson (9%)
         ITA: OSU - Boulais (2.65) def. Gustafsson (1.82)
     - Position: 3
       OSU: Kolie Allen - 7-3 at 3, 10-9 in duals, 10-12 overall
@@ -90,7 +92,7 @@ Lineups:
         TRN: OSU - Hofbauer (98%) def. Jover (2%)
         MAS: OSU - Hofbauer (75%) def. Jover (25%)
         UTR: OSU - Hofbauer (97%) def. Jover (3%)
-        AVG: OSU - Hofbauer (92%) def. Jover (8%)
+        AVG: OSU - Hofbauer (91%) def. Jover (9%)
         ITA: UIC - Jover (2.79) def. Hofbauer (2.47)
     - Position: 5
       OSU: Lucia Marzal - 10-2 at 5, 19-2 in duals, 21-3 overall
@@ -100,7 +102,7 @@ Lineups:
         TRN: OSU - Marzal (99%) def. Gulin (1%)
         MAS: OSU - Marzal (75%) def. Gulin (25%)
         UTR: OSU - Marzal (98%) def. Gulin (2%)
-        AVG: OSU - Marzal (93%) def. Gulin (7%)
+        AVG: OSU - Marzal (92%) def. Gulin (8%)
         ITA: OSU - Marzal (3.08) def. Gulin (2.79)
     - Position: 6
       OSU: Luna Dormet - 9-1 at 6, 17-1 in duals, 19-1 overall
@@ -110,7 +112,7 @@ Lineups:
         TRN: OSU - Dormet (99%) def. Arendt (1%)
         MAS: OSU - Dormet (75%) def. Arendt (25%)
         UTR: OSU - Dormet (98%) def. Arendt (2%)
-        AVG: OSU - Dormet (93%) def. Arendt (7%)
+        AVG: OSU - Dormet (92%) def. Arendt (8%)
         ITA: OSU - Dormet (3.78) def. Arendt (3.01)
   Doubles:
     - Position: 1
