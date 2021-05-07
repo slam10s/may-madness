@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 10:00 EDT  
-Dan Magill Tennis Complex  
-Athens, Georgia  
 ## [Furman vs Wake Forest](https://www.ncaa.com/game/5833664)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Furman</h2>  
-&nbsp; Record: 21-7<br>  
 &nbsp; ITA: 34 (25.42)<br>  
 &nbsp; Slam: 33 (87.98)<br>  
 &nbsp; TRN: 35 (79.59)<br>  
@@ -22,7 +19,6 @@ Athens, Georgia
 <td>  
 
 <h2>#2 Wake Forest</h2>  
-&nbsp; Record: 12-12<br>  
 &#10004; ITA: 33 (25.77)<br>  
 &#10004; Slam: 32 (88.11)<br>  
 &#10004; TRN: 31 (80.20)<br>  
@@ -36,9 +32,6 @@ Athens, Georgia
 
 
 <br>Return to [List of Matches](../index.md)  
-
-## Match Information  
-***Wake Forest def. Furman 4-2***  
 
 ## Predictions  
 

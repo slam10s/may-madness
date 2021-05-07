@@ -1,14 +1,11 @@
 First Round  
 Saturday, May 8 at 3:00 EDT  
-Bayard H. Friedman Tennis Center  
-Fort Worth, Texas  
 ## [Arkansas vs #7 TCU](https://www.ncaa.com/game/5833394)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Arkansas</h2>  
-&nbsp; Record: 10-14<br>  
 &nbsp; ITA: 43 (18.30)<br>  
 &nbsp; Slam: 43 (91.55)<br>  
 &nbsp; TRN: 44 (89.43)<br>  
@@ -21,7 +18,6 @@ Fort Worth, Texas
 <td>  
 
 <h2>#1 TCU</h2>  
-&nbsp; Record: 16-7<br>  
 &#10004; ITA: 7 (69.22)<br>  
 &#10004; Slam: 9 (97.57)<br>  
 &#10004; TRN: 9 (96.56)<br>  

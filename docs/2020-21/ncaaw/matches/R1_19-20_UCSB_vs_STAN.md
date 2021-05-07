@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
-Ralphs-Straus Tennis Center  
-Malibu, California  
 ## [UC Santa Barbara vs Stanford](https://www.ncaa.com/game/5833656)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0032A0 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 UC Santa Barbara</h2>  
-&nbsp; Record: 13-3<br>  
 &nbsp; ITA: 44 (14.68)<br>  
 &nbsp; Slam: 39 (87.38)<br>  
 &nbsp; TRN: 40 (78.81)<br>  
@@ -20,7 +17,6 @@ Malibu, California
 <td>  
 
 <h2>#2 Stanford</h2>  
-&nbsp; Record: 14-4<br>  
 &#10004; ITA: 28 (35.11)<br>  
 &#10004; Slam: 23 (90.02)<br>  
 &#10004; TRN: 24 (81.66)<br>  

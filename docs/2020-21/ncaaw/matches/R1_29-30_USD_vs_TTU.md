@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 4:00 EDT  
-Los Angeles Tennis Center  
-Los Angeles, California  
 ## [San Diego vs Texas Tech](https://www.ncaa.com/game/5833661)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png" width="70" height="70" /></td><td style="background-color: #ED1F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 San Diego</h2>  
-&nbsp; Record: 15-4<br>  
 &nbsp; ITA: 39 (19.12)<br>  
 &nbsp; Slam: 36 (87.64)<br>  
 &nbsp; TRN: 38 (78.95)<br>  
@@ -21,7 +18,6 @@ Los Angeles, California
 <td>  
 
 <h2>#2 Texas Tech</h2>  
-&nbsp; Record: 15-8<br>  
 &#10004; ITA: 29 (28.07)<br>  
 &#10004; Slam: 34 (87.92)<br>  
 &#10004; TRN: 34 (79.75)<br>  

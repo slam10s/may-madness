@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 11:00 EDT  
-Ken Byers Tennis Complex  
-Atlanta, Georgia  
 ## [North Florida vs Ole Miss](https://www.ncaa.com/game/5833660)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-florida.70.png" width="70" height="70" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-florida.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 North Florida</h2>  
-&nbsp; Record: 17-7<br>  
 &nbsp; ITA: 48 (8.00)<br>  
 &nbsp; Slam: 46 (84.69)<br>  
 &nbsp; TRN: 46 (75.83)<br>  
@@ -20,7 +17,6 @@ Atlanta, Georgia
 <td>  
 
 <h2>#2 Ole Miss</h2>  
-&nbsp; Record: 11-9<br>  
 &#10004; ITA: 25 (38.66)<br>  
 &#10004; Slam: 26 (89.34)<br>  
 &#10004; TRN: 26 (81.50)<br>  

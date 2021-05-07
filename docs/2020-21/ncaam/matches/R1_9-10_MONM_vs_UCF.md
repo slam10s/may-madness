@@ -1,14 +1,11 @@
 First Round  
 Saturday, May 8 at 2:00 EDT  
-USTA National Campus  
-Orlando, Florida  
 ## [Monmouth vs #9 UCF](https://www.ncaa.com/game/5833374)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Monmouth</h2>  
-&nbsp; Record: 14-2<br>  
 &nbsp; ITA: 58 (4.41)<br>  
 &nbsp; Slam: 61 (82.18)<br>  
 &nbsp; TRN: 57 (79.79)<br>  
@@ -20,7 +17,6 @@ Orlando, Florida
 <td>  
 
 <h2>#1 UCF</h2>  
-&nbsp; Record: 21-3<br>  
 &#10004; ITA: 10 (54.95)<br>  
 &#10004; Slam: 12 (96.59)<br>  
 &#10004; TRN: 13 (95.63)<br>  

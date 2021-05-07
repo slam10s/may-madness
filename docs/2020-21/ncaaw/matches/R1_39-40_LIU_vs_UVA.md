@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 3:00 EDT  
-Virginia Tennis Facility at the Boar’s Head Resort  
-Charlottesville, Virginia  
 ## [LIU vs #14 Virginia](https://www.ncaa.com/game/5833666)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 LIU</h2>  
-&nbsp; Record: 9-0<br>  
 &nbsp; ITA: 52 (4.20)<br>  
 &nbsp; Slam: 61 (70.79)<br>  
 &nbsp; TRN: 63 (55.66)<br>  
@@ -20,7 +17,6 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#1 Virginia</h2>  
-&nbsp; Record: 14-6<br>  
 &#10004; ITA: 14 (47.67)<br>  
 &#10004; Slam: 9 (91.88)<br>  
 &#10004; TRN: 11 (84.03)<br>  

@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 2:00 EDT  
-Varsity Tennis Center  
-Columbus, Ohio  
 ## [UIC vs #15 Ohio St.](https://www.ncaa.com/game/5833675)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #DB0032 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/ill-chicago.70.png" width="70" height="70" /></td><td style="background-color: #CE0F3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/ill-chicago.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 UIC</h2>  
-&nbsp; Record: 14-5<br>  
 &nbsp; ITA: 59 (2.42)<br>  
 &nbsp; Slam: 57 (76.42)<br>  
 &nbsp; TRN: 59 (65.14)<br>  
@@ -20,7 +17,6 @@ Columbus, Ohio
 <td>  
 
 <h2>#1 Ohio St.</h2>  
-&nbsp; Record: 21-3<br>  
 &#10004; ITA: 18 (43.02)<br>  
 &#10004; Slam: 5 (92.95)<br>  
 &#10004; TRN: 5 (85.87)<br>  

@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 12:00 EDT  
-Virginia Tennis Facility at the Boar’s Head Resort  
-Charlottesville, Virginia  
 ## [James Madison vs Tennessee](https://www.ncaa.com/game/5833665)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #330072 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/j/james-madison.70.png" width="70" height="70" /></td><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/j/james-madison.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 James Madison</h2>  
-&nbsp; Record: 14-3<br>  
 &nbsp; ITA: 46 (8.95)<br>  
 &nbsp; Slam: 47 (84.23)<br>  
 &nbsp; TRN: 47 (75.57)<br>  
@@ -20,7 +17,6 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#2 Tennessee</h2>  
-&nbsp; Record: 16-8<br>  
 &#10004; ITA: 15 (46.78)<br>  
 &#10004; Slam: 19 (90.43)<br>  
 &#10004; TRN: 19 (82.73)<br>  

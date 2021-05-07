@@ -1,14 +1,11 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
-Dan Magill Tennis Complex  
-Athens, Georgia  
 ## [ETSU vs #11 Georgia](https://www.ncaa.com/game/5833390)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png" width="70" height="70" /></td><td style="background-color: #DA291C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 ETSU</h2>  
-&nbsp; Record: 13-7<br>  
 &nbsp; ITA: 49 (7.97)<br>  
 &nbsp; Slam: 52 (87.30)<br>  
 &nbsp; TRN: 53 (84.02)<br>  
@@ -20,7 +17,6 @@ Athens, Georgia
 <td>  
 
 <h2>#1 Georgia</h2>  
-&nbsp; Record: 14-6<br>  
 &#10004; ITA: 11 (54.81)<br>  
 &#10004; Slam: 16 (96.08)<br>  
 &#10004; TRN: 14 (94.91)<br>  

@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
-Dan Magill Tennis Complex  
-Athens, Georgia  
 ## [Austin Peay vs #3 Georgia](https://www.ncaa.com/game/5833663)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" /></td><td style="background-color: #DA291C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Austin Peay</h2>  
-&nbsp; Record: 12-3<br>  
 &nbsp; ITA: 57 (3.35)<br>  
 &nbsp; Slam: 56 (77.22)<br>  
 &nbsp; TRN: 56 (67.26)<br>  
@@ -20,7 +17,6 @@ Athens, Georgia
 <td>  
 
 <h2>#1 Georgia</h2>  
-&nbsp; Record: 20-1<br>  
 &#10004; ITA: 3 (74.01)<br>  
 &#10004; Slam: 3 (97.81)<br>  
 &#10004; TRN: 3 (94.01)<br>  

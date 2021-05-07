@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 11:00 EDT  
-Varsity Tennis Center  
-Columbus, Ohio  
 ## [Ball St. vs Vanderbilt](https://www.ncaa.com/game/5833676)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Ball St.</h2>  
-&nbsp; Record: 22-4<br>  
 &nbsp; ITA: 51 (4.35)<br>  
 &nbsp; Slam: 52 (79.30)<br>  
 &nbsp; TRN: 52 (70.33)<br>  
@@ -20,7 +17,6 @@ Columbus, Ohio
 <td>  
 
 <h2>#2 Vanderbilt</h2>  
-&nbsp; Record: 14-9<br>  
 &#10004; ITA: 27 (35.19)<br>  
 &#10004; Slam: 29 (88.87)<br>  
 &#10004; TRN: 30 (81.13)<br>  
@@ -34,9 +30,6 @@ Columbus, Ohio
 
 
 <br>Return to [List of Matches](../index.md)  
-
-## Match Information  
-***Vanderbilt def. Ball State 4-0***  
 
 ## Predictions  
 

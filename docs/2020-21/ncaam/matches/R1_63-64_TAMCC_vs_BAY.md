@@ -1,14 +1,11 @@
 First Round  
 Saturday, May 8 at 3:00 EDT  
-Hurd Tennis Center  
-Waco, Texas  
 ## [A&M-Corpus Christi vs #2 Baylor](https://www.ncaa.com/game/5833401)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005EB8 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 A&M-Corpus Christi</h2>  
-&nbsp; Record: 19-4<br>  
 &nbsp; ITA: 60 (2.97)<br>  
 &nbsp; Slam: 60 (82.18)<br>  
 &nbsp; TRN: 61 (76.91)<br>  
@@ -20,7 +17,6 @@ Waco, Texas
 <td>  
 
 <h2>#1 Baylor</h2>  
-&nbsp; Record: 29-4<br>  
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 5 (99.05)<br>  
 &#10004; TRN: 6 (98.67)<br>  

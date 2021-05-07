@@ -1,14 +1,11 @@
 First Round  
 Saturday, May 8 at 11:00 EDT  
-USTA National Campus  
-Orlando, Florida  
 ## [Miami (FL) vs Mississippi St.](https://www.ncaa.com/game/5833375)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #154734 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></td><td style="background-color: #6F2C3F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Miami (FL)</h2>  
-&nbsp; Record: 8-10<br>  
 &nbsp; ITA: 39 (19.34)<br>  
 &nbsp; Slam: 37 (92.19)<br>  
 &nbsp; TRN: 43 (89.49)<br>  
@@ -21,7 +18,6 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Mississippi St.</h2>  
-&nbsp; Record: 16-9<br>  
 &#10004; ITA: 16 (41.29)<br>  
 &#10004; Slam: 20 (94.39)<br>  
 &#10004; TRN: 19 (92.98)<br>  

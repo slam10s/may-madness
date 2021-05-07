@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
-Carolina Tennis Center  
-Columbia, South Carolina  
 ## [UNCW vs #13 South Carolina](https://www.ncaa.com/game/5833382)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00685E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></td><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 UNCW</h2>  
-&nbsp; Record: 15-5<br>  
 &nbsp; ITA: 51 (7.93)<br>  
 &nbsp; Slam: 48 (88.87)<br>  
 &nbsp; TRN: 49 (86.19)<br>  
@@ -20,7 +17,6 @@ Columbia, South Carolina
 <td>  
 
 <h2>#1 South Carolina</h2>  
-&nbsp; Record: 15-9<br>  
 &#10004; ITA: 13 (50.95)<br>  
 &#10004; Slam: 15 (96.20)<br>  
 &#10004; TRN: 15 (94.49)<br>  

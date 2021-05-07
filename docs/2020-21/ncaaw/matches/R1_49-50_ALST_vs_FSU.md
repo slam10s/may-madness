@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 4:00 EDT  
-Scott Speicher Tennis Center  
-Tallahassee, Florida  
 ## [Alabama St. vs #7 Florida St.](https://www.ncaa.com/game/5833671)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></td><td style="background-color: #76253A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Alabama St.</h2>  
-&nbsp; Record: 9-6<br>  
 &nbsp; ITA: 61 (2.29)<br>  
 &nbsp; Slam: 63 (69.75)<br>  
 &nbsp; TRN: 62 (58.32)<br>  
@@ -20,7 +17,6 @@ Tallahassee, Florida
 <td>  
 
 <h2>#1 Florida St.</h2>  
-&nbsp; Record: 16-5<br>  
 &#10004; ITA: 7 (55.15)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  

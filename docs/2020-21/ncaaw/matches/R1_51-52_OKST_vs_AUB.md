@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
-Scott Speicher Tennis Center  
-Tallahassee, Florida  
 ## [Oklahoma St. vs Auburn](https://www.ncaa.com/game/5833672)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #DF4F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></td><td style="background-color: #FA4616 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Oklahoma St.</h2>  
-&nbsp; Record: 11-11<br>  
 &nbsp; ITA: 37 (20.71)<br>  
 &nbsp; Slam: 37 (87.45)<br>  
 &nbsp; TRN: 37 (79.03)<br>  
@@ -21,7 +18,6 @@ Tallahassee, Florida
 <td>  
 
 <h2>#2 Auburn</h2>  
-&nbsp; Record: 13-8<br>  
 &#10004; ITA: 20 (41.17)<br>  
 &#10004; Slam: 24 (89.44)<br>  
 &#10004; TRN: 23 (81.74)<br>  

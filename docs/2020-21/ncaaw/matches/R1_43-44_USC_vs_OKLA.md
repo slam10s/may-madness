@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 10:00 EDT  
-Alfred A. Ring Tennis Complex  
-Gainesville, Florida  
 ## [Southern California vs Oklahoma](https://www.ncaa.com/game/5833668)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Southern California</h2>  
-&nbsp; Record: 12-10<br>  
 &nbsp; ITA: 35 (23.17)<br>  
 &nbsp; Slam: 35 (87.72)<br>  
 &nbsp; TRN: 41 (78.74)<br>  
@@ -21,7 +18,6 @@ Gainesville, Florida
 <td>  
 
 <h2>#2 Oklahoma</h2>  
-&nbsp; Record: 15-7<br>  
 &#10004; ITA: 23 (39.04)<br>  
 &#10004; Slam: 13 (91.06)<br>  
 &#10004; TRN: 22 (82.23)<br>  
@@ -36,9 +32,6 @@ Gainesville, Florida
 
 
 <br>Return to [List of Matches](../index.md)  
-
-## Match Information  
-***USC def. Oklahoma 4-3***  
 
 ## Predictions  
 

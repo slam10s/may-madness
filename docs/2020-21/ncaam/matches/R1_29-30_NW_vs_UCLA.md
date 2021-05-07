@@ -1,14 +1,11 @@
 First Round  
 Saturday, May 8 at 10:00 EDT  
-Texas Tennis Center  
-Austin, Texas  
 ## [Northwestern vs UCLA](https://www.ncaa.com/game/5833384)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #4E2A84 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Northwestern</h2>  
-&nbsp; Record: 13-7<br>  
 &nbsp; ITA: 50 (7.95)<br>  
 &nbsp; Slam: 33 (92.89)<br>  
 &nbsp; TRN: 32 (90.90)<br>  
@@ -21,7 +18,6 @@ Austin, Texas
 <td>  
 
 <h2>#2 UCLA</h2>  
-&nbsp; Record: 13-6<br>  
 &#10004; ITA: 24 (32.15)<br>  
 &#10004; Slam: 23 (93.84)<br>  
 &#10004; TRN: 24 (91.84)<br>  

@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 4:00 EDT  
-Combe Tennis Center  
-Evanston, Illinois  
 ## [Xavier vs Northwestern](https://www.ncaa.com/game/5833673)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png" width="70" height="70" /></td><td style="background-color: #4E2A84 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Xavier</h2>  
-&nbsp; Record: 17-3<br>  
 &nbsp; ITA: 55 (3.75)<br>  
 &nbsp; Slam: 49 (80.67)<br>  
 &nbsp; TRN: 50 (71.88)<br>  
@@ -20,7 +17,6 @@ Evanston, Illinois
 <td>  
 
 <h2>#2 Northwestern</h2>  
-&nbsp; Record: 18-5<br>  
 &#10004; ITA: 21 (39.92)<br>  
 &#10004; Slam: 18 (90.46)<br>  
 &#10004; TRN: 13 (83.80)<br>  

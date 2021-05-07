@@ -1,0 +1,129 @@
+Date: Saturday, May 8
+Time: 2:00 EDT
+Round: Second Round
+Lines: 21-24
+Title: "Michigan vs #12 LSU"
+URL: https://www.ncaa.com/game/5833684
+Winner: TBD
+Home:
+  Team: LSU
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png
+  Entry: Regional Host
+  Draw Line: 24
+  Seeding:
+    Overall: 12
+    Region: 1
+  Ratings:
+    ITA: 12 (48.73)
+    SLM: 21 (90.28)
+    TRN: 18 (82.92)
+    MAS: 21 (7.77)
+    UTR: 26 (61.48)
+  Polls:
+    USTA: 23
+    Coach: 14
+Visitor:
+  Team: Michigan
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png
+  Entry: At-Large Bid
+  Draw Line: 21
+  Seeding:
+    Region: 2
+  Ratings:
+    ITA: 19 (41.22)
+    SLM: 8 (91.95)
+    TRN: 8 (85.13)
+    MAS: 15 (7.96)
+    UTR: 17 (61.98)
+  Polls:
+    USTA: 7
+    Coach: 18
+Predictions:
+  SLM: "MICH - #8 Michigan (73%) def. #21 LSU (27%)"
+  TRN: "MICH - #8 Michigan (79%) def. #18 LSU (21%)"
+  MAS: "MICH - #15 Michigan (75%) def. #21 LSU (25%)"
+  LNUP: MICH - Michigan (77%) def. LSU (23%)
+  AVG: MICH - Michigan (75%) def. LSU (25%)
+  UTR: "MICH - #17 Michigan (+0.5) def. #26 LSU (-0.5)"
+  ITA: "LSU - #12 LSU def. #19 Michigan"
+  USTA: "MICH - #7 Michigan def. #23 LSU"
+  Coach: "LSU - #14 LSU def. #18 Michigan"
+  Seeding: "LSU - #1 LSU def. #2 Michigan"
+Lineups:
+  Predictions:
+    Average EWPs for LSU: 28%,22%,26%,23%
+    Average EWPs for MICH: 72%,78%,74%,77%
+    LSU wins 4 or more Singles points: 16%
+    MICH wins 4 or more Singles points: 54%
+    Winner decided by the Doubles point: 30%
+  Singles:
+    - Position: 1
+      LSU: Taylor Bridges - 7-7 at 1, 7-7 in duals, 13-10 overall
+      MICH: Kari Miller - 11-3 at 1, 12-4 in duals, 15-4 overall
+      Predictions:
+        SLM: MICH - Miller (84%) def. Bridges (16%)
+        TRN: MICH - Miller (81%) def. Bridges (19%)
+        MAS: MICH - Miller (75%) def. Bridges (25%)
+        UTR: MICH - Miller (83%) def. Bridges (17%)
+        AVG: MICH - Miller (80%) def. Bridges (20%)
+        ITA: LSU - Bridges (11.61) def. Miller (10.66)
+    - Position: 2
+      LSU: Safiya Carrington - 2-5 at 2, 3-6 in duals, 10-10 overall
+      MICH: Chiara Lommer - 10-3 at 2, 12-4 in duals, 14-5 overall
+      Predictions:
+        SLM: MICH - Lommer (70%) def. Carrington (30%)
+        TRN: MICH - Lommer (68%) def. Carrington (32%)
+        MAS: MICH - Lommer (75%) def. Carrington (25%)
+        UTR: MICH - Lommer (66%) def. Carrington (34%)
+        AVG: MICH - Lommer (69%) def. Carrington (31%)
+        ITA: LSU - Carrington (4.09) def. Lommer (2.49)
+    - Position: 3
+      LSU: Paris Corley - 6-2 at 3, 10-3 in duals, 18-4 overall
+      MICH: Andrea Cerdan - 7-4 at 3, 11-6 in duals, 13-7 overall
+      Predictions:
+        SLM: LSU - Corley (75%) def. Cerdan (25%)
+        TRN: LSU - Corley (88%) def. Cerdan (12%)
+        MAS: LSU - Corley (75%) def. Cerdan (25%)
+        UTR: LSU - Corley (87%) def. Cerdan (13%)
+        AVG: LSU - Corley (81%) def. Cerdan (19%)
+        ITA: LSU - Corley (9.83) def. Cerdan (1.79)
+    - Position: 4
+      LSU: Maggie Cubitt - 4-1 at 4, 5-1 in duals, 6-4 overall
+      MICH: Jaedan Brown - 7-0 at 4, 15-2 in duals, 17-3 overall
+      Predictions:
+        SLM: MICH - Brown (65%) def. Cubitt (35%)
+        TRN: MICH - Brown (69%) def. Cubitt (31%)
+        MAS: MICH - Brown (75%) def. Cubitt (25%)
+        UTR: MICH - Brown (67%) def. Cubitt (33%)
+        AVG: MICH - Brown (68%) def. Cubitt (32%)
+        ITA: MICH - Brown (2.65) def. Cubitt (2.11)
+    - Position: 5
+      LSU: Eden Richardson - 2-2 at 5, 4-6 in duals, 8-11 overall
+      MICH: Alyvia Jones - 3-0 at 5, 7-2 in duals, 7-5 overall
+      Predictions:
+        SLM: MICH - Jones (66%) def. Richardson (34%)
+        TRN: MICH - Jones (63%) def. Richardson (37%)
+        MAS: MICH - Jones (75%) def. Richardson (25%)
+        UTR: MICH - Jones (75%) def. Richardson (25%)
+        AVG: MICH - Jones (69%) def. Richardson (31%)
+        ITA: MICH - Jones (2.08) def. Richardson (1.47)
+    - Position: 6
+      LSU: Nina Geissler - 4-2 at 6, 10-3 in duals, 15-6 overall
+      MICH: Bella Lorenzini - 2-0 at 6, 2-0 in duals, 4-0 overall
+      Predictions:
+        SLM: LSU - Geissler (55%) def. Lorenzini (45%)
+        TRN: LSU - Geissler (69%) def. Lorenzini (31%)
+        MAS: MICH - Lorenzini (75%) def. Geissler (25%)
+        UTR: MICH - Lorenzini (54%) def. Geissler (46%)
+        AVG: MICH - Lorenzini (51%) def. Geissler (49%)
+        ITA: MICH - Lorenzini (2.86) def. Geissler (2.01)
+  Doubles:
+    - Position: 1
+      LSU: Richardson/Geissler - 4-7 at 1, 4-7 in duals, 4-10 overall
+      MICH: Jones/Brown - 2-0 at 1, 2-0 in duals, 2-0 overall
+    - Position: 2
+      LSU: Bridges/Corley - 4-1 at 2, 12-4 in duals, 15-4 overall
+      MICH: Miller/Lommer - 2-0 at 2, 2-0 in duals, 2-0 overall
+    - Position: 3
+      LSU: Cubitt/Carrington - 0-0 at 3, 5-3 in duals, 7-5 overall
+      MICH: Lorenzini/Cerdan - 0-0 at 3, 0-0 in duals, 0-0 overall

@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 3:00 EDT  
-George P. Mitchell Tennis Center  
-College Station, Texas  
 ## [New Mexico vs #8 Texas A&M](https://www.ncaa.com/game/5833377)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png" width="70" height="70" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 New Mexico</h2>  
-&nbsp; Record: 8-9<br>  
 &nbsp; ITA: 52 (7.44)<br>  
 &nbsp; Slam: 53 (87.22)<br>  
 &nbsp; TRN: 54 (83.45)<br>  
@@ -20,7 +17,6 @@ College Station, Texas
 <td>  
 
 <h2>#1 Texas A&M</h2>  
-&nbsp; Record: 16-8<br>  
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 11 (96.97)<br>  
 &#10004; TRN: 11 (95.89)<br>  

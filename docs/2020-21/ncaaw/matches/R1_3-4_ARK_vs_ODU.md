@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 10:00 EDT  
-Cone-Kenfield Center  
-Chapel Hill, North Carolina  
 ## [Arkansas vs Old Dominion](https://www.ncaa.com/game/5833648)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></td><td style="background-color: #0B4071 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Arkansas</h2>  
-&nbsp; Record: 11-11<br>  
 &nbsp; ITA: 32 (26.02)<br>  
 &nbsp; Slam: 38 (87.39)<br>  
 &nbsp; TRN: 32 (79.87)<br>  
@@ -21,7 +18,6 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#2 Old Dominion</h2>  
-&nbsp; Record: 13-4<br>  
 &#10004; ITA: 30 (28.00)<br>  
 &#10004; Slam: 28 (89.21)<br>  
 &#10004; TRN: 25 (81.50)<br>  
@@ -36,9 +32,6 @@ Chapel Hill, North Carolina
 
 
 <br>Return to [List of Matches](../index.md)  
-
-## Match Information  
-***Old Dominion def. Arkansas 4-2***  
 
 ## Predictions  
 

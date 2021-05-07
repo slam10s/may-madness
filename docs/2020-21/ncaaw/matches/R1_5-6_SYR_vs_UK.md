@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
-Hellman Tennis Complex  
-Berkeley, California  
 ## [Syracuse vs Kentucky](https://www.ncaa.com/game/5833649)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #DC4405 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" /></td><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Syracuse</h2>  
-&nbsp; Record: 8-11<br>  
 &nbsp; ITA: 43 (15.84)<br>  
 &nbsp; Slam: 43 (86.54)<br>  
 &nbsp; TRN: 43 (78.55)<br>  
@@ -21,7 +18,6 @@ Berkeley, California
 <td>  
 
 <h2>#2 Kentucky</h2>  
-&nbsp; Record: 15-8<br>  
 &#10004; ITA: 26 (37.41)<br>  
 &#10004; Slam: 25 (89.36)<br>  
 &#10004; TRN: 27 (81.49)<br>  

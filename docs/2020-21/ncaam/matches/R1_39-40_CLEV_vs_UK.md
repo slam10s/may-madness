@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
-Boone Tennis Complex  
-Lexington, Kentucky  
 ## [Cleveland St. vs #14 Kentucky](https://www.ncaa.com/game/5833389)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #115740 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" /></td><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Cleveland St.</h2>  
-&nbsp; Record: 18-4<br>  
 &nbsp; ITA: 57 (4.43)<br>  
 &nbsp; Slam: 56 (84.36)<br>  
 &nbsp; TRN: 56 (81.28)<br>  
@@ -20,7 +17,6 @@ Lexington, Kentucky
 <td>  
 
 <h2>#1 Kentucky</h2>  
-&nbsp; Record: 18-7<br>  
 &#10004; ITA: 15 (44.70)<br>  
 &#10004; Slam: 17 (95.87)<br>  
 &#10004; TRN: 17 (93.83)<br>  

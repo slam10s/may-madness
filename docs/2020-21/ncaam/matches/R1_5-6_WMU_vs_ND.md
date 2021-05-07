@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 2:00 EDT  
-Atkins Tennis Center  
-Urbana, Illinois  
 ## [Western Mich. vs Notre Dame](https://www.ncaa.com/game/5833372)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #693F23 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" /></td><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#3 Western Mich.</h2>  
-&nbsp; Record: 22-1<br>  
 &nbsp; ITA: 41 (18.89)<br>  
 &nbsp; Slam: 47 (89.83)<br>  
 &nbsp; TRN: 46 (88.71)<br>  
@@ -22,7 +19,6 @@ Urbana, Illinois
 <td>  
 
 <h2>#2 Notre Dame</h2>  
-&nbsp; Record: 14-10<br>  
 &#10004; ITA: 34 (25.22)<br>  
 &#10004; Slam: 40 (91.96)<br>  
 &#10004; TRN: 42 (89.57)<br>  

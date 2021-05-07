@@ -1,14 +1,11 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
-Virginia Tennis Facility at the Boar’s Head Resort  
-Charlottesville, Virginia  
 ## [Fairleigh Dickinson vs #5 Virginia](https://www.ncaa.com/game/5833378)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002F6C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 Fairleigh Dickinson</h2>  
-&nbsp; Record: 6-4<br>  
 &nbsp; ITA: 62 (1.95)<br>  
 &nbsp; Slam: 65 (72.33)<br>  
 &nbsp; TRN: 65 (65.17)<br>  
@@ -20,7 +17,6 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#1 Virginia</h2>  
-&nbsp; Record: 21-2<br>  
 &#10004; ITA: 4 (74.36)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  

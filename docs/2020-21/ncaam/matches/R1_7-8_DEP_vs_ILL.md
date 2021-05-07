@@ -1,14 +1,11 @@
 First Round  
 Friday, May 7 at 5:00 EDT  
-Atkins Tennis Center  
-Urbana, Illinois  
 ## [DePaul vs #16 Illinois](https://www.ncaa.com/game/5833373)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #003DA5 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></td><td style="background-color: #E04E39 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
 <h2>#4 DePaul</h2>  
-&nbsp; Record: 15-6<br>  
 &nbsp; ITA: 55 (5.64)<br>  
 &nbsp; Slam: 55 (85.74)<br>  
 &nbsp; TRN: 55 (82.45)<br>  
@@ -20,7 +17,6 @@ Urbana, Illinois
 <td>  
 
 <h2>#1 Illinois</h2>  
-&nbsp; Record: 21-2<br>  
 &#10004; ITA: 18 (36.82)<br>  
 &#10004; Slam: 6 (98.81)<br>  
 &#10004; TRN: 4 (98.96)<br>  
