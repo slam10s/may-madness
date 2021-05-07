@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Ashley Lahey (PEPP) - 7-3 at #1, 10-4 in duals, 10-4 overall<br>Gina Dittmann (NAU) - 14-1 at #1, 15-1 in duals, 15-1 overall</summary>
+<summary markdown="span">Ashley Lahey (NAU) - 7-3 at #1, 10-4 in duals, 10-4 overall<br>Gina Dittmann (PEPP) - 14-1 at #1, 15-1 in duals, 15-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Lahey (87%) def. Dittmann (13%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jessica Failla (PEPP) - 6-1 at #2, 14-3 in duals, 14-3 overall<br>Emily Bland (NAU) - 1-1 at #2, 14-3 in duals, 14-3 overall</summary>
+<summary markdown="span">Jessica Failla (NAU) - 6-1 at #2, 14-3 in duals, 14-3 overall<br>Emily Bland (PEPP) - 1-1 at #2, 14-3 in duals, 14-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Taisiya Pachkaleva (PEPP) - 8-1 at #3, 22-1 in duals, 22-1 overall<br>Eleanor Millard (NAU) - 3-0 at #3, 11-5 in duals, 11-5 overall</summary>
+<summary markdown="span">Taisiya Pachkaleva (NAU) - 8-1 at #3, 22-1 in duals, 22-1 overall<br>Eleanor Millard (PEPP) - 3-0 at #3, 11-5 in duals, 11-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Pachkaleva (99%) def. Millard (1%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Shiori Fukuda (PEPP) - 6-0 at #4, 14-4 in duals, 14-4 overall<br>Ava Neyestani (NAU) - 9-5 at #4, 11-6 in duals, 11-6 overall</summary>
+<summary markdown="span">Shiori Fukuda (NAU) - 6-0 at #4, 14-4 in duals, 14-4 overall<br>Ava Neyestani (PEPP) - 9-5 at #4, 11-6 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">LIsa Zaar (PEPP) - 10-1 at #5, 19-1 in duals, 19-1 overall<br>Elinor Beazley (NAU) - 5-5 at #5, 8-5 in duals, 8-5 overall</summary>
+<summary markdown="span">LIsa Zaar (NAU) - 10-1 at #5, 19-1 in duals, 19-1 overall<br>Elinor Beazley (PEPP) - 5-5 at #5, 8-5 in duals, 8-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nikki Redelijk (PEPP) - 7-4 at #6, 12-7 in duals, 12-7 overall<br>Madison Moore (NAU) - 6-8 at #6, 6-8 in duals, 6-8 overall</summary>
+<summary markdown="span">Nikki Redelijk (NAU) - 7-4 at #6, 12-7 in duals, 12-7 overall<br>Madison Moore (PEPP) - 6-8 at #6, 6-8 in duals, 6-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Lahey/Zaar (PEPP) - 0-0 at #1, 0-0 in duals, 0-0 overall<br>Millard/Bland (NAU) - 9-8 at #1, 9-8 in duals, 9-8 overall</summary>
+<summary markdown="span">Lahey/Zaar (NAU) - 0-0 at #1, 0-0 in duals, 0-0 overall<br>Millard/Bland (PEPP) - 9-8 at #1, 9-8 in duals, 9-8 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Fukuda/Pachkaleva (PEPP) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Dittmann/Beazley (NAU) - 8-7 at #2, 10-7 in duals, 10-7 overall</summary>
+<summary markdown="span">Fukuda/Pachkaleva (NAU) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Dittmann/Beazley (PEPP) - 8-7 at #2, 10-7 in duals, 10-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Failla/Iamachkine (PEPP) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Moore/Neyestani (NAU) - 6-9 at #3, 7-10 in duals, 7-10 overall</summary>
+<summary markdown="span">Failla/Iamachkine (NAU) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Moore/Neyestani (PEPP) - 6-9 at #3, 7-10 in duals, 7-10 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

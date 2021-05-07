@@ -51,7 +51,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Garrett Johns (DUKE) - 8-8 at #1, 8-8 in duals, 9-9 overall<br>Jakub Wojcik (USF) - 4-1 at #1, 17-6 in duals, 17-6 overall</summary>
+<summary markdown="span">Garrett Johns (USF) - 8-8 at #1, 8-8 in duals, 9-9 overall<br>Jakub Wojcik (DUKE) - 4-1 at #1, 17-6 in duals, 17-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Johns (55%) def. Wojcik (45%)</li>  
 <li>TRN: <b><i>USF</i></b> - Wojcik (68%) def. Johns (32%)</li>  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Sean Sculley (DUKE) - 2-3 at #2, 5-4 in duals, 6-4 overall<br>Chase Ferguson (USF) - 5-0 at #2, 13-9 in duals, 13-9 overall</summary>
+<summary markdown="span">Sean Sculley (USF) - 2-3 at #2, 5-4 in duals, 6-4 overall<br>Chase Ferguson (DUKE) - 5-0 at #2, 13-9 in duals, 13-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USF</i></b> - Ferguson (74%) def. Sculley (26%)</li>  
 <li>TRN: <b><i>USF</i></b> - Ferguson (57%) def. Sculley (43%)</li>  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Andrew Zhang (DUKE) - 5-1 at #3, 10-5 in duals, 12-5 overall<br>Ivan Yatsuk (USF) - 12-6 at #3, 15-7 in duals, 15-7 overall</summary>
+<summary markdown="span">Andrew Zhang (USF) - 5-1 at #3, 10-5 in duals, 12-5 overall<br>Ivan Yatsuk (DUKE) - 12-6 at #3, 15-7 in duals, 15-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USF</i></b> - Yatsuk (51%) def. Zhang (49%)</li>  
 <li>TRN: <b><i>USF</i></b> - Yatsuk (57%) def. Zhang (43%)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Edu Guell (DUKE) - 0-1 at #4, 7-10 in duals, 8-11 overall<br>Antonio Muniz-Hidalgo (USF) - 1-1 at #4, 5-4 in duals, 5-4 overall</summary>
+<summary markdown="span">Edu Guell (USF) - 0-1 at #4, 7-10 in duals, 8-11 overall<br>Antonio Muniz-Hidalgo (DUKE) - 1-1 at #4, 5-4 in duals, 5-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Guell (74%) def. Muniz-Hidalgo (26%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Guell (58%) def. Muniz-Hidalgo (42%)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Luca Keist (DUKE) - 3-2 at #5, 7-3 in duals, 8-3 overall<br>Pierre Luquet (USF) - 0-2 at #5, 8-10 in duals, 8-10 overall</summary>
+<summary markdown="span">Luca Keist (USF) - 3-2 at #5, 7-3 in duals, 8-3 overall<br>Pierre Luquet (DUKE) - 0-2 at #5, 8-10 in duals, 8-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Keist (61%) def. Luquet (39%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Keist (71%) def. Luquet (29%)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Andrew Dale (DUKE) - 0-2 at #6, 8-4 in duals, 10-4 overall<br>Sergio Gomez-Montesa (USF) - 2-1 at #6, 13-10 in duals, 13-10 overall</summary>
+<summary markdown="span">Andrew Dale (USF) - 0-2 at #6, 8-4 in duals, 10-4 overall<br>Sergio Gomez-Montesa (DUKE) - 2-1 at #6, 13-10 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Dale (52%) def. Gomez-Montesa (48%)</li>  
 <li>TRN: <b><i>USF</i></b> - Gomez-Montesa (59%) def. Dale (41%)</li>  
@@ -116,15 +116,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Sculley/Johns (DUKE) - 8-7 at #1, 8-7 in duals, 9-8 overall<br>Bollipalli/Wojcik (USF) - 9-7 at #1, 9-7 in duals, 9-7 overall</summary>
+<summary markdown="span">Sculley/Johns (USF) - 8-7 at #1, 8-7 in duals, 9-8 overall<br>Bollipalli/Wojcik (DUKE) - 9-7 at #1, 9-7 in duals, 9-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Heller/Zhang (DUKE) - 4-1 at #2, 5-2 in duals, 5-2 overall<br>Ferguson/Yatsuk (USF) - 1-0 at #2, 2-1 in duals, 2-1 overall</summary>
+<summary markdown="span">Heller/Zhang (USF) - 4-1 at #2, 5-2 in duals, 5-2 overall<br>Ferguson/Yatsuk (DUKE) - 1-0 at #2, 2-1 in duals, 2-1 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Keist/Dale (DUKE) - 1-1 at #3, 1-1 in duals, 1-1 overall<br>Goncalves/Tudorica (USF) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
+<summary markdown="span">Keist/Dale (USF) - 1-1 at #3, 1-1 in duals, 1-1 overall<br>Goncalves/Tudorica (DUKE) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

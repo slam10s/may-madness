@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Liam Draxl (UK) - 19-2 at #1, 19-2 in duals, 19-2 overall<br>Nico Mostardi (CLEV) - 6-3 at #1, 6-3 in duals, 6-3 overall</summary>
+<summary markdown="span">Liam Draxl (CLEV) - 19-2 at #1, 19-2 in duals, 19-2 overall<br>Nico Mostardi (UK) - 6-3 at #1, 6-3 in duals, 6-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Draxl (98%) def. Mostardi (2%)</li>  
 <li>TRN: <b><i>UK</i></b> - Draxl (99%) def. Mostardi (1%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Gabriel Diallo (UK) - 12-5 at #2, 14-6 in duals, 19-7 overall<br>Matt Terry (CLEV) - 6-2 at #2, 15-4 in duals, 15-4 overall</summary>
+<summary markdown="span">Gabriel Diallo (CLEV) - 12-5 at #2, 14-6 in duals, 19-7 overall<br>Matt Terry (UK) - 6-2 at #2, 15-4 in duals, 15-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Diallo (94%) def. Terry (6%)</li>  
 <li>TRN: <b><i>UK</i></b> - Diallo (96%) def. Terry (4%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Millen Hurrion (UK) - 10-3 at #3, 14-4 in duals, 17-7 overall<br>Luke Phillips (CLEV) - 4-2 at #3, 17-3 in duals, 17-3 overall</summary>
+<summary markdown="span">Millen Hurrion (CLEV) - 10-3 at #3, 14-4 in duals, 17-7 overall<br>Luke Phillips (UK) - 4-2 at #3, 17-3 in duals, 17-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Hurrion (96%) def. Phillips (4%)</li>  
 <li>TRN: <b><i>UK</i></b> - Hurrion (96%) def. Phillips (4%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Cesar Bourgois (UK) - 9-6 at #4, 14-6 in duals, 14-6 overall<br>Maxime Mareschal-Hay (CLEV) - 3-2 at #4, 17-4 in duals, 17-4 overall</summary>
+<summary markdown="span">Cesar Bourgois (CLEV) - 9-6 at #4, 14-6 in duals, 14-6 overall<br>Maxime Mareschal-Hay (UK) - 3-2 at #4, 17-4 in duals, 17-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Bourgois (95%) def. Mareschal-Hay (5%)</li>  
 <li>TRN: <b><i>UK</i></b> - Bourgois (96%) def. Mareschal-Hay (4%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Joshua Lapadat (UK) - 3-3 at #5, 6-9 in duals, 11-10 overall<br>Clark Bilinovich (CLEV) - 2-2 at #5, 9-6 in duals, 9-6 overall</summary>
+<summary markdown="span">Joshua Lapadat (CLEV) - 3-3 at #5, 6-9 in duals, 11-10 overall<br>Clark Bilinovich (UK) - 2-2 at #5, 9-6 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Lapadat (99%) def. Bilinovich (1%)</li>  
 <li>TRN: <b><i>UK</i></b> - Lapadat (99%) def. Bilinovich (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alexandre LeBlanc (UK) - 2-4 at #6, 4-4 in duals, 5-9 overall<br>Raul Teichmann (CLEV) - 0-2 at #6, 3-4 in duals, 3-4 overall</summary>
+<summary markdown="span">Alexandre LeBlanc (CLEV) - 2-4 at #6, 4-4 in duals, 5-9 overall<br>Raul Teichmann (UK) - 0-2 at #6, 3-4 in duals, 3-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - LeBlanc (97%) def. Teichmann (3%)</li>  
 <li>TRN: <b><i>UK</i></b> - LeBlanc (97%) def. Teichmann (3%)</li>  
@@ -116,15 +116,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Diallo/Bourgois (UK) - 14-7 at #1, 14-7 in duals, 14-7 overall<br>Mostardi/Phillips (CLEV) - 11-4 at #1, 11-4 in duals, 11-4 overall</summary>
+<summary markdown="span">Diallo/Bourgois (CLEV) - 14-7 at #1, 14-7 in duals, 14-7 overall<br>Mostardi/Phillips (UK) - 11-4 at #1, 11-4 in duals, 11-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Draxl/Hurrion (UK) - 6-2 at #2, 6-2 in duals, 6-2 overall<br>Terry/Mareschal-Hay (CLEV) - 0-0 at #2, 11-4 in duals, 11-4 overall</summary>
+<summary markdown="span">Draxl/Hurrion (CLEV) - 6-2 at #2, 6-2 in duals, 6-2 overall<br>Terry/Mareschal-Hay (UK) - 0-0 at #2, 11-4 in duals, 11-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lapadat/LeBlanc (UK) - 4-2 at #3, 4-2 in duals, 4-4 overall<br>Bilinovich/Mindry (CLEV) - 6-0 at #3, 6-0 in duals, 6-0 overall</summary>
+<summary markdown="span">Lapadat/LeBlanc (CLEV) - 4-2 at #3, 4-2 in duals, 4-4 overall<br>Bilinovich/Mindry (UK) - 6-0 at #3, 6-0 in duals, 6-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

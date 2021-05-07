@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Rebeka Mertena (TENN) - 2-2 at #1, 11-6 in duals, 15-14 overall<br>Daria Afanasyeva (JMU) - 10-5 at #1, 10-5 in duals, 10-5 overall</summary>
+<summary markdown="span">Rebeka Mertena (JMU) - 2-2 at #1, 11-6 in duals, 15-14 overall<br>Daria Afanasyeva (TENN) - 10-5 at #1, 10-5 in duals, 10-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Mertena (62%) def. Afanasyeva (38%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Mertena (67%) def. Afanasyeva (33%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Eleonora Molinaro (TENN) - 1-2 at #2, 3-9 in duals, 3-9 overall<br>Jona Roka (JMU) - 10-4 at #2, 10-4 in duals, 10-4 overall</summary>
+<summary markdown="span">Eleonora Molinaro (JMU) - 1-2 at #2, 3-9 in duals, 3-9 overall<br>Jona Roka (TENN) - 10-4 at #2, 10-4 in duals, 10-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Molinaro (85%) def. Roka (15%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Molinaro (84%) def. Roka (16%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Carly Briggs (TENN) - 3-4 at #3, 6-12 in duals, 15-15 overall<br>Natalia Nikolopoulou (JMU) - 7-5 at #3, 8-5 in duals, 8-5 overall</summary>
+<summary markdown="span">Carly Briggs (JMU) - 3-4 at #3, 6-12 in duals, 15-15 overall<br>Natalia Nikolopoulou (TENN) - 7-5 at #3, 8-5 in duals, 8-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Briggs (95%) def. Nikolopoulou (5%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Briggs (94%) def. Nikolopoulou (6%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Daria Kuczer (TENN) - 8-1 at #4, 19-2 in duals, 25-7 overall<br>Kylie Moulin (JMU) - 12-1 at #4, 13-2 in duals, 13-2 overall</summary>
+<summary markdown="span">Daria Kuczer (JMU) - 8-1 at #4, 19-2 in duals, 25-7 overall<br>Kylie Moulin (TENN) - 12-1 at #4, 13-2 in duals, 13-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Kuczer (90%) def. Moulin (10%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Kuczer (91%) def. Moulin (9%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Tenika McGiffin (TENN) - 6-0 at #5, 15-4 in duals, 20-12 overall<br>Alexis Franco (JMU) - 10-1 at #5, 14-2 in duals, 14-2 overall</summary>
+<summary markdown="span">Tenika McGiffin (JMU) - 6-0 at #5, 15-4 in duals, 20-12 overall<br>Alexis Franco (TENN) - 10-1 at #5, 14-2 in duals, 14-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - McGiffin (86%) def. Franco (14%)</li>  
 <li>TRN: <b><i>TENN</i></b> - McGiffin (79%) def. Franco (21%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Johanna Silva (TENN) - 9-1 at #6, 9-4 in duals, 12-10 overall<br>Daniela Voloh (JMU) - 9-1 at #6, 12-1 in duals, 12-1 overall</summary>
+<summary markdown="span">Johanna Silva (JMU) - 9-1 at #6, 9-4 in duals, 12-10 overall<br>Daniela Voloh (TENN) - 9-1 at #6, 12-1 in duals, 12-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Silva (90%) def. Voloh (10%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Silva (87%) def. Voloh (13%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Molinaro/McGiffin (TENN) - 1-3 at #1, 3-3 in duals, 3-3 overall<br>Afanasyeva/Franco (JMU) - 7-3 at #1, 7-3 in duals, 7-3 overall</summary>
+<summary markdown="span">Molinaro/McGiffin (JMU) - 1-3 at #1, 3-3 in duals, 3-3 overall<br>Afanasyeva/Franco (TENN) - 7-3 at #1, 7-3 in duals, 7-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Adeshina/Kuczer (TENN) - 8-1 at #2, 11-6 in duals, 12-9 overall<br>Roka/Moulin (JMU) - 12-2 at #2, 12-2 in duals, 12-2 overall</summary>
+<summary markdown="span">Adeshina/Kuczer (JMU) - 8-1 at #2, 11-6 in duals, 12-9 overall<br>Roka/Moulin (TENN) - 12-2 at #2, 12-2 in duals, 12-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Briggs/Mertena (TENN) - 4-3 at #3, 4-3 in duals, 4-3 overall<br>Nikolopoulou/Nord (JMU) - 3-1 at #3, 3-1 in duals, 3-1 overall</summary>
+<summary markdown="span">Briggs/Mertena (JMU) - 4-3 at #3, 4-3 in duals, 4-3 overall<br>Nikolopoulou/Nord (TENN) - 3-1 at #3, 3-1 in duals, 3-1 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

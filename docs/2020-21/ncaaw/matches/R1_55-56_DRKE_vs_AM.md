@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Tatiana Makarova (A&M) - 12-4 at #1, 15-4 in duals, 23-6 overall<br>Elizaveta Petushkova (DRKE) - 10-8 at #1, 10-8 in duals, 10-8 overall</summary>
+<summary markdown="span">Tatiana Makarova (DRKE) - 12-4 at #1, 15-4 in duals, 23-6 overall<br>Elizaveta Petushkova (A&M) - 10-8 at #1, 10-8 in duals, 10-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Makarova (97%) def. Petushkova (3%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Makarova (99%) def. Petushkova (1%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jayci Goldsmith (A&M) - 9-7 at #2, 11-9 in duals, 13-10 overall<br>Daria Walczak (DRKE) - 6-7 at #2, 8-9 in duals, 8-9 overall</summary>
+<summary markdown="span">Jayci Goldsmith (DRKE) - 9-7 at #2, 11-9 in duals, 13-10 overall<br>Daria Walczak (A&M) - 6-7 at #2, 8-9 in duals, 8-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Katya Townsend (A&M) - 9-6 at #3, 11-6 in duals, 18-9 overall<br>Ines Stephani (DRKE) - 5-1 at #3, 12-4 in duals, 12-4 overall</summary>
+<summary markdown="span">Katya Townsend (DRKE) - 9-6 at #3, 11-6 in duals, 18-9 overall<br>Ines Stephani (A&M) - 5-1 at #3, 12-4 in duals, 12-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall<br>Maria Tatarnikova (DRKE) - 7-0 at #4, 12-6 in duals, 12-6 overall</summary>
+<summary markdown="span">Dorthea Faa-Hviding (DRKE) - 7-6 at #4, 13-6 in duals, 14-7 overall<br>Maria Tatarnikova (A&M) - 7-0 at #4, 12-6 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (98%) def. Tatarnikova (2%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Renee McBryde (A&M) - 10-1 at #5, 14-3 in duals, 17-4 overall<br>Darinka Stepan (DRKE) - 9-4 at #5, 10-5 in duals, 10-5 overall</summary>
+<summary markdown="span">Renee McBryde (DRKE) - 10-1 at #5, 14-3 in duals, 17-4 overall<br>Darinka Stepan (A&M) - 9-4 at #5, 10-5 in duals, 10-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Riley McQuaid (A&M) - 8-5 at #6, 11-5 in duals, 16-9 overall<br>Kelsey Neville (DRKE) - 8-4 at #6, 9-7 in duals, 9-7 overall</summary>
+<summary markdown="span">Riley McQuaid (DRKE) - 8-5 at #6, 11-5 in duals, 16-9 overall<br>Kelsey Neville (A&M) - 8-4 at #6, 9-7 in duals, 9-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Makarova/Goldsmith (A&M) - 11-9 at #1, 13-9 in duals, 18-9 overall<br>Petushkova/Tatarnikova (DRKE) - 10-7 at #1, 10-7 in duals, 10-7 overall</summary>
+<summary markdown="span">Makarova/Goldsmith (DRKE) - 11-9 at #1, 13-9 in duals, 18-9 overall<br>Petushkova/Tatarnikova (A&M) - 10-7 at #1, 10-7 in duals, 10-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">McBryde/Faa-Hviding (A&M) - 8-5 at #2, 8-5 in duals, 8-5 overall<br>Neville/Webb (DRKE) - 3-6 at #2, 3-6 in duals, 3-6 overall</summary>
+<summary markdown="span">McBryde/Faa-Hviding (DRKE) - 8-5 at #2, 8-5 in duals, 8-5 overall<br>Neville/Webb (A&M) - 3-6 at #2, 3-6 in duals, 3-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">McQuaid/Townsend (A&M) - 5-3 at #3, 5-3 in duals, 7-3 overall<br>Stepan/Stephani (DRKE) - 7-8 at #3, 7-8 in duals, 7-8 overall</summary>
+<summary markdown="span">McQuaid/Townsend (DRKE) - 5-3 at #3, 5-3 in duals, 7-3 overall<br>Stepan/Stephani (A&M) - 7-8 at #3, 7-8 in duals, 7-8 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

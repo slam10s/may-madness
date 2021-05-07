@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Henri Squire (WAKE) - 15-6 at #1, 15-6 in duals, 15-6 overall<br>Aleksa Daskalovic (SCST) - 2-6 at #1, 2-7 in duals, 2-7 overall</summary>
+<summary markdown="span">Henri Squire (SCST) - 15-6 at #1, 15-6 in duals, 15-6 overall<br>Aleksa Daskalovic (WAKE) - 2-6 at #1, 2-7 in duals, 2-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Squire (100%) def. Daskalovic (0%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Squire (100%) def. Daskalovic (0%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Eduardo Nava (WAKE) - 6-3 at #2, 17-4 in duals, 17-4 overall<br>Marcelo Rodriguez (SCST) - 5-3 at #2, 5-4 in duals, 5-4 overall</summary>
+<summary markdown="span">Eduardo Nava (SCST) - 6-3 at #2, 17-4 in duals, 17-4 overall<br>Marcelo Rodriguez (WAKE) - 5-3 at #2, 5-4 in duals, 5-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Nava (99%) def. Rodriguez (1%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Nava (99%) def. Rodriguez (1%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Taha Baadi (WAKE) - 6-2 at #3, 13-8 in duals, 13-8 overall<br>Elyes Marouani (SCST) - 9-2 at #3, 9-2 in duals, 9-2 overall</summary>
+<summary markdown="span">Taha Baadi (SCST) - 6-2 at #3, 13-8 in duals, 13-8 overall<br>Elyes Marouani (WAKE) - 9-2 at #3, 9-2 in duals, 9-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Baadi (100%) def. Marouani (0%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Baadi (100%) def. Marouani (0%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Rrezart Cungu (WAKE) - 7-3 at #4, 20-4 in duals, 20-4 overall<br>Omer Gorgun (SCST) - 6-3 at #4, 6-3 in duals, 6-3 overall</summary>
+<summary markdown="span">Rrezart Cungu (SCST) - 7-3 at #4, 20-4 in duals, 20-4 overall<br>Omer Gorgun (WAKE) - 6-3 at #4, 6-3 in duals, 6-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Cungu (99%) def. Gorgun (1%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Cungu (99%) def. Gorgun (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Melios Efstathiou (WAKE) - 6-2 at #5, 12-6 in duals, 12-6 overall<br>Diego Arzaluz (SCST) - 5-3 at #5, 5-3 in duals, 5-3 overall</summary>
+<summary markdown="span">Melios Efstathiou (SCST) - 6-2 at #5, 12-6 in duals, 12-6 overall<br>Diego Arzaluz (WAKE) - 5-3 at #5, 5-3 in duals, 5-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Efstathiou (100%) def. Arzaluz (0%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Efstathiou (100%) def. Arzaluz (0%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Sid Banthia (WAKE) - 7-1 at #6, 19-3 in duals, 19-3 overall<br>Luka Stefanovic (SCST) - 4-1 at #6, 4-1 in duals, 4-1 overall</summary>
+<summary markdown="span">Sid Banthia (SCST) - 7-1 at #6, 19-3 in duals, 19-3 overall<br>Luka Stefanovic (WAKE) - 4-1 at #6, 4-1 in duals, 4-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Banthia (100%) def. Stefanovic (0%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Banthia (100%) def. Stefanovic (0%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Nava/Squire (WAKE) - 13-5 at #1, 13-5 in duals, 13-5 overall<br>Rodriguez/Marouani (SCST) - 6-6 at #1, 6-6 in duals, 6-6 overall</summary>
+<summary markdown="span">Nava/Squire (SCST) - 13-5 at #1, 13-5 in duals, 13-5 overall<br>Rodriguez/Marouani (WAKE) - 6-6 at #1, 6-6 in duals, 6-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Thomson/Banthia (WAKE) - 7-4 at #2, 17-6 in duals, 17-6 overall<br>Daskalovic/Momo (SCST) - 4-4 at #2, 4-4 in duals, 4-4 overall</summary>
+<summary markdown="span">Thomson/Banthia (SCST) - 7-4 at #2, 17-6 in duals, 17-6 overall<br>Daskalovic/Momo (WAKE) - 4-4 at #2, 4-4 in duals, 4-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Efstathiou/Baadi (WAKE) - 8-4 at #3, 12-5 in duals, 12-5 overall<br>Arzaluz/Ben Ali (SCST) - 3-3 at #3, 3-3 in duals, 3-3 overall</summary>
+<summary markdown="span">Efstathiou/Baadi (SCST) - 8-4 at #3, 12-5 in duals, 12-5 overall<br>Arzaluz/Ben Ali (WAKE) - 3-3 at #3, 3-3 in duals, 3-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

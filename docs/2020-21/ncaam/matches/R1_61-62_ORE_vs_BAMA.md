@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Edson Ortiz (BAMA) - 5-5 at #1, 12-10 in duals, 13-12 overall<br>Emmanuel Coste (ORE) - 5-4 at #1, 11-6 in duals, 11-6 overall</summary>
+<summary markdown="span">Edson Ortiz (ORE) - 5-5 at #1, 12-10 in duals, 13-12 overall<br>Emmanuel Coste (BAMA) - 5-4 at #1, 11-6 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ORE</i></b> - Coste (73%) def. Ortiz (27%)</li>  
 <li>TRN: <b><i>ORE</i></b> - Coste (76%) def. Ortiz (24%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Patrick Kaukovalta (BAMA) - 3-2 at #2, 9-11 in duals, 15-17 overall<br>Joshua Charlton (ORE) - 6-2 at #2, 12-6 in duals, 12-6 overall</summary>
+<summary markdown="span">Patrick Kaukovalta (ORE) - 3-2 at #2, 9-11 in duals, 15-17 overall<br>Joshua Charlton (BAMA) - 6-2 at #2, 12-6 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
 <li>TRN: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Zhe Zhou (BAMA) - 3-1 at #3, 9-9 in duals, 15-15 overall<br>Quinn Vandecasteele (ORE) - 10-8 at #3, 12-8 in duals, 12-8 overall</summary>
+<summary markdown="span">Zhe Zhou (ORE) - 3-1 at #3, 9-9 in duals, 15-15 overall<br>Quinn Vandecasteele (BAMA) - 10-8 at #3, 12-8 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAMA</i></b> - Zhou (72%) def. Vandecasteele (28%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Zhou (76%) def. Vandecasteele (24%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Riccardo Roberto (BAMA) - 5-7 at #4, 11-8 in duals, 19-12 overall<br>Jesper Klov-Nilsson (ORE) - 10-2 at #4, 17-3 in duals, 17-3 overall</summary>
+<summary markdown="span">Riccardo Roberto (ORE) - 5-7 at #4, 11-8 in duals, 19-12 overall<br>Jesper Klov-Nilsson (BAMA) - 10-2 at #4, 17-3 in duals, 17-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Gabriel Diaz Freire (BAMA) - 3-1 at #5, 10-6 in duals, 15-10 overall<br>Brandon Lam (ORE) - 7-3 at #5, 11-6 in duals, 11-6 overall</summary>
+<summary markdown="span">Gabriel Diaz Freire (ORE) - 3-1 at #5, 10-6 in duals, 15-10 overall<br>Brandon Lam (BAMA) - 7-3 at #5, 11-6 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAMA</i></b> - Freire (68%) def. Lam (32%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Freire (72%) def. Lam (28%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alexey Nesterov (BAMA) - 3-6 at #6, 7-6 in duals, 12-10 overall<br>Luke Vandecasteele (ORE) - 3-6 at #6, 9-8 in duals, 9-8 overall</summary>
+<summary markdown="span">Alexey Nesterov (ORE) - 3-6 at #6, 7-6 in duals, 12-10 overall<br>Luke Vandecasteele (BAMA) - 3-6 at #6, 9-8 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAMA</i></b> - Nesterov (69%) def. Vandecasteele (31%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Nesterov (74%) def. Vandecasteele (26%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Kaukovalta/Roberto (BAMA) - 10-7 at #1, 11-9 in duals, 16-14 overall<br>Charlton/Vandecasteele (ORE) - 9-3 at #1, 9-3 in duals, 9-3 overall</summary>
+<summary markdown="span">Kaukovalta/Roberto (ORE) - 10-7 at #1, 11-9 in duals, 16-14 overall<br>Charlton/Vandecasteele (BAMA) - 9-3 at #1, 9-3 in duals, 9-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nesterov/Ortiz (BAMA) - 3-3 at #2, 7-7 in duals, 7-7 overall<br>Coste/Klov-Nilsson (ORE) - 4-5 at #2, 12-8 in duals, 12-8 overall</summary>
+<summary markdown="span">Nesterov/Ortiz (ORE) - 3-3 at #2, 7-7 in duals, 7-7 overall<br>Coste/Klov-Nilsson (BAMA) - 4-5 at #2, 12-8 in duals, 12-8 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Garza/Zhou (BAMA) - 0-2 at #3, 0-2 in duals, 0-2 overall<br>Lam/Matsushita (ORE) - 4-3 at #3, 4-3 in duals, 4-3 overall</summary>
+<summary markdown="span">Garza/Zhou (ORE) - 0-2 at #3, 0-2 in duals, 0-2 overall<br>Lam/Matsushita (BAMA) - 4-3 at #3, 4-3 in duals, 4-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

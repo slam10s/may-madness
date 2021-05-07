@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Matej Vocel (OKST) - 11-5 at #1, 11-5 in duals, 11-5 overall<br>Andrew Ton (NAVY) - 8-0 at #1, 8-0 in duals, 8-0 overall</summary>
+<summary markdown="span">Matej Vocel (NAVY) - 11-5 at #1, 11-5 in duals, 11-5 overall<br>Andrew Ton (OKST) - 8-0 at #1, 8-0 in duals, 8-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Vocel (92%) def. Ton (8%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Vocel (93%) def. Ton (7%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Henrik Korsgaard (OKST) - 3-2 at #2, 9-9 in duals, 9-9 overall<br>Derrick Thompson (NAVY) - 9-0 at #2, 9-0 in duals, 9-0 overall</summary>
+<summary markdown="span">Henrik Korsgaard (NAVY) - 3-2 at #2, 9-9 in duals, 9-9 overall<br>Derrick Thompson (OKST) - 9-0 at #2, 9-0 in duals, 9-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Korsgaard (80%) def. Thompson (20%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Korsgaard (84%) def. Thompson (16%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Emile Hudd (OKST) - 5-2 at #3, 7-7 in duals, 9-9 overall<br>Jake Fishkin (NAVY) - 2-4 at #3, 2-4 in duals, 2-4 overall</summary>
+<summary markdown="span">Emile Hudd (NAVY) - 5-2 at #3, 7-7 in duals, 9-9 overall<br>Jake Fishkin (OKST) - 2-4 at #3, 2-4 in duals, 2-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Hudd (99%) def. Fishkin (1%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Hudd (99%) def. Fishkin (1%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mathieu Scaglia (OKST) - 4-5 at #4, 9-7 in duals, 9-8 overall<br>Finn Garner (NAVY) - 4-2 at #4, 4-2 in duals, 4-2 overall</summary>
+<summary markdown="span">Mathieu Scaglia (NAVY) - 4-5 at #4, 9-7 in duals, 9-8 overall<br>Finn Garner (OKST) - 4-2 at #4, 4-2 in duals, 4-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Etienne Donnet (OKST) - 3-4 at #5, 8-9 in duals, 9-14 overall<br>Gavin Segraves (NAVY) - 7-0 at #5, 8-0 in duals, 8-0 overall</summary>
+<summary markdown="span">Etienne Donnet (NAVY) - 3-4 at #5, 8-9 in duals, 9-14 overall<br>Gavin Segraves (OKST) - 7-0 at #5, 8-0 in duals, 8-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Donnet (87%) def. Segraves (13%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Donnet (88%) def. Segraves (12%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Matisse Bobichon (OKST) - 4-4 at #6, 4-4 in duals, 4-4 overall<br>Jack McBride (NAVY) - 4-0 at #6, 5-0 in duals, 5-0 overall</summary>
+<summary markdown="span">Matisse Bobichon (NAVY) - 4-4 at #6, 4-4 in duals, 4-4 overall<br>Jack McBride (OKST) - 4-0 at #6, 5-0 in duals, 5-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Bobichon (81%) def. McBride (19%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Bobichon (67%) def. McBride (33%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Hudd/Vocel (OKST) - 6-4 at #1, 6-4 in duals, 6-4 overall<br>Thompson/Ton (NAVY) - 0-0 at #1, 0-0 in duals, 0-0 overall</summary>
+<summary markdown="span">Hudd/Vocel (NAVY) - 6-4 at #1, 6-4 in duals, 6-4 overall<br>Thompson/Ton (OKST) - 0-0 at #1, 0-0 in duals, 0-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Korsgaard/Hammond (OKST) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Garner/Dabek (NAVY) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
+<summary markdown="span">Korsgaard/Hammond (NAVY) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Garner/Dabek (OKST) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Donnet/Bobichon (OKST) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Segraves/Panyan (NAVY) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
+<summary markdown="span">Donnet/Bobichon (NAVY) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Segraves/Panyan (OKST) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

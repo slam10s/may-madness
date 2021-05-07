@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Daniel Cukierman (USC) - 12-5 at #1, 12-5 in duals, 14-5 overall<br>Valentin Lang (GCU) - 8-10 at #1, 8-10 in duals, 8-10 overall</summary>
+<summary markdown="span">Daniel Cukierman (GCU) - 12-5 at #1, 12-5 in duals, 14-5 overall<br>Valentin Lang (USC) - 8-10 at #1, 8-10 in duals, 8-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Cukierman (98%) def. Lang (2%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cukierman (99%) def. Lang (1%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Riley Smith (USC) - 9-5 at #2, 13-5 in duals, 15-5 overall<br>Mariano Argote (GCU) - 5-6 at #2, 7-6 in duals, 7-6 overall</summary>
+<summary markdown="span">Riley Smith (GCU) - 9-5 at #2, 13-5 in duals, 15-5 overall<br>Mariano Argote (USC) - 5-6 at #2, 7-6 in duals, 7-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Smith (98%) def. Argote (2%)</li>  
 <li>TRN: <b><i>USC</i></b> - Smith (99%) def. Argote (1%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Stefan Dostanic (USC) - 12-3 at #3, 16-3 in duals, 18-3 overall<br>Justin Cvitanovic (GCU) - 4-6 at #3, 4-15 in duals, 4-15 overall</summary>
+<summary markdown="span">Stefan Dostanic (GCU) - 12-3 at #3, 16-3 in duals, 18-3 overall<br>Justin Cvitanovic (USC) - 4-6 at #3, 4-15 in duals, 4-15 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Dostanic (99%) def. Cvitanovic (1%)</li>  
 <li>TRN: <b><i>USC</i></b> - Dostanic (99%) def. Cvitanovic (1%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Bradley Frye (USC) - 9-2 at #4, 15-4 in duals, 17-4 overall<br>Jonathan Da Silva (GCU) - 5-2 at #4, 7-7 in duals, 7-7 overall</summary>
+<summary markdown="span">Bradley Frye (GCU) - 9-2 at #4, 15-4 in duals, 17-4 overall<br>Jonathan Da Silva (USC) - 5-2 at #4, 7-7 in duals, 7-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Frye (99%) def. Silva (1%)</li>  
 <li>TRN: <b><i>USC</i></b> - Frye (99%) def. Silva (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lodewijk Weststrate (USC) - 9-3 at #5, 21-4 in duals, 23-4 overall<br>Jiri Novak (GCU) - 5-1 at #5, 8-9 in duals, 8-9 overall</summary>
+<summary markdown="span">Lodewijk Weststrate (GCU) - 9-3 at #5, 21-4 in duals, 23-4 overall<br>Jiri Novak (USC) - 5-1 at #5, 8-9 in duals, 8-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
 <li>TRN: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jake Sands (USC) - 8-3 at #6, 14-4 in duals, 14-4 overall<br>Freddie Grant (GCU) - 9-2 at #6, 9-8 in duals, 9-8 overall</summary>
+<summary markdown="span">Jake Sands (GCU) - 8-3 at #6, 14-4 in duals, 14-4 overall<br>Freddie Grant (USC) - 9-2 at #6, 9-8 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Sands (98%) def. Grant (2%)</li>  
 <li>TRN: <b><i>USC</i></b> - Sands (99%) def. Grant (1%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Cukierman/Smith (USC) - 17-3 at #1, 17-3 in duals, 18-3 overall<br>Lang/Novak (GCU) - 10-6 at #1, 10-6 in duals, 10-6 overall</summary>
+<summary markdown="span">Cukierman/Smith (GCU) - 17-3 at #1, 17-3 in duals, 18-3 overall<br>Lang/Novak (USC) - 10-6 at #1, 10-6 in duals, 10-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Dostanic/Frye (USC) - 13-1 at #2, 13-1 in duals, 13-1 overall<br>Argote/Cvitanovic (GCU) - 7-4 at #2, 7-5 in duals, 7-5 overall</summary>
+<summary markdown="span">Dostanic/Frye (GCU) - 13-1 at #2, 13-1 in duals, 13-1 overall<br>Argote/Cvitanovic (USC) - 7-4 at #2, 7-5 in duals, 7-5 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Holt/Sands (USC) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Grant/Van Zeggelaar (GCU) - 6-4 at #3, 6-4 in duals, 6-4 overall</summary>
+<summary markdown="span">Holt/Sands (GCU) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Grant/Van Zeggelaar (USC) - 6-4 at #3, 6-4 in duals, 6-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

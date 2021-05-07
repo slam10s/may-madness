@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>Vito Tonejc (DEP) - 11-5 at #1, 13-5 in duals, 13-5 overall</summary>
+<summary markdown="span">Aleks Kovacevic (DEP) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>Vito Tonejc (ILL) - 11-5 at #1, 13-5 in duals, 13-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Siphosothando Montsi (ILL) - 7-2 at #2, 15-3 in duals, 15-3 overall<br>Christopher Casati (DEP) - 3-7 at #2, 8-12 in duals, 8-12 overall</summary>
+<summary markdown="span">Siphosothando Montsi (DEP) - 7-2 at #2, 15-3 in duals, 15-3 overall<br>Christopher Casati (ILL) - 3-7 at #2, 8-12 in duals, 8-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall<br>Boris Spanjaard (DEP) - 8-4 at #3, 12-6 in duals, 12-6 overall</summary>
+<summary markdown="span">Alex Brown (DEP) - 3-2 at #3, 8-9 in duals, 9-12 overall<br>Boris Spanjaard (ILL) - 8-4 at #3, 12-6 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Zeke Clark (ILL) - 6-1 at #4, 16-1 in duals, 19-2 overall<br>Tamas Zador (DEP) - 1-1 at #4, 3-3 in duals, 3-3 overall</summary>
+<summary markdown="span">Zeke Clark (DEP) - 6-1 at #4, 16-1 in duals, 19-2 overall<br>Tamas Zador (ILL) - 1-1 at #4, 3-3 in duals, 3-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Clark (98%) def. Zador (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Clark (99%) def. Zador (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall<br>Fran Tonejc (DEP) - 1-3 at #5, 8-8 in duals, 8-8 overall</summary>
+<summary markdown="span">Hunter Heck (DEP) - 9-4 at #5, 13-5 in duals, 16-6 overall<br>Fran Tonejc (ILL) - 1-3 at #5, 8-8 in duals, 8-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Heck (98%) def. Tonejc (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Heck (99%) def. Tonejc (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Noe Khlif (ILL) - 5-0 at #6, 15-1 in duals, 15-1 overall<br>Luuk Wassenaar (DEP) - 3-2 at #6, 11-6 in duals, 11-6 overall</summary>
+<summary markdown="span">Noe Khlif (DEP) - 5-0 at #6, 15-1 in duals, 15-1 overall<br>Luuk Wassenaar (ILL) - 3-2 at #6, 11-6 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Brown/Clark (ILL) - 8-2 at #1, 11-2 in duals, 11-2 overall<br>Casati/Spanjaard (DEP) - 12-4 at #1, 14-4 in duals, 14-4 overall</summary>
+<summary markdown="span">Brown/Clark (DEP) - 8-2 at #1, 11-2 in duals, 11-2 overall<br>Casati/Spanjaard (ILL) - 12-4 at #1, 14-4 in duals, 14-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Montsi/Khlif (ILL) - 5-1 at #2, 10-2 in duals, 10-2 overall<br>Tonejc/Wassenaar (DEP) - 3-2 at #2, 6-4 in duals, 6-4 overall</summary>
+<summary markdown="span">Montsi/Khlif (DEP) - 5-1 at #2, 10-2 in duals, 10-2 overall<br>Tonejc/Wassenaar (ILL) - 3-2 at #2, 6-4 in duals, 6-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kovacevic/Heck (ILL) - 2-1 at #3, 3-1 in duals, 3-1 overall<br>Tonejc/Tuff (DEP) - 5-0 at #3, 9-6 in duals, 9-6 overall</summary>
+<summary markdown="span">Kovacevic/Heck (DEP) - 2-1 at #3, 3-1 in duals, 3-1 overall<br>Tonejc/Tuff (ILL) - 5-0 at #3, 9-6 in duals, 9-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

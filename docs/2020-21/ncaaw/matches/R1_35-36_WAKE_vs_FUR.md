@@ -53,7 +53,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Katarina Kozarov (FUR) - 22-1 at #1, 22-1 in duals, 22-1 overall<br>Carolyn Campana (WAKE) - 9-5 at #1, 9-5 in duals, 9-5 overall</summary>
+<summary markdown="span">Katarina Kozarov (WAKE) - 22-1 at #1, 22-1 in duals, 22-1 overall<br>Carolyn Campana (FUR) - 9-5 at #1, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FUR</i></b> - Kozarov (55%) def. Campana (45%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Kozarov (71%) def. Campana (29%)</li>  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Julia Adams (FUR) - 15-6 at #2, 19-6 in duals, 19-6 overall<br>Anna Campana (WAKE) - 4-6 at #2, 6-10 in duals, 6-10 overall</summary>
+<summary markdown="span">Julia Adams (WAKE) - 15-6 at #2, 19-6 in duals, 19-6 overall<br>Anna Campana (FUR) - 4-6 at #2, 6-10 in duals, 6-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Campana (53%) def. Adams (47%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Adams (60%) def. Campana (40%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Madison Dillon (FUR) - 10-10 at #3, 12-12 in duals, 12-12 overall<br>Anna Brylin (WAKE) - 10-3 at #3, 12-8 in duals, 12-8 overall</summary>
+<summary markdown="span">Madison Dillon (WAKE) - 10-10 at #3, 12-12 in duals, 12-12 overall<br>Anna Brylin (FUR) - 10-3 at #3, 12-8 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Brylin (86%) def. Dillon (14%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Brylin (88%) def. Dillon (12%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">MaryAnn Rompf (FUR) - 15-6 at #4, 18-8 in duals, 18-8 overall<br>Eliza Omirou (WAKE) - 3-3 at #4, 9-8 in duals, 9-8 overall</summary>
+<summary markdown="span">MaryAnn Rompf (WAKE) - 15-6 at #4, 18-8 in duals, 18-8 overall<br>Eliza Omirou (FUR) - 3-3 at #4, 9-8 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Omirou (67%) def. Rompf (33%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Omirou (61%) def. Rompf (39%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Maggie Pate (FUR) - 9-6 at #5, 15-7 in duals, 15-7 overall<br>Brooke Killingsworth (WAKE) - 1-1 at #5, 7-14 in duals, 7-14 overall</summary>
+<summary markdown="span">Maggie Pate (WAKE) - 9-6 at #5, 15-7 in duals, 15-7 overall<br>Brooke Killingsworth (FUR) - 1-1 at #5, 7-14 in duals, 7-14 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Killingsworth (80%) def. Pate (20%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Killingsworth (67%) def. Pate (33%)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ellie Schoppe (FUR) - 15-1 at #6, 20-3 in duals, 20-3 overall<br>Casie Wooten (WAKE) - 7-3 at #6, 12-7 in duals, 12-7 overall</summary>
+<summary markdown="span">Ellie Schoppe (WAKE) - 15-1 at #6, 20-3 in duals, 20-3 overall<br>Casie Wooten (FUR) - 7-3 at #6, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Wooten (67%) def. Schoppe (33%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Wooten (58%) def. Schoppe (42%)</li>  
@@ -118,15 +118,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Kozarov/Adams (FUR) - 19-3 at #1, 19-3 in duals, 19-3 overall<br>Omirou/Campana (WAKE) - 8-4 at #1, 9-4 in duals, 9-4 overall</summary>
+<summary markdown="span">Kozarov/Adams (WAKE) - 19-3 at #1, 19-3 in duals, 19-3 overall<br>Omirou/Campana (FUR) - 8-4 at #1, 9-4 in duals, 9-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Dillon/Rompf (FUR) - 0-0 at #2, 19-2 in duals, 19-2 overall<br>Brylin/Killingsworth (WAKE) - 7-4 at #2, 13-5 in duals, 13-5 overall</summary>
+<summary markdown="span">Dillon/Rompf (WAKE) - 0-0 at #2, 19-2 in duals, 19-2 overall<br>Brylin/Killingsworth (FUR) - 7-4 at #2, 13-5 in duals, 13-5 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Pate/Schoppe (FUR) - 0-0 at #3, 11-5 in duals, 11-5 overall<br>Pesavento/Campana (WAKE) - 3-8 at #3, 3-8 in duals, 3-8 overall</summary>
+<summary markdown="span">Pate/Schoppe (WAKE) - 0-0 at #3, 11-5 in duals, 11-5 overall<br>Pesavento/Campana (FUR) - 3-8 at #3, 3-8 in duals, 3-8 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

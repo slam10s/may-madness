@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Daniel Rodrigues (SCAR) - 16-4 at #1, 16-4 in duals, 24-6 overall<br>Bruno Caula (UNCW) - 11-6 at #1, 11-6 in duals, 11-6 overall</summary>
+<summary markdown="span">Daniel Rodrigues (UNCW) - 16-4 at #1, 16-4 in duals, 24-6 overall<br>Bruno Caula (SCAR) - 11-6 at #1, 11-6 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Rodrigues (94%) def. Caula (6%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Rodrigues (97%) def. Caula (3%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Connor Thomson (SCAR) - 6-5 at #2, 11-8 in duals, 18-12 overall<br>Davide Innocenti (UNCW) - 8-3 at #2, 8-4 in duals, 8-4 overall</summary>
+<summary markdown="span">Connor Thomson (UNCW) - 6-5 at #2, 11-8 in duals, 18-12 overall<br>Davide Innocenti (SCAR) - 8-3 at #2, 8-4 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Thomson (91%) def. Innocenti (9%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Thomson (96%) def. Innocenti (4%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Toby Samuel (SCAR) - 4-2 at #3, 16-4 in duals, 24-7 overall<br>Daniel Groom (UNCW) - 7-3 at #3, 10-4 in duals, 10-4 overall</summary>
+<summary markdown="span">Toby Samuel (UNCW) - 4-2 at #3, 16-4 in duals, 24-7 overall<br>Daniel Groom (SCAR) - 7-3 at #3, 10-4 in duals, 10-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Samuel (89%) def. Groom (11%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Samuel (95%) def. Groom (5%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Raphael Lambling (SCAR) - 0-2 at #4, 6-12 in duals, 11-18 overall<br>Bekhzod Rasamatov (UNCW) - 3-2 at #4, 11-4 in duals, 11-4 overall</summary>
+<summary markdown="span">Raphael Lambling (UNCW) - 0-2 at #4, 6-12 in duals, 11-18 overall<br>Bekhzod Rasamatov (SCAR) - 3-2 at #4, 11-4 in duals, 11-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Lambling (95%) def. Rasamatov (5%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Lambling (93%) def. Rasamatov (7%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jake Beasley (SCAR) - 7-7 at #5, 12-8 in duals, 18-10 overall<br>Gabriel Hurtado (UNCW) - 4-3 at #5, 8-6 in duals, 8-6 overall</summary>
+<summary markdown="span">Jake Beasley (UNCW) - 7-7 at #5, 12-8 in duals, 18-10 overall<br>Gabriel Hurtado (SCAR) - 4-3 at #5, 8-6 in duals, 8-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Beasley (91%) def. Hurtado (9%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Beasley (95%) def. Hurtado (5%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Thomas Brown (SCAR) - 2-2 at #6, 3-2 in duals, 11-6 overall<br>Michael Copeland (UNCW) - 5-2 at #6, 13-6 in duals, 13-6 overall</summary>
+<summary markdown="span">Thomas Brown (UNCW) - 2-2 at #6, 3-2 in duals, 11-6 overall<br>Michael Copeland (SCAR) - 5-2 at #6, 13-6 in duals, 13-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Brown (89%) def. Copeland (11%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Brown (93%) def. Copeland (7%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Rodrigues/Thomson (SCAR) - 13-7 at #1, 13-7 in duals, 20-11 overall<br>Groom/Caula (UNCW) - 11-4 at #1, 11-4 in duals, 11-4 overall</summary>
+<summary markdown="span">Rodrigues/Thomson (UNCW) - 13-7 at #1, 13-7 in duals, 20-11 overall<br>Groom/Caula (SCAR) - 11-4 at #1, 11-4 in duals, 11-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Beasley/Samuel (SCAR) - 9-3 at #2, 15-7 in duals, 23-11 overall<br>Gooch/Rasamatov (UNCW) - 3-2 at #2, 7-2 in duals, 7-2 overall</summary>
+<summary markdown="span">Beasley/Samuel (UNCW) - 9-3 at #2, 15-7 in duals, 23-11 overall<br>Gooch/Rasamatov (SCAR) - 3-2 at #2, 7-2 in duals, 7-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lambling/Jordan (SCAR) - 4-3 at #3, 6-7 in duals, 14-10 overall<br>Sprovieri/Hurtado (UNCW) - 6-1 at #3, 7-2 in duals, 7-2 overall</summary>
+<summary markdown="span">Lambling/Jordan (UNCW) - 4-3 at #3, 6-7 in duals, 14-10 overall<br>Sprovieri/Hurtado (SCAR) - 6-1 at #3, 7-2 in duals, 7-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

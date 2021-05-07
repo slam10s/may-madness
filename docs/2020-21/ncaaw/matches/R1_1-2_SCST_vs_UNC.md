@@ -51,7 +51,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Sara Daavettila (UNC) - 10-1 at #1, 15-1 in duals, 15-1 overall<br>Rachida Berjane (SCST) - 6-2 at #1, 6-2 in duals, 6-2 overall</summary>
+<summary markdown="span">Sara Daavettila (SCST) - 10-1 at #1, 15-1 in duals, 15-1 overall<br>Rachida Berjane (UNC) - 6-2 at #1, 6-2 in duals, 6-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alexa Graham (UNC) - 5-0 at #2, 11-2 in duals, 16-2 overall<br>Hind Semlali (SCST) - 6-3 at #2, 6-3 in duals, 6-3 overall</summary>
+<summary markdown="span">Alexa Graham (SCST) - 5-0 at #2, 11-2 in duals, 16-2 overall<br>Hind Semlali (UNC) - 6-3 at #2, 6-3 in duals, 6-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Cameron Morra (UNC) - 6-2 at #3, 15-6 in duals, 15-6 overall<br>Andjela Mihajilovic (SCST) - 2-6 at #3, 2-6 in duals, 2-6 overall</summary>
+<summary markdown="span">Cameron Morra (SCST) - 6-2 at #3, 15-6 in duals, 15-6 overall<br>Andjela Mihajilovic (UNC) - 2-6 at #3, 2-6 in duals, 2-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Elizabeth Scotty (UNC) - 6-1 at #4, 11-2 in duals, 11-3 overall<br>Lasya Patnaik (SCST) - 6-3 at #4, 6-3 in duals, 6-3 overall</summary>
+<summary markdown="span">Elizabeth Scotty (SCST) - 6-1 at #4, 11-2 in duals, 11-3 overall<br>Lasya Patnaik (UNC) - 6-3 at #4, 6-3 in duals, 6-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Makenna Jones (UNC) - 1-2 at #5, 13-2 in duals, 15-2 overall<br>Ikram Rassif (SCST) - 4-3 at #5, 4-3 in duals, 4-3 overall</summary>
+<summary markdown="span">Makenna Jones (SCST) - 1-2 at #5, 13-2 in duals, 15-2 overall<br>Ikram Rassif (UNC) - 4-3 at #5, 4-3 in duals, 4-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Fiona Crawley (UNC) - 3-0 at #6, 23-0 in duals, 25-0 overall<br>Anabel Aguilar (SCST) - 3-1 at #6, 3-1 in duals, 3-1 overall</summary>
+<summary markdown="span">Fiona Crawley (SCST) - 3-0 at #6, 23-0 in duals, 25-0 overall<br>Anabel Aguilar (UNC) - 3-1 at #6, 3-1 in duals, 3-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Crawley (100%) def. Aguilar (0%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Crawley (100%) def. Aguilar (0%)</li>  
@@ -116,15 +116,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Daavettila/Morra (UNC) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>Semlali/Patnaik (SCST) - 4-0 at #1, 4-0 in duals, 4-0 overall</summary>
+<summary markdown="span">Daavettila/Morra (SCST) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>Semlali/Patnaik (UNC) - 4-0 at #1, 4-0 in duals, 4-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jones/Scotty (UNC) - 8-1 at #2, 10-1 in duals, 10-1 overall<br>Berjane/Cemalovic (SCST) - 1-1 at #2, 1-1 in duals, 1-1 overall</summary>
+<summary markdown="span">Jones/Scotty (SCST) - 8-1 at #2, 10-1 in duals, 10-1 overall<br>Berjane/Cemalovic (UNC) - 1-1 at #2, 1-1 in duals, 1-1 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Sanford/Tran (UNC) - 12-3 at #3, 16-3 in duals, 16-3 overall<br>Mihajilovic/Aguilar (SCST) - 6-3 at #3, 6-3 in duals, 6-3 overall</summary>
+<summary markdown="span">Sanford/Tran (SCST) - 12-3 at #3, 16-3 in duals, 16-3 overall<br>Mihajilovic/Aguilar (UNC) - 6-3 at #3, 6-3 in duals, 6-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

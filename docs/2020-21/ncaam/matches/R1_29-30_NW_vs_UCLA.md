@@ -53,7 +53,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Govind Nanda (UCLA) - 2-2 at #1, 8-3 in duals, 8-3 overall<br>Steven Forman (NW) - 5-2 at #1, 5-2 in duals, 5-2 overall</summary>
+<summary markdown="span">Govind Nanda (NW) - 2-2 at #1, 8-3 in duals, 8-3 overall<br>Steven Forman (UCLA) - 5-2 at #1, 5-2 in duals, 5-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Nanda (63%) def. Forman (37%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Nanda (75%) def. Forman (25%)</li>  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Drew Baird (UCLA) - 5-2 at #2, 9-6 in duals, 9-7 overall<br>Dominik Stary (NW) - 4-0 at #2, 8-4 in duals, 9-6 overall</summary>
+<summary markdown="span">Drew Baird (NW) - 5-2 at #2, 9-6 in duals, 9-7 overall<br>Dominik Stary (UCLA) - 4-0 at #2, 8-4 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Stary (69%) def. Baird (31%)</li>  
 <li>TRN: <b><i>NW</i></b> - Stary (64%) def. Baird (36%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ben Goldberg (UCLA) - 5-2 at #3, 8-8 in duals, 9-8 overall<br>Nick Brookes (NW) - 1-5 at #3, 9-7 in duals, 11-9 overall</summary>
+<summary markdown="span">Ben Goldberg (NW) - 5-2 at #3, 8-8 in duals, 9-8 overall<br>Nick Brookes (UCLA) - 1-5 at #3, 9-7 in duals, 11-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Brookes (66%) def. Goldberg (34%)</li>  
 <li>TRN: <b><i>NW</i></b> - Brookes (52%) def. Goldberg (48%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Sam Feit (UCLA) - 6-1 at #4, 11-5 in duals, 11-6 overall<br>Chris Ephron (NW) - 5-1 at #4, 9-5 in duals, 12-6 overall</summary>
+<summary markdown="span">Sam Feit (NW) - 6-1 at #4, 11-5 in duals, 11-6 overall<br>Chris Ephron (UCLA) - 5-1 at #4, 9-5 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Ephron (65%) def. Feit (35%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Feit (51%) def. Ephron (49%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Roscoe Bellamy (UCLA) - 2-1 at #5, 8-2 in duals, 8-2 overall<br>Trice Pickens (NW) - 3-3 at #5, 8-10 in duals, 13-10 overall</summary>
+<summary markdown="span">Roscoe Bellamy (NW) - 2-1 at #5, 8-2 in duals, 8-2 overall<br>Trice Pickens (UCLA) - 3-3 at #5, 8-10 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Pickens (70%) def. Bellamy (30%)</li>  
 <li>TRN: <b><i>NW</i></b> - Pickens (56%) def. Bellamy (44%)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mathew Tsolakyan (UCLA) - 4-2 at #6, 10-3 in duals, 11-3 overall<br>Simen Bratholm (NW) - 0-0 at #6, 5-4 in duals, 8-5 overall</summary>
+<summary markdown="span">Mathew Tsolakyan (NW) - 4-2 at #6, 10-3 in duals, 11-3 overall<br>Simen Bratholm (UCLA) - 0-0 at #6, 5-4 in duals, 8-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Bratholm (66%) def. Tsolakyan (34%)</li>  
 <li>TRN: <b><i>NW</i></b> - Bratholm (64%) def. Tsolakyan (36%)</li>  
@@ -118,15 +118,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Nanda/Baird (UCLA) - 2-2 at #1, 4-5 in duals, 4-5 overall<br>Brookes/Bratholm (NW) - 9-4 at #1, 9-4 in duals, 12-7 overall</summary>
+<summary markdown="span">Nanda/Baird (NW) - 2-2 at #1, 4-5 in duals, 4-5 overall<br>Brookes/Bratholm (UCLA) - 9-4 at #1, 9-4 in duals, 12-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Pereira/Zahraj (UCLA) - 2-2 at #2, 2-2 in duals, 2-2 overall<br>Ephron/Stary (NW) - 12-4 at #2, 12-4 in duals, 12-4 overall</summary>
+<summary markdown="span">Pereira/Zahraj (NW) - 2-2 at #2, 2-2 in duals, 2-2 overall<br>Ephron/Stary (UCLA) - 12-4 at #2, 12-4 in duals, 12-4 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Tsolakyan/Bellamy (UCLA) - 5-3 at #3, 5-3 in duals, 5-3 overall<br>Forman/Spear (NW) - 5-1 at #3, 5-1 in duals, 5-1 overall</summary>
+<summary markdown="span">Tsolakyan/Bellamy (NW) - 5-3 at #3, 5-3 in duals, 5-3 overall<br>Forman/Spear (UCLA) - 5-1 at #3, 5-1 in duals, 5-1 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Valeriya Zeleva (UCF) - 9-2 at #1, 12-2 in duals, 13-3 overall<br>Madalina Man (CHSO) - 9-6 at #1, 9-6 in duals, 9-6 overall</summary>
+<summary markdown="span">Valeriya Zeleva (CHSO) - 9-2 at #1, 12-2 in duals, 13-3 overall<br>Madalina Man (UCF) - 9-6 at #1, 9-6 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Zeleva (98%) def. Man (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Zeleva (99%) def. Man (1%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Rebeka Stolmar (UCF) - 7-4 at #2, 12-6 in duals, 14-7 overall<br>Luiza Fullana (CHSO) - 7-6 at #2, 7-6 in duals, 7-6 overall</summary>
+<summary markdown="span">Rebeka Stolmar (CHSO) - 7-4 at #2, 12-6 in duals, 14-7 overall<br>Luiza Fullana (UCF) - 7-6 at #2, 7-6 in duals, 7-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Stolmar (98%) def. Fullana (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Stolmar (99%) def. Fullana (1%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Evgeniya Levashova (UCF) - 6-2 at #3, 11-5 in duals, 11-5 overall<br>Khyanna Singh (CHSO) - 8-8 at #3, 8-8 in duals, 8-8 overall</summary>
+<summary markdown="span">Evgeniya Levashova (CHSO) - 6-2 at #3, 11-5 in duals, 11-5 overall<br>Khyanna Singh (UCF) - 8-8 at #3, 8-8 in duals, 8-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Levashova (98%) def. Singh (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Levashova (99%) def. Singh (1%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ksenia Kuznetsova (UCF) - 6-0 at #4, 11-3 in duals, 11-3 overall<br>Zoe Cauthen (CHSO) - 9-5 at #4, 9-5 in duals, 9-5 overall</summary>
+<summary markdown="span">Ksenia Kuznetsova (CHSO) - 6-0 at #4, 11-3 in duals, 11-3 overall<br>Zoe Cauthen (UCF) - 9-5 at #4, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Marie Mattel (UCF) - 2-0 at #5, 6-4 in duals, 6-4 overall<br>Michelle Schmitz (CHSO) - 9-8 at #5, 9-8 in duals, 9-8 overall</summary>
+<summary markdown="span">Marie Mattel (CHSO) - 2-0 at #5, 6-4 in duals, 6-4 overall<br>Michelle Schmitz (UCF) - 9-8 at #5, 9-8 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Mattel (98%) def. Schmitz (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Mattel (99%) def. Schmitz (1%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nadja Bay (UCF) - 0-0 at #6, 1-3 in duals, 1-3 overall<br>Tiffany Pyrtiz (CHSO) - 6-7 at #6, 6-7 in duals, 6-7 overall</summary>
+<summary markdown="span">Nadja Bay (CHSO) - 0-0 at #6, 1-3 in duals, 1-3 overall<br>Tiffany Pyrtiz (UCF) - 6-7 at #6, 6-7 in duals, 6-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
 <li>TRN: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
@@ -116,15 +116,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Stolmar/Mattel (UCF) - 4-7 at #1, 5-7 in duals, 5-7 overall<br>Man/Singh (CHSO) - 9-5 at #1, 9-5 in duals, 9-5 overall</summary>
+<summary markdown="span">Stolmar/Mattel (CHSO) - 4-7 at #1, 5-7 in duals, 5-7 overall<br>Man/Singh (UCF) - 9-5 at #1, 9-5 in duals, 9-5 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kuznetsova/Zeleva (UCF) - 8-0 at #2, 12-3 in duals, 12-3 overall<br>Cauthen/Pyrtiz (CHSO) - 10-5 at #2, 10-5 in duals, 10-5 overall</summary>
+<summary markdown="span">Kuznetsova/Zeleva (CHSO) - 8-0 at #2, 12-3 in duals, 12-3 overall<br>Cauthen/Pyrtiz (UCF) - 10-5 at #2, 10-5 in duals, 10-5 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Levashova/Bay (UCF) - 4-1 at #3, 7-3 in duals, 7-3 overall<br>Fullana/Schmitz (CHSO) - 7-7 at #3, 7-7 in duals, 7-7 overall</summary>
+<summary markdown="span">Levashova/Bay (CHSO) - 4-1 at #3, 7-3 in duals, 7-3 overall<br>Fullana/Schmitz (UCF) - 7-7 at #3, 7-7 in duals, 7-7 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

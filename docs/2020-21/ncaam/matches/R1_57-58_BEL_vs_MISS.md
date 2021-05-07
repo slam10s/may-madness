@@ -52,7 +52,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Tim Sandkaulen (MISS) - 1-7 at #1, 8-12 in duals, 13-16 overall<br>Marko Ilic (BEL) - 13-4 at #1, 13-4 in duals, 13-4 overall</summary>
+<summary markdown="span">Tim Sandkaulen (BEL) - 1-7 at #1, 8-12 in duals, 13-16 overall<br>Marko Ilic (MISS) - 13-4 at #1, 13-4 in duals, 13-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Sandkaulen (79%) def. Ilic (21%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Sandkaulen (91%) def. Ilic (9%)</li>  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Finn Reynolds (MISS) - 6-1 at #2, 10-10 in duals, 10-10 overall<br>Arthur Toledo (BEL) - 13-3 at #2, 13-3 in duals, 13-3 overall</summary>
+<summary markdown="span">Finn Reynolds (BEL) - 6-1 at #2, 10-10 in duals, 10-10 overall<br>Arthur Toledo (MISS) - 13-3 at #2, 13-3 in duals, 13-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Reynolds (97%) def. Toledo (3%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Reynolds (98%) def. Toledo (2%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nikola Slavic (MISS) - 12-7 at #3, 13-7 in duals, 13-7 overall<br>Tomas Luis (BEL) - 7-5 at #3, 10-7 in duals, 10-7 overall</summary>
+<summary markdown="span">Nikola Slavic (BEL) - 12-7 at #3, 13-7 in duals, 13-7 overall<br>Tomas Luis (MISS) - 7-5 at #3, 10-7 in duals, 10-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Slavic (99%) def. Luis (1%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Slavic (99%) def. Luis (1%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">John Hallquist Lithen (MISS) - 5-6 at #4, 12-7 in duals, 12-7 overall<br>Diego Castro (BEL) - 6-4 at #4, 10-6 in duals, 10-6 overall</summary>
+<summary markdown="span">John Hallquist Lithen (BEL) - 5-6 at #4, 12-7 in duals, 12-7 overall<br>Diego Castro (MISS) - 6-4 at #4, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Lithen (98%) def. Castro (2%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Lithen (99%) def. Castro (1%)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Simon Junk (MISS) - 2-6 at #5, 9-11 in duals, 9-14 overall<br>Taisei Miyamoto (BEL) - 5-3 at #5, 8-7 in duals, 8-7 overall</summary>
+<summary markdown="span">Simon Junk (BEL) - 2-6 at #5, 9-11 in duals, 9-14 overall<br>Taisei Miyamoto (MISS) - 5-3 at #5, 8-7 in duals, 8-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Junk (97%) def. Miyamoto (3%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Junk (98%) def. Miyamoto (2%)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lukas Engelhardt (MISS) - 3-4 at #6, 3-7 in duals, 3-7 overall<br>Alfred Wallin (BEL) - 9-4 at #6, 11-4 in duals, 11-4 overall</summary>
+<summary markdown="span">Lukas Engelhardt (BEL) - 3-4 at #6, 3-7 in duals, 3-7 overall<br>Alfred Wallin (MISS) - 9-4 at #6, 11-4 in duals, 11-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Engelhardt (98%) def. Wallin (2%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Engelhardt (98%) def. Wallin (2%)</li>  
@@ -117,15 +117,15 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Sandkaulen/Reynolds (MISS) - 14-2 at #1, 14-2 in duals, 14-2 overall<br>Ilic/Miyamoto (BEL) - 11-6 at #1, 11-6 in duals, 11-6 overall</summary>
+<summary markdown="span">Sandkaulen/Reynolds (BEL) - 14-2 at #1, 14-2 in duals, 14-2 overall<br>Ilic/Miyamoto (MISS) - 11-6 at #1, 11-6 in duals, 11-6 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Draheim/Junk (MISS) - 8-7 at #2, 11-9 in duals, 11-9 overall<br>Castro/Luis (BEL) - 11-2 at #2, 11-2 in duals, 11-2 overall</summary>
+<summary markdown="span">Draheim/Junk (BEL) - 8-7 at #2, 11-9 in duals, 11-9 overall<br>Castro/Luis (MISS) - 11-2 at #2, 11-2 in duals, 11-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Cadonau/Engelhardt (MISS) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Briggs/Toledo (BEL) - 8-3 at #3, 8-3 in duals, 8-3 overall</summary>
+<summary markdown="span">Cadonau/Engelhardt (BEL) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Briggs/Toledo (MISS) - 8-3 at #3, 8-3 in duals, 8-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>
