@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***MISS*** - #18 Ole Miss (99%) def. #58 Belmont (1%)  
 - Massey: ***MISS*** - #21 Ole Miss (75%) def. #57 Belmont (25%)  
 - Lineup: ***MISS*** - Ole Miss (100%) def. Belmont (0%)  
-- Composite: ***MISS*** - Ole Miss (93%) def. Belmont (7%)  
+- Composite: ***MISS*** - Ole Miss (90%) def. Belmont (10%)  
 - UTR: ***MISS*** - #25 Ole Miss (+6.71) def. #57 Belmont (-6.71)  
 - ITA: ***MISS*** - #14 Ole Miss def. #56 Belmont  
 - USTA Poll: ***MISS*** - #21 Ole Miss def. Belmont  

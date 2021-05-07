@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - Massey: ***UVA*** - #3 Virginia (75%) def. #64 Fairleigh Dickinson (25%)  
 - Lineup: ***UVA*** - Virginia (100%) def. Fairleigh Dickinson (0%)  
-- Composite: ***UVA*** - Virginia (93%) def. Fairleigh Dickinson (7%)  
+- Composite: ***FDU*** - Fairleigh Dickinson (99%) def. Virginia (1%)  
 - UTR: ***UVA*** - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)  
 - ITA: ***UVA*** - #4 Virginia def. #62 Fairleigh Dickinson  
 - USTA Poll: ***UVA*** - #1 Virginia def. Fairleigh Dickinson  

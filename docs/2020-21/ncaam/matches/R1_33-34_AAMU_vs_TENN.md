@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***TENN*** - #5 Tennessee (99%) def. #64 Alabama A&M (1%)  
 - Massey: ***TENN*** - #2 Tennessee (75%) def. #65 Alabama A&M (25%)  
 - Lineup: ***TENN*** - Tennessee (100%) def. Alabama A&M (0%)  
-- Composite: ***TENN*** - Tennessee (93%) def. Alabama A&M (7%)  
+- Composite: ***TENN*** - Tennessee (92%) def. Alabama A&M (8%)  
 - UTR: ***TENN*** - #4 Tennessee (+16.92) def. #65 Alabama A&M (-16.92)  
 - ITA: ***TENN*** - #3 Tennessee def. #63 Alabama A&M  
 - USTA Poll: ***TENN*** - #4 Tennessee def. Alabama A&M  

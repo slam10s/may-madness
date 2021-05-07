@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***SCAR*** - #15 South Carolina (99%) def. #49 UNCW (1%)  
 - Massey: ***SCAR*** - #16 South Carolina (75%) def. #49 UNCW (25%)  
 - Lineup: ***SCAR*** - South Carolina (98%) def. UNCW (2%)  
-- Composite: ***SCAR*** - South Carolina (92%) def. UNCW (8%)  
+- Composite: ***SCAR*** - South Carolina (88%) def. UNCW (12%)  
 - UTR: ***SCAR*** - #17 South Carolina (+4.69) def. #48 UNCW (-4.69)  
 - ITA: ***SCAR*** - #13 South Carolina def. #51 UNCW  
 - USTA Poll: ***SCAR*** - #15 South Carolina def. UNCW  

@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
 - Massey: ***UGA*** - #3 Georgia (75%) def. #56 Austin Peay (25%)  
 - Lineup: ***UGA*** - Georgia (100%) def. Austin Peay (0%)  
-- Composite: ***UGA*** - Georgia (93%) def. Austin Peay (7%)  
+- Composite: ***UGA*** - Georgia (92%) def. Austin Peay (8%)  
 - UTR: ***UGA*** - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)  
 - ITA: ***UGA*** - #3 Georgia def. #57 Austin Peay  
 - USTA Poll: ***UGA*** - #3 Georgia def. Austin Peay  

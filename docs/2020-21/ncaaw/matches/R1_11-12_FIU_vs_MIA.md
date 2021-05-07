@@ -41,7 +41,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***MIA*** - #21 Miami (FL) (63%) def. #29 FIU (37%)  
 - Massey: ***MIA*** - #17 Miami (FL) (75%) def. #37 FIU (25%)  
 - Lineup: ***MIA*** - Miami (FL) (95%) def. FIU (5%)  
-- Composite: ***MIA*** - Miami (FL) (76%) def. FIU (24%)  
+- Composite: ***MIA*** - Miami (FL) (69%) def. FIU (31%)  
 - UTR: ***MIA*** - #19 Miami (FL) (+2.89) def. #42 FIU (-2.89)  
 - ITA: ***MIA*** - #24 Miami (FL) def. #41 FIU  
 - USTA Poll: ***MIA*** - #21 Miami (FL) def. RV FIU  

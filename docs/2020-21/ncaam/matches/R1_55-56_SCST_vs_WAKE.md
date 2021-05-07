@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
 - Massey: ***WAKE*** - #13 Wake Forest (75%) def. #63 South Carolina St. (25%)  
 - Lineup: ***WAKE*** - Wake Forest (100%) def. South Carolina St. (0%)  
-- Composite: ***WAKE*** - Wake Forest (93%) def. South Carolina St. (7%)  
+- Composite: ***WAKE*** - Wake Forest (92%) def. South Carolina St. (8%)  
 - UTR: ***WAKE*** - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)  
 - ITA: ***WAKE*** - #9 Wake Forest def. #65 South Carolina St.  
 - USTA Poll: ***WAKE*** - #12 Wake Forest def. South Carolina St.  

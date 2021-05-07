@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***STAN*** - #24 Stanford (83%) def. #40 UC Santa Barbara (17%)  
 - Massey: ***STAN*** - #15 Stanford (75%) def. #40 UC Santa Barbara (25%)  
 - Lineup: ***STAN*** - Stanford (98%) def. UC Santa Barbara (2%)  
-- Composite: ***STAN*** - Stanford (84%) def. UC Santa Barbara (16%)  
+- Composite: ***STAN*** - Stanford (77%) def. UC Santa Barbara (23%)  
 - UTR: ***STAN*** - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)  
 - ITA: ***STAN*** - #28 Stanford def. #44 UC Santa Barbara  
 - USTA Poll: ***STAN*** - #18 Stanford def. UC Santa Barbara  

@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***STAN*** - #21 Stanford (77%) def. #39 LSU (23%)  
 - Massey: ***STAN*** - #20 Stanford (75%) def. #47 LSU (25%)  
 - Lineup: ***STAN*** - Stanford (98%) def. LSU (2%)  
-- Composite: ***STAN*** - Stanford (80%) def. LSU (20%)  
+- Composite: ***STAN*** - Stanford (81%) def. LSU (19%)  
 - UTR: ***STAN*** - #5 Stanford (+4.64) def. #42 LSU (-4.64)  
 - ITA: ***STAN*** - #21 Stanford def. #40 LSU  
 - USTA Poll: ***STAN*** - #20 Stanford def. LSU  

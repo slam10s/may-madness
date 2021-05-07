@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***A&M*** - #14 Texas A&M (99%) def. #58 Drake (1%)  
 - Massey: ***A&M*** - #21 Texas A&M (75%) def. #59 Drake (25%)  
 - Lineup: ***A&M*** - Texas A&M (100%) def. Drake (0%)  
-- Composite: ***A&M*** - Texas A&M (93%) def. Drake (7%)  
+- Composite: ***A&M*** - Texas A&M (92%) def. Drake (8%)  
 - UTR: ***A&M*** - #21 Texas A&M (+10.83) def. #59 Drake (-10.83)  
 - ITA: ***A&M*** - #10 Texas A&M def. #63 Drake  
 - USTA Poll: ***A&M*** - #17 Texas A&M def. Drake  

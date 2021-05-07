@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***ND*** - #42 Notre Dame (62%) def. #46 Western Mich. (38%)  
 - Massey: ***ND*** - #36 Notre Dame (75%) def. #45 Western Mich. (25%)  
 - Lineup: ***ND*** - Notre Dame (92%) def. Western Mich. (8%)  
-- Composite: ***ND*** - Notre Dame (75%) def. Western Mich. (25%)  
+- Composite: ***WMU*** - Western Mich. (99%) def. Notre Dame (1%)  
 - UTR: ***ND*** - #38 Notre Dame (+3.43) def. #53 Western Mich. (-3.43)  
 - ITA: ***ND*** - #34 Notre Dame def. #41 Western Mich.  
 - USTA Poll: ***WMU*** - RV Western Mich. def. Notre Dame  

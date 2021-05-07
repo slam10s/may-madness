@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UGA*** - #14 Georgia (99%) def. #53 ETSU (1%)  
 - Massey: ***UGA*** - #15 Georgia (75%) def. #51 ETSU (25%)  
 - Lineup: ***UGA*** - Georgia (100%) def. ETSU (0%)  
-- Composite: ***UGA*** - Georgia (92%) def. ETSU (8%)  
+- Composite: ***UGA*** - Georgia (88%) def. ETSU (12%)  
 - UTR: ***UGA*** - #19 Georgia (+4.52) def. #50 ETSU (-4.52)  
 - ITA: ***UGA*** - #11 Georgia def. #49 ETSU  
 - USTA Poll: ***UGA*** - #16 Georgia def. ETSU  

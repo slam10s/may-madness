@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***AUB*** - #23 Auburn (82%) def. #37 Oklahoma St. (18%)  
 - Massey: ***AUB*** - #25 Auburn (75%) def. #36 Oklahoma St. (25%)  
 - Lineup: ***OKST*** - Oklahoma St. (77%) def. Auburn (23%)  
-- Composite: ***AUB*** - Auburn (57%) def. Oklahoma St. (43%)  
+- Composite: ***OKST*** - Oklahoma St. (64%) def. Auburn (36%)  
 - UTR: ***OKST*** - #17 Oklahoma St. (+0.99) def. #30 Auburn (-0.99)  
 - ITA: ***AUB*** - #20 Auburn def. #37 Oklahoma St.  
 - USTA Poll: ***AUB*** - #25 Auburn def. Oklahoma St.  

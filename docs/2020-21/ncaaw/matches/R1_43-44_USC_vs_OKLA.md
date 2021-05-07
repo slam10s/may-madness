@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***OKLA*** - #22 Oklahoma (88%) def. #41 Southern California (12%)  
 - Massey: ***OKLA*** - #12 Oklahoma (75%) def. #26 Southern California (25%)  
 - Lineup: ***USC*** - Southern California (89%) def. Oklahoma (11%)  
-- Composite: ***USC*** - Southern California (51%) def. Oklahoma (49%)  
+- Composite: ***USC*** - Southern California (99%) def. Oklahoma (1%)  
 - UTR: ***USC*** - #6 Southern California (+1.96) def. #14 Oklahoma (-1.96)  
 - ITA: ***OKLA*** - #23 Oklahoma def. #35 Southern California  
 - USTA Poll: ***OKLA*** - #22 Oklahoma def. Southern California  

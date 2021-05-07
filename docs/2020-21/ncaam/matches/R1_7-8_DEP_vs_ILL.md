@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***ILL*** - #4 Illinois (99%) def. #55 DePaul (1%)  
 - Massey: ***ILL*** - #9 Illinois (75%) def. #54 DePaul (25%)  
 - Lineup: ***ILL*** - Illinois (100%) def. DePaul (0%)  
-- Composite: ***ILL*** - Illinois (93%) def. DePaul (7%)  
+- Composite: ***ILL*** - Illinois (91%) def. DePaul (9%)  
 - UTR: ***ILL*** - #15 Illinois (+8.25) def. #60 DePaul (-8.25)  
 - ITA: ***ILL*** - #18 Illinois def. #55 DePaul  
 - USTA Poll: ***ILL*** - #8 Illinois def. DePaul  

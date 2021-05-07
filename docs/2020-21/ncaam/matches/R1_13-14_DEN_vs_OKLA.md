@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***OKLA*** - #28 Oklahoma (59%) def. #35 Denver (41%)  
 - Massey: ***OKLA*** - #37 Oklahoma (75%) def. #38 Denver (25%)  
 - Lineup: ***OKLA*** - Oklahoma (91%) def. Denver (9%)  
-- Composite: ***OKLA*** - Oklahoma (72%) def. Denver (28%)  
+- Composite: ***OKLA*** - Oklahoma (67%) def. Denver (33%)  
 - UTR: ***OKLA*** - #28 Oklahoma (+3.10) def. #46 Denver (-3.10)  
 - ITA: ***OKLA*** - #27 Oklahoma def. #45 Denver  
 - Coaches Poll: ***OKLA*** - #26 Oklahoma def. #44 Denver  

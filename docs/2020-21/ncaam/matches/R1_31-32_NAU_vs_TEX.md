@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***TEX*** - #7 Texas (99%) def. #60 Northern Ariz. (1%)  
 - Massey: ***TEX*** - #11 Texas (75%) def. #59 Northern Ariz. (25%)  
 - Lineup: ***TEX*** - Texas (100%) def. Northern Ariz. (0%)  
-- Composite: ***TEX*** - Texas (93%) def. Northern Ariz. (7%)  
+- Composite: ***TEX*** - Texas (90%) def. Northern Ariz. (10%)  
 - UTR: ***TEX*** - #14 Texas (+8.16) def. #59 Northern Ariz. (-8.16)  
 - ITA: ***TEX*** - #5 Texas def. #61 Northern Ariz.  
 - USTA Poll: ***TEX*** - #6 Texas def. Northern Ariz.  

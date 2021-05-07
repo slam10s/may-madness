@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UCLA*** - #7 UCLA (99%) def. #60 Grand Canyon (1%)  
 - Massey: ***UCLA*** - #4 UCLA (75%) def. #57 Grand Canyon (25%)  
 - Lineup: ***UCLA*** - UCLA (100%) def. Grand Canyon (0%)  
-- Composite: ***UCLA*** - UCLA (93%) def. Grand Canyon (7%)  
+- Composite: ***UCLA*** - UCLA (92%) def. Grand Canyon (8%)  
 - UTR: ***UCLA*** - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)  
 - ITA: ***UCLA*** - #4 UCLA def. #62 Grand Canyon  
 - USTA Poll: ***UCLA*** - #4 UCLA def. Grand Canyon  

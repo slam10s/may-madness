@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***FSU*** - #9 Florida St. (99%) def. #62 Alabama St. (1%)  
 - Massey: ***FSU*** - #9 Florida St. (75%) def. #63 Alabama St. (25%)  
 - Lineup: ***FSU*** - Florida St. (100%) def. Alabama St. (0%)  
-- Composite: ***FSU*** - Florida St. (93%) def. Alabama St. (7%)  
+- Composite: ***FSU*** - Florida St. (92%) def. Alabama St. (8%)  
 - UTR: ***FSU*** - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)  
 - ITA: ***FSU*** - #7 Florida St. def. #61 Alabama St.  
 - USTA Poll: ***FSU*** - #12 Florida St. def. Alabama St.  

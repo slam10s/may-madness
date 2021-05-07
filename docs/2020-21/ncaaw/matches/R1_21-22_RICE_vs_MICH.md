@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***MICH*** - #8 Michigan (96%) def. #36 Rice (4%)  
 - Massey: ***MICH*** - #15 Michigan (75%) def. #38 Rice (25%)  
 - Lineup: ***MICH*** - Michigan (91%) def. Rice (9%)  
-- Composite: ***MICH*** - Michigan (88%) def. Rice (12%)  
+- Composite: ***MICH*** - Michigan (69%) def. Rice (31%)  
 - UTR: ***MICH*** - #17 Michigan (+1.87) def. #35 Rice (-1.87)  
 - ITA: ***MICH*** - #19 Michigan def. #40 Rice  
 - USTA Poll: ***MICH*** - #7 Michigan def. Rice  

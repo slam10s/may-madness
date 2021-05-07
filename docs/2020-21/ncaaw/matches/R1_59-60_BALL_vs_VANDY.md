@@ -38,7 +38,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***VANDY*** - #30 Vanderbilt (99%) def. #52 Ball St. (1%)  
 - Massey: ***VANDY*** - #31 Vanderbilt (75%) def. #53 Ball St. (25%)  
 - Lineup: ***VANDY*** - Vanderbilt (100%) def. Ball St. (0%)  
-- Composite: ***VANDY*** - Vanderbilt (92%) def. Ball St. (8%)  
+- Composite: ***VANDY*** - Vanderbilt (90%) def. Ball St. (10%)  
 - UTR: ***VANDY*** - #28 Vanderbilt (+6.81) def. #51 Ball St. (-6.81)  
 - ITA: ***VANDY*** - #27 Vanderbilt def. #51 Ball St.  
 - Coaches Poll: ***VANDY*** - #28 Vanderbilt def. Ball St.  

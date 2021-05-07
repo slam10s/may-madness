@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***FLA*** - #3 Florida (99%) def. #52 South Alabama (1%)  
 - Massey: ***FLA*** - #1 Florida (75%) def. #46 South Alabama (25%)  
 - Lineup: ***FLA*** - Florida (100%) def. South Alabama (0%)  
-- Composite: ***FLA*** - Florida (93%) def. South Alabama (7%)  
+- Composite: ***FLA*** - Florida (89%) def. South Alabama (11%)  
 - UTR: ***FLA*** - #1 Florida (+6.84) def. #49 South Alabama (-6.84)  
 - ITA: ***FLA*** - #2 Florida def. #53 South Alabama  
 - USTA Poll: ***FLA*** - #2 Florida def. South Alabama  

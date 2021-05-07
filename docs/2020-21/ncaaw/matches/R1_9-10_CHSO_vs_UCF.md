@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UCF*** - #12 UCF (99%) def. #57 Charleston So. (1%)  
 - Massey: ***UCF*** - #10 UCF (75%) def. #60 Charleston So. (25%)  
 - Lineup: ***UCF*** - UCF (100%) def. Charleston So. (0%)  
-- Composite: ***UCF*** - UCF (93%) def. Charleston So. (7%)  
+- Composite: ***CHSO*** - Charleston So. (98%) def. UCF (2%)  
 - UTR: ***UCF*** - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)  
 - ITA: ***UCF*** - #9 UCF def. #58 Charleston So.  
 - USTA Poll: ***UCF*** - #9 UCF def. Charleston So.  

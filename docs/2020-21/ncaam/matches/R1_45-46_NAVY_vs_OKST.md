@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***OKST*** - #23 Oklahoma St. (92%) def. #48 Navy (8%)  
 - Massey: ***OKST*** - #29 Oklahoma St. (75%) def. #56 Navy (25%)  
 - Lineup: ***OKST*** - Oklahoma St. (98%) def. Navy (2%)  
-- Composite: ***OKST*** - Oklahoma St. (90%) def. Navy (10%)  
+- Composite: ***OKST*** - Oklahoma St. (86%) def. Navy (14%)  
 - UTR: ***OKST*** - #19 Oklahoma St. (+7.52) def. #58 Navy (-7.52)  
 - ITA: ***OKST*** - #19 Oklahoma St. def. #48 Navy  
 - USTA Poll: ***OKST*** - RV Oklahoma St. def. Navy  

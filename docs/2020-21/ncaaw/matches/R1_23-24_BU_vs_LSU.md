@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***LSU*** - #18 LSU (99%) def. #51 Boston U. (1%)  
 - Massey: ***LSU*** - #21 LSU (75%) def. #54 Boston U. (25%)  
 - Lineup: ***LSU*** - LSU (100%) def. Boston U. (0%)  
-- Composite: ***LSU*** - LSU (93%) def. Boston U. (7%)  
+- Composite: ***LSU*** - LSU (83%) def. Boston U. (17%)  
 - UTR: ***LSU*** - #26 LSU (+5.98) def. #49 Boston U. (-5.98)  
 - ITA: ***LSU*** - #12 LSU def. #50 Boston U.  
 - USTA Poll: ***LSU*** - #23 LSU def. Boston U.  

@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UK*** - #27 Kentucky (84%) def. #43 Syracuse (16%)  
 - Massey: ***UK*** - #33 Kentucky (75%) def. #42 Syracuse (25%)  
 - Lineup: ***SYR*** - Syracuse (51%) def. Kentucky (49%)  
-- Composite: ***UK*** - Kentucky (71%) def. Syracuse (29%)  
+- Composite: ***SYR*** - Syracuse (66%) def. Kentucky (34%)  
 - UTR: ***UK*** - #34 Kentucky (+1.47) def. #43 Syracuse (-1.47)  
 - ITA: ***UK*** - #26 Kentucky def. #43 Syracuse  
 - USTA Poll: ***UK*** - #24 Kentucky def. Syracuse  

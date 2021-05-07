@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***WAKE*** - #31 Wake Forest (58%) def. #35 Furman (42%)  
 - Massey: ***WAKE*** - #34 Wake Forest (75%) def. #35 Furman (25%)  
 - Lineup: ***WAKE*** - Wake Forest (80%) def. Furman (20%)  
-- Composite: ***WAKE*** - Wake Forest (65%) def. Furman (35%)  
+- Composite: ***WAKE*** - Wake Forest (57%) def. Furman (43%)  
 - UTR: ***WAKE*** - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)  
 - ITA: ***WAKE*** - #33 Wake Forest def. #34 Furman  
 - USTA Poll: ***FUR*** - RV Furman def. Wake Forest  

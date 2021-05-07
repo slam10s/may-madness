@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***SCAR*** - #28 South Carolina (84%) def. #42 Iowa St. (16%)  
 - Massey: ***SCAR*** - #27 South Carolina (75%) def. #39 Iowa St. (25%)  
 - Lineup: ***SCAR*** - South Carolina (83%) def. Iowa St. (17%)  
-- Composite: ***SCAR*** - South Carolina (80%) def. Iowa St. (20%)  
+- Composite: ***SCAR*** - South Carolina (57%) def. Iowa St. (43%)  
 - UTR: ***SCAR*** - #29 South Carolina (+2.24) def. #39 Iowa St. (-2.24)  
 - ITA: ***SCAR*** - #22 South Carolina def. #36 Iowa St.  
 - USTA Poll: ***SCAR*** - RV South Carolina def. Iowa St.  

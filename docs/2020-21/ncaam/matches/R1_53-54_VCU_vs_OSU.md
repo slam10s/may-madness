@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***OSU*** - #8 Ohio St. (98%) def. #38 VCU (2%)  
 - Massey: ***OSU*** - #9 Ohio St. (75%) def. #35 VCU (25%)  
 - Lineup: ***OSU*** - Ohio St. (98%) def. VCU (2%)  
-- Composite: ***OSU*** - Ohio St. (91%) def. VCU (9%)  
+- Composite: ***OSU*** - Ohio St. (84%) def. VCU (16%)  
 - UTR: ***OSU*** - #3 Ohio St. (+3.21) def. #29 VCU (-3.21)  
 - ITA: ***OSU*** - #31 Ohio St. def. #37 VCU  
 - USTA Poll: ***OSU*** - #7 Ohio St. def. VCU  

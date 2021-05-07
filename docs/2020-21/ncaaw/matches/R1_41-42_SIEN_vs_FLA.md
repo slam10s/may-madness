@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***FLA*** - #20 Florida (99%) def. #64 Siena (1%)  
 - Massey: ***FLA*** - #21 Florida (75%) def. #64 Siena (25%)  
 - Lineup: ***FLA*** - Florida (100%) def. Siena (0%)  
-- Composite: ***FLA*** - Florida (93%) def. Siena (7%)  
+- Composite: ***FLA*** - Florida (92%) def. Siena (8%)  
 - UTR: ***FLA*** - #11 Florida (+16.27) def. #62 Siena (-16.27)  
 - ITA: ***FLA*** - #11 Florida def. #60 Siena  
 - USTA Poll: ***FLA*** - #20 Florida def. Siena  

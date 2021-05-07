@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***AZST*** - #25 Arizona St. (70%) def. #37 Wichita St. (30%)  
 - Massey: ***AZST*** - #24 Arizona St. (75%) def. #41 Wichita St. (25%)  
 - Lineup: ***WICH*** - Wichita St. (55%) def. Arizona St. (45%)  
-- Composite: ***AZST*** - Arizona St. (63%) def. Wichita St. (37%)  
+- Composite: ***WICH*** - Wichita St. (99%) def. Arizona St. (1%)  
 - UTR: ***AZST*** - #23 Arizona St. (+2.10) def. #39 Wichita St. (-2.10)  
 - ITA: ***AZST*** - #20 Arizona St. def. #33 Wichita St.  
 - USTA Poll: ***AZST*** - #19 Arizona St. def. Wichita St.  

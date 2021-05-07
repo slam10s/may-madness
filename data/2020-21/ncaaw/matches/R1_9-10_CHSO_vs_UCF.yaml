@@ -40,7 +40,7 @@ Predictions:
   TRN: "UCF - #12 UCF (99%) def. #57 Charleston So. (1%)"
   MAS: "UCF - #10 UCF (75%) def. #60 Charleston So. (25%)"
   LNUP: UCF - UCF (100%) def. Charleston So. (0%)
-  AVG: UCF - UCF (93%) def. Charleston So. (7%)
+  AVG: CHSO - Charleston So. (98%) def. UCF (2%)
   UTR: "UCF - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)"
   ITA: "UCF - #9 UCF def. #58 Charleston So."
   USTA: "UCF - #9 UCF def. Charleston So."

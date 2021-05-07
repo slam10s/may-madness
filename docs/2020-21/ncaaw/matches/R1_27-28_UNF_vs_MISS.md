@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***MISS*** - #26 Ole Miss (96%) def. #46 North Florida (4%)  
 - Massey: ***MISS*** - #29 Ole Miss (75%) def. #47 North Florida (25%)  
 - Lineup: ***MISS*** - Ole Miss (97%) def. North Florida (3%)  
-- Composite: ***MISS*** - Ole Miss (90%) def. North Florida (10%)  
+- Composite: ***MISS*** - Ole Miss (75%) def. North Florida (25%)  
 - UTR: ***MISS*** - #20 Ole Miss (+3.30) def. #44 North Florida (-3.30)  
 - ITA: ***MISS*** - #25 Ole Miss def. #48 North Florida  
 - Coaches Poll: ***MISS*** - #25 Ole Miss def. North Florida  

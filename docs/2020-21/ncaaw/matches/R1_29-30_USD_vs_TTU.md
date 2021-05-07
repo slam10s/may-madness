@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***TTU*** - #34 Texas Tech (61%) def. #38 San Diego (39%)  
 - Massey: ***TTU*** - #28 Texas Tech (75%) def. #32 San Diego (25%)  
 - Lineup: ***TTU*** - Texas Tech (63%) def. San Diego (37%)  
-- Composite: ***TTU*** - Texas Tech (62%) def. San Diego (38%)  
+- Composite: ***USD*** - San Diego (52%) def. Texas Tech (48%)  
 - UTR: ***TTU*** - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)  
 - ITA: ***TTU*** - #29 Texas Tech def. #39 San Diego  
 - Coaches Poll: ***TTU*** - #29 Texas Tech def. #47 San Diego  

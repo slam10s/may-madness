@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***PEPP*** - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)  
 - Massey: ***PEPP*** - #5 Pepperdine (75%) def. #51 Northern Ariz. (25%)  
 - Lineup: ***PEPP*** - Pepperdine (100%) def. Northern Ariz. (0%)  
-- Composite: ***PEPP*** - Pepperdine (93%) def. Northern Ariz. (7%)  
+- Composite: ***PEPP*** - Pepperdine (91%) def. Northern Ariz. (9%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #54 Northern Ariz.  
 - USTA Poll: ***PEPP*** - #5 Pepperdine def. Northern Ariz.  

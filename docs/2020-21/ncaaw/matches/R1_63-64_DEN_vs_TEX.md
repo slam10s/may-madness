@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
 - Massey: ***TEX*** - #2 Texas (75%) def. #43 Denver (25%)  
 - Lineup: ***TEX*** - Texas (98%) def. Denver (2%)  
-- Composite: ***TEX*** - Texas (92%) def. Denver (8%)  
+- Composite: ***TEX*** - Texas (89%) def. Denver (11%)  
 - UTR: ***TEX*** - #1 Texas (+7.56) def. #45 Denver (-7.56)  
 - ITA: ***TEX*** - #2 Texas def. #45 Denver  
 - USTA Poll: ***TEX*** - #2 Texas def. Denver  
