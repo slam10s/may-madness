@@ -52,70 +52,78 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Indianna Spink (ARK) - 6-4 at #1, 9-5 in duals, 9-5 overall<br>Holly Hutchinson (ODU) - 7-8 at #1, 7-8 in duals, 8-9 overall</summary>
+<summary markdown="span">Holly Hutchinson (ARK) - 7-8 at #1, 7-8 in duals, 8-9 overall<br>Indianna Spink (ODU) - 6-4 at #1, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ODU</i></b> - Hutchinson (62%) def. Spink (38%)</li>  
 <li>TRN: <b><i>ARK</i></b> - Spink (53%) def. Hutchinson (47%)</li>  
 <li>Massey: <b><i>ARK</i></b> - Spink (75%) def. Hutchinson (25%)</li>  
 <li>UTR: <b><i>ARK</i></b> - Spink (71%) def. Hutchinson (29%)</li>  
 <li>ITA: <b><i>ARK</i></b> - Spink (13.82) def. Hutchinson (5.40)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Kelly Keller (ARK) - 7-3 at #2, 8-6 in duals, 8-6 overall<br>Yulia Starodubtseva (ODU) - 11-1 at #2, 11-1 in duals, 11-1 overall</summary>
+<summary markdown="span">Yulia Starodubtseva (ARK) - 11-1 at #2, 11-1 in duals, 11-1 overall<br>Kelly Keller (ODU) - 7-3 at #2, 8-6 in duals, 8-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ODU</i></b> - Starodubtseva (56%) def. Keller (44%)</li>  
 <li>TRN: <b><i>ODU</i></b> - Starodubtseva (75%) def. Keller (25%)</li>  
 <li>Massey: <b><i>ODU</i></b> - Starodubtseva (75%) def. Keller (25%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Starodubtseva (56%) def. Keller (44%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Starodubtseva (11.96) def. Keller (2.19)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Tatum Rice (ARK) - 8-7 at #3, 9-7 in duals, 9-7 overall<br>Tatsiana Sasnouskaya (ODU) - 9-2 at #3, 13-2 in duals, 13-2 overall</summary>
+<summary markdown="span">Tatsiana Sasnouskaya (ARK) - 9-2 at #3, 13-2 in duals, 13-2 overall<br>Tatum Rice (ODU) - 8-7 at #3, 9-7 in duals, 9-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ODU</i></b> - Sasnouskaya (69%) def. Rice (31%)</li>  
 <li>TRN: <b><i>ODU</i></b> - Sasnouskaya (67%) def. Rice (33%)</li>  
 <li>Massey: <b><i>ODU</i></b> - Sasnouskaya (75%) def. Rice (25%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Sasnouskaya (68%) def. Rice (32%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Sasnouskaya (7.78) def. Rice (2.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Morgan Cross (ARK) - 9-10 at #4, 10-10 in duals, 10-10 overall<br>Alesya Yakubovich (ODU) - 4-5 at #4, 6-7 in duals, 6-7 overall</summary>
+<summary markdown="span">Alesya Yakubovich (ARK) - 4-5 at #4, 6-7 in duals, 6-7 overall<br>Morgan Cross (ODU) - 9-10 at #4, 10-10 in duals, 10-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ARK</i></b> - Cross (62%) def. Yakubovich (38%)</li>  
 <li>TRN: <b><i>ARK</i></b> - Cross (68%) def. Yakubovich (32%)</li>  
 <li>Massey: <b><i>ARK</i></b> - Cross (75%) def. Yakubovich (25%)</li>  
 <li>UTR: <b><i>ARK</i></b> - Cross (79%) def. Yakubovich (21%)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lauren Alter (ARK) - 5-5 at #5, 6-9 in duals, 6-9 overall<br>Brooke Pilkington (ODU) - 2-3 at #5, 6-5 in duals, 6-5 overall</summary>
+<summary markdown="span">Brooke Pilkington (ARK) - 2-3 at #5, 6-5 in duals, 6-5 overall<br>Lauren Alter (ODU) - 5-5 at #5, 6-9 in duals, 6-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ODU</i></b> - Pilkington (55%) def. Alter (45%)</li>  
 <li>TRN: <b><i>ODU</i></b> - Pilkington (56%) def. Alter (44%)</li>  
 <li>Massey: <b><i>ODU</i></b> - Pilkington (75%) def. Alter (25%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Pilkington (80%) def. Alter (20%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Pilkington (1.80) def. Alter (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Laura Rijkers (ARK) - 7-0 at #6, 7-8 in duals, 7-8 overall<br>Alexandra Viktorovich (ODU) - 6-2 at #6, 7-4 in duals, 7-4 overall</summary>
+<summary markdown="span">Alexandra Viktorovich (ARK) - 6-2 at #6, 7-4 in duals, 7-4 overall<br>Laura Rijkers (ODU) - 7-0 at #6, 7-8 in duals, 7-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ARK</i></b> - Rijkers (54%) def. Viktorovich (46%)</li>  
 <li>TRN: <b><i>ARK</i></b> - Rijkers (68%) def. Viktorovich (32%)</li>  
 <li>Massey: <b><i>ODU</i></b> - Viktorovich (75%) def. Rijkers (25%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Viktorovich (81%) def. Rijkers (19%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Viktorovich (2.38) def. Rijkers (1.60)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Cross/Rice (ARK) - 5-2 at #1, 5-2 in duals, 5-2 overall<br>Starodubtseva/Yakubovich (ODU) - 5-5 at #1, 5-5 in duals, 5-5 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Starodubtseva/Yakubovich (ARK) - 5-5 at #1, 5-5 in duals, 5-5 overall<br>Cross/Rice (ODU) - 5-2 at #1, 5-2 in duals, 5-2 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alter/Spink (ARK) - 3-5 at #2, 3-5 in duals, 3-5 overall<br>Hutchinson/Sasnouskaya (ODU) - 11-0 at #2, 12-1 in duals, 12-1 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Hutchinson/Sasnouskaya (ARK) - 11-0 at #2, 12-1 in duals, 12-1 overall<br>Alter/Spink (ODU) - 3-5 at #2, 3-5 in duals, 3-5 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Keller/Carr (ARK) - 2-3 at #3, 2-3 in duals, 2-3 overall<br>Pilkington/Viktorovich (ODU) - 7-2 at #3, 7-2 in duals, 7-2 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Pilkington/Viktorovich (ARK) - 7-2 at #3, 7-2 in duals, 7-2 overall<br>Keller/Carr (ODU) - 2-3 at #3, 2-3 in duals, 2-3 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>

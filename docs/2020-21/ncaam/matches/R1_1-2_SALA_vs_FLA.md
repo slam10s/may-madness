@@ -51,71 +51,79 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Duarte Vale (FLA) - 15-6 at #1, 15-6 in duals, 23-6 overall<br>Julien Evrard (SALA) - 10-4 at #1, 13-4 in duals, 19-7 overall</summary>
+<summary markdown="span">Julien Evrard (FLA) - 10-4 at #1, 13-4 in duals, 19-7 overall<br>Duarte Vale (SALA) - 15-6 at #1, 15-6 in duals, 23-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Vale (75%) def. Evrard (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Vale (54.01) def. Evrard (8.29)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Sam Riffice (FLA) - 16-4 at #2, 18-4 in duals, 23-7 overall<br>Clement Marzol (SALA) - 8-1 at #2, 12-2 in duals, 18-4 overall</summary>
+<summary markdown="span">Clement Marzol (FLA) - 8-1 at #2, 12-2 in duals, 18-4 overall<br>Sam Riffice (SALA) - 16-4 at #2, 18-4 in duals, 23-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Riffice (90%) def. Marzol (10%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Riffice (75%) def. Marzol (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Riffice (49.68) def. Marzol (8.12)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Andy Andrade (FLA) - 12-7 at #3, 14-7 in duals, 22-7 overall<br>Loic Cloes (SALA) - 5-3 at #3, 9-4 in duals, 9-4 overall</summary>
+<summary markdown="span">Loic Cloes (FLA) - 5-3 at #3, 9-4 in duals, 9-4 overall<br>Andy Andrade (SALA) - 12-7 at #3, 14-7 in duals, 22-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Andrade (96%) def. Cloes (4%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Andrade (75%) def. Cloes (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Andrade (94%) def. Cloes (6%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Andrade (32.71) def. Cloes (2.46)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Blaise Bicknell (FLA) - 15-0 at #4, 20-0 in duals, 29-0 overall<br>Sebastien Collard (SALA) - 7-4 at #4, 11-6 in duals, 20-6 overall</summary>
+<summary markdown="span">Sebastien Collard (FLA) - 7-4 at #4, 11-6 in duals, 20-6 overall<br>Blaise Bicknell (SALA) - 15-0 at #4, 20-0 in duals, 29-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Bicknell (98%) def. Collard (2%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Bicknell (75%) def. Collard (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Bicknell (15.89) def. Collard (2.43)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ben Shelton (FLA) - 15-4 at #5, 17-4 in duals, 24-5 overall<br>Louis Delcour (SALA) - 5-2 at #5, 9-5 in duals, 9-5 overall</summary>
+<summary markdown="span">Louis Delcour (FLA) - 5-2 at #5, 9-5 in duals, 9-5 overall<br>Ben Shelton (SALA) - 15-4 at #5, 17-4 in duals, 24-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Shelton (98%) def. Delcour (2%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Shelton (75%) def. Delcour (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Shelton (3.20) def. Delcour (2.17)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Josh Goodger (FLA) - 12-0 at #6, 13-0 in duals, 19-0 overall<br>Martin Bugaj (SALA) - 1-4 at #6, 4-8 in duals, 7-13 overall</summary>
+<summary markdown="span">Martin Bugaj (FLA) - 1-4 at #6, 4-8 in duals, 7-13 overall<br>Josh Goodger (SALA) - 12-0 at #6, 13-0 in duals, 19-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Goodger (75%) def. Bugaj (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Goodger (98%) def. Bugaj (2%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Goodger (8.31) def. Bugaj (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Ingildsen/Vale (FLA) - 0-0 at #1, 0-0 in duals, 0-0 overall<br>Cloes/Marzol (SALA) - 10-2 at #1, 10-2 in duals, 10-2 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Cloes/Marzol (FLA) - 10-2 at #1, 10-2 in duals, 10-2 overall<br>Ingildsen/Vale (SALA) - 0-0 at #1, 0-0 in duals, 0-0 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Riffice/Shelton (FLA) - 0-0 at #2, 4-0 in duals, 6-1 overall<br>Evrard/Collard (SALA) - 4-6 at #2, 4-6 in duals, 10-9 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Evrard/Collard (FLA) - 4-6 at #2, 4-6 in duals, 10-9 overall<br>Riffice/Shelton (SALA) - 0-0 at #2, 4-0 in duals, 6-1 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Berdusco/Grant (FLA) - 0-0 at #3, 0-0 in duals, 1-0 overall<br>Delcour/Petko (SALA) - 2-2 at #3, 2-2 in duals, 2-2 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Delcour/Petko (FLA) - 2-2 at #3, 2-2 in duals, 2-2 overall<br>Berdusco/Grant (SALA) - 0-0 at #3, 0-0 in duals, 1-0 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>

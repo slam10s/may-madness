@@ -53,71 +53,79 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Gustaf Strom (ARIZ) - 3-1 at #1, 17-2 in duals, 17-2 overall<br>Andrew Fenty (MICH) - 10-3 at #1, 13-4 in duals, 16-9 overall</summary>
+<summary markdown="span">Andrew Fenty (ARIZ) - 10-3 at #1, 13-4 in duals, 16-9 overall<br>Gustaf Strom (MICH) - 3-1 at #1, 17-2 in duals, 17-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Fenty (56%) def. Strom (44%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Strom (87%) def. Fenty (13%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Strom (75%) def. Fenty (25%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Strom (69%) def. Fenty (31%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Strom (17.40) def. Fenty (1.71)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jonas Ziverts (ARIZ) - 1-1 at #2, 9-8 in duals, 9-8 overall<br>Ondrej Styler (MICH) - 7-3 at #2, 8-4 in duals, 12-7 overall</summary>
+<summary markdown="span">Ondrej Styler (ARIZ) - 7-3 at #2, 8-4 in duals, 12-7 overall<br>Jonas Ziverts (MICH) - 1-1 at #2, 9-8 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Styler (54%) def. Ziverts (46%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Styler (55%) def. Ziverts (45%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Styler (75%) def. Ziverts (25%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Styler (76%) def. Ziverts (24%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Ziverts (7.58) def. Styler (2.60)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Filip Malbasic (ARIZ) - 5-4 at #3, 14-9 in duals, 14-9 overall<br>Patrick Maloney (MICH) - 7-3 at #3, 9-4 in duals, 9-4 overall</summary>
+<summary markdown="span">Patrick Maloney (ARIZ) - 7-3 at #3, 9-4 in duals, 9-4 overall<br>Filip Malbasic (MICH) - 5-4 at #3, 14-9 in duals, 14-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Malbasic (64%) def. Maloney (36%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Malbasic (75%) def. Maloney (25%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Malbasic (2.36) def. Maloney (2.15)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Herman Hoeyeraal (ARIZ) - 0-0 at #4, 4-0 in duals, 4-0 overall<br>Mattias Siimar (MICH) - 8-1 at #4, 14-3 in duals, 17-6 overall</summary>
+<summary markdown="span">Mattias Siimar (ARIZ) - 8-1 at #4, 14-3 in duals, 17-6 overall<br>Herman Hoeyeraal (MICH) - 0-0 at #4, 4-0 in duals, 4-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Siimar (75%) def. Hoeyeraal (25%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Siimar (2.45) def. Hoeyeraal (2.40)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alejandro Reguant (ARIZ) - 0-0 at #5, 13-6 in duals, 13-6 overall<br>Nick Beaty (MICH) - 8-2 at #5, 13-2 in duals, 19-4 overall</summary>
+<summary markdown="span">Nick Beaty (ARIZ) - 8-2 at #5, 13-2 in duals, 19-4 overall<br>Alejandro Reguant (MICH) - 0-0 at #5, 13-6 in duals, 13-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ARIZ</i></b> - Reguant (55%) def. Beaty (45%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Beaty (66%) def. Reguant (34%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Beaty (75%) def. Reguant (25%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Reguant (70%) def. Beaty (30%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Reguant (2.55) def. Beaty (2.52)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Carlos Hassey (ARIZ) - 1-1 at #6, 12-7 in duals, 12-7 overall<br>Nino Ehrenschneider (MICH) - 3-1 at #6, 4-1 in duals, 6-2 overall</summary>
+<summary markdown="span">Nino Ehrenschneider (ARIZ) - 3-1 at #6, 4-1 in duals, 6-2 overall<br>Carlos Hassey (MICH) - 1-1 at #6, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Ehrenschneider (51%) def. Hassey (49%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Ehrenschneider (66%) def. Hassey (34%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Ehrenschneider (75%) def. Hassey (25%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Ehrenschneider (2.63) def. Hassey (1.70)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Hassey/Reguant (ARIZ) - 1-0 at #1, 10-3 in duals, 10-3 overall<br>Fenty/Siimar (MICH) - 9-3 at #1, 9-3 in duals, 14-3 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Fenty/Siimar (ARIZ) - 9-3 at #1, 9-3 in duals, 14-3 overall<br>Hassey/Reguant (MICH) - 1-0 at #1, 10-3 in duals, 10-3 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ziverts/Hoeyeraal (ARIZ) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Maloney/Styler (MICH) - 2-0 at #2, 2-0 in duals, 2-0 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Maloney/Styler (ARIZ) - 2-0 at #2, 2-0 in duals, 2-0 overall<br>Ziverts/Hoeyeraal (MICH) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Strom/Malbasic (ARIZ) - 7-5 at #3, 9-5 in duals, 9-5 overall<br>Ehrenschneider/Johnston (MICH) - 3-0 at #3, 3-0 in duals, 3-0 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Ehrenschneider/Johnston (ARIZ) - 3-0 at #3, 3-0 in duals, 3-0 overall<br>Strom/Malbasic (MICH) - 7-5 at #3, 9-5 in duals, 9-5 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>

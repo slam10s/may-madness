@@ -52,70 +52,78 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Mia Horvit (SCAR) - 9-7 at #1, 9-7 in duals, 11-9 overall<br>Thasaporn Naklo (ISU) - 10-7 at #1, 10-7 in duals, 10-7 overall</summary>
+<summary markdown="span">Thasaporn Naklo (SCAR) - 10-7 at #1, 10-7 in duals, 10-7 overall<br>Mia Horvit (ISU) - 9-7 at #1, 9-7 in duals, 11-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Horvit (81%) def. Naklo (19%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Horvit (85%) def. Naklo (15%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Horvit (75%) def. Naklo (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Horvit (84%) def. Naklo (16%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Horvit (18.78) def. Naklo (2.77)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Megan Davies (SCAR) - 10-5 at #2, 10-5 in duals, 12-8 overall<br>Maty Cancini (ISU) - 6-9 at #2, 6-9 in duals, 6-9 overall</summary>
+<summary markdown="span">Maty Cancini (SCAR) - 6-9 at #2, 6-9 in duals, 6-9 overall<br>Megan Davies (ISU) - 10-5 at #2, 10-5 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Davies (81%) def. Cancini (19%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Davies (88%) def. Cancini (12%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Davies (75%) def. Cancini (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Davies (86%) def. Cancini (14%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Davies (10.26) def. Cancini (1.95)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Emma Shelton (SCAR) - 7-7 at #3, 10-8 in duals, 13-11 overall<br>Miska Kadleckova (ISU) - 6-1 at #3, 14-3 in duals, 14-3 overall</summary>
+<summary markdown="span">Miska Kadleckova (SCAR) - 6-1 at #3, 14-3 in duals, 14-3 overall<br>Emma Shelton (ISU) - 7-7 at #3, 10-8 in duals, 13-11 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Shelton (66%) def. Kadleckova (34%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Shelton (58%) def. Kadleckova (42%)</li>  
 <li>Massey: <b><i>ISU</i></b> - Kadleckova (75%) def. Shelton (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Shelton (65%) def. Kadleckova (35%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Shelton (6.55) def. Kadleckova (2.94)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Silvia Chinellato (SCAR) - 7-6 at #4, 10-9 in duals, 12-12 overall<br>Christin Hsieh (ISU) - 1-3 at #4, 7-11 in duals, 7-11 overall</summary>
+<summary markdown="span">Christin Hsieh (SCAR) - 1-3 at #4, 7-11 in duals, 7-11 overall<br>Silvia Chinellato (ISU) - 7-6 at #4, 10-9 in duals, 12-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Chinellato (83%) def. Hsieh (17%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Chinellato (88%) def. Hsieh (12%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Chinellato (75%) def. Hsieh (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Chinellato (93%) def. Hsieh (7%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Chinellato (2.47) def. Hsieh (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Allie Gretkowski (SCAR) - 5-9 at #5, 7-12 in duals, 7-12 overall<br>Chie Kezuka (ISU) - 7-4 at #5, 10-6 in duals, 10-6 overall</summary>
+<summary markdown="span">Chie Kezuka (SCAR) - 7-4 at #5, 10-6 in duals, 10-6 overall<br>Allie Gretkowski (ISU) - 5-9 at #5, 7-12 in duals, 7-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Kezuka (53%) def. Gretkowski (47%)</li>  
 <li>Massey: <b><i>ISU</i></b> - Kezuka (75%) def. Gretkowski (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Gretkowski (80%) def. Kezuka (20%)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ana Cruz (SCAR) - 4-4 at #6, 5-6 in duals, 5-6 overall<br>Sofia Cabezas (ISU) - 9-3 at #6, 13-4 in duals, 13-4 overall</summary>
+<summary markdown="span">Sofia Cabezas (SCAR) - 9-3 at #6, 13-4 in duals, 13-4 overall<br>Ana Cruz (ISU) - 4-4 at #6, 5-6 in duals, 5-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Cabezas (72%) def. Cruz (28%)</li>  
 <li>Massey: <b><i>ISU</i></b> - Cabezas (75%) def. Cruz (25%)</li>  
 <li>UTR: <b><i>ISU</i></b> - Cabezas (80%) def. Cruz (20%)</li>  
 <li>ITA: <b><i>ISU</i></b> - Cabezas (2.42) def. Cruz (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Davies/Horvit (SCAR) - 9-8 at #1, 9-8 in duals, 13-10 overall<br>Naklo/Hsieh (ISU) - 1-1 at #1, 1-1 in duals, 1-1 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Naklo/Hsieh (SCAR) - 1-1 at #1, 1-1 in duals, 1-1 overall<br>Davies/Horvit (ISU) - 9-8 at #1, 9-8 in duals, 13-10 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Chinellato/Shelton (SCAR) - 7-5 at #2, 7-5 in duals, 10-8 overall<br>Kadleckova/Cabezas (ISU) - 1-0 at #2, 1-0 in duals, 1-0 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Kadleckova/Cabezas (SCAR) - 1-0 at #2, 1-0 in duals, 1-0 overall<br>Chinellato/Shelton (ISU) - 7-5 at #2, 7-5 in duals, 10-8 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Cruz/Gretkowski (SCAR) - 11-0 at #3, 11-2 in duals, 11-2 overall<br>Cancini/Chang (ISU) - 6-3 at #3, 6-3 in duals, 6-3 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Cancini/Chang (SCAR) - 6-3 at #3, 6-3 in duals, 6-3 overall<br>Cruz/Gretkowski (ISU) - 11-0 at #3, 11-2 in duals, 11-2 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>

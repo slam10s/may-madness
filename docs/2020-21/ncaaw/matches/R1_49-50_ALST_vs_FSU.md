@@ -51,71 +51,79 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Giulia Pairone (FSU) - 11-8 at #1, 11-8 in duals, 13-8 overall<br>Madalena Andrade (ALST) - 10-3 at #1, 10-3 in duals, 10-3 overall</summary>
+<summary markdown="span">Madalena Andrade (FSU) - 10-3 at #1, 10-3 in duals, 10-3 overall<br>Giulia Pairone (ALST) - 11-8 at #1, 11-8 in duals, 13-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Pairone (75%) def. Andrade (25%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Pairone (30.67) def. Andrade (2.89)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Emmanuelle Salas (FSU) - 5-6 at #2, 7-9 in duals, 7-10 overall<br>Lizaveta Dzemchanka (ALST) - 0-0 at #2, 3-0 in duals, 3-0 overall</summary>
+<summary markdown="span">Lizaveta Dzemchanka (FSU) - 0-0 at #2, 3-0 in duals, 3-0 overall<br>Emmanuelle Salas (ALST) - 5-6 at #2, 7-9 in duals, 7-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Salas (100%) def. Dzemchanka (0%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Salas (100%) def. Dzemchanka (0%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Salas (75%) def. Dzemchanka (25%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Salas (99%) def. Dzemchanka (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Salas (14.35) def. Dzemchanka (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nandini Das (FSU) - 6-4 at #3, 11-8 in duals, 12-8 overall<br>Urska Velec (ALST) - 3-1 at #3, 8-2 in duals, 8-2 overall</summary>
+<summary markdown="span">Urska Velec (FSU) - 3-1 at #3, 8-2 in duals, 8-2 overall<br>Nandini Das (ALST) - 6-4 at #3, 11-8 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Das (75%) def. Velec (25%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>ITA: <b><i>ALST</i></b> - Velec (2.89) def. Das (2.52)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Petra Hule (FSU) - 4-0 at #4, 12-3 in duals, 13-3 overall<br>Francesca Duca (ALST) - 8-0 at #4, 8-4 in duals, 8-4 overall</summary>
+<summary markdown="span">Francesca Duca (FSU) - 8-0 at #4, 8-4 in duals, 8-4 overall<br>Petra Hule (ALST) - 4-0 at #4, 12-3 in duals, 13-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Hule (75%) def. Duca (25%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Hule (3.24) def. Duca (2.26)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Victoria Allen (FSU) - 7-0 at #5, 11-4 in duals, 12-5 overall<br>Timothee Legaud (ALST) - 0-2 at #5, 3-4 in duals, 3-4 overall</summary>
+<summary markdown="span">Timothee Legaud (FSU) - 0-2 at #5, 3-4 in duals, 3-4 overall<br>Victoria Allen (ALST) - 7-0 at #5, 11-4 in duals, 12-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Allen (75%) def. Legaud (25%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Allen (2.90) def. Legaud (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Anna Arkadianou (FSU) - 0-0 at #6, 3-4 in duals, 4-5 overall<br>Bea Acena (ALST) - 0-0 at #6, 7-6 in duals, 7-6 overall</summary>
+<summary markdown="span">Bea Acena (FSU) - 0-0 at #6, 7-6 in duals, 7-6 overall<br>Anna Arkadianou (ALST) - 0-0 at #6, 3-4 in duals, 4-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Arkadianou (75%) def. Acena (25%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>ITA: <b><i>ALST</i></b> - Acena (1.75) def. Arkadianou (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Salas/Allen (FSU) - 5-3 at #1, 5-3 in duals, 5-3 overall<br>Dzemchanka/Tarbujaru (ALST) - 1-1 at #1, 1-1 in duals, 1-1 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Dzemchanka/Tarbujaru (FSU) - 1-1 at #1, 1-1 in duals, 1-1 overall<br>Salas/Allen (ALST) - 5-3 at #1, 5-3 in duals, 5-3 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Das/Garcia (FSU) - 8-4 at #2, 14-4 in duals, 17-4 overall<br>Andrade/Duca (ALST) - 4-0 at #2, 5-0 in duals, 5-0 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Andrade/Duca (FSU) - 4-0 at #2, 5-0 in duals, 5-0 overall<br>Das/Garcia (ALST) - 8-4 at #2, 14-4 in duals, 17-4 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Hule/Pairone (FSU) - 5-1 at #3, 5-1 in duals, 6-1 overall<br>Velec/Hribljan (ALST) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Velec/Hribljan (FSU) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Hule/Pairone (ALST) - 5-1 at #3, 5-1 in duals, 6-1 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>

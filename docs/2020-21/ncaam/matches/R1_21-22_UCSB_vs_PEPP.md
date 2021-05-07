@@ -51,71 +51,79 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Adrian Oetzbach (PEPP) - 7-7 at #1, 7-8 in duals, 8-9 overall<br>Joseph Guillin (UCSB) - 8-2 at #1, 8-2 in duals, 8-2 overall</summary>
+<summary markdown="span">Joseph Guillin (PEPP) - 8-2 at #1, 8-2 in duals, 8-2 overall<br>Adrian Oetzbach (UCSB) - 7-7 at #1, 7-8 in duals, 8-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCSB</i></b> - Guillin (81%) def. Oetzbach (19%)</li>  
 <li>TRN: <b><i>UCSB</i></b> - Guillin (83%) def. Oetzbach (17%)</li>  
 <li>Massey: <b><i>UCSB</i></b> - Guillin (75%) def. Oetzbach (25%)</li>  
 <li>UTR: <b><i>UCSB</i></b> - Guillin (75%) def. Oetzbach (25%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Oetzbach (5.20) def. Guillin (3.96)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Guy Den Ouden (PEPP) - 10-4 at #2, 15-5 in duals, 15-5 overall<br>Stefano Tsorotiotis (UCSB) - 4-5 at #2, 4-5 in duals, 4-5 overall</summary>
+<summary markdown="span">Stefano Tsorotiotis (PEPP) - 4-5 at #2, 4-5 in duals, 4-5 overall<br>Guy Den Ouden (UCSB) - 10-4 at #2, 15-5 in duals, 15-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Ouden (90%) def. Tsorotiotis (10%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Ouden (97%) def. Tsorotiotis (3%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Ouden (75%) def. Tsorotiotis (25%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Ouden (96%) def. Tsorotiotis (4%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Ouden (2.60) def. Tsorotiotis (1.60)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Daniel DeJonge (PEPP) - 5-4 at #3, 10-4 in duals, 11-5 overall<br>Victor Krustev (UCSB) - 7-1 at #3, 10-3 in duals, 10-3 overall</summary>
+<summary markdown="span">Victor Krustev (PEPP) - 7-1 at #3, 10-3 in duals, 10-3 overall<br>Daniel DeJonge (UCSB) - 5-4 at #3, 10-4 in duals, 11-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - DeJonge (75%) def. Krustev (25%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - DeJonge (75%) def. Krustev (25%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - DeJonge (75%) def. Krustev (25%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - DeJonge (81%) def. Krustev (19%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - DeJonge (3.53) def. Krustev (2.71)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Tim Zeitvogel (PEPP) - 4-0 at #4, 7-0 in duals, 7-0 overall<br>Pablo Masjuan (UCSB) - 4-0 at #4, 9-4 in duals, 9-4 overall</summary>
+<summary markdown="span">Pablo Masjuan (PEPP) - 4-0 at #4, 9-4 in duals, 9-4 overall<br>Tim Zeitvogel (UCSB) - 4-0 at #4, 7-0 in duals, 7-0 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Zeitvogel (82%) def. Masjuan (18%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zeitvogel (82%) def. Masjuan (18%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Zeitvogel (75%) def. Masjuan (25%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Zeitvogel (85%) def. Masjuan (15%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zeitvogel (4.17) def. Masjuan (2.35)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Corrado Summaria (PEPP) - 3-0 at #5, 8-5 in duals, 8-6 overall<br>Joey Rotheram (UCSB) - 3-2 at #5, 6-4 in duals, 6-4 overall</summary>
+<summary markdown="span">Joey Rotheram (PEPP) - 3-2 at #5, 6-4 in duals, 6-4 overall<br>Corrado Summaria (UCSB) - 3-0 at #5, 8-5 in duals, 8-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Summaria (82%) def. Rotheram (18%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Summaria (81%) def. Rotheram (19%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Summaria (75%) def. Rotheram (25%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Summaria (76%) def. Rotheram (24%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Rotheram (1.83) def. Summaria (1.59)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Pietro Fellin (PEPP) - 8-0 at #6, 8-3 in duals, 8-5 overall<br>Kai Brady (UCSB) - 4-1 at #6, 7-2 in duals, 7-2 overall</summary>
+<summary markdown="span">Kai Brady (PEPP) - 4-1 at #6, 7-2 in duals, 7-2 overall<br>Pietro Fellin (UCSB) - 8-0 at #6, 8-3 in duals, 8-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Fellin (85%) def. Brady (15%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fellin (87%) def. Brady (13%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Fellin (75%) def. Brady (25%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Fellin (91%) def. Brady (9%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Brady (2.64) def. Fellin (2.12)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Oetzbach/Ouden (PEPP) - 10-4 at #1, 10-4 in duals, 10-4 overall<br>Tsorotiotis/Vedri (UCSB) - 4-3 at #1, 4-3 in duals, 4-3 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Tsorotiotis/Vedri (PEPP) - 4-3 at #1, 4-3 in duals, 4-3 overall<br>Oetzbach/Ouden (UCSB) - 10-4 at #1, 10-4 in duals, 10-4 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Summaria/Zeitvogel (PEPP) - 5-2 at #2, 5-2 in duals, 5-2 overall<br>Krustev/Rotheram (UCSB) - 4-5 at #2, 4-6 in duals, 4-6 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Krustev/Rotheram (PEPP) - 4-5 at #2, 4-6 in duals, 4-6 overall<br>Summaria/Zeitvogel (UCSB) - 5-2 at #2, 5-2 in duals, 5-2 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">DeJonge/Fellin (PEPP) - 3-3 at #3, 3-3 in duals, 3-3 overall<br>Guillin/Brady (UCSB) - 6-1 at #3, 6-1 in duals, 6-1 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Guillin/Brady (PEPP) - 6-1 at #3, 6-1 in duals, 6-1 overall<br>DeJonge/Fellin (UCSB) - 3-3 at #3, 3-3 in duals, 3-3 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>

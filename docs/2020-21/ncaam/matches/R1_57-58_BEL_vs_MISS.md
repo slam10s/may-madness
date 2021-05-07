@@ -51,71 +51,79 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Tim Sandkaulen (MISS) - 1-7 at #1, 8-12 in duals, 13-16 overall<br>Marko Ilic (BEL) - 13-4 at #1, 13-4 in duals, 13-4 overall</summary>
+<summary markdown="span">Marko Ilic (MISS) - 13-4 at #1, 13-4 in duals, 13-4 overall<br>Tim Sandkaulen (BEL) - 1-7 at #1, 8-12 in duals, 13-16 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Sandkaulen (79%) def. Ilic (21%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Sandkaulen (91%) def. Ilic (9%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Sandkaulen (75%) def. Ilic (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Sandkaulen (93%) def. Ilic (7%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Sandkaulen (22.95) def. Ilic (2.51)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Finn Reynolds (MISS) - 6-1 at #2, 10-10 in duals, 10-10 overall<br>Arthur Toledo (BEL) - 13-3 at #2, 13-3 in duals, 13-3 overall</summary>
+<summary markdown="span">Arthur Toledo (MISS) - 13-3 at #2, 13-3 in duals, 13-3 overall<br>Finn Reynolds (BEL) - 6-1 at #2, 10-10 in duals, 10-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Reynolds (97%) def. Toledo (3%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Reynolds (98%) def. Toledo (2%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Reynolds (75%) def. Toledo (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Reynolds (97%) def. Toledo (3%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Reynolds (36.17) def. Toledo (2.71)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nikola Slavic (MISS) - 12-7 at #3, 13-7 in duals, 13-7 overall<br>Tomas Luis (BEL) - 7-5 at #3, 10-7 in duals, 10-7 overall</summary>
+<summary markdown="span">Tomas Luis (MISS) - 7-5 at #3, 10-7 in duals, 10-7 overall<br>Nikola Slavic (BEL) - 12-7 at #3, 13-7 in duals, 13-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Slavic (99%) def. Luis (1%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Slavic (99%) def. Luis (1%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Slavic (75%) def. Luis (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Slavic (92%) def. Luis (8%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Slavic (24.24) def. Luis (1.54)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">John Hallquist Lithen (MISS) - 5-6 at #4, 12-7 in duals, 12-7 overall<br>Diego Castro (BEL) - 6-4 at #4, 10-6 in duals, 10-6 overall</summary>
+<summary markdown="span">Diego Castro (MISS) - 6-4 at #4, 10-6 in duals, 10-6 overall<br>John Hallquist Lithen (BEL) - 5-6 at #4, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Lithen (98%) def. Castro (2%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Lithen (99%) def. Castro (1%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Lithen (75%) def. Castro (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Lithen (96%) def. Castro (4%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Lithen (2.40) def. Castro (1.99)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Simon Junk (MISS) - 2-6 at #5, 9-11 in duals, 9-14 overall<br>Taisei Miyamoto (BEL) - 5-3 at #5, 8-7 in duals, 8-7 overall</summary>
+<summary markdown="span">Taisei Miyamoto (MISS) - 5-3 at #5, 8-7 in duals, 8-7 overall<br>Simon Junk (BEL) - 2-6 at #5, 9-11 in duals, 9-14 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Junk (97%) def. Miyamoto (3%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Junk (98%) def. Miyamoto (2%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Junk (75%) def. Miyamoto (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Junk (96%) def. Miyamoto (4%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Junk (1.99) def. Miyamoto (1.70)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Lukas Engelhardt (MISS) - 3-4 at #6, 3-7 in duals, 3-7 overall<br>Alfred Wallin (BEL) - 9-4 at #6, 11-4 in duals, 11-4 overall</summary>
+<summary markdown="span">Alfred Wallin (MISS) - 9-4 at #6, 11-4 in duals, 11-4 overall<br>Lukas Engelhardt (BEL) - 3-4 at #6, 3-7 in duals, 3-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Engelhardt (98%) def. Wallin (2%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Engelhardt (98%) def. Wallin (2%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Engelhardt (75%) def. Wallin (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Engelhardt (94%) def. Wallin (6%)</li>  
 <li>ITA: <b><i>BEL</i></b> - Wallin (2.75) def. Engelhardt (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Sandkaulen/Reynolds (MISS) - 14-2 at #1, 14-2 in duals, 14-2 overall<br>Ilic/Miyamoto (BEL) - 11-6 at #1, 11-6 in duals, 11-6 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Ilic/Miyamoto (MISS) - 11-6 at #1, 11-6 in duals, 11-6 overall<br>Sandkaulen/Reynolds (BEL) - 14-2 at #1, 14-2 in duals, 14-2 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Draheim/Junk (MISS) - 8-7 at #2, 11-9 in duals, 11-9 overall<br>Castro/Luis (BEL) - 11-2 at #2, 11-2 in duals, 11-2 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Castro/Luis (MISS) - 11-2 at #2, 11-2 in duals, 11-2 overall<br>Draheim/Junk (BEL) - 8-7 at #2, 11-9 in duals, 11-9 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Cadonau/Engelhardt (MISS) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Briggs/Toledo (BEL) - 8-3 at #3, 8-3 in duals, 8-3 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Briggs/Toledo (MISS) - 8-3 at #3, 8-3 in duals, 8-3 overall<br>Cadonau/Engelhardt (BEL) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>

@@ -51,71 +51,79 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Magnus Johnson (FGCU) - 9-3 at #1, 9-3 in duals, 9-3 overall<br>Alexis Galarneau (NCST) - 10-2 at #1, 10-2 in duals, 10-3 overall</summary>
+<summary markdown="span">Alexis Galarneau (FGCU) - 10-2 at #1, 10-2 in duals, 10-3 overall<br>Magnus Johnson (NCST) - 9-3 at #1, 9-3 in duals, 9-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Galarneau (88%) def. Johnson (12%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Galarneau (86%) def. Johnson (14%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Galarneau (75%) def. Johnson (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Galarneau (94%) def. Johnson (6%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Galarneau (25.90) def. Johnson (7.86)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Juan Montes (FGCU) - 7-4 at #2, 7-4 in duals, 7-4 overall<br>Rafael Izquierdo Luque (NCST) - 2-5 at #2, 7-8 in duals, 8-9 overall</summary>
+<summary markdown="span">Rafael Izquierdo Luque (FGCU) - 2-5 at #2, 7-8 in duals, 8-9 overall<br>Juan Montes (NCST) - 7-4 at #2, 7-4 in duals, 7-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Luque (76%) def. Montes (24%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Luque (76%) def. Montes (24%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Luque (87%) def. Montes (13%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Luque (6.91) def. Montes (2.32)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Randy Wilson (FGCU) - 5-5 at #3, 6-7 in duals, 6-7 overall<br>Tadas Babelis (NCST) - 3-4 at #3, 5-9 in duals, 6-10 overall</summary>
+<summary markdown="span">Tadas Babelis (FGCU) - 3-4 at #3, 5-9 in duals, 6-10 overall<br>Randy Wilson (NCST) - 5-5 at #3, 6-7 in duals, 6-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Babelis (86%) def. Wilson (14%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Babelis (85%) def. Wilson (15%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Babelis (75%) def. Wilson (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Babelis (90%) def. Wilson (10%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Babelis (2.63) def. Wilson (1.63)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Felipe Ramirez (FGCU) - 1-1 at #4, 2-4 in duals, 2-4 overall<br>Yannai Barkai (NCST) - 3-4 at #4, 5-8 in duals, 7-8 overall</summary>
+<summary markdown="span">Yannai Barkai (FGCU) - 3-4 at #4, 5-8 in duals, 7-8 overall<br>Felipe Ramirez (NCST) - 1-1 at #4, 2-4 in duals, 2-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Barkai (79%) def. Ramirez (21%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Barkai (78%) def. Ramirez (22%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Barkai (75%) def. Ramirez (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Barkai (86%) def. Ramirez (14%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Barkai (2.33) def. Ramirez (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Guglielmo Stefanacci (FGCU) - 3-3 at #5, 8-5 in duals, 8-5 overall<br>Robin Catry (NCST) - 4-0 at #5, 10-5 in duals, 10-6 overall</summary>
+<summary markdown="span">Robin Catry (FGCU) - 4-0 at #5, 10-5 in duals, 10-6 overall<br>Guglielmo Stefanacci (NCST) - 3-3 at #5, 8-5 in duals, 8-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Catry (96%) def. Stefanacci (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Catry (96%) def. Stefanacci (4%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Catry (75%) def. Stefanacci (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Catry (91%) def. Stefanacci (9%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Catry (3.10) def. Stefanacci (2.15)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alessandro Conca (FGCU) - 0-2 at #6, 3-9 in duals, 3-9 overall<br>Robert Turzak (NCST) - 0-0 at #6, 6-4 in duals, 7-5 overall</summary>
+<summary markdown="span">Robert Turzak (FGCU) - 0-0 at #6, 6-4 in duals, 7-5 overall<br>Alessandro Conca (NCST) - 0-2 at #6, 3-9 in duals, 3-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Turzak (84%) def. Conca (16%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Turzak (90%) def. Conca (10%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Turzak (75%) def. Conca (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Turzak (96%) def. Conca (4%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Turzak (1.56) def. Conca (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Johnson/Damm (FGCU) - 4-3 at #1, 7-4 in duals, 7-4 overall<br>Babelis/Barkai (NCST) - 4-3 at #1, 5-3 in duals, 6-3 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Babelis/Barkai (FGCU) - 4-3 at #1, 5-3 in duals, 6-3 overall<br>Johnson/Damm (NCST) - 4-3 at #1, 7-4 in duals, 7-4 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Ramirez/Montes (FGCU) - 2-1 at #2, 2-1 in duals, 2-1 overall<br>Catry/Galarneau (NCST) - 2-1 at #2, 2-1 in duals, 2-1 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Catry/Galarneau (FGCU) - 2-1 at #2, 2-1 in duals, 2-1 overall<br>Ramirez/Montes (NCST) - 2-1 at #2, 2-1 in duals, 2-1 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Wilson/Sakalauskas (FGCU) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Shick/Turzak (NCST) - 0-1 at #3, 0-1 in duals, 0-1 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Shick/Turzak (FGCU) - 0-1 at #3, 0-1 in duals, 0-1 overall<br>Wilson/Sakalauskas (NCST) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>

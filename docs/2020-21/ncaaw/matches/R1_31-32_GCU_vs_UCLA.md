@@ -51,71 +51,79 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Abbey Forbes (UCLA) - 17-2 at #1, 18-2 in duals, 18-2 overall<br>Natahsa Puehse (GCU) - 14-4 at #1, 14-4 in duals, 14-4 overall</summary>
+<summary markdown="span">Natahsa Puehse (UCLA) - 14-4 at #1, 14-4 in duals, 14-4 overall<br>Abbey Forbes (GCU) - 17-2 at #1, 18-2 in duals, 18-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Forbes (99%) def. Puehse (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Forbes (99%) def. Puehse (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Forbes (75%) def. Puehse (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Forbes (98%) def. Puehse (2%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Forbes (46.46) def. Puehse (2.45)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall<br>Emilia Occhipinti (GCU) - 12-5 at #2, 12-5 in duals, 12-5 overall</summary>
+<summary markdown="span">Emilia Occhipinti (UCLA) - 12-5 at #2, 12-5 in duals, 12-5 overall<br>Jada Hart (GCU) - 8-1 at #2, 11-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Hart (75%) def. Occhipinti (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Hart (98%) def. Occhipinti (2%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Hart (12.21) def. Occhipinti (2.15)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Elysia Bolton (UCLA) - 5-2 at #3, 9-3 in duals, 9-3 overall<br>Jana Weiss (GCU) - 15-4 at #3, 15-4 in duals, 15-4 overall</summary>
+<summary markdown="span">Jana Weiss (UCLA) - 15-4 at #3, 15-4 in duals, 15-4 overall<br>Elysia Bolton (GCU) - 5-2 at #3, 9-3 in duals, 9-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Bolton (75%) def. Weiss (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bolton (98%) def. Weiss (2%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Bolton (4.20) def. Weiss (2.42)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Vivian Wolff (UCLA) - 9-4 at #4, 10-6 in duals, 10-6 overall<br>Joely Lomas (GCU) - 9-4 at #4, 10-8 in duals, 10-8 overall</summary>
+<summary markdown="span">Joely Lomas (UCLA) - 9-4 at #4, 10-8 in duals, 10-8 overall<br>Vivian Wolff (GCU) - 9-4 at #4, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Wolff (99%) def. Lomas (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Wolff (99%) def. Lomas (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Wolff (75%) def. Lomas (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Wolff (98%) def. Lomas (2%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Wolff (2.06) def. Lomas (1.64)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Sasha Vagramov (UCLA) - 5-3 at #5, 9-5 in duals, 9-5 overall<br>Autum Prudhomme (GCU) - 6-4 at #5, 7-10 in duals, 7-10 overall</summary>
+<summary markdown="span">Autum Prudhomme (UCLA) - 6-4 at #5, 7-10 in duals, 7-10 overall<br>Sasha Vagramov (GCU) - 5-3 at #5, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Vagramov (75%) def. Prudhomme (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Prudhomme (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Vanessa Ong (UCLA) - 3-1 at #6, 4-1 in duals, 4-1 overall<br>Taylor Andersen (GCU) - 9-5 at #6, 10-7 in duals, 10-7 overall</summary>
+<summary markdown="span">Taylor Andersen (UCLA) - 9-5 at #6, 10-7 in duals, 10-7 overall<br>Vanessa Ong (GCU) - 3-1 at #6, 4-1 in duals, 4-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Ong (75%) def. Andersen (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
 <li>ITA: <b><i>GCU</i></b> - Andersen (1.96) def. Ong (1.95)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Forbes/Hart (UCLA) - 9-1 at #1, 9-1 in duals, 9-1 overall<br>Puehse/Weiss (GCU) - 5-12 at #1, 5-12 in duals, 5-12 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Puehse/Weiss (UCLA) - 5-12 at #1, 5-12 in duals, 5-12 overall<br>Forbes/Hart (GCU) - 9-1 at #1, 9-1 in duals, 9-1 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Wolff/Goulak (UCLA) - 16-2 at #2, 16-2 in duals, 16-2 overall<br>Occhipinti/Prudhomme (GCU) - 15-4 at #2, 15-4 in duals, 15-4 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Occhipinti/Prudhomme (UCLA) - 15-4 at #2, 15-4 in duals, 15-4 overall<br>Wolff/Goulak (GCU) - 16-2 at #2, 16-2 in duals, 16-2 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Bolton/Altick (UCLA) - 3-0 at #3, 3-0 in duals, 3-0 overall<br>Lomas/Andersen (GCU) - 12-6 at #3, 12-6 in duals, 12-6 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Lomas/Andersen (UCLA) - 12-6 at #3, 12-6 in duals, 12-6 overall<br>Bolton/Altick (GCU) - 3-0 at #3, 3-0 in duals, 3-0 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>

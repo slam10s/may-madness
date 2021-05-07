@@ -51,70 +51,78 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Eliot Spizzirri (TEX) - 9-6 at #1, 15-8 in duals, 22-9 overall<br>Eban Straker-Meads (NAU) - 5-4 at #1, 6-6 in duals, 6-6 overall</summary>
+<summary markdown="span">Eban Straker-Meads (TEX) - 5-4 at #1, 6-6 in duals, 6-6 overall<br>Eliot Spizzirri (NAU) - 9-6 at #1, 15-8 in duals, 22-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Spizzirri (95%) def. Straker-Meads (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Spizzirri (98%) def. Straker-Meads (2%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Spizzirri (75%) def. Straker-Meads (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Spizzirri (95%) def. Straker-Meads (5%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Spizzirri (28.17) def. Straker-Meads (1.70)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Micah Braswell (TEX) - 9-4 at #2, 17-5 in duals, 32-6 overall<br>Facundo Tumosa (NAU) - 3-3 at #2, 5-6 in duals, 5-6 overall</summary>
+<summary markdown="span">Facundo Tumosa (TEX) - 3-3 at #2, 5-6 in duals, 5-6 overall<br>Micah Braswell (NAU) - 9-4 at #2, 17-5 in duals, 32-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Braswell (95%) def. Tumosa (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Braswell (97%) def. Tumosa (3%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Braswell (75%) def. Tumosa (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Braswell (96%) def. Tumosa (4%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Braswell (20.88) def. Tumosa (1.38)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Siem Woldeab (TEX) - 5-1 at #3, 9-7 in duals, 14-12 overall<br>Dominik Buzonics (NAU) - 4-3 at #3, 6-8 in duals, 6-8 overall</summary>
+<summary markdown="span">Dominik Buzonics (TEX) - 4-3 at #3, 6-8 in duals, 6-8 overall<br>Siem Woldeab (NAU) - 5-1 at #3, 9-7 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Woldeab (99%) def. Buzonics (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Woldeab (99%) def. Buzonics (1%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Woldeab (75%) def. Buzonics (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Woldeab (97%) def. Buzonics (3%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Woldeab (9.31) def. Buzonics (1.51)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Cleeve Harper (TEX) - 14-3 at #4, 17-5 in duals, 22-9 overall<br>Christopher Steele (NAU) - 3-0 at #4, 7-7 in duals, 7-7 overall</summary>
+<summary markdown="span">Christopher Steele (TEX) - 3-0 at #4, 7-7 in duals, 7-7 overall<br>Cleeve Harper (NAU) - 14-3 at #4, 17-5 in duals, 22-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Harper (98%) def. Steele (2%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Harper (99%) def. Steele (1%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Harper (75%) def. Steele (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Harper (98%) def. Steele (2%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Harper (5.83) def. Steele (2.01)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Chih Chi Huang (TEX) - 9-7 at #5, 11-8 in duals, 15-17 overall<br>Maciej Ziomber (NAU) - 5-2 at #5, 11-4 in duals, 11-4 overall</summary>
+<summary markdown="span">Maciej Ziomber (TEX) - 5-2 at #5, 11-4 in duals, 11-4 overall<br>Chih Chi Huang (NAU) - 9-7 at #5, 11-8 in duals, 15-17 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Huang (95%) def. Ziomber (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Huang (94%) def. Ziomber (6%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Huang (75%) def. Ziomber (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Huang (92%) def. Ziomber (8%)</li>  
 <li>ITA: <b><i>NAU</i></b> - Ziomber (2.68) def. Huang (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Evin McDonald (TEX) - 6-9 at #6, 11-10 in duals, 15-16 overall<br>Alexander Groves (NAU) - 3-0 at #6, 6-8 in duals, 6-8 overall</summary>
+<summary markdown="span">Alexander Groves (TEX) - 3-0 at #6, 6-8 in duals, 6-8 overall<br>Evin McDonald (NAU) - 6-9 at #6, 11-10 in duals, 15-16 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - McDonald (96%) def. Groves (4%)</li>  
 <li>TRN: <b><i>TEX</i></b> - McDonald (98%) def. Groves (2%)</li>  
 <li>Massey: <b><i>TEX</i></b> - McDonald (75%) def. Groves (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - McDonald (96%) def. Groves (4%)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Spizzirri/Woldeab (TEX) - 12-9 at #1, 12-9 in duals, 19-9 overall<br>Groves/Buzonics (NAU) - 3-2 at #1, 3-2 in duals, 3-2 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Groves/Buzonics (TEX) - 3-2 at #1, 3-2 in duals, 3-2 overall<br>Spizzirri/Woldeab (NAU) - 12-9 at #1, 12-9 in duals, 19-9 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Harper/Huang (TEX) - 5-4 at #2, 6-4 in duals, 10-7 overall<br>Tumosa/Straker-Meads (NAU) - 1-0 at #2, 1-0 in duals, 1-0 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Tumosa/Straker-Meads (TEX) - 1-0 at #2, 1-0 in duals, 1-0 overall<br>Harper/Huang (NAU) - 5-4 at #2, 6-4 in duals, 10-7 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Braswell/Holden (TEX) - 4-1 at #3, 4-1 in duals, 7-2 overall<br>Steele/Ziomber (NAU) - 3-0 at #3, 3-0 in duals, 3-0 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Steele/Ziomber (TEX) - 3-0 at #3, 3-0 in duals, 3-0 overall<br>Braswell/Holden (NAU) - 4-1 at #3, 4-1 in duals, 7-2 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>

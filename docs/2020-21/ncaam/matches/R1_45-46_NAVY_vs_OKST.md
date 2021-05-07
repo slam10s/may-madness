@@ -51,71 +51,79 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Matej Vocel (OKST) - 11-5 at #1, 11-5 in duals, 11-5 overall<br>Andrew Ton (NAVY) - 8-0 at #1, 8-0 in duals, 8-0 overall</summary>
+<summary markdown="span">Andrew Ton (OKST) - 8-0 at #1, 8-0 in duals, 8-0 overall<br>Matej Vocel (NAVY) - 11-5 at #1, 11-5 in duals, 11-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Vocel (92%) def. Ton (8%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Vocel (93%) def. Ton (7%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Vocel (75%) def. Ton (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Vocel (95%) def. Ton (5%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Vocel (20.98) def. Ton (4.17)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Henrik Korsgaard (OKST) - 3-2 at #2, 9-9 in duals, 9-9 overall<br>Derrick Thompson (NAVY) - 9-0 at #2, 9-0 in duals, 9-0 overall</summary>
+<summary markdown="span">Derrick Thompson (OKST) - 9-0 at #2, 9-0 in duals, 9-0 overall<br>Henrik Korsgaard (NAVY) - 3-2 at #2, 9-9 in duals, 9-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Korsgaard (80%) def. Thompson (20%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Korsgaard (84%) def. Thompson (16%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Korsgaard (75%) def. Thompson (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Korsgaard (85%) def. Thompson (15%)</li>  
 <li>ITA: <b><i>NAVY</i></b> - Thompson (4.17) def. Korsgaard (2.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Emile Hudd (OKST) - 5-2 at #3, 7-7 in duals, 9-9 overall<br>Jake Fishkin (NAVY) - 2-4 at #3, 2-4 in duals, 2-4 overall</summary>
+<summary markdown="span">Jake Fishkin (OKST) - 2-4 at #3, 2-4 in duals, 2-4 overall<br>Emile Hudd (NAVY) - 5-2 at #3, 7-7 in duals, 9-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Hudd (99%) def. Fishkin (1%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Hudd (99%) def. Fishkin (1%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Hudd (75%) def. Fishkin (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Hudd (98%) def. Fishkin (2%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Hudd (4.25) def. Fishkin (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mathieu Scaglia (OKST) - 4-5 at #4, 9-7 in duals, 9-8 overall<br>Finn Garner (NAVY) - 4-2 at #4, 4-2 in duals, 4-2 overall</summary>
+<summary markdown="span">Finn Garner (OKST) - 4-2 at #4, 4-2 in duals, 4-2 overall<br>Mathieu Scaglia (NAVY) - 4-5 at #4, 9-7 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Scaglia (75%) def. Garner (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Scaglia (2.10) def. Garner (1.69)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Etienne Donnet (OKST) - 3-4 at #5, 8-9 in duals, 9-14 overall<br>Gavin Segraves (NAVY) - 7-0 at #5, 8-0 in duals, 8-0 overall</summary>
+<summary markdown="span">Gavin Segraves (OKST) - 7-0 at #5, 8-0 in duals, 8-0 overall<br>Etienne Donnet (NAVY) - 3-4 at #5, 8-9 in duals, 9-14 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Donnet (87%) def. Segraves (13%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Donnet (88%) def. Segraves (12%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Donnet (75%) def. Segraves (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Donnet (89%) def. Segraves (11%)</li>  
 <li>ITA: <b><i>NAVY</i></b> - Segraves (4.17) def. Donnet (0.00)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Matisse Bobichon (OKST) - 4-4 at #6, 4-4 in duals, 4-4 overall<br>Jack McBride (NAVY) - 4-0 at #6, 5-0 in duals, 5-0 overall</summary>
+<summary markdown="span">Jack McBride (OKST) - 4-0 at #6, 5-0 in duals, 5-0 overall<br>Matisse Bobichon (NAVY) - 4-4 at #6, 4-4 in duals, 4-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Bobichon (81%) def. McBride (19%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Bobichon (67%) def. McBride (33%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Bobichon (75%) def. McBride (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Bobichon (93%) def. McBride (7%)</li>  
 <li>ITA: <b><i>NAVY</i></b> - McBride (2.91) def. Bobichon (1.32)</li>  
-</ul></details>&nbsp;</li>
+</ul>
+</details>&nbsp;</li>
 </ol>
-
 ### Doubles:  
 
 <ol>
 <li><details>
-<summary markdown="span">Hudd/Vocel (OKST) - 6-4 at #1, 6-4 in duals, 6-4 overall<br>Thompson/Ton (NAVY) - 0-0 at #1, 0-0 in duals, 0-0 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Thompson/Ton (OKST) - 0-0 at #1, 0-0 in duals, 0-0 overall<br>Hudd/Vocel (NAVY) - 6-4 at #1, 6-4 in duals, 6-4 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Korsgaard/Hammond (OKST) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Garner/Dabek (NAVY) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Garner/Dabek (OKST) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Korsgaard/Hammond (NAVY) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Donnet/Bobichon (OKST) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Segraves/Panyan (NAVY) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
-<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
+<summary markdown="span">Segraves/Panyan (OKST) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Donnet/Bobichon (NAVY) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
 </ol>
