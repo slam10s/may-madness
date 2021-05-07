@@ -1,6 +1,7 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
 Dan Magill Tennis Complex  
+Athens, Georgia  
 ## [ETSU vs #11 Georgia](https://www.ncaa.com/game/5833390)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png" width="70" height="70" /></td><td style="background-color: #DA291C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></td></tr><tr>

@@ -1,6 +1,7 @@
 Second Round  
 Saturday, May 8 at 3:00 EDT  
 George P. Mitchell Tennis Center  
+College Station, Texas  
 ## [Oklahoma vs #8 Texas A&M](https://www.ncaa.com/game/5833405)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></td></tr><tr>

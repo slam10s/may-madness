@@ -1,6 +1,7 @@
 First Round  
 Friday, May 7 at 10:00 EDT  
 Boone Tennis Complex  
+Lexington, Kentucky  
 ## [Michigan vs Arizona](https://www.ncaa.com/game/5833388)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></td><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></td></tr><tr>
@@ -36,6 +37,10 @@ Boone Tennis Complex
 
 
 <br>Return to [List of Matches](../index.md)  
+
+## Match Information  
+***Arizona def. Michigan 4-3***  
+Go to [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)  
 
 ## Predictions  
 

@@ -1,6 +1,7 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
 Palmer/Salloum Tennis Center  
+Oxford, Mississippi  
 ## [Middle Tenn. vs Tulane](https://www.ncaa.com/game/5833399)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005EB8 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></td><td style="background-color: #006747 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></td></tr><tr>

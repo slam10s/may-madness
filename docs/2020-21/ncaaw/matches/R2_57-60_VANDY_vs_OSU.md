@@ -1,6 +1,7 @@
 Second Round  
 Saturday, May 8 at 12:00 EDT  
 Varsity Tennis Center  
+Columbus, Ohio  
 ## [Vanderbilt vs #15 Ohio St.](https://www.ncaa.com/game/5833693)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></td></tr><tr>
