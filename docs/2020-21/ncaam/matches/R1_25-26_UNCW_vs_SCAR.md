@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [UNCW vs #13 South Carolina](https://www.ncaa.com/game/5833382) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">South Carolina</a></h2>  
+<h2>#1 South Carolina</h2>  
 &#10004; ITA: 13 (50.95)<br>  
 &#10004; Slam: 15 (96.20)<br>  
 &#10004; TRN: 15 (94.49)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">UNCW</a></h2>  
+<h2>#4 UNCW</h2>  
 &nbsp; ITA: 51 (7.93)<br>  
 &nbsp; Slam: 48 (88.87)<br>  
 &nbsp; TRN: 49 (86.19)<br>  

@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Mississippi St. vs Arizona St.](https://www.ncaa.com/game/5833677) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#2 <a href="#">Arizona St.</a></h2>  
+<h2>#2 Arizona St.</h2>  
 &#10004; ITA: 31 (26.09)<br>  
 &#10004; Slam: 31 (88.20)<br>  
 &#10004; TRN: 33 (79.83)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#3 <a href="#">Mississippi St.</a></h2>  
+<h2>#3 Mississippi St.</h2>  
 &nbsp; ITA: 38 (19.84)<br>  
 &nbsp; Slam: 42 (86.60)<br>  
 &nbsp; TRN: 39 (78.82)<br>  

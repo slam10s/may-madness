@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## [New Mexico vs #8 Texas A&M](https://www.ncaa.com/game/5833377) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">Texas A&M</a></h2>  
+<h2>#1 Texas A&M</h2>  
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 11 (96.97)<br>  
 &#10004; TRN: 11 (95.89)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 3:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">New Mexico</a></h2>  
+<h2>#4 New Mexico</h2>  
 &nbsp; ITA: 52 (7.44)<br>  
 &nbsp; Slam: 53 (87.22)<br>  
 &nbsp; TRN: 54 (83.45)<br>  

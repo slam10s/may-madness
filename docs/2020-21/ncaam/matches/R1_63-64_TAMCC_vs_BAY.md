@@ -2,10 +2,10 @@ First Round
 Saturday, May 8 at 3:00 EDT
 ## [A&M-Corpus Christi vs #2 Baylor](https://www.ncaa.com/game/5833401) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">Baylor</a></h2>  
+<h2>#1 Baylor</h2>  
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 5 (99.05)<br>  
 &#10004; TRN: 6 (98.67)<br>  
@@ -18,7 +18,7 @@ Saturday, May 8 at 3:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">A&M-Corpus Christi</a></h2>  
+<h2>#4 A&M-Corpus Christi</h2>  
 &nbsp; ITA: 60 (2.97)<br>  
 &nbsp; Slam: 60 (82.18)<br>  
 &nbsp; TRN: 61 (76.91)<br>  

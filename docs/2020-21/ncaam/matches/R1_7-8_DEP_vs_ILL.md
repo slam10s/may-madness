@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 5:00 EDT
 ## [DePaul vs #16 Illinois](https://www.ncaa.com/game/5833373) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">Illinois</a></h2>  
+<h2>#1 Illinois</h2>  
 &#10004; ITA: 18 (36.82)<br>  
 &#10004; Slam: 6 (98.81)<br>  
 &#10004; TRN: 4 (98.96)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 5:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">DePaul</a></h2>  
+<h2>#4 DePaul</h2>  
 &nbsp; ITA: 55 (5.64)<br>  
 &nbsp; Slam: 55 (85.74)<br>  
 &nbsp; TRN: 55 (82.45)<br>  

@@ -2,10 +2,10 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## [Fairleigh Dickinson vs #5 Virginia](https://www.ncaa.com/game/5833378) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">Virginia</a></h2>  
+<h2>#1 Virginia</h2>  
 &#10004; ITA: 4 (74.36)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
@@ -18,7 +18,7 @@ Saturday, May 8 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">Fairleigh Dickinson</a></h2>  
+<h2>#4 Fairleigh Dickinson</h2>  
 &nbsp; ITA: 62 (1.95)<br>  
 &nbsp; Slam: 65 (72.33)<br>  
 &nbsp; TRN: 65 (65.17)<br>  

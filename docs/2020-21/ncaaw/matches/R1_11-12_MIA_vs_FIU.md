@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 12:00 EDT
 ## [Miami (FL) vs FIU](https://www.ncaa.com/game/5833652) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fiu.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fiu.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 <a href="#">FIU</a></h2>  
+<h2>#3 FIU</h2>  
 &nbsp; ITA: 41 (18.12)<br>  
 &nbsp; Slam: 30 (88.35)<br>  
 &nbsp; TRN: 29 (81.34)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 12:00 EDT
 </td>
 <td>  
 
-<h2>#2 <a href="#">Miami (FL)</a></h2>  
+<h2>#2 Miami (FL)</h2>  
 &#10004; ITA: 24 (38.72)<br>  
 &#10004; Slam: 22 (90.21)<br>  
 &#10004; TRN: 21 (82.31)<br>  

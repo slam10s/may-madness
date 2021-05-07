@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Auburn vs Oklahoma St.](https://www.ncaa.com/game/5833672) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 <a href="#">Oklahoma St.</a></h2>  
+<h2>#3 Oklahoma St.</h2>  
 &nbsp; ITA: 37 (20.71)<br>  
 &nbsp; Slam: 37 (87.45)<br>  
 &nbsp; TRN: 37 (79.03)<br>  
@@ -17,7 +17,7 @@ Friday, May 7 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#2 <a href="#">Auburn</a></h2>  
+<h2>#2 Auburn</h2>  
 &#10004; ITA: 20 (41.17)<br>  
 &#10004; Slam: 24 (89.44)<br>  
 &#10004; TRN: 23 (81.74)<br>  

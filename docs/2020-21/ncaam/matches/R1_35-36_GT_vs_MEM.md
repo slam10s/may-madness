@@ -2,10 +2,10 @@ First Round
 Saturday, May 8 at 10:00 EDT
 ## [Georgia Tech vs Memphis](https://www.ncaa.com/game/5833387) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/memphis.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/memphis.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 <a href="#">Memphis</a></h2>  
+<h2>#3 Memphis</h2>  
 &nbsp; ITA: 38 (22.19)<br>  
 &nbsp; Slam: 41 (91.89)<br>  
 &nbsp; TRN: 40 (89.86)<br>  
@@ -17,7 +17,7 @@ Saturday, May 8 at 10:00 EDT
 </td>
 <td>  
 
-<h2>#2 <a href="#">Georgia Tech</a></h2>  
+<h2>#2 Georgia Tech</h2>  
 &#10004; ITA: 30 (27.75)<br>  
 &#10004; Slam: 27 (93.36)<br>  
 &#10004; TRN: 33 (90.89)<br>  

@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## [San Jose St. vs #16 California](https://www.ncaa.com/game/5833650) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">California</a></h2>  
+<h2>#1 California</h2>  
 &#10004; ITA: 16 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
 &#10004; TRN: 17 (82.99)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 4:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">San Jose St.</a></h2>  
+<h2>#4 San Jose St.</h2>  
 &nbsp; ITA: 47 (8.04)<br>  
 &nbsp; Slam: 50 (80.34)<br>  
 &nbsp; TRN: 49 (73.09)<br>  

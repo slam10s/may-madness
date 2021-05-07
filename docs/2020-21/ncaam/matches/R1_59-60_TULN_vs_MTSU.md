@@ -2,10 +2,10 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## [Tulane vs Middle Tenn.](https://www.ncaa.com/game/5833399) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 <a href="#">Middle Tenn.</a></h2>  
+<h2>#3 Middle Tenn.</h2>  
 &nbsp; ITA: 42 (18.52)<br>  
 &nbsp; Slam: 45 (91.28)<br>  
 &nbsp; TRN: 45 (89.05)<br>  
@@ -17,7 +17,7 @@ Saturday, May 8 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#2 <a href="#">Tulane</a></h2>  
+<h2>#2 Tulane</h2>  
 &#10004; ITA: 22 (33.07)<br>  
 &#10004; Slam: 26 (93.53)<br>  
 &#10004; TRN: 26 (91.45)<br>  

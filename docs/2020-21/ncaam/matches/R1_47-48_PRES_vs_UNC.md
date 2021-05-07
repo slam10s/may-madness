@@ -2,10 +2,10 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## [Presbyterian vs #6 North Carolina](https://www.ncaa.com/game/5833393) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">North Carolina</a></h2>  
+<h2>#1 North Carolina</h2>  
 &#10004; ITA: 6 (72.02)<br>  
 &#10004; Slam: 3 (99.37)<br>  
 &#10004; TRN: 2 (99.37)<br>  
@@ -18,7 +18,7 @@ Saturday, May 8 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">Presbyterian</a></h2>  
+<h2>#4 Presbyterian</h2>  
 &nbsp; ITA: 59 (3.97)<br>  
 &nbsp; Slam: 59 (82.26)<br>  
 &nbsp; TRN: 59 (77.90)<br>  

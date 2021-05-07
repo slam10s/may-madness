@@ -2,10 +2,10 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## [South Alabama vs #1 Florida](https://www.ncaa.com/game/5833370) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">Florida</a></h2>  
+<h2>#1 Florida</h2>  
 &#10004; ITA: 2 (81.08)<br>  
 &#10004; Slam: 2 (99.77)<br>  
 &#10004; TRN: 3 (99.10)<br>  
@@ -18,7 +18,7 @@ Saturday, May 8 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">South Alabama</a></h2>  
+<h2>#4 South Alabama</h2>  
 &nbsp; ITA: 53 (6.83)<br>  
 &nbsp; Slam: 50 (87.64)<br>  
 &nbsp; TRN: 52 (84.26)<br>  

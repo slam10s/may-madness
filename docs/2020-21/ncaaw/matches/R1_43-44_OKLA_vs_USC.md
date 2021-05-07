@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## [Oklahoma vs Southern California](https://www.ncaa.com/game/5833668) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 <a href="#">Southern California</a></h2>  
+<h2>#3 Southern California</h2>  
 &nbsp; ITA: 35 (23.17)<br>  
 &nbsp; Slam: 35 (87.72)<br>  
 &nbsp; TRN: 41 (78.74)<br>  
@@ -17,7 +17,7 @@ Friday, May 7 at 10:00 EDT
 </td>
 <td>  
 
-<h2>#2 <a href="#">Oklahoma</a></h2>  
+<h2>#2 Oklahoma</h2>  
 &#10004; ITA: 23 (39.04)<br>  
 &#10004; Slam: 13 (91.06)<br>  
 &#10004; TRN: 22 (82.23)<br>  

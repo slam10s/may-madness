@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## [Charleston So. vs #9 UCF](https://www.ncaa.com/game/5833651) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">UCF</a></h2>  
+<h2>#1 UCF</h2>  
 &#10004; ITA: 9 (52.14)<br>  
 &#10004; Slam: 12 (91.41)<br>  
 &#10004; TRN: 12 (83.85)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 3:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">Charleston So.</a></h2>  
+<h2>#4 Charleston So.</h2>  
 &nbsp; ITA: 58 (2.77)<br>  
 &nbsp; Slam: 60 (75.63)<br>  
 &nbsp; TRN: 57 (65.77)<br>  

@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## [Alabama St. vs #7 Florida St.](https://www.ncaa.com/game/5833671) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">Florida St.</a></h2>  
+<h2>#1 Florida St.</h2>  
 &#10004; ITA: 7 (55.15)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 4:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">Alabama St.</a></h2>  
+<h2>#4 Alabama St.</h2>  
 &nbsp; ITA: 61 (2.29)<br>  
 &nbsp; Slam: 63 (69.75)<br>  
 &nbsp; TRN: 62 (58.32)<br>  

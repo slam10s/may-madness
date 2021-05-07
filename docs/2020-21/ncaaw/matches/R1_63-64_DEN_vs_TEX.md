@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 4:00 EDT
 ## [Denver vs #2 Texas](https://www.ncaa.com/game/5833678) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">Texas</a></h2>  
+<h2>#1 Texas</h2>  
 &#10004; ITA: 2 (79.19)<br>  
 &#10004; Slam: 2 (98.44)<br>  
 &#10004; TRN: 2 (97.97)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 4:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">Denver</a></h2>  
+<h2>#4 Denver</h2>  
 &nbsp; ITA: 45 (11.66)<br>  
 &nbsp; Slam: 45 (84.92)<br>  
 &nbsp; TRN: 45 (76.03)<br>  

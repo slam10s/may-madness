@@ -2,10 +2,10 @@ First Round
 Saturday, May 8 at 1:00 EDT
 ## [ETSU vs #11 Georgia](https://www.ncaa.com/game/5833390) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">Georgia</a></h2>  
+<h2>#1 Georgia</h2>  
 &#10004; ITA: 11 (54.81)<br>  
 &#10004; Slam: 16 (96.08)<br>  
 &#10004; TRN: 14 (94.91)<br>  
@@ -18,7 +18,7 @@ Saturday, May 8 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">ETSU</a></h2>  
+<h2>#4 ETSU</h2>  
 &nbsp; ITA: 49 (7.97)<br>  
 &nbsp; Slam: 52 (87.30)<br>  
 &nbsp; TRN: 53 (84.02)<br>  

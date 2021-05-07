@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Stanford vs UC Santa Barbara](https://www.ncaa.com/game/5833656) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 <a href="#">UC Santa Barbara</a></h2>  
+<h2>#3 UC Santa Barbara</h2>  
 &nbsp; ITA: 44 (14.68)<br>  
 &nbsp; Slam: 39 (87.38)<br>  
 &nbsp; TRN: 40 (78.81)<br>  
@@ -16,7 +16,7 @@ Friday, May 7 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#2 <a href="#">Stanford</a></h2>  
+<h2>#2 Stanford</h2>  
 &#10004; ITA: 28 (35.11)<br>  
 &#10004; Slam: 23 (90.02)<br>  
 &#10004; TRN: 24 (81.66)<br>  

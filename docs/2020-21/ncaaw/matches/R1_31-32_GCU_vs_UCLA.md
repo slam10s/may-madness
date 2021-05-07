@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Grand Canyon vs #4 UCLA](https://www.ncaa.com/game/5833662) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">UCLA</a></h2>  
+<h2>#1 UCLA</h2>  
 &#10004; ITA: 4 (61.84)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">Grand Canyon</a></h2>  
+<h2>#4 Grand Canyon</h2>  
 &nbsp; ITA: 62 (1.99)<br>  
 &nbsp; Slam: 59 (75.93)<br>  
 &nbsp; TRN: 60 (64.13)<br>  

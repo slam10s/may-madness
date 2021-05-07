@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 1:00 EDT
 ## [Siena vs #11 Florida](https://www.ncaa.com/game/5833667) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">Florida</a></h2>  
+<h2>#1 Florida</h2>  
 &#10004; ITA: 11 (49.18)<br>  
 &#10004; Slam: 16 (90.47)<br>  
 &#10004; TRN: 20 (82.70)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 1:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">Siena</a></h2>  
+<h2>#4 Siena</h2>  
 &nbsp; ITA: 60 (2.41)<br>  
 &nbsp; Slam: 64 (65.57)<br>  
 &nbsp; TRN: 64 (50.23)<br>  

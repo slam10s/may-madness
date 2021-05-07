@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 3:00 EDT
 ## [VCU vs #6 NC State](https://www.ncaa.com/game/5833670) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">NC State</a></h2>  
+<h2>#1 NC State</h2>  
 &#10004; ITA: 6 (55.66)<br>  
 &#10004; Slam: 11 (91.65)<br>  
 &#10004; TRN: 10 (84.27)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 3:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">VCU</a></h2>  
+<h2>#4 VCU</h2>  
 &nbsp; ITA: 49 (6.76)<br>  
 &nbsp; Slam: 48 (82.19)<br>  
 &nbsp; TRN: 48 (73.53)<br>  

@@ -2,10 +2,10 @@ First Round
 Saturday, May 8 at 2:00 EDT
 ## [Monmouth vs #9 UCF](https://www.ncaa.com/game/5833374) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#1 <a href="#">UCF</a></h2>  
+<h2>#1 UCF</h2>  
 &#10004; ITA: 10 (54.95)<br>  
 &#10004; Slam: 12 (96.59)<br>  
 &#10004; TRN: 13 (95.63)<br>  
@@ -18,7 +18,7 @@ Saturday, May 8 at 2:00 EDT
 </td>
 <td>  
 
-<h2>#4 <a href="#">Monmouth</a></h2>  
+<h2>#4 Monmouth</h2>  
 &nbsp; ITA: 58 (4.41)<br>  
 &nbsp; Slam: 61 (82.18)<br>  
 &nbsp; TRN: 57 (79.79)<br>  

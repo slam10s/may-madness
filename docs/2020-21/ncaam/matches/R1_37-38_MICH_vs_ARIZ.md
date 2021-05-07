@@ -2,10 +2,10 @@ First Round
 Friday, May 7 at 10:00 EDT
 ## [Michigan vs Arizona](https://www.ncaa.com/game/5833388) 
 
-<table><tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></a></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#2 <a href="#">Arizona</a></h2>  
+<h2>#2 Arizona</h2>  
 &#10004; ITA: 17 (38.97)<br>  
 &nbsp; Slam: 21 (94.26)<br>  
 &nbsp; TRN: 20 (92.43)<br>  
@@ -18,7 +18,7 @@ Friday, May 7 at 10:00 EDT
 </td>
 <td>  
 
-<h2>#3 <a href="#">Michigan</a></h2>  
+<h2>#3 Michigan</h2>  
 &nbsp; ITA: 46 (15.17)<br>  
 &#10004; Slam: 13 (96.42)<br>  
 &#10004; TRN: 12 (95.88)<br>  
