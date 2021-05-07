@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***BAY*** - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)  
 - Massey: ***BAY*** - #5 Baylor (75%) def. #58 A&M-Corpus Christi (25%)  
 - Lineup: ***BAY*** - Baylor (100%) def. A&M-Corpus Christi (0%)  
-- Composite: ***BAY*** - Baylor (91%) def. A&M-Corpus Christi (9%)  
+- Composite: ***BAY*** - Baylor (92%) def. A&M-Corpus Christi (8%)  
 - UTR: ***BAY*** - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)  
 - ITA: ***BAY*** - #1 Baylor def. #60 A&M-Corpus Christi  
 - USTA Poll: ***BAY*** - #3 Baylor def. A&M-Corpus Christi  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Soto (99%) def. Ata (1%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Soto (75%) def. Ata (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Soto (98%) def. Ata (2%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Soto (92%) def. Ata (8%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Soto (93%) def. Ata (7%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Soto (41.70) def. Ata (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Lah (96%) def. Schwartz (4%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Lah (75%) def. Schwartz (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Lah (94%) def. Schwartz (6%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Lah (89%) def. Schwartz (11%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Lah (90%) def. Schwartz (10%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Lah (4.25) def. Schwartz (2.22)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Stachowiak (97%) def. Loriel (3%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Stachowiak (75%) def. Loriel (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Stachowiak (95%) def. Loriel (5%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Stachowiak (90%) def. Loriel (10%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Stachowiak (91%) def. Loriel (9%)</li>  
 <li>ITA: <b><i>TAMCC</i></b> - Loriel (3.69) def. Stachowiak (3.38)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Broom (75%) def. Delgado (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Broom (92%) def. Delgado (8%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Broom (93%) def. Delgado (7%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Broom (3.72) def. Delgado (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAY</i></b> - Furman (99%) def. Castaneda (1%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Furman (75%) def. Castaneda (25%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Furman (94%) def. Castaneda (6%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Furman (91%) def. Castaneda (9%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Furman (92%) def. Castaneda (8%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Furman (4.24) def. Castaneda (3.54)</li>  
 </ul>
 </details>&nbsp;</li>

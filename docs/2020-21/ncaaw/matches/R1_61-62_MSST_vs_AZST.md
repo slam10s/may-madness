@@ -39,8 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***AZST*** - #31 Arizona St. (71%) def. #42 Mississippi St. (29%)  
 - TRN: ***AZST*** - #33 Arizona St. (64%) def. #39 Mississippi St. (36%)  
 - Massey: ***AZST*** - #24 Arizona St. (75%) def. #44 Mississippi St. (25%)  
-- Lineup: ***AZST*** - Arizona St. (82%) def. Mississippi St. (18%)  
-- Composite: ***AZST*** - Arizona St. (61%) def. Mississippi St. (39%)  
+- Lineup: ***AZST*** - Arizona St. (84%) def. Mississippi St. (16%)  
+- Composite: ***AZST*** - Arizona St. (63%) def. Mississippi St. (37%)  
 - UTR: ***AZST*** - #23 Arizona St. (+1.75) def. #36 Mississippi St. (-1.75)  
 - ITA: ***AZST*** - #31 Arizona St. def. #38 Mississippi St.  
 - USTA Poll: ***AZST*** - RV Arizona St. def. Mississippi St.  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Antonaki (61%) def. Hattingh (39%)</li>  
 <li>Massey: <b><i>MSST</i></b> - Antonaki (75%) def. Hattingh (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Antonaki (59%) def. Hattingh (41%)</li>  
-<li>Composite: <b><i>MSST</i></b> - Antonaki (59%) def. Hattingh (41%)</li>  
+<li>Composite: <b><i>MSST</i></b> - Antonaki (57%) def. Hattingh (43%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Antonaki (17.81) def. Hattingh (6.86)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AZST</i></b> - Hampton (53%) def. Adaloglou (47%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Hampton (75%) def. Adaloglou (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Adaloglou (54%) def. Hampton (46%)</li>  
-<li>Composite: <b><i>AZST</i></b> - Hampton (58%) def. Adaloglou (42%)</li>  
+<li>Composite: <b><i>AZST</i></b> - Hampton (59%) def. Adaloglou (41%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Adaloglou (3.24) def. Hampton (1.50)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -94,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>AZST</i></b> - Morlet (67%) def. Mikhailuk (33%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Morlet (75%) def. Mikhailuk (25%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Morlet (82%) def. Mikhailuk (18%)</li>  
-<li>Composite: <b><i>AZST</i></b> - Morlet (72%) def. Mikhailuk (28%)</li>  
+<li>Composite: <b><i>AZST</i></b> - Morlet (73%) def. Mikhailuk (27%)</li>  
 <li>ITA: <b><i>AZST</i></b> - Morlet (2.20) def. Mikhailuk (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -116,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Cirotte (55%) def. Turkovic (45%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Turkovic (75%) def. Cirotte (25%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Turkovic (56%) def. Cirotte (44%)</li>  
-<li>Composite: <b><i>AZST</i></b> - Turkovic (55%) def. Cirotte (45%)</li>  
+<li>Composite: <b><i>AZST</i></b> - Turkovic (56%) def. Cirotte (44%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Cirotte (2.24) def. Turkovic (1.94)</li>  
 </ul>
 </details>&nbsp;</li>

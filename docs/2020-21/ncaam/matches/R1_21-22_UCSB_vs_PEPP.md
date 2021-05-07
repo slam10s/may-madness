@@ -38,8 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***PEPP*** - #34 Pepperdine (95%) def. #51 UC Santa Barbara (5%)  
 - TRN: ***PEPP*** - #30 Pepperdine (98%) def. #51 UC Santa Barbara (2%)  
 - Massey: ***PEPP*** - #22 Pepperdine (75%) def. #52 UC Santa Barbara (25%)  
-- Lineup: ***PEPP*** - Pepperdine (96%) def. UC Santa Barbara (4%)  
-- Composite: ***PEPP*** - Pepperdine (65%) def. UC Santa Barbara (35%)  
+- Lineup: ***PEPP*** - Pepperdine (95%) def. UC Santa Barbara (5%)  
+- Composite: ***PEPP*** - Pepperdine (72%) def. UC Santa Barbara (28%)  
 - UTR: ***PEPP*** - #26 Pepperdine (+3.39) def. #47 UC Santa Barbara (-3.39)  
 - ITA: ***PEPP*** - #28 Pepperdine def. #54 UC Santa Barbara  
 - USTA Poll: ***PEPP*** - #24 Pepperdine def. UC Santa Barbara  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCSB</i></b> - Guillin (83%) def. Oetzbach (17%)</li>  
 <li>Massey: <b><i>UCSB</i></b> - Guillin (75%) def. Oetzbach (25%)</li>  
 <li>UTR: <b><i>UCSB</i></b> - Guillin (75%) def. Oetzbach (25%)</li>  
-<li>Composite: <b><i>UCSB</i></b> - Guillin (78%) def. Oetzbach (22%)</li>  
+<li>Composite: <b><i>UCSB</i></b> - Guillin (77%) def. Oetzbach (23%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Oetzbach (5.20) def. Guillin (3.96)</li>  
 </ul>
 </details>&nbsp;</li>

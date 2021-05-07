@@ -40,8 +40,8 @@ Predictions:
   SLM: "SCAR - #27 South Carolina (81%) def. #41 Iowa St. (19%)"
   TRN: "SCAR - #28 South Carolina (84%) def. #42 Iowa St. (16%)"
   MAS: "SCAR - #27 South Carolina (75%) def. #39 Iowa St. (25%)"
-  LNUP: SCAR - South Carolina (83%) def. Iowa St. (17%)
-  AVG: SCAR - South Carolina (57%) def. Iowa St. (43%)
+  LNUP: SCAR - South Carolina (86%) def. Iowa St. (14%)
+  AVG: SCAR - South Carolina (63%) def. Iowa St. (37%)
   UTR: "SCAR - #29 South Carolina (+2.24) def. #39 Iowa St. (-2.24)"
   ITA: "SCAR - #22 South Carolina def. #36 Iowa St."
   USTA: SCAR - RV South Carolina def. Iowa St.
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "SCAR - #2 South Carolina def. #3 Iowa St."
 Lineups:
   Predictions:
-    Average EWPs for SCAR: 81%,82%,50%,85%,46%,28%
-    Average EWPs for ISU: 19%,18%,50%,15%,54%,72%
-    SCAR wins 4 or more Singles points: 59%
-    ISU wins 4 or more Singles points: 12%
-    Winner decided by the Doubles point: 29%
+    Average EWPs for SCAR: 81%,82%,53%,85%,50%,28%
+    Average EWPs for ISU: 19%,18%,47%,15%,50%,72%
+    SCAR wins 4 or more Singles points: 63%
+    ISU wins 4 or more Singles points: 10%
+    Winner decided by the Doubles point: 27%
   Singles:
     - Position: 1
       SCAR: Mia Horvit - 9-7 at 1, 9-7 in duals, 11-9 overall
@@ -83,6 +83,7 @@ Lineups:
         TRN: SCAR - Shelton (58%) def. Kadleckova (42%)
         MAS: ISU - Kadleckova (75%) def. Shelton (25%)
         UTR: SCAR - Shelton (65%) def. Kadleckova (35%)
+        AVG: SCAR - Shelton (53%) def. Kadleckova (47%)
         ITA: SCAR - Shelton (6.55) def. Kadleckova (2.94)
     - Position: 4
       SCAR: Silvia Chinellato - 7-6 at 4, 10-9 in duals, 12-12 overall
@@ -102,7 +103,7 @@ Lineups:
         TRN: ISU - Kezuka (53%) def. Gretkowski (47%)
         MAS: ISU - Kezuka (75%) def. Gretkowski (25%)
         UTR: SCAR - Gretkowski (80%) def. Kezuka (20%)
-        AVG: ISU - Kezuka (54%) def. Gretkowski (46%)
+        AVG: ISU - Kezuka (51%) def. Gretkowski (49%)
     - Position: 6
       SCAR: Ana Cruz - 4-4 at 6, 5-6 in duals, 5-6 overall
       ISU: Sofia Cabezas - 9-3 at 6, 13-4 in duals, 13-4 overall

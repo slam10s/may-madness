@@ -38,7 +38,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***SCAR*** - #15 South Carolina (98%) def. #48 UNCW (2%)  
 - TRN: ***SCAR*** - #15 South Carolina (99%) def. #49 UNCW (1%)  
 - Massey: ***SCAR*** - #16 South Carolina (75%) def. #49 UNCW (25%)  
-- Lineup: ***SCAR*** - South Carolina (98%) def. UNCW (2%)  
+- Lineup: ***SCAR*** - South Carolina (100%) def. UNCW (0%)  
 - Composite: ***SCAR*** - South Carolina (88%) def. UNCW (12%)  
 - UTR: ***SCAR*** - #17 South Carolina (+4.69) def. #48 UNCW (-4.69)  
 - ITA: ***SCAR*** - #13 South Carolina def. #51 UNCW  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>SCAR</i></b> - Lambling (93%) def. Rasamatov (7%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Lambling (75%) def. Rasamatov (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Lambling (92%) def. Rasamatov (8%)</li>  
-<li>Composite: <b><i>SCAR</i></b> - Lambling (88%) def. Rasamatov (12%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Lambling (89%) def. Rasamatov (11%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Lambling (15.34) def. Rasamatov (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>SCAR</i></b> - Brown (93%) def. Copeland (7%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Brown (75%) def. Copeland (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Brown (90%) def. Copeland (10%)</li>  
-<li>Composite: <b><i>SCAR</i></b> - Brown (86%) def. Copeland (14%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Brown (87%) def. Copeland (13%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Brown (2.19) def. Copeland (1.97)</li>  
 </ul>
 </details>&nbsp;</li>

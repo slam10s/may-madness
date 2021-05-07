@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***STAN*** - #24 Stanford (83%) def. #40 UC Santa Barbara (17%)  
 - Massey: ***STAN*** - #15 Stanford (75%) def. #40 UC Santa Barbara (25%)  
 - Lineup: ***STAN*** - Stanford (98%) def. UC Santa Barbara (2%)  
-- Composite: ***STAN*** - Stanford (77%) def. UC Santa Barbara (23%)  
+- Composite: ***STAN*** - Stanford (81%) def. UC Santa Barbara (19%)  
 - UTR: ***STAN*** - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)  
 - ITA: ***STAN*** - #28 Stanford def. #44 UC Santa Barbara  
 - USTA Poll: ***STAN*** - #18 Stanford def. UC Santa Barbara  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>STAN</i></b> - Gordon (76%) def. Volodko (24%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Gordon (75%) def. Volodko (25%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Gordon (87%) def. Volodko (13%)</li>  
-<li>Composite: <b><i>STAN</i></b> - Gordon (78%) def. Volodko (22%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Gordon (79%) def. Volodko (21%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Gordon (17.68) def. Volodko (4.21)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCSB</i></b> - Khatamova (73%) def. Arbuthnott (27%)</li>  
 <li>Massey: <b><i>UCSB</i></b> - Khatamova (75%) def. Arbuthnott (25%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Arbuthnott (80%) def. Khatamova (20%)</li>  
-<li>Composite: <b><i>UCSB</i></b> - Khatamova (58%) def. Arbuthnott (42%)</li>  
+<li>Composite: <b><i>UCSB</i></b> - Khatamova (52%) def. Arbuthnott (48%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Khatamova (6.05) def. Arbuthnott (1.89)</li>  
 </ul>
 </details>&nbsp;</li>

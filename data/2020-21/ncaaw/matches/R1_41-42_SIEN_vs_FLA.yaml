@@ -40,7 +40,7 @@ Predictions:
   TRN: "FLA - #20 Florida (99%) def. #64 Siena (1%)"
   MAS: "FLA - #21 Florida (75%) def. #64 Siena (25%)"
   LNUP: FLA - Florida (100%) def. Siena (0%)
-  AVG: FLA - Florida (92%) def. Siena (8%)
+  AVG: FLA - Florida (93%) def. Siena (7%)
   UTR: "FLA - #11 Florida (+16.27) def. #62 Siena (-16.27)"
   ITA: "FLA - #11 Florida def. #60 Siena"
   USTA: "FLA - #20 Florida def. Siena"
@@ -48,11 +48,11 @@ Predictions:
   Seeding: "FLA - #1 Florida def. #4 Siena"
 Lineups:
   Predictions:
-    Average EWPs for FLA: 92%,92%,92%,93%,92%,92%
-    Average EWPs for SIEN: 8%,8%,8%,7%,8%,8%
-    FLA wins 4 or more Singles points: 99%
+    Average EWPs for FLA: 93%,93%,93%,93%,93%,93%
+    Average EWPs for SIEN: 7%,7%,7%,7%,7%,7%
+    FLA wins 4 or more Singles points: 100%
     SIEN wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 1%
+    Winner decided by the Doubles point: 0%
   Singles:
     - Position: 1
       FLA: McCartney Kessler - 13-2 at 1, 13-2 in duals, 16-2 overall
@@ -62,7 +62,7 @@ Lineups:
         TRN: FLA - Kessler (99%) def. Brown (1%)
         MAS: FLA - Kessler (75%) def. Brown (25%)
         UTR: FLA - Kessler (99%) def. Brown (1%)
-        AVG: FLA - Kessler (92%) def. Brown (8%)
+        AVG: FLA - Kessler (93%) def. Brown (7%)
         ITA: FLA - Kessler (45.58) def. Brown (2.61)
     - Position: 2
       FLA: Marlee Zein - 6-5 at 2, 8-5 in duals, 10-8 overall
@@ -72,7 +72,7 @@ Lineups:
         TRN: FLA - Zein (99%) def. Mullaney (1%)
         MAS: FLA - Zein (75%) def. Mullaney (25%)
         UTR: FLA - Zein (99%) def. Mullaney (1%)
-        AVG: FLA - Zein (92%) def. Mullaney (8%)
+        AVG: FLA - Zein (93%) def. Mullaney (7%)
         ITA: FLA - Zein (8.25) def. Mullaney (0.00)
     - Position: 3
       FLA: Ida Jarlskog - 6-2 at 3, 8-4 in duals, 8-4 overall
@@ -82,7 +82,7 @@ Lineups:
         TRN: FLA - Jarlskog (99%) def. Miszczak (1%)
         MAS: FLA - Jarlskog (75%) def. Miszczak (25%)
         UTR: FLA - Jarlskog (99%) def. Miszczak (1%)
-        AVG: FLA - Jarlskog (92%) def. Miszczak (8%)
+        AVG: FLA - Jarlskog (93%) def. Miszczak (7%)
         ITA: FLA - Jarlskog (5.66) def. Miszczak (0.00)
     - Position: 4
       FLA: Layne Sleeth - 7-0 at 4, 9-1 in duals, 9-1 overall
@@ -102,7 +102,7 @@ Lineups:
         TRN: FLA - Dahlstrom (99%) def. Boggiali (1%)
         MAS: FLA - Dahlstrom (75%) def. Boggiali (25%)
         UTR: FLA - Dahlstrom (99%) def. Boggiali (1%)
-        AVG: FLA - Dahlstrom (92%) def. Boggiali (8%)
+        AVG: FLA - Dahlstrom (93%) def. Boggiali (7%)
         ITA: FLA - Dahlstrom (3.40) def. Boggiali (2.28)
     - Position: 6
       FLA: Sydney Berlin - 6-3 at 6, 11-4 in duals, 16-5 overall
@@ -112,7 +112,7 @@ Lineups:
         TRN: FLA - Berlin (99%) def. Koniaev (1%)
         MAS: FLA - Berlin (75%) def. Koniaev (25%)
         UTR: FLA - Berlin (99%) def. Koniaev (1%)
-        AVG: FLA - Berlin (92%) def. Koniaev (8%)
+        AVG: FLA - Berlin (93%) def. Koniaev (7%)
         ITA: SIEN - Koniaev (2.56) def. Berlin (2.47)
   Doubles:
     - Position: 1

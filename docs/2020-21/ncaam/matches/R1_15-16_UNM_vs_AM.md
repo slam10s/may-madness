@@ -38,8 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***A&M*** - #11 Texas A&M (99%) def. #53 New Mexico (1%)  
 - TRN: ***A&M*** - #11 Texas A&M (99%) def. #54 New Mexico (1%)  
 - Massey: ***A&M*** - #12 Texas A&M (75%) def. #48 New Mexico (25%)  
-- Lineup: ***A&M*** - Texas A&M (100%) def. New Mexico (0%)  
-- Composite: ***A&M*** - Texas A&M (89%) def. New Mexico (11%)  
+- Lineup: ***A&M*** - Texas A&M (98%) def. New Mexico (2%)  
+- Composite: ***A&M*** - Texas A&M (90%) def. New Mexico (10%)  
 - UTR: ***A&M*** - #8 Texas A&M (+5.97) def. #51 New Mexico (-5.97)  
 - ITA: ***A&M*** - #8 Texas A&M def. #52 New Mexico  
 - USTA Poll: ***A&M*** - #14 Texas A&M def. New Mexico  
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Rollins (98%) def. Trondson (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Rollins (75%) def. Trondson (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Rollins (95%) def. Trondson (5%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Rollins (90%) def. Trondson (10%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Rollins (91%) def. Trondson (9%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Rollins (5.08) def. Trondson (2.42)</li>  
 </ul>
 </details>&nbsp;</li>

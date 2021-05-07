@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NCST</i></b> - Barkai (77%) def. Ramirez (23%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Barkai (75%) def. Ramirez (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Barkai (85%) def. Ramirez (15%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Barkai (78%) def. Ramirez (22%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Barkai (79%) def. Ramirez (21%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Barkai (2.33) def. Ramirez (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

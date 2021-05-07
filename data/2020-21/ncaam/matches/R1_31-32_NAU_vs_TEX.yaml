@@ -40,7 +40,7 @@ Predictions:
   TRN: "TEX - #7 Texas (99%) def. #60 Northern Ariz. (1%)"
   MAS: "TEX - #11 Texas (75%) def. #59 Northern Ariz. (25%)"
   LNUP: TEX - Texas (100%) def. Northern Ariz. (0%)
-  AVG: TEX - Texas (90%) def. Northern Ariz. (10%)
+  AVG: TEX - Texas (91%) def. Northern Ariz. (9%)
   UTR: "TEX - #14 Texas (+8.16) def. #59 Northern Ariz. (-8.16)"
   ITA: "TEX - #5 Texas def. #61 Northern Ariz."
   USTA: "TEX - #6 Texas def. Northern Ariz."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "TEX - #1 Texas def. #4 Northern Ariz."
 Lineups:
   Predictions:
-    Average EWPs for TEX: 90%,90%,92%,92%,88%,90%
-    Average EWPs for NAU: 10%,10%,8%,8%,12%,10%
+    Average EWPs for TEX: 91%,91%,93%,92%,89%,91%
+    Average EWPs for NAU: 9%,9%,7%,8%,11%,9%
     TEX wins 4 or more Singles points: 99%
     NAU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -62,7 +62,7 @@ Lineups:
         TRN: TEX - Spizzirri (98%) def. Straker-Meads (2%)
         MAS: TEX - Spizzirri (75%) def. Straker-Meads (25%)
         UTR: TEX - Spizzirri (95%) def. Straker-Meads (5%)
-        AVG: TEX - Spizzirri (90%) def. Straker-Meads (10%)
+        AVG: TEX - Spizzirri (91%) def. Straker-Meads (9%)
         ITA: TEX - Spizzirri (28.17) def. Straker-Meads (1.70)
     - Position: 2
       TEX: Micah Braswell - 9-4 at 2, 17-5 in duals, 32-6 overall
@@ -72,7 +72,7 @@ Lineups:
         TRN: TEX - Braswell (97%) def. Tumosa (3%)
         MAS: TEX - Braswell (75%) def. Tumosa (25%)
         UTR: TEX - Braswell (96%) def. Tumosa (4%)
-        AVG: TEX - Braswell (90%) def. Tumosa (10%)
+        AVG: TEX - Braswell (91%) def. Tumosa (9%)
         ITA: TEX - Braswell (20.88) def. Tumosa (1.38)
     - Position: 3
       TEX: Siem Woldeab - 5-1 at 3, 9-7 in duals, 14-12 overall
@@ -82,7 +82,7 @@ Lineups:
         TRN: TEX - Woldeab (99%) def. Buzonics (1%)
         MAS: TEX - Woldeab (75%) def. Buzonics (25%)
         UTR: TEX - Woldeab (97%) def. Buzonics (3%)
-        AVG: TEX - Woldeab (92%) def. Buzonics (8%)
+        AVG: TEX - Woldeab (93%) def. Buzonics (7%)
         ITA: TEX - Woldeab (9.31) def. Buzonics (1.51)
     - Position: 4
       TEX: Cleeve Harper - 14-3 at 4, 17-5 in duals, 22-9 overall
@@ -102,7 +102,7 @@ Lineups:
         TRN: TEX - Huang (94%) def. Ziomber (6%)
         MAS: TEX - Huang (75%) def. Ziomber (25%)
         UTR: TEX - Huang (92%) def. Ziomber (8%)
-        AVG: TEX - Huang (88%) def. Ziomber (12%)
+        AVG: TEX - Huang (89%) def. Ziomber (11%)
         ITA: NAU - Ziomber (2.68) def. Huang (0.00)
     - Position: 6
       TEX: Evin McDonald - 6-9 at 6, 11-10 in duals, 15-16 overall
@@ -112,7 +112,7 @@ Lineups:
         TRN: TEX - McDonald (98%) def. Groves (2%)
         MAS: TEX - McDonald (75%) def. Groves (25%)
         UTR: TEX - McDonald (96%) def. Groves (4%)
-        AVG: TEX - McDonald (90%) def. Groves (10%)
+        AVG: TEX - McDonald (91%) def. Groves (9%)
   Doubles:
     - Position: 1
       TEX: Spizzirri/Woldeab - 12-9 at 1, 12-9 in duals, 19-9 overall

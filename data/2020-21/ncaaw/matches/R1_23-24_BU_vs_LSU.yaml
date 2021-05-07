@@ -40,7 +40,7 @@ Predictions:
   TRN: "LSU - #18 LSU (99%) def. #51 Boston U. (1%)"
   MAS: "LSU - #21 LSU (75%) def. #54 Boston U. (25%)"
   LNUP: LSU - LSU (100%) def. Boston U. (0%)
-  AVG: LSU - LSU (83%) def. Boston U. (17%)
+  AVG: LSU - LSU (86%) def. Boston U. (14%)
   UTR: "LSU - #26 LSU (+5.98) def. #49 Boston U. (-5.98)"
   ITA: "LSU - #12 LSU def. #50 Boston U."
   USTA: "LSU - #23 LSU def. Boston U."
@@ -48,11 +48,11 @@ Predictions:
   Seeding: "LSU - #1 LSU def. #4 Boston U."
 Lineups:
   Predictions:
-    Average EWPs for LSU: 87%,61%,91%,90%,87%,89%
-    Average EWPs for BU: 13%,39%,9%,10%,13%,11%
-    LSU wins 4 or more Singles points: 96%
+    Average EWPs for LSU: 87%,68%,91%,91%,87%,90%
+    Average EWPs for BU: 13%,32%,9%,9%,13%,10%
+    LSU wins 4 or more Singles points: 97%
     BU wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 4%
+    Winner decided by the Doubles point: 3%
   Singles:
     - Position: 1
       LSU: Taylor Bridges - 7-7 at 1, 7-7 in duals, 13-10 overall
@@ -72,7 +72,7 @@ Lineups:
         TRN: LSU - Carrington (78%) def. Tan (22%)
         MAS: BU - Tan (75%) def. Carrington (25%)
         UTR: LSU - Carrington (91%) def. Tan (9%)
-        AVG: LSU - Carrington (61%) def. Tan (39%)
+        AVG: LSU - Carrington (68%) def. Tan (32%)
         ITA: LSU - Carrington (4.09) def. Tan (3.03)
     - Position: 3
       LSU: Paris Corley - 6-2 at 3, 10-3 in duals, 18-4 overall
@@ -92,7 +92,7 @@ Lineups:
         TRN: LSU - Cubitt (96%) def. Kim (4%)
         MAS: LSU - Cubitt (75%) def. Kim (25%)
         UTR: LSU - Cubitt (97%) def. Kim (3%)
-        AVG: LSU - Cubitt (90%) def. Kim (10%)
+        AVG: LSU - Cubitt (91%) def. Kim (9%)
         ITA: BU - Kim (2.60) def. Cubitt (2.11)
     - Position: 5
       LSU: Eden Richardson - 2-2 at 5, 4-6 in duals, 8-11 overall
@@ -112,7 +112,7 @@ Lineups:
         TRN: LSU - Geissler (95%) def. Martens (5%)
         MAS: LSU - Geissler (75%) def. Martens (25%)
         UTR: LSU - Geissler (92%) def. Martens (8%)
-        AVG: LSU - Geissler (89%) def. Martens (11%)
+        AVG: LSU - Geissler (90%) def. Martens (10%)
         ITA: BU - Martens (2.51) def. Geissler (2.01)
   Doubles:
     - Position: 1

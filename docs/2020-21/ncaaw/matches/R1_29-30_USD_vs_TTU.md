@@ -38,8 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***TTU*** - #34 Texas Tech (53%) def. #36 San Diego (47%)  
 - TRN: ***TTU*** - #34 Texas Tech (61%) def. #38 San Diego (39%)  
 - Massey: ***TTU*** - #28 Texas Tech (75%) def. #32 San Diego (25%)  
-- Lineup: ***TTU*** - Texas Tech (63%) def. San Diego (37%)  
-- Composite: ***USD*** - San Diego (52%) def. Texas Tech (48%)  
+- Lineup: ***TTU*** - Texas Tech (66%) def. San Diego (34%)  
+- Composite: ***TTU*** - Texas Tech (55%) def. San Diego (45%)  
 - UTR: ***TTU*** - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)  
 - ITA: ***TTU*** - #29 Texas Tech def. #39 San Diego  
 - Coaches Poll: ***TTU*** - #29 Texas Tech def. #47 San Diego  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USD</i></b> - Colling (88%) def. Mays (12%)</li>  
 <li>Massey: <b><i>USD</i></b> - Colling (75%) def. Mays (25%)</li>  
 <li>UTR: <b><i>USD</i></b> - Colling (84%) def. Mays (16%)</li>  
-<li>Composite: <b><i>USD</i></b> - Colling (84%) def. Mays (16%)</li>  
+<li>Composite: <b><i>USD</i></b> - Colling (83%) def. Mays (17%)</li>  
 <li>ITA: <b><i>USD</i></b> - Colling (12.76) def. Mays (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TTU</i></b> - Skriabina (54%) def. Goldsmith (46%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Skriabina (75%) def. Goldsmith (25%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Skriabina (86%) def. Goldsmith (14%)</li>  
-<li>Composite: <b><i>TTU</i></b> - Skriabina (64%) def. Goldsmith (36%)</li>  
+<li>Composite: <b><i>TTU</i></b> - Skriabina (66%) def. Goldsmith (34%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Skriabina (6.63) def. Goldsmith (2.97)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USD</i></b> - McBride (58%) def. Staines (42%)</li>  
 <li>Massey: <b><i>USD</i></b> - McBride (75%) def. Staines (25%)</li>  
 <li>UTR: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
-<li>Composite: <b><i>USD</i></b> - McBride (61%) def. Staines (39%)</li>  
+<li>Composite: <b><i>USD</i></b> - McBride (60%) def. Staines (40%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. McBride (3.11)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USD</i></b> - Desiatnikov (57%) def. Miller (43%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Miller (75%) def. Desiatnikov (25%)</li>  
 <li>UTR: <b><i>USD</i></b> - Desiatnikov (71%) def. Miller (29%)</li>  
-<li>Composite: <b><i>USD</i></b> - Desiatnikov (51%) def. Miller (49%)</li>  
+<li>Composite: <b><i>TTU</i></b> - Miller (52%) def. Desiatnikov (48%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Miller (2.66) def. Desiatnikov (2.52)</li>  
 </ul>
 </details>&nbsp;</li>

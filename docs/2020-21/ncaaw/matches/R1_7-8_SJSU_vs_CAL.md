@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***CAL*** - #17 California (99%) def. #49 San Jose St. (1%)  
 - Massey: ***CAL*** - #14 California (75%) def. #49 San Jose St. (25%)  
 - Lineup: ***CAL*** - California (100%) def. San Jose St. (0%)  
-- Composite: ***CAL*** - California (90%) def. San Jose St. (10%)  
+- Composite: ***CAL*** - California (91%) def. San Jose St. (9%)  
 - UTR: ***CAL*** - #15 California (+6.78) def. #50 San Jose St. (-6.78)  
 - ITA: ***CAL*** - #16 California def. #47 San Jose St.  
 - USTA Poll: ***CAL*** - #13 California def. San Jose St.  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>CAL</i></b> - Giavara (95%) def. Galindo (5%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Giavara (75%) def. Galindo (25%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Giavara (91%) def. Galindo (9%)</li>  
-<li>Composite: <b><i>CAL</i></b> - Giavara (88%) def. Galindo (12%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Giavara (89%) def. Galindo (11%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Giavara (18.44) def. Galindo (2.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>CAL</i></b> - Ivanov (92%) def. Muradyan (8%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Ivanov (75%) def. Muradyan (25%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Ivanov (91%) def. Muradyan (9%)</li>  
-<li>Composite: <b><i>CAL</i></b> - Ivanov (87%) def. Muradyan (13%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Ivanov (88%) def. Muradyan (12%)</li>  
 <li>ITA: <b><i>SJSU</i></b> - Muradyan (3.64) def. Ivanov (1.97)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>CAL</i></b> - Moeller (98%) def. Pereira (2%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Moeller (75%) def. Pereira (25%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Moeller (99%) def. Pereira (1%)</li>  
-<li>Composite: <b><i>CAL</i></b> - Moeller (92%) def. Pereira (8%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Moeller (93%) def. Pereira (7%)</li>  
 <li>ITA: <b><i>SJSU</i></b> - Pereira (3.01) def. Moeller (1.79)</li>  
 </ul>
 </details>&nbsp;</li>

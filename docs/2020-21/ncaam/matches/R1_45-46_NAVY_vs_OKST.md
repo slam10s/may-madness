@@ -38,7 +38,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***OKST*** - #24 Oklahoma St. (98%) def. #54 Navy (2%)  
 - TRN: ***OKST*** - #23 Oklahoma St. (92%) def. #48 Navy (8%)  
 - Massey: ***OKST*** - #29 Oklahoma St. (75%) def. #56 Navy (25%)  
-- Lineup: ***OKST*** - Oklahoma St. (98%) def. Navy (2%)  
+- Lineup: ***OKST*** - Oklahoma St. (100%) def. Navy (0%)  
 - Composite: ***OKST*** - Oklahoma St. (86%) def. Navy (14%)  
 - UTR: ***OKST*** - #19 Oklahoma St. (+7.52) def. #58 Navy (-7.52)  
 - ITA: ***OKST*** - #19 Oklahoma St. def. #48 Navy  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKST</i></b> - Vocel (93%) def. Ton (7%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Vocel (75%) def. Ton (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Vocel (95%) def. Ton (5%)</li>  
-<li>Composite: <b><i>OKST</i></b> - Vocel (88%) def. Ton (12%)</li>  
+<li>Composite: <b><i>OKST</i></b> - Vocel (89%) def. Ton (11%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Vocel (20.98) def. Ton (4.17)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKST</i></b> - Hudd (99%) def. Fishkin (1%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Hudd (75%) def. Fishkin (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Hudd (98%) def. Fishkin (2%)</li>  
-<li>Composite: <b><i>OKST</i></b> - Hudd (92%) def. Fishkin (8%)</li>  
+<li>Composite: <b><i>OKST</i></b> - Hudd (93%) def. Fishkin (7%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Hudd (4.25) def. Fishkin (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Scaglia (75%) def. Garner (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
-<li>Composite: <b><i>OKST</i></b> - Scaglia (90%) def. Garner (10%)</li>  
+<li>Composite: <b><i>OKST</i></b> - Scaglia (91%) def. Garner (9%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Scaglia (2.10) def. Garner (1.69)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKST</i></b> - Donnet (88%) def. Segraves (12%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Donnet (75%) def. Segraves (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Donnet (89%) def. Segraves (11%)</li>  
-<li>Composite: <b><i>OKST</i></b> - Donnet (84%) def. Segraves (16%)</li>  
+<li>Composite: <b><i>OKST</i></b> - Donnet (85%) def. Segraves (15%)</li>  
 <li>ITA: <b><i>NAVY</i></b> - Segraves (4.17) def. Donnet (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OKST</i></b> - Bobichon (67%) def. McBride (33%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Bobichon (75%) def. McBride (25%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Bobichon (93%) def. McBride (7%)</li>  
-<li>Composite: <b><i>OKST</i></b> - Bobichon (78%) def. McBride (22%)</li>  
+<li>Composite: <b><i>OKST</i></b> - Bobichon (79%) def. McBride (21%)</li>  
 <li>ITA: <b><i>NAVY</i></b> - McBride (2.91) def. Bobichon (1.32)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -39,8 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***BAMA*** - #28 Alabama (70%) def. #44 Oregon (30%)  
 - TRN: ***BAMA*** - #27 Alabama (71%) def. #41 Oregon (29%)  
 - Massey: ***ORE*** - #30 Oregon (75%) def. #38 Alabama (25%)  
-- Lineup: ***BAMA*** - Alabama (56%) def. Oregon (44%)  
-- Composite: ***ORE*** - Oregon (52%) def. Alabama (48%)  
+- Lineup: ***BAMA*** - Alabama (58%) def. Oregon (42%)  
+- Composite: ***BAMA*** - Alabama (52%) def. Oregon (48%)  
 - UTR: ***BAMA*** - #30 Alabama (+0.28) def. #33 Oregon (-0.28)  
 - ITA: ***BAMA*** - #26 Alabama def. #36 Oregon  
 - Coaches Poll: ***BAMA*** - #25 Alabama def. #41 Oregon  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAMA</i></b> - Zhou (76%) def. Vandecasteele (24%)</li>  
 <li>Massey: <b><i>BAMA</i></b> - Zhou (75%) def. Vandecasteele (25%)</li>  
 <li>UTR: <b><i>BAMA</i></b> - Zhou (63%) def. Vandecasteele (37%)</li>  
-<li>Composite: <b><i>BAMA</i></b> - Zhou (71%) def. Vandecasteele (29%)</li>  
+<li>Composite: <b><i>BAMA</i></b> - Zhou (72%) def. Vandecasteele (28%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Zhou (13.61) def. Vandecasteele (1.67)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
 <li>Massey: <b><i>ORE</i></b> - Klov-Nilsson (75%) def. Roberto (25%)</li>  
 <li>UTR: <b><i>BAMA</i></b> - Roberto (53%) def. Klov-Nilsson (47%)</li>  
-<li>Composite: <b><i>ORE</i></b> - Klov-Nilsson (57%) def. Roberto (43%)</li>  
+<li>Composite: <b><i>ORE</i></b> - Klov-Nilsson (55%) def. Roberto (45%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Roberto (2.71) def. Klov-Nilsson (2.61)</li>  
 </ul>
 </details>&nbsp;</li>

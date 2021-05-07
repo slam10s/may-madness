@@ -40,7 +40,7 @@ Predictions:
   TRN: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
   MAS: "UVA - #3 Virginia (75%) def. #64 Fairleigh Dickinson (25%)"
   LNUP: UVA - Virginia (100%) def. Fairleigh Dickinson (0%)
-  AVG: FDU - Fairleigh Dickinson (99%) def. Virginia (1%)
+  AVG: UVA - Virginia (79%) def. Fairleigh Dickinson (21%)
   UTR: "UVA - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)"
   ITA: "UVA - #4 Virginia def. #62 Fairleigh Dickinson"
   USTA: "UVA - #1 Virginia def. Fairleigh Dickinson"
@@ -48,11 +48,11 @@ Predictions:
   Seeding: "UVA - #1 Virginia def. #4 Fairleigh Dickinson"
 Lineups:
   Predictions:
-    Average EWPs for UVA: 1%,92%,92%,93%,93%,92%
-    Average EWPs for FDU: 99%,8%,8%,7%,7%,8%
-    UVA wins 4 or more Singles points: 96%
+    Average EWPs for UVA: 7%,93%,93%,93%,93%,93%
+    Average EWPs for FDU: 93%,7%,7%,7%,7%,7%
+    UVA wins 4 or more Singles points: 97%
     FDU wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 4%
+    Winner decided by the Doubles point: 3%
   Singles:
     - Position: 1
       UVA: Carl Soderlund - 12-2 at 1, 12-2 in duals, 12-2 overall
@@ -61,7 +61,7 @@ Lineups:
         SLM: FDU - Pukse (100%) def. Soderlund (0%)
         TRN: FDU - Pukse (100%) def. Soderlund (0%)
         UTR: FDU - Pukse (100%) def. Soderlund (0%)
-        AVG: FDU - Pukse (99%) def. Soderlund (1%)
+        AVG: FDU - Pukse (93%) def. Soderlund (7%)
         ITA: UVA - Soderlund (48.38) def. Pukse (1.52)
     - Position: 2
       UVA: Jeffrey von der Schulenburg - 7-2 at 2, 16-4 in duals, 16-4 overall
@@ -71,7 +71,7 @@ Lineups:
         TRN: UVA - Schulenburg (99%) def. Gudins (1%)
         MAS: UVA - Schulenburg (75%) def. Gudins (25%)
         UTR: UVA - Schulenburg (99%) def. Gudins (1%)
-        AVG: UVA - Schulenburg (92%) def. Gudins (8%)
+        AVG: UVA - Schulenburg (93%) def. Gudins (7%)
         ITA: UVA - Schulenburg (18.39) def. Gudins (1.26)
     - Position: 3
       UVA: Chris Rodesch - 6-2 at 3, 14-6 in duals, 14-6 overall
@@ -81,7 +81,7 @@ Lineups:
         TRN: UVA - Rodesch (99%) def. Autuch (1%)
         MAS: UVA - Rodesch (75%) def. Autuch (25%)
         UTR: UVA - Rodesch (99%) def. Autuch (1%)
-        AVG: UVA - Rodesch (92%) def. Autuch (8%)
+        AVG: UVA - Rodesch (93%) def. Autuch (7%)
         ITA: UVA - Rodesch (3.82) def. Autuch (1.74)
     - Position: 4
       UVA: Inaki Montes de la Torre - 6-0 at 4, 15-4 in duals, 15-4 overall
@@ -111,7 +111,7 @@ Lineups:
         TRN: UVA - Ross (99%) def. Sader (1%)
         MAS: UVA - Ross (75%) def. Sader (25%)
         UTR: UVA - Ross (99%) def. Sader (1%)
-        AVG: UVA - Ross (92%) def. Sader (8%)
+        AVG: UVA - Ross (93%) def. Sader (7%)
         ITA: UVA - Ross (2.67) def. Sader (1.68)
   Doubles:
     - Position: 1

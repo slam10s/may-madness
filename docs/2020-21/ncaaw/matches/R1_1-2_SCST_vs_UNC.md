@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Morra (75%) def. Mihajilovic (25%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Morra (92%) def. Mihajilovic (8%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Morra (93%) def. Mihajilovic (7%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Morra (20.00) def. Mihajilovic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Scotty (75%) def. Patnaik (25%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Scotty (92%) def. Patnaik (8%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Scotty (93%) def. Patnaik (7%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Scotty (5.93) def. Patnaik (2.21)</li>  
 </ul>
 </details>&nbsp;</li>

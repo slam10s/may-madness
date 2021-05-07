@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***STAN*** - #22 Stanford (74%) def. #38 LSU (26%)  
 - TRN: ***STAN*** - #21 Stanford (77%) def. #39 LSU (23%)  
 - Massey: ***STAN*** - #20 Stanford (75%) def. #47 LSU (25%)  
-- Lineup: ***STAN*** - Stanford (98%) def. LSU (2%)  
+- Lineup: ***STAN*** - Stanford (97%) def. LSU (3%)  
 - Composite: ***STAN*** - Stanford (81%) def. LSU (19%)  
 - UTR: ***STAN*** - #5 Stanford (+4.64) def. #42 LSU (-4.64)  
 - ITA: ***STAN*** - #21 Stanford def. #40 LSU  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>STAN</i></b> - Fery (92%) def. Wagner (8%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Fery (75%) def. Wagner (25%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Fery (94%) def. Wagner (6%)</li>  
-<li>Composite: <b><i>STAN</i></b> - Fery (86%) def. Wagner (14%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Fery (87%) def. Wagner (13%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Fery (8.87) def. Wagner (6.22)</li>  
 </ul>
 </details>&nbsp;</li>

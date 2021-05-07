@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***FLA*** - #3 Florida (99%) def. #52 South Alabama (1%)  
 - Massey: ***FLA*** - #1 Florida (75%) def. #46 South Alabama (25%)  
 - Lineup: ***FLA*** - Florida (100%) def. South Alabama (0%)  
-- Composite: ***FLA*** - Florida (89%) def. South Alabama (11%)  
+- Composite: ***FLA*** - Florida (90%) def. South Alabama (10%)  
 - UTR: ***FLA*** - #1 Florida (+6.84) def. #49 South Alabama (-6.84)  
 - ITA: ***FLA*** - #2 Florida def. #53 South Alabama  
 - USTA Poll: ***FLA*** - #2 Florida def. South Alabama  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Andrade (96%) def. Cloes (4%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Andrade (75%) def. Cloes (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Andrade (94%) def. Cloes (6%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Andrade (89%) def. Cloes (11%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Andrade (90%) def. Cloes (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Andrade (32.71) def. Cloes (2.46)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Shelton (98%) def. Delcour (2%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Shelton (75%) def. Delcour (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Shelton (90%) def. Delcour (10%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Shelton (91%) def. Delcour (9%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Shelton (3.20) def. Delcour (2.17)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Goodger (75%) def. Bugaj (25%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Goodger (98%) def. Bugaj (2%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Goodger (92%) def. Bugaj (8%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Goodger (93%) def. Bugaj (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Goodger (8.31) def. Bugaj (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -38,7 +38,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***NCST*** - #11 NC State (99%) def. #48 VCU (1%)  
 - TRN: ***NCST*** - #10 NC State (99%) def. #48 VCU (1%)  
 - Massey: ***NCST*** - #6 NC State (75%) def. #48 VCU (25%)  
-- Lineup: ***NCST*** - NC State (100%) def. VCU (0%)  
+- Lineup: ***NCST*** - NC State (98%) def. VCU (2%)  
 - Composite: ***NCST*** - NC State (89%) def. VCU (11%)  
 - UTR: ***NCST*** - #9 NC State (+7.24) def. #48 VCU (-7.24)  
 - ITA: ***NCST*** - #6 NC State def. #49 VCU  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NCST</i></b> - Rogers (81%) def. Diaz-Delgado (19%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Rogers (75%) def. Diaz-Delgado (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Rogers (81%) def. Diaz-Delgado (19%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rogers (82%) def. Diaz-Delgado (18%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rogers (48.19) def. Diaz-Delgado (5.71)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>NCST</i></b> - Rencheli (97%) def. Witmus (3%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Rencheli (75%) def. Witmus (25%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rencheli (96%) def. Witmus (4%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Rencheli (90%) def. Witmus (10%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rencheli (91%) def. Witmus (9%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rencheli (7.12) def. Witmus (2.03)</li>  
 </ul>
 </details>&nbsp;</li>

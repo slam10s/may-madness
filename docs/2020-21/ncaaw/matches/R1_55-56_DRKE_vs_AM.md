@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Makarova (99%) def. Petushkova (1%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Makarova (75%) def. Petushkova (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Makarova (91%) def. Petushkova (9%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Makarova (92%) def. Petushkova (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Makarova (21.86) def. Petushkova (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (98%) def. Tatarnikova (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Faa-Hviding (75%) def. Tatarnikova (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Faa-Hviding (91%) def. Tatarnikova (9%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Faa-Hviding (92%) def. Tatarnikova (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Faa-Hviding (1.87) def. Tatarnikova (1.80)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>Massey: <b><i>A&M</i></b> - McQuaid (75%) def. Neville (25%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
-<li>Composite: <b><i>A&M</i></b> - McQuaid (92%) def. Neville (8%)</li>  
+<li>Composite: <b><i>A&M</i></b> - McQuaid (93%) def. Neville (7%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McQuaid (2.12) def. Neville (1.64)</li>  
 </ul>
 </details>&nbsp;</li>

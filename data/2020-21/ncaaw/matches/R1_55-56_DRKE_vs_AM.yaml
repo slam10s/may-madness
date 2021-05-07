@@ -48,8 +48,8 @@ Predictions:
   Seeding: "A&M - #1 Texas A&M def. #4 Drake"
 Lineups:
   Predictions:
-    Average EWPs for A&M: 91%,92%,92%,91%,92%,92%
-    Average EWPs for DRKE: 9%,8%,8%,9%,8%,8%
+    Average EWPs for A&M: 92%,92%,92%,92%,92%,93%
+    Average EWPs for DRKE: 8%,8%,8%,8%,8%,7%
     A&M wins 4 or more Singles points: 99%
     DRKE wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -62,7 +62,7 @@ Lineups:
         TRN: A&M - Makarova (99%) def. Petushkova (1%)
         MAS: A&M - Makarova (75%) def. Petushkova (25%)
         UTR: A&M - Makarova (98%) def. Petushkova (2%)
-        AVG: A&M - Makarova (91%) def. Petushkova (9%)
+        AVG: A&M - Makarova (92%) def. Petushkova (8%)
         ITA: A&M - Makarova (21.86) def. Petushkova (1.55)
     - Position: 2
       A&M: Jayci Goldsmith - 9-7 at 2, 11-9 in duals, 13-10 overall
@@ -92,7 +92,7 @@ Lineups:
         TRN: A&M - Faa-Hviding (98%) def. Tatarnikova (2%)
         MAS: A&M - Faa-Hviding (75%) def. Tatarnikova (25%)
         UTR: A&M - Faa-Hviding (97%) def. Tatarnikova (3%)
-        AVG: A&M - Faa-Hviding (91%) def. Tatarnikova (9%)
+        AVG: A&M - Faa-Hviding (92%) def. Tatarnikova (8%)
         ITA: A&M - Faa-Hviding (1.87) def. Tatarnikova (1.80)
     - Position: 5
       A&M: Renee McBryde - 10-1 at 5, 14-3 in duals, 17-4 overall
@@ -112,7 +112,7 @@ Lineups:
         TRN: A&M - McQuaid (99%) def. Neville (1%)
         MAS: A&M - McQuaid (75%) def. Neville (25%)
         UTR: A&M - McQuaid (99%) def. Neville (1%)
-        AVG: A&M - McQuaid (92%) def. Neville (8%)
+        AVG: A&M - McQuaid (93%) def. Neville (7%)
         ITA: A&M - McQuaid (2.12) def. Neville (1.64)
   Doubles:
     - Position: 1

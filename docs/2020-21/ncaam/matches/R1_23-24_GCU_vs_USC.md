@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Dostanic (99%) def. Cvitanovic (1%)</li>  
 <li>Massey: <b><i>USC</i></b> - Dostanic (75%) def. Cvitanovic (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Dostanic (98%) def. Cvitanovic (2%)</li>  
-<li>Composite: <b><i>USC</i></b> - Dostanic (92%) def. Cvitanovic (8%)</li>  
+<li>Composite: <b><i>USC</i></b> - Dostanic (93%) def. Cvitanovic (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dostanic (5.43) def. Cvitanovic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Frye (99%) def. Silva (1%)</li>  
 <li>Massey: <b><i>USC</i></b> - Frye (75%) def. Silva (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Frye (98%) def. Silva (2%)</li>  
-<li>Composite: <b><i>USC</i></b> - Frye (92%) def. Silva (8%)</li>  
+<li>Composite: <b><i>USC</i></b> - Frye (93%) def. Silva (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Frye (2.44) def. Silva (1.73)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
 <li>Massey: <b><i>USC</i></b> - Weststrate (75%) def. Novak (25%)</li>  
 <li>UTR: <b><i>USC</i></b> - Weststrate (98%) def. Novak (2%)</li>  
-<li>Composite: <b><i>USC</i></b> - Weststrate (92%) def. Novak (8%)</li>  
+<li>Composite: <b><i>USC</i></b> - Weststrate (93%) def. Novak (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Weststrate (2.93) def. Novak (1.55)</li>  
 </ul>
 </details>&nbsp;</li>

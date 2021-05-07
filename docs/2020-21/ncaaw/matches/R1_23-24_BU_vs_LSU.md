@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***LSU*** - #18 LSU (99%) def. #51 Boston U. (1%)  
 - Massey: ***LSU*** - #21 LSU (75%) def. #54 Boston U. (25%)  
 - Lineup: ***LSU*** - LSU (100%) def. Boston U. (0%)  
-- Composite: ***LSU*** - LSU (83%) def. Boston U. (17%)  
+- Composite: ***LSU*** - LSU (86%) def. Boston U. (14%)  
 - UTR: ***LSU*** - #26 LSU (+5.98) def. #49 Boston U. (-5.98)  
 - ITA: ***LSU*** - #12 LSU def. #50 Boston U.  
 - USTA Poll: ***LSU*** - #23 LSU def. Boston U.  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>LSU</i></b> - Carrington (78%) def. Tan (22%)</li>  
 <li>Massey: <b><i>BU</i></b> - Tan (75%) def. Carrington (25%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Carrington (91%) def. Tan (9%)</li>  
-<li>Composite: <b><i>LSU</i></b> - Carrington (61%) def. Tan (39%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Carrington (68%) def. Tan (32%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Carrington (4.09) def. Tan (3.03)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>LSU</i></b> - Cubitt (96%) def. Kim (4%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Cubitt (75%) def. Kim (25%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Cubitt (97%) def. Kim (3%)</li>  
-<li>Composite: <b><i>LSU</i></b> - Cubitt (90%) def. Kim (10%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Cubitt (91%) def. Kim (9%)</li>  
 <li>ITA: <b><i>BU</i></b> - Kim (2.60) def. Cubitt (2.11)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>LSU</i></b> - Geissler (95%) def. Martens (5%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Geissler (75%) def. Martens (25%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Geissler (92%) def. Martens (8%)</li>  
-<li>Composite: <b><i>LSU</i></b> - Geissler (89%) def. Martens (11%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Geissler (90%) def. Martens (10%)</li>  
 <li>ITA: <b><i>BU</i></b> - Martens (2.51) def. Geissler (2.01)</li>  
 </ul>
 </details>&nbsp;</li>

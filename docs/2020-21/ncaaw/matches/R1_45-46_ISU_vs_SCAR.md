@@ -39,8 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***SCAR*** - #27 South Carolina (81%) def. #41 Iowa St. (19%)  
 - TRN: ***SCAR*** - #28 South Carolina (84%) def. #42 Iowa St. (16%)  
 - Massey: ***SCAR*** - #27 South Carolina (75%) def. #39 Iowa St. (25%)  
-- Lineup: ***SCAR*** - South Carolina (83%) def. Iowa St. (17%)  
-- Composite: ***SCAR*** - South Carolina (57%) def. Iowa St. (43%)  
+- Lineup: ***SCAR*** - South Carolina (86%) def. Iowa St. (14%)  
+- Composite: ***SCAR*** - South Carolina (63%) def. Iowa St. (37%)  
 - UTR: ***SCAR*** - #29 South Carolina (+2.24) def. #39 Iowa St. (-2.24)  
 - ITA: ***SCAR*** - #22 South Carolina def. #36 Iowa St.  
 - USTA Poll: ***SCAR*** - RV South Carolina def. Iowa St.  
@@ -83,6 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>SCAR</i></b> - Shelton (58%) def. Kadleckova (42%)</li>  
 <li>Massey: <b><i>ISU</i></b> - Kadleckova (75%) def. Shelton (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Shelton (65%) def. Kadleckova (35%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Shelton (53%) def. Kadleckova (47%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Shelton (6.55) def. Kadleckova (2.94)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -104,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ISU</i></b> - Kezuka (53%) def. Gretkowski (47%)</li>  
 <li>Massey: <b><i>ISU</i></b> - Kezuka (75%) def. Gretkowski (25%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Gretkowski (80%) def. Kezuka (20%)</li>  
-<li>Composite: <b><i>ISU</i></b> - Kezuka (54%) def. Gretkowski (46%)</li>  
+<li>Composite: <b><i>ISU</i></b> - Kezuka (51%) def. Gretkowski (49%)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>

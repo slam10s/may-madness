@@ -40,7 +40,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***GT*** - #33 Georgia Tech (64%) def. #40 Memphis (36%)  
 - Massey: ***GT*** - #25 Georgia Tech (75%) def. #43 Memphis (25%)  
 - Lineup: ***GT*** - Georgia Tech (91%) def. Memphis (9%)  
-- Composite: ***GT*** - Georgia Tech (64%) def. Memphis (36%)  
+- Composite: ***GT*** - Georgia Tech (68%) def. Memphis (32%)  
 - UTR: ***GT*** - #36 Georgia Tech (+1.14) def. #43 Memphis (-1.14)  
 - ITA: ***GT*** - #30 Georgia Tech def. #38 Memphis  
 - USTA Poll: ***GT*** - RV Georgia Tech def. Memphis  
@@ -105,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MEM</i></b> - Taylor (58%) def. McKinney (42%)</li>  
 <li>Massey: <b><i>MEM</i></b> - Taylor (75%) def. McKinney (25%)</li>  
 <li>UTR: <b><i>MEM</i></b> - Taylor (82%) def. McKinney (18%)</li>  
-<li>Composite: <b><i>MEM</i></b> - Taylor (68%) def. McKinney (32%)</li>  
+<li>Composite: <b><i>MEM</i></b> - Taylor (66%) def. McKinney (34%)</li>  
 <li>ITA: <b><i>MEM</i></b> - Taylor (2.71) def. McKinney (1.37)</li>  
 </ul>
 </details>&nbsp;</li>

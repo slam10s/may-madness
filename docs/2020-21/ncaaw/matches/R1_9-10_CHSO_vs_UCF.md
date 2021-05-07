@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UCF*** - #12 UCF (99%) def. #57 Charleston So. (1%)  
 - Massey: ***UCF*** - #10 UCF (75%) def. #60 Charleston So. (25%)  
 - Lineup: ***UCF*** - UCF (100%) def. Charleston So. (0%)  
-- Composite: ***CHSO*** - Charleston So. (98%) def. UCF (2%)  
+- Composite: ***UCF*** - UCF (78%) def. Charleston So. (22%)  
 - UTR: ***UCF*** - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)  
 - ITA: ***UCF*** - #9 UCF def. #58 Charleston So.  
 - USTA Poll: ***UCF*** - #9 UCF def. Charleston So.  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Stolmar (99%) def. Fullana (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Stolmar (75%) def. Fullana (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Stolmar (96%) def. Fullana (4%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Stolmar (91%) def. Fullana (9%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Stolmar (92%) def. Fullana (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Stolmar (15.81) def. Fullana (1.91)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Kuznetsova (75%) def. Cauthen (25%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Kuznetsova (98%) def. Cauthen (2%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Kuznetsova (92%) def. Cauthen (8%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Kuznetsova (93%) def. Cauthen (7%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Kuznetsova (3.33) def. Cauthen (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
 <li>TRN: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
 <li>UTR: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
-<li>Composite: <b><i>CHSO</i></b> - Pyrtiz (99%) def. Bay (1%)</li>  
+<li>Composite: <b><i>CHSO</i></b> - Pyrtiz (93%) def. Bay (7%)</li>  
 <li>ITA: <b><i>CHSO</i></b> - Pyrtiz (1.53) def. Bay (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -39,8 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***MSST*** - #20 Mississippi St. (78%) def. #37 Miami (FL) (22%)  
 - TRN: ***MSST*** - #19 Mississippi St. (88%) def. #43 Miami (FL) (12%)  
 - Massey: ***MSST*** - #26 Mississippi St. (75%) def. #38 Miami (FL) (25%)  
-- Lineup: ***MSST*** - Mississippi St. (91%) def. Miami (FL) (9%)  
-- Composite: ***MSST*** - Mississippi St. (66%) def. Miami (FL) (34%)  
+- Lineup: ***MSST*** - Mississippi St. (92%) def. Miami (FL) (8%)  
+- Composite: ***MSST*** - Mississippi St. (69%) def. Miami (FL) (31%)  
 - UTR: ***MSST*** - #24 Mississippi St. (+2.16) def. #40 Miami (FL) (-2.16)  
 - ITA: ***MSST*** - #16 Mississippi St. def. #39 Miami (FL)  
 - USTA Poll: ***MSST*** - #23 Mississippi St. def. Miami (FL)  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MIA</i></b> - Barrera (57%) def. Oradini (43%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Barrera (75%) def. Oradini (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Oradini (68%) def. Barrera (32%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Barrera (56%) def. Oradini (44%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Barrera (54%) def. Oradini (46%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Oradini (31.20) def. Barrera (18.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Broska (63%) def. Jankulovski (37%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Jankulovski (75%) def. Broska (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Broska (78%) def. Jankulovski (22%)</li>  
-<li>Composite: <b><i>MSST</i></b> - Broska (53%) def. Jankulovski (47%)</li>  
+<li>Composite: <b><i>MSST</i></b> - Broska (58%) def. Jankulovski (42%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Broska (16.73) def. Jankulovski (3.33)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -116,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MSST</i></b> - Tortora (89%) def. Aubone (11%)</li>  
 <li>Massey: <b><i>MSST</i></b> - Tortora (75%) def. Aubone (25%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Tortora (59%) def. Aubone (41%)</li>  
-<li>Composite: <b><i>MSST</i></b> - Tortora (74%) def. Aubone (26%)</li>  
+<li>Composite: <b><i>MSST</i></b> - Tortora (75%) def. Aubone (25%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Tortora (9.41) def. Aubone (1.40)</li>  
 </ul>
 </details>&nbsp;</li>

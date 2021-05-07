@@ -39,7 +39,7 @@ Predictions:
   SLM: "NCST - #11 NC State (99%) def. #48 VCU (1%)"
   TRN: "NCST - #10 NC State (99%) def. #48 VCU (1%)"
   MAS: "NCST - #6 NC State (75%) def. #48 VCU (25%)"
-  LNUP: NCST - NC State (100%) def. VCU (0%)
+  LNUP: NCST - NC State (98%) def. VCU (2%)
   AVG: NCST - NC State (89%) def. VCU (11%)
   UTR: "NCST - #9 NC State (+7.24) def. #48 VCU (-7.24)"
   ITA: "NCST - #6 NC State def. #49 VCU"
@@ -48,11 +48,11 @@ Predictions:
   Seeding: "NCST - #1 NC State def. #4 VCU"
 Lineups:
   Predictions:
-    Average EWPs for NCST: 81%,91%,91%,90%,90%,91%
-    Average EWPs for VCU: 19%,9%,9%,10%,10%,9%
+    Average EWPs for NCST: 82%,91%,91%,90%,91%,91%
+    Average EWPs for VCU: 18%,9%,9%,10%,9%,9%
     NCST wins 4 or more Singles points: 98%
-    VCU wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 2%
+    VCU wins 4 or more Singles points: 1%
+    Winner decided by the Doubles point: 1%
   Singles:
     - Position: 1
       NCST: Anna Rogers - 14-6 at 1, 14-6 in duals, 19-6 overall
@@ -62,7 +62,7 @@ Lineups:
         TRN: NCST - Rogers (81%) def. Diaz-Delgado (19%)
         MAS: NCST - Rogers (75%) def. Diaz-Delgado (25%)
         UTR: NCST - Rogers (85%) def. Diaz-Delgado (15%)
-        AVG: NCST - Rogers (81%) def. Diaz-Delgado (19%)
+        AVG: NCST - Rogers (82%) def. Diaz-Delgado (18%)
         ITA: NCST - Rogers (48.19) def. Diaz-Delgado (5.71)
     - Position: 2
       NCST: Alana Smith - 14-5 at 2, 14-5 in duals, 16-8 overall
@@ -102,7 +102,7 @@ Lineups:
         TRN: NCST - Rencheli (97%) def. Witmus (3%)
         MAS: NCST - Rencheli (75%) def. Witmus (25%)
         UTR: NCST - Rencheli (96%) def. Witmus (4%)
-        AVG: NCST - Rencheli (90%) def. Witmus (10%)
+        AVG: NCST - Rencheli (91%) def. Witmus (9%)
         ITA: NCST - Rencheli (7.12) def. Witmus (2.03)
     - Position: 6
       NCST: Lexi Keberle - 2-4 at 6, 13-6 in duals, 16-8 overall

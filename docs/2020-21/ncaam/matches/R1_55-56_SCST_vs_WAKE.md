@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
 - Massey: ***WAKE*** - #13 Wake Forest (75%) def. #63 South Carolina St. (25%)  
 - Lineup: ***WAKE*** - Wake Forest (100%) def. South Carolina St. (0%)  
-- Composite: ***WAKE*** - Wake Forest (92%) def. South Carolina St. (8%)  
+- Composite: ***WAKE*** - Wake Forest (93%) def. South Carolina St. (7%)  
 - UTR: ***WAKE*** - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)  
 - ITA: ***WAKE*** - #9 Wake Forest def. #65 South Carolina St.  
 - USTA Poll: ***WAKE*** - #12 Wake Forest def. South Carolina St.  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WAKE</i></b> - Cungu (99%) def. Gorgun (1%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Cungu (75%) def. Gorgun (25%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Cungu (98%) def. Gorgun (2%)</li>  
-<li>Composite: <b><i>WAKE</i></b> - Cungu (92%) def. Gorgun (8%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Cungu (93%) def. Gorgun (7%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Cungu (3.35) def. Gorgun (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

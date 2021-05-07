@@ -48,8 +48,8 @@ Predictions:
   Seeding: "MISS - #1 Ole Miss def. #4 Belmont"
 Lineups:
   Predictions:
-    Average EWPs for MISS: 84%,91%,90%,91%,91%,90%
-    Average EWPs for BEL: 16%,9%,10%,9%,9%,10%
+    Average EWPs for MISS: 84%,92%,91%,92%,91%,91%
+    Average EWPs for BEL: 16%,8%,9%,8%,9%,9%
     MISS wins 4 or more Singles points: 99%
     BEL wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -72,7 +72,7 @@ Lineups:
         TRN: MISS - Reynolds (98%) def. Toledo (2%)
         MAS: MISS - Reynolds (75%) def. Toledo (25%)
         UTR: MISS - Reynolds (97%) def. Toledo (3%)
-        AVG: MISS - Reynolds (91%) def. Toledo (9%)
+        AVG: MISS - Reynolds (92%) def. Toledo (8%)
         ITA: MISS - Reynolds (36.17) def. Toledo (2.71)
     - Position: 3
       MISS: Nikola Slavic - 12-7 at 3, 13-7 in duals, 13-7 overall
@@ -82,7 +82,7 @@ Lineups:
         TRN: MISS - Slavic (99%) def. Luis (1%)
         MAS: MISS - Slavic (75%) def. Luis (25%)
         UTR: MISS - Slavic (92%) def. Luis (8%)
-        AVG: MISS - Slavic (90%) def. Luis (10%)
+        AVG: MISS - Slavic (91%) def. Luis (9%)
         ITA: MISS - Slavic (24.24) def. Luis (1.54)
     - Position: 4
       MISS: John Hallquist Lithen - 5-6 at 4, 12-7 in duals, 12-7 overall
@@ -92,7 +92,7 @@ Lineups:
         TRN: MISS - Lithen (99%) def. Castro (1%)
         MAS: MISS - Lithen (75%) def. Castro (25%)
         UTR: MISS - Lithen (96%) def. Castro (4%)
-        AVG: MISS - Lithen (91%) def. Castro (9%)
+        AVG: MISS - Lithen (92%) def. Castro (8%)
         ITA: MISS - Lithen (2.40) def. Castro (1.99)
     - Position: 5
       MISS: Simon Junk - 2-6 at 5, 9-11 in duals, 9-14 overall
@@ -112,7 +112,7 @@ Lineups:
         TRN: MISS - Engelhardt (98%) def. Wallin (2%)
         MAS: MISS - Engelhardt (75%) def. Wallin (25%)
         UTR: MISS - Engelhardt (94%) def. Wallin (6%)
-        AVG: MISS - Engelhardt (90%) def. Wallin (10%)
+        AVG: MISS - Engelhardt (91%) def. Wallin (9%)
         ITA: BEL - Wallin (2.75) def. Engelhardt (0.00)
   Doubles:
     - Position: 1

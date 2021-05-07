@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***TEX*** - #7 Texas (99%) def. #60 Northern Ariz. (1%)  
 - Massey: ***TEX*** - #11 Texas (75%) def. #59 Northern Ariz. (25%)  
 - Lineup: ***TEX*** - Texas (100%) def. Northern Ariz. (0%)  
-- Composite: ***TEX*** - Texas (90%) def. Northern Ariz. (10%)  
+- Composite: ***TEX*** - Texas (91%) def. Northern Ariz. (9%)  
 - UTR: ***TEX*** - #14 Texas (+8.16) def. #59 Northern Ariz. (-8.16)  
 - ITA: ***TEX*** - #5 Texas def. #61 Northern Ariz.  
 - USTA Poll: ***TEX*** - #6 Texas def. Northern Ariz.  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - Spizzirri (98%) def. Straker-Meads (2%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Spizzirri (75%) def. Straker-Meads (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Spizzirri (95%) def. Straker-Meads (5%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Spizzirri (90%) def. Straker-Meads (10%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Spizzirri (91%) def. Straker-Meads (9%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Spizzirri (28.17) def. Straker-Meads (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - Braswell (97%) def. Tumosa (3%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Braswell (75%) def. Tumosa (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Braswell (96%) def. Tumosa (4%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Braswell (90%) def. Tumosa (10%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Braswell (91%) def. Tumosa (9%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Braswell (20.88) def. Tumosa (1.38)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - Woldeab (99%) def. Buzonics (1%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Woldeab (75%) def. Buzonics (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Woldeab (97%) def. Buzonics (3%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Woldeab (92%) def. Buzonics (8%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Woldeab (93%) def. Buzonics (7%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Woldeab (9.31) def. Buzonics (1.51)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - Huang (94%) def. Ziomber (6%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Huang (75%) def. Ziomber (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Huang (92%) def. Ziomber (8%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Huang (88%) def. Ziomber (12%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Huang (89%) def. Ziomber (11%)</li>  
 <li>ITA: <b><i>NAU</i></b> - Ziomber (2.68) def. Huang (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TEX</i></b> - McDonald (98%) def. Groves (2%)</li>  
 <li>Massey: <b><i>TEX</i></b> - McDonald (75%) def. Groves (25%)</li>  
 <li>UTR: <b><i>TEX</i></b> - McDonald (96%) def. Groves (4%)</li>  
-<li>Composite: <b><i>TEX</i></b> - McDonald (90%) def. Groves (10%)</li>  
+<li>Composite: <b><i>TEX</i></b> - McDonald (91%) def. Groves (9%)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

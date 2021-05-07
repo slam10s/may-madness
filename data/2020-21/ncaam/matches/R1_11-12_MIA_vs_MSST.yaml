@@ -40,8 +40,8 @@ Predictions:
   SLM: "MSST - #20 Mississippi St. (78%) def. #37 Miami (FL) (22%)"
   TRN: "MSST - #19 Mississippi St. (88%) def. #43 Miami (FL) (12%)"
   MAS: "MSST - #26 Mississippi St. (75%) def. #38 Miami (FL) (25%)"
-  LNUP: MSST - Mississippi St. (91%) def. Miami (FL) (9%)
-  AVG: MSST - Mississippi St. (66%) def. Miami (FL) (34%)
+  LNUP: MSST - Mississippi St. (92%) def. Miami (FL) (8%)
+  AVG: MSST - Mississippi St. (69%) def. Miami (FL) (31%)
   UTR: "MSST - #24 Mississippi St. (+2.16) def. #40 Miami (FL) (-2.16)"
   ITA: "MSST - #16 Mississippi St. def. #39 Miami (FL)"
   USTA: "MSST - #23 Mississippi St. def. Miami (FL)"
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "MSST - #2 Mississippi St. def. #3 Miami (FL)"
 Lineups:
   Predictions:
-    Average EWPs for MSST: 44%,53%,74%,83%,79%,74%
-    Average EWPs for MIA: 56%,47%,26%,17%,21%,26%
-    MSST wins 4 or more Singles points: 72%
-    MIA wins 4 or more Singles points: 7%
-    Winner decided by the Doubles point: 21%
+    Average EWPs for MSST: 46%,58%,74%,83%,79%,75%
+    Average EWPs for MIA: 54%,42%,26%,17%,21%,25%
+    MSST wins 4 or more Singles points: 75%
+    MIA wins 4 or more Singles points: 6%
+    Winner decided by the Doubles point: 19%
   Singles:
     - Position: 1
       MSST: Giovanni Oradini - 11-7 at 1, 11-10 in duals, 17-14 overall
@@ -63,7 +63,7 @@ Lineups:
         TRN: MIA - Barrera (57%) def. Oradini (43%)
         MAS: MIA - Barrera (75%) def. Oradini (25%)
         UTR: MSST - Oradini (68%) def. Barrera (32%)
-        AVG: MIA - Barrera (56%) def. Oradini (44%)
+        AVG: MIA - Barrera (54%) def. Oradini (46%)
         ITA: MSST - Oradini (31.20) def. Barrera (18.59)
     - Position: 2
       MSST: Florian Broska - 10-5 at 2, 14-8 in duals, 20-12 overall
@@ -73,7 +73,7 @@ Lineups:
         TRN: MSST - Broska (63%) def. Jankulovski (37%)
         MAS: MIA - Jankulovski (75%) def. Broska (25%)
         UTR: MSST - Broska (78%) def. Jankulovski (22%)
-        AVG: MSST - Broska (53%) def. Jankulovski (47%)
+        AVG: MSST - Broska (58%) def. Jankulovski (42%)
         ITA: MSST - Broska (16.73) def. Jankulovski (3.33)
     - Position: 3
       MSST: Nemanja Malesevic - 9-5 at 3, 15-7 in duals, 20-11 overall
@@ -113,7 +113,7 @@ Lineups:
         TRN: MSST - Tortora (89%) def. Aubone (11%)
         MAS: MSST - Tortora (75%) def. Aubone (25%)
         UTR: MSST - Tortora (59%) def. Aubone (41%)
-        AVG: MSST - Tortora (74%) def. Aubone (26%)
+        AVG: MSST - Tortora (75%) def. Aubone (25%)
         ITA: MSST - Tortora (9.41) def. Aubone (1.40)
   Doubles:
     - Position: 1

@@ -38,8 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***TULN*** - #26 Tulane (78%) def. #45 Middle Tenn. (22%)  
 - TRN: ***TULN*** - #26 Tulane (79%) def. #45 Middle Tenn. (21%)  
 - Massey: ***TULN*** - #26 Tulane (75%) def. #42 Middle Tenn. (25%)  
-- Lineup: ***TULN*** - Tulane (83%) def. Middle Tenn. (17%)  
-- Composite: ***TULN*** - Tulane (60%) def. Middle Tenn. (40%)  
+- Lineup: ***TULN*** - Tulane (85%) def. Middle Tenn. (15%)  
+- Composite: ***TULN*** - Tulane (64%) def. Middle Tenn. (36%)  
 - UTR: ***TULN*** - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)  
 - ITA: ***TULN*** - #22 Tulane def. #42 Middle Tenn.  
 - Coaches Poll: ***TULN*** - #24 Tulane def. #42 Middle Tenn.  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TULN</i></b> - Suarez (60%) def. Edge (40%)</li>  
 <li>Massey: <b><i>TULN</i></b> - Suarez (75%) def. Edge (25%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Suarez (56%) def. Edge (44%)</li>  
-<li>Composite: <b><i>TULN</i></b> - Suarez (59%) def. Edge (41%)</li>  
+<li>Composite: <b><i>TULN</i></b> - Suarez (60%) def. Edge (40%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Edge (4.29) def. Suarez (2.40)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TULN</i></b> - Kotorman (58%) def. Michalek (42%)</li>  
 <li>Massey: <b><i>MTSU</i></b> - Michalek (75%) def. Kotorman (25%)</li>  
 <li>UTR: <b><i>MTSU</i></b> - Michalek (83%) def. Kotorman (17%)</li>  
-<li>Composite: <b><i>MTSU</i></b> - Michalek (68%) def. Kotorman (32%)</li>  
+<li>Composite: <b><i>MTSU</i></b> - Michalek (64%) def. Kotorman (36%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Michalek (1.92) def. Kotorman (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

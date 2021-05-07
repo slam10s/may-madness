@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Drummy (75%) def. Pou (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Drummy (86%) def. Pou (14%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Drummy (87%) def. Pou (13%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Drummy (24.14) def. Pou (2.01)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Beck (75%) def. Parkhomenko (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Beck (93%) def. Parkhomenko (7%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Beck (89%) def. Parkhomenko (11%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Beck (90%) def. Parkhomenko (10%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Beck (15.35) def. Parkhomenko (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -94,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>DUKE</i></b> - Chi (96%) def. Hiser (4%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chi (75%) def. Hiser (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chi (91%) def. Hiser (9%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Chi (88%) def. Hiser (12%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Chi (89%) def. Hiser (11%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chi (15.20) def. Hiser (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

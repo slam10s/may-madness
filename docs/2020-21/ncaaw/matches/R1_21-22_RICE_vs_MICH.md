@@ -39,8 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***MICH*** - #8 Michigan (94%) def. #40 Rice (6%)  
 - TRN: ***MICH*** - #8 Michigan (96%) def. #36 Rice (4%)  
 - Massey: ***MICH*** - #15 Michigan (75%) def. #38 Rice (25%)  
-- Lineup: ***MICH*** - Michigan (91%) def. Rice (9%)  
-- Composite: ***MICH*** - Michigan (69%) def. Rice (31%)  
+- Lineup: ***MICH*** - Michigan (92%) def. Rice (8%)  
+- Composite: ***MICH*** - Michigan (70%) def. Rice (30%)  
 - UTR: ***MICH*** - #17 Michigan (+1.87) def. #35 Rice (-1.87)  
 - ITA: ***MICH*** - #19 Michigan def. #40 Rice  
 - USTA Poll: ***MICH*** - #7 Michigan def. Rice  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Miller (75%) def. Haet (25%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Miller (91%) def. Haet (9%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Miller (88%) def. Haet (12%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Miller (89%) def. Haet (11%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Miller (10.66) def. Haet (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>RICE</i></b> - Trevisan (52%) def. Cerdan (48%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Cerdan (75%) def. Trevisan (25%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Cerdan (76%) def. Trevisan (24%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Cerdan (65%) def. Trevisan (35%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Cerdan (66%) def. Trevisan (34%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Trevisan (6.30) def. Cerdan (1.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -116,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MICH</i></b> - Lorenzini (52%) def. Bowtell (48%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Lorenzini (75%) def. Bowtell (25%)</li>  
 <li>UTR: <b><i>RICE</i></b> - Bowtell (61%) def. Lorenzini (39%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Lorenzini (55%) def. Bowtell (45%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Lorenzini (56%) def. Bowtell (44%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Lorenzini (2.86) def. Bowtell (1.88)</li>  
 </ul>
 </details>&nbsp;</li>

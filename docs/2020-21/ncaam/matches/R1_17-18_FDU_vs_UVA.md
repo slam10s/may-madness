@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - Massey: ***UVA*** - #3 Virginia (75%) def. #64 Fairleigh Dickinson (25%)  
 - Lineup: ***UVA*** - Virginia (100%) def. Fairleigh Dickinson (0%)  
-- Composite: ***FDU*** - Fairleigh Dickinson (99%) def. Virginia (1%)  
+- Composite: ***UVA*** - Virginia (79%) def. Fairleigh Dickinson (21%)  
 - UTR: ***UVA*** - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)  
 - ITA: ***UVA*** - #4 Virginia def. #62 Fairleigh Dickinson  
 - USTA Poll: ***UVA*** - #1 Virginia def. Fairleigh Dickinson  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>TRN: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>UTR: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
-<li>Composite: <b><i>FDU</i></b> - Pukse (99%) def. Soderlund (1%)</li>  
+<li>Composite: <b><i>FDU</i></b> - Pukse (93%) def. Soderlund (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Soderlund (48.38) def. Pukse (1.52)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Schulenburg (75%) def. Gudins (25%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Schulenburg (92%) def. Gudins (8%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Schulenburg (93%) def. Gudins (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Schulenburg (18.39) def. Gudins (1.26)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Rodesch (75%) def. Autuch (25%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Rodesch (92%) def. Autuch (8%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Rodesch (93%) def. Autuch (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Rodesch (3.82) def. Autuch (1.74)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Ross (75%) def. Sader (25%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Ross (92%) def. Sader (8%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Ross (93%) def. Sader (7%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Ross (2.67) def. Sader (1.68)</li>  
 </ul>
 </details>&nbsp;</li>

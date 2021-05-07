@@ -39,8 +39,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***ND*** - #40 Notre Dame (77%) def. #47 Western Mich. (23%)  
 - TRN: ***ND*** - #42 Notre Dame (62%) def. #46 Western Mich. (38%)  
 - Massey: ***ND*** - #36 Notre Dame (75%) def. #45 Western Mich. (25%)  
-- Lineup: ***ND*** - Notre Dame (92%) def. Western Mich. (8%)  
-- Composite: ***WMU*** - Western Mich. (99%) def. Notre Dame (1%)  
+- Lineup: ***ND*** - Notre Dame (93%) def. Western Mich. (7%)  
+- Composite: ***ND*** - Notre Dame (67%) def. Western Mich. (33%)  
 - UTR: ***ND*** - #38 Notre Dame (+3.43) def. #53 Western Mich. (-3.43)  
 - ITA: ***ND*** - #34 Notre Dame def. #41 Western Mich.  
 - USTA Poll: ***WMU*** - RV Western Mich. def. Notre Dame  
@@ -94,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
 <li>Massey: <b><i>WMU</i></b> - Boone (75%) def. Howells (25%)</li>  
 <li>UTR: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
-<li>Composite: <b><i>WMU</i></b> - Boone (99%) def. Howells (1%)</li>  
+<li>Composite: <b><i>WMU</i></b> - Boone (93%) def. Howells (7%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Boone (1.91) def. Howells (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -105,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>ND</i></b> - Che (65%) def. Honnappa (35%)</li>  
 <li>Massey: <b><i>WMU</i></b> - Honnappa (75%) def. Che (25%)</li>  
 <li>UTR: <b><i>ND</i></b> - Che (78%) def. Honnappa (22%)</li>  
-<li>Composite: <b><i>ND</i></b> - Che (56%) def. Honnappa (44%)</li>  
+<li>Composite: <b><i>ND</i></b> - Che (62%) def. Honnappa (38%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Honnappa (2.67) def. Che (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

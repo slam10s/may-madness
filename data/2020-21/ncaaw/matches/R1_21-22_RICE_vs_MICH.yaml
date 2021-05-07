@@ -40,8 +40,8 @@ Predictions:
   SLM: "MICH - #8 Michigan (94%) def. #40 Rice (6%)"
   TRN: "MICH - #8 Michigan (96%) def. #36 Rice (4%)"
   MAS: "MICH - #15 Michigan (75%) def. #38 Rice (25%)"
-  LNUP: MICH - Michigan (91%) def. Rice (9%)
-  AVG: MICH - Michigan (69%) def. Rice (31%)
+  LNUP: MICH - Michigan (92%) def. Rice (8%)
+  AVG: MICH - Michigan (70%) def. Rice (30%)
   UTR: "MICH - #17 Michigan (+1.87) def. #35 Rice (-1.87)"
   ITA: "MICH - #19 Michigan def. #40 Rice"
   USTA: "MICH - #7 Michigan def. Rice"
@@ -49,10 +49,10 @@ Predictions:
   Seeding: "MICH - #2 Michigan def. #3 Rice"
 Lineups:
   Predictions:
-    Average EWPs for MICH: 88%,75%,65%,62%,73%,55%
-    Average EWPs for RICE: 12%,25%,35%,38%,27%,45%
-    MICH wins 4 or more Singles points: 75%
-    RICE wins 4 or more Singles points: 7%
+    Average EWPs for MICH: 89%,75%,66%,62%,73%,56%
+    Average EWPs for RICE: 11%,25%,34%,38%,27%,44%
+    MICH wins 4 or more Singles points: 76%
+    RICE wins 4 or more Singles points: 6%
     Winner decided by the Doubles point: 18%
   Singles:
     - Position: 1
@@ -63,7 +63,7 @@ Lineups:
         TRN: MICH - Miller (94%) def. Haet (6%)
         MAS: MICH - Miller (75%) def. Haet (25%)
         UTR: MICH - Miller (91%) def. Haet (9%)
-        AVG: MICH - Miller (88%) def. Haet (12%)
+        AVG: MICH - Miller (89%) def. Haet (11%)
         ITA: MICH - Miller (10.66) def. Haet (0.00)
     - Position: 2
       MICH: Chiara Lommer - 10-3 at 2, 12-4 in duals, 14-5 overall
@@ -83,7 +83,7 @@ Lineups:
         TRN: RICE - Trevisan (52%) def. Cerdan (48%)
         MAS: MICH - Cerdan (75%) def. Trevisan (25%)
         UTR: MICH - Cerdan (76%) def. Trevisan (24%)
-        AVG: MICH - Cerdan (65%) def. Trevisan (35%)
+        AVG: MICH - Cerdan (66%) def. Trevisan (34%)
         ITA: RICE - Trevisan (6.30) def. Cerdan (1.79)
     - Position: 4
       MICH: Jaedan Brown - 7-0 at 4, 15-2 in duals, 17-3 overall
@@ -113,7 +113,7 @@ Lineups:
         TRN: MICH - Lorenzini (52%) def. Bowtell (48%)
         MAS: MICH - Lorenzini (75%) def. Bowtell (25%)
         UTR: RICE - Bowtell (61%) def. Lorenzini (39%)
-        AVG: MICH - Lorenzini (55%) def. Bowtell (45%)
+        AVG: MICH - Lorenzini (56%) def. Bowtell (44%)
         ITA: MICH - Lorenzini (2.86) def. Bowtell (1.88)
   Doubles:
     - Position: 1

@@ -40,8 +40,8 @@ Predictions:
   SLM: "AZST - #25 Arizona St. (70%) def. #39 Wichita St. (30%)"
   TRN: "AZST - #25 Arizona St. (70%) def. #37 Wichita St. (30%)"
   MAS: "AZST - #24 Arizona St. (75%) def. #41 Wichita St. (25%)"
-  LNUP: WICH - Wichita St. (55%) def. Arizona St. (45%)
-  AVG: WICH - Wichita St. (99%) def. Arizona St. (1%)
+  LNUP: AZST - Arizona St. (56%) def. Wichita St. (44%)
+  AVG: AZST - Arizona St. (52%) def. Wichita St. (48%)
   UTR: "AZST - #23 Arizona St. (+2.10) def. #39 Wichita St. (-2.10)"
   ITA: "AZST - #20 Arizona St. def. #33 Wichita St."
   USTA: "AZST - #19 Arizona St. def. Wichita St."
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "AZST - #2 Arizona St. def. #3 Wichita St."
 Lineups:
   Predictions:
-    Average EWPs for AZST: 47%,1%,81%,34%,63%,62%
-    Average EWPs for WICH: 53%,99%,19%,66%,37%,38%
-    AZST wins 4 or more Singles points: 28%
-    WICH wins 4 or more Singles points: 35%
-    Winner decided by the Doubles point: 37%
+    Average EWPs for AZST: 50%,19%,82%,35%,65%,63%
+    Average EWPs for WICH: 50%,81%,18%,65%,35%,37%
+    AZST wins 4 or more Singles points: 37%
+    WICH wins 4 or more Singles points: 28%
+    Winner decided by the Doubles point: 35%
   Singles:
     - Position: 1
       AZST: Nathan Ponwtih - 14-7 at 1, 15-7 in duals, 15-7 overall
@@ -63,7 +63,7 @@ Lineups:
         TRN: AZST - Ponwtih (59%) def. Dellien (41%)
         MAS: WICH - Dellien (75%) def. Ponwtih (25%)
         UTR: WICH - Dellien (56%) def. Ponwtih (44%)
-        AVG: WICH - Dellien (53%) def. Ponwtih (47%)
+        AVG: WICH - Dellien (51%) def. Ponwtih (49%)
         ITA: WICH - Dellien (19.99) def. Ponwtih (8.02)
     - Position: 2
       AZST: Makey Rakotomalala - 4-8 at 2, 9-10 in duals, 9-10 overall
@@ -73,7 +73,7 @@ Lineups:
         TRN: WICH - Frosa (100%) def. Rakotomalala (0%)
         MAS: AZST - Rakotomalala (75%) def. Frosa (25%)
         UTR: WICH - Frosa (100%) def. Rakotomalala (0%)
-        AVG: WICH - Frosa (99%) def. Rakotomalala (1%)
+        AVG: WICH - Frosa (81%) def. Rakotomalala (19%)
         ITA: WICH - Frosa (2.75) def. Rakotomalala (0.00)
     - Position: 3
       AZST: Tim Ruehl - 6-2 at 3, 10-5 in duals, 10-5 overall
@@ -83,7 +83,7 @@ Lineups:
         TRN: AZST - Ruehl (84%) def. Latinovic (16%)
         MAS: AZST - Ruehl (75%) def. Latinovic (25%)
         UTR: AZST - Ruehl (88%) def. Latinovic (12%)
-        AVG: AZST - Ruehl (81%) def. Latinovic (19%)
+        AVG: AZST - Ruehl (82%) def. Latinovic (18%)
         ITA: AZST - Ruehl (2.65) def. Latinovic (1.52)
     - Position: 4
       AZST: George Stoupe - 4-4 at 4, 10-10 in duals, 10-10 overall
@@ -93,7 +93,7 @@ Lineups:
         TRN: WICH - Acevedo (62%) def. Stoupe (38%)
         MAS: WICH - Acevedo (75%) def. Stoupe (25%)
         UTR: WICH - Acevedo (64%) def. Stoupe (36%)
-        AVG: WICH - Acevedo (66%) def. Stoupe (34%)
+        AVG: WICH - Acevedo (65%) def. Stoupe (35%)
         ITA: WICH - Acevedo (1.90) def. Stoupe (1.41)
     - Position: 5
       AZST: Max McKennon - 3-2 at 5, 4-5 in duals, 4-5 overall
@@ -103,7 +103,7 @@ Lineups:
         TRN: AZST - McKennon (55%) def. Ovil (45%)
         MAS: AZST - McKennon (75%) def. Ovil (25%)
         UTR: AZST - McKennon (85%) def. Ovil (15%)
-        AVG: AZST - McKennon (63%) def. Ovil (37%)
+        AVG: AZST - McKennon (65%) def. Ovil (35%)
         ITA: WICH - Ovil (1.40) def. McKennon (0.00)
     - Position: 6
       AZST: Christian Lerby - 9-5 at 6, 12-7 in duals, 12-7 overall
@@ -113,7 +113,7 @@ Lineups:
         TRN: AZST - Lerby (56%) def. Mrsic (44%)
         MAS: AZST - Lerby (75%) def. Mrsic (25%)
         UTR: AZST - Lerby (67%) def. Mrsic (33%)
-        AVG: AZST - Lerby (62%) def. Mrsic (38%)
+        AVG: AZST - Lerby (63%) def. Mrsic (37%)
         ITA: WICH - Mrsic (1.93) def. Lerby (1.82)
   Doubles:
     - Position: 1

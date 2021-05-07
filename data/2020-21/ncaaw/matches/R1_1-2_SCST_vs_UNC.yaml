@@ -47,11 +47,11 @@ Predictions:
   Seeding: "UNC - #1 North Carolina def. #4 South Carolina St."
 Lineups:
   Predictions:
-    Average EWPs for UNC: 93%,93%,92%,92%,93%,93%
-    Average EWPs for SCST: 7%,7%,8%,8%,7%,7%
-    UNC wins 4 or more Singles points: 99%
+    Average EWPs for UNC: 93%,93%,93%,93%,93%,93%
+    Average EWPs for SCST: 7%,7%,7%,7%,7%,7%
+    UNC wins 4 or more Singles points: 100%
     SCST wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 1%
+    Winner decided by the Doubles point: 0%
   Singles:
     - Position: 1
       UNC: Sara Daavettila - 10-1 at 1, 15-1 in duals, 15-1 overall
@@ -81,7 +81,7 @@ Lineups:
         TRN: UNC - Morra (99%) def. Mihajilovic (1%)
         MAS: UNC - Morra (75%) def. Mihajilovic (25%)
         UTR: UNC - Morra (99%) def. Mihajilovic (1%)
-        AVG: UNC - Morra (92%) def. Mihajilovic (8%)
+        AVG: UNC - Morra (93%) def. Mihajilovic (7%)
         ITA: UNC - Morra (20.00) def. Mihajilovic (0.00)
     - Position: 4
       UNC: Elizabeth Scotty - 6-1 at 4, 11-2 in duals, 11-3 overall
@@ -91,7 +91,7 @@ Lineups:
         TRN: UNC - Scotty (99%) def. Patnaik (1%)
         MAS: UNC - Scotty (75%) def. Patnaik (25%)
         UTR: UNC - Scotty (99%) def. Patnaik (1%)
-        AVG: UNC - Scotty (92%) def. Patnaik (8%)
+        AVG: UNC - Scotty (93%) def. Patnaik (7%)
         ITA: UNC - Scotty (5.93) def. Patnaik (2.21)
     - Position: 5
       UNC: Makenna Jones - 1-2 at 5, 13-2 in duals, 15-2 overall

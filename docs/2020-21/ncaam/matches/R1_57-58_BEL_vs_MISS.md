@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Reynolds (98%) def. Toledo (2%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Reynolds (75%) def. Toledo (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Reynolds (97%) def. Toledo (3%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Reynolds (91%) def. Toledo (9%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Reynolds (92%) def. Toledo (8%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Reynolds (36.17) def. Toledo (2.71)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Slavic (99%) def. Luis (1%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Slavic (75%) def. Luis (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Slavic (92%) def. Luis (8%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Slavic (90%) def. Luis (10%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Slavic (91%) def. Luis (9%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Slavic (24.24) def. Luis (1.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Lithen (99%) def. Castro (1%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Lithen (75%) def. Castro (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Lithen (96%) def. Castro (4%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Lithen (91%) def. Castro (9%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Lithen (92%) def. Castro (8%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Lithen (2.40) def. Castro (1.99)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>MISS</i></b> - Engelhardt (98%) def. Wallin (2%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Engelhardt (75%) def. Wallin (25%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Engelhardt (94%) def. Wallin (6%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Engelhardt (90%) def. Wallin (10%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Engelhardt (91%) def. Wallin (9%)</li>  
 <li>ITA: <b><i>BEL</i></b> - Wallin (2.75) def. Engelhardt (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -47,8 +47,8 @@ Predictions:
   Seeding: "GT - #1 Georgia Tech def. #4 Ga. Southern"
 Lineups:
   Predictions:
-    Average EWPs for GT: 92%,92%,86%,90%,87%,91%
-    Average EWPs for GASO: 8%,8%,14%,10%,13%,9%
+    Average EWPs for GT: 92%,92%,87%,91%,87%,92%
+    Average EWPs for GASO: 8%,8%,13%,9%,13%,8%
     GT wins 4 or more Singles points: 99%
     GASO wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -81,7 +81,7 @@ Lineups:
         TRN: GT - Cohen (93%) def. Wagemaker (7%)
         MAS: GT - Cohen (75%) def. Wagemaker (25%)
         UTR: GT - Cohen (87%) def. Wagemaker (13%)
-        AVG: GT - Cohen (86%) def. Wagemaker (14%)
+        AVG: GT - Cohen (87%) def. Wagemaker (13%)
         ITA: GT - Cohen (3.38) def. Wagemaker (1.85)
     - Position: 4
       GT: Ava Hrastar - 2-3 at 4, 10-9 in duals, 12-9 overall
@@ -91,7 +91,7 @@ Lineups:
         TRN: GT - Hrastar (97%) def. Diemen (3%)
         MAS: GT - Hrastar (75%) def. Diemen (25%)
         UTR: GT - Hrastar (97%) def. Diemen (3%)
-        AVG: GT - Hrastar (90%) def. Diemen (10%)
+        AVG: GT - Hrastar (91%) def. Diemen (9%)
         ITA: GT - Hrastar (5.81) def. Diemen (0.00)
     - Position: 5
       GT: Carol Lee - 5-8 at 5, 12-12 in duals, 14-12 overall
@@ -111,7 +111,7 @@ Lineups:
         TRN: GT - Jain (97%) def. Hijos (3%)
         MAS: GT - Jain (75%) def. Hijos (25%)
         UTR: GT - Jain (99%) def. Hijos (1%)
-        AVG: GT - Jain (91%) def. Hijos (9%)
+        AVG: GT - Jain (92%) def. Hijos (8%)
         ITA: GASO - Hijos (1.93) def. Jain (1.89)
   Doubles:
     - Position: 1

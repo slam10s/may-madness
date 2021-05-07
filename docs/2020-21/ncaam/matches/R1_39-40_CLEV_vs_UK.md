@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - TRN: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
 - Massey: ***UK*** - #17 Kentucky (75%) def. #55 Cleveland St. (25%)  
 - Lineup: ***UK*** - Kentucky (100%) def. Cleveland St. (0%)  
-- Composite: ***UK*** - Kentucky (90%) def. Cleveland St. (10%)  
+- Composite: ***UK*** - Kentucky (91%) def. Cleveland St. (9%)  
 - UTR: ***UK*** - #16 Kentucky (+7.36) def. #54 Cleveland St. (-7.36)  
 - ITA: ***UK*** - #15 Kentucky def. #57 Cleveland St.  
 - USTA Poll: ***UK*** - #17 Kentucky def. Cleveland St.  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Draxl (99%) def. Mostardi (1%)</li>  
 <li>Massey: <b><i>UK</i></b> - Draxl (75%) def. Mostardi (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Draxl (96%) def. Mostardi (4%)</li>  
-<li>Composite: <b><i>UK</i></b> - Draxl (91%) def. Mostardi (9%)</li>  
+<li>Composite: <b><i>UK</i></b> - Draxl (92%) def. Mostardi (8%)</li>  
 <li>ITA: <b><i>UK</i></b> - Draxl (64.58) def. Mostardi (2.33)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Hurrion (96%) def. Phillips (4%)</li>  
 <li>Massey: <b><i>UK</i></b> - Hurrion (75%) def. Phillips (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Hurrion (94%) def. Phillips (6%)</li>  
-<li>Composite: <b><i>UK</i></b> - Hurrion (89%) def. Phillips (11%)</li>  
+<li>Composite: <b><i>UK</i></b> - Hurrion (90%) def. Phillips (10%)</li>  
 <li>ITA: <b><i>UK</i></b> - Hurrion (22.80) def. Phillips (2.83)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Bourgois (96%) def. Mareschal-Hay (4%)</li>  
 <li>Massey: <b><i>UK</i></b> - Bourgois (75%) def. Mareschal-Hay (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Bourgois (93%) def. Mareschal-Hay (7%)</li>  
-<li>Composite: <b><i>UK</i></b> - Bourgois (89%) def. Mareschal-Hay (11%)</li>  
+<li>Composite: <b><i>UK</i></b> - Bourgois (90%) def. Mareschal-Hay (10%)</li>  
 <li>ITA: <b><i>UK</i></b> - Bourgois (7.98) def. Mareschal-Hay (2.45)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UK</i></b> - Lapadat (99%) def. Bilinovich (1%)</li>  
 <li>Massey: <b><i>UK</i></b> - Lapadat (75%) def. Bilinovich (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Lapadat (97%) def. Bilinovich (3%)</li>  
-<li>Composite: <b><i>UK</i></b> - Lapadat (91%) def. Bilinovich (9%)</li>  
+<li>Composite: <b><i>UK</i></b> - Lapadat (92%) def. Bilinovich (8%)</li>  
 <li>ITA: <b><i>UK</i></b> - Lapadat (6.21) def. Bilinovich (1.91)</li>  
 </ul>
 </details>&nbsp;</li>

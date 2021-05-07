@@ -41,7 +41,7 @@ Predictions:
   TRN: "GT - #33 Georgia Tech (64%) def. #40 Memphis (36%)"
   MAS: "GT - #25 Georgia Tech (75%) def. #43 Memphis (25%)"
   LNUP: GT - Georgia Tech (91%) def. Memphis (9%)
-  AVG: GT - Georgia Tech (64%) def. Memphis (36%)
+  AVG: GT - Georgia Tech (68%) def. Memphis (32%)
   UTR: "GT - #36 Georgia Tech (+1.14) def. #43 Memphis (-1.14)"
   ITA: "GT - #30 Georgia Tech def. #38 Memphis"
   USTA: GT - RV Georgia Tech def. Memphis
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "GT - #2 Georgia Tech def. #3 Memphis"
 Lineups:
   Predictions:
-    Average EWPs for GT: 74%,81%,68%,78%,32%,72%
-    Average EWPs for MEM: 26%,19%,32%,22%,68%,28%
-    GT wins 4 or more Singles points: 72%
+    Average EWPs for GT: 74%,81%,68%,78%,34%,72%
+    Average EWPs for MEM: 26%,19%,32%,22%,66%,28%
+    GT wins 4 or more Singles points: 73%
     MEM wins 4 or more Singles points: 7%
-    Winner decided by the Doubles point: 21%
+    Winner decided by the Doubles point: 20%
   Singles:
     - Position: 1
       GT: Marcus McDaniel - 10-6 at 1, 15-6 in duals, 15-8 overall
@@ -103,7 +103,7 @@ Lineups:
         TRN: MEM - Taylor (58%) def. McKinney (42%)
         MAS: MEM - Taylor (75%) def. McKinney (25%)
         UTR: MEM - Taylor (82%) def. McKinney (18%)
-        AVG: MEM - Taylor (68%) def. McKinney (32%)
+        AVG: MEM - Taylor (66%) def. McKinney (34%)
         ITA: MEM - Taylor (2.71) def. McKinney (1.37)
     - Position: 6
       GT: Chen Dong - 11-4 at 6, 11-4 in duals, 12-6 overall

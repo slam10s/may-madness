@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Mertena (67%) def. Afanasyeva (33%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Mertena (75%) def. Afanasyeva (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Mertena (91%) def. Afanasyeva (9%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Mertena (73%) def. Afanasyeva (27%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Mertena (74%) def. Afanasyeva (26%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Mertena (7.45) def. Afanasyeva (2.51)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Briggs (94%) def. Nikolopoulou (6%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Briggs (75%) def. Nikolopoulou (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Briggs (95%) def. Nikolopoulou (5%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Briggs (89%) def. Nikolopoulou (11%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Briggs (90%) def. Nikolopoulou (10%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Briggs (8.89) def. Nikolopoulou (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Kuczer (91%) def. Moulin (9%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Kuczer (75%) def. Moulin (25%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Kuczer (91%) def. Moulin (9%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Kuczer (86%) def. Moulin (14%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Kuczer (87%) def. Moulin (13%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Kuczer (3.41) def. Moulin (3.15)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -40,8 +40,8 @@ Predictions:
   SLM: "OKLA - #13 Oklahoma (87%) def. #35 Southern California (13%)"
   TRN: "OKLA - #22 Oklahoma (88%) def. #41 Southern California (12%)"
   MAS: "OKLA - #12 Oklahoma (75%) def. #26 Southern California (25%)"
-  LNUP: USC - Southern California (89%) def. Oklahoma (11%)
-  AVG: USC - Southern California (99%) def. Oklahoma (1%)
+  LNUP: USC - Southern California (83%) def. Oklahoma (17%)
+  AVG: USC - Southern California (61%) def. Oklahoma (39%)
   UTR: "USC - #6 Southern California (+1.96) def. #14 Oklahoma (-1.96)"
   ITA: "OKLA - #23 Oklahoma def. #35 Southern California"
   USTA: "OKLA - #22 Oklahoma def. Southern California"
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "OKLA - #2 Oklahoma def. #3 Southern California"
 Lineups:
   Predictions:
-    Average EWPs for OKLA: 32%,45%,93%,21%,26%,1%
-    Average EWPs for USC: 68%,55%,7%,79%,74%,99%
-    OKLA wins 4 or more Singles points: 8%
-    USC wins 4 or more Singles points: 66%
-    Winner decided by the Doubles point: 26%
+    Average EWPs for OKLA: 38%,48%,93%,21%,27%,7%
+    Average EWPs for USC: 62%,52%,7%,79%,73%,93%
+    OKLA wins 4 or more Singles points: 12%
+    USC wins 4 or more Singles points: 59%
+    Winner decided by the Doubles point: 29%
   Singles:
     - Position: 1
       OKLA: Carmen Corley - 12-6 at 1, 12-6 in duals, 19-13 overall
@@ -63,7 +63,7 @@ Lineups:
         TRN: USC - Ewing (85%) def. Corley (15%)
         MAS: OKLA - Corley (75%) def. Ewing (25%)
         UTR: USC - Ewing (80%) def. Corley (20%)
-        AVG: USC - Ewing (68%) def. Corley (32%)
+        AVG: USC - Ewing (62%) def. Corley (38%)
         ITA: USC - Ewing (14.56) def. Corley (9.20)
     - Position: 2
       OKLA: Dana Guzman - 13-1 at 2, 18-2 in duals, 18-2 overall
@@ -73,7 +73,7 @@ Lineups:
         TRN: USC - Cayetano (60%) def. Guzman (40%)
         MAS: OKLA - Guzman (75%) def. Cayetano (25%)
         UTR: USC - Cayetano (66%) def. Guzman (34%)
-        AVG: USC - Cayetano (55%) def. Guzman (45%)
+        AVG: USC - Cayetano (52%) def. Guzman (48%)
         ITA: OKLA - Guzman (9.21) def. Cayetano (5.85)
     - Position: 3
       OKLA: Ivana Corley - 11-5 at 3, 13-6 in duals, 20-12 overall
@@ -103,7 +103,7 @@ Lineups:
         TRN: USC - Willson (71%) def. Motosono (29%)
         MAS: USC - Willson (75%) def. Motosono (25%)
         UTR: USC - Willson (78%) def. Motosono (22%)
-        AVG: USC - Willson (74%) def. Motosono (26%)
+        AVG: USC - Willson (73%) def. Motosono (27%)
         ITA: USC - Willson (1.74) def. Motosono (1.65)
     - Position: 6
       OKLA: Camila Romero - 1-1 at 6, 1-1 in duals, 1-1 overall
@@ -113,7 +113,7 @@ Lineups:
         TRN: USC - Dvorak (100%) def. Romero (0%)
         MAS: USC - Dvorak (75%) def. Romero (25%)
         UTR: USC - Dvorak (100%) def. Romero (0%)
-        AVG: USC - Dvorak (99%) def. Romero (1%)
+        AVG: USC - Dvorak (93%) def. Romero (7%)
         ITA: USC - Dvorak (1.85) def. Romero (0.00)
   Doubles:
     - Position: 1

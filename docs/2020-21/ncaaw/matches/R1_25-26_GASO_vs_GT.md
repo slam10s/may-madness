@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
 <li>Massey: <b><i>GT</i></b> - Cohen (75%) def. Wagemaker (25%)</li>  
 <li>UTR: <b><i>GT</i></b> - Cohen (87%) def. Wagemaker (13%)</li>  
-<li>Composite: <b><i>GT</i></b> - Cohen (86%) def. Wagemaker (14%)</li>  
+<li>Composite: <b><i>GT</i></b> - Cohen (87%) def. Wagemaker (13%)</li>  
 <li>ITA: <b><i>GT</i></b> - Cohen (3.38) def. Wagemaker (1.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
 <li>Massey: <b><i>GT</i></b> - Hrastar (75%) def. Diemen (25%)</li>  
 <li>UTR: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
-<li>Composite: <b><i>GT</i></b> - Hrastar (90%) def. Diemen (10%)</li>  
+<li>Composite: <b><i>GT</i></b> - Hrastar (91%) def. Diemen (9%)</li>  
 <li>ITA: <b><i>GT</i></b> - Hrastar (5.81) def. Diemen (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>GT</i></b> - Jain (97%) def. Hijos (3%)</li>  
 <li>Massey: <b><i>GT</i></b> - Jain (75%) def. Hijos (25%)</li>  
 <li>UTR: <b><i>GT</i></b> - Jain (99%) def. Hijos (1%)</li>  
-<li>Composite: <b><i>GT</i></b> - Jain (91%) def. Hijos (9%)</li>  
+<li>Composite: <b><i>GT</i></b> - Jain (92%) def. Hijos (8%)</li>  
 <li>ITA: <b><i>GASO</i></b> - Hijos (1.93) def. Jain (1.89)</li>  
 </ul>
 </details>&nbsp;</li>

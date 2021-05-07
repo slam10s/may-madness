@@ -40,7 +40,7 @@ Predictions:
   TRN: "TENN - #5 Tennessee (99%) def. #64 Alabama A&M (1%)"
   MAS: "TENN - #2 Tennessee (75%) def. #65 Alabama A&M (25%)"
   LNUP: TENN - Tennessee (100%) def. Alabama A&M (0%)
-  AVG: TENN - Tennessee (92%) def. Alabama A&M (8%)
+  AVG: TENN - Tennessee (93%) def. Alabama A&M (7%)
   UTR: "TENN - #4 Tennessee (+16.92) def. #65 Alabama A&M (-16.92)"
   ITA: "TENN - #3 Tennessee def. #63 Alabama A&M"
   USTA: "TENN - #4 Tennessee def. Alabama A&M"
@@ -48,11 +48,11 @@ Predictions:
   Seeding: "TENN - #1 Tennessee def. #4 Alabama A&M"
 Lineups:
   Predictions:
-    Average EWPs for TENN: 92%,92%,93%,92%,92%,93%
-    Average EWPs for AAMU: 8%,8%,7%,8%,8%,7%
-    TENN wins 4 or more Singles points: 99%
+    Average EWPs for TENN: 93%,93%,93%,93%,93%,93%
+    Average EWPs for AAMU: 7%,7%,7%,7%,7%,7%
+    TENN wins 4 or more Singles points: 100%
     AAMU wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 1%
+    Winner decided by the Doubles point: 0%
   Singles:
     - Position: 1
       TENN: Adam Walton - 8-7 at 1, 10-8 in duals, 16-10 overall
@@ -62,7 +62,7 @@ Lineups:
         TRN: TENN - Walton (99%) def. Rios (1%)
         MAS: TENN - Walton (75%) def. Rios (25%)
         UTR: TENN - Walton (99%) def. Rios (1%)
-        AVG: TENN - Walton (92%) def. Rios (8%)
+        AVG: TENN - Walton (93%) def. Rios (7%)
         ITA: TENN - Walton (42.60) def. Rios (0.00)
     - Position: 2
       TENN: Johannus Monday - 17-3 at 2, 22-4 in duals, 31-6 overall
@@ -72,7 +72,7 @@ Lineups:
         TRN: TENN - Monday (99%) def. Popovski (1%)
         MAS: TENN - Monday (75%) def. Popovski (25%)
         UTR: TENN - Monday (99%) def. Popovski (1%)
-        AVG: TENN - Monday (92%) def. Popovski (8%)
+        AVG: TENN - Monday (93%) def. Popovski (7%)
         ITA: TENN - Monday (43.71) def. Popovski (1.64)
     - Position: 3
       TENN: Martim Prata - 11-8 at 3, 15-8 in duals, 22-12 overall
@@ -92,7 +92,7 @@ Lineups:
         TRN: TENN - Wiedenmann (99%) def. Mulada (1%)
         MAS: TENN - Wiedenmann (75%) def. Mulada (25%)
         UTR: TENN - Wiedenmann (99%) def. Mulada (1%)
-        AVG: TENN - Wiedenmann (92%) def. Mulada (8%)
+        AVG: TENN - Wiedenmann (93%) def. Mulada (7%)
         ITA: TENN - Wiedenmann (4.02) def. Mulada (1.65)
     - Position: 5
       TENN: Giles Hussey - 9-0 at 5, 18-3 in duals, 29-4 overall
@@ -102,7 +102,7 @@ Lineups:
         TRN: TENN - Hussey (99%) def. Setiawan (1%)
         MAS: TENN - Hussey (75%) def. Setiawan (25%)
         UTR: TENN - Hussey (99%) def. Setiawan (1%)
-        AVG: TENN - Hussey (92%) def. Setiawan (8%)
+        AVG: TENN - Hussey (93%) def. Setiawan (7%)
         ITA: TENN - Hussey (7.54) def. Setiawan (1.79)
     - Position: 6
       TENN: Pat Harper - 5-3 at 6, 5-4 in duals, 12-5 overall

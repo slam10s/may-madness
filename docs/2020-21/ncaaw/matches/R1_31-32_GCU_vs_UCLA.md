@@ -38,8 +38,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UCLA*** - #4 UCLA (99%) def. #59 Grand Canyon (1%)  
 - TRN: ***UCLA*** - #7 UCLA (99%) def. #60 Grand Canyon (1%)  
 - Massey: ***UCLA*** - #4 UCLA (75%) def. #57 Grand Canyon (25%)  
-- Lineup: ***UCLA*** - UCLA (100%) def. Grand Canyon (0%)  
-- Composite: ***UCLA*** - UCLA (92%) def. Grand Canyon (8%)  
+- Lineup: ***UCLA*** - UCLA (99%) def. Grand Canyon (1%)  
+- Composite: ***UCLA*** - UCLA (93%) def. Grand Canyon (7%)  
 - UTR: ***UCLA*** - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)  
 - ITA: ***UCLA*** - #4 UCLA def. #62 Grand Canyon  
 - USTA Poll: ***UCLA*** - #4 UCLA def. Grand Canyon  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Forbes (99%) def. Puehse (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Forbes (75%) def. Puehse (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Forbes (98%) def. Puehse (2%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Forbes (92%) def. Puehse (8%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Forbes (93%) def. Puehse (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Forbes (46.46) def. Puehse (2.45)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Hart (75%) def. Occhipinti (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Hart (98%) def. Occhipinti (2%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Hart (92%) def. Occhipinti (8%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Hart (93%) def. Occhipinti (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Hart (12.21) def. Occhipinti (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Bolton (75%) def. Weiss (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bolton (98%) def. Weiss (2%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Bolton (92%) def. Weiss (8%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Bolton (93%) def. Weiss (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Bolton (4.20) def. Weiss (2.42)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Wolff (99%) def. Lomas (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Wolff (75%) def. Lomas (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Wolff (98%) def. Lomas (2%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Wolff (92%) def. Lomas (8%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Wolff (93%) def. Lomas (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Wolff (2.06) def. Lomas (1.64)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Vagramov (75%) def. Prudhomme (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Vagramov (92%) def. Prudhomme (8%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Vagramov (93%) def. Prudhomme (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Prudhomme (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Ong (75%) def. Andersen (25%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Ong (92%) def. Andersen (8%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Ong (93%) def. Andersen (7%)</li>  
 <li>ITA: <b><i>GCU</i></b> - Andersen (1.96) def. Ong (1.95)</li>  
 </ul>
 </details>&nbsp;</li>

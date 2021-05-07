@@ -39,7 +39,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***TCU*** - #9 TCU (96%) def. #43 Arkansas (4%)  
 - TRN: ***TCU*** - #9 TCU (98%) def. #44 Arkansas (2%)  
 - Massey: ***TCU*** - #6 TCU (75%) def. #50 Arkansas (25%)  
-- Lineup: ***TCU*** - TCU (98%) def. Arkansas (2%)  
+- Lineup: ***TCU*** - TCU (100%) def. Arkansas (0%)  
 - Composite: ***TCU*** - TCU (85%) def. Arkansas (15%)  
 - UTR: ***TCU*** - #10 TCU (+4.41) def. #44 Arkansas (-4.41)  
 - ITA: ***TCU*** - #7 TCU def. #43 Arkansas  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TCU</i></b> - Gray (88%) def. Reco (12%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Gray (75%) def. Reco (25%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Gray (89%) def. Reco (11%)</li>  
-<li>Composite: <b><i>TCU</i></b> - Gray (83%) def. Reco (17%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Gray (84%) def. Reco (16%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Gray (40.15) def. Reco (4.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -116,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TCU</i></b> - Paroulek (96%) def. Paya (4%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Paroulek (75%) def. Paya (25%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Paroulek (88%) def. Paya (12%)</li>  
-<li>Composite: <b><i>TCU</i></b> - Paroulek (87%) def. Paya (13%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Paroulek (88%) def. Paya (12%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Paroulek (1.35) def. Paya (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
