@@ -36,7 +36,7 @@ Gainesville, Florida
 <br>Return to [List of Matches](../index.md)  
 
 ## Match Information  
-### USC def. Oklahoma 4-3
+***USC def. Oklahoma 4-3***  
 
 ## Predictions  
 

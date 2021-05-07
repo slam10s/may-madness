@@ -34,7 +34,7 @@ Columbus, Ohio
 <br>Return to [List of Matches](../index.md)  
 
 ## Match Information  
-### Vanderbilt def. Ball State 4-0
+***Vanderbilt def. Ball State 4-0***  
 
 ## Predictions  
 

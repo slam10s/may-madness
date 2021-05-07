@@ -36,7 +36,7 @@ Chapel Hill, North Carolina
 <br>Return to [List of Matches](../index.md)  
 
 ## Match Information  
-### Old Dominion def. Arkansas 4-2
+***Old Dominion def. Arkansas 4-2***  
 
 ## Predictions  
 

@@ -36,7 +36,7 @@ Baton Rouge, Louisiana
 <br>Return to [List of Matches](../index.md)  
 
 ## Match Information  
-### Michigan def. Rice 4-1
+***Michigan def. Rice 4-1***  
 
 ## Predictions  
 

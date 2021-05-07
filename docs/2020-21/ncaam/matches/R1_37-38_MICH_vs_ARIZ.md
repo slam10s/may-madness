@@ -1,12 +1,11 @@
 First Round  
 Friday, May 7 at 10:00 EDT  
 Boone Tennis Complex  
-Lexington, Kentucky
-
-## [Michigan vs Arizona](https://www.ncaa.com/game/5833388)
+Lexington, Kentucky  
+## [Michigan vs Arizona](https://www.ncaa.com/game/5833388)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></td><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></td></tr><tr>
-<td>
+<td>  
 
 <h2>#3 Michigan</h2>  
 &nbsp; ITA: 46 (15.17)<br>  
@@ -16,10 +15,10 @@ Lexington, Kentucky
 &#10004; UTR: 18 (78.65)<br>  
 &nbsp; USTA Poll: T10<br>  
 &nbsp; Coaches Poll: 23<br>  
-<br>
+<br>  
 
 </td>
-<td>
+<td>  
 
 <h2>#2 Arizona</h2>  
 &#10004; ITA: 17 (38.97)<br>  
@@ -29,40 +28,37 @@ Lexington, Kentucky
 &nbsp; UTR: 21 (78.35)<br>  
 &#10004; USTA Poll: 18<br>  
 &#10004; Coaches Poll: 19<br>  
-<br>
+<br>  
 
 </td>
-</tr></table>
+</tr></table>  
 
-<br>Return to [List of Matches](../index.md)
 
-## Match Information
+<br>Return to [List of Matches](../index.md)  
 
-Go to [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)
+## Match Information  
+***Arizona def. Michigan 4-3***  
+Go to [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)  
 
-### Arizona def. Michigan 4-3
+## Predictions  
 
-## Predictions
+Ranks listed here are the metric's ranking within the field of 64:  
+- Slam: ***MICH*** - #13 Michigan (78%) def. #21 Arizona (22%)  
+- TRN: ***MICH*** - #12 Michigan (88%) def. #20 Arizona (12%)  
+- Massey: ***MICH*** - #14 Michigan (75%) def. #18 Arizona (25%)<sup>[1](#footnote1)</sup>  
+- Lineup: ***MICH*** - Michigan (70%) def. Arizona (30%)  
+- Composite: ***MICH*** - Michigan (77%) def. Arizona (23%)  
+- UTR: ***MICH*** - #18 Michigan (+0.3) def. #21 Arizona (-0.3)  
+- ITA: ***ARIZ*** - #17 Arizona def. #46 Michigan  
+- USTA Poll: ***ARIZ*** - #18 Arizona def. Michigan  
+- Coaches Poll: ***ARIZ*** - #19 Arizona def. #23 Michigan  
+- Seeding: ***ARIZ*** - #2 Arizona def. #3 Michigan  
 
-Ranks listed here are the metric's ranking within the field of 64:
-
-- Slam: **_MICH_** - #13 Michigan (78%) def. #21 Arizona (22%)
-- TRN: **_MICH_** - #12 Michigan (88%) def. #20 Arizona (12%)
-- Massey: **_MICH_** - #14 Michigan (75%) def. #18 Arizona (25%)<sup>[1](#footnote1)</sup>
-- Lineup: **_MICH_** - Michigan (70%) def. Arizona (30%)
-- Composite: **_MICH_** - Michigan (77%) def. Arizona (23%)
-- UTR: **_MICH_** - #18 Michigan (+0.3) def. #21 Arizona (-0.3)
-- ITA: **_ARIZ_** - #17 Arizona def. #46 Michigan
-- USTA Poll: **_ARIZ_** - #18 Arizona def. Michigan
-- Coaches Poll: **_ARIZ_** - #19 Arizona def. #23 Michigan
-- Seeding: **_ARIZ_** - #2 Arizona def. #3 Michigan
-
-## Individual Matchups
-
+## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  
-Click on a Singles match to show individual predections for each line.
+Click on a Singles match to show individual predections for each line.  
 
-### Singles:
+### Singles:  
 
 <ol>
 <li><details>
@@ -133,7 +129,7 @@ Click on a Singles match to show individual predections for each line.
 </details>&nbsp;</li>
 </ol>
 
-### Doubles:
+### Doubles:  
 
 <ol>
 <li><details>
@@ -150,18 +146,16 @@ Click on a Singles match to show individual predections for each line.
 </details>&nbsp;</li>
 </ol>
 
-### Dual Outcome Based on Individual Metrics
-
-Based on the composite metrics for each individual match:
-
-- Arizona should win 4 or more singles matches _20%_ of the time.
-- Michigan should win 4 or more singles matches _48%_ of the time.
-- The winner of the doubles point will decide the match the other _32%_ of the time.
-- If Arizona wins the doubles point, their chances of winning the dual improve to _52%_.
-- If Michigan wins the doubles point, their chances of winning the dual improve to _80%_.
-
-Return to [List of Matches](../index.md)
-
----
-
+### Dual Outcome Based on Individual Metrics  
+  
+Based on the composite metrics for each individual match:  
+- Arizona should win 4 or more singles matches _20%_ of the time.  
+- Michigan should win 4 or more singles matches _48%_ of the time.  
+- The winner of the doubles point will decide the match the other _32%_ of the time.  
+- If Arizona wins the doubles point, their chances of winning the dual improve to _52%_.  
+- If Michigan wins the doubles point, their chances of winning the dual improve to _80%_.  
+  
+Return to [List of Matches](../index.md)  
+  
+------
 <a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

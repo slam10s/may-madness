@@ -36,7 +36,7 @@ Athens, Georgia
 <br>Return to [List of Matches](../index.md)  
 
 ## Match Information  
-### Wake Forest def. Furman 4-2
+***Wake Forest def. Furman 4-2***  
 
 ## Predictions  
 
