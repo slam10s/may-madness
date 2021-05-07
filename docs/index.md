@@ -36,9 +36,17 @@ The [Massey Ratings](https://www.masseyratings.com/) are the gold standard for c
 
 > Note: All expected win percentages for Massey teams are hard-coded at 75% for the favorite and 25% for the underdog. Although his ratings are probabilistic, right now I'm not sure how to compare the ratings to come up with an expected win percentage (EWP).
 
+### Lineups
+
+Some teams just don't match up against other teams the way you might think depending on the lineups. We compute expected win percentages based on a composite metric for each individual match.
+
 ### UTR: Universal Tennis Ratings
 
 The [Universal Tennis Ratings](https://www.myutr.com/) are the gold standard for tennis ratings known by any serious tennis player. We use both the [Power 6](https://app.myutr.com/search?type=colleges&utrFitPosition=6&utrMax=16&utrMin=1&utrTeamType=singles&utrType=verified) in team comparisons and individual's verified [Singles Rating](https://support.myutr.com/en/support/solutions/articles/9000151830-understanding-the-algorithm-complete-summary) for player comparisons.
+
+### Composite
+
+Don't like one algorithm? Well how about a composite? Our Composite metric averages the expected win percentages for the different algorithms with probabilistic ratings.
 
 ### ITA: Intercollegiate Tennis Association
 
