@@ -5,6 +5,17 @@ Saturday, May 8 at 3:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 A&M-Corpus Christi</h2>  
+&nbsp; ITA: 60 (2.97)<br>  
+&nbsp; Slam: 60 (82.18)<br>  
+&nbsp; TRN: 61 (76.91)<br>  
+&nbsp; Massey: 58 (5.69)<br>  
+&nbsp; UTR: 54 (71.52)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Baylor</h2>  
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 5 (99.05)<br>  
@@ -13,17 +24,6 @@ Saturday, May 8 at 3:00 EDT
 &#10004; UTR: 9 (79.74)<br>  
 &#10004; USTA Poll: 3<br>  
 &#10004; Coaches Poll: 1<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 A&M-Corpus Christi</h2>  
-&nbsp; ITA: 60 (2.97)<br>  
-&nbsp; Slam: 60 (82.18)<br>  
-&nbsp; TRN: 61 (76.91)<br>  
-&nbsp; Massey: 58 (5.69)<br>  
-&nbsp; UTR: 54 (71.52)<br>  
 <br>  
 
 </td>

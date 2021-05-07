@@ -5,6 +5,18 @@ Saturday, May 8 at 10:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#3 Northwestern</h2>  
+&nbsp; ITA: 50 (7.95)<br>  
+&nbsp; Slam: 33 (92.89)<br>  
+&nbsp; TRN: 32 (90.90)<br>  
+&nbsp; Massey: 31 (7.50)<br>  
+&nbsp; UTR: 27 (77.56)<br>  
+&nbsp; Coaches Poll: 49<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#2 UCLA</h2>  
 &#10004; ITA: 24 (32.15)<br>  
 &#10004; Slam: 23 (93.84)<br>  
@@ -13,18 +25,6 @@ Saturday, May 8 at 10:00 EDT
 &#10004; UTR: 13 (79.06)<br>  
 &#10004; USTA Poll: 22<br>  
 &#10004; Coaches Poll: 29<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#3 Northwestern</h2>  
-&nbsp; ITA: 50 (7.95)<br>  
-&nbsp; Slam: 33 (92.89)<br>  
-&nbsp; TRN: 32 (90.90)<br>  
-&nbsp; Massey: 31 (7.50)<br>  
-&nbsp; UTR: 27 (77.56)<br>  
-&nbsp; Coaches Poll: 49<br>  
 <br>  
 
 </td>

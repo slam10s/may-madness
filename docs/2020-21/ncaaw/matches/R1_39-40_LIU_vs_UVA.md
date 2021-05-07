@@ -5,6 +5,17 @@ Friday, May 7 at 3:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 LIU</h2>  
+&nbsp; ITA: 52 (4.20)<br>  
+&nbsp; Slam: 61 (70.79)<br>  
+&nbsp; TRN: 63 (55.66)<br>  
+&nbsp; Massey: 61 (4.25)<br>  
+&nbsp; UTR: 60 (49.85)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Virginia</h2>  
 &#10004; ITA: 14 (47.67)<br>  
 &#10004; Slam: 9 (91.88)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 3:00 EDT
 &#10004; UTR: 13 (62.41)<br>  
 &#10004; USTA Poll: 10<br>  
 &nbsp; Coaches Poll: T11<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 LIU</h2>  
-&nbsp; ITA: 52 (4.20)<br>  
-&nbsp; Slam: 61 (70.79)<br>  
-&nbsp; TRN: 63 (55.66)<br>  
-&nbsp; Massey: 61 (4.25)<br>  
-&nbsp; UTR: 60 (49.85)<br>  
 <br>  
 
 </td>

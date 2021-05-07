@@ -5,18 +5,6 @@ Friday, May 7 at 10:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 Southern California</h2>  
-&nbsp; ITA: 35 (23.17)<br>  
-&nbsp; Slam: 35 (87.72)<br>  
-&nbsp; TRN: 41 (78.74)<br>  
-&nbsp; Massey: 26 (7.43)<br>  
-&#10004; UTR: 6 (64.29)<br>  
-&nbsp; Coaches Poll: 34<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#2 Oklahoma</h2>  
 &#10004; ITA: 23 (39.04)<br>  
 &#10004; Slam: 13 (91.06)<br>  
@@ -25,6 +13,18 @@ Friday, May 7 at 10:00 EDT
 &nbsp; UTR: 14 (62.33)<br>  
 &#10004; USTA Poll: 22<br>  
 &#10004; Coaches Poll: 24<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#3 Southern California</h2>  
+&nbsp; ITA: 35 (23.17)<br>  
+&nbsp; Slam: 35 (87.72)<br>  
+&nbsp; TRN: 41 (78.74)<br>  
+&nbsp; Massey: 26 (7.43)<br>  
+&#10004; UTR: 6 (64.29)<br>  
+&nbsp; Coaches Poll: 34<br>  
 <br>  
 
 </td>

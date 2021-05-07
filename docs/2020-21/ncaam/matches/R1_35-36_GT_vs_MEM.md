@@ -5,18 +5,6 @@ Saturday, May 8 at 10:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/memphis.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 Memphis</h2>  
-&nbsp; ITA: 38 (22.19)<br>  
-&nbsp; Slam: 41 (91.89)<br>  
-&nbsp; TRN: 40 (89.86)<br>  
-&nbsp; Massey: 43 (7.05)<br>  
-&nbsp; UTR: 43 (75.40)<br>  
-&nbsp; Coaches Poll: 35<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#2 Georgia Tech</h2>  
 &#10004; ITA: 30 (27.75)<br>  
 &#10004; Slam: 27 (93.36)<br>  
@@ -25,6 +13,18 @@ Saturday, May 8 at 10:00 EDT
 &#10004; UTR: 36 (76.54)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 31<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#3 Memphis</h2>  
+&nbsp; ITA: 38 (22.19)<br>  
+&nbsp; Slam: 41 (91.89)<br>  
+&nbsp; TRN: 40 (89.86)<br>  
+&nbsp; Massey: 43 (7.05)<br>  
+&nbsp; UTR: 43 (75.40)<br>  
+&nbsp; Coaches Poll: 35<br>  
 <br>  
 
 </td>

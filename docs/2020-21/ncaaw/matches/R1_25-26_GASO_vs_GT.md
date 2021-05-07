@@ -5,6 +5,17 @@ Friday, May 7 at 2:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Ga. Southern</h2>  
+&nbsp; ITA: 53 (4.08)<br>  
+&nbsp; Slam: 53 (78.88)<br>  
+&nbsp; TRN: 54 (68.86)<br>  
+&nbsp; Massey: 55 (5.15)<br>  
+&nbsp; UTR: 53 (54.43)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Georgia Tech</h2>  
 &#10004; ITA: 13 (48.32)<br>  
 &#10004; Slam: 20 (90.34)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 2:00 EDT
 &#10004; UTR: 24 (61.54)<br>  
 &#10004; USTA Poll: 15<br>  
 &nbsp; Coaches Poll: T11<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Ga. Southern</h2>  
-&nbsp; ITA: 53 (4.08)<br>  
-&nbsp; Slam: 53 (78.88)<br>  
-&nbsp; TRN: 54 (68.86)<br>  
-&nbsp; Massey: 55 (5.15)<br>  
-&nbsp; UTR: 53 (54.43)<br>  
 <br>  
 
 </td>

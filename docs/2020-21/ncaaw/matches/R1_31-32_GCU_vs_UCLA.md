@@ -5,6 +5,17 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Grand Canyon</h2>  
+&nbsp; ITA: 62 (1.99)<br>  
+&nbsp; Slam: 59 (75.93)<br>  
+&nbsp; TRN: 60 (64.13)<br>  
+&nbsp; Massey: 57 (4.78)<br>  
+&nbsp; UTR: 57 (51.77)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 UCLA</h2>  
 &#10004; ITA: 4 (61.84)<br>  
 &#10004; Slam: 4 (92.98)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 1:00 EDT
 &#10004; UTR: 5 (64.40)<br>  
 &#10004; USTA Poll: 4<br>  
 &#10004; Coaches Poll: 5<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Grand Canyon</h2>  
-&nbsp; ITA: 62 (1.99)<br>  
-&nbsp; Slam: 59 (75.93)<br>  
-&nbsp; TRN: 60 (64.13)<br>  
-&nbsp; Massey: 57 (4.78)<br>  
-&nbsp; UTR: 57 (51.77)<br>  
 <br>  
 
 </td>

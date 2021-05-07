@@ -5,6 +5,17 @@ Saturday, May 8 at 2:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Monmouth</h2>  
+&nbsp; ITA: 58 (4.41)<br>  
+&nbsp; Slam: 61 (82.18)<br>  
+&nbsp; TRN: 57 (79.79)<br>  
+&nbsp; Massey: 60 (5.30)<br>  
+&nbsp; UTR: 62 (69.61)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 UCF</h2>  
 &#10004; ITA: 10 (54.95)<br>  
 &#10004; Slam: 12 (96.59)<br>  
@@ -13,17 +24,6 @@ Saturday, May 8 at 2:00 EDT
 &#10004; UTR: 12 (79.08)<br>  
 &nbsp; USTA Poll: T10<br>  
 &#10004; Coaches Poll: 9<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Monmouth</h2>  
-&nbsp; ITA: 58 (4.41)<br>  
-&nbsp; Slam: 61 (82.18)<br>  
-&nbsp; TRN: 57 (79.79)<br>  
-&nbsp; Massey: 60 (5.30)<br>  
-&nbsp; UTR: 62 (69.61)<br>  
 <br>  
 
 </td>

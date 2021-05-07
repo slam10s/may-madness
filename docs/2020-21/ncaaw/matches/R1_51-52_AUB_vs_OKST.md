@@ -5,18 +5,6 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 Oklahoma St.</h2>  
-&nbsp; ITA: 37 (20.71)<br>  
-&nbsp; Slam: 37 (87.45)<br>  
-&nbsp; TRN: 37 (79.03)<br>  
-&nbsp; Massey: 36 (7.02)<br>  
-&#10004; UTR: 17 (61.98)<br>  
-&nbsp; Coaches Poll: 37<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#2 Auburn</h2>  
 &#10004; ITA: 20 (41.17)<br>  
 &#10004; Slam: 24 (89.44)<br>  
@@ -25,6 +13,18 @@ Friday, May 7 at 1:00 EDT
 &nbsp; UTR: 30 (60.99)<br>  
 &#10004; USTA Poll: 25<br>  
 &#10004; Coaches Poll: 22<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#3 Oklahoma St.</h2>  
+&nbsp; ITA: 37 (20.71)<br>  
+&nbsp; Slam: 37 (87.45)<br>  
+&nbsp; TRN: 37 (79.03)<br>  
+&nbsp; Massey: 36 (7.02)<br>  
+&#10004; UTR: 17 (61.98)<br>  
+&nbsp; Coaches Poll: 37<br>  
 <br>  
 
 </td>

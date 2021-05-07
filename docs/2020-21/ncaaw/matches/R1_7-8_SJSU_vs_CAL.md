@@ -5,6 +5,17 @@ Friday, May 7 at 4:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 San Jose St.</h2>  
+&nbsp; ITA: 47 (8.04)<br>  
+&nbsp; Slam: 50 (80.34)<br>  
+&nbsp; TRN: 49 (73.09)<br>  
+&nbsp; Massey: 49 (5.94)<br>  
+&nbsp; UTR: 50 (55.37)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 California</h2>  
 &#10004; ITA: 16 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 4:00 EDT
 &#10004; UTR: 15 (62.15)<br>  
 &#10004; USTA Poll: 13<br>  
 &#10004; Coaches Poll: 17<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 San Jose St.</h2>  
-&nbsp; ITA: 47 (8.04)<br>  
-&nbsp; Slam: 50 (80.34)<br>  
-&nbsp; TRN: 49 (73.09)<br>  
-&nbsp; Massey: 49 (5.94)<br>  
-&nbsp; UTR: 50 (55.37)<br>  
 <br>  
 
 </td>

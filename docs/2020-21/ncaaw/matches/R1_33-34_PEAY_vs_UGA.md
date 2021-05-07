@@ -5,6 +5,17 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Austin Peay</h2>  
+&nbsp; ITA: 57 (3.35)<br>  
+&nbsp; Slam: 56 (77.22)<br>  
+&nbsp; TRN: 56 (67.26)<br>  
+&nbsp; Massey: 56 (4.88)<br>  
+&nbsp; UTR: 55 (52.40)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Georgia</h2>  
 &#10004; ITA: 3 (74.01)<br>  
 &#10004; Slam: 3 (97.81)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 1:00 EDT
 &#10004; UTR: 3 (64.69)<br>  
 &#10004; USTA Poll: 3<br>  
 &#10004; Coaches Poll: 3<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Austin Peay</h2>  
-&nbsp; ITA: 57 (3.35)<br>  
-&nbsp; Slam: 56 (77.22)<br>  
-&nbsp; TRN: 56 (67.26)<br>  
-&nbsp; Massey: 56 (4.88)<br>  
-&nbsp; UTR: 55 (52.40)<br>  
 <br>  
 
 </td>

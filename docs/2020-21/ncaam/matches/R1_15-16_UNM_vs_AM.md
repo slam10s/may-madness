@@ -5,6 +5,17 @@ Friday, May 7 at 3:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 New Mexico</h2>  
+&nbsp; ITA: 52 (7.44)<br>  
+&nbsp; Slam: 53 (87.22)<br>  
+&nbsp; TRN: 54 (83.45)<br>  
+&nbsp; Massey: 48 (6.71)<br>  
+&nbsp; UTR: 51 (73.79)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Texas A&M</h2>  
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 11 (96.97)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 3:00 EDT
 &#10004; UTR: 8 (79.76)<br>  
 &#10004; USTA Poll: 14<br>  
 &#10004; Coaches Poll: 8<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 New Mexico</h2>  
-&nbsp; ITA: 52 (7.44)<br>  
-&nbsp; Slam: 53 (87.22)<br>  
-&nbsp; TRN: 54 (83.45)<br>  
-&nbsp; Massey: 48 (6.71)<br>  
-&nbsp; UTR: 51 (73.79)<br>  
 <br>  
 
 </td>

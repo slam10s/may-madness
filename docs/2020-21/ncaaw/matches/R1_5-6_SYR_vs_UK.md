@@ -5,6 +5,18 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#3 Syracuse</h2>  
+&nbsp; ITA: 43 (15.84)<br>  
+&nbsp; Slam: 43 (86.54)<br>  
+&nbsp; TRN: 43 (78.55)<br>  
+&nbsp; Massey: 42 (6.69)<br>  
+&nbsp; UTR: 43 (58.68)<br>  
+&nbsp; Coaches Poll: 45<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#2 Kentucky</h2>  
 &#10004; ITA: 26 (37.41)<br>  
 &#10004; Slam: 25 (89.36)<br>  
@@ -13,18 +25,6 @@ Friday, May 7 at 1:00 EDT
 &#10004; UTR: 34 (60.15)<br>  
 &#10004; USTA Poll: 24<br>  
 &#10004; Coaches Poll: 27<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#3 Syracuse</h2>  
-&nbsp; ITA: 43 (15.84)<br>  
-&nbsp; Slam: 43 (86.54)<br>  
-&nbsp; TRN: 43 (78.55)<br>  
-&nbsp; Massey: 42 (6.69)<br>  
-&nbsp; UTR: 43 (58.68)<br>  
-&nbsp; Coaches Poll: 45<br>  
 <br>  
 
 </td>

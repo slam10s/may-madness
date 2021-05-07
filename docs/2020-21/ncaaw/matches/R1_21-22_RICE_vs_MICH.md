@@ -5,6 +5,18 @@ Friday, May 7 at 11:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/r/rice.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#3 Rice</h2>  
+&nbsp; ITA: 40 (18.25)<br>  
+&nbsp; Slam: 40 (87.14)<br>  
+&nbsp; TRN: 36 (79.49)<br>  
+&nbsp; Massey: 38 (6.93)<br>  
+&nbsp; UTR: 35 (60.11)<br>  
+&nbsp; Coaches Poll: 39<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#2 Michigan</h2>  
 &#10004; ITA: 19 (41.22)<br>  
 &#10004; Slam: 8 (91.95)<br>  
@@ -13,18 +25,6 @@ Friday, May 7 at 11:00 EDT
 &#10004; UTR: 17 (61.98)<br>  
 &#10004; USTA Poll: 7<br>  
 &#10004; Coaches Poll: 18<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#3 Rice</h2>  
-&nbsp; ITA: 40 (18.25)<br>  
-&nbsp; Slam: 40 (87.14)<br>  
-&nbsp; TRN: 36 (79.49)<br>  
-&nbsp; Massey: 38 (6.93)<br>  
-&nbsp; UTR: 35 (60.11)<br>  
-&nbsp; Coaches Poll: 39<br>  
 <br>  
 
 </td>

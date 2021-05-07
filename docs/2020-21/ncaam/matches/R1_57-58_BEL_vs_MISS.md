@@ -5,6 +5,17 @@ Saturday, May 8 at 4:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Belmont</h2>  
+&nbsp; ITA: 56 (4.48)<br>  
+&nbsp; Slam: 57 (83.10)<br>  
+&nbsp; TRN: 58 (79.14)<br>  
+&nbsp; Massey: 57 (5.77)<br>  
+&nbsp; UTR: 57 (70.99)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Ole Miss</h2>  
 &#10004; ITA: 14 (44.94)<br>  
 &#10004; Slam: 18 (95.00)<br>  
@@ -13,17 +24,6 @@ Saturday, May 8 at 4:00 EDT
 &#10004; UTR: 25 (77.70)<br>  
 &#10004; USTA Poll: 21<br>  
 &#10004; Coaches Poll: 16<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Belmont</h2>  
-&nbsp; ITA: 56 (4.48)<br>  
-&nbsp; Slam: 57 (83.10)<br>  
-&nbsp; TRN: 58 (79.14)<br>  
-&nbsp; Massey: 57 (5.77)<br>  
-&nbsp; UTR: 57 (70.99)<br>  
 <br>  
 
 </td>

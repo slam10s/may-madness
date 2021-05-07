@@ -5,18 +5,6 @@ Saturday, May 8 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 Middle Tenn.</h2>  
-&nbsp; ITA: 42 (18.52)<br>  
-&nbsp; Slam: 45 (91.28)<br>  
-&nbsp; TRN: 45 (89.05)<br>  
-&nbsp; Massey: 42 (7.21)<br>  
-&nbsp; UTR: 41 (75.54)<br>  
-&nbsp; Coaches Poll: 42<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#2 Tulane</h2>  
 &#10004; ITA: 22 (33.07)<br>  
 &#10004; Slam: 26 (93.53)<br>  
@@ -24,6 +12,18 @@ Saturday, May 8 at 1:00 EDT
 &#10004; Massey: 26 (7.63)<br>  
 &#10004; UTR: 31 (76.99)<br>  
 &#10004; Coaches Poll: 24<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#3 Middle Tenn.</h2>  
+&nbsp; ITA: 42 (18.52)<br>  
+&nbsp; Slam: 45 (91.28)<br>  
+&nbsp; TRN: 45 (89.05)<br>  
+&nbsp; Massey: 42 (7.21)<br>  
+&nbsp; UTR: 41 (75.54)<br>  
+&nbsp; Coaches Poll: 42<br>  
 <br>  
 
 </td>

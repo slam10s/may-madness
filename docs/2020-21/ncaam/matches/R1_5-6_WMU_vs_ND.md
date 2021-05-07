@@ -5,18 +5,6 @@ Friday, May 7 at 2:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#2 Notre Dame</h2>  
-&#10004; ITA: 34 (25.22)<br>  
-&#10004; Slam: 40 (91.96)<br>  
-&#10004; TRN: 42 (89.57)<br>  
-&#10004; Massey: 36 (7.36)<br>  
-&#10004; UTR: 38 (76.38)<br>  
-&#10004; Coaches Poll: 37<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#3 Western Mich.</h2>  
 &nbsp; ITA: 41 (18.89)<br>  
 &nbsp; Slam: 47 (89.83)<br>  
@@ -25,6 +13,18 @@ Friday, May 7 at 2:00 EDT
 &nbsp; UTR: 53 (72.95)<br>  
 &#10004; USTA Poll: RV<br>  
 &nbsp; Coaches Poll: 48<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#2 Notre Dame</h2>  
+&#10004; ITA: 34 (25.22)<br>  
+&#10004; Slam: 40 (91.96)<br>  
+&#10004; TRN: 42 (89.57)<br>  
+&#10004; Massey: 36 (7.36)<br>  
+&#10004; UTR: 38 (76.38)<br>  
+&#10004; Coaches Poll: 37<br>  
 <br>  
 
 </td>

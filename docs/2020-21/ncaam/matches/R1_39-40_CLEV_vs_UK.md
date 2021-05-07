@@ -5,6 +5,17 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Cleveland St.</h2>  
+&nbsp; ITA: 57 (4.43)<br>  
+&nbsp; Slam: 56 (84.36)<br>  
+&nbsp; TRN: 56 (81.28)<br>  
+&nbsp; Massey: 55 (5.83)<br>  
+&nbsp; UTR: 54 (71.52)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Kentucky</h2>  
 &#10004; ITA: 15 (44.70)<br>  
 &#10004; Slam: 17 (95.87)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 1:00 EDT
 &#10004; UTR: 16 (78.88)<br>  
 &#10004; USTA Poll: 17<br>  
 &#10004; Coaches Poll: 15<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Cleveland St.</h2>  
-&nbsp; ITA: 57 (4.43)<br>  
-&nbsp; Slam: 56 (84.36)<br>  
-&nbsp; TRN: 56 (81.28)<br>  
-&nbsp; Massey: 55 (5.83)<br>  
-&nbsp; UTR: 54 (71.52)<br>  
 <br>  
 
 </td>

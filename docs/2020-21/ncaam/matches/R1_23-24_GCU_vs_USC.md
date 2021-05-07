@@ -5,6 +5,17 @@ Friday, May 7 at 4:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Grand Canyon</h2>  
+&nbsp; ITA: 64 (1.38)<br>  
+&nbsp; Slam: 62 (81.82)<br>  
+&nbsp; TRN: 62 (76.83)<br>  
+&nbsp; Massey: 62 (5.21)<br>  
+&nbsp; UTR: 56 (71.32)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Southern California</h2>  
 &#10004; ITA: 12 (52.23)<br>  
 &#10004; Slam: 14 (96.38)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 4:00 EDT
 &#10004; UTR: 2 (80.29)<br>  
 &#10004; USTA Poll: 13<br>  
 &#10004; Coaches Poll: 12<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Grand Canyon</h2>  
-&nbsp; ITA: 64 (1.38)<br>  
-&nbsp; Slam: 62 (81.82)<br>  
-&nbsp; TRN: 62 (76.83)<br>  
-&nbsp; Massey: 62 (5.21)<br>  
-&nbsp; UTR: 56 (71.32)<br>  
 <br>  
 
 </td>

@@ -5,18 +5,6 @@ Saturday, May 8 at 12:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#2 Alabama</h2>  
-&#10004; ITA: 26 (30.96)<br>  
-&#10004; Slam: 28 (93.06)<br>  
-&#10004; TRN: 27 (91.27)<br>  
-&nbsp; Massey: 38 (7.31)<br>  
-&#10004; UTR: 30 (77.06)<br>  
-&#10004; Coaches Poll: 25<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#3 Oregon</h2>  
 &nbsp; ITA: 36 (23.55)<br>  
 &nbsp; Slam: 44 (91.52)<br>  
@@ -25,6 +13,18 @@ Saturday, May 8 at 12:00 EDT
 &nbsp; UTR: 33 (76.78)<br>  
 &nbsp; USTA Poll: NR<br>  
 &nbsp; Coaches Poll: 41<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#2 Alabama</h2>  
+&#10004; ITA: 26 (30.96)<br>  
+&#10004; Slam: 28 (93.06)<br>  
+&#10004; TRN: 27 (91.27)<br>  
+&nbsp; Massey: 38 (7.31)<br>  
+&#10004; UTR: 30 (77.06)<br>  
+&#10004; Coaches Poll: 25<br>  
 <br>  
 
 </td>

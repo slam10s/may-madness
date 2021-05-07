@@ -5,6 +5,17 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Siena</h2>  
+&nbsp; ITA: 60 (2.41)<br>  
+&nbsp; Slam: 64 (65.57)<br>  
+&nbsp; TRN: 64 (50.23)<br>  
+&nbsp; Massey: 64 (2.92)<br>  
+&nbsp; UTR: 62 (46.43)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Florida</h2>  
 &#10004; ITA: 11 (49.18)<br>  
 &#10004; Slam: 16 (90.47)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 1:00 EDT
 &#10004; UTR: 11 (62.70)<br>  
 &#10004; USTA Poll: 20<br>  
 &#10004; Coaches Poll: 15<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Siena</h2>  
-&nbsp; ITA: 60 (2.41)<br>  
-&nbsp; Slam: 64 (65.57)<br>  
-&nbsp; TRN: 64 (50.23)<br>  
-&nbsp; Massey: 64 (2.92)<br>  
-&nbsp; UTR: 62 (46.43)<br>  
 <br>  
 
 </td>

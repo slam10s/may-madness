@@ -5,6 +5,18 @@ Friday, May 7 at 12:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#3 Iowa St.</h2>  
+&nbsp; ITA: 36 (22.35)<br>  
+&nbsp; Slam: 41 (86.71)<br>  
+&nbsp; TRN: 42 (78.56)<br>  
+&nbsp; Massey: 39 (6.76)<br>  
+&nbsp; UTR: 39 (59.07)<br>  
+&nbsp; Coaches Poll: 36<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#2 South Carolina</h2>  
 &#10004; ITA: 22 (39.21)<br>  
 &#10004; Slam: 27 (89.34)<br>  
@@ -13,18 +25,6 @@ Friday, May 7 at 12:00 EDT
 &#10004; UTR: 29 (61.31)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 23<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#3 Iowa St.</h2>  
-&nbsp; ITA: 36 (22.35)<br>  
-&nbsp; Slam: 41 (86.71)<br>  
-&nbsp; TRN: 42 (78.56)<br>  
-&nbsp; Massey: 39 (6.76)<br>  
-&nbsp; UTR: 39 (59.07)<br>  
-&nbsp; Coaches Poll: 36<br>  
 <br>  
 
 </td>

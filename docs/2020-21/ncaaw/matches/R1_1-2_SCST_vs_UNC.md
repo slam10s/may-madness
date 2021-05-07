@@ -5,6 +5,16 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 South Carolina St.</h2>  
+&nbsp; Slam: 62 (70.68)<br>  
+&nbsp; TRN: 61 (58.72)<br>  
+&nbsp; Massey: 62 (3.52)<br>  
+&nbsp; UTR: 63 (44.35)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 North Carolina</h2>  
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
@@ -13,16 +23,6 @@ Friday, May 7 at 1:00 EDT
 &#10004; UTR: 2 (65.21)<br>  
 &#10004; USTA Poll: 1<br>  
 &#10004; Coaches Poll: 1<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 South Carolina St.</h2>  
-&nbsp; Slam: 62 (70.68)<br>  
-&nbsp; TRN: 61 (58.72)<br>  
-&nbsp; Massey: 62 (3.52)<br>  
-&nbsp; UTR: 63 (44.35)<br>  
 <br>  
 
 </td>

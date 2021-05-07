@@ -5,6 +5,18 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#3 Mississippi St.</h2>  
+&nbsp; ITA: 38 (19.84)<br>  
+&nbsp; Slam: 42 (86.60)<br>  
+&nbsp; TRN: 39 (78.82)<br>  
+&nbsp; Massey: 44 (6.49)<br>  
+&nbsp; UTR: 36 (59.84)<br>  
+&nbsp; Coaches Poll: 38<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#2 Arizona St.</h2>  
 &#10004; ITA: 31 (26.09)<br>  
 &#10004; Slam: 31 (88.20)<br>  
@@ -13,18 +25,6 @@ Friday, May 7 at 1:00 EDT
 &#10004; UTR: 23 (61.59)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 30<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#3 Mississippi St.</h2>  
-&nbsp; ITA: 38 (19.84)<br>  
-&nbsp; Slam: 42 (86.60)<br>  
-&nbsp; TRN: 39 (78.82)<br>  
-&nbsp; Massey: 44 (6.49)<br>  
-&nbsp; UTR: 36 (59.84)<br>  
-&nbsp; Coaches Poll: 38<br>  
 <br>  
 
 </td>

@@ -5,17 +5,6 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 UC Santa Barbara</h2>  
-&nbsp; ITA: 44 (14.68)<br>  
-&nbsp; Slam: 39 (87.38)<br>  
-&nbsp; TRN: 40 (78.81)<br>  
-&nbsp; Massey: 40 (6.75)<br>  
-&nbsp; UTR: 46 (57.03)<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#2 Stanford</h2>  
 &#10004; ITA: 28 (35.11)<br>  
 &#10004; Slam: 23 (90.02)<br>  
@@ -24,6 +13,17 @@ Friday, May 7 at 1:00 EDT
 &#10004; UTR: 7 (63.45)<br>  
 &#10004; USTA Poll: 18<br>  
 &#10004; Coaches Poll: 26<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#3 UC Santa Barbara</h2>  
+&nbsp; ITA: 44 (14.68)<br>  
+&nbsp; Slam: 39 (87.38)<br>  
+&nbsp; TRN: 40 (78.81)<br>  
+&nbsp; Massey: 40 (6.75)<br>  
+&nbsp; UTR: 46 (57.03)<br>  
 <br>  
 
 </td>

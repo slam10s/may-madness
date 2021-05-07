@@ -5,6 +5,17 @@ Saturday, May 8 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Northern Ariz.</h2>  
+&nbsp; ITA: 61 (2.13)<br>  
+&nbsp; Slam: 58 (82.40)<br>  
+&nbsp; TRN: 60 (77.79)<br>  
+&nbsp; Massey: 59 (5.53)<br>  
+&nbsp; UTR: 59 (70.85)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Texas</h2>  
 &#10004; ITA: 5 (74.24)<br>  
 &#10004; Slam: 8 (97.59)<br>  
@@ -13,17 +24,6 @@ Saturday, May 8 at 1:00 EDT
 &#10004; UTR: 14 (79.01)<br>  
 &#10004; USTA Poll: 6<br>  
 &#10004; Coaches Poll: 4<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Northern Ariz.</h2>  
-&nbsp; ITA: 61 (2.13)<br>  
-&nbsp; Slam: 58 (82.40)<br>  
-&nbsp; TRN: 60 (77.79)<br>  
-&nbsp; Massey: 59 (5.53)<br>  
-&nbsp; UTR: 59 (70.85)<br>  
 <br>  
 
 </td>

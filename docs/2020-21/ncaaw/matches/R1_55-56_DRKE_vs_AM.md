@@ -5,6 +5,17 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Drake</h2>  
+&nbsp; ITA: 63 (1.98)<br>  
+&nbsp; Slam: 58 (75.98)<br>  
+&nbsp; TRN: 58 (65.50)<br>  
+&nbsp; Massey: 59 (4.59)<br>  
+&nbsp; UTR: 59 (50.87)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Texas A&M</h2>  
 &#10004; ITA: 10 (50.15)<br>  
 &#10004; Slam: 15 (90.86)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 1:00 EDT
 &#10004; UTR: 21 (61.70)<br>  
 &#10004; USTA Poll: 17<br>  
 &#10004; Coaches Poll: 10<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Drake</h2>  
-&nbsp; ITA: 63 (1.98)<br>  
-&nbsp; Slam: 58 (75.98)<br>  
-&nbsp; TRN: 58 (65.50)<br>  
-&nbsp; Massey: 59 (4.59)<br>  
-&nbsp; UTR: 59 (50.87)<br>  
 <br>  
 
 </td>

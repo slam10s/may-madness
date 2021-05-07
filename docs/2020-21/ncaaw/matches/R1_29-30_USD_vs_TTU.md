@@ -5,18 +5,6 @@ Friday, May 7 at 4:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#2 Texas Tech</h2>  
-&#10004; ITA: 29 (28.07)<br>  
-&#10004; Slam: 34 (87.92)<br>  
-&#10004; TRN: 34 (79.75)<br>  
-&#10004; Massey: 28 (7.39)<br>  
-&#10004; UTR: 27 (61.44)<br>  
-&#10004; Coaches Poll: 29<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#3 San Diego</h2>  
 &nbsp; ITA: 39 (19.12)<br>  
 &nbsp; Slam: 36 (87.64)<br>  
@@ -24,6 +12,18 @@ Friday, May 7 at 4:00 EDT
 &nbsp; Massey: 32 (7.31)<br>  
 &nbsp; UTR: 32 (60.57)<br>  
 &nbsp; Coaches Poll: 47<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#2 Texas Tech</h2>  
+&#10004; ITA: 29 (28.07)<br>  
+&#10004; Slam: 34 (87.92)<br>  
+&#10004; TRN: 34 (79.75)<br>  
+&#10004; Massey: 28 (7.39)<br>  
+&#10004; UTR: 27 (61.44)<br>  
+&#10004; Coaches Poll: 29<br>  
 <br>  
 
 </td>

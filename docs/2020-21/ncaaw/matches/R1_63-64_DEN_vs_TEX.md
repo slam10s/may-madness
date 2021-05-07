@@ -5,6 +5,18 @@ Friday, May 7 at 4:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Denver</h2>  
+&nbsp; ITA: 45 (11.66)<br>  
+&nbsp; Slam: 45 (84.92)<br>  
+&nbsp; TRN: 45 (76.03)<br>  
+&nbsp; Massey: 43 (6.53)<br>  
+&nbsp; UTR: 45 (58.03)<br>  
+&nbsp; Coaches Poll: 49<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Texas</h2>  
 &#10004; ITA: 2 (79.19)<br>  
 &#10004; Slam: 2 (98.44)<br>  
@@ -13,18 +25,6 @@ Friday, May 7 at 4:00 EDT
 &#10004; UTR: 1 (65.59)<br>  
 &#10004; USTA Poll: 2<br>  
 &#10004; Coaches Poll: 2<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Denver</h2>  
-&nbsp; ITA: 45 (11.66)<br>  
-&nbsp; Slam: 45 (84.92)<br>  
-&nbsp; TRN: 45 (76.03)<br>  
-&nbsp; Massey: 43 (6.53)<br>  
-&nbsp; UTR: 45 (58.03)<br>  
-&nbsp; Coaches Poll: 49<br>  
 <br>  
 
 </td>

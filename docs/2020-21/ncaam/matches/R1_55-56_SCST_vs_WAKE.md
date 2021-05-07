@@ -5,6 +5,17 @@ Friday, May 7 at 5:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 South Carolina St.</h2>  
+&nbsp; ITA: 65 (0.72)<br>  
+&nbsp; Slam: 63 (81.19)<br>  
+&nbsp; TRN: 63 (76.54)<br>  
+&nbsp; Massey: 63 (4.87)<br>  
+&nbsp; UTR: 63 (66.99)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Wake Forest</h2>  
 &#10004; ITA: 9 (56.82)<br>  
 &#10004; Slam: 10 (97.17)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 5:00 EDT
 &#10004; UTR: 7 (79.79)<br>  
 &#10004; USTA Poll: 12<br>  
 &#10004; Coaches Poll: 10<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 South Carolina St.</h2>  
-&nbsp; ITA: 65 (0.72)<br>  
-&nbsp; Slam: 63 (81.19)<br>  
-&nbsp; TRN: 63 (76.54)<br>  
-&nbsp; Massey: 63 (4.87)<br>  
-&nbsp; UTR: 63 (66.99)<br>  
 <br>  
 
 </td>

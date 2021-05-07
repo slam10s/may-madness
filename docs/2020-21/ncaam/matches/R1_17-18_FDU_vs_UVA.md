@@ -5,6 +5,17 @@ Saturday, May 8 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Fairleigh Dickinson</h2>  
+&nbsp; ITA: 62 (1.95)<br>  
+&nbsp; Slam: 65 (72.33)<br>  
+&nbsp; TRN: 65 (65.17)<br>  
+&nbsp; Massey: 64 (3.98)<br>  
+&nbsp; UTR: 64 (65.74)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Virginia</h2>  
 &#10004; ITA: 4 (74.36)<br>  
 &#10004; Slam: 1 (100.00)<br>  
@@ -13,17 +24,6 @@ Saturday, May 8 at 1:00 EDT
 &#10004; UTR: 6 (80.03)<br>  
 &#10004; USTA Poll: 1<br>  
 &#10004; Coaches Poll: 5<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Fairleigh Dickinson</h2>  
-&nbsp; ITA: 62 (1.95)<br>  
-&nbsp; Slam: 65 (72.33)<br>  
-&nbsp; TRN: 65 (65.17)<br>  
-&nbsp; Massey: 64 (3.98)<br>  
-&nbsp; UTR: 64 (65.74)<br>  
 <br>  
 
 </td>

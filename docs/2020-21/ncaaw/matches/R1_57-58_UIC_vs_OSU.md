@@ -5,6 +5,17 @@ Friday, May 7 at 2:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/ill-chicago.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 UIC</h2>  
+&nbsp; ITA: 59 (2.42)<br>  
+&nbsp; Slam: 57 (76.42)<br>  
+&nbsp; TRN: 59 (65.14)<br>  
+&nbsp; Massey: 58 (4.62)<br>  
+&nbsp; UTR: 58 (51.39)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Ohio St.</h2>  
 &#10004; ITA: 18 (43.02)<br>  
 &#10004; Slam: 5 (92.95)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 2:00 EDT
 &#10004; UTR: 25 (61.53)<br>  
 &#10004; USTA Poll: 6<br>  
 &#10004; Coaches Poll: 13<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 UIC</h2>  
-&nbsp; ITA: 59 (2.42)<br>  
-&nbsp; Slam: 57 (76.42)<br>  
-&nbsp; TRN: 59 (65.14)<br>  
-&nbsp; Massey: 58 (4.62)<br>  
-&nbsp; UTR: 58 (51.39)<br>  
 <br>  
 
 </td>

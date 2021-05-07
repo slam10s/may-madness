@@ -5,18 +5,6 @@ Saturday, May 8 at 10:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 Duke</h2>  
-&nbsp; ITA: 35 (25.15)<br>  
-&#10004; Slam: 31 (93.00)<br>  
-&nbsp; TRN: 36 (90.55)<br>  
-&nbsp; Massey: 34 (7.39)<br>  
-&#10004; UTR: 32 (76.86)<br>  
-&nbsp; Coaches Poll: 36<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#2 South Fla.</h2>  
 &#10004; ITA: 32 (26.14)<br>  
 &nbsp; Slam: 32 (92.98)<br>  
@@ -24,6 +12,18 @@ Saturday, May 8 at 10:00 EDT
 &#10004; Massey: 32 (7.49)<br>  
 &nbsp; UTR: 37 (76.51)<br>  
 &#10004; Coaches Poll: 33<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#3 Duke</h2>  
+&nbsp; ITA: 35 (25.15)<br>  
+&#10004; Slam: 31 (93.00)<br>  
+&nbsp; TRN: 36 (90.55)<br>  
+&nbsp; Massey: 34 (7.39)<br>  
+&#10004; UTR: 32 (76.86)<br>  
+&nbsp; Coaches Poll: 36<br>  
 <br>  
 
 </td>

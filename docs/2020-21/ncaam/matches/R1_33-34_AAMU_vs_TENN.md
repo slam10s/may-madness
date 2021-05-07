@@ -5,6 +5,17 @@ Saturday, May 8 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Alabama A&M</h2>  
+&nbsp; ITA: 63 (1.60)<br>  
+&nbsp; Slam: 64 (76.01)<br>  
+&nbsp; TRN: 64 (72.43)<br>  
+&nbsp; Massey: 65 (3.71)<br>  
+&nbsp; UTR: 65 (63.25)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Tennessee</h2>  
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.18)<br>  
@@ -13,17 +24,6 @@ Saturday, May 8 at 1:00 EDT
 &#10004; UTR: 4 (80.17)<br>  
 &#10004; USTA Poll: 4<br>  
 &#10004; Coaches Poll: 3<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Alabama A&M</h2>  
-&nbsp; ITA: 63 (1.60)<br>  
-&nbsp; Slam: 64 (76.01)<br>  
-&nbsp; TRN: 64 (72.43)<br>  
-&nbsp; Massey: 65 (3.71)<br>  
-&nbsp; UTR: 65 (63.25)<br>  
 <br>  
 
 </td>

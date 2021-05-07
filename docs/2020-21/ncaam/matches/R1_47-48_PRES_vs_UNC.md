@@ -5,6 +5,17 @@ Saturday, May 8 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Presbyterian</h2>  
+&nbsp; ITA: 59 (3.97)<br>  
+&nbsp; Slam: 59 (82.26)<br>  
+&nbsp; TRN: 59 (77.90)<br>  
+&nbsp; Massey: 61 (5.23)<br>  
+&nbsp; UTR: 61 (70.28)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 North Carolina</h2>  
 &#10004; ITA: 6 (72.02)<br>  
 &#10004; Slam: 3 (99.37)<br>  
@@ -13,17 +24,6 @@ Saturday, May 8 at 1:00 EDT
 &#10004; UTR: 11 (79.64)<br>  
 &#10004; USTA Poll: 5<br>  
 &#10004; Coaches Poll: 6<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Presbyterian</h2>  
-&nbsp; ITA: 59 (3.97)<br>  
-&nbsp; Slam: 59 (82.26)<br>  
-&nbsp; TRN: 59 (77.90)<br>  
-&nbsp; Massey: 61 (5.23)<br>  
-&nbsp; UTR: 61 (70.28)<br>  
 <br>  
 
 </td>

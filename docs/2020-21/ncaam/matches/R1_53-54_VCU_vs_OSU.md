@@ -5,6 +5,18 @@ Friday, May 7 at 2:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#3 VCU</h2>  
+&nbsp; ITA: 37 (23.44)<br>  
+&nbsp; Slam: 36 (92.40)<br>  
+&nbsp; TRN: 38 (90.23)<br>  
+&nbsp; Massey: 35 (7.38)<br>  
+&nbsp; UTR: 29 (77.07)<br>  
+&nbsp; Coaches Poll: 38<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#2 Ohio St.</h2>  
 &#10004; ITA: 31 (26.40)<br>  
 &#10004; Slam: 7 (97.86)<br>  
@@ -13,18 +25,6 @@ Friday, May 7 at 2:00 EDT
 &#10004; UTR: 3 (80.28)<br>  
 &#10004; USTA Poll: 7<br>  
 &#10004; Coaches Poll: 17<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#3 VCU</h2>  
-&nbsp; ITA: 37 (23.44)<br>  
-&nbsp; Slam: 36 (92.40)<br>  
-&nbsp; TRN: 38 (90.23)<br>  
-&nbsp; Massey: 35 (7.38)<br>  
-&nbsp; UTR: 29 (77.07)<br>  
-&nbsp; Coaches Poll: 38<br>  
 <br>  
 
 </td>

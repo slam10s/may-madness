@@ -5,18 +5,6 @@ Friday, May 7 at 10:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
-<h2>#3 Arkansas</h2>  
-&nbsp; ITA: 32 (26.02)<br>  
-&nbsp; Slam: 38 (87.39)<br>  
-&nbsp; TRN: 32 (79.87)<br>  
-&nbsp; Massey: 41 (6.74)<br>  
-&nbsp; UTR: 38 (59.65)<br>  
-&nbsp; Coaches Poll: 33<br>  
-<br>  
-
-</td>
-<td>  
-
 <h2>#2 Old Dominion</h2>  
 &#10004; ITA: 30 (28.00)<br>  
 &#10004; Slam: 28 (89.21)<br>  
@@ -25,6 +13,18 @@ Friday, May 7 at 10:00 EDT
 &#10004; UTR: 37 (59.77)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 32<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>#3 Arkansas</h2>  
+&nbsp; ITA: 32 (26.02)<br>  
+&nbsp; Slam: 38 (87.39)<br>  
+&nbsp; TRN: 32 (79.87)<br>  
+&nbsp; Massey: 41 (6.74)<br>  
+&nbsp; UTR: 38 (59.65)<br>  
+&nbsp; Coaches Poll: 33<br>  
 <br>  
 
 </td>

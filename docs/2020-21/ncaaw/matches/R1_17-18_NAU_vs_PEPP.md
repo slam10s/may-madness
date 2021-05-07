@@ -5,6 +5,17 @@ Friday, May 7 at 5:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Northern Ariz.</h2>  
+&nbsp; ITA: 54 (3.85)<br>  
+&nbsp; Slam: 51 (79.81)<br>  
+&nbsp; TRN: 53 (69.11)<br>  
+&nbsp; Massey: 51 (5.50)<br>  
+&nbsp; UTR: 54 (52.95)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 Pepperdine</h2>  
 &#10004; ITA: 5 (60.71)<br>  
 &#10004; Slam: 6 (92.64)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 5:00 EDT
 &#10004; UTR: 4 (64.63)<br>  
 &#10004; USTA Poll: 5<br>  
 &#10004; Coaches Poll: 4<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Northern Ariz.</h2>  
-&nbsp; ITA: 54 (3.85)<br>  
-&nbsp; Slam: 51 (79.81)<br>  
-&nbsp; TRN: 53 (69.11)<br>  
-&nbsp; Massey: 51 (5.50)<br>  
-&nbsp; UTR: 54 (52.95)<br>  
 <br>  
 
 </td>

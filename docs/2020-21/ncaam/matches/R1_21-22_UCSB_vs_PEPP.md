@@ -5,6 +5,17 @@ Friday, May 7 at 1:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#3 UC Santa Barbara</h2>  
+&nbsp; ITA: 54 (6.34)<br>  
+&nbsp; Slam: 51 (87.56)<br>  
+&nbsp; TRN: 51 (84.30)<br>  
+&nbsp; Massey: 52 (6.48)<br>  
+&nbsp; UTR: 47 (74.20)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#2 Pepperdine</h2>  
 &#10004; ITA: 28 (29.09)<br>  
 &#10004; Slam: 34 (92.69)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 1:00 EDT
 &#10004; UTR: 26 (77.59)<br>  
 &#10004; USTA Poll: 24<br>  
 &#10004; Coaches Poll: 30<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#3 UC Santa Barbara</h2>  
-&nbsp; ITA: 54 (6.34)<br>  
-&nbsp; Slam: 51 (87.56)<br>  
-&nbsp; TRN: 51 (84.30)<br>  
-&nbsp; Massey: 52 (6.48)<br>  
-&nbsp; UTR: 47 (74.20)<br>  
 <br>  
 
 </td>

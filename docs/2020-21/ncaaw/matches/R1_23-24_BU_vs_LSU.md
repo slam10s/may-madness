@@ -5,6 +5,17 @@ Friday, May 7 at 2:00 EDT
 <table><tr style="background-color: #d9d9d9 !important"><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" /></td><td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></td></tr><tr>
 <td>  
 
+<h2>#4 Boston U.</h2>  
+&nbsp; ITA: 50 (5.16)<br>  
+&nbsp; Slam: 54 (78.65)<br>  
+&nbsp; TRN: 51 (71.29)<br>  
+&nbsp; Massey: 54 (5.32)<br>  
+&nbsp; UTR: 49 (55.50)<br>  
+<br>  
+
+</td>
+<td>  
+
 <h2>#1 LSU</h2>  
 &#10004; ITA: 12 (48.73)<br>  
 &#10004; Slam: 21 (90.28)<br>  
@@ -13,17 +24,6 @@ Friday, May 7 at 2:00 EDT
 &#10004; UTR: 26 (61.48)<br>  
 &#10004; USTA Poll: 23<br>  
 &#10004; Coaches Poll: 14<br>  
-<br>  
-
-</td>
-<td>  
-
-<h2>#4 Boston U.</h2>  
-&nbsp; ITA: 50 (5.16)<br>  
-&nbsp; Slam: 54 (78.65)<br>  
-&nbsp; TRN: 51 (71.29)<br>  
-&nbsp; Massey: 54 (5.32)<br>  
-&nbsp; UTR: 49 (55.50)<br>  
 <br>  
 
 </td>
