@@ -9,7 +9,7 @@ Friday, May 7 at 10:00 EDT
 &nbsp; ITA: 47 (8.38)<br>  
 &nbsp; Slam: 49 (87.66)<br>  
 &nbsp; TRN: 50 (85.24)<br>  
-&nbsp; Massey: 53 (6.42)*<br>  
+&nbsp; Massey: 53 (6.42)<br>  
 &nbsp; UTR: 52 (73.58)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 10:00 EDT
 &#10004; ITA: 23 (32.39)<br>  
 &#10004; Slam: 19 (94.44)<br>  
 &#10004; TRN: 22 (92.30)<br>  
-&#10004; Massey: 23 (7.70)*<br>  
+&#10004; Massey: 23 (7.70)<br>  
 &#10004; UTR: 22 (78.11)<br>  
 &#10004; USTA Poll: 25<br>  
 &#10004; Coaches Poll: 28<br>  
@@ -37,7 +37,7 @@ Friday, May 7 at 10:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***NCST*** - #19 NC State (98%) def. #49 FGCU (2%)  
 - TRN: ***NCST*** - #22 NC State (98%) def. #50 FGCU (2%)  
-- Massey: ***NCST*** - #23 NC State (75%) def. #53 FGCU (25%)  
+- Massey: ***NCST*** - #23 NC State (75%) def. #53 FGCU (25%)[^1]  
 - Lineup: ***NCST*** - NC State (98%) def. FGCU (2%)  
 - Composite: ***NCST*** - NC State (92%) def. FGCU (8%)  
 - UTR: ***NCST*** - #22 NC State (+4.53) def. #52 FGCU (-4.53)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Galarneau (87%) def. Johnson (13%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Galarneau (85%) def. Johnson (15%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Galarneau (75%) def. Johnson (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Galarneau (75%) def. Johnson (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Galarneau (93%) def. Johnson (7%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Galarneau (85%) def. Johnson (15%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Galarneau (25.90) def. Johnson (7.86)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Luque (86%) def. Montes (14%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Luque (78%) def. Montes (22%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Luque (6.91) def. Montes (2.32)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Babelis (85%) def. Wilson (15%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Babelis (84%) def. Wilson (16%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Babelis (75%) def. Wilson (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Babelis (75%) def. Wilson (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Babelis (89%) def. Wilson (11%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Babelis (83%) def. Wilson (17%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Babelis (2.63) def. Wilson (1.63)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Barkai (78%) def. Ramirez (22%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Barkai (77%) def. Ramirez (23%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Barkai (75%) def. Ramirez (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Barkai (75%) def. Ramirez (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Barkai (85%) def. Ramirez (15%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Barkai (79%) def. Ramirez (21%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Barkai (2.33) def. Ramirez (0.00)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Catry (95%) def. Stefanacci (5%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Catry (95%) def. Stefanacci (5%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Catry (75%) def. Stefanacci (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Catry (75%) def. Stefanacci (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Catry (90%) def. Stefanacci (10%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Catry (88%) def. Stefanacci (12%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Catry (3.10) def. Stefanacci (2.15)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Turzak (83%) def. Conca (17%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Turzak (89%) def. Conca (11%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Turzak (75%) def. Conca (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Turzak (75%) def. Conca (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Turzak (95%) def. Conca (5%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Turzak (85%) def. Conca (15%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Turzak (1.56) def. Conca (0.00)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If NC State wins the doubles point, their chances of winning the dual improve to _99%_.
 - If FGCU wins the doubles point, their chances of winning the dual improve to _6%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

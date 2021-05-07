@@ -9,7 +9,7 @@ Saturday, May 8 at 11:00 EDT
 &nbsp; ITA: 39 (19.34)<br>  
 &nbsp; Slam: 37 (92.19)<br>  
 &nbsp; TRN: 43 (89.49)<br>  
-&nbsp; Massey: 38 (7.31)*<br>  
+&nbsp; Massey: 38 (7.31)<br>  
 &nbsp; UTR: 40 (75.68)<br>  
 &nbsp; Coaches Poll: 43<br>  
 <br>  
@@ -21,7 +21,7 @@ Saturday, May 8 at 11:00 EDT
 &#10004; ITA: 16 (41.29)<br>  
 &#10004; Slam: 20 (94.39)<br>  
 &#10004; TRN: 19 (92.98)<br>  
-&#10004; Massey: 26 (7.63)*<br>  
+&#10004; Massey: 26 (7.63)<br>  
 &#10004; UTR: 24 (77.84)<br>  
 &#10004; USTA Poll: 23<br>  
 &#10004; Coaches Poll: 18<br>  
@@ -38,7 +38,7 @@ Saturday, May 8 at 11:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***MSST*** - #20 Mississippi St. (78%) def. #37 Miami (FL) (22%)  
 - TRN: ***MSST*** - #19 Mississippi St. (88%) def. #43 Miami (FL) (12%)  
-- Massey: ***MSST*** - #26 Mississippi St. (75%) def. #38 Miami (FL) (25%)  
+- Massey: ***MSST*** - #26 Mississippi St. (75%) def. #38 Miami (FL) (25%)[^1]  
 - Lineup: ***MSST*** - Mississippi St. (92%) def. Miami (FL) (8%)  
 - Composite: ***MSST*** - Mississippi St. (83%) def. Miami (FL) (17%)  
 - UTR: ***MSST*** - #24 Mississippi St. (+2.16) def. #40 Miami (FL) (-2.16)  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Barrera (54%) def. Oradini (46%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Barrera (57%) def. Oradini (43%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Barrera (75%) def. Oradini (25%)*</li>  
+<li>Massey: <b><i>MIA</i></b> - Barrera (75%) def. Oradini (25%)[^1]</li>  
 <li>UTR: <b><i>MSST</i></b> - Oradini (68%) def. Barrera (32%)</li>  
 <li>Composite: <b><i>MIA</i></b> - Barrera (54%) def. Oradini (46%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Oradini (31.20) def. Barrera (18.59)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Broska (68%) def. Jankulovski (32%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Broska (63%) def. Jankulovski (37%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Jankulovski (75%) def. Broska (25%)*</li>  
+<li>Massey: <b><i>MIA</i></b> - Jankulovski (75%) def. Broska (25%)[^1]</li>  
 <li>UTR: <b><i>MSST</i></b> - Broska (78%) def. Jankulovski (22%)</li>  
 <li>Composite: <b><i>MSST</i></b> - Broska (58%) def. Jankulovski (42%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Broska (16.73) def. Jankulovski (3.33)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Malesevic (72%) def. Hannestad (28%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Malesevic (77%) def. Hannestad (23%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Malesevic (75%) def. Hannestad (25%)*</li>  
+<li>Massey: <b><i>MSST</i></b> - Malesevic (75%) def. Hannestad (25%)[^1]</li>  
 <li>UTR: <b><i>MSST</i></b> - Malesevic (74%) def. Hannestad (26%)</li>  
 <li>Composite: <b><i>MSST</i></b> - Malesevic (74%) def. Hannestad (26%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Malesevic (15.40) def. Hannestad (1.40)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Colas (82%) def. Milicevic (18%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Colas (86%) def. Milicevic (14%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Colas (75%) def. Milicevic (25%)*</li>  
+<li>Massey: <b><i>MSST</i></b> - Colas (75%) def. Milicevic (25%)[^1]</li>  
 <li>UTR: <b><i>MSST</i></b> - Colas (91%) def. Milicevic (9%)</li>  
 <li>Composite: <b><i>MSST</i></b> - Colas (83%) def. Milicevic (17%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Colas (5.15) def. Milicevic (0.00)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Hernandez (78%) def. Vasser (22%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Hernandez (79%) def. Vasser (21%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Hernandez (75%) def. Vasser (25%)*</li>  
+<li>Massey: <b><i>MSST</i></b> - Hernandez (75%) def. Vasser (25%)[^1]</li>  
 <li>UTR: <b><i>MSST</i></b> - Hernandez (85%) def. Vasser (15%)</li>  
 <li>Composite: <b><i>MSST</i></b> - Hernandez (79%) def. Vasser (21%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Vasser (1.93) def. Hernandez (1.85)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MSST</i></b> - Tortora (77%) def. Aubone (23%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Tortora (89%) def. Aubone (11%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Tortora (75%) def. Aubone (25%)*</li>  
+<li>Massey: <b><i>MSST</i></b> - Tortora (75%) def. Aubone (25%)[^1]</li>  
 <li>UTR: <b><i>MSST</i></b> - Tortora (59%) def. Aubone (41%)</li>  
 <li>Composite: <b><i>MSST</i></b> - Tortora (75%) def. Aubone (25%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Tortora (9.41) def. Aubone (1.40)</li>  
@@ -148,4 +148,5 @@ Based on the composite metrics for each individual match:
 - If Mississippi St. wins the doubles point, their chances of winning the dual improve to _94%_.
 - If Miami (FL) wins the doubles point, their chances of winning the dual improve to _25%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

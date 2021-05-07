@@ -9,7 +9,7 @@ Friday, May 7 at 12:00 EDT
 &nbsp; ITA: 46 (8.95)<br>  
 &nbsp; Slam: 47 (84.23)<br>  
 &nbsp; TRN: 47 (75.57)<br>  
-&nbsp; Massey: 46 (6.46)*<br>  
+&nbsp; Massey: 46 (6.46)<br>  
 &nbsp; UTR: 47 (56.89)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 12:00 EDT
 &#10004; ITA: 15 (46.78)<br>  
 &#10004; Slam: 19 (90.43)<br>  
 &#10004; TRN: 19 (82.73)<br>  
-&#10004; Massey: 19 (7.80)*<br>  
+&#10004; Massey: 19 (7.80)<br>  
 &#10004; UTR: 22 (61.61)<br>  
 &#10004; USTA Poll: 19<br>  
 &#10004; Coaches Poll: 16<br>  
@@ -37,7 +37,7 @@ Friday, May 7 at 12:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TENN*** - #19 Tennessee (97%) def. #47 James Madison (3%)  
 - TRN: ***TENN*** - #19 Tennessee (98%) def. #47 James Madison (2%)  
-- Massey: ***TENN*** - #19 Tennessee (75%) def. #46 James Madison (25%)  
+- Massey: ***TENN*** - #19 Tennessee (75%) def. #46 James Madison (25%)[^1]  
 - Lineup: ***TENN*** - Tennessee (98%) def. James Madison (2%)  
 - Composite: ***TENN*** - Tennessee (92%) def. James Madison (8%)  
 - UTR: ***TENN*** - #22 Tennessee (+4.72) def. #47 James Madison (-4.72)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Mertena (62%) def. Afanasyeva (38%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Mertena (67%) def. Afanasyeva (33%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Mertena (75%) def. Afanasyeva (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Mertena (75%) def. Afanasyeva (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Mertena (91%) def. Afanasyeva (9%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Mertena (74%) def. Afanasyeva (26%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Mertena (7.45) def. Afanasyeva (2.51)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Molinaro (85%) def. Roka (15%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Molinaro (84%) def. Roka (16%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Molinaro (75%) def. Roka (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Molinaro (75%) def. Roka (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Molinaro (92%) def. Roka (8%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Molinaro (84%) def. Roka (16%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Molinaro (5.46) def. Roka (2.41)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Briggs (95%) def. Nikolopoulou (5%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Briggs (94%) def. Nikolopoulou (6%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Briggs (75%) def. Nikolopoulou (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Briggs (75%) def. Nikolopoulou (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Briggs (95%) def. Nikolopoulou (5%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Briggs (90%) def. Nikolopoulou (10%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Briggs (8.89) def. Nikolopoulou (2.10)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Kuczer (90%) def. Moulin (10%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Kuczer (91%) def. Moulin (9%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Kuczer (75%) def. Moulin (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Kuczer (75%) def. Moulin (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Kuczer (91%) def. Moulin (9%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Kuczer (87%) def. Moulin (13%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Kuczer (3.41) def. Moulin (3.15)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - McGiffin (86%) def. Franco (14%)</li>  
 <li>TRN: <b><i>TENN</i></b> - McGiffin (79%) def. Franco (21%)</li>  
-<li>Massey: <b><i>TENN</i></b> - McGiffin (75%) def. Franco (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - McGiffin (75%) def. Franco (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - McGiffin (88%) def. Franco (12%)</li>  
 <li>Composite: <b><i>TENN</i></b> - McGiffin (82%) def. Franco (18%)</li>  
 <li>ITA: <b><i>JMU</i></b> - Franco (3.01) def. McGiffin (1.61)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Silva (90%) def. Voloh (10%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Silva (87%) def. Voloh (13%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Silva (75%) def. Voloh (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Silva (75%) def. Voloh (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Silva (86%) def. Voloh (14%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Silva (84%) def. Voloh (16%)</li>  
 <li>ITA: <b><i>JMU</i></b> - Voloh (3.50) def. Silva (1.85)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If Tennessee wins the doubles point, their chances of winning the dual improve to _99%_.
 - If James Madison wins the doubles point, their chances of winning the dual improve to _6%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

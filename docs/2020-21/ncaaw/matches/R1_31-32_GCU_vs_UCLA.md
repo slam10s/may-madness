@@ -9,7 +9,7 @@ Friday, May 7 at 1:00 EDT
 &nbsp; ITA: 62 (1.99)<br>  
 &nbsp; Slam: 59 (75.93)<br>  
 &nbsp; TRN: 60 (64.13)<br>  
-&nbsp; Massey: 57 (4.78)*<br>  
+&nbsp; Massey: 57 (4.78)<br>  
 &nbsp; UTR: 57 (51.77)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 1:00 EDT
 &#10004; ITA: 4 (61.84)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
-&#10004; Massey: 4 (8.85)*<br>  
+&#10004; Massey: 4 (8.85)<br>  
 &#10004; UTR: 5 (64.40)<br>  
 &#10004; USTA Poll: 4<br>  
 &#10004; Coaches Poll: 5<br>  
@@ -37,7 +37,7 @@ Friday, May 7 at 1:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCLA*** - #4 UCLA (99%) def. #59 Grand Canyon (1%)  
 - TRN: ***UCLA*** - #7 UCLA (99%) def. #60 Grand Canyon (1%)  
-- Massey: ***UCLA*** - #4 UCLA (75%) def. #57 Grand Canyon (25%)  
+- Massey: ***UCLA*** - #4 UCLA (75%) def. #57 Grand Canyon (25%)[^1]  
 - Lineup: ***UCLA*** - UCLA (99%) def. Grand Canyon (1%)  
 - Composite: ***UCLA*** - UCLA (93%) def. Grand Canyon (7%)  
 - UTR: ***UCLA*** - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Forbes (99%) def. Puehse (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Forbes (99%) def. Puehse (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Forbes (75%) def. Puehse (25%)*</li>  
+<li>Massey: <b><i>UCLA</i></b> - Forbes (75%) def. Puehse (25%)[^1]</li>  
 <li>UTR: <b><i>UCLA</i></b> - Forbes (98%) def. Puehse (2%)</li>  
 <li>Composite: <b><i>UCLA</i></b> - Forbes (93%) def. Puehse (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Forbes (46.46) def. Puehse (2.45)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Hart (75%) def. Occhipinti (25%)*</li>  
+<li>Massey: <b><i>UCLA</i></b> - Hart (75%) def. Occhipinti (25%)[^1]</li>  
 <li>UTR: <b><i>UCLA</i></b> - Hart (98%) def. Occhipinti (2%)</li>  
 <li>Composite: <b><i>UCLA</i></b> - Hart (93%) def. Occhipinti (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Hart (12.21) def. Occhipinti (2.15)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Bolton (75%) def. Weiss (25%)*</li>  
+<li>Massey: <b><i>UCLA</i></b> - Bolton (75%) def. Weiss (25%)[^1]</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bolton (98%) def. Weiss (2%)</li>  
 <li>Composite: <b><i>UCLA</i></b> - Bolton (93%) def. Weiss (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Bolton (4.20) def. Weiss (2.42)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Wolff (99%) def. Lomas (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Wolff (99%) def. Lomas (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Wolff (75%) def. Lomas (25%)*</li>  
+<li>Massey: <b><i>UCLA</i></b> - Wolff (75%) def. Lomas (25%)[^1]</li>  
 <li>UTR: <b><i>UCLA</i></b> - Wolff (98%) def. Lomas (2%)</li>  
 <li>Composite: <b><i>UCLA</i></b> - Wolff (93%) def. Lomas (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Wolff (2.06) def. Lomas (1.64)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Vagramov (75%) def. Prudhomme (25%)*</li>  
+<li>Massey: <b><i>UCLA</i></b> - Vagramov (75%) def. Prudhomme (25%)[^1]</li>  
 <li>UTR: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>Composite: <b><i>UCLA</i></b> - Vagramov (93%) def. Prudhomme (7%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Prudhomme (0.00)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Ong (75%) def. Andersen (25%)*</li>  
+<li>Massey: <b><i>UCLA</i></b> - Ong (75%) def. Andersen (25%)[^1]</li>  
 <li>UTR: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
 <li>Composite: <b><i>UCLA</i></b> - Ong (93%) def. Andersen (7%)</li>  
 <li>ITA: <b><i>GCU</i></b> - Andersen (1.96) def. Ong (1.95)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If UCLA wins the doubles point, their chances of winning the dual improve to _99%_.
 - If Grand Canyon wins the doubles point, their chances of winning the dual improve to _1%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

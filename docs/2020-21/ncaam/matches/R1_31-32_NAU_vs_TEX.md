@@ -9,7 +9,7 @@ Saturday, May 8 at 1:00 EDT
 &nbsp; ITA: 61 (2.13)<br>  
 &nbsp; Slam: 58 (82.40)<br>  
 &nbsp; TRN: 60 (77.79)<br>  
-&nbsp; Massey: 59 (5.53)*<br>  
+&nbsp; Massey: 59 (5.53)<br>  
 &nbsp; UTR: 59 (70.85)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Saturday, May 8 at 1:00 EDT
 &#10004; ITA: 5 (74.24)<br>  
 &#10004; Slam: 8 (97.59)<br>  
 &#10004; TRN: 7 (97.63)<br>  
-&#10004; Massey: 11 (8.54)*<br>  
+&#10004; Massey: 11 (8.54)<br>  
 &#10004; UTR: 14 (79.01)<br>  
 &#10004; USTA Poll: 6<br>  
 &#10004; Coaches Poll: 4<br>  
@@ -37,7 +37,7 @@ Saturday, May 8 at 1:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TEX*** - #8 Texas (99%) def. #58 Northern Ariz. (1%)  
 - TRN: ***TEX*** - #7 Texas (99%) def. #60 Northern Ariz. (1%)  
-- Massey: ***TEX*** - #11 Texas (75%) def. #59 Northern Ariz. (25%)  
+- Massey: ***TEX*** - #11 Texas (75%) def. #59 Northern Ariz. (25%)[^1]  
 - Lineup: ***TEX*** - Texas (100%) def. Northern Ariz. (0%)  
 - Composite: ***TEX*** - Texas (93%) def. Northern Ariz. (7%)  
 - UTR: ***TEX*** - #14 Texas (+8.16) def. #59 Northern Ariz. (-8.16)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Spizzirri (95%) def. Straker-Meads (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Spizzirri (98%) def. Straker-Meads (2%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Spizzirri (75%) def. Straker-Meads (25%)*</li>  
+<li>Massey: <b><i>TEX</i></b> - Spizzirri (75%) def. Straker-Meads (25%)[^1]</li>  
 <li>UTR: <b><i>TEX</i></b> - Spizzirri (95%) def. Straker-Meads (5%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Spizzirri (91%) def. Straker-Meads (9%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Spizzirri (28.17) def. Straker-Meads (1.70)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Braswell (95%) def. Tumosa (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Braswell (97%) def. Tumosa (3%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Braswell (75%) def. Tumosa (25%)*</li>  
+<li>Massey: <b><i>TEX</i></b> - Braswell (75%) def. Tumosa (25%)[^1]</li>  
 <li>UTR: <b><i>TEX</i></b> - Braswell (96%) def. Tumosa (4%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Braswell (91%) def. Tumosa (9%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Braswell (20.88) def. Tumosa (1.38)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Woldeab (99%) def. Buzonics (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Woldeab (99%) def. Buzonics (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Woldeab (75%) def. Buzonics (25%)*</li>  
+<li>Massey: <b><i>TEX</i></b> - Woldeab (75%) def. Buzonics (25%)[^1]</li>  
 <li>UTR: <b><i>TEX</i></b> - Woldeab (97%) def. Buzonics (3%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Woldeab (93%) def. Buzonics (7%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Woldeab (9.31) def. Buzonics (1.51)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Harper (98%) def. Steele (2%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Harper (99%) def. Steele (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Harper (75%) def. Steele (25%)*</li>  
+<li>Massey: <b><i>TEX</i></b> - Harper (75%) def. Steele (25%)[^1]</li>  
 <li>UTR: <b><i>TEX</i></b> - Harper (98%) def. Steele (2%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Harper (92%) def. Steele (8%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Harper (5.83) def. Steele (2.01)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Huang (95%) def. Ziomber (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Huang (94%) def. Ziomber (6%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Huang (75%) def. Ziomber (25%)*</li>  
+<li>Massey: <b><i>TEX</i></b> - Huang (75%) def. Ziomber (25%)[^1]</li>  
 <li>UTR: <b><i>TEX</i></b> - Huang (92%) def. Ziomber (8%)</li>  
 <li>Composite: <b><i>TEX</i></b> - Huang (89%) def. Ziomber (11%)</li>  
 <li>ITA: <b><i>NAU</i></b> - Ziomber (2.68) def. Huang (0.00)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - McDonald (96%) def. Groves (4%)</li>  
 <li>TRN: <b><i>TEX</i></b> - McDonald (98%) def. Groves (2%)</li>  
-<li>Massey: <b><i>TEX</i></b> - McDonald (75%) def. Groves (25%)*</li>  
+<li>Massey: <b><i>TEX</i></b> - McDonald (75%) def. Groves (25%)[^1]</li>  
 <li>UTR: <b><i>TEX</i></b> - McDonald (96%) def. Groves (4%)</li>  
 <li>Composite: <b><i>TEX</i></b> - McDonald (91%) def. Groves (9%)</li>  
 </ul>
@@ -146,4 +146,5 @@ Based on the composite metrics for each individual match:
 - If Texas wins the doubles point, their chances of winning the dual improve to _100%_.
 - If Northern Ariz. wins the doubles point, their chances of winning the dual improve to _1%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

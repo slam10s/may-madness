@@ -9,7 +9,7 @@ Friday, May 7 at 3:00 EDT
 &nbsp; ITA: 49 (6.76)<br>  
 &nbsp; Slam: 48 (82.19)<br>  
 &nbsp; TRN: 48 (73.53)<br>  
-&nbsp; Massey: 48 (6.03)*<br>  
+&nbsp; Massey: 48 (6.03)<br>  
 &nbsp; UTR: 48 (55.75)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 3:00 EDT
 &#10004; ITA: 6 (55.66)<br>  
 &#10004; Slam: 11 (91.65)<br>  
 &#10004; TRN: 10 (84.27)<br>  
-&#10004; Massey: 6 (8.36)*<br>  
+&#10004; Massey: 6 (8.36)<br>  
 &#10004; UTR: 9 (62.99)<br>  
 &#10004; USTA Poll: 11<br>  
 &#10004; Coaches Poll: 6<br>  
@@ -37,7 +37,7 @@ Friday, May 7 at 3:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***NCST*** - #11 NC State (99%) def. #48 VCU (1%)  
 - TRN: ***NCST*** - #10 NC State (99%) def. #48 VCU (1%)  
-- Massey: ***NCST*** - #6 NC State (75%) def. #48 VCU (25%)  
+- Massey: ***NCST*** - #6 NC State (75%) def. #48 VCU (25%)[^1]  
 - Lineup: ***NCST*** - NC State (98%) def. VCU (2%)  
 - Composite: ***NCST*** - NC State (93%) def. VCU (7%)  
 - UTR: ***NCST*** - #9 NC State (+7.24) def. #48 VCU (-7.24)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rogers (81%) def. Diaz-Delgado (19%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Rogers (75%) def. Diaz-Delgado (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Rogers (75%) def. Diaz-Delgado (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Rogers (82%) def. Diaz-Delgado (18%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rogers (48.19) def. Diaz-Delgado (5.71)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Smith (96%) def. Tutunaru (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Smith (98%) def. Tutunaru (2%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Smith (75%) def. Tutunaru (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Smith (75%) def. Tutunaru (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Smith (97%) def. Tutunaru (3%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Smith (91%) def. Tutunaru (9%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Smith (22.32) def. Tutunaru (1.60)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Reami (96%) def. Ciuca (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Reami (75%) def. Ciuca (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Reami (75%) def. Ciuca (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Reami (91%) def. Ciuca (9%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Reami (4.00) def. Ciuca (1.68)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Daniel (95%) def. Davidescu (5%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Daniel (75%) def. Davidescu (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Daniel (75%) def. Davidescu (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Daniel (90%) def. Davidescu (10%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Daniel (1.87) def. Davidescu (1.64)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Rencheli (95%) def. Witmus (5%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rencheli (97%) def. Witmus (3%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Rencheli (75%) def. Witmus (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Rencheli (75%) def. Witmus (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Rencheli (96%) def. Witmus (4%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Rencheli (91%) def. Witmus (9%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rencheli (7.12) def. Witmus (2.03)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Keberle (97%) def. Manjanna (3%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Keberle (98%) def. Manjanna (2%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Keberle (75%) def. Manjanna (25%)*</li>  
+<li>Massey: <b><i>NCST</i></b> - Keberle (75%) def. Manjanna (25%)[^1]</li>  
 <li>UTR: <b><i>NCST</i></b> - Keberle (96%) def. Manjanna (4%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Keberle (91%) def. Manjanna (9%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Manjanna (1.77) def. Keberle (1.71)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If NC State wins the doubles point, their chances of winning the dual improve to _99%_.
 - If VCU wins the doubles point, their chances of winning the dual improve to _2%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

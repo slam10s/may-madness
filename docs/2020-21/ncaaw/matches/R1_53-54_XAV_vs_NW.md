@@ -9,7 +9,7 @@ Friday, May 7 at 4:00 EDT
 &nbsp; ITA: 55 (3.75)<br>  
 &nbsp; Slam: 49 (80.67)<br>  
 &nbsp; TRN: 50 (71.88)<br>  
-&nbsp; Massey: 50 (5.60)*<br>  
+&nbsp; Massey: 50 (5.60)<br>  
 &nbsp; UTR: 64 (24.06)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 4:00 EDT
 &#10004; ITA: 21 (39.92)<br>  
 &#10004; Slam: 18 (90.46)<br>  
 &#10004; TRN: 13 (83.80)<br>  
-&#10004; Massey: 20 (7.78)*<br>  
+&#10004; Massey: 20 (7.78)<br>  
 &#10004; UTR: 33 (60.43)<br>  
 &#10004; USTA Poll: 16<br>  
 &#10004; Coaches Poll: 19<br>  
@@ -37,7 +37,7 @@ Friday, May 7 at 4:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***NW*** - #18 Northwestern (99%) def. #49 Xavier (1%)  
 - TRN: ***NW*** - #13 Northwestern (99%) def. #50 Xavier (1%)  
-- Massey: ***NW*** - #20 Northwestern (75%) def. #50 Xavier (25%)  
+- Massey: ***NW*** - #20 Northwestern (75%) def. #50 Xavier (25%)[^1]  
 - Lineup: ***NW*** - Northwestern (100%) def. Xavier (0%)  
 - Composite: ***NW*** - Northwestern (93%) def. Xavier (7%)  
 - UTR: ***NW*** - #33 Northwestern (+36.37) def. #64 Xavier (-36.37)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Shusharina (85%) def. Kyle (15%)</li>  
 <li>TRN: <b><i>NW</i></b> - Shusharina (84%) def. Kyle (16%)</li>  
-<li>Massey: <b><i>NW</i></b> - Shusharina (75%) def. Kyle (25%)*</li>  
+<li>Massey: <b><i>NW</i></b> - Shusharina (75%) def. Kyle (25%)[^1]</li>  
 <li>UTR: <b><i>NW</i></b> - Shusharina (99%) def. Kyle (1%)</li>  
 <li>Composite: <b><i>NW</i></b> - Shusharina (86%) def. Kyle (14%)</li>  
 <li>ITA: <b><i>XAV</i></b> - Kyle (4.79) def. Shusharina (3.92)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Hand (84%) def. Lyman (16%)</li>  
 <li>TRN: <b><i>NW</i></b> - Hand (84%) def. Lyman (16%)</li>  
-<li>Massey: <b><i>NW</i></b> - Hand (75%) def. Lyman (25%)*</li>  
+<li>Massey: <b><i>NW</i></b> - Hand (75%) def. Lyman (25%)[^1]</li>  
 <li>UTR: <b><i>NW</i></b> - Hand (99%) def. Lyman (1%)</li>  
 <li>Composite: <b><i>NW</i></b> - Hand (86%) def. Lyman (14%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (4.82) def. Lyman (2.79)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Byrne (89%) def. Roggenburk (11%)</li>  
 <li>TRN: <b><i>NW</i></b> - Byrne (84%) def. Roggenburk (16%)</li>  
-<li>Massey: <b><i>NW</i></b> - Byrne (75%) def. Roggenburk (25%)*</li>  
+<li>Massey: <b><i>NW</i></b> - Byrne (75%) def. Roggenburk (25%)[^1]</li>  
 <li>UTR: <b><i>NW</i></b> - Byrne (99%) def. Roggenburk (1%)</li>  
 <li>Composite: <b><i>NW</i></b> - Byrne (87%) def. Roggenburk (13%)</li>  
 <li>ITA: <b><i>XAV</i></b> - Roggenburk (2.75) def. Byrne (1.56)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Crowley (93%) def. Graham (7%)</li>  
 <li>TRN: <b><i>NW</i></b> - Crowley (92%) def. Graham (8%)</li>  
-<li>Massey: <b><i>NW</i></b> - Crowley (75%) def. Graham (25%)*</li>  
+<li>Massey: <b><i>NW</i></b> - Crowley (75%) def. Graham (25%)[^1]</li>  
 <li>UTR: <b><i>NW</i></b> - Crowley (99%) def. Graham (1%)</li>  
 <li>Composite: <b><i>NW</i></b> - Crowley (90%) def. Graham (10%)</li>  
 <li>ITA: <b><i>XAV</i></b> - Graham (2.45) def. Crowley (1.93)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Pozo (98%) def. Ruether (2%)</li>  
 <li>TRN: <b><i>NW</i></b> - Pozo (99%) def. Ruether (1%)</li>  
-<li>Massey: <b><i>NW</i></b> - Pozo (75%) def. Ruether (25%)*</li>  
+<li>Massey: <b><i>NW</i></b> - Pozo (75%) def. Ruether (25%)[^1]</li>  
 <li>UTR: <b><i>NW</i></b> - Pozo (99%) def. Ruether (1%)</li>  
 <li>Composite: <b><i>NW</i></b> - Pozo (93%) def. Ruether (7%)</li>  
 <li>ITA: <b><i>NW</i></b> - Pozo (1.76) def. Ruether (0.00)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Hand (95%) def. Thomas (5%)</li>  
 <li>TRN: <b><i>NW</i></b> - Hand (96%) def. Thomas (4%)</li>  
-<li>Massey: <b><i>NW</i></b> - Hand (75%) def. Thomas (25%)*</li>  
+<li>Massey: <b><i>NW</i></b> - Hand (75%) def. Thomas (25%)[^1]</li>  
 <li>UTR: <b><i>NW</i></b> - Hand (99%) def. Thomas (1%)</li>  
 <li>Composite: <b><i>NW</i></b> - Hand (91%) def. Thomas (9%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (2.48) def. Thomas (2.39)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If Northwestern wins the doubles point, their chances of winning the dual improve to _100%_.
 - If Xavier wins the doubles point, their chances of winning the dual improve to _2%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

@@ -9,7 +9,7 @@ Saturday, May 8 at 10:00 EDT
 &nbsp; ITA: 38 (22.19)<br>  
 &nbsp; Slam: 41 (91.89)<br>  
 &nbsp; TRN: 40 (89.86)<br>  
-&nbsp; Massey: 43 (7.05)*<br>  
+&nbsp; Massey: 43 (7.05)<br>  
 &nbsp; UTR: 43 (75.40)<br>  
 &nbsp; Coaches Poll: 35<br>  
 <br>  
@@ -21,7 +21,7 @@ Saturday, May 8 at 10:00 EDT
 &#10004; ITA: 30 (27.75)<br>  
 &#10004; Slam: 27 (93.36)<br>  
 &#10004; TRN: 33 (90.89)<br>  
-&#10004; Massey: 25 (7.67)*<br>  
+&#10004; Massey: 25 (7.67)<br>  
 &#10004; UTR: 36 (76.54)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 31<br>  
@@ -38,7 +38,7 @@ Saturday, May 8 at 10:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***GT*** - #27 Georgia Tech (69%) def. #41 Memphis (31%)  
 - TRN: ***GT*** - #33 Georgia Tech (64%) def. #40 Memphis (36%)  
-- Massey: ***GT*** - #25 Georgia Tech (75%) def. #43 Memphis (25%)  
+- Massey: ***GT*** - #25 Georgia Tech (75%) def. #43 Memphis (25%)[^1]  
 - Lineup: ***GT*** - Georgia Tech (91%) def. Memphis (9%)  
 - Composite: ***GT*** - Georgia Tech (75%) def. Memphis (25%)  
 - UTR: ***GT*** - #36 Georgia Tech (+1.14) def. #43 Memphis (-1.14)  
@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - McDaniel (71%) def. Story (29%)</li>  
 <li>TRN: <b><i>GT</i></b> - McDaniel (72%) def. Story (28%)</li>  
-<li>Massey: <b><i>GT</i></b> - McDaniel (75%) def. Story (25%)*</li>  
+<li>Massey: <b><i>GT</i></b> - McDaniel (75%) def. Story (25%)[^1]</li>  
 <li>UTR: <b><i>GT</i></b> - McDaniel (79%) def. Story (21%)</li>  
 <li>Composite: <b><i>GT</i></b> - McDaniel (74%) def. Story (26%)</li>  
 <li>ITA: <b><i>GT</i></b> - McDaniel (25.05) def. Story (13.58)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Martin (82%) def. Stevenson (18%)</li>  
 <li>TRN: <b><i>GT</i></b> - Martin (85%) def. Stevenson (15%)</li>  
-<li>Massey: <b><i>GT</i></b> - Martin (75%) def. Stevenson (25%)*</li>  
+<li>Massey: <b><i>GT</i></b> - Martin (75%) def. Stevenson (25%)[^1]</li>  
 <li>UTR: <b><i>GT</i></b> - Martin (83%) def. Stevenson (17%)</li>  
 <li>Composite: <b><i>GT</i></b> - Martin (81%) def. Stevenson (19%)</li>  
 <li>ITA: <b><i>GT</i></b> - Martin (17.00) def. Stevenson (6.29)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Schelcher (58%) def. Cutting (42%)</li>  
 <li>TRN: <b><i>GT</i></b> - Schelcher (68%) def. Cutting (32%)</li>  
-<li>Massey: <b><i>GT</i></b> - Schelcher (75%) def. Cutting (25%)*</li>  
+<li>Massey: <b><i>GT</i></b> - Schelcher (75%) def. Cutting (25%)[^1]</li>  
 <li>UTR: <b><i>GT</i></b> - Schelcher (72%) def. Cutting (28%)</li>  
 <li>Composite: <b><i>GT</i></b> - Schelcher (68%) def. Cutting (32%)</li>  
 <li>ITA: <b><i>MEM</i></b> - Cutting (4.13) def. Schelcher (3.19)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Chopra (80%) def. Pallares (20%)</li>  
 <li>TRN: <b><i>GT</i></b> - Chopra (83%) def. Pallares (17%)</li>  
-<li>Massey: <b><i>GT</i></b> - Chopra (75%) def. Pallares (25%)*</li>  
+<li>Massey: <b><i>GT</i></b> - Chopra (75%) def. Pallares (25%)[^1]</li>  
 <li>UTR: <b><i>GT</i></b> - Chopra (75%) def. Pallares (25%)</li>  
 <li>Composite: <b><i>GT</i></b> - Chopra (78%) def. Pallares (22%)</li>  
 <li>ITA: <b><i>GT</i></b> - Chopra (1.81) def. Pallares (1.34)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MEM</i></b> - Taylor (51%) def. McKinney (49%)</li>  
 <li>TRN: <b><i>MEM</i></b> - Taylor (58%) def. McKinney (42%)</li>  
-<li>Massey: <b><i>MEM</i></b> - Taylor (75%) def. McKinney (25%)*</li>  
+<li>Massey: <b><i>MEM</i></b> - Taylor (75%) def. McKinney (25%)[^1]</li>  
 <li>UTR: <b><i>MEM</i></b> - Taylor (82%) def. McKinney (18%)</li>  
 <li>Composite: <b><i>MEM</i></b> - Taylor (66%) def. McKinney (34%)</li>  
 <li>ITA: <b><i>MEM</i></b> - Taylor (2.71) def. McKinney (1.37)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Dong (64%) def. Fanlo (36%)</li>  
 <li>TRN: <b><i>GT</i></b> - Dong (76%) def. Fanlo (24%)</li>  
-<li>Massey: <b><i>GT</i></b> - Dong (75%) def. Fanlo (25%)*</li>  
+<li>Massey: <b><i>GT</i></b> - Dong (75%) def. Fanlo (25%)[^1]</li>  
 <li>UTR: <b><i>GT</i></b> - Dong (75%) def. Fanlo (25%)</li>  
 <li>Composite: <b><i>GT</i></b> - Dong (72%) def. Fanlo (28%)</li>  
 <li>ITA: <b><i>GT</i></b> - Dong (1.93) def. Fanlo (1.57)</li>  
@@ -148,4 +148,5 @@ Based on the composite metrics for each individual match:
 - If Georgia Tech wins the doubles point, their chances of winning the dual improve to _93%_.
 - If Memphis wins the doubles point, their chances of winning the dual improve to _27%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

@@ -9,7 +9,7 @@ Saturday, May 8 at 1:00 EDT
 &nbsp; ITA: 63 (1.60)<br>  
 &nbsp; Slam: 64 (76.01)<br>  
 &nbsp; TRN: 64 (72.43)<br>  
-&nbsp; Massey: 65 (3.71)*<br>  
+&nbsp; Massey: 65 (3.71)<br>  
 &nbsp; UTR: 65 (63.25)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Saturday, May 8 at 1:00 EDT
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.18)<br>  
 &#10004; TRN: 5 (98.72)<br>  
-&#10004; Massey: 2 (9.17)*<br>  
+&#10004; Massey: 2 (9.17)<br>  
 &#10004; UTR: 4 (80.17)<br>  
 &#10004; USTA Poll: 4<br>  
 &#10004; Coaches Poll: 3<br>  
@@ -37,7 +37,7 @@ Saturday, May 8 at 1:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TENN*** - #4 Tennessee (99%) def. #64 Alabama A&M (1%)  
 - TRN: ***TENN*** - #5 Tennessee (99%) def. #64 Alabama A&M (1%)  
-- Massey: ***TENN*** - #2 Tennessee (75%) def. #65 Alabama A&M (25%)  
+- Massey: ***TENN*** - #2 Tennessee (75%) def. #65 Alabama A&M (25%)[^1]  
 - Lineup: ***TENN*** - Tennessee (100%) def. Alabama A&M (0%)  
 - Composite: ***TENN*** - Tennessee (93%) def. Alabama A&M (7%)  
 - UTR: ***TENN*** - #4 Tennessee (+16.92) def. #65 Alabama A&M (-16.92)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Walton (75%) def. Rios (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Walton (75%) def. Rios (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Walton (93%) def. Rios (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Walton (42.60) def. Rios (0.00)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Monday (75%) def. Popovski (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Monday (75%) def. Popovski (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Monday (93%) def. Popovski (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Monday (43.71) def. Popovski (1.64)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Prata (100%) def. Ruiz (0%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Prata (100%) def. Ruiz (0%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Prata (75%) def. Ruiz (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Prata (75%) def. Ruiz (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Prata (99%) def. Ruiz (1%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Prata (93%) def. Ruiz (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Prata (18.77) def. Ruiz (0.00)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Wiedenmann (75%) def. Mulada (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Wiedenmann (75%) def. Mulada (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Wiedenmann (93%) def. Mulada (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Wiedenmann (4.02) def. Mulada (1.65)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Hussey (75%) def. Setiawan (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Hussey (75%) def. Setiawan (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Hussey (93%) def. Setiawan (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Hussey (7.54) def. Setiawan (1.79)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Harper (100%) def. Gahlot (0%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Harper (100%) def. Gahlot (0%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Harper (75%) def. Gahlot (25%)*</li>  
+<li>Massey: <b><i>TENN</i></b> - Harper (75%) def. Gahlot (25%)[^1]</li>  
 <li>UTR: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
 <li>Composite: <b><i>TENN</i></b> - Harper (93%) def. Gahlot (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Harper (5.43) def. Gahlot (1.77)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If Tennessee wins the doubles point, their chances of winning the dual improve to _100%_.
 - If Alabama A&M wins the doubles point, their chances of winning the dual improve to _0%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

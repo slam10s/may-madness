@@ -9,7 +9,7 @@ Friday, May 7 at 1:00 EDT
 &nbsp; ITA: 63 (1.98)<br>  
 &nbsp; Slam: 58 (75.98)<br>  
 &nbsp; TRN: 58 (65.50)<br>  
-&nbsp; Massey: 59 (4.59)*<br>  
+&nbsp; Massey: 59 (4.59)<br>  
 &nbsp; UTR: 59 (50.87)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 1:00 EDT
 &#10004; ITA: 10 (50.15)<br>  
 &#10004; Slam: 15 (90.86)<br>  
 &#10004; TRN: 14 (83.43)<br>  
-&#10004; Massey: 21 (7.77)*<br>  
+&#10004; Massey: 21 (7.77)<br>  
 &#10004; UTR: 21 (61.70)<br>  
 &#10004; USTA Poll: 17<br>  
 &#10004; Coaches Poll: 10<br>  
@@ -37,7 +37,7 @@ Friday, May 7 at 1:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***A&M*** - #15 Texas A&M (99%) def. #58 Drake (1%)  
 - TRN: ***A&M*** - #14 Texas A&M (99%) def. #58 Drake (1%)  
-- Massey: ***A&M*** - #21 Texas A&M (75%) def. #59 Drake (25%)  
+- Massey: ***A&M*** - #21 Texas A&M (75%) def. #59 Drake (25%)[^1]  
 - Lineup: ***A&M*** - Texas A&M (100%) def. Drake (0%)  
 - Composite: ***A&M*** - Texas A&M (93%) def. Drake (7%)  
 - UTR: ***A&M*** - #21 Texas A&M (+10.83) def. #59 Drake (-10.83)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Makarova (97%) def. Petushkova (3%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Makarova (99%) def. Petushkova (1%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Makarova (75%) def. Petushkova (25%)*</li>  
+<li>Massey: <b><i>A&M</i></b> - Makarova (75%) def. Petushkova (25%)[^1]</li>  
 <li>UTR: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
 <li>Composite: <b><i>A&M</i></b> - Makarova (92%) def. Petushkova (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Makarova (21.86) def. Petushkova (1.55)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Goldsmith (75%) def. Walczak (25%)*</li>  
+<li>Massey: <b><i>A&M</i></b> - Goldsmith (75%) def. Walczak (25%)[^1]</li>  
 <li>UTR: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>Composite: <b><i>A&M</i></b> - Goldsmith (92%) def. Walczak (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Goldsmith (3.03) def. Walczak (1.52)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Townsend (75%) def. Stephani (25%)*</li>  
+<li>Massey: <b><i>A&M</i></b> - Townsend (75%) def. Stephani (25%)[^1]</li>  
 <li>UTR: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
 <li>Composite: <b><i>A&M</i></b> - Townsend (92%) def. Stephani (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Townsend (3.71) def. Stephani (2.39)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (98%) def. Tatarnikova (2%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Faa-Hviding (75%) def. Tatarnikova (25%)*</li>  
+<li>Massey: <b><i>A&M</i></b> - Faa-Hviding (75%) def. Tatarnikova (25%)[^1]</li>  
 <li>UTR: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
 <li>Composite: <b><i>A&M</i></b> - Faa-Hviding (92%) def. Tatarnikova (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Faa-Hviding (1.87) def. Tatarnikova (1.80)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
-<li>Massey: <b><i>A&M</i></b> - McBryde (75%) def. Stepan (25%)*</li>  
+<li>Massey: <b><i>A&M</i></b> - McBryde (75%) def. Stepan (25%)[^1]</li>  
 <li>UTR: <b><i>A&M</i></b> - McBryde (97%) def. Stepan (3%)</li>  
 <li>Composite: <b><i>A&M</i></b> - McBryde (92%) def. Stepan (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McBryde (2.44) def. Stepan (1.93)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
-<li>Massey: <b><i>A&M</i></b> - McQuaid (75%) def. Neville (25%)*</li>  
+<li>Massey: <b><i>A&M</i></b> - McQuaid (75%) def. Neville (25%)[^1]</li>  
 <li>UTR: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>Composite: <b><i>A&M</i></b> - McQuaid (93%) def. Neville (7%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McQuaid (2.12) def. Neville (1.64)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If Texas A&M wins the doubles point, their chances of winning the dual improve to _100%_.
 - If Drake wins the doubles point, their chances of winning the dual improve to _1%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

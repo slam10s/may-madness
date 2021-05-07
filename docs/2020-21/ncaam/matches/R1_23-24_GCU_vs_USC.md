@@ -9,7 +9,7 @@ Friday, May 7 at 4:00 EDT
 &nbsp; ITA: 64 (1.38)<br>  
 &nbsp; Slam: 62 (81.82)<br>  
 &nbsp; TRN: 62 (76.83)<br>  
-&nbsp; Massey: 62 (5.21)*<br>  
+&nbsp; Massey: 62 (5.21)<br>  
 &nbsp; UTR: 56 (71.32)<br>  
 <br>  
 
@@ -20,7 +20,7 @@ Friday, May 7 at 4:00 EDT
 &#10004; ITA: 12 (52.23)<br>  
 &#10004; Slam: 14 (96.38)<br>  
 &#10004; TRN: 16 (94.47)<br>  
-&#10004; Massey: 8 (8.62)*<br>  
+&#10004; Massey: 8 (8.62)<br>  
 &#10004; UTR: 2 (80.29)<br>  
 &#10004; USTA Poll: 13<br>  
 &#10004; Coaches Poll: 12<br>  
@@ -37,7 +37,7 @@ Friday, May 7 at 4:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***USC*** - #14 Southern California (99%) def. #62 Grand Canyon (1%)  
 - TRN: ***USC*** - #16 Southern California (99%) def. #62 Grand Canyon (1%)  
-- Massey: ***USC*** - #8 Southern California (75%) def. #62 Grand Canyon (25%)  
+- Massey: ***USC*** - #8 Southern California (75%) def. #62 Grand Canyon (25%)[^1]  
 - Lineup: ***USC*** - Southern California (100%) def. Grand Canyon (0%)  
 - Composite: ***USC*** - Southern California (93%) def. Grand Canyon (7%)  
 - UTR: ***USC*** - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Cukierman (98%) def. Lang (2%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cukierman (99%) def. Lang (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Cukierman (75%) def. Lang (25%)*</li>  
+<li>Massey: <b><i>USC</i></b> - Cukierman (75%) def. Lang (25%)[^1]</li>  
 <li>UTR: <b><i>USC</i></b> - Cukierman (97%) def. Lang (3%)</li>  
 <li>Composite: <b><i>USC</i></b> - Cukierman (92%) def. Lang (8%)</li>  
 <li>ITA: <b><i>USC</i></b> - Cukierman (16.39) def. Lang (1.42)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Smith (98%) def. Argote (2%)</li>  
 <li>TRN: <b><i>USC</i></b> - Smith (99%) def. Argote (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Smith (75%) def. Argote (25%)*</li>  
+<li>Massey: <b><i>USC</i></b> - Smith (75%) def. Argote (25%)[^1]</li>  
 <li>UTR: <b><i>USC</i></b> - Smith (97%) def. Argote (3%)</li>  
 <li>Composite: <b><i>USC</i></b> - Smith (92%) def. Argote (8%)</li>  
 <li>ITA: <b><i>USC</i></b> - Smith (15.48) def. Argote (1.91)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Dostanic (99%) def. Cvitanovic (1%)</li>  
 <li>TRN: <b><i>USC</i></b> - Dostanic (99%) def. Cvitanovic (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Dostanic (75%) def. Cvitanovic (25%)*</li>  
+<li>Massey: <b><i>USC</i></b> - Dostanic (75%) def. Cvitanovic (25%)[^1]</li>  
 <li>UTR: <b><i>USC</i></b> - Dostanic (98%) def. Cvitanovic (2%)</li>  
 <li>Composite: <b><i>USC</i></b> - Dostanic (93%) def. Cvitanovic (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dostanic (5.43) def. Cvitanovic (0.00)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Frye (99%) def. Silva (1%)</li>  
 <li>TRN: <b><i>USC</i></b> - Frye (99%) def. Silva (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Frye (75%) def. Silva (25%)*</li>  
+<li>Massey: <b><i>USC</i></b> - Frye (75%) def. Silva (25%)[^1]</li>  
 <li>UTR: <b><i>USC</i></b> - Frye (98%) def. Silva (2%)</li>  
 <li>Composite: <b><i>USC</i></b> - Frye (93%) def. Silva (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Frye (2.44) def. Silva (1.73)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
 <li>TRN: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Weststrate (75%) def. Novak (25%)*</li>  
+<li>Massey: <b><i>USC</i></b> - Weststrate (75%) def. Novak (25%)[^1]</li>  
 <li>UTR: <b><i>USC</i></b> - Weststrate (98%) def. Novak (2%)</li>  
 <li>Composite: <b><i>USC</i></b> - Weststrate (93%) def. Novak (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Weststrate (2.93) def. Novak (1.55)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Sands (98%) def. Grant (2%)</li>  
 <li>TRN: <b><i>USC</i></b> - Sands (99%) def. Grant (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Sands (75%) def. Grant (25%)*</li>  
+<li>Massey: <b><i>USC</i></b> - Sands (75%) def. Grant (25%)[^1]</li>  
 <li>UTR: <b><i>USC</i></b> - Sands (94%) def. Grant (6%)</li>  
 <li>Composite: <b><i>USC</i></b> - Sands (91%) def. Grant (9%)</li>  
 <li>ITA: <b><i>USC</i></b> - Sands (2.42) def. Grant (1.60)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If Southern California wins the doubles point, their chances of winning the dual improve to _100%_.
 - If Grand Canyon wins the doubles point, their chances of winning the dual improve to _1%_.
 
-* Currently the Massey favorite's expected win percentage (EWP) is pegged at 75%.
+
+[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
