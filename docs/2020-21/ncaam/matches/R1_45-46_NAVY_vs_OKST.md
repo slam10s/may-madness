@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Vocel (92%) def. Ton (8%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Vocel (93%) def. Ton (7%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Vocel (75%) def. Ton (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>OKST</i></b> - Vocel (75%) def. Ton (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>OKST</i></b> - Vocel (95%) def. Ton (5%)</li>  
 <li>Composite: <b><i>OKST</i></b> - Vocel (89%) def. Ton (11%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Vocel (20.98) def. Ton (4.17)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Korsgaard (80%) def. Thompson (20%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Korsgaard (84%) def. Thompson (16%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Korsgaard (75%) def. Thompson (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>OKST</i></b> - Korsgaard (75%) def. Thompson (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>OKST</i></b> - Korsgaard (85%) def. Thompson (15%)</li>  
 <li>Composite: <b><i>OKST</i></b> - Korsgaard (81%) def. Thompson (19%)</li>  
 <li>ITA: <b><i>NAVY</i></b> - Thompson (4.17) def. Korsgaard (2.00)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Hudd (99%) def. Fishkin (1%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Hudd (99%) def. Fishkin (1%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Hudd (75%) def. Fishkin (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>OKST</i></b> - Hudd (75%) def. Fishkin (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>OKST</i></b> - Hudd (98%) def. Fishkin (2%)</li>  
 <li>Composite: <b><i>OKST</i></b> - Hudd (93%) def. Fishkin (7%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Hudd (4.25) def. Fishkin (0.00)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Scaglia (75%) def. Garner (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>OKST</i></b> - Scaglia (75%) def. Garner (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
 <li>Composite: <b><i>OKST</i></b> - Scaglia (91%) def. Garner (9%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Scaglia (2.10) def. Garner (1.69)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Donnet (87%) def. Segraves (13%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Donnet (88%) def. Segraves (12%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Donnet (75%) def. Segraves (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>OKST</i></b> - Donnet (75%) def. Segraves (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>OKST</i></b> - Donnet (89%) def. Segraves (11%)</li>  
 <li>Composite: <b><i>OKST</i></b> - Donnet (85%) def. Segraves (15%)</li>  
 <li>ITA: <b><i>NAVY</i></b> - Segraves (4.17) def. Donnet (0.00)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OKST</i></b> - Bobichon (81%) def. McBride (19%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Bobichon (67%) def. McBride (33%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Bobichon (75%) def. McBride (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>OKST</i></b> - Bobichon (75%) def. McBride (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>OKST</i></b> - Bobichon (93%) def. McBride (7%)</li>  
 <li>Composite: <b><i>OKST</i></b> - Bobichon (79%) def. McBride (21%)</li>  
 <li>ITA: <b><i>NAVY</i></b> - McBride (2.91) def. Bobichon (1.32)</li>  

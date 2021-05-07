@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Galarneau (87%) def. Johnson (13%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Galarneau (85%) def. Johnson (15%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Galarneau (75%) def. Johnson (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Galarneau (75%) def. Johnson (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>NCST</i></b> - Galarneau (93%) def. Johnson (7%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Galarneau (85%) def. Johnson (15%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Galarneau (25.90) def. Johnson (7.86)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>NCST</i></b> - Luque (86%) def. Montes (14%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Luque (78%) def. Montes (22%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Luque (6.91) def. Montes (2.32)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Babelis (85%) def. Wilson (15%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Babelis (84%) def. Wilson (16%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Babelis (75%) def. Wilson (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Babelis (75%) def. Wilson (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>NCST</i></b> - Babelis (89%) def. Wilson (11%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Babelis (83%) def. Wilson (17%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Babelis (2.63) def. Wilson (1.63)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Barkai (78%) def. Ramirez (22%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Barkai (77%) def. Ramirez (23%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Barkai (75%) def. Ramirez (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Barkai (75%) def. Ramirez (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>NCST</i></b> - Barkai (85%) def. Ramirez (15%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Barkai (79%) def. Ramirez (21%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Barkai (2.33) def. Ramirez (0.00)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Catry (95%) def. Stefanacci (5%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Catry (95%) def. Stefanacci (5%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Catry (75%) def. Stefanacci (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Catry (75%) def. Stefanacci (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>NCST</i></b> - Catry (90%) def. Stefanacci (10%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Catry (88%) def. Stefanacci (12%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Catry (3.10) def. Stefanacci (2.15)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Turzak (83%) def. Conca (17%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Turzak (89%) def. Conca (11%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Turzak (75%) def. Conca (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Turzak (75%) def. Conca (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>NCST</i></b> - Turzak (95%) def. Conca (5%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Turzak (85%) def. Conca (15%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Turzak (1.56) def. Conca (0.00)</li>  

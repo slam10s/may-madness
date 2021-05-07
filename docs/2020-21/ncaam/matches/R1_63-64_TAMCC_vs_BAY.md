@@ -37,7 +37,7 @@ Saturday, May 8 at 3:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***BAY*** - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)  
 - TRN: ***BAY*** - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)  
-- Massey: ***BAY*** - #5 Baylor (75%) def. #58 A&M-Corpus Christi (25%)[^1]  
+- Massey: ***BAY*** - #5 Baylor (75%) def. #58 A&M-Corpus Christi (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***BAY*** - Baylor (100%) def. A&M-Corpus Christi (0%)  
 - Composite: ***BAY*** - Baylor (93%) def. A&M-Corpus Christi (7%)  
 - UTR: ***BAY*** - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Boitan (98%) def. Yamanaka (2%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Boitan (99%) def. Yamanaka (1%)</li>  
-<li>Massey: <b><i>BAY</i></b> - Boitan (75%) def. Yamanaka (25%)[^1]</li>  
+<li>Massey: <b><i>BAY</i></b> - Boitan (75%) def. Yamanaka (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>BAY</i></b> - Boitan (97%) def. Yamanaka (3%)</li>  
 <li>Composite: <b><i>BAY</i></b> - Boitan (92%) def. Yamanaka (8%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Boitan (31.04) def. Yamanaka (1.61)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Soto (99%) def. Ata (1%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Soto (99%) def. Ata (1%)</li>  
-<li>Massey: <b><i>BAY</i></b> - Soto (75%) def. Ata (25%)[^1]</li>  
+<li>Massey: <b><i>BAY</i></b> - Soto (75%) def. Ata (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>BAY</i></b> - Soto (98%) def. Ata (2%)</li>  
 <li>Composite: <b><i>BAY</i></b> - Soto (93%) def. Ata (7%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Soto (41.70) def. Ata (1.70)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Lah (95%) def. Schwartz (5%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Lah (96%) def. Schwartz (4%)</li>  
-<li>Massey: <b><i>BAY</i></b> - Lah (75%) def. Schwartz (25%)[^1]</li>  
+<li>Massey: <b><i>BAY</i></b> - Lah (75%) def. Schwartz (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>BAY</i></b> - Lah (94%) def. Schwartz (6%)</li>  
 <li>Composite: <b><i>BAY</i></b> - Lah (90%) def. Schwartz (10%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Lah (4.25) def. Schwartz (2.22)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Stachowiak (96%) def. Loriel (4%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Stachowiak (97%) def. Loriel (3%)</li>  
-<li>Massey: <b><i>BAY</i></b> - Stachowiak (75%) def. Loriel (25%)[^1]</li>  
+<li>Massey: <b><i>BAY</i></b> - Stachowiak (75%) def. Loriel (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>BAY</i></b> - Stachowiak (95%) def. Loriel (5%)</li>  
 <li>Composite: <b><i>BAY</i></b> - Stachowiak (91%) def. Loriel (9%)</li>  
 <li>ITA: <b><i>TAMCC</i></b> - Loriel (3.69) def. Stachowiak (3.38)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
-<li>Massey: <b><i>BAY</i></b> - Broom (75%) def. Delgado (25%)[^1]</li>  
+<li>Massey: <b><i>BAY</i></b> - Broom (75%) def. Delgado (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
 <li>Composite: <b><i>BAY</i></b> - Broom (93%) def. Delgado (7%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Broom (3.72) def. Delgado (3.54)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>BAY</i></b> - Furman (99%) def. Castaneda (1%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Furman (99%) def. Castaneda (1%)</li>  
-<li>Massey: <b><i>BAY</i></b> - Furman (75%) def. Castaneda (25%)[^1]</li>  
+<li>Massey: <b><i>BAY</i></b> - Furman (75%) def. Castaneda (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>BAY</i></b> - Furman (94%) def. Castaneda (6%)</li>  
 <li>Composite: <b><i>BAY</i></b> - Furman (92%) def. Castaneda (8%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Furman (4.24) def. Castaneda (3.54)</li>  
@@ -148,4 +148,5 @@ Based on the composite metrics for each individual match:
 - If A&M-Corpus Christi wins the doubles point, their chances of winning the dual improve to _1%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

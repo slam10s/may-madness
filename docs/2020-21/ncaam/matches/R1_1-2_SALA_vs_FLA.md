@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Vale (75%) def. Evrard (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Vale (75%) def. Evrard (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Vale (87%) def. Evrard (13%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Vale (54.01) def. Evrard (8.29)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Riffice (90%) def. Marzol (10%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Riffice (75%) def. Marzol (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Riffice (75%) def. Marzol (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Riffice (87%) def. Marzol (13%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Riffice (49.68) def. Marzol (8.12)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Andrade (96%) def. Cloes (4%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Andrade (75%) def. Cloes (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Andrade (75%) def. Cloes (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FLA</i></b> - Andrade (94%) def. Cloes (6%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Andrade (90%) def. Cloes (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Andrade (32.71) def. Cloes (2.46)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Bicknell (98%) def. Collard (2%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Bicknell (75%) def. Collard (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Bicknell (75%) def. Collard (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Bicknell (90%) def. Collard (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Bicknell (15.89) def. Collard (2.43)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Shelton (98%) def. Delcour (2%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Shelton (75%) def. Delcour (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Shelton (75%) def. Delcour (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Shelton (91%) def. Delcour (9%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Shelton (3.20) def. Delcour (2.17)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Goodger (75%) def. Bugaj (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Goodger (75%) def. Bugaj (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FLA</i></b> - Goodger (98%) def. Bugaj (2%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Goodger (93%) def. Bugaj (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Goodger (8.31) def. Bugaj (0.00)</li>  

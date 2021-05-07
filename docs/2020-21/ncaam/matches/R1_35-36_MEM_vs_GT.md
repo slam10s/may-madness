@@ -59,7 +59,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - McDaniel (71%) def. Story (29%)</li>  
 <li>TRN: <b><i>GT</i></b> - McDaniel (72%) def. Story (28%)</li>  
-<li>Massey: <b><i>GT</i></b> - McDaniel (75%) def. Story (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>GT</i></b> - McDaniel (75%) def. Story (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>GT</i></b> - McDaniel (79%) def. Story (21%)</li>  
 <li>Composite: <b><i>GT</i></b> - McDaniel (74%) def. Story (26%)</li>  
 <li>ITA: <b><i>GT</i></b> - McDaniel (25.05) def. Story (13.58)</li>  
@@ -70,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Martin (82%) def. Stevenson (18%)</li>  
 <li>TRN: <b><i>GT</i></b> - Martin (85%) def. Stevenson (15%)</li>  
-<li>Massey: <b><i>GT</i></b> - Martin (75%) def. Stevenson (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>GT</i></b> - Martin (75%) def. Stevenson (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>GT</i></b> - Martin (83%) def. Stevenson (17%)</li>  
 <li>Composite: <b><i>GT</i></b> - Martin (81%) def. Stevenson (19%)</li>  
 <li>ITA: <b><i>GT</i></b> - Martin (17.00) def. Stevenson (6.29)</li>  
@@ -81,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Schelcher (58%) def. Cutting (42%)</li>  
 <li>TRN: <b><i>GT</i></b> - Schelcher (68%) def. Cutting (32%)</li>  
-<li>Massey: <b><i>GT</i></b> - Schelcher (75%) def. Cutting (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>GT</i></b> - Schelcher (75%) def. Cutting (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>GT</i></b> - Schelcher (72%) def. Cutting (28%)</li>  
 <li>Composite: <b><i>GT</i></b> - Schelcher (68%) def. Cutting (32%)</li>  
 <li>ITA: <b><i>MEM</i></b> - Cutting (4.13) def. Schelcher (3.19)</li>  
@@ -92,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Chopra (80%) def. Pallares (20%)</li>  
 <li>TRN: <b><i>GT</i></b> - Chopra (83%) def. Pallares (17%)</li>  
-<li>Massey: <b><i>GT</i></b> - Chopra (75%) def. Pallares (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>GT</i></b> - Chopra (75%) def. Pallares (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>GT</i></b> - Chopra (75%) def. Pallares (25%)</li>  
 <li>Composite: <b><i>GT</i></b> - Chopra (78%) def. Pallares (22%)</li>  
 <li>ITA: <b><i>GT</i></b> - Chopra (1.81) def. Pallares (1.34)</li>  
@@ -103,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MEM</i></b> - Taylor (51%) def. McKinney (49%)</li>  
 <li>TRN: <b><i>MEM</i></b> - Taylor (58%) def. McKinney (42%)</li>  
-<li>Massey: <b><i>MEM</i></b> - Taylor (75%) def. McKinney (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>MEM</i></b> - Taylor (75%) def. McKinney (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>MEM</i></b> - Taylor (82%) def. McKinney (18%)</li>  
 <li>Composite: <b><i>MEM</i></b> - Taylor (66%) def. McKinney (34%)</li>  
 <li>ITA: <b><i>MEM</i></b> - Taylor (2.71) def. McKinney (1.37)</li>  
@@ -114,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Dong (64%) def. Fanlo (36%)</li>  
 <li>TRN: <b><i>GT</i></b> - Dong (76%) def. Fanlo (24%)</li>  
-<li>Massey: <b><i>GT</i></b> - Dong (75%) def. Fanlo (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>GT</i></b> - Dong (75%) def. Fanlo (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>GT</i></b> - Dong (75%) def. Fanlo (25%)</li>  
 <li>Composite: <b><i>GT</i></b> - Dong (72%) def. Fanlo (28%)</li>  
 <li>ITA: <b><i>GT</i></b> - Dong (1.93) def. Fanlo (1.57)</li>  

@@ -37,7 +37,7 @@ Friday, May 7 at 1:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***STAN*** - #23 Stanford (81%) def. #39 UC Santa Barbara (19%)  
 - TRN: ***STAN*** - #24 Stanford (83%) def. #40 UC Santa Barbara (17%)  
-- Massey: ***STAN*** - #15 Stanford (75%) def. #40 UC Santa Barbara (25%)[^1]  
+- Massey: ***STAN*** - #15 Stanford (75%) def. #40 UC Santa Barbara (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***STAN*** - Stanford (98%) def. UC Santa Barbara (2%)  
 - Composite: ***STAN*** - Stanford (84%) def. UC Santa Barbara (16%)  
 - UTR: ***STAN*** - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Gordon (76%) def. Volodko (24%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Gordon (76%) def. Volodko (24%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Gordon (75%) def. Volodko (25%)[^1]</li>  
+<li>Massey: <b><i>STAN</i></b> - Gordon (75%) def. Volodko (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>STAN</i></b> - Gordon (87%) def. Volodko (13%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Gordon (79%) def. Volodko (21%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Gordon (17.68) def. Volodko (4.21)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Blake (75%) def. Kiss (25%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Blake (87%) def. Kiss (13%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Blake (75%) def. Kiss (25%)[^1]</li>  
+<li>Massey: <b><i>STAN</i></b> - Blake (75%) def. Kiss (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>STAN</i></b> - Blake (88%) def. Kiss (12%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Blake (81%) def. Kiss (19%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Blake (5.37) def. Kiss (2.42)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Arbuthnott (56%) def. Khatamova (44%)</li>  
 <li>TRN: <b><i>UCSB</i></b> - Khatamova (73%) def. Arbuthnott (27%)</li>  
-<li>Massey: <b><i>UCSB</i></b> - Khatamova (75%) def. Arbuthnott (25%)[^1]</li>  
+<li>Massey: <b><i>UCSB</i></b> - Khatamova (75%) def. Arbuthnott (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>STAN</i></b> - Arbuthnott (80%) def. Khatamova (20%)</li>  
 <li>Composite: <b><i>UCSB</i></b> - Khatamova (52%) def. Arbuthnott (48%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Khatamova (6.05) def. Arbuthnott (1.89)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Geller (98%) def. Sentenac (2%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Geller (98%) def. Sentenac (2%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Geller (75%) def. Sentenac (25%)[^1]</li>  
+<li>Massey: <b><i>STAN</i></b> - Geller (75%) def. Sentenac (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>STAN</i></b> - Geller (98%) def. Sentenac (2%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Geller (92%) def. Sentenac (8%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Geller (2.62) def. Sentenac (1.51)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Choy (98%) def. Reuter (2%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Choy (99%) def. Reuter (1%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Choy (75%) def. Reuter (25%)[^1]</li>  
+<li>Massey: <b><i>STAN</i></b> - Choy (75%) def. Reuter (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>STAN</i></b> - Choy (98%) def. Reuter (2%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Choy (92%) def. Reuter (8%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Choy (2.38) def. Reuter (0.00)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>STAN</i></b> - Higuchi (97%) def. Ballbe (3%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Higuchi (98%) def. Ballbe (2%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Higuchi (75%) def. Ballbe (25%)[^1]</li>  
+<li>Massey: <b><i>STAN</i></b> - Higuchi (75%) def. Ballbe (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>STAN</i></b> - Higuchi (99%) def. Ballbe (1%)</li>  
 <li>Composite: <b><i>STAN</i></b> - Higuchi (92%) def. Ballbe (8%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Higuchi (2.68) def. Ballbe (2.38)</li>  
@@ -148,4 +148,5 @@ Based on the composite metrics for each individual match:
 - If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _7%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

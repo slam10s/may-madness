@@ -37,7 +37,7 @@ Friday, May 7 at 4:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***FSU*** - #10 Florida St. (99%) def. #63 Alabama St. (1%)  
 - TRN: ***FSU*** - #9 Florida St. (99%) def. #62 Alabama St. (1%)  
-- Massey: ***FSU*** - #9 Florida St. (75%) def. #63 Alabama St. (25%)[^1]  
+- Massey: ***FSU*** - #9 Florida St. (75%) def. #63 Alabama St. (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***FSU*** - Florida St. (100%) def. Alabama St. (0%)  
 - Composite: ***FSU*** - Florida St. (93%) def. Alabama St. (7%)  
 - UTR: ***FSU*** - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)  
@@ -58,7 +58,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Pairone (75%) def. Andrade (25%)[^1]</li>  
+<li>Massey: <b><i>FSU</i></b> - Pairone (75%) def. Andrade (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>Composite: <b><i>FSU</i></b> - Pairone (93%) def. Andrade (7%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Pairone (30.67) def. Andrade (2.89)</li>  
@@ -69,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Salas (100%) def. Dzemchanka (0%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Salas (100%) def. Dzemchanka (0%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Salas (75%) def. Dzemchanka (25%)[^1]</li>  
+<li>Massey: <b><i>FSU</i></b> - Salas (75%) def. Dzemchanka (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FSU</i></b> - Salas (99%) def. Dzemchanka (1%)</li>  
 <li>Composite: <b><i>FSU</i></b> - Salas (93%) def. Dzemchanka (7%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Salas (14.35) def. Dzemchanka (0.00)</li>  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Das (75%) def. Velec (25%)[^1]</li>  
+<li>Massey: <b><i>FSU</i></b> - Das (75%) def. Velec (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>Composite: <b><i>FSU</i></b> - Das (93%) def. Velec (7%)</li>  
 <li>ITA: <b><i>ALST</i></b> - Velec (2.89) def. Das (2.52)</li>  
@@ -91,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Hule (75%) def. Duca (25%)[^1]</li>  
+<li>Massey: <b><i>FSU</i></b> - Hule (75%) def. Duca (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>Composite: <b><i>FSU</i></b> - Hule (93%) def. Duca (7%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Hule (3.24) def. Duca (2.26)</li>  
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Allen (75%) def. Legaud (25%)[^1]</li>  
+<li>Massey: <b><i>FSU</i></b> - Allen (75%) def. Legaud (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>Composite: <b><i>FSU</i></b> - Allen (93%) def. Legaud (7%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Allen (2.90) def. Legaud (0.00)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Arkadianou (75%) def. Acena (25%)[^1]</li>  
+<li>Massey: <b><i>FSU</i></b> - Arkadianou (75%) def. Acena (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>Composite: <b><i>FSU</i></b> - Arkadianou (93%) def. Acena (7%)</li>  
 <li>ITA: <b><i>ALST</i></b> - Acena (1.75) def. Arkadianou (0.00)</li>  
@@ -148,4 +148,5 @@ Based on the composite metrics for each individual match:
 - If Alabama St. wins the doubles point, their chances of winning the dual improve to _0%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

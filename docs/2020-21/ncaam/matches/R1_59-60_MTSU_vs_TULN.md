@@ -37,7 +37,7 @@ Saturday, May 8 at 1:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TULN*** - #26 Tulane (78%) def. #45 Middle Tenn. (22%)  
 - TRN: ***TULN*** - #26 Tulane (79%) def. #45 Middle Tenn. (21%)  
-- Massey: ***TULN*** - #26 Tulane (75%) def. #42 Middle Tenn. (25%)[^1]  
+- Massey: ***TULN*** - #26 Tulane (75%) def. #42 Middle Tenn. (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***TULN*** - Tulane (85%) def. Middle Tenn. (15%)  
 - Composite: ***TULN*** - Tulane (79%) def. Middle Tenn. (21%)  
 - UTR: ***TULN*** - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)  
@@ -57,7 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TULN</i></b> - Stewart (70%) def. Rocha (30%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Stewart (60%) def. Rocha (40%)</li>  
-<li>Massey: <b><i>TULN</i></b> - Stewart (75%) def. Rocha (25%)[^1]</li>  
+<li>Massey: <b><i>TULN</i></b> - Stewart (75%) def. Rocha (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>TULN</i></b> - Stewart (85%) def. Rocha (15%)</li>  
 <li>Composite: <b><i>TULN</i></b> - Stewart (72%) def. Rocha (28%)</li>  
 <li>ITA: <b><i>TULN</i></b> - Stewart (22.58) def. Rocha (14.55)</li>  
@@ -68,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TULN</i></b> - Moore (69%) def. Slump (31%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Moore (58%) def. Slump (42%)</li>  
-<li>Massey: <b><i>TULN</i></b> - Moore (75%) def. Slump (25%)[^1]</li>  
+<li>Massey: <b><i>TULN</i></b> - Moore (75%) def. Slump (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>TULN</i></b> - Moore (78%) def. Slump (22%)</li>  
 <li>Composite: <b><i>TULN</i></b> - Moore (70%) def. Slump (30%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Slump (3.60) def. Moore (3.08)</li>  
@@ -79,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TULN</i></b> - Erlenbusch (72%) def. Moonen (28%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Erlenbusch (81%) def. Moonen (19%)</li>  
-<li>Massey: <b><i>TULN</i></b> - Erlenbusch (75%) def. Moonen (25%)[^1]</li>  
+<li>Massey: <b><i>TULN</i></b> - Erlenbusch (75%) def. Moonen (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>TULN</i></b> - Erlenbusch (86%) def. Moonen (14%)</li>  
 <li>Composite: <b><i>TULN</i></b> - Erlenbusch (78%) def. Moonen (22%)</li>  
 <li>ITA: <b><i>TULN</i></b> - Erlenbusch (4.16) def. Moonen (1.88)</li>  
@@ -90,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MTSU</i></b> - Edge (51%) def. Suarez (49%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Suarez (60%) def. Edge (40%)</li>  
-<li>Massey: <b><i>TULN</i></b> - Suarez (75%) def. Edge (25%)[^1]</li>  
+<li>Massey: <b><i>TULN</i></b> - Suarez (75%) def. Edge (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>TULN</i></b> - Suarez (56%) def. Edge (44%)</li>  
 <li>Composite: <b><i>TULN</i></b> - Suarez (60%) def. Edge (40%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Edge (4.29) def. Suarez (2.40)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TULN</i></b> - Alba (57%) def. Motl (43%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Alba (67%) def. Motl (33%)</li>  
-<li>Massey: <b><i>TULN</i></b> - Alba (75%) def. Motl (25%)[^1]</li>  
+<li>Massey: <b><i>TULN</i></b> - Alba (75%) def. Motl (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>TULN</i></b> - Alba (67%) def. Motl (33%)</li>  
 <li>Composite: <b><i>TULN</i></b> - Alba (66%) def. Motl (34%)</li>  
 <li>ITA: <b><i>TULN</i></b> - Alba (2.39) def. Motl (1.44)</li>  
@@ -112,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MTSU</i></b> - Michalek (60%) def. Kotorman (40%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Kotorman (58%) def. Michalek (42%)</li>  
-<li>Massey: <b><i>MTSU</i></b> - Michalek (75%) def. Kotorman (25%)[^1]</li>  
+<li>Massey: <b><i>MTSU</i></b> - Michalek (75%) def. Kotorman (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>MTSU</i></b> - Michalek (83%) def. Kotorman (17%)</li>  
 <li>Composite: <b><i>MTSU</i></b> - Michalek (64%) def. Kotorman (36%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Michalek (1.92) def. Kotorman (0.00)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If Middle Tenn. wins the doubles point, their chances of winning the dual improve to _36%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

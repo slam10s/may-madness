@@ -36,7 +36,7 @@ Friday, May 7 at 11:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***VANDY*** - #29 Vanderbilt (99%) def. #52 Ball St. (1%)  
 - TRN: ***VANDY*** - #30 Vanderbilt (99%) def. #52 Ball St. (1%)  
-- Massey: ***VANDY*** - #31 Vanderbilt (75%) def. #53 Ball St. (25%)[^1]  
+- Massey: ***VANDY*** - #31 Vanderbilt (75%) def. #53 Ball St. (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***VANDY*** - Vanderbilt (100%) def. Ball St. (0%)  
 - Composite: ***VANDY*** - Vanderbilt (93%) def. Ball St. (7%)  
 - UTR: ***VANDY*** - #28 Vanderbilt (+6.81) def. #51 Ball St. (-6.81)  
@@ -56,7 +56,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Rosca (92%) def. Peeler (8%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Rosca (98%) def. Peeler (2%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Rosca (75%) def. Peeler (25%)[^1]</li>  
+<li>Massey: <b><i>VANDY</i></b> - Rosca (75%) def. Peeler (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>VANDY</i></b> - Rosca (96%) def. Peeler (4%)</li>  
 <li>Composite: <b><i>VANDY</i></b> - Rosca (90%) def. Peeler (10%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Rosca (14.48) def. Peeler (0.00)</li>  
@@ -67,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Kurtz (94%) def. Braun (6%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Kurtz (95%) def. Braun (5%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Kurtz (75%) def. Braun (25%)[^1]</li>  
+<li>Massey: <b><i>VANDY</i></b> - Kurtz (75%) def. Braun (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>VANDY</i></b> - Kurtz (93%) def. Braun (7%)</li>  
 <li>Composite: <b><i>VANDY</i></b> - Kurtz (89%) def. Braun (11%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Kurtz (3.05) def. Braun (1.69)</li>  
@@ -78,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Lee (92%) def. Polishchuk (8%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Lee (95%) def. Polishchuk (5%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Lee (75%) def. Polishchuk (25%)[^1]</li>  
+<li>Massey: <b><i>VANDY</i></b> - Lee (75%) def. Polishchuk (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>VANDY</i></b> - Lee (93%) def. Polishchuk (7%)</li>  
 <li>Composite: <b><i>VANDY</i></b> - Lee (89%) def. Polishchuk (11%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Lee (2.64) def. Polishchuk (1.84)</li>  
@@ -89,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Ross (98%) def. Herrington (2%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Ross (98%) def. Herrington (2%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Ross (75%) def. Herrington (25%)[^1]</li>  
+<li>Massey: <b><i>VANDY</i></b> - Ross (75%) def. Herrington (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>VANDY</i></b> - Ross (96%) def. Herrington (4%)</li>  
 <li>Composite: <b><i>VANDY</i></b> - Ross (92%) def. Herrington (8%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Ross (2.20) def. Herrington (1.96)</li>  
@@ -100,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Cruz (97%) def. Kaplan (3%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Cruz (98%) def. Kaplan (2%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Cruz (75%) def. Kaplan (25%)[^1]</li>  
+<li>Massey: <b><i>VANDY</i></b> - Cruz (75%) def. Kaplan (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>VANDY</i></b> - Cruz (96%) def. Kaplan (4%)</li>  
 <li>Composite: <b><i>VANDY</i></b> - Cruz (91%) def. Kaplan (9%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Cruz (2.13) def. Kaplan (1.71)</li>  
@@ -111,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>VANDY</i></b> - Staff (99%) def. Lukacs (1%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Staff (99%) def. Lukacs (1%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Staff (75%) def. Lukacs (25%)[^1]</li>  
+<li>Massey: <b><i>VANDY</i></b> - Staff (75%) def. Lukacs (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>VANDY</i></b> - Staff (97%) def. Lukacs (3%)</li>  
 <li>Composite: <b><i>VANDY</i></b> - Staff (92%) def. Lukacs (8%)</li>  
 <li>ITA: <b><i>BALL</i></b> - Lukacs (2.68) def. Staff (1.75)</li>  
@@ -146,4 +146,5 @@ Based on the composite metrics for each individual match:
 - If Ball St. wins the doubles point, their chances of winning the dual improve to _1%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

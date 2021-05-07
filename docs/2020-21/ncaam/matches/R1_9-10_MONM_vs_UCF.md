@@ -37,7 +37,7 @@ Saturday, May 8 at 2:00 EDT
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCF*** - #12 UCF (99%) def. #61 Monmouth (1%)  
 - TRN: ***UCF*** - #13 UCF (99%) def. #57 Monmouth (1%)  
-- Massey: ***UCF*** - #7 UCF (75%) def. #60 Monmouth (25%)[^1]  
+- Massey: ***UCF*** - #7 UCF (75%) def. #60 Monmouth (25%)<sup>[1](#footnote1)</sup>  
 - Lineup: ***UCF*** - UCF (100%) def. Monmouth (0%)  
 - Composite: ***UCF*** - UCF (93%) def. Monmouth (7%)  
 - UTR: ***UCF*** - #12 UCF (+9.47) def. #62 Monmouth (-9.47)  
@@ -57,7 +57,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Decamps (98%) def. Wharton (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Decamps (99%) def. Wharton (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Decamps (75%) def. Wharton (25%)[^1]</li>  
+<li>Massey: <b><i>UCF</i></b> - Decamps (75%) def. Wharton (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>UCF</i></b> - Decamps (98%) def. Wharton (2%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Decamps (92%) def. Wharton (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Decamps (42.84) def. Wharton (2.36)</li>  
@@ -68,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Rubio (98%) def. Benaim (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Rubio (99%) def. Benaim (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Rubio (75%) def. Benaim (25%)[^1]</li>  
+<li>Massey: <b><i>UCF</i></b> - Rubio (75%) def. Benaim (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>UCF</i></b> - Rubio (96%) def. Benaim (4%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Rubio (92%) def. Benaim (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Rubio (3.77) def. Benaim (2.42)</li>  
@@ -79,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Mazzuchi (99%) def. Castro (1%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Mazzuchi (99%) def. Castro (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Mazzuchi (75%) def. Castro (25%)[^1]</li>  
+<li>Massey: <b><i>UCF</i></b> - Mazzuchi (75%) def. Castro (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>UCF</i></b> - Mazzuchi (97%) def. Castro (3%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Mazzuchi (92%) def. Castro (8%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mazzuchi (7.08) def. Castro (3.09)</li>  
@@ -90,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Yamada (99%) def. Silva (1%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Yamada (99%) def. Silva (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Yamada (75%) def. Silva (25%)[^1]</li>  
+<li>Massey: <b><i>UCF</i></b> - Yamada (75%) def. Silva (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>UCF</i></b> - Yamada (97%) def. Silva (3%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Yamada (93%) def. Silva (7%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Yamada (4.27) def. Silva (2.39)</li>  
@@ -101,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Hilderbrand (99%) def. Martinez (1%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Hilderbrand (99%) def. Martinez (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Hilderbrand (75%) def. Martinez (25%)[^1]</li>  
+<li>Massey: <b><i>UCF</i></b> - Hilderbrand (75%) def. Martinez (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>UCF</i></b> - Hilderbrand (98%) def. Martinez (2%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Hilderbrand (93%) def. Martinez (7%)</li>  
 <li>ITA: <b><i>MONM</i></b> - Martinez (3.09) def. Hilderbrand (2.90)</li>  
@@ -112,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Sokolovskiy (98%) def. Busato (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Sokolovskiy (98%) def. Busato (2%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Sokolovskiy (75%) def. Busato (25%)[^1]</li>  
+<li>Massey: <b><i>UCF</i></b> - Sokolovskiy (75%) def. Busato (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>UCF</i></b> - Sokolovskiy (96%) def. Busato (4%)</li>  
 <li>Composite: <b><i>UCF</i></b> - Sokolovskiy (92%) def. Busato (8%)</li>  
 <li>ITA: <b><i>MONM</i></b> - Busato (3.43) def. Sokolovskiy (2.26)</li>  
@@ -147,4 +147,5 @@ Based on the composite metrics for each individual match:
 - If Monmouth wins the doubles point, their chances of winning the dual improve to _1%_.
 
 
-[^1] Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+------
+<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.

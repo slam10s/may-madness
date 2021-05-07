@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Fenty (56%) def. Strom (44%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Strom (87%) def. Fenty (13%)</li>  
-<li>Massey: <b><i>ARIZ</i></b> - Strom (75%) def. Fenty (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>ARIZ</i></b> - Strom (75%) def. Fenty (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>ARIZ</i></b> - Strom (69%) def. Fenty (31%)</li>  
 <li>Composite: <b><i>ARIZ</i></b> - Strom (69%) def. Fenty (31%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Strom (17.40) def. Fenty (1.71)</li>  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Styler (54%) def. Ziverts (46%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Styler (55%) def. Ziverts (45%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Styler (75%) def. Ziverts (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>MICH</i></b> - Styler (75%) def. Ziverts (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>MICH</i></b> - Styler (76%) def. Ziverts (24%)</li>  
 <li>Composite: <b><i>MICH</i></b> - Styler (64%) def. Ziverts (36%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Ziverts (7.58) def. Styler (2.60)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Malbasic (64%) def. Maloney (36%)</li>  
-<li>Massey: <b><i>ARIZ</i></b> - Malbasic (75%) def. Maloney (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>ARIZ</i></b> - Malbasic (75%) def. Maloney (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
 <li>Composite: <b><i>ARIZ</i></b> - Malbasic (61%) def. Maloney (39%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Malbasic (2.36) def. Maloney (2.15)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Siimar (75%) def. Hoeyeraal (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>MICH</i></b> - Siimar (75%) def. Hoeyeraal (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>Composite: <b><i>MICH</i></b> - Siimar (93%) def. Hoeyeraal (7%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Siimar (2.45) def. Hoeyeraal (2.40)</li>  
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ARIZ</i></b> - Reguant (55%) def. Beaty (45%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Beaty (66%) def. Reguant (34%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Beaty (75%) def. Reguant (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>MICH</i></b> - Beaty (75%) def. Reguant (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>ARIZ</i></b> - Reguant (70%) def. Beaty (30%)</li>  
 <li>Composite: <b><i>MICH</i></b> - Beaty (53%) def. Reguant (47%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Reguant (2.55) def. Beaty (2.52)</li>  
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Ehrenschneider (51%) def. Hassey (49%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Ehrenschneider (66%) def. Hassey (34%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Ehrenschneider (75%) def. Hassey (25%)<sup>[1](#footnote1)</sup></li>  
+<li>Massey: <b><i>MICH</i></b> - Ehrenschneider (75%) def. Hassey (25%)<sup><a href="#footnote1">1</a></sup></li>  
 <li>UTR: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
 <li>Composite: <b><i>MICH</i></b> - Ehrenschneider (61%) def. Hassey (39%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Ehrenschneider (2.63) def. Hassey (1.70)</li>  
