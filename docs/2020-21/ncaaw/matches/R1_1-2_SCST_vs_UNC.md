@@ -6,6 +6,16 @@ Friday, May 7 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">South Carolina St.</a></h2>  
+&nbsp; Slam: 62 (70.68)<br>  
+&nbsp; TRN: 61 (58.72)<br>  
+&nbsp; Massey: 62 (3.52)<br>  
+&nbsp; UTR: 63 (44.35)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">North Carolina</a></h2>  
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
@@ -17,15 +27,7 @@ Friday, May 7 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">South Carolina St.</a></h2>  
-&nbsp; Slam: 62 (70.68)<br>  
-&nbsp; TRN: 61 (58.72)<br>  
-&nbsp; Massey: 62 (3.52)<br>  
-&nbsp; UTR: 63 (44.35)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Daavettila/Morra (UNC) - 10-1 at #1, 10-1 in duals, 10-1 overall<br>Semlali/Patnaik (SCST) - 4-0 at #1, 4-0 in duals, 4-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Jones/Scotty (UNC) - 8-1 at #2, 10-1 in duals, 10-1 overall<br>Berjane/Cemalovic (SCST) - 1-1 at #2, 1-1 in duals, 1-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Sanford/Tran (UNC) - 12-3 at #3, 16-3 in duals, 16-3 overall<br>Mihajilovic/Aguilar (SCST) - 6-3 at #3, 6-3 in duals, 6-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

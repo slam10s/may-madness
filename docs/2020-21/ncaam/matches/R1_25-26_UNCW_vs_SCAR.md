@@ -6,6 +6,17 @@ Friday, May 7 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">UNCW</a></h2>  
+&nbsp; ITA: 51 (7.93)<br>  
+&nbsp; Slam: 48 (88.87)<br>  
+&nbsp; TRN: 49 (86.19)<br>  
+&nbsp; Massey: 49 (6.70)<br>  
+&nbsp; UTR: 48 (74.00)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">South Carolina</a></h2>  
 &#10004; ITA: 13 (50.95)<br>  
 &#10004; Slam: 15 (96.20)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">UNCW</a></h2>  
-&nbsp; ITA: 51 (7.93)<br>  
-&nbsp; Slam: 48 (88.87)<br>  
-&nbsp; TRN: 49 (86.19)<br>  
-&nbsp; Massey: 49 (6.70)<br>  
-&nbsp; UTR: 48 (74.00)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Rodrigues/Thomson (SCAR) - 13-7 at #1, 13-7 in duals, 20-11 overall<br>Groom/Caula (UNCW) - 11-4 at #1, 11-4 in duals, 11-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Beasley/Samuel (SCAR) - 9-3 at #2, 15-7 in duals, 23-11 overall<br>Gooch/Rasamatov (UNCW) - 3-2 at #2, 7-2 in duals, 7-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Lambling/Jordan (SCAR) - 4-3 at #3, 6-7 in duals, 14-10 overall<br>Sprovieri/Hurtado (UNCW) - 6-1 at #3, 7-2 in duals, 7-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

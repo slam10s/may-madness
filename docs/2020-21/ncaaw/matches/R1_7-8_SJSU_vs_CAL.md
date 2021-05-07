@@ -6,6 +6,17 @@ Friday, May 7 at 4:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">San Jose St.</a></h2>  
+&nbsp; ITA: 47 (8.04)<br>  
+&nbsp; Slam: 50 (80.34)<br>  
+&nbsp; TRN: 49 (73.09)<br>  
+&nbsp; Massey: 49 (5.94)<br>  
+&nbsp; UTR: 50 (55.37)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">California</a></h2>  
 &#10004; ITA: 16 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 4:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">San Jose St.</a></h2>  
-&nbsp; ITA: 47 (8.04)<br>  
-&nbsp; Slam: 50 (80.34)<br>  
-&nbsp; TRN: 49 (73.09)<br>  
-&nbsp; Massey: 49 (5.94)<br>  
-&nbsp; UTR: 50 (55.37)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Giavara/Ivanov (CAL) - 12-5 at #1, 12-5 in duals, 12-5 overall<br>Galindo/Mas (SJSU) - 0-3 at #1, 3-6 in duals, 3-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Bright/Moeller (CAL) - 11-6 at #2, 11-6 in duals, 11-6 overall<br>Culibrk/Muradyan (SJSU) - 1-1 at #2, 3-2 in duals, 3-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Bui/Richardson (CAL) - 2-2 at #3, 2-2 in duals, 2-2 overall<br>Youseva/Pereira (SJSU) - 2-3 at #3, 2-3 in duals, 2-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,6 +6,17 @@ Friday, May 7 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Cleveland St.</a></h2>  
+&nbsp; ITA: 57 (4.43)<br>  
+&nbsp; Slam: 56 (84.36)<br>  
+&nbsp; TRN: 56 (81.28)<br>  
+&nbsp; Massey: 55 (5.83)<br>  
+&nbsp; UTR: 54 (71.52)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Kentucky</a></h2>  
 &#10004; ITA: 15 (44.70)<br>  
 &#10004; Slam: 17 (95.87)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Cleveland St.</a></h2>  
-&nbsp; ITA: 57 (4.43)<br>  
-&nbsp; Slam: 56 (84.36)<br>  
-&nbsp; TRN: 56 (81.28)<br>  
-&nbsp; Massey: 55 (5.83)<br>  
-&nbsp; UTR: 54 (71.52)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Diallo/Bourgois (UK) - 14-7 at #1, 14-7 in duals, 14-7 overall<br>Mostardi/Phillips (CLEV) - 11-4 at #1, 11-4 in duals, 11-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Draxl/Hurrion (UK) - 6-2 at #2, 6-2 in duals, 6-2 overall<br>Terry/Mareschal-Hay (CLEV) - 0-0 at #2, 11-4 in duals, 11-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Lapadat/LeBlanc (UK) - 4-2 at #3, 4-2 in duals, 4-4 overall<br>Bilinovich/Mindry (CLEV) - 6-0 at #3, 6-0 in duals, 6-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

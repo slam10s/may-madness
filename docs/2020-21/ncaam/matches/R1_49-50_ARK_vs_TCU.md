@@ -6,6 +6,18 @@ Saturday, May 8 at 3:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Arkansas</a></h2>  
+&nbsp; ITA: 43 (18.30)<br>  
+&nbsp; Slam: 43 (91.55)<br>  
+&nbsp; TRN: 44 (89.43)<br>  
+&nbsp; Massey: 50 (6.64)<br>  
+&nbsp; UTR: 44 (75.30)<br>  
+&nbsp; Coaches Poll: 40<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">TCU</a></h2>  
 &#10004; ITA: 7 (69.22)<br>  
 &#10004; Slam: 9 (97.57)<br>  
@@ -17,17 +29,7 @@ Saturday, May 8 at 3:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Arkansas</a></h2>  
-&nbsp; ITA: 43 (18.30)<br>  
-&nbsp; Slam: 43 (91.55)<br>  
-&nbsp; TRN: 44 (89.43)<br>  
-&nbsp; Massey: 50 (6.64)<br>  
-&nbsp; UTR: 44 (75.30)<br>  
-&nbsp; Coaches Poll: 40<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Gray/Fomba (TCU) - 10-6 at #1, 11-6 in duals, 13-6 overall<br>Harrison/Paya (ARK) - 3-7 at #1, 3-7 in duals, 3-7 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Jong/Paroulek (TCU) - 8-1 at #2, 10-3 in duals, 11-4 overall<br>Burdet/Manuel (ARK) - 6-4 at #2, 7-4 in duals, 7-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Kruger/Fearnley (TCU) - 2-1 at #3, 4-3 in duals, 4-3 overall<br>Reco/Rouset (ARK) - 11-6 at #3, 11-8 in duals, 11-8 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

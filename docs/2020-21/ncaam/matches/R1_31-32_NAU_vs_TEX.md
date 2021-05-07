@@ -6,6 +6,17 @@ Saturday, May 8 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Northern Ariz.</a></h2>  
+&nbsp; ITA: 61 (2.13)<br>  
+&nbsp; Slam: 58 (82.40)<br>  
+&nbsp; TRN: 60 (77.79)<br>  
+&nbsp; Massey: 59 (5.53)<br>  
+&nbsp; UTR: 59 (70.85)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Texas</a></h2>  
 &#10004; ITA: 5 (74.24)<br>  
 &#10004; Slam: 8 (97.59)<br>  
@@ -17,16 +28,7 @@ Saturday, May 8 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Northern Ariz.</a></h2>  
-&nbsp; ITA: 61 (2.13)<br>  
-&nbsp; Slam: 58 (82.40)<br>  
-&nbsp; TRN: 60 (77.79)<br>  
-&nbsp; Massey: 59 (5.53)<br>  
-&nbsp; UTR: 59 (70.85)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Spizzirri/Woldeab (TEX) - 12-9 at #1, 12-9 in duals, 19-9 overall<br>Groves/Buzonics (NAU) - 3-2 at #1, 3-2 in duals, 3-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Harper/Huang (TEX) - 5-4 at #2, 6-4 in duals, 10-7 overall<br>Tumosa/Straker-Meads (NAU) - 1-0 at #2, 1-0 in duals, 1-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Braswell/Holden (TEX) - 4-1 at #3, 4-1 in duals, 7-2 overall<br>Steele/Ziomber (NAU) - 3-0 at #3, 3-0 in duals, 3-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,6 +6,17 @@ Friday, May 7 at 3:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">VCU</a></h2>  
+&nbsp; ITA: 49 (6.76)<br>  
+&nbsp; Slam: 48 (82.19)<br>  
+&nbsp; TRN: 48 (73.53)<br>  
+&nbsp; Massey: 48 (6.03)<br>  
+&nbsp; UTR: 48 (55.75)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">NC State</a></h2>  
 &#10004; ITA: 6 (55.66)<br>  
 &#10004; Slam: 11 (91.65)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 3:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">VCU</a></h2>  
-&nbsp; ITA: 49 (6.76)<br>  
-&nbsp; Slam: 48 (82.19)<br>  
-&nbsp; TRN: 48 (73.53)<br>  
-&nbsp; Massey: 48 (6.03)<br>  
-&nbsp; UTR: 48 (55.75)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Rogers/Smith (NCST) - 14-5 at #1, 14-5 in duals, 20-8 overall<br>Tutunaru/Davidescu (VCU) - 7-5 at #1, 7-5 in duals, 7-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Daniel/Reami (NCST) - 12-4 at #2, 12-4 in duals, 20-5 overall<br>Diaz-Delgado/Witmus (VCU) - 13-8 at #2, 13-8 in duals, 13-8 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Rajecki/Rencheli (NCST) - 11-1 at #3, 11-1 in duals, 12-2 overall<br>Ciuca/Manjanna (VCU) - 12-3 at #3, 12-3 in duals, 12-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

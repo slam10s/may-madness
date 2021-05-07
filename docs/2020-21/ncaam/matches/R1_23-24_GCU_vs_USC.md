@@ -6,6 +6,17 @@ Friday, May 7 at 4:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Grand Canyon</a></h2>  
+&nbsp; ITA: 64 (1.38)<br>  
+&nbsp; Slam: 62 (81.82)<br>  
+&nbsp; TRN: 62 (76.83)<br>  
+&nbsp; Massey: 62 (5.21)<br>  
+&nbsp; UTR: 56 (71.32)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Southern California</a></h2>  
 &#10004; ITA: 12 (52.23)<br>  
 &#10004; Slam: 14 (96.38)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 4:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Grand Canyon</a></h2>  
-&nbsp; ITA: 64 (1.38)<br>  
-&nbsp; Slam: 62 (81.82)<br>  
-&nbsp; TRN: 62 (76.83)<br>  
-&nbsp; Massey: 62 (5.21)<br>  
-&nbsp; UTR: 56 (71.32)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Cukierman/Smith (USC) - 17-3 at #1, 17-3 in duals, 18-3 overall<br>Lang/Novak (GCU) - 10-6 at #1, 10-6 in duals, 10-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Dostanic/Frye (USC) - 13-1 at #2, 13-1 in duals, 13-1 overall<br>Argote/Cvitanovic (GCU) - 7-4 at #2, 7-5 in duals, 7-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Holt/Sands (USC) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Grant/Van Zeggelaar (GCU) - 6-4 at #3, 6-4 in duals, 6-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,6 +6,17 @@ Friday, May 7 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Grand Canyon</a></h2>  
+&nbsp; ITA: 62 (1.99)<br>  
+&nbsp; Slam: 59 (75.93)<br>  
+&nbsp; TRN: 60 (64.13)<br>  
+&nbsp; Massey: 57 (4.78)<br>  
+&nbsp; UTR: 57 (51.77)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">UCLA</a></h2>  
 &#10004; ITA: 4 (61.84)<br>  
 &#10004; Slam: 4 (92.98)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Grand Canyon</a></h2>  
-&nbsp; ITA: 62 (1.99)<br>  
-&nbsp; Slam: 59 (75.93)<br>  
-&nbsp; TRN: 60 (64.13)<br>  
-&nbsp; Massey: 57 (4.78)<br>  
-&nbsp; UTR: 57 (51.77)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Forbes/Hart (UCLA) - 9-1 at #1, 9-1 in duals, 9-1 overall<br>Puehse/Weiss (GCU) - 5-12 at #1, 5-12 in duals, 5-12 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Wolff/Goulak (UCLA) - 16-2 at #2, 16-2 in duals, 16-2 overall<br>Occhipinti/Prudhomme (GCU) - 15-4 at #2, 15-4 in duals, 15-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Bolton/Altick (UCLA) - 3-0 at #3, 3-0 in duals, 3-0 overall<br>Lomas/Andersen (GCU) - 12-6 at #3, 12-6 in duals, 12-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

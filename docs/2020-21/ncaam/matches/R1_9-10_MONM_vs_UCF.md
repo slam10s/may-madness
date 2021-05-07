@@ -6,6 +6,17 @@ Saturday, May 8 at 2:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Monmouth</a></h2>  
+&nbsp; ITA: 58 (4.41)<br>  
+&nbsp; Slam: 61 (82.18)<br>  
+&nbsp; TRN: 57 (79.79)<br>  
+&nbsp; Massey: 60 (5.30)<br>  
+&nbsp; UTR: 62 (69.61)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">UCF</a></h2>  
 &#10004; ITA: 10 (54.95)<br>  
 &#10004; Slam: 12 (96.59)<br>  
@@ -17,16 +28,7 @@ Saturday, May 8 at 2:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Monmouth</a></h2>  
-&nbsp; ITA: 58 (4.41)<br>  
-&nbsp; Slam: 61 (82.18)<br>  
-&nbsp; TRN: 57 (79.79)<br>  
-&nbsp; Massey: 60 (5.30)<br>  
-&nbsp; UTR: 62 (69.61)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Hilderbrand/Pavel (UCF) - 9-1 at #1, 9-1 in duals, 9-1 overall<br>Benaim/Martinez (MONM) - 9-3 at #1, 9-3 in duals, 9-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Mazzuchi/Decamps (UCF) - 8-2 at #2, 8-2 in duals, 9-1 overall<br>Castro/Silva (MONM) - 7-1 at #2, 7-1 in duals, 7-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Rubio/Yamada (UCF) - 2-4 at #3, 2-4 in duals, 2-4 overall<br>Wharton/Gortzounian (MONM) - 9-1 at #3, 9-1 in duals, 9-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

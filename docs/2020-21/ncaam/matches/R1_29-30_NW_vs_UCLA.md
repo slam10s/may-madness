@@ -6,6 +6,18 @@ Saturday, May 8 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">Northwestern</a></h2>  
+&nbsp; ITA: 50 (7.95)<br>  
+&nbsp; Slam: 33 (92.89)<br>  
+&nbsp; TRN: 32 (90.90)<br>  
+&nbsp; Massey: 31 (7.50)<br>  
+&nbsp; UTR: 27 (77.56)<br>  
+&nbsp; Coaches Poll: 49<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">UCLA</a></h2>  
 &#10004; ITA: 24 (32.15)<br>  
 &#10004; Slam: 23 (93.84)<br>  
@@ -17,17 +29,7 @@ Saturday, May 8 at 10:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">Northwestern</a></h2>  
-&nbsp; ITA: 50 (7.95)<br>  
-&nbsp; Slam: 33 (92.89)<br>  
-&nbsp; TRN: 32 (90.90)<br>  
-&nbsp; Massey: 31 (7.50)<br>  
-&nbsp; UTR: 27 (77.56)<br>  
-&nbsp; Coaches Poll: 49<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Nanda/Baird (UCLA) - 2-2 at #1, 4-5 in duals, 4-5 overall<br>Brookes/Bratholm (NW) - 9-4 at #1, 9-4 in duals, 12-7 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Pereira/Zahraj (UCLA) - 2-2 at #2, 2-2 in duals, 2-2 overall<br>Ephron/Stary (NW) - 12-4 at #2, 12-4 in duals, 12-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Tsolakyan/Bellamy (UCLA) - 5-3 at #3, 5-3 in duals, 5-3 overall<br>Forman/Spear (NW) - 5-1 at #3, 5-1 in duals, 5-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

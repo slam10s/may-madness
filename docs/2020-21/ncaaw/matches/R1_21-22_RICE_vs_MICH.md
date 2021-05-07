@@ -6,6 +6,18 @@ Friday, May 7 at 11:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/r/rice.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">Rice</a></h2>  
+&nbsp; ITA: 40 (18.25)<br>  
+&nbsp; Slam: 40 (87.14)<br>  
+&nbsp; TRN: 36 (79.49)<br>  
+&nbsp; Massey: 38 (6.93)<br>  
+&nbsp; UTR: 35 (60.11)<br>  
+&nbsp; Coaches Poll: 39<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">Michigan</a></h2>  
 &#10004; ITA: 19 (41.22)<br>  
 &#10004; Slam: 8 (91.95)<br>  
@@ -17,17 +29,7 @@ Friday, May 7 at 11:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">Rice</a></h2>  
-&nbsp; ITA: 40 (18.25)<br>  
-&nbsp; Slam: 40 (87.14)<br>  
-&nbsp; TRN: 36 (79.49)<br>  
-&nbsp; Massey: 38 (6.93)<br>  
-&nbsp; UTR: 35 (60.11)<br>  
-&nbsp; Coaches Poll: 39<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Jones/Brown (MICH) - 2-0 at #1, 2-0 in duals, 2-0 overall<br>Budin/Jardi (RICE) - 13-5 at #1, 13-5 in duals, 17-9 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Miller/Lommer (MICH) - 2-0 at #2, 2-0 in duals, 2-0 overall<br>Trevisan/Haet (RICE) - 6-5 at #2, 8-5 in duals, 9-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Lorenzini/Cerdan (MICH) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Bowtell/Smirnova (RICE) - 8-5 at #3, 9-6 in duals, 11-9 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

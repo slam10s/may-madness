@@ -6,6 +6,17 @@ Friday, May 7 at 5:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">DePaul</a></h2>  
+&nbsp; ITA: 55 (5.64)<br>  
+&nbsp; Slam: 55 (85.74)<br>  
+&nbsp; TRN: 55 (82.45)<br>  
+&nbsp; Massey: 54 (5.94)<br>  
+&nbsp; UTR: 60 (70.67)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Illinois</a></h2>  
 &#10004; ITA: 18 (36.82)<br>  
 &#10004; Slam: 6 (98.81)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 5:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">DePaul</a></h2>  
-&nbsp; ITA: 55 (5.64)<br>  
-&nbsp; Slam: 55 (85.74)<br>  
-&nbsp; TRN: 55 (82.45)<br>  
-&nbsp; Massey: 54 (5.94)<br>  
-&nbsp; UTR: 60 (70.67)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Brown/Clark (ILL) - 8-2 at #1, 11-2 in duals, 11-2 overall<br>Casati/Spanjaard (DEP) - 12-4 at #1, 14-4 in duals, 14-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Montsi/Khlif (ILL) - 5-1 at #2, 10-2 in duals, 10-2 overall<br>Tonejc/Wassenaar (DEP) - 3-2 at #2, 6-4 in duals, 6-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Kovacevic/Heck (ILL) - 2-1 at #3, 3-1 in duals, 3-1 overall<br>Tonejc/Tuff (DEP) - 5-0 at #3, 9-6 in duals, 9-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

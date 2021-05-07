@@ -6,6 +6,17 @@ Saturday, May 8 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Presbyterian</a></h2>  
+&nbsp; ITA: 59 (3.97)<br>  
+&nbsp; Slam: 59 (82.26)<br>  
+&nbsp; TRN: 59 (77.90)<br>  
+&nbsp; Massey: 61 (5.23)<br>  
+&nbsp; UTR: 61 (70.28)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">North Carolina</a></h2>  
 &#10004; ITA: 6 (72.02)<br>  
 &#10004; Slam: 3 (99.37)<br>  
@@ -17,16 +28,7 @@ Saturday, May 8 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Presbyterian</a></h2>  
-&nbsp; ITA: 59 (3.97)<br>  
-&nbsp; Slam: 59 (82.26)<br>  
-&nbsp; TRN: 59 (77.90)<br>  
-&nbsp; Massey: 61 (5.23)<br>  
-&nbsp; UTR: 61 (70.28)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Blumberg/Cernoch (UNC) - 12-3 at #1, 12-3 in duals, 12-3 overall<br>Stenger/Dominguez (PRES) - 2-1 at #1, 6-4 in duals, 6-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Kiger/Soendergaard (UNC) - 8-5 at #2, 10-7 in duals, 10-7 overall<br>Matos/McKinney (PRES) - 0-0 at #2, 4-2 in duals, 4-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Hijikata/Sigouin (UNC) - 3-3 at #3, 5-5 in duals, 5-5 overall<br>Benson/Conde (PRES) - 0-0 at #3, 0-3 in duals, 0-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

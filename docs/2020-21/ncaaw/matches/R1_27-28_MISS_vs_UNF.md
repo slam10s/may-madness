@@ -6,16 +6,6 @@ Friday, May 7 at 11:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-florida.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">North Florida</a></h2>  
-&nbsp; ITA: 48 (8.00)<br>  
-&nbsp; Slam: 46 (84.69)<br>  
-&nbsp; TRN: 46 (75.83)<br>  
-&nbsp; Massey: 47 (6.44)<br>  
-&nbsp; UTR: 44 (58.45)<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">Ole Miss</a></h2>  
 &#10004; ITA: 25 (38.66)<br>  
 &#10004; Slam: 26 (89.34)<br>  
@@ -26,7 +16,19 @@ Friday, May 7 at 11:00 EDT
 &#10004; Coaches Poll: 25<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">North Florida</a></h2>  
+&nbsp; ITA: 48 (8.00)<br>  
+&nbsp; Slam: 46 (84.69)<br>  
+&nbsp; TRN: 46 (75.83)<br>  
+&nbsp; Massey: 47 (6.44)<br>  
+&nbsp; UTR: 44 (58.45)<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Montano/Gorches (UNF) - 5-1 at #1, 15-6 in duals, 15-6 overall<br>Vrbenska/Bortles (MISS) - 2-3 at #1, 2-3 in duals, 2-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Gulihur/Mariotto (UNF) - 3-3 at #2, 3-3 in duals, 3-3 overall<br>Machalova/Fiquet (MISS) - 2-1 at #2, 2-1 in duals, 1-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Yardley/Davis (UNF) - 1-1 at #3, 1-1 in duals, 1-1 overall<br>Janatova/Mize (MISS) - 0-2 at #3, 0-2 in duals, 0-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

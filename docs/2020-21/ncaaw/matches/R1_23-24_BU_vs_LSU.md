@@ -6,6 +6,17 @@ Friday, May 7 at 2:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Boston U.</a></h2>  
+&nbsp; ITA: 50 (5.16)<br>  
+&nbsp; Slam: 54 (78.65)<br>  
+&nbsp; TRN: 51 (71.29)<br>  
+&nbsp; Massey: 54 (5.32)<br>  
+&nbsp; UTR: 49 (55.50)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">LSU</a></h2>  
 &#10004; ITA: 12 (48.73)<br>  
 &#10004; Slam: 21 (90.28)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 2:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Boston U.</a></h2>  
-&nbsp; ITA: 50 (5.16)<br>  
-&nbsp; Slam: 54 (78.65)<br>  
-&nbsp; TRN: 51 (71.29)<br>  
-&nbsp; Massey: 54 (5.32)<br>  
-&nbsp; UTR: 49 (55.50)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Richardson/Geissler (LSU) - 4-7 at #1, 4-7 in duals, 4-10 overall<br>Kim/Burchell (BU) - 3-1 at #1, 3-1 in duals, 3-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Bridges/Corley (LSU) - 4-1 at #2, 12-4 in duals, 15-4 overall<br>Carlsten/DiBattista (BU) - 2-1 at #2, 2-1 in duals, 2-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Cubitt/Carrington (LSU) - 0-0 at #3, 5-3 in duals, 7-5 overall<br>Tan/Yaloz (BU) - 4-0 at #3, 4-0 in duals, 4-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

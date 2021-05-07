@@ -6,17 +6,6 @@ Saturday, May 8 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/memphis.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">Memphis</a></h2>  
-&nbsp; ITA: 38 (22.19)<br>  
-&nbsp; Slam: 41 (91.89)<br>  
-&nbsp; TRN: 40 (89.86)<br>  
-&nbsp; Massey: 43 (7.05)<br>  
-&nbsp; UTR: 43 (75.40)<br>  
-&nbsp; Coaches Poll: 35<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">Georgia Tech</a></h2>  
 &#10004; ITA: 30 (27.75)<br>  
 &#10004; Slam: 27 (93.36)<br>  
@@ -27,7 +16,20 @@ Saturday, May 8 at 10:00 EDT
 &#10004; Coaches Poll: 31<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">Memphis</a></h2>  
+&nbsp; ITA: 38 (22.19)<br>  
+&nbsp; Slam: 41 (91.89)<br>  
+&nbsp; TRN: 40 (89.86)<br>  
+&nbsp; Massey: 43 (7.05)<br>  
+&nbsp; UTR: 43 (75.40)<br>  
+&nbsp; Coaches Poll: 35<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Cutting/Stevenson (MEM) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>McDaniel/Martin (GT) - 5-2 at #1, 5-2 in duals, 5-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Pallares/Sydow (MEM) - 12-3 at #2, 12-3 in duals, 12-3 overall<br>Schelcher/Freestone (GT) - 6-4 at #2, 6-4 in duals, 6-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Story/Taylor (MEM) - 10-3 at #3, 10-3 in duals, 10-3 overall<br>Chopra/Dong (GT) - 2-1 at #3, 2-1 in duals, 2-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,6 +6,17 @@ Friday, May 7 at 3:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">New Mexico</a></h2>  
+&nbsp; ITA: 52 (7.44)<br>  
+&nbsp; Slam: 53 (87.22)<br>  
+&nbsp; TRN: 54 (83.45)<br>  
+&nbsp; Massey: 48 (6.71)<br>  
+&nbsp; UTR: 51 (73.79)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Texas A&M</a></h2>  
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 11 (96.97)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 3:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">New Mexico</a></h2>  
-&nbsp; ITA: 52 (7.44)<br>  
-&nbsp; Slam: 53 (87.22)<br>  
-&nbsp; TRN: 54 (83.45)<br>  
-&nbsp; Massey: 48 (6.71)<br>  
-&nbsp; UTR: 51 (73.79)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Aguilar/Thomson (A&M) - 7-6 at #1, 7-6 in duals, 10-8 overall<br>West/Molina (UNM) - 8-3 at #1, 11-3 in duals, 11-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Vacherot/Rollins (A&M) - 5-3 at #2, 12-5 in duals, 15-5 overall<br>Trondson/Dobai (UNM) - 7-4 at #2, 8-7 in duals, 8-7 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Kumar/Schachter (A&M) - 7-4 at #3, 7-4 in duals, 7-4 overall<br>Maggs/Holis (UNM) - 5-4 at #3, 5-4 in duals, 5-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

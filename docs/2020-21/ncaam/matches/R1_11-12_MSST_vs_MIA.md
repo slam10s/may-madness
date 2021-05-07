@@ -6,17 +6,6 @@ Saturday, May 8 at 11:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">Miami (FL)</a></h2>  
-&nbsp; ITA: 39 (19.34)<br>  
-&nbsp; Slam: 37 (92.19)<br>  
-&nbsp; TRN: 43 (89.49)<br>  
-&nbsp; Massey: 38 (7.31)<br>  
-&nbsp; UTR: 40 (75.68)<br>  
-&nbsp; Coaches Poll: 43<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">Mississippi St.</a></h2>  
 &#10004; ITA: 16 (41.29)<br>  
 &#10004; Slam: 20 (94.39)<br>  
@@ -27,7 +16,20 @@ Saturday, May 8 at 11:00 EDT
 &#10004; Coaches Poll: 18<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">Miami (FL)</a></h2>  
+&nbsp; ITA: 39 (19.34)<br>  
+&nbsp; Slam: 37 (92.19)<br>  
+&nbsp; TRN: 43 (89.49)<br>  
+&nbsp; Massey: 38 (7.31)<br>  
+&nbsp; UTR: 40 (75.68)<br>  
+&nbsp; Coaches Poll: 43<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Hannestad/Aubone (MIA) - 7-8 at #1, 7-8 in duals, 7-8 overall<br>Broska/Ramskogler (MSST) - 7-5 at #1, 11-6 in duals, 11-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Barrera/Vasser (MIA) - 2-2 at #2, 2-2 in duals, 2-2 overall<br>Malesevic/Tortora (MSST) - 3-3 at #2, 6-4 in duals, 9-7 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Jankulovski/Milicevic (MIA) - 4-3 at #3, 4-3 in duals, 4-3 overall<br>Ocana/Oradini (MSST) - 2-2 at #3, 2-2 in duals, 2-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

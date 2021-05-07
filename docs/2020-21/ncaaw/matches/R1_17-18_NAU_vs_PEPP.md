@@ -6,6 +6,17 @@ Friday, May 7 at 5:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Northern Ariz.</a></h2>  
+&nbsp; ITA: 54 (3.85)<br>  
+&nbsp; Slam: 51 (79.81)<br>  
+&nbsp; TRN: 53 (69.11)<br>  
+&nbsp; Massey: 51 (5.50)<br>  
+&nbsp; UTR: 54 (52.95)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Pepperdine</a></h2>  
 &#10004; ITA: 5 (60.71)<br>  
 &#10004; Slam: 6 (92.64)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 5:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Northern Ariz.</a></h2>  
-&nbsp; ITA: 54 (3.85)<br>  
-&nbsp; Slam: 51 (79.81)<br>  
-&nbsp; TRN: 53 (69.11)<br>  
-&nbsp; Massey: 51 (5.50)<br>  
-&nbsp; UTR: 54 (52.95)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Lahey/Zaar (PEPP) - 0-0 at #1, 0-0 in duals, 0-0 overall<br>Millard/Bland (NAU) - 9-8 at #1, 9-8 in duals, 9-8 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Fukuda/Pachkaleva (PEPP) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Dittmann/Beazley (NAU) - 8-7 at #2, 10-7 in duals, 10-7 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Failla/Iamachkine (PEPP) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Moore/Neyestani (NAU) - 6-9 at #3, 7-10 in duals, 7-10 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

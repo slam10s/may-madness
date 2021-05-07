@@ -6,6 +6,18 @@ Friday, May 7 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">Syracuse</a></h2>  
+&nbsp; ITA: 43 (15.84)<br>  
+&nbsp; Slam: 43 (86.54)<br>  
+&nbsp; TRN: 43 (78.55)<br>  
+&nbsp; Massey: 42 (6.69)<br>  
+&nbsp; UTR: 43 (58.68)<br>  
+&nbsp; Coaches Poll: 45<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">Kentucky</a></h2>  
 &#10004; ITA: 26 (37.41)<br>  
 &#10004; Slam: 25 (89.36)<br>  
@@ -17,17 +29,7 @@ Friday, May 7 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">Syracuse</a></h2>  
-&nbsp; ITA: 43 (15.84)<br>  
-&nbsp; Slam: 43 (86.54)<br>  
-&nbsp; TRN: 43 (78.55)<br>  
-&nbsp; Massey: 42 (6.69)<br>  
-&nbsp; UTR: 43 (58.68)<br>  
-&nbsp; Coaches Poll: 45<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Parazinskaite/Arrese (UK) - 17-2 at #1, 17-2 in duals, 20-2 overall<br>Kanapatskaya/Novotna (SYR) - 4-7 at #1, 8-8 in duals, 8-8 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Tkachenko/Girbau (UK) - 1-3 at #2, 1-3 in duals, 1-3 overall<br>Kozyreva/Trescheva (SYR) - 3-7 at #2, 5-12 in duals, 5-12 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Jacobs/Stevens (UK) - 2-0 at #3, 2-0 in duals, 2-1 overall<br>Ramirez/Yusupova (SYR) - 5-5 at #3, 5-5 in duals, 5-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,6 +6,17 @@ Friday, May 7 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">UC Santa Barbara</a></h2>  
+&nbsp; ITA: 54 (6.34)<br>  
+&nbsp; Slam: 51 (87.56)<br>  
+&nbsp; TRN: 51 (84.30)<br>  
+&nbsp; Massey: 52 (6.48)<br>  
+&nbsp; UTR: 47 (74.20)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">Pepperdine</a></h2>  
 &#10004; ITA: 28 (29.09)<br>  
 &#10004; Slam: 34 (92.69)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">UC Santa Barbara</a></h2>  
-&nbsp; ITA: 54 (6.34)<br>  
-&nbsp; Slam: 51 (87.56)<br>  
-&nbsp; TRN: 51 (84.30)<br>  
-&nbsp; Massey: 52 (6.48)<br>  
-&nbsp; UTR: 47 (74.20)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Oetzbach/Ouden (PEPP) - 10-4 at #1, 10-4 in duals, 10-4 overall<br>Tsorotiotis/Vedri (UCSB) - 4-3 at #1, 4-3 in duals, 4-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Summaria/Zeitvogel (PEPP) - 5-2 at #2, 5-2 in duals, 5-2 overall<br>Krustev/Rotheram (UCSB) - 4-5 at #2, 4-6 in duals, 4-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">DeJonge/Fellin (PEPP) - 3-3 at #3, 3-3 in duals, 3-3 overall<br>Guillin/Brady (UCSB) - 6-1 at #3, 6-1 in duals, 6-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

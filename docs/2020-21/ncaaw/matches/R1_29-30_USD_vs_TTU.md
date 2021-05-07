@@ -6,6 +6,18 @@ Friday, May 7 at 4:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">San Diego</a></h2>  
+&nbsp; ITA: 39 (19.12)<br>  
+&nbsp; Slam: 36 (87.64)<br>  
+&nbsp; TRN: 38 (78.95)<br>  
+&nbsp; Massey: 32 (7.31)<br>  
+&nbsp; UTR: 32 (60.57)<br>  
+&nbsp; Coaches Poll: 47<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">Texas Tech</a></h2>  
 &#10004; ITA: 29 (28.07)<br>  
 &#10004; Slam: 34 (87.92)<br>  
@@ -16,17 +28,7 @@ Friday, May 7 at 4:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">San Diego</a></h2>  
-&nbsp; ITA: 39 (19.12)<br>  
-&nbsp; Slam: 36 (87.64)<br>  
-&nbsp; TRN: 38 (78.95)<br>  
-&nbsp; Massey: 32 (7.31)<br>  
-&nbsp; UTR: 32 (60.57)<br>  
-&nbsp; Coaches Poll: 47<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Staines/Mays (TTU) - 9-7 at #1, 9-7 in duals, 9-7 overall<br>Colling/Goldsmith (USD) - 14-3 at #1, 14-3 in duals, 14-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Peet/Skriabina (TTU) - 4-2 at #2, 4-2 in duals, 4-2 overall<br>Desiatnikov/McBride (USD) - 5-1 at #2, 12-4 in duals, 12-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Miller/Komac (TTU) - 2-1 at #3, 2-1 in duals, 2-1 overall<br>Andryukhova/Kukaras (USD) - 2-2 at #3, 2-4 in duals, 2-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

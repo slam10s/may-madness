@@ -6,6 +6,18 @@ Friday, May 7 at 12:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">Denver</a></h2>  
+&nbsp; ITA: 45 (17.16)<br>  
+&nbsp; Slam: 42 (91.67)<br>  
+&nbsp; TRN: 35 (90.56)<br>  
+&nbsp; Massey: 38 (7.31)<br>  
+&nbsp; UTR: 46 (74.43)<br>  
+&nbsp; Coaches Poll: 44<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">Oklahoma</a></h2>  
 &#10004; ITA: 27 (29.42)<br>  
 &#10004; Slam: 29 (93.05)<br>  
@@ -16,17 +28,7 @@ Friday, May 7 at 12:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">Denver</a></h2>  
-&nbsp; ITA: 45 (17.16)<br>  
-&nbsp; Slam: 42 (91.67)<br>  
-&nbsp; TRN: 35 (90.56)<br>  
-&nbsp; Massey: 38 (7.31)<br>  
-&nbsp; UTR: 46 (74.43)<br>  
-&nbsp; Coaches Poll: 44<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Mandlik/Stewart (OKLA) - 0-1 at #1, 2-3 in duals, 2-3 overall<br>Summers/Davis (DEN) - 14-5 at #1, 14-5 in duals, 14-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Van Emburgh/Martinez (OKLA) - 0-1 at #2, 0-1 in duals, 0-1 overall<br>Ros/Sallay (DEN) - 7-6 at #2, 7-6 in duals, 7-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Han/Beiler (OKLA) - 1-0 at #3, 1-0 in duals, 1-0 overall<br>Cuesta/Crespo (DEN) - 10-4 at #3, 10-4 in duals, 10-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

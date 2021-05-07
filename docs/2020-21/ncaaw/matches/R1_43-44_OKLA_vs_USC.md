@@ -6,17 +6,6 @@ Friday, May 7 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">Southern California</a></h2>  
-&nbsp; ITA: 35 (23.17)<br>  
-&nbsp; Slam: 35 (87.72)<br>  
-&nbsp; TRN: 41 (78.74)<br>  
-&nbsp; Massey: 26 (7.43)<br>  
-&#10004; UTR: 6 (64.29)<br>  
-&nbsp; Coaches Poll: 34<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">Oklahoma</a></h2>  
 &#10004; ITA: 23 (39.04)<br>  
 &#10004; Slam: 13 (91.06)<br>  
@@ -27,7 +16,20 @@ Friday, May 7 at 10:00 EDT
 &#10004; Coaches Poll: 24<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">Southern California</a></h2>  
+&nbsp; ITA: 35 (23.17)<br>  
+&nbsp; Slam: 35 (87.72)<br>  
+&nbsp; TRN: 41 (78.74)<br>  
+&nbsp; Massey: 26 (7.43)<br>  
+&#10004; UTR: 6 (64.29)<br>  
+&nbsp; Coaches Poll: 34<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Kulikov/Cayetano (USC) - 6-5 at #1, 6-5 in duals, 6-5 overall<br>Corley/Corley (OKLA) - 16-2 at #1, 16-2 in duals, 26-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ewing/McKee (USC) - 8-4 at #2, 8-4 in duals, 8-4 overall<br>Capurro/Romero (OKLA) - 7-3 at #2, 7-3 in duals, 7-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Dvorak/Willson (USC) - 8-5 at #3, 8-5 in duals, 8-5 overall<br>Guzman/Motosono (OKLA) - 10-2 at #3, 10-2 in duals, 10-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

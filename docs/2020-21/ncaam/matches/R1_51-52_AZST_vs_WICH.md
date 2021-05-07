@@ -6,17 +6,6 @@ Saturday, May 8 at 12:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wichita-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">Wichita St.</a></h2>  
-&nbsp; ITA: 33 (25.34)<br>  
-&nbsp; Slam: 39 (92.05)<br>  
-&nbsp; TRN: 37 (90.31)<br>  
-&nbsp; Massey: 41 (7.28)<br>  
-&nbsp; UTR: 39 (75.93)<br>  
-&nbsp; Coaches Poll: 32<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">Arizona St.</a></h2>  
 &#10004; ITA: 20 (34.84)<br>  
 &#10004; Slam: 25 (93.56)<br>  
@@ -27,7 +16,20 @@ Saturday, May 8 at 12:00 EDT
 &#10004; Coaches Poll: 22<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">Wichita St.</a></h2>  
+&nbsp; ITA: 33 (25.34)<br>  
+&nbsp; Slam: 39 (92.05)<br>  
+&nbsp; TRN: 37 (90.31)<br>  
+&nbsp; Massey: 41 (7.28)<br>  
+&nbsp; UTR: 39 (75.93)<br>  
+&nbsp; Coaches Poll: 32<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Dellien/Frosa (WICH) - 9-5 at #1, 9-5 in duals, 9-5 overall<br>Rakotomalala/Ruehl (AZST) - 1-2 at #1, 6-4 in duals, 6-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Mrsic/Ovil (WICH) - 5-5 at #2, 5-5 in duals, 5-5 overall<br>McKennon/Ponwith (AZST) - 4-1 at #2, 5-2 in duals, 5-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Latinovic/Acevedo (WICH) - 4-5 at #3, 4-5 in duals, 4-5 overall<br>Lerby/Stoupe (AZST) - 3-1 at #3, 3-1 in duals, 3-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,6 +6,18 @@ Friday, May 7 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#2 <a href="#">Wake Forest</a></h2>  
+&#10004; ITA: 33 (25.77)<br>  
+&#10004; Slam: 32 (88.11)<br>  
+&#10004; TRN: 31 (80.20)<br>  
+&#10004; Massey: 34 (7.13)<br>  
+&#10004; UTR: 31 (60.70)<br>  
+&#10004; Coaches Poll: 31<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#3 <a href="#">Furman</a></h2>  
 &nbsp; ITA: 34 (25.42)<br>  
 &nbsp; Slam: 33 (87.98)<br>  
@@ -17,17 +29,7 @@ Friday, May 7 at 10:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#2 <a href="#">Wake Forest</a></h2>  
-&#10004; ITA: 33 (25.77)<br>  
-&#10004; Slam: 32 (88.11)<br>  
-&#10004; TRN: 31 (80.20)<br>  
-&#10004; Massey: 34 (7.13)<br>  
-&#10004; UTR: 31 (60.70)<br>  
-&#10004; Coaches Poll: 31<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Kozarov/Adams (FUR) - 19-3 at #1, 19-3 in duals, 19-3 overall<br>Omirou/Campana (WAKE) - 8-4 at #1, 9-4 in duals, 9-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Dillon/Rompf (FUR) - 0-0 at #2, 19-2 in duals, 19-2 overall<br>Brylin/Killingsworth (WAKE) - 7-4 at #2, 13-5 in duals, 13-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Pate/Schoppe (FUR) - 0-0 at #3, 11-5 in duals, 11-5 overall<br>Pesavento/Campana (WAKE) - 3-8 at #3, 3-8 in duals, 3-8 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

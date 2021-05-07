@@ -6,6 +6,17 @@ Friday, May 7 at 4:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Alabama St.</a></h2>  
+&nbsp; ITA: 61 (2.29)<br>  
+&nbsp; Slam: 63 (69.75)<br>  
+&nbsp; TRN: 62 (58.32)<br>  
+&nbsp; Massey: 63 (3.41)<br>  
+&nbsp; UTR: 61 (46.66)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Florida St.</a></h2>  
 &#10004; ITA: 7 (55.15)<br>  
 &#10004; Slam: 10 (91.81)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 4:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Alabama St.</a></h2>  
-&nbsp; ITA: 61 (2.29)<br>  
-&nbsp; Slam: 63 (69.75)<br>  
-&nbsp; TRN: 62 (58.32)<br>  
-&nbsp; Massey: 63 (3.41)<br>  
-&nbsp; UTR: 61 (46.66)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Salas/Allen (FSU) - 5-3 at #1, 5-3 in duals, 5-3 overall<br>Dzemchanka/Tarbujaru (ALST) - 1-1 at #1, 1-1 in duals, 1-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Das/Garcia (FSU) - 8-4 at #2, 14-4 in duals, 17-4 overall<br>Andrade/Duca (ALST) - 4-0 at #2, 5-0 in duals, 5-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Hule/Pairone (FSU) - 5-1 at #3, 5-1 in duals, 6-1 overall<br>Velec/Hribljan (ALST) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

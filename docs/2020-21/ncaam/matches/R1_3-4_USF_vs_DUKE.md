@@ -6,6 +6,18 @@ Saturday, May 8 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#2 <a href="#">South Fla.</a></h2>  
+&#10004; ITA: 32 (26.14)<br>  
+&nbsp; Slam: 32 (92.98)<br>  
+&#10004; TRN: 34 (90.69)<br>  
+&#10004; Massey: 32 (7.49)<br>  
+&nbsp; UTR: 37 (76.51)<br>  
+&#10004; Coaches Poll: 33<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#3 <a href="#">Duke</a></h2>  
 &nbsp; ITA: 35 (25.15)<br>  
 &#10004; Slam: 31 (93.00)<br>  
@@ -16,17 +28,7 @@ Saturday, May 8 at 10:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#2 <a href="#">South Fla.</a></h2>  
-&#10004; ITA: 32 (26.14)<br>  
-&nbsp; Slam: 32 (92.98)<br>  
-&#10004; TRN: 34 (90.69)<br>  
-&#10004; Massey: 32 (7.49)<br>  
-&nbsp; UTR: 37 (76.51)<br>  
-&#10004; Coaches Poll: 33<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Sculley/Johns (DUKE) - 8-7 at #1, 8-7 in duals, 9-8 overall<br>Bollipalli/Wojcik (USF) - 9-7 at #1, 9-7 in duals, 9-7 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Heller/Zhang (DUKE) - 4-1 at #2, 5-2 in duals, 5-2 overall<br>Ferguson/Yatsuk (USF) - 1-0 at #2, 2-1 in duals, 2-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Keist/Dale (DUKE) - 1-1 at #3, 1-1 in duals, 1-1 overall<br>Goncalves/Tudorica (USF) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

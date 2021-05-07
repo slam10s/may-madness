@@ -6,6 +6,18 @@ Friday, May 7 at 4:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Denver</a></h2>  
+&nbsp; ITA: 45 (11.66)<br>  
+&nbsp; Slam: 45 (84.92)<br>  
+&nbsp; TRN: 45 (76.03)<br>  
+&nbsp; Massey: 43 (6.53)<br>  
+&nbsp; UTR: 45 (58.03)<br>  
+&nbsp; Coaches Poll: 49<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Texas</a></h2>  
 &#10004; ITA: 2 (79.19)<br>  
 &#10004; Slam: 2 (98.44)<br>  
@@ -17,17 +29,7 @@ Friday, May 7 at 4:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Denver</a></h2>  
-&nbsp; ITA: 45 (11.66)<br>  
-&nbsp; Slam: 45 (84.92)<br>  
-&nbsp; TRN: 45 (76.03)<br>  
-&nbsp; Massey: 43 (6.53)<br>  
-&nbsp; UTR: 45 (58.03)<br>  
-&nbsp; Coaches Poll: 49<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Sun/Collins (TEX) - 16-4 at #1, 16-4 in duals, 16-4 overall<br>Pursell/Verden-Anderson (DEN) - 6-1 at #1, 11-2 in duals, 11-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Turati/Labrana (TEX) - 13-1 at #2, 14-1 in duals, 14-1 overall<br>Riedmiller/Chang (DEN) - 5-1 at #2, 5-1 in duals, 5-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Chavatipon/Stearns (TEX) - 11-1 at #3, 12-1 in duals, 14-2 overall<br>Nelson/Melville (DEN) - 5-0 at #3, 6-0 in duals, 6-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

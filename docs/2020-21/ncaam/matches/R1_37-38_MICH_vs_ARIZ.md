@@ -6,6 +6,19 @@ Friday, May 7 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">Michigan</a></h2>  
+&nbsp; ITA: 46 (15.17)<br>  
+&#10004; Slam: 13 (96.42)<br>  
+&#10004; TRN: 12 (95.88)<br>  
+&#10004; Massey: 14 (8.22)<br>  
+&#10004; UTR: 18 (78.65)<br>  
+&nbsp; USTA Poll: T10<br>  
+&nbsp; Coaches Poll: 23<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">Arizona</a></h2>  
 &#10004; ITA: 17 (38.97)<br>  
 &nbsp; Slam: 21 (94.26)<br>  
@@ -17,18 +30,7 @@ Friday, May 7 at 10:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">Michigan</a></h2>  
-&nbsp; ITA: 46 (15.17)<br>  
-&#10004; Slam: 13 (96.42)<br>  
-&#10004; TRN: 12 (95.88)<br>  
-&#10004; Massey: 14 (8.22)<br>  
-&#10004; UTR: 18 (78.65)<br>  
-&nbsp; USTA Poll: T10<br>  
-&nbsp; Coaches Poll: 23<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -112,11 +114,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Hassey/Reguant (ARIZ) - 1-0 at #1, 10-3 in duals, 10-3 overall<br>Fenty/Siimar (MICH) - 9-3 at #1, 9-3 in duals, 14-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ziverts/Hoeyeraal (ARIZ) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Maloney/Styler (MICH) - 2-0 at #2, 2-0 in duals, 2-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Strom/Malbasic (ARIZ) - 7-5 at #3, 9-5 in duals, 9-5 overall<br>Ehrenschneider/Johnston (MICH) - 3-0 at #3, 3-0 in duals, 3-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

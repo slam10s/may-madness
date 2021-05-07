@@ -6,6 +6,17 @@ Friday, May 7 at 4:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">Xavier</a></h2>  
+&nbsp; ITA: 55 (3.75)<br>  
+&nbsp; Slam: 49 (80.67)<br>  
+&nbsp; TRN: 50 (71.88)<br>  
+&nbsp; Massey: 50 (5.60)<br>  
+&nbsp; UTR: 64 (24.06)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">Northwestern</a></h2>  
 &#10004; ITA: 21 (39.92)<br>  
 &#10004; Slam: 18 (90.46)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 4:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">Xavier</a></h2>  
-&nbsp; ITA: 55 (3.75)<br>  
-&nbsp; Slam: 49 (80.67)<br>  
-&nbsp; TRN: 50 (71.88)<br>  
-&nbsp; Massey: 50 (5.60)<br>  
-&nbsp; UTR: 64 (24.06)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Byrne/Crowley (NW) - 7-2 at #1, 7-2 in duals, 7-2 overall<br>Kyle/Thomas (XAV) - 9-8 at #1, 9-8 in duals, 9-8 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Hand/Hand (NW) - 4-3 at #2, 4-3 in duals, 4-3 overall<br>Roggenburk/Graham (XAV) - 3-1 at #2, 10-2 in duals, 10-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">McColgan/Pozo (NW) - 5-2 at #3, 5-2 in duals, 5-2 overall<br>Ruether/Lyman (XAV) - 2-0 at #3, 7-3 in duals, 7-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

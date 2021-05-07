@@ -6,6 +6,18 @@ Friday, May 7 at 12:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">Iowa St.</a></h2>  
+&nbsp; ITA: 36 (22.35)<br>  
+&nbsp; Slam: 41 (86.71)<br>  
+&nbsp; TRN: 42 (78.56)<br>  
+&nbsp; Massey: 39 (6.76)<br>  
+&nbsp; UTR: 39 (59.07)<br>  
+&nbsp; Coaches Poll: 36<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">South Carolina</a></h2>  
 &#10004; ITA: 22 (39.21)<br>  
 &#10004; Slam: 27 (89.34)<br>  
@@ -17,17 +29,7 @@ Friday, May 7 at 12:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">Iowa St.</a></h2>  
-&nbsp; ITA: 36 (22.35)<br>  
-&nbsp; Slam: 41 (86.71)<br>  
-&nbsp; TRN: 42 (78.56)<br>  
-&nbsp; Massey: 39 (6.76)<br>  
-&nbsp; UTR: 39 (59.07)<br>  
-&nbsp; Coaches Poll: 36<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Davies/Horvit (SCAR) - 9-8 at #1, 9-8 in duals, 13-10 overall<br>Naklo/Hsieh (ISU) - 1-1 at #1, 1-1 in duals, 1-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Chinellato/Shelton (SCAR) - 7-5 at #2, 7-5 in duals, 10-8 overall<br>Kadleckova/Cabezas (ISU) - 1-0 at #2, 1-0 in duals, 1-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Cruz/Gretkowski (SCAR) - 11-0 at #3, 11-2 in duals, 11-2 overall<br>Cancini/Chang (ISU) - 6-3 at #3, 6-3 in duals, 6-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,16 +6,6 @@ Friday, May 7 at 11:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">Ball St.</a></h2>  
-&nbsp; ITA: 51 (4.35)<br>  
-&nbsp; Slam: 52 (79.30)<br>  
-&nbsp; TRN: 52 (70.33)<br>  
-&nbsp; Massey: 53 (5.40)<br>  
-&nbsp; UTR: 51 (54.58)<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">Vanderbilt</a></h2>  
 &#10004; ITA: 27 (35.19)<br>  
 &#10004; Slam: 29 (88.87)<br>  
@@ -25,7 +15,19 @@ Friday, May 7 at 11:00 EDT
 &#10004; Coaches Poll: 28<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">Ball St.</a></h2>  
+&nbsp; ITA: 51 (4.35)<br>  
+&nbsp; Slam: 52 (79.30)<br>  
+&nbsp; TRN: 52 (70.33)<br>  
+&nbsp; Massey: 53 (5.40)<br>  
+&nbsp; UTR: 51 (54.58)<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -108,11 +110,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Kaplan/Peeler (BALL) - 9-3 at #1, 9-4 in duals, 9-3 overall<br>Ross/Staff (VANDY) - 9-8 at #1, 10-8 in duals, 10-8 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Braun/Polishchuk (BALL) - 0-0 at #2, 2-0 in duals, 2-0 overall<br>Kurtz/Cruz (VANDY) - 11-6 at #2, 11-6 in duals, 11-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Sec/Lukacs (BALL) - 6-0 at #3, 11-0 in duals, 11-0 overall<br>Rosca/Lee (VANDY) - 11-4 at #3, 12-4 in duals, 12-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,6 +6,17 @@ Friday, May 7 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Austin Peay</a></h2>  
+&nbsp; ITA: 57 (3.35)<br>  
+&nbsp; Slam: 56 (77.22)<br>  
+&nbsp; TRN: 56 (67.26)<br>  
+&nbsp; Massey: 56 (4.88)<br>  
+&nbsp; UTR: 55 (52.40)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Georgia</a></h2>  
 &#10004; ITA: 3 (74.01)<br>  
 &#10004; Slam: 3 (97.81)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Austin Peay</a></h2>  
-&nbsp; ITA: 57 (3.35)<br>  
-&nbsp; Slam: 56 (77.22)<br>  
-&nbsp; TRN: 56 (67.26)<br>  
-&nbsp; Massey: 56 (4.88)<br>  
-&nbsp; UTR: 55 (52.40)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Jokic/Arseneault (UGA) - 11-4 at #1, 11-4 in duals, 14-6 overall<br>Schmidt/Morris (PEAY) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Christofi/Coppoc (UGA) - 12-2 at #2, 12-2 in duals, 18-3 overall<br>Leder/Topalovic (PEAY) - 7-3 at #2, 7-3 in duals, 7-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Lea Ma/Kowalski (UGA) - 15-2 at #3, 15-2 in duals, 18-2 overall<br>Nakanishi/Albertson (PEAY) - 5-6 at #3, 5-6 in duals, 5-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

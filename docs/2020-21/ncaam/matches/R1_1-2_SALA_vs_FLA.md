@@ -6,6 +6,17 @@ Saturday, May 8 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">South Alabama</a></h2>  
+&nbsp; ITA: 53 (6.83)<br>  
+&nbsp; Slam: 50 (87.64)<br>  
+&nbsp; TRN: 52 (84.26)<br>  
+&nbsp; Massey: 46 (6.79)<br>  
+&nbsp; UTR: 49 (73.92)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Florida</a></h2>  
 &#10004; ITA: 2 (81.08)<br>  
 &#10004; Slam: 2 (99.77)<br>  
@@ -17,16 +28,7 @@ Saturday, May 8 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">South Alabama</a></h2>  
-&nbsp; ITA: 53 (6.83)<br>  
-&nbsp; Slam: 50 (87.64)<br>  
-&nbsp; TRN: 52 (84.26)<br>  
-&nbsp; Massey: 46 (6.79)<br>  
-&nbsp; UTR: 49 (73.92)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Ingildsen/Vale (FLA) - 0-0 at #1, 0-0 in duals, 0-0 overall<br>Cloes/Marzol (SALA) - 10-2 at #1, 10-2 in duals, 10-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Riffice/Shelton (FLA) - 0-0 at #2, 4-0 in duals, 6-1 overall<br>Evrard/Collard (SALA) - 4-6 at #2, 4-6 in duals, 10-9 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Berdusco/Grant (FLA) - 0-0 at #3, 0-0 in duals, 1-0 overall<br>Delcour/Petko (SALA) - 2-2 at #3, 2-2 in duals, 2-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

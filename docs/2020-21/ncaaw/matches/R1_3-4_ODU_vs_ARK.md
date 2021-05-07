@@ -6,17 +6,6 @@ Friday, May 7 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">Arkansas</a></h2>  
-&nbsp; ITA: 32 (26.02)<br>  
-&nbsp; Slam: 38 (87.39)<br>  
-&nbsp; TRN: 32 (79.87)<br>  
-&nbsp; Massey: 41 (6.74)<br>  
-&nbsp; UTR: 38 (59.65)<br>  
-&nbsp; Coaches Poll: 33<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">Old Dominion</a></h2>  
 &#10004; ITA: 30 (28.00)<br>  
 &#10004; Slam: 28 (89.21)<br>  
@@ -27,7 +16,20 @@ Friday, May 7 at 10:00 EDT
 &#10004; Coaches Poll: 32<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">Arkansas</a></h2>  
+&nbsp; ITA: 32 (26.02)<br>  
+&nbsp; Slam: 38 (87.39)<br>  
+&nbsp; TRN: 32 (79.87)<br>  
+&nbsp; Massey: 41 (6.74)<br>  
+&nbsp; UTR: 38 (59.65)<br>  
+&nbsp; Coaches Poll: 33<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Cross/Rice (ARK) - 5-2 at #1, 5-2 in duals, 5-2 overall<br>Starodubtseva/Yakubovich (ODU) - 5-5 at #1, 5-5 in duals, 5-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Alter/Spink (ARK) - 3-5 at #2, 3-5 in duals, 3-5 overall<br>Hutchinson/Sasnouskaya (ODU) - 11-0 at #2, 12-1 in duals, 12-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Keller/Carr (ARK) - 2-3 at #3, 2-3 in duals, 2-3 overall<br>Pilkington/Viktorovich (ODU) - 7-2 at #3, 7-2 in duals, 7-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

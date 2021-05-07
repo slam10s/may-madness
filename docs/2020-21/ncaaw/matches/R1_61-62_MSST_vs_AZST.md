@@ -6,6 +6,18 @@ Friday, May 7 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">Mississippi St.</a></h2>  
+&nbsp; ITA: 38 (19.84)<br>  
+&nbsp; Slam: 42 (86.60)<br>  
+&nbsp; TRN: 39 (78.82)<br>  
+&nbsp; Massey: 44 (6.49)<br>  
+&nbsp; UTR: 36 (59.84)<br>  
+&nbsp; Coaches Poll: 38<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">Arizona St.</a></h2>  
 &#10004; ITA: 31 (26.09)<br>  
 &#10004; Slam: 31 (88.20)<br>  
@@ -17,17 +29,7 @@ Friday, May 7 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">Mississippi St.</a></h2>  
-&nbsp; ITA: 38 (19.84)<br>  
-&nbsp; Slam: 42 (86.60)<br>  
-&nbsp; TRN: 39 (78.82)<br>  
-&nbsp; Massey: 44 (6.49)<br>  
-&nbsp; UTR: 36 (59.84)<br>  
-&nbsp; Coaches Poll: 38<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Hattingh/John-Baptiste (AZST) - 7-9 at #1, 7-9 in duals, 7-9 overall<br>Adaloglou/Racine (MSST) - 5-5 at #1, 5-5 in duals, 5-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Hampton/Argyrokastriti (AZST) - 4-4 at #2, 13-4 in duals, 13-4 overall<br>Antonaki/Falceto (MSST) - 2-4 at #2, 3-5 in duals, 3-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Morlet/Kolarova (AZST) - 3-2 at #3, 8-2 in duals, 8-2 overall<br>Mikhailuk/Poling (MSST) - 0-0 at #3, 0-2 in duals, 3-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

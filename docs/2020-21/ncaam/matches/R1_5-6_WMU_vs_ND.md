@@ -6,17 +6,6 @@ Friday, May 7 at 2:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#2 <a href="#">Notre Dame</a></h2>  
-&#10004; ITA: 34 (25.22)<br>  
-&#10004; Slam: 40 (91.96)<br>  
-&#10004; TRN: 42 (89.57)<br>  
-&#10004; Massey: 36 (7.36)<br>  
-&#10004; UTR: 38 (76.38)<br>  
-&#10004; Coaches Poll: 37<br>  
-<br>  
-
-</td><td>  
-
 <h2>#3 <a href="#">Western Mich.</a></h2>  
 &nbsp; ITA: 41 (18.89)<br>  
 &nbsp; Slam: 47 (89.83)<br>  
@@ -27,7 +16,20 @@ Friday, May 7 at 2:00 EDT
 &nbsp; Coaches Poll: 48<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#2 <a href="#">Notre Dame</a></h2>  
+&#10004; ITA: 34 (25.22)<br>  
+&#10004; Slam: 40 (91.96)<br>  
+&#10004; TRN: 42 (89.57)<br>  
+&#10004; Massey: 36 (7.36)<br>  
+&#10004; UTR: 38 (76.38)<br>  
+&#10004; Coaches Poll: 37<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">McCormick/Nefve (ND) - 10-4 at #1, 10-4 in duals, 10-4 overall<br>Opitz/Kuszynski (WMU) - 0-0 at #1, 0-0 in duals, 0-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ancona/Howells (ND) - 4-2 at #2, 7-5 in duals, 7-5 overall<br>Randall/Lohse (WMU) - 6-0 at #2, 7-0 in duals, 7-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Che/Ciamarra (ND) - 5-0 at #3, 6-1 in duals, 6-1 overall<br>Faveri/Caballer (WMU) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

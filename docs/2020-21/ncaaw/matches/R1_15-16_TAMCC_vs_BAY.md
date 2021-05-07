@@ -6,6 +6,17 @@ Friday, May 7 at 6:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">A&M-Corpus Christi</a></h2>  
+&nbsp; ITA: 56 (3.61)<br>  
+&nbsp; Slam: 55 (78.55)<br>  
+&nbsp; TRN: 55 (67.73)<br>  
+&nbsp; Massey: 52 (5.45)<br>  
+&nbsp; UTR: 52 (54.53)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Baylor</a></h2>  
 &#10004; ITA: 8 (52.73)<br>  
 &#10004; Slam: 7 (92.44)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 6:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">A&M-Corpus Christi</a></h2>  
-&nbsp; ITA: 56 (3.61)<br>  
-&nbsp; Slam: 55 (78.55)<br>  
-&nbsp; TRN: 55 (67.73)<br>  
-&nbsp; Massey: 52 (5.45)<br>  
-&nbsp; UTR: 52 (54.53)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Shakhraichuk/Krywoj (BAY) - 9-1 at #1, 9-1 in duals, 9-1 overall<br>Shumeika/Townsend (TAMCC) - 19-5 at #1, 19-5 in duals, 19-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Hinojosa/Sorokolet (BAY) - 1-4 at #2, 2-6 in duals, 2-6 overall<br>E.Honore/E.Aucagne (TAMCC) - 16-4 at #2, 16-4 in duals, 16-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Herrero/Boch-Collins (BAY) - 5-0 at #3, 5-0 in duals, 5-0 overall<br>L.Boisseau/Delattre (TAMCC) - 15-4 at #3, 15-4 in duals, 15-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

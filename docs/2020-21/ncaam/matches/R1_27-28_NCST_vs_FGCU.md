@@ -6,16 +6,6 @@ Friday, May 7 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fgcu.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">FGCU</a></h2>  
-&nbsp; ITA: 47 (8.38)<br>  
-&nbsp; Slam: 49 (87.66)<br>  
-&nbsp; TRN: 50 (85.24)<br>  
-&nbsp; Massey: 53 (6.42)<br>  
-&nbsp; UTR: 52 (73.58)<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">NC State</a></h2>  
 &#10004; ITA: 23 (32.39)<br>  
 &#10004; Slam: 19 (94.44)<br>  
@@ -26,7 +16,19 @@ Friday, May 7 at 10:00 EDT
 &#10004; Coaches Poll: 28<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">FGCU</a></h2>  
+&nbsp; ITA: 47 (8.38)<br>  
+&nbsp; Slam: 49 (87.66)<br>  
+&nbsp; TRN: 50 (85.24)<br>  
+&nbsp; Massey: 53 (6.42)<br>  
+&nbsp; UTR: 52 (73.58)<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Johnson/Damm (FGCU) - 4-3 at #1, 7-4 in duals, 7-4 overall<br>Babelis/Barkai (NCST) - 4-3 at #1, 5-3 in duals, 6-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ramirez/Montes (FGCU) - 2-1 at #2, 2-1 in duals, 2-1 overall<br>Catry/Galarneau (NCST) - 2-1 at #2, 2-1 in duals, 2-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Wilson/Sakalauskas (FGCU) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Shick/Turzak (NCST) - 0-1 at #3, 0-1 in duals, 0-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,17 +6,6 @@ Saturday, May 8 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">LSU</a></h2>  
-&nbsp; ITA: 40 (19.17)<br>  
-&nbsp; Slam: 38 (92.17)<br>  
-&nbsp; TRN: 39 (90.14)<br>  
-&nbsp; Massey: 47 (6.78)<br>  
-&nbsp; UTR: 42 (75.44)<br>  
-&nbsp; Coaches Poll: 39<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">Stanford</a></h2>  
 &#10004; ITA: 21 (34.55)<br>  
 &#10004; Slam: 22 (94.00)<br>  
@@ -27,7 +16,20 @@ Saturday, May 8 at 10:00 EDT
 &#10004; Coaches Poll: 20<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">LSU</a></h2>  
+&nbsp; ITA: 40 (19.17)<br>  
+&nbsp; Slam: 38 (92.17)<br>  
+&nbsp; TRN: 39 (90.14)<br>  
+&nbsp; Massey: 47 (6.78)<br>  
+&nbsp; UTR: 42 (75.44)<br>  
+&nbsp; Coaches Poll: 39<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Wagner/Hohmann (LSU) - 10-9 at #1, 10-9 in duals, 18-11 overall<br>Geller/Kopczynski (STAN) - 2-0 at #1, 3-0 in duals, 3-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Thomas/Graca (LSU) - 6-10 at #2, 7-10 in duals, 7-10 overall<br>Boyer/Sah (STAN) - 3-2 at #2, 3-3 in duals, 3-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Watson/Kozlov (LSU) - 10-5 at #3, 11-5 in duals, 13-10 overall<br>Fery/Rotsaert (STAN) - 7-0 at #3, 9-1 in duals, 9-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

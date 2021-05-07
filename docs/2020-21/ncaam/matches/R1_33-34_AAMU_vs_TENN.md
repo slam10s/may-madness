@@ -6,6 +6,17 @@ Saturday, May 8 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Alabama A&M</a></h2>  
+&nbsp; ITA: 63 (1.60)<br>  
+&nbsp; Slam: 64 (76.01)<br>  
+&nbsp; TRN: 64 (72.43)<br>  
+&nbsp; Massey: 65 (3.71)<br>  
+&nbsp; UTR: 65 (63.25)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Tennessee</a></h2>  
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.18)<br>  
@@ -17,16 +28,7 @@ Saturday, May 8 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Alabama A&M</a></h2>  
-&nbsp; ITA: 63 (1.60)<br>  
-&nbsp; Slam: 64 (76.01)<br>  
-&nbsp; TRN: 64 (72.43)<br>  
-&nbsp; Massey: 65 (3.71)<br>  
-&nbsp; UTR: 65 (63.25)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Walton/Harper (TENN) - 15-6 at #1, 15-6 in duals, 22-7 overall<br>Setiawan/Rios (AAMU) - 3-7 at #1, 3-7 in duals, 3-7 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Monday/Prata (TENN) - 12-7 at #2, 16-7 in duals, 17-8 overall<br>Popovski/Chang (AAMU) - 0-0 at #2, 3-7 in duals, 3-7 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Wallner/Hussey (TENN) - 14-5 at #3, 15-5 in duals, 15-5 overall<br>Gahlot/Ruiz (AAMU) - 0-0 at #3, 1-1 in duals, 1-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

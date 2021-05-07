@@ -6,6 +6,18 @@ Friday, May 7 at 3:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">Alabama</a></h2>  
+&nbsp; ITA: 42 (16.54)<br>  
+&nbsp; Slam: 44 (86.23)<br>  
+&nbsp; TRN: 44 (78.28)<br>  
+&nbsp; Massey: 44 (6.49)<br>  
+&nbsp; UTR: 40 (59.05)<br>  
+&nbsp; Coaches Poll: 43<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">Duke</a></h2>  
 &#10004; ITA: 17 (43.03)<br>  
 &#10004; Slam: 14 (90.91)<br>  
@@ -17,17 +29,7 @@ Friday, May 7 at 3:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">Alabama</a></h2>  
-&nbsp; ITA: 42 (16.54)<br>  
-&nbsp; Slam: 44 (86.23)<br>  
-&nbsp; TRN: 44 (78.28)<br>  
-&nbsp; Massey: 44 (6.49)<br>  
-&nbsp; UTR: 40 (59.05)<br>  
-&nbsp; Coaches Poll: 43<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Chi/Bilokin (DUKE) - 8-4 at #1, 9-4 in duals, 11-4 overall<br>Hiser/Riley (BAMA) - 5-1 at #1, 14-3 in duals, 14-8 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Beck/Berankova (DUKE) - 11-2 at #2, 12-2 in duals, 15-3 overall<br>Pou/Parkhomenko (BAMA) - 0-0 at #2, 8-4 in duals, 9-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Chen/Drummy (DUKE) - 12-2 at #3, 13-2 in duals, 14-4 overall<br>Bencheikh/Orefice (BAMA) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

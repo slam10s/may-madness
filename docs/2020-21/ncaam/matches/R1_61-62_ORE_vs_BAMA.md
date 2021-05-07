@@ -6,17 +6,6 @@ Saturday, May 8 at 12:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#2 <a href="#">Alabama</a></h2>  
-&#10004; ITA: 26 (30.96)<br>  
-&#10004; Slam: 28 (93.06)<br>  
-&#10004; TRN: 27 (91.27)<br>  
-&nbsp; Massey: 38 (7.31)<br>  
-&#10004; UTR: 30 (77.06)<br>  
-&#10004; Coaches Poll: 25<br>  
-<br>  
-
-</td><td>  
-
 <h2>#3 <a href="#">Oregon</a></h2>  
 &nbsp; ITA: 36 (23.55)<br>  
 &nbsp; Slam: 44 (91.52)<br>  
@@ -27,7 +16,20 @@ Saturday, May 8 at 12:00 EDT
 &nbsp; Coaches Poll: 41<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#2 <a href="#">Alabama</a></h2>  
+&#10004; ITA: 26 (30.96)<br>  
+&#10004; Slam: 28 (93.06)<br>  
+&#10004; TRN: 27 (91.27)<br>  
+&nbsp; Massey: 38 (7.31)<br>  
+&#10004; UTR: 30 (77.06)<br>  
+&#10004; Coaches Poll: 25<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Kaukovalta/Roberto (BAMA) - 10-7 at #1, 11-9 in duals, 16-14 overall<br>Charlton/Vandecasteele (ORE) - 9-3 at #1, 9-3 in duals, 9-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Nesterov/Ortiz (BAMA) - 3-3 at #2, 7-7 in duals, 7-7 overall<br>Coste/Klov-Nilsson (ORE) - 4-5 at #2, 12-8 in duals, 12-8 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Garza/Zhou (BAMA) - 0-2 at #3, 0-2 in duals, 0-2 overall<br>Lam/Matsushita (ORE) - 4-3 at #3, 4-3 in duals, 4-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

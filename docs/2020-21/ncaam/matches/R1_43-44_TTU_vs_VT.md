@@ -6,17 +6,6 @@ Saturday, May 8 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">Virginia Tech</a></h2>  
-&nbsp; ITA: 29 (28.32)<br>  
-&#10004; Slam: 30 (93.02)<br>  
-&#10004; TRN: 29 (91.09)<br>  
-&nbsp; Massey: 33 (7.47)<br>  
-&#10004; UTR: 34 (76.77)<br>  
-&nbsp; Coaches Poll: 34<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">Texas Tech</a></h2>  
 &#10004; ITA: 25 (31.34)<br>  
 &nbsp; Slam: 35 (92.60)<br>  
@@ -27,7 +16,20 @@ Saturday, May 8 at 10:00 EDT
 &#10004; Coaches Poll: 27<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">Virginia Tech</a></h2>  
+&nbsp; ITA: 29 (28.32)<br>  
+&#10004; Slam: 30 (93.02)<br>  
+&#10004; TRN: 29 (91.09)<br>  
+&nbsp; Massey: 33 (7.47)<br>  
+&#10004; UTR: 34 (76.77)<br>  
+&nbsp; Coaches Poll: 34<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Chrysostom/Fishback (VT) - 6-4 at #1, 8-4 in duals, 8-4 overall<br>Wynn/Ribero (TTU) - 7-7 at #1, 7-7 in duals, 7-7 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Harper/Ribeiro (VT) - 3-4 at #2, 3-4 in duals, 3-4 overall<br>Arevalo/Collier (TTU) - 6-5 at #2, 6-5 in duals, 6-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Donato/Ariza (VT) - 1-1 at #3, 1-1 in duals, 1-1 overall<br>Valiev/Azoides (TTU) - 8-2 at #3, 11-3 in duals, 12-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

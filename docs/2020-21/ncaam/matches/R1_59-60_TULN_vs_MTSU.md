@@ -6,6 +6,18 @@ Saturday, May 8 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#2 <a href="#">Tulane</a></h2>  
+&#10004; ITA: 22 (33.07)<br>  
+&#10004; Slam: 26 (93.53)<br>  
+&#10004; TRN: 26 (91.45)<br>  
+&#10004; Massey: 26 (7.63)<br>  
+&#10004; UTR: 31 (76.99)<br>  
+&#10004; Coaches Poll: 24<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#3 <a href="#">Middle Tenn.</a></h2>  
 &nbsp; ITA: 42 (18.52)<br>  
 &nbsp; Slam: 45 (91.28)<br>  
@@ -16,17 +28,7 @@ Saturday, May 8 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#2 <a href="#">Tulane</a></h2>  
-&#10004; ITA: 22 (33.07)<br>  
-&#10004; Slam: 26 (93.53)<br>  
-&#10004; TRN: 26 (91.45)<br>  
-&#10004; Massey: 26 (7.63)<br>  
-&#10004; UTR: 31 (76.99)<br>  
-&#10004; Coaches Poll: 24<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Motl/Slump (MTSU) - 9-9 at #1, 9-9 in duals, 9-9 overall<br>Stewart/Moore (TULN) - 12-6 at #1, 12-6 in duals, 12-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Moonen/Edge (MTSU) - 15-6 at #2, 15-6 in duals, 15-6 overall<br>Kotorman/Suarez (TULN) - 12-6 at #2, 12-6 in duals, 12-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Rocha/Rauch (MTSU) - 9-9 at #3, 11-9 in duals, 11-9 overall<br>Erlenbusch/Kuenkler (TULN) - 10-4 at #3, 10-4 in duals, 10-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

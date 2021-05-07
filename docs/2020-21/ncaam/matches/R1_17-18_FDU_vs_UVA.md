@@ -6,6 +6,17 @@ Saturday, May 8 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Fairleigh Dickinson</a></h2>  
+&nbsp; ITA: 62 (1.95)<br>  
+&nbsp; Slam: 65 (72.33)<br>  
+&nbsp; TRN: 65 (65.17)<br>  
+&nbsp; Massey: 64 (3.98)<br>  
+&nbsp; UTR: 64 (65.74)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Virginia</a></h2>  
 &#10004; ITA: 4 (74.36)<br>  
 &#10004; Slam: 1 (100.00)<br>  
@@ -17,16 +28,7 @@ Saturday, May 8 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Fairleigh Dickinson</a></h2>  
-&nbsp; ITA: 62 (1.95)<br>  
-&nbsp; Slam: 65 (72.33)<br>  
-&nbsp; TRN: 65 (65.17)<br>  
-&nbsp; Massey: 64 (3.98)<br>  
-&nbsp; UTR: 64 (65.74)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Soderlund/Woodall (UVA) - 9-8 at #1, 9-8 in duals, 9-8 overall<br>Pukse/Gudins (FDU) - 2-2 at #1, 3-2 in duals, 3-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Goetz/Rodesch (UVA) - 10-5 at #2, 10-5 in duals, 10-5 overall<br>Budinszky/Sriram (FDU) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">von der Schulenburg/de la Torre (UVA) - 12-3 at #3, 15-4 in duals, 15-4 overall<br>Pietsch/Cabral (FDU) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

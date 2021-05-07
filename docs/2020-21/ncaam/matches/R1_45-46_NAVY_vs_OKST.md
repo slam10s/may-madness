@@ -6,6 +6,17 @@ Saturday, May 8 at 10:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#3 <a href="#">Navy</a></h2>  
+&nbsp; ITA: 48 (8.28)<br>  
+&nbsp; Slam: 54 (86.71)<br>  
+&nbsp; TRN: 48 (87.45)<br>  
+&nbsp; Massey: 56 (5.80)<br>  
+&nbsp; UTR: 58 (70.91)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#2 <a href="#">Oklahoma St.</a></h2>  
 &#10004; ITA: 19 (35.31)<br>  
 &#10004; Slam: 24 (93.68)<br>  
@@ -17,16 +28,7 @@ Saturday, May 8 at 10:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#3 <a href="#">Navy</a></h2>  
-&nbsp; ITA: 48 (8.28)<br>  
-&nbsp; Slam: 54 (86.71)<br>  
-&nbsp; TRN: 48 (87.45)<br>  
-&nbsp; Massey: 56 (5.80)<br>  
-&nbsp; UTR: 58 (70.91)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Hudd/Vocel (OKST) - 6-4 at #1, 6-4 in duals, 6-4 overall<br>Thompson/Ton (NAVY) - 0-0 at #1, 0-0 in duals, 0-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Korsgaard/Hammond (OKST) - 0-0 at #2, 0-0 in duals, 0-0 overall<br>Garner/Dabek (NAVY) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Donnet/Bobichon (OKST) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Segraves/Panyan (NAVY) - 0-0 at #3, 0-0 in duals, 0-0 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

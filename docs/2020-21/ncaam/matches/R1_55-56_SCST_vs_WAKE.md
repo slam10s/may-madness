@@ -6,6 +6,17 @@ Friday, May 7 at 5:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">South Carolina St.</a></h2>  
+&nbsp; ITA: 65 (0.72)<br>  
+&nbsp; Slam: 63 (81.19)<br>  
+&nbsp; TRN: 63 (76.54)<br>  
+&nbsp; Massey: 63 (4.87)<br>  
+&nbsp; UTR: 63 (66.99)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Wake Forest</a></h2>  
 &#10004; ITA: 9 (56.82)<br>  
 &#10004; Slam: 10 (97.17)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 5:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">South Carolina St.</a></h2>  
-&nbsp; ITA: 65 (0.72)<br>  
-&nbsp; Slam: 63 (81.19)<br>  
-&nbsp; TRN: 63 (76.54)<br>  
-&nbsp; Massey: 63 (4.87)<br>  
-&nbsp; UTR: 63 (66.99)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Nava/Squire (WAKE) - 13-5 at #1, 13-5 in duals, 13-5 overall<br>Rodriguez/Marouani (SCST) - 6-6 at #1, 6-6 in duals, 6-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Thomson/Banthia (WAKE) - 7-4 at #2, 17-6 in duals, 17-6 overall<br>Daskalovic/Momo (SCST) - 4-4 at #2, 4-4 in duals, 4-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Efstathiou/Baadi (WAKE) - 8-4 at #3, 12-5 in duals, 12-5 overall<br>Arzaluz/Ben Ali (SCST) - 3-3 at #3, 3-3 in duals, 3-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

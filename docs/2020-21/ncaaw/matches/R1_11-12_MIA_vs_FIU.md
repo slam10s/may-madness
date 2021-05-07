@@ -6,6 +6,19 @@ Friday, May 7 at 12:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fiu.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#2 <a href="#">Miami (FL)</a></h2>  
+&#10004; ITA: 24 (38.72)<br>  
+&#10004; Slam: 22 (90.21)<br>  
+&#10004; TRN: 21 (82.31)<br>  
+&#10004; Massey: 17 (7.84)<br>  
+&#10004; UTR: 19 (61.89)<br>  
+&#10004; USTA Poll: 21<br>  
+&#10004; Coaches Poll: 21<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#3 <a href="#">FIU</a></h2>  
 &nbsp; ITA: 41 (18.12)<br>  
 &nbsp; Slam: 30 (88.35)<br>  
@@ -17,18 +30,7 @@ Friday, May 7 at 12:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#2 <a href="#">Miami (FL)</a></h2>  
-&#10004; ITA: 24 (38.72)<br>  
-&#10004; Slam: 22 (90.21)<br>  
-&#10004; TRN: 21 (82.31)<br>  
-&#10004; Massey: 17 (7.84)<br>  
-&#10004; UTR: 19 (61.89)<br>  
-&#10004; USTA Poll: 21<br>  
-&#10004; Coaches Poll: 21<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -111,11 +113,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Umarova/Skrobonja (FIU) - 5-0 at #1, 5-0 in duals, 5-0 overall<br>Perez-Somarriba/Pfennig (MIA) - 7-6 at #1, 9-6 in duals, 9-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Alcaide/Velcea (FIU) - 2-2 at #2, 2-2 in duals, 2-2 overall<br>Khodan/Tahan (MIA) - 10-7 at #2, 10-7 in duals, 10-7 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Akbas/Miletic (FIU) - 5-1 at #3, 5-1 in duals, 5-1 overall<br>Achong/Urrutia (MIA) - 8-5 at #3, 8-5 in duals, 8-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,17 +6,6 @@ Friday, May 7 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
-<h2>#3 <a href="#">Oklahoma St.</a></h2>  
-&nbsp; ITA: 37 (20.71)<br>  
-&nbsp; Slam: 37 (87.45)<br>  
-&nbsp; TRN: 37 (79.03)<br>  
-&nbsp; Massey: 36 (7.02)<br>  
-&#10004; UTR: 17 (61.98)<br>  
-&nbsp; Coaches Poll: 37<br>  
-<br>  
-
-</td><td>  
-
 <h2>#2 <a href="#">Auburn</a></h2>  
 &#10004; ITA: 20 (41.17)<br>  
 &#10004; Slam: 24 (89.44)<br>  
@@ -27,7 +16,20 @@ Friday, May 7 at 1:00 EDT
 &#10004; Coaches Poll: 22<br>  
 <br>  
 
-</td></tr></table>  
+</td><td>  
+<tr><td>  
+
+<h2>#3 <a href="#">Oklahoma St.</a></h2>  
+&nbsp; ITA: 37 (20.71)<br>  
+&nbsp; Slam: 37 (87.45)<br>  
+&nbsp; TRN: 37 (79.03)<br>  
+&nbsp; Massey: 36 (7.02)<br>  
+&#10004; UTR: 17 (61.98)<br>  
+&nbsp; Coaches Poll: 37<br>  
+<br>  
+
+</td><td>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Wolfberg/Stara (OKST) - 3-2 at #1, 7-6 in duals, 7-6 overall<br>Axon/Flach (AUB) - 2-4 at #1, 10-8 in duals, 14-10 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Miyamoto/Detkovskaya (OKST) - 2-0 at #2, 2-0 in duals, 2-0 overall<br>Ovunc/Ansari (AUB) - 3-4 at #2, 3-4 in duals, 4-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Thamchaiwat/Medvedeva (OKST) - 3-1 at #3, 3-1 in duals, 3-1 overall<br>Chen/Astakhova (AUB) - 4-3 at #3, 4-3 in duals, 4-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

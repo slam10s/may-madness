@@ -6,6 +6,17 @@ Saturday, May 8 at 3:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">A&M-Corpus Christi</a></h2>  
+&nbsp; ITA: 60 (2.97)<br>  
+&nbsp; Slam: 60 (82.18)<br>  
+&nbsp; TRN: 61 (76.91)<br>  
+&nbsp; Massey: 58 (5.69)<br>  
+&nbsp; UTR: 54 (71.52)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Baylor</a></h2>  
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 5 (99.05)<br>  
@@ -17,16 +28,7 @@ Saturday, May 8 at 3:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">A&M-Corpus Christi</a></h2>  
-&nbsp; ITA: 60 (2.97)<br>  
-&nbsp; Slam: 60 (82.18)<br>  
-&nbsp; TRN: 61 (76.91)<br>  
-&nbsp; Massey: 58 (5.69)<br>  
-&nbsp; UTR: 54 (71.52)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Lah/Frantzen (BAY) - 11-7 at #1, 11-7 in duals, 11-7 overall<br>K.Yamanaka/Ata (TAMCC) - 8-6 at #1, 11-6 in duals, 12-9 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Stachowiak/Soto (BAY) - 7-1 at #2, 7-1 in duals, 10-1 overall<br>Schwartz/Lorieul (TAMCC) - 2-2 at #2, 4-2 in duals, 15-8 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Broom/Bass (BAY) - 5-3 at #3, 5-3 in duals, 5-3 overall<br>B.Delgado/Ruiz (TAMCC) - 5-0 at #3, 5-0 in duals, 18-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

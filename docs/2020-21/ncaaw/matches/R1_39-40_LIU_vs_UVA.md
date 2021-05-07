@@ -6,6 +6,17 @@ Friday, May 7 at 3:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">LIU</a></h2>  
+&nbsp; ITA: 52 (4.20)<br>  
+&nbsp; Slam: 61 (70.79)<br>  
+&nbsp; TRN: 63 (55.66)<br>  
+&nbsp; Massey: 61 (4.25)<br>  
+&nbsp; UTR: 60 (49.85)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Virginia</a></h2>  
 &#10004; ITA: 14 (47.67)<br>  
 &#10004; Slam: 9 (91.88)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 3:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">LIU</a></h2>  
-&nbsp; ITA: 52 (4.20)<br>  
-&nbsp; Slam: 61 (70.79)<br>  
-&nbsp; TRN: 63 (55.66)<br>  
-&nbsp; Massey: 61 (4.25)<br>  
-&nbsp; UTR: 60 (49.85)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -109,11 +111,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Navarro/Johanson (UVA) - 7-6 at #1, 9-8 in duals, 9-8 overall<br>Dancenco/Kuzina (LIU) - 6-3 at #1, 6-3 in duals, 6-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Munera/Subhash (UVA) - 6-5 at #2, 8-5 in duals, 10-7 overall<br>Erechtchenko/Maduel (LIU) - 0-0 at #2, 7-2 in duals, 7-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Glozman/Shaikh (UVA) - 1-1 at #3, 1-1 in duals, 1-2 overall<br>Storkaas/Compuesto (LIU) - 0-0 at #3, 5-3 in duals, 5-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

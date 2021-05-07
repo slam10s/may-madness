@@ -6,6 +6,17 @@ Friday, May 7 at 2:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/ill-chicago.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">UIC</a></h2>  
+&nbsp; ITA: 59 (2.42)<br>  
+&nbsp; Slam: 57 (76.42)<br>  
+&nbsp; TRN: 59 (65.14)<br>  
+&nbsp; Massey: 58 (4.62)<br>  
+&nbsp; UTR: 58 (51.39)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Ohio St.</a></h2>  
 &#10004; ITA: 18 (43.02)<br>  
 &#10004; Slam: 5 (92.95)<br>  
@@ -17,16 +28,7 @@ Friday, May 7 at 2:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">UIC</a></h2>  
-&nbsp; ITA: 59 (2.42)<br>  
-&nbsp; Slam: 57 (76.42)<br>  
-&nbsp; TRN: 59 (65.14)<br>  
-&nbsp; Massey: 58 (4.62)<br>  
-&nbsp; UTR: 58 (51.39)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Boulais/Allen (OSU) - 14-2 at #1, 14-2 in duals, 14-2 overall<br>Malazonia/Gustafsson (UIC) - 6-3 at #1, 6-3 in duals, 6-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Marzal/Hofbauer (OSU) - 10-2 at #2, 11-2 in duals, 11-2 overall<br>Prochazkova/Jover (UIC) - 9-0 at #2, 10-1 in duals, 10-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Dormet/Siemers (OSU) - 10-0 at #3, 11-0 in duals, 11-0 overall<br>Arendt/Hermanny (UIC) - 0-0 at #3, 2-2 in duals, 2-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,6 +6,17 @@ Saturday, May 8 at 4:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">Belmont</a></h2>  
+&nbsp; ITA: 56 (4.48)<br>  
+&nbsp; Slam: 57 (83.10)<br>  
+&nbsp; TRN: 58 (79.14)<br>  
+&nbsp; Massey: 57 (5.77)<br>  
+&nbsp; UTR: 57 (70.99)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Ole Miss</a></h2>  
 &#10004; ITA: 14 (44.94)<br>  
 &#10004; Slam: 18 (95.00)<br>  
@@ -17,16 +28,7 @@ Saturday, May 8 at 4:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">Belmont</a></h2>  
-&nbsp; ITA: 56 (4.48)<br>  
-&nbsp; Slam: 57 (83.10)<br>  
-&nbsp; TRN: 58 (79.14)<br>  
-&nbsp; Massey: 57 (5.77)<br>  
-&nbsp; UTR: 57 (70.99)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Sandkaulen/Reynolds (MISS) - 14-2 at #1, 14-2 in duals, 14-2 overall<br>Ilic/Miyamoto (BEL) - 11-6 at #1, 11-6 in duals, 11-6 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Draheim/Junk (MISS) - 8-7 at #2, 11-9 in duals, 11-9 overall<br>Castro/Luis (BEL) - 11-2 at #2, 11-2 in duals, 11-2 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Cadonau/Engelhardt (MISS) - 0-0 at #3, 0-0 in duals, 0-0 overall<br>Briggs/Toledo (BEL) - 8-3 at #3, 8-3 in duals, 8-3 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>

@@ -6,6 +6,17 @@ Saturday, May 8 at 1:00 EDT
 <tr style="background-color: #d9d9d9 !important"><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" /></a></td><td><a href="#"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png" width="70" height="70" /></a></td></tr>
 <tr><td>  
 
+<h2>#4 <a href="#">ETSU</a></h2>  
+&nbsp; ITA: 49 (7.97)<br>  
+&nbsp; Slam: 52 (87.30)<br>  
+&nbsp; TRN: 53 (84.02)<br>  
+&nbsp; Massey: 51 (6.56)<br>  
+&nbsp; UTR: 50 (73.91)<br>  
+<br>  
+
+</td><td>  
+<tr><td>  
+
 <h2>#1 <a href="#">Georgia</a></h2>  
 &#10004; ITA: 11 (54.81)<br>  
 &#10004; Slam: 16 (96.08)<br>  
@@ -17,16 +28,7 @@ Saturday, May 8 at 1:00 EDT
 <br>  
 
 </td><td>  
-
-<h2>#4 <a href="#">ETSU</a></h2>  
-&nbsp; ITA: 49 (7.97)<br>  
-&nbsp; Slam: 52 (87.30)<br>  
-&nbsp; TRN: 53 (84.02)<br>  
-&nbsp; Massey: 51 (6.56)<br>  
-&nbsp; UTR: 50 (73.91)<br>  
-<br>  
-
-</td></tr></table>  
+</table>  
 
 
 <br>Return to [List of Matches](../index.md)  
@@ -110,11 +112,11 @@ Click on a Singles match to show individual predections for each line.
 <ol>
 <li><details>
 <summary markdown="span">Bryde/Zink (UGA) - 8-4 at #1, 8-4 in duals, 13-6 overall<br>Lugo/Rengifo (ETSU) - 8-5 at #1, 8-5 in duals, 8-5 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Croyder/Rowe (UGA) - 7-5 at #2, 8-5 in duals, 10-5 overall<br>Este/Badra (ETSU) - 4-0 at #2, 12-1 in duals, 12-1 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Henning/Grevelius (UGA) - 9-5 at #3, 10-5 in duals, 10-7 overall<br>Zabala/Pernas (ETSU) - 4-2 at #3, 8-4 in duals, 8-4 overall</summary>
-We don't have any metrics for doubles matches</details>&nbsp;</li>
+<br>Sorry, we don't have any metrics for doubles matches</details>&nbsp;</li>
 </ol>
