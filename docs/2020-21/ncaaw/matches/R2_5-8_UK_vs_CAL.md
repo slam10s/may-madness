@@ -1,4 +1,4 @@
-Second Round  
+[Second Round](top)  
 [Saturday, May 8](../../schedule/05-08.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 Hellman Tennis Complex  
@@ -9,7 +9,7 @@ Berkeley, California
 <td>  
 
 <h2>#2 Kentucky</h2>  
-&nbsp; Record: 16-8<br>  
+&nbsp; Record: 16-9<br>  
 &nbsp; ITA: 26 (37.41)<br>  
 &nbsp; Slam: 25 (89.36)<br>  
 &nbsp; TRN: 27 (81.49)<br>  
@@ -23,7 +23,7 @@ Berkeley, California
 <td>  
 
 <h2>#1 California</h2>  
-&nbsp; Record: 18-6<br>  
+&nbsp; Record: 19-6<br>  
 &#10004; ITA: 16 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
 &#10004; TRN: 17 (82.99)<br>  
@@ -37,9 +37,10 @@ Berkeley, California
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+<br>Return to the [Top](top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***California def. Kentucky 4-2***  
 Go to [Live Stats](https://calbears.com/sports/2013/4/17/208195810.aspx)  
 
 ## Predictions  

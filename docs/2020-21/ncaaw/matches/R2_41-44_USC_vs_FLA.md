@@ -1,4 +1,4 @@
-Second Round  
+[Second Round](top)  
 [Saturday, May 8](../../schedule/05-08.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 Alfred A. Ring Tennis Complex  
@@ -9,7 +9,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#3 Southern California</h2>  
-&nbsp; Record: 12-10<br>  
+&nbsp; Record: 13-10<br>  
 &nbsp; ITA: 35 (23.17)<br>  
 &nbsp; Slam: 35 (87.72)<br>  
 &nbsp; TRN: 41 (78.74)<br>  
@@ -22,7 +22,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#1 Florida</h2>  
-&nbsp; Record: 13-7<br>  
+&nbsp; Record: 13-8<br>  
 &#10004; ITA: 11 (49.18)<br>  
 &#10004; Slam: 16 (90.47)<br>  
 &#10004; TRN: 20 (82.70)<br>  
@@ -36,9 +36,10 @@ Gainesville, Florida
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+<br>Return to the [Top](top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***USC def. Florida 4-1***  
 Go to [Live Stats](https://sidearmstats.com/florida/wten/)  
 
 ## Predictions  

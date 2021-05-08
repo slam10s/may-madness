@@ -6,8 +6,13 @@ Return to the [Home Page](../../index.md)
 
 ### Intriguing Matches
 
+The various metrics disagree on the outcome of these matches:
+
+- Sun, 5/16 at 10:00 EDT	[Southern California vs #6 NC State](./matches/R3_31-36_USC_vs_NCST.md) ... NCST (86%) / USC (14%)
+
 The metrics agree on the winner, but not by a lot:
 
+- Sun, 5/16 at  7:00 EDT	[#1 North Carolina vs #16 California](./matches/R3_1-6_UNC_vs_CAL.md) ... UNC (99%) / CAL (1%)
 - Sun, 5/16 at 10:00 EDT	[#3 Georgia vs #14 Virginia](./matches/R3_25-30_UGA_vs_UVA.md) ... UGA (94%) / UVA (6%)
 - Sun, 5/16 at  1:00 EDT	[#7 Florida St. vs #10 Texas A&M](./matches/R3_37-42_FSU_vs_AM.md) ... FSU (70%) / A&M (30%)
 
@@ -28,11 +33,11 @@ The various metrics disagree on the outcome of these matches:
 - Sat, 5/08 at  6:00 EDT	[Duke vs #8 Baylor](./matches/R2_13-16_DUKE_vs_BAY.md) ... BAY (56%) / DUKE (44%)
 - Sat, 5/08 at  2:00 EDT	[Michigan vs #12 LSU](./matches/R2_21-24_MICH_vs_LSU.md) ... LSU (3) / <b><i>MICH (4)</i></b>
 - Sat, 5/08 at  4:00 EDT	[Tennessee vs #14 Virginia](./matches/R2_37-40_TENN_vs_UVA.md) ... <b>UVA (4)</b> / TENN (0)
-- Sat, 5/08 at  4:00 EDT	[Southern California vs #11 Florida](./matches/R2_41-44_USC_vs_FLA.md) ... FLA (79%) / USC (21%)
+- Sat, 5/08 at  4:00 EDT	[Southern California vs #11 Florida](./matches/R2_41-44_USC_vs_FLA.md) ... FLA (1) / <b><i>USC (4)</i></b>
 
 The metrics agree on the winner, but not by a lot:
 
-- Sat, 5/08 at  4:00 EDT	[Kentucky vs #16 California](./matches/R2_5-8_UK_vs_CAL.md) ... CAL (79%) / UK (21%)
+- Sat, 5/08 at  4:00 EDT	[Kentucky vs #16 California](./matches/R2_5-8_UK_vs_CAL.md) ... <b>CAL (4)</b> / UK (2)
 
 ### Heavy Favorites
 
@@ -95,4 +100,4 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Fri, 5/07 at  6:00 EDT	[A&M-Corpus Christi vs #8 Baylor](./matches/R1_15-16_TAMCC_vs_BAY.md) ... <b>BAY (4)</b> / TAMCC (0)
   
 ------
-Return to the [Home Page](../../index.md)
+Return to the [Top](ncaas-tournament-predictions) &#124; [Home Page](../../index.md)
