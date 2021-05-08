@@ -149,10 +149,10 @@ Click on a Singles match to show individual predections for each line.
   
 Based on the composite metrics for each individual match:  
 - LSU should win 4 or more singles matches _99%_ of the time.  
-- Boston U. should win 4 or more singles matches _NaN%_ of the time.  
-- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
-- If LSU wins the doubles point, their chances of winning the dual improve to _NaN%_.  
-- If Boston U. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- Boston U. should win 4 or more singles matches _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- If LSU wins the doubles point, their chances of winning the dual improve to _99%_.  
+- If Boston U. wins the doubles point, their chances of winning the dual improve to _1%_.  
   
 ------
 

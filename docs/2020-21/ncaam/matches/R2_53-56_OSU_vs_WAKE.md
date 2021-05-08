@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Wake Forest should win 4 or more singles matches _99%_ of the time.  
-- Ohio St. should win 4 or more singles matches _NaN%_ of the time.  
-- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
-- If Wake Forest wins the doubles point, their chances of winning the dual improve to _NaN%_.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- Wake Forest should win 4 or more singles matches _18%_ of the time.  
+- Ohio St. should win 4 or more singles matches _52%_ of the time.  
+- The winner of the doubles point will decide the match the other _30%_ of the time.  
+- If Wake Forest wins the doubles point, their chances of winning the dual improve to _48%_.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to _82%_.  
   
 ------
 

@@ -149,10 +149,10 @@ Click on a Singles match to show individual predections for each line.
   
 Based on the composite metrics for each individual match:  
 - Texas A&M should win 4 or more singles matches _99%_ of the time.  
-- New Mexico should win 4 or more singles matches _NaN%_ of the time.  
-- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
-- If Texas A&M wins the doubles point, their chances of winning the dual improve to _NaN%_.  
-- If New Mexico wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- New Mexico should win 4 or more singles matches _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- If Texas A&M wins the doubles point, their chances of winning the dual improve to _99%_.  
+- If New Mexico wins the doubles point, their chances of winning the dual improve to _1%_.  
   
 ------
 

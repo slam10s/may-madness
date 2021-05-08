@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ole Miss should win 4 or more singles matches _99%_ of the time.  
-- North Florida should win 4 or more singles matches _NaN%_ of the time.  
-- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
-- If Ole Miss wins the doubles point, their chances of winning the dual improve to _NaN%_.  
-- If North Florida wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- Ole Miss should win 4 or more singles matches _94%_ of the time.  
+- North Florida should win 4 or more singles matches _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _5%_ of the time.  
+- If Ole Miss wins the doubles point, their chances of winning the dual improve to _99%_.  
+- If North Florida wins the doubles point, their chances of winning the dual improve to _6%_.  
   
 ------
 

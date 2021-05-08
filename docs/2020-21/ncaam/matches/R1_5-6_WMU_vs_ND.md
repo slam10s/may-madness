@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Notre Dame should win 4 or more singles matches _99%_ of the time.  
-- Western Mich. should win 4 or more singles matches _NaN%_ of the time.  
-- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
-- If Notre Dame wins the doubles point, their chances of winning the dual improve to _NaN%_.  
-- If Western Mich. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- Notre Dame should win 4 or more singles matches _78%_ of the time.  
+- Western Mich. should win 4 or more singles matches _4%_ of the time.  
+- The winner of the doubles point will decide the match the other _18%_ of the time.  
+- If Notre Dame wins the doubles point, their chances of winning the dual improve to _96%_.  
+- If Western Mich. wins the doubles point, their chances of winning the dual improve to _22%_.  
   
 ------
 

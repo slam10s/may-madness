@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Arizona St. should win 4 or more singles matches _99%_ of the time.  
-- Mississippi St. should win 4 or more singles matches _NaN%_ of the time.  
-- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
-- If Arizona St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
-- If Mississippi St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- Arizona St. should win 4 or more singles matches _61%_ of the time.  
+- Mississippi St. should win 4 or more singles matches _13%_ of the time.  
+- The winner of the doubles point will decide the match the other _26%_ of the time.  
+- If Arizona St. wins the doubles point, their chances of winning the dual improve to _87%_.  
+- If Mississippi St. wins the doubles point, their chances of winning the dual improve to _39%_.  
   
 ------
 

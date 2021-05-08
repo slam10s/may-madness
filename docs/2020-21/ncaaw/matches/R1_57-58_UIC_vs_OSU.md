@@ -149,10 +149,10 @@ Click on a Singles match to show individual predections for each line.
   
 Based on the composite metrics for each individual match:  
 - Ohio St. should win 4 or more singles matches _99%_ of the time.  
-- UIC should win 4 or more singles matches _NaN%_ of the time.  
-- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
-- If UIC wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- UIC should win 4 or more singles matches _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to _99%_.  
+- If UIC wins the doubles point, their chances of winning the dual improve to _1%_.  
   
 ------
 

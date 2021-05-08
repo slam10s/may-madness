@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ohio St. should win 4 or more singles matches _99%_ of the time.  
-- Vanderbilt should win 4 or more singles matches _NaN%_ of the time.  
-- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
-- If Vanderbilt wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- Ohio St. should win 4 or more singles matches _59%_ of the time.  
+- Vanderbilt should win 4 or more singles matches _14%_ of the time.  
+- The winner of the doubles point will decide the match the other _27%_ of the time.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to _86%_.  
+- If Vanderbilt wins the doubles point, their chances of winning the dual improve to _41%_.  
   
 ------
 

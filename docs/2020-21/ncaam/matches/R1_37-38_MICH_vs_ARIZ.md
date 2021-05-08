@@ -151,11 +151,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Arizona should win 4 or more singles matches _99%_ of the time.  
-- Michigan should win 4 or more singles matches _NaN%_ of the time.  
-- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
-- If Arizona wins the doubles point, their chances of winning the dual improve to _NaN%_.  
-- If Michigan wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- Arizona should win 4 or more singles matches _20%_ of the time.  
+- Michigan should win 4 or more singles matches _48%_ of the time.  
+- The winner of the doubles point will decide the match the other _32%_ of the time.  
+- If Arizona wins the doubles point, their chances of winning the dual improve to _52%_.  
+- If Michigan wins the doubles point, their chances of winning the dual improve to _80%_.  
   
 ------
 
