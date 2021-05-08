@@ -9,11 +9,12 @@ Return to the [Home Page](../../index.md)
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at  5:00 EDT	[Ohio St. vs #10 Wake Forest](./matches/R2_53-56_OSU_vs_WAKE.md) ... WAKE (37%) / <i>OSU (63%)</i>
+- Sun, 5/09 at 12:00 EDT	[Mississippi St. vs #9 UCF](./matches/R2_9-12_MSST_vs_UCF.md) ... UCF (85%) / MSST (15%)
 - Sun, 5/09 at 12:00 EDT	[Stanford vs #5 Virginia](./matches/R2_17-20_STAN_vs_UVA.md) ... UVA (92%) / STAN (8%)
 
 The metrics agree on the winner, but not by a lot:
 
-- Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (70%) / ARIZ (30%)
+- Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (2) / <b><i>ARIZ (4)</i></b>
 - Sat, 5/08 at  1:00 EDT	[NC State vs #13 South Carolina](./matches/R2_25-28_NCST_vs_SCAR.md) ... <b>SCAR (4)</b> / NCST (0)
 
 ### Heavy Favorites
@@ -24,7 +25,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sun, 5/09 at  1:00 EDT	[Northwestern vs #4 Texas](./matches/R2_29-32_NW_vs_TEX.md) ... TEX (91%) / NW (9%)
 - Sat, 5/08 at  4:00 EDT	[Pepperdine vs #12 Southern California](./matches/R2_21-24_PEPP_vs_USC.md) ... USC (92%) / PEPP (8%)
 - Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... A&M (94%) / OKLA (6%)
-- Sat, 5/08 at  2:00 EDT	[Notre Dame vs #16 Illinois](./matches/R2_5-8_ND_vs_ILL.md) ... ILL (96%) / ND (4%)
+- Sat, 5/08 at  2:00 EDT	[Notre Dame vs #16 Illinois](./matches/R2_5-8_ND_vs_ILL.md) ... <b>ILL (4)</b> / ND (0)
 - Sun, 5/09 at  1:00 EDT	[Oklahoma St. vs #6 North Carolina](./matches/R2_45-48_OKST_vs_UNC.md) ... UNC (97%) / OKST (3%)
 - Sun, 5/09 at  1:00 EDT	[Memphis vs #3 Tennessee](./matches/R2_33-36_MEM_vs_TENN.md) ... TENN (99%) / MEM (1%)
 - Sun, 5/09 at  2:00 EDT	[South Fla. vs #1 Florida](./matches/R2_1-4_USF_vs_FLA.md) ... FLA (99%) / USF (1%)
@@ -60,7 +61,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at 10:00 EDT	[Navy vs Oklahoma St.](./matches/R1_45-46_NAVY_vs_OKST.md) ... <b>OKST (4)</b> / NAVY (0)
 - Fri, 5/07 at  1:00 EDT	[UNCW vs #13 South Carolina](./matches/R1_25-26_UNCW_vs_SCAR.md) ... <b>SCAR (4)</b> / UNCW (0)
 - Sat, 5/08 at  3:00 EDT	[Arkansas vs #7 TCU](./matches/R1_49-50_ARK_vs_TCU.md) ... TCU (98%) / ARK (2%)
-- Sat, 5/08 at  2:00 EDT	[Monmouth vs #9 UCF](./matches/R1_9-10_MONM_vs_UCF.md) ... UCF (99%) / MONM (1%)
+- Sat, 5/08 at  2:00 EDT	[Monmouth vs #9 UCF](./matches/R1_9-10_MONM_vs_UCF.md) ... <b>UCF (4)</b> / MONM (0)
 - Fri, 5/07 at  1:00 EDT	[Cleveland St. vs #14 Kentucky](./matches/R1_39-40_CLEV_vs_UK.md) ... <b>UK (4)</b> / CLEV (1)
 - Fri, 5/07 at  3:00 EDT	[New Mexico vs #8 Texas A&M](./matches/R1_15-16_UNM_vs_AM.md) ... <b>A&M (4)</b> / UNM (1)
 - Fri, 5/07 at  4:00 EDT	[Grand Canyon vs #12 Southern California](./matches/R1_23-24_GCU_vs_USC.md) ... <b>USC (4)</b> / GCU (0)

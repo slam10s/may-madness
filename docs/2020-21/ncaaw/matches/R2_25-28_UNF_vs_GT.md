@@ -9,7 +9,7 @@ Atlanta, Georgia
 <td>  
 
 <h2>#3 North Florida</h2>  
-&nbsp; Record: 18-7<br>  
+&nbsp; Record: 18-8<br>  
 &nbsp; ITA: 48 (8.00)<br>  
 &nbsp; Slam: 46 (84.69)<br>  
 &nbsp; TRN: 46 (75.83)<br>  
@@ -21,7 +21,7 @@ Atlanta, Georgia
 <td>  
 
 <h2>#1 Georgia Tech</h2>  
-&nbsp; Record: 19-10<br>  
+&nbsp; Record: 20-10<br>  
 &#10004; ITA: 13 (48.32)<br>  
 &#10004; Slam: 20 (90.34)<br>  
 &#10004; TRN: 16 (83.31)<br>  
@@ -38,6 +38,7 @@ Atlanta, Georgia
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Georgia Tech def. North Florida 4-0***  
 Go to [Live Stats](https://ramblinwreck.com/wten-live-21/)  
 
 ## Predictions  

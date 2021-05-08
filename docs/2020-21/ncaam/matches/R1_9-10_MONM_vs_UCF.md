@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#4 Monmouth</h2>  
-&nbsp; Record: 14-2<br>  
+&nbsp; Record: 14-3<br>  
 &nbsp; ITA: 58 (4.41)<br>  
 &nbsp; Slam: 61 (82.18)<br>  
 &nbsp; TRN: 57 (79.79)<br>  
@@ -21,7 +21,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 UCF</h2>  
-&nbsp; Record: 21-3<br>  
+&nbsp; Record: 22-3<br>  
 &#10004; ITA: 10 (54.95)<br>  
 &#10004; Slam: 12 (96.59)<br>  
 &#10004; TRN: 13 (95.63)<br>  
@@ -38,6 +38,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Central Florida def. Monmouth (NJ) 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76)  
 
 ## Predictions  

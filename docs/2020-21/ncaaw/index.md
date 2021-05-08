@@ -27,7 +27,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  4:00 EDT	[Stanford vs #5 Pepperdine](./matches/R2_17-20_STAN_vs_PEPP.md) ... PEPP (86%) / STAN (14%)
 - Sat, 5/08 at 12:00 EDT	[Vanderbilt vs #15 Ohio St.](./matches/R2_57-60_VANDY_vs_OSU.md) ... <b>OSU (4)</b> / VANDY (3)
 - Sat, 5/08 at  3:00 EDT	[Texas Tech vs #4 UCLA](./matches/R2_29-32_TTU_vs_UCLA.md) ... UCLA (96%) / TTU (4%)
-- Sat, 5/08 at  2:00 EDT	[North Florida vs #13 Georgia Tech](./matches/R2_25-28_UNF_vs_GT.md) ... GT (97%) / UNF (3%)
+- Sat, 5/08 at  2:00 EDT	[North Florida vs #13 Georgia Tech](./matches/R2_25-28_UNF_vs_GT.md) ... <b>GT (4)</b> / UNF (0)
 - Sat, 5/08 at  2:00 EDT	[Iowa St. vs #6 NC State](./matches/R2_45-48_ISU_vs_NCST.md) ... NCST (97%) / ISU (3%)
 - Sat, 5/08 at  4:00 EDT	[Old Dominion vs #1 North Carolina](./matches/R2_1-4_ODU_vs_UNC.md) ... UNC (99%) / ODU (1%)
 - Sat, 5/08 at  4:00 EDT	[Wake Forest vs #3 Georgia](./matches/R2_33-36_WAKE_vs_UGA.md) ... UGA (99%) / WAKE (1%)

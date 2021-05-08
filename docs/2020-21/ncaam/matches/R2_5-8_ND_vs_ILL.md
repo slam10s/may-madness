@@ -9,7 +9,7 @@ Urbana, Illinois
 <td>  
 
 <h2>#2 Notre Dame</h2>  
-&nbsp; Record: 15-10<br>  
+&nbsp; Record: 15-11<br>  
 &nbsp; ITA: 34 (25.22)<br>  
 &nbsp; Slam: 40 (91.96)<br>  
 &nbsp; TRN: 42 (89.57)<br>  
@@ -22,7 +22,7 @@ Urbana, Illinois
 <td>  
 
 <h2>#1 Illinois</h2>  
-&nbsp; Record: 22-2<br>  
+&nbsp; Record: 23-2<br>  
 &#10004; ITA: 18 (36.82)<br>  
 &#10004; Slam: 6 (98.81)<br>  
 &#10004; TRN: 4 (98.96)<br>  
@@ -39,6 +39,7 @@ Urbana, Illinois
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Illinois def. Notre Dame 4-0***  
 Go to [Live Stats](https://fightingillini.com/sports/2016/1/14/mtennis_livestatsvideo.aspx?path=mten)  
 
 ## Predictions  

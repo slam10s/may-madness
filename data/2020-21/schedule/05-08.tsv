@@ -10,7 +10,7 @@ time	round	division	title	status	score	file	liveStats
 2021-05-08T12:00-04:00	2nd         	Women	Vanderbilt at <b>#15 Ohio State</b>               	final	4-3       	../ncaaw/matches/R2_57-60_VANDY_vs_OSU	https://ohiostatebuckeyes.com/womens-tennis-live-scoring/
 2021-05-08T12:00-04:00	1st         	Men  	Wichita State vs <b>Arizona State</b>             	final	4-3       	../ncaam/matches/R1_51-52_WICH_vs_AZST	https://www.sidearmstats.com/tcu/mten/xlive.htm
 2021-05-08T13:00-04:00	1st         	Men  	Alabama A&M at <b>#3 Tennessee</b>                	final	5-0       	../ncaam/matches/R1_33-34_AAMU_vs_TENN	http://www.sidearmstats.com/utennessee/mten/
-2021-05-08T13:00-04:00	2nd         	Men  	Arizona at #14 Kentucky                           	pre  	UK (70%)  	../ncaam/matches/R2_37-40_ARIZ_vs_UK	http://www.sidearmstats.com/ukentucky/tennis/xlive.htm
+2021-05-08T13:00-04:00	2nd         	Men  	<b>Arizona</b> at #14 Kentucky                    	final	4-2       	../ncaam/matches/R2_37-40_ARIZ_vs_UK	http://www.sidearmstats.com/ukentucky/tennis/xlive.htm
 2021-05-08T13:00-04:00	1st         	Men  	ETSU at <b>#11 Georgia</b>                        	final	4-0       	../ncaam/matches/R1_41-42_ETSU_vs_UGA	https://georgiadogs.com/sports/2017/6/17/sports-m-tennis-spec-rel-vid-stream-html.aspx
 2021-05-08T13:00-04:00	1st         	Men  	Fairleigh Dickinson at <b>#5 Virginia</b>         	final	4-0       	../ncaam/matches/R1_17-18_FDU_vs_UVA	http://stats.statbroadcast.com/broadcast/?id=350361
 2021-05-08T13:00-04:00	1st         	Men  	Middle Tennessee vs <b>Tulane</b>                 	final	4-0       	../ncaam/matches/R1_59-60_MTSU_vs_TULN	https://olemisssports.com/sports/2021/4/29/live-video-scoring.aspx
@@ -21,9 +21,9 @@ time	round	division	title	status	score	file	liveStats
 2021-05-08T13:00-04:00	1st         	Men  	South Alabama at <b>#1 Florida</b>                	final	4-0       	../ncaam/matches/R1_1-2_SALA_vs_FLA	https://sidearmstats.com/florida/mten/
 2021-05-08T14:00-04:00	2nd         	Women	Iowa State at #6 N.C. State                       	pre  	NCST (97%)	../ncaaw/matches/R2_45-48_ISU_vs_NCST	http://sidearmstats.com/ncsu/wten/xlive.htm
 2021-05-08T14:00-04:00	2nd         	Women	Michigan at #12 LSU                               	pre  	MICH (68%)	../ncaaw/matches/R2_21-24_MICH_vs_LSU	http://stats.statbroadcast.com/broadcast/?id=350355
-2021-05-08T14:00-04:00	1st         	Men  	Monmouth (NJ) at #9 Central Florida               	pre  	UCF (99%) 	../ncaam/matches/R1_9-10_MONM_vs_UCF	http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76
-2021-05-08T14:00-04:00	2nd         	Women	North Florida at #13 Georgia Tech                 	pre  	GT (97%)  	../ncaaw/matches/R2_25-28_UNF_vs_GT	https://ramblinwreck.com/wten-live-21/
-2021-05-08T14:00-04:00	2nd         	Men  	Notre Dame at #16 Illinois                        	pre  	ILL (96%) 	../ncaam/matches/R2_5-8_ND_vs_ILL	https://fightingillini.com/sports/2016/1/14/mtennis_livestatsvideo.aspx?path=mten
+2021-05-08T14:00-04:00	1st         	Men  	Monmouth (NJ) at <b>#9 Central Florida</b>        	final	4-0       	../ncaam/matches/R1_9-10_MONM_vs_UCF	http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76
+2021-05-08T14:00-04:00	2nd         	Women	North Florida at <b>#13 Georgia Tech</b>          	final	4-0       	../ncaaw/matches/R2_25-28_UNF_vs_GT	https://ramblinwreck.com/wten-live-21/
+2021-05-08T14:00-04:00	2nd         	Men  	Notre Dame at <b>#16 Illinois</b>                 	final	4-0       	../ncaam/matches/R2_5-8_ND_vs_ILL	https://fightingillini.com/sports/2016/1/14/mtennis_livestatsvideo.aspx?path=mten
 2021-05-08T15:00-04:00	1st         	Men  	A&M-Corpus Christi at #2 Baylor                   	pre  	BAY (99%) 	../ncaam/matches/R1_63-64_TAMCC_vs_BAY	http://www.sidearmstats.com/baylor/mten/
 2021-05-08T15:00-04:00	1st         	Men  	Arkansas at #7 TCU                                	pre  	TCU (98%) 	../ncaam/matches/R1_49-50_ARK_vs_TCU	https://www.sidearmstats.com/tcu/mten/xlive.htm
 2021-05-08T15:00-04:00	2nd         	Men  	Oklahoma at #8 Texas A&M                          	pre  	A&M (94%) 	../ncaam/matches/R2_13-16_OKLA_vs_AM	http://stats.statbroadcast.com/broadcast/?id=350360

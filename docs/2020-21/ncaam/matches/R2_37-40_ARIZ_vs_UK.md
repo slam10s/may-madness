@@ -9,7 +9,7 @@ Lexington, Kentucky
 <td>  
 
 <h2>#2 Arizona</h2>  
-&nbsp; Record: 20-7<br>  
+&nbsp; Record: 21-7<br>  
 &nbsp; ITA: 17 (38.97)<br>  
 &nbsp; Slam: 21 (94.26)<br>  
 &nbsp; TRN: 20 (92.43)<br>  
@@ -23,7 +23,7 @@ Lexington, Kentucky
 <td>  
 
 <h2>#1 Kentucky</h2>  
-&nbsp; Record: 19-7<br>  
+&nbsp; Record: 19-8<br>  
 &#10004; ITA: 15 (44.70)<br>  
 &#10004; Slam: 17 (95.87)<br>  
 &#10004; TRN: 17 (93.83)<br>  
@@ -40,6 +40,7 @@ Lexington, Kentucky
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Arizona def. Kentucky 4-2***  
 Go to [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)  
 
 ## Predictions  
