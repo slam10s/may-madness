@@ -37,7 +37,7 @@ Malibu, California
 <br>Return to [List of Matches](../index.md)  
 
 ## Match Information  
-***Pepperdine def. Northern Arizona 5-0***  
+***Pepperdine def. Northern Arizona 4-0***  
 
 ## Predictions  
 

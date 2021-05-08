@@ -76,7 +76,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Fri, 5/07 at  4:00 EDT	[Alabama St. vs #7 Florida St.](./matches/R1_49-50_ALST_vs_FSU.md) ... <b>FSU (4)</b> / ALST (0)
 - Fri, 5/07 at  4:00 EDT	[Xavier vs Northwestern](./matches/R1_53-54_XAV_vs_NW.md) ... <b>NW (4)</b> / XAV (0)
 - Fri, 5/07 at  4:00 EDT	[Denver vs #2 Texas](./matches/R1_63-64_DEN_vs_TEX.md) ... <b>TEX (4)</b> / DEN (0)
-- Fri, 5/07 at  5:00 EDT	[Northern Ariz. vs #5 Pepperdine](./matches/R1_17-18_NAU_vs_PEPP.md) ... <b>PEPP (5)</b> / NAU (0)
+- Fri, 5/07 at  5:00 EDT	[Northern Ariz. vs #5 Pepperdine](./matches/R1_17-18_NAU_vs_PEPP.md) ... <b>PEPP (4)</b> / NAU (0)
 - Fri, 5/07 at  6:00 EDT	[A&M-Corpus Christi vs #8 Baylor](./matches/R1_15-16_TAMCC_vs_BAY.md) ... <b>BAY (4)</b> / TAMCC (0)
   
 Return to the [Home Page](../../index.md)
