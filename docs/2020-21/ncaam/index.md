@@ -36,7 +36,7 @@ The various metrics disagree on the outcome of these matches:
 
 The metrics agree on the winner, but not by a lot:
 
-- Sat, 5/08 at 10:00 EDT	[Northwestern vs UCLA](./matches/R1_29-30_NW_vs_UCLA.md) ... UCLA (63%) / NW (37%)
+- Sat, 5/08 at 10:00 EDT	[Northwestern vs UCLA](./matches/R1_29-30_NW_vs_UCLA.md) ... UCLA (1) / <b><i>NW (4)</i></b>
 - Sat, 5/08 at 12:00 EDT	[Wichita St. vs Arizona St.](./matches/R1_51-52_WICH_vs_AZST.md) ... AZST (65%) / WICH (35%)
 - Fri, 5/07 at 12:00 EDT	[Denver vs Oklahoma](./matches/R1_13-14_DEN_vs_OKLA.md) ... <b>OKLA (4)</b> / DEN (1)
 - Sat, 5/08 at 10:00 EDT	[Memphis vs Georgia Tech](./matches/R1_35-36_MEM_vs_GT.md) ... GT (2) / <b><i>MEM (4)</i></b>

@@ -9,7 +9,7 @@ Austin, Texas
 <td>  
 
 <h2>#3 Northwestern</h2>  
-&nbsp; Record: 13-7<br>  
+&nbsp; Record: 14-7<br>  
 &nbsp; ITA: 50 (7.95)<br>  
 &nbsp; Slam: 33 (92.89)<br>  
 &nbsp; TRN: 32 (90.90)<br>  
@@ -22,7 +22,7 @@ Austin, Texas
 <td>  
 
 <h2>#2 UCLA</h2>  
-&nbsp; Record: 13-6<br>  
+&nbsp; Record: 13-7<br>  
 &#10004; ITA: 24 (32.15)<br>  
 &#10004; Slam: 23 (93.84)<br>  
 &#10004; TRN: 24 (91.84)<br>  
@@ -39,6 +39,7 @@ Austin, Texas
 <br>Return to [List of Matches](../index.md)  
 
 ## Match Information  
+***Northwestern def. UCLA 4-1***  
 Go to [Live Stats](http://sidearmstats.com/texas/mtennis/xlive.htm)  
 
 ## Predictions  
