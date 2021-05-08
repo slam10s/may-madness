@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
-[*2021 Division I Women's Tennis Championship*](../index.md)  
+[2021 Division I Women's Tennis Championship](../index.md)  
 Hellman Tennis Complex  
 Berkeley, California  
 ## [Syracuse vs Kentucky](https://www.ncaa.com/game/5833649)  

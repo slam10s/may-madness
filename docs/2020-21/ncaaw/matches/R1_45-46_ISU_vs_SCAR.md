@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 11:00 EDT  
-[*2021 Division I Women's Tennis Championship*](../index.md)  
+[2021 Division I Women's Tennis Championship](../index.md)  
 J.W. Isenhour Tennis Center  
 Raleigh, North Carolina  
 ## [Iowa St. vs South Carolina](https://www.ncaa.com/game/5833669)  

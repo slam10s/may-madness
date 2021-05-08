@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 6:00 EDT  
-[*2021 Division I Women's Tennis Championship*](../index.md)  
+[2021 Division I Women's Tennis Championship](../index.md)  
 Hurd Tennis Center  
 Waco, Texas  
 ## [A&M-Corpus Christi vs #8 Baylor](https://www.ncaa.com/game/5833654)  

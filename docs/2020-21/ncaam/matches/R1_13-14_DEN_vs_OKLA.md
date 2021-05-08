@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 12:00 EDT  
-[*2021 Division I Men's Tennis Championship*](../index.md)  
+[2021 Division I Men's Tennis Championship](../index.md)  
 George P. Mitchell Tennis Center  
 College Station, Texas  
 ## [Denver vs Oklahoma](https://www.ncaa.com/game/5833376)  

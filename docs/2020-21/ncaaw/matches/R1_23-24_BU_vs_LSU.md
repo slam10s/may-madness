@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 2:00 EDT  
-[*2021 Division I Women's Tennis Championship*](../index.md)  
+[2021 Division I Women's Tennis Championship](../index.md)  
 LSU Tennis Complex  
 Baton Rouge, Louisiana  
 ## [Boston U. vs #12 LSU](https://www.ncaa.com/game/5833658)  

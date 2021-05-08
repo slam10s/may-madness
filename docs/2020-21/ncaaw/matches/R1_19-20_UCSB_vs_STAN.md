@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
-[*2021 Division I Women's Tennis Championship*](../index.md)  
+[2021 Division I Women's Tennis Championship](../index.md)  
 Ralphs-Straus Tennis Center  
 Malibu, California  
 ## [UC Santa Barbara vs Stanford](https://www.ncaa.com/game/5833656)  

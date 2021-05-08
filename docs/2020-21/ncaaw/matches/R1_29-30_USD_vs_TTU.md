@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 4:00 EDT  
-[*2021 Division I Women's Tennis Championship*](../index.md)  
+[2021 Division I Women's Tennis Championship](../index.md)  
 Los Angeles Tennis Center  
 Los Angeles, California  
 ## [San Diego vs Texas Tech](https://www.ncaa.com/game/5833661)  

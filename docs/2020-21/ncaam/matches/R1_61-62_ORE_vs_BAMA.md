@@ -1,6 +1,6 @@
 First Round  
 Saturday, May 8 at 12:00 EDT  
-[*2021 Division I Men's Tennis Championship*](../index.md)  
+[2021 Division I Men's Tennis Championship](../index.md)  
 Hurd Tennis Center  
 Waco, Texas  
 ## [Oregon vs Alabama](https://www.ncaa.com/game/5833400)  

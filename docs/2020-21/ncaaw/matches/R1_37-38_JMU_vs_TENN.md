@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 12:00 EDT  
-[*2021 Division I Women's Tennis Championship*](../index.md)  
+[2021 Division I Women's Tennis Championship](../index.md)  
 Virginia Tennis Facility at the Boar’s Head Resort  
 Charlottesville, Virginia  
 ## [James Madison vs Tennessee](https://www.ncaa.com/game/5833665)  

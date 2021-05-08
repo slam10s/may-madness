@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 10:00 EDT  
-[*2021 Division I Men's Tennis Championship*](../index.md)  
+[2021 Division I Men's Tennis Championship](../index.md)  
 Carolina Tennis Center  
 Columbia, South Carolina  
 ## [FGCU vs NC State](https://www.ncaa.com/game/5833383)  

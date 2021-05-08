@@ -1,6 +1,6 @@
 Second Round  
 Saturday, May 8 at 5:00 EDT  
-[*2021 Division I Women's Tennis Championship*](../index.md)  
+[2021 Division I Women's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
 ## [Miami (FL) vs #9 UCF](https://www.ncaa.com/game/5833681)  

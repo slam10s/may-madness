@@ -1,6 +1,6 @@
 First Round  
 Saturday, May 8 at 3:00 EDT  
-[*2021 Division I Men's Tennis Championship*](../index.md)  
+[2021 Division I Men's Tennis Championship](../index.md)  
 Bayard H. Friedman Tennis Center  
 Fort Worth, Texas  
 ## [Arkansas vs #7 TCU](https://www.ncaa.com/game/5833394)  

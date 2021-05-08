@@ -1,6 +1,6 @@
 Second Round  
 Saturday, May 8 at 2:00 EDT  
-[*2021 Division I Women's Tennis Championship*](../index.md)  
+[2021 Division I Women's Tennis Championship](../index.md)  
 J.W. Isenhour Tennis Center  
 Raleigh, North Carolina  
 ## [Iowa St. vs #6 NC State](https://www.ncaa.com/game/5833690)  

@@ -1,6 +1,6 @@
 First Round  
 Friday, May 7 at 5:00 EDT  
-[*2021 Division I Women's Tennis Championship*](../index.md)  
+[2021 Division I Women's Tennis Championship](../index.md)  
 Ralphs-Straus Tennis Center  
 Malibu, California  
 ## [Northern Ariz. vs #5 Pepperdine](https://www.ncaa.com/game/5833655)  
