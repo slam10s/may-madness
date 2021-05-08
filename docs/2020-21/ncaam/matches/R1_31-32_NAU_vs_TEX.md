@@ -9,7 +9,7 @@ Austin, Texas
 <td>  
 
 <h2>#4 Northern Ariz.</h2>  
-&nbsp; Record: 8-8<br>  
+&nbsp; Record: 8-9<br>  
 &nbsp; ITA: 61 (2.13)<br>  
 &nbsp; Slam: 58 (82.40)<br>  
 &nbsp; TRN: 60 (77.79)<br>  
@@ -21,7 +21,7 @@ Austin, Texas
 <td>  
 
 <h2>#1 Texas</h2>  
-&nbsp; Record: 20-5<br>  
+&nbsp; Record: 21-5<br>  
 &#10004; ITA: 5 (74.24)<br>  
 &#10004; Slam: 8 (97.59)<br>  
 &#10004; TRN: 7 (97.63)<br>  
@@ -38,6 +38,7 @@ Austin, Texas
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Texas def. Northern Arizona 4-0***  
 Go to [Live Stats](http://sidearmstats.com/texas/mtennis/xlive.htm)  
 
 ## Predictions  

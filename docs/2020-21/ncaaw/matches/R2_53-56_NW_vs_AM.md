@@ -9,7 +9,7 @@ Evanston, Illinois
 <td>  
 
 <h2>#2 Northwestern</h2>  
-&nbsp; Record: 19-5<br>  
+&nbsp; Record: 19-6<br>  
 &nbsp; ITA: 21 (39.92)<br>  
 &nbsp; Slam: 18 (90.46)<br>  
 &#10004; TRN: 13 (83.80)<br>  
@@ -23,7 +23,7 @@ Evanston, Illinois
 <td>  
 
 <h2>#1 Texas A&M</h2>  
-&nbsp; Record: 20-7<br>  
+&nbsp; Record: 21-7<br>  
 &#10004; ITA: 10 (50.15)<br>  
 &#10004; Slam: 15 (90.86)<br>  
 &nbsp; TRN: 14 (83.43)<br>  
@@ -40,6 +40,7 @@ Evanston, Illinois
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Texas A&M def. Northwestern 4-1***  
 Go to [Live Stats](http://stats.statbroadcast.com/multimedia/?id=350360)  
 
 ## Predictions  

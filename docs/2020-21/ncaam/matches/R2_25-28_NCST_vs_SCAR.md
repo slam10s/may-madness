@@ -7,7 +7,7 @@ Second Round
 <td>  
 
 <h2>#2 NC State</h2>  
-&nbsp; Record: 12-8<br>  
+&nbsp; Record: 12-9<br>  
 &nbsp; ITA: 23 (32.39)<br>  
 &nbsp; Slam: 19 (94.44)<br>  
 &nbsp; TRN: 22 (92.30)<br>  
@@ -21,7 +21,7 @@ Second Round
 <td>  
 
 <h2>#1 South Carolina</h2>  
-&nbsp; Record: 16-9<br>  
+&nbsp; Record: 17-9<br>  
 &#10004; ITA: 13 (50.95)<br>  
 &#10004; Slam: 15 (96.20)<br>  
 &#10004; TRN: 15 (94.49)<br>  
@@ -38,6 +38,7 @@ Second Round
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***South Carolina def. N.C. State 4-0***  
 Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350372)  
 
 ## Predictions  

@@ -1,0 +1,129 @@
+Date: Sunday, May 9
+Time: 2:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
+Round: Second Round
+Lines: 1-4
+Title: "South Fla. vs #1 Florida"
+URL: https://www.ncaa.com/game/5833402
+Winner: TBD
+Home:
+  Team: Florida
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png
+  Entry: At-Large Bid
+  Draw Line: 1
+  Seeding:
+    Overall: 1
+    Region: 1
+  Ratings:
+    ITA: 2 (81.08)
+    SLM: 2 (99.77)
+    TRN: 3 (99.10)
+    MAS: 1 (9.40)
+    UTR: 1 (80.76)
+  Polls:
+    USTA: 2
+    Coach: 2
+Visitor:
+  Team: South Fla.
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png
+  Entry: At-Large Bid
+  Draw Line: 4
+  Seeding:
+    Region: 2
+  Ratings:
+    ITA: 32 (26.14)
+    SLM: 32 (92.98)
+    TRN: 34 (90.69)
+    MAS: 32 (7.49)
+    UTR: 37 (76.51)
+  Polls:
+    Coach: 33
+Predictions:
+  AVG: FLA - Florida (99%) def. South Fla. (1%)
+  SLM: "FLA - #2 Florida (98%) def. #32 South Fla. (2%)"
+  TRN: "FLA - #3 Florida (99%) def. #34 South Fla. (1%)"
+  MAS: "FLA - #1 Florida (99%) def. #32 South Fla. (1%)"
+  LNUP: FLA - Florida (99%) def. South Fla. (1%)
+  UTR: "FLA - #1 Florida (+4.25) def. #37 South Fla. (-4.25)"
+  ITA: "FLA - #2 Florida def. #32 South Fla."
+  USTA: "FLA - #2 Florida def. South Fla."
+  Coach: "FLA - #2 Florida def. #33 South Fla."
+  Seeding: "FLA - #1 Florida def. #2 South Fla."
+Lineups:
+  Predictions:
+    Average EWPs for FLA: 98%,99%,99%,100%
+    Average EWPs for USF: 2%,1%,1%,0%
+    FLA wins 4 or more Singles points: 98%
+    USF wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 2%
+  Singles:
+    - Position: 1
+      FLA: Duarte Vale - 15-6 at 1, 15-6 in duals, 23-6 overall
+      USF: Jakub Wojcik - 4-1 at 1, 17-6 in duals, 17-6 overall
+      Predictions:
+        AVG: FLA - Vale (84%) def. Wojcik (16%)
+        SLM: FLA - Vale (85%) def. Wojcik (15%)
+        TRN: FLA - Vale (80%) def. Wojcik (20%)
+        MAS: FLA - Vale (81%) def. Wojcik (19%)
+        UTR: FLA - Vale (90%) def. Wojcik (10%)
+        ITA: FLA - Vale (54.01) def. Wojcik (16.76)
+    - Position: 2
+      FLA: Sam Riffice - 16-4 at 2, 18-4 in duals, 23-7 overall
+      USF: Chase Ferguson - 5-0 at 2, 13-9 in duals, 13-9 overall
+      Predictions:
+        AVG: FLA - Riffice (82%) def. Ferguson (18%)
+        SLM: FLA - Riffice (74%) def. Ferguson (26%)
+        TRN: FLA - Riffice (84%) def. Ferguson (16%)
+        MAS: FLA - Riffice (78%) def. Ferguson (22%)
+        UTR: FLA - Riffice (90%) def. Ferguson (10%)
+        ITA: FLA - Riffice (49.68) def. Ferguson (11.90)
+    - Position: 3
+      FLA: Andy Andrade - 12-7 at 3, 14-7 in duals, 22-7 overall
+      USF: Ivan Yatsuk - 12-6 at 3, 15-7 in duals, 15-7 overall
+      Predictions:
+        AVG: FLA - Andrade (85%) def. Yatsuk (15%)
+        SLM: FLA - Andrade (83%) def. Yatsuk (17%)
+        TRN: FLA - Andrade (87%) def. Yatsuk (13%)
+        MAS: FLA - Andrade (83%) def. Yatsuk (17%)
+        UTR: FLA - Andrade (88%) def. Yatsuk (12%)
+        ITA: FLA - Andrade (32.71) def. Yatsuk (2.48)
+    - Position: 4
+      FLA: Blaise Bicknell - 15-0 at 4, 20-0 in duals, 29-0 overall
+      USF: Antonio Muniz-Hidalgo - 1-1 at 4, 5-4 in duals, 5-4 overall
+      Predictions:
+        AVG: FLA - Bicknell (94%) def. Muniz-Hidalgo (6%)
+        SLM: FLA - Bicknell (94%) def. Muniz-Hidalgo (6%)
+        TRN: FLA - Bicknell (97%) def. Muniz-Hidalgo (3%)
+        MAS: FLA - Bicknell (94%) def. Muniz-Hidalgo (6%)
+        UTR: FLA - Bicknell (89%) def. Muniz-Hidalgo (11%)
+        ITA: FLA - Bicknell (15.89) def. Muniz-Hidalgo (1.67)
+    - Position: 5
+      FLA: Ben Shelton - 15-4 at 5, 17-4 in duals, 24-5 overall
+      USF: Pierre Luquet - 0-2 at 5, 8-10 in duals, 8-10 overall
+      Predictions:
+        AVG: FLA - Shelton (89%) def. Luquet (11%)
+        SLM: FLA - Shelton (84%) def. Luquet (16%)
+        TRN: FLA - Shelton (92%) def. Luquet (8%)
+        MAS: FLA - Shelton (88%) def. Luquet (12%)
+        UTR: FLA - Shelton (91%) def. Luquet (9%)
+        ITA: FLA - Shelton (3.20) def. Luquet (1.56)
+    - Position: 6
+      FLA: Josh Goodger - 12-0 at 6, 13-0 in duals, 19-0 overall
+      USF: Sergio Gomez-Montesa - 2-1 at 6, 13-10 in duals, 13-10 overall
+      Predictions:
+        AVG: FLA - Goodger (92%) def. Gomez-Montesa (8%)
+        SLM: FLA - Goodger (93%) def. Gomez-Montesa (7%)
+        TRN: FLA - Goodger (96%) def. Gomez-Montesa (4%)
+        MAS: FLA - Goodger (91%) def. Gomez-Montesa (9%)
+        UTR: FLA - Goodger (90%) def. Gomez-Montesa (10%)
+        ITA: FLA - Goodger (8.31) def. Gomez-Montesa (1.78)
+  Doubles:
+    - Position: 1
+      FLA: Ingildsen/Vale - 0-0 at 1, 0-0 in duals, 0-0 overall
+      USF: Bollipalli/Wojcik - 9-7 at 1, 9-7 in duals, 9-7 overall
+    - Position: 2
+      FLA: Riffice/Shelton - 0-0 at 2, 4-0 in duals, 6-1 overall
+      USF: Ferguson/Yatsuk - 1-0 at 2, 2-1 in duals, 2-1 overall
+    - Position: 3
+      FLA: Berdusco/Grant - 0-0 at 3, 0-0 in duals, 1-0 overall
+      USF: Goncalves/Tudorica - 0-0 at 3, 0-0 in duals, 0-0 overall

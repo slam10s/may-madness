@@ -9,7 +9,7 @@ Athens, Georgia
 <td>  
 
 <h2>#4 ETSU</h2>  
-&nbsp; Record: 13-7<br>  
+&nbsp; Record: 13-8<br>  
 &nbsp; ITA: 49 (7.97)<br>  
 &nbsp; Slam: 52 (87.30)<br>  
 &nbsp; TRN: 53 (84.02)<br>  
@@ -21,7 +21,7 @@ Athens, Georgia
 <td>  
 
 <h2>#1 Georgia</h2>  
-&nbsp; Record: 14-6<br>  
+&nbsp; Record: 15-6<br>  
 &#10004; ITA: 11 (54.81)<br>  
 &#10004; Slam: 16 (96.08)<br>  
 &#10004; TRN: 14 (94.91)<br>  
@@ -38,6 +38,7 @@ Athens, Georgia
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Georgia def. ETSU 4-0***  
 Go to [Live Stats](https://georgiadogs.com/sports/2017/6/17/sports-m-tennis-spec-rel-vid-stream-html.aspx)  
 
 ## Predictions  

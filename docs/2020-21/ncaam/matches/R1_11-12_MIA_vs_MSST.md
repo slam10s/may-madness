@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#3 Miami (FL)</h2>  
-&nbsp; Record: 8-10<br>  
+&nbsp; Record: 8-11<br>  
 &nbsp; ITA: 39 (19.34)<br>  
 &nbsp; Slam: 37 (92.19)<br>  
 &nbsp; TRN: 43 (89.49)<br>  
@@ -22,7 +22,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Mississippi St.</h2>  
-&nbsp; Record: 16-9<br>  
+&nbsp; Record: 17-9<br>  
 &#10004; ITA: 16 (41.29)<br>  
 &#10004; Slam: 20 (94.39)<br>  
 &#10004; TRN: 19 (92.98)<br>  
@@ -39,6 +39,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Mississippi State def. Miami (FL) 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76)  
 
 ## Predictions  

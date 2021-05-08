@@ -9,7 +9,7 @@ Columbus, Ohio
 <td>  
 
 <h2>#2 Vanderbilt</h2>  
-&nbsp; Record: 14-9<br>  
+&nbsp; Record: 14-10<br>  
 &nbsp; ITA: 27 (35.19)<br>  
 &nbsp; Slam: 29 (88.87)<br>  
 &nbsp; TRN: 30 (81.13)<br>  
@@ -22,7 +22,7 @@ Columbus, Ohio
 <td>  
 
 <h2>#1 Ohio St.</h2>  
-&nbsp; Record: 22-3<br>  
+&nbsp; Record: 23-3<br>  
 &#10004; ITA: 18 (43.02)<br>  
 &#10004; Slam: 5 (92.95)<br>  
 &#10004; TRN: 5 (85.87)<br>  
@@ -39,6 +39,7 @@ Columbus, Ohio
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Ohio State def. Vanderbilt 4-3***  
 Go to [Live Stats](https://ohiostatebuckeyes.com/womens-tennis-live-scoring/)  
 
 ## Predictions  
