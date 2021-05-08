@@ -9,7 +9,7 @@ Raleigh, North Carolina
 <td>  
 
 <h2>#3 Iowa St.</h2>  
-&nbsp; Record: 14-7<br>  
+&nbsp; Record: 14-8<br>  
 &nbsp; ITA: 36 (22.35)<br>  
 &nbsp; Slam: 41 (86.71)<br>  
 &nbsp; TRN: 42 (78.56)<br>  
@@ -22,7 +22,7 @@ Raleigh, North Carolina
 <td>  
 
 <h2>#1 NC State</h2>  
-&nbsp; Record: 17-5<br>  
+&nbsp; Record: 18-5<br>  
 &#10004; ITA: 6 (55.66)<br>  
 &#10004; Slam: 11 (91.65)<br>  
 &#10004; TRN: 10 (84.27)<br>  
@@ -39,6 +39,7 @@ Raleigh, North Carolina
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***N.C. State def. Iowa State 4-2***  
 Go to [Live Stats](http://sidearmstats.com/ncsu/wten/xlive.htm)  
 
 ## Predictions  

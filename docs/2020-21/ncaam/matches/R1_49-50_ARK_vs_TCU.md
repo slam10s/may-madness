@@ -9,7 +9,7 @@ Fort Worth, Texas
 <td>  
 
 <h2>#4 Arkansas</h2>  
-&nbsp; Record: 10-14<br>  
+&nbsp; Record: 10-15<br>  
 &nbsp; ITA: 43 (18.30)<br>  
 &nbsp; Slam: 43 (91.55)<br>  
 &nbsp; TRN: 44 (89.43)<br>  
@@ -22,7 +22,7 @@ Fort Worth, Texas
 <td>  
 
 <h2>#1 TCU</h2>  
-&nbsp; Record: 16-7<br>  
+&nbsp; Record: 17-7<br>  
 &#10004; ITA: 7 (69.22)<br>  
 &#10004; Slam: 9 (97.57)<br>  
 &#10004; TRN: 9 (96.56)<br>  
@@ -39,6 +39,7 @@ Fort Worth, Texas
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***TCU def. Arkansas 4-0***  
 Go to [Live Stats](https://www.sidearmstats.com/tcu/mten/xlive.htm)  
 
 ## Predictions  
