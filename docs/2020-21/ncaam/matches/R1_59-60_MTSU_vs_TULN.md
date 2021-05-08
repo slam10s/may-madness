@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TULN</i></b> - Suarez (54%) def. Edge (46%)</li>  
 <li>Slam: <b><i>MTSU</i></b> - Edge (51%) def. Suarez (49%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Suarez (60%) def. Edge (40%)</li>  
-<li>Massey: <b><i>MTSU</i></b> - Edge (50%) def. Suarez (50%)</li>  
+<li>Massey: <b><i>TULN</i></b> - Suarez (50%) def. Edge (50%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Suarez (56%) def. Edge (44%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Edge (4.29) def. Suarez (2.40)</li>  
 </ul>

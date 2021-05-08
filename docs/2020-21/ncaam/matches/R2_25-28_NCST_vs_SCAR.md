@@ -61,6 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alexis Galarneau (NCST) - 10-2 at #1, 10-2 in duals, 10-3 overall<br>Daniel Rodrigues (SCAR) - 16-4 at #1, 16-4 in duals, 24-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>???</i></b> - Rodrigues (50%) / Galarneau (50%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Rodrigues (50%) def. Galarneau (50%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Rodrigues (66%) def. Galarneau (34%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Rodrigues (67%) def. Galarneau (33%)</li>  

@@ -74,6 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Carolyn Ansari (AUB) - 1-0 at #2, 12-3 in duals, 14-10 overall<br>Emmanuelle Salas (FSU) - 5-6 at #2, 7-9 in duals, 7-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>???</i></b> - Salas (50%) / Ansari (50%)</li>  
 <li>Slam: <b><i>AUB</i></b> - Ansari (51%) def. Salas (49%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Ansari (56%) def. Salas (44%)</li>  
 <li>Massey: <b><i>AUB</i></b> - Ansari (59%) def. Salas (41%)</li>  

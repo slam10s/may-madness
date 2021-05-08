@@ -41,6 +41,7 @@ Predictions:
   SLM: "DUKE - #31 Duke (51%) def. #32 South Fla. (49%)"
   TRN: "USF - #34 South Fla. (52%) def. #36 Duke (48%)"
   MAS: "USF - #32 South Fla. (55%) def. #34 Duke (45%)"
+  LNUP: ??? - South Fla. (50%) / Duke (50%)
   UTR: "DUKE - #32 Duke (+0.35) def. #37 South Fla. (-0.35)"
   ITA: "USF - #32 South Fla. def. #35 Duke"
   Coach: "USF - #33 South Fla. def. #36 Duke"
@@ -57,6 +58,7 @@ Lineups:
       USF: Jakub Wojcik - 4-1 at 1, 17-6 in duals, 17-6 overall
       DUKE: Garrett Johns - 8-8 at 1, 8-8 in duals, 9-9 overall
       Predictions:
+        AVG: ??? - Wojcik (50%) / Johns (50%)
         SLM: DUKE - Johns (55%) def. Wojcik (45%)
         TRN: USF - Wojcik (67%) def. Johns (33%)
         MAS: USF - Wojcik (66%) def. Johns (34%)

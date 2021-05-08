@@ -118,6 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Bella Lorenzini (MICH) - 2-0 at #6, 2-0 in duals, 4-0 overall<br>Nina Geissler (LSU) - 4-2 at #6, 10-3 in duals, 15-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>???</i></b> - Geissler (50%) / Lorenzini (50%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Geissler (55%) def. Lorenzini (45%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Geissler (69%) def. Lorenzini (31%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Lorenzini (71%) def. Geissler (29%)</li>  
