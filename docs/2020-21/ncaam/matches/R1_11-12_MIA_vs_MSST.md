@@ -38,6 +38,9 @@ Orlando, Florida
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

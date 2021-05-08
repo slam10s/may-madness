@@ -38,6 +38,9 @@ Fort Worth, Texas
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](https://www.sidearmstats.com/tcu/mten/xlive.htm)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
