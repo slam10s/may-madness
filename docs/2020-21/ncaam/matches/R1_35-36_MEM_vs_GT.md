@@ -108,7 +108,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MEM</i></b> - Taylor (63%) def. McKinney (37%)</li>  
 <li>Slam: <b><i>MEM</i></b> - Taylor (51%) def. McKinney (49%)</li>  
 <li>TRN: <b><i>MEM</i></b> - Taylor (58%) def. McKinney (42%)</li>  
-<li>Massey: <b><i>MEM</i></b> - Taylor (65%) def. McKinney (35%)</li>  
+<li>Massey: <b><i>MEM</i></b> - Taylor (64%) def. McKinney (36%)</li>  
 <li>UTR: <b><i>MEM</i></b> - Taylor (82%) def. McKinney (18%)</li>  
 <li>ITA: <b><i>MEM</i></b> - Taylor (2.71) def. McKinney (1.37)</li>  
 </ul>

@@ -67,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKST</i></b> - Thamchaiwat (80%) def. Ovunc (20%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Thamchaiwat (75%) def. Ovunc (25%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Thamchaiwat (83%) def. Ovunc (17%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Thamchaiwat (78%) def. Ovunc (22%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Thamchaiwat (77%) def. Ovunc (23%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Thamchaiwat (91%) def. Ovunc (9%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Thamchaiwat (21.36) def. Ovunc (9.63)</li>  
 </ul>
@@ -89,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKST</i></b> - Wolfberg (68%) def. Chen (32%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Wolfberg (65%) def. Chen (35%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Wolfberg (67%) def. Chen (33%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Wolfberg (64%) def. Chen (36%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Wolfberg (63%) def. Chen (37%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Wolfberg (81%) def. Chen (19%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Wolfberg (10.37) def. Chen (3.54)</li>  
 </ul>
@@ -111,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKST</i></b> - Stara (61%) def. Flach (39%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Stara (66%) def. Flach (34%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Stara (62%) def. Flach (38%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Stara (52%) def. Flach (48%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Stara (51%) def. Flach (49%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Stara (67%) def. Flach (33%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Flach (1.50) def. Stara (0.00)</li>  
 </ul>
@@ -122,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Astakhova (58%) def. Medvedeva (42%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Medvedeva (60%) def. Astakhova (40%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Medvedeva (82%) def. Astakhova (18%)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -65,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Perez-Somarriba (83%) def. Zeleva (17%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Perez-Somarriba (86%) def. Zeleva (14%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Perez-Somarriba (88%) def. Zeleva (12%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (72%) def. Zeleva (28%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (71%) def. Zeleva (29%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Perez-Somarriba (88%) def. Zeleva (12%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Perez-Somarriba (69.45) def. Zeleva (22.66)</li>  
 </ul>
@@ -76,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Pfennig (67%) def. Stolmar (33%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Pfennig (63%) def. Stolmar (37%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Pfennig (71%) def. Stolmar (29%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Pfennig (61%) def. Stolmar (39%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Pfennig (60%) def. Stolmar (40%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Pfennig (79%) def. Stolmar (21%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Pfennig (32.52) def. Stolmar (15.81)</li>  
 </ul>
@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Khodan (65%) def. Mattel (35%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Khodan (56%) def. Mattel (44%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Khodan (64%) def. Mattel (36%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Khodan (67%) def. Mattel (33%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Khodan (66%) def. Mattel (34%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Khodan (76%) def. Mattel (24%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mattel (2.00) def. Khodan (1.90)</li>  
 </ul>
@@ -120,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Tahan (97%) def. Bay (3%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Tahan (90%) def. Bay (10%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Tahan (89%) def. Bay (11%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Tahan (2.26) def. Bay (0.00)</li>  
 </ul>

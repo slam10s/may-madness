@@ -40,7 +40,7 @@ Predictions:
   AVG: BAMA - Alabama (60%) def. Oregon (40%)
   SLM: "BAMA - #28 Alabama (70%) def. #44 Oregon (30%)"
   TRN: "BAMA - #27 Alabama (71%) def. #41 Oregon (29%)"
-  MAS: "ORE - #30 Oregon (59%) def. #38 Alabama (41%)"
+  MAS: "ORE - #30 Oregon (58%) def. #38 Alabama (42%)"
   LNUP: BAMA - Alabama (59%) def. Oregon (41%)
   UTR: "BAMA - #30 Alabama (+0.28) def. #33 Oregon (-0.28)"
   ITA: "BAMA - #26 Alabama def. #36 Oregon"
@@ -61,7 +61,7 @@ Lineups:
         AVG: ORE - Coste (69%) def. Ortiz (31%)
         SLM: ORE - Coste (73%) def. Ortiz (27%)
         TRN: ORE - Coste (76%) def. Ortiz (24%)
-        MAS: ORE - Coste (56%) def. Ortiz (44%)
+        MAS: ORE - Coste (55%) def. Ortiz (45%)
         UTR: ORE - Coste (76%) def. Ortiz (24%)
         ITA: BAMA - Ortiz (18.41) def. Coste (3.31)
     - Position: 2
@@ -71,7 +71,7 @@ Lineups:
         AVG: ORE - Charlton (68%) def. Kaukovalta (32%)
         SLM: ORE - Charlton (68%) def. Kaukovalta (32%)
         TRN: ORE - Charlton (68%) def. Kaukovalta (32%)
-        MAS: ORE - Charlton (63%) def. Kaukovalta (37%)
+        MAS: ORE - Charlton (62%) def. Kaukovalta (38%)
         UTR: ORE - Charlton (76%) def. Kaukovalta (24%)
         ITA: BAMA - Kaukovalta (11.09) def. Charlton (2.88)
     - Position: 3
@@ -91,7 +91,7 @@ Lineups:
         AVG: ORE - Klov-Nilsson (51%) def. Roberto (49%)
         SLM: BAMA - Roberto (50%) def. Klov-Nilsson (50%)
         TRN: BAMA - Roberto (50%) def. Klov-Nilsson (50%)
-        MAS: ORE - Klov-Nilsson (63%) def. Roberto (37%)
+        MAS: ORE - Klov-Nilsson (62%) def. Roberto (38%)
         UTR: BAMA - Roberto (53%) def. Klov-Nilsson (47%)
         ITA: BAMA - Roberto (2.71) def. Klov-Nilsson (2.61)
     - Position: 5

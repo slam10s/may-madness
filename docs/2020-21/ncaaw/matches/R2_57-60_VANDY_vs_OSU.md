@@ -86,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>VANDY</i></b> - Lee (67%) def. Allen (33%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Lee (53%) def. Allen (47%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Lee (76%) def. Allen (24%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Lee (61%) def. Allen (39%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Lee (60%) def. Allen (40%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Lee (81%) def. Allen (19%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Lee (2.64) def. Allen (1.59)</li>  
 </ul>

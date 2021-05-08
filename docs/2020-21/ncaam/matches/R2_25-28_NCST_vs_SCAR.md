@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Turzak (52%) def. Brown (48%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Brown (62%) def. Turzak (38%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Brown (61%) def. Turzak (39%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Turzak (66%) def. Brown (34%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Turzak (65%) def. Brown (35%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Turzak (67%) def. Brown (33%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Brown (2.19) def. Turzak (1.56)</li>  
 </ul>

@@ -67,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ARK</i></b> - Spink (55%) def. Hutchinson (45%)</li>  
 <li>Slam: <b><i>ODU</i></b> - Hutchinson (61%) def. Spink (39%)</li>  
 <li>TRN: <b><i>ARK</i></b> - Spink (54%) def. Hutchinson (46%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Spink (59%) def. Hutchinson (41%)</li>  
+<li>Massey: <b><i>ARK</i></b> - Spink (58%) def. Hutchinson (42%)</li>  
 <li>UTR: <b><i>ARK</i></b> - Spink (72%) def. Hutchinson (28%)</li>  
 <li>ITA: <b><i>ARK</i></b> - Spink (13.82) def. Hutchinson (5.40)</li>  
 </ul>

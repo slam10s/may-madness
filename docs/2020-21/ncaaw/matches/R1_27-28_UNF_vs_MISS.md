@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MISS</i></b> - Zadori (75%) def. Davis (25%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Zadori (82%) def. Davis (18%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Zadori (73%) def. Davis (27%)</li>  
-<li>Massey: <b><i>UNF</i></b> - Davis (45%) def. Zadori (55%)</li>  
+<li>Massey: <b><i>MISS</i></b> - Zadori (55%) def. Davis (45%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Zadori (88%) def. Davis (12%)</li>  
 <li>ITA: <b><i>UNF</i></b> - Davis (3.59) def. Zadori (1.55)</li>  
 </ul>

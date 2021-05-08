@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>DUKE</i></b> - Guell (54%) def. Muniz-Hidalgo (46%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Guell (75%) def. Muniz-Hidalgo (25%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Guell (59%) def. Muniz-Hidalgo (41%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Guell (53%) def. Muniz-Hidalgo (47%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Guell (52%) def. Muniz-Hidalgo (48%)</li>  
 <li>UTR: <b><i>USF</i></b> - Muniz-Hidalgo (66%) def. Guell (34%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Guell (4.04) def. Muniz-Hidalgo (1.67)</li>  
 </ul>
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>DUKE</i></b> - Keist (58%) def. Luquet (42%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Keist (62%) def. Luquet (38%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Keist (72%) def. Luquet (28%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Keist (69%) def. Luquet (31%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Keist (68%) def. Luquet (32%)</li>  
 <li>UTR: <b><i>USF</i></b> - Luquet (68%) def. Keist (32%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Keist (3.16) def. Luquet (1.56)</li>  
 </ul>

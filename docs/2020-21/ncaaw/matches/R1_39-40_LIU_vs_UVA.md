@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>LIU</i></b> - Compuesto (78%) def. O'Dell (22%)</li>  
 <li>Slam: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>TRN: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
-<li>Massey: <b><i>LIU</i></b> - Compuesto (13%) def. O'Dell (87%)</li>  
+<li>Massey: <b><i>UVA</i></b> - O'Dell (87%) def. Compuesto (13%)</li>  
 <li>UTR: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>ITA: <b><i>LIU</i></b> - Compuesto (3.66) def. O'Dell (1.59)</li>  
 </ul>

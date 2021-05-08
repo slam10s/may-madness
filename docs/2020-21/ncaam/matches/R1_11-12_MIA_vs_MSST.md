@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Barrera (54%) def. Oradini (46%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Barrera (57%) def. Oradini (43%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Barrera (58%) def. Oradini (42%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Barrera (57%) def. Oradini (43%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Oradini (68%) def. Barrera (32%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Oradini (31.20) def. Barrera (18.59)</li>  
 </ul>
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MSST</i></b> - Broska (64%) def. Jankulovski (36%)</li>  
 <li>Slam: <b><i>MSST</i></b> - Broska (68%) def. Jankulovski (32%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Broska (63%) def. Jankulovski (37%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Jankulovski (54%) def. Broska (46%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Jankulovski (53%) def. Broska (47%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Broska (78%) def. Jankulovski (22%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Broska (16.73) def. Jankulovski (3.33)</li>  
 </ul>
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MSST</i></b> - Hernandez (72%) def. Vasser (28%)</li>  
 <li>Slam: <b><i>MSST</i></b> - Hernandez (78%) def. Vasser (22%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Hernandez (79%) def. Vasser (21%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Hernandez (45%) def. Vasser (55%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Vasser (54%) def. Hernandez (46%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Hernandez (85%) def. Vasser (15%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Vasser (1.93) def. Hernandez (1.85)</li>  
 </ul>

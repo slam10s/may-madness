@@ -100,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>WMU</i></b> - Boone (97%) def. Howells (3%)</li>  
 <li>Slam: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
 <li>TRN: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
-<li>Massey: <b><i>WMU</i></b> - Boone (90%) def. Howells (10%)</li>  
+<li>Massey: <b><i>WMU</i></b> - Boone (89%) def. Howells (11%)</li>  
 <li>UTR: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Boone (1.91) def. Howells (0.00)</li>  
 </ul>
@@ -111,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ND</i></b> - Che (68%) def. Honnappa (32%)</li>  
 <li>Slam: <b><i>ND</i></b> - Che (80%) def. Honnappa (20%)</li>  
 <li>TRN: <b><i>ND</i></b> - Che (65%) def. Honnappa (35%)</li>  
-<li>Massey: <b><i>WMU</i></b> - Honnappa (49%) def. Che (51%)</li>  
+<li>Massey: <b><i>ND</i></b> - Che (51%) def. Honnappa (49%)</li>  
 <li>UTR: <b><i>ND</i></b> - Che (78%) def. Honnappa (22%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Honnappa (2.67) def. Che (0.00)</li>  
 </ul>

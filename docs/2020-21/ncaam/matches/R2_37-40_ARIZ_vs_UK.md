@@ -12,7 +12,7 @@ Lexington, Kentucky
 &nbsp; ITA: 17 (38.97)<br>  
 &nbsp; Slam: 21 (94.26)<br>  
 &nbsp; TRN: 20 (92.43)<br>  
-&nbsp; Massey: 18 (8.10)<br>  
+&#10004; Massey: 18 (8.10)<br>  
 &nbsp; UTR: 21 (78.35)<br>  
 &nbsp; USTA Poll: 18<br>  
 &nbsp; Coaches Poll: 19<br>  
@@ -26,7 +26,7 @@ Lexington, Kentucky
 &#10004; ITA: 15 (44.70)<br>  
 &#10004; Slam: 17 (95.87)<br>  
 &#10004; TRN: 17 (93.83)<br>  
-&#10004; Massey: 17 (8.12)<br>  
+&nbsp; Massey: 17 (8.12)<br>  
 &#10004; UTR: 16 (78.88)<br>  
 &#10004; USTA Poll: 17<br>  
 &#10004; Coaches Poll: 15<br>  
@@ -44,7 +44,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***UK*** - Kentucky (67%) def. Arizona (33%)  
 - Slam: ***UK*** - #17 Kentucky (71%) def. #21 Arizona (29%)  
 - TRN: ***UK*** - #17 Kentucky (69%) def. #20 Arizona (31%)  
-- Massey: ***UK*** - #17 Kentucky (48%) def. #18 Arizona (52%)  
+- Massey: ***ARIZ*** - #18 Arizona (51%) def. #17 Kentucky (49%)  
 - Lineup: ***UK*** - Kentucky (80%) def. Arizona (20%)  
 - UTR: ***UK*** - #16 Kentucky (+0.53) def. #21 Arizona (-0.53)  
 - ITA: ***UK*** - #15 Kentucky def. #17 Arizona  
@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ARIZ</i></b> - Reguant (61%) def. Lapadat (39%)</li>  
 <li>Slam: <b><i>ARIZ</i></b> - Reguant (61%) def. Lapadat (39%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Reguant (53%) def. Lapadat (47%)</li>  
-<li>Massey: <b><i>ARIZ</i></b> - Reguant (54%) def. Lapadat (46%)</li>  
+<li>Massey: <b><i>ARIZ</i></b> - Reguant (53%) def. Lapadat (47%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Reguant (79%) def. Lapadat (21%)</li>  
 <li>ITA: <b><i>UK</i></b> - Lapadat (6.21) def. Reguant (2.55)</li>  
 </ul>
@@ -120,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ARIZ</i></b> - Hassey (72%) def. LeBlanc (28%)</li>  
 <li>Slam: <b><i>ARIZ</i></b> - Hassey (78%) def. LeBlanc (22%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Hassey (79%) def. LeBlanc (21%)</li>  
-<li>Massey: <b><i>ARIZ</i></b> - Hassey (56%) def. LeBlanc (44%)</li>  
+<li>Massey: <b><i>ARIZ</i></b> - Hassey (55%) def. LeBlanc (45%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Hassey (81%) def. LeBlanc (19%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Hassey (1.70) def. LeBlanc (0.00)</li>  
 </ul>

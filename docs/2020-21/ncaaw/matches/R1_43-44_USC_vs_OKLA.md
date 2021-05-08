@@ -100,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Cheong (75%) def. Capurro (25%)</li>  
 <li>Slam: <b><i>USC</i></b> - Cheong (81%) def. Capurro (19%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cheong (80%) def. Capurro (20%)</li>  
-<li>Massey: <b><i>USC</i></b> - Cheong (62%) def. Capurro (38%)</li>  
+<li>Massey: <b><i>USC</i></b> - Cheong (61%) def. Capurro (39%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cheong (81%) def. Capurro (19%)</li>  
 <li>ITA: <b><i>USC</i></b> - Cheong (4.19) def. Capurro (1.84)</li>  
 </ul>
@@ -111,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Willson (70%) def. Motosono (30%)</li>  
 <li>Slam: <b><i>USC</i></b> - Willson (73%) def. Motosono (27%)</li>  
 <li>TRN: <b><i>USC</i></b> - Willson (71%) def. Motosono (29%)</li>  
-<li>Massey: <b><i>USC</i></b> - Willson (62%) def. Motosono (38%)</li>  
+<li>Massey: <b><i>USC</i></b> - Willson (61%) def. Motosono (39%)</li>  
 <li>UTR: <b><i>USC</i></b> - Willson (78%) def. Motosono (22%)</li>  
 <li>ITA: <b><i>USC</i></b> - Willson (1.74) def. Motosono (1.65)</li>  
 </ul>
@@ -122,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Dvorak (97%) def. Romero (3%)</li>  
 <li>Slam: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
 <li>TRN: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
-<li>Massey: <b><i>USC</i></b> - Dvorak (90%) def. Romero (10%)</li>  
+<li>Massey: <b><i>USC</i></b> - Dvorak (89%) def. Romero (11%)</li>  
 <li>UTR: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dvorak (1.85) def. Romero (0.00)</li>  
 </ul>

@@ -75,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AUB</i></b> - Ansari (52%) def. Salas (48%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Ansari (57%) def. Salas (43%)</li>  
-<li>Massey: <b><i>AUB</i></b> - Ansari (61%) def. Salas (39%)</li>  
+<li>Massey: <b><i>AUB</i></b> - Ansari (60%) def. Salas (40%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Salas (70%) def. Ansari (30%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Salas (14.35) def. Ansari (7.96)</li>  
 </ul>
@@ -97,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>AUB</i></b> - Axon (52%) def. Hule (48%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Hule (52%) def. Axon (48%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Hule (52%) def. Axon (48%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Hule (47%) def. Axon (53%)</li>  
+<li>Massey: <b><i>AUB</i></b> - Axon (52%) def. Hule (48%)</li>  
 <li>UTR: <b><i>AUB</i></b> - Axon (65%) def. Hule (35%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Hule (3.24) def. Axon (2.43)</li>  
 </ul>

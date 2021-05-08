@@ -42,7 +42,7 @@ Predictions:
   AVG: UK - Kentucky (67%) def. Arizona (33%)
   SLM: "UK - #17 Kentucky (71%) def. #21 Arizona (29%)"
   TRN: "UK - #17 Kentucky (69%) def. #20 Arizona (31%)"
-  MAS: "UK - #17 Kentucky (48%) def. #18 Arizona (52%)"
+  MAS: "ARIZ - #18 Arizona (51%) def. #17 Kentucky (49%)"
   LNUP: UK - Kentucky (80%) def. Arizona (20%)
   UTR: "UK - #16 Kentucky (+0.53) def. #21 Arizona (-0.53)"
   ITA: "UK - #15 Kentucky def. #17 Arizona"
@@ -104,7 +104,7 @@ Lineups:
         AVG: ARIZ - Reguant (61%) def. Lapadat (39%)
         SLM: ARIZ - Reguant (61%) def. Lapadat (39%)
         TRN: ARIZ - Reguant (53%) def. Lapadat (47%)
-        MAS: ARIZ - Reguant (54%) def. Lapadat (46%)
+        MAS: ARIZ - Reguant (53%) def. Lapadat (47%)
         UTR: ARIZ - Reguant (79%) def. Lapadat (21%)
         ITA: UK - Lapadat (6.21) def. Reguant (2.55)
     - Position: 6
@@ -114,7 +114,7 @@ Lineups:
         AVG: ARIZ - Hassey (72%) def. LeBlanc (28%)
         SLM: ARIZ - Hassey (78%) def. LeBlanc (22%)
         TRN: ARIZ - Hassey (79%) def. LeBlanc (21%)
-        MAS: ARIZ - Hassey (56%) def. LeBlanc (44%)
+        MAS: ARIZ - Hassey (55%) def. LeBlanc (45%)
         UTR: ARIZ - Hassey (81%) def. LeBlanc (19%)
         ITA: ARIZ - Hassey (1.70) def. LeBlanc (0.00)
   Doubles:

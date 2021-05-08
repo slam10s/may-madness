@@ -67,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>Slam: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Kozarov (72%) def. Campana (28%)</li>  
-<li>Massey: <b><i>FUR</i></b> - Kozarov (57%) def. Campana (43%)</li>  
+<li>Massey: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Campana (56%) def. Kozarov (44%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (28.61) def. Kozarov (26.43)</li>  
 </ul>
@@ -78,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FUR</i></b> - Adams (58%) def. Campana (42%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Campana (52%) def. Adams (48%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Adams (61%) def. Campana (39%)</li>  
-<li>Massey: <b><i>FUR</i></b> - Adams (57%) def. Campana (43%)</li>  
+<li>Massey: <b><i>FUR</i></b> - Adams (56%) def. Campana (44%)</li>  
 <li>UTR: <b><i>FUR</i></b> - Adams (71%) def. Campana (29%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (11.52) def. Adams (5.79)</li>  
 </ul>

@@ -44,7 +44,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***A&M*** - Texas A&M (54%) def. Northwestern (46%)  
 - Slam: ***A&M*** - #15 Texas A&M (55%) def. #18 Northwestern (45%)  
 - TRN: ***NW*** - #13 Northwestern (56%) def. #14 Texas A&M (44%)  
-- Massey: ***NW*** - #20 Northwestern (52%) def. #21 Texas A&M (48%)  
+- Massey: ***NW*** - #20 Northwestern (51%) def. #21 Texas A&M (49%)  
 - Lineup: ***A&M*** - Texas A&M (70%) def. Northwestern (30%)  
 - UTR: ***A&M*** - #21 Texas A&M (+1.27) def. #33 Northwestern (-1.27)  
 - ITA: ***A&M*** - #10 Texas A&M def. #21 Northwestern  
@@ -76,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NW</i></b> - Hand (51%) def. Goldsmith (49%)</li>  
 <li>Slam: <b><i>NW</i></b> - Hand (52%) def. Goldsmith (48%)</li>  
 <li>TRN: <b><i>NW</i></b> - Hand (56%) def. Goldsmith (44%)</li>  
-<li>Massey: <b><i>NW</i></b> - Hand (64%) def. Goldsmith (36%)</li>  
+<li>Massey: <b><i>NW</i></b> - Hand (63%) def. Goldsmith (37%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Goldsmith (64%) def. Hand (36%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (4.82) def. Goldsmith (3.03)</li>  
 </ul>
@@ -87,7 +87,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Townsend (51%) def. Byrne (49%)</li>  
 <li>Slam: <b><i>NW</i></b> - Byrne (64%) def. Townsend (36%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Townsend (53%) def. Byrne (47%)</li>  
-<li>Massey: <b><i>NW</i></b> - Byrne (62%) def. Townsend (38%)</li>  
+<li>Massey: <b><i>NW</i></b> - Byrne (61%) def. Townsend (39%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Townsend (79%) def. Byrne (21%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Townsend (3.71) def. Byrne (1.56)</li>  
 </ul>
@@ -98,7 +98,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Faa-Hviding (51%) def. Crowley (49%)</li>  
 <li>Slam: <b><i>NW</i></b> - Crowley (52%) def. Faa-Hviding (48%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (55%) def. Crowley (45%)</li>  
-<li>Massey: <b><i>NW</i></b> - Crowley (59%) def. Faa-Hviding (41%)</li>  
+<li>Massey: <b><i>NW</i></b> - Crowley (58%) def. Faa-Hviding (42%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Faa-Hviding (59%) def. Crowley (41%)</li>  
 <li>ITA: <b><i>NW</i></b> - Crowley (1.93) def. Faa-Hviding (1.87)</li>  
 </ul>
@@ -120,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - McQuaid (58%) def. Hand (42%)</li>  
 <li>Slam: <b><i>A&M</i></b> - McQuaid (63%) def. Hand (37%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McQuaid (66%) def. Hand (34%)</li>  
-<li>Massey: <b><i>NW</i></b> - Hand (67%) def. McQuaid (33%)</li>  
+<li>Massey: <b><i>NW</i></b> - Hand (66%) def. McQuaid (34%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McQuaid (69%) def. Hand (31%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (2.48) def. McQuaid (2.12)</li>  
 </ul>

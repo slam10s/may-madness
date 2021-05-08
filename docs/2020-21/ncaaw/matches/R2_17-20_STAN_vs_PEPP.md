@@ -76,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Failla (70%) def. Blake (30%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Failla (85%) def. Blake (15%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Failla (70%) def. Blake (30%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Failla (50%) def. Blake (50%)</li>  
+<li>Massey: <b><i>STAN</i></b> - Blake (50%) def. Failla (50%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Failla (76%) def. Blake (24%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Failla (23.38) def. Blake (5.37)</li>  
 </ul>
@@ -120,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>STAN</i></b> - Higuchi (60%) def. Redelijk (40%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Redelijk (54%) def. Higuchi (46%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Higuchi (53%) def. Redelijk (47%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Higuchi (70%) def. Redelijk (30%)</li>  
+<li>Massey: <b><i>STAN</i></b> - Higuchi (69%) def. Redelijk (31%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Higuchi (75%) def. Redelijk (25%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Higuchi (2.68) def. Redelijk (1.87)</li>  
 </ul>

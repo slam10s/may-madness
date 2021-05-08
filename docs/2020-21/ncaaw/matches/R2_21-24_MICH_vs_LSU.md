@@ -44,7 +44,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***MICH*** - Michigan (71%) def. LSU (29%)  
 - Slam: ***MICH*** - #8 Michigan (73%) def. #21 LSU (27%)  
 - TRN: ***MICH*** - #8 Michigan (79%) def. #18 LSU (21%)  
-- Massey: ***MICH*** - #15 Michigan (58%) def. #21 LSU (42%)  
+- Massey: ***MICH*** - #15 Michigan (57%) def. #21 LSU (43%)  
 - Lineup: ***MICH*** - Michigan (77%) def. LSU (23%)  
 - UTR: ***MICH*** - #17 Michigan (+0.5) def. #26 LSU (-0.5)  
 - ITA: ***LSU*** - #12 LSU def. #19 Michigan  
@@ -65,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Miller (83%) def. Bridges (17%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Miller (84%) def. Bridges (16%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Miller (81%) def. Bridges (19%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Miller (87%) def. Bridges (13%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Miller (86%) def. Bridges (14%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Miller (83%) def. Bridges (17%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Bridges (11.61) def. Miller (10.66)</li>  
 </ul>
@@ -76,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Lommer (70%) def. Carrington (30%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Lommer (70%) def. Carrington (30%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Lommer (68%) def. Carrington (32%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Lommer (80%) def. Carrington (20%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Lommer (79%) def. Carrington (21%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Lommer (66%) def. Carrington (34%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Carrington (4.09) def. Lommer (2.49)</li>  
 </ul>
@@ -98,7 +98,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Brown (63%) def. Cubitt (37%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Brown (65%) def. Cubitt (35%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Brown (69%) def. Cubitt (31%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Brown (56%) def. Cubitt (44%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Brown (55%) def. Cubitt (45%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Brown (67%) def. Cubitt (33%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Brown (2.65) def. Cubitt (2.11)</li>  
 </ul>
@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Jones (69%) def. Richardson (31%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Jones (66%) def. Richardson (34%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Jones (63%) def. Richardson (37%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Jones (74%) def. Richardson (26%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Jones (73%) def. Richardson (27%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Jones (75%) def. Richardson (25%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Jones (2.08) def. Richardson (1.47)</li>  
 </ul>
@@ -120,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Lorenzini (51%) def. Geissler (49%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Geissler (55%) def. Lorenzini (45%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Geissler (69%) def. Lorenzini (31%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Lorenzini (75%) def. Geissler (25%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Lorenzini (74%) def. Geissler (26%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Lorenzini (54%) def. Geissler (46%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Lorenzini (2.86) def. Geissler (2.01)</li>  
 </ul>

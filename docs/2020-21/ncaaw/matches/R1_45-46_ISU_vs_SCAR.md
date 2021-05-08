@@ -111,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>SCAR</i></b> - Gretkowski (53%) def. Kezuka (47%)</li>  
 <li>Slam: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Kezuka (53%) def. Gretkowski (47%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Kezuka (58%) def. Gretkowski (42%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Gretkowski (80%) def. Kezuka (20%)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -121,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
 <li>Slam: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Cabezas (72%) def. Cruz (28%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Cabezas (46%) def. Cruz (54%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Cruz (54%) def. Cabezas (46%)</li>  
 <li>UTR: <b><i>ISU</i></b> - Cabezas (80%) def. Cruz (20%)</li>  
 <li>ITA: <b><i>ISU</i></b> - Cabezas (2.42) def. Cruz (0.00)</li>  
 </ul>

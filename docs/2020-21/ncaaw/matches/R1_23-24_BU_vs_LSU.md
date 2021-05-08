@@ -77,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>LSU</i></b> - Carrington (75%) def. Tan (25%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Carrington (79%) def. Tan (21%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Carrington (78%) def. Tan (22%)</li>  
-<li>Massey: <b><i>BU</i></b> - Tan (46%) def. Carrington (54%)</li>  
+<li>Massey: <b><i>LSU</i></b> - Carrington (54%) def. Tan (46%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Carrington (91%) def. Tan (9%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Carrington (4.09) def. Tan (3.03)</li>  
 </ul>

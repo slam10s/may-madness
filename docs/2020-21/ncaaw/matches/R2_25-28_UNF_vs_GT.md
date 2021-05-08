@@ -84,7 +84,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>GT</i></b> - Cohen (68%) def. Gorches (32%)</li>  
 <li>Slam: <b><i>GT</i></b> - Cohen (81%) def. Gorches (19%)</li>  
 <li>TRN: <b><i>GT</i></b> - Cohen (79%) def. Gorches (21%)</li>  
-<li>Massey: <b><i>GT</i></b> - Cohen (46%) def. Gorches (54%)</li>  
+<li>Massey: <b><i>UNF</i></b> - Gorches (53%) def. Cohen (47%)</li>  
 <li>UTR: <b><i>GT</i></b> - Cohen (66%) def. Gorches (34%)</li>  
 <li>ITA: <b><i>GT</i></b> - Cohen (3.38) def. Gorches (1.63)</li>  
 </ul>

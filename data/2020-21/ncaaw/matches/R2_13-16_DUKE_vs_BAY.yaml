@@ -42,7 +42,7 @@ Predictions:
   AVG: BAY - Baylor (53%) def. Duke (47%)
   SLM: "BAY - #7 Baylor (70%) def. #14 Duke (30%)"
   TRN: "BAY - #4 Baylor (97%) def. #15 Duke (3%)"
-  MAS: "DUKE - #11 Duke (67%) def. #12 Baylor (33%)"
+  MAS: "DUKE - #11 Duke (66%) def. #12 Baylor (34%)"
   LNUP: DUKE - Duke (87%) def. Baylor (13%)
   UTR: "BAY - #8 Baylor (+0.69) def. #12 Duke (-0.69)"
   ITA: "BAY - #8 Baylor def. #17 Duke"
@@ -64,7 +64,7 @@ Lineups:
         AVG: DUKE - Chen (55%) def. Krywoj (45%)
         SLM: DUKE - Chen (66%) def. Krywoj (34%)
         TRN: DUKE - Chen (62%) def. Krywoj (38%)
-        MAS: DUKE - Chen (59%) def. Krywoj (41%)
+        MAS: DUKE - Chen (58%) def. Krywoj (42%)
         UTR: BAY - Krywoj (62%) def. Chen (38%)
         ITA: DUKE - Chen (12.42) def. Krywoj (8.77)
     - Position: 2
@@ -74,7 +74,7 @@ Lineups:
         AVG: DUKE - Drummy (90%) def. Hinojosa (10%)
         SLM: DUKE - Drummy (90%) def. Hinojosa (10%)
         TRN: DUKE - Drummy (88%) def. Hinojosa (12%)
-        MAS: DUKE - Drummy (95%) def. Hinojosa (5%)
+        MAS: DUKE - Drummy (94%) def. Hinojosa (6%)
         UTR: DUKE - Drummy (92%) def. Hinojosa (8%)
         ITA: DUKE - Drummy (24.14) def. Hinojosa (3.62)
     - Position: 3
@@ -84,7 +84,7 @@ Lineups:
         AVG: DUKE - Beck (75%) def. Herrero (25%)
         SLM: DUKE - Beck (75%) def. Herrero (25%)
         TRN: DUKE - Beck (78%) def. Herrero (22%)
-        MAS: DUKE - Beck (78%) def. Herrero (22%)
+        MAS: DUKE - Beck (77%) def. Herrero (23%)
         UTR: DUKE - Beck (73%) def. Herrero (27%)
         ITA: DUKE - Beck (15.35) def. Herrero (2.87)
     - Position: 4
@@ -94,7 +94,7 @@ Lineups:
         AVG: DUKE - Chi (81%) def. Shakhraichuck (19%)
         SLM: DUKE - Chi (81%) def. Shakhraichuck (19%)
         TRN: DUKE - Chi (87%) def. Shakhraichuck (13%)
-        MAS: DUKE - Chi (76%) def. Shakhraichuck (24%)
+        MAS: DUKE - Chi (75%) def. Shakhraichuck (25%)
         UTR: DUKE - Chi (82%) def. Shakhraichuck (18%)
         ITA: DUKE - Chi (15.20) def. Shakhraichuck (1.88)
     - Position: 5
@@ -104,7 +104,7 @@ Lineups:
         AVG: DUKE - Bilokin (70%) def. Sorokolet (30%)
         SLM: DUKE - Bilokin (70%) def. Sorokolet (30%)
         TRN: DUKE - Bilokin (68%) def. Sorokolet (32%)
-        MAS: DUKE - Bilokin (64%) def. Sorokolet (36%)
+        MAS: DUKE - Bilokin (63%) def. Sorokolet (37%)
         UTR: DUKE - Bilokin (81%) def. Sorokolet (19%)
         ITA: DUKE - Bilokin (2.72) def. Sorokolet (1.95)
     - Position: 6

@@ -75,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Cayetano (77%) def. Zein (23%)</li>  
 <li>Slam: <b><i>USC</i></b> - Cayetano (78%) def. Zein (22%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cayetano (82%) def. Zein (18%)</li>  
-<li>Massey: <b><i>USC</i></b> - Cayetano (63%) def. Zein (37%)</li>  
+<li>Massey: <b><i>USC</i></b> - Cayetano (62%) def. Zein (38%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cayetano (89%) def. Zein (11%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Zein (8.25) def. Cayetano (5.85)</li>  
 </ul>
@@ -108,7 +108,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Willson (65%) def. Dahlstrom (35%)</li>  
 <li>Slam: <b><i>USC</i></b> - Willson (63%) def. Dahlstrom (37%)</li>  
 <li>TRN: <b><i>USC</i></b> - Willson (71%) def. Dahlstrom (29%)</li>  
-<li>Massey: <b><i>USC</i></b> - Willson (63%) def. Dahlstrom (37%)</li>  
+<li>Massey: <b><i>USC</i></b> - Willson (62%) def. Dahlstrom (38%)</li>  
 <li>UTR: <b><i>USC</i></b> - Willson (69%) def. Dahlstrom (31%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Dahlstrom (3.40) def. Willson (1.74)</li>  
 </ul>

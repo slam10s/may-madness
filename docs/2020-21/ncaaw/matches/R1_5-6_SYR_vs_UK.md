@@ -67,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>SYR</i></b> - Kanapatskaya (61%) def. Parazinskaite (39%)</li>  
 <li>Slam: <b><i>SYR</i></b> - Kanapatskaya (65%) def. Parazinskaite (35%)</li>  
 <li>TRN: <b><i>SYR</i></b> - Kanapatskaya (65%) def. Parazinskaite (35%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Kanapatskaya (56%) def. Parazinskaite (44%)</li>  
+<li>Massey: <b><i>SYR</i></b> - Kanapatskaya (55%) def. Parazinskaite (45%)</li>  
 <li>UTR: <b><i>SYR</i></b> - Kanapatskaya (64%) def. Parazinskaite (36%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Kanapatskaya (30.96) def. Parazinskaite (0.00)</li>  
 </ul>
@@ -110,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UK</i></b> - Girbau (60%) def. Erman (40%)</li>  
 <li>Slam: <b><i>UK</i></b> - Girbau (64%) def. Erman (36%)</li>  
 <li>TRN: <b><i>UK</i></b> - Girbau (61%) def. Erman (39%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Erman (59%) def. Girbau (41%)</li>  
+<li>Massey: <b><i>SYR</i></b> - Erman (58%) def. Girbau (42%)</li>  
 <li>UTR: <b><i>UK</i></b> - Girbau (74%) def. Erman (26%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Erman (1.82) def. Girbau (0.00)</li>  
 </ul>
@@ -121,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>SYR</i></b> - Kozyreva (61%) def. Arrese (39%)</li>  
 <li>Slam: <b><i>UK</i></b> - Arrese (60%) def. Kozyreva (40%)</li>  
 <li>TRN: <b><i>UK</i></b> - Arrese (57%) def. Kozyreva (43%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Kozyreva (64%) def. Arrese (36%)</li>  
+<li>Massey: <b><i>SYR</i></b> - Kozyreva (63%) def. Arrese (37%)</li>  
 <li>UTR: <b><i>SYR</i></b> - Kozyreva (100%) def. Arrese (0%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Kozyreva (1.79) def. Arrese (1.49)</li>  
 </ul>

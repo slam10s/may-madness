@@ -42,7 +42,7 @@ Predictions:
   AVG: A&M - Texas A&M (54%) def. Northwestern (46%)
   SLM: "A&M - #15 Texas A&M (55%) def. #18 Northwestern (45%)"
   TRN: "NW - #13 Northwestern (56%) def. #14 Texas A&M (44%)"
-  MAS: "NW - #20 Northwestern (52%) def. #21 Texas A&M (48%)"
+  MAS: "NW - #20 Northwestern (51%) def. #21 Texas A&M (49%)"
   LNUP: A&M - Texas A&M (70%) def. Northwestern (30%)
   UTR: "A&M - #21 Texas A&M (+1.27) def. #33 Northwestern (-1.27)"
   ITA: "A&M - #10 Texas A&M def. #21 Northwestern"
@@ -74,7 +74,7 @@ Lineups:
         AVG: NW - Hand (51%) def. Goldsmith (49%)
         SLM: NW - Hand (52%) def. Goldsmith (48%)
         TRN: NW - Hand (56%) def. Goldsmith (44%)
-        MAS: NW - Hand (64%) def. Goldsmith (36%)
+        MAS: NW - Hand (63%) def. Goldsmith (37%)
         UTR: A&M - Goldsmith (64%) def. Hand (36%)
         ITA: NW - Hand (4.82) def. Goldsmith (3.03)
     - Position: 3
@@ -84,7 +84,7 @@ Lineups:
         AVG: A&M - Townsend (51%) def. Byrne (49%)
         SLM: NW - Byrne (64%) def. Townsend (36%)
         TRN: A&M - Townsend (53%) def. Byrne (47%)
-        MAS: NW - Byrne (62%) def. Townsend (38%)
+        MAS: NW - Byrne (61%) def. Townsend (39%)
         UTR: A&M - Townsend (79%) def. Byrne (21%)
         ITA: A&M - Townsend (3.71) def. Byrne (1.56)
     - Position: 4
@@ -94,7 +94,7 @@ Lineups:
         AVG: A&M - Faa-Hviding (51%) def. Crowley (49%)
         SLM: NW - Crowley (52%) def. Faa-Hviding (48%)
         TRN: A&M - Faa-Hviding (55%) def. Crowley (45%)
-        MAS: NW - Crowley (59%) def. Faa-Hviding (41%)
+        MAS: NW - Crowley (58%) def. Faa-Hviding (42%)
         UTR: A&M - Faa-Hviding (59%) def. Crowley (41%)
         ITA: NW - Crowley (1.93) def. Faa-Hviding (1.87)
     - Position: 5
@@ -114,7 +114,7 @@ Lineups:
         AVG: A&M - McQuaid (58%) def. Hand (42%)
         SLM: A&M - McQuaid (63%) def. Hand (37%)
         TRN: A&M - McQuaid (66%) def. Hand (34%)
-        MAS: NW - Hand (67%) def. McQuaid (33%)
+        MAS: NW - Hand (66%) def. McQuaid (34%)
         UTR: A&M - McQuaid (69%) def. Hand (31%)
         ITA: NW - Hand (2.48) def. McQuaid (2.12)
   Doubles:

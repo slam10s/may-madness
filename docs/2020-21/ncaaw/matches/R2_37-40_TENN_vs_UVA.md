@@ -98,7 +98,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TENN</i></b> - Kuczer (82%) def. Shaikh (18%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Kuczer (73%) def. Shaikh (27%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Kuczer (88%) def. Shaikh (12%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Kuczer (84%) def. Shaikh (16%)</li>  
+<li>Massey: <b><i>TENN</i></b> - Kuczer (83%) def. Shaikh (17%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Kuczer (86%) def. Shaikh (14%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Kuczer (3.41) def. Shaikh (1.63)</li>  
 </ul>
@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TENN</i></b> - McGiffin (91%) def. O'Dell (9%)</li>  
 <li>Slam: <b><i>TENN</i></b> - McGiffin (100%) def. O'Dell (0%)</li>  
 <li>TRN: <b><i>TENN</i></b> - McGiffin (100%) def. O'Dell (0%)</li>  
-<li>Massey: <b><i>TENN</i></b> - McGiffin (68%) def. O'Dell (32%)</li>  
+<li>Massey: <b><i>TENN</i></b> - McGiffin (67%) def. O'Dell (33%)</li>  
 <li>UTR: <b><i>TENN</i></b> - McGiffin (100%) def. O'Dell (0%)</li>  
 <li>ITA: <b><i>TENN</i></b> - McGiffin (1.61) def. O'Dell (1.59)</li>  
 </ul>
@@ -120,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TENN</i></b> - Silva (66%) def. Glozman (34%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Silva (67%) def. Glozman (33%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Silva (62%) def. Glozman (38%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Glozman (45%) def. Silva (55%)</li>  
+<li>Massey: <b><i>TENN</i></b> - Silva (54%) def. Glozman (46%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Silva (82%) def. Glozman (18%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Glozman (2.77) def. Silva (1.85)</li>  
 </ul>

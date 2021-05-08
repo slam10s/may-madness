@@ -42,7 +42,7 @@ Predictions:
   AVG: OSU - Ohio St. (65%) def. Wake Forest (35%)
   SLM: "OSU - #7 Ohio St. (60%) def. #10 Wake Forest (40%)"
   TRN: "OSU - #8 Ohio St. (68%) def. #10 Wake Forest (32%)"
-  MAS: "OSU - #9 Ohio St. (63%) def. #13 Wake Forest (37%)"
+  MAS: "OSU - #9 Ohio St. (62%) def. #13 Wake Forest (38%)"
   LNUP: OSU - Ohio St. (74%) def. Wake Forest (26%)
   UTR: "OSU - #3 Ohio St. (+0.49) def. #7 Wake Forest (-0.49)"
   ITA: "WAKE - #9 Wake Forest def. #31 Ohio St."
@@ -74,7 +74,7 @@ Lineups:
         AVG: OSU - Kingsley (76%) def. Nava (24%)
         SLM: OSU - Kingsley (87%) def. Nava (13%)
         TRN: OSU - Kingsley (82%) def. Nava (18%)
-        MAS: OSU - Kingsley (57%) def. Nava (43%)
+        MAS: OSU - Kingsley (56%) def. Nava (44%)
         UTR: OSU - Kingsley (83%) def. Nava (17%)
         ITA: WAKE - Nava (19.97) def. Kingsley (5.20)
     - Position: 3
@@ -84,7 +84,7 @@ Lineups:
         AVG: OSU - Trotter (64%) def. Baadi (36%)
         SLM: OSU - Trotter (61%) def. Baadi (39%)
         TRN: OSU - Trotter (69%) def. Baadi (31%)
-        MAS: OSU - Trotter (53%) def. Baadi (47%)
+        MAS: OSU - Trotter (52%) def. Baadi (48%)
         UTR: OSU - Trotter (80%) def. Baadi (20%)
         ITA: WAKE - Baadi (6.71) def. Trotter (3.90)
     - Position: 4
@@ -104,7 +104,7 @@ Lineups:
         AVG: OSU - Seelig (70%) def. Efstathiou (30%)
         SLM: OSU - Seelig (75%) def. Efstathiou (25%)
         TRN: OSU - Seelig (66%) def. Efstathiou (34%)
-        MAS: OSU - Seelig (57%) def. Efstathiou (43%)
+        MAS: OSU - Seelig (56%) def. Efstathiou (44%)
         UTR: OSU - Seelig (87%) def. Efstathiou (13%)
         ITA: WAKE - Efstathiou (2.09) def. Seelig (2.02)
     - Position: 6
@@ -114,7 +114,7 @@ Lineups:
         AVG: OSU - Tracy (67%) def. Banthia (33%)
         SLM: OSU - Tracy (70%) def. Banthia (30%)
         TRN: OSU - Tracy (67%) def. Banthia (33%)
-        MAS: OSU - Tracy (54%) def. Banthia (46%)
+        MAS: OSU - Tracy (53%) def. Banthia (47%)
         UTR: OSU - Tracy (81%) def. Banthia (19%)
         ITA: OSU - Tracy (3.11) def. Banthia (2.98)
   Doubles:

@@ -9,10 +9,10 @@ Return to the [Home Page](../../index.md)
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at  5:00 EDT	[Ohio St. vs #10 Wake Forest](./matches/R2_53-56_OSU_vs_WAKE.md) ... WAKE (35%) / <i>OSU (65%)</i>
+- Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (67%) / ARIZ (33%)
 
 The metrics agree on the winner, but not by a lot:
 
-- Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (67%) / ARIZ (33%)
 - Sat, 5/08 at  1:00 EDT	[NC State vs #13 South Carolina](./matches/R2_25-28_NCST_vs_SCAR.md) ... SCAR (76%) / NCST (24%)
 
 ### Heavy Favorites

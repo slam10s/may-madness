@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Harper (100%) def. Gahlot (0%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Harper (100%) def. Gahlot (0%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Harper def. Gahlot</li>  
+<li>Massey: <b><i>AAMU</i></b> - Gahlot (NaN%) def. Harper (NaN%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Harper (5.43) def. Gahlot (1.77)</li>  
 </ul>

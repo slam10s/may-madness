@@ -44,7 +44,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***BAY*** - Baylor (53%) def. Duke (47%)  
 - Slam: ***BAY*** - #7 Baylor (70%) def. #14 Duke (30%)  
 - TRN: ***BAY*** - #4 Baylor (97%) def. #15 Duke (3%)  
-- Massey: ***DUKE*** - #11 Duke (67%) def. #12 Baylor (33%)  
+- Massey: ***DUKE*** - #11 Duke (66%) def. #12 Baylor (34%)  
 - Lineup: ***DUKE*** - Duke (87%) def. Baylor (13%)  
 - UTR: ***BAY*** - #8 Baylor (+0.69) def. #12 Duke (-0.69)  
 - ITA: ***BAY*** - #8 Baylor def. #17 Duke  
@@ -65,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>DUKE</i></b> - Chen (55%) def. Krywoj (45%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Chen (66%) def. Krywoj (34%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chen (62%) def. Krywoj (38%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Chen (59%) def. Krywoj (41%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Chen (58%) def. Krywoj (42%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Krywoj (62%) def. Chen (38%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chen (12.42) def. Krywoj (8.77)</li>  
 </ul>
@@ -76,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>DUKE</i></b> - Drummy (90%) def. Hinojosa (10%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Drummy (90%) def. Hinojosa (10%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Drummy (88%) def. Hinojosa (12%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Drummy (95%) def. Hinojosa (5%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Drummy (94%) def. Hinojosa (6%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Drummy (92%) def. Hinojosa (8%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Drummy (24.14) def. Hinojosa (3.62)</li>  
 </ul>
@@ -87,7 +87,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>DUKE</i></b> - Beck (75%) def. Herrero (25%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Beck (75%) def. Herrero (25%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Beck (78%) def. Herrero (22%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Beck (78%) def. Herrero (22%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Beck (77%) def. Herrero (23%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Beck (73%) def. Herrero (27%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Beck (15.35) def. Herrero (2.87)</li>  
 </ul>
@@ -98,7 +98,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>DUKE</i></b> - Chi (81%) def. Shakhraichuck (19%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Chi (81%) def. Shakhraichuck (19%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chi (87%) def. Shakhraichuck (13%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Chi (76%) def. Shakhraichuck (24%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Chi (75%) def. Shakhraichuck (25%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chi (82%) def. Shakhraichuck (18%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chi (15.20) def. Shakhraichuck (1.88)</li>  
 </ul>
@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>DUKE</i></b> - Bilokin (70%) def. Sorokolet (30%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Bilokin (70%) def. Sorokolet (30%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Bilokin (68%) def. Sorokolet (32%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Bilokin (64%) def. Sorokolet (36%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Bilokin (63%) def. Sorokolet (37%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Bilokin (81%) def. Sorokolet (19%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Bilokin (2.72) def. Sorokolet (1.95)</li>  
 </ul>

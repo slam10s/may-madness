@@ -86,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ND</i></b> - McCormick (51%) def. Brown (49%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Brown (66%) def. McCormick (34%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (58%) def. McCormick (42%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Brown (47%) def. McCormick (53%)</li>  
+<li>Massey: <b><i>ND</i></b> - McCormick (52%) def. Brown (48%)</li>  
 <li>UTR: <b><i>ND</i></b> - McCormick (73%) def. Brown (27%)</li>  
 <li>ITA: <b><i>ND</i></b> - McCormick (3.76) def. Brown (1.47)</li>  
 </ul>

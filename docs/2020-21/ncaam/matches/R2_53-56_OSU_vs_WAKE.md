@@ -44,7 +44,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***OSU*** - Ohio St. (65%) def. Wake Forest (35%)  
 - Slam: ***OSU*** - #7 Ohio St. (60%) def. #10 Wake Forest (40%)  
 - TRN: ***OSU*** - #8 Ohio St. (68%) def. #10 Wake Forest (32%)  
-- Massey: ***OSU*** - #9 Ohio St. (63%) def. #13 Wake Forest (37%)  
+- Massey: ***OSU*** - #9 Ohio St. (62%) def. #13 Wake Forest (38%)  
 - Lineup: ***OSU*** - Ohio St. (74%) def. Wake Forest (26%)  
 - UTR: ***OSU*** - #3 Ohio St. (+0.49) def. #7 Wake Forest (-0.49)  
 - ITA: ***WAKE*** - #9 Wake Forest def. #31 Ohio St.  
@@ -76,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Kingsley (76%) def. Nava (24%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Kingsley (87%) def. Nava (13%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Kingsley (82%) def. Nava (18%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Kingsley (57%) def. Nava (43%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Kingsley (56%) def. Nava (44%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Kingsley (83%) def. Nava (17%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Nava (19.97) def. Kingsley (5.20)</li>  
 </ul>
@@ -87,7 +87,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Trotter (64%) def. Baadi (36%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Trotter (61%) def. Baadi (39%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Trotter (69%) def. Baadi (31%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Trotter (53%) def. Baadi (47%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Trotter (52%) def. Baadi (48%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Trotter (80%) def. Baadi (20%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Baadi (6.71) def. Trotter (3.90)</li>  
 </ul>
@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Seelig (70%) def. Efstathiou (30%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Seelig (75%) def. Efstathiou (25%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Seelig (66%) def. Efstathiou (34%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Seelig (57%) def. Efstathiou (43%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Seelig (56%) def. Efstathiou (44%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Seelig (87%) def. Efstathiou (13%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Efstathiou (2.09) def. Seelig (2.02)</li>  
 </ul>
@@ -120,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Tracy (67%) def. Banthia (33%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Tracy (70%) def. Banthia (30%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Tracy (67%) def. Banthia (33%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Tracy (54%) def. Banthia (46%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Tracy (53%) def. Banthia (47%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Tracy (81%) def. Banthia (19%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Tracy (3.11) def. Banthia (2.98)</li>  
 </ul>

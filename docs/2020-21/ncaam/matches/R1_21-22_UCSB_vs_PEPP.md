@@ -66,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCSB</i></b> - Guillin (78%) def. Oetzbach (22%)</li>  
 <li>Slam: <b><i>UCSB</i></b> - Guillin (81%) def. Oetzbach (19%)</li>  
 <li>TRN: <b><i>UCSB</i></b> - Guillin (83%) def. Oetzbach (17%)</li>  
-<li>Massey: <b><i>UCSB</i></b> - Guillin (77%) def. Oetzbach (23%)</li>  
+<li>Massey: <b><i>UCSB</i></b> - Guillin (76%) def. Oetzbach (24%)</li>  
 <li>UTR: <b><i>UCSB</i></b> - Guillin (75%) def. Oetzbach (25%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Oetzbach (5.20) def. Guillin (3.96)</li>  
 </ul>

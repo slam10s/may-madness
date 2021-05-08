@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NW</i></b> - Stary (56%) def. Baird (44%)</li>  
 <li>Slam: <b><i>NW</i></b> - Stary (69%) def. Baird (31%)</li>  
 <li>TRN: <b><i>NW</i></b> - Stary (64%) def. Baird (36%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Baird (40%) def. Stary (60%)</li>  
+<li>Massey: <b><i>NW</i></b> - Stary (59%) def. Baird (41%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Baird (66%) def. Stary (34%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Baird (3.85) def. Stary (0.00)</li>  
 </ul>
@@ -85,7 +85,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NW</i></b> - Brookes (64%) def. Goldberg (36%)</li>  
 <li>Slam: <b><i>NW</i></b> - Brookes (66%) def. Goldberg (34%)</li>  
 <li>TRN: <b><i>NW</i></b> - Brookes (52%) def. Goldberg (48%)</li>  
-<li>Massey: <b><i>NW</i></b> - Brookes (65%) def. Goldberg (35%)</li>  
+<li>Massey: <b><i>NW</i></b> - Brookes (64%) def. Goldberg (36%)</li>  
 <li>UTR: <b><i>NW</i></b> - Brookes (77%) def. Goldberg (23%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Goldberg (1.97) def. Brookes (1.58)</li>  
 </ul>
@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NW</i></b> - Ephron (52%) def. Feit (48%)</li>  
 <li>Slam: <b><i>NW</i></b> - Ephron (65%) def. Feit (35%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Feit (51%) def. Ephron (49%)</li>  
-<li>Massey: <b><i>NW</i></b> - Ephron (56%) def. Feit (44%)</li>  
+<li>Massey: <b><i>NW</i></b> - Ephron (55%) def. Feit (45%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Feit (56%) def. Ephron (44%)</li>  
 <li>ITA: <b><i>NW</i></b> - Ephron (2.01) def. Feit (1.91)</li>  
 </ul>
@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NW</i></b> - Bratholm (56%) def. Tsolakyan (44%)</li>  
 <li>Slam: <b><i>NW</i></b> - Bratholm (66%) def. Tsolakyan (34%)</li>  
 <li>TRN: <b><i>NW</i></b> - Bratholm (64%) def. Tsolakyan (36%)</li>  
-<li>Massey: <b><i>NW</i></b> - Bratholm (60%) def. Tsolakyan (40%)</li>  
+<li>Massey: <b><i>NW</i></b> - Bratholm (59%) def. Tsolakyan (41%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Tsolakyan (62%) def. Bratholm (38%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Tsolakyan (2.57) def. Bratholm (2.06)</li>  
 </ul>

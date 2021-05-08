@@ -63,6 +63,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FDU</i></b> - Pukse (75%) def. Soderlund (25%)</li>  
 <li>Slam: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>TRN: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Soderlund (99%) def. Pukse (1%)</li>  
 <li>UTR: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Soderlund (48.38) def. Pukse (1.52)</li>  
 </ul>

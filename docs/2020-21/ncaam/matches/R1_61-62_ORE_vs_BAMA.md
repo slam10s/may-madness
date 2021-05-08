@@ -43,7 +43,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***BAMA*** - Alabama (60%) def. Oregon (40%)  
 - Slam: ***BAMA*** - #28 Alabama (70%) def. #44 Oregon (30%)  
 - TRN: ***BAMA*** - #27 Alabama (71%) def. #41 Oregon (29%)  
-- Massey: ***ORE*** - #30 Oregon (59%) def. #38 Alabama (41%)  
+- Massey: ***ORE*** - #30 Oregon (58%) def. #38 Alabama (42%)  
 - Lineup: ***BAMA*** - Alabama (59%) def. Oregon (41%)  
 - UTR: ***BAMA*** - #30 Alabama (+0.28) def. #33 Oregon (-0.28)  
 - ITA: ***BAMA*** - #26 Alabama def. #36 Oregon  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ORE</i></b> - Coste (69%) def. Ortiz (31%)</li>  
 <li>Slam: <b><i>ORE</i></b> - Coste (73%) def. Ortiz (27%)</li>  
 <li>TRN: <b><i>ORE</i></b> - Coste (76%) def. Ortiz (24%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Coste (56%) def. Ortiz (44%)</li>  
+<li>Massey: <b><i>ORE</i></b> - Coste (55%) def. Ortiz (45%)</li>  
 <li>UTR: <b><i>ORE</i></b> - Coste (76%) def. Ortiz (24%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Ortiz (18.41) def. Coste (3.31)</li>  
 </ul>
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
 <li>Slam: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
 <li>TRN: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Charlton (63%) def. Kaukovalta (37%)</li>  
+<li>Massey: <b><i>ORE</i></b> - Charlton (62%) def. Kaukovalta (38%)</li>  
 <li>UTR: <b><i>ORE</i></b> - Charlton (76%) def. Kaukovalta (24%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Kaukovalta (11.09) def. Charlton (2.88)</li>  
 </ul>
@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ORE</i></b> - Klov-Nilsson (51%) def. Roberto (49%)</li>  
 <li>Slam: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Klov-Nilsson (63%) def. Roberto (37%)</li>  
+<li>Massey: <b><i>ORE</i></b> - Klov-Nilsson (62%) def. Roberto (38%)</li>  
 <li>UTR: <b><i>BAMA</i></b> - Roberto (53%) def. Klov-Nilsson (47%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Roberto (2.71) def. Klov-Nilsson (2.61)</li>  
 </ul>

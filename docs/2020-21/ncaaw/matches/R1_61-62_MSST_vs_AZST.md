@@ -67,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MSST</i></b> - Antonaki (54%) def. Hattingh (46%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Hattingh (65%) def. Antonaki (35%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Antonaki (61%) def. Hattingh (39%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Antonaki (64%) def. Hattingh (36%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Antonaki (63%) def. Hattingh (37%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Antonaki (59%) def. Hattingh (41%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Antonaki (17.81) def. Hattingh (6.86)</li>  
 </ul>

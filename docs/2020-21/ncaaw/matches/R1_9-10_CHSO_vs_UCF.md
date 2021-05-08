@@ -121,6 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>CHSO</i></b> - Pyrtiz (97%) def. Bay (3%)</li>  
 <li>Slam: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
 <li>TRN: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
+<li>Massey: <b><i>CHSO</i></b> - Pyrtiz (89%) def. Bay (11%)</li>  
 <li>UTR: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
 <li>ITA: <b><i>CHSO</i></b> - Pyrtiz (1.53) def. Bay (0.00)</li>  
 </ul>

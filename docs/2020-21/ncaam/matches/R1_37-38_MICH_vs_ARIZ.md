@@ -48,7 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***MICH*** - Michigan (72%) def. Arizona (28%)  
 - Slam: ***MICH*** - #13 Michigan (78%) def. #21 Arizona (22%)  
 - TRN: ***MICH*** - #12 Michigan (88%) def. #20 Arizona (12%)  
-- Massey: ***MICH*** - #14 Michigan (55%) def. #18 Arizona (45%)  
+- Massey: ***MICH*** - #14 Michigan (54%) def. #18 Arizona (46%)  
 - Lineup: ***MICH*** - Michigan (70%) def. Arizona (30%)  
 - UTR: ***MICH*** - #18 Michigan (+0.3) def. #21 Arizona (-0.3)  
 - ITA: ***ARIZ*** - #17 Arizona def. #46 Michigan  
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Styler (62%) def. Ziverts (38%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Styler (54%) def. Ziverts (46%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Styler (55%) def. Ziverts (45%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Styler (69%) def. Ziverts (31%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Styler (68%) def. Ziverts (32%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Styler (76%) def. Ziverts (24%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Ziverts (7.58) def. Styler (2.60)</li>  
 </ul>
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Siimar (94%) def. Hoeyeraal (6%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Siimar (80%) def. Hoeyeraal (20%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Siimar (79%) def. Hoeyeraal (21%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Siimar (2.45) def. Hoeyeraal (2.40)</li>  
 </ul>
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Beaty (51%) def. Reguant (49%)</li>  
 <li>Slam: <b><i>ARIZ</i></b> - Reguant (55%) def. Beaty (45%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Beaty (66%) def. Reguant (34%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Beaty (67%) def. Reguant (33%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Beaty (66%) def. Reguant (34%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Reguant (70%) def. Beaty (30%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Reguant (2.55) def. Beaty (2.52)</li>  
 </ul>
@@ -124,7 +124,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Ehrenschneider (51%) def. Hassey (49%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Ehrenschneider (66%) def. Hassey (34%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Ehrenschneider (59%) def. Hassey (41%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Ehrenschneider (58%) def. Hassey (42%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Ehrenschneider (2.63) def. Hassey (1.70)</li>  
 </ul>

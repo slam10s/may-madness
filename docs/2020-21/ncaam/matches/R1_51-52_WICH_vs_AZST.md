@@ -64,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>AZST</i></b> - Ponwtih (55%) def. Dellien (45%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Ponwtih (68%) def. Dellien (32%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Ponwtih (59%) def. Dellien (41%)</li>  
-<li>Massey: <b><i>WICH</i></b> - Dellien (52%) def. Ponwtih (48%)</li>  
+<li>Massey: <b><i>WICH</i></b> - Dellien (51%) def. Ponwtih (49%)</li>  
 <li>UTR: <b><i>WICH</i></b> - Dellien (56%) def. Ponwtih (44%)</li>  
 <li>ITA: <b><i>WICH</i></b> - Dellien (19.99) def. Ponwtih (8.02)</li>  
 </ul>
@@ -97,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>WICH</i></b> - Acevedo (64%) def. Stoupe (36%)</li>  
 <li>Slam: <b><i>WICH</i></b> - Acevedo (63%) def. Stoupe (37%)</li>  
 <li>TRN: <b><i>WICH</i></b> - Acevedo (62%) def. Stoupe (38%)</li>  
-<li>Massey: <b><i>WICH</i></b> - Acevedo (72%) def. Stoupe (28%)</li>  
+<li>Massey: <b><i>WICH</i></b> - Acevedo (71%) def. Stoupe (29%)</li>  
 <li>UTR: <b><i>WICH</i></b> - Acevedo (64%) def. Stoupe (36%)</li>  
 <li>ITA: <b><i>WICH</i></b> - Acevedo (1.90) def. Stoupe (1.41)</li>  
 </ul>

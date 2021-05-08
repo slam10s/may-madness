@@ -65,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKLA</i></b> - Emburgh (57%) def. Davis (43%)</li>  
 <li>Slam: <b><i>OKLA</i></b> - Emburgh (57%) def. Davis (43%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Emburgh (53%) def. Davis (47%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Davis (61%) def. Emburgh (39%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Davis (60%) def. Emburgh (40%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Emburgh (79%) def. Davis (21%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Emburgh (7.98) def. Davis (6.67)</li>  
 </ul>
@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKLA</i></b> - Schlageter (65%) def. Cuesta (35%)</li>  
 <li>Slam: <b><i>OKLA</i></b> - Schlageter (72%) def. Cuesta (28%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Schlageter (65%) def. Cuesta (35%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Cuesta (60%) def. Schlageter (40%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Cuesta (59%) def. Schlageter (41%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Schlageter (85%) def. Cuesta (15%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Cuesta (3.64) def. Schlageter (0.00)</li>  
 </ul>

@@ -88,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>STAN</i></b> - Arbuthnott (54%) def. Khatamova (46%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Arbuthnott (56%) def. Khatamova (44%)</li>  
 <li>TRN: <b><i>UCSB</i></b> - Khatamova (73%) def. Arbuthnott (27%)</li>  
-<li>Massey: <b><i>UCSB</i></b> - Khatamova (47%) def. Arbuthnott (53%)</li>  
+<li>Massey: <b><i>STAN</i></b> - Arbuthnott (53%) def. Khatamova (47%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Arbuthnott (80%) def. Khatamova (20%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Khatamova (6.05) def. Arbuthnott (1.89)</li>  
 </ul>

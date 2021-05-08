@@ -65,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USD</i></b> - Colling (80%) def. Mays (20%)</li>  
 <li>Slam: <b><i>USD</i></b> - Colling (89%) def. Mays (11%)</li>  
 <li>TRN: <b><i>USD</i></b> - Colling (88%) def. Mays (12%)</li>  
-<li>Massey: <b><i>USD</i></b> - Colling (63%) def. Mays (37%)</li>  
+<li>Massey: <b><i>USD</i></b> - Colling (62%) def. Mays (38%)</li>  
 <li>UTR: <b><i>USD</i></b> - Colling (84%) def. Mays (16%)</li>  
 <li>ITA: <b><i>USD</i></b> - Colling (12.76) def. Mays (3.54)</li>  
 </ul>
@@ -87,7 +87,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
 <li>Slam: <b><i>USD</i></b> - McBride (52%) def. Staines (48%)</li>  
 <li>TRN: <b><i>USD</i></b> - McBride (58%) def. Staines (42%)</li>  
-<li>Massey: <b><i>USD</i></b> - McBride (71%) def. Staines (29%)</li>  
+<li>Massey: <b><i>USD</i></b> - McBride (70%) def. Staines (30%)</li>  
 <li>UTR: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. McBride (3.11)</li>  
 </ul>

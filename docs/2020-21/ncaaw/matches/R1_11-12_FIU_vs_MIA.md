@@ -90,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Achong (54%) def. Skrobonja (46%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Achong (67%) def. Skrobonja (33%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Achong (58%) def. Skrobonja (42%)</li>  
-<li>Massey: <b><i>FIU</i></b> - Skrobonja (59%) def. Achong (41%)</li>  
+<li>Massey: <b><i>FIU</i></b> - Skrobonja (58%) def. Achong (42%)</li>  
 <li>ITA: <b><i>FIU</i></b> - Skrobonja (2.97) def. Achong (1.49)</li>  
 </ul>
 </details>&nbsp;</li>
