@@ -17,7 +17,8 @@ You can find a complete listing of the predictions for each match here:
 
 Here's daily listings of the matches by start time:
 
-- [Sunday, May 8](./docs/2020-21/schedule/05-09.md)
+- [Sunday, May 16](./docs/2020-21/schedule/05-09.md)
+- [Sunday, May 9](./docs/2020-21/schedule/05-09.md)
 - [Saturday, May 8](./docs/2020-21/schedule/05-08.md)
 - [Friday, May 7](./docs/2020-21/schedule/05-07.md)
 
