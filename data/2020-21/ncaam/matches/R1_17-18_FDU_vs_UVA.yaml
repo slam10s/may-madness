@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Virginia
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 17
   Seeding:
     Overall: 5
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Fairleigh Dickinson
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 18
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
   TRN: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
-  MAS: "FDU - #64 Fairleigh Dickinson (NaN%) def. #3 Virginia (NaN%)"
+  MAS: "UVA - #3 Virginia (100%) def. #64 Fairleigh Dickinson (0%)"
   LNUP: UVA - Virginia (99%) def. Fairleigh Dickinson (1%)
   UTR: "UVA - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)"
   ITA: "UVA - #4 Virginia def. #62 Fairleigh Dickinson"
@@ -58,7 +58,7 @@ Lineups:
       UVA: Carl Soderlund - 12-2 at 1, 12-2 in duals, 12-2 overall
       FDU: Teodors Pukse - 4-3 at 1, 4-3 in duals, 4-3 overall
       Predictions:
-        AVG: FDU - Pukse (99%) def. Soderlund (1%)
+        AVG: FDU - Pukse (75%) def. Soderlund (25%)
         SLM: FDU - Pukse (100%) def. Soderlund (0%)
         TRN: FDU - Pukse (100%) def. Soderlund (0%)
         MAS: FDU - Pukse (NaN%) def. Soderlund (NaN%)

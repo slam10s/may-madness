@@ -5,7 +5,7 @@ Hurd Tennis Center
 Waco, Texas  
 ## [A&M-Corpus Christi vs #8 Baylor](https://www.ncaa.com/game/5833654)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005EB8 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005EB8 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 A&M-Corpus Christi</h2>  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Mariya Shumeika (TAMCC) - 7-3 at #1, 19-3 in duals, 19-3 overall<br>Melany Krywoj (BAY) - 11-6 at #1, 11-6 in duals, 19-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Krywoj (94%) def. Shumeika (6%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Krywoj (93%) def. Shumeika (7%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Krywoj (95%) def. Shumeika (5%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Krywoj (90%) def. Shumeika (10%)</li>  
 <li>Massey: <b><i>TAMCC</i></b> - Shumeika (NaN%) def. Krywoj (NaN%)</li>  
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Camille Townsend (TAMCC) - 6-3 at #2, 14-6 in duals, 14-6 overall<br>Jessica Hinojosa (BAY) - 7-6 at #2, 12-10 in duals, 18-15 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Hinojosa (93%) def. Townsend (7%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Hinojosa (90%) def. Townsend (10%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Hinojosa (90%) def. Townsend (10%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Hinojosa (95%) def. Townsend (5%)</li>  
 <li>Massey: <b><i>TAMCC</i></b> - Townsend (NaN%) def. Hinojosa (NaN%)</li>  
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Leopoldine Boisseau (TAMCC) - 14-3 at #5, 17-3 in duals, 17-3 overall<br>Kristina Sorokolet (BAY) - 4-1 at #5, 11-3 in duals, 18-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Sorokolet (96%) def. Boisseau (4%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Sorokolet (93%) def. Boisseau (7%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Sorokolet (96%) def. Boisseau (4%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Sorokolet (96%) def. Boisseau (4%)</li>  
 <li>Massey: <b><i>TAMCC</i></b> - Boisseau (NaN%) def. Sorokolet (NaN%)</li>  
@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Victoire Delattre (TAMCC) - 14-2 at #6, 17-2 in duals, 17-2 overall<br>Paula Baranano (BAY) - 5-2 at #6, 12-3 in duals, 12-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Baranano (99%) def. Delattre (1%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Baranano (98%) def. Delattre (2%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Baranano (99%) def. Delattre (1%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Baranano (99%) def. Delattre (1%)</li>  
 <li>Massey: <b><i>TAMCC</i></b> - Delattre (NaN%) def. Baranano (NaN%)</li>  

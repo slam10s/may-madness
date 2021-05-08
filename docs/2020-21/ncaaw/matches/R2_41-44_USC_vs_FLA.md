@@ -5,7 +5,7 @@ Alfred A. Ring Tennis Complex
 Gainesville, Florida  
 ## [Southern California vs #11 Florida](https://www.ncaa.com/game/5833689)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #003087 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #003087 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Southern California</h2>  
@@ -13,7 +13,7 @@ Gainesville, Florida
 &nbsp; ITA: 35 (23.17)<br>  
 &nbsp; Slam: 35 (87.72)<br>  
 &nbsp; TRN: 41 (78.74)<br>  
-&#10004; Massey: 26 (7.43)<br>  
+&nbsp; Massey: 26 (7.43)<br>  
 &#10004; UTR: 6 (64.29)<br>  
 &nbsp; Coaches Poll: 34<br>  
 <br>  
@@ -26,7 +26,7 @@ Gainesville, Florida
 &#10004; ITA: 11 (49.18)<br>  
 &#10004; Slam: 16 (90.47)<br>  
 &#10004; TRN: 20 (82.70)<br>  
-&nbsp; Massey: 21 (7.77)<br>  
+&#10004; Massey: 21 (7.77)<br>  
 &nbsp; UTR: 11 (62.70)<br>  
 &#10004; USTA Poll: 20<br>  
 &#10004; Coaches Poll: 15<br>  
@@ -43,8 +43,8 @@ Gainesville, Florida
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***FLA*** - #16 Florida (82%) def. #35 Southern California (18%)  
 - TRN: ***FLA*** - #20 Florida (90%) def. #41 Southern California (10%)  
-- Massey: ***USC*** - #26 Southern California (NaN%) def. #21 Florida (NaN%)  
-- Lineup: ***FLA*** - Florida (79%) def. Southern California (21%)  
+- Massey: ***FLA*** - #21 Florida (62%) def. #26 Southern California (38%)  
+- Lineup: ***FLA*** - Florida (82%) def. Southern California (18%)  
 - UTR: ***USC*** - #6 Southern California (+1.59) def. #11 Florida (-1.59)  
 - ITA: ***FLA*** - #11 Florida def. #35 Southern California  
 - USTA Poll: ***FLA*** - #20 Florida def. Southern California  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Salma Ewing (USC) - 4-2 at #1, 13-5 in duals, 13-5 overall<br>McCartney Kessler (FLA) - 13-2 at #1, 13-2 in duals, 16-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Kessler (76%) def. Ewing (24%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Kessler (78%) def. Ewing (22%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Kessler (86%) def. Ewing (14%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Kessler (73%) def. Ewing (27%)</li>  
 <li>Massey: <b><i>USC</i></b> - Ewing (NaN%) def. Kessler (NaN%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Eryn Cayetano (USC) - 6-2 at #2, 10-5 in duals, 10-5 overall<br>Marlee Zein (FLA) - 6-5 at #2, 8-5 in duals, 10-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>USC</i></b> - Cayetano (82%) def. Zein (18%)</li>  
+<li>Composite: <b><i>USC</i></b> - Cayetano (77%) def. Zein (23%)</li>  
 <li>Slam: <b><i>USC</i></b> - Cayetano (78%) def. Zein (22%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cayetano (82%) def. Zein (18%)</li>  
 <li>Massey: <b><i>USC</i></b> - Cayetano (NaN%) def. Zein (NaN%)</li>  
@@ -94,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Naomi Cheong (USC) - 0-0 at #4, 9-8 in duals, 9-8 overall<br>Layne Sleeth (FLA) - 7-0 at #4, 9-1 in duals, 9-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Sleeth (57%) def. Cheong (43%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Sleeth (61%) def. Cheong (39%)</li>  
 <li>Slam: <b><i>USC</i></b> - Cheong (58%) def. Sleeth (42%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Sleeth (51%) def. Cheong (49%)</li>  
 <li>Massey: <b><i>USC</i></b> - Cheong (NaN%) def. Sleeth (NaN%)</li>  
@@ -105,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Dani Willson (USC) - 0-0 at #5, 12-8 in duals, 12-8 overall<br>Sara Dahlstrom (FLA) - 3-4 at #5, 6-8 in duals, 9-11 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>USC</i></b> - Willson (66%) def. Dahlstrom (34%)</li>  
+<li>Composite: <b><i>USC</i></b> - Willson (65%) def. Dahlstrom (35%)</li>  
 <li>Slam: <b><i>USC</i></b> - Willson (63%) def. Dahlstrom (37%)</li>  
 <li>TRN: <b><i>USC</i></b> - Willson (71%) def. Dahlstrom (29%)</li>  
 <li>Massey: <b><i>USC</i></b> - Willson (NaN%) def. Dahlstrom (NaN%)</li>  
@@ -116,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Summer Dvorak (USC) - 0-0 at #6, 12-7 in duals, 12-7 overall<br>Sydney Berlin (FLA) - 6-3 at #6, 11-4 in duals, 16-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Berlin (72%) def. Dvorak (28%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Berlin (70%) def. Dvorak (30%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Berlin (70%) def. Dvorak (30%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Berlin (70%) def. Dvorak (30%)</li>  
 <li>Massey: <b><i>USC</i></b> - Dvorak (NaN%) def. Berlin (NaN%)</li>  
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Florida should win 4 or more singles matches _53%_ of the time.  
-- Southern California should win 4 or more singles matches _14%_ of the time.  
-- The winner of the doubles point will decide the match the other _33%_ of the time.  
-- If Florida wins the doubles point, their chances of winning the dual improve to _86%_.  
-- If Southern California wins the doubles point, their chances of winning the dual improve to _47%_.  
+- Florida should win 4 or more singles matches _57%_ of the time.  
+- Southern California should win 4 or more singles matches _12%_ of the time.  
+- The winner of the doubles point will decide the match the other _31%_ of the time.  
+- If Florida wins the doubles point, their chances of winning the dual improve to _88%_.  
+- If Southern California wins the doubles point, their chances of winning the dual improve to _43%_.  
   
 ------
 

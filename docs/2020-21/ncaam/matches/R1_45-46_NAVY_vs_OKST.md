@@ -5,7 +5,7 @@ Cone-Kenfield Center
 Chapel Hill, North Carolina  
 ## [Navy vs Oklahoma St.](https://www.ncaa.com/game/5833392)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #DF4F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #DF4F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Navy</h2>  
@@ -13,7 +13,7 @@ Chapel Hill, North Carolina
 &nbsp; ITA: 48 (8.28)<br>  
 &nbsp; Slam: 54 (86.71)<br>  
 &nbsp; TRN: 48 (87.45)<br>  
-&#10004; Massey: 56 (5.80)<br>  
+&nbsp; Massey: 56 (5.80)<br>  
 &nbsp; UTR: 58 (70.91)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Chapel Hill, North Carolina
 &#10004; ITA: 19 (35.31)<br>  
 &#10004; Slam: 24 (93.68)<br>  
 &#10004; TRN: 23 (91.93)<br>  
-&nbsp; Massey: 29 (7.54)<br>  
+&#10004; Massey: 29 (7.54)<br>  
 &#10004; UTR: 19 (78.43)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 21<br>  
@@ -42,7 +42,7 @@ Chapel Hill, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***OKST*** - #24 Oklahoma St. (98%) def. #54 Navy (2%)  
 - TRN: ***OKST*** - #23 Oklahoma St. (92%) def. #48 Navy (8%)  
-- Massey: ***NAVY*** - #56 Navy (NaN%) def. #29 Oklahoma St. (NaN%)  
+- Massey: ***OKST*** - #29 Oklahoma St. (99%) def. #56 Navy (1%)  
 - Lineup: ***OKST*** - Oklahoma St. (99%) def. Navy (1%)  
 - UTR: ***OKST*** - #19 Oklahoma St. (+7.52) def. #58 Navy (-7.52)  
 - ITA: ***OKST*** - #19 Oklahoma St. def. #48 Navy  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Andrew Ton (NAVY) - 8-0 at #1, 8-0 in duals, 8-0 overall<br>Matej Vocel (OKST) - 11-5 at #1, 11-5 in duals, 11-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OKST</i></b> - Vocel (93%) def. Ton (7%)</li>  
+<li>Composite: <b><i>OKST</i></b> - Vocel (91%) def. Ton (9%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Vocel (92%) def. Ton (8%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Vocel (93%) def. Ton (7%)</li>  
 <li>Massey: <b><i>NAVY</i></b> - Ton (NaN%) def. Vocel (NaN%)</li>  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Derrick Thompson (NAVY) - 9-0 at #2, 9-0 in duals, 9-0 overall<br>Henrik Korsgaard (OKST) - 3-2 at #2, 9-9 in duals, 9-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OKST</i></b> - Korsgaard (83%) def. Thompson (17%)</li>  
+<li>Composite: <b><i>OKST</i></b> - Korsgaard (80%) def. Thompson (20%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Korsgaard (80%) def. Thompson (20%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Korsgaard (84%) def. Thompson (16%)</li>  
 <li>Massey: <b><i>NAVY</i></b> - Thompson (NaN%) def. Korsgaard (NaN%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Finn Garner (NAVY) - 4-2 at #4, 4-2 in duals, 4-2 overall<br>Mathieu Scaglia (OKST) - 4-5 at #4, 9-7 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
+<li>Composite: <b><i>OKST</i></b> - Scaglia (94%) def. Garner (6%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Scaglia (96%) def. Garner (4%)</li>  
 <li>Massey: <b><i>NAVY</i></b> - Garner (NaN%) def. Scaglia (NaN%)</li>  
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Gavin Segraves (NAVY) - 7-0 at #5, 8-0 in duals, 8-0 overall<br>Etienne Donnet (OKST) - 3-4 at #5, 8-9 in duals, 9-14 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OKST</i></b> - Donnet (88%) def. Segraves (12%)</li>  
+<li>Composite: <b><i>OKST</i></b> - Donnet (81%) def. Segraves (19%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Donnet (87%) def. Segraves (13%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Donnet (88%) def. Segraves (12%)</li>  
 <li>Massey: <b><i>NAVY</i></b> - Segraves (NaN%) def. Donnet (NaN%)</li>  
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jack McBride (NAVY) - 4-0 at #6, 5-0 in duals, 5-0 overall<br>Matisse Bobichon (OKST) - 4-4 at #6, 4-4 in duals, 4-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OKST</i></b> - Bobichon (80%) def. McBride (20%)</li>  
+<li>Composite: <b><i>OKST</i></b> - Bobichon (76%) def. McBride (24%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Bobichon (81%) def. McBride (19%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Bobichon (67%) def. McBride (33%)</li>  
 <li>Massey: <b><i>NAVY</i></b> - McBride (NaN%) def. Bobichon (NaN%)</li>  
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Oklahoma St. should win 4 or more singles matches _99%_ of the time.  
+- Oklahoma St. should win 4 or more singles matches _98%_ of the time.  
 - Navy should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _2%_ of the time.  
 - If Oklahoma St. wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Navy wins the doubles point, their chances of winning the dual improve to _1%_.  
+- If Navy wins the doubles point, their chances of winning the dual improve to _2%_.  
   
 ------
 

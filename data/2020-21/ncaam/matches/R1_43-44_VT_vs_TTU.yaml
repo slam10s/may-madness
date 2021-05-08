@@ -40,8 +40,8 @@ Visitor:
 Predictions:
   SLM: "VT - #30 Virginia Tech (57%) def. #35 Texas Tech (43%)"
   TRN: "VT - #29 Virginia Tech (52%) def. #31 Texas Tech (48%)"
-  MAS: "VT - #33 Virginia Tech (NaN%) def. #28 Texas Tech (NaN%)"
-  LNUP: VT - Virginia Tech (72%) def. Texas Tech (28%)
+  MAS: "TTU - #28 Texas Tech (59%) def. #33 Virginia Tech (41%)"
+  LNUP: VT - Virginia Tech (69%) def. Texas Tech (31%)
   UTR: "VT - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)"
   ITA: "TTU - #25 Texas Tech def. #29 Virginia Tech"
   USTA: TTU - RV Texas Tech def. Virginia Tech
@@ -49,17 +49,17 @@ Predictions:
   Seeding: "TTU - #2 Texas Tech def. #3 Virginia Tech"
 Lineups:
   Predictions:
-    Average EWPs for TTU: 44%,49%,NaN%,28%
-    Average EWPs for VT: 56%,51%,NaN%,72%
-    TTU wins 4 or more Singles points: 19%
-    VT wins 4 or more Singles points: 51%
+    Average EWPs for TTU: 44%,49%,NaN%,31%
+    Average EWPs for VT: 56%,51%,NaN%,69%
+    TTU wins 4 or more Singles points: 21%
+    VT wins 4 or more Singles points: 49%
     Winner decided by the Doubles point: 30%
   Singles:
     - Position: 1
       TTU: Parker Wynn - 5-9 at 1, 5-9 in duals, 9-13 overall
       VT: Mitch Harper - 7-4 at 1, 7-4 in duals, 7-4 overall
       Predictions:
-        AVG: VT - Harper (78%) def. Wynn (22%)
+        AVG: VT - Harper (75%) def. Wynn (25%)
         SLM: VT - Harper (78%) def. Wynn (22%)
         TRN: VT - Harper (80%) def. Wynn (20%)
         MAS: VT - Harper (NaN%) def. Wynn (NaN%)
@@ -79,7 +79,7 @@ Lineups:
       TTU: Franco Ribero - 7-4 at 3, 8-5 in duals, 11-11 overall
       VT: Matt Ross - 1-1 at 3, 8-12 in duals, 8-12 overall
       Predictions:
-        AVG: VT - Ross (73%) def. Ribero (27%)
+        AVG: VT - Ross (70%) def. Ribero (30%)
         SLM: VT - Ross (78%) def. Ribero (22%)
         TRN: VT - Ross (72%) def. Ribero (28%)
         MAS: VT - Ross (NaN%) def. Ribero (NaN%)
@@ -89,7 +89,7 @@ Lineups:
       TTU: Reed Collier - 6-5 at 4, 7-7 in duals, 14-8 overall
       VT: Carlo Donato - 0-2 at 4, 5-13 in duals, 5-13 overall
       Predictions:
-        AVG: TTU - Collier (56%) def. Donato (44%)
+        AVG: TTU - Collier (59%) def. Donato (41%)
         SLM: VT - Donato (59%) def. Collier (41%)
         TRN: TTU - Collier (50%) def. Donato (50%)
         MAS: VT - Donato (NaN%) def. Collier (NaN%)
@@ -99,7 +99,7 @@ Lineups:
       TTU: Dimi Azoides - 8-3 at 5, 12-4 in duals, 15-10 overall
       VT: Hugo Maia - 0-2 at 5, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: VT - Maia (58%) def. Azoides (42%)
+        AVG: VT - Maia (61%) def. Azoides (39%)
         SLM: VT - Maia (68%) def. Azoides (32%)
         TRN: VT - Maia (71%) def. Azoides (29%)
         MAS: VT - Maia (NaN%) def. Azoides (NaN%)
@@ -109,7 +109,7 @@ Lineups:
       TTU: Isaac Arevalo - 5-4 at 6, 8-5 in duals, 14-7 overall
       VT: Ryan Fishback - 4-1 at 6, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: VT - Fishback (51%) def. Arevalo (49%)
+        AVG: VT - Fishback (52%) def. Arevalo (48%)
         SLM: VT - Fishback (54%) def. Arevalo (46%)
         TRN: VT - Fishback (61%) def. Arevalo (39%)
         MAS: VT - Fishback (NaN%) def. Arevalo (NaN%)

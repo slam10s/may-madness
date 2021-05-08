@@ -5,7 +5,7 @@ Virginia Tennis Facility at the Boar’s Head Resort
 Charlottesville, Virginia  
 ## [LIU vs #14 Virginia](https://www.ncaa.com/game/5833666)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 LIU</h2>  
@@ -13,7 +13,7 @@ Charlottesville, Virginia
 &nbsp; ITA: 52 (4.20)<br>  
 &nbsp; Slam: 61 (70.79)<br>  
 &nbsp; TRN: 63 (55.66)<br>  
-&#10004; Massey: 61 (4.25)<br>  
+&nbsp; Massey: 61 (4.25)<br>  
 &nbsp; UTR: 60 (49.85)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Charlottesville, Virginia
 &#10004; ITA: 14 (47.67)<br>  
 &#10004; Slam: 9 (91.88)<br>  
 &#10004; TRN: 11 (84.03)<br>  
-&nbsp; Massey: 7 (8.25)<br>  
+&#10004; Massey: 7 (8.25)<br>  
 &#10004; UTR: 13 (62.41)<br>  
 &#10004; USTA Poll: 10<br>  
 &nbsp; Coaches Poll: T11<br>  
@@ -45,7 +45,7 @@ Charlottesville, Virginia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UVA*** - #9 Virginia (99%) def. #61 LIU (1%)  
 - TRN: ***UVA*** - #11 Virginia (99%) def. #63 LIU (1%)  
-- Massey: ***LIU*** - #61 LIU (NaN%) def. #7 Virginia (NaN%)  
+- Massey: ***UVA*** - #7 Virginia (100%) def. #61 LIU (0%)  
 - Lineup: ***UVA*** - Virginia (99%) def. LIU (1%)  
 - UTR: ***UVA*** - #13 Virginia (+12.56) def. #60 LIU (-12.56)  
 - ITA: ***UVA*** - #14 Virginia def. #52 LIU  
@@ -106,7 +106,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Bianca Compuesto (LIU) - 4-0 at #5, 6-0 in duals, 6-0 overall<br>Amber O'Dell (UVA) - 1-3 at #5, 10-7 in duals, 10-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>LIU</i></b> - Compuesto (99%) def. O'Dell (1%)</li>  
+<li>Composite: <b><i>LIU</i></b> - Compuesto (78%) def. O'Dell (22%)</li>  
 <li>Slam: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>TRN: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>Massey: <b><i>LIU</i></b> - Compuesto (NaN%) def. O'Dell (NaN%)</li>  
@@ -117,7 +117,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ekaterine Jorjoliani (LIU) - 5-1 at #6, 7-1 in duals, 7-1 overall<br>Vivian Glozman (UVA) - 2-1 at #6, 7-3 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Glozman (98%) def. Jorjoliani (2%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
 <li>Massey: <b><i>LIU</i></b> - Jorjoliani (NaN%) def. Glozman (NaN%)</li>  

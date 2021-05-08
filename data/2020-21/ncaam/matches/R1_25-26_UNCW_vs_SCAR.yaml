@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: South Carolina
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 25
   Seeding:
     Overall: 13
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: UNCW
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 26
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "SCAR - #15 South Carolina (98%) def. #48 UNCW (2%)"
   TRN: "SCAR - #15 South Carolina (99%) def. #49 UNCW (1%)"
-  MAS: "UNCW - #49 UNCW (NaN%) def. #16 South Carolina (NaN%)"
+  MAS: "SCAR - #16 South Carolina (96%) def. #49 UNCW (4%)"
   LNUP: SCAR - South Carolina (99%) def. UNCW (1%)
   UTR: "SCAR - #17 South Carolina (+4.69) def. #48 UNCW (-4.69)"
   ITA: "SCAR - #13 South Carolina def. #51 UNCW"
@@ -68,7 +68,7 @@ Lineups:
       SCAR: Connor Thomson - 6-5 at 2, 11-8 in duals, 18-12 overall
       UNCW: Davide Innocenti - 8-3 at 2, 8-4 in duals, 8-4 overall
       Predictions:
-        AVG: SCAR - Thomson (93%) def. Innocenti (7%)
+        AVG: SCAR - Thomson (92%) def. Innocenti (8%)
         SLM: SCAR - Thomson (91%) def. Innocenti (9%)
         TRN: SCAR - Thomson (96%) def. Innocenti (4%)
         MAS: UNCW - Innocenti (NaN%) def. Thomson (NaN%)
@@ -88,7 +88,7 @@ Lineups:
       SCAR: Raphael Lambling - 0-2 at 4, 6-12 in duals, 11-18 overall
       UNCW: Bekhzod Rasamatov - 3-2 at 4, 11-4 in duals, 11-4 overall
       Predictions:
-        AVG: SCAR - Lambling (93%) def. Rasamatov (7%)
+        AVG: SCAR - Lambling (89%) def. Rasamatov (11%)
         SLM: SCAR - Lambling (95%) def. Rasamatov (5%)
         TRN: SCAR - Lambling (93%) def. Rasamatov (7%)
         MAS: UNCW - Rasamatov (NaN%) def. Lambling (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       SCAR: Jake Beasley - 7-7 at 5, 12-8 in duals, 18-10 overall
       UNCW: Gabriel Hurtado - 4-3 at 5, 8-6 in duals, 8-6 overall
       Predictions:
-        AVG: SCAR - Beasley (91%) def. Hurtado (9%)
+        AVG: SCAR - Beasley (90%) def. Hurtado (10%)
         SLM: SCAR - Beasley (91%) def. Hurtado (9%)
         TRN: SCAR - Beasley (95%) def. Hurtado (5%)
         MAS: UNCW - Hurtado (NaN%) def. Beasley (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       SCAR: Thomas Brown - 2-2 at 6, 3-2 in duals, 11-6 overall
       UNCW: Michael Copeland - 5-2 at 6, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: SCAR - Brown (91%) def. Copeland (9%)
+        AVG: SCAR - Brown (85%) def. Copeland (15%)
         SLM: SCAR - Brown (89%) def. Copeland (11%)
         TRN: SCAR - Brown (93%) def. Copeland (7%)
         MAS: UNCW - Copeland (NaN%) def. Brown (NaN%)

@@ -5,7 +5,7 @@ Hurd Tennis Center
 Waco, Texas  
 ## [Duke vs #8 Baylor](https://www.ncaa.com/game/5833682)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#2 Duke</h2>  
@@ -44,7 +44,7 @@ Waco, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***BAY*** - #7 Baylor (70%) def. #14 Duke (30%)  
 - TRN: ***BAY*** - #4 Baylor (97%) def. #15 Duke (3%)  
-- Massey: ***DUKE*** - #11 Duke (NaN%) def. #12 Baylor (NaN%)  
+- Massey: ***DUKE*** - #11 Duke (66%) def. #12 Baylor (34%)  
 - Lineup: ***DUKE*** - Duke (87%) def. Baylor (13%)  
 - UTR: ***BAY*** - #8 Baylor (+0.69) def. #12 Duke (-0.69)  
 - ITA: ***BAY*** - #8 Baylor def. #17 Duke  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall<br>Melany Krywoj (BAY) - 11-6 at #1, 11-6 in duals, 19-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>DUKE</i></b> - Chen (54%) def. Krywoj (46%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Chen (55%) def. Krywoj (45%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Chen (66%) def. Krywoj (34%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chen (62%) def. Krywoj (38%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chen (NaN%) def. Krywoj (NaN%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall<br>Jessica Hinojosa (BAY) - 7-6 at #2, 12-10 in duals, 18-15 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>DUKE</i></b> - Drummy (89%) def. Hinojosa (11%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Drummy (90%) def. Hinojosa (10%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Drummy (90%) def. Hinojosa (10%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Drummy (88%) def. Hinojosa (12%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Drummy (NaN%) def. Hinojosa (NaN%)</li>  
@@ -84,7 +84,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall<br>Alicia Herrero (BAY) - 4-4 at #3, 13-8 in duals, 20-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>DUKE</i></b> - Beck (74%) def. Herrero (26%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Beck (75%) def. Herrero (25%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Beck (75%) def. Herrero (25%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Beck (78%) def. Herrero (22%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Beck (NaN%) def. Herrero (NaN%)</li>  
@@ -95,7 +95,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall<br>Angie Shakhraichuck (BAY) - 6-4 at #4, 17-5 in duals, 24-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>DUKE</i></b> - Chi (83%) def. Shakhraichuck (17%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Chi (81%) def. Shakhraichuck (19%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Chi (81%) def. Shakhraichuck (19%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chi (87%) def. Shakhraichuck (13%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chi (NaN%) def. Shakhraichuck (NaN%)</li>  
@@ -106,7 +106,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall<br>Kristina Sorokolet (BAY) - 4-1 at #5, 11-3 in duals, 18-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>DUKE</i></b> - Bilokin (72%) def. Sorokolet (28%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Bilokin (70%) def. Sorokolet (30%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Bilokin (70%) def. Sorokolet (30%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Bilokin (68%) def. Sorokolet (32%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Bilokin (NaN%) def. Sorokolet (NaN%)</li>  
@@ -117,7 +117,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Karolina Berankova (DUKE) - 7-7 at #6, 9-9 in duals, 10-11 overall<br>Paula Baranano (BAY) - 5-2 at #6, 12-3 in duals, 12-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Baranano (91%) def. Berankova (9%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Baranano (90%) def. Berankova (10%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Baranano (90%) def. Berankova (10%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Baranano (92%) def. Berankova (8%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Berankova (NaN%) def. Baranano (NaN%)</li>  

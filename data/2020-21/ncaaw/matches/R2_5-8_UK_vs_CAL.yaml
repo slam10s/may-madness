@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: California
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 8
   Seeding:
     Overall: 16
@@ -42,8 +42,8 @@ Visitor:
 Predictions:
   SLM: "CAL - #17 California (65%) def. #25 Kentucky (35%)"
   TRN: "CAL - #17 California (70%) def. #27 Kentucky (30%)"
-  MAS: "UK - #33 Kentucky (NaN%) def. #14 California (NaN%)"
-  LNUP: CAL - California (97%) def. Kentucky (3%)
+  MAS: "CAL - #14 California (77%) def. #33 Kentucky (23%)"
+  LNUP: CAL - California (95%) def. Kentucky (5%)
   UTR: "CAL - #15 California (+2.00) def. #34 Kentucky (-2.00)"
   ITA: "CAL - #16 California def. #26 Kentucky"
   USTA: "CAL - #13 California def. #24 Kentucky"
@@ -51,17 +51,17 @@ Predictions:
   Seeding: "CAL - #1 California def. #2 Kentucky"
 Lineups:
   Predictions:
-    Average EWPs for CAL: 65%,70%,NaN%,97%
-    Average EWPs for UK: 35%,30%,NaN%,3%
-    CAL wins 4 or more Singles points: 87%
-    UK wins 4 or more Singles points: 2%
-    Winner decided by the Doubles point: 11%
+    Average EWPs for CAL: 65%,70%,NaN%,95%
+    Average EWPs for UK: 35%,30%,NaN%,5%
+    CAL wins 4 or more Singles points: 83%
+    UK wins 4 or more Singles points: 4%
+    Winner decided by the Doubles point: 13%
   Singles:
     - Position: 1
       CAL: Haley Giavara - 12-10 at 1, 12-10 in duals, 12-10 overall
       UK: Akvile Parazinskaite - 16-6 at 1, 16-6 in duals, 19-10 overall
       Predictions:
-        AVG: CAL - Giavara (68%) def. Parazinskaite (32%)
+        AVG: CAL - Giavara (65%) def. Parazinskaite (35%)
         SLM: CAL - Giavara (73%) def. Parazinskaite (27%)
         TRN: CAL - Giavara (75%) def. Parazinskaite (25%)
         MAS: UK - Parazinskaite (NaN%) def. Giavara (NaN%)
@@ -71,7 +71,7 @@ Lineups:
       CAL: Julia Rosenqvist - 11-7 at 2, 14-7 in duals, 14-7 overall
       UK: Lesedi Jacobs - 0-1 at 2, 9-5 in duals, 11-8 overall
       Predictions:
-        AVG: CAL - Rosenqvist (74%) def. Jacobs (26%)
+        AVG: CAL - Rosenqvist (69%) def. Jacobs (31%)
         SLM: CAL - Rosenqvist (72%) def. Jacobs (28%)
         TRN: CAL - Rosenqvist (70%) def. Jacobs (30%)
         MAS: UK - Jacobs (NaN%) def. Rosenqvist (NaN%)
@@ -81,7 +81,7 @@ Lineups:
       CAL: Valentina Ivanov - 9-5 at 3, 10-8 in duals, 10-8 overall
       UK: Carlota Molina - 1-1 at 3, 12-7 in duals, 12-13 overall
       Predictions:
-        AVG: CAL - Ivanov (69%) def. Molina (31%)
+        AVG: CAL - Ivanov (65%) def. Molina (35%)
         SLM: CAL - Ivanov (64%) def. Molina (36%)
         TRN: CAL - Ivanov (64%) def. Molina (36%)
         MAS: UK - Molina (NaN%) def. Ivanov (NaN%)
@@ -91,7 +91,7 @@ Lineups:
       CAL: Jada Bui - 8-5 at 4, 10-6 in duals, 10-6 overall
       UK: Elizabeth Stevens - 1-5 at 4, 3-8 in duals, 6-13 overall
       Predictions:
-        AVG: CAL - Bui (83%) def. Stevens (17%)
+        AVG: CAL - Bui (81%) def. Stevens (19%)
         SLM: CAL - Bui (82%) def. Stevens (18%)
         TRN: CAL - Bui (85%) def. Stevens (15%)
         MAS: UK - Stevens (NaN%) def. Bui (NaN%)
@@ -101,7 +101,7 @@ Lineups:
       CAL: Hannah Viller Moeller - 8-5 at 5, 14-7 in duals, 14-7 overall
       UK: Carla Girbau - 2-1 at 5, 9-9 in duals, 11-14 overall
       Predictions:
-        AVG: CAL - Moeller (79%) def. Girbau (21%)
+        AVG: CAL - Moeller (77%) def. Girbau (23%)
         SLM: CAL - Moeller (70%) def. Girbau (30%)
         TRN: CAL - Moeller (84%) def. Girbau (16%)
         MAS: UK - Girbau (NaN%) def. Moeller (NaN%)

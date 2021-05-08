@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Texas A&M
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 56
   Seeding:
     Overall: 10
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Drake
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 55
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "A&M - #15 Texas A&M (99%) def. #58 Drake (1%)"
   TRN: "A&M - #14 Texas A&M (99%) def. #58 Drake (1%)"
-  MAS: "DRKE - #59 Drake (NaN%) def. #21 Texas A&M (NaN%)"
+  MAS: "A&M - #21 Texas A&M (99%) def. #59 Drake (1%)"
   LNUP: A&M - Texas A&M (99%) def. Drake (1%)
   UTR: "A&M - #21 Texas A&M (+10.83) def. #59 Drake (-10.83)"
   ITA: "A&M - #10 Texas A&M def. #63 Drake"
@@ -78,7 +78,7 @@ Lineups:
       A&M: Katya Townsend - 9-6 at 3, 11-6 in duals, 18-9 overall
       DRKE: Ines Stephani - 5-1 at 3, 12-4 in duals, 12-4 overall
       Predictions:
-        AVG: A&M - Townsend (98%) def. Stephani (2%)
+        AVG: A&M - Townsend (96%) def. Stephani (4%)
         SLM: A&M - Townsend (98%) def. Stephani (2%)
         TRN: A&M - Townsend (98%) def. Stephani (2%)
         MAS: DRKE - Stephani (NaN%) def. Townsend (NaN%)
@@ -88,7 +88,7 @@ Lineups:
       A&M: Dorthea Faa-Hviding - 7-6 at 4, 13-6 in duals, 14-7 overall
       DRKE: Maria Tatarnikova - 7-0 at 4, 12-6 in duals, 12-6 overall
       Predictions:
-        AVG: A&M - Faa-Hviding (97%) def. Tatarnikova (3%)
+        AVG: A&M - Faa-Hviding (96%) def. Tatarnikova (4%)
         SLM: A&M - Faa-Hviding (97%) def. Tatarnikova (3%)
         TRN: A&M - Faa-Hviding (98%) def. Tatarnikova (2%)
         MAS: DRKE - Tatarnikova (NaN%) def. Faa-Hviding (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       A&M: Riley McQuaid - 8-5 at 6, 11-5 in duals, 16-9 overall
       DRKE: Kelsey Neville - 8-4 at 6, 9-7 in duals, 9-7 overall
       Predictions:
-        AVG: A&M - McQuaid (99%) def. Neville (1%)
+        AVG: A&M - McQuaid (98%) def. Neville (2%)
         SLM: A&M - McQuaid (99%) def. Neville (1%)
         TRN: A&M - McQuaid (99%) def. Neville (1%)
         MAS: DRKE - Neville (NaN%) def. McQuaid (NaN%)

@@ -5,7 +5,7 @@ Barksdale Stadium
 Knoxville, Tennessee  
 ## [Alabama A&M vs #3 Tennessee](https://www.ncaa.com/game/5833386)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Alabama A&M</h2>  
@@ -13,7 +13,7 @@ Knoxville, Tennessee
 &nbsp; ITA: 63 (1.60)<br>  
 &nbsp; Slam: 64 (76.01)<br>  
 &nbsp; TRN: 64 (72.43)<br>  
-&#10004; Massey: 65 (3.71)<br>  
+&nbsp; Massey: 65 (3.71)<br>  
 &nbsp; UTR: 65 (63.25)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Knoxville, Tennessee
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.18)<br>  
 &#10004; TRN: 5 (98.72)<br>  
-&nbsp; Massey: 2 (9.17)<br>  
+&#10004; Massey: 2 (9.17)<br>  
 &#10004; UTR: 4 (80.17)<br>  
 &#10004; USTA Poll: 4<br>  
 &#10004; Coaches Poll: 3<br>  
@@ -42,7 +42,7 @@ Knoxville, Tennessee
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TENN*** - #4 Tennessee (99%) def. #64 Alabama A&M (1%)  
 - TRN: ***TENN*** - #5 Tennessee (99%) def. #64 Alabama A&M (1%)  
-- Massey: ***AAMU*** - #65 Alabama A&M (NaN%) def. #2 Tennessee (NaN%)  
+- Massey: ***TENN*** - #2 Tennessee (100%) def. #65 Alabama A&M (0%)  
 - Lineup: ***TENN*** - Tennessee (99%) def. Alabama A&M (1%)  
 - UTR: ***TENN*** - #4 Tennessee (+16.92) def. #65 Alabama A&M (-16.92)  
 - ITA: ***TENN*** - #3 Tennessee def. #63 Alabama A&M  

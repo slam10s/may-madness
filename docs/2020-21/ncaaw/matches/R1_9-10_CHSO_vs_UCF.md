@@ -5,7 +5,7 @@ USTA National Campus
 Orlando, Florida  
 ## [Charleston So. vs #9 UCF](https://www.ncaa.com/game/5833651)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002855 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002855 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Charleston So.</h2>  
@@ -13,7 +13,7 @@ Orlando, Florida
 &nbsp; ITA: 58 (2.77)<br>  
 &nbsp; Slam: 60 (75.63)<br>  
 &nbsp; TRN: 57 (65.77)<br>  
-&#10004; Massey: 60 (4.33)<br>  
+&nbsp; Massey: 60 (4.33)<br>  
 &nbsp; UTR: 56 (51.92)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Orlando, Florida
 &#10004; ITA: 9 (52.14)<br>  
 &#10004; Slam: 12 (91.41)<br>  
 &#10004; TRN: 12 (83.85)<br>  
-&nbsp; Massey: 10 (8.12)<br>  
+&#10004; Massey: 10 (8.12)<br>  
 &#10004; UTR: 16 (62.03)<br>  
 &#10004; USTA Poll: 9<br>  
 &#10004; Coaches Poll: 9<br>  
@@ -45,7 +45,7 @@ Orlando, Florida
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCF*** - #12 UCF (99%) def. #60 Charleston So. (1%)  
 - TRN: ***UCF*** - #12 UCF (99%) def. #57 Charleston So. (1%)  
-- Massey: ***CHSO*** - #60 Charleston So. (NaN%) def. #10 UCF (NaN%)  
+- Massey: ***UCF*** - #10 UCF (100%) def. #60 Charleston So. (0%)  
 - Lineup: ***UCF*** - UCF (99%) def. Charleston So. (1%)  
 - UTR: ***UCF*** - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)  
 - ITA: ***UCF*** - #9 UCF def. #58 Charleston So.  
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Luiza Fullana (CHSO) - 7-6 at #2, 7-6 in duals, 7-6 overall<br>Rebeka Stolmar (UCF) - 7-4 at #2, 12-6 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCF</i></b> - Stolmar (98%) def. Fullana (2%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Stolmar (97%) def. Fullana (3%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Stolmar (98%) def. Fullana (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Stolmar (99%) def. Fullana (1%)</li>  
 <li>Massey: <b><i>CHSO</i></b> - Fullana (NaN%) def. Stolmar (NaN%)</li>  

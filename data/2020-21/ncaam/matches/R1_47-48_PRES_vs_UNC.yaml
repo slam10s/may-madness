@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: North Carolina
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 48
   Seeding:
     Overall: 6
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Presbyterian
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 47
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "UNC - #3 North Carolina (99%) def. #59 Presbyterian (1%)"
   TRN: "UNC - #2 North Carolina (99%) def. #59 Presbyterian (1%)"
-  MAS: "PRES - #61 Presbyterian (NaN%) def. #4 North Carolina (NaN%)"
+  MAS: "UNC - #4 North Carolina (100%) def. #61 Presbyterian (0%)"
   LNUP: UNC - North Carolina (99%) def. Presbyterian (1%)
   UTR: "UNC - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)"
   ITA: "UNC - #6 North Carolina def. #59 Presbyterian"
@@ -78,7 +78,7 @@ Lineups:
       UNC: Benjamin Sigouin - 3-2 at 3, 9-9 in duals, 9-9 overall
       PRES: Nick McKinney - 3-1 at 3, 13-1 in duals, 13-1 overall
       Predictions:
-        AVG: UNC - Sigouin (94%) def. McKinney (6%)
+        AVG: UNC - Sigouin (88%) def. McKinney (12%)
         SLM: UNC - Sigouin (97%) def. McKinney (3%)
         TRN: UNC - Sigouin (96%) def. McKinney (4%)
         MAS: PRES - McKinney (NaN%) def. Sigouin (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       UNC: Simon Soendergaard - 6-3 at 6, 10-5 in duals, 11-6 overall
       PRES: Javier Matos - 6-2 at 6, 7-2 in duals, 7-2 overall
       Predictions:
-        AVG: UNC - Soendergaard (97%) def. Matos (3%)
+        AVG: UNC - Soendergaard (96%) def. Matos (4%)
         SLM: UNC - Soendergaard (98%) def. Matos (2%)
         TRN: UNC - Soendergaard (99%) def. Matos (1%)
         MAS: PRES - Matos (NaN%) def. Soendergaard (NaN%)

@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: LSU
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 24
   Seeding:
     Overall: 12
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Boston U.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 23
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "LSU - #21 LSU (99%) def. #54 Boston U. (1%)"
   TRN: "LSU - #18 LSU (99%) def. #51 Boston U. (1%)"
-  MAS: "BU - #54 Boston U. (NaN%) def. #21 LSU (NaN%)"
+  MAS: "LSU - #21 LSU (99%) def. #54 Boston U. (1%)"
   LNUP: LSU - LSU (99%) def. Boston U. (1%)
   UTR: "LSU - #26 LSU (+5.98) def. #49 Boston U. (-5.98)"
   ITA: "LSU - #12 LSU def. #50 Boston U."
@@ -58,7 +58,7 @@ Lineups:
       LSU: Taylor Bridges - 7-7 at 1, 7-7 in duals, 13-10 overall
       BU: Victoria Carlsten - 2-2 at 1, 3-3 in duals, 3-3 overall
       Predictions:
-        AVG: LSU - Bridges (91%) def. Carlsten (9%)
+        AVG: LSU - Bridges (92%) def. Carlsten (8%)
         SLM: LSU - Bridges (94%) def. Carlsten (6%)
         TRN: LSU - Bridges (94%) def. Carlsten (6%)
         MAS: BU - Carlsten (NaN%) def. Bridges (NaN%)
@@ -68,7 +68,7 @@ Lineups:
       LSU: Safiya Carrington - 2-5 at 2, 3-6 in duals, 10-10 overall
       BU: Kaitlin Tan - 3-0 at 2, 5-0 in duals, 5-0 overall
       Predictions:
-        AVG: LSU - Carrington (82%) def. Tan (18%)
+        AVG: LSU - Carrington (75%) def. Tan (25%)
         SLM: LSU - Carrington (79%) def. Tan (21%)
         TRN: LSU - Carrington (78%) def. Tan (22%)
         MAS: BU - Tan (NaN%) def. Carrington (NaN%)
@@ -78,7 +78,7 @@ Lineups:
       LSU: Paris Corley - 6-2 at 3, 10-3 in duals, 18-4 overall
       BU: Erica Di Battista - 1-1 at 3, 4-1 in duals, 4-1 overall
       Predictions:
-        AVG: LSU - Corley (97%) def. Battista (3%)
+        AVG: LSU - Corley (96%) def. Battista (4%)
         SLM: LSU - Corley (96%) def. Battista (4%)
         TRN: LSU - Corley (97%) def. Battista (3%)
         MAS: BU - Battista (NaN%) def. Corley (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       LSU: Eden Richardson - 2-2 at 5, 4-6 in duals, 8-11 overall
       BU: Lily Burchell - 4-0 at 5, 6-1 in duals, 6-1 overall
       Predictions:
-        AVG: LSU - Richardson (91%) def. Burchell (9%)
+        AVG: LSU - Richardson (85%) def. Burchell (15%)
         SLM: LSU - Richardson (94%) def. Burchell (6%)
         TRN: LSU - Richardson (90%) def. Burchell (10%)
         MAS: BU - Burchell (NaN%) def. Richardson (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       LSU: Nina Geissler - 4-2 at 6, 10-3 in duals, 15-6 overall
       BU: Katya Martens - 0-0 at 6, 4-0 in duals, 4-0 overall
       Predictions:
-        AVG: LSU - Geissler (95%) def. Martens (5%)
+        AVG: LSU - Geissler (93%) def. Martens (7%)
         SLM: LSU - Geissler (96%) def. Martens (4%)
         TRN: LSU - Geissler (95%) def. Martens (5%)
         MAS: BU - Martens (NaN%) def. Geissler (NaN%)

@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Florida St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 49
   Seeding:
     Overall: 7
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Alabama St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 50
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "FSU - #10 Florida St. (99%) def. #63 Alabama St. (1%)"
   TRN: "FSU - #9 Florida St. (99%) def. #62 Alabama St. (1%)"
-  MAS: "ALST - #63 Alabama St. (NaN%) def. #9 Florida St. (NaN%)"
+  MAS: "FSU - #9 Florida St. (100%) def. #63 Alabama St. (0%)"
   LNUP: FSU - Florida St. (99%) def. Alabama St. (1%)
   UTR: "FSU - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)"
   ITA: "FSU - #7 Florida St. def. #61 Alabama St."

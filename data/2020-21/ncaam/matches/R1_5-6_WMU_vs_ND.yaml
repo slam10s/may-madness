@@ -24,7 +24,7 @@ Home:
 Visitor:
   Team: Western Mich.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 6
   Seeding:
     Region: 3
@@ -40,8 +40,8 @@ Visitor:
 Predictions:
   SLM: "ND - #40 Notre Dame (77%) def. #47 Western Mich. (23%)"
   TRN: "ND - #42 Notre Dame (62%) def. #46 Western Mich. (38%)"
-  MAS: "WMU - #45 Western Mich. (NaN%) def. #36 Notre Dame (NaN%)"
-  LNUP: ND - Notre Dame (96%) def. Western Mich. (4%)
+  MAS: "ND - #36 Notre Dame (77%) def. #45 Western Mich. (23%)"
+  LNUP: ND - Notre Dame (95%) def. Western Mich. (5%)
   UTR: "ND - #38 Notre Dame (+3.43) def. #53 Western Mich. (-3.43)"
   ITA: "ND - #34 Notre Dame def. #41 Western Mich."
   USTA: WMU - RV Western Mich. def. Notre Dame
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "ND - #2 Notre Dame def. #3 Western Mich."
 Lineups:
   Predictions:
-    Average EWPs for ND: 77%,62%,NaN%,96%
-    Average EWPs for WMU: 23%,38%,NaN%,4%
-    ND wins 4 or more Singles points: 84%
-    WMU wins 4 or more Singles points: 3%
-    Winner decided by the Doubles point: 13%
+    Average EWPs for ND: 77%,62%,NaN%,95%
+    Average EWPs for WMU: 23%,38%,NaN%,5%
+    ND wins 4 or more Singles points: 78%
+    WMU wins 4 or more Singles points: 4%
+    Winner decided by the Doubles point: 18%
   Singles:
     - Position: 1
       ND: Axel Nefve - 13-2 at 1, 18-3 in duals, 18-3 overall
@@ -69,7 +69,7 @@ Lineups:
       ND: Richard Ciamarra - 9-4 at 2, 14-7 in duals, 14-7 overall
       WMU: Peter Kuszynski - 15-2 at 2, 18-2 in duals, 18-2 overall
       Predictions:
-        AVG: ND - Ciamarra (87%) def. Kuszynski (13%)
+        AVG: ND - Ciamarra (84%) def. Kuszynski (16%)
         SLM: ND - Ciamarra (89%) def. Kuszynski (11%)
         TRN: ND - Ciamarra (82%) def. Kuszynski (18%)
         MAS: WMU - Kuszynski (NaN%) def. Ciamarra (NaN%)
@@ -79,7 +79,7 @@ Lineups:
       ND: Tristan McCormick - 8-5 at 3, 10-6 in duals, 10-6 overall
       WMU: Fynn Lohse - 7-4 at 3, 16-5 in duals, 16-5 overall
       Predictions:
-        AVG: ND - McCormick (89%) def. Lohse (11%)
+        AVG: ND - McCormick (86%) def. Lohse (14%)
         SLM: ND - McCormick (88%) def. Lohse (12%)
         TRN: ND - McCormick (88%) def. Lohse (12%)
         MAS: WMU - Lohse (NaN%) def. McCormick (NaN%)
@@ -99,7 +99,7 @@ Lineups:
       ND: Matthew Che - 0-1 at 5, 6-12 in duals, 6-12 overall
       WMU: Arjun Honnappa - 11-3 at 5, 17-3 in duals, 17-3 overall
       Predictions:
-        AVG: ND - Che (74%) def. Honnappa (26%)
+        AVG: ND - Che (68%) def. Honnappa (32%)
         SLM: ND - Che (80%) def. Honnappa (20%)
         TRN: ND - Che (65%) def. Honnappa (35%)
         MAS: WMU - Honnappa (NaN%) def. Che (NaN%)
@@ -109,7 +109,7 @@ Lineups:
       ND: Connor Fu - 0-1 at 6, 12-9 in duals, 12-9 overall
       WMU: Ben George - 8-0 at 6, 11-0 in duals, 11-0 overall
       Predictions:
-        AVG: ND - Fu (87%) def. George (13%)
+        AVG: ND - Fu (82%) def. George (18%)
         SLM: ND - Fu (89%) def. George (11%)
         TRN: ND - Fu (86%) def. George (14%)
         MAS: WMU - George (NaN%) def. Fu (NaN%)

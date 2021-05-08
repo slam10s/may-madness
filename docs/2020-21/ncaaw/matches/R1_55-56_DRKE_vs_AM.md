@@ -5,7 +5,7 @@ Combe Tennis Center
 Evanston, Illinois  
 ## [Drake vs #10 Texas A&M](https://www.ncaa.com/game/5833674)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002F6C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002F6C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Drake</h2>  
@@ -13,7 +13,7 @@ Evanston, Illinois
 &nbsp; ITA: 63 (1.98)<br>  
 &nbsp; Slam: 58 (75.98)<br>  
 &nbsp; TRN: 58 (65.50)<br>  
-&#10004; Massey: 59 (4.59)<br>  
+&nbsp; Massey: 59 (4.59)<br>  
 &nbsp; UTR: 59 (50.87)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Evanston, Illinois
 &#10004; ITA: 10 (50.15)<br>  
 &#10004; Slam: 15 (90.86)<br>  
 &#10004; TRN: 14 (83.43)<br>  
-&nbsp; Massey: 21 (7.77)<br>  
+&#10004; Massey: 21 (7.77)<br>  
 &#10004; UTR: 21 (61.70)<br>  
 &#10004; USTA Poll: 17<br>  
 &#10004; Coaches Poll: 10<br>  
@@ -45,7 +45,7 @@ Evanston, Illinois
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***A&M*** - #15 Texas A&M (99%) def. #58 Drake (1%)  
 - TRN: ***A&M*** - #14 Texas A&M (99%) def. #58 Drake (1%)  
-- Massey: ***DRKE*** - #59 Drake (NaN%) def. #21 Texas A&M (NaN%)  
+- Massey: ***A&M*** - #21 Texas A&M (99%) def. #59 Drake (1%)  
 - Lineup: ***A&M*** - Texas A&M (99%) def. Drake (1%)  
 - UTR: ***A&M*** - #21 Texas A&M (+10.83) def. #59 Drake (-10.83)  
 - ITA: ***A&M*** - #10 Texas A&M def. #63 Drake  
@@ -85,7 +85,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ines Stephani (DRKE) - 5-1 at #3, 12-4 in duals, 12-4 overall<br>Katya Townsend (A&M) - 9-6 at #3, 11-6 in duals, 18-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Townsend (96%) def. Stephani (4%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
 <li>Massey: <b><i>DRKE</i></b> - Stephani (NaN%) def. Townsend (NaN%)</li>  
@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Maria Tatarnikova (DRKE) - 7-0 at #4, 12-6 in duals, 12-6 overall<br>Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Faa-Hviding (96%) def. Tatarnikova (4%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (98%) def. Tatarnikova (2%)</li>  
 <li>Massey: <b><i>DRKE</i></b> - Tatarnikova (NaN%) def. Faa-Hviding (NaN%)</li>  
@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kelsey Neville (DRKE) - 8-4 at #6, 9-7 in duals, 9-7 overall<br>Riley McQuaid (A&M) - 8-5 at #6, 11-5 in duals, 16-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
+<li>Composite: <b><i>A&M</i></b> - McQuaid (98%) def. Neville (2%)</li>  
 <li>Slam: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>Massey: <b><i>DRKE</i></b> - Neville (NaN%) def. McQuaid (NaN%)</li>  

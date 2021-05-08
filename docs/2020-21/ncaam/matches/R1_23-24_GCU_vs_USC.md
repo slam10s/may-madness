@@ -5,7 +5,7 @@ David X. Marks Tennis Stadium
 Los Angeles, California  
 ## [Grand Canyon vs #12 Southern California](https://www.ncaa.com/game/5833381)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #5F259F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #5F259F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Grand Canyon</h2>  
@@ -13,7 +13,7 @@ Los Angeles, California
 &nbsp; ITA: 64 (1.38)<br>  
 &nbsp; Slam: 62 (81.82)<br>  
 &nbsp; TRN: 62 (76.83)<br>  
-&#10004; Massey: 62 (5.21)<br>  
+&nbsp; Massey: 62 (5.21)<br>  
 &nbsp; UTR: 56 (71.32)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Los Angeles, California
 &#10004; ITA: 12 (52.23)<br>  
 &#10004; Slam: 14 (96.38)<br>  
 &#10004; TRN: 16 (94.47)<br>  
-&nbsp; Massey: 8 (8.62)<br>  
+&#10004; Massey: 8 (8.62)<br>  
 &#10004; UTR: 2 (80.29)<br>  
 &#10004; USTA Poll: 13<br>  
 &#10004; Coaches Poll: 12<br>  
@@ -45,7 +45,7 @@ Los Angeles, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***USC*** - #14 Southern California (99%) def. #62 Grand Canyon (1%)  
 - TRN: ***USC*** - #16 Southern California (99%) def. #62 Grand Canyon (1%)  
-- Massey: ***GCU*** - #62 Grand Canyon (NaN%) def. #8 Southern California (NaN%)  
+- Massey: ***USC*** - #8 Southern California (100%) def. #62 Grand Canyon (0%)  
 - Lineup: ***USC*** - Southern California (99%) def. Grand Canyon (1%)  
 - UTR: ***USC*** - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)  
 - ITA: ***USC*** - #12 Southern California def. #64 Grand Canyon  
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jiri Novak (GCU) - 5-1 at #5, 8-9 in duals, 8-9 overall<br>Lodewijk Weststrate (USC) - 9-3 at #5, 21-4 in duals, 23-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
+<li>Composite: <b><i>USC</i></b> - Weststrate (98%) def. Novak (2%)</li>  
 <li>Slam: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
 <li>TRN: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
 <li>Massey: <b><i>GCU</i></b> - Novak (NaN%) def. Weststrate (NaN%)</li>  

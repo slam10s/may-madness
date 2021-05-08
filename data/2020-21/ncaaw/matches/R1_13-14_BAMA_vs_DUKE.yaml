@@ -40,7 +40,7 @@ Visitor:
 Predictions:
   SLM: "DUKE - #14 Duke (93%) def. #44 Alabama (7%)"
   TRN: "DUKE - #15 Duke (94%) def. #44 Alabama (6%)"
-  MAS: "BAMA - #44 Alabama (NaN%) def. #11 Duke (NaN%)"
+  MAS: "DUKE - #11 Duke (98%) def. #44 Alabama (2%)"
   LNUP: DUKE - Duke (99%) def. Alabama (1%)
   UTR: "DUKE - #12 Duke (+3.40) def. #40 Alabama (-3.40)"
   ITA: "DUKE - #17 Duke def. #42 Alabama"
@@ -69,7 +69,7 @@ Lineups:
       DUKE: Georgia Drummy - 7-3 at 2, 15-3 in duals, 17-4 overall
       BAMA: Alba Cortina Pou - 3-2 at 2, 15-4 in duals, 15-7 overall
       Predictions:
-        AVG: DUKE - Drummy (91%) def. Pou (9%)
+        AVG: DUKE - Drummy (90%) def. Pou (10%)
         SLM: DUKE - Drummy (93%) def. Pou (7%)
         TRN: DUKE - Drummy (90%) def. Pou (10%)
         MAS: BAMA - Pou (NaN%) def. Drummy (NaN%)
@@ -89,7 +89,7 @@ Lineups:
       DUKE: Meible Chi - 12-1 at 4, 18-2 in duals, 21-3 overall
       BAMA: Anne Marie Hiser - 4-0 at 4, 13-8 in duals, 17-10 overall
       Predictions:
-        AVG: DUKE - Chi (93%) def. Hiser (7%)
+        AVG: DUKE - Chi (94%) def. Hiser (6%)
         SLM: DUKE - Chi (93%) def. Hiser (7%)
         TRN: DUKE - Chi (96%) def. Hiser (4%)
         MAS: BAMA - Hiser (NaN%) def. Chi (NaN%)
@@ -99,7 +99,7 @@ Lineups:
       DUKE: Margaryta Bilokin - 6-6 at 5, 11-8 in duals, 14-9 overall
       BAMA: Sydney Riley - 2-0 at 5, 12-7 in duals, 14-13 overall
       Predictions:
-        AVG: DUKE - Bilokin (92%) def. Riley (8%)
+        AVG: DUKE - Bilokin (91%) def. Riley (9%)
         SLM: DUKE - Bilokin (93%) def. Riley (7%)
         TRN: DUKE - Bilokin (90%) def. Riley (10%)
         MAS: BAMA - Riley (NaN%) def. Bilokin (NaN%)
@@ -109,7 +109,7 @@ Lineups:
       DUKE: Karolina Berankova - 7-7 at 6, 9-9 in duals, 10-11 overall
       BAMA: Sydney Orefice - 2-0 at 6, 2-0 in duals, 2-5 overall
       Predictions:
-        AVG: DUKE - Berankova (90%) def. Orefice (10%)
+        AVG: DUKE - Berankova (84%) def. Orefice (16%)
         SLM: DUKE - Berankova (92%) def. Orefice (8%)
         TRN: DUKE - Berankova (80%) def. Orefice (20%)
         MAS: BAMA - Orefice (NaN%) def. Berankova (NaN%)

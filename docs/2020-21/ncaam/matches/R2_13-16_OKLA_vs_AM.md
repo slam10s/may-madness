@@ -5,7 +5,7 @@ George P. Mitchell Tennis Center
 College Station, Texas  
 ## [Oklahoma vs #8 Texas A&M](https://www.ncaa.com/game/5833405)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#2 Oklahoma</h2>  
@@ -13,7 +13,7 @@ College Station, Texas
 &nbsp; ITA: 27 (29.42)<br>  
 &nbsp; Slam: 29 (93.05)<br>  
 &nbsp; TRN: 28 (91.23)<br>  
-&#10004; Massey: 37 (7.32)<br>  
+&nbsp; Massey: 37 (7.32)<br>  
 &nbsp; UTR: 28 (77.53)<br>  
 &nbsp; Coaches Poll: 26<br>  
 <br>  
@@ -26,7 +26,7 @@ College Station, Texas
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 11 (96.97)<br>  
 &#10004; TRN: 11 (95.89)<br>  
-&nbsp; Massey: 12 (8.53)<br>  
+&#10004; Massey: 12 (8.53)<br>  
 &#10004; UTR: 8 (79.76)<br>  
 &#10004; USTA Poll: 14<br>  
 &#10004; Coaches Poll: 8<br>  
@@ -43,7 +43,7 @@ College Station, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***A&M*** - #11 Texas A&M (90%) def. #29 Oklahoma (10%)  
 - TRN: ***A&M*** - #11 Texas A&M (93%) def. #28 Oklahoma (7%)  
-- Massey: ***OKLA*** - #37 Oklahoma (NaN%) def. #12 Texas A&M (NaN%)  
+- Massey: ***A&M*** - #12 Texas A&M (93%) def. #37 Oklahoma (7%)  
 - Lineup: ***A&M*** - Texas A&M (97%) def. Oklahoma (3%)  
 - UTR: ***A&M*** - #8 Texas A&M (+2.23) def. #28 Oklahoma (-2.23)  
 - ITA: ***A&M*** - #8 Texas A&M def. #27 Oklahoma  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jake Van Emburgh (OKLA) - 4-9 at #1, 8-10 in duals, 8-13 overall<br>Valentin Vacherot (A&M) - 13-2 at #1, 16-3 in duals, 21-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Vacherot (92%) def. Emburgh (8%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Vacherot (93%) def. Emburgh (7%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Vacherot (91%) def. Emburgh (9%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Vacherot (94%) def. Emburgh (6%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Emburgh (NaN%) def. Vacherot (NaN%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alex Martinez (OKLA) - 6-2 at #3, 12-7 in duals, 15-13 overall<br>Juan Carlos Aguilar (A&M) - 6-6 at #3, 10-8 in duals, 15-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Aguilar (78%) def. Martinez (22%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Aguilar (76%) def. Martinez (24%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Aguilar (75%) def. Martinez (25%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Aguilar (75%) def. Martinez (25%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Martinez (NaN%) def. Aguilar (NaN%)</li>  
@@ -94,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nathan Han (OKLA) - 2-6 at #4, 7-7 in duals, 13-11 overall<br>Noah Schachter (A&M) - 7-5 at #4, 12-10 in duals, 19-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Schachter (65%) def. Han (35%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Schachter (64%) def. Han (36%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Schachter (68%) def. Han (32%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Schachter (65%) def. Han (35%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Han (NaN%) def. Schachter (NaN%)</li>  
@@ -105,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Justin Schlageter (OKLA) - 3-5 at #5, 6-6 in duals, 10-12 overall<br>Pierce Rollins (A&M) - 3-3 at #5, 8-5 in duals, 15-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Rollins (81%) def. Schlageter (19%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Rollins (80%) def. Schlageter (20%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Rollins (79%) def. Schlageter (21%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Rollins (84%) def. Schlageter (16%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Schlageter (NaN%) def. Rollins (NaN%)</li>  
@@ -116,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Mark Mandlik (OKLA) - 1-1 at #6, 6-14 in duals, 6-14 overall<br>Guido Marson (A&M) - 0-0 at #6, 5-6 in duals, 7-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Marson (68%) def. Mandlik (32%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Marson (70%) def. Mandlik (30%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Marson (63%) def. Mandlik (37%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Marson (75%) def. Mandlik (25%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Mandlik (NaN%) def. Marson (NaN%)</li>  

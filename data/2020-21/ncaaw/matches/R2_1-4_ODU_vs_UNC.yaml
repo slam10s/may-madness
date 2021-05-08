@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: North Carolina
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 1
   Seeding:
     Overall: 1
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Old Dominion
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 4
   Seeding:
     Region: 2
@@ -42,7 +42,7 @@ Visitor:
 Predictions:
   SLM: "UNC - #1 North Carolina (99%) def. #28 Old Dominion (1%)"
   TRN: "UNC - #1 North Carolina (99%) def. #25 Old Dominion (1%)"
-  MAS: "ODU - #29 Old Dominion (NaN%) def. #1 North Carolina (NaN%)"
+  MAS: "UNC - #1 North Carolina (99%) def. #29 Old Dominion (1%)"
   LNUP: UNC - North Carolina (99%) def. Old Dominion (1%)
   UTR: "UNC - #2 North Carolina (+5.44) def. #37 Old Dominion (-5.44)"
   ITA: "UNC - #1 North Carolina def. #30 Old Dominion"
@@ -71,7 +71,7 @@ Lineups:
       UNC: Alexa Graham - 5-0 at 2, 11-2 in duals, 16-2 overall
       ODU: Yulia Starodubtseva - 11-1 at 2, 11-1 in duals, 11-1 overall
       Predictions:
-        AVG: UNC - Graham (93%) def. Starodubtseva (7%)
+        AVG: UNC - Graham (89%) def. Starodubtseva (11%)
         SLM: UNC - Graham (93%) def. Starodubtseva (7%)
         TRN: UNC - Graham (94%) def. Starodubtseva (6%)
         MAS: ODU - Starodubtseva (NaN%) def. Graham (NaN%)
@@ -81,7 +81,7 @@ Lineups:
       UNC: Cameron Morra - 6-2 at 3, 15-6 in duals, 15-6 overall
       ODU: Tatsiana Sasnouskaya - 9-2 at 3, 13-2 in duals, 13-2 overall
       Predictions:
-        AVG: UNC - Morra (88%) def. Sasnouskaya (12%)
+        AVG: UNC - Morra (82%) def. Sasnouskaya (18%)
         SLM: UNC - Morra (88%) def. Sasnouskaya (12%)
         TRN: UNC - Morra (88%) def. Sasnouskaya (12%)
         MAS: ODU - Sasnouskaya (NaN%) def. Morra (NaN%)
@@ -91,7 +91,7 @@ Lineups:
       UNC: Elizabeth Scotty - 6-1 at 4, 11-2 in duals, 11-3 overall
       ODU: Alesya Yakubovich - 4-5 at 4, 6-7 in duals, 6-7 overall
       Predictions:
-        AVG: UNC - Scotty (97%) def. Yakubovich (3%)
+        AVG: UNC - Scotty (96%) def. Yakubovich (4%)
         SLM: UNC - Scotty (97%) def. Yakubovich (3%)
         TRN: UNC - Scotty (98%) def. Yakubovich (2%)
         MAS: ODU - Yakubovich (NaN%) def. Scotty (NaN%)
@@ -101,7 +101,7 @@ Lineups:
       UNC: Makenna Jones - 1-2 at 5, 13-2 in duals, 15-2 overall
       ODU: Brooke Pilkington - 2-3 at 5, 6-5 in duals, 6-5 overall
       Predictions:
-        AVG: UNC - Jones (97%) def. Pilkington (3%)
+        AVG: UNC - Jones (96%) def. Pilkington (4%)
         SLM: UNC - Jones (98%) def. Pilkington (2%)
         TRN: UNC - Jones (99%) def. Pilkington (1%)
         MAS: ODU - Pilkington (NaN%) def. Jones (NaN%)

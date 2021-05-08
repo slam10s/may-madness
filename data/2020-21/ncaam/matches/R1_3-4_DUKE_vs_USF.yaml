@@ -39,25 +39,23 @@ Visitor:
 Predictions:
   SLM: "DUKE - #31 Duke (51%) def. #32 South Fla. (49%)"
   TRN: "USF - #34 South Fla. (52%) def. #36 Duke (48%)"
-  MAS: "DUKE - #34 Duke (NaN%) def. #32 South Fla. (NaN%)"
-  LNUP: DUKE - Duke (52%) def. South Fla. (48%)
+  MAS: "USF - #32 South Fla. (55%) def. #34 Duke (45%)"
   UTR: "DUKE - #32 Duke (+0.35) def. #37 South Fla. (-0.35)"
   ITA: "USF - #32 South Fla. def. #35 Duke"
   Coach: "USF - #33 South Fla. def. #36 Duke"
   Seeding: "USF - #2 South Fla. def. #3 Duke"
 Lineups:
   Predictions:
-    Average EWPs for USF: 50%,52%,NaN%,48%
-    Average EWPs for DUKE: 50%,48%,NaN%,52%
-    USF wins 4 or more Singles points: 33%
-    DUKE wins 4 or more Singles points: 36%
-    Winner decided by the Doubles point: 31%
+    Average EWPs for USF: 50%,52%,NaN%,51%
+    Average EWPs for DUKE: 50%,48%,NaN%,49%
+    USF wins 4 or more Singles points: 34%
+    DUKE wins 4 or more Singles points: 34%
+    Winner decided by the Doubles point: 32%
   Singles:
     - Position: 1
       USF: Jakub Wojcik - 4-1 at 1, 17-6 in duals, 17-6 overall
       DUKE: Garrett Johns - 8-8 at 1, 8-8 in duals, 9-9 overall
       Predictions:
-        AVG: DUKE - Johns (54%) def. Wojcik (46%)
         SLM: DUKE - Johns (56%) def. Wojcik (44%)
         TRN: USF - Wojcik (67%) def. Johns (33%)
         MAS: DUKE - Johns (NaN%) def. Wojcik (NaN%)
@@ -67,7 +65,7 @@ Lineups:
       USF: Chase Ferguson - 5-0 at 2, 13-9 in duals, 13-9 overall
       DUKE: Sean Sculley - 2-3 at 2, 5-4 in duals, 6-4 overall
       Predictions:
-        AVG: USF - Ferguson (61%) def. Sculley (39%)
+        AVG: USF - Ferguson (60%) def. Sculley (40%)
         SLM: USF - Ferguson (73%) def. Sculley (27%)
         TRN: USF - Ferguson (56%) def. Sculley (44%)
         MAS: DUKE - Sculley (NaN%) def. Ferguson (NaN%)
@@ -77,7 +75,7 @@ Lineups:
       USF: Ivan Yatsuk - 12-6 at 3, 15-7 in duals, 15-7 overall
       DUKE: Andrew Zhang - 5-1 at 3, 10-5 in duals, 12-5 overall
       Predictions:
-        AVG: DUKE - Zhang (53%) def. Yatsuk (47%)
+        AVG: DUKE - Zhang (52%) def. Yatsuk (48%)
         SLM: USF - Yatsuk (50%) def. Zhang (50%)
         TRN: USF - Yatsuk (56%) def. Zhang (44%)
         MAS: DUKE - Zhang (NaN%) def. Yatsuk (NaN%)
@@ -87,7 +85,7 @@ Lineups:
       USF: Antonio Muniz-Hidalgo - 1-1 at 4, 5-4 in duals, 5-4 overall
       DUKE: Edu Guell - 0-1 at 4, 7-10 in duals, 8-11 overall
       Predictions:
-        AVG: DUKE - Guell (55%) def. Muniz-Hidalgo (45%)
+        AVG: DUKE - Guell (54%) def. Muniz-Hidalgo (46%)
         SLM: DUKE - Guell (75%) def. Muniz-Hidalgo (25%)
         TRN: DUKE - Guell (59%) def. Muniz-Hidalgo (41%)
         MAS: DUKE - Guell (NaN%) def. Muniz-Hidalgo (NaN%)
@@ -97,7 +95,7 @@ Lineups:
       USF: Pierre Luquet - 0-2 at 5, 8-10 in duals, 8-10 overall
       DUKE: Luca Keist - 3-2 at 5, 7-3 in duals, 8-3 overall
       Predictions:
-        AVG: DUKE - Keist (55%) def. Luquet (45%)
+        AVG: DUKE - Keist (58%) def. Luquet (42%)
         SLM: DUKE - Keist (62%) def. Luquet (38%)
         TRN: DUKE - Keist (72%) def. Luquet (28%)
         MAS: DUKE - Keist (NaN%) def. Luquet (NaN%)
@@ -107,6 +105,7 @@ Lineups:
       USF: Sergio Gomez-Montesa - 2-1 at 6, 13-10 in duals, 13-10 overall
       DUKE: Andrew Dale - 0-2 at 6, 8-4 in duals, 10-4 overall
       Predictions:
+        AVG: USF - Gomez-Montesa (53%) def. Dale (47%)
         SLM: DUKE - Dale (53%) def. Gomez-Montesa (47%)
         TRN: USF - Gomez-Montesa (58%) def. Dale (42%)
         MAS: DUKE - Dale (NaN%) def. Gomez-Montesa (NaN%)

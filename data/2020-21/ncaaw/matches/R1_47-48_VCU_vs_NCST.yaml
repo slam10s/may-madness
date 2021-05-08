@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: NC State
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 48
   Seeding:
     Overall: 6
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: VCU
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 47
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "NCST - #11 NC State (99%) def. #48 VCU (1%)"
   TRN: "NCST - #10 NC State (99%) def. #48 VCU (1%)"
-  MAS: "VCU - #48 VCU (NaN%) def. #6 NC State (NaN%)"
+  MAS: "NCST - #6 NC State (99%) def. #48 VCU (1%)"
   LNUP: NCST - NC State (99%) def. VCU (1%)
   UTR: "NCST - #9 NC State (+7.24) def. #48 VCU (-7.24)"
   ITA: "NCST - #6 NC State def. #49 VCU"
@@ -78,7 +78,7 @@ Lineups:
       NCST: Adriana Reami - 12-4 at 3, 15-5 in duals, 16-9 overall
       VCU: Alessia Ciuca - 10-7 at 3, 10-11 in duals, 10-11 overall
       Predictions:
-        AVG: NCST - Reami (97%) def. Ciuca (3%)
+        AVG: NCST - Reami (96%) def. Ciuca (4%)
         SLM: NCST - Reami (96%) def. Ciuca (4%)
         TRN: NCST - Reami (97%) def. Ciuca (3%)
         MAS: VCU - Ciuca (NaN%) def. Reami (NaN%)
@@ -88,7 +88,7 @@ Lineups:
       NCST: Jaeda Daniel - 10-6 at 4, 11-8 in duals, 13-10 overall
       VCU: Gabriela Davidescu - 9-8 at 4, 10-8 in duals, 10-8 overall
       Predictions:
-        AVG: NCST - Daniel (96%) def. Davidescu (4%)
+        AVG: NCST - Daniel (95%) def. Davidescu (5%)
         SLM: NCST - Daniel (96%) def. Davidescu (4%)
         TRN: NCST - Daniel (95%) def. Davidescu (5%)
         MAS: VCU - Davidescu (NaN%) def. Daniel (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       NCST: Abigail Rencheli - 5-2 at 5, 10-4 in duals, 13-5 overall
       VCU: Noumea Witmus - 9-3 at 5, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: NCST - Rencheli (96%) def. Witmus (4%)
+        AVG: NCST - Rencheli (94%) def. Witmus (6%)
         SLM: NCST - Rencheli (95%) def. Witmus (5%)
         TRN: NCST - Rencheli (97%) def. Witmus (3%)
         MAS: VCU - Witmus (NaN%) def. Rencheli (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       NCST: Lexi Keberle - 2-4 at 6, 13-6 in duals, 16-8 overall
       VCU: Shivani Manjanna - 8-6 at 6, 11-7 in duals, 11-7 overall
       Predictions:
-        AVG: NCST - Keberle (97%) def. Manjanna (3%)
+        AVG: NCST - Keberle (96%) def. Manjanna (4%)
         SLM: NCST - Keberle (97%) def. Manjanna (3%)
         TRN: NCST - Keberle (98%) def. Manjanna (2%)
         MAS: VCU - Manjanna (NaN%) def. Keberle (NaN%)

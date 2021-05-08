@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Georgia Tech
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 25
   Seeding:
     Overall: 13
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Ga. Southern
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 26
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "GT - #20 Georgia Tech (99%) def. #53 Ga. Southern (1%)"
   TRN: "GT - #16 Georgia Tech (99%) def. #54 Ga. Southern (1%)"
-  MAS: "GASO - #55 Ga. Southern (NaN%) def. #18 Georgia Tech (NaN%)"
+  MAS: "GT - #18 Georgia Tech (99%) def. #55 Ga. Southern (1%)"
   LNUP: GT - Georgia Tech (99%) def. Ga. Southern (1%)
   UTR: "GT - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)"
   ITA: "GT - #13 Georgia Tech def. #53 Ga. Southern"
@@ -77,7 +77,7 @@ Lineups:
       GT: Gia Cohen - 3-11 at 3, 8-14 in duals, 8-15 overall
       GASO: Sophie Wagemaker - 10-3 at 3, 11-7 in duals, 11-7 overall
       Predictions:
-        AVG: GT - Cohen (91%) def. Wagemaker (9%)
+        AVG: GT - Cohen (86%) def. Wagemaker (14%)
         SLM: GT - Cohen (93%) def. Wagemaker (7%)
         TRN: GT - Cohen (93%) def. Wagemaker (7%)
         MAS: GASO - Wagemaker (NaN%) def. Cohen (NaN%)
@@ -97,7 +97,7 @@ Lineups:
       GT: Carol Lee - 5-8 at 5, 12-12 in duals, 14-12 overall
       GASO: Mila Hartig - 1-0 at 5, 14-4 in duals, 14-4 overall
       Predictions:
-        AVG: GT - Lee (91%) def. Hartig (9%)
+        AVG: GT - Lee (90%) def. Hartig (10%)
         SLM: GT - Lee (93%) def. Hartig (7%)
         TRN: GT - Lee (91%) def. Hartig (9%)
         MAS: GASO - Hartig (NaN%) def. Lee (NaN%)
@@ -107,7 +107,7 @@ Lineups:
       GT: Mahak Jain - 7-2 at 6, 14-7 in duals, 16-7 overall
       GASO: Paula Hijos - 2-0 at 6, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: GT - Jain (97%) def. Hijos (3%)
+        AVG: GT - Jain (96%) def. Hijos (4%)
         SLM: GT - Jain (95%) def. Hijos (5%)
         TRN: GT - Jain (97%) def. Hijos (3%)
         MAS: GASO - Hijos (NaN%) def. Jain (NaN%)

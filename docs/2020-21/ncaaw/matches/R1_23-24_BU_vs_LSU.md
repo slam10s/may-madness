@@ -5,7 +5,7 @@ LSU Tennis Complex
 Baton Rouge, Louisiana  
 ## [Boston U. vs #12 LSU](https://www.ncaa.com/game/5833658)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Boston U.</h2>  
@@ -13,7 +13,7 @@ Baton Rouge, Louisiana
 &nbsp; ITA: 50 (5.16)<br>  
 &nbsp; Slam: 54 (78.65)<br>  
 &nbsp; TRN: 51 (71.29)<br>  
-&#10004; Massey: 54 (5.32)<br>  
+&nbsp; Massey: 54 (5.32)<br>  
 &nbsp; UTR: 49 (55.50)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Baton Rouge, Louisiana
 &#10004; ITA: 12 (48.73)<br>  
 &#10004; Slam: 21 (90.28)<br>  
 &#10004; TRN: 18 (82.92)<br>  
-&nbsp; Massey: 21 (7.77)<br>  
+&#10004; Massey: 21 (7.77)<br>  
 &#10004; UTR: 26 (61.48)<br>  
 &#10004; USTA Poll: 23<br>  
 &#10004; Coaches Poll: 14<br>  
@@ -45,7 +45,7 @@ Baton Rouge, Louisiana
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***LSU*** - #21 LSU (99%) def. #54 Boston U. (1%)  
 - TRN: ***LSU*** - #18 LSU (99%) def. #51 Boston U. (1%)  
-- Massey: ***BU*** - #54 Boston U. (NaN%) def. #21 LSU (NaN%)  
+- Massey: ***LSU*** - #21 LSU (99%) def. #54 Boston U. (1%)  
 - Lineup: ***LSU*** - LSU (99%) def. Boston U. (1%)  
 - UTR: ***LSU*** - #26 LSU (+5.98) def. #49 Boston U. (-5.98)  
 - ITA: ***LSU*** - #12 LSU def. #50 Boston U.  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Victoria Carlsten (BU) - 2-2 at #1, 3-3 in duals, 3-3 overall<br>Taylor Bridges (LSU) - 7-7 at #1, 7-7 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>LSU</i></b> - Bridges (91%) def. Carlsten (9%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Bridges (92%) def. Carlsten (8%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Bridges (94%) def. Carlsten (6%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Bridges (94%) def. Carlsten (6%)</li>  
 <li>Massey: <b><i>BU</i></b> - Carlsten (NaN%) def. Bridges (NaN%)</li>  
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kaitlin Tan (BU) - 3-0 at #2, 5-0 in duals, 5-0 overall<br>Safiya Carrington (LSU) - 2-5 at #2, 3-6 in duals, 10-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>LSU</i></b> - Carrington (82%) def. Tan (18%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Carrington (75%) def. Tan (25%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Carrington (79%) def. Tan (21%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Carrington (78%) def. Tan (22%)</li>  
 <li>Massey: <b><i>BU</i></b> - Tan (NaN%) def. Carrington (NaN%)</li>  
@@ -85,7 +85,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Erica Di Battista (BU) - 1-1 at #3, 4-1 in duals, 4-1 overall<br>Paris Corley (LSU) - 6-2 at #3, 10-3 in duals, 18-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>LSU</i></b> - Corley (97%) def. Battista (3%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Corley (96%) def. Battista (4%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Corley (96%) def. Battista (4%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Corley (97%) def. Battista (3%)</li>  
 <li>Massey: <b><i>BU</i></b> - Battista (NaN%) def. Corley (NaN%)</li>  
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lily Burchell (BU) - 4-0 at #5, 6-1 in duals, 6-1 overall<br>Eden Richardson (LSU) - 2-2 at #5, 4-6 in duals, 8-11 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>LSU</i></b> - Richardson (91%) def. Burchell (9%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Richardson (85%) def. Burchell (15%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Richardson (94%) def. Burchell (6%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Richardson (90%) def. Burchell (10%)</li>  
 <li>Massey: <b><i>BU</i></b> - Burchell (NaN%) def. Richardson (NaN%)</li>  
@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Katya Martens (BU) - 0-0 at #6, 4-0 in duals, 4-0 overall<br>Nina Geissler (LSU) - 4-2 at #6, 10-3 in duals, 15-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>LSU</i></b> - Geissler (95%) def. Martens (5%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Geissler (93%) def. Martens (7%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Geissler (96%) def. Martens (4%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Geissler (95%) def. Martens (5%)</li>  
 <li>Massey: <b><i>BU</i></b> - Martens (NaN%) def. Geissler (NaN%)</li>  

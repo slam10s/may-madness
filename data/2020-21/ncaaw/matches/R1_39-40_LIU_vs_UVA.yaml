@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Virginia
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 40
   Seeding:
     Overall: 14
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: LIU
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 39
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "UVA - #9 Virginia (99%) def. #61 LIU (1%)"
   TRN: "UVA - #11 Virginia (99%) def. #63 LIU (1%)"
-  MAS: "LIU - #61 LIU (NaN%) def. #7 Virginia (NaN%)"
+  MAS: "UVA - #7 Virginia (100%) def. #61 LIU (0%)"
   LNUP: UVA - Virginia (99%) def. LIU (1%)
   UTR: "UVA - #13 Virginia (+12.56) def. #60 LIU (-12.56)"
   ITA: "UVA - #14 Virginia def. #52 LIU"
@@ -97,7 +97,7 @@ Lineups:
       UVA: Amber O'Dell - 1-3 at 5, 10-7 in duals, 10-9 overall
       LIU: Bianca Compuesto - 4-0 at 5, 6-0 in duals, 6-0 overall
       Predictions:
-        AVG: LIU - Compuesto (99%) def. O'Dell (1%)
+        AVG: LIU - Compuesto (78%) def. O'Dell (22%)
         SLM: LIU - Compuesto (100%) def. O'Dell (0%)
         TRN: LIU - Compuesto (100%) def. O'Dell (0%)
         MAS: LIU - Compuesto (NaN%) def. O'Dell (NaN%)
@@ -107,7 +107,7 @@ Lineups:
       UVA: Vivian Glozman - 2-1 at 6, 7-3 in duals, 8-4 overall
       LIU: Ekaterine Jorjoliani - 5-1 at 6, 7-1 in duals, 7-1 overall
       Predictions:
-        AVG: UVA - Glozman (99%) def. Jorjoliani (1%)
+        AVG: UVA - Glozman (98%) def. Jorjoliani (2%)
         SLM: UVA - Glozman (99%) def. Jorjoliani (1%)
         TRN: UVA - Glozman (99%) def. Jorjoliani (1%)
         MAS: LIU - Jorjoliani (NaN%) def. Glozman (NaN%)

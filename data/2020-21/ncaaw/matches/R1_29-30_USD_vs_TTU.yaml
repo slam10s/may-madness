@@ -39,25 +39,25 @@ Visitor:
 Predictions:
   SLM: "TTU - #34 Texas Tech (53%) def. #36 San Diego (47%)"
   TRN: "TTU - #34 Texas Tech (61%) def. #38 San Diego (39%)"
-  MAS: "USD - #32 San Diego (NaN%) def. #28 Texas Tech (NaN%)"
-  LNUP: TTU - Texas Tech (64%) def. San Diego (36%)
+  MAS: "TTU - #28 Texas Tech (56%) def. #32 San Diego (44%)"
+  LNUP: TTU - Texas Tech (65%) def. San Diego (35%)
   UTR: "TTU - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)"
   ITA: "TTU - #29 Texas Tech def. #39 San Diego"
   Coach: "TTU - #29 Texas Tech def. #47 San Diego"
   Seeding: "TTU - #2 Texas Tech def. #3 San Diego"
 Lineups:
   Predictions:
-    Average EWPs for TTU: 53%,61%,NaN%,64%
-    Average EWPs for USD: 47%,39%,NaN%,36%
-    TTU wins 4 or more Singles points: 42%
+    Average EWPs for TTU: 53%,61%,NaN%,65%
+    Average EWPs for USD: 47%,39%,NaN%,35%
+    TTU wins 4 or more Singles points: 43%
     USD wins 4 or more Singles points: 23%
-    Winner decided by the Doubles point: 35%
+    Winner decided by the Doubles point: 34%
   Singles:
     - Position: 1
       TTU: Lisa Mays - 9-7 at 1, 10-7 in duals, 12-8 overall
       USD: Solymar Colling - 14-4 at 1, 14-4 in duals, 14-3 overall
       Predictions:
-        AVG: USD - Colling (86%) def. Mays (14%)
+        AVG: USD - Colling (80%) def. Mays (20%)
         SLM: USD - Colling (89%) def. Mays (11%)
         TRN: USD - Colling (88%) def. Mays (12%)
         MAS: USD - Colling (NaN%) def. Mays (NaN%)
@@ -67,7 +67,7 @@ Lineups:
       TTU: Margarita Skriabina - 2-0 at 2, 16-1 in duals, 18-2 overall
       USD: Elizabeth Goldsmith - 11-3 at 2, 11-3 in duals, 11-3 overall
       Predictions:
-        AVG: TTU - Skriabina (63%) def. Goldsmith (37%)
+        AVG: TTU - Skriabina (66%) def. Goldsmith (34%)
         SLM: USD - Goldsmith (51%) def. Skriabina (49%)
         TRN: TTU - Skriabina (54%) def. Goldsmith (46%)
         MAS: USD - Goldsmith (NaN%) def. Skriabina (NaN%)
@@ -77,7 +77,7 @@ Lineups:
       TTU: Kaitlin Staines - 0-0 at 3, 6-9 in duals, 9-11 overall
       USD: Jordyn McBride - 12-3 at 3, 14-3 in duals, 14-3 overall
       Predictions:
-        AVG: USD - McBride (55%) def. Staines (45%)
+        AVG: USD - McBride (59%) def. Staines (41%)
         SLM: USD - McBride (52%) def. Staines (48%)
         TRN: USD - McBride (58%) def. Staines (42%)
         MAS: USD - McBride (NaN%) def. Staines (NaN%)
@@ -87,7 +87,7 @@ Lineups:
       TTU: Nell Miller - 11-4 at 4, 14-6 in duals, 16-10 overall
       USD: Abigail Desiatnikov - 6-3 at 4, 12-4 in duals, 12-4 overall
       Predictions:
-        AVG: USD - Desiatnikov (55%) def. Miller (45%)
+        AVG: USD - Desiatnikov (51%) def. Miller (49%)
         SLM: TTU - Miller (61%) def. Desiatnikov (39%)
         TRN: USD - Desiatnikov (57%) def. Miller (43%)
         MAS: USD - Desiatnikov (NaN%) def. Miller (NaN%)
@@ -97,7 +97,7 @@ Lineups:
       TTU: Olivia Peet - 9-6 at 5, 10-6 in duals, 12-6 overall
       USD: Victoria Kalaitzis - 8-2 at 5, 12-4 in duals, 12-4 overall
       Predictions:
-        AVG: TTU - Peet (81%) def. Kalaitzis (19%)
+        AVG: TTU - Peet (78%) def. Kalaitzis (22%)
         SLM: TTU - Peet (83%) def. Kalaitzis (17%)
         TRN: TTU - Peet (77%) def. Kalaitzis (23%)
         MAS: USD - Kalaitzis (NaN%) def. Peet (NaN%)
@@ -107,7 +107,7 @@ Lineups:
       TTU: Metka Komac - 9-4 at 6, 10-5 in duals, 12-6 overall
       USD: Katharina Kukaras - 5-3 at 6, 11-4 in duals, 11-4 overall
       Predictions:
-        AVG: TTU - Komac (79%) def. Kukaras (21%)
+        AVG: TTU - Komac (75%) def. Kukaras (25%)
         SLM: TTU - Komac (82%) def. Kukaras (18%)
         TRN: TTU - Komac (83%) def. Kukaras (17%)
         MAS: USD - Kukaras (NaN%) def. Komac (NaN%)

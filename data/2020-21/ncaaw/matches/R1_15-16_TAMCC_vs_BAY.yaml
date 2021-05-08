@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Baylor
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 16
   Seeding:
     Overall: 8
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: A&M-Corpus Christi
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 15
   Seeding:
     Region: 4
@@ -58,7 +58,7 @@ Lineups:
       BAY: Melany Krywoj - 11-6 at 1, 11-6 in duals, 19-10 overall
       TAMCC: Mariya Shumeika - 7-3 at 1, 19-3 in duals, 19-3 overall
       Predictions:
-        AVG: BAY - Krywoj (94%) def. Shumeika (6%)
+        AVG: BAY - Krywoj (93%) def. Shumeika (7%)
         SLM: BAY - Krywoj (95%) def. Shumeika (5%)
         TRN: BAY - Krywoj (90%) def. Shumeika (10%)
         MAS: TAMCC - Shumeika (NaN%) def. Krywoj (NaN%)
@@ -68,7 +68,7 @@ Lineups:
       BAY: Jessica Hinojosa - 7-6 at 2, 12-10 in duals, 18-15 overall
       TAMCC: Camille Townsend - 6-3 at 2, 14-6 in duals, 14-6 overall
       Predictions:
-        AVG: BAY - Hinojosa (93%) def. Townsend (7%)
+        AVG: BAY - Hinojosa (90%) def. Townsend (10%)
         SLM: BAY - Hinojosa (90%) def. Townsend (10%)
         TRN: BAY - Hinojosa (95%) def. Townsend (5%)
         MAS: TAMCC - Townsend (NaN%) def. Hinojosa (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       BAY: Kristina Sorokolet - 4-1 at 5, 11-3 in duals, 18-5 overall
       TAMCC: Leopoldine Boisseau - 14-3 at 5, 17-3 in duals, 17-3 overall
       Predictions:
-        AVG: BAY - Sorokolet (96%) def. Boisseau (4%)
+        AVG: BAY - Sorokolet (93%) def. Boisseau (7%)
         SLM: BAY - Sorokolet (96%) def. Boisseau (4%)
         TRN: BAY - Sorokolet (96%) def. Boisseau (4%)
         MAS: TAMCC - Boisseau (NaN%) def. Sorokolet (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       BAY: Paula Baranano - 5-2 at 6, 12-3 in duals, 12-3 overall
       TAMCC: Victoire Delattre - 14-2 at 6, 17-2 in duals, 17-2 overall
       Predictions:
-        AVG: BAY - Baranano (99%) def. Delattre (1%)
+        AVG: BAY - Baranano (98%) def. Delattre (2%)
         SLM: BAY - Baranano (99%) def. Delattre (1%)
         TRN: BAY - Baranano (99%) def. Delattre (1%)
         MAS: TAMCC - Delattre (NaN%) def. Baranano (NaN%)

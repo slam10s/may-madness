@@ -5,7 +5,7 @@ Dan Magill Tennis Complex
 Athens, Georgia  
 ## [Furman vs Wake Forest](https://www.ncaa.com/game/5833664)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Furman</h2>  
@@ -13,7 +13,7 @@ Athens, Georgia
 &nbsp; ITA: 34 (25.42)<br>  
 &nbsp; Slam: 33 (87.98)<br>  
 &nbsp; TRN: 35 (79.59)<br>  
-&#10004; Massey: 35 (7.09)<br>  
+&nbsp; Massey: 35 (7.09)<br>  
 &nbsp; UTR: 41 (59.02)<br>  
 &#10004; USTA Poll: RV<br>  
 &nbsp; Coaches Poll: 35<br>  
@@ -27,7 +27,7 @@ Athens, Georgia
 &#10004; ITA: 33 (25.77)<br>  
 &#10004; Slam: 32 (88.11)<br>  
 &#10004; TRN: 31 (80.20)<br>  
-&nbsp; Massey: 34 (7.13)<br>  
+&#10004; Massey: 34 (7.13)<br>  
 &#10004; UTR: 31 (60.70)<br>  
 &#10004; Coaches Poll: 31<br>  
 <br>  
@@ -46,8 +46,8 @@ Athens, Georgia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***WAKE*** - #32 Wake Forest (51%) def. #33 Furman (49%)  
 - TRN: ***WAKE*** - #31 Wake Forest (58%) def. #35 Furman (42%)  
-- Massey: ***FUR*** - #35 Furman (NaN%) def. #34 Wake Forest (NaN%)  
-- Lineup: ***WAKE*** - Wake Forest (83%) def. Furman (17%)  
+- Massey: ***WAKE*** - #34 Wake Forest (52%) def. #35 Furman (48%)  
+- Lineup: ***WAKE*** - Wake Forest (82%) def. Furman (18%)  
 - UTR: ***WAKE*** - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)  
 - ITA: ***WAKE*** - #33 Wake Forest def. #34 Furman  
 - USTA Poll: ***FUR*** - RV Furman def. Wake Forest  
@@ -75,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Julia Adams (FUR) - 15-6 at #2, 19-6 in duals, 19-6 overall<br>Anna Campana (WAKE) - 4-6 at #2, 6-10 in duals, 6-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FUR</i></b> - Adams (59%) def. Campana (41%)</li>  
+<li>Composite: <b><i>FUR</i></b> - Adams (58%) def. Campana (42%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Campana (52%) def. Adams (48%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Adams (61%) def. Campana (39%)</li>  
 <li>Massey: <b><i>FUR</i></b> - Adams (NaN%) def. Campana (NaN%)</li>  
@@ -108,7 +108,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Maggie Pate (FUR) - 9-6 at #5, 15-7 in duals, 15-7 overall<br>Brooke Killingsworth (WAKE) - 1-1 at #5, 7-14 in duals, 7-14 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>WAKE</i></b> - Killingsworth (74%) def. Pate (26%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Killingsworth (70%) def. Pate (30%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Killingsworth (79%) def. Pate (21%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Killingsworth (66%) def. Pate (34%)</li>  
 <li>Massey: <b><i>FUR</i></b> - Pate (NaN%) def. Killingsworth (NaN%)</li>  
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Wake Forest should win 4 or more singles matches _62%_ of the time.  
-- Furman should win 4 or more singles matches _12%_ of the time.  
-- The winner of the doubles point will decide the match the other _26%_ of the time.  
-- If Wake Forest wins the doubles point, their chances of winning the dual improve to _88%_.  
-- If Furman wins the doubles point, their chances of winning the dual improve to _38%_.  
+- Wake Forest should win 4 or more singles matches _60%_ of the time.  
+- Furman should win 4 or more singles matches _13%_ of the time.  
+- The winner of the doubles point will decide the match the other _27%_ of the time.  
+- If Wake Forest wins the doubles point, their chances of winning the dual improve to _87%_.  
+- If Furman wins the doubles point, their chances of winning the dual improve to _40%_.  
   
 ------
 

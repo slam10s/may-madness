@@ -5,7 +5,7 @@ Hurd Tennis Center
 Waco, Texas  
 ## [Alabama vs Duke](https://www.ncaa.com/game/5833653)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Alabama</h2>  
@@ -13,7 +13,7 @@ Waco, Texas
 &nbsp; ITA: 42 (16.54)<br>  
 &nbsp; Slam: 44 (86.23)<br>  
 &nbsp; TRN: 44 (78.28)<br>  
-&#10004; Massey: 44 (6.49)<br>  
+&nbsp; Massey: 44 (6.49)<br>  
 &nbsp; UTR: 40 (59.05)<br>  
 &nbsp; Coaches Poll: 43<br>  
 <br>  
@@ -26,7 +26,7 @@ Waco, Texas
 &#10004; ITA: 17 (43.03)<br>  
 &#10004; Slam: 14 (90.91)<br>  
 &#10004; TRN: 15 (83.33)<br>  
-&nbsp; Massey: 11 (8.09)<br>  
+&#10004; Massey: 11 (8.09)<br>  
 &#10004; UTR: 12 (62.45)<br>  
 &#10004; USTA Poll: 14<br>  
 &#10004; Coaches Poll: 20<br>  
@@ -46,7 +46,7 @@ Waco, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***DUKE*** - #14 Duke (93%) def. #44 Alabama (7%)  
 - TRN: ***DUKE*** - #15 Duke (94%) def. #44 Alabama (6%)  
-- Massey: ***BAMA*** - #44 Alabama (NaN%) def. #11 Duke (NaN%)  
+- Massey: ***DUKE*** - #11 Duke (98%) def. #44 Alabama (2%)  
 - Lineup: ***DUKE*** - Duke (99%) def. Alabama (1%)  
 - UTR: ***DUKE*** - #12 Duke (+3.40) def. #40 Alabama (-3.40)  
 - ITA: ***DUKE*** - #17 Duke def. #42 Alabama  
@@ -75,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alba Cortina Pou (BAMA) - 3-2 at #2, 15-4 in duals, 15-7 overall<br>Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>DUKE</i></b> - Drummy (91%) def. Pou (9%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Drummy (93%) def. Pou (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
 <li>Massey: <b><i>BAMA</i></b> - Pou (NaN%) def. Drummy (NaN%)</li>  
@@ -97,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Anne Marie Hiser (BAMA) - 4-0 at #4, 13-8 in duals, 17-10 overall<br>Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>DUKE</i></b> - Chi (93%) def. Hiser (7%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Chi (94%) def. Hiser (6%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Chi (93%) def. Hiser (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chi (96%) def. Hiser (4%)</li>  
 <li>Massey: <b><i>BAMA</i></b> - Hiser (NaN%) def. Chi (NaN%)</li>  
@@ -108,7 +108,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Sydney Riley (BAMA) - 2-0 at #5, 12-7 in duals, 14-13 overall<br>Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>DUKE</i></b> - Bilokin (92%) def. Riley (8%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Bilokin (91%) def. Riley (9%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Bilokin (93%) def. Riley (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Bilokin (90%) def. Riley (10%)</li>  
 <li>Massey: <b><i>BAMA</i></b> - Riley (NaN%) def. Bilokin (NaN%)</li>  
@@ -119,7 +119,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Sydney Orefice (BAMA) - 2-0 at #6, 2-0 in duals, 2-5 overall<br>Karolina Berankova (DUKE) - 7-7 at #6, 9-9 in duals, 10-11 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>DUKE</i></b> - Berankova (90%) def. Orefice (10%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Berankova (84%) def. Orefice (16%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Berankova (92%) def. Orefice (8%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Berankova (80%) def. Orefice (20%)</li>  
 <li>Massey: <b><i>BAMA</i></b> - Orefice (NaN%) def. Berankova (NaN%)</li>  

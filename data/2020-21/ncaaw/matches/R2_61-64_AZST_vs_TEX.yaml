@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Texas
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 64
   Seeding:
     Overall: 2
@@ -42,7 +42,7 @@ Visitor:
 Predictions:
   SLM: "TEX - #2 Texas (99%) def. #31 Arizona St. (1%)"
   TRN: "TEX - #2 Texas (99%) def. #33 Arizona St. (1%)"
-  MAS: "AZST - #24 Arizona St. (NaN%) def. #2 Texas (NaN%)"
+  MAS: "TEX - #2 Texas (96%) def. #24 Arizona St. (4%)"
   LNUP: TEX - Texas (99%) def. Arizona St. (1%)
   UTR: "TEX - #1 Texas (+4.00) def. #23 Arizona St. (-4.00)"
   ITA: "TEX - #2 Texas def. #31 Arizona St."
@@ -53,9 +53,9 @@ Lineups:
   Predictions:
     Average EWPs for TEX: 99%,99%,NaN%,100%
     Average EWPs for AZST: 1%,1%,NaN%,0%
-    TEX wins 4 or more Singles points: 99%
+    TEX wins 4 or more Singles points: 98%
     AZST wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 1%
+    Winner decided by the Doubles point: 2%
   Singles:
     - Position: 1
       TEX: Peyton Stearns - 10-3 at 1, 10-3 in duals, 14-6 overall
@@ -71,7 +71,7 @@ Lineups:
       TEX: Anna Turati - 9-2 at 2, 17-3 in duals, 17-3 overall
       AZST: Sammi Hampton - 6-8 at 2, 6-8 in duals, 6-8 overall
       Predictions:
-        AVG: TEX - Turati (91%) def. Hampton (9%)
+        AVG: TEX - Turati (90%) def. Hampton (10%)
         SLM: TEX - Turati (90%) def. Hampton (10%)
         TRN: TEX - Turati (94%) def. Hampton (6%)
         MAS: AZST - Hampton (NaN%) def. Turati (NaN%)
@@ -81,7 +81,7 @@ Lineups:
       TEX: Lulu Sun - 12-1 at 3, 18-2 in duals, 18-2 overall
       AZST: Lauryn John-Baptiste - 11-6 at 3, 11-6 in duals, 11-6 overall
       Predictions:
-        AVG: TEX - Sun (92%) def. John-Baptiste (8%)
+        AVG: TEX - Sun (90%) def. John-Baptiste (10%)
         SLM: TEX - Sun (87%) def. John-Baptiste (13%)
         TRN: TEX - Sun (92%) def. John-Baptiste (8%)
         MAS: AZST - John-Baptiste (NaN%) def. Sun (NaN%)
@@ -91,7 +91,7 @@ Lineups:
       TEX: Charlotte Chavatipon - 16-1 at 4, 20-1 in duals, 23-1 overall
       AZST: Giulia Morlet - 8-5 at 4, 9-5 in duals, 10-5 overall
       Predictions:
-        AVG: TEX - Chavatipon (93%) def. Morlet (7%)
+        AVG: TEX - Chavatipon (91%) def. Morlet (9%)
         SLM: TEX - Chavatipon (93%) def. Morlet (7%)
         TRN: TEX - Chavatipon (97%) def. Morlet (3%)
         MAS: AZST - Morlet (NaN%) def. Chavatipon (NaN%)
@@ -101,7 +101,7 @@ Lineups:
       TEX: Kylie Collins - 9-2 at 5, 16-2 in duals, 16-2 overall
       AZST: Marianna Argyrokastriti - 11-4 at 5, 14-5 in duals, 15-5 overall
       Predictions:
-        AVG: TEX - Collins (89%) def. Argyrokastriti (11%)
+        AVG: TEX - Collins (87%) def. Argyrokastriti (13%)
         SLM: TEX - Collins (88%) def. Argyrokastriti (12%)
         TRN: TEX - Collins (90%) def. Argyrokastriti (10%)
         MAS: AZST - Argyrokastriti (NaN%) def. Collins (NaN%)
@@ -111,7 +111,7 @@ Lineups:
       TEX: Fernanda Labrana - 5-1 at 6, 14-1 in duals, 21-2 overall
       AZST: Domenika Turkovic - 4-5 at 6, 8-6 in duals, 9-6 overall
       Predictions:
-        AVG: TEX - Labrana (94%) def. Turkovic (6%)
+        AVG: TEX - Labrana (91%) def. Turkovic (9%)
         SLM: TEX - Labrana (95%) def. Turkovic (5%)
         TRN: TEX - Labrana (98%) def. Turkovic (2%)
         MAS: AZST - Turkovic (NaN%) def. Labrana (NaN%)

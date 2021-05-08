@@ -25,7 +25,7 @@ Home:
 Visitor:
   Team: FGCU
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/fgcu.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 27
   Seeding:
     Region: 3
@@ -38,8 +38,8 @@ Visitor:
 Predictions:
   SLM: "NCST - #19 NC State (98%) def. #49 FGCU (2%)"
   TRN: "NCST - #22 NC State (98%) def. #50 FGCU (2%)"
-  MAS: "FGCU - #53 FGCU (NaN%) def. #23 NC State (NaN%)"
-  LNUP: NCST - NC State (99%) def. FGCU (1%)
+  MAS: "NCST - #23 NC State (95%) def. #53 FGCU (5%)"
+  LNUP: NCST - NC State (98%) def. FGCU (2%)
   UTR: "NCST - #22 NC State (+4.53) def. #52 FGCU (-4.53)"
   ITA: "NCST - #23 NC State def. #47 FGCU"
   USTA: "NCST - #25 NC State def. FGCU"
@@ -47,17 +47,17 @@ Predictions:
   Seeding: "NCST - #2 NC State def. #3 FGCU"
 Lineups:
   Predictions:
-    Average EWPs for NCST: 98%,98%,NaN%,100%
-    Average EWPs for FGCU: 2%,2%,NaN%,0%
-    NCST wins 4 or more Singles points: 97%
-    FGCU wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 3%
+    Average EWPs for NCST: 98%,98%,NaN%,98%
+    Average EWPs for FGCU: 2%,2%,NaN%,2%
+    NCST wins 4 or more Singles points: 95%
+    FGCU wins 4 or more Singles points: 1%
+    Winner decided by the Doubles point: 4%
   Singles:
     - Position: 1
       NCST: Alexis Galarneau - 10-2 at 1, 10-2 in duals, 10-3 overall
       FGCU: Magnus Johnson - 9-3 at 1, 9-3 in duals, 9-3 overall
       Predictions:
-        AVG: NCST - Galarneau (88%) def. Johnson (12%)
+        AVG: NCST - Galarneau (87%) def. Johnson (13%)
         SLM: NCST - Galarneau (87%) def. Johnson (13%)
         TRN: NCST - Galarneau (85%) def. Johnson (15%)
         MAS: FGCU - Johnson (NaN%) def. Galarneau (NaN%)
@@ -67,7 +67,7 @@ Lineups:
       NCST: Rafael Izquierdo Luque - 2-5 at 2, 7-8 in duals, 8-9 overall
       FGCU: Juan Montes - 7-4 at 2, 7-4 in duals, 7-4 overall
       Predictions:
-        AVG: NCST - Luque (79%) def. Montes (21%)
+        AVG: NCST - Luque (77%) def. Montes (23%)
         SLM: NCST - Luque (75%) def. Montes (25%)
         TRN: NCST - Luque (75%) def. Montes (25%)
         MAS: FGCU - Montes (NaN%) def. Luque (NaN%)
@@ -77,7 +77,7 @@ Lineups:
       NCST: Tadas Babelis - 3-4 at 3, 5-9 in duals, 6-10 overall
       FGCU: Randy Wilson - 5-5 at 3, 6-7 in duals, 6-7 overall
       Predictions:
-        AVG: NCST - Babelis (86%) def. Wilson (14%)
+        AVG: NCST - Babelis (84%) def. Wilson (16%)
         SLM: NCST - Babelis (85%) def. Wilson (15%)
         TRN: NCST - Babelis (84%) def. Wilson (16%)
         MAS: FGCU - Wilson (NaN%) def. Babelis (NaN%)
@@ -97,7 +97,7 @@ Lineups:
       NCST: Robin Catry - 4-0 at 5, 10-5 in duals, 10-6 overall
       FGCU: Guglielmo Stefanacci - 3-3 at 5, 8-5 in duals, 8-5 overall
       Predictions:
-        AVG: NCST - Catry (93%) def. Stefanacci (7%)
+        AVG: NCST - Catry (89%) def. Stefanacci (11%)
         SLM: NCST - Catry (95%) def. Stefanacci (5%)
         TRN: NCST - Catry (95%) def. Stefanacci (5%)
         MAS: FGCU - Stefanacci (NaN%) def. Catry (NaN%)
@@ -107,7 +107,7 @@ Lineups:
       NCST: Robert Turzak - 0-0 at 6, 6-4 in duals, 7-5 overall
       FGCU: Alessandro Conca - 0-2 at 6, 3-9 in duals, 3-9 overall
       Predictions:
-        AVG: NCST - Turzak (89%) def. Conca (11%)
+        AVG: NCST - Turzak (90%) def. Conca (10%)
         SLM: NCST - Turzak (83%) def. Conca (17%)
         TRN: NCST - Turzak (89%) def. Conca (11%)
         MAS: FGCU - Conca (NaN%) def. Turzak (NaN%)

@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Illinois
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 8
   Seeding:
     Overall: 16
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: DePaul
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 7
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "ILL - #6 Illinois (99%) def. #55 DePaul (1%)"
   TRN: "ILL - #4 Illinois (99%) def. #55 DePaul (1%)"
-  MAS: "DEP - #54 DePaul (NaN%) def. #9 Illinois (NaN%)"
+  MAS: "ILL - #9 Illinois (99%) def. #54 DePaul (1%)"
   LNUP: ILL - Illinois (99%) def. DePaul (1%)
   UTR: "ILL - #15 Illinois (+8.25) def. #60 DePaul (-8.25)"
   ITA: "ILL - #18 Illinois def. #55 DePaul"
@@ -78,7 +78,7 @@ Lineups:
       ILL: Alex Brown - 3-2 at 3, 8-9 in duals, 9-12 overall
       DEP: Boris Spanjaard - 8-4 at 3, 12-6 in duals, 12-6 overall
       Predictions:
-        AVG: ILL - Brown (95%) def. Spanjaard (5%)
+        AVG: ILL - Brown (94%) def. Spanjaard (6%)
         SLM: ILL - Brown (97%) def. Spanjaard (3%)
         TRN: ILL - Brown (97%) def. Spanjaard (3%)
         MAS: DEP - Spanjaard (NaN%) def. Brown (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       ILL: Hunter Heck - 9-4 at 5, 13-5 in duals, 16-6 overall
       DEP: Fran Tonejc - 1-3 at 5, 8-8 in duals, 8-8 overall
       Predictions:
-        AVG: ILL - Heck (98%) def. Tonejc (2%)
+        AVG: ILL - Heck (97%) def. Tonejc (3%)
         SLM: ILL - Heck (98%) def. Tonejc (2%)
         TRN: ILL - Heck (99%) def. Tonejc (1%)
         MAS: DEP - Tonejc (NaN%) def. Heck (NaN%)

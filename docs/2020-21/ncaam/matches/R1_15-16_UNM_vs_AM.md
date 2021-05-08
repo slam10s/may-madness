@@ -5,7 +5,7 @@ George P. Mitchell Tennis Center
 College Station, Texas  
 ## [New Mexico vs #8 Texas A&M](https://www.ncaa.com/game/5833377)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 New Mexico</h2>  
@@ -13,7 +13,7 @@ College Station, Texas
 &nbsp; ITA: 52 (7.44)<br>  
 &nbsp; Slam: 53 (87.22)<br>  
 &nbsp; TRN: 54 (83.45)<br>  
-&#10004; Massey: 48 (6.71)<br>  
+&nbsp; Massey: 48 (6.71)<br>  
 &nbsp; UTR: 51 (73.79)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ College Station, Texas
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 11 (96.97)<br>  
 &#10004; TRN: 11 (95.89)<br>  
-&nbsp; Massey: 12 (8.53)<br>  
+&#10004; Massey: 12 (8.53)<br>  
 &#10004; UTR: 8 (79.76)<br>  
 &#10004; USTA Poll: 14<br>  
 &#10004; Coaches Poll: 8<br>  
@@ -45,7 +45,7 @@ College Station, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***A&M*** - #11 Texas A&M (99%) def. #53 New Mexico (1%)  
 - TRN: ***A&M*** - #11 Texas A&M (99%) def. #54 New Mexico (1%)  
-- Massey: ***UNM*** - #48 New Mexico (NaN%) def. #12 Texas A&M (NaN%)  
+- Massey: ***A&M*** - #12 Texas A&M (98%) def. #48 New Mexico (2%)  
 - Lineup: ***A&M*** - Texas A&M (99%) def. New Mexico (1%)  
 - UTR: ***A&M*** - #8 Texas A&M (+5.97) def. #51 New Mexico (-5.97)  
 - ITA: ***A&M*** - #8 Texas A&M def. #52 New Mexico  
@@ -85,7 +85,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Stepan Holis (UNM) - 5-5 at #3, 7-5 in duals, 7-5 overall<br>Juan Carlos Aguilar (A&M) - 6-6 at #3, 10-8 in duals, 15-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Aguilar (94%) def. Holis (6%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Aguilar (92%) def. Holis (8%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Aguilar (93%) def. Holis (7%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Aguilar (96%) def. Holis (4%)</li>  
 <li>Massey: <b><i>UNM</i></b> - Holis (NaN%) def. Aguilar (NaN%)</li>  
@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Rafael Abdulsalam (UNM) - 3-3 at #4, 6-6 in duals, 6-6 overall<br>Noah Schachter (A&M) - 7-5 at #4, 12-10 in duals, 19-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Schachter (94%) def. Abdulsalam (6%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Schachter (92%) def. Abdulsalam (8%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Schachter (94%) def. Abdulsalam (6%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Schachter (96%) def. Abdulsalam (4%)</li>  
 <li>Massey: <b><i>UNM</i></b> - Abdulsalam (NaN%) def. Schachter (NaN%)</li>  
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jake Trondson (UNM) - 3-0 at #5, 8-4 in duals, 8-4 overall<br>Pierce Rollins (A&M) - 3-3 at #5, 8-5 in duals, 15-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Rollins (97%) def. Trondson (3%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Rollins (94%) def. Trondson (6%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Rollins (96%) def. Trondson (4%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Rollins (98%) def. Trondson (2%)</li>  
 <li>Massey: <b><i>UNM</i></b> - Trondson (NaN%) def. Rollins (NaN%)</li>  
@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Sergio Molina (UNM) - 0-0 at #6, 1-7 in duals, 1-7 overall<br>Guido Marson (A&M) - 0-0 at #6, 5-6 in duals, 7-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Marson (94%) def. Molina (6%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Marson (93%) def. Molina (7%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Marson (93%) def. Molina (7%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Marson (98%) def. Molina (2%)</li>  
 <li>Massey: <b><i>UNM</i></b> - Molina (NaN%) def. Marson (NaN%)</li>  

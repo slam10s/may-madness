@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Wake Forest
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 56
   Seeding:
     Overall: 10
@@ -42,8 +42,8 @@ Visitor:
 Predictions:
   SLM: "OSU - #7 Ohio St. (60%) def. #10 Wake Forest (40%)"
   TRN: "OSU - #8 Ohio St. (68%) def. #10 Wake Forest (32%)"
-  MAS: "OSU - #9 Ohio St. (NaN%) def. #13 Wake Forest (NaN%)"
-  LNUP: OSU - Ohio St. (81%) def. Wake Forest (19%)
+  MAS: "OSU - #9 Ohio St. (62%) def. #13 Wake Forest (38%)"
+  LNUP: OSU - Ohio St. (74%) def. Wake Forest (26%)
   UTR: "OSU - #3 Ohio St. (+0.49) def. #7 Wake Forest (-0.49)"
   ITA: "WAKE - #9 Wake Forest def. #31 Ohio St."
   USTA: "OSU - #7 Ohio St. def. #12 Wake Forest"
@@ -51,17 +51,17 @@ Predictions:
   Seeding: "WAKE - #1 Wake Forest def. #2 Ohio St."
 Lineups:
   Predictions:
-    Average EWPs for WAKE: 41%,33%,NaN%,19%
-    Average EWPs for OSU: 59%,67%,NaN%,81%
-    WAKE wins 4 or more Singles points: 13%
-    OSU wins 4 or more Singles points: 59%
-    Winner decided by the Doubles point: 28%
+    Average EWPs for WAKE: 41%,33%,NaN%,26%
+    Average EWPs for OSU: 59%,67%,NaN%,74%
+    WAKE wins 4 or more Singles points: 18%
+    OSU wins 4 or more Singles points: 52%
+    Winner decided by the Doubles point: 30%
   Singles:
     - Position: 1
       WAKE: Henri Squire - 15-6 at 1, 15-6 in duals, 15-6 overall
       OSU: John McNally - 10-2 at 1, 16-4 in duals, 21-4 overall
       Predictions:
-        AVG: WAKE - Squire (57%) def. McNally (43%)
+        AVG: WAKE - Squire (56%) def. McNally (44%)
         SLM: OSU - McNally (54%) def. Squire (46%)
         TRN: OSU - McNally (52%) def. Squire (48%)
         MAS: OSU - McNally (NaN%) def. Squire (NaN%)
@@ -71,7 +71,7 @@ Lineups:
       WAKE: Eduardo Nava - 6-3 at 2, 17-4 in duals, 17-4 overall
       OSU: Cannon Kingsley - 12-0 at 2, 21-0 in duals, 27-0 overall
       Predictions:
-        AVG: OSU - Kingsley (83%) def. Nava (17%)
+        AVG: OSU - Kingsley (76%) def. Nava (24%)
         SLM: OSU - Kingsley (87%) def. Nava (13%)
         TRN: OSU - Kingsley (82%) def. Nava (18%)
         MAS: OSU - Kingsley (NaN%) def. Nava (NaN%)
@@ -81,7 +81,7 @@ Lineups:
       WAKE: Taha Baadi - 6-2 at 3, 13-8 in duals, 13-8 overall
       OSU: James Trotter - 13-1 at 3, 13-1 in duals, 13-1 overall
       Predictions:
-        AVG: OSU - Trotter (69%) def. Baadi (31%)
+        AVG: OSU - Trotter (64%) def. Baadi (36%)
         SLM: OSU - Trotter (61%) def. Baadi (39%)
         TRN: OSU - Trotter (69%) def. Baadi (31%)
         MAS: OSU - Trotter (NaN%) def. Baadi (NaN%)
@@ -91,7 +91,7 @@ Lineups:
       WAKE: Rrezart Cungu - 7-3 at 4, 20-4 in duals, 20-4 overall
       OSU: Justin Boulais - 5-1 at 4, 7-1 in duals, 7-1 overall
       Predictions:
-        AVG: WAKE - Cungu (71%) def. Boulais (29%)
+        AVG: WAKE - Cungu (70%) def. Boulais (30%)
         SLM: WAKE - Cungu (55%) def. Boulais (45%)
         TRN: WAKE - Cungu (77%) def. Boulais (23%)
         MAS: OSU - Boulais (NaN%) def. Cungu (NaN%)
@@ -101,7 +101,7 @@ Lineups:
       WAKE: Melios Efstathiou - 6-2 at 5, 12-6 in duals, 12-6 overall
       OSU: Kyle Seelig - 3-0 at 5, 15-4 in duals, 18-8 overall
       Predictions:
-        AVG: OSU - Seelig (75%) def. Efstathiou (25%)
+        AVG: OSU - Seelig (70%) def. Efstathiou (30%)
         SLM: OSU - Seelig (75%) def. Efstathiou (25%)
         TRN: OSU - Seelig (66%) def. Efstathiou (34%)
         MAS: OSU - Seelig (NaN%) def. Efstathiou (NaN%)
@@ -111,7 +111,7 @@ Lineups:
       WAKE: Sid Banthia - 7-1 at 6, 19-3 in duals, 19-3 overall
       OSU: JJ Tracy - 6-0 at 6, 21-1 in duals, 24-3 overall
       Predictions:
-        AVG: OSU - Tracy (72%) def. Banthia (28%)
+        AVG: OSU - Tracy (67%) def. Banthia (33%)
         SLM: OSU - Tracy (70%) def. Banthia (30%)
         TRN: OSU - Tracy (67%) def. Banthia (33%)
         MAS: OSU - Tracy (NaN%) def. Banthia (NaN%)

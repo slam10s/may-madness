@@ -10,10 +10,15 @@ The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at  1:00 EDT	[Northwestern vs #10 Texas A&M](./matches/R2_53-56_NW_vs_AM.md) ... A&M (NaN%) / NW (NaN%)
 - Sat, 5/08 at  2:00 EDT	[Michigan vs #12 LSU](./matches/R2_21-24_MICH_vs_LSU.md) ... LSU (NaN%) / MICH (NaN%)
+- Sat, 5/08 at  6:00 EDT	[Duke vs #8 Baylor](./matches/R2_13-16_DUKE_vs_BAY.md) ... BAY (NaN%) / DUKE (NaN%)
 - Sat, 5/08 at  4:00 EDT	[Tennessee vs #14 Virginia](./matches/R2_37-40_TENN_vs_UVA.md) ... UVA (NaN%) / TENN (NaN%)
 - Sat, 5/08 at  4:00 EDT	[Southern California vs #11 Florida](./matches/R2_41-44_USC_vs_FLA.md) ... FLA (NaN%) / USC (NaN%)
 - Sat, 5/08 at  5:00 EDT	[Miami (FL) vs #9 UCF](./matches/R2_9-12_MIA_vs_UCF.md) ... UCF (NaN%) / MIA (NaN%)
-- Sat, 5/08 at  6:00 EDT	[Duke vs #8 Baylor](./matches/R2_13-16_DUKE_vs_BAY.md) ... BAY (NaN%) / DUKE (NaN%)
+
+### Heavy Favorites
+
+The favorite is expected to win at least 4 out of every 5 these teams play:
+
 - Sat, 5/08 at  2:00 EDT	[North Florida vs #13 Georgia Tech](./matches/R2_25-28_UNF_vs_GT.md) ... GT (NaN%) / UNF (NaN%)
 - Sat, 5/08 at 12:00 EDT	[Vanderbilt vs #15 Ohio St.](./matches/R2_57-60_VANDY_vs_OSU.md) ... OSU (NaN%) / VANDY (NaN%)
 - Sat, 5/08 at  2:00 EDT	[Iowa St. vs #6 NC State](./matches/R2_45-48_ISU_vs_NCST.md) ... NCST (NaN%) / ISU (NaN%)
@@ -33,6 +38,12 @@ The various metrics disagree on the outcome of these matches:
 - Fri, 5/07 at 10:00 EDT	[Southern California vs Oklahoma](./matches/R1_43-44_USC_vs_OKLA.md) ... OKLA (3) / <b><i>USC (4)</i></b>
 - Fri, 5/07 at  1:00 EDT	[Oklahoma St. vs Auburn](./matches/R1_51-52_OKST_vs_AUB.md) ... <b>AUB (4)</b> / OKST (2)
 - Fri, 5/07 at 10:00 EDT	[Furman vs Wake Forest](./matches/R1_35-36_FUR_vs_WAKE.md) ... <b>WAKE (4)</b> / FUR (2)
+- Fri, 5/07 at  6:00 EDT	[A&M-Corpus Christi vs #8 Baylor](./matches/R1_15-16_TAMCC_vs_BAY.md) ... <b>BAY (4)</b> / TAMCC (0)
+
+### Heavy Favorites
+
+The favorite is expected to win at least 4 out of every 5 these teams play:
+
 - Fri, 5/07 at 11:00 EDT	[North Florida vs Ole Miss](./matches/R1_27-28_UNF_vs_MISS.md) ... MISS (3) / <b><i>UNF (4)</i></b>
 - Fri, 5/07 at 11:00 EDT	[Ball St. vs Vanderbilt](./matches/R1_59-60_BALL_vs_VANDY.md) ... <b>VANDY (4)</b> / BALL (0)
 - Fri, 5/07 at  2:00 EDT	[Ga. Southern vs #13 Georgia Tech](./matches/R1_25-26_GASO_vs_GT.md) ... <b>GT (4)</b> / GASO (0)
@@ -61,6 +72,5 @@ The various metrics disagree on the outcome of these matches:
 - Fri, 5/07 at  4:00 EDT	[Xavier vs Northwestern](./matches/R1_53-54_XAV_vs_NW.md) ... <b>NW (4)</b> / XAV (0)
 - Fri, 5/07 at  4:00 EDT	[Denver vs #2 Texas](./matches/R1_63-64_DEN_vs_TEX.md) ... <b>TEX (4)</b> / DEN (0)
 - Fri, 5/07 at  5:00 EDT	[Northern Ariz. vs #5 Pepperdine](./matches/R1_17-18_NAU_vs_PEPP.md) ... <b>PEPP (4)</b> / NAU (0)
-- Fri, 5/07 at  6:00 EDT	[A&M-Corpus Christi vs #8 Baylor](./matches/R1_15-16_TAMCC_vs_BAY.md) ... <b>BAY (4)</b> / TAMCC (0)
   
 Return to the [Home Page](../../index.md)

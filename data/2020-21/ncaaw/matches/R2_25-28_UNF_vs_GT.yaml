@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Georgia Tech
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 25
   Seeding:
     Overall: 13
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: North Florida
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-florida.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 27
   Seeding:
     Region: 3
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "GT - #20 Georgia Tech (96%) def. #46 North Florida (4%)"
   TRN: "GT - #16 Georgia Tech (98%) def. #46 North Florida (2%)"
-  MAS: "UNF - #47 North Florida (NaN%) def. #18 Georgia Tech (NaN%)"
+  MAS: "GT - #18 Georgia Tech (93%) def. #47 North Florida (7%)"
   LNUP: GT - Georgia Tech (99%) def. North Florida (1%)
   UTR: "GT - #24 Georgia Tech (+3.09) def. #44 North Florida (-3.09)"
   ITA: "GT - #13 Georgia Tech def. #48 North Florida"
@@ -49,15 +49,15 @@ Lineups:
   Predictions:
     Average EWPs for GT: 96%,98%,NaN%,100%
     Average EWPs for UNF: 4%,2%,NaN%,0%
-    GT wins 4 or more Singles points: 98%
+    GT wins 4 or more Singles points: 97%
     UNF wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 2%
+    Winner decided by the Doubles point: 3%
   Singles:
     - Position: 1
       GT: Kenya Jones - 16-7 at 1, 16-7 in duals, 17-8 overall
       UNF: Lucia Montano - 14-8 at 1, 14-8 in duals, 14-8 overall
       Predictions:
-        AVG: GT - Jones (94%) def. Montano (6%)
+        AVG: GT - Jones (91%) def. Montano (9%)
         SLM: GT - Jones (91%) def. Montano (9%)
         TRN: GT - Jones (97%) def. Montano (3%)
         MAS: UNF - Montano (NaN%) def. Jones (NaN%)
@@ -67,7 +67,7 @@ Lineups:
       GT: Victoria Flores - 12-4 at 2, 17-5 in duals, 18-6 overall
       UNF: Catherine Gulihur - 17-3 at 2, 18-3 in duals, 18-3 overall
       Predictions:
-        AVG: GT - Flores (79%) def. Gulihur (21%)
+        AVG: GT - Flores (78%) def. Gulihur (22%)
         SLM: GT - Flores (80%) def. Gulihur (20%)
         TRN: GT - Flores (84%) def. Gulihur (16%)
         MAS: UNF - Gulihur (NaN%) def. Flores (NaN%)
@@ -77,7 +77,7 @@ Lineups:
       GT: Gia Cohen - 3-11 at 3, 8-14 in duals, 8-15 overall
       UNF: Constanza Gorches - 4-3 at 3, 13-9 in duals, 13-9 overall
       Predictions:
-        AVG: GT - Cohen (75%) def. Gorches (25%)
+        AVG: GT - Cohen (68%) def. Gorches (32%)
         SLM: GT - Cohen (81%) def. Gorches (19%)
         TRN: GT - Cohen (79%) def. Gorches (21%)
         MAS: UNF - Gorches (NaN%) def. Cohen (NaN%)
@@ -97,7 +97,7 @@ Lineups:
       GT: Carol Lee - 5-8 at 5, 12-12 in duals, 14-12 overall
       UNF: Annabelle Davis - 6-0 at 5, 10-1 in duals, 10-1 overall
       Predictions:
-        AVG: GT - Lee (89%) def. Davis (11%)
+        AVG: GT - Lee (84%) def. Davis (16%)
         SLM: GT - Lee (90%) def. Davis (10%)
         TRN: GT - Lee (86%) def. Davis (14%)
         MAS: UNF - Davis (NaN%) def. Lee (NaN%)
@@ -107,7 +107,7 @@ Lineups:
       GT: Mahak Jain - 7-2 at 6, 14-7 in duals, 16-7 overall
       UNF: Valentina Mariotto - 3-1 at 6, 8-7 in duals, 8-7 overall
       Predictions:
-        AVG: GT - Jain (96%) def. Mariotto (4%)
+        AVG: GT - Jain (94%) def. Mariotto (6%)
         SLM: GT - Jain (94%) def. Mariotto (6%)
         TRN: GT - Jain (97%) def. Mariotto (3%)
         MAS: UNF - Mariotto (NaN%) def. Jain (NaN%)

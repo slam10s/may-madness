@@ -40,8 +40,8 @@ Visitor:
 Predictions:
   SLM: "MICH - #8 Michigan (94%) def. #40 Rice (6%)"
   TRN: "MICH - #8 Michigan (96%) def. #36 Rice (4%)"
-  MAS: "RICE - #38 Rice (NaN%) def. #15 Michigan (NaN%)"
-  LNUP: MICH - Michigan (92%) def. Rice (8%)
+  MAS: "MICH - #15 Michigan (85%) def. #38 Rice (15%)"
+  LNUP: MICH - Michigan (94%) def. Rice (6%)
   UTR: "MICH - #17 Michigan (+1.87) def. #35 Rice (-1.87)"
   ITA: "MICH - #19 Michigan def. #40 Rice"
   USTA: "MICH - #7 Michigan def. Rice"
@@ -49,17 +49,17 @@ Predictions:
   Seeding: "MICH - #2 Michigan def. #3 Rice"
 Lineups:
   Predictions:
-    Average EWPs for MICH: 94%,96%,NaN%,92%
-    Average EWPs for RICE: 6%,4%,NaN%,8%
-    MICH wins 4 or more Singles points: 74%
-    RICE wins 4 or more Singles points: 6%
-    Winner decided by the Doubles point: 20%
+    Average EWPs for MICH: 94%,96%,NaN%,94%
+    Average EWPs for RICE: 6%,4%,NaN%,6%
+    MICH wins 4 or more Singles points: 79%
+    RICE wins 4 or more Singles points: 5%
+    Winner decided by the Doubles point: 16%
   Singles:
     - Position: 1
       MICH: Kari Miller - 11-3 at 1, 12-4 in duals, 15-4 overall
       RICE: Michaela Haet - 4-3 at 1, 8-5 in duals, 9-11 overall
       Predictions:
-        AVG: MICH - Miller (93%) def. Haet (7%)
+        AVG: MICH - Miller (94%) def. Haet (6%)
         SLM: MICH - Miller (94%) def. Haet (6%)
         TRN: MICH - Miller (94%) def. Haet (6%)
         MAS: RICE - Haet (NaN%) def. Miller (NaN%)
@@ -69,7 +69,7 @@ Lineups:
       MICH: Chiara Lommer - 10-3 at 2, 12-4 in duals, 14-5 overall
       RICE: Victoria Smirnova - 1-0 at 2, 4-4 in duals, 5-4 overall
       Predictions:
-        AVG: MICH - Lommer (76%) def. Smirnova (24%)
+        AVG: MICH - Lommer (77%) def. Smirnova (23%)
         SLM: MICH - Lommer (74%) def. Smirnova (26%)
         TRN: MICH - Lommer (74%) def. Smirnova (26%)
         MAS: RICE - Smirnova (NaN%) def. Lommer (NaN%)
@@ -79,7 +79,7 @@ Lineups:
       MICH: Andrea Cerdan - 7-4 at 3, 11-6 in duals, 13-7 overall
       RICE: Federica Trevisan - 12-1 at 3, 14-2 in duals, 17-6 overall
       Predictions:
-        AVG: MICH - Cerdan (63%) def. Trevisan (37%)
+        AVG: MICH - Cerdan (66%) def. Trevisan (34%)
         SLM: MICH - Cerdan (66%) def. Trevisan (34%)
         TRN: RICE - Trevisan (52%) def. Cerdan (48%)
         MAS: RICE - Trevisan (NaN%) def. Cerdan (NaN%)
@@ -89,7 +89,7 @@ Lineups:
       MICH: Jaedan Brown - 7-0 at 4, 15-2 in duals, 17-3 overall
       RICE: Linda Huang - 0-0 at 4, 4-2 in duals, 7-5 overall
       Predictions:
-        AVG: MICH - Brown (58%) def. Huang (42%)
+        AVG: MICH - Brown (63%) def. Huang (37%)
         SLM: MICH - Brown (56%) def. Huang (44%)
         TRN: MICH - Brown (54%) def. Huang (46%)
         MAS: RICE - Huang (NaN%) def. Brown (NaN%)
@@ -109,6 +109,7 @@ Lineups:
       MICH: Bella Lorenzini - 2-0 at 6, 2-0 in duals, 4-0 overall
       RICE: Anna Bowtell - 0-0 at 6, 11-5 in duals, 14-8 overall
       Predictions:
+        AVG: MICH - Lorenzini (58%) def. Bowtell (42%)
         SLM: MICH - Lorenzini (59%) def. Bowtell (41%)
         TRN: MICH - Lorenzini (52%) def. Bowtell (48%)
         MAS: RICE - Bowtell (NaN%) def. Lorenzini (NaN%)

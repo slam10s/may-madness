@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Florida St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 49
   Seeding:
     Overall: 7
@@ -42,8 +42,8 @@ Visitor:
 Predictions:
   SLM: "FSU - #10 Florida St. (79%) def. #24 Auburn (21%)"
   TRN: "FSU - #9 Florida St. (82%) def. #23 Auburn (18%)"
-  MAS: "AUB - #25 Auburn (NaN%) def. #9 Florida St. (NaN%)"
-  LNUP: FSU - Florida St. (95%) def. Auburn (5%)
+  MAS: "FSU - #9 Florida St. (75%) def. #25 Auburn (25%)"
+  LNUP: FSU - Florida St. (93%) def. Auburn (7%)
   UTR: "FSU - #10 Florida St. (+1.72) def. #30 Auburn (-1.72)"
   ITA: "FSU - #7 Florida St. def. #20 Auburn"
   USTA: "FSU - #12 Florida St. def. #25 Auburn"
@@ -51,17 +51,17 @@ Predictions:
   Seeding: "FSU - #1 Florida St. def. #2 Auburn"
 Lineups:
   Predictions:
-    Average EWPs for FSU: 79%,82%,NaN%,95%
-    Average EWPs for AUB: 21%,18%,NaN%,5%
-    FSU wins 4 or more Singles points: 77%
-    AUB wins 4 or more Singles points: 4%
+    Average EWPs for FSU: 79%,82%,NaN%,93%
+    Average EWPs for AUB: 21%,18%,NaN%,7%
+    FSU wins 4 or more Singles points: 76%
+    AUB wins 4 or more Singles points: 5%
     Winner decided by the Doubles point: 19%
   Singles:
     - Position: 1
       FSU: Giulia Pairone - 11-8 at 1, 11-8 in duals, 13-8 overall
       AUB: Selin Ovunc - 8-9 at 1, 8-9 in duals, 13-10 overall
       Predictions:
-        AVG: FSU - Pairone (82%) def. Ovunc (18%)
+        AVG: FSU - Pairone (81%) def. Ovunc (19%)
         SLM: FSU - Pairone (80%) def. Ovunc (20%)
         TRN: FSU - Pairone (82%) def. Ovunc (18%)
         MAS: AUB - Ovunc (NaN%) def. Pairone (NaN%)
@@ -71,7 +71,6 @@ Lineups:
       FSU: Emmanuelle Salas - 5-6 at 2, 7-9 in duals, 7-10 overall
       AUB: Carolyn Ansari - 1-0 at 2, 12-3 in duals, 14-10 overall
       Predictions:
-        AVG: FSU - Salas (54%) def. Ansari (46%)
         SLM: AUB - Ansari (52%) def. Salas (48%)
         TRN: AUB - Ansari (57%) def. Salas (43%)
         MAS: AUB - Ansari (NaN%) def. Salas (NaN%)
@@ -81,7 +80,7 @@ Lineups:
       FSU: Nandini Das - 6-4 at 3, 11-8 in duals, 12-8 overall
       AUB: Yu Chen - 0-2 at 3, 5-11 in duals, 12-13 overall
       Predictions:
-        AVG: FSU - Das (54%) def. Chen (46%)
+        AVG: FSU - Das (56%) def. Chen (44%)
         SLM: AUB - Chen (52%) def. Das (48%)
         TRN: AUB - Chen (53%) def. Das (47%)
         MAS: AUB - Chen (NaN%) def. Das (NaN%)
@@ -91,7 +90,7 @@ Lineups:
       FSU: Petra Hule - 4-0 at 4, 12-3 in duals, 13-3 overall
       AUB: Georgie Axon - 15-3 at 4, 16-3 in duals, 22-6 overall
       Predictions:
-        AVG: AUB - Axon (53%) def. Hule (47%)
+        AVG: AUB - Axon (52%) def. Hule (48%)
         SLM: FSU - Hule (52%) def. Axon (48%)
         TRN: FSU - Hule (52%) def. Axon (48%)
         MAS: AUB - Axon (NaN%) def. Hule (NaN%)
@@ -111,7 +110,7 @@ Lineups:
       FSU: Anna Arkadianou - 0-0 at 6, 3-4 in duals, 4-5 overall
       AUB: Anastasia Astakhova - 2-5 at 6, 2-5 in duals, 2-5 overall
       Predictions:
-        AVG: FSU - Arkadianou (93%) def. Astakhova (7%)
+        AVG: FSU - Arkadianou (92%) def. Astakhova (8%)
         SLM: FSU - Arkadianou (93%) def. Astakhova (7%)
         TRN: FSU - Arkadianou (92%) def. Astakhova (8%)
         MAS: AUB - Astakhova (NaN%) def. Arkadianou (NaN%)

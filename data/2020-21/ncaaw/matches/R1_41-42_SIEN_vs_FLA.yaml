@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Florida
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 41
   Seeding:
     Overall: 11
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Siena
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 42
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "FLA - #16 Florida (99%) def. #64 Siena (1%)"
   TRN: "FLA - #20 Florida (99%) def. #64 Siena (1%)"
-  MAS: "SIEN - #64 Siena (NaN%) def. #21 Florida (NaN%)"
+  MAS: "FLA - #21 Florida (100%) def. #64 Siena (0%)"
   LNUP: FLA - Florida (99%) def. Siena (1%)
   UTR: "FLA - #11 Florida (+16.27) def. #62 Siena (-16.27)"
   ITA: "FLA - #11 Florida def. #60 Siena"

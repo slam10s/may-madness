@@ -5,7 +5,7 @@ Hurd Tennis Center
 Waco, Texas  
 ## [Oregon vs Alabama](https://www.ncaa.com/game/5833400)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #173F35 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #173F35 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Oregon</h2>  
@@ -43,8 +43,8 @@ Waco, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***BAMA*** - #28 Alabama (70%) def. #44 Oregon (30%)  
 - TRN: ***BAMA*** - #27 Alabama (71%) def. #41 Oregon (29%)  
-- Massey: ***ORE*** - #30 Oregon (NaN%) def. #38 Alabama (NaN%)  
-- Lineup: ***BAMA*** - Alabama (62%) def. Oregon (38%)  
+- Massey: ***ORE*** - #30 Oregon (58%) def. #38 Alabama (42%)  
+- Lineup: ***BAMA*** - Alabama (59%) def. Oregon (41%)  
 - UTR: ***BAMA*** - #30 Alabama (+0.28) def. #33 Oregon (-0.28)  
 - ITA: ***BAMA*** - #26 Alabama def. #36 Oregon  
 - Coaches Poll: ***BAMA*** - #25 Alabama def. #41 Oregon  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Emmanuel Coste (ORE) - 5-4 at #1, 11-6 in duals, 11-6 overall<br>Edson Ortiz (BAMA) - 5-5 at #1, 12-10 in duals, 13-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ORE</i></b> - Coste (74%) def. Ortiz (26%)</li>  
+<li>Composite: <b><i>ORE</i></b> - Coste (69%) def. Ortiz (31%)</li>  
 <li>Slam: <b><i>ORE</i></b> - Coste (73%) def. Ortiz (27%)</li>  
 <li>TRN: <b><i>ORE</i></b> - Coste (76%) def. Ortiz (24%)</li>  
 <li>Massey: <b><i>ORE</i></b> - Coste (NaN%) def. Ortiz (NaN%)</li>  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Joshua Charlton (ORE) - 6-2 at #2, 12-6 in duals, 12-6 overall<br>Patrick Kaukovalta (BAMA) - 3-2 at #2, 9-11 in duals, 15-17 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ORE</i></b> - Charlton (69%) def. Kaukovalta (31%)</li>  
+<li>Composite: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
 <li>Slam: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
 <li>TRN: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
 <li>Massey: <b><i>ORE</i></b> - Charlton (NaN%) def. Kaukovalta (NaN%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Quinn Vandecasteele (ORE) - 10-8 at #3, 12-8 in duals, 12-8 overall<br>Zhe Zhou (BAMA) - 3-1 at #3, 9-9 in duals, 15-15 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAMA</i></b> - Zhou (71%) def. Vandecasteele (29%)</li>  
+<li>Composite: <b><i>BAMA</i></b> - Zhou (69%) def. Vandecasteele (31%)</li>  
 <li>Slam: <b><i>BAMA</i></b> - Zhou (72%) def. Vandecasteele (28%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Zhou (76%) def. Vandecasteele (24%)</li>  
 <li>Massey: <b><i>ORE</i></b> - Vandecasteele (NaN%) def. Zhou (NaN%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jesper Klov-Nilsson (ORE) - 10-2 at #4, 17-3 in duals, 17-3 overall<br>Riccardo Roberto (BAMA) - 5-7 at #4, 11-8 in duals, 19-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAMA</i></b> - Roberto (51%) def. Klov-Nilsson (49%)</li>  
+<li>Composite: <b><i>ORE</i></b> - Klov-Nilsson (51%) def. Roberto (49%)</li>  
 <li>Slam: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
 <li>Massey: <b><i>ORE</i></b> - Klov-Nilsson (NaN%) def. Roberto (NaN%)</li>  
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Brandon Lam (ORE) - 7-3 at #5, 11-6 in duals, 11-6 overall<br>Gabriel Diaz Freire (BAMA) - 3-1 at #5, 10-6 in duals, 15-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAMA</i></b> - Freire (69%) def. Lam (31%)</li>  
+<li>Composite: <b><i>BAMA</i></b> - Freire (68%) def. Lam (32%)</li>  
 <li>Slam: <b><i>BAMA</i></b> - Freire (68%) def. Lam (32%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Freire (72%) def. Lam (28%)</li>  
 <li>Massey: <b><i>ORE</i></b> - Lam (NaN%) def. Freire (NaN%)</li>  
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Luke Vandecasteele (ORE) - 3-6 at #6, 9-8 in duals, 9-8 overall<br>Alexey Nesterov (BAMA) - 3-6 at #6, 7-6 in duals, 12-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAMA</i></b> - Nesterov (74%) def. Vandecasteele (26%)</li>  
+<li>Composite: <b><i>BAMA</i></b> - Nesterov (73%) def. Vandecasteele (27%)</li>  
 <li>Slam: <b><i>BAMA</i></b> - Nesterov (69%) def. Vandecasteele (31%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Nesterov (74%) def. Vandecasteele (26%)</li>  
 <li>Massey: <b><i>ORE</i></b> - Vandecasteele (NaN%) def. Nesterov (NaN%)</li>  
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Alabama should win 4 or more singles matches _41%_ of the time.  
-- Oregon should win 4 or more singles matches _25%_ of the time.  
-- The winner of the doubles point will decide the match the other _34%_ of the time.  
-- If Alabama wins the doubles point, their chances of winning the dual improve to _75%_.  
-- If Oregon wins the doubles point, their chances of winning the dual improve to _59%_.  
+- Alabama should win 4 or more singles matches _40%_ of the time.  
+- Oregon should win 4 or more singles matches _27%_ of the time.  
+- The winner of the doubles point will decide the match the other _33%_ of the time.  
+- If Alabama wins the doubles point, their chances of winning the dual improve to _73%_.  
+- If Oregon wins the doubles point, their chances of winning the dual improve to _60%_.  
   
 ------
 

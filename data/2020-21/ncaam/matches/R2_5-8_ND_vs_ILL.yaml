@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Illinois
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 8
   Seeding:
     Overall: 16
@@ -41,7 +41,7 @@ Visitor:
 Predictions:
   SLM: "ILL - #6 Illinois (98%) def. #40 Notre Dame (2%)"
   TRN: "ILL - #4 Illinois (99%) def. #42 Notre Dame (1%)"
-  MAS: "ND - #36 Notre Dame (NaN%) def. #9 Illinois (NaN%)"
+  MAS: "ILL - #9 Illinois (85%) def. #36 Notre Dame (15%)"
   LNUP: ILL - Illinois (98%) def. Notre Dame (2%)
   UTR: "ILL - #15 Illinois (+2.54) def. #38 Notre Dame (-2.54)"
   ITA: "ILL - #18 Illinois def. #34 Notre Dame"
@@ -52,15 +52,15 @@ Lineups:
   Predictions:
     Average EWPs for ILL: 98%,99%,NaN%,98%
     Average EWPs for ND: 2%,1%,NaN%,2%
-    ILL wins 4 or more Singles points: 91%
+    ILL wins 4 or more Singles points: 90%
     ND wins 4 or more Singles points: 1%
-    Winner decided by the Doubles point: 8%
+    Winner decided by the Doubles point: 9%
   Singles:
     - Position: 1
       ILL: Aleks Kovacevic - 10-1 at 1, 10-1 in duals, 10-1 overall
       ND: Axel Nefve - 13-2 at 1, 18-3 in duals, 18-3 overall
       Predictions:
-        AVG: ILL - Kovacevic (77%) def. Nefve (23%)
+        AVG: ILL - Kovacevic (76%) def. Nefve (24%)
         SLM: ILL - Kovacevic (77%) def. Nefve (23%)
         TRN: ILL - Kovacevic (71%) def. Nefve (29%)
         MAS: ND - Nefve (NaN%) def. Kovacevic (NaN%)
@@ -80,6 +80,7 @@ Lineups:
       ILL: Alex Brown - 3-2 at 3, 8-9 in duals, 9-12 overall
       ND: Tristan McCormick - 8-5 at 3, 10-6 in duals, 10-6 overall
       Predictions:
+        AVG: ND - McCormick (51%) def. Brown (49%)
         SLM: ILL - Brown (66%) def. McCormick (34%)
         TRN: ILL - Brown (58%) def. McCormick (42%)
         MAS: ND - McCormick (NaN%) def. Brown (NaN%)
@@ -99,7 +100,7 @@ Lineups:
       ILL: Hunter Heck - 9-4 at 5, 13-5 in duals, 16-6 overall
       ND: Matthew Che - 0-1 at 5, 6-12 in duals, 6-12 overall
       Predictions:
-        AVG: ILL - Heck (90%) def. Che (10%)
+        AVG: ILL - Heck (89%) def. Che (11%)
         SLM: ILL - Heck (87%) def. Che (13%)
         TRN: ILL - Heck (94%) def. Che (6%)
         MAS: ND - Che (NaN%) def. Heck (NaN%)
@@ -109,7 +110,7 @@ Lineups:
       ILL: Noe Khlif - 5-0 at 6, 15-1 in duals, 15-1 overall
       ND: Connor Fu - 0-1 at 6, 12-9 in duals, 12-9 overall
       Predictions:
-        AVG: ILL - Khlif (89%) def. Fu (11%)
+        AVG: ILL - Khlif (88%) def. Fu (12%)
         SLM: ILL - Khlif (89%) def. Fu (11%)
         TRN: ILL - Khlif (93%) def. Fu (7%)
         MAS: ND - Fu (NaN%) def. Khlif (NaN%)

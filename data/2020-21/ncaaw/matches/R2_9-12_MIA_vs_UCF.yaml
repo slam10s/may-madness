@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: UCF
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 9
   Seeding:
     Overall: 9
@@ -42,8 +42,8 @@ Visitor:
 Predictions:
   SLM: "UCF - #12 UCF (66%) def. #22 Miami (FL) (34%)"
   TRN: "UCF - #12 UCF (70%) def. #21 Miami (FL) (30%)"
-  MAS: "MIA - #17 Miami (FL) (NaN%) def. #10 UCF (NaN%)"
-  LNUP: MIA - Miami (FL) (84%) def. UCF (16%)
+  MAS: "UCF - #10 UCF (55%) def. #17 Miami (FL) (45%)"
+  LNUP: MIA - Miami (FL) (82%) def. UCF (18%)
   UTR: "UCF - #16 UCF (+0.14) def. #19 Miami (FL) (-0.14)"
   ITA: "UCF - #9 UCF def. #24 Miami (FL)"
   USTA: "UCF - #9 UCF def. #21 Miami (FL)"
@@ -51,17 +51,17 @@ Predictions:
   Seeding: "UCF - #1 UCF def. #2 Miami (FL)"
 Lineups:
   Predictions:
-    Average EWPs for UCF: 66%,70%,NaN%,16%
-    Average EWPs for MIA: 34%,30%,NaN%,84%
-    UCF wins 4 or more Singles points: 11%
-    MIA wins 4 or more Singles points: 58%
+    Average EWPs for UCF: 66%,70%,NaN%,18%
+    Average EWPs for MIA: 34%,30%,NaN%,82%
+    UCF wins 4 or more Singles points: 12%
+    MIA wins 4 or more Singles points: 57%
     Winner decided by the Doubles point: 31%
   Singles:
     - Position: 1
       UCF: Valeriya Zeleva - 9-2 at 1, 12-2 in duals, 13-3 overall
       MIA: Estela Perez-Somarriba - 19-2 at 1, 19-2 in duals, 19-2 overall
       Predictions:
-        AVG: MIA - Perez-Somarriba (86%) def. Zeleva (14%)
+        AVG: MIA - Perez-Somarriba (83%) def. Zeleva (17%)
         SLM: MIA - Perez-Somarriba (86%) def. Zeleva (14%)
         TRN: MIA - Perez-Somarriba (88%) def. Zeleva (12%)
         MAS: MIA - Perez-Somarriba (NaN%) def. Zeleva (NaN%)
@@ -71,7 +71,7 @@ Lineups:
       UCF: Rebeka Stolmar - 7-4 at 2, 12-6 in duals, 14-7 overall
       MIA: Isabella Pfennig - 12-4 at 2, 16-4 in duals, 16-4 overall
       Predictions:
-        AVG: MIA - Pfennig (70%) def. Stolmar (30%)
+        AVG: MIA - Pfennig (67%) def. Stolmar (33%)
         SLM: MIA - Pfennig (63%) def. Stolmar (37%)
         TRN: MIA - Pfennig (71%) def. Stolmar (29%)
         MAS: MIA - Pfennig (NaN%) def. Stolmar (NaN%)
@@ -81,7 +81,7 @@ Lineups:
       UCF: Evgeniya Levashova - 6-2 at 3, 11-5 in duals, 11-5 overall
       MIA: Daevenia Achong - 7-6 at 3, 7-11 in duals, 7-11 overall
       Predictions:
-        AVG: UCF - Levashova (73%) def. Achong (27%)
+        AVG: UCF - Levashova (71%) def. Achong (29%)
         SLM: UCF - Levashova (62%) def. Achong (38%)
         TRN: UCF - Levashova (78%) def. Achong (22%)
         MAS: MIA - Achong (NaN%) def. Levashova (NaN%)
@@ -91,7 +91,7 @@ Lineups:
       UCF: Ksenia Kuznetsova - 6-0 at 4, 11-3 in duals, 11-3 overall
       MIA: Florencia Urrutia - 11-4 at 4, 12-8 in duals, 12-8 overall
       Predictions:
-        AVG: UCF - Kuznetsova (78%) def. Urrutia (22%)
+        AVG: UCF - Kuznetsova (76%) def. Urrutia (24%)
         SLM: UCF - Kuznetsova (76%) def. Urrutia (24%)
         TRN: UCF - Kuznetsova (74%) def. Urrutia (26%)
         MAS: MIA - Urrutia (NaN%) def. Kuznetsova (NaN%)
@@ -101,7 +101,7 @@ Lineups:
       UCF: Marie Mattel - 2-0 at 5, 6-4 in duals, 6-4 overall
       MIA: Diana Khodan - 5-5 at 5, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: MIA - Khodan (64%) def. Mattel (36%)
+        AVG: MIA - Khodan (65%) def. Mattel (35%)
         SLM: MIA - Khodan (56%) def. Mattel (44%)
         TRN: MIA - Khodan (64%) def. Mattel (36%)
         MAS: MIA - Khodan (NaN%) def. Mattel (NaN%)

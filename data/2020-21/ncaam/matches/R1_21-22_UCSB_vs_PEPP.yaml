@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Pepperdine
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 21
   Seeding:
     Region: 2
@@ -25,7 +25,7 @@ Home:
 Visitor:
   Team: UC Santa Barbara
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 22
   Seeding:
     Region: 3
@@ -38,8 +38,8 @@ Visitor:
 Predictions:
   SLM: "PEPP - #34 Pepperdine (95%) def. #51 UC Santa Barbara (5%)"
   TRN: "PEPP - #30 Pepperdine (98%) def. #51 UC Santa Barbara (2%)"
-  MAS: "UCSB - #52 UC Santa Barbara (NaN%) def. #22 Pepperdine (NaN%)"
-  LNUP: PEPP - Pepperdine (97%) def. UC Santa Barbara (3%)
+  MAS: "PEPP - #22 Pepperdine (93%) def. #52 UC Santa Barbara (7%)"
+  LNUP: PEPP - Pepperdine (96%) def. UC Santa Barbara (4%)
   UTR: "PEPP - #26 Pepperdine (+3.39) def. #47 UC Santa Barbara (-3.39)"
   ITA: "PEPP - #28 Pepperdine def. #54 UC Santa Barbara"
   USTA: "PEPP - #24 Pepperdine def. UC Santa Barbara"
@@ -47,11 +47,11 @@ Predictions:
   Seeding: "PEPP - #2 Pepperdine def. #3 UC Santa Barbara"
 Lineups:
   Predictions:
-    Average EWPs for PEPP: 95%,98%,NaN%,97%
-    Average EWPs for UCSB: 5%,2%,NaN%,3%
-    PEPP wins 4 or more Singles points: 86%
-    UCSB wins 4 or more Singles points: 2%
-    Winner decided by the Doubles point: 12%
+    Average EWPs for PEPP: 95%,98%,NaN%,96%
+    Average EWPs for UCSB: 5%,2%,NaN%,4%
+    PEPP wins 4 or more Singles points: 84%
+    UCSB wins 4 or more Singles points: 3%
+    Winner decided by the Doubles point: 13%
   Singles:
     - Position: 1
       PEPP: Adrian Oetzbach - 7-7 at 1, 7-8 in duals, 8-9 overall
@@ -67,7 +67,7 @@ Lineups:
       PEPP: Guy Den Ouden - 10-4 at 2, 15-5 in duals, 15-5 overall
       UCSB: Stefano Tsorotiotis - 4-5 at 2, 4-5 in duals, 4-5 overall
       Predictions:
-        AVG: PEPP - Ouden (94%) def. Tsorotiotis (6%)
+        AVG: PEPP - Ouden (95%) def. Tsorotiotis (5%)
         SLM: PEPP - Ouden (90%) def. Tsorotiotis (10%)
         TRN: PEPP - Ouden (97%) def. Tsorotiotis (3%)
         MAS: UCSB - Tsorotiotis (NaN%) def. Ouden (NaN%)
@@ -77,7 +77,7 @@ Lineups:
       PEPP: Daniel DeJonge - 5-4 at 3, 10-4 in duals, 11-5 overall
       UCSB: Victor Krustev - 7-1 at 3, 10-3 in duals, 10-3 overall
       Predictions:
-        AVG: PEPP - DeJonge (77%) def. Krustev (23%)
+        AVG: PEPP - DeJonge (73%) def. Krustev (27%)
         SLM: PEPP - DeJonge (75%) def. Krustev (25%)
         TRN: PEPP - DeJonge (75%) def. Krustev (25%)
         MAS: UCSB - Krustev (NaN%) def. DeJonge (NaN%)
@@ -97,7 +97,7 @@ Lineups:
       PEPP: Corrado Summaria - 3-0 at 5, 8-5 in duals, 8-6 overall
       UCSB: Joey Rotheram - 3-2 at 5, 6-4 in duals, 6-4 overall
       Predictions:
-        AVG: PEPP - Summaria (80%) def. Rotheram (20%)
+        AVG: PEPP - Summaria (79%) def. Rotheram (21%)
         SLM: PEPP - Summaria (82%) def. Rotheram (18%)
         TRN: PEPP - Summaria (81%) def. Rotheram (19%)
         MAS: UCSB - Rotheram (NaN%) def. Summaria (NaN%)
@@ -107,7 +107,7 @@ Lineups:
       PEPP: Pietro Fellin - 8-0 at 6, 8-3 in duals, 8-5 overall
       UCSB: Kai Brady - 4-1 at 6, 7-2 in duals, 7-2 overall
       Predictions:
-        AVG: PEPP - Fellin (87%) def. Brady (13%)
+        AVG: PEPP - Fellin (83%) def. Brady (17%)
         SLM: PEPP - Fellin (85%) def. Brady (15%)
         TRN: PEPP - Fellin (87%) def. Brady (13%)
         MAS: UCSB - Brady (NaN%) def. Fellin (NaN%)

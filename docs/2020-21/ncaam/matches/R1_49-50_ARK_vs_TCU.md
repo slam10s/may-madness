@@ -5,7 +5,7 @@ Bayard H. Friedman Tennis Center
 Fort Worth, Texas  
 ## [Arkansas vs #7 TCU](https://www.ncaa.com/game/5833394)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Arkansas</h2>  
@@ -13,7 +13,7 @@ Fort Worth, Texas
 &nbsp; ITA: 43 (18.30)<br>  
 &nbsp; Slam: 43 (91.55)<br>  
 &nbsp; TRN: 44 (89.43)<br>  
-&#10004; Massey: 50 (6.64)<br>  
+&nbsp; Massey: 50 (6.64)<br>  
 &nbsp; UTR: 44 (75.30)<br>  
 &nbsp; Coaches Poll: 40<br>  
 <br>  
@@ -26,7 +26,7 @@ Fort Worth, Texas
 &#10004; ITA: 7 (69.22)<br>  
 &#10004; Slam: 9 (97.57)<br>  
 &#10004; TRN: 9 (96.56)<br>  
-&nbsp; Massey: 6 (8.76)<br>  
+&#10004; Massey: 6 (8.76)<br>  
 &#10004; UTR: 10 (79.71)<br>  
 &#10004; USTA Poll: 9<br>  
 &#10004; Coaches Poll: 7<br>  
@@ -43,7 +43,7 @@ Fort Worth, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TCU*** - #9 TCU (96%) def. #43 Arkansas (4%)  
 - TRN: ***TCU*** - #9 TCU (98%) def. #44 Arkansas (2%)  
-- Massey: ***ARK*** - #50 Arkansas (NaN%) def. #6 TCU (NaN%)  
+- Massey: ***TCU*** - #6 TCU (99%) def. #50 Arkansas (1%)  
 - Lineup: ***TCU*** - TCU (99%) def. Arkansas (1%)  
 - UTR: ***TCU*** - #10 TCU (+4.41) def. #44 Arkansas (-4.41)  
 - ITA: ***TCU*** - #7 TCU def. #43 Arkansas  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Max Verboven (ARK) - 1-7 at #2, 3-12 in duals, 3-12 overall<br>Luc Fomba (TCU) - 7-3 at #2, 12-6 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Fomba (94%) def. Verboven (6%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Fomba (95%) def. Verboven (5%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Fomba (94%) def. Verboven (6%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Fomba (98%) def. Verboven (2%)</li>  
 <li>Massey: <b><i>ARK</i></b> - Verboven (NaN%) def. Fomba (NaN%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nico Rousett (ARK) - 8-5 at #3, 12-9 in duals, 15-12 overall<br>Sander Jong (TCU) - 10-5 at #3, 10-7 in duals, 11-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Jong (84%) def. Rousett (16%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Jong (82%) def. Rousett (18%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Jong (79%) def. Rousett (21%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Jong (81%) def. Rousett (19%)</li>  
 <li>Massey: <b><i>ARK</i></b> - Rousett (NaN%) def. Jong (NaN%)</li>  
@@ -94,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Aleksa Bucan (ARK) - 3-4 at #4, 6-8 in duals, 10-10 overall<br>Jake Fearnley (TCU) - 4-2 at #4, 8-3 in duals, 8-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Fearnley (89%) def. Bucan (11%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Fearnley (88%) def. Bucan (12%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Fearnley (83%) def. Bucan (17%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Fearnley (91%) def. Bucan (9%)</li>  
 <li>Massey: <b><i>ARK</i></b> - Bucan (NaN%) def. Fearnley (NaN%)</li>  
@@ -116,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Enrique Paya (ARK) - 6-10 at #6, 6-11 in duals, 6-11 overall<br>Tadeas Paroulek (TCU) - 1-3 at #6, 7-11 in duals, 7-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Paroulek (92%) def. Paya (8%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Paroulek (90%) def. Paya (10%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Paroulek (92%) def. Paya (8%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Paroulek (96%) def. Paya (4%)</li>  
 <li>Massey: <b><i>ARK</i></b> - Paya (NaN%) def. Paroulek (NaN%)</li>  

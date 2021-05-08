@@ -5,7 +5,7 @@ Alfred A. Ring Tennis Complex
 Gainesville, Florida  
 ## [Siena vs #11 Florida](https://www.ncaa.com/game/5833667)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #006747 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #003087 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #006747 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #003087 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Siena</h2>  
@@ -13,7 +13,7 @@ Gainesville, Florida
 &nbsp; ITA: 60 (2.41)<br>  
 &nbsp; Slam: 64 (65.57)<br>  
 &nbsp; TRN: 64 (50.23)<br>  
-&#10004; Massey: 64 (2.92)<br>  
+&nbsp; Massey: 64 (2.92)<br>  
 &nbsp; UTR: 62 (46.43)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Gainesville, Florida
 &#10004; ITA: 11 (49.18)<br>  
 &#10004; Slam: 16 (90.47)<br>  
 &#10004; TRN: 20 (82.70)<br>  
-&nbsp; Massey: 21 (7.77)<br>  
+&#10004; Massey: 21 (7.77)<br>  
 &#10004; UTR: 11 (62.70)<br>  
 &#10004; USTA Poll: 20<br>  
 &#10004; Coaches Poll: 15<br>  
@@ -45,7 +45,7 @@ Gainesville, Florida
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***FLA*** - #16 Florida (99%) def. #64 Siena (1%)  
 - TRN: ***FLA*** - #20 Florida (99%) def. #64 Siena (1%)  
-- Massey: ***SIEN*** - #64 Siena (NaN%) def. #21 Florida (NaN%)  
+- Massey: ***FLA*** - #21 Florida (100%) def. #64 Siena (0%)  
 - Lineup: ***FLA*** - Florida (99%) def. Siena (1%)  
 - UTR: ***FLA*** - #11 Florida (+16.27) def. #62 Siena (-16.27)  
 - ITA: ***FLA*** - #11 Florida def. #60 Siena  

@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: UCLA
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 32
   Seeding:
     Overall: 4
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Grand Canyon
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 31
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "UCLA - #4 UCLA (99%) def. #59 Grand Canyon (1%)"
   TRN: "UCLA - #7 UCLA (99%) def. #60 Grand Canyon (1%)"
-  MAS: "GCU - #57 Grand Canyon (NaN%) def. #4 UCLA (NaN%)"
+  MAS: "UCLA - #4 UCLA (100%) def. #57 Grand Canyon (0%)"
   LNUP: UCLA - UCLA (99%) def. Grand Canyon (1%)
   UTR: "UCLA - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)"
   ITA: "UCLA - #4 UCLA def. #62 Grand Canyon"
@@ -68,7 +68,7 @@ Lineups:
       UCLA: Jada Hart - 8-1 at 2, 11-2 in duals, 11-2 overall
       GCU: Emilia Occhipinti - 12-5 at 2, 12-5 in duals, 12-5 overall
       Predictions:
-        AVG: UCLA - Hart (99%) def. Occhipinti (1%)
+        AVG: UCLA - Hart (98%) def. Occhipinti (2%)
         SLM: UCLA - Hart (99%) def. Occhipinti (1%)
         TRN: UCLA - Hart (99%) def. Occhipinti (1%)
         MAS: GCU - Occhipinti (NaN%) def. Hart (NaN%)
@@ -78,7 +78,7 @@ Lineups:
       UCLA: Elysia Bolton - 5-2 at 3, 9-3 in duals, 9-3 overall
       GCU: Jana Weiss - 15-4 at 3, 15-4 in duals, 15-4 overall
       Predictions:
-        AVG: UCLA - Bolton (99%) def. Weiss (1%)
+        AVG: UCLA - Bolton (98%) def. Weiss (2%)
         SLM: UCLA - Bolton (99%) def. Weiss (1%)
         TRN: UCLA - Bolton (99%) def. Weiss (1%)
         MAS: GCU - Weiss (NaN%) def. Bolton (NaN%)

@@ -5,7 +5,7 @@ Barksdale Stadium
 Knoxville, Tennessee  
 ## [Memphis vs Georgia Tech](https://www.ncaa.com/game/5833387)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #012169 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/memphis.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #B3A369 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #012169 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/memphis.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #B3A369 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Memphis</h2>  
@@ -13,7 +13,7 @@ Knoxville, Tennessee
 &nbsp; ITA: 38 (22.19)<br>  
 &nbsp; Slam: 41 (91.89)<br>  
 &nbsp; TRN: 40 (89.86)<br>  
-&#10004; Massey: 43 (7.05)<br>  
+&nbsp; Massey: 43 (7.05)<br>  
 &nbsp; UTR: 43 (75.40)<br>  
 &nbsp; Coaches Poll: 35<br>  
 <br>  
@@ -26,7 +26,7 @@ Knoxville, Tennessee
 &#10004; ITA: 30 (27.75)<br>  
 &#10004; Slam: 27 (93.36)<br>  
 &#10004; TRN: 33 (90.89)<br>  
-&nbsp; Massey: 25 (7.67)<br>  
+&#10004; Massey: 25 (7.67)<br>  
 &#10004; UTR: 36 (76.54)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 31<br>  
@@ -43,7 +43,7 @@ Knoxville, Tennessee
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***GT*** - #27 Georgia Tech (69%) def. #41 Memphis (31%)  
 - TRN: ***GT*** - #33 Georgia Tech (64%) def. #40 Memphis (36%)  
-- Massey: ***MEM*** - #43 Memphis (NaN%) def. #25 Georgia Tech (NaN%)  
+- Massey: ***GT*** - #25 Georgia Tech (84%) def. #43 Memphis (16%)  
 - Lineup: ***GT*** - Georgia Tech (91%) def. Memphis (9%)  
 - UTR: ***GT*** - #36 Georgia Tech (+1.14) def. #43 Memphis (-1.14)  
 - ITA: ***GT*** - #30 Georgia Tech def. #38 Memphis  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">James Story (MEM) - 8-6 at #1, 8-6 in duals, 8-6 overall<br>Marcus McDaniel (GT) - 10-6 at #1, 15-6 in duals, 15-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - McDaniel (74%) def. Story (26%)</li>  
+<li>Composite: <b><i>GT</i></b> - McDaniel (73%) def. Story (27%)</li>  
 <li>Slam: <b><i>GT</i></b> - McDaniel (71%) def. Story (29%)</li>  
 <li>TRN: <b><i>GT</i></b> - McDaniel (72%) def. Story (28%)</li>  
 <li>Massey: <b><i>MEM</i></b> - Story (NaN%) def. McDaniel (NaN%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">David Stevenson (MEM) - 2-5 at #2, 8-8 in duals, 8-8 overall<br>Andres Martin (GT) - 11-5 at #2, 14-7 in duals, 16-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Martin (84%) def. Stevenson (16%)</li>  
+<li>Composite: <b><i>GT</i></b> - Martin (83%) def. Stevenson (17%)</li>  
 <li>Slam: <b><i>GT</i></b> - Martin (82%) def. Stevenson (18%)</li>  
 <li>TRN: <b><i>GT</i></b> - Martin (85%) def. Stevenson (15%)</li>  
 <li>Massey: <b><i>MEM</i></b> - Stevenson (NaN%) def. Martin (NaN%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Oscar Cutting (MEM) - 2-4 at #3, 8-9 in duals, 8-9 overall<br>Pablo Schelcher (GT) - 8-5 at #3, 12-7 in duals, 13-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Schelcher (66%) def. Cutting (34%)</li>  
+<li>Composite: <b><i>GT</i></b> - Schelcher (67%) def. Cutting (33%)</li>  
 <li>Slam: <b><i>GT</i></b> - Schelcher (58%) def. Cutting (42%)</li>  
 <li>TRN: <b><i>GT</i></b> - Schelcher (68%) def. Cutting (32%)</li>  
 <li>Massey: <b><i>MEM</i></b> - Cutting (NaN%) def. Schelcher (NaN%)</li>  
@@ -94,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jan Pallares (MEM) - 4-4 at #4, 6-8 in duals, 6-8 overall<br>Keshav Chopra (GT) - 8-3 at #4, 12-8 in duals, 14-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Chopra (79%) def. Pallares (21%)</li>  
+<li>Composite: <b><i>GT</i></b> - Chopra (76%) def. Pallares (24%)</li>  
 <li>Slam: <b><i>GT</i></b> - Chopra (80%) def. Pallares (20%)</li>  
 <li>TRN: <b><i>GT</i></b> - Chopra (83%) def. Pallares (17%)</li>  
 <li>Massey: <b><i>MEM</i></b> - Pallares (NaN%) def. Chopra (NaN%)</li>  

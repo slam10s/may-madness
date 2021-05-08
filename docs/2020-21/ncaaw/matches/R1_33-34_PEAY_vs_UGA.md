@@ -5,7 +5,7 @@ Dan Magill Tennis Complex
 Athens, Georgia  
 ## [Austin Peay vs #3 Georgia](https://www.ncaa.com/game/5833663)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #DA291C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #DA291C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Austin Peay</h2>  
@@ -13,7 +13,7 @@ Athens, Georgia
 &nbsp; ITA: 57 (3.35)<br>  
 &nbsp; Slam: 56 (77.22)<br>  
 &nbsp; TRN: 56 (67.26)<br>  
-&#10004; Massey: 56 (4.88)<br>  
+&nbsp; Massey: 56 (4.88)<br>  
 &nbsp; UTR: 55 (52.40)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Athens, Georgia
 &#10004; ITA: 3 (74.01)<br>  
 &#10004; Slam: 3 (97.81)<br>  
 &#10004; TRN: 3 (94.01)<br>  
-&nbsp; Massey: 3 (9.29)<br>  
+&#10004; Massey: 3 (9.29)<br>  
 &#10004; UTR: 3 (64.69)<br>  
 &#10004; USTA Poll: 3<br>  
 &#10004; Coaches Poll: 3<br>  
@@ -45,7 +45,7 @@ Athens, Georgia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
 - TRN: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
-- Massey: ***PEAY*** - #56 Austin Peay (NaN%) def. #3 Georgia (NaN%)  
+- Massey: ***UGA*** - #3 Georgia (100%) def. #56 Austin Peay (0%)  
 - Lineup: ***UGA*** - Georgia (99%) def. Austin Peay (1%)  
 - UTR: ***UGA*** - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)  
 - ITA: ***UGA*** - #3 Georgia def. #57 Austin Peay  
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Danielle Morris (PEAY) - 9-5 at #2, 9-5 in duals, 9-5 overall<br>Lea Ma (UGA) - 13-3 at #2, 13-3 in duals, 14-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Ma (98%) def. Morris (2%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
 <li>Massey: <b><i>PEAY</i></b> - Morris (NaN%) def. Ma (NaN%)</li>  

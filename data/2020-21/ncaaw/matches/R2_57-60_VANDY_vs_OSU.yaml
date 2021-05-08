@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Ohio St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 57
   Seeding:
     Overall: 15
@@ -41,8 +41,8 @@ Visitor:
 Predictions:
   SLM: "OSU - #5 Ohio St. (91%) def. #29 Vanderbilt (9%)"
   TRN: "OSU - #5 Ohio St. (93%) def. #30 Vanderbilt (7%)"
-  MAS: "VANDY - #31 Vanderbilt (NaN%) def. #8 Ohio St. (NaN%)"
-  LNUP: OSU - Ohio St. (77%) def. Vanderbilt (23%)
+  MAS: "OSU - #8 Ohio St. (81%) def. #31 Vanderbilt (19%)"
+  LNUP: OSU - Ohio St. (80%) def. Vanderbilt (20%)
   UTR: "OSU - #25 Ohio St. (+0.14) def. #28 Vanderbilt (-0.14)"
   ITA: "OSU - #18 Ohio St. def. #27 Vanderbilt"
   USTA: "OSU - #6 Ohio St. def. Vanderbilt"
@@ -50,17 +50,17 @@ Predictions:
   Seeding: "OSU - #1 Ohio St. def. #2 Vanderbilt"
 Lineups:
   Predictions:
-    Average EWPs for OSU: 91%,93%,NaN%,77%
-    Average EWPs for VANDY: 9%,7%,NaN%,23%
-    OSU wins 4 or more Singles points: 55%
-    VANDY wins 4 or more Singles points: 16%
-    Winner decided by the Doubles point: 29%
+    Average EWPs for OSU: 91%,93%,NaN%,80%
+    Average EWPs for VANDY: 9%,7%,NaN%,20%
+    OSU wins 4 or more Singles points: 59%
+    VANDY wins 4 or more Singles points: 14%
+    Winner decided by the Doubles point: 27%
   Singles:
     - Position: 1
       OSU: Irina Cantos Siemers - 10-5 at 1, 15-5 in duals, 18-5 overall
       VANDY: Christina Rosca - 3-5 at 1, 13-5 in duals, 13-5 overall
       Predictions:
-        AVG: OSU - Siemers (84%) def. Rosca (16%)
+        AVG: OSU - Siemers (82%) def. Rosca (18%)
         SLM: OSU - Siemers (88%) def. Rosca (12%)
         TRN: OSU - Siemers (88%) def. Rosca (12%)
         MAS: VANDY - Rosca (NaN%) def. Siemers (NaN%)
@@ -70,7 +70,7 @@ Lineups:
       OSU: Isabelle Boulais - 6-3 at 2, 11-5 in duals, 11-5 overall
       VANDY: Emma Kurtz - 6-5 at 2, 8-10 in duals, 11-16 overall
       Predictions:
-        AVG: OSU - Boulais (65%) def. Kurtz (35%)
+        AVG: OSU - Boulais (70%) def. Kurtz (30%)
         SLM: OSU - Boulais (68%) def. Kurtz (32%)
         TRN: OSU - Boulais (68%) def. Kurtz (32%)
         MAS: VANDY - Kurtz (NaN%) def. Boulais (NaN%)
@@ -80,7 +80,7 @@ Lineups:
       OSU: Kolie Allen - 7-3 at 3, 10-9 in duals, 10-12 overall
       VANDY: Anessa Lee - 3-1 at 3, 11-5 in duals, 16-8 overall
       Predictions:
-        AVG: VANDY - Lee (69%) def. Allen (31%)
+        AVG: VANDY - Lee (67%) def. Allen (33%)
         SLM: VANDY - Lee (53%) def. Allen (47%)
         TRN: VANDY - Lee (76%) def. Allen (24%)
         MAS: VANDY - Lee (NaN%) def. Allen (NaN%)
@@ -90,7 +90,7 @@ Lineups:
       OSU: Lisa Hofbauer - 7-2 at 4, 12-6 in duals, 13-8 overall
       VANDY: Anna Ross - 0-1 at 4, 8-9 in duals, 8-10 overall
       Predictions:
-        AVG: OSU - Hofbauer (53%) def. Ross (47%)
+        AVG: OSU - Hofbauer (55%) def. Ross (45%)
         SLM: OSU - Hofbauer (59%) def. Ross (41%)
         TRN: OSU - Hofbauer (60%) def. Ross (40%)
         MAS: VANDY - Ross (NaN%) def. Hofbauer (NaN%)
@@ -100,7 +100,7 @@ Lineups:
       OSU: Lucia Marzal - 10-2 at 5, 19-2 in duals, 21-3 overall
       VANDY: Marcella Cruz - 4-2 at 5, 13-4 in duals, 16-9 overall
       Predictions:
-        AVG: OSU - Marzal (65%) def. Cruz (35%)
+        AVG: OSU - Marzal (64%) def. Cruz (36%)
         SLM: OSU - Marzal (69%) def. Cruz (31%)
         TRN: OSU - Marzal (66%) def. Cruz (34%)
         MAS: VANDY - Cruz (NaN%) def. Marzal (NaN%)
@@ -110,7 +110,7 @@ Lineups:
       OSU: Luna Dormet - 9-1 at 6, 17-1 in duals, 19-1 overall
       VANDY: Holly Staff - 0-0 at 6, 9-9 in duals, 14-12 overall
       Predictions:
-        AVG: OSU - Dormet (63%) def. Staff (37%)
+        AVG: OSU - Dormet (66%) def. Staff (34%)
         SLM: OSU - Dormet (57%) def. Staff (43%)
         TRN: OSU - Dormet (63%) def. Staff (37%)
         MAS: VANDY - Staff (NaN%) def. Dormet (NaN%)

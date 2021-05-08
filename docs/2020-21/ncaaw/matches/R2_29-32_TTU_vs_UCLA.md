@@ -5,7 +5,7 @@ Los Angeles Tennis Center
 Los Angeles, California  
 ## [Texas Tech vs #4 UCLA](https://www.ncaa.com/game/5833686)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #ED1F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #ED1F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#2 Texas Tech</h2>  
@@ -13,7 +13,7 @@ Los Angeles, California
 &nbsp; ITA: 29 (28.07)<br>  
 &nbsp; Slam: 34 (87.92)<br>  
 &nbsp; TRN: 34 (79.75)<br>  
-&#10004; Massey: 28 (7.39)<br>  
+&nbsp; Massey: 28 (7.39)<br>  
 &nbsp; UTR: 27 (61.44)<br>  
 &nbsp; Coaches Poll: 29<br>  
 <br>  
@@ -26,7 +26,7 @@ Los Angeles, California
 &#10004; ITA: 4 (61.84)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
-&nbsp; Massey: 4 (8.85)<br>  
+&#10004; Massey: 4 (8.85)<br>  
 &#10004; UTR: 5 (64.40)<br>  
 &#10004; USTA Poll: 4<br>  
 &#10004; Coaches Poll: 5<br>  
@@ -43,7 +43,7 @@ Los Angeles, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCLA*** - #4 UCLA (94%) def. #34 Texas Tech (6%)  
 - TRN: ***UCLA*** - #7 UCLA (96%) def. #34 Texas Tech (4%)  
-- Massey: ***TTU*** - #28 Texas Tech (NaN%) def. #4 UCLA (NaN%)  
+- Massey: ***UCLA*** - #4 UCLA (97%) def. #28 Texas Tech (3%)  
 - Lineup: ***UCLA*** - UCLA (97%) def. Texas Tech (3%)  
 - UTR: ***UCLA*** - #5 UCLA (+2.96) def. #27 Texas Tech (-2.96)  
 - ITA: ***UCLA*** - #4 UCLA def. #29 Texas Tech  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Margarita Skriabina (TTU) - 2-0 at #2, 16-1 in duals, 18-2 overall<br>Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Hart (82%) def. Skriabina (18%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Hart (77%) def. Skriabina (23%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Hart (90%) def. Skriabina (10%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Hart (87%) def. Skriabina (13%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Skriabina (NaN%) def. Hart (NaN%)</li>  
@@ -105,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Olivia Peet (TTU) - 9-6 at #5, 10-6 in duals, 12-6 overall<br>Sasha Vagramov (UCLA) - 5-3 at #5, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Vagramov (57%) def. Peet (43%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Vagramov (55%) def. Peet (45%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Vagramov (61%) def. Peet (39%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (72%) def. Peet (28%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Peet (NaN%) def. Vagramov (NaN%)</li>  
@@ -116,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Metka Komac (TTU) - 9-4 at #6, 10-5 in duals, 12-6 overall<br>Vanessa Ong (UCLA) - 3-1 at #6, 4-1 in duals, 4-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Ong (78%) def. Komac (22%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Ong (74%) def. Komac (26%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Ong (63%) def. Komac (37%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Ong (77%) def. Komac (23%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Komac (NaN%) def. Ong (NaN%)</li>  
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- UCLA should win 4 or more singles matches _90%_ of the time.  
+- UCLA should win 4 or more singles matches _88%_ of the time.  
 - Texas Tech should win 4 or more singles matches _2%_ of the time.  
-- The winner of the doubles point will decide the match the other _8%_ of the time.  
+- The winner of the doubles point will decide the match the other _10%_ of the time.  
 - If UCLA wins the doubles point, their chances of winning the dual improve to _98%_.  
-- If Texas Tech wins the doubles point, their chances of winning the dual improve to _10%_.  
+- If Texas Tech wins the doubles point, their chances of winning the dual improve to _12%_.  
   
 ------
 

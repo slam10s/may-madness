@@ -40,8 +40,8 @@ Visitor:
 Predictions:
   SLM: "SCAR - #27 South Carolina (81%) def. #41 Iowa St. (19%)"
   TRN: "SCAR - #28 South Carolina (84%) def. #42 Iowa St. (16%)"
-  MAS: "ISU - #39 Iowa St. (NaN%) def. #27 South Carolina (NaN%)"
-  LNUP: SCAR - South Carolina (92%) def. Iowa St. (8%)
+  MAS: "SCAR - #27 South Carolina (83%) def. #39 Iowa St. (17%)"
+  LNUP: SCAR - South Carolina (91%) def. Iowa St. (9%)
   UTR: "SCAR - #29 South Carolina (+2.24) def. #39 Iowa St. (-2.24)"
   ITA: "SCAR - #22 South Carolina def. #36 Iowa St."
   USTA: SCAR - RV South Carolina def. Iowa St.
@@ -49,17 +49,17 @@ Predictions:
   Seeding: "SCAR - #2 South Carolina def. #3 Iowa St."
 Lineups:
   Predictions:
-    Average EWPs for SCAR: 81%,84%,NaN%,92%
-    Average EWPs for ISU: 19%,16%,NaN%,8%
-    SCAR wins 4 or more Singles points: 73%
-    ISU wins 4 or more Singles points: 6%
-    Winner decided by the Doubles point: 21%
+    Average EWPs for SCAR: 81%,84%,NaN%,91%
+    Average EWPs for ISU: 19%,16%,NaN%,9%
+    SCAR wins 4 or more Singles points: 71%
+    ISU wins 4 or more Singles points: 7%
+    Winner decided by the Doubles point: 22%
   Singles:
     - Position: 1
       SCAR: Mia Horvit - 9-7 at 1, 9-7 in duals, 11-9 overall
       ISU: Thasaporn Naklo - 10-7 at 1, 10-7 in duals, 10-7 overall
       Predictions:
-        AVG: SCAR - Horvit (84%) def. Naklo (16%)
+        AVG: SCAR - Horvit (82%) def. Naklo (18%)
         SLM: SCAR - Horvit (81%) def. Naklo (19%)
         TRN: SCAR - Horvit (85%) def. Naklo (15%)
         MAS: ISU - Naklo (NaN%) def. Horvit (NaN%)
@@ -69,7 +69,7 @@ Lineups:
       SCAR: Megan Davies - 10-5 at 2, 10-5 in duals, 12-8 overall
       ISU: Maty Cancini - 6-9 at 2, 6-9 in duals, 6-9 overall
       Predictions:
-        AVG: SCAR - Davies (85%) def. Cancini (15%)
+        AVG: SCAR - Davies (86%) def. Cancini (14%)
         SLM: SCAR - Davies (81%) def. Cancini (19%)
         TRN: SCAR - Davies (88%) def. Cancini (12%)
         MAS: ISU - Cancini (NaN%) def. Davies (NaN%)
@@ -79,7 +79,7 @@ Lineups:
       SCAR: Emma Shelton - 7-7 at 3, 10-8 in duals, 13-11 overall
       ISU: Miska Kadleckova - 6-1 at 3, 14-3 in duals, 14-3 overall
       Predictions:
-        AVG: SCAR - Shelton (63%) def. Kadleckova (37%)
+        AVG: SCAR - Shelton (59%) def. Kadleckova (41%)
         SLM: SCAR - Shelton (66%) def. Kadleckova (34%)
         TRN: SCAR - Shelton (58%) def. Kadleckova (42%)
         MAS: ISU - Kadleckova (NaN%) def. Shelton (NaN%)
@@ -89,7 +89,7 @@ Lineups:
       SCAR: Silvia Chinellato - 7-6 at 4, 10-9 in duals, 12-12 overall
       ISU: Christin Hsieh - 1-3 at 4, 7-11 in duals, 7-11 overall
       Predictions:
-        AVG: SCAR - Chinellato (88%) def. Hsieh (12%)
+        AVG: SCAR - Chinellato (89%) def. Hsieh (11%)
         SLM: SCAR - Chinellato (83%) def. Hsieh (17%)
         TRN: SCAR - Chinellato (88%) def. Hsieh (12%)
         MAS: ISU - Hsieh (NaN%) def. Chinellato (NaN%)
@@ -99,7 +99,7 @@ Lineups:
       SCAR: Allie Gretkowski - 5-9 at 5, 7-12 in duals, 7-12 overall
       ISU: Chie Kezuka - 7-4 at 5, 10-6 in duals, 10-6 overall
       Predictions:
-        AVG: SCAR - Gretkowski (57%) def. Kezuka (43%)
+        AVG: SCAR - Gretkowski (53%) def. Kezuka (47%)
         SLM: ISU - Kezuka (57%) def. Gretkowski (43%)
         TRN: ISU - Kezuka (53%) def. Gretkowski (47%)
         MAS: ISU - Kezuka (NaN%) def. Gretkowski (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       SCAR: Ana Cruz - 4-4 at 6, 5-6 in duals, 5-6 overall
       ISU: Sofia Cabezas - 9-3 at 6, 13-4 in duals, 13-4 overall
       Predictions:
-        AVG: ISU - Cabezas (71%) def. Cruz (29%)
+        AVG: ISU - Cabezas (64%) def. Cruz (36%)
         SLM: ISU - Cabezas (64%) def. Cruz (36%)
         TRN: ISU - Cabezas (72%) def. Cruz (28%)
         MAS: ISU - Cabezas (NaN%) def. Cruz (NaN%)

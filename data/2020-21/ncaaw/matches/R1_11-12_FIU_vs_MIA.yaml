@@ -41,7 +41,7 @@ Visitor:
 Predictions:
   SLM: "MIA - #22 Miami (FL) (74%) def. #30 FIU (26%)"
   TRN: "MIA - #21 Miami (FL) (63%) def. #29 FIU (37%)"
-  MAS: "FIU - #37 FIU (NaN%) def. #17 Miami (FL) (NaN%)"
+  MAS: "MIA - #17 Miami (FL) (92%) def. #37 FIU (8%)"
   LNUP: MIA - Miami (FL) (97%) def. FIU (3%)
   UTR: "MIA - #19 Miami (FL) (+2.89) def. #42 FIU (-2.89)"
   ITA: "MIA - #24 Miami (FL) def. #41 FIU"
@@ -52,15 +52,15 @@ Lineups:
   Predictions:
     Average EWPs for MIA: 74%,63%,NaN%,97%
     Average EWPs for FIU: 26%,37%,NaN%,3%
-    MIA wins 4 or more Singles points: 88%
+    MIA wins 4 or more Singles points: 87%
     FIU wins 4 or more Singles points: 2%
-    Winner decided by the Doubles point: 10%
+    Winner decided by the Doubles point: 11%
   Singles:
     - Position: 1
       MIA: Estela Perez-Somarriba - 19-2 at 1, 19-2 in duals, 19-2 overall
       FIU: Kamila Umarova - 10-2 at 1, 10-2 in duals, 10-2 overall
       Predictions:
-        AVG: MIA - Perez-Somarriba (96%) def. Umarova (4%)
+        AVG: MIA - Perez-Somarriba (95%) def. Umarova (5%)
         SLM: MIA - Perez-Somarriba (95%) def. Umarova (5%)
         TRN: MIA - Perez-Somarriba (97%) def. Umarova (3%)
         MAS: FIU - Umarova (NaN%) def. Perez-Somarriba (NaN%)
@@ -70,7 +70,7 @@ Lineups:
       MIA: Isabella Pfennig - 12-4 at 2, 16-4 in duals, 16-4 overall
       FIU: Marina Alcaide - 3-0 at 2, 11-0 in duals, 11-0 overall
       Predictions:
-        AVG: MIA - Pfennig (86%) def. Alcaide (14%)
+        AVG: MIA - Pfennig (82%) def. Alcaide (18%)
         SLM: MIA - Pfennig (83%) def. Alcaide (17%)
         TRN: MIA - Pfennig (87%) def. Alcaide (13%)
         MAS: FIU - Alcaide (NaN%) def. Pfennig (NaN%)
@@ -80,7 +80,7 @@ Lineups:
       MIA: Daevenia Achong - 7-6 at 3, 7-11 in duals, 7-11 overall
       FIU: Andjela Skrobonja - 0-0 at 3, 10-2 in duals, 10-2 overall
       Predictions:
-        AVG: MIA - Achong (58%) def. Skrobonja (42%)
+        AVG: MIA - Achong (54%) def. Skrobonja (46%)
         SLM: MIA - Achong (67%) def. Skrobonja (33%)
         TRN: MIA - Achong (58%) def. Skrobonja (42%)
         MAS: FIU - Skrobonja (NaN%) def. Achong (NaN%)
@@ -89,7 +89,7 @@ Lineups:
       MIA: Florencia Urrutia - 11-4 at 4, 12-8 in duals, 12-8 overall
       FIU: Basak Akbas - 0-0 at 4, 5-5 in duals, 5-5 overall
       Predictions:
-        AVG: MIA - Urrutia (64%) def. Akbas (36%)
+        AVG: MIA - Urrutia (65%) def. Akbas (35%)
         SLM: FIU - Akbas (52%) def. Urrutia (48%)
         TRN: MIA - Urrutia (63%) def. Akbas (37%)
         MAS: FIU - Akbas (NaN%) def. Urrutia (NaN%)
@@ -99,7 +99,7 @@ Lineups:
       MIA: Diana Khodan - 5-5 at 5, 12-7 in duals, 12-7 overall
       FIU: Andreea Velcea - 6-2 at 5, 9-2 in duals, 9-2 overall
       Predictions:
-        AVG: MIA - Khodan (60%) def. Velcea (40%)
+        AVG: MIA - Khodan (65%) def. Velcea (35%)
         SLM: MIA - Khodan (79%) def. Velcea (21%)
         TRN: MIA - Khodan (83%) def. Velcea (17%)
         MAS: FIU - Velcea (NaN%) def. Khodan (NaN%)

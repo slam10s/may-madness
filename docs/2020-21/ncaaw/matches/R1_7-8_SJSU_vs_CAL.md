@@ -5,7 +5,7 @@ Hellman Tennis Complex
 Berkeley, California  
 ## [San Jose St. vs #16 California](https://www.ncaa.com/game/5833650)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0032A0 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0032A0 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 San Jose St.</h2>  
@@ -13,7 +13,7 @@ Berkeley, California
 &nbsp; ITA: 47 (8.04)<br>  
 &nbsp; Slam: 50 (80.34)<br>  
 &nbsp; TRN: 49 (73.09)<br>  
-&#10004; Massey: 49 (5.94)<br>  
+&nbsp; Massey: 49 (5.94)<br>  
 &nbsp; UTR: 50 (55.37)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Berkeley, California
 &#10004; ITA: 16 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
 &#10004; TRN: 17 (82.99)<br>  
-&nbsp; Massey: 14 (8.01)<br>  
+&#10004; Massey: 14 (8.01)<br>  
 &#10004; UTR: 15 (62.15)<br>  
 &#10004; USTA Poll: 13<br>  
 &#10004; Coaches Poll: 17<br>  
@@ -45,7 +45,7 @@ Berkeley, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***CAL*** - #17 California (99%) def. #50 San Jose St. (1%)  
 - TRN: ***CAL*** - #17 California (99%) def. #49 San Jose St. (1%)  
-- Massey: ***SJSU*** - #49 San Jose St. (NaN%) def. #14 California (NaN%)  
+- Massey: ***CAL*** - #14 California (99%) def. #49 San Jose St. (1%)  
 - Lineup: ***CAL*** - California (99%) def. San Jose St. (1%)  
 - UTR: ***CAL*** - #15 California (+6.78) def. #50 San Jose St. (-6.78)  
 - ITA: ***CAL*** - #16 California def. #47 San Jose St.  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alba Pedrero Galindo (SJSU) - 11-4 at #1, 11-4 in duals, 11-4 overall<br>Haley Giavara (CAL) - 12-10 at #1, 12-10 in duals, 12-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Giavara (93%) def. Galindo (7%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Giavara (89%) def. Galindo (11%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Giavara (93%) def. Galindo (7%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Giavara (95%) def. Galindo (5%)</li>  
 <li>Massey: <b><i>SJSU</i></b> - Galindo (NaN%) def. Giavara (NaN%)</li>  
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Rozalina Youseva (SJSU) - 6-6 at #2, 6-6 in duals, 6-6 overall<br>Julia Rosenqvist (CAL) - 11-7 at #2, 14-7 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Rosenqvist (97%) def. Youseva (3%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Rosenqvist (96%) def. Youseva (4%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Rosenqvist (96%) def. Youseva (4%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Rosenqvist (97%) def. Youseva (3%)</li>  
 <li>Massey: <b><i>SJSU</i></b> - Youseva (NaN%) def. Rosenqvist (NaN%)</li>  
@@ -85,7 +85,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Irena Muradyan (SJSU) - 13-1 at #3, 14-1 in duals, 14-1 overall<br>Valentina Ivanov (CAL) - 9-5 at #3, 10-8 in duals, 10-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Ivanov (92%) def. Muradyan (8%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Ivanov (84%) def. Muradyan (16%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Ivanov (94%) def. Muradyan (6%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Ivanov (92%) def. Muradyan (8%)</li>  
 <li>Massey: <b><i>SJSU</i></b> - Muradyan (NaN%) def. Ivanov (NaN%)</li>  
@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lara Marco Mas (SJSU) - 4-5 at #4, 6-5 in duals, 6-5 overall<br>Jada Bui (CAL) - 8-5 at #4, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Bui (97%) def. Mas (3%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Bui (96%) def. Mas (4%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Bui (98%) def. Mas (2%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Bui (99%) def. Mas (1%)</li>  
 <li>Massey: <b><i>SJSU</i></b> - Mas (NaN%) def. Bui (NaN%)</li>  
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Raquel Villan Pereira (SJSU) - 9-2 at #5, 9-2 in duals, 9-2 overall<br>Hannah Viller Moeller (CAL) - 8-5 at #5, 14-7 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Moeller (99%) def. Pereira (1%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Moeller (96%) def. Pereira (4%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Moeller (98%) def. Pereira (2%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Moeller (98%) def. Pereira (2%)</li>  
 <li>Massey: <b><i>SJSU</i></b> - Pereira (NaN%) def. Moeller (NaN%)</li>  

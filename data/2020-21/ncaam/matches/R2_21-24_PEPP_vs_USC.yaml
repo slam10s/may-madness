@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Southern California
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 24
   Seeding:
     Overall: 12
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Pepperdine
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 21
   Seeding:
     Region: 2
@@ -42,7 +42,7 @@ Visitor:
 Predictions:
   SLM: "USC - #14 Southern California (89%) def. #34 Pepperdine (11%)"
   TRN: "USC - #16 Southern California (87%) def. #30 Pepperdine (13%)"
-  MAS: "PEPP - #22 Pepperdine (NaN%) def. #8 Southern California (NaN%)"
+  MAS: "USC - #8 Southern California (90%) def. #22 Pepperdine (10%)"
   LNUP: USC - Southern California (98%) def. Pepperdine (2%)
   UTR: "USC - #2 Southern California (+2.70) def. #26 Pepperdine (-2.70)"
   ITA: "USC - #12 Southern California def. #28 Pepperdine"
@@ -53,9 +53,9 @@ Lineups:
   Predictions:
     Average EWPs for USC: 89%,87%,NaN%,98%
     Average EWPs for PEPP: 11%,13%,NaN%,2%
-    USC wins 4 or more Singles points: 94%
+    USC wins 4 or more Singles points: 92%
     PEPP wins 4 or more Singles points: 1%
-    Winner decided by the Doubles point: 5%
+    Winner decided by the Doubles point: 7%
   Singles:
     - Position: 1
       USC: Daniel Cukierman - 12-5 at 1, 12-5 in duals, 14-5 overall
@@ -71,7 +71,7 @@ Lineups:
       USC: Riley Smith - 9-5 at 2, 13-5 in duals, 15-5 overall
       PEPP: Guy Den Ouden - 10-4 at 2, 15-5 in duals, 15-5 overall
       Predictions:
-        AVG: USC - Smith (73%) def. Ouden (27%)
+        AVG: USC - Smith (71%) def. Ouden (29%)
         SLM: USC - Smith (75%) def. Ouden (25%)
         TRN: USC - Smith (75%) def. Ouden (25%)
         MAS: PEPP - Ouden (NaN%) def. Smith (NaN%)
@@ -81,7 +81,7 @@ Lineups:
       USC: Stefan Dostanic - 12-3 at 3, 16-3 in duals, 18-3 overall
       PEPP: Daniel DeJonge - 5-4 at 3, 10-4 in duals, 11-5 overall
       Predictions:
-        AVG: USC - Dostanic (78%) def. DeJonge (22%)
+        AVG: USC - Dostanic (76%) def. DeJonge (24%)
         SLM: USC - Dostanic (74%) def. DeJonge (26%)
         TRN: USC - Dostanic (81%) def. DeJonge (19%)
         MAS: PEPP - DeJonge (NaN%) def. Dostanic (NaN%)
@@ -91,7 +91,7 @@ Lineups:
       USC: Bradley Frye - 9-2 at 4, 15-4 in duals, 17-4 overall
       PEPP: Tim Zeitvogel - 4-0 at 4, 7-0 in duals, 7-0 overall
       Predictions:
-        AVG: USC - Frye (81%) def. Zeitvogel (19%)
+        AVG: USC - Frye (79%) def. Zeitvogel (21%)
         SLM: USC - Frye (78%) def. Zeitvogel (22%)
         TRN: USC - Frye (83%) def. Zeitvogel (17%)
         MAS: PEPP - Zeitvogel (NaN%) def. Frye (NaN%)
@@ -101,7 +101,7 @@ Lineups:
       USC: Lodewijk Weststrate - 9-3 at 5, 21-4 in duals, 23-4 overall
       PEPP: Corrado Summaria - 3-0 at 5, 8-5 in duals, 8-6 overall
       Predictions:
-        AVG: USC - Weststrate (88%) def. Summaria (12%)
+        AVG: USC - Weststrate (87%) def. Summaria (13%)
         SLM: USC - Weststrate (83%) def. Summaria (17%)
         TRN: USC - Weststrate (91%) def. Summaria (9%)
         MAS: PEPP - Summaria (NaN%) def. Weststrate (NaN%)
@@ -111,7 +111,7 @@ Lineups:
       USC: Jake Sands - 8-3 at 6, 14-4 in duals, 14-4 overall
       PEPP: Pietro Fellin - 8-0 at 6, 8-3 in duals, 8-5 overall
       Predictions:
-        AVG: USC - Sands (81%) def. Fellin (19%)
+        AVG: USC - Sands (80%) def. Fellin (20%)
         SLM: USC - Sands (79%) def. Fellin (21%)
         TRN: USC - Sands (87%) def. Fellin (13%)
         MAS: PEPP - Fellin (NaN%) def. Sands (NaN%)

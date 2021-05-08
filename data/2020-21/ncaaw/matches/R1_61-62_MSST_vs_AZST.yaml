@@ -40,7 +40,7 @@ Visitor:
 Predictions:
   SLM: "AZST - #31 Arizona St. (71%) def. #42 Mississippi St. (29%)"
   TRN: "AZST - #33 Arizona St. (64%) def. #39 Mississippi St. (36%)"
-  MAS: "MSST - #44 Mississippi St. (NaN%) def. #24 Arizona St. (NaN%)"
+  MAS: "AZST - #24 Arizona St. (95%) def. #44 Mississippi St. (5%)"
   LNUP: AZST - Arizona St. (82%) def. Mississippi St. (18%)
   UTR: "AZST - #23 Arizona St. (+1.75) def. #36 Mississippi St. (-1.75)"
   ITA: "AZST - #31 Arizona St. def. #38 Mississippi St."
@@ -59,7 +59,7 @@ Lineups:
       AZST: Ilze Hattingh - 10-7 at 1, 10-7 in duals, 11-7 overall
       MSST: Emma Antonaki - 5-2 at 1, 14-4 in duals, 16-4 overall
       Predictions:
-        AVG: MSST - Antonaki (51%) def. Hattingh (49%)
+        AVG: MSST - Antonaki (54%) def. Hattingh (46%)
         SLM: AZST - Hattingh (65%) def. Antonaki (35%)
         TRN: MSST - Antonaki (61%) def. Hattingh (39%)
         MAS: MSST - Antonaki (NaN%) def. Hattingh (NaN%)
@@ -69,7 +69,7 @@ Lineups:
       AZST: Sammi Hampton - 6-8 at 2, 6-8 in duals, 6-8 overall
       MSST: Magda Adaloglou - 5-2 at 2, 11-4 in duals, 12-5 overall
       Predictions:
-        AVG: AZST - Hampton (54%) def. Adaloglou (46%)
+        AVG: AZST - Hampton (55%) def. Adaloglou (45%)
         SLM: AZST - Hampton (62%) def. Adaloglou (38%)
         TRN: AZST - Hampton (53%) def. Adaloglou (47%)
         MAS: MSST - Adaloglou (NaN%) def. Hampton (NaN%)
@@ -89,7 +89,7 @@ Lineups:
       AZST: Giulia Morlet - 8-5 at 4, 9-5 in duals, 10-5 overall
       MSST: Alex Mikhailuk - 6-7 at 4, 10-11 in duals, 16-15 overall
       Predictions:
-        AVG: AZST - Morlet (72%) def. Mikhailuk (28%)
+        AVG: AZST - Morlet (73%) def. Mikhailuk (27%)
         SLM: AZST - Morlet (68%) def. Mikhailuk (32%)
         TRN: AZST - Morlet (67%) def. Mikhailuk (33%)
         MAS: MSST - Mikhailuk (NaN%) def. Morlet (NaN%)
@@ -99,7 +99,7 @@ Lineups:
       AZST: Marianna Argyrokastriti - 11-4 at 5, 14-5 in duals, 15-5 overall
       MSST: Lilian Poling - 4-3 at 5, 5-9 in duals, 12-11 overall
       Predictions:
-        AVG: AZST - Argyrokastriti (76%) def. Poling (24%)
+        AVG: AZST - Argyrokastriti (78%) def. Poling (22%)
         SLM: AZST - Argyrokastriti (69%) def. Poling (31%)
         TRN: AZST - Argyrokastriti (76%) def. Poling (24%)
         MAS: MSST - Poling (NaN%) def. Argyrokastriti (NaN%)
@@ -109,6 +109,7 @@ Lineups:
       AZST: Domenika Turkovic - 4-5 at 6, 8-6 in duals, 9-6 overall
       MSST: Chloe Cirotte - 6-2 at 6, 10-5 in duals, 11-6 overall
       Predictions:
+        AVG: AZST - Turkovic (52%) def. Cirotte (48%)
         SLM: MSST - Cirotte (52%) def. Turkovic (48%)
         TRN: MSST - Cirotte (55%) def. Turkovic (45%)
         MAS: MSST - Cirotte (NaN%) def. Turkovic (NaN%)

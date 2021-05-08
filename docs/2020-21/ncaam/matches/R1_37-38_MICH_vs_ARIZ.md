@@ -5,7 +5,7 @@ Boone Tennis Complex
 Lexington, Kentucky  
 ## [Michigan vs Arizona](https://www.ncaa.com/game/5833388)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Michigan</h2>  
@@ -48,8 +48,8 @@ Go to [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***MICH*** - #13 Michigan (78%) def. #21 Arizona (22%)  
 - TRN: ***MICH*** - #12 Michigan (88%) def. #20 Arizona (12%)  
-- Massey: ***MICH*** - #14 Michigan (NaN%) def. #18 Arizona (NaN%)  
-- Lineup: ***MICH*** - Michigan (68%) def. Arizona (32%)  
+- Massey: ***MICH*** - #14 Michigan (54%) def. #18 Arizona (46%)  
+- Lineup: ***MICH*** - Michigan (70%) def. Arizona (30%)  
 - UTR: ***MICH*** - #18 Michigan (+0.3) def. #21 Arizona (-0.3)  
 - ITA: ***ARIZ*** - #17 Arizona def. #46 Michigan  
 - USTA Poll: ***ARIZ*** - #18 Arizona def. Michigan  
@@ -66,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Andrew Fenty (MICH) - 10-3 at #1, 13-4 in duals, 16-9 overall<br>Gustaf Strom (ARIZ) - 3-1 at #1, 17-2 in duals, 17-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ARIZ</i></b> - Strom (67%) def. Fenty (33%)</li>  
+<li>Composite: <b><i>ARIZ</i></b> - Strom (64%) def. Fenty (36%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Fenty (56%) def. Strom (44%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Strom (87%) def. Fenty (13%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Fenty (NaN%) def. Strom (NaN%)</li>  
@@ -77,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ondrej Styler (MICH) - 7-3 at #2, 8-4 in duals, 12-7 overall<br>Jonas Ziverts (ARIZ) - 1-1 at #2, 9-8 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MICH</i></b> - Styler (60%) def. Ziverts (40%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Styler (62%) def. Ziverts (38%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Styler (54%) def. Ziverts (46%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Styler (55%) def. Ziverts (45%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Styler (NaN%) def. Ziverts (NaN%)</li>  
@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Mattias Siimar (MICH) - 8-1 at #4, 14-3 in duals, 17-6 overall<br>Herman Hoeyeraal (ARIZ) - 0-0 at #4, 4-0 in duals, 4-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MICH</i></b> - Siimar (99%) def. Hoeyeraal (1%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Siimar (94%) def. Hoeyeraal (6%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Siimar (NaN%) def. Hoeyeraal (NaN%)</li>  
@@ -110,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nick Beaty (MICH) - 8-2 at #5, 13-2 in duals, 19-4 overall<br>Alejandro Reguant (ARIZ) - 0-0 at #5, 13-6 in duals, 13-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ARIZ</i></b> - Reguant (53%) def. Beaty (47%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Beaty (51%) def. Reguant (49%)</li>  
 <li>Slam: <b><i>ARIZ</i></b> - Reguant (55%) def. Beaty (45%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Beaty (66%) def. Reguant (34%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Beaty (NaN%) def. Reguant (NaN%)</li>  
@@ -151,11 +151,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Arizona should win 4 or more singles matches _21%_ of the time.  
-- Michigan should win 4 or more singles matches _46%_ of the time.  
-- The winner of the doubles point will decide the match the other _33%_ of the time.  
-- If Arizona wins the doubles point, their chances of winning the dual improve to _54%_.  
-- If Michigan wins the doubles point, their chances of winning the dual improve to _79%_.  
+- Arizona should win 4 or more singles matches _20%_ of the time.  
+- Michigan should win 4 or more singles matches _48%_ of the time.  
+- The winner of the doubles point will decide the match the other _32%_ of the time.  
+- If Arizona wins the doubles point, their chances of winning the dual improve to _52%_.  
+- If Michigan wins the doubles point, their chances of winning the dual improve to _80%_.  
   
 ------
 

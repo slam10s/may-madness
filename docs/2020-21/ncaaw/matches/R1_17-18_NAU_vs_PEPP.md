@@ -5,7 +5,7 @@ Ralphs-Straus Tennis Center
 Malibu, California  
 ## [Northern Ariz. vs #5 Pepperdine](https://www.ncaa.com/game/5833655)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #F46F1B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #F46F1B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Northern Ariz.</h2>  
@@ -13,7 +13,7 @@ Malibu, California
 &nbsp; ITA: 54 (3.85)<br>  
 &nbsp; Slam: 51 (79.81)<br>  
 &nbsp; TRN: 53 (69.11)<br>  
-&#10004; Massey: 51 (5.50)<br>  
+&nbsp; Massey: 51 (5.50)<br>  
 &nbsp; UTR: 54 (52.95)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Malibu, California
 &#10004; ITA: 5 (60.71)<br>  
 &#10004; Slam: 6 (92.64)<br>  
 &#10004; TRN: 6 (85.86)<br>  
-&nbsp; Massey: 5 (8.71)<br>  
+&#10004; Massey: 5 (8.71)<br>  
 &#10004; UTR: 4 (64.63)<br>  
 &#10004; USTA Poll: 5<br>  
 &#10004; Coaches Poll: 4<br>  
@@ -45,7 +45,7 @@ Malibu, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***PEPP*** - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)  
 - TRN: ***PEPP*** - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)  
-- Massey: ***NAU*** - #51 Northern Ariz. (NaN%) def. #5 Pepperdine (NaN%)  
+- Massey: ***PEPP*** - #5 Pepperdine (100%) def. #51 Northern Ariz. (0%)  
 - Lineup: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #54 Northern Ariz.  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Gina Dittmann (NAU) - 14-1 at #1, 15-1 in duals, 15-1 overall<br>Ashley Lahey (PEPP) - 7-3 at #1, 10-4 in duals, 10-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Lahey (91%) def. Dittmann (9%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Lahey (89%) def. Dittmann (11%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Lahey (87%) def. Dittmann (13%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
 <li>Massey: <b><i>NAU</i></b> - Dittmann (NaN%) def. Lahey (NaN%)</li>  
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Emily Bland (NAU) - 1-1 at #2, 14-3 in duals, 14-3 overall<br>Jessica Failla (PEPP) - 6-1 at #2, 14-3 in duals, 14-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
 <li>Massey: <b><i>NAU</i></b> - Bland (NaN%) def. Failla (NaN%)</li>  
@@ -85,7 +85,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Eleanor Millard (NAU) - 3-0 at #3, 11-5 in duals, 11-5 overall<br>Taisiya Pachkaleva (PEPP) - 8-1 at #3, 22-1 in duals, 22-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (99%) def. Millard (1%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Pachkaleva (99%) def. Millard (1%)</li>  
 <li>Massey: <b><i>NAU</i></b> - Millard (NaN%) def. Pachkaleva (NaN%)</li>  
@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ava Neyestani (NAU) - 9-5 at #4, 11-6 in duals, 11-6 overall<br>Shiori Fukuda (PEPP) - 6-0 at #4, 14-4 in duals, 14-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Fukuda (98%) def. Neyestani (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
 <li>Massey: <b><i>NAU</i></b> - Neyestani (NaN%) def. Fukuda (NaN%)</li>  
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Elinor Beazley (NAU) - 5-5 at #5, 8-5 in duals, 8-5 overall<br>LIsa Zaar (PEPP) - 10-1 at #5, 19-1 in duals, 19-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>Massey: <b><i>NAU</i></b> - Beazley (NaN%) def. Zaar (NaN%)</li>  

@@ -5,7 +5,7 @@ Virginia Tennis Facility at the Boar’s Head Resort
 Charlottesville, Virginia  
 ## [Fairleigh Dickinson vs #5 Virginia](https://www.ncaa.com/game/5833378)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002F6C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002F6C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Fairleigh Dickinson</h2>  
@@ -13,7 +13,7 @@ Charlottesville, Virginia
 &nbsp; ITA: 62 (1.95)<br>  
 &nbsp; Slam: 65 (72.33)<br>  
 &nbsp; TRN: 65 (65.17)<br>  
-&#10004; Massey: 64 (3.98)<br>  
+&nbsp; Massey: 64 (3.98)<br>  
 &nbsp; UTR: 64 (65.74)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Charlottesville, Virginia
 &#10004; ITA: 4 (74.36)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
-&nbsp; Massey: 3 (9.13)<br>  
+&#10004; Massey: 3 (9.13)<br>  
 &#10004; UTR: 6 (80.03)<br>  
 &#10004; USTA Poll: 1<br>  
 &#10004; Coaches Poll: 5<br>  
@@ -42,7 +42,7 @@ Charlottesville, Virginia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - TRN: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
-- Massey: ***FDU*** - #64 Fairleigh Dickinson (NaN%) def. #3 Virginia (NaN%)  
+- Massey: ***UVA*** - #3 Virginia (100%) def. #64 Fairleigh Dickinson (0%)  
 - Lineup: ***UVA*** - Virginia (99%) def. Fairleigh Dickinson (1%)  
 - UTR: ***UVA*** - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)  
 - ITA: ***UVA*** - #4 Virginia def. #62 Fairleigh Dickinson  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Teodors Pukse (FDU) - 4-3 at #1, 4-3 in duals, 4-3 overall<br>Carl Soderlund (UVA) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FDU</i></b> - Pukse (99%) def. Soderlund (1%)</li>  
+<li>Composite: <b><i>FDU</i></b> - Pukse (75%) def. Soderlund (25%)</li>  
 <li>Slam: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>TRN: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>Massey: <b><i>FDU</i></b> - Pukse (NaN%) def. Soderlund (NaN%)</li>  

@@ -5,7 +5,7 @@ Texas Tennis Center
 Austin, Texas  
 ## [Northwestern vs UCLA](https://www.ncaa.com/game/5833384)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #4E2A84 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #4E2A84 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Northwestern</h2>  
@@ -13,7 +13,7 @@ Austin, Texas
 &nbsp; ITA: 50 (7.95)<br>  
 &nbsp; Slam: 33 (92.89)<br>  
 &nbsp; TRN: 32 (90.90)<br>  
-&#10004; Massey: 31 (7.50)<br>  
+&nbsp; Massey: 31 (7.50)<br>  
 &nbsp; UTR: 27 (77.56)<br>  
 &nbsp; Coaches Poll: 49<br>  
 <br>  
@@ -26,7 +26,7 @@ Austin, Texas
 &#10004; ITA: 24 (32.15)<br>  
 &#10004; Slam: 23 (93.84)<br>  
 &#10004; TRN: 24 (91.84)<br>  
-&nbsp; Massey: 19 (8.03)<br>  
+&#10004; Massey: 19 (8.03)<br>  
 &#10004; UTR: 13 (79.06)<br>  
 &#10004; USTA Poll: 22<br>  
 &#10004; Coaches Poll: 29<br>  
@@ -43,7 +43,7 @@ Austin, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCLA*** - #23 UCLA (63%) def. #33 Northwestern (37%)  
 - TRN: ***UCLA*** - #24 UCLA (63%) def. #32 Northwestern (37%)  
-- Massey: ***NW*** - #31 Northwestern (NaN%) def. #19 UCLA (NaN%)  
+- Massey: ***UCLA*** - #19 UCLA (75%) def. #31 Northwestern (25%)  
 - UTR: ***UCLA*** - #13 UCLA (+1.50) def. #27 Northwestern (-1.50)  
 - ITA: ***UCLA*** - #24 UCLA def. #50 Northwestern  
 - USTA Poll: ***UCLA*** - #22 UCLA def. Northwestern  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Dominik Stary (NW) - 4-0 at #2, 8-4 in duals, 9-6 overall<br>Drew Baird (UCLA) - 5-2 at #2, 9-6 in duals, 9-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Stary (55%) def. Baird (45%)</li>  
+<li>Composite: <b><i>NW</i></b> - Stary (56%) def. Baird (44%)</li>  
 <li>Slam: <b><i>NW</i></b> - Stary (69%) def. Baird (31%)</li>  
 <li>TRN: <b><i>NW</i></b> - Stary (64%) def. Baird (36%)</li>  
 <li>Massey: <b><i>NW</i></b> - Stary (NaN%) def. Baird (NaN%)</li>  
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Trice Pickens (NW) - 3-3 at #5, 8-10 in duals, 13-10 overall<br>Roscoe Bellamy (UCLA) - 2-1 at #5, 8-2 in duals, 8-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Bellamy (52%) def. Pickens (48%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Bellamy (54%) def. Pickens (46%)</li>  
 <li>Slam: <b><i>NW</i></b> - Pickens (70%) def. Bellamy (30%)</li>  
 <li>TRN: <b><i>NW</i></b> - Pickens (56%) def. Bellamy (44%)</li>  
 <li>Massey: <b><i>NW</i></b> - Pickens (NaN%) def. Bellamy (NaN%)</li>  
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Simen Bratholm (NW) - 0-0 at #6, 5-4 in duals, 8-5 overall<br>Mathew Tsolakyan (UCLA) - 4-2 at #6, 10-3 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Bratholm (55%) def. Tsolakyan (45%)</li>  
+<li>Composite: <b><i>NW</i></b> - Bratholm (56%) def. Tsolakyan (44%)</li>  
 <li>Slam: <b><i>NW</i></b> - Bratholm (66%) def. Tsolakyan (34%)</li>  
 <li>TRN: <b><i>NW</i></b> - Bratholm (64%) def. Tsolakyan (36%)</li>  
 <li>Massey: <b><i>NW</i></b> - Bratholm (NaN%) def. Tsolakyan (NaN%)</li>  

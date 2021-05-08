@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Pepperdine
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 17
   Seeding:
     Overall: 5
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Northern Ariz.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 18
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "PEPP - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)"
   TRN: "PEPP - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)"
-  MAS: "NAU - #51 Northern Ariz. (NaN%) def. #5 Pepperdine (NaN%)"
+  MAS: "PEPP - #5 Pepperdine (100%) def. #51 Northern Ariz. (0%)"
   LNUP: PEPP - Pepperdine (99%) def. Northern Ariz. (1%)
   UTR: "PEPP - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)"
   ITA: "PEPP - #5 Pepperdine def. #54 Northern Ariz."
@@ -58,7 +58,7 @@ Lineups:
       PEPP: Ashley Lahey - 7-3 at 1, 10-4 in duals, 10-4 overall
       NAU: Gina Dittmann - 14-1 at 1, 15-1 in duals, 15-1 overall
       Predictions:
-        AVG: PEPP - Lahey (91%) def. Dittmann (9%)
+        AVG: PEPP - Lahey (89%) def. Dittmann (11%)
         SLM: PEPP - Lahey (87%) def. Dittmann (13%)
         TRN: PEPP - Lahey (92%) def. Dittmann (8%)
         MAS: NAU - Dittmann (NaN%) def. Lahey (NaN%)
@@ -68,7 +68,7 @@ Lineups:
       PEPP: Jessica Failla - 6-1 at 2, 14-3 in duals, 14-3 overall
       NAU: Emily Bland - 1-1 at 2, 14-3 in duals, 14-3 overall
       Predictions:
-        AVG: PEPP - Failla (99%) def. Bland (1%)
+        AVG: PEPP - Failla (97%) def. Bland (3%)
         SLM: PEPP - Failla (99%) def. Bland (1%)
         TRN: PEPP - Failla (99%) def. Bland (1%)
         MAS: NAU - Bland (NaN%) def. Failla (NaN%)
@@ -78,7 +78,7 @@ Lineups:
       PEPP: Taisiya Pachkaleva - 8-1 at 3, 22-1 in duals, 22-1 overall
       NAU: Eleanor Millard - 3-0 at 3, 11-5 in duals, 11-5 overall
       Predictions:
-        AVG: PEPP - Pachkaleva (99%) def. Millard (1%)
+        AVG: PEPP - Pachkaleva (98%) def. Millard (2%)
         SLM: PEPP - Pachkaleva (98%) def. Millard (2%)
         TRN: PEPP - Pachkaleva (99%) def. Millard (1%)
         MAS: NAU - Millard (NaN%) def. Pachkaleva (NaN%)
@@ -88,7 +88,7 @@ Lineups:
       PEPP: Shiori Fukuda - 6-0 at 4, 14-4 in duals, 14-4 overall
       NAU: Ava Neyestani - 9-5 at 4, 11-6 in duals, 11-6 overall
       Predictions:
-        AVG: PEPP - Fukuda (99%) def. Neyestani (1%)
+        AVG: PEPP - Fukuda (98%) def. Neyestani (2%)
         SLM: PEPP - Fukuda (99%) def. Neyestani (1%)
         TRN: PEPP - Fukuda (99%) def. Neyestani (1%)
         MAS: NAU - Neyestani (NaN%) def. Fukuda (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       PEPP: LIsa Zaar - 10-1 at 5, 19-1 in duals, 19-1 overall
       NAU: Elinor Beazley - 5-5 at 5, 8-5 in duals, 8-5 overall
       Predictions:
-        AVG: PEPP - Zaar (99%) def. Beazley (1%)
+        AVG: PEPP - Zaar (98%) def. Beazley (2%)
         SLM: PEPP - Zaar (99%) def. Beazley (1%)
         TRN: PEPP - Zaar (99%) def. Beazley (1%)
         MAS: NAU - Beazley (NaN%) def. Zaar (NaN%)

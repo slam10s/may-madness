@@ -5,7 +5,7 @@ Ken Byers Tennis Complex
 Atlanta, Georgia  
 ## [Ga. Southern vs #13 Georgia Tech](https://www.ncaa.com/game/5833659)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #B3A369 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #B3A369 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Ga. Southern</h2>  
@@ -13,7 +13,7 @@ Atlanta, Georgia
 &nbsp; ITA: 53 (4.08)<br>  
 &nbsp; Slam: 53 (78.88)<br>  
 &nbsp; TRN: 54 (68.86)<br>  
-&#10004; Massey: 55 (5.15)<br>  
+&nbsp; Massey: 55 (5.15)<br>  
 &nbsp; UTR: 53 (54.43)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Atlanta, Georgia
 &#10004; ITA: 13 (48.32)<br>  
 &#10004; Slam: 20 (90.34)<br>  
 &#10004; TRN: 16 (83.31)<br>  
-&nbsp; Massey: 18 (7.83)<br>  
+&#10004; Massey: 18 (7.83)<br>  
 &#10004; UTR: 24 (61.54)<br>  
 &#10004; USTA Poll: 15<br>  
 &nbsp; Coaches Poll: T11<br>  
@@ -45,7 +45,7 @@ Atlanta, Georgia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***GT*** - #20 Georgia Tech (99%) def. #53 Ga. Southern (1%)  
 - TRN: ***GT*** - #16 Georgia Tech (99%) def. #54 Ga. Southern (1%)  
-- Massey: ***GASO*** - #55 Ga. Southern (NaN%) def. #18 Georgia Tech (NaN%)  
+- Massey: ***GT*** - #18 Georgia Tech (99%) def. #55 Ga. Southern (1%)  
 - Lineup: ***GT*** - Georgia Tech (99%) def. Ga. Southern (1%)  
 - UTR: ***GT*** - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)  
 - ITA: ***GT*** - #13 Georgia Tech def. #53 Ga. Southern  
@@ -84,7 +84,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Sophie Wagemaker (GASO) - 10-3 at #3, 11-7 in duals, 11-7 overall<br>Gia Cohen (GT) - 3-11 at #3, 8-14 in duals, 8-15 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Cohen (91%) def. Wagemaker (9%)</li>  
+<li>Composite: <b><i>GT</i></b> - Cohen (86%) def. Wagemaker (14%)</li>  
 <li>Slam: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
 <li>TRN: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
 <li>Massey: <b><i>GASO</i></b> - Wagemaker (NaN%) def. Cohen (NaN%)</li>  
@@ -106,7 +106,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Mila Hartig (GASO) - 1-0 at #5, 14-4 in duals, 14-4 overall<br>Carol Lee (GT) - 5-8 at #5, 12-12 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Lee (91%) def. Hartig (9%)</li>  
+<li>Composite: <b><i>GT</i></b> - Lee (90%) def. Hartig (10%)</li>  
 <li>Slam: <b><i>GT</i></b> - Lee (93%) def. Hartig (7%)</li>  
 <li>TRN: <b><i>GT</i></b> - Lee (91%) def. Hartig (9%)</li>  
 <li>Massey: <b><i>GASO</i></b> - Hartig (NaN%) def. Lee (NaN%)</li>  
@@ -117,7 +117,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Paula Hijos (GASO) - 2-0 at #6, 13-6 in duals, 13-6 overall<br>Mahak Jain (GT) - 7-2 at #6, 14-7 in duals, 16-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Jain (97%) def. Hijos (3%)</li>  
+<li>Composite: <b><i>GT</i></b> - Jain (96%) def. Hijos (4%)</li>  
 <li>Slam: <b><i>GT</i></b> - Jain (95%) def. Hijos (5%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jain (97%) def. Hijos (3%)</li>  
 <li>Massey: <b><i>GASO</i></b> - Hijos (NaN%) def. Jain (NaN%)</li>  

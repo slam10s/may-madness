@@ -40,7 +40,7 @@ Visitor:
 Predictions:
   SLM: "UCLA - #23 UCLA (63%) def. #33 Northwestern (37%)"
   TRN: "UCLA - #24 UCLA (63%) def. #32 Northwestern (37%)"
-  MAS: "NW - #31 Northwestern (NaN%) def. #19 UCLA (NaN%)"
+  MAS: "UCLA - #19 UCLA (75%) def. #31 Northwestern (25%)"
   UTR: "UCLA - #13 UCLA (+1.50) def. #27 Northwestern (-1.50)"
   ITA: "UCLA - #24 UCLA def. #50 Northwestern"
   USTA: "UCLA - #22 UCLA def. Northwestern"
@@ -68,7 +68,7 @@ Lineups:
       UCLA: Drew Baird - 5-2 at 2, 9-6 in duals, 9-7 overall
       NW: Dominik Stary - 4-0 at 2, 8-4 in duals, 9-6 overall
       Predictions:
-        AVG: NW - Stary (55%) def. Baird (45%)
+        AVG: NW - Stary (56%) def. Baird (44%)
         SLM: NW - Stary (69%) def. Baird (31%)
         TRN: NW - Stary (64%) def. Baird (36%)
         MAS: NW - Stary (NaN%) def. Baird (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       UCLA: Roscoe Bellamy - 2-1 at 5, 8-2 in duals, 8-2 overall
       NW: Trice Pickens - 3-3 at 5, 8-10 in duals, 13-10 overall
       Predictions:
-        AVG: UCLA - Bellamy (52%) def. Pickens (48%)
+        AVG: UCLA - Bellamy (54%) def. Pickens (46%)
         SLM: NW - Pickens (70%) def. Bellamy (30%)
         TRN: NW - Pickens (56%) def. Bellamy (44%)
         MAS: NW - Pickens (NaN%) def. Bellamy (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       UCLA: Mathew Tsolakyan - 4-2 at 6, 10-3 in duals, 11-3 overall
       NW: Simen Bratholm - 0-0 at 6, 5-4 in duals, 8-5 overall
       Predictions:
-        AVG: NW - Bratholm (55%) def. Tsolakyan (45%)
+        AVG: NW - Bratholm (56%) def. Tsolakyan (44%)
         SLM: NW - Bratholm (66%) def. Tsolakyan (34%)
         TRN: NW - Bratholm (64%) def. Tsolakyan (36%)
         MAS: NW - Bratholm (NaN%) def. Tsolakyan (NaN%)

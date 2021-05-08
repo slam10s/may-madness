@@ -5,7 +5,7 @@ Hurd Tennis Center
 Waco, Texas  
 ## [A&M-Corpus Christi vs #2 Baylor](https://www.ncaa.com/game/5833401)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005EB8 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005EB8 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 A&M-Corpus Christi</h2>  
@@ -13,7 +13,7 @@ Waco, Texas
 &nbsp; ITA: 60 (2.97)<br>  
 &nbsp; Slam: 60 (82.18)<br>  
 &nbsp; TRN: 61 (76.91)<br>  
-&#10004; Massey: 58 (5.69)<br>  
+&nbsp; Massey: 58 (5.69)<br>  
 &nbsp; UTR: 54 (71.52)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Waco, Texas
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 5 (99.05)<br>  
 &#10004; TRN: 6 (98.67)<br>  
-&nbsp; Massey: 5 (8.82)<br>  
+&#10004; Massey: 5 (8.82)<br>  
 &#10004; UTR: 9 (79.74)<br>  
 &#10004; USTA Poll: 3<br>  
 &#10004; Coaches Poll: 1<br>  
@@ -42,7 +42,7 @@ Waco, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***BAY*** - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)  
 - TRN: ***BAY*** - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)  
-- Massey: ***TAMCC*** - #58 A&M-Corpus Christi (NaN%) def. #5 Baylor (NaN%)  
+- Massey: ***BAY*** - #5 Baylor (99%) def. #58 A&M-Corpus Christi (1%)  
 - Lineup: ***BAY*** - Baylor (99%) def. A&M-Corpus Christi (1%)  
 - UTR: ***BAY*** - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)  
 - ITA: ***BAY*** - #1 Baylor def. #60 A&M-Corpus Christi  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nathan Schwartz (TAMCC) - 7-4 at #3, 13-4 in duals, 15-5 overall<br>Sven Lah (BAY) - 6-7 at #3, 9-9 in duals, 11-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Lah (95%) def. Schwartz (5%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Lah (93%) def. Schwartz (7%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Lah (95%) def. Schwartz (5%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Lah (96%) def. Schwartz (4%)</li>  
 <li>Massey: <b><i>TAMCC</i></b> - Schwartz (NaN%) def. Lah (NaN%)</li>  
@@ -93,7 +93,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Pascal Loriel (TAMCC) - 10-0 at #4, 15-0 in duals, 17-1 overall<br>Nick Stachowiak (BAY) - 8-2 at #4, 12-5 in duals, 19-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Stachowiak (96%) def. Loriel (4%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Stachowiak (95%) def. Loriel (5%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Stachowiak (96%) def. Loriel (4%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Stachowiak (97%) def. Loriel (3%)</li>  
 <li>Massey: <b><i>TAMCC</i></b> - Loriel (NaN%) def. Stachowiak (NaN%)</li>  
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Guillermo Castaneda (TAMCC) - 4-1 at #6, 10-1 in duals, 10-1 overall<br>Spencer Furman (BAY) - 11-2 at #6, 18-2 in duals, 21-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Furman (97%) def. Castaneda (3%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Furman (98%) def. Castaneda (2%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Furman (99%) def. Castaneda (1%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Furman (99%) def. Castaneda (1%)</li>  
 <li>Massey: <b><i>TAMCC</i></b> - Castaneda (NaN%) def. Furman (NaN%)</li>  

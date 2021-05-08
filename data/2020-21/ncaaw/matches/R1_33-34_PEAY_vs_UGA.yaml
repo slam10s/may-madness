@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Georgia
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 33
   Seeding:
     Overall: 3
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Austin Peay
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 34
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "UGA - #3 Georgia (99%) def. #56 Austin Peay (1%)"
   TRN: "UGA - #3 Georgia (99%) def. #56 Austin Peay (1%)"
-  MAS: "PEAY - #56 Austin Peay (NaN%) def. #3 Georgia (NaN%)"
+  MAS: "UGA - #3 Georgia (100%) def. #56 Austin Peay (0%)"
   LNUP: UGA - Georgia (99%) def. Austin Peay (1%)
   UTR: "UGA - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)"
   ITA: "UGA - #3 Georgia def. #57 Austin Peay"
@@ -68,7 +68,7 @@ Lineups:
       UGA: Lea Ma - 13-3 at 2, 13-3 in duals, 14-4 overall
       PEAY: Danielle Morris - 9-5 at 2, 9-5 in duals, 9-5 overall
       Predictions:
-        AVG: UGA - Ma (99%) def. Morris (1%)
+        AVG: UGA - Ma (98%) def. Morris (2%)
         SLM: UGA - Ma (99%) def. Morris (1%)
         TRN: UGA - Ma (99%) def. Morris (1%)
         MAS: PEAY - Morris (NaN%) def. Ma (NaN%)

@@ -5,7 +5,7 @@ Atkins Tennis Center
 Urbana, Illinois  
 ## [Notre Dame vs #16 Illinois](https://www.ncaa.com/game/5833403)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #E04E39 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #E04E39 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#2 Notre Dame</h2>  
@@ -13,7 +13,7 @@ Urbana, Illinois
 &nbsp; ITA: 34 (25.22)<br>  
 &nbsp; Slam: 40 (91.96)<br>  
 &nbsp; TRN: 42 (89.57)<br>  
-&#10004; Massey: 36 (7.36)<br>  
+&nbsp; Massey: 36 (7.36)<br>  
 &nbsp; UTR: 38 (76.38)<br>  
 &nbsp; Coaches Poll: 37<br>  
 <br>  
@@ -26,7 +26,7 @@ Urbana, Illinois
 &#10004; ITA: 18 (36.82)<br>  
 &#10004; Slam: 6 (98.81)<br>  
 &#10004; TRN: 4 (98.96)<br>  
-&nbsp; Massey: 9 (8.60)<br>  
+&#10004; Massey: 9 (8.60)<br>  
 &#10004; UTR: 15 (78.92)<br>  
 &#10004; USTA Poll: 8<br>  
 &#10004; Coaches Poll: 13<br>  
@@ -43,7 +43,7 @@ Urbana, Illinois
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***ILL*** - #6 Illinois (98%) def. #40 Notre Dame (2%)  
 - TRN: ***ILL*** - #4 Illinois (99%) def. #42 Notre Dame (1%)  
-- Massey: ***ND*** - #36 Notre Dame (NaN%) def. #9 Illinois (NaN%)  
+- Massey: ***ILL*** - #9 Illinois (85%) def. #36 Notre Dame (15%)  
 - Lineup: ***ILL*** - Illinois (98%) def. Notre Dame (2%)  
 - UTR: ***ILL*** - #15 Illinois (+2.54) def. #38 Notre Dame (-2.54)  
 - ITA: ***ILL*** - #18 Illinois def. #34 Notre Dame  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Axel Nefve (ND) - 13-2 at #1, 18-3 in duals, 18-3 overall<br>Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ILL</i></b> - Kovacevic (77%) def. Nefve (23%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Kovacevic (76%) def. Nefve (24%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Kovacevic (77%) def. Nefve (23%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Kovacevic (71%) def. Nefve (29%)</li>  
 <li>Massey: <b><i>ND</i></b> - Nefve (NaN%) def. Kovacevic (NaN%)</li>  
@@ -83,6 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Tristan McCormick (ND) - 8-5 at #3, 10-6 in duals, 10-6 overall<br>Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>ND</i></b> - McCormick (51%) def. Brown (49%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Brown (66%) def. McCormick (34%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (58%) def. McCormick (42%)</li>  
 <li>Massey: <b><i>ND</i></b> - McCormick (NaN%) def. Brown (NaN%)</li>  
@@ -104,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Matthew Che (ND) - 0-1 at #5, 6-12 in duals, 6-12 overall<br>Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ILL</i></b> - Heck (90%) def. Che (10%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Heck (89%) def. Che (11%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Heck (87%) def. Che (13%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Heck (94%) def. Che (6%)</li>  
 <li>Massey: <b><i>ND</i></b> - Che (NaN%) def. Heck (NaN%)</li>  
@@ -115,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Connor Fu (ND) - 0-1 at #6, 12-9 in duals, 12-9 overall<br>Noe Khlif (ILL) - 5-0 at #6, 15-1 in duals, 15-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ILL</i></b> - Khlif (89%) def. Fu (11%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Khlif (88%) def. Fu (12%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Khlif (89%) def. Fu (11%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Khlif (93%) def. Fu (7%)</li>  
 <li>Massey: <b><i>ND</i></b> - Fu (NaN%) def. Khlif (NaN%)</li>  
@@ -145,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Illinois should win 4 or more singles matches _91%_ of the time.  
+- Illinois should win 4 or more singles matches _90%_ of the time.  
 - Notre Dame should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _8%_ of the time.  
+- The winner of the doubles point will decide the match the other _9%_ of the time.  
 - If Illinois wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Notre Dame wins the doubles point, their chances of winning the dual improve to _9%_.  
+- If Notre Dame wins the doubles point, their chances of winning the dual improve to _10%_.  
   
 ------
 

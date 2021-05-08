@@ -5,7 +5,7 @@ Wake Forest Tennis Complex
 Winston-Salem, North Carolina  
 ## [South Carolina St. vs #10 Wake Forest](https://www.ncaa.com/game/5833397)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 South Carolina St.</h2>  
@@ -13,7 +13,7 @@ Winston-Salem, North Carolina
 &nbsp; ITA: 65 (0.72)<br>  
 &nbsp; Slam: 63 (81.19)<br>  
 &nbsp; TRN: 63 (76.54)<br>  
-&#10004; Massey: 63 (4.87)<br>  
+&nbsp; Massey: 63 (4.87)<br>  
 &nbsp; UTR: 63 (66.99)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Winston-Salem, North Carolina
 &#10004; ITA: 9 (56.82)<br>  
 &#10004; Slam: 10 (97.17)<br>  
 &#10004; TRN: 10 (95.99)<br>  
-&nbsp; Massey: 13 (8.43)<br>  
+&#10004; Massey: 13 (8.43)<br>  
 &#10004; UTR: 7 (79.79)<br>  
 &#10004; USTA Poll: 12<br>  
 &#10004; Coaches Poll: 10<br>  
@@ -45,7 +45,7 @@ Winston-Salem, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
 - TRN: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
-- Massey: ***SCST*** - #63 South Carolina St. (NaN%) def. #13 Wake Forest (NaN%)  
+- Massey: ***WAKE*** - #13 Wake Forest (100%) def. #63 South Carolina St. (0%)  
 - Lineup: ***WAKE*** - Wake Forest (99%) def. South Carolina St. (1%)  
 - UTR: ***WAKE*** - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)  
 - ITA: ***WAKE*** - #9 Wake Forest def. #65 South Carolina St.  
@@ -85,7 +85,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Elyes Marouani (SCST) - 9-2 at #3, 9-2 in duals, 9-2 overall<br>Taha Baadi (WAKE) - 6-2 at #3, 13-8 in duals, 13-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>WAKE</i></b> - Baadi (99%) def. Marouani (1%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Baadi (97%) def. Marouani (3%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Baadi (100%) def. Marouani (0%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Baadi (100%) def. Marouani (0%)</li>  
 <li>Massey: <b><i>SCST</i></b> - Marouani (NaN%) def. Baadi (NaN%)</li>  

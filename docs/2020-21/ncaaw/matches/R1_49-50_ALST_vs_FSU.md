@@ -5,7 +5,7 @@ Scott Speicher Tennis Center
 Tallahassee, Florida  
 ## [Alabama St. vs #7 Florida St.](https://www.ncaa.com/game/5833671)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #76253A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #76253A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Alabama St.</h2>  
@@ -13,7 +13,7 @@ Tallahassee, Florida
 &nbsp; ITA: 61 (2.29)<br>  
 &nbsp; Slam: 63 (69.75)<br>  
 &nbsp; TRN: 62 (58.32)<br>  
-&#10004; Massey: 63 (3.41)<br>  
+&nbsp; Massey: 63 (3.41)<br>  
 &nbsp; UTR: 61 (46.66)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Tallahassee, Florida
 &#10004; ITA: 7 (55.15)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  
-&nbsp; Massey: 9 (8.17)<br>  
+&#10004; Massey: 9 (8.17)<br>  
 &#10004; UTR: 10 (62.71)<br>  
 &#10004; USTA Poll: 12<br>  
 &#10004; Coaches Poll: 7<br>  
@@ -45,7 +45,7 @@ Tallahassee, Florida
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***FSU*** - #10 Florida St. (99%) def. #63 Alabama St. (1%)  
 - TRN: ***FSU*** - #9 Florida St. (99%) def. #62 Alabama St. (1%)  
-- Massey: ***ALST*** - #63 Alabama St. (NaN%) def. #9 Florida St. (NaN%)  
+- Massey: ***FSU*** - #9 Florida St. (100%) def. #63 Alabama St. (0%)  
 - Lineup: ***FSU*** - Florida St. (99%) def. Alabama St. (1%)  
 - UTR: ***FSU*** - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)  
 - ITA: ***FSU*** - #7 Florida St. def. #61 Alabama St.  

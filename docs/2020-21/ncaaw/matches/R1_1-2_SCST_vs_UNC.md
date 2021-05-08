@@ -5,14 +5,14 @@ Cone-Kenfield Center
 Chapel Hill, North Carolina  
 ## [South Carolina St. vs #1 North Carolina](https://www.ncaa.com/game/5833647)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 South Carolina St.</h2>  
 &nbsp; Record: 6-5<br>  
 &nbsp; Slam: 62 (70.68)<br>  
 &nbsp; TRN: 61 (58.72)<br>  
-&#10004; Massey: 62 (3.52)<br>  
+&nbsp; Massey: 62 (3.52)<br>  
 &nbsp; UTR: 63 (44.35)<br>  
 <br>  
 
@@ -24,7 +24,7 @@ Chapel Hill, North Carolina
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
-&nbsp; Massey: 1 (9.82)<br>  
+&#10004; Massey: 1 (9.82)<br>  
 &#10004; UTR: 2 (65.21)<br>  
 &#10004; USTA Poll: 1<br>  
 &#10004; Coaches Poll: 1<br>  
@@ -44,7 +44,7 @@ Chapel Hill, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #62 South Carolina St. (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #61 South Carolina St. (1%)  
-- Massey: ***SCST*** - #62 South Carolina St. (NaN%) def. #1 North Carolina (NaN%)  
+- Massey: ***UNC*** - #1 North Carolina (100%) def. #62 South Carolina St. (0%)  
 - Lineup: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - UTR: ***UNC*** - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)  
 - ITA: ***UNC*** - #1 North Carolina def. South Carolina St.  

@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Baylor
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 64
   Seeding:
     Overall: 2
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: A&M-Corpus Christi
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 63
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "BAY - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)"
   TRN: "BAY - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)"
-  MAS: "TAMCC - #58 A&M-Corpus Christi (NaN%) def. #5 Baylor (NaN%)"
+  MAS: "BAY - #5 Baylor (99%) def. #58 A&M-Corpus Christi (1%)"
   LNUP: BAY - Baylor (99%) def. A&M-Corpus Christi (1%)
   UTR: "BAY - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)"
   ITA: "BAY - #1 Baylor def. #60 A&M-Corpus Christi"
@@ -78,7 +78,7 @@ Lineups:
       BAY: Sven Lah - 6-7 at 3, 9-9 in duals, 11-12 overall
       TAMCC: Nathan Schwartz - 7-4 at 3, 13-4 in duals, 15-5 overall
       Predictions:
-        AVG: BAY - Lah (95%) def. Schwartz (5%)
+        AVG: BAY - Lah (93%) def. Schwartz (7%)
         SLM: BAY - Lah (95%) def. Schwartz (5%)
         TRN: BAY - Lah (96%) def. Schwartz (4%)
         MAS: TAMCC - Schwartz (NaN%) def. Lah (NaN%)
@@ -88,7 +88,7 @@ Lineups:
       BAY: Nick Stachowiak - 8-2 at 4, 12-5 in duals, 19-7 overall
       TAMCC: Pascal Loriel - 10-0 at 4, 15-0 in duals, 17-1 overall
       Predictions:
-        AVG: BAY - Stachowiak (96%) def. Loriel (4%)
+        AVG: BAY - Stachowiak (95%) def. Loriel (5%)
         SLM: BAY - Stachowiak (96%) def. Loriel (4%)
         TRN: BAY - Stachowiak (97%) def. Loriel (3%)
         MAS: TAMCC - Loriel (NaN%) def. Stachowiak (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       BAY: Spencer Furman - 11-2 at 6, 18-2 in duals, 21-3 overall
       TAMCC: Guillermo Castaneda - 4-1 at 6, 10-1 in duals, 10-1 overall
       Predictions:
-        AVG: BAY - Furman (97%) def. Castaneda (3%)
+        AVG: BAY - Furman (98%) def. Castaneda (2%)
         SLM: BAY - Furman (99%) def. Castaneda (1%)
         TRN: BAY - Furman (99%) def. Castaneda (1%)
         MAS: TAMCC - Castaneda (NaN%) def. Furman (NaN%)

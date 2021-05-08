@@ -24,7 +24,7 @@ Home:
 Visitor:
   Team: Middle Tenn.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 59
   Seeding:
     Region: 3
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "TULN - #26 Tulane (78%) def. #45 Middle Tenn. (22%)"
   TRN: "TULN - #26 Tulane (79%) def. #45 Middle Tenn. (21%)"
-  MAS: "MTSU - #42 Middle Tenn. (NaN%) def. #26 Tulane (NaN%)"
+  MAS: "TULN - #26 Tulane (75%) def. #42 Middle Tenn. (25%)"
   LNUP: TULN - Tulane (82%) def. Middle Tenn. (18%)
   UTR: "TULN - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)"
   ITA: "TULN - #22 Tulane def. #42 Middle Tenn."
@@ -67,7 +67,7 @@ Lineups:
       TULN: Ewan Moore - 9-7 at 2, 10-7 in duals, 10-7 overall
       MTSU: Stijn Slump - 9-2 at 2, 16-5 in duals, 16-5 overall
       Predictions:
-        AVG: TULN - Moore (69%) def. Slump (31%)
+        AVG: TULN - Moore (66%) def. Slump (34%)
         SLM: TULN - Moore (69%) def. Slump (31%)
         TRN: TULN - Moore (58%) def. Slump (42%)
         MAS: MTSU - Slump (NaN%) def. Moore (NaN%)
@@ -77,7 +77,7 @@ Lineups:
       TULN: Luis Erlenbusch - 13-5 at 3, 14-5 in duals, 14-5 overall
       MTSU: Tom Moonen - 2-1 at 3, 8-11 in duals, 8-11 overall
       Predictions:
-        AVG: TULN - Erlenbusch (80%) def. Moonen (20%)
+        AVG: TULN - Erlenbusch (81%) def. Moonen (19%)
         SLM: TULN - Erlenbusch (72%) def. Moonen (28%)
         TRN: TULN - Erlenbusch (81%) def. Moonen (19%)
         MAS: MTSU - Moonen (NaN%) def. Erlenbusch (NaN%)
@@ -87,7 +87,7 @@ Lineups:
       TULN: Billy Suarez - 8-5 at 4, 9-6 in duals, 9-6 overall
       MTSU: Christopher Edge - 15-5 at 4, 15-5 in duals, 15-5 overall
       Predictions:
-        AVG: TULN - Suarez (55%) def. Edge (45%)
+        AVG: TULN - Suarez (54%) def. Edge (46%)
         SLM: MTSU - Edge (51%) def. Suarez (49%)
         TRN: TULN - Suarez (60%) def. Edge (40%)
         MAS: MTSU - Edge (NaN%) def. Suarez (NaN%)
@@ -97,7 +97,7 @@ Lineups:
       TULN: Rafael de Alba - 3-2 at 5, 12-4 in duals, 12-4 overall
       MTSU: Pavel Motl - 6-3 at 5, 9-6 in duals, 9-6 overall
       Predictions:
-        AVG: TULN - Alba (64%) def. Motl (36%)
+        AVG: TULN - Alba (66%) def. Motl (34%)
         SLM: TULN - Alba (57%) def. Motl (43%)
         TRN: TULN - Alba (67%) def. Motl (33%)
         MAS: MTSU - Motl (NaN%) def. Alba (NaN%)
@@ -107,7 +107,7 @@ Lineups:
       TULN: Akos Kotorman - 1-2 at 6, 2-3 in duals, 2-3 overall
       MTSU: Oskar Michalek - 1-0 at 6, 5-1 in duals, 5-1 overall
       Predictions:
-        AVG: MTSU - Michalek (61%) def. Kotorman (39%)
+        AVG: MTSU - Michalek (63%) def. Kotorman (37%)
         SLM: MTSU - Michalek (60%) def. Kotorman (40%)
         TRN: TULN - Kotorman (58%) def. Michalek (42%)
         MAS: MTSU - Michalek (NaN%) def. Kotorman (NaN%)

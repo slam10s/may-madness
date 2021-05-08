@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Texas
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 32
   Seeding:
     Overall: 4
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Northern Ariz.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 31
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "TEX - #8 Texas (99%) def. #58 Northern Ariz. (1%)"
   TRN: "TEX - #7 Texas (99%) def. #60 Northern Ariz. (1%)"
-  MAS: "NAU - #59 Northern Ariz. (NaN%) def. #11 Texas (NaN%)"
+  MAS: "TEX - #11 Texas (99%) def. #59 Northern Ariz. (1%)"
   LNUP: TEX - Texas (99%) def. Northern Ariz. (1%)
   UTR: "TEX - #14 Texas (+8.16) def. #59 Northern Ariz. (-8.16)"
   ITA: "TEX - #5 Texas def. #61 Northern Ariz."
@@ -58,7 +58,7 @@ Lineups:
       TEX: Eliot Spizzirri - 9-6 at 1, 15-8 in duals, 22-9 overall
       NAU: Eban Straker-Meads - 5-4 at 1, 6-6 in duals, 6-6 overall
       Predictions:
-        AVG: TEX - Spizzirri (96%) def. Straker-Meads (4%)
+        AVG: TEX - Spizzirri (95%) def. Straker-Meads (5%)
         SLM: TEX - Spizzirri (95%) def. Straker-Meads (5%)
         TRN: TEX - Spizzirri (98%) def. Straker-Meads (2%)
         MAS: NAU - Straker-Meads (NaN%) def. Spizzirri (NaN%)
@@ -78,7 +78,7 @@ Lineups:
       TEX: Siem Woldeab - 5-1 at 3, 9-7 in duals, 14-12 overall
       NAU: Dominik Buzonics - 4-3 at 3, 6-8 in duals, 6-8 overall
       Predictions:
-        AVG: TEX - Woldeab (99%) def. Buzonics (1%)
+        AVG: TEX - Woldeab (98%) def. Buzonics (2%)
         SLM: TEX - Woldeab (99%) def. Buzonics (1%)
         TRN: TEX - Woldeab (99%) def. Buzonics (1%)
         MAS: NAU - Buzonics (NaN%) def. Woldeab (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       TEX: Chih Chi Huang - 9-7 at 5, 11-8 in duals, 15-17 overall
       NAU: Maciej Ziomber - 5-2 at 5, 11-4 in duals, 11-4 overall
       Predictions:
-        AVG: TEX - Huang (94%) def. Ziomber (6%)
+        AVG: TEX - Huang (89%) def. Ziomber (11%)
         SLM: TEX - Huang (95%) def. Ziomber (5%)
         TRN: TEX - Huang (94%) def. Ziomber (6%)
         MAS: NAU - Ziomber (NaN%) def. Huang (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       TEX: Evin McDonald - 6-9 at 6, 11-10 in duals, 15-16 overall
       NAU: Alexander Groves - 3-0 at 6, 6-8 in duals, 6-8 overall
       Predictions:
-        AVG: TEX - McDonald (97%) def. Groves (3%)
+        AVG: TEX - McDonald (93%) def. Groves (7%)
         SLM: TEX - McDonald (96%) def. Groves (4%)
         TRN: TEX - McDonald (98%) def. Groves (2%)
         MAS: NAU - Groves (NaN%) def. McDonald (NaN%)

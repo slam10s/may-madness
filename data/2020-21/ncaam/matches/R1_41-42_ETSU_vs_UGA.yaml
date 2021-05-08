@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Georgia
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 41
   Seeding:
     Overall: 11
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: ETSU
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 42
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "UGA - #16 Georgia (99%) def. #52 ETSU (1%)"
   TRN: "UGA - #14 Georgia (99%) def. #53 ETSU (1%)"
-  MAS: "ETSU - #51 ETSU (NaN%) def. #15 Georgia (NaN%)"
+  MAS: "UGA - #15 Georgia (97%) def. #51 ETSU (3%)"
   LNUP: UGA - Georgia (99%) def. ETSU (1%)
   UTR: "UGA - #19 Georgia (+4.52) def. #50 ETSU (-4.52)"
   ITA: "UGA - #11 Georgia def. #49 ETSU"
@@ -50,15 +50,15 @@ Lineups:
   Predictions:
     Average EWPs for UGA: 99%,99%,NaN%,100%
     Average EWPs for ETSU: 1%,1%,NaN%,0%
-    UGA wins 4 or more Singles points: 100%
+    UGA wins 4 or more Singles points: 99%
     ETSU wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 0%
+    Winner decided by the Doubles point: 1%
   Singles:
     - Position: 1
       UGA: Trent Bryde - 9-10 at 1, 9-10 in duals, 14-13 overall
       ETSU: Dimitri Badra - 11-3 at 1, 14-5 in duals, 14-5 overall
       Predictions:
-        AVG: UGA - Bryde (84%) def. Badra (16%)
+        AVG: UGA - Bryde (79%) def. Badra (21%)
         SLM: UGA - Bryde (85%) def. Badra (15%)
         TRN: UGA - Bryde (79%) def. Badra (21%)
         MAS: ETSU - Badra (NaN%) def. Bryde (NaN%)
@@ -68,7 +68,7 @@ Lineups:
       UGA: Tyler Zink - 6-5 at 2, 9-5 in duals, 11-9 overall
       ETSU: Frazier Rengifo - 10-4 at 2, 11-7 in duals, 11-7 overall
       Predictions:
-        AVG: UGA - Zink (91%) def. Rengifo (9%)
+        AVG: UGA - Zink (87%) def. Rengifo (13%)
         SLM: UGA - Zink (90%) def. Rengifo (10%)
         TRN: UGA - Zink (93%) def. Rengifo (7%)
         MAS: ETSU - Rengifo (NaN%) def. Zink (NaN%)
@@ -78,7 +78,7 @@ Lineups:
       UGA: Philip Henning - 11-4 at 3, 13-6 in duals, 18-10 overall
       ETSU: Juan Lugo - 5-1 at 3, 9-5 in duals, 9-5 overall
       Predictions:
-        AVG: UGA - Henning (96%) def. Lugo (4%)
+        AVG: UGA - Henning (95%) def. Lugo (5%)
         SLM: UGA - Henning (96%) def. Lugo (4%)
         TRN: UGA - Henning (97%) def. Lugo (3%)
         MAS: ETSU - Lugo (NaN%) def. Henning (NaN%)
@@ -88,7 +88,7 @@ Lineups:
       UGA: Blake Croyder - 10-2 at 4, 11-5 in duals, 15-12 overall
       ETSU: Thiago Pernas - 7-2 at 4, 10-8 in duals, 10-8 overall
       Predictions:
-        AVG: UGA - Croyder (93%) def. Pernas (7%)
+        AVG: UGA - Croyder (91%) def. Pernas (9%)
         SLM: UGA - Croyder (93%) def. Pernas (7%)
         TRN: UGA - Croyder (96%) def. Pernas (4%)
         MAS: ETSU - Pernas (NaN%) def. Croyder (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       UGA: Billy Rowe - 8-4 at 5, 12-7 in duals, 16-10 overall
       ETSU: MIguel Este - 1-1 at 5, 8-5 in duals, 8-5 overall
       Predictions:
-        AVG: UGA - Rowe (97%) def. Este (3%)
+        AVG: UGA - Rowe (96%) def. Este (4%)
         SLM: UGA - Rowe (98%) def. Este (2%)
         TRN: UGA - Rowe (99%) def. Este (1%)
         MAS: ETSU - Este (NaN%) def. Rowe (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       UGA: Erik Grevelius - 7-3 at 6, 9-4 in duals, 15-8 overall
       ETSU: Juan Zabala - 2-1 at 6, 6-4 in duals, 6-4 overall
       Predictions:
-        AVG: UGA - Grevelius (98%) def. Zabala (2%)
+        AVG: UGA - Grevelius (97%) def. Zabala (3%)
         SLM: UGA - Grevelius (96%) def. Zabala (4%)
         TRN: UGA - Grevelius (97%) def. Zabala (3%)
         MAS: ETSU - Zabala (NaN%) def. Grevelius (NaN%)

@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Virginia
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 40
   Seeding:
     Overall: 14
@@ -42,8 +42,8 @@ Visitor:
 Predictions:
   SLM: "UVA - #9 Virginia (69%) def. #19 Tennessee (31%)"
   TRN: "UVA - #11 Virginia (67%) def. #19 Tennessee (33%)"
-  MAS: "TENN - #19 Tennessee (NaN%) def. #7 Virginia (NaN%)"
-  LNUP: UVA - Virginia (56%) def. Tennessee (44%)
+  MAS: "UVA - #7 Virginia (69%) def. #19 Tennessee (31%)"
+  LNUP: UVA - Virginia (65%) def. Tennessee (35%)
   UTR: "UVA - #13 Virginia (+0.80) def. #22 Tennessee (-0.80)"
   ITA: "UVA - #14 Virginia def. #15 Tennessee"
   USTA: "UVA - #10 Virginia def. #19 Tennessee"
@@ -51,17 +51,17 @@ Predictions:
   Seeding: "UVA - #1 Virginia def. #2 Tennessee"
 Lineups:
   Predictions:
-    Average EWPs for UVA: 69%,67%,NaN%,56%
-    Average EWPs for TENN: 31%,33%,NaN%,44%
-    UVA wins 4 or more Singles points: 29%
-    TENN wins 4 or more Singles points: 22%
-    Winner decided by the Doubles point: 49%
+    Average EWPs for UVA: 69%,67%,NaN%,65%
+    Average EWPs for TENN: 31%,33%,NaN%,35%
+    UVA wins 4 or more Singles points: 36%
+    TENN wins 4 or more Singles points: 19%
+    Winner decided by the Doubles point: 45%
   Singles:
     - Position: 1
       UVA: Emma Navarro - 17-1 at 1, 17-1 in duals, 17-1 overall
       TENN: Rebeka Mertena - 2-2 at 1, 11-6 in duals, 15-14 overall
       Predictions:
-        AVG: UVA - Navarro (96%) def. Mertena (4%)
+        AVG: UVA - Navarro (95%) def. Mertena (5%)
         SLM: UVA - Navarro (97%) def. Mertena (3%)
         TRN: UVA - Navarro (99%) def. Mertena (1%)
         MAS: TENN - Mertena (NaN%) def. Navarro (NaN%)
@@ -71,7 +71,7 @@ Lineups:
       UVA: Natasha Subhash - 14-4 at 2, 15-4 in duals, 15-5 overall
       TENN: Eleonora Molinaro - 1-2 at 2, 3-9 in duals, 3-9 overall
       Predictions:
-        AVG: UVA - Subhash (87%) def. Molinaro (13%)
+        AVG: UVA - Subhash (88%) def. Molinaro (12%)
         SLM: UVA - Subhash (83%) def. Molinaro (17%)
         TRN: UVA - Subhash (91%) def. Molinaro (9%)
         MAS: TENN - Molinaro (NaN%) def. Subhash (NaN%)
@@ -81,7 +81,7 @@ Lineups:
       UVA: Rosie Johanson - 15-2 at 3, 16-2 in duals, 16-4 overall
       TENN: Carly Briggs - 3-4 at 3, 6-12 in duals, 15-15 overall
       Predictions:
-        AVG: UVA - Johanson (75%) def. Briggs (25%)
+        AVG: UVA - Johanson (77%) def. Briggs (23%)
         SLM: UVA - Johanson (67%) def. Briggs (33%)
         TRN: UVA - Johanson (75%) def. Briggs (25%)
         MAS: TENN - Briggs (NaN%) def. Johanson (NaN%)
@@ -91,7 +91,7 @@ Lineups:
       UVA: Hibah Shaikh - 4-9 at 4, 6-9 in duals, 7-10 overall
       TENN: Daria Kuczer - 8-1 at 4, 19-2 in duals, 25-7 overall
       Predictions:
-        AVG: TENN - Kuczer (81%) def. Shaikh (19%)
+        AVG: TENN - Kuczer (82%) def. Shaikh (18%)
         SLM: TENN - Kuczer (73%) def. Shaikh (27%)
         TRN: TENN - Kuczer (88%) def. Shaikh (12%)
         MAS: TENN - Kuczer (NaN%) def. Shaikh (NaN%)
@@ -101,7 +101,7 @@ Lineups:
       UVA: Amber O'Dell - 1-3 at 5, 10-7 in duals, 10-9 overall
       TENN: Tenika McGiffin - 6-0 at 5, 15-4 in duals, 20-12 overall
       Predictions:
-        AVG: TENN - McGiffin (99%) def. O'Dell (1%)
+        AVG: TENN - McGiffin (91%) def. O'Dell (9%)
         SLM: TENN - McGiffin (100%) def. O'Dell (0%)
         TRN: TENN - McGiffin (100%) def. O'Dell (0%)
         MAS: TENN - McGiffin (NaN%) def. O'Dell (NaN%)
@@ -111,7 +111,7 @@ Lineups:
       UVA: Vivian Glozman - 2-1 at 6, 7-3 in duals, 8-4 overall
       TENN: Johanna Silva - 9-1 at 6, 9-4 in duals, 12-10 overall
       Predictions:
-        AVG: TENN - Silva (69%) def. Glozman (31%)
+        AVG: TENN - Silva (66%) def. Glozman (34%)
         SLM: TENN - Silva (67%) def. Glozman (33%)
         TRN: TENN - Silva (62%) def. Glozman (38%)
         MAS: TENN - Silva (NaN%) def. Glozman (NaN%)

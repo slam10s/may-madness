@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Ohio St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 57
   Seeding:
     Overall: 15
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: UIC
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/i/ill-chicago.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 58
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "OSU - #5 Ohio St. (99%) def. #57 UIC (1%)"
   TRN: "OSU - #5 Ohio St. (99%) def. #59 UIC (1%)"
-  MAS: "UIC - #58 UIC (NaN%) def. #8 Ohio St. (NaN%)"
+  MAS: "OSU - #8 Ohio St. (100%) def. #58 UIC (0%)"
   LNUP: OSU - Ohio St. (99%) def. UIC (1%)
   UTR: "OSU - #25 Ohio St. (+10.14) def. #58 UIC (-10.14)"
   ITA: "OSU - #18 Ohio St. def. #59 UIC"
@@ -78,7 +78,7 @@ Lineups:
       OSU: Kolie Allen - 7-3 at 3, 10-9 in duals, 10-12 overall
       UIC: Lucie Prochazkova - 13-1 at 3, 15-2 in duals, 15-2 overall
       Predictions:
-        AVG: OSU - Allen (92%) def. Prochazkova (8%)
+        AVG: OSU - Allen (88%) def. Prochazkova (12%)
         SLM: OSU - Allen (95%) def. Prochazkova (5%)
         TRN: OSU - Allen (84%) def. Prochazkova (16%)
         MAS: UIC - Prochazkova (NaN%) def. Allen (NaN%)
@@ -88,7 +88,7 @@ Lineups:
       OSU: Lisa Hofbauer - 7-2 at 4, 12-6 in duals, 13-8 overall
       UIC: Ana Jover - 13-2 at 4, 18-3 in duals, 18-3 overall
       Predictions:
-        AVG: OSU - Hofbauer (97%) def. Jover (3%)
+        AVG: OSU - Hofbauer (95%) def. Jover (5%)
         SLM: OSU - Hofbauer (98%) def. Jover (2%)
         TRN: OSU - Hofbauer (98%) def. Jover (2%)
         MAS: UIC - Jover (NaN%) def. Hofbauer (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       OSU: Lucia Marzal - 10-2 at 5, 19-2 in duals, 21-3 overall
       UIC: Georgia Gulin - 12-1 at 5, 17-3 in duals, 17-3 overall
       Predictions:
-        AVG: OSU - Marzal (99%) def. Gulin (1%)
+        AVG: OSU - Marzal (97%) def. Gulin (3%)
         SLM: OSU - Marzal (99%) def. Gulin (1%)
         TRN: OSU - Marzal (99%) def. Gulin (1%)
         MAS: UIC - Gulin (NaN%) def. Marzal (NaN%)

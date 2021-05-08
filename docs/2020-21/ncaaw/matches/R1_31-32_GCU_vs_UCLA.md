@@ -5,7 +5,7 @@ Los Angeles Tennis Center
 Los Angeles, California  
 ## [Grand Canyon vs #4 UCLA](https://www.ncaa.com/game/5833662)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #5F259F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #5F259F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Grand Canyon</h2>  
@@ -13,7 +13,7 @@ Los Angeles, California
 &nbsp; ITA: 62 (1.99)<br>  
 &nbsp; Slam: 59 (75.93)<br>  
 &nbsp; TRN: 60 (64.13)<br>  
-&#10004; Massey: 57 (4.78)<br>  
+&nbsp; Massey: 57 (4.78)<br>  
 &nbsp; UTR: 57 (51.77)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Los Angeles, California
 &#10004; ITA: 4 (61.84)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
-&nbsp; Massey: 4 (8.85)<br>  
+&#10004; Massey: 4 (8.85)<br>  
 &#10004; UTR: 5 (64.40)<br>  
 &#10004; USTA Poll: 4<br>  
 &#10004; Coaches Poll: 5<br>  
@@ -45,7 +45,7 @@ Los Angeles, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCLA*** - #4 UCLA (99%) def. #59 Grand Canyon (1%)  
 - TRN: ***UCLA*** - #7 UCLA (99%) def. #60 Grand Canyon (1%)  
-- Massey: ***GCU*** - #57 Grand Canyon (NaN%) def. #4 UCLA (NaN%)  
+- Massey: ***UCLA*** - #4 UCLA (100%) def. #57 Grand Canyon (0%)  
 - Lineup: ***UCLA*** - UCLA (99%) def. Grand Canyon (1%)  
 - UTR: ***UCLA*** - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)  
 - ITA: ***UCLA*** - #4 UCLA def. #62 Grand Canyon  
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Emilia Occhipinti (GCU) - 12-5 at #2, 12-5 in duals, 12-5 overall<br>Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Hart (98%) def. Occhipinti (2%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>Massey: <b><i>GCU</i></b> - Occhipinti (NaN%) def. Hart (NaN%)</li>  
@@ -85,7 +85,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jana Weiss (GCU) - 15-4 at #3, 15-4 in duals, 15-4 overall<br>Elysia Bolton (UCLA) - 5-2 at #3, 9-3 in duals, 9-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Bolton (98%) def. Weiss (2%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
 <li>Massey: <b><i>GCU</i></b> - Weiss (NaN%) def. Bolton (NaN%)</li>  

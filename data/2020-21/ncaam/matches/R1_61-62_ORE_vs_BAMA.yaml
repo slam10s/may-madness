@@ -40,25 +40,25 @@ Visitor:
 Predictions:
   SLM: "BAMA - #28 Alabama (70%) def. #44 Oregon (30%)"
   TRN: "BAMA - #27 Alabama (71%) def. #41 Oregon (29%)"
-  MAS: "ORE - #30 Oregon (NaN%) def. #38 Alabama (NaN%)"
-  LNUP: BAMA - Alabama (62%) def. Oregon (38%)
+  MAS: "ORE - #30 Oregon (58%) def. #38 Alabama (42%)"
+  LNUP: BAMA - Alabama (59%) def. Oregon (41%)
   UTR: "BAMA - #30 Alabama (+0.28) def. #33 Oregon (-0.28)"
   ITA: "BAMA - #26 Alabama def. #36 Oregon"
   Coach: "BAMA - #25 Alabama def. #41 Oregon"
   Seeding: "BAMA - #2 Alabama def. #3 Oregon"
 Lineups:
   Predictions:
-    Average EWPs for BAMA: 70%,71%,NaN%,62%
-    Average EWPs for ORE: 30%,29%,NaN%,38%
-    BAMA wins 4 or more Singles points: 41%
-    ORE wins 4 or more Singles points: 25%
-    Winner decided by the Doubles point: 34%
+    Average EWPs for BAMA: 70%,71%,NaN%,59%
+    Average EWPs for ORE: 30%,29%,NaN%,41%
+    BAMA wins 4 or more Singles points: 40%
+    ORE wins 4 or more Singles points: 27%
+    Winner decided by the Doubles point: 33%
   Singles:
     - Position: 1
       BAMA: Edson Ortiz - 5-5 at 1, 12-10 in duals, 13-12 overall
       ORE: Emmanuel Coste - 5-4 at 1, 11-6 in duals, 11-6 overall
       Predictions:
-        AVG: ORE - Coste (74%) def. Ortiz (26%)
+        AVG: ORE - Coste (69%) def. Ortiz (31%)
         SLM: ORE - Coste (73%) def. Ortiz (27%)
         TRN: ORE - Coste (76%) def. Ortiz (24%)
         MAS: ORE - Coste (NaN%) def. Ortiz (NaN%)
@@ -68,7 +68,7 @@ Lineups:
       BAMA: Patrick Kaukovalta - 3-2 at 2, 9-11 in duals, 15-17 overall
       ORE: Joshua Charlton - 6-2 at 2, 12-6 in duals, 12-6 overall
       Predictions:
-        AVG: ORE - Charlton (69%) def. Kaukovalta (31%)
+        AVG: ORE - Charlton (68%) def. Kaukovalta (32%)
         SLM: ORE - Charlton (68%) def. Kaukovalta (32%)
         TRN: ORE - Charlton (68%) def. Kaukovalta (32%)
         MAS: ORE - Charlton (NaN%) def. Kaukovalta (NaN%)
@@ -78,7 +78,7 @@ Lineups:
       BAMA: Zhe Zhou - 3-1 at 3, 9-9 in duals, 15-15 overall
       ORE: Quinn Vandecasteele - 10-8 at 3, 12-8 in duals, 12-8 overall
       Predictions:
-        AVG: BAMA - Zhou (71%) def. Vandecasteele (29%)
+        AVG: BAMA - Zhou (69%) def. Vandecasteele (31%)
         SLM: BAMA - Zhou (72%) def. Vandecasteele (28%)
         TRN: BAMA - Zhou (76%) def. Vandecasteele (24%)
         MAS: ORE - Vandecasteele (NaN%) def. Zhou (NaN%)
@@ -88,7 +88,7 @@ Lineups:
       BAMA: Riccardo Roberto - 5-7 at 4, 11-8 in duals, 19-12 overall
       ORE: Jesper Klov-Nilsson - 10-2 at 4, 17-3 in duals, 17-3 overall
       Predictions:
-        AVG: BAMA - Roberto (51%) def. Klov-Nilsson (49%)
+        AVG: ORE - Klov-Nilsson (51%) def. Roberto (49%)
         SLM: BAMA - Roberto (50%) def. Klov-Nilsson (50%)
         TRN: BAMA - Roberto (50%) def. Klov-Nilsson (50%)
         MAS: ORE - Klov-Nilsson (NaN%) def. Roberto (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       BAMA: Gabriel Diaz Freire - 3-1 at 5, 10-6 in duals, 15-10 overall
       ORE: Brandon Lam - 7-3 at 5, 11-6 in duals, 11-6 overall
       Predictions:
-        AVG: BAMA - Freire (69%) def. Lam (31%)
+        AVG: BAMA - Freire (68%) def. Lam (32%)
         SLM: BAMA - Freire (68%) def. Lam (32%)
         TRN: BAMA - Freire (72%) def. Lam (28%)
         MAS: ORE - Lam (NaN%) def. Freire (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       BAMA: Alexey Nesterov - 3-6 at 6, 7-6 in duals, 12-10 overall
       ORE: Luke Vandecasteele - 3-6 at 6, 9-8 in duals, 9-8 overall
       Predictions:
-        AVG: BAMA - Nesterov (74%) def. Vandecasteele (26%)
+        AVG: BAMA - Nesterov (73%) def. Vandecasteele (27%)
         SLM: BAMA - Nesterov (69%) def. Vandecasteele (31%)
         TRN: BAMA - Nesterov (74%) def. Vandecasteele (26%)
         MAS: ORE - Vandecasteele (NaN%) def. Nesterov (NaN%)

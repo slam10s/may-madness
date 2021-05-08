@@ -5,7 +5,7 @@ Virginia Tennis Facility at the Boar’s Head Resort
 Charlottesville, Virginia  
 ## [LSU vs Stanford](https://www.ncaa.com/game/5833379)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 LSU</h2>  
@@ -13,7 +13,7 @@ Charlottesville, Virginia
 &nbsp; ITA: 40 (19.17)<br>  
 &nbsp; Slam: 38 (92.17)<br>  
 &nbsp; TRN: 39 (90.14)<br>  
-&#10004; Massey: 47 (6.78)<br>  
+&nbsp; Massey: 47 (6.78)<br>  
 &nbsp; UTR: 42 (75.44)<br>  
 &nbsp; Coaches Poll: 39<br>  
 <br>  
@@ -26,7 +26,7 @@ Charlottesville, Virginia
 &#10004; ITA: 21 (34.55)<br>  
 &#10004; Slam: 22 (94.00)<br>  
 &#10004; TRN: 21 (92.30)<br>  
-&nbsp; Massey: 20 (7.97)<br>  
+&#10004; Massey: 20 (7.97)<br>  
 &#10004; UTR: 5 (80.08)<br>  
 &#10004; USTA Poll: 20<br>  
 &#10004; Coaches Poll: 20<br>  
@@ -43,7 +43,7 @@ Charlottesville, Virginia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***STAN*** - #22 Stanford (74%) def. #38 LSU (26%)  
 - TRN: ***STAN*** - #21 Stanford (77%) def. #39 LSU (23%)  
-- Massey: ***LSU*** - #47 LSU (NaN%) def. #20 Stanford (NaN%)  
+- Massey: ***STAN*** - #20 Stanford (94%) def. #47 LSU (6%)  
 - Lineup: ***STAN*** - Stanford (98%) def. LSU (2%)  
 - UTR: ***STAN*** - #5 Stanford (+4.64) def. #42 LSU (-4.64)  
 - ITA: ***STAN*** - #21 Stanford def. #40 LSU  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ronald Hohmann (LSU) - 10-9 at #1, 10-9 in duals, 13-12 overall<br>Axel Geller (STAN) - 5-6 at #1, 6-6 in duals, 6-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Geller (77%) def. Hohmann (23%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Geller (76%) def. Hohmann (24%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Geller (70%) def. Hohmann (30%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Geller (80%) def. Hohmann (20%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Hohmann (NaN%) def. Geller (NaN%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Rafael Wagner (LSU) - 5-9 at #2, 7-9 in duals, 11-13 overall<br>Arthur Fery (STAN) - 6-2 at #2, 11-3 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Fery (91%) def. Wagner (9%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Fery (90%) def. Wagner (10%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Fery (86%) def. Wagner (14%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Fery (92%) def. Wagner (8%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Wagner (NaN%) def. Fery (NaN%)</li>  
@@ -94,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Boris Kozlov (LSU) - 5-4 at #4, 10-6 in duals, 13-11 overall<br>Alex Rotsaert (STAN) - 0-0 at #4, 4-6 in duals, 4-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Rotsaert (85%) def. Kozlov (15%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Rotsaert (82%) def. Kozlov (18%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Rotsaert (88%) def. Kozlov (12%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Rotsaert (83%) def. Kozlov (17%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Kozlov (NaN%) def. Rotsaert (NaN%)</li>  
@@ -105,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Benjamin Ambrosio (LSU) - 1-3 at #5, 9-6 in duals, 9-6 overall<br>Timothy Sah (STAN) - 6-3 at #5, 8-4 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Sah (86%) def. Ambrosio (14%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Sah (83%) def. Ambrosio (17%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Sah (85%) def. Ambrosio (15%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Sah (82%) def. Ambrosio (18%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Ambrosio (NaN%) def. Sah (NaN%)</li>  
@@ -116,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ben Koch (LSU) - 2-1 at #6, 4-2 in duals, 8-6 overall<br>William Genesen (STAN) - 3-2 at #6, 5-3 in duals, 5-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Genesen (76%) def. Koch (24%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Genesen (73%) def. Koch (27%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Genesen (71%) def. Koch (29%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Genesen (78%) def. Koch (22%)</li>  
 <li>Massey: <b><i>LSU</i></b> - Koch (NaN%) def. Genesen (NaN%)</li>  
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Stanford should win 4 or more singles matches _94%_ of the time.  
+- Stanford should win 4 or more singles matches _93%_ of the time.  
 - LSU should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _5%_ of the time.  
+- The winner of the doubles point will decide the match the other _6%_ of the time.  
 - If Stanford wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If LSU wins the doubles point, their chances of winning the dual improve to _6%_.  
+- If LSU wins the doubles point, their chances of winning the dual improve to _7%_.  
   
 ------
 

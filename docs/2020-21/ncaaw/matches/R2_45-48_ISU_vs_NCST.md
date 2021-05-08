@@ -5,7 +5,7 @@ J.W. Isenhour Tennis Center
 Raleigh, North Carolina  
 ## [Iowa St. vs #6 NC State](https://www.ncaa.com/game/5833690)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #A6192E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #A6192E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Iowa St.</h2>  
@@ -13,7 +13,7 @@ Raleigh, North Carolina
 &nbsp; ITA: 36 (22.35)<br>  
 &nbsp; Slam: 41 (86.71)<br>  
 &nbsp; TRN: 42 (78.56)<br>  
-&#10004; Massey: 39 (6.76)<br>  
+&nbsp; Massey: 39 (6.76)<br>  
 &nbsp; UTR: 39 (59.07)<br>  
 &nbsp; Coaches Poll: 36<br>  
 <br>  
@@ -26,7 +26,7 @@ Raleigh, North Carolina
 &#10004; ITA: 6 (55.66)<br>  
 &#10004; Slam: 11 (91.65)<br>  
 &#10004; TRN: 10 (84.27)<br>  
-&nbsp; Massey: 6 (8.36)<br>  
+&#10004; Massey: 6 (8.36)<br>  
 &#10004; UTR: 9 (62.99)<br>  
 &#10004; USTA Poll: 11<br>  
 &#10004; Coaches Poll: 6<br>  
@@ -43,7 +43,7 @@ Raleigh, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***NCST*** - #11 NC State (94%) def. #41 Iowa St. (6%)  
 - TRN: ***NCST*** - #10 NC State (96%) def. #42 Iowa St. (4%)  
-- Massey: ***ISU*** - #39 Iowa St. (NaN%) def. #6 NC State (NaN%)  
+- Massey: ***NCST*** - #6 NC State (98%) def. #39 Iowa St. (2%)  
 - Lineup: ***NCST*** - NC State (98%) def. Iowa St. (2%)  
 - UTR: ***NCST*** - #9 NC State (+3.92) def. #39 Iowa St. (-3.92)  
 - ITA: ***NCST*** - #6 NC State def. #36 Iowa St.  
@@ -61,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Thasaporn Naklo (ISU) - 10-7 at #1, 10-7 in duals, 10-7 overall<br>Anna Rogers (NCST) - 14-6 at #1, 14-6 in duals, 19-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Rogers (94%) def. Naklo (6%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rogers (93%) def. Naklo (7%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Rogers (94%) def. Naklo (6%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rogers (97%) def. Naklo (3%)</li>  
 <li>Massey: <b><i>ISU</i></b> - Naklo (NaN%) def. Rogers (NaN%)</li>  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Maty Cancini (ISU) - 6-9 at #2, 6-9 in duals, 6-9 overall<br>Alana Smith (NCST) - 14-5 at #2, 14-5 in duals, 16-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Smith (90%) def. Cancini (10%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Smith (91%) def. Cancini (9%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Smith (90%) def. Cancini (10%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Smith (92%) def. Cancini (8%)</li>  
 <li>Massey: <b><i>ISU</i></b> - Cancini (NaN%) def. Smith (NaN%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Miska Kadleckova (ISU) - 6-1 at #3, 14-3 in duals, 14-3 overall<br>Adriana Reami (NCST) - 12-4 at #3, 15-5 in duals, 16-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Reami (72%) def. Kadleckova (28%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Reami (68%) def. Kadleckova (32%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Reami (75%) def. Kadleckova (25%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Reami (68%) def. Kadleckova (32%)</li>  
 <li>Massey: <b><i>ISU</i></b> - Kadleckova (NaN%) def. Reami (NaN%)</li>  

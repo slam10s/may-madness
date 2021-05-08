@@ -5,7 +5,7 @@ Hellman Tennis Complex
 Berkeley, California  
 ## [Syracuse vs Kentucky](https://www.ncaa.com/game/5833649)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #DC4405 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #DC4405 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Syracuse</h2>  
@@ -13,7 +13,7 @@ Berkeley, California
 &nbsp; ITA: 43 (15.84)<br>  
 &nbsp; Slam: 43 (86.54)<br>  
 &nbsp; TRN: 43 (78.55)<br>  
-&#10004; Massey: 42 (6.69)<br>  
+&nbsp; Massey: 42 (6.69)<br>  
 &nbsp; UTR: 43 (58.68)<br>  
 &nbsp; Coaches Poll: 45<br>  
 <br>  
@@ -26,7 +26,7 @@ Berkeley, California
 &#10004; ITA: 26 (37.41)<br>  
 &#10004; Slam: 25 (89.36)<br>  
 &#10004; TRN: 27 (81.49)<br>  
-&nbsp; Massey: 33 (7.29)<br>  
+&#10004; Massey: 33 (7.29)<br>  
 &#10004; UTR: 34 (60.15)<br>  
 &#10004; USTA Poll: 24<br>  
 &#10004; Coaches Poll: 27<br>  
@@ -46,8 +46,8 @@ Berkeley, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UK*** - #25 Kentucky (83%) def. #43 Syracuse (17%)  
 - TRN: ***UK*** - #27 Kentucky (84%) def. #43 Syracuse (16%)  
-- Massey: ***SYR*** - #42 Syracuse (NaN%) def. #33 Kentucky (NaN%)  
-- Lineup: ***UK*** - Kentucky (72%) def. Syracuse (28%)  
+- Massey: ***UK*** - #33 Kentucky (78%) def. #42 Syracuse (22%)  
+- Lineup: ***UK*** - Kentucky (68%) def. Syracuse (32%)  
 - UTR: ***UK*** - #34 Kentucky (+1.47) def. #43 Syracuse (-1.47)  
 - ITA: ***UK*** - #26 Kentucky def. #43 Syracuse  
 - USTA Poll: ***UK*** - #24 Kentucky def. Syracuse  
@@ -64,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Viktoriya Kanapatskaya (SYR) - 9-5 at #1, 11-5 in duals, 11-5 overall<br>Akvile Parazinskaite (UK) - 16-6 at #1, 16-6 in duals, 19-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SYR</i></b> - Kanapatskaya (64%) def. Parazinskaite (36%)</li>  
+<li>Composite: <b><i>SYR</i></b> - Kanapatskaya (61%) def. Parazinskaite (39%)</li>  
 <li>Slam: <b><i>SYR</i></b> - Kanapatskaya (65%) def. Parazinskaite (35%)</li>  
 <li>TRN: <b><i>SYR</i></b> - Kanapatskaya (65%) def. Parazinskaite (35%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Kanapatskaya (NaN%) def. Parazinskaite (NaN%)</li>  
@@ -75,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Guzal Yusupova (SYR) - 4-6 at #2, 4-9 in duals, 4-9 overall<br>Lesedi Jacobs (UK) - 0-1 at #2, 9-5 in duals, 11-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Jacobs (77%) def. Yusupova (23%)</li>  
+<li>Composite: <b><i>UK</i></b> - Jacobs (76%) def. Yusupova (24%)</li>  
 <li>Slam: <b><i>UK</i></b> - Jacobs (66%) def. Yusupova (34%)</li>  
 <li>TRN: <b><i>UK</i></b> - Jacobs (76%) def. Yusupova (24%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Yusupova (NaN%) def. Jacobs (NaN%)</li>  
@@ -86,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Natalie Novotna (SYR) - 4-6 at #3, 7-9 in duals, 7-9 overall<br>Carlota Molina (UK) - 1-1 at #3, 12-7 in duals, 12-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Molina (72%) def. Novotna (28%)</li>  
+<li>Composite: <b><i>UK</i></b> - Molina (68%) def. Novotna (32%)</li>  
 <li>Slam: <b><i>UK</i></b> - Molina (67%) def. Novotna (33%)</li>  
 <li>TRN: <b><i>UK</i></b> - Molina (73%) def. Novotna (27%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Novotna (NaN%) def. Molina (NaN%)</li>  
@@ -97,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Miranda Ramirez (SYR) - 3-6 at #4, 4-13 in duals, 4-13 overall<br>Elizabeth Stevens (UK) - 1-5 at #4, 3-8 in duals, 6-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Stevens (55%) def. Ramirez (45%)</li>  
+<li>Composite: <b><i>UK</i></b> - Stevens (56%) def. Ramirez (44%)</li>  
 <li>Slam: <b><i>UK</i></b> - Stevens (59%) def. Ramirez (41%)</li>  
 <li>TRN: <b><i>UK</i></b> - Stevens (65%) def. Ramirez (35%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Ramirez (NaN%) def. Stevens (NaN%)</li>  
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Zeynep Erman (SYR) - 3-4 at #5, 4-4 in duals, 4-4 overall<br>Carla Girbau (UK) - 2-1 at #5, 9-9 in duals, 11-14 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Girbau (66%) def. Erman (34%)</li>  
+<li>Composite: <b><i>UK</i></b> - Girbau (60%) def. Erman (40%)</li>  
 <li>Slam: <b><i>UK</i></b> - Girbau (64%) def. Erman (36%)</li>  
 <li>TRN: <b><i>UK</i></b> - Girbau (61%) def. Erman (39%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Erman (NaN%) def. Girbau (NaN%)</li>  
@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Polina Kozyreva (SYR) - 7-5 at #6, 10-9 in duals, 10-9 overall<br>Fiona Arrese (UK) - 2-1 at #6, 10-4 in duals, 10-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SYR</i></b> - Kozyreva (60%) def. Arrese (40%)</li>  
+<li>Composite: <b><i>SYR</i></b> - Kozyreva (61%) def. Arrese (39%)</li>  
 <li>Slam: <b><i>UK</i></b> - Arrese (60%) def. Kozyreva (40%)</li>  
 <li>TRN: <b><i>UK</i></b> - Arrese (57%) def. Kozyreva (43%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Kozyreva (NaN%) def. Arrese (NaN%)</li>  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Kentucky should win 4 or more singles matches _50%_ of the time.  
-- Syracuse should win 4 or more singles matches _19%_ of the time.  
+- Kentucky should win 4 or more singles matches _47%_ of the time.  
+- Syracuse should win 4 or more singles matches _22%_ of the time.  
 - The winner of the doubles point will decide the match the other _31%_ of the time.  
-- If Kentucky wins the doubles point, their chances of winning the dual improve to _81%_.  
-- If Syracuse wins the doubles point, their chances of winning the dual improve to _50%_.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to _78%_.  
+- If Syracuse wins the doubles point, their chances of winning the dual improve to _53%_.  
   
 ------
 

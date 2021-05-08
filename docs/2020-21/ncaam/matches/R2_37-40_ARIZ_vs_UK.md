@@ -5,7 +5,7 @@ Boone Tennis Complex
 Lexington, Kentucky  
 ## [Arizona vs #14 Kentucky](https://www.ncaa.com/game/5833411)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#2 Arizona</h2>  
@@ -44,8 +44,8 @@ Lexington, Kentucky
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UK*** - #17 Kentucky (71%) def. #21 Arizona (29%)  
 - TRN: ***UK*** - #17 Kentucky (69%) def. #20 Arizona (31%)  
-- Massey: ***ARIZ*** - #18 Arizona (NaN%) def. #17 Kentucky (NaN%)  
-- Lineup: ***UK*** - Kentucky (82%) def. Arizona (18%)  
+- Massey: ***ARIZ*** - #18 Arizona (51%) def. #17 Kentucky (49%)  
+- Lineup: ***UK*** - Kentucky (80%) def. Arizona (20%)  
 - UTR: ***UK*** - #16 Kentucky (+0.53) def. #21 Arizona (-0.53)  
 - ITA: ***UK*** - #15 Kentucky def. #17 Arizona  
 - USTA Poll: ***UK*** - #17 Kentucky def. #18 Arizona  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Gustaf Strom (ARIZ) - 3-1 at #1, 17-2 in duals, 17-2 overall<br>Liam Draxl (UK) - 19-2 at #1, 19-2 in duals, 19-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Draxl (79%) def. Strom (21%)</li>  
+<li>Composite: <b><i>UK</i></b> - Draxl (75%) def. Strom (25%)</li>  
 <li>Slam: <b><i>UK</i></b> - Draxl (86%) def. Strom (14%)</li>  
 <li>TRN: <b><i>UK</i></b> - Draxl (66%) def. Strom (34%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Strom (NaN%) def. Draxl (NaN%)</li>  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jonas Ziverts (ARIZ) - 1-1 at #2, 9-8 in duals, 9-8 overall<br>Gabriel Diallo (UK) - 12-5 at #2, 14-6 in duals, 19-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Diallo (61%) def. Ziverts (39%)</li>  
+<li>Composite: <b><i>UK</i></b> - Diallo (62%) def. Ziverts (38%)</li>  
 <li>Slam: <b><i>UK</i></b> - Diallo (55%) def. Ziverts (45%)</li>  
 <li>TRN: <b><i>UK</i></b> - Diallo (63%) def. Ziverts (37%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Ziverts (NaN%) def. Diallo (NaN%)</li>  
@@ -84,7 +84,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Filip Malbasic (ARIZ) - 5-4 at #3, 14-9 in duals, 14-9 overall<br>Millen Hurrion (UK) - 10-3 at #3, 14-4 in duals, 17-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Hurrion (70%) def. Malbasic (30%)</li>  
+<li>Composite: <b><i>UK</i></b> - Hurrion (67%) def. Malbasic (33%)</li>  
 <li>Slam: <b><i>UK</i></b> - Hurrion (69%) def. Malbasic (31%)</li>  
 <li>TRN: <b><i>UK</i></b> - Hurrion (72%) def. Malbasic (28%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Malbasic (NaN%) def. Hurrion (NaN%)</li>  
@@ -95,7 +95,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Herman Hoeyeraal (ARIZ) - 0-0 at #4, 4-0 in duals, 4-0 overall<br>Cesar Bourgois (UK) - 9-6 at #4, 14-6 in duals, 14-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Bourgois (99%) def. Hoeyeraal (1%)</li>  
+<li>Composite: <b><i>UK</i></b> - Bourgois (91%) def. Hoeyeraal (9%)</li>  
 <li>Slam: <b><i>UK</i></b> - Bourgois (100%) def. Hoeyeraal (0%)</li>  
 <li>TRN: <b><i>UK</i></b> - Bourgois (100%) def. Hoeyeraal (0%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Hoeyeraal (NaN%) def. Bourgois (NaN%)</li>  
@@ -106,7 +106,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alejandro Reguant (ARIZ) - 0-0 at #5, 13-6 in duals, 13-6 overall<br>Joshua Lapadat (UK) - 3-3 at #5, 6-9 in duals, 11-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ARIZ</i></b> - Reguant (63%) def. Lapadat (37%)</li>  
+<li>Composite: <b><i>ARIZ</i></b> - Reguant (61%) def. Lapadat (39%)</li>  
 <li>Slam: <b><i>ARIZ</i></b> - Reguant (61%) def. Lapadat (39%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Reguant (53%) def. Lapadat (47%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Reguant (NaN%) def. Lapadat (NaN%)</li>  
@@ -117,7 +117,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Carlos Hassey (ARIZ) - 1-1 at #6, 12-7 in duals, 12-7 overall<br>Alexandre LeBlanc (UK) - 2-4 at #6, 4-4 in duals, 5-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ARIZ</i></b> - Hassey (78%) def. LeBlanc (22%)</li>  
+<li>Composite: <b><i>ARIZ</i></b> - Hassey (72%) def. LeBlanc (28%)</li>  
 <li>Slam: <b><i>ARIZ</i></b> - Hassey (78%) def. LeBlanc (22%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Hassey (79%) def. LeBlanc (21%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Hassey (NaN%) def. LeBlanc (NaN%)</li>  
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Kentucky should win 4 or more singles matches _58%_ of the time.  
-- Arizona should win 4 or more singles matches _12%_ of the time.  
+- Kentucky should win 4 or more singles matches _56%_ of the time.  
+- Arizona should win 4 or more singles matches _14%_ of the time.  
 - The winner of the doubles point will decide the match the other _30%_ of the time.  
-- If Kentucky wins the doubles point, their chances of winning the dual improve to _88%_.  
-- If Arizona wins the doubles point, their chances of winning the dual improve to _42%_.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to _86%_.  
+- If Arizona wins the doubles point, their chances of winning the dual improve to _44%_.  
   
 ------
 

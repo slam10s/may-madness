@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Florida
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 41
   Seeding:
     Overall: 11
@@ -41,8 +41,8 @@ Visitor:
 Predictions:
   SLM: "FLA - #16 Florida (82%) def. #35 Southern California (18%)"
   TRN: "FLA - #20 Florida (90%) def. #41 Southern California (10%)"
-  MAS: "USC - #26 Southern California (NaN%) def. #21 Florida (NaN%)"
-  LNUP: FLA - Florida (79%) def. Southern California (21%)
+  MAS: "FLA - #21 Florida (62%) def. #26 Southern California (38%)"
+  LNUP: FLA - Florida (82%) def. Southern California (18%)
   UTR: "USC - #6 Southern California (+1.59) def. #11 Florida (-1.59)"
   ITA: "FLA - #11 Florida def. #35 Southern California"
   USTA: "FLA - #20 Florida def. Southern California"
@@ -50,17 +50,17 @@ Predictions:
   Seeding: "FLA - #1 Florida def. #3 Southern California"
 Lineups:
   Predictions:
-    Average EWPs for FLA: 82%,90%,NaN%,79%
-    Average EWPs for USC: 18%,10%,NaN%,21%
-    FLA wins 4 or more Singles points: 53%
-    USC wins 4 or more Singles points: 14%
-    Winner decided by the Doubles point: 33%
+    Average EWPs for FLA: 82%,90%,NaN%,82%
+    Average EWPs for USC: 18%,10%,NaN%,18%
+    FLA wins 4 or more Singles points: 57%
+    USC wins 4 or more Singles points: 12%
+    Winner decided by the Doubles point: 31%
   Singles:
     - Position: 1
       FLA: McCartney Kessler - 13-2 at 1, 13-2 in duals, 16-2 overall
       USC: Salma Ewing - 4-2 at 1, 13-5 in duals, 13-5 overall
       Predictions:
-        AVG: FLA - Kessler (76%) def. Ewing (24%)
+        AVG: FLA - Kessler (78%) def. Ewing (22%)
         SLM: FLA - Kessler (86%) def. Ewing (14%)
         TRN: FLA - Kessler (73%) def. Ewing (27%)
         MAS: USC - Ewing (NaN%) def. Kessler (NaN%)
@@ -70,7 +70,7 @@ Lineups:
       FLA: Marlee Zein - 6-5 at 2, 8-5 in duals, 10-8 overall
       USC: Eryn Cayetano - 6-2 at 2, 10-5 in duals, 10-5 overall
       Predictions:
-        AVG: USC - Cayetano (82%) def. Zein (18%)
+        AVG: USC - Cayetano (77%) def. Zein (23%)
         SLM: USC - Cayetano (78%) def. Zein (22%)
         TRN: USC - Cayetano (82%) def. Zein (18%)
         MAS: USC - Cayetano (NaN%) def. Zein (NaN%)
@@ -90,7 +90,7 @@ Lineups:
       FLA: Layne Sleeth - 7-0 at 4, 9-1 in duals, 9-1 overall
       USC: Naomi Cheong - 0-0 at 4, 9-8 in duals, 9-8 overall
       Predictions:
-        AVG: FLA - Sleeth (57%) def. Cheong (43%)
+        AVG: FLA - Sleeth (61%) def. Cheong (39%)
         SLM: USC - Cheong (58%) def. Sleeth (42%)
         TRN: FLA - Sleeth (51%) def. Cheong (49%)
         MAS: USC - Cheong (NaN%) def. Sleeth (NaN%)
@@ -100,7 +100,7 @@ Lineups:
       FLA: Sara Dahlstrom - 3-4 at 5, 6-8 in duals, 9-11 overall
       USC: Dani Willson - 0-0 at 5, 12-8 in duals, 12-8 overall
       Predictions:
-        AVG: USC - Willson (66%) def. Dahlstrom (34%)
+        AVG: USC - Willson (65%) def. Dahlstrom (35%)
         SLM: USC - Willson (63%) def. Dahlstrom (37%)
         TRN: USC - Willson (71%) def. Dahlstrom (29%)
         MAS: USC - Willson (NaN%) def. Dahlstrom (NaN%)
@@ -110,7 +110,7 @@ Lineups:
       FLA: Sydney Berlin - 6-3 at 6, 11-4 in duals, 16-5 overall
       USC: Summer Dvorak - 0-0 at 6, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: FLA - Berlin (72%) def. Dvorak (28%)
+        AVG: FLA - Berlin (70%) def. Dvorak (30%)
         SLM: FLA - Berlin (70%) def. Dvorak (30%)
         TRN: FLA - Berlin (70%) def. Dvorak (30%)
         MAS: USC - Dvorak (NaN%) def. Berlin (NaN%)

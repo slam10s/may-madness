@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Florida
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 1
   Seeding:
     Overall: 1
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: South Alabama
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 2
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "FLA - #2 Florida (99%) def. #50 South Alabama (1%)"
   TRN: "FLA - #3 Florida (99%) def. #52 South Alabama (1%)"
-  MAS: "SALA - #46 South Alabama (NaN%) def. #1 Florida (NaN%)"
+  MAS: "FLA - #1 Florida (99%) def. #46 South Alabama (1%)"
   LNUP: FLA - Florida (99%) def. South Alabama (1%)
   UTR: "FLA - #1 Florida (+6.84) def. #49 South Alabama (-6.84)"
   ITA: "FLA - #2 Florida def. #53 South Alabama"
@@ -58,7 +58,7 @@ Lineups:
       FLA: Duarte Vale - 15-6 at 1, 15-6 in duals, 23-6 overall
       SALA: Julien Evrard - 10-4 at 1, 13-4 in duals, 19-7 overall
       Predictions:
-        AVG: FLA - Vale (92%) def. Evrard (8%)
+        AVG: FLA - Vale (90%) def. Evrard (10%)
         SLM: FLA - Vale (92%) def. Evrard (8%)
         TRN: FLA - Vale (92%) def. Evrard (8%)
         MAS: SALA - Evrard (NaN%) def. Vale (NaN%)
@@ -68,7 +68,7 @@ Lineups:
       FLA: Sam Riffice - 16-4 at 2, 18-4 in duals, 23-7 overall
       SALA: Clement Marzol - 8-1 at 2, 12-2 in duals, 18-4 overall
       Predictions:
-        AVG: FLA - Riffice (91%) def. Marzol (9%)
+        AVG: FLA - Riffice (89%) def. Marzol (11%)
         SLM: FLA - Riffice (90%) def. Marzol (10%)
         TRN: FLA - Riffice (92%) def. Marzol (8%)
         MAS: SALA - Marzol (NaN%) def. Riffice (NaN%)
@@ -78,7 +78,7 @@ Lineups:
       FLA: Andy Andrade - 12-7 at 3, 14-7 in duals, 22-7 overall
       SALA: Loic Cloes - 5-3 at 3, 9-4 in duals, 9-4 overall
       Predictions:
-        AVG: FLA - Andrade (95%) def. Cloes (5%)
+        AVG: FLA - Andrade (93%) def. Cloes (7%)
         SLM: FLA - Andrade (93%) def. Cloes (7%)
         TRN: FLA - Andrade (96%) def. Cloes (4%)
         MAS: SALA - Cloes (NaN%) def. Andrade (NaN%)
@@ -88,7 +88,7 @@ Lineups:
       FLA: Blaise Bicknell - 15-0 at 4, 20-0 in duals, 29-0 overall
       SALA: Sebastien Collard - 7-4 at 4, 11-6 in duals, 20-6 overall
       Predictions:
-        AVG: FLA - Bicknell (95%) def. Collard (5%)
+        AVG: FLA - Bicknell (93%) def. Collard (7%)
         SLM: FLA - Bicknell (94%) def. Collard (6%)
         TRN: FLA - Bicknell (98%) def. Collard (2%)
         MAS: SALA - Collard (NaN%) def. Bicknell (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       FLA: Ben Shelton - 15-4 at 5, 17-4 in duals, 24-5 overall
       SALA: Louis Delcour - 5-2 at 5, 9-5 in duals, 9-5 overall
       Predictions:
-        AVG: FLA - Shelton (97%) def. Delcour (3%)
+        AVG: FLA - Shelton (94%) def. Delcour (6%)
         SLM: FLA - Shelton (96%) def. Delcour (4%)
         TRN: FLA - Shelton (98%) def. Delcour (2%)
         MAS: SALA - Delcour (NaN%) def. Shelton (NaN%)

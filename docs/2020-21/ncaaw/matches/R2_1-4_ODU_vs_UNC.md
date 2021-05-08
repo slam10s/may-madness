@@ -5,7 +5,7 @@ Cone-Kenfield Center
 Chapel Hill, North Carolina  
 ## [Old Dominion vs #1 North Carolina](https://www.ncaa.com/game/5833679)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0B4071 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0B4071 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#2 Old Dominion</h2>  
@@ -13,7 +13,7 @@ Chapel Hill, North Carolina
 &nbsp; ITA: 30 (28.00)<br>  
 &nbsp; Slam: 28 (89.21)<br>  
 &nbsp; TRN: 25 (81.50)<br>  
-&#10004; Massey: 29 (7.37)<br>  
+&nbsp; Massey: 29 (7.37)<br>  
 &nbsp; UTR: 37 (59.77)<br>  
 &nbsp; USTA Poll: RV<br>  
 &nbsp; Coaches Poll: 32<br>  
@@ -27,7 +27,7 @@ Chapel Hill, North Carolina
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
-&nbsp; Massey: 1 (9.82)<br>  
+&#10004; Massey: 1 (9.82)<br>  
 &#10004; UTR: 2 (65.21)<br>  
 &#10004; USTA Poll: 1<br>  
 &#10004; Coaches Poll: 1<br>  
@@ -44,7 +44,7 @@ Chapel Hill, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #28 Old Dominion (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #25 Old Dominion (1%)  
-- Massey: ***ODU*** - #29 Old Dominion (NaN%) def. #1 North Carolina (NaN%)  
+- Massey: ***UNC*** - #1 North Carolina (99%) def. #29 Old Dominion (1%)  
 - Lineup: ***UNC*** - North Carolina (99%) def. Old Dominion (1%)  
 - UTR: ***UNC*** - #2 North Carolina (+5.44) def. #37 Old Dominion (-5.44)  
 - ITA: ***UNC*** - #1 North Carolina def. #30 Old Dominion  
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Yulia Starodubtseva (ODU) - 11-1 at #2, 11-1 in duals, 11-1 overall<br>Alexa Graham (UNC) - 5-0 at #2, 11-2 in duals, 16-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Graham (93%) def. Starodubtseva (7%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Graham (89%) def. Starodubtseva (11%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Graham (93%) def. Starodubtseva (7%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Graham (94%) def. Starodubtseva (6%)</li>  
 <li>Massey: <b><i>ODU</i></b> - Starodubtseva (NaN%) def. Graham (NaN%)</li>  
@@ -84,7 +84,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Tatsiana Sasnouskaya (ODU) - 9-2 at #3, 13-2 in duals, 13-2 overall<br>Cameron Morra (UNC) - 6-2 at #3, 15-6 in duals, 15-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Morra (88%) def. Sasnouskaya (12%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Morra (82%) def. Sasnouskaya (18%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Morra (88%) def. Sasnouskaya (12%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Morra (88%) def. Sasnouskaya (12%)</li>  
 <li>Massey: <b><i>ODU</i></b> - Sasnouskaya (NaN%) def. Morra (NaN%)</li>  
@@ -95,7 +95,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alesya Yakubovich (ODU) - 4-5 at #4, 6-7 in duals, 6-7 overall<br>Elizabeth Scotty (UNC) - 6-1 at #4, 11-2 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Scotty (97%) def. Yakubovich (3%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Scotty (96%) def. Yakubovich (4%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Scotty (97%) def. Yakubovich (3%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Scotty (98%) def. Yakubovich (2%)</li>  
 <li>Massey: <b><i>ODU</i></b> - Yakubovich (NaN%) def. Scotty (NaN%)</li>  
@@ -106,7 +106,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Brooke Pilkington (ODU) - 2-3 at #5, 6-5 in duals, 6-5 overall<br>Makenna Jones (UNC) - 1-2 at #5, 13-2 in duals, 15-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Jones (97%) def. Pilkington (3%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Jones (96%) def. Pilkington (4%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Jones (98%) def. Pilkington (2%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Jones (99%) def. Pilkington (1%)</li>  
 <li>Massey: <b><i>ODU</i></b> - Pilkington (NaN%) def. Jones (NaN%)</li>  

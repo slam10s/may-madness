@@ -5,7 +5,7 @@ Cone-Kenfield Center
 Chapel Hill, North Carolina  
 ## [Presbyterian vs #6 North Carolina](https://www.ncaa.com/game/5833393)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005394 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005394 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Presbyterian</h2>  
@@ -13,7 +13,7 @@ Chapel Hill, North Carolina
 &nbsp; ITA: 59 (3.97)<br>  
 &nbsp; Slam: 59 (82.26)<br>  
 &nbsp; TRN: 59 (77.90)<br>  
-&#10004; Massey: 61 (5.23)<br>  
+&nbsp; Massey: 61 (5.23)<br>  
 &nbsp; UTR: 61 (70.28)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Chapel Hill, North Carolina
 &#10004; ITA: 6 (72.02)<br>  
 &#10004; Slam: 3 (99.37)<br>  
 &#10004; TRN: 2 (99.37)<br>  
-&nbsp; Massey: 4 (8.94)<br>  
+&#10004; Massey: 4 (8.94)<br>  
 &#10004; UTR: 11 (79.64)<br>  
 &#10004; USTA Poll: 5<br>  
 &#10004; Coaches Poll: 6<br>  
@@ -42,7 +42,7 @@ Chapel Hill, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UNC*** - #3 North Carolina (99%) def. #59 Presbyterian (1%)  
 - TRN: ***UNC*** - #2 North Carolina (99%) def. #59 Presbyterian (1%)  
-- Massey: ***PRES*** - #61 Presbyterian (NaN%) def. #4 North Carolina (NaN%)  
+- Massey: ***UNC*** - #4 North Carolina (100%) def. #61 Presbyterian (0%)  
 - Lineup: ***UNC*** - North Carolina (99%) def. Presbyterian (1%)  
 - UTR: ***UNC*** - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)  
 - ITA: ***UNC*** - #6 North Carolina def. #59 Presbyterian  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nick McKinney (PRES) - 3-1 at #3, 13-1 in duals, 13-1 overall<br>Benjamin Sigouin (UNC) - 3-2 at #3, 9-9 in duals, 9-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Sigouin (94%) def. McKinney (6%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Sigouin (88%) def. McKinney (12%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Sigouin (97%) def. McKinney (3%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Sigouin (96%) def. McKinney (4%)</li>  
 <li>Massey: <b><i>PRES</i></b> - McKinney (NaN%) def. Sigouin (NaN%)</li>  
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Javier Matos (PRES) - 6-2 at #6, 7-2 in duals, 7-2 overall<br>Simon Soendergaard (UNC) - 6-3 at #6, 10-5 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Soendergaard (97%) def. Matos (3%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Soendergaard (96%) def. Matos (4%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Soendergaard (98%) def. Matos (2%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Soendergaard (99%) def. Matos (1%)</li>  
 <li>Massey: <b><i>PRES</i></b> - Matos (NaN%) def. Soendergaard (NaN%)</li>  

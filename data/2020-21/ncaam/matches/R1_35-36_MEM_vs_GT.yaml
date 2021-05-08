@@ -40,7 +40,7 @@ Visitor:
 Predictions:
   SLM: "GT - #27 Georgia Tech (69%) def. #41 Memphis (31%)"
   TRN: "GT - #33 Georgia Tech (64%) def. #40 Memphis (36%)"
-  MAS: "MEM - #43 Memphis (NaN%) def. #25 Georgia Tech (NaN%)"
+  MAS: "GT - #25 Georgia Tech (84%) def. #43 Memphis (16%)"
   LNUP: GT - Georgia Tech (91%) def. Memphis (9%)
   UTR: "GT - #36 Georgia Tech (+1.14) def. #43 Memphis (-1.14)"
   ITA: "GT - #30 Georgia Tech def. #38 Memphis"
@@ -59,7 +59,7 @@ Lineups:
       GT: Marcus McDaniel - 10-6 at 1, 15-6 in duals, 15-8 overall
       MEM: James Story - 8-6 at 1, 8-6 in duals, 8-6 overall
       Predictions:
-        AVG: GT - McDaniel (74%) def. Story (26%)
+        AVG: GT - McDaniel (73%) def. Story (27%)
         SLM: GT - McDaniel (71%) def. Story (29%)
         TRN: GT - McDaniel (72%) def. Story (28%)
         MAS: MEM - Story (NaN%) def. McDaniel (NaN%)
@@ -69,7 +69,7 @@ Lineups:
       GT: Andres Martin - 11-5 at 2, 14-7 in duals, 16-8 overall
       MEM: David Stevenson - 2-5 at 2, 8-8 in duals, 8-8 overall
       Predictions:
-        AVG: GT - Martin (84%) def. Stevenson (16%)
+        AVG: GT - Martin (83%) def. Stevenson (17%)
         SLM: GT - Martin (82%) def. Stevenson (18%)
         TRN: GT - Martin (85%) def. Stevenson (15%)
         MAS: MEM - Stevenson (NaN%) def. Martin (NaN%)
@@ -79,7 +79,7 @@ Lineups:
       GT: Pablo Schelcher - 8-5 at 3, 12-7 in duals, 13-9 overall
       MEM: Oscar Cutting - 2-4 at 3, 8-9 in duals, 8-9 overall
       Predictions:
-        AVG: GT - Schelcher (66%) def. Cutting (34%)
+        AVG: GT - Schelcher (67%) def. Cutting (33%)
         SLM: GT - Schelcher (58%) def. Cutting (42%)
         TRN: GT - Schelcher (68%) def. Cutting (32%)
         MAS: MEM - Cutting (NaN%) def. Schelcher (NaN%)
@@ -89,7 +89,7 @@ Lineups:
       GT: Keshav Chopra - 8-3 at 4, 12-8 in duals, 14-9 overall
       MEM: Jan Pallares - 4-4 at 4, 6-8 in duals, 6-8 overall
       Predictions:
-        AVG: GT - Chopra (79%) def. Pallares (21%)
+        AVG: GT - Chopra (76%) def. Pallares (24%)
         SLM: GT - Chopra (80%) def. Pallares (20%)
         TRN: GT - Chopra (83%) def. Pallares (17%)
         MAS: MEM - Pallares (NaN%) def. Chopra (NaN%)

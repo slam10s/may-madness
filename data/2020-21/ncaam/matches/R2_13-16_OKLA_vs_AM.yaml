@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Texas A&M
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 16
   Seeding:
     Overall: 8
@@ -41,7 +41,7 @@ Visitor:
 Predictions:
   SLM: "A&M - #11 Texas A&M (90%) def. #29 Oklahoma (10%)"
   TRN: "A&M - #11 Texas A&M (93%) def. #28 Oklahoma (7%)"
-  MAS: "OKLA - #37 Oklahoma (NaN%) def. #12 Texas A&M (NaN%)"
+  MAS: "A&M - #12 Texas A&M (93%) def. #37 Oklahoma (7%)"
   LNUP: A&M - Texas A&M (97%) def. Oklahoma (3%)
   UTR: "A&M - #8 Texas A&M (+2.23) def. #28 Oklahoma (-2.23)"
   ITA: "A&M - #8 Texas A&M def. #27 Oklahoma"
@@ -60,7 +60,7 @@ Lineups:
       A&M: Valentin Vacherot - 13-2 at 1, 16-3 in duals, 21-5 overall
       OKLA: Jake Van Emburgh - 4-9 at 1, 8-10 in duals, 8-13 overall
       Predictions:
-        AVG: A&M - Vacherot (92%) def. Emburgh (8%)
+        AVG: A&M - Vacherot (93%) def. Emburgh (7%)
         SLM: A&M - Vacherot (91%) def. Emburgh (9%)
         TRN: A&M - Vacherot (94%) def. Emburgh (6%)
         MAS: OKLA - Emburgh (NaN%) def. Vacherot (NaN%)
@@ -80,7 +80,7 @@ Lineups:
       A&M: Juan Carlos Aguilar - 6-6 at 3, 10-8 in duals, 15-10 overall
       OKLA: Alex Martinez - 6-2 at 3, 12-7 in duals, 15-13 overall
       Predictions:
-        AVG: A&M - Aguilar (78%) def. Martinez (22%)
+        AVG: A&M - Aguilar (76%) def. Martinez (24%)
         SLM: A&M - Aguilar (75%) def. Martinez (25%)
         TRN: A&M - Aguilar (75%) def. Martinez (25%)
         MAS: OKLA - Martinez (NaN%) def. Aguilar (NaN%)
@@ -90,7 +90,7 @@ Lineups:
       A&M: Noah Schachter - 7-5 at 4, 12-10 in duals, 19-13 overall
       OKLA: Nathan Han - 2-6 at 4, 7-7 in duals, 13-11 overall
       Predictions:
-        AVG: A&M - Schachter (65%) def. Han (35%)
+        AVG: A&M - Schachter (64%) def. Han (36%)
         SLM: A&M - Schachter (68%) def. Han (32%)
         TRN: A&M - Schachter (65%) def. Han (35%)
         MAS: OKLA - Han (NaN%) def. Schachter (NaN%)
@@ -100,7 +100,7 @@ Lineups:
       A&M: Pierce Rollins - 3-3 at 5, 8-5 in duals, 15-9 overall
       OKLA: Justin Schlageter - 3-5 at 5, 6-6 in duals, 10-12 overall
       Predictions:
-        AVG: A&M - Rollins (81%) def. Schlageter (19%)
+        AVG: A&M - Rollins (80%) def. Schlageter (20%)
         SLM: A&M - Rollins (79%) def. Schlageter (21%)
         TRN: A&M - Rollins (84%) def. Schlageter (16%)
         MAS: OKLA - Schlageter (NaN%) def. Rollins (NaN%)
@@ -110,7 +110,7 @@ Lineups:
       A&M: Guido Marson - 0-0 at 6, 5-6 in duals, 7-9 overall
       OKLA: Mark Mandlik - 1-1 at 6, 6-14 in duals, 6-14 overall
       Predictions:
-        AVG: A&M - Marson (68%) def. Mandlik (32%)
+        AVG: A&M - Marson (70%) def. Mandlik (30%)
         SLM: A&M - Marson (63%) def. Mandlik (37%)
         TRN: A&M - Marson (75%) def. Mandlik (25%)
         MAS: OKLA - Mandlik (NaN%) def. Marson (NaN%)

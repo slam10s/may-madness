@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Southern California
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 24
   Seeding:
     Overall: 12
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Grand Canyon
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 23
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "USC - #14 Southern California (99%) def. #62 Grand Canyon (1%)"
   TRN: "USC - #16 Southern California (99%) def. #62 Grand Canyon (1%)"
-  MAS: "GCU - #62 Grand Canyon (NaN%) def. #8 Southern California (NaN%)"
+  MAS: "USC - #8 Southern California (100%) def. #62 Grand Canyon (0%)"
   LNUP: USC - Southern California (99%) def. Grand Canyon (1%)
   UTR: "USC - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)"
   ITA: "USC - #12 Southern California def. #64 Grand Canyon"
@@ -98,7 +98,7 @@ Lineups:
       USC: Lodewijk Weststrate - 9-3 at 5, 21-4 in duals, 23-4 overall
       GCU: Jiri Novak - 5-1 at 5, 8-9 in duals, 8-9 overall
       Predictions:
-        AVG: USC - Weststrate (99%) def. Novak (1%)
+        AVG: USC - Weststrate (98%) def. Novak (2%)
         SLM: USC - Weststrate (99%) def. Novak (1%)
         TRN: USC - Weststrate (99%) def. Novak (1%)
         MAS: GCU - Novak (NaN%) def. Weststrate (NaN%)

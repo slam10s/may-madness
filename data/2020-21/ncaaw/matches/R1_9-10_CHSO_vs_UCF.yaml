@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: UCF
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 9
   Seeding:
     Overall: 9
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Charleston So.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 10
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "UCF - #12 UCF (99%) def. #60 Charleston So. (1%)"
   TRN: "UCF - #12 UCF (99%) def. #57 Charleston So. (1%)"
-  MAS: "CHSO - #60 Charleston So. (NaN%) def. #10 UCF (NaN%)"
+  MAS: "UCF - #10 UCF (100%) def. #60 Charleston So. (0%)"
   LNUP: UCF - UCF (99%) def. Charleston So. (1%)
   UTR: "UCF - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)"
   ITA: "UCF - #9 UCF def. #58 Charleston So."
@@ -68,7 +68,7 @@ Lineups:
       UCF: Rebeka Stolmar - 7-4 at 2, 12-6 in duals, 14-7 overall
       CHSO: Luiza Fullana - 7-6 at 2, 7-6 in duals, 7-6 overall
       Predictions:
-        AVG: UCF - Stolmar (98%) def. Fullana (2%)
+        AVG: UCF - Stolmar (97%) def. Fullana (3%)
         SLM: UCF - Stolmar (98%) def. Fullana (2%)
         TRN: UCF - Stolmar (99%) def. Fullana (1%)
         MAS: CHSO - Fullana (NaN%) def. Stolmar (NaN%)

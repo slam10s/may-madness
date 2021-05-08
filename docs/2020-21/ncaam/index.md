@@ -9,8 +9,13 @@ Return to the [Home Page](../../index.md)
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at  5:00 EDT	[Ohio St. vs #10 Wake Forest](./matches/R2_53-56_OSU_vs_WAKE.md) ... WAKE (NaN%) / OSU (NaN%)
-- Sat, 5/08 at  1:00 EDT	[NC State vs #13 South Carolina](./matches/R2_25-28_NCST_vs_SCAR.md) ... SCAR (NaN%) / NCST (NaN%)
 - Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (NaN%) / ARIZ (NaN%)
+
+### Heavy Favorites
+
+The favorite is expected to win at least 4 out of every 5 these teams play:
+
+- Sat, 5/08 at  1:00 EDT	[NC State vs #13 South Carolina](./matches/R2_25-28_NCST_vs_SCAR.md) ... SCAR (NaN%) / NCST (NaN%)
 - Sat, 5/08 at  2:00 EDT	[Notre Dame vs #16 Illinois](./matches/R2_5-8_ND_vs_ILL.md) ... ILL (NaN%) / ND (NaN%)
 - Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... A&M (NaN%) / OKLA (NaN%)
 - Sat, 5/08 at  4:00 EDT	[Pepperdine vs #12 Southern California](./matches/R2_21-24_PEPP_vs_USC.md) ... USC (NaN%) / PEPP (NaN%)
@@ -20,14 +25,18 @@ The various metrics disagree on the outcome of these matches:
 
 The various metrics disagree on the outcome of these matches:
 
-- Sat, 5/08 at 10:00 EDT	[Duke vs South Fla.](./matches/R1_3-4_DUKE_vs_USF.md) ... USF (NaN%) / DUKE (NaN%)
-- Fri, 5/07 at 10:00 EDT	[Michigan vs Arizona](./matches/R1_37-38_MICH_vs_ARIZ.md) ... <b>ARIZ (4)</b> / MICH (3)
 - Sat, 5/08 at 10:00 EDT	[Virginia Tech vs Texas Tech](./matches/R1_43-44_VT_vs_TTU.md) ... TTU (NaN%) / VT (NaN%)
+- Fri, 5/07 at 10:00 EDT	[Michigan vs Arizona](./matches/R1_37-38_MICH_vs_ARIZ.md) ... <b>ARIZ (4)</b> / MICH (3)
+- Sat, 5/08 at 10:00 EDT	[Duke vs South Fla.](./matches/R1_3-4_DUKE_vs_USF.md) ... USF (NaN%) / DUKE (NaN%)
+- Sat, 5/08 at 12:00 EDT	[Oregon vs Alabama](./matches/R1_61-62_ORE_vs_BAMA.md) ... BAMA (NaN%) / ORE (NaN%)
 - Fri, 5/07 at  2:00 EDT	[Western Mich. vs Notre Dame](./matches/R1_5-6_WMU_vs_ND.md) ... <b>ND (4)</b> / WMU (1)
+
+### Heavy Favorites
+
+The favorite is expected to win at least 4 out of every 5 these teams play:
+
 - Fri, 5/07 at 12:00 EDT	[Denver vs Oklahoma](./matches/R1_13-14_DEN_vs_OKLA.md) ... <b>OKLA (4)</b> / DEN (1)
 - Sat, 5/08 at 10:00 EDT	[Northwestern vs UCLA](./matches/R1_29-30_NW_vs_UCLA.md) ... UCLA (NaN%) / NW (NaN%)
-- Sat, 5/08 at 12:00 EDT	[Wichita St. vs Arizona St.](./matches/R1_51-52_WICH_vs_AZST.md) ... AZST (NaN%) / WICH (NaN%)
-- Sat, 5/08 at 12:00 EDT	[Oregon vs Alabama](./matches/R1_61-62_ORE_vs_BAMA.md) ... BAMA (NaN%) / ORE (NaN%)
 - Sat, 5/08 at  1:00 EDT	[Middle Tenn. vs Tulane](./matches/R1_59-60_MTSU_vs_TULN.md) ... TULN (NaN%) / MTSU (NaN%)
 - Sat, 5/08 at  2:00 EDT	[Monmouth vs #9 UCF](./matches/R1_9-10_MONM_vs_UCF.md) ... UCF (NaN%) / MONM (NaN%)
 - Fri, 5/07 at 10:00 EDT	[FGCU vs NC State](./matches/R1_27-28_FGCU_vs_NCST.md) ... NCST (NaN%) / FGCU (NaN%)
@@ -43,6 +52,7 @@ The various metrics disagree on the outcome of these matches:
 - Sat, 5/08 at 10:00 EDT	[Memphis vs Georgia Tech](./matches/R1_35-36_MEM_vs_GT.md) ... GT (NaN%) / MEM (NaN%)
 - Sat, 5/08 at 10:00 EDT	[Navy vs Oklahoma St.](./matches/R1_45-46_NAVY_vs_OKST.md) ... OKST (NaN%) / NAVY (NaN%)
 - Sat, 5/08 at 11:00 EDT	[Miami (FL) vs Mississippi St.](./matches/R1_11-12_MIA_vs_MSST.md) ... MSST (NaN%) / MIA (NaN%)
+- Sat, 5/08 at 12:00 EDT	[Wichita St. vs Arizona St.](./matches/R1_51-52_WICH_vs_AZST.md) ... AZST (NaN%) / WICH (NaN%)
 - Sat, 5/08 at  1:00 EDT	[South Alabama vs #1 Florida](./matches/R1_1-2_SALA_vs_FLA.md) ... FLA (NaN%) / SALA (NaN%)
 - Sat, 5/08 at  1:00 EDT	[Fairleigh Dickinson vs #5 Virginia](./matches/R1_17-18_FDU_vs_UVA.md) ... UVA (NaN%) / FDU (NaN%)
 - Sat, 5/08 at  1:00 EDT	[Northern Ariz. vs #4 Texas](./matches/R1_31-32_NAU_vs_TEX.md) ... TEX (NaN%) / NAU (NaN%)

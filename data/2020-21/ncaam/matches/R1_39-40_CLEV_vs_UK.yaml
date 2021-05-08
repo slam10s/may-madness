@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Kentucky
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 40
   Seeding:
     Overall: 14
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Cleveland St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 39
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "UK - #17 Kentucky (99%) def. #56 Cleveland St. (1%)"
   TRN: "UK - #17 Kentucky (99%) def. #56 Cleveland St. (1%)"
-  MAS: "CLEV - #55 Cleveland St. (NaN%) def. #17 Kentucky (NaN%)"
+  MAS: "UK - #17 Kentucky (99%) def. #55 Cleveland St. (1%)"
   LNUP: UK - Kentucky (99%) def. Cleveland St. (1%)
   UTR: "UK - #16 Kentucky (+7.36) def. #54 Cleveland St. (-7.36)"
   ITA: "UK - #15 Kentucky def. #57 Cleveland St."
@@ -58,7 +58,7 @@ Lineups:
       UK: Liam Draxl - 19-2 at 1, 19-2 in duals, 19-2 overall
       CLEV: Nico Mostardi - 6-3 at 1, 6-3 in duals, 6-3 overall
       Predictions:
-        AVG: UK - Draxl (98%) def. Mostardi (2%)
+        AVG: UK - Draxl (97%) def. Mostardi (3%)
         SLM: UK - Draxl (98%) def. Mostardi (2%)
         TRN: UK - Draxl (99%) def. Mostardi (1%)
         MAS: CLEV - Mostardi (NaN%) def. Draxl (NaN%)
@@ -68,7 +68,7 @@ Lineups:
       UK: Gabriel Diallo - 12-5 at 2, 14-6 in duals, 19-7 overall
       CLEV: Matt Terry - 6-2 at 2, 15-4 in duals, 15-4 overall
       Predictions:
-        AVG: UK - Diallo (95%) def. Terry (5%)
+        AVG: UK - Diallo (93%) def. Terry (7%)
         SLM: UK - Diallo (94%) def. Terry (6%)
         TRN: UK - Diallo (96%) def. Terry (4%)
         MAS: CLEV - Terry (NaN%) def. Diallo (NaN%)
@@ -78,7 +78,7 @@ Lineups:
       UK: Millen Hurrion - 10-3 at 3, 14-4 in duals, 17-7 overall
       CLEV: Luke Phillips - 4-2 at 3, 17-3 in duals, 17-3 overall
       Predictions:
-        AVG: UK - Hurrion (95%) def. Phillips (5%)
+        AVG: UK - Hurrion (93%) def. Phillips (7%)
         SLM: UK - Hurrion (96%) def. Phillips (4%)
         TRN: UK - Hurrion (96%) def. Phillips (4%)
         MAS: CLEV - Phillips (NaN%) def. Hurrion (NaN%)
@@ -88,7 +88,7 @@ Lineups:
       UK: Cesar Bourgois - 9-6 at 4, 14-6 in duals, 14-6 overall
       CLEV: Maxime Mareschal-Hay - 3-2 at 4, 17-4 in duals, 17-4 overall
       Predictions:
-        AVG: UK - Bourgois (95%) def. Mareschal-Hay (5%)
+        AVG: UK - Bourgois (94%) def. Mareschal-Hay (6%)
         SLM: UK - Bourgois (95%) def. Mareschal-Hay (5%)
         TRN: UK - Bourgois (96%) def. Mareschal-Hay (4%)
         MAS: CLEV - Mareschal-Hay (NaN%) def. Bourgois (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       UK: Joshua Lapadat - 3-3 at 5, 6-9 in duals, 11-10 overall
       CLEV: Clark Bilinovich - 2-2 at 5, 9-6 in duals, 9-6 overall
       Predictions:
-        AVG: UK - Lapadat (98%) def. Bilinovich (2%)
+        AVG: UK - Lapadat (97%) def. Bilinovich (3%)
         SLM: UK - Lapadat (99%) def. Bilinovich (1%)
         TRN: UK - Lapadat (99%) def. Bilinovich (1%)
         MAS: CLEV - Bilinovich (NaN%) def. Lapadat (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       UK: Alexandre LeBlanc - 2-4 at 6, 4-4 in duals, 5-9 overall
       CLEV: Raul Teichmann - 0-2 at 6, 3-4 in duals, 3-4 overall
       Predictions:
-        AVG: UK - LeBlanc (97%) def. Teichmann (3%)
+        AVG: UK - LeBlanc (95%) def. Teichmann (5%)
         SLM: UK - LeBlanc (97%) def. Teichmann (3%)
         TRN: UK - LeBlanc (97%) def. Teichmann (3%)
         MAS: CLEV - Teichmann (NaN%) def. LeBlanc (NaN%)

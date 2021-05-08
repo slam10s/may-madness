@@ -5,7 +5,7 @@ Carolina Tennis Center
 Columbia, South Carolina  
 ## [FGCU vs NC State](https://www.ncaa.com/game/5833383)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fgcu.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fgcu.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 FGCU</h2>  
@@ -13,7 +13,7 @@ Columbia, South Carolina
 &nbsp; ITA: 47 (8.38)<br>  
 &nbsp; Slam: 49 (87.66)<br>  
 &nbsp; TRN: 50 (85.24)<br>  
-&#10004; Massey: 53 (6.42)<br>  
+&nbsp; Massey: 53 (6.42)<br>  
 &nbsp; UTR: 52 (73.58)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Columbia, South Carolina
 &#10004; ITA: 23 (32.39)<br>  
 &#10004; Slam: 19 (94.44)<br>  
 &#10004; TRN: 22 (92.30)<br>  
-&nbsp; Massey: 23 (7.70)<br>  
+&#10004; Massey: 23 (7.70)<br>  
 &#10004; UTR: 22 (78.11)<br>  
 &#10004; USTA Poll: 25<br>  
 &#10004; Coaches Poll: 28<br>  
@@ -42,8 +42,8 @@ Columbia, South Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***NCST*** - #19 NC State (98%) def. #49 FGCU (2%)  
 - TRN: ***NCST*** - #22 NC State (98%) def. #50 FGCU (2%)  
-- Massey: ***FGCU*** - #53 FGCU (NaN%) def. #23 NC State (NaN%)  
-- Lineup: ***NCST*** - NC State (99%) def. FGCU (1%)  
+- Massey: ***NCST*** - #23 NC State (95%) def. #53 FGCU (5%)  
+- Lineup: ***NCST*** - NC State (98%) def. FGCU (2%)  
 - UTR: ***NCST*** - #22 NC State (+4.53) def. #52 FGCU (-4.53)  
 - ITA: ***NCST*** - #23 NC State def. #47 FGCU  
 - USTA Poll: ***NCST*** - #25 NC State def. FGCU  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Magnus Johnson (FGCU) - 9-3 at #1, 9-3 in duals, 9-3 overall<br>Alexis Galarneau (NCST) - 10-2 at #1, 10-2 in duals, 10-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Galarneau (88%) def. Johnson (12%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Galarneau (87%) def. Johnson (13%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Galarneau (87%) def. Johnson (13%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Galarneau (85%) def. Johnson (15%)</li>  
 <li>Massey: <b><i>FGCU</i></b> - Johnson (NaN%) def. Galarneau (NaN%)</li>  
@@ -71,7 +71,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Juan Montes (FGCU) - 7-4 at #2, 7-4 in duals, 7-4 overall<br>Rafael Izquierdo Luque (NCST) - 2-5 at #2, 7-8 in duals, 8-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Luque (79%) def. Montes (21%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Luque (77%) def. Montes (23%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Luque (75%) def. Montes (25%)</li>  
 <li>Massey: <b><i>FGCU</i></b> - Montes (NaN%) def. Luque (NaN%)</li>  
@@ -82,7 +82,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Randy Wilson (FGCU) - 5-5 at #3, 6-7 in duals, 6-7 overall<br>Tadas Babelis (NCST) - 3-4 at #3, 5-9 in duals, 6-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Babelis (86%) def. Wilson (14%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Babelis (84%) def. Wilson (16%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Babelis (85%) def. Wilson (15%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Babelis (84%) def. Wilson (16%)</li>  
 <li>Massey: <b><i>FGCU</i></b> - Wilson (NaN%) def. Babelis (NaN%)</li>  
@@ -104,7 +104,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Guglielmo Stefanacci (FGCU) - 3-3 at #5, 8-5 in duals, 8-5 overall<br>Robin Catry (NCST) - 4-0 at #5, 10-5 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Catry (93%) def. Stefanacci (7%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Catry (89%) def. Stefanacci (11%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Catry (95%) def. Stefanacci (5%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Catry (95%) def. Stefanacci (5%)</li>  
 <li>Massey: <b><i>FGCU</i></b> - Stefanacci (NaN%) def. Catry (NaN%)</li>  
@@ -115,7 +115,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alessandro Conca (FGCU) - 0-2 at #6, 3-9 in duals, 3-9 overall<br>Robert Turzak (NCST) - 0-0 at #6, 6-4 in duals, 7-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Turzak (89%) def. Conca (11%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Turzak (90%) def. Conca (10%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Turzak (83%) def. Conca (17%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Turzak (89%) def. Conca (11%)</li>  
 <li>Massey: <b><i>FGCU</i></b> - Conca (NaN%) def. Turzak (NaN%)</li>  
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- NC State should win 4 or more singles matches _97%_ of the time.  
+- NC State should win 4 or more singles matches _95%_ of the time.  
 - FGCU should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
+- The winner of the doubles point will decide the match the other _4%_ of the time.  
 - If NC State wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If FGCU wins the doubles point, their chances of winning the dual improve to _3%_.  
+- If FGCU wins the doubles point, their chances of winning the dual improve to _5%_.  
   
 ------
 

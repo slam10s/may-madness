@@ -24,7 +24,7 @@ Home:
 Visitor:
   Team: Furman
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 35
   Seeding:
     Region: 3
@@ -40,8 +40,8 @@ Visitor:
 Predictions:
   SLM: "WAKE - #32 Wake Forest (51%) def. #33 Furman (49%)"
   TRN: "WAKE - #31 Wake Forest (58%) def. #35 Furman (42%)"
-  MAS: "FUR - #35 Furman (NaN%) def. #34 Wake Forest (NaN%)"
-  LNUP: WAKE - Wake Forest (83%) def. Furman (17%)
+  MAS: "WAKE - #34 Wake Forest (52%) def. #35 Furman (48%)"
+  LNUP: WAKE - Wake Forest (82%) def. Furman (18%)
   UTR: "WAKE - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)"
   ITA: "WAKE - #33 Wake Forest def. #34 Furman"
   USTA: FUR - RV Furman def. Wake Forest
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "WAKE - #2 Wake Forest def. #3 Furman"
 Lineups:
   Predictions:
-    Average EWPs for WAKE: 51%,58%,NaN%,83%
-    Average EWPs for FUR: 49%,42%,NaN%,17%
-    WAKE wins 4 or more Singles points: 62%
-    FUR wins 4 or more Singles points: 12%
-    Winner decided by the Doubles point: 26%
+    Average EWPs for WAKE: 51%,58%,NaN%,82%
+    Average EWPs for FUR: 49%,42%,NaN%,18%
+    WAKE wins 4 or more Singles points: 60%
+    FUR wins 4 or more Singles points: 13%
+    Winner decided by the Doubles point: 27%
   Singles:
     - Position: 1
       WAKE: Carolyn Campana - 9-5 at 1, 9-5 in duals, 9-5 overall
@@ -69,7 +69,7 @@ Lineups:
       WAKE: Anna Campana - 4-6 at 2, 6-10 in duals, 6-10 overall
       FUR: Julia Adams - 15-6 at 2, 19-6 in duals, 19-6 overall
       Predictions:
-        AVG: FUR - Adams (59%) def. Campana (41%)
+        AVG: FUR - Adams (58%) def. Campana (42%)
         SLM: WAKE - Campana (52%) def. Adams (48%)
         TRN: FUR - Adams (61%) def. Campana (39%)
         MAS: FUR - Adams (NaN%) def. Campana (NaN%)
@@ -99,7 +99,7 @@ Lineups:
       WAKE: Brooke Killingsworth - 1-1 at 5, 7-14 in duals, 7-14 overall
       FUR: Maggie Pate - 9-6 at 5, 15-7 in duals, 15-7 overall
       Predictions:
-        AVG: WAKE - Killingsworth (74%) def. Pate (26%)
+        AVG: WAKE - Killingsworth (70%) def. Pate (30%)
         SLM: WAKE - Killingsworth (79%) def. Pate (21%)
         TRN: WAKE - Killingsworth (66%) def. Pate (34%)
         MAS: FUR - Pate (NaN%) def. Killingsworth (NaN%)

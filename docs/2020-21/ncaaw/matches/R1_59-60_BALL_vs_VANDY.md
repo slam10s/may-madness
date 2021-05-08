@@ -5,7 +5,7 @@ Varsity Tennis Center
 Columbus, Ohio  
 ## [Ball St. vs Vanderbilt](https://www.ncaa.com/game/5833676)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Ball St.</h2>  
@@ -13,7 +13,7 @@ Columbus, Ohio
 &nbsp; ITA: 51 (4.35)<br>  
 &nbsp; Slam: 52 (79.30)<br>  
 &nbsp; TRN: 52 (70.33)<br>  
-&#10004; Massey: 53 (5.40)<br>  
+&nbsp; Massey: 53 (5.40)<br>  
 &nbsp; UTR: 51 (54.58)<br>  
 <br>  
 
@@ -25,7 +25,7 @@ Columbus, Ohio
 &#10004; ITA: 27 (35.19)<br>  
 &#10004; Slam: 29 (88.87)<br>  
 &#10004; TRN: 30 (81.13)<br>  
-&nbsp; Massey: 31 (7.33)<br>  
+&#10004; Massey: 31 (7.33)<br>  
 &#10004; UTR: 28 (61.39)<br>  
 &#10004; Coaches Poll: 28<br>  
 <br>  
@@ -44,7 +44,7 @@ Columbus, Ohio
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***VANDY*** - #29 Vanderbilt (99%) def. #52 Ball St. (1%)  
 - TRN: ***VANDY*** - #30 Vanderbilt (99%) def. #52 Ball St. (1%)  
-- Massey: ***BALL*** - #53 Ball St. (NaN%) def. #31 Vanderbilt (NaN%)  
+- Massey: ***VANDY*** - #31 Vanderbilt (99%) def. #53 Ball St. (1%)  
 - Lineup: ***VANDY*** - Vanderbilt (99%) def. Ball St. (1%)  
 - UTR: ***VANDY*** - #28 Vanderbilt (+6.81) def. #51 Ball St. (-6.81)  
 - ITA: ***VANDY*** - #27 Vanderbilt def. #51 Ball St.  
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jessica Braun (BALL) - 6-5 at #2, 13-7 in duals, 13-7 overall<br>Emma Kurtz (VANDY) - 6-5 at #2, 8-10 in duals, 11-16 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>VANDY</i></b> - Kurtz (94%) def. Braun (6%)</li>  
+<li>Composite: <b><i>VANDY</i></b> - Kurtz (91%) def. Braun (9%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Kurtz (94%) def. Braun (6%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Kurtz (95%) def. Braun (5%)</li>  
 <li>Massey: <b><i>BALL</i></b> - Braun (NaN%) def. Kurtz (NaN%)</li>  
@@ -83,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Mariya Polishchuk (BALL) - 8-1 at #3, 14-6 in duals, 14-6 overall<br>Anessa Lee (VANDY) - 3-1 at #3, 11-5 in duals, 16-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>VANDY</i></b> - Lee (93%) def. Polishchuk (7%)</li>  
+<li>Composite: <b><i>VANDY</i></b> - Lee (91%) def. Polishchuk (9%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Lee (92%) def. Polishchuk (8%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Lee (95%) def. Polishchuk (5%)</li>  
 <li>Massey: <b><i>BALL</i></b> - Polishchuk (NaN%) def. Lee (NaN%)</li>  
@@ -94,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Rebecca Herrington (BALL) - 7-2 at #4, 14-6 in duals, 14-6 overall<br>Anna Ross (VANDY) - 0-1 at #4, 8-9 in duals, 8-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>VANDY</i></b> - Ross (97%) def. Herrington (3%)</li>  
+<li>Composite: <b><i>VANDY</i></b> - Ross (95%) def. Herrington (5%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Ross (98%) def. Herrington (2%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Ross (98%) def. Herrington (2%)</li>  
 <li>Massey: <b><i>BALL</i></b> - Herrington (NaN%) def. Ross (NaN%)</li>  
@@ -105,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Amy Kaplan (BALL) - 4-2 at #5, 12-7 in duals, 12-7 overall<br>Marcella Cruz (VANDY) - 4-2 at #5, 13-4 in duals, 16-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>VANDY</i></b> - Cruz (97%) def. Kaplan (3%)</li>  
+<li>Composite: <b><i>VANDY</i></b> - Cruz (96%) def. Kaplan (4%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Cruz (97%) def. Kaplan (3%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Cruz (98%) def. Kaplan (2%)</li>  
 <li>Massey: <b><i>BALL</i></b> - Kaplan (NaN%) def. Cruz (NaN%)</li>  
@@ -116,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Livia Lukacs (BALL) - 6-2 at #6, 8-3 in duals, 8-3 overall<br>Holly Staff (VANDY) - 0-0 at #6, 9-9 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>VANDY</i></b> - Staff (98%) def. Lukacs (2%)</li>  
+<li>Composite: <b><i>VANDY</i></b> - Staff (96%) def. Lukacs (4%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Staff (99%) def. Lukacs (1%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Staff (99%) def. Lukacs (1%)</li>  
 <li>Massey: <b><i>BALL</i></b> - Lukacs (NaN%) def. Staff (NaN%)</li>  

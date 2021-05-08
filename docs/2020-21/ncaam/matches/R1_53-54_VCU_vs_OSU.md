@@ -5,7 +5,7 @@ Wake Forest Tennis Complex
 Winston-Salem, North Carolina  
 ## [VCU vs Ohio St.](https://www.ncaa.com/game/5833396)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #CE0F3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vcu.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #CE0F3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 VCU</h2>  
@@ -13,7 +13,7 @@ Winston-Salem, North Carolina
 &nbsp; ITA: 37 (23.44)<br>  
 &nbsp; Slam: 36 (92.40)<br>  
 &nbsp; TRN: 38 (90.23)<br>  
-&#10004; Massey: 35 (7.38)<br>  
+&nbsp; Massey: 35 (7.38)<br>  
 &nbsp; UTR: 29 (77.07)<br>  
 &nbsp; Coaches Poll: 38<br>  
 <br>  
@@ -26,7 +26,7 @@ Winston-Salem, North Carolina
 &#10004; ITA: 31 (26.40)<br>  
 &#10004; Slam: 7 (97.86)<br>  
 &#10004; TRN: 8 (97.23)<br>  
-&nbsp; Massey: 9 (8.60)<br>  
+&#10004; Massey: 9 (8.60)<br>  
 &#10004; UTR: 3 (80.28)<br>  
 &#10004; USTA Poll: 7<br>  
 &#10004; Coaches Poll: 17<br>  
@@ -46,7 +46,7 @@ Winston-Salem, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***OSU*** - #7 Ohio St. (95%) def. #36 VCU (5%)  
 - TRN: ***OSU*** - #8 Ohio St. (98%) def. #38 VCU (2%)  
-- Massey: ***VCU*** - #35 VCU (NaN%) def. #9 Ohio St. (NaN%)  
+- Massey: ***OSU*** - #9 Ohio St. (95%) def. #35 VCU (5%)  
 - Lineup: ***OSU*** - Ohio St. (99%) def. VCU (1%)  
 - UTR: ***OSU*** - #3 Ohio St. (+3.21) def. #29 VCU (-3.21)  
 - ITA: ***OSU*** - #31 Ohio St. def. #37 VCU  
@@ -64,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lleyton Cronje (VCU) - 10-2 at #1, 12-3 in duals, 12-3 overall<br>John McNally (OSU) - 10-2 at #1, 16-4 in duals, 21-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - McNally (88%) def. Cronje (12%)</li>  
+<li>Composite: <b><i>OSU</i></b> - McNally (86%) def. Cronje (14%)</li>  
 <li>Slam: <b><i>OSU</i></b> - McNally (89%) def. Cronje (11%)</li>  
 <li>TRN: <b><i>OSU</i></b> - McNally (90%) def. Cronje (10%)</li>  
 <li>Massey: <b><i>VCU</i></b> - Cronje (NaN%) def. McNally (NaN%)</li>  
@@ -75,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Charles Bertimon (VCU) - 9-3 at #2, 11-4 in duals, 11-4 overall<br>Cannon Kingsley (OSU) - 12-0 at #2, 21-0 in duals, 27-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Kingsley (94%) def. Bertimon (6%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Kingsley (93%) def. Bertimon (7%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Kingsley (95%) def. Bertimon (5%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Kingsley (97%) def. Bertimon (3%)</li>  
 <li>Massey: <b><i>VCU</i></b> - Bertimon (NaN%) def. Kingsley (NaN%)</li>  
@@ -86,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Inigo Torre (VCU) - 7-2 at #3, 10-3 in duals, 10-3 overall<br>James Trotter (OSU) - 13-1 at #3, 13-1 in duals, 13-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Trotter (91%) def. Torre (9%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Trotter (87%) def. Torre (13%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Trotter (91%) def. Torre (9%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Trotter (92%) def. Torre (8%)</li>  
 <li>Massey: <b><i>VCU</i></b> - Torre (NaN%) def. Trotter (NaN%)</li>  
@@ -97,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Rayane Stable (VCU) - 5-0 at #4, 15-2 in duals, 15-2 overall<br>Justin Boulais (OSU) - 5-1 at #4, 7-1 in duals, 7-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Boulais (74%) def. Stable (26%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Boulais (70%) def. Stable (30%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Boulais (85%) def. Stable (15%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Boulais (73%) def. Stable (27%)</li>  
 <li>Massey: <b><i>VCU</i></b> - Stable (NaN%) def. Boulais (NaN%)</li>  
@@ -108,7 +108,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Quentin Coulaud (VCU) - 1-2 at #5, 10-6 in duals, 10-6 overall<br>Kyle Seelig (OSU) - 3-0 at #5, 15-4 in duals, 18-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Seelig (88%) def. Coulaud (12%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Seelig (86%) def. Coulaud (14%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Seelig (87%) def. Coulaud (13%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Seelig (90%) def. Coulaud (10%)</li>  
 <li>Massey: <b><i>VCU</i></b> - Coulaud (NaN%) def. Seelig (NaN%)</li>  
@@ -119,7 +119,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Timo Zgraggen (VCU) - 6-0 at #6, 9-1 in duals, 9-1 overall<br>JJ Tracy (OSU) - 6-0 at #6, 21-1 in duals, 24-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Tracy (96%) def. Zgraggen (4%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Tracy (93%) def. Zgraggen (7%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Tracy (94%) def. Zgraggen (6%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Tracy (97%) def. Zgraggen (3%)</li>  
 <li>Massey: <b><i>VCU</i></b> - Zgraggen (NaN%) def. Tracy (NaN%)</li>  
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ohio St. should win 4 or more singles matches _98%_ of the time.  
+- Ohio St. should win 4 or more singles matches _97%_ of the time.  
 - VCU should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _2%_ of the time.  
+- The winner of the doubles point will decide the match the other _3%_ of the time.  
 - If Ohio St. wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If VCU wins the doubles point, their chances of winning the dual improve to _2%_.  
+- If VCU wins the doubles point, their chances of winning the dual improve to _3%_.  
   
 ------
 

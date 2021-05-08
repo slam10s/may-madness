@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Old Dominion
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 4
   Seeding:
     Region: 2
@@ -40,8 +40,8 @@ Visitor:
 Predictions:
   SLM: "ODU - #28 Old Dominion (73%) def. #38 Arkansas (27%)"
   TRN: "ODU - #25 Old Dominion (71%) def. #32 Arkansas (29%)"
-  MAS: "ARK - #41 Arkansas (NaN%) def. #29 Old Dominion (NaN%)"
-  LNUP: ODU - Old Dominion (60%) def. Arkansas (40%)
+  MAS: "ODU - #29 Old Dominion (77%) def. #41 Arkansas (23%)"
+  LNUP: ODU - Old Dominion (63%) def. Arkansas (37%)
   UTR: "ODU - #37 Old Dominion (+0.12) def. #38 Arkansas (-0.12)"
   ITA: "ODU - #30 Old Dominion def. #32 Arkansas"
   USTA: ODU - RV Old Dominion def. Arkansas
@@ -49,17 +49,17 @@ Predictions:
   Seeding: "ODU - #2 Old Dominion def. #3 Arkansas"
 Lineups:
   Predictions:
-    Average EWPs for ODU: 73%,71%,NaN%,60%
-    Average EWPs for ARK: 27%,29%,NaN%,40%
-    ODU wins 4 or more Singles points: 41%
-    ARK wins 4 or more Singles points: 27%
-    Winner decided by the Doubles point: 32%
+    Average EWPs for ODU: 73%,71%,NaN%,63%
+    Average EWPs for ARK: 27%,29%,NaN%,37%
+    ODU wins 4 or more Singles points: 44%
+    ARK wins 4 or more Singles points: 25%
+    Winner decided by the Doubles point: 31%
   Singles:
     - Position: 1
       ODU: Holly Hutchinson - 7-8 at 1, 7-8 in duals, 8-9 overall
       ARK: Indianna Spink - 6-4 at 1, 9-5 in duals, 9-5 overall
       Predictions:
-        AVG: ARK - Spink (54%) def. Hutchinson (46%)
+        AVG: ARK - Spink (55%) def. Hutchinson (45%)
         SLM: ODU - Hutchinson (61%) def. Spink (39%)
         TRN: ARK - Spink (54%) def. Hutchinson (46%)
         MAS: ARK - Spink (NaN%) def. Hutchinson (NaN%)
@@ -69,7 +69,7 @@ Lineups:
       ODU: Yulia Starodubtseva - 11-1 at 2, 11-1 in duals, 11-1 overall
       ARK: Kelly Keller - 7-3 at 2, 8-6 in duals, 8-6 overall
       Predictions:
-        AVG: ODU - Starodubtseva (61%) def. Keller (39%)
+        AVG: ODU - Starodubtseva (63%) def. Keller (37%)
         SLM: ODU - Starodubtseva (55%) def. Keller (45%)
         TRN: ODU - Starodubtseva (74%) def. Keller (26%)
         MAS: ARK - Keller (NaN%) def. Starodubtseva (NaN%)
@@ -79,7 +79,7 @@ Lineups:
       ODU: Tatsiana Sasnouskaya - 9-2 at 3, 13-2 in duals, 13-2 overall
       ARK: Tatum Rice - 8-7 at 3, 9-7 in duals, 9-7 overall
       Predictions:
-        AVG: ODU - Sasnouskaya (67%) def. Rice (33%)
+        AVG: ODU - Sasnouskaya (69%) def. Rice (31%)
         SLM: ODU - Sasnouskaya (68%) def. Rice (32%)
         TRN: ODU - Sasnouskaya (66%) def. Rice (34%)
         MAS: ARK - Rice (NaN%) def. Sasnouskaya (NaN%)
@@ -89,7 +89,7 @@ Lineups:
       ODU: Alesya Yakubovich - 4-5 at 4, 6-7 in duals, 6-7 overall
       ARK: Morgan Cross - 9-10 at 4, 10-10 in duals, 10-10 overall
       Predictions:
-        AVG: ARK - Cross (70%) def. Yakubovich (30%)
+        AVG: ARK - Cross (65%) def. Yakubovich (35%)
         SLM: ARK - Cross (63%) def. Yakubovich (37%)
         TRN: ARK - Cross (69%) def. Yakubovich (31%)
         MAS: ARK - Cross (NaN%) def. Yakubovich (NaN%)
@@ -98,7 +98,7 @@ Lineups:
       ODU: Brooke Pilkington - 2-3 at 5, 6-5 in duals, 6-5 overall
       ARK: Lauren Alter - 5-5 at 5, 6-9 in duals, 6-9 overall
       Predictions:
-        AVG: ODU - Pilkington (63%) def. Alter (37%)
+        AVG: ODU - Pilkington (66%) def. Alter (34%)
         SLM: ODU - Pilkington (54%) def. Alter (46%)
         TRN: ODU - Pilkington (55%) def. Alter (45%)
         MAS: ARK - Alter (NaN%) def. Pilkington (NaN%)
@@ -108,7 +108,7 @@ Lineups:
       ODU: Alexandra Viktorovich - 6-2 at 6, 7-4 in duals, 7-4 overall
       ARK: Laura Rijkers - 7-0 at 6, 7-8 in duals, 7-8 overall
       Predictions:
-        AVG: ODU - Viktorovich (52%) def. Rijkers (48%)
+        AVG: ODU - Viktorovich (53%) def. Rijkers (47%)
         SLM: ARK - Rijkers (55%) def. Viktorovich (45%)
         TRN: ARK - Rijkers (69%) def. Viktorovich (31%)
         MAS: ARK - Rijkers (NaN%) def. Viktorovich (NaN%)

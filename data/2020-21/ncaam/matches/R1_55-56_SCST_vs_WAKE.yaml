@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Wake Forest
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png
-  Entry: Regional Host
+  Entry: At-Large Bid
   Draw Line: 56
   Seeding:
     Overall: 10
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: South Carolina St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png
-  Entry: Automatic Qualifier
+  Entry: At-Large Bid
   Draw Line: 55
   Seeding:
     Region: 4
@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
   TRN: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
-  MAS: "SCST - #63 South Carolina St. (NaN%) def. #13 Wake Forest (NaN%)"
+  MAS: "WAKE - #13 Wake Forest (100%) def. #63 South Carolina St. (0%)"
   LNUP: WAKE - Wake Forest (99%) def. South Carolina St. (1%)
   UTR: "WAKE - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)"
   ITA: "WAKE - #9 Wake Forest def. #65 South Carolina St."
@@ -78,7 +78,7 @@ Lineups:
       WAKE: Taha Baadi - 6-2 at 3, 13-8 in duals, 13-8 overall
       SCST: Elyes Marouani - 9-2 at 3, 9-2 in duals, 9-2 overall
       Predictions:
-        AVG: WAKE - Baadi (99%) def. Marouani (1%)
+        AVG: WAKE - Baadi (97%) def. Marouani (3%)
         SLM: WAKE - Baadi (100%) def. Marouani (0%)
         TRN: WAKE - Baadi (100%) def. Marouani (0%)
         MAS: SCST - Marouani (NaN%) def. Baadi (NaN%)
