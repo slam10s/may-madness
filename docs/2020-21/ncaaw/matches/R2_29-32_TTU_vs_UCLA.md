@@ -9,7 +9,7 @@ Los Angeles, California
 <td>  
 
 <h2>#2 Texas Tech</h2>  
-&nbsp; Record: 16-8<br>  
+&nbsp; Record: 16-9<br>  
 &nbsp; ITA: 29 (28.07)<br>  
 &nbsp; Slam: 34 (87.92)<br>  
 &nbsp; TRN: 34 (79.75)<br>  
@@ -22,7 +22,7 @@ Los Angeles, California
 <td>  
 
 <h2>#1 UCLA</h2>  
-&nbsp; Record: 20-4<br>  
+&nbsp; Record: 21-4<br>  
 &#10004; ITA: 4 (61.84)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
@@ -39,6 +39,7 @@ Los Angeles, California
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***UCLA def. Texas Tech 4-0***  
 Go to [Live Stats](https://uclabruins.com/sports/2020/1/13/ucla-tennis-live-stats-w.aspx)  
 
 ## Predictions  

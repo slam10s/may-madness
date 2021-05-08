@@ -9,7 +9,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#2 Tennessee</h2>  
-&nbsp; Record: 17-8<br>  
+&nbsp; Record: 17-9<br>  
 &nbsp; ITA: 15 (46.78)<br>  
 &nbsp; Slam: 19 (90.43)<br>  
 &nbsp; TRN: 19 (82.73)<br>  
@@ -23,7 +23,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#1 Virginia</h2>  
-&nbsp; Record: 15-6<br>  
+&nbsp; Record: 16-6<br>  
 &#10004; ITA: 14 (47.67)<br>  
 &#10004; Slam: 9 (91.88)<br>  
 &#10004; TRN: 11 (84.03)<br>  
@@ -40,6 +40,7 @@ Charlottesville, Virginia
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Virginia def. Tennessee 4-0***  
 Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350366)  
 
 ## Predictions  

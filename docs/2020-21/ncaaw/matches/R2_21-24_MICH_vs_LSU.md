@@ -9,7 +9,7 @@ Baton Rouge, Louisiana
 <td>  
 
 <h2>#2 Michigan</h2>  
-&nbsp; Record: 18-3<br>  
+&nbsp; Record: 19-3<br>  
 &nbsp; ITA: 19 (41.22)<br>  
 &#10004; Slam: 8 (91.95)<br>  
 &#10004; TRN: 8 (85.13)<br>  
@@ -23,7 +23,7 @@ Baton Rouge, Louisiana
 <td>  
 
 <h2>#1 LSU</h2>  
-&nbsp; Record: 15-5<br>  
+&nbsp; Record: 15-6<br>  
 &#10004; ITA: 12 (48.73)<br>  
 &nbsp; Slam: 21 (90.28)<br>  
 &nbsp; TRN: 18 (82.92)<br>  
@@ -40,6 +40,7 @@ Baton Rouge, Louisiana
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Michigan def. LSU 4-3***  
 Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350355)  
 
 ## Predictions  

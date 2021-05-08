@@ -9,7 +9,7 @@ Austin, Texas
 <td>  
 
 <h2>#2 Arizona St.</h2>  
-&nbsp; Record: 15-8<br>  
+&nbsp; Record: 15-9<br>  
 &nbsp; ITA: 31 (26.09)<br>  
 &nbsp; Slam: 31 (88.20)<br>  
 &nbsp; TRN: 33 (79.83)<br>  
@@ -23,7 +23,7 @@ Austin, Texas
 <td>  
 
 <h2>#1 Texas</h2>  
-&nbsp; Record: 26-1<br>  
+&nbsp; Record: 27-1<br>  
 &#10004; ITA: 2 (79.19)<br>  
 &#10004; Slam: 2 (98.44)<br>  
 &#10004; TRN: 2 (97.97)<br>  
@@ -40,6 +40,7 @@ Austin, Texas
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Texas def. Arizona State 4-0***  
 Go to [Live Stats](http://sidearmstats.com/texas/wtennis/xlive.htm)  
 
 ## Predictions  

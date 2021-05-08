@@ -9,7 +9,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#2 Old Dominion</h2>  
-&nbsp; Record: 13-4<br>  
+&nbsp; Record: 13-5<br>  
 &nbsp; ITA: 30 (28.00)<br>  
 &nbsp; Slam: 28 (89.21)<br>  
 &nbsp; TRN: 25 (81.50)<br>  
@@ -23,7 +23,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#1 North Carolina</h2>  
-&nbsp; Record: 27-0<br>  
+&nbsp; Record: 28-0<br>  
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
@@ -40,6 +40,7 @@ Chapel Hill, North Carolina
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***North Carolina def. Old Dominion 4-0***  
 Go to [Live Stats](http://stats.statbroadcast.com/statmonitr/?id=350676)  
 
 ## Predictions  

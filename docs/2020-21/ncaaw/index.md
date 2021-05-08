@@ -2,6 +2,14 @@
 
 Return to the [Home Page](../../index.md)
 
+## Third Round
+
+### Heavy Favorites
+
+The favorite is expected to win at least 4 out of every 5 these teams play:
+
+- Sun, 5/16 at  4:00 EDT	[#13 Georgia Tech vs #4 UCLA](./matches/R3_19-24_GT_vs_UCLA.md) ... UCLA (86%) / GT (14%)
+- Sun, 5/16 at  1:00 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... TEX (95%) / OSU (5%)
 ## Second Round
 
 ### Intriguing Matches
@@ -11,8 +19,8 @@ The various metrics disagree on the outcome of these matches:
 - Sat, 5/08 at  1:00 EDT	[Northwestern vs #10 Texas A&M](./matches/R2_53-56_NW_vs_AM.md) ... <b>A&M (4)</b> / NW (1)
 - Sat, 5/08 at  5:00 EDT	[Miami (FL) vs #9 UCF](./matches/R2_9-12_MIA_vs_UCF.md) ... UCF (55%) / MIA (45%)
 - Sat, 5/08 at  6:00 EDT	[Duke vs #8 Baylor](./matches/R2_13-16_DUKE_vs_BAY.md) ... BAY (56%) / DUKE (44%)
-- Sat, 5/08 at  2:00 EDT	[Michigan vs #12 LSU](./matches/R2_21-24_MICH_vs_LSU.md) ... LSU (32%) / <i>MICH (68%)</i>
-- Sat, 5/08 at  4:00 EDT	[Tennessee vs #14 Virginia](./matches/R2_37-40_TENN_vs_UVA.md) ... UVA (70%) / TENN (30%)
+- Sat, 5/08 at  2:00 EDT	[Michigan vs #12 LSU](./matches/R2_21-24_MICH_vs_LSU.md) ... LSU (3) / <b><i>MICH (4)</i></b>
+- Sat, 5/08 at  4:00 EDT	[Tennessee vs #14 Virginia](./matches/R2_37-40_TENN_vs_UVA.md) ... <b>UVA (4)</b> / TENN (0)
 - Sat, 5/08 at  4:00 EDT	[Southern California vs #11 Florida](./matches/R2_41-44_USC_vs_FLA.md) ... FLA (79%) / USC (21%)
 
 The metrics agree on the winner, but not by a lot:
@@ -26,12 +34,12 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  4:00 EDT	[Auburn vs #7 Florida St.](./matches/R2_49-52_AUB_vs_FSU.md) ... FSU (85%) / AUB (15%)
 - Sat, 5/08 at  4:00 EDT	[Stanford vs #5 Pepperdine](./matches/R2_17-20_STAN_vs_PEPP.md) ... PEPP (86%) / STAN (14%)
 - Sat, 5/08 at 12:00 EDT	[Vanderbilt vs #15 Ohio St.](./matches/R2_57-60_VANDY_vs_OSU.md) ... <b>OSU (4)</b> / VANDY (3)
-- Sat, 5/08 at  3:00 EDT	[Texas Tech vs #4 UCLA](./matches/R2_29-32_TTU_vs_UCLA.md) ... UCLA (96%) / TTU (4%)
+- Sat, 5/08 at  3:00 EDT	[Texas Tech vs #4 UCLA](./matches/R2_29-32_TTU_vs_UCLA.md) ... <b>UCLA (4)</b> / TTU (0)
 - Sat, 5/08 at  2:00 EDT	[North Florida vs #13 Georgia Tech](./matches/R2_25-28_UNF_vs_GT.md) ... <b>GT (4)</b> / UNF (0)
 - Sat, 5/08 at  2:00 EDT	[Iowa St. vs #6 NC State](./matches/R2_45-48_ISU_vs_NCST.md) ... <b>NCST (4)</b> / ISU (2)
-- Sat, 5/08 at  4:00 EDT	[Old Dominion vs #1 North Carolina](./matches/R2_1-4_ODU_vs_UNC.md) ... UNC (99%) / ODU (1%)
+- Sat, 5/08 at  4:00 EDT	[Old Dominion vs #1 North Carolina](./matches/R2_1-4_ODU_vs_UNC.md) ... <b>UNC (4)</b> / ODU (0)
 - Sat, 5/08 at  4:00 EDT	[Wake Forest vs #3 Georgia](./matches/R2_33-36_WAKE_vs_UGA.md) ... UGA (99%) / WAKE (1%)
-- Sat, 5/08 at  4:00 EDT	[Arizona St. vs #2 Texas](./matches/R2_61-64_AZST_vs_TEX.md) ... TEX (99%) / AZST (1%)
+- Sat, 5/08 at  4:00 EDT	[Arizona St. vs #2 Texas](./matches/R2_61-64_AZST_vs_TEX.md) ... <b>TEX (4)</b> / AZST (0)
 ## First Round
 
 ### Intriguing Matches
