@@ -34,8 +34,6 @@ The [Massey Ratings](https://www.masseyratings.com/) are the gold standard for c
 - [College Men's Singles](https://www.masseyratings.com/ctms/ratings)
 - [College Women's Singles](https://www.masseyratings.com/ctws/ratings)
 
-> Note: All expected win percentages for Massey teams are hard-coded at 75% for the favorite and 25% for the underdog. Although his ratings are probabilistic, right now I'm not sure how to compare the ratings to come up with an expected win percentage (EWP).
-
 ### The Lineups
 
 Some teams just don't match up against other teams the way you might think depending on the lineups. We compute expected win percentages based on a composite metric for each individual match.
