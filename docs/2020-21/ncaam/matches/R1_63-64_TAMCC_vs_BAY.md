@@ -9,7 +9,7 @@ Waco, Texas
 <td>  
 
 <h2>#4 A&M-Corpus Christi</h2>  
-&nbsp; Record: 19-4<br>  
+&nbsp; Record: 19-5<br>  
 &nbsp; ITA: 60 (2.97)<br>  
 &nbsp; Slam: 60 (82.18)<br>  
 &nbsp; TRN: 61 (76.91)<br>  
@@ -21,7 +21,7 @@ Waco, Texas
 <td>  
 
 <h2>#1 Baylor</h2>  
-&nbsp; Record: 29-4<br>  
+&nbsp; Record: 30-4<br>  
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 5 (99.05)<br>  
 &#10004; TRN: 6 (98.67)<br>  
@@ -38,6 +38,7 @@ Waco, Texas
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Baylor def. A&M-Corpus Christi 4-0***  
 Go to [Live Stats](http://www.sidearmstats.com/baylor/mten/)  
 
 ## Predictions  

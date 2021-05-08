@@ -24,10 +24,11 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sun, 5/09 at  1:00 EDT	[Texas Tech vs #11 Georgia](./matches/R2_41-44_TTU_vs_UGA.md) ... UGA (89%) / TTU (11%)
 - Sun, 5/09 at  1:00 EDT	[Northwestern vs #4 Texas](./matches/R2_29-32_NW_vs_TEX.md) ... TEX (91%) / NW (9%)
 - Sat, 5/08 at  4:00 EDT	[Pepperdine vs #12 Southern California](./matches/R2_21-24_PEPP_vs_USC.md) ... USC (92%) / PEPP (8%)
-- Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... A&M (94%) / OKLA (6%)
+- Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... <b>A&M (4)</b> / OKLA (1)
 - Sun, 5/09 at  2:00 EDT	[Arizona St. vs #7 TCU](./matches/R2_49-52_AZST_vs_TCU.md) ... TCU (94%) / AZST (6%)
 - Sat, 5/08 at  2:00 EDT	[Notre Dame vs #16 Illinois](./matches/R2_5-8_ND_vs_ILL.md) ... <b>ILL (4)</b> / ND (0)
 - Sun, 5/09 at  1:00 EDT	[Oklahoma St. vs #6 North Carolina](./matches/R2_45-48_OKST_vs_UNC.md) ... UNC (97%) / OKST (3%)
+- Sun, 5/09 at  3:00 EDT	[Oregon vs #2 Baylor](./matches/R2_61-64_ORE_vs_BAY.md) ... BAY (97%) / ORE (3%)
 - Sun, 5/09 at  1:00 EDT	[Memphis vs #3 Tennessee](./matches/R2_33-36_MEM_vs_TENN.md) ... TENN (99%) / MEM (1%)
 - Sun, 5/09 at  2:00 EDT	[South Fla. vs #1 Florida](./matches/R2_1-4_USF_vs_FLA.md) ... FLA (99%) / USF (1%)
 ## First Round
@@ -74,7 +75,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  1:00 EDT	[Alabama A&M vs #3 Tennessee](./matches/R1_33-34_AAMU_vs_TENN.md) ... <b>TENN (5)</b> / AAMU (0)
 - Sat, 5/08 at  1:00 EDT	[ETSU vs #11 Georgia](./matches/R1_41-42_ETSU_vs_UGA.md) ... <b>UGA (4)</b> / ETSU (0)
 - Sat, 5/08 at  1:00 EDT	[Presbyterian vs #6 North Carolina](./matches/R1_47-48_PRES_vs_UNC.md) ... <b>UNC (4)</b> / PRES (0)
-- Sat, 5/08 at  3:00 EDT	[A&M-Corpus Christi vs #2 Baylor](./matches/R1_63-64_TAMCC_vs_BAY.md) ... BAY (99%) / TAMCC (1%)
+- Sat, 5/08 at  3:00 EDT	[A&M-Corpus Christi vs #2 Baylor](./matches/R1_63-64_TAMCC_vs_BAY.md) ... <b>BAY (4)</b> / TAMCC (0)
 - Sat, 5/08 at  4:00 EDT	[Belmont vs #15 Ole Miss](./matches/R1_57-58_BEL_vs_MISS.md) ... MISS (99%) / BEL (1%)
   
 ------

@@ -9,7 +9,7 @@ College Station, Texas
 <td>  
 
 <h2>#2 Oklahoma</h2>  
-&nbsp; Record: 11-14<br>  
+&nbsp; Record: 11-15<br>  
 &nbsp; ITA: 27 (29.42)<br>  
 &nbsp; Slam: 29 (93.05)<br>  
 &nbsp; TRN: 28 (91.23)<br>  
@@ -22,7 +22,7 @@ College Station, Texas
 <td>  
 
 <h2>#1 Texas A&M</h2>  
-&nbsp; Record: 17-8<br>  
+&nbsp; Record: 18-8<br>  
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 11 (96.97)<br>  
 &#10004; TRN: 11 (95.89)<br>  
@@ -39,6 +39,7 @@ College Station, Texas
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Texas A&M def. Oklahoma 4-1***  
 Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350360)  
 
 ## Predictions  
