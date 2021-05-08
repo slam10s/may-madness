@@ -34,7 +34,7 @@ The [Massey Ratings](https://www.masseyratings.com/) are the gold standard for c
 - [College Men's Singles](https://www.masseyratings.com/ctms/ratings)
 - [College Women's Singles](https://www.masseyratings.com/ctws/ratings)
 
-### The Lineups
+### Lineup Ratings
 
 Some teams just don't match up against other teams the way you might think depending on the lineups. We compute expected win percentages based on a composite metric for each individual match.
 
