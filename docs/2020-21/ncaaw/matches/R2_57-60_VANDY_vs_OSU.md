@@ -41,10 +41,11 @@ Columbus, Ohio
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***OSU*** - Ohio St. (88%) def. Vanderbilt (12%)  
 - Slam: ***OSU*** - #5 Ohio St. (91%) def. #29 Vanderbilt (9%)  
 - TRN: ***OSU*** - #5 Ohio St. (93%) def. #30 Vanderbilt (7%)  
-- Massey: ***OSU*** - #8 Ohio St. (81%) def. #31 Vanderbilt (19%)  
-- Lineup: ***OSU*** - Ohio St. (80%) def. Vanderbilt (20%)  
+- Massey: ***OSU*** - #8 Ohio St. (87%) def. #31 Vanderbilt (13%)  
+- Lineup: ***OSU*** - Ohio St. (82%) def. Vanderbilt (18%)  
 - UTR: ***OSU*** - #25 Ohio St. (+0.14) def. #28 Vanderbilt (-0.14)  
 - ITA: ***OSU*** - #18 Ohio St. def. #27 Vanderbilt  
 - USTA Poll: ***OSU*** - #6 Ohio St. def. Vanderbilt  
@@ -64,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Siemers (82%) def. Rosca (18%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Siemers (88%) def. Rosca (12%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Siemers (88%) def. Rosca (12%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Rosca (NaN%) def. Siemers (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Siemers (78%) def. Rosca (22%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Siemers (76%) def. Rosca (24%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Siemers (24.34) def. Rosca (14.48)</li>  
 </ul>
@@ -75,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Boulais (70%) def. Kurtz (30%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Boulais (68%) def. Kurtz (32%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Boulais (68%) def. Kurtz (32%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Kurtz (NaN%) def. Boulais (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Boulais (86%) def. Kurtz (14%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Boulais (59%) def. Kurtz (41%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Kurtz (3.05) def. Boulais (2.65)</li>  
 </ul>
@@ -83,10 +84,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Anessa Lee (VANDY) - 3-1 at #3, 11-5 in duals, 16-8 overall<br>Kolie Allen (OSU) - 7-3 at #3, 10-9 in duals, 10-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>VANDY</i></b> - Lee (67%) def. Allen (33%)</li>  
+<li>Composite: <b><i>VANDY</i></b> - Lee (66%) def. Allen (34%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Lee (53%) def. Allen (47%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Lee (76%) def. Allen (24%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Lee (NaN%) def. Allen (NaN%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Lee (56%) def. Allen (44%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Lee (81%) def. Allen (19%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Lee (2.64) def. Allen (1.59)</li>  
 </ul>
@@ -97,7 +98,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Hofbauer (55%) def. Ross (45%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Hofbauer (59%) def. Ross (41%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Hofbauer (60%) def. Ross (40%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Ross (NaN%) def. Hofbauer (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Hofbauer (64%) def. Ross (36%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Ross (61%) def. Hofbauer (39%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Hofbauer (2.47) def. Ross (2.20)</li>  
 </ul>
@@ -105,10 +106,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Marcella Cruz (VANDY) - 4-2 at #5, 13-4 in duals, 16-9 overall<br>Lucia Marzal (OSU) - 10-2 at #5, 19-2 in duals, 21-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Marzal (64%) def. Cruz (36%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Marzal (65%) def. Cruz (35%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Marzal (69%) def. Cruz (31%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Marzal (66%) def. Cruz (34%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Cruz (NaN%) def. Marzal (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Marzal (65%) def. Cruz (35%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Marzal (61%) def. Cruz (39%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Marzal (3.08) def. Cruz (2.13)</li>  
 </ul>
@@ -119,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Dormet (66%) def. Staff (34%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Dormet (57%) def. Staff (43%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Dormet (63%) def. Staff (37%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Staff (NaN%) def. Dormet (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Dormet (75%) def. Staff (25%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Dormet (70%) def. Staff (30%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Dormet (3.78) def. Staff (1.75)</li>  
 </ul>
@@ -146,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ohio St. should win 4 or more singles matches _59%_ of the time.  
-- Vanderbilt should win 4 or more singles matches _14%_ of the time.  
+- Ohio St. should win 4 or more singles matches _60%_ of the time.  
+- Vanderbilt should win 4 or more singles matches _13%_ of the time.  
 - The winner of the doubles point will decide the match the other _27%_ of the time.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to _86%_.  
-- If Vanderbilt wins the doubles point, their chances of winning the dual improve to _41%_.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to _87%_.  
+- If Vanderbilt wins the doubles point, their chances of winning the dual improve to _40%_.  
   
 ------
 

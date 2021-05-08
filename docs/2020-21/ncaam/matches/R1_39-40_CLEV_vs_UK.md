@@ -43,6 +43,7 @@ Lexington, Kentucky
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UK*** - Kentucky (99%) def. Cleveland St. (1%)  
 - Slam: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
 - TRN: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
 - Massey: ***UK*** - #17 Kentucky (99%) def. #55 Cleveland St. (1%)  
@@ -66,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UK</i></b> - Draxl (97%) def. Mostardi (3%)</li>  
 <li>Slam: <b><i>UK</i></b> - Draxl (98%) def. Mostardi (2%)</li>  
 <li>TRN: <b><i>UK</i></b> - Draxl (99%) def. Mostardi (1%)</li>  
-<li>Massey: <b><i>CLEV</i></b> - Mostardi (NaN%) def. Draxl (NaN%)</li>  
+<li>Massey: <b><i>UK</i></b> - Draxl (95%) def. Mostardi (5%)</li>  
 <li>UTR: <b><i>UK</i></b> - Draxl (96%) def. Mostardi (4%)</li>  
 <li>ITA: <b><i>UK</i></b> - Draxl (64.58) def. Mostardi (2.33)</li>  
 </ul>
@@ -74,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Matt Terry (CLEV) - 6-2 at #2, 15-4 in duals, 15-4 overall<br>Gabriel Diallo (UK) - 12-5 at #2, 14-6 in duals, 19-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Diallo (93%) def. Terry (7%)</li>  
+<li>Composite: <b><i>UK</i></b> - Diallo (94%) def. Terry (6%)</li>  
 <li>Slam: <b><i>UK</i></b> - Diallo (94%) def. Terry (6%)</li>  
 <li>TRN: <b><i>UK</i></b> - Diallo (96%) def. Terry (4%)</li>  
-<li>Massey: <b><i>CLEV</i></b> - Terry (NaN%) def. Diallo (NaN%)</li>  
+<li>Massey: <b><i>UK</i></b> - Diallo (91%) def. Terry (9%)</li>  
 <li>UTR: <b><i>UK</i></b> - Diallo (95%) def. Terry (5%)</li>  
 <li>ITA: <b><i>UK</i></b> - Diallo (37.70) def. Terry (2.92)</li>  
 </ul>
@@ -85,10 +86,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Luke Phillips (CLEV) - 4-2 at #3, 17-3 in duals, 17-3 overall<br>Millen Hurrion (UK) - 10-3 at #3, 14-4 in duals, 17-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Hurrion (93%) def. Phillips (7%)</li>  
+<li>Composite: <b><i>UK</i></b> - Hurrion (94%) def. Phillips (6%)</li>  
 <li>Slam: <b><i>UK</i></b> - Hurrion (96%) def. Phillips (4%)</li>  
 <li>TRN: <b><i>UK</i></b> - Hurrion (96%) def. Phillips (4%)</li>  
-<li>Massey: <b><i>CLEV</i></b> - Phillips (NaN%) def. Hurrion (NaN%)</li>  
+<li>Massey: <b><i>UK</i></b> - Hurrion (90%) def. Phillips (10%)</li>  
 <li>UTR: <b><i>UK</i></b> - Hurrion (94%) def. Phillips (6%)</li>  
 <li>ITA: <b><i>UK</i></b> - Hurrion (22.80) def. Phillips (2.83)</li>  
 </ul>
@@ -99,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UK</i></b> - Bourgois (94%) def. Mareschal-Hay (6%)</li>  
 <li>Slam: <b><i>UK</i></b> - Bourgois (95%) def. Mareschal-Hay (5%)</li>  
 <li>TRN: <b><i>UK</i></b> - Bourgois (96%) def. Mareschal-Hay (4%)</li>  
-<li>Massey: <b><i>CLEV</i></b> - Mareschal-Hay (NaN%) def. Bourgois (NaN%)</li>  
+<li>Massey: <b><i>UK</i></b> - Bourgois (93%) def. Mareschal-Hay (7%)</li>  
 <li>UTR: <b><i>UK</i></b> - Bourgois (93%) def. Mareschal-Hay (7%)</li>  
 <li>ITA: <b><i>UK</i></b> - Bourgois (7.98) def. Mareschal-Hay (2.45)</li>  
 </ul>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UK</i></b> - Lapadat (97%) def. Bilinovich (3%)</li>  
 <li>Slam: <b><i>UK</i></b> - Lapadat (99%) def. Bilinovich (1%)</li>  
 <li>TRN: <b><i>UK</i></b> - Lapadat (99%) def. Bilinovich (1%)</li>  
-<li>Massey: <b><i>CLEV</i></b> - Bilinovich (NaN%) def. Lapadat (NaN%)</li>  
+<li>Massey: <b><i>UK</i></b> - Lapadat (94%) def. Bilinovich (6%)</li>  
 <li>UTR: <b><i>UK</i></b> - Lapadat (97%) def. Bilinovich (3%)</li>  
 <li>ITA: <b><i>UK</i></b> - Lapadat (6.21) def. Bilinovich (1.91)</li>  
 </ul>
@@ -118,10 +119,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Raul Teichmann (CLEV) - 0-2 at #6, 3-4 in duals, 3-4 overall<br>Alexandre LeBlanc (UK) - 2-4 at #6, 4-4 in duals, 5-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - LeBlanc (95%) def. Teichmann (5%)</li>  
+<li>Composite: <b><i>UK</i></b> - LeBlanc (96%) def. Teichmann (4%)</li>  
 <li>Slam: <b><i>UK</i></b> - LeBlanc (97%) def. Teichmann (3%)</li>  
 <li>TRN: <b><i>UK</i></b> - LeBlanc (97%) def. Teichmann (3%)</li>  
-<li>Massey: <b><i>CLEV</i></b> - Teichmann (NaN%) def. LeBlanc (NaN%)</li>  
+<li>Massey: <b><i>UK</i></b> - LeBlanc (92%) def. Teichmann (8%)</li>  
 <li>UTR: <b><i>UK</i></b> - LeBlanc (96%) def. Teichmann (4%)</li>  
 </ul>
 </details>&nbsp;</li>

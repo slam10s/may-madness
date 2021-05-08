@@ -38,6 +38,7 @@ Visitor:
   Polls:
     Coach: 33
 Predictions:
+  AVG: ODU - Old Dominion (71%) def. Arkansas (29%)
   SLM: "ODU - #28 Old Dominion (73%) def. #38 Arkansas (27%)"
   TRN: "ODU - #25 Old Dominion (71%) def. #32 Arkansas (29%)"
   MAS: "ODU - #29 Old Dominion (77%) def. #41 Arkansas (23%)"
@@ -49,8 +50,8 @@ Predictions:
   Seeding: "ODU - #2 Old Dominion def. #3 Arkansas"
 Lineups:
   Predictions:
-    Average EWPs for ODU: 73%,71%,NaN%,63%
-    Average EWPs for ARK: 27%,29%,NaN%,37%
+    Average EWPs for ODU: 73%,71%,77%,63%
+    Average EWPs for ARK: 27%,29%,23%,37%
     ODU wins 4 or more Singles points: 44%
     ARK wins 4 or more Singles points: 25%
     Winner decided by the Doubles point: 31%
@@ -62,7 +63,7 @@ Lineups:
         AVG: ARK - Spink (55%) def. Hutchinson (45%)
         SLM: ODU - Hutchinson (61%) def. Spink (39%)
         TRN: ARK - Spink (54%) def. Hutchinson (46%)
-        MAS: ARK - Spink (NaN%) def. Hutchinson (NaN%)
+        MAS: ARK - Spink (58%) def. Hutchinson (42%)
         UTR: ARK - Spink (72%) def. Hutchinson (28%)
         ITA: ARK - Spink (13.82) def. Hutchinson (5.40)
     - Position: 2
@@ -72,7 +73,7 @@ Lineups:
         AVG: ODU - Starodubtseva (63%) def. Keller (37%)
         SLM: ODU - Starodubtseva (55%) def. Keller (45%)
         TRN: ODU - Starodubtseva (74%) def. Keller (26%)
-        MAS: ARK - Keller (NaN%) def. Starodubtseva (NaN%)
+        MAS: ODU - Starodubtseva (69%) def. Keller (31%)
         UTR: ODU - Starodubtseva (55%) def. Keller (45%)
         ITA: ODU - Starodubtseva (11.96) def. Keller (2.19)
     - Position: 3
@@ -82,7 +83,7 @@ Lineups:
         AVG: ODU - Sasnouskaya (69%) def. Rice (31%)
         SLM: ODU - Sasnouskaya (68%) def. Rice (32%)
         TRN: ODU - Sasnouskaya (66%) def. Rice (34%)
-        MAS: ARK - Rice (NaN%) def. Sasnouskaya (NaN%)
+        MAS: ODU - Sasnouskaya (75%) def. Rice (25%)
         UTR: ODU - Sasnouskaya (67%) def. Rice (33%)
         ITA: ODU - Sasnouskaya (7.78) def. Rice (2.00)
     - Position: 4
@@ -92,7 +93,7 @@ Lineups:
         AVG: ARK - Cross (65%) def. Yakubovich (35%)
         SLM: ARK - Cross (63%) def. Yakubovich (37%)
         TRN: ARK - Cross (69%) def. Yakubovich (31%)
-        MAS: ARK - Cross (NaN%) def. Yakubovich (NaN%)
+        MAS: ARK - Cross (51%) def. Yakubovich (49%)
         UTR: ARK - Cross (80%) def. Yakubovich (20%)
     - Position: 5
       ODU: Brooke Pilkington - 2-3 at 5, 6-5 in duals, 6-5 overall
@@ -101,7 +102,7 @@ Lineups:
         AVG: ODU - Pilkington (66%) def. Alter (34%)
         SLM: ODU - Pilkington (54%) def. Alter (46%)
         TRN: ODU - Pilkington (55%) def. Alter (45%)
-        MAS: ARK - Alter (NaN%) def. Pilkington (NaN%)
+        MAS: ODU - Pilkington (74%) def. Alter (26%)
         UTR: ODU - Pilkington (79%) def. Alter (21%)
         ITA: ODU - Pilkington (1.80) def. Alter (0.00)
     - Position: 6
@@ -111,7 +112,7 @@ Lineups:
         AVG: ODU - Viktorovich (53%) def. Rijkers (47%)
         SLM: ARK - Rijkers (55%) def. Viktorovich (45%)
         TRN: ARK - Rijkers (69%) def. Viktorovich (31%)
-        MAS: ARK - Rijkers (NaN%) def. Viktorovich (NaN%)
+        MAS: ODU - Viktorovich (55%) def. Rijkers (45%)
         UTR: ODU - Viktorovich (80%) def. Rijkers (20%)
         ITA: ODU - Viktorovich (2.38) def. Rijkers (1.60)
   Doubles:

@@ -44,6 +44,7 @@ Winston-Salem, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***OSU*** - Ohio St. (97%) def. VCU (3%)  
 - Slam: ***OSU*** - #7 Ohio St. (95%) def. #36 VCU (5%)  
 - TRN: ***OSU*** - #8 Ohio St. (98%) def. #38 VCU (2%)  
 - Massey: ***OSU*** - #9 Ohio St. (95%) def. #35 VCU (5%)  
@@ -67,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - McNally (86%) def. Cronje (14%)</li>  
 <li>Slam: <b><i>OSU</i></b> - McNally (89%) def. Cronje (11%)</li>  
 <li>TRN: <b><i>OSU</i></b> - McNally (90%) def. Cronje (10%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Cronje (NaN%) def. McNally (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - McNally (80%) def. Cronje (20%)</li>  
 <li>UTR: <b><i>OSU</i></b> - McNally (85%) def. Cronje (15%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Cronje (8.20) def. McNally (3.89)</li>  
 </ul>
@@ -78,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Kingsley (93%) def. Bertimon (7%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Kingsley (95%) def. Bertimon (5%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Kingsley (97%) def. Bertimon (3%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Bertimon (NaN%) def. Kingsley (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Kingsley (91%) def. Bertimon (9%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Kingsley (91%) def. Bertimon (9%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Kingsley (5.20) def. Bertimon (3.10)</li>  
 </ul>
@@ -89,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Trotter (87%) def. Torre (13%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Trotter (91%) def. Torre (9%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Trotter (92%) def. Torre (8%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Torre (NaN%) def. Trotter (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Trotter (75%) def. Torre (25%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Trotter (89%) def. Torre (11%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Trotter (3.90) def. Torre (2.89)</li>  
 </ul>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Boulais (70%) def. Stable (30%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Boulais (85%) def. Stable (15%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Boulais (73%) def. Stable (27%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Stable (NaN%) def. Boulais (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Boulais (59%) def. Stable (41%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Boulais (63%) def. Stable (37%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Stable (3.09) def. Boulais (2.92)</li>  
 </ul>
@@ -111,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Seelig (86%) def. Coulaud (14%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Seelig (87%) def. Coulaud (13%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Seelig (90%) def. Coulaud (10%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Coulaud (NaN%) def. Seelig (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Seelig (79%) def. Coulaud (21%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Seelig (89%) def. Coulaud (11%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Seelig (2.02) def. Coulaud (1.96)</li>  
 </ul>
@@ -122,7 +123,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Tracy (93%) def. Zgraggen (7%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Tracy (94%) def. Zgraggen (6%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Tracy (97%) def. Zgraggen (3%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Zgraggen (NaN%) def. Tracy (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Tracy (86%) def. Zgraggen (14%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Tracy (96%) def. Zgraggen (4%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Zgraggen (3.45) def. Tracy (3.11)</li>  
 </ul>

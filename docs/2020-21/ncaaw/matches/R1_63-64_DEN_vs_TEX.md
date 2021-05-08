@@ -44,6 +44,7 @@ Austin, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***TEX*** - Texas (99%) def. Denver (1%)  
 - Slam: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
 - TRN: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
 - Massey: ***TEX*** - #2 Texas (99%) def. #43 Denver (1%)  
@@ -64,10 +65,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Anna Riedmiller (DEN) - 6-0 at #1, 14-1 in duals, 14-1 overall<br>Peyton Stearns (TEX) - 10-3 at #1, 10-3 in duals, 14-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Stearns (80%) def. Riedmiller (20%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Stearns (81%) def. Riedmiller (19%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Stearns (86%) def. Riedmiller (14%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Stearns (65%) def. Riedmiller (35%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Riedmiller (NaN%) def. Stearns (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Stearns (81%) def. Riedmiller (19%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Stearns (90%) def. Riedmiller (10%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Stearns (16.38) def. Riedmiller (4.70)</li>  
 </ul>
@@ -78,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Turati (94%) def. Melville (6%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Turati (92%) def. Melville (8%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Turati (97%) def. Melville (3%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Melville (NaN%) def. Turati (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Turati (93%) def. Melville (7%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Turati (94%) def. Melville (6%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Turati (17.31) def. Melville (2.84)</li>  
 </ul>
@@ -89,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Sun (97%) def. Pursell (3%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Sun (97%) def. Pursell (3%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Sun (99%) def. Pursell (1%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Pursell (NaN%) def. Sun (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Sun (95%) def. Pursell (5%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Sun (98%) def. Pursell (2%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Sun (9.34) def. Pursell (2.61)</li>  
 </ul>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Verden-Anderson (NaN%) def. Chavatipon (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Chavatipon (7.87) def. Verden-Anderson (3.01)</li>  
 </ul>
@@ -111,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Chang (NaN%) def. Collins (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Collins (98%) def. Chang (2%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Collins (98%) def. Chang (2%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Collins (8.04) def. Chang (2.56)</li>  
 </ul>
@@ -122,7 +123,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Labrana (98%) def. Burger (2%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Burger (NaN%) def. Labrana (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Labrana (96%) def. Burger (4%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Labrana (97%) def. Burger (3%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Burger (1.93) def. Labrana (0.00)</li>  
 </ul>

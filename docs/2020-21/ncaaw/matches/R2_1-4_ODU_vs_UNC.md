@@ -42,6 +42,7 @@ Chapel Hill, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UNC*** - North Carolina (99%) def. Old Dominion (1%)  
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #28 Old Dominion (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #25 Old Dominion (1%)  
 - Massey: ***UNC*** - #1 North Carolina (99%) def. #29 Old Dominion (1%)  
@@ -65,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Daavettila (94%) def. Hutchinson (6%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Daavettila (91%) def. Hutchinson (9%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Daavettila (98%) def. Hutchinson (2%)</li>  
-<li>Massey: <b><i>ODU</i></b> - Hutchinson (NaN%) def. Daavettila (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Daavettila (96%) def. Hutchinson (4%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Daavettila (92%) def. Hutchinson (8%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Daavettila (64.17) def. Hutchinson (5.40)</li>  
 </ul>
@@ -73,10 +74,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Yulia Starodubtseva (ODU) - 11-1 at #2, 11-1 in duals, 11-1 overall<br>Alexa Graham (UNC) - 5-0 at #2, 11-2 in duals, 16-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Graham (89%) def. Starodubtseva (11%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Graham (90%) def. Starodubtseva (10%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Graham (93%) def. Starodubtseva (7%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Graham (94%) def. Starodubtseva (6%)</li>  
-<li>Massey: <b><i>ODU</i></b> - Starodubtseva (NaN%) def. Graham (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Graham (81%) def. Starodubtseva (19%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Graham (91%) def. Starodubtseva (9%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Graham (15.03) def. Starodubtseva (11.96)</li>  
 </ul>
@@ -84,10 +85,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Tatsiana Sasnouskaya (ODU) - 9-2 at #3, 13-2 in duals, 13-2 overall<br>Cameron Morra (UNC) - 6-2 at #3, 15-6 in duals, 15-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Morra (82%) def. Sasnouskaya (18%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Morra (83%) def. Sasnouskaya (17%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Morra (88%) def. Sasnouskaya (12%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Morra (88%) def. Sasnouskaya (12%)</li>  
-<li>Massey: <b><i>ODU</i></b> - Sasnouskaya (NaN%) def. Morra (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Morra (68%) def. Sasnouskaya (32%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Morra (89%) def. Sasnouskaya (11%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Morra (20.00) def. Sasnouskaya (7.78)</li>  
 </ul>
@@ -98,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Scotty (96%) def. Yakubovich (4%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Scotty (97%) def. Yakubovich (3%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Scotty (98%) def. Yakubovich (2%)</li>  
-<li>Massey: <b><i>ODU</i></b> - Yakubovich (NaN%) def. Scotty (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Scotty (94%) def. Yakubovich (6%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Scotty (96%) def. Yakubovich (4%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Scotty (5.93) def. Yakubovich (0.00)</li>  
 </ul>
@@ -109,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Jones (96%) def. Pilkington (4%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Jones (98%) def. Pilkington (2%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Jones (99%) def. Pilkington (1%)</li>  
-<li>Massey: <b><i>ODU</i></b> - Pilkington (NaN%) def. Jones (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Jones (95%) def. Pilkington (5%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Jones (94%) def. Pilkington (6%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Jones (18.39) def. Pilkington (1.80)</li>  
 </ul>
@@ -120,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Crawley (97%) def. Viktorovich (3%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Crawley (99%) def. Viktorovich (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Crawley (99%) def. Viktorovich (1%)</li>  
-<li>Massey: <b><i>ODU</i></b> - Viktorovich (NaN%) def. Crawley (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Crawley (98%) def. Viktorovich (2%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Crawley (93%) def. Viktorovich (7%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Crawley (16.89) def. Viktorovich (2.38)</li>  
 </ul>

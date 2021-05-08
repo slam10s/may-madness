@@ -46,6 +46,7 @@ Go to [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***MICH*** - Michigan (72%) def. Arizona (28%)  
 - Slam: ***MICH*** - #13 Michigan (78%) def. #21 Arizona (22%)  
 - TRN: ***MICH*** - #12 Michigan (88%) def. #20 Arizona (12%)  
 - Massey: ***MICH*** - #14 Michigan (54%) def. #18 Arizona (46%)  
@@ -69,7 +70,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ARIZ</i></b> - Strom (64%) def. Fenty (36%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Fenty (56%) def. Strom (44%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Strom (87%) def. Fenty (13%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Fenty (NaN%) def. Strom (NaN%)</li>  
+<li>Massey: <b><i>ARIZ</i></b> - Strom (57%) def. Fenty (43%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Strom (69%) def. Fenty (31%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Strom (17.40) def. Fenty (1.71)</li>  
 </ul>
@@ -80,7 +81,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Styler (62%) def. Ziverts (38%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Styler (54%) def. Ziverts (46%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Styler (55%) def. Ziverts (45%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Styler (NaN%) def. Ziverts (NaN%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Styler (68%) def. Ziverts (32%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Styler (76%) def. Ziverts (24%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Ziverts (7.58) def. Styler (2.60)</li>  
 </ul>
@@ -91,7 +92,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ARIZ</i></b> - Malbasic (57%) def. Maloney (43%)</li>  
 <li>Slam: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Malbasic (64%) def. Maloney (36%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Maloney (NaN%) def. Malbasic (NaN%)</li>  
+<li>Massey: <b><i>ARIZ</i></b> - Malbasic (57%) def. Maloney (43%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Malbasic (2.36) def. Maloney (2.15)</li>  
 </ul>
@@ -102,7 +103,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Siimar (94%) def. Hoeyeraal (6%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Siimar (NaN%) def. Hoeyeraal (NaN%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Siimar (79%) def. Hoeyeraal (21%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Siimar (2.45) def. Hoeyeraal (2.40)</li>  
 </ul>
@@ -113,7 +114,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Beaty (51%) def. Reguant (49%)</li>  
 <li>Slam: <b><i>ARIZ</i></b> - Reguant (55%) def. Beaty (45%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Beaty (66%) def. Reguant (34%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Beaty (NaN%) def. Reguant (NaN%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Beaty (66%) def. Reguant (34%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Reguant (70%) def. Beaty (30%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Reguant (2.55) def. Beaty (2.52)</li>  
 </ul>
@@ -124,7 +125,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Ehrenschneider (51%) def. Hassey (49%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Ehrenschneider (66%) def. Hassey (34%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Ehrenschneider (NaN%) def. Hassey (NaN%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Ehrenschneider (58%) def. Hassey (42%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Ehrenschneider (2.63) def. Hassey (1.70)</li>  
 </ul>

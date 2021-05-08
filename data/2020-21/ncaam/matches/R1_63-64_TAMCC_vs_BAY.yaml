@@ -37,6 +37,7 @@ Visitor:
     MAS: 58 (5.69)
     UTR: 54 (71.52)
 Predictions:
+  AVG: BAY - Baylor (99%) def. A&M-Corpus Christi (1%)
   SLM: "BAY - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)"
   TRN: "BAY - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)"
   MAS: "BAY - #5 Baylor (99%) def. #58 A&M-Corpus Christi (1%)"
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "BAY - #1 Baylor def. #4 A&M-Corpus Christi"
 Lineups:
   Predictions:
-    Average EWPs for BAY: 99%,99%,NaN%,100%
-    Average EWPs for TAMCC: 1%,1%,NaN%,0%
+    Average EWPs for BAY: 99%,99%,99%,100%
+    Average EWPs for TAMCC: 1%,1%,1%,0%
     BAY wins 4 or more Singles points: 100%
     TAMCC wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,7 +62,7 @@ Lineups:
         AVG: BAY - Boitan (98%) def. Yamanaka (2%)
         SLM: BAY - Boitan (98%) def. Yamanaka (2%)
         TRN: BAY - Boitan (99%) def. Yamanaka (1%)
-        MAS: TAMCC - Yamanaka (NaN%) def. Boitan (NaN%)
+        MAS: BAY - Boitan (99%) def. Yamanaka (1%)
         UTR: BAY - Boitan (97%) def. Yamanaka (3%)
         ITA: BAY - Boitan (31.04) def. Yamanaka (1.61)
     - Position: 2
@@ -71,17 +72,17 @@ Lineups:
         AVG: BAY - Soto (99%) def. Ata (1%)
         SLM: BAY - Soto (99%) def. Ata (1%)
         TRN: BAY - Soto (99%) def. Ata (1%)
-        MAS: TAMCC - Ata (NaN%) def. Soto (NaN%)
+        MAS: BAY - Soto (99%) def. Ata (1%)
         UTR: BAY - Soto (98%) def. Ata (2%)
         ITA: BAY - Soto (41.70) def. Ata (1.70)
     - Position: 3
       BAY: Sven Lah - 6-7 at 3, 9-9 in duals, 11-12 overall
       TAMCC: Nathan Schwartz - 7-4 at 3, 13-4 in duals, 15-5 overall
       Predictions:
-        AVG: BAY - Lah (93%) def. Schwartz (7%)
+        AVG: BAY - Lah (94%) def. Schwartz (6%)
         SLM: BAY - Lah (95%) def. Schwartz (5%)
         TRN: BAY - Lah (96%) def. Schwartz (4%)
-        MAS: TAMCC - Schwartz (NaN%) def. Lah (NaN%)
+        MAS: BAY - Lah (89%) def. Schwartz (11%)
         UTR: BAY - Lah (94%) def. Schwartz (6%)
         ITA: BAY - Lah (4.25) def. Schwartz (2.22)
     - Position: 4
@@ -91,7 +92,7 @@ Lineups:
         AVG: BAY - Stachowiak (95%) def. Loriel (5%)
         SLM: BAY - Stachowiak (96%) def. Loriel (4%)
         TRN: BAY - Stachowiak (97%) def. Loriel (3%)
-        MAS: TAMCC - Loriel (NaN%) def. Stachowiak (NaN%)
+        MAS: BAY - Stachowiak (93%) def. Loriel (7%)
         UTR: BAY - Stachowiak (95%) def. Loriel (5%)
         ITA: TAMCC - Loriel (3.69) def. Stachowiak (3.38)
     - Position: 5
@@ -101,7 +102,7 @@ Lineups:
         AVG: BAY - Broom (99%) def. Delgado (1%)
         SLM: BAY - Broom (99%) def. Delgado (1%)
         TRN: BAY - Broom (99%) def. Delgado (1%)
-        MAS: TAMCC - Delgado (NaN%) def. Broom (NaN%)
+        MAS: BAY - Broom (98%) def. Delgado (2%)
         UTR: BAY - Broom (99%) def. Delgado (1%)
         ITA: BAY - Broom (3.72) def. Delgado (3.54)
     - Position: 6
@@ -111,7 +112,7 @@ Lineups:
         AVG: BAY - Furman (98%) def. Castaneda (2%)
         SLM: BAY - Furman (99%) def. Castaneda (1%)
         TRN: BAY - Furman (99%) def. Castaneda (1%)
-        MAS: TAMCC - Castaneda (NaN%) def. Furman (NaN%)
+        MAS: BAY - Furman (99%) def. Castaneda (1%)
         UTR: BAY - Furman (94%) def. Castaneda (6%)
         ITA: BAY - Furman (4.24) def. Castaneda (3.54)
   Doubles:

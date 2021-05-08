@@ -40,9 +40,10 @@ Chapel Hill, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UNC*** - North Carolina (99%) def. Presbyterian (1%)  
 - Slam: ***UNC*** - #3 North Carolina (99%) def. #59 Presbyterian (1%)  
 - TRN: ***UNC*** - #2 North Carolina (99%) def. #59 Presbyterian (1%)  
-- Massey: ***UNC*** - #4 North Carolina (100%) def. #61 Presbyterian (0%)  
+- Massey: ***UNC*** - #4 North Carolina (99%) def. #61 Presbyterian (1%)  
 - Lineup: ***UNC*** - North Carolina (99%) def. Presbyterian (1%)  
 - UTR: ***UNC*** - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)  
 - ITA: ***UNC*** - #6 North Carolina def. #59 Presbyterian  
@@ -63,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Blumberg (98%) def. Benson (2%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Blumberg (98%) def. Benson (2%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Blumberg (99%) def. Benson (1%)</li>  
-<li>Massey: <b><i>PRES</i></b> - Benson (NaN%) def. Blumberg (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Blumberg (97%) def. Benson (3%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Blumberg (97%) def. Benson (3%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Blumberg (21.87) def. Benson (2.12)</li>  
 </ul>
@@ -74,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
-<li>Massey: <b><i>PRES</i></b> - Dominguez (NaN%) def. Hijikata (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Hijikata (98%) def. Dominguez (2%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Hijikata (27.96) def. Dominguez (0.00)</li>  
 </ul>
@@ -82,10 +83,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nick McKinney (PRES) - 3-1 at #3, 13-1 in duals, 13-1 overall<br>Benjamin Sigouin (UNC) - 3-2 at #3, 9-9 in duals, 9-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Sigouin (88%) def. McKinney (12%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Sigouin (89%) def. McKinney (11%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Sigouin (97%) def. McKinney (3%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Sigouin (96%) def. McKinney (4%)</li>  
-<li>Massey: <b><i>PRES</i></b> - McKinney (NaN%) def. Sigouin (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Sigouin (74%) def. McKinney (26%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Sigouin (89%) def. McKinney (11%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Sigouin (13.85) def. McKinney (3.59)</li>  
 </ul>
@@ -96,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
-<li>Massey: <b><i>PRES</i></b> - Babic (NaN%) def. Cernoch (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Cernoch (12.67) def. Babic (0.00)</li>  
 </ul>
@@ -107,7 +108,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Peck (98%) def. Stenger (2%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Peck (98%) def. Stenger (2%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Peck (99%) def. Stenger (1%)</li>  
-<li>Massey: <b><i>PRES</i></b> - Stenger (NaN%) def. Peck (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Peck (98%) def. Stenger (2%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Peck (98%) def. Stenger (2%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Peck (4.29) def. Stenger (1.37)</li>  
 </ul>
@@ -118,7 +119,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Soendergaard (96%) def. Matos (4%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Soendergaard (98%) def. Matos (2%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Soendergaard (99%) def. Matos (1%)</li>  
-<li>Massey: <b><i>PRES</i></b> - Matos (NaN%) def. Soendergaard (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Soendergaard (93%) def. Matos (7%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Soendergaard (95%) def. Matos (5%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Soendergaard (3.62) def. Matos (2.56)</li>  
 </ul>

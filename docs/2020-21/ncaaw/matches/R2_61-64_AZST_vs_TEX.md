@@ -42,9 +42,10 @@ Austin, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***TEX*** - Texas (99%) def. Arizona St. (1%)  
 - Slam: ***TEX*** - #2 Texas (99%) def. #31 Arizona St. (1%)  
 - TRN: ***TEX*** - #2 Texas (99%) def. #33 Arizona St. (1%)  
-- Massey: ***TEX*** - #2 Texas (96%) def. #24 Arizona St. (4%)  
+- Massey: ***TEX*** - #2 Texas (97%) def. #24 Arizona St. (3%)  
 - Lineup: ***TEX*** - Texas (99%) def. Arizona St. (1%)  
 - UTR: ***TEX*** - #1 Texas (+4.00) def. #23 Arizona St. (-4.00)  
 - ITA: ***TEX*** - #2 Texas def. #31 Arizona St.  
@@ -62,10 +63,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ilze Hattingh (AZST) - 10-7 at #1, 10-7 in duals, 11-7 overall<br>Peyton Stearns (TEX) - 10-3 at #1, 10-3 in duals, 14-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Stearns (80%) def. Hattingh (20%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Stearns (81%) def. Hattingh (19%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Stearns (73%) def. Hattingh (27%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Stearns (77%) def. Hattingh (23%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Hattingh (NaN%) def. Stearns (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Stearns (84%) def. Hattingh (16%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Stearns (91%) def. Hattingh (9%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Stearns (16.38) def. Hattingh (6.86)</li>  
 </ul>
@@ -76,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Turati (90%) def. Hampton (10%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Turati (90%) def. Hampton (10%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Turati (94%) def. Hampton (6%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Hampton (NaN%) def. Turati (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Turati (88%) def. Hampton (12%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Turati (89%) def. Hampton (11%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Turati (17.31) def. Hampton (1.50)</li>  
 </ul>
@@ -87,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Sun (90%) def. John-Baptiste (10%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Sun (87%) def. John-Baptiste (13%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Sun (92%) def. John-Baptiste (8%)</li>  
-<li>Massey: <b><i>AZST</i></b> - John-Baptiste (NaN%) def. Sun (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Sun (85%) def. John-Baptiste (15%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Sun (96%) def. John-Baptiste (4%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Sun (9.34) def. John-Baptiste (2.78)</li>  
 </ul>
@@ -98,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Chavatipon (91%) def. Morlet (9%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Chavatipon (93%) def. Morlet (7%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Chavatipon (97%) def. Morlet (3%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Morlet (NaN%) def. Chavatipon (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Chavatipon (87%) def. Morlet (13%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Chavatipon (88%) def. Morlet (12%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Chavatipon (7.87) def. Morlet (2.20)</li>  
 </ul>
@@ -109,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Collins (87%) def. Argyrokastriti (13%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Collins (88%) def. Argyrokastriti (12%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Collins (90%) def. Argyrokastriti (10%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Argyrokastriti (NaN%) def. Collins (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Collins (82%) def. Argyrokastriti (18%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Collins (88%) def. Argyrokastriti (12%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Collins (8.04) def. Argyrokastriti (2.12)</li>  
 </ul>
@@ -117,10 +118,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Domenika Turkovic (AZST) - 4-5 at #6, 8-6 in duals, 9-6 overall<br>Fernanda Labrana (TEX) - 5-1 at #6, 14-1 in duals, 21-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Labrana (91%) def. Turkovic (9%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Labrana (92%) def. Turkovic (8%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Labrana (95%) def. Turkovic (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Labrana (98%) def. Turkovic (2%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Turkovic (NaN%) def. Labrana (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Labrana (85%) def. Turkovic (15%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Labrana (90%) def. Turkovic (10%)</li>  
 <li>ITA: <b><i>AZST</i></b> - Turkovic (1.94) def. Labrana (0.00)</li>  
 </ul>

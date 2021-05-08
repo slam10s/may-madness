@@ -43,9 +43,10 @@ College Station, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***A&M*** - Texas A&M (99%) def. New Mexico (1%)  
 - Slam: ***A&M*** - #11 Texas A&M (99%) def. #53 New Mexico (1%)  
 - TRN: ***A&M*** - #11 Texas A&M (99%) def. #54 New Mexico (1%)  
-- Massey: ***A&M*** - #12 Texas A&M (98%) def. #48 New Mexico (2%)  
+- Massey: ***A&M*** - #12 Texas A&M (99%) def. #48 New Mexico (1%)  
 - Lineup: ***A&M*** - Texas A&M (99%) def. New Mexico (1%)  
 - UTR: ***A&M*** - #8 Texas A&M (+5.97) def. #51 New Mexico (-5.97)  
 - ITA: ***A&M*** - #8 Texas A&M def. #52 New Mexico  
@@ -66,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Vacherot (93%) def. Dobai (7%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Vacherot (91%) def. Dobai (9%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Vacherot (95%) def. Dobai (5%)</li>  
-<li>Massey: <b><i>UNM</i></b> - Dobai (NaN%) def. Vacherot (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Vacherot (93%) def. Dobai (7%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Vacherot (92%) def. Dobai (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Vacherot (51.31) def. Dobai (2.42)</li>  
 </ul>
@@ -77,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Habib (95%) def. West (5%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Habib (95%) def. West (5%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Habib (98%) def. West (2%)</li>  
-<li>Massey: <b><i>UNM</i></b> - West (NaN%) def. Habib (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Habib (95%) def. West (5%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Habib (93%) def. West (7%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Habib (54.57) def. West (2.18)</li>  
 </ul>
@@ -85,10 +86,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Stepan Holis (UNM) - 5-5 at #3, 7-5 in duals, 7-5 overall<br>Juan Carlos Aguilar (A&M) - 6-6 at #3, 10-8 in duals, 15-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Aguilar (92%) def. Holis (8%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Aguilar (93%) def. Holis (7%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Aguilar (93%) def. Holis (7%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Aguilar (96%) def. Holis (4%)</li>  
-<li>Massey: <b><i>UNM</i></b> - Holis (NaN%) def. Aguilar (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Aguilar (88%) def. Holis (12%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Aguilar (93%) def. Holis (7%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Aguilar (23.98) def. Holis (2.18)</li>  
 </ul>
@@ -99,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Schachter (92%) def. Abdulsalam (8%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Schachter (94%) def. Abdulsalam (6%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Schachter (96%) def. Abdulsalam (4%)</li>  
-<li>Massey: <b><i>UNM</i></b> - Abdulsalam (NaN%) def. Schachter (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Schachter (86%) def. Abdulsalam (14%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Schachter (92%) def. Abdulsalam (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Schachter (6.58) def. Abdulsalam (1.72)</li>  
 </ul>
@@ -107,10 +108,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jake Trondson (UNM) - 3-0 at #5, 8-4 in duals, 8-4 overall<br>Pierce Rollins (A&M) - 3-3 at #5, 8-5 in duals, 15-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Rollins (94%) def. Trondson (6%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Rollins (95%) def. Trondson (5%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Rollins (96%) def. Trondson (4%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Rollins (98%) def. Trondson (2%)</li>  
-<li>Massey: <b><i>UNM</i></b> - Trondson (NaN%) def. Rollins (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Rollins (90%) def. Trondson (10%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Rollins (95%) def. Trondson (5%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Rollins (5.08) def. Trondson (2.42)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Marson (93%) def. Molina (7%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Marson (93%) def. Molina (7%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Marson (98%) def. Molina (2%)</li>  
-<li>Massey: <b><i>UNM</i></b> - Molina (NaN%) def. Marson (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Marson (91%) def. Molina (9%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Marson (91%) def. Molina (9%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Marson (1.86) def. Molina (0.00)</li>  
 </ul>

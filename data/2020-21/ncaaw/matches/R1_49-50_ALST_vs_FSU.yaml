@@ -37,9 +37,10 @@ Visitor:
     MAS: 63 (3.41)
     UTR: 61 (46.66)
 Predictions:
+  AVG: FSU - Florida St. (99%) def. Alabama St. (1%)
   SLM: "FSU - #10 Florida St. (99%) def. #63 Alabama St. (1%)"
   TRN: "FSU - #9 Florida St. (99%) def. #62 Alabama St. (1%)"
-  MAS: "FSU - #9 Florida St. (100%) def. #63 Alabama St. (0%)"
+  MAS: "FSU - #9 Florida St. (99%) def. #63 Alabama St. (1%)"
   LNUP: FSU - Florida St. (99%) def. Alabama St. (1%)
   UTR: "FSU - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)"
   ITA: "FSU - #7 Florida St. def. #61 Alabama St."
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "FSU - #1 Florida St. def. #4 Alabama St."
 Lineups:
   Predictions:
-    Average EWPs for FSU: 99%,99%,NaN%,100%
-    Average EWPs for ALST: 1%,1%,NaN%,0%
+    Average EWPs for FSU: 99%,99%,100%,100%
+    Average EWPs for ALST: 1%,1%,0%,0%
     FSU wins 4 or more Singles points: 100%
     ALST wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,17 +62,17 @@ Lineups:
         AVG: FSU - Pairone (99%) def. Andrade (1%)
         SLM: FSU - Pairone (99%) def. Andrade (1%)
         TRN: FSU - Pairone (99%) def. Andrade (1%)
-        MAS: ALST - Andrade (NaN%) def. Pairone (NaN%)
+        MAS: FSU - Pairone (99%) def. Andrade (1%)
         UTR: FSU - Pairone (99%) def. Andrade (1%)
         ITA: FSU - Pairone (30.67) def. Andrade (2.89)
     - Position: 2
       FSU: Emmanuelle Salas - 5-6 at 2, 7-9 in duals, 7-10 overall
       ALST: Lizaveta Dzemchanka - 0-0 at 2, 3-0 in duals, 3-0 overall
       Predictions:
-        AVG: FSU - Salas (97%) def. Dzemchanka (3%)
-        SLM: FSU - Salas (100%) def. Dzemchanka (0%)
-        TRN: FSU - Salas (100%) def. Dzemchanka (0%)
-        MAS: FSU - Salas (90%) def. Dzemchanka (10%)
+        AVG: FSU - Salas (74%) def. Dzemchanka (26%)
+        SLM: FSU - Salas (99%) def. Dzemchanka (1%)
+        TRN: FSU - Salas (99%) def. Dzemchanka (1%)
+        MAS: ALST - Dzemchanka (99%) def. Salas (1%)
         UTR: FSU - Salas (99%) def. Dzemchanka (1%)
         ITA: FSU - Salas (14.35) def. Dzemchanka (0.00)
     - Position: 3
@@ -81,7 +82,7 @@ Lineups:
         AVG: FSU - Das (99%) def. Velec (1%)
         SLM: FSU - Das (99%) def. Velec (1%)
         TRN: FSU - Das (99%) def. Velec (1%)
-        MAS: ALST - Velec (NaN%) def. Das (NaN%)
+        MAS: FSU - Das (99%) def. Velec (1%)
         UTR: FSU - Das (99%) def. Velec (1%)
         ITA: ALST - Velec (2.89) def. Das (2.52)
     - Position: 4
@@ -91,7 +92,7 @@ Lineups:
         AVG: FSU - Hule (99%) def. Duca (1%)
         SLM: FSU - Hule (99%) def. Duca (1%)
         TRN: FSU - Hule (99%) def. Duca (1%)
-        MAS: ALST - Duca (NaN%) def. Hule (NaN%)
+        MAS: FSU - Hule (99%) def. Duca (1%)
         UTR: FSU - Hule (99%) def. Duca (1%)
         ITA: FSU - Hule (3.24) def. Duca (2.26)
     - Position: 5
@@ -101,7 +102,7 @@ Lineups:
         AVG: FSU - Allen (99%) def. Legaud (1%)
         SLM: FSU - Allen (99%) def. Legaud (1%)
         TRN: FSU - Allen (99%) def. Legaud (1%)
-        MAS: ALST - Legaud (NaN%) def. Allen (NaN%)
+        MAS: FSU - Allen (99%) def. Legaud (1%)
         UTR: FSU - Allen (99%) def. Legaud (1%)
         ITA: FSU - Allen (2.90) def. Legaud (0.00)
     - Position: 6
@@ -111,7 +112,7 @@ Lineups:
         AVG: FSU - Arkadianou (99%) def. Acena (1%)
         SLM: FSU - Arkadianou (99%) def. Acena (1%)
         TRN: FSU - Arkadianou (99%) def. Acena (1%)
-        MAS: ALST - Acena (NaN%) def. Arkadianou (NaN%)
+        MAS: FSU - Arkadianou (99%) def. Acena (1%)
         UTR: FSU - Arkadianou (99%) def. Acena (1%)
         ITA: ALST - Acena (1.75) def. Arkadianou (0.00)
   Doubles:

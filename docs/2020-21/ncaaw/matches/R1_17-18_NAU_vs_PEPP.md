@@ -43,9 +43,10 @@ Malibu, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - Slam: ***PEPP*** - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)  
 - TRN: ***PEPP*** - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)  
-- Massey: ***PEPP*** - #5 Pepperdine (100%) def. #51 Northern Ariz. (0%)  
+- Massey: ***PEPP*** - #5 Pepperdine (99%) def. #51 Northern Ariz. (1%)  
 - Lineup: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #54 Northern Ariz.  
@@ -66,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Lahey (89%) def. Dittmann (11%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Lahey (87%) def. Dittmann (13%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Dittmann (NaN%) def. Lahey (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Lahey (84%) def. Dittmann (16%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Lahey (7.80) def. Dittmann (4.32)</li>  
 </ul>
@@ -74,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Emily Bland (NAU) - 1-1 at #2, 14-3 in duals, 14-3 overall<br>Jessica Failla (PEPP) - 6-1 at #2, 14-3 in duals, 14-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Failla (98%) def. Bland (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Bland (NaN%) def. Failla (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Failla (94%) def. Bland (6%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Failla (23.38) def. Bland (2.75)</li>  
 </ul>
@@ -88,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Pachkaleva (99%) def. Millard (1%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Millard (NaN%) def. Pachkaleva (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Pachkaleva (97%) def. Millard (3%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Pachkaleva (6.37) def. Millard (2.21)</li>  
 </ul>
@@ -99,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Fukuda (98%) def. Neyestani (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Neyestani (NaN%) def. Fukuda (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Fukuda (96%) def. Neyestani (4%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Fukuda (98%) def. Neyestani (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Fukuda (4.88) def. Neyestani (1.91)</li>  
 </ul>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Beazley (NaN%) def. Zaar (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Zaar (97%) def. Beazley (3%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zaar (4.47) def. Beazley (2.10)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Moore (NaN%) def. Redelijk (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Redelijk (98%) def. Moore (2%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Redelijk (1.87) def. Moore (1.46)</li>  
 </ul>

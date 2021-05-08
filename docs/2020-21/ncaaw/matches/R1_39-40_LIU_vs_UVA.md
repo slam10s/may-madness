@@ -43,9 +43,10 @@ Charlottesville, Virginia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UVA*** - Virginia (99%) def. LIU (1%)  
 - Slam: ***UVA*** - #9 Virginia (99%) def. #61 LIU (1%)  
 - TRN: ***UVA*** - #11 Virginia (99%) def. #63 LIU (1%)  
-- Massey: ***UVA*** - #7 Virginia (100%) def. #61 LIU (0%)  
+- Massey: ***UVA*** - #7 Virginia (99%) def. #61 LIU (1%)  
 - Lineup: ***UVA*** - Virginia (99%) def. LIU (1%)  
 - UTR: ***UVA*** - #13 Virginia (+12.56) def. #60 LIU (-12.56)  
 - ITA: ***UVA*** - #14 Virginia def. #52 LIU  
@@ -65,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
-<li>Massey: <b><i>LIU</i></b> - Kuzina (NaN%) def. Navarro (NaN%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Navarro (62.96) def. Kuzina (3.50)</li>  
 </ul>
@@ -76,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
-<li>Massey: <b><i>LIU</i></b> - Dancenco (NaN%) def. Subhash (NaN%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Subhash (98%) def. Dancenco (2%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Subhash (98%) def. Dancenco (2%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Subhash (40.00) def. Dancenco (4.17)</li>  
 </ul>
@@ -87,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
-<li>Massey: <b><i>LIU</i></b> - Erechtchenko (NaN%) def. Johanson (NaN%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Johanson (6.37) def. Erechtchenko (3.50)</li>  
 </ul>
@@ -98,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
-<li>Massey: <b><i>LIU</i></b> - Storkaas (NaN%) def. Shaikh (NaN%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Shaikh (1.63) def. Storkaas (0.00)</li>  
 </ul>
@@ -106,10 +107,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Bianca Compuesto (LIU) - 4-0 at #5, 6-0 in duals, 6-0 overall<br>Amber O'Dell (UVA) - 1-3 at #5, 10-7 in duals, 10-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>LIU</i></b> - Compuesto (78%) def. O'Dell (22%)</li>  
+<li>Composite: <b><i>LIU</i></b> - Compuesto (77%) def. O'Dell (23%)</li>  
 <li>Slam: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>TRN: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
-<li>Massey: <b><i>LIU</i></b> - Compuesto (NaN%) def. O'Dell (NaN%)</li>  
+<li>Massey: <b><i>UVA</i></b> - O'Dell (89%) def. Compuesto (11%)</li>  
 <li>UTR: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>ITA: <b><i>LIU</i></b> - Compuesto (3.66) def. O'Dell (1.59)</li>  
 </ul>
@@ -120,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Glozman (98%) def. Jorjoliani (2%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
-<li>Massey: <b><i>LIU</i></b> - Jorjoliani (NaN%) def. Glozman (NaN%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Glozman (97%) def. Jorjoliani (3%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Glozman (98%) def. Jorjoliani (2%)</li>  
 <li>ITA: <b><i>LIU</i></b> - Jorjoliani (3.50) def. Glozman (2.77)</li>  
 </ul>

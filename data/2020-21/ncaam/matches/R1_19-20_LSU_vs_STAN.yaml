@@ -38,6 +38,7 @@ Visitor:
   Polls:
     Coach: 39
 Predictions:
+  AVG: STAN - Stanford (86%) def. LSU (14%)
   SLM: "STAN - #22 Stanford (74%) def. #38 LSU (26%)"
   TRN: "STAN - #21 Stanford (77%) def. #39 LSU (23%)"
   MAS: "STAN - #20 Stanford (94%) def. #47 LSU (6%)"
@@ -49,8 +50,8 @@ Predictions:
   Seeding: "STAN - #2 Stanford def. #3 LSU"
 Lineups:
   Predictions:
-    Average EWPs for STAN: 74%,77%,NaN%,98%
-    Average EWPs for LSU: 26%,23%,NaN%,2%
+    Average EWPs for STAN: 74%,77%,94%,98%
+    Average EWPs for LSU: 26%,23%,6%,2%
     STAN wins 4 or more Singles points: 93%
     LSU wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 6%
@@ -62,7 +63,7 @@ Lineups:
         AVG: STAN - Geller (76%) def. Hohmann (24%)
         SLM: STAN - Geller (70%) def. Hohmann (30%)
         TRN: STAN - Geller (80%) def. Hohmann (20%)
-        MAS: LSU - Hohmann (NaN%) def. Geller (NaN%)
+        MAS: STAN - Geller (72%) def. Hohmann (28%)
         UTR: STAN - Geller (80%) def. Hohmann (20%)
         ITA: LSU - Hohmann (23.83) def. Geller (6.21)
     - Position: 2
@@ -72,7 +73,7 @@ Lineups:
         AVG: STAN - Fery (90%) def. Wagner (10%)
         SLM: STAN - Fery (86%) def. Wagner (14%)
         TRN: STAN - Fery (92%) def. Wagner (8%)
-        MAS: LSU - Wagner (NaN%) def. Fery (NaN%)
+        MAS: STAN - Fery (87%) def. Wagner (13%)
         UTR: STAN - Fery (94%) def. Wagner (6%)
         ITA: STAN - Fery (8.87) def. Wagner (6.22)
     - Position: 3
@@ -82,7 +83,7 @@ Lineups:
         AVG: STAN - Boyer (88%) def. Graca (12%)
         SLM: STAN - Boyer (86%) def. Graca (14%)
         TRN: STAN - Boyer (87%) def. Graca (13%)
-        MAS: LSU - Graca (NaN%) def. Boyer (NaN%)
+        MAS: STAN - Boyer (87%) def. Graca (13%)
         UTR: STAN - Boyer (93%) def. Graca (7%)
         ITA: STAN - Boyer (2.12) def. Graca (1.37)
     - Position: 4
@@ -92,7 +93,7 @@ Lineups:
         AVG: STAN - Rotsaert (82%) def. Kozlov (18%)
         SLM: STAN - Rotsaert (88%) def. Kozlov (12%)
         TRN: STAN - Rotsaert (83%) def. Kozlov (17%)
-        MAS: LSU - Kozlov (NaN%) def. Rotsaert (NaN%)
+        MAS: STAN - Rotsaert (74%) def. Kozlov (26%)
         UTR: STAN - Rotsaert (83%) def. Kozlov (17%)
         ITA: STAN - Rotsaert (1.37) def. Kozlov (1.32)
     - Position: 5
@@ -102,7 +103,7 @@ Lineups:
         AVG: STAN - Sah (83%) def. Ambrosio (17%)
         SLM: STAN - Sah (85%) def. Ambrosio (15%)
         TRN: STAN - Sah (82%) def. Ambrosio (18%)
-        MAS: LSU - Ambrosio (NaN%) def. Sah (NaN%)
+        MAS: STAN - Sah (76%) def. Ambrosio (24%)
         UTR: STAN - Sah (90%) def. Ambrosio (10%)
         ITA: STAN - Sah (2.32) def. Ambrosio (1.97)
     - Position: 6
@@ -112,7 +113,7 @@ Lineups:
         AVG: STAN - Genesen (73%) def. Koch (27%)
         SLM: STAN - Genesen (71%) def. Koch (29%)
         TRN: STAN - Genesen (78%) def. Koch (22%)
-        MAS: LSU - Koch (NaN%) def. Genesen (NaN%)
+        MAS: STAN - Genesen (66%) def. Koch (34%)
         UTR: STAN - Genesen (79%) def. Koch (21%)
         ITA: STAN - Genesen (1.81) def. Koch (1.76)
   Doubles:

@@ -43,6 +43,7 @@ Urbana, Illinois
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***ILL*** - Illinois (99%) def. DePaul (1%)  
 - Slam: ***ILL*** - #6 Illinois (99%) def. #55 DePaul (1%)  
 - TRN: ***ILL*** - #4 Illinois (99%) def. #55 DePaul (1%)  
 - Massey: ***ILL*** - #9 Illinois (99%) def. #54 DePaul (1%)  
@@ -66,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
-<li>Massey: <b><i>DEP</i></b> - Tonejc (NaN%) def. Kovacevic (NaN%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Kovacevic (99%) def. Tonejc (1%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>ITA: <b><i>DEP</i></b> - Tonejc (4.23) def. Kovacevic (4.00)</li>  
 </ul>
@@ -77,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
-<li>Massey: <b><i>DEP</i></b> - Casati (NaN%) def. Montsi (NaN%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Montsi (98%) def. Casati (2%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Montsi (4.79) def. Casati (0.00)</li>  
 </ul>
@@ -88,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Brown (94%) def. Spanjaard (6%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
-<li>Massey: <b><i>DEP</i></b> - Spanjaard (NaN%) def. Brown (NaN%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Brown (90%) def. Spanjaard (10%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Brown (92%) def. Spanjaard (8%)</li>  
 <li>ITA: <b><i>DEP</i></b> - Spanjaard (2.02) def. Brown (1.47)</li>  
 </ul>
@@ -99,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Clark (98%) def. Zador (2%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Clark (98%) def. Zador (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Clark (99%) def. Zador (1%)</li>  
-<li>Massey: <b><i>DEP</i></b> - Zador (NaN%) def. Clark (NaN%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Clark (99%) def. Zador (1%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Clark (96%) def. Zador (4%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Clark (6.43) def. Zador (1.31)</li>  
 </ul>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Heck (97%) def. Tonejc (3%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Heck (98%) def. Tonejc (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Heck (99%) def. Tonejc (1%)</li>  
-<li>Massey: <b><i>DEP</i></b> - Tonejc (NaN%) def. Heck (NaN%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Heck (96%) def. Tonejc (4%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Heck (96%) def. Tonejc (4%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Heck (2.36) def. Tonejc (1.51)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Khlif (98%) def. Wassenaar (2%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
-<li>Massey: <b><i>DEP</i></b> - Wassenaar (NaN%) def. Khlif (NaN%)</li>  
+<li>Massey: <b><i>ILL</i></b> - Khlif (98%) def. Wassenaar (2%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Khlif (97%) def. Wassenaar (3%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Khlif (3.59) def. Wassenaar (2.18)</li>  
 </ul>

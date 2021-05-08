@@ -41,6 +41,7 @@ Waco, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***BAMA*** - Alabama (60%) def. Oregon (40%)  
 - Slam: ***BAMA*** - #28 Alabama (70%) def. #44 Oregon (30%)  
 - TRN: ***BAMA*** - #27 Alabama (71%) def. #41 Oregon (29%)  
 - Massey: ***ORE*** - #30 Oregon (58%) def. #38 Alabama (42%)  
@@ -63,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ORE</i></b> - Coste (69%) def. Ortiz (31%)</li>  
 <li>Slam: <b><i>ORE</i></b> - Coste (73%) def. Ortiz (27%)</li>  
 <li>TRN: <b><i>ORE</i></b> - Coste (76%) def. Ortiz (24%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Coste (NaN%) def. Ortiz (NaN%)</li>  
+<li>Massey: <b><i>ORE</i></b> - Coste (55%) def. Ortiz (45%)</li>  
 <li>UTR: <b><i>ORE</i></b> - Coste (76%) def. Ortiz (24%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Ortiz (18.41) def. Coste (3.31)</li>  
 </ul>
@@ -74,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
 <li>Slam: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
 <li>TRN: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Charlton (NaN%) def. Kaukovalta (NaN%)</li>  
+<li>Massey: <b><i>ORE</i></b> - Charlton (62%) def. Kaukovalta (38%)</li>  
 <li>UTR: <b><i>ORE</i></b> - Charlton (76%) def. Kaukovalta (24%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Kaukovalta (11.09) def. Charlton (2.88)</li>  
 </ul>
@@ -85,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>BAMA</i></b> - Zhou (69%) def. Vandecasteele (31%)</li>  
 <li>Slam: <b><i>BAMA</i></b> - Zhou (72%) def. Vandecasteele (28%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Zhou (76%) def. Vandecasteele (24%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Vandecasteele (NaN%) def. Zhou (NaN%)</li>  
+<li>Massey: <b><i>BAMA</i></b> - Zhou (63%) def. Vandecasteele (37%)</li>  
 <li>UTR: <b><i>BAMA</i></b> - Zhou (63%) def. Vandecasteele (37%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Zhou (13.61) def. Vandecasteele (1.67)</li>  
 </ul>
@@ -96,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ORE</i></b> - Klov-Nilsson (51%) def. Roberto (49%)</li>  
 <li>Slam: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Roberto (50%) def. Klov-Nilsson (50%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Klov-Nilsson (NaN%) def. Roberto (NaN%)</li>  
+<li>Massey: <b><i>ORE</i></b> - Klov-Nilsson (62%) def. Roberto (38%)</li>  
 <li>UTR: <b><i>BAMA</i></b> - Roberto (53%) def. Klov-Nilsson (47%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Roberto (2.71) def. Klov-Nilsson (2.61)</li>  
 </ul>
@@ -107,7 +108,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>BAMA</i></b> - Freire (68%) def. Lam (32%)</li>  
 <li>Slam: <b><i>BAMA</i></b> - Freire (68%) def. Lam (32%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Freire (72%) def. Lam (28%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Lam (NaN%) def. Freire (NaN%)</li>  
+<li>Massey: <b><i>BAMA</i></b> - Freire (64%) def. Lam (36%)</li>  
 <li>UTR: <b><i>BAMA</i></b> - Freire (68%) def. Lam (32%)</li>  
 <li>ITA: <b><i>ORE</i></b> - Lam (1.91) def. Freire (1.56)</li>  
 </ul>
@@ -118,7 +119,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>BAMA</i></b> - Nesterov (73%) def. Vandecasteele (27%)</li>  
 <li>Slam: <b><i>BAMA</i></b> - Nesterov (69%) def. Vandecasteele (31%)</li>  
 <li>TRN: <b><i>BAMA</i></b> - Nesterov (74%) def. Vandecasteele (26%)</li>  
-<li>Massey: <b><i>ORE</i></b> - Vandecasteele (NaN%) def. Nesterov (NaN%)</li>  
+<li>Massey: <b><i>BAMA</i></b> - Nesterov (69%) def. Vandecasteele (31%)</li>  
 <li>UTR: <b><i>BAMA</i></b> - Nesterov (80%) def. Vandecasteele (20%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Nesterov (1.92) def. Vandecasteele (1.57)</li>  
 </ul>

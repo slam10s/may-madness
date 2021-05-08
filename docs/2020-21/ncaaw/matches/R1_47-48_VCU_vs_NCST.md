@@ -43,6 +43,7 @@ Raleigh, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***NCST*** - NC State (99%) def. VCU (1%)  
 - Slam: ***NCST*** - #11 NC State (99%) def. #48 VCU (1%)  
 - TRN: ***NCST*** - #10 NC State (99%) def. #48 VCU (1%)  
 - Massey: ***NCST*** - #6 NC State (99%) def. #48 VCU (1%)  
@@ -63,10 +64,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Paola Exposito Diaz-Delgado (VCU) - 16-3 at #1, 16-3 in duals, 16-3 overall<br>Anna Rogers (NCST) - 14-6 at #1, 14-6 in duals, 19-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Rogers (84%) def. Diaz-Delgado (16%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rogers (81%) def. Diaz-Delgado (19%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Diaz-Delgado (NaN%) def. Rogers (NaN%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Rogers (87%) def. Diaz-Delgado (13%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rogers (48.19) def. Diaz-Delgado (5.71)</li>  
 </ul>
@@ -77,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Smith (97%) def. Tutunaru (3%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Smith (96%) def. Tutunaru (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Smith (98%) def. Tutunaru (2%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Tutunaru (NaN%) def. Smith (NaN%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Smith (97%) def. Tutunaru (3%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Smith (97%) def. Tutunaru (3%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Smith (22.32) def. Tutunaru (1.60)</li>  
 </ul>
@@ -88,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Reami (96%) def. Ciuca (4%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Reami (96%) def. Ciuca (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Ciuca (NaN%) def. Reami (NaN%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Reami (95%) def. Ciuca (5%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Reami (4.00) def. Ciuca (1.68)</li>  
 </ul>
@@ -99,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Daniel (95%) def. Davidescu (5%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Daniel (95%) def. Davidescu (5%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Davidescu (NaN%) def. Daniel (NaN%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Daniel (93%) def. Davidescu (7%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Daniel (1.87) def. Davidescu (1.64)</li>  
 </ul>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Rencheli (94%) def. Witmus (6%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Rencheli (95%) def. Witmus (5%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rencheli (97%) def. Witmus (3%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Witmus (NaN%) def. Rencheli (NaN%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Rencheli (90%) def. Witmus (10%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rencheli (96%) def. Witmus (4%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rencheli (7.12) def. Witmus (2.03)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Keberle (96%) def. Manjanna (4%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Keberle (97%) def. Manjanna (3%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Keberle (98%) def. Manjanna (2%)</li>  
-<li>Massey: <b><i>VCU</i></b> - Manjanna (NaN%) def. Keberle (NaN%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Keberle (94%) def. Manjanna (6%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Keberle (96%) def. Manjanna (4%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Manjanna (1.77) def. Keberle (1.71)</li>  
 </ul>

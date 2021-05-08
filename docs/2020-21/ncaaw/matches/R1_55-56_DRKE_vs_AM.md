@@ -43,6 +43,7 @@ Evanston, Illinois
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***A&M*** - Texas A&M (99%) def. Drake (1%)  
 - Slam: ***A&M*** - #15 Texas A&M (99%) def. #58 Drake (1%)  
 - TRN: ***A&M*** - #14 Texas A&M (99%) def. #58 Drake (1%)  
 - Massey: ***A&M*** - #21 Texas A&M (99%) def. #59 Drake (1%)  
@@ -66,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Makarova (97%) def. Petushkova (3%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Makarova (99%) def. Petushkova (1%)</li>  
-<li>Massey: <b><i>DRKE</i></b> - Petushkova (NaN%) def. Makarova (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Makarova (21.86) def. Petushkova (1.55)</li>  
 </ul>
@@ -77,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
-<li>Massey: <b><i>DRKE</i></b> - Walczak (NaN%) def. Goldsmith (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Goldsmith (3.03) def. Walczak (1.52)</li>  
 </ul>
@@ -88,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Townsend (96%) def. Stephani (4%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
-<li>Massey: <b><i>DRKE</i></b> - Stephani (NaN%) def. Townsend (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Townsend (92%) def. Stephani (8%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Townsend (3.71) def. Stephani (2.39)</li>  
 </ul>
@@ -99,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Faa-Hviding (96%) def. Tatarnikova (4%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (98%) def. Tatarnikova (2%)</li>  
-<li>Massey: <b><i>DRKE</i></b> - Tatarnikova (NaN%) def. Faa-Hviding (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Faa-Hviding (91%) def. Tatarnikova (9%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Faa-Hviding (1.87) def. Tatarnikova (1.80)</li>  
 </ul>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - McBryde (98%) def. Stepan (2%)</li>  
 <li>Slam: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
-<li>Massey: <b><i>DRKE</i></b> - Stepan (NaN%) def. McBryde (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - McBryde (96%) def. Stepan (4%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McBryde (97%) def. Stepan (3%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McBryde (2.44) def. Stepan (1.93)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - McQuaid (98%) def. Neville (2%)</li>  
 <li>Slam: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
-<li>Massey: <b><i>DRKE</i></b> - Neville (NaN%) def. McQuaid (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - McQuaid (96%) def. Neville (4%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McQuaid (2.12) def. Neville (1.64)</li>  
 </ul>

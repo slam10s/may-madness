@@ -44,6 +44,7 @@ Athens, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***WAKE*** - Wake Forest (61%) def. Furman (39%)  
 - Slam: ***WAKE*** - #32 Wake Forest (51%) def. #33 Furman (49%)  
 - TRN: ***WAKE*** - #31 Wake Forest (58%) def. #35 Furman (42%)  
 - Massey: ***WAKE*** - #34 Wake Forest (52%) def. #35 Furman (48%)  
@@ -67,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>Slam: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Kozarov (72%) def. Campana (28%)</li>  
-<li>Massey: <b><i>FUR</i></b> - Kozarov (NaN%) def. Campana (NaN%)</li>  
+<li>Massey: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Campana (56%) def. Kozarov (44%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (28.61) def. Kozarov (26.43)</li>  
 </ul>
@@ -78,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FUR</i></b> - Adams (58%) def. Campana (42%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Campana (52%) def. Adams (48%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Adams (61%) def. Campana (39%)</li>  
-<li>Massey: <b><i>FUR</i></b> - Adams (NaN%) def. Campana (NaN%)</li>  
+<li>Massey: <b><i>FUR</i></b> - Adams (56%) def. Campana (44%)</li>  
 <li>UTR: <b><i>FUR</i></b> - Adams (71%) def. Campana (29%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (11.52) def. Adams (5.79)</li>  
 </ul>
@@ -89,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>WAKE</i></b> - Brylin (88%) def. Dillon (12%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Brylin (85%) def. Dillon (15%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Brylin (87%) def. Dillon (13%)</li>  
-<li>Massey: <b><i>FUR</i></b> - Dillon (NaN%) def. Brylin (NaN%)</li>  
+<li>Massey: <b><i>WAKE</i></b> - Brylin (88%) def. Dillon (12%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Brylin (92%) def. Dillon (8%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Brylin (2.10) def. Dillon (1.67)</li>  
 </ul>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>WAKE</i></b> - Omirou (66%) def. Rompf (34%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Omirou (66%) def. Rompf (34%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Omirou (60%) def. Rompf (40%)</li>  
-<li>Massey: <b><i>FUR</i></b> - Rompf (NaN%) def. Omirou (NaN%)</li>  
+<li>Massey: <b><i>WAKE</i></b> - Omirou (68%) def. Rompf (32%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Omirou (72%) def. Rompf (28%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Omirou (1.88) def. Rompf (1.74)</li>  
 </ul>
@@ -111,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>WAKE</i></b> - Killingsworth (70%) def. Pate (30%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Killingsworth (79%) def. Pate (21%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Killingsworth (66%) def. Pate (34%)</li>  
-<li>Massey: <b><i>FUR</i></b> - Pate (NaN%) def. Killingsworth (NaN%)</li>  
+<li>Massey: <b><i>WAKE</i></b> - Killingsworth (59%) def. Pate (41%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Killingsworth (77%) def. Pate (23%)</li>  
 <li>ITA: <b><i>FUR</i></b> - Pate (1.95) def. Killingsworth (1.48)</li>  
 </ul>
@@ -122,7 +123,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>WAKE</i></b> - Wooten (66%) def. Schoppe (34%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Wooten (66%) def. Schoppe (34%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Wooten (57%) def. Schoppe (43%)</li>  
-<li>Massey: <b><i>FUR</i></b> - Schoppe (NaN%) def. Wooten (NaN%)</li>  
+<li>Massey: <b><i>WAKE</i></b> - Wooten (66%) def. Schoppe (34%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Wooten (75%) def. Schoppe (25%)</li>  
 <li>ITA: <b><i>FUR</i></b> - Schoppe (2.79) def. Wooten (1.70)</li>  
 </ul>

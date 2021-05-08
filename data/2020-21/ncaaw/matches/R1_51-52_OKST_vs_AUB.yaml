@@ -38,6 +38,7 @@ Visitor:
   Polls:
     Coach: 37
 Predictions:
+  AVG: AUB - Auburn (65%) def. Oklahoma St. (35%)
   SLM: "AUB - #24 Auburn (75%) def. #37 Oklahoma St. (25%)"
   TRN: "AUB - #23 Auburn (82%) def. #37 Oklahoma St. (18%)"
   MAS: "AUB - #25 Auburn (72%) def. #36 Oklahoma St. (28%)"
@@ -49,8 +50,8 @@ Predictions:
   Seeding: "AUB - #2 Auburn def. #3 Oklahoma St."
 Lineups:
   Predictions:
-    Average EWPs for AUB: 75%,82%,NaN%,31%
-    Average EWPs for OKST: 25%,18%,NaN%,69%
+    Average EWPs for AUB: 75%,82%,72%,31%
+    Average EWPs for OKST: 25%,18%,28%,69%
     AUB wins 4 or more Singles points: 21%
     OKST wins 4 or more Singles points: 48%
     Winner decided by the Doubles point: 31%
@@ -62,7 +63,7 @@ Lineups:
         AVG: OKST - Thamchaiwat (80%) def. Ovunc (20%)
         SLM: OKST - Thamchaiwat (75%) def. Ovunc (25%)
         TRN: OKST - Thamchaiwat (83%) def. Ovunc (17%)
-        MAS: OKST - Thamchaiwat (NaN%) def. Ovunc (NaN%)
+        MAS: OKST - Thamchaiwat (77%) def. Ovunc (23%)
         UTR: OKST - Thamchaiwat (91%) def. Ovunc (9%)
         ITA: OKST - Thamchaiwat (21.36) def. Ovunc (9.63)
     - Position: 2
@@ -72,7 +73,7 @@ Lineups:
         AVG: AUB - Ansari (57%) def. Miyamoto (43%)
         SLM: AUB - Ansari (51%) def. Miyamoto (49%)
         TRN: OKST - Miyamoto (52%) def. Ansari (48%)
-        MAS: OKST - Miyamoto (NaN%) def. Ansari (NaN%)
+        MAS: AUB - Ansari (68%) def. Miyamoto (32%)
         UTR: AUB - Ansari (62%) def. Miyamoto (38%)
         ITA: AUB - Ansari (7.96) def. Miyamoto (4.02)
     - Position: 3
@@ -82,7 +83,7 @@ Lineups:
         AVG: OKST - Wolfberg (68%) def. Chen (32%)
         SLM: OKST - Wolfberg (65%) def. Chen (35%)
         TRN: OKST - Wolfberg (67%) def. Chen (33%)
-        MAS: OKST - Wolfberg (NaN%) def. Chen (NaN%)
+        MAS: OKST - Wolfberg (63%) def. Chen (37%)
         UTR: OKST - Wolfberg (81%) def. Chen (19%)
         ITA: OKST - Wolfberg (10.37) def. Chen (3.54)
     - Position: 4
@@ -92,7 +93,7 @@ Lineups:
         AVG: AUB - Axon (71%) def. Detkovskaya (29%)
         SLM: AUB - Axon (58%) def. Detkovskaya (42%)
         TRN: AUB - Axon (65%) def. Detkovskaya (35%)
-        MAS: OKST - Detkovskaya (NaN%) def. Axon (NaN%)
+        MAS: AUB - Axon (74%) def. Detkovskaya (26%)
         UTR: AUB - Axon (86%) def. Detkovskaya (14%)
         ITA: OKST - Detkovskaya (2.79) def. Axon (2.43)
     - Position: 5
@@ -102,7 +103,7 @@ Lineups:
         AVG: OKST - Stara (61%) def. Flach (39%)
         SLM: OKST - Stara (66%) def. Flach (34%)
         TRN: OKST - Stara (62%) def. Flach (38%)
-        MAS: OKST - Stara (NaN%) def. Flach (NaN%)
+        MAS: OKST - Stara (51%) def. Flach (49%)
         UTR: OKST - Stara (67%) def. Flach (33%)
         ITA: AUB - Flach (1.50) def. Stara (0.00)
     - Position: 6
@@ -112,7 +113,7 @@ Lineups:
         AVG: OKST - Medvedeva (61%) def. Astakhova (39%)
         SLM: OKST - Medvedeva (61%) def. Astakhova (39%)
         TRN: AUB - Astakhova (58%) def. Medvedeva (42%)
-        MAS: OKST - Medvedeva (NaN%) def. Astakhova (NaN%)
+        MAS: OKST - Medvedeva (60%) def. Astakhova (40%)
         UTR: OKST - Medvedeva (82%) def. Astakhova (18%)
   Doubles:
     - Position: 1

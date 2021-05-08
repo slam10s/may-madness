@@ -36,6 +36,7 @@ Visitor:
     MAS: 46 (6.46)
     UTR: 47 (56.89)
 Predictions:
+  AVG: TENN - Tennessee (97%) def. James Madison (3%)
   SLM: "TENN - #19 Tennessee (97%) def. #47 James Madison (3%)"
   TRN: "TENN - #19 Tennessee (98%) def. #47 James Madison (2%)"
   MAS: "TENN - #19 Tennessee (95%) def. #46 James Madison (5%)"
@@ -47,8 +48,8 @@ Predictions:
   Seeding: "TENN - #2 Tennessee def. #3 James Madison"
 Lineups:
   Predictions:
-    Average EWPs for TENN: 97%,98%,NaN%,98%
-    Average EWPs for JMU: 3%,2%,NaN%,2%
+    Average EWPs for TENN: 97%,98%,95%,98%
+    Average EWPs for JMU: 3%,2%,5%,2%
     TENN wins 4 or more Singles points: 95%
     JMU wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 4%
@@ -60,7 +61,7 @@ Lineups:
         AVG: TENN - Mertena (73%) def. Afanasyeva (27%)
         SLM: TENN - Mertena (62%) def. Afanasyeva (38%)
         TRN: TENN - Mertena (67%) def. Afanasyeva (33%)
-        MAS: JMU - Afanasyeva (NaN%) def. Mertena (NaN%)
+        MAS: TENN - Mertena (74%) def. Afanasyeva (26%)
         UTR: TENN - Mertena (91%) def. Afanasyeva (9%)
         ITA: TENN - Mertena (7.45) def. Afanasyeva (2.51)
     - Position: 2
@@ -70,7 +71,7 @@ Lineups:
         AVG: TENN - Molinaro (82%) def. Roka (18%)
         SLM: TENN - Molinaro (85%) def. Roka (15%)
         TRN: TENN - Molinaro (84%) def. Roka (16%)
-        MAS: JMU - Roka (NaN%) def. Molinaro (NaN%)
+        MAS: TENN - Molinaro (67%) def. Roka (33%)
         UTR: TENN - Molinaro (92%) def. Roka (8%)
         ITA: TENN - Molinaro (5.46) def. Roka (2.41)
     - Position: 3
@@ -80,7 +81,7 @@ Lineups:
         AVG: TENN - Briggs (93%) def. Nikolopoulou (7%)
         SLM: TENN - Briggs (95%) def. Nikolopoulou (5%)
         TRN: TENN - Briggs (94%) def. Nikolopoulou (6%)
-        MAS: JMU - Nikolopoulou (NaN%) def. Briggs (NaN%)
+        MAS: TENN - Briggs (87%) def. Nikolopoulou (13%)
         UTR: TENN - Briggs (95%) def. Nikolopoulou (5%)
         ITA: TENN - Briggs (8.89) def. Nikolopoulou (2.10)
     - Position: 4
@@ -90,7 +91,7 @@ Lineups:
         AVG: TENN - Kuczer (89%) def. Moulin (11%)
         SLM: TENN - Kuczer (90%) def. Moulin (10%)
         TRN: TENN - Kuczer (91%) def. Moulin (9%)
-        MAS: JMU - Moulin (NaN%) def. Kuczer (NaN%)
+        MAS: TENN - Kuczer (85%) def. Moulin (15%)
         UTR: TENN - Kuczer (91%) def. Moulin (9%)
         ITA: TENN - Kuczer (3.41) def. Moulin (3.15)
     - Position: 5
@@ -100,7 +101,7 @@ Lineups:
         AVG: TENN - McGiffin (80%) def. Franco (20%)
         SLM: TENN - McGiffin (86%) def. Franco (14%)
         TRN: TENN - McGiffin (79%) def. Franco (21%)
-        MAS: JMU - Franco (NaN%) def. McGiffin (NaN%)
+        MAS: TENN - McGiffin (68%) def. Franco (32%)
         UTR: TENN - McGiffin (88%) def. Franco (12%)
         ITA: JMU - Franco (3.01) def. McGiffin (1.61)
     - Position: 6
@@ -110,7 +111,7 @@ Lineups:
         AVG: TENN - Silva (85%) def. Voloh (15%)
         SLM: TENN - Silva (90%) def. Voloh (10%)
         TRN: TENN - Silva (87%) def. Voloh (13%)
-        MAS: JMU - Voloh (NaN%) def. Silva (NaN%)
+        MAS: TENN - Silva (78%) def. Voloh (22%)
         UTR: TENN - Silva (86%) def. Voloh (14%)
         ITA: JMU - Voloh (3.50) def. Silva (1.85)
   Doubles:

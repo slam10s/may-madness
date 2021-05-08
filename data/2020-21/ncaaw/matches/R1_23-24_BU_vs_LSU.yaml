@@ -37,6 +37,7 @@ Visitor:
     MAS: 54 (5.32)
     UTR: 49 (55.50)
 Predictions:
+  AVG: LSU - LSU (99%) def. Boston U. (1%)
   SLM: "LSU - #21 LSU (99%) def. #54 Boston U. (1%)"
   TRN: "LSU - #18 LSU (99%) def. #51 Boston U. (1%)"
   MAS: "LSU - #21 LSU (99%) def. #54 Boston U. (1%)"
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "LSU - #1 LSU def. #4 Boston U."
 Lineups:
   Predictions:
-    Average EWPs for LSU: 99%,99%,NaN%,100%
-    Average EWPs for BU: 1%,1%,NaN%,0%
+    Average EWPs for LSU: 99%,99%,99%,100%
+    Average EWPs for BU: 1%,1%,1%,0%
     LSU wins 4 or more Singles points: 99%
     BU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -61,17 +62,17 @@ Lineups:
         AVG: LSU - Bridges (92%) def. Carlsten (8%)
         SLM: LSU - Bridges (94%) def. Carlsten (6%)
         TRN: LSU - Bridges (94%) def. Carlsten (6%)
-        MAS: BU - Carlsten (NaN%) def. Bridges (NaN%)
+        MAS: LSU - Bridges (94%) def. Carlsten (6%)
         UTR: LSU - Bridges (86%) def. Carlsten (14%)
         ITA: LSU - Bridges (11.61) def. Carlsten (0.00)
     - Position: 2
       LSU: Safiya Carrington - 2-5 at 2, 3-6 in duals, 10-10 overall
       BU: Kaitlin Tan - 3-0 at 2, 5-0 in duals, 5-0 overall
       Predictions:
-        AVG: LSU - Carrington (75%) def. Tan (25%)
+        AVG: LSU - Carrington (76%) def. Tan (24%)
         SLM: LSU - Carrington (79%) def. Tan (21%)
         TRN: LSU - Carrington (78%) def. Tan (22%)
-        MAS: BU - Tan (NaN%) def. Carrington (NaN%)
+        MAS: LSU - Carrington (57%) def. Tan (43%)
         UTR: LSU - Carrington (91%) def. Tan (9%)
         ITA: LSU - Carrington (4.09) def. Tan (3.03)
     - Position: 3
@@ -81,7 +82,7 @@ Lineups:
         AVG: LSU - Corley (96%) def. Battista (4%)
         SLM: LSU - Corley (96%) def. Battista (4%)
         TRN: LSU - Corley (97%) def. Battista (3%)
-        MAS: BU - Battista (NaN%) def. Corley (NaN%)
+        MAS: LSU - Corley (95%) def. Battista (5%)
         UTR: LSU - Corley (97%) def. Battista (3%)
         ITA: LSU - Corley (9.83) def. Battista (2.01)
     - Position: 4
@@ -91,7 +92,7 @@ Lineups:
         AVG: LSU - Cubitt (96%) def. Kim (4%)
         SLM: LSU - Cubitt (96%) def. Kim (4%)
         TRN: LSU - Cubitt (96%) def. Kim (4%)
-        MAS: BU - Kim (NaN%) def. Cubitt (NaN%)
+        MAS: LSU - Cubitt (96%) def. Kim (4%)
         UTR: LSU - Cubitt (97%) def. Kim (3%)
         ITA: BU - Kim (2.60) def. Cubitt (2.11)
     - Position: 5
@@ -101,7 +102,7 @@ Lineups:
         AVG: LSU - Richardson (85%) def. Burchell (15%)
         SLM: LSU - Richardson (94%) def. Burchell (6%)
         TRN: LSU - Richardson (90%) def. Burchell (10%)
-        MAS: BU - Burchell (NaN%) def. Richardson (NaN%)
+        MAS: LSU - Richardson (68%) def. Burchell (32%)
         UTR: LSU - Richardson (90%) def. Burchell (10%)
         ITA: BU - Burchell (3.12) def. Richardson (1.47)
     - Position: 6
@@ -111,7 +112,7 @@ Lineups:
         AVG: LSU - Geissler (93%) def. Martens (7%)
         SLM: LSU - Geissler (96%) def. Martens (4%)
         TRN: LSU - Geissler (95%) def. Martens (5%)
-        MAS: BU - Martens (NaN%) def. Geissler (NaN%)
+        MAS: LSU - Geissler (88%) def. Martens (12%)
         UTR: LSU - Geissler (92%) def. Martens (8%)
         ITA: BU - Martens (2.51) def. Geissler (2.01)
   Doubles:

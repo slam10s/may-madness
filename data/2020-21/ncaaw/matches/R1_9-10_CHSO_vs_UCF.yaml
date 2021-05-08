@@ -37,9 +37,10 @@ Visitor:
     MAS: 60 (4.33)
     UTR: 56 (51.92)
 Predictions:
+  AVG: UCF - UCF (99%) def. Charleston So. (1%)
   SLM: "UCF - #12 UCF (99%) def. #60 Charleston So. (1%)"
   TRN: "UCF - #12 UCF (99%) def. #57 Charleston So. (1%)"
-  MAS: "UCF - #10 UCF (100%) def. #60 Charleston So. (0%)"
+  MAS: "UCF - #10 UCF (99%) def. #60 Charleston So. (1%)"
   LNUP: UCF - UCF (99%) def. Charleston So. (1%)
   UTR: "UCF - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)"
   ITA: "UCF - #9 UCF def. #58 Charleston So."
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "UCF - #1 UCF def. #4 Charleston So."
 Lineups:
   Predictions:
-    Average EWPs for UCF: 99%,99%,NaN%,100%
-    Average EWPs for CHSO: 1%,1%,NaN%,0%
+    Average EWPs for UCF: 99%,99%,100%,100%
+    Average EWPs for CHSO: 1%,1%,0%,0%
     UCF wins 4 or more Singles points: 100%
     CHSO wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,7 +62,7 @@ Lineups:
         AVG: UCF - Zeleva (98%) def. Man (2%)
         SLM: UCF - Zeleva (98%) def. Man (2%)
         TRN: UCF - Zeleva (99%) def. Man (1%)
-        MAS: CHSO - Man (NaN%) def. Zeleva (NaN%)
+        MAS: UCF - Zeleva (99%) def. Man (1%)
         UTR: UCF - Zeleva (97%) def. Man (3%)
         ITA: UCF - Zeleva (22.66) def. Man (1.99)
     - Position: 2
@@ -71,7 +72,7 @@ Lineups:
         AVG: UCF - Stolmar (97%) def. Fullana (3%)
         SLM: UCF - Stolmar (98%) def. Fullana (2%)
         TRN: UCF - Stolmar (99%) def. Fullana (1%)
-        MAS: CHSO - Fullana (NaN%) def. Stolmar (NaN%)
+        MAS: UCF - Stolmar (97%) def. Fullana (3%)
         UTR: UCF - Stolmar (96%) def. Fullana (4%)
         ITA: UCF - Stolmar (15.81) def. Fullana (1.91)
     - Position: 3
@@ -81,7 +82,7 @@ Lineups:
         AVG: UCF - Levashova (98%) def. Singh (2%)
         SLM: UCF - Levashova (98%) def. Singh (2%)
         TRN: UCF - Levashova (99%) def. Singh (1%)
-        MAS: CHSO - Singh (NaN%) def. Levashova (NaN%)
+        MAS: UCF - Levashova (96%) def. Singh (4%)
         UTR: UCF - Levashova (98%) def. Singh (2%)
         ITA: UCF - Levashova (4.48) def. Singh (1.60)
     - Position: 4
@@ -91,7 +92,7 @@ Lineups:
         AVG: UCF - Kuznetsova (99%) def. Cauthen (1%)
         SLM: UCF - Kuznetsova (99%) def. Cauthen (1%)
         TRN: UCF - Kuznetsova (99%) def. Cauthen (1%)
-        MAS: CHSO - Cauthen (NaN%) def. Kuznetsova (NaN%)
+        MAS: UCF - Kuznetsova (99%) def. Cauthen (1%)
         UTR: UCF - Kuznetsova (98%) def. Cauthen (2%)
         ITA: UCF - Kuznetsova (3.33) def. Cauthen (2.15)
     - Position: 5
@@ -101,17 +102,17 @@ Lineups:
         AVG: UCF - Mattel (98%) def. Schmitz (2%)
         SLM: UCF - Mattel (98%) def. Schmitz (2%)
         TRN: UCF - Mattel (99%) def. Schmitz (1%)
-        MAS: CHSO - Schmitz (NaN%) def. Mattel (NaN%)
+        MAS: UCF - Mattel (98%) def. Schmitz (2%)
         UTR: UCF - Mattel (97%) def. Schmitz (3%)
         ITA: UCF - Mattel (2.00) def. Schmitz (1.70)
     - Position: 6
       UCF: Nadja Bay - 0-0 at 6, 1-3 in duals, 1-3 overall
       CHSO: Tiffany Pyrtiz - 6-7 at 6, 6-7 in duals, 6-7 overall
       Predictions:
-        AVG: CHSO - Pyrtiz (97%) def. Bay (3%)
+        AVG: CHSO - Pyrtiz (99%) def. Bay (1%)
         SLM: CHSO - Pyrtiz (100%) def. Bay (0%)
         TRN: CHSO - Pyrtiz (100%) def. Bay (0%)
-        MAS: CHSO - Pyrtiz (89%) def. Bay (11%)
+        MAS: CHSO - Pyrtiz (99%) def. Bay (1%)
         UTR: CHSO - Pyrtiz (100%) def. Bay (0%)
         ITA: CHSO - Pyrtiz (1.53) def. Bay (0.00)
   Doubles:

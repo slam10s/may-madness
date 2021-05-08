@@ -43,9 +43,10 @@ Tallahassee, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***FSU*** - Florida St. (99%) def. Alabama St. (1%)  
 - Slam: ***FSU*** - #10 Florida St. (99%) def. #63 Alabama St. (1%)  
 - TRN: ***FSU*** - #9 Florida St. (99%) def. #62 Alabama St. (1%)  
-- Massey: ***FSU*** - #9 Florida St. (100%) def. #63 Alabama St. (0%)  
+- Massey: ***FSU*** - #9 Florida St. (99%) def. #63 Alabama St. (1%)  
 - Lineup: ***FSU*** - Florida St. (99%) def. Alabama St. (1%)  
 - UTR: ***FSU*** - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)  
 - ITA: ***FSU*** - #7 Florida St. def. #61 Alabama St.  
@@ -66,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
-<li>Massey: <b><i>ALST</i></b> - Andrade (NaN%) def. Pairone (NaN%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Pairone (30.67) def. Andrade (2.89)</li>  
 </ul>
@@ -74,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lizaveta Dzemchanka (ALST) - 0-0 at #2, 3-0 in duals, 3-0 overall<br>Emmanuelle Salas (FSU) - 5-6 at #2, 7-9 in duals, 7-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FSU</i></b> - Salas (97%) def. Dzemchanka (3%)</li>  
-<li>Slam: <b><i>FSU</i></b> - Salas (100%) def. Dzemchanka (0%)</li>  
-<li>TRN: <b><i>FSU</i></b> - Salas (100%) def. Dzemchanka (0%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Salas (90%) def. Dzemchanka (10%)</li>  
+<li>Composite: <b><i>FSU</i></b> - Salas (74%) def. Dzemchanka (26%)</li>  
+<li>Slam: <b><i>FSU</i></b> - Salas (99%) def. Dzemchanka (1%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Salas (99%) def. Dzemchanka (1%)</li>  
+<li>Massey: <b><i>ALST</i></b> - Dzemchanka (99%) def. Salas (1%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Salas (99%) def. Dzemchanka (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Salas (14.35) def. Dzemchanka (0.00)</li>  
 </ul>
@@ -88,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
-<li>Massey: <b><i>ALST</i></b> - Velec (NaN%) def. Das (NaN%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>ITA: <b><i>ALST</i></b> - Velec (2.89) def. Das (2.52)</li>  
 </ul>
@@ -99,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
-<li>Massey: <b><i>ALST</i></b> - Duca (NaN%) def. Hule (NaN%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Hule (3.24) def. Duca (2.26)</li>  
 </ul>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
-<li>Massey: <b><i>ALST</i></b> - Legaud (NaN%) def. Allen (NaN%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Allen (2.90) def. Legaud (0.00)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
-<li>Massey: <b><i>ALST</i></b> - Acena (NaN%) def. Arkadianou (NaN%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>ITA: <b><i>ALST</i></b> - Acena (1.75) def. Arkadianou (0.00)</li>  
 </ul>

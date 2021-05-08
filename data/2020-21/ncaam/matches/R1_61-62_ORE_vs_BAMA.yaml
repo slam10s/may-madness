@@ -38,6 +38,7 @@ Visitor:
     USTA: NR
     Coach: 41
 Predictions:
+  AVG: BAMA - Alabama (60%) def. Oregon (40%)
   SLM: "BAMA - #28 Alabama (70%) def. #44 Oregon (30%)"
   TRN: "BAMA - #27 Alabama (71%) def. #41 Oregon (29%)"
   MAS: "ORE - #30 Oregon (58%) def. #38 Alabama (42%)"
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "BAMA - #2 Alabama def. #3 Oregon"
 Lineups:
   Predictions:
-    Average EWPs for BAMA: 70%,71%,NaN%,59%
-    Average EWPs for ORE: 30%,29%,NaN%,41%
+    Average EWPs for BAMA: 70%,71%,42%,59%
+    Average EWPs for ORE: 30%,29%,58%,41%
     BAMA wins 4 or more Singles points: 40%
     ORE wins 4 or more Singles points: 27%
     Winner decided by the Doubles point: 33%
@@ -61,7 +62,7 @@ Lineups:
         AVG: ORE - Coste (69%) def. Ortiz (31%)
         SLM: ORE - Coste (73%) def. Ortiz (27%)
         TRN: ORE - Coste (76%) def. Ortiz (24%)
-        MAS: ORE - Coste (NaN%) def. Ortiz (NaN%)
+        MAS: ORE - Coste (55%) def. Ortiz (45%)
         UTR: ORE - Coste (76%) def. Ortiz (24%)
         ITA: BAMA - Ortiz (18.41) def. Coste (3.31)
     - Position: 2
@@ -71,7 +72,7 @@ Lineups:
         AVG: ORE - Charlton (68%) def. Kaukovalta (32%)
         SLM: ORE - Charlton (68%) def. Kaukovalta (32%)
         TRN: ORE - Charlton (68%) def. Kaukovalta (32%)
-        MAS: ORE - Charlton (NaN%) def. Kaukovalta (NaN%)
+        MAS: ORE - Charlton (62%) def. Kaukovalta (38%)
         UTR: ORE - Charlton (76%) def. Kaukovalta (24%)
         ITA: BAMA - Kaukovalta (11.09) def. Charlton (2.88)
     - Position: 3
@@ -81,7 +82,7 @@ Lineups:
         AVG: BAMA - Zhou (69%) def. Vandecasteele (31%)
         SLM: BAMA - Zhou (72%) def. Vandecasteele (28%)
         TRN: BAMA - Zhou (76%) def. Vandecasteele (24%)
-        MAS: ORE - Vandecasteele (NaN%) def. Zhou (NaN%)
+        MAS: BAMA - Zhou (63%) def. Vandecasteele (37%)
         UTR: BAMA - Zhou (63%) def. Vandecasteele (37%)
         ITA: BAMA - Zhou (13.61) def. Vandecasteele (1.67)
     - Position: 4
@@ -91,7 +92,7 @@ Lineups:
         AVG: ORE - Klov-Nilsson (51%) def. Roberto (49%)
         SLM: BAMA - Roberto (50%) def. Klov-Nilsson (50%)
         TRN: BAMA - Roberto (50%) def. Klov-Nilsson (50%)
-        MAS: ORE - Klov-Nilsson (NaN%) def. Roberto (NaN%)
+        MAS: ORE - Klov-Nilsson (62%) def. Roberto (38%)
         UTR: BAMA - Roberto (53%) def. Klov-Nilsson (47%)
         ITA: BAMA - Roberto (2.71) def. Klov-Nilsson (2.61)
     - Position: 5
@@ -101,7 +102,7 @@ Lineups:
         AVG: BAMA - Freire (68%) def. Lam (32%)
         SLM: BAMA - Freire (68%) def. Lam (32%)
         TRN: BAMA - Freire (72%) def. Lam (28%)
-        MAS: ORE - Lam (NaN%) def. Freire (NaN%)
+        MAS: BAMA - Freire (64%) def. Lam (36%)
         UTR: BAMA - Freire (68%) def. Lam (32%)
         ITA: ORE - Lam (1.91) def. Freire (1.56)
     - Position: 6
@@ -111,7 +112,7 @@ Lineups:
         AVG: BAMA - Nesterov (73%) def. Vandecasteele (27%)
         SLM: BAMA - Nesterov (69%) def. Vandecasteele (31%)
         TRN: BAMA - Nesterov (74%) def. Vandecasteele (26%)
-        MAS: ORE - Vandecasteele (NaN%) def. Nesterov (NaN%)
+        MAS: BAMA - Nesterov (69%) def. Vandecasteele (31%)
         UTR: BAMA - Nesterov (80%) def. Vandecasteele (20%)
         ITA: BAMA - Nesterov (1.92) def. Vandecasteele (1.57)
   Doubles:

@@ -44,6 +44,7 @@ Chapel Hill, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***ODU*** - Old Dominion (71%) def. Arkansas (29%)  
 - Slam: ***ODU*** - #28 Old Dominion (73%) def. #38 Arkansas (27%)  
 - TRN: ***ODU*** - #25 Old Dominion (71%) def. #32 Arkansas (29%)  
 - Massey: ***ODU*** - #29 Old Dominion (77%) def. #41 Arkansas (23%)  
@@ -67,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ARK</i></b> - Spink (55%) def. Hutchinson (45%)</li>  
 <li>Slam: <b><i>ODU</i></b> - Hutchinson (61%) def. Spink (39%)</li>  
 <li>TRN: <b><i>ARK</i></b> - Spink (54%) def. Hutchinson (46%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Spink (NaN%) def. Hutchinson (NaN%)</li>  
+<li>Massey: <b><i>ARK</i></b> - Spink (58%) def. Hutchinson (42%)</li>  
 <li>UTR: <b><i>ARK</i></b> - Spink (72%) def. Hutchinson (28%)</li>  
 <li>ITA: <b><i>ARK</i></b> - Spink (13.82) def. Hutchinson (5.40)</li>  
 </ul>
@@ -78,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ODU</i></b> - Starodubtseva (63%) def. Keller (37%)</li>  
 <li>Slam: <b><i>ODU</i></b> - Starodubtseva (55%) def. Keller (45%)</li>  
 <li>TRN: <b><i>ODU</i></b> - Starodubtseva (74%) def. Keller (26%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Keller (NaN%) def. Starodubtseva (NaN%)</li>  
+<li>Massey: <b><i>ODU</i></b> - Starodubtseva (69%) def. Keller (31%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Starodubtseva (55%) def. Keller (45%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Starodubtseva (11.96) def. Keller (2.19)</li>  
 </ul>
@@ -89,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ODU</i></b> - Sasnouskaya (69%) def. Rice (31%)</li>  
 <li>Slam: <b><i>ODU</i></b> - Sasnouskaya (68%) def. Rice (32%)</li>  
 <li>TRN: <b><i>ODU</i></b> - Sasnouskaya (66%) def. Rice (34%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Rice (NaN%) def. Sasnouskaya (NaN%)</li>  
+<li>Massey: <b><i>ODU</i></b> - Sasnouskaya (75%) def. Rice (25%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Sasnouskaya (67%) def. Rice (33%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Sasnouskaya (7.78) def. Rice (2.00)</li>  
 </ul>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ARK</i></b> - Cross (65%) def. Yakubovich (35%)</li>  
 <li>Slam: <b><i>ARK</i></b> - Cross (63%) def. Yakubovich (37%)</li>  
 <li>TRN: <b><i>ARK</i></b> - Cross (69%) def. Yakubovich (31%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Cross (NaN%) def. Yakubovich (NaN%)</li>  
+<li>Massey: <b><i>ARK</i></b> - Cross (51%) def. Yakubovich (49%)</li>  
 <li>UTR: <b><i>ARK</i></b> - Cross (80%) def. Yakubovich (20%)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ODU</i></b> - Pilkington (66%) def. Alter (34%)</li>  
 <li>Slam: <b><i>ODU</i></b> - Pilkington (54%) def. Alter (46%)</li>  
 <li>TRN: <b><i>ODU</i></b> - Pilkington (55%) def. Alter (45%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Alter (NaN%) def. Pilkington (NaN%)</li>  
+<li>Massey: <b><i>ODU</i></b> - Pilkington (74%) def. Alter (26%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Pilkington (79%) def. Alter (21%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Pilkington (1.80) def. Alter (0.00)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ODU</i></b> - Viktorovich (53%) def. Rijkers (47%)</li>  
 <li>Slam: <b><i>ARK</i></b> - Rijkers (55%) def. Viktorovich (45%)</li>  
 <li>TRN: <b><i>ARK</i></b> - Rijkers (69%) def. Viktorovich (31%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Rijkers (NaN%) def. Viktorovich (NaN%)</li>  
+<li>Massey: <b><i>ODU</i></b> - Viktorovich (55%) def. Rijkers (45%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Viktorovich (80%) def. Rijkers (20%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Viktorovich (2.38) def. Rijkers (1.60)</li>  
 </ul>

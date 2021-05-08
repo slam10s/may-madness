@@ -43,6 +43,7 @@ College Station, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***OKLA*** - Oklahoma (70%) def. Denver (30%)  
 - Slam: ***OKLA*** - #29 Oklahoma (68%) def. #42 Denver (32%)  
 - TRN: ***OKLA*** - #28 Oklahoma (59%) def. #35 Denver (41%)  
 - Massey: ***OKLA*** - #37 Oklahoma (57%) def. #38 Denver (43%)  
@@ -65,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKLA</i></b> - Emburgh (57%) def. Davis (43%)</li>  
 <li>Slam: <b><i>OKLA</i></b> - Emburgh (57%) def. Davis (43%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Emburgh (53%) def. Davis (47%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Davis (NaN%) def. Emburgh (NaN%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Davis (60%) def. Emburgh (40%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Emburgh (79%) def. Davis (21%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Emburgh (7.98) def. Davis (6.67)</li>  
 </ul>
@@ -76,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKLA</i></b> - Beiler (86%) def. Ros (14%)</li>  
 <li>Slam: <b><i>OKLA</i></b> - Beiler (80%) def. Ros (20%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Beiler (93%) def. Ros (7%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Ros (NaN%) def. Beiler (NaN%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Beiler (79%) def. Ros (21%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Beiler (92%) def. Ros (8%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Beiler (10.05) def. Ros (1.92)</li>  
 </ul>
@@ -87,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKLA</i></b> - Martinez (75%) def. Summers (25%)</li>  
 <li>Slam: <b><i>OKLA</i></b> - Martinez (71%) def. Summers (29%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Martinez (83%) def. Summers (17%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Summers (NaN%) def. Martinez (NaN%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Martinez (71%) def. Summers (29%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Martinez (74%) def. Summers (26%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Martinez (2.93) def. Summers (2.15)</li>  
 </ul>
@@ -98,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKLA</i></b> - Han (78%) def. Sallay (22%)</li>  
 <li>Slam: <b><i>OKLA</i></b> - Han (80%) def. Sallay (20%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Han (87%) def. Sallay (13%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Sallay (NaN%) def. Han (NaN%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Han (61%) def. Sallay (39%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Han (86%) def. Sallay (14%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Sallay (2.45) def. Han (1.72)</li>  
 </ul>
@@ -109,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKLA</i></b> - Schlageter (65%) def. Cuesta (35%)</li>  
 <li>Slam: <b><i>OKLA</i></b> - Schlageter (72%) def. Cuesta (28%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Schlageter (65%) def. Cuesta (35%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Cuesta (NaN%) def. Schlageter (NaN%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Cuesta (59%) def. Schlageter (41%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Schlageter (85%) def. Cuesta (15%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Cuesta (3.64) def. Schlageter (0.00)</li>  
 </ul>
@@ -120,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKLA</i></b> - Mandlik (80%) def. Crespo (20%)</li>  
 <li>Slam: <b><i>OKLA</i></b> - Mandlik (91%) def. Crespo (9%)</li>  
 <li>TRN: <b><i>OKLA</i></b> - Mandlik (78%) def. Crespo (22%)</li>  
-<li>Massey: <b><i>DEN</i></b> - Crespo (NaN%) def. Mandlik (NaN%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Crespo (50%) def. Mandlik (50%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Mandlik (99%) def. Crespo (1%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Crespo (3.50) def. Mandlik (0.00)</li>  
 </ul>

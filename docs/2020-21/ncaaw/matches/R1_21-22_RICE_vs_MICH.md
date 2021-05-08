@@ -44,6 +44,7 @@ Baton Rouge, Louisiana
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***MICH*** - Michigan (92%) def. Rice (8%)  
 - Slam: ***MICH*** - #8 Michigan (94%) def. #40 Rice (6%)  
 - TRN: ***MICH*** - #8 Michigan (96%) def. #36 Rice (4%)  
 - Massey: ***MICH*** - #15 Michigan (85%) def. #38 Rice (15%)  
@@ -67,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
-<li>Massey: <b><i>RICE</i></b> - Haet (NaN%) def. Miller (NaN%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Miller (95%) def. Haet (5%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Miller (91%) def. Haet (9%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Miller (10.66) def. Haet (0.00)</li>  
 </ul>
@@ -78,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Lommer (77%) def. Smirnova (23%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Lommer (74%) def. Smirnova (26%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Lommer (74%) def. Smirnova (26%)</li>  
-<li>Massey: <b><i>RICE</i></b> - Smirnova (NaN%) def. Lommer (NaN%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Lommer (83%) def. Smirnova (17%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Lommer (79%) def. Smirnova (21%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Smirnova (2.76) def. Lommer (2.49)</li>  
 </ul>
@@ -89,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Cerdan (66%) def. Trevisan (34%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Cerdan (66%) def. Trevisan (34%)</li>  
 <li>TRN: <b><i>RICE</i></b> - Trevisan (52%) def. Cerdan (48%)</li>  
-<li>Massey: <b><i>RICE</i></b> - Trevisan (NaN%) def. Cerdan (NaN%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Cerdan (74%) def. Trevisan (26%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Cerdan (76%) def. Trevisan (24%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Trevisan (6.30) def. Cerdan (1.79)</li>  
 </ul>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Brown (63%) def. Huang (37%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Brown (56%) def. Huang (44%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Brown (54%) def. Huang (46%)</li>  
-<li>Massey: <b><i>RICE</i></b> - Huang (NaN%) def. Brown (NaN%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Brown (77%) def. Huang (23%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Brown (66%) def. Huang (34%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Huang (5.83) def. Brown (2.65)</li>  
 </ul>
@@ -111,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Jones (73%) def. Smirnova (27%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Jones (78%) def. Smirnova (22%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Jones (69%) def. Smirnova (31%)</li>  
-<li>Massey: <b><i>RICE</i></b> - Smirnova (NaN%) def. Jones (NaN%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Jones (72%) def. Smirnova (28%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Jones (72%) def. Smirnova (28%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Jones (2.08) def. Smirnova (1.55)</li>  
 </ul>
@@ -122,7 +123,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MICH</i></b> - Lorenzini (58%) def. Bowtell (42%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Lorenzini (59%) def. Bowtell (41%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Lorenzini (52%) def. Bowtell (48%)</li>  
-<li>Massey: <b><i>RICE</i></b> - Bowtell (NaN%) def. Lorenzini (NaN%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Lorenzini (83%) def. Bowtell (17%)</li>  
 <li>UTR: <b><i>RICE</i></b> - Bowtell (61%) def. Lorenzini (39%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Lorenzini (2.86) def. Bowtell (1.88)</li>  
 </ul>

@@ -37,9 +37,10 @@ Visitor:
     MAS: 61 (5.23)
     UTR: 61 (70.28)
 Predictions:
+  AVG: UNC - North Carolina (99%) def. Presbyterian (1%)
   SLM: "UNC - #3 North Carolina (99%) def. #59 Presbyterian (1%)"
   TRN: "UNC - #2 North Carolina (99%) def. #59 Presbyterian (1%)"
-  MAS: "UNC - #4 North Carolina (100%) def. #61 Presbyterian (0%)"
+  MAS: "UNC - #4 North Carolina (99%) def. #61 Presbyterian (1%)"
   LNUP: UNC - North Carolina (99%) def. Presbyterian (1%)
   UTR: "UNC - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)"
   ITA: "UNC - #6 North Carolina def. #59 Presbyterian"
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "UNC - #1 North Carolina def. #4 Presbyterian"
 Lineups:
   Predictions:
-    Average EWPs for UNC: 99%,99%,NaN%,100%
-    Average EWPs for PRES: 1%,1%,NaN%,0%
+    Average EWPs for UNC: 99%,99%,100%,100%
+    Average EWPs for PRES: 1%,1%,0%,0%
     UNC wins 4 or more Singles points: 100%
     PRES wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,7 +62,7 @@ Lineups:
         AVG: UNC - Blumberg (98%) def. Benson (2%)
         SLM: UNC - Blumberg (98%) def. Benson (2%)
         TRN: UNC - Blumberg (99%) def. Benson (1%)
-        MAS: PRES - Benson (NaN%) def. Blumberg (NaN%)
+        MAS: UNC - Blumberg (97%) def. Benson (3%)
         UTR: UNC - Blumberg (97%) def. Benson (3%)
         ITA: UNC - Blumberg (21.87) def. Benson (2.12)
     - Position: 2
@@ -71,17 +72,17 @@ Lineups:
         AVG: UNC - Hijikata (99%) def. Dominguez (1%)
         SLM: UNC - Hijikata (99%) def. Dominguez (1%)
         TRN: UNC - Hijikata (99%) def. Dominguez (1%)
-        MAS: PRES - Dominguez (NaN%) def. Hijikata (NaN%)
+        MAS: UNC - Hijikata (99%) def. Dominguez (1%)
         UTR: UNC - Hijikata (98%) def. Dominguez (2%)
         ITA: UNC - Hijikata (27.96) def. Dominguez (0.00)
     - Position: 3
       UNC: Benjamin Sigouin - 3-2 at 3, 9-9 in duals, 9-9 overall
       PRES: Nick McKinney - 3-1 at 3, 13-1 in duals, 13-1 overall
       Predictions:
-        AVG: UNC - Sigouin (88%) def. McKinney (12%)
+        AVG: UNC - Sigouin (89%) def. McKinney (11%)
         SLM: UNC - Sigouin (97%) def. McKinney (3%)
         TRN: UNC - Sigouin (96%) def. McKinney (4%)
-        MAS: PRES - McKinney (NaN%) def. Sigouin (NaN%)
+        MAS: UNC - Sigouin (74%) def. McKinney (26%)
         UTR: UNC - Sigouin (89%) def. McKinney (11%)
         ITA: UNC - Sigouin (13.85) def. McKinney (3.59)
     - Position: 4
@@ -91,7 +92,7 @@ Lineups:
         AVG: UNC - Cernoch (99%) def. Babic (1%)
         SLM: UNC - Cernoch (99%) def. Babic (1%)
         TRN: UNC - Cernoch (99%) def. Babic (1%)
-        MAS: PRES - Babic (NaN%) def. Cernoch (NaN%)
+        MAS: UNC - Cernoch (99%) def. Babic (1%)
         UTR: UNC - Cernoch (99%) def. Babic (1%)
         ITA: UNC - Cernoch (12.67) def. Babic (0.00)
     - Position: 5
@@ -101,7 +102,7 @@ Lineups:
         AVG: UNC - Peck (98%) def. Stenger (2%)
         SLM: UNC - Peck (98%) def. Stenger (2%)
         TRN: UNC - Peck (99%) def. Stenger (1%)
-        MAS: PRES - Stenger (NaN%) def. Peck (NaN%)
+        MAS: UNC - Peck (98%) def. Stenger (2%)
         UTR: UNC - Peck (98%) def. Stenger (2%)
         ITA: UNC - Peck (4.29) def. Stenger (1.37)
     - Position: 6
@@ -111,7 +112,7 @@ Lineups:
         AVG: UNC - Soendergaard (96%) def. Matos (4%)
         SLM: UNC - Soendergaard (98%) def. Matos (2%)
         TRN: UNC - Soendergaard (99%) def. Matos (1%)
-        MAS: PRES - Matos (NaN%) def. Soendergaard (NaN%)
+        MAS: UNC - Soendergaard (93%) def. Matos (7%)
         UTR: UNC - Soendergaard (95%) def. Matos (5%)
         ITA: UNC - Soendergaard (3.62) def. Matos (2.56)
   Doubles:

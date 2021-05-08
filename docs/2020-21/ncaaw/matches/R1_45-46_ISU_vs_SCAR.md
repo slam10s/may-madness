@@ -44,6 +44,7 @@ Raleigh, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***SCAR*** - South Carolina (85%) def. Iowa St. (15%)  
 - Slam: ***SCAR*** - #27 South Carolina (81%) def. #41 Iowa St. (19%)  
 - TRN: ***SCAR*** - #28 South Carolina (84%) def. #42 Iowa St. (16%)  
 - Massey: ***SCAR*** - #27 South Carolina (83%) def. #39 Iowa St. (17%)  
@@ -67,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>SCAR</i></b> - Horvit (82%) def. Naklo (18%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Horvit (81%) def. Naklo (19%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Horvit (85%) def. Naklo (15%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Naklo (NaN%) def. Horvit (NaN%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Horvit (78%) def. Naklo (22%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Horvit (84%) def. Naklo (16%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Horvit (18.78) def. Naklo (2.77)</li>  
 </ul>
@@ -78,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>SCAR</i></b> - Davies (86%) def. Cancini (14%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Davies (81%) def. Cancini (19%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Davies (88%) def. Cancini (12%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Cancini (NaN%) def. Davies (NaN%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Davies (88%) def. Cancini (12%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Davies (86%) def. Cancini (14%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Davies (10.26) def. Cancini (1.95)</li>  
 </ul>
@@ -89,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>SCAR</i></b> - Shelton (59%) def. Kadleckova (41%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Shelton (66%) def. Kadleckova (34%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Shelton (58%) def. Kadleckova (42%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Kadleckova (NaN%) def. Shelton (NaN%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Kadleckova (51%) def. Shelton (49%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Shelton (65%) def. Kadleckova (35%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Shelton (6.55) def. Kadleckova (2.94)</li>  
 </ul>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>SCAR</i></b> - Chinellato (89%) def. Hsieh (11%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Chinellato (83%) def. Hsieh (17%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Chinellato (88%) def. Hsieh (12%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Hsieh (NaN%) def. Chinellato (NaN%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Chinellato (90%) def. Hsieh (10%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Chinellato (93%) def. Hsieh (7%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Chinellato (2.47) def. Hsieh (0.00)</li>  
 </ul>
@@ -111,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>SCAR</i></b> - Gretkowski (53%) def. Kezuka (47%)</li>  
 <li>Slam: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Kezuka (53%) def. Gretkowski (47%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Kezuka (NaN%) def. Gretkowski (NaN%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Gretkowski (80%) def. Kezuka (20%)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
 <li>Slam: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Cabezas (72%) def. Cruz (28%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Cabezas (NaN%) def. Cruz (NaN%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Cruz (54%) def. Cabezas (46%)</li>  
 <li>UTR: <b><i>ISU</i></b> - Cabezas (80%) def. Cruz (20%)</li>  
 <li>ITA: <b><i>ISU</i></b> - Cabezas (2.42) def. Cruz (0.00)</li>  
 </ul>

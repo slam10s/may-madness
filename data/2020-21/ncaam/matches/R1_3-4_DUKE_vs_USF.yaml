@@ -37,6 +37,7 @@ Visitor:
   Polls:
     Coach: 36
 Predictions:
+  AVG: USF - South Fla. (51%) def. Duke (49%)
   SLM: "DUKE - #31 Duke (51%) def. #32 South Fla. (49%)"
   TRN: "USF - #34 South Fla. (52%) def. #36 Duke (48%)"
   MAS: "USF - #32 South Fla. (55%) def. #34 Duke (45%)"
@@ -46,8 +47,8 @@ Predictions:
   Seeding: "USF - #2 South Fla. def. #3 Duke"
 Lineups:
   Predictions:
-    Average EWPs for USF: 50%,52%,NaN%,51%
-    Average EWPs for DUKE: 50%,48%,NaN%,49%
+    Average EWPs for USF: 50%,52%,55%,51%
+    Average EWPs for DUKE: 50%,48%,45%,49%
     USF wins 4 or more Singles points: 34%
     DUKE wins 4 or more Singles points: 34%
     Winner decided by the Doubles point: 32%
@@ -58,7 +59,7 @@ Lineups:
       Predictions:
         SLM: DUKE - Johns (56%) def. Wojcik (44%)
         TRN: USF - Wojcik (67%) def. Johns (33%)
-        MAS: DUKE - Johns (NaN%) def. Wojcik (NaN%)
+        MAS: USF - Wojcik (66%) def. Johns (34%)
         UTR: DUKE - Johns (76%) def. Wojcik (24%)
         ITA: USF - Wojcik (16.76) def. Johns (9.19)
     - Position: 2
@@ -68,7 +69,7 @@ Lineups:
         AVG: USF - Ferguson (60%) def. Sculley (40%)
         SLM: USF - Ferguson (73%) def. Sculley (27%)
         TRN: USF - Ferguson (56%) def. Sculley (44%)
-        MAS: DUKE - Sculley (NaN%) def. Ferguson (NaN%)
+        MAS: USF - Ferguson (56%) def. Sculley (44%)
         UTR: USF - Ferguson (53%) def. Sculley (47%)
         ITA: USF - Ferguson (11.90) def. Sculley (3.41)
     - Position: 3
@@ -78,7 +79,7 @@ Lineups:
         AVG: DUKE - Zhang (52%) def. Yatsuk (48%)
         SLM: USF - Yatsuk (50%) def. Zhang (50%)
         TRN: USF - Yatsuk (56%) def. Zhang (44%)
-        MAS: DUKE - Zhang (NaN%) def. Yatsuk (NaN%)
+        MAS: DUKE - Zhang (51%) def. Yatsuk (49%)
         UTR: DUKE - Zhang (68%) def. Yatsuk (32%)
         ITA: DUKE - Zhang (3.87) def. Yatsuk (2.48)
     - Position: 4
@@ -88,7 +89,7 @@ Lineups:
         AVG: DUKE - Guell (54%) def. Muniz-Hidalgo (46%)
         SLM: DUKE - Guell (75%) def. Muniz-Hidalgo (25%)
         TRN: DUKE - Guell (59%) def. Muniz-Hidalgo (41%)
-        MAS: DUKE - Guell (NaN%) def. Muniz-Hidalgo (NaN%)
+        MAS: DUKE - Guell (52%) def. Muniz-Hidalgo (48%)
         UTR: USF - Muniz-Hidalgo (66%) def. Guell (34%)
         ITA: DUKE - Guell (4.04) def. Muniz-Hidalgo (1.67)
     - Position: 5
@@ -98,7 +99,7 @@ Lineups:
         AVG: DUKE - Keist (58%) def. Luquet (42%)
         SLM: DUKE - Keist (62%) def. Luquet (38%)
         TRN: DUKE - Keist (72%) def. Luquet (28%)
-        MAS: DUKE - Keist (NaN%) def. Luquet (NaN%)
+        MAS: DUKE - Keist (68%) def. Luquet (32%)
         UTR: USF - Luquet (68%) def. Keist (32%)
         ITA: DUKE - Keist (3.16) def. Luquet (1.56)
     - Position: 6
@@ -108,7 +109,7 @@ Lineups:
         AVG: USF - Gomez-Montesa (53%) def. Dale (47%)
         SLM: DUKE - Dale (53%) def. Gomez-Montesa (47%)
         TRN: USF - Gomez-Montesa (58%) def. Dale (42%)
-        MAS: DUKE - Dale (NaN%) def. Gomez-Montesa (NaN%)
+        MAS: USF - Gomez-Montesa (59%) def. Dale (41%)
         UTR: DUKE - Dale (54%) def. Gomez-Montesa (46%)
         ITA: DUKE - Dale (2.29) def. Gomez-Montesa (1.78)
   Doubles:

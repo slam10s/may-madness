@@ -40,6 +40,7 @@ Gainesville, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***FLA*** - Florida (99%) def. South Alabama (1%)  
 - Slam: ***FLA*** - #2 Florida (99%) def. #50 South Alabama (1%)  
 - TRN: ***FLA*** - #3 Florida (99%) def. #52 South Alabama (1%)  
 - Massey: ***FLA*** - #1 Florida (99%) def. #46 South Alabama (1%)  
@@ -60,10 +61,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Julien Evrard (SALA) - 10-4 at #1, 13-4 in duals, 19-7 overall<br>Duarte Vale (FLA) - 15-6 at #1, 15-6 in duals, 23-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Vale (91%) def. Evrard (9%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
-<li>Massey: <b><i>SALA</i></b> - Evrard (NaN%) def. Vale (NaN%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Vale (89%) def. Evrard (11%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Vale (54.01) def. Evrard (8.29)</li>  
 </ul>
@@ -71,10 +72,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Clement Marzol (SALA) - 8-1 at #2, 12-2 in duals, 18-4 overall<br>Sam Riffice (FLA) - 16-4 at #2, 18-4 in duals, 23-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Riffice (89%) def. Marzol (11%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Riffice (90%) def. Marzol (10%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Riffice (90%) def. Marzol (10%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
-<li>Massey: <b><i>SALA</i></b> - Marzol (NaN%) def. Riffice (NaN%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Riffice (85%) def. Marzol (15%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Riffice (49.68) def. Marzol (8.12)</li>  
 </ul>
@@ -85,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Andrade (96%) def. Cloes (4%)</li>  
-<li>Massey: <b><i>SALA</i></b> - Cloes (NaN%) def. Andrade (NaN%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Andrade (90%) def. Cloes (10%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Andrade (94%) def. Cloes (6%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Andrade (32.71) def. Cloes (2.46)</li>  
 </ul>
@@ -93,10 +94,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Sebastien Collard (SALA) - 7-4 at #4, 11-6 in duals, 20-6 overall<br>Blaise Bicknell (FLA) - 15-0 at #4, 20-0 in duals, 29-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Bicknell (93%) def. Collard (7%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Bicknell (98%) def. Collard (2%)</li>  
-<li>Massey: <b><i>SALA</i></b> - Collard (NaN%) def. Bicknell (NaN%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Bicknell (90%) def. Collard (10%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Bicknell (15.89) def. Collard (2.43)</li>  
 </ul>
@@ -104,10 +105,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Louis Delcour (SALA) - 5-2 at #5, 9-5 in duals, 9-5 overall<br>Ben Shelton (FLA) - 15-4 at #5, 17-4 in duals, 24-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Shelton (94%) def. Delcour (6%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Shelton (95%) def. Delcour (5%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Shelton (98%) def. Delcour (2%)</li>  
-<li>Massey: <b><i>SALA</i></b> - Delcour (NaN%) def. Shelton (NaN%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Shelton (91%) def. Delcour (9%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Shelton (3.20) def. Delcour (2.17)</li>  
 </ul>
@@ -118,7 +119,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
-<li>Massey: <b><i>SALA</i></b> - Bugaj (NaN%) def. Goodger (NaN%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Goodger (98%) def. Bugaj (2%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Goodger (8.31) def. Bugaj (0.00)</li>  
 </ul>

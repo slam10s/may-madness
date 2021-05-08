@@ -36,6 +36,7 @@ Visitor:
     MAS: 53 (6.42)
     UTR: 52 (73.58)
 Predictions:
+  AVG: NCST - NC State (97%) def. FGCU (3%)
   SLM: "NCST - #19 NC State (98%) def. #49 FGCU (2%)"
   TRN: "NCST - #22 NC State (98%) def. #50 FGCU (2%)"
   MAS: "NCST - #23 NC State (95%) def. #53 FGCU (5%)"
@@ -47,8 +48,8 @@ Predictions:
   Seeding: "NCST - #2 NC State def. #3 FGCU"
 Lineups:
   Predictions:
-    Average EWPs for NCST: 98%,98%,NaN%,98%
-    Average EWPs for FGCU: 2%,2%,NaN%,2%
+    Average EWPs for NCST: 98%,98%,95%,98%
+    Average EWPs for FGCU: 2%,2%,5%,2%
     NCST wins 4 or more Singles points: 95%
     FGCU wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 4%
@@ -60,7 +61,7 @@ Lineups:
         AVG: NCST - Galarneau (87%) def. Johnson (13%)
         SLM: NCST - Galarneau (87%) def. Johnson (13%)
         TRN: NCST - Galarneau (85%) def. Johnson (15%)
-        MAS: FGCU - Johnson (NaN%) def. Galarneau (NaN%)
+        MAS: NCST - Galarneau (81%) def. Johnson (19%)
         UTR: NCST - Galarneau (93%) def. Johnson (7%)
         ITA: NCST - Galarneau (25.90) def. Johnson (7.86)
     - Position: 2
@@ -70,7 +71,7 @@ Lineups:
         AVG: NCST - Luque (77%) def. Montes (23%)
         SLM: NCST - Luque (75%) def. Montes (25%)
         TRN: NCST - Luque (75%) def. Montes (25%)
-        MAS: FGCU - Montes (NaN%) def. Luque (NaN%)
+        MAS: NCST - Luque (72%) def. Montes (28%)
         UTR: NCST - Luque (86%) def. Montes (14%)
         ITA: NCST - Luque (6.91) def. Montes (2.32)
     - Position: 3
@@ -80,7 +81,7 @@ Lineups:
         AVG: NCST - Babelis (84%) def. Wilson (16%)
         SLM: NCST - Babelis (85%) def. Wilson (15%)
         TRN: NCST - Babelis (84%) def. Wilson (16%)
-        MAS: FGCU - Wilson (NaN%) def. Babelis (NaN%)
+        MAS: NCST - Babelis (76%) def. Wilson (24%)
         UTR: NCST - Babelis (89%) def. Wilson (11%)
         ITA: NCST - Babelis (2.63) def. Wilson (1.63)
     - Position: 4
@@ -90,7 +91,7 @@ Lineups:
         AVG: NCST - Barkai (80%) def. Ramirez (20%)
         SLM: NCST - Barkai (78%) def. Ramirez (22%)
         TRN: NCST - Barkai (77%) def. Ramirez (23%)
-        MAS: FGCU - Ramirez (NaN%) def. Barkai (NaN%)
+        MAS: NCST - Barkai (80%) def. Ramirez (20%)
         UTR: NCST - Barkai (85%) def. Ramirez (15%)
         ITA: NCST - Barkai (2.33) def. Ramirez (0.00)
     - Position: 5
@@ -100,7 +101,7 @@ Lineups:
         AVG: NCST - Catry (89%) def. Stefanacci (11%)
         SLM: NCST - Catry (95%) def. Stefanacci (5%)
         TRN: NCST - Catry (95%) def. Stefanacci (5%)
-        MAS: FGCU - Stefanacci (NaN%) def. Catry (NaN%)
+        MAS: NCST - Catry (78%) def. Stefanacci (22%)
         UTR: NCST - Catry (90%) def. Stefanacci (10%)
         ITA: NCST - Catry (3.10) def. Stefanacci (2.15)
     - Position: 6
@@ -110,7 +111,7 @@ Lineups:
         AVG: NCST - Turzak (90%) def. Conca (10%)
         SLM: NCST - Turzak (83%) def. Conca (17%)
         TRN: NCST - Turzak (89%) def. Conca (11%)
-        MAS: FGCU - Conca (NaN%) def. Turzak (NaN%)
+        MAS: NCST - Turzak (91%) def. Conca (9%)
         UTR: NCST - Turzak (95%) def. Conca (5%)
         ITA: NCST - Turzak (1.56) def. Conca (0.00)
   Doubles:

@@ -41,9 +41,10 @@ College Station, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***A&M*** - Texas A&M (94%) def. Oklahoma (6%)  
 - Slam: ***A&M*** - #11 Texas A&M (90%) def. #29 Oklahoma (10%)  
 - TRN: ***A&M*** - #11 Texas A&M (93%) def. #28 Oklahoma (7%)  
-- Massey: ***A&M*** - #12 Texas A&M (93%) def. #37 Oklahoma (7%)  
+- Massey: ***A&M*** - #12 Texas A&M (96%) def. #37 Oklahoma (4%)  
 - Lineup: ***A&M*** - Texas A&M (97%) def. Oklahoma (3%)  
 - UTR: ***A&M*** - #8 Texas A&M (+2.23) def. #28 Oklahoma (-2.23)  
 - ITA: ***A&M*** - #8 Texas A&M def. #27 Oklahoma  
@@ -64,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Vacherot (93%) def. Emburgh (7%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Vacherot (91%) def. Emburgh (9%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Vacherot (94%) def. Emburgh (6%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Emburgh (NaN%) def. Vacherot (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Vacherot (96%) def. Emburgh (4%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Vacherot (90%) def. Emburgh (10%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Vacherot (51.31) def. Emburgh (7.98)</li>  
 </ul>
@@ -72,10 +73,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Mason Beiler (OKLA) - 7-4 at #2, 11-8 in duals, 16-13 overall<br>Hady Habib (A&M) - 7-3 at #2, 10-4 in duals, 15-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Habib (85%) def. Beiler (15%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Habib (86%) def. Beiler (14%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Habib (86%) def. Beiler (14%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Habib (84%) def. Beiler (16%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Beiler (NaN%) def. Habib (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Habib (87%) def. Beiler (13%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Habib (86%) def. Beiler (14%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Habib (54.57) def. Beiler (10.05)</li>  
 </ul>
@@ -83,10 +84,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alex Martinez (OKLA) - 6-2 at #3, 12-7 in duals, 15-13 overall<br>Juan Carlos Aguilar (A&M) - 6-6 at #3, 10-8 in duals, 15-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Aguilar (76%) def. Martinez (24%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Aguilar (77%) def. Martinez (23%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Aguilar (75%) def. Martinez (25%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Aguilar (75%) def. Martinez (25%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Martinez (NaN%) def. Aguilar (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Aguilar (74%) def. Martinez (26%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Aguilar (84%) def. Martinez (16%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Aguilar (23.98) def. Martinez (2.93)</li>  
 </ul>
@@ -94,10 +95,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nathan Han (OKLA) - 2-6 at #4, 7-7 in duals, 13-11 overall<br>Noah Schachter (A&M) - 7-5 at #4, 12-10 in duals, 19-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Schachter (64%) def. Han (36%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Schachter (65%) def. Han (35%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Schachter (68%) def. Han (32%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Schachter (65%) def. Han (35%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Han (NaN%) def. Schachter (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Schachter (66%) def. Han (34%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Schachter (62%) def. Han (38%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Schachter (6.58) def. Han (1.72)</li>  
 </ul>
@@ -105,10 +106,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Justin Schlageter (OKLA) - 3-5 at #5, 6-6 in duals, 10-12 overall<br>Pierce Rollins (A&M) - 3-3 at #5, 8-5 in duals, 15-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Rollins (80%) def. Schlageter (20%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Rollins (81%) def. Schlageter (19%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Rollins (79%) def. Schlageter (21%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Rollins (84%) def. Schlageter (16%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Schlageter (NaN%) def. Rollins (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Rollins (82%) def. Schlageter (18%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Rollins (80%) def. Schlageter (20%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Rollins (5.08) def. Schlageter (0.00)</li>  
 </ul>
@@ -116,10 +117,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Mark Mandlik (OKLA) - 1-1 at #6, 6-14 in duals, 6-14 overall<br>Guido Marson (A&M) - 0-0 at #6, 5-6 in duals, 7-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Marson (70%) def. Mandlik (30%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Marson (71%) def. Mandlik (29%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Marson (63%) def. Mandlik (37%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Marson (75%) def. Mandlik (25%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Mandlik (NaN%) def. Marson (NaN%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Marson (79%) def. Mandlik (21%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Marson (67%) def. Mandlik (33%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Marson (1.86) def. Mandlik (0.00)</li>  
 </ul>
@@ -146,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas A&M should win 4 or more singles matches _89%_ of the time.  
+- Texas A&M should win 4 or more singles matches _90%_ of the time.  
 - Oklahoma should win 4 or more singles matches _2%_ of the time.  
-- The winner of the doubles point will decide the match the other _9%_ of the time.  
+- The winner of the doubles point will decide the match the other _8%_ of the time.  
 - If Texas A&M wins the doubles point, their chances of winning the dual improve to _98%_.  
-- If Oklahoma wins the doubles point, their chances of winning the dual improve to _11%_.  
+- If Oklahoma wins the doubles point, their chances of winning the dual improve to _10%_.  
   
 ------
 

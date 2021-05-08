@@ -37,9 +37,10 @@ Visitor:
     MAS: 51 (5.50)
     UTR: 54 (52.95)
 Predictions:
+  AVG: PEPP - Pepperdine (99%) def. Northern Ariz. (1%)
   SLM: "PEPP - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)"
   TRN: "PEPP - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)"
-  MAS: "PEPP - #5 Pepperdine (100%) def. #51 Northern Ariz. (0%)"
+  MAS: "PEPP - #5 Pepperdine (99%) def. #51 Northern Ariz. (1%)"
   LNUP: PEPP - Pepperdine (99%) def. Northern Ariz. (1%)
   UTR: "PEPP - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)"
   ITA: "PEPP - #5 Pepperdine def. #54 Northern Ariz."
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "PEPP - #1 Pepperdine def. #4 Northern Ariz."
 Lineups:
   Predictions:
-    Average EWPs for PEPP: 99%,99%,NaN%,100%
-    Average EWPs for NAU: 1%,1%,NaN%,0%
+    Average EWPs for PEPP: 99%,99%,100%,100%
+    Average EWPs for NAU: 1%,1%,0%,0%
     PEPP wins 4 or more Singles points: 100%
     NAU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,17 +62,17 @@ Lineups:
         AVG: PEPP - Lahey (89%) def. Dittmann (11%)
         SLM: PEPP - Lahey (87%) def. Dittmann (13%)
         TRN: PEPP - Lahey (92%) def. Dittmann (8%)
-        MAS: NAU - Dittmann (NaN%) def. Lahey (NaN%)
+        MAS: PEPP - Lahey (84%) def. Dittmann (16%)
         UTR: PEPP - Lahey (92%) def. Dittmann (8%)
         ITA: PEPP - Lahey (7.80) def. Dittmann (4.32)
     - Position: 2
       PEPP: Jessica Failla - 6-1 at 2, 14-3 in duals, 14-3 overall
       NAU: Emily Bland - 1-1 at 2, 14-3 in duals, 14-3 overall
       Predictions:
-        AVG: PEPP - Failla (97%) def. Bland (3%)
+        AVG: PEPP - Failla (98%) def. Bland (2%)
         SLM: PEPP - Failla (99%) def. Bland (1%)
         TRN: PEPP - Failla (99%) def. Bland (1%)
-        MAS: NAU - Bland (NaN%) def. Failla (NaN%)
+        MAS: PEPP - Failla (94%) def. Bland (6%)
         UTR: PEPP - Failla (97%) def. Bland (3%)
         ITA: PEPP - Failla (23.38) def. Bland (2.75)
     - Position: 3
@@ -81,7 +82,7 @@ Lineups:
         AVG: PEPP - Pachkaleva (98%) def. Millard (2%)
         SLM: PEPP - Pachkaleva (98%) def. Millard (2%)
         TRN: PEPP - Pachkaleva (99%) def. Millard (1%)
-        MAS: NAU - Millard (NaN%) def. Pachkaleva (NaN%)
+        MAS: PEPP - Pachkaleva (97%) def. Millard (3%)
         UTR: PEPP - Pachkaleva (98%) def. Millard (2%)
         ITA: PEPP - Pachkaleva (6.37) def. Millard (2.21)
     - Position: 4
@@ -91,7 +92,7 @@ Lineups:
         AVG: PEPP - Fukuda (98%) def. Neyestani (2%)
         SLM: PEPP - Fukuda (99%) def. Neyestani (1%)
         TRN: PEPP - Fukuda (99%) def. Neyestani (1%)
-        MAS: NAU - Neyestani (NaN%) def. Fukuda (NaN%)
+        MAS: PEPP - Fukuda (96%) def. Neyestani (4%)
         UTR: PEPP - Fukuda (98%) def. Neyestani (2%)
         ITA: PEPP - Fukuda (4.88) def. Neyestani (1.91)
     - Position: 5
@@ -101,7 +102,7 @@ Lineups:
         AVG: PEPP - Zaar (98%) def. Beazley (2%)
         SLM: PEPP - Zaar (99%) def. Beazley (1%)
         TRN: PEPP - Zaar (99%) def. Beazley (1%)
-        MAS: NAU - Beazley (NaN%) def. Zaar (NaN%)
+        MAS: PEPP - Zaar (97%) def. Beazley (3%)
         UTR: PEPP - Zaar (98%) def. Beazley (2%)
         ITA: PEPP - Zaar (4.47) def. Beazley (2.10)
     - Position: 6
@@ -111,7 +112,7 @@ Lineups:
         AVG: PEPP - Redelijk (99%) def. Moore (1%)
         SLM: PEPP - Redelijk (99%) def. Moore (1%)
         TRN: PEPP - Redelijk (99%) def. Moore (1%)
-        MAS: NAU - Moore (NaN%) def. Redelijk (NaN%)
+        MAS: PEPP - Redelijk (98%) def. Moore (2%)
         UTR: PEPP - Redelijk (99%) def. Moore (1%)
         ITA: PEPP - Redelijk (1.87) def. Moore (1.46)
   Doubles:

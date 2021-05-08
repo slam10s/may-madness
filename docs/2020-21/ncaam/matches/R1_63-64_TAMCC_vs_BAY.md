@@ -40,6 +40,7 @@ Waco, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***BAY*** - Baylor (99%) def. A&M-Corpus Christi (1%)  
 - Slam: ***BAY*** - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)  
 - TRN: ***BAY*** - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)  
 - Massey: ***BAY*** - #5 Baylor (99%) def. #58 A&M-Corpus Christi (1%)  
@@ -63,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>BAY</i></b> - Boitan (98%) def. Yamanaka (2%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Boitan (98%) def. Yamanaka (2%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Boitan (99%) def. Yamanaka (1%)</li>  
-<li>Massey: <b><i>TAMCC</i></b> - Yamanaka (NaN%) def. Boitan (NaN%)</li>  
+<li>Massey: <b><i>BAY</i></b> - Boitan (99%) def. Yamanaka (1%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Boitan (97%) def. Yamanaka (3%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Boitan (31.04) def. Yamanaka (1.61)</li>  
 </ul>
@@ -74,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>BAY</i></b> - Soto (99%) def. Ata (1%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Soto (99%) def. Ata (1%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Soto (99%) def. Ata (1%)</li>  
-<li>Massey: <b><i>TAMCC</i></b> - Ata (NaN%) def. Soto (NaN%)</li>  
+<li>Massey: <b><i>BAY</i></b> - Soto (99%) def. Ata (1%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Soto (98%) def. Ata (2%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Soto (41.70) def. Ata (1.70)</li>  
 </ul>
@@ -82,10 +83,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nathan Schwartz (TAMCC) - 7-4 at #3, 13-4 in duals, 15-5 overall<br>Sven Lah (BAY) - 6-7 at #3, 9-9 in duals, 11-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Lah (93%) def. Schwartz (7%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Lah (94%) def. Schwartz (6%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Lah (95%) def. Schwartz (5%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Lah (96%) def. Schwartz (4%)</li>  
-<li>Massey: <b><i>TAMCC</i></b> - Schwartz (NaN%) def. Lah (NaN%)</li>  
+<li>Massey: <b><i>BAY</i></b> - Lah (89%) def. Schwartz (11%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Lah (94%) def. Schwartz (6%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Lah (4.25) def. Schwartz (2.22)</li>  
 </ul>
@@ -96,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>BAY</i></b> - Stachowiak (95%) def. Loriel (5%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Stachowiak (96%) def. Loriel (4%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Stachowiak (97%) def. Loriel (3%)</li>  
-<li>Massey: <b><i>TAMCC</i></b> - Loriel (NaN%) def. Stachowiak (NaN%)</li>  
+<li>Massey: <b><i>BAY</i></b> - Stachowiak (93%) def. Loriel (7%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Stachowiak (95%) def. Loriel (5%)</li>  
 <li>ITA: <b><i>TAMCC</i></b> - Loriel (3.69) def. Stachowiak (3.38)</li>  
 </ul>
@@ -107,7 +108,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
-<li>Massey: <b><i>TAMCC</i></b> - Delgado (NaN%) def. Broom (NaN%)</li>  
+<li>Massey: <b><i>BAY</i></b> - Broom (98%) def. Delgado (2%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Broom (99%) def. Delgado (1%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Broom (3.72) def. Delgado (3.54)</li>  
 </ul>
@@ -118,7 +119,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>BAY</i></b> - Furman (98%) def. Castaneda (2%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Furman (99%) def. Castaneda (1%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Furman (99%) def. Castaneda (1%)</li>  
-<li>Massey: <b><i>TAMCC</i></b> - Castaneda (NaN%) def. Furman (NaN%)</li>  
+<li>Massey: <b><i>BAY</i></b> - Furman (99%) def. Castaneda (1%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Furman (94%) def. Castaneda (6%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Furman (4.24) def. Castaneda (3.54)</li>  
 </ul>

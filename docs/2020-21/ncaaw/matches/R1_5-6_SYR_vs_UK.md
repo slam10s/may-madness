@@ -44,6 +44,7 @@ Berkeley, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UK*** - Kentucky (78%) def. Syracuse (22%)  
 - Slam: ***UK*** - #25 Kentucky (83%) def. #43 Syracuse (17%)  
 - TRN: ***UK*** - #27 Kentucky (84%) def. #43 Syracuse (16%)  
 - Massey: ***UK*** - #33 Kentucky (78%) def. #42 Syracuse (22%)  
@@ -67,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>SYR</i></b> - Kanapatskaya (61%) def. Parazinskaite (39%)</li>  
 <li>Slam: <b><i>SYR</i></b> - Kanapatskaya (65%) def. Parazinskaite (35%)</li>  
 <li>TRN: <b><i>SYR</i></b> - Kanapatskaya (65%) def. Parazinskaite (35%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Kanapatskaya (NaN%) def. Parazinskaite (NaN%)</li>  
+<li>Massey: <b><i>SYR</i></b> - Kanapatskaya (55%) def. Parazinskaite (45%)</li>  
 <li>UTR: <b><i>SYR</i></b> - Kanapatskaya (64%) def. Parazinskaite (36%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Kanapatskaya (30.96) def. Parazinskaite (0.00)</li>  
 </ul>
@@ -78,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UK</i></b> - Jacobs (76%) def. Yusupova (24%)</li>  
 <li>Slam: <b><i>UK</i></b> - Jacobs (66%) def. Yusupova (34%)</li>  
 <li>TRN: <b><i>UK</i></b> - Jacobs (76%) def. Yusupova (24%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Yusupova (NaN%) def. Jacobs (NaN%)</li>  
+<li>Massey: <b><i>UK</i></b> - Jacobs (72%) def. Yusupova (28%)</li>  
 <li>UTR: <b><i>UK</i></b> - Jacobs (89%) def. Yusupova (11%)</li>  
 <li>ITA: <b><i>UK</i></b> - Jacobs (5.00) def. Yusupova (4.12)</li>  
 </ul>
@@ -89,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UK</i></b> - Molina (68%) def. Novotna (32%)</li>  
 <li>Slam: <b><i>UK</i></b> - Molina (67%) def. Novotna (33%)</li>  
 <li>TRN: <b><i>UK</i></b> - Molina (73%) def. Novotna (27%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Novotna (NaN%) def. Molina (NaN%)</li>  
+<li>Massey: <b><i>UK</i></b> - Molina (57%) def. Novotna (43%)</li>  
 <li>UTR: <b><i>UK</i></b> - Molina (77%) def. Novotna (23%)</li>  
 <li>ITA: <b><i>UK</i></b> - Molina (2.40) def. Novotna (2.02)</li>  
 </ul>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UK</i></b> - Stevens (56%) def. Ramirez (44%)</li>  
 <li>Slam: <b><i>UK</i></b> - Stevens (59%) def. Ramirez (41%)</li>  
 <li>TRN: <b><i>UK</i></b> - Stevens (65%) def. Ramirez (35%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Ramirez (NaN%) def. Stevens (NaN%)</li>  
+<li>Massey: <b><i>UK</i></b> - Stevens (58%) def. Ramirez (42%)</li>  
 <li>UTR: <b><i>SYR</i></b> - Ramirez (57%) def. Stevens (43%)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UK</i></b> - Girbau (60%) def. Erman (40%)</li>  
 <li>Slam: <b><i>UK</i></b> - Girbau (64%) def. Erman (36%)</li>  
 <li>TRN: <b><i>UK</i></b> - Girbau (61%) def. Erman (39%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Erman (NaN%) def. Girbau (NaN%)</li>  
+<li>Massey: <b><i>SYR</i></b> - Erman (58%) def. Girbau (42%)</li>  
 <li>UTR: <b><i>UK</i></b> - Girbau (74%) def. Erman (26%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Erman (1.82) def. Girbau (0.00)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>SYR</i></b> - Kozyreva (61%) def. Arrese (39%)</li>  
 <li>Slam: <b><i>UK</i></b> - Arrese (60%) def. Kozyreva (40%)</li>  
 <li>TRN: <b><i>UK</i></b> - Arrese (57%) def. Kozyreva (43%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Kozyreva (NaN%) def. Arrese (NaN%)</li>  
+<li>Massey: <b><i>SYR</i></b> - Kozyreva (63%) def. Arrese (37%)</li>  
 <li>UTR: <b><i>SYR</i></b> - Kozyreva (100%) def. Arrese (0%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Kozyreva (1.79) def. Arrese (1.49)</li>  
 </ul>

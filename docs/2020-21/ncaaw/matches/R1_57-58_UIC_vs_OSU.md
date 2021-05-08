@@ -43,9 +43,10 @@ Columbus, Ohio
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***OSU*** - Ohio St. (99%) def. UIC (1%)  
 - Slam: ***OSU*** - #5 Ohio St. (99%) def. #57 UIC (1%)  
 - TRN: ***OSU*** - #5 Ohio St. (99%) def. #59 UIC (1%)  
-- Massey: ***OSU*** - #8 Ohio St. (100%) def. #58 UIC (0%)  
+- Massey: ***OSU*** - #8 Ohio St. (99%) def. #58 UIC (1%)  
 - Lineup: ***OSU*** - Ohio St. (99%) def. UIC (1%)  
 - UTR: ***OSU*** - #25 Ohio St. (+10.14) def. #58 UIC (-10.14)  
 - ITA: ***OSU*** - #18 Ohio St. def. #59 UIC  
@@ -66,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
-<li>Massey: <b><i>UIC</i></b> - Malazonia (NaN%) def. Siemers (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Siemers (24.34) def. Malazonia (0.00)</li>  
 </ul>
@@ -77,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Boulais (98%) def. Gustafsson (2%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Boulais (98%) def. Gustafsson (2%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Boulais (99%) def. Gustafsson (1%)</li>  
-<li>Massey: <b><i>UIC</i></b> - Gustafsson (NaN%) def. Boulais (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Boulais (99%) def. Gustafsson (1%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Boulais (96%) def. Gustafsson (4%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Boulais (2.65) def. Gustafsson (1.82)</li>  
 </ul>
@@ -88,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Allen (88%) def. Prochazkova (12%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Allen (95%) def. Prochazkova (5%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Allen (84%) def. Prochazkova (16%)</li>  
-<li>Massey: <b><i>UIC</i></b> - Prochazkova (NaN%) def. Allen (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Allen (79%) def. Prochazkova (21%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Allen (96%) def. Prochazkova (4%)</li>  
 <li>ITA: <b><i>UIC</i></b> - Prochazkova (3.17) def. Allen (1.59)</li>  
 </ul>
@@ -96,10 +97,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ana Jover (UIC) - 13-2 at #4, 18-3 in duals, 18-3 overall<br>Lisa Hofbauer (OSU) - 7-2 at #4, 12-6 in duals, 13-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Hofbauer (95%) def. Jover (5%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Hofbauer (96%) def. Jover (4%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Hofbauer (98%) def. Jover (2%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Hofbauer (98%) def. Jover (2%)</li>  
-<li>Massey: <b><i>UIC</i></b> - Jover (NaN%) def. Hofbauer (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Hofbauer (91%) def. Jover (9%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Hofbauer (97%) def. Jover (3%)</li>  
 <li>ITA: <b><i>UIC</i></b> - Jover (2.79) def. Hofbauer (2.47)</li>  
 </ul>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Marzal (97%) def. Gulin (3%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Marzal (99%) def. Gulin (1%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Marzal (99%) def. Gulin (1%)</li>  
-<li>Massey: <b><i>UIC</i></b> - Gulin (NaN%) def. Marzal (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Marzal (94%) def. Gulin (6%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Marzal (98%) def. Gulin (2%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Marzal (3.08) def. Gulin (2.79)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Dormet (99%) def. Arendt (1%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Dormet (99%) def. Arendt (1%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Dormet (99%) def. Arendt (1%)</li>  
-<li>Massey: <b><i>UIC</i></b> - Arendt (NaN%) def. Dormet (NaN%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Dormet (99%) def. Arendt (1%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Dormet (98%) def. Arendt (2%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Dormet (3.78) def. Arendt (3.01)</li>  
 </ul>

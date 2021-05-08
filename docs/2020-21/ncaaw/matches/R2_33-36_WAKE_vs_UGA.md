@@ -41,10 +41,11 @@ Athens, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UGA*** - Georgia (99%) def. Wake Forest (1%)  
 - Slam: ***UGA*** - #3 Georgia (99%) def. #32 Wake Forest (1%)  
 - TRN: ***UGA*** - #3 Georgia (99%) def. #31 Wake Forest (1%)  
 - Massey: ***UGA*** - #3 Georgia (99%) def. #34 Wake Forest (1%)  
-- Lineup: ***UGA*** - Georgia (98%) def. Wake Forest (2%)  
+- Lineup: ***UGA*** - Georgia (99%) def. Wake Forest (1%)  
 - UTR: ***UGA*** - #3 Georgia (+3.99) def. #31 Wake Forest (-3.99)  
 - ITA: ***UGA*** - #3 Georgia def. #33 Wake Forest  
 - USTA Poll: ***UGA*** - #3 Georgia def. Wake Forest  
@@ -64,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Jokic (86%) def. Campana (14%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Jokic (84%) def. Campana (16%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Jokic (92%) def. Campana (8%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Campana (NaN%) def. Jokic (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Jokic (80%) def. Campana (20%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Jokic (90%) def. Campana (10%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Jokic (60.56) def. Campana (28.61)</li>  
 </ul>
@@ -72,10 +73,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Anna Campana (WAKE) - 4-6 at #2, 6-10 in duals, 6-10 overall<br>Lea Ma (UGA) - 13-3 at #2, 13-3 in duals, 14-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UGA</i></b> - Ma (89%) def. Campana (11%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Ma (90%) def. Campana (10%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Ma (89%) def. Campana (11%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Ma (93%) def. Campana (7%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Campana (NaN%) def. Ma (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Ma (87%) def. Campana (13%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Ma (90%) def. Campana (10%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (11.52) def. Ma (11.14)</li>  
 </ul>
@@ -83,10 +84,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Anna Brylin (WAKE) - 10-3 at #3, 12-8 in duals, 12-8 overall<br>Meg Kowalski (UGA) - 12-1 at #3, 12-1 in duals, 22-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UGA</i></b> - Kowalski (87%) def. Brylin (13%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Kowalski (88%) def. Brylin (12%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Kowalski (91%) def. Brylin (9%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Kowalski (94%) def. Brylin (6%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Brylin (NaN%) def. Kowalski (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Kowalski (85%) def. Brylin (15%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Kowalski (80%) def. Brylin (20%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Kowalski (23.73) def. Brylin (2.10)</li>  
 </ul>
@@ -97,7 +98,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Coppoc (91%) def. Omirou (9%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Coppoc (92%) def. Omirou (8%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Coppoc (94%) def. Omirou (6%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Omirou (NaN%) def. Coppoc (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Coppoc (88%) def. Omirou (12%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Coppoc (90%) def. Omirou (10%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Coppoc (8.66) def. Omirou (1.88)</li>  
 </ul>
@@ -108,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Gonzalez (93%) def. Killingsworth (7%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Gonzalez (91%) def. Killingsworth (9%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Gonzalez (97%) def. Killingsworth (3%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Killingsworth (NaN%) def. Gonzalez (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Gonzalez (92%) def. Killingsworth (8%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Gonzalez (93%) def. Killingsworth (7%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Gonzalez (11.71) def. Killingsworth (1.48)</li>  
 </ul>
@@ -116,10 +117,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Casie Wooten (WAKE) - 7-3 at #6, 12-7 in duals, 12-7 overall<br>Elena Christofi (UGA) - 9-0 at #6, 10-2 in duals, 17-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UGA</i></b> - Christofi (76%) def. Wooten (24%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Christofi (77%) def. Wooten (23%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Christofi (81%) def. Wooten (19%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Christofi (79%) def. Wooten (21%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Wooten (NaN%) def. Christofi (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Christofi (63%) def. Wooten (37%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Christofi (84%) def. Wooten (16%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Christofi (2.36) def. Wooten (1.70)</li>  
 </ul>
@@ -146,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Georgia should win 4 or more singles matches _97%_ of the time.  
+- Georgia should win 4 or more singles matches _98%_ of the time.  
 - Wake Forest should win 4 or more singles matches _1%_ of the time.  
 - The winner of the doubles point will decide the match the other _2%_ of the time.  
 - If Georgia wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Wake Forest wins the doubles point, their chances of winning the dual improve to _3%_.  
+- If Wake Forest wins the doubles point, their chances of winning the dual improve to _2%_.  
   
 ------
 

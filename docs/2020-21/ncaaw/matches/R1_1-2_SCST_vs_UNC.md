@@ -42,9 +42,10 @@ Chapel Hill, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #62 South Carolina St. (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #61 South Carolina St. (1%)  
-- Massey: ***UNC*** - #1 North Carolina (100%) def. #62 South Carolina St. (0%)  
+- Massey: ***UNC*** - #1 North Carolina (99%) def. #62 South Carolina St. (1%)  
 - Lineup: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - UTR: ***UNC*** - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)  
 - ITA: ***UNC*** - #1 North Carolina def. South Carolina St.  
@@ -65,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
-<li>Massey: <b><i>SCST</i></b> - Berjane (NaN%) def. Daavettila (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Daavettila (64.17) def. Berjane (0.00)</li>  
 </ul>
@@ -76,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
-<li>Massey: <b><i>SCST</i></b> - Semlali (NaN%) def. Graham (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Graham (15.03) def. Semlali (0.00)</li>  
 </ul>
@@ -87,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>Massey: <b><i>SCST</i></b> - Mihajilovic (NaN%) def. Morra (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Morra (20.00) def. Mihajilovic (0.00)</li>  
 </ul>
@@ -98,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
-<li>Massey: <b><i>SCST</i></b> - Patnaik (NaN%) def. Scotty (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Scotty (5.93) def. Patnaik (2.21)</li>  
 </ul>
@@ -109,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
-<li>Massey: <b><i>SCST</i></b> - Rassif (NaN%) def. Jones (NaN%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Jones (18.39) def. Rassif (1.48)</li>  
 </ul>
@@ -117,10 +118,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Anabel Aguilar (SCST) - 3-1 at #6, 3-1 in duals, 3-1 overall<br>Fiona Crawley (UNC) - 3-0 at #6, 23-0 in duals, 25-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Crawley (97%) def. Aguilar (3%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Crawley (100%) def. Aguilar (0%)</li>  
-<li>TRN: <b><i>UNC</i></b> - Crawley (100%) def. Aguilar (0%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Crawley (90%) def. Aguilar (10%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Crawley (74%) def. Aguilar (26%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Crawley (99%) def. Aguilar (1%)</li>  
+<li>TRN: <b><i>UNC</i></b> - Crawley (99%) def. Aguilar (1%)</li>  
+<li>Massey: <b><i>SCST</i></b> - Aguilar (99%) def. Crawley (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Crawley (99%) def. Aguilar (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Crawley (16.89) def. Aguilar (0.00)</li>  
 </ul>

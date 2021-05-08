@@ -40,9 +40,10 @@ Athens, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UGA*** - Georgia (99%) def. ETSU (1%)  
 - Slam: ***UGA*** - #16 Georgia (99%) def. #52 ETSU (1%)  
 - TRN: ***UGA*** - #14 Georgia (99%) def. #53 ETSU (1%)  
-- Massey: ***UGA*** - #15 Georgia (97%) def. #51 ETSU (3%)  
+- Massey: ***UGA*** - #15 Georgia (99%) def. #51 ETSU (1%)  
 - Lineup: ***UGA*** - Georgia (99%) def. ETSU (1%)  
 - UTR: ***UGA*** - #19 Georgia (+4.52) def. #50 ETSU (-4.52)  
 - ITA: ***UGA*** - #11 Georgia def. #49 ETSU  
@@ -60,10 +61,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Dimitri Badra (ETSU) - 11-3 at #1, 14-5 in duals, 14-5 overall<br>Trent Bryde (UGA) - 9-10 at #1, 9-10 in duals, 14-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UGA</i></b> - Bryde (79%) def. Badra (21%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Bryde (80%) def. Badra (20%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Bryde (85%) def. Badra (15%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Bryde (79%) def. Badra (21%)</li>  
-<li>Massey: <b><i>ETSU</i></b> - Badra (NaN%) def. Bryde (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Bryde (68%) def. Badra (32%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Bryde (88%) def. Badra (12%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Bryde (36.71) def. Badra (10.52)</li>  
 </ul>
@@ -71,10 +72,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Frazier Rengifo (ETSU) - 10-4 at #2, 11-7 in duals, 11-7 overall<br>Tyler Zink (UGA) - 6-5 at #2, 9-5 in duals, 11-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UGA</i></b> - Zink (87%) def. Rengifo (13%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Zink (88%) def. Rengifo (12%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Zink (90%) def. Rengifo (10%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Zink (93%) def. Rengifo (7%)</li>  
-<li>Massey: <b><i>ETSU</i></b> - Rengifo (NaN%) def. Zink (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Zink (76%) def. Rengifo (24%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Zink (91%) def. Rengifo (9%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Zink (25.30) def. Rengifo (2.55)</li>  
 </ul>
@@ -85,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Henning (95%) def. Lugo (5%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Henning (96%) def. Lugo (4%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Henning (97%) def. Lugo (3%)</li>  
-<li>Massey: <b><i>ETSU</i></b> - Lugo (NaN%) def. Henning (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Henning (94%) def. Lugo (6%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Henning (94%) def. Lugo (6%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Henning (31.73) def. Lugo (2.15)</li>  
 </ul>
@@ -96,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Croyder (91%) def. Pernas (9%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Croyder (93%) def. Pernas (7%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Croyder (96%) def. Pernas (4%)</li>  
-<li>Massey: <b><i>ETSU</i></b> - Pernas (NaN%) def. Croyder (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Croyder (86%) def. Pernas (14%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Croyder (91%) def. Pernas (9%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Croyder (4.08) def. Pernas (1.71)</li>  
 </ul>
@@ -107,7 +108,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Rowe (96%) def. Este (4%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Rowe (98%) def. Este (2%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Rowe (99%) def. Este (1%)</li>  
-<li>Massey: <b><i>ETSU</i></b> - Este (NaN%) def. Rowe (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Rowe (94%) def. Este (6%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Rowe (96%) def. Este (4%)</li>  
 <li>ITA: <b><i>ETSU</i></b> - Este (2.15) def. Rowe (1.84)</li>  
 </ul>
@@ -118,7 +119,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Grevelius (97%) def. Zabala (3%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Grevelius (96%) def. Zabala (4%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Grevelius (97%) def. Zabala (3%)</li>  
-<li>Massey: <b><i>ETSU</i></b> - Zabala (NaN%) def. Grevelius (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Grevelius (95%) def. Zabala (5%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Grevelius (99%) def. Zabala (1%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Grevelius (2.48) def. Zabala (1.96)</li>  
 </ul>

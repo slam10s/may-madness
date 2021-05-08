@@ -40,10 +40,11 @@ Visitor:
     USTA: 18
     Coach: 19
 Predictions:
+  AVG: UK - Kentucky (70%) def. Arizona (30%)
   SLM: "UK - #17 Kentucky (71%) def. #21 Arizona (29%)"
   TRN: "UK - #17 Kentucky (69%) def. #20 Arizona (31%)"
-  MAS: "ARIZ - #18 Arizona (51%) def. #17 Kentucky (49%)"
-  LNUP: UK - Kentucky (80%) def. Arizona (20%)
+  MAS: "UK - #17 Kentucky (60%) def. #18 Arizona (40%)"
+  LNUP: UK - Kentucky (81%) def. Arizona (19%)
   UTR: "UK - #16 Kentucky (+0.53) def. #21 Arizona (-0.53)"
   ITA: "UK - #15 Kentucky def. #17 Arizona"
   USTA: "UK - #17 Kentucky def. #18 Arizona"
@@ -51,70 +52,70 @@ Predictions:
   Seeding: "UK - #1 Kentucky def. #2 Arizona"
 Lineups:
   Predictions:
-    Average EWPs for UK: 71%,69%,NaN%,80%
-    Average EWPs for ARIZ: 29%,31%,NaN%,20%
-    UK wins 4 or more Singles points: 56%
-    ARIZ wins 4 or more Singles points: 14%
-    Winner decided by the Doubles point: 30%
+    Average EWPs for UK: 71%,69%,60%,81%
+    Average EWPs for ARIZ: 29%,31%,40%,19%
+    UK wins 4 or more Singles points: 58%
+    ARIZ wins 4 or more Singles points: 13%
+    Winner decided by the Doubles point: 29%
   Singles:
     - Position: 1
       UK: Liam Draxl - 19-2 at 1, 19-2 in duals, 19-2 overall
       ARIZ: Gustaf Strom - 3-1 at 1, 17-2 in duals, 17-2 overall
       Predictions:
-        AVG: UK - Draxl (75%) def. Strom (25%)
+        AVG: UK - Draxl (76%) def. Strom (24%)
         SLM: UK - Draxl (86%) def. Strom (14%)
         TRN: UK - Draxl (66%) def. Strom (34%)
-        MAS: ARIZ - Strom (NaN%) def. Draxl (NaN%)
+        MAS: UK - Draxl (67%) def. Strom (33%)
         UTR: UK - Draxl (84%) def. Strom (16%)
         ITA: UK - Draxl (64.58) def. Strom (17.40)
     - Position: 2
       UK: Gabriel Diallo - 12-5 at 2, 14-6 in duals, 19-7 overall
       ARIZ: Jonas Ziverts - 1-1 at 2, 9-8 in duals, 9-8 overall
       Predictions:
-        AVG: UK - Diallo (62%) def. Ziverts (38%)
+        AVG: UK - Diallo (63%) def. Ziverts (37%)
         SLM: UK - Diallo (55%) def. Ziverts (45%)
         TRN: UK - Diallo (63%) def. Ziverts (37%)
-        MAS: ARIZ - Ziverts (NaN%) def. Diallo (NaN%)
+        MAS: UK - Diallo (71%) def. Ziverts (29%)
         UTR: UK - Diallo (64%) def. Ziverts (36%)
         ITA: UK - Diallo (37.70) def. Ziverts (7.58)
     - Position: 3
       UK: Millen Hurrion - 10-3 at 3, 14-4 in duals, 17-7 overall
       ARIZ: Filip Malbasic - 5-4 at 3, 14-9 in duals, 14-9 overall
       Predictions:
-        AVG: UK - Hurrion (67%) def. Malbasic (33%)
+        AVG: UK - Hurrion (68%) def. Malbasic (32%)
         SLM: UK - Hurrion (69%) def. Malbasic (31%)
         TRN: UK - Hurrion (72%) def. Malbasic (28%)
-        MAS: ARIZ - Malbasic (NaN%) def. Hurrion (NaN%)
+        MAS: UK - Hurrion (62%) def. Malbasic (38%)
         UTR: UK - Hurrion (70%) def. Malbasic (30%)
         ITA: UK - Hurrion (22.80) def. Malbasic (2.36)
     - Position: 4
       UK: Cesar Bourgois - 9-6 at 4, 14-6 in duals, 14-6 overall
       ARIZ: Herman Hoeyeraal - 0-0 at 4, 4-0 in duals, 4-0 overall
       Predictions:
-        AVG: UK - Bourgois (91%) def. Hoeyeraal (9%)
-        SLM: UK - Bourgois (100%) def. Hoeyeraal (0%)
-        TRN: UK - Bourgois (100%) def. Hoeyeraal (0%)
-        MAS: ARIZ - Hoeyeraal (NaN%) def. Bourgois (NaN%)
+        AVG: UK - Bourgois (92%) def. Hoeyeraal (8%)
+        SLM: UK - Bourgois (99%) def. Hoeyeraal (1%)
+        TRN: UK - Bourgois (99%) def. Hoeyeraal (1%)
+        MAS: UK - Bourgois (70%) def. Hoeyeraal (30%)
         UTR: UK - Bourgois (99%) def. Hoeyeraal (1%)
         ITA: UK - Bourgois (7.98) def. Hoeyeraal (2.40)
     - Position: 5
       UK: Joshua Lapadat - 3-3 at 5, 6-9 in duals, 11-10 overall
       ARIZ: Alejandro Reguant - 0-0 at 5, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: ARIZ - Reguant (61%) def. Lapadat (39%)
+        AVG: ARIZ - Reguant (59%) def. Lapadat (41%)
         SLM: ARIZ - Reguant (61%) def. Lapadat (39%)
         TRN: ARIZ - Reguant (53%) def. Lapadat (47%)
-        MAS: ARIZ - Reguant (NaN%) def. Lapadat (NaN%)
+        MAS: UK - Lapadat (51%) def. Reguant (49%)
         UTR: ARIZ - Reguant (79%) def. Lapadat (21%)
         ITA: UK - Lapadat (6.21) def. Reguant (2.55)
     - Position: 6
       UK: Alexandre LeBlanc - 2-4 at 6, 4-4 in duals, 5-9 overall
       ARIZ: Carlos Hassey - 1-1 at 6, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: ARIZ - Hassey (72%) def. LeBlanc (28%)
+        AVG: ARIZ - Hassey (71%) def. LeBlanc (29%)
         SLM: ARIZ - Hassey (78%) def. LeBlanc (22%)
         TRN: ARIZ - Hassey (79%) def. LeBlanc (21%)
-        MAS: ARIZ - Hassey (NaN%) def. LeBlanc (NaN%)
+        MAS: ARIZ - Hassey (51%) def. LeBlanc (49%)
         UTR: ARIZ - Hassey (81%) def. LeBlanc (19%)
         ITA: ARIZ - Hassey (1.70) def. LeBlanc (0.00)
   Doubles:

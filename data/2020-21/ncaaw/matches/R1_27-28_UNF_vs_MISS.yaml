@@ -36,6 +36,7 @@ Visitor:
     MAS: 47 (6.44)
     UTR: 44 (58.45)
 Predictions:
+  AVG: MISS - Ole Miss (93%) def. North Florida (7%)
   SLM: "MISS - #26 Ole Miss (93%) def. #46 North Florida (7%)"
   TRN: "MISS - #26 Ole Miss (96%) def. #46 North Florida (4%)"
   MAS: "MISS - #29 Ole Miss (85%) def. #47 North Florida (15%)"
@@ -46,8 +47,8 @@ Predictions:
   Seeding: "MISS - #2 Ole Miss def. #3 North Florida"
 Lineups:
   Predictions:
-    Average EWPs for MISS: 93%,96%,NaN%,98%
-    Average EWPs for UNF: 7%,4%,NaN%,2%
+    Average EWPs for MISS: 93%,96%,85%,98%
+    Average EWPs for UNF: 7%,4%,15%,2%
     MISS wins 4 or more Singles points: 94%
     UNF wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 5%
@@ -59,7 +60,7 @@ Lineups:
         AVG: MISS - Machalova (81%) def. Montano (19%)
         SLM: MISS - Machalova (74%) def. Montano (26%)
         TRN: MISS - Machalova (87%) def. Montano (13%)
-        MAS: UNF - Montano (NaN%) def. Machalova (NaN%)
+        MAS: MISS - Machalova (73%) def. Montano (27%)
         UTR: MISS - Machalova (91%) def. Montano (9%)
         ITA: MISS - Machalova (19.63) def. Montano (2.10)
     - Position: 2
@@ -69,7 +70,7 @@ Lineups:
         AVG: MISS - Fiquet (64%) def. Gulihur (36%)
         SLM: MISS - Fiquet (67%) def. Gulihur (33%)
         TRN: MISS - Fiquet (68%) def. Gulihur (32%)
-        MAS: UNF - Gulihur (NaN%) def. Fiquet (NaN%)
+        MAS: UNF - Gulihur (51%) def. Fiquet (49%)
         UTR: MISS - Fiquet (74%) def. Gulihur (26%)
         ITA: MISS - Fiquet (6.49) def. Gulihur (3.92)
     - Position: 3
@@ -79,7 +80,7 @@ Lineups:
         AVG: MISS - Janatova (90%) def. Gorches (10%)
         SLM: MISS - Janatova (93%) def. Gorches (7%)
         TRN: MISS - Janatova (95%) def. Gorches (5%)
-        MAS: UNF - Gorches (NaN%) def. Janatova (NaN%)
+        MAS: MISS - Janatova (80%) def. Gorches (20%)
         UTR: MISS - Janatova (92%) def. Gorches (8%)
         ITA: MISS - Janatova (4.99) def. Gorches (1.63)
     - Position: 4
@@ -89,7 +90,7 @@ Lineups:
         AVG: MISS - Vrbenska (94%) def. Yardley (6%)
         SLM: MISS - Vrbenska (95%) def. Yardley (5%)
         TRN: MISS - Vrbenska (95%) def. Yardley (5%)
-        MAS: UNF - Yardley (NaN%) def. Vrbenska (NaN%)
+        MAS: MISS - Vrbenska (93%) def. Yardley (7%)
         UTR: MISS - Vrbenska (94%) def. Yardley (6%)
         ITA: MISS - Vrbenska (2.42) def. Yardley (1.55)
     - Position: 5
@@ -99,7 +100,7 @@ Lineups:
         AVG: MISS - Zadori (75%) def. Davis (25%)
         SLM: MISS - Zadori (82%) def. Davis (18%)
         TRN: MISS - Zadori (73%) def. Davis (27%)
-        MAS: UNF - Davis (NaN%) def. Zadori (NaN%)
+        MAS: MISS - Zadori (55%) def. Davis (45%)
         UTR: MISS - Zadori (88%) def. Davis (12%)
         ITA: UNF - Davis (3.59) def. Zadori (1.55)
     - Position: 6
@@ -109,7 +110,7 @@ Lineups:
         AVG: MISS - Gabrielsen (91%) def. Mariotto (9%)
         SLM: MISS - Gabrielsen (93%) def. Mariotto (7%)
         TRN: MISS - Gabrielsen (95%) def. Mariotto (5%)
-        MAS: UNF - Mariotto (NaN%) def. Gabrielsen (NaN%)
+        MAS: MISS - Gabrielsen (81%) def. Mariotto (19%)
         UTR: MISS - Gabrielsen (94%) def. Mariotto (6%)
         ITA: UNF - Mariotto (1.74) def. Gabrielsen (1.53)
   Doubles:

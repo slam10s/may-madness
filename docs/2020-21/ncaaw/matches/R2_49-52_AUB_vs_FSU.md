@@ -42,10 +42,11 @@ Tallahassee, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***FSU*** - Florida St. (85%) def. Auburn (15%)  
 - Slam: ***FSU*** - #10 Florida St. (79%) def. #24 Auburn (21%)  
 - TRN: ***FSU*** - #9 Florida St. (82%) def. #23 Auburn (18%)  
-- Massey: ***FSU*** - #9 Florida St. (75%) def. #25 Auburn (25%)  
-- Lineup: ***FSU*** - Florida St. (93%) def. Auburn (7%)  
+- Massey: ***FSU*** - #9 Florida St. (82%) def. #25 Auburn (18%)  
+- Lineup: ***FSU*** - Florida St. (95%) def. Auburn (5%)  
 - UTR: ***FSU*** - #10 Florida St. (+1.72) def. #30 Auburn (-1.72)  
 - ITA: ***FSU*** - #7 Florida St. def. #20 Auburn  
 - USTA Poll: ***FSU*** - #12 Florida St. def. #25 Auburn  
@@ -65,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Pairone (81%) def. Ovunc (19%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Pairone (80%) def. Ovunc (20%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Pairone (82%) def. Ovunc (18%)</li>  
-<li>Massey: <b><i>AUB</i></b> - Ovunc (NaN%) def. Pairone (NaN%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Pairone (79%) def. Ovunc (21%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Pairone (84%) def. Ovunc (16%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Pairone (30.67) def. Ovunc (9.63)</li>  
 </ul>
@@ -75,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>AUB</i></b> - Ansari (52%) def. Salas (48%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Ansari (57%) def. Salas (43%)</li>  
-<li>Massey: <b><i>AUB</i></b> - Ansari (NaN%) def. Salas (NaN%)</li>  
+<li>Massey: <b><i>AUB</i></b> - Ansari (59%) def. Salas (41%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Salas (70%) def. Ansari (30%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Salas (14.35) def. Ansari (7.96)</li>  
 </ul>
@@ -83,10 +84,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Yu Chen (AUB) - 0-2 at #3, 5-11 in duals, 12-13 overall<br>Nandini Das (FSU) - 6-4 at #3, 11-8 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FSU</i></b> - Das (56%) def. Chen (44%)</li>  
+<li>Composite: <b><i>FSU</i></b> - Das (57%) def. Chen (43%)</li>  
 <li>Slam: <b><i>AUB</i></b> - Chen (52%) def. Das (48%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Chen (53%) def. Das (47%)</li>  
-<li>Massey: <b><i>AUB</i></b> - Chen (NaN%) def. Das (NaN%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Das (67%) def. Chen (33%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Das (65%) def. Chen (35%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Chen (3.54) def. Das (2.52)</li>  
 </ul>
@@ -94,10 +95,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Georgie Axon (AUB) - 15-3 at #4, 16-3 in duals, 22-6 overall<br>Petra Hule (FSU) - 4-0 at #4, 12-3 in duals, 13-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>AUB</i></b> - Axon (52%) def. Hule (48%)</li>  
+<li>Composite: <b><i>AUB</i></b> - Axon (51%) def. Hule (49%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Hule (52%) def. Axon (48%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Hule (52%) def. Axon (48%)</li>  
-<li>Massey: <b><i>AUB</i></b> - Axon (NaN%) def. Hule (NaN%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Hule (51%) def. Axon (49%)</li>  
 <li>UTR: <b><i>AUB</i></b> - Axon (65%) def. Hule (35%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Hule (3.24) def. Axon (2.43)</li>  
 </ul>
@@ -108,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Allen (91%) def. Flach (9%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Allen (92%) def. Flach (8%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Allen (91%) def. Flach (9%)</li>  
-<li>Massey: <b><i>AUB</i></b> - Flach (NaN%) def. Allen (NaN%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Allen (92%) def. Flach (8%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Allen (90%) def. Flach (10%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Allen (2.90) def. Flach (1.50)</li>  
 </ul>
@@ -119,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Arkadianou (92%) def. Astakhova (8%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Arkadianou (93%) def. Astakhova (7%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Arkadianou (92%) def. Astakhova (8%)</li>  
-<li>Massey: <b><i>AUB</i></b> - Astakhova (NaN%) def. Arkadianou (NaN%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Arkadianou (89%) def. Astakhova (11%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Arkadianou (94%) def. Astakhova (6%)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -145,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Florida St. should win 4 or more singles matches _76%_ of the time.  
-- Auburn should win 4 or more singles matches _5%_ of the time.  
+- Florida St. should win 4 or more singles matches _77%_ of the time.  
+- Auburn should win 4 or more singles matches _4%_ of the time.  
 - The winner of the doubles point will decide the match the other _19%_ of the time.  
-- If Florida St. wins the doubles point, their chances of winning the dual improve to _95%_.  
-- If Auburn wins the doubles point, their chances of winning the dual improve to _24%_.  
+- If Florida St. wins the doubles point, their chances of winning the dual improve to _96%_.  
+- If Auburn wins the doubles point, their chances of winning the dual improve to _23%_.  
   
 ------
 

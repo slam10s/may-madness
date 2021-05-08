@@ -39,9 +39,10 @@ Visitor:
   Polls:
     Coach: 26
 Predictions:
+  AVG: A&M - Texas A&M (94%) def. Oklahoma (6%)
   SLM: "A&M - #11 Texas A&M (90%) def. #29 Oklahoma (10%)"
   TRN: "A&M - #11 Texas A&M (93%) def. #28 Oklahoma (7%)"
-  MAS: "A&M - #12 Texas A&M (93%) def. #37 Oklahoma (7%)"
+  MAS: "A&M - #12 Texas A&M (96%) def. #37 Oklahoma (4%)"
   LNUP: A&M - Texas A&M (97%) def. Oklahoma (3%)
   UTR: "A&M - #8 Texas A&M (+2.23) def. #28 Oklahoma (-2.23)"
   ITA: "A&M - #8 Texas A&M def. #27 Oklahoma"
@@ -50,11 +51,11 @@ Predictions:
   Seeding: "A&M - #1 Texas A&M def. #2 Oklahoma"
 Lineups:
   Predictions:
-    Average EWPs for A&M: 90%,93%,NaN%,97%
-    Average EWPs for OKLA: 10%,7%,NaN%,3%
-    A&M wins 4 or more Singles points: 89%
+    Average EWPs for A&M: 90%,93%,96%,97%
+    Average EWPs for OKLA: 10%,7%,4%,3%
+    A&M wins 4 or more Singles points: 90%
     OKLA wins 4 or more Singles points: 2%
-    Winner decided by the Doubles point: 9%
+    Winner decided by the Doubles point: 8%
   Singles:
     - Position: 1
       A&M: Valentin Vacherot - 13-2 at 1, 16-3 in duals, 21-5 overall
@@ -63,57 +64,57 @@ Lineups:
         AVG: A&M - Vacherot (93%) def. Emburgh (7%)
         SLM: A&M - Vacherot (91%) def. Emburgh (9%)
         TRN: A&M - Vacherot (94%) def. Emburgh (6%)
-        MAS: OKLA - Emburgh (NaN%) def. Vacherot (NaN%)
+        MAS: A&M - Vacherot (96%) def. Emburgh (4%)
         UTR: A&M - Vacherot (90%) def. Emburgh (10%)
         ITA: A&M - Vacherot (51.31) def. Emburgh (7.98)
     - Position: 2
       A&M: Hady Habib - 7-3 at 2, 10-4 in duals, 15-5 overall
       OKLA: Mason Beiler - 7-4 at 2, 11-8 in duals, 16-13 overall
       Predictions:
-        AVG: A&M - Habib (85%) def. Beiler (15%)
+        AVG: A&M - Habib (86%) def. Beiler (14%)
         SLM: A&M - Habib (86%) def. Beiler (14%)
         TRN: A&M - Habib (84%) def. Beiler (16%)
-        MAS: OKLA - Beiler (NaN%) def. Habib (NaN%)
+        MAS: A&M - Habib (87%) def. Beiler (13%)
         UTR: A&M - Habib (86%) def. Beiler (14%)
         ITA: A&M - Habib (54.57) def. Beiler (10.05)
     - Position: 3
       A&M: Juan Carlos Aguilar - 6-6 at 3, 10-8 in duals, 15-10 overall
       OKLA: Alex Martinez - 6-2 at 3, 12-7 in duals, 15-13 overall
       Predictions:
-        AVG: A&M - Aguilar (76%) def. Martinez (24%)
+        AVG: A&M - Aguilar (77%) def. Martinez (23%)
         SLM: A&M - Aguilar (75%) def. Martinez (25%)
         TRN: A&M - Aguilar (75%) def. Martinez (25%)
-        MAS: OKLA - Martinez (NaN%) def. Aguilar (NaN%)
+        MAS: A&M - Aguilar (74%) def. Martinez (26%)
         UTR: A&M - Aguilar (84%) def. Martinez (16%)
         ITA: A&M - Aguilar (23.98) def. Martinez (2.93)
     - Position: 4
       A&M: Noah Schachter - 7-5 at 4, 12-10 in duals, 19-13 overall
       OKLA: Nathan Han - 2-6 at 4, 7-7 in duals, 13-11 overall
       Predictions:
-        AVG: A&M - Schachter (64%) def. Han (36%)
+        AVG: A&M - Schachter (65%) def. Han (35%)
         SLM: A&M - Schachter (68%) def. Han (32%)
         TRN: A&M - Schachter (65%) def. Han (35%)
-        MAS: OKLA - Han (NaN%) def. Schachter (NaN%)
+        MAS: A&M - Schachter (66%) def. Han (34%)
         UTR: A&M - Schachter (62%) def. Han (38%)
         ITA: A&M - Schachter (6.58) def. Han (1.72)
     - Position: 5
       A&M: Pierce Rollins - 3-3 at 5, 8-5 in duals, 15-9 overall
       OKLA: Justin Schlageter - 3-5 at 5, 6-6 in duals, 10-12 overall
       Predictions:
-        AVG: A&M - Rollins (80%) def. Schlageter (20%)
+        AVG: A&M - Rollins (81%) def. Schlageter (19%)
         SLM: A&M - Rollins (79%) def. Schlageter (21%)
         TRN: A&M - Rollins (84%) def. Schlageter (16%)
-        MAS: OKLA - Schlageter (NaN%) def. Rollins (NaN%)
+        MAS: A&M - Rollins (82%) def. Schlageter (18%)
         UTR: A&M - Rollins (80%) def. Schlageter (20%)
         ITA: A&M - Rollins (5.08) def. Schlageter (0.00)
     - Position: 6
       A&M: Guido Marson - 0-0 at 6, 5-6 in duals, 7-9 overall
       OKLA: Mark Mandlik - 1-1 at 6, 6-14 in duals, 6-14 overall
       Predictions:
-        AVG: A&M - Marson (70%) def. Mandlik (30%)
+        AVG: A&M - Marson (71%) def. Mandlik (29%)
         SLM: A&M - Marson (63%) def. Mandlik (37%)
         TRN: A&M - Marson (75%) def. Mandlik (25%)
-        MAS: OKLA - Mandlik (NaN%) def. Marson (NaN%)
+        MAS: A&M - Marson (79%) def. Mandlik (21%)
         UTR: A&M - Marson (67%) def. Mandlik (33%)
         ITA: A&M - Marson (1.86) def. Mandlik (0.00)
   Doubles:

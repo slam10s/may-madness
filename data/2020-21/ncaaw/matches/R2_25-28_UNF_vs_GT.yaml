@@ -37,9 +37,10 @@ Visitor:
     MAS: 47 (6.44)
     UTR: 44 (58.45)
 Predictions:
+  AVG: GT - Georgia Tech (97%) def. North Florida (3%)
   SLM: "GT - #20 Georgia Tech (96%) def. #46 North Florida (4%)"
   TRN: "GT - #16 Georgia Tech (98%) def. #46 North Florida (2%)"
-  MAS: "GT - #18 Georgia Tech (93%) def. #47 North Florida (7%)"
+  MAS: "GT - #18 Georgia Tech (95%) def. #47 North Florida (5%)"
   LNUP: GT - Georgia Tech (99%) def. North Florida (1%)
   UTR: "GT - #24 Georgia Tech (+3.09) def. #44 North Florida (-3.09)"
   ITA: "GT - #13 Georgia Tech def. #48 North Florida"
@@ -47,8 +48,8 @@ Predictions:
   Seeding: "GT - #1 Georgia Tech def. #3 North Florida"
 Lineups:
   Predictions:
-    Average EWPs for GT: 96%,98%,NaN%,100%
-    Average EWPs for UNF: 4%,2%,NaN%,0%
+    Average EWPs for GT: 96%,98%,95%,100%
+    Average EWPs for UNF: 4%,2%,5%,0%
     GT wins 4 or more Singles points: 97%
     UNF wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 3%
@@ -57,10 +58,10 @@ Lineups:
       GT: Kenya Jones - 16-7 at 1, 16-7 in duals, 17-8 overall
       UNF: Lucia Montano - 14-8 at 1, 14-8 in duals, 14-8 overall
       Predictions:
-        AVG: GT - Jones (91%) def. Montano (9%)
+        AVG: GT - Jones (92%) def. Montano (8%)
         SLM: GT - Jones (91%) def. Montano (9%)
         TRN: GT - Jones (97%) def. Montano (3%)
-        MAS: UNF - Montano (NaN%) def. Jones (NaN%)
+        MAS: GT - Jones (88%) def. Montano (12%)
         UTR: GT - Jones (93%) def. Montano (7%)
         ITA: GT - Jones (50.31) def. Montano (2.10)
     - Position: 2
@@ -70,17 +71,17 @@ Lineups:
         AVG: GT - Flores (78%) def. Gulihur (22%)
         SLM: GT - Flores (80%) def. Gulihur (20%)
         TRN: GT - Flores (84%) def. Gulihur (16%)
-        MAS: UNF - Gulihur (NaN%) def. Flores (NaN%)
+        MAS: GT - Flores (75%) def. Gulihur (25%)
         UTR: GT - Flores (73%) def. Gulihur (27%)
         ITA: GT - Flores (29.63) def. Gulihur (3.92)
     - Position: 3
       GT: Gia Cohen - 3-11 at 3, 8-14 in duals, 8-15 overall
       UNF: Constanza Gorches - 4-3 at 3, 13-9 in duals, 13-9 overall
       Predictions:
-        AVG: GT - Cohen (68%) def. Gorches (32%)
+        AVG: GT - Cohen (69%) def. Gorches (31%)
         SLM: GT - Cohen (81%) def. Gorches (19%)
         TRN: GT - Cohen (79%) def. Gorches (21%)
-        MAS: UNF - Gorches (NaN%) def. Cohen (NaN%)
+        MAS: UNF - Gorches (51%) def. Cohen (49%)
         UTR: GT - Cohen (66%) def. Gorches (34%)
         ITA: GT - Cohen (3.38) def. Gorches (1.63)
     - Position: 4
@@ -90,7 +91,7 @@ Lineups:
         AVG: GT - Hrastar (96%) def. Yardley (4%)
         SLM: GT - Hrastar (97%) def. Yardley (3%)
         TRN: GT - Hrastar (96%) def. Yardley (4%)
-        MAS: UNF - Yardley (NaN%) def. Hrastar (NaN%)
+        MAS: GT - Hrastar (95%) def. Yardley (5%)
         UTR: GT - Hrastar (95%) def. Yardley (5%)
         ITA: GT - Hrastar (5.81) def. Yardley (1.55)
     - Position: 5
@@ -100,17 +101,17 @@ Lineups:
         AVG: GT - Lee (84%) def. Davis (16%)
         SLM: GT - Lee (90%) def. Davis (10%)
         TRN: GT - Lee (86%) def. Davis (14%)
-        MAS: UNF - Davis (NaN%) def. Lee (NaN%)
+        MAS: GT - Lee (70%) def. Davis (30%)
         UTR: GT - Lee (91%) def. Davis (9%)
         ITA: GT - Lee (4.33) def. Davis (3.59)
     - Position: 6
       GT: Mahak Jain - 7-2 at 6, 14-7 in duals, 16-7 overall
       UNF: Valentina Mariotto - 3-1 at 6, 8-7 in duals, 8-7 overall
       Predictions:
-        AVG: GT - Jain (94%) def. Mariotto (6%)
+        AVG: GT - Jain (95%) def. Mariotto (5%)
         SLM: GT - Jain (94%) def. Mariotto (6%)
         TRN: GT - Jain (97%) def. Mariotto (3%)
-        MAS: UNF - Mariotto (NaN%) def. Jain (NaN%)
+        MAS: GT - Jain (92%) def. Mariotto (8%)
         UTR: GT - Jain (95%) def. Mariotto (5%)
         ITA: GT - Jain (1.89) def. Mariotto (1.74)
   Doubles:

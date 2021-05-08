@@ -42,6 +42,7 @@ Columbus, Ohio
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***VANDY*** - Vanderbilt (99%) def. Ball St. (1%)  
 - Slam: ***VANDY*** - #29 Vanderbilt (99%) def. #52 Ball St. (1%)  
 - TRN: ***VANDY*** - #30 Vanderbilt (99%) def. #52 Ball St. (1%)  
 - Massey: ***VANDY*** - #31 Vanderbilt (99%) def. #53 Ball St. (1%)  
@@ -64,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>VANDY</i></b> - Rosca (95%) def. Peeler (5%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Rosca (92%) def. Peeler (8%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Rosca (98%) def. Peeler (2%)</li>  
-<li>Massey: <b><i>BALL</i></b> - Peeler (NaN%) def. Rosca (NaN%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Rosca (95%) def. Peeler (5%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Rosca (96%) def. Peeler (4%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Rosca (14.48) def. Peeler (0.00)</li>  
 </ul>
@@ -75,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>VANDY</i></b> - Kurtz (91%) def. Braun (9%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Kurtz (94%) def. Braun (6%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Kurtz (95%) def. Braun (5%)</li>  
-<li>Massey: <b><i>BALL</i></b> - Braun (NaN%) def. Kurtz (NaN%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Kurtz (79%) def. Braun (21%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Kurtz (93%) def. Braun (7%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Kurtz (3.05) def. Braun (1.69)</li>  
 </ul>
@@ -86,7 +87,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>VANDY</i></b> - Lee (91%) def. Polishchuk (9%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Lee (92%) def. Polishchuk (8%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Lee (95%) def. Polishchuk (5%)</li>  
-<li>Massey: <b><i>BALL</i></b> - Polishchuk (NaN%) def. Lee (NaN%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Lee (82%) def. Polishchuk (18%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Lee (93%) def. Polishchuk (7%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Lee (2.64) def. Polishchuk (1.84)</li>  
 </ul>
@@ -97,7 +98,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>VANDY</i></b> - Ross (95%) def. Herrington (5%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Ross (98%) def. Herrington (2%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Ross (98%) def. Herrington (2%)</li>  
-<li>Massey: <b><i>BALL</i></b> - Herrington (NaN%) def. Ross (NaN%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Ross (90%) def. Herrington (10%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Ross (96%) def. Herrington (4%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Ross (2.20) def. Herrington (1.96)</li>  
 </ul>
@@ -108,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>VANDY</i></b> - Cruz (96%) def. Kaplan (4%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Cruz (97%) def. Kaplan (3%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Cruz (98%) def. Kaplan (2%)</li>  
-<li>Massey: <b><i>BALL</i></b> - Kaplan (NaN%) def. Cruz (NaN%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Cruz (94%) def. Kaplan (6%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Cruz (96%) def. Kaplan (4%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Cruz (2.13) def. Kaplan (1.71)</li>  
 </ul>
@@ -119,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>VANDY</i></b> - Staff (96%) def. Lukacs (4%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Staff (99%) def. Lukacs (1%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Staff (99%) def. Lukacs (1%)</li>  
-<li>Massey: <b><i>BALL</i></b> - Lukacs (NaN%) def. Staff (NaN%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Staff (89%) def. Lukacs (11%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Staff (97%) def. Lukacs (3%)</li>  
 <li>ITA: <b><i>BALL</i></b> - Lukacs (2.68) def. Staff (1.75)</li>  
 </ul>

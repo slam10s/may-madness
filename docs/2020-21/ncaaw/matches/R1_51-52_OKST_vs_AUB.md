@@ -44,6 +44,7 @@ Tallahassee, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***AUB*** - Auburn (65%) def. Oklahoma St. (35%)  
 - Slam: ***AUB*** - #24 Auburn (75%) def. #37 Oklahoma St. (25%)  
 - TRN: ***AUB*** - #23 Auburn (82%) def. #37 Oklahoma St. (18%)  
 - Massey: ***AUB*** - #25 Auburn (72%) def. #36 Oklahoma St. (28%)  
@@ -67,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKST</i></b> - Thamchaiwat (80%) def. Ovunc (20%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Thamchaiwat (75%) def. Ovunc (25%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Thamchaiwat (83%) def. Ovunc (17%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Thamchaiwat (NaN%) def. Ovunc (NaN%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Thamchaiwat (77%) def. Ovunc (23%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Thamchaiwat (91%) def. Ovunc (9%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Thamchaiwat (21.36) def. Ovunc (9.63)</li>  
 </ul>
@@ -78,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>AUB</i></b> - Ansari (57%) def. Miyamoto (43%)</li>  
 <li>Slam: <b><i>AUB</i></b> - Ansari (51%) def. Miyamoto (49%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Miyamoto (52%) def. Ansari (48%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Miyamoto (NaN%) def. Ansari (NaN%)</li>  
+<li>Massey: <b><i>AUB</i></b> - Ansari (68%) def. Miyamoto (32%)</li>  
 <li>UTR: <b><i>AUB</i></b> - Ansari (62%) def. Miyamoto (38%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Ansari (7.96) def. Miyamoto (4.02)</li>  
 </ul>
@@ -89,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKST</i></b> - Wolfberg (68%) def. Chen (32%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Wolfberg (65%) def. Chen (35%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Wolfberg (67%) def. Chen (33%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Wolfberg (NaN%) def. Chen (NaN%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Wolfberg (63%) def. Chen (37%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Wolfberg (81%) def. Chen (19%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Wolfberg (10.37) def. Chen (3.54)</li>  
 </ul>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>AUB</i></b> - Axon (71%) def. Detkovskaya (29%)</li>  
 <li>Slam: <b><i>AUB</i></b> - Axon (58%) def. Detkovskaya (42%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Axon (65%) def. Detkovskaya (35%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Detkovskaya (NaN%) def. Axon (NaN%)</li>  
+<li>Massey: <b><i>AUB</i></b> - Axon (74%) def. Detkovskaya (26%)</li>  
 <li>UTR: <b><i>AUB</i></b> - Axon (86%) def. Detkovskaya (14%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Detkovskaya (2.79) def. Axon (2.43)</li>  
 </ul>
@@ -111,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKST</i></b> - Stara (61%) def. Flach (39%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Stara (66%) def. Flach (34%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Stara (62%) def. Flach (38%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Stara (NaN%) def. Flach (NaN%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Stara (51%) def. Flach (49%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Stara (67%) def. Flach (33%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Flach (1.50) def. Stara (0.00)</li>  
 </ul>
@@ -122,7 +123,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Astakhova (58%) def. Medvedeva (42%)</li>  
-<li>Massey: <b><i>OKST</i></b> - Medvedeva (NaN%) def. Astakhova (NaN%)</li>  
+<li>Massey: <b><i>OKST</i></b> - Medvedeva (60%) def. Astakhova (40%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Medvedeva (82%) def. Astakhova (18%)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -45,6 +45,7 @@ Orlando, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***MIA*** - Miami (FL) (82%) def. FIU (18%)  
 - Slam: ***MIA*** - #22 Miami (FL) (74%) def. #30 FIU (26%)  
 - TRN: ***MIA*** - #21 Miami (FL) (63%) def. #29 FIU (37%)  
 - Massey: ***MIA*** - #17 Miami (FL) (92%) def. #37 FIU (8%)  
@@ -68,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Perez-Somarriba (95%) def. Umarova (5%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Perez-Somarriba (95%) def. Umarova (5%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Perez-Somarriba (97%) def. Umarova (3%)</li>  
-<li>Massey: <b><i>FIU</i></b> - Umarova (NaN%) def. Perez-Somarriba (NaN%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (93%) def. Umarova (7%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Perez-Somarriba (95%) def. Umarova (5%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Perez-Somarriba (69.45) def. Umarova (3.07)</li>  
 </ul>
@@ -79,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Pfennig (82%) def. Alcaide (18%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Pfennig (83%) def. Alcaide (17%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Pfennig (87%) def. Alcaide (13%)</li>  
-<li>Massey: <b><i>FIU</i></b> - Alcaide (NaN%) def. Pfennig (NaN%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Pfennig (70%) def. Alcaide (30%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Pfennig (88%) def. Alcaide (12%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Pfennig (32.52) def. Alcaide (6.23)</li>  
 </ul>
@@ -90,7 +91,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Achong (54%) def. Skrobonja (46%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Achong (67%) def. Skrobonja (33%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Achong (58%) def. Skrobonja (42%)</li>  
-<li>Massey: <b><i>FIU</i></b> - Skrobonja (NaN%) def. Achong (NaN%)</li>  
+<li>Massey: <b><i>FIU</i></b> - Skrobonja (58%) def. Achong (42%)</li>  
 <li>ITA: <b><i>FIU</i></b> - Skrobonja (2.97) def. Achong (1.49)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Urrutia (65%) def. Akbas (35%)</li>  
 <li>Slam: <b><i>FIU</i></b> - Akbas (52%) def. Urrutia (48%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Urrutia (63%) def. Akbas (37%)</li>  
-<li>Massey: <b><i>FIU</i></b> - Akbas (NaN%) def. Urrutia (NaN%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Urrutia (68%) def. Akbas (32%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Urrutia (82%) def. Akbas (18%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Urrutia (1.96) def. Akbas (1.61)</li>  
 </ul>
@@ -111,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Khodan (65%) def. Velcea (35%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Khodan (79%) def. Velcea (21%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Khodan (83%) def. Velcea (17%)</li>  
-<li>Massey: <b><i>FIU</i></b> - Velcea (NaN%) def. Khodan (NaN%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Khodan (78%) def. Velcea (22%)</li>  
 <li>UTR: <b><i>FIU</i></b> - Velcea (82%) def. Khodan (18%)</li>  
 <li>ITA: <b><i>FIU</i></b> - Velcea (3.05) def. Khodan (1.90)</li>  
 </ul>
@@ -122,7 +123,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Tahan (96%) def. Miletic (4%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Tahan (96%) def. Miletic (4%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Tahan (98%) def. Miletic (2%)</li>  
-<li>Massey: <b><i>FIU</i></b> - Miletic (NaN%) def. Tahan (NaN%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Tahan (95%) def. Miletic (5%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Tahan (95%) def. Miletic (5%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Tahan (2.26) def. Miletic (0.00)</li>  
 </ul>

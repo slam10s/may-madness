@@ -43,6 +43,7 @@ Los Angeles, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***PEPP*** - Pepperdine (95%) def. UC Santa Barbara (5%)  
 - Slam: ***PEPP*** - #34 Pepperdine (95%) def. #51 UC Santa Barbara (5%)  
 - TRN: ***PEPP*** - #30 Pepperdine (98%) def. #51 UC Santa Barbara (2%)  
 - Massey: ***PEPP*** - #22 Pepperdine (93%) def. #52 UC Santa Barbara (7%)  
@@ -66,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCSB</i></b> - Guillin (78%) def. Oetzbach (22%)</li>  
 <li>Slam: <b><i>UCSB</i></b> - Guillin (81%) def. Oetzbach (19%)</li>  
 <li>TRN: <b><i>UCSB</i></b> - Guillin (83%) def. Oetzbach (17%)</li>  
-<li>Massey: <b><i>UCSB</i></b> - Guillin (NaN%) def. Oetzbach (NaN%)</li>  
+<li>Massey: <b><i>UCSB</i></b> - Guillin (76%) def. Oetzbach (24%)</li>  
 <li>UTR: <b><i>UCSB</i></b> - Guillin (75%) def. Oetzbach (25%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Oetzbach (5.20) def. Guillin (3.96)</li>  
 </ul>
@@ -77,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Ouden (95%) def. Tsorotiotis (5%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Ouden (90%) def. Tsorotiotis (10%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Ouden (97%) def. Tsorotiotis (3%)</li>  
-<li>Massey: <b><i>UCSB</i></b> - Tsorotiotis (NaN%) def. Ouden (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Ouden (96%) def. Tsorotiotis (4%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Ouden (96%) def. Tsorotiotis (4%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Ouden (2.60) def. Tsorotiotis (1.60)</li>  
 </ul>
@@ -88,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - DeJonge (73%) def. Krustev (27%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - DeJonge (75%) def. Krustev (25%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - DeJonge (75%) def. Krustev (25%)</li>  
-<li>Massey: <b><i>UCSB</i></b> - Krustev (NaN%) def. DeJonge (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - DeJonge (63%) def. Krustev (37%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - DeJonge (81%) def. Krustev (19%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - DeJonge (3.53) def. Krustev (2.71)</li>  
 </ul>
@@ -99,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Zeitvogel (83%) def. Masjuan (17%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Zeitvogel (82%) def. Masjuan (18%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zeitvogel (82%) def. Masjuan (18%)</li>  
-<li>Massey: <b><i>UCSB</i></b> - Masjuan (NaN%) def. Zeitvogel (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Zeitvogel (84%) def. Masjuan (16%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Zeitvogel (85%) def. Masjuan (15%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zeitvogel (4.17) def. Masjuan (2.35)</li>  
 </ul>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Summaria (79%) def. Rotheram (21%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Summaria (82%) def. Rotheram (18%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Summaria (81%) def. Rotheram (19%)</li>  
-<li>Massey: <b><i>UCSB</i></b> - Rotheram (NaN%) def. Summaria (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Summaria (77%) def. Rotheram (23%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Summaria (76%) def. Rotheram (24%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Rotheram (1.83) def. Summaria (1.59)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Fellin (83%) def. Brady (17%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Fellin (85%) def. Brady (15%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fellin (87%) def. Brady (13%)</li>  
-<li>Massey: <b><i>UCSB</i></b> - Brady (NaN%) def. Fellin (NaN%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Fellin (72%) def. Brady (28%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Fellin (91%) def. Brady (9%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Brady (2.64) def. Fellin (2.12)</li>  
 </ul>

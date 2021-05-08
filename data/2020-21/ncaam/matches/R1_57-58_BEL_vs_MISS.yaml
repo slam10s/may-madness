@@ -37,6 +37,7 @@ Visitor:
     MAS: 57 (5.77)
     UTR: 57 (70.99)
 Predictions:
+  AVG: MISS - Ole Miss (99%) def. Belmont (1%)
   SLM: "MISS - #18 Ole Miss (99%) def. #57 Belmont (1%)"
   TRN: "MISS - #18 Ole Miss (99%) def. #58 Belmont (1%)"
   MAS: "MISS - #21 Ole Miss (99%) def. #57 Belmont (1%)"
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "MISS - #1 Ole Miss def. #4 Belmont"
 Lineups:
   Predictions:
-    Average EWPs for MISS: 99%,99%,NaN%,100%
-    Average EWPs for BEL: 1%,1%,NaN%,0%
+    Average EWPs for MISS: 99%,99%,99%,100%
+    Average EWPs for BEL: 1%,1%,1%,0%
     MISS wins 4 or more Singles points: 100%
     BEL wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -58,10 +59,10 @@ Lineups:
       MISS: Tim Sandkaulen - 1-7 at 1, 8-12 in duals, 13-16 overall
       BEL: Marko Ilic - 13-4 at 1, 13-4 in duals, 13-4 overall
       Predictions:
-        AVG: MISS - Sandkaulen (85%) def. Ilic (15%)
+        AVG: MISS - Sandkaulen (86%) def. Ilic (14%)
         SLM: MISS - Sandkaulen (79%) def. Ilic (21%)
         TRN: MISS - Sandkaulen (91%) def. Ilic (9%)
-        MAS: BEL - Ilic (NaN%) def. Sandkaulen (NaN%)
+        MAS: MISS - Sandkaulen (80%) def. Ilic (20%)
         UTR: MISS - Sandkaulen (93%) def. Ilic (7%)
         ITA: MISS - Sandkaulen (22.95) def. Ilic (2.51)
     - Position: 2
@@ -71,17 +72,17 @@ Lineups:
         AVG: MISS - Reynolds (96%) def. Toledo (4%)
         SLM: MISS - Reynolds (97%) def. Toledo (3%)
         TRN: MISS - Reynolds (98%) def. Toledo (2%)
-        MAS: BEL - Toledo (NaN%) def. Reynolds (NaN%)
+        MAS: MISS - Reynolds (93%) def. Toledo (7%)
         UTR: MISS - Reynolds (97%) def. Toledo (3%)
         ITA: MISS - Reynolds (36.17) def. Toledo (2.71)
     - Position: 3
       MISS: Nikola Slavic - 12-7 at 3, 13-7 in duals, 13-7 overall
       BEL: Tomas Luis - 7-5 at 3, 10-7 in duals, 10-7 overall
       Predictions:
-        AVG: MISS - Slavic (96%) def. Luis (4%)
+        AVG: MISS - Slavic (97%) def. Luis (3%)
         SLM: MISS - Slavic (99%) def. Luis (1%)
         TRN: MISS - Slavic (99%) def. Luis (1%)
-        MAS: BEL - Luis (NaN%) def. Slavic (NaN%)
+        MAS: MISS - Slavic (96%) def. Luis (4%)
         UTR: MISS - Slavic (92%) def. Luis (8%)
         ITA: MISS - Slavic (24.24) def. Luis (1.54)
     - Position: 4
@@ -91,27 +92,27 @@ Lineups:
         AVG: MISS - Lithen (97%) def. Castro (3%)
         SLM: MISS - Lithen (98%) def. Castro (2%)
         TRN: MISS - Lithen (99%) def. Castro (1%)
-        MAS: BEL - Castro (NaN%) def. Lithen (NaN%)
+        MAS: MISS - Lithen (95%) def. Castro (5%)
         UTR: MISS - Lithen (96%) def. Castro (4%)
         ITA: MISS - Lithen (2.40) def. Castro (1.99)
     - Position: 5
       MISS: Simon Junk - 2-6 at 5, 9-11 in duals, 9-14 overall
       BEL: Taisei Miyamoto - 5-3 at 5, 8-7 in duals, 8-7 overall
       Predictions:
-        AVG: MISS - Junk (92%) def. Miyamoto (8%)
+        AVG: MISS - Junk (93%) def. Miyamoto (7%)
         SLM: MISS - Junk (97%) def. Miyamoto (3%)
         TRN: MISS - Junk (98%) def. Miyamoto (2%)
-        MAS: BEL - Miyamoto (NaN%) def. Junk (NaN%)
+        MAS: MISS - Junk (80%) def. Miyamoto (20%)
         UTR: MISS - Junk (96%) def. Miyamoto (4%)
         ITA: MISS - Junk (1.99) def. Miyamoto (1.70)
     - Position: 6
       MISS: Lukas Engelhardt - 3-4 at 6, 3-7 in duals, 3-7 overall
       BEL: Alfred Wallin - 9-4 at 6, 11-4 in duals, 11-4 overall
       Predictions:
-        AVG: MISS - Engelhardt (93%) def. Wallin (7%)
+        AVG: MISS - Engelhardt (94%) def. Wallin (6%)
         SLM: MISS - Engelhardt (98%) def. Wallin (2%)
         TRN: MISS - Engelhardt (98%) def. Wallin (2%)
-        MAS: BEL - Wallin (NaN%) def. Engelhardt (NaN%)
+        MAS: MISS - Engelhardt (86%) def. Wallin (14%)
         UTR: MISS - Engelhardt (94%) def. Wallin (6%)
         ITA: BEL - Wallin (2.75) def. Engelhardt (0.00)
   Doubles:

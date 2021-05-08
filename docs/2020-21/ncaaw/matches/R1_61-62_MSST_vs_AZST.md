@@ -44,6 +44,7 @@ Austin, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***AZST*** - Arizona St. (78%) def. Mississippi St. (22%)  
 - Slam: ***AZST*** - #31 Arizona St. (71%) def. #42 Mississippi St. (29%)  
 - TRN: ***AZST*** - #33 Arizona St. (64%) def. #39 Mississippi St. (36%)  
 - Massey: ***AZST*** - #24 Arizona St. (95%) def. #44 Mississippi St. (5%)  
@@ -67,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MSST</i></b> - Antonaki (54%) def. Hattingh (46%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Hattingh (65%) def. Antonaki (35%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Antonaki (61%) def. Hattingh (39%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Antonaki (NaN%) def. Hattingh (NaN%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Antonaki (63%) def. Hattingh (37%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Antonaki (59%) def. Hattingh (41%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Antonaki (17.81) def. Hattingh (6.86)</li>  
 </ul>
@@ -78,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>AZST</i></b> - Hampton (55%) def. Adaloglou (45%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Hampton (62%) def. Adaloglou (38%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Hampton (53%) def. Adaloglou (47%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Adaloglou (NaN%) def. Hampton (NaN%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Hampton (58%) def. Adaloglou (42%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Adaloglou (54%) def. Hampton (46%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Adaloglou (3.24) def. Hampton (1.50)</li>  
 </ul>
@@ -89,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>AZST</i></b> - John-Baptiste (74%) def. Racine (26%)</li>  
 <li>Slam: <b><i>AZST</i></b> - John-Baptiste (66%) def. Racine (34%)</li>  
 <li>TRN: <b><i>AZST</i></b> - John-Baptiste (76%) def. Racine (24%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Racine (NaN%) def. John-Baptiste (NaN%)</li>  
+<li>Massey: <b><i>AZST</i></b> - John-Baptiste (72%) def. Racine (28%)</li>  
 <li>UTR: <b><i>AZST</i></b> - John-Baptiste (81%) def. Racine (19%)</li>  
 <li>ITA: <b><i>AZST</i></b> - John-Baptiste (2.78) def. Racine (2.04)</li>  
 </ul>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>AZST</i></b> - Morlet (73%) def. Mikhailuk (27%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Morlet (68%) def. Mikhailuk (32%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Morlet (67%) def. Mikhailuk (33%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Mikhailuk (NaN%) def. Morlet (NaN%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Morlet (75%) def. Mikhailuk (25%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Morlet (82%) def. Mikhailuk (18%)</li>  
 <li>ITA: <b><i>AZST</i></b> - Morlet (2.20) def. Mikhailuk (0.00)</li>  
 </ul>
@@ -111,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>AZST</i></b> - Argyrokastriti (78%) def. Poling (22%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Argyrokastriti (69%) def. Poling (31%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Argyrokastriti (76%) def. Poling (24%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Poling (NaN%) def. Argyrokastriti (NaN%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Argyrokastriti (81%) def. Poling (19%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Argyrokastriti (85%) def. Poling (15%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Poling (2.33) def. Argyrokastriti (2.12)</li>  
 </ul>
@@ -122,7 +123,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>AZST</i></b> - Turkovic (52%) def. Cirotte (48%)</li>  
 <li>Slam: <b><i>MSST</i></b> - Cirotte (52%) def. Turkovic (48%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Cirotte (55%) def. Turkovic (45%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Cirotte (NaN%) def. Turkovic (NaN%)</li>  
+<li>Massey: <b><i>AZST</i></b> - Turkovic (59%) def. Cirotte (41%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Turkovic (56%) def. Cirotte (44%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Cirotte (2.24) def. Turkovic (1.94)</li>  
 </ul>

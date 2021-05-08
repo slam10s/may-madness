@@ -38,6 +38,7 @@ Visitor:
   Polls:
     Coach: 32
 Predictions:
+  AVG: AZST - Arizona St. (65%) def. Wichita St. (35%)
   SLM: "AZST - #25 Arizona St. (70%) def. #39 Wichita St. (30%)"
   TRN: "AZST - #25 Arizona St. (70%) def. #37 Wichita St. (30%)"
   MAS: "AZST - #24 Arizona St. (63%) def. #41 Wichita St. (37%)"
@@ -49,8 +50,8 @@ Predictions:
   Seeding: "AZST - #2 Arizona St. def. #3 Wichita St."
 Lineups:
   Predictions:
-    Average EWPs for AZST: 70%,70%,NaN%,56%
-    Average EWPs for WICH: 30%,30%,NaN%,44%
+    Average EWPs for AZST: 70%,70%,63%,56%
+    Average EWPs for WICH: 30%,30%,37%,44%
     AZST wins 4 or more Singles points: 37%
     WICH wins 4 or more Singles points: 28%
     Winner decided by the Doubles point: 35%
@@ -62,7 +63,7 @@ Lineups:
         AVG: AZST - Ponwtih (55%) def. Dellien (45%)
         SLM: AZST - Ponwtih (68%) def. Dellien (32%)
         TRN: AZST - Ponwtih (59%) def. Dellien (41%)
-        MAS: WICH - Dellien (NaN%) def. Ponwtih (NaN%)
+        MAS: WICH - Dellien (51%) def. Ponwtih (49%)
         UTR: WICH - Dellien (56%) def. Ponwtih (44%)
         ITA: WICH - Dellien (19.99) def. Ponwtih (8.02)
     - Position: 2
@@ -72,7 +73,7 @@ Lineups:
         AVG: WICH - Frosa (83%) def. Rakotomalala (17%)
         SLM: WICH - Frosa (100%) def. Rakotomalala (0%)
         TRN: WICH - Frosa (100%) def. Rakotomalala (0%)
-        MAS: WICH - Frosa (NaN%) def. Rakotomalala (NaN%)
+        MAS: AZST - Rakotomalala (67%) def. Frosa (33%)
         UTR: WICH - Frosa (100%) def. Rakotomalala (0%)
         ITA: WICH - Frosa (2.75) def. Rakotomalala (0.00)
     - Position: 3
@@ -82,7 +83,7 @@ Lineups:
         AVG: AZST - Ruehl (85%) def. Latinovic (15%)
         SLM: AZST - Ruehl (80%) def. Latinovic (20%)
         TRN: AZST - Ruehl (84%) def. Latinovic (16%)
-        MAS: WICH - Latinovic (NaN%) def. Ruehl (NaN%)
+        MAS: AZST - Ruehl (87%) def. Latinovic (13%)
         UTR: AZST - Ruehl (88%) def. Latinovic (12%)
         ITA: AZST - Ruehl (2.65) def. Latinovic (1.52)
     - Position: 4
@@ -92,7 +93,7 @@ Lineups:
         AVG: WICH - Acevedo (64%) def. Stoupe (36%)
         SLM: WICH - Acevedo (63%) def. Stoupe (37%)
         TRN: WICH - Acevedo (62%) def. Stoupe (38%)
-        MAS: WICH - Acevedo (NaN%) def. Stoupe (NaN%)
+        MAS: WICH - Acevedo (71%) def. Stoupe (29%)
         UTR: WICH - Acevedo (64%) def. Stoupe (36%)
         ITA: WICH - Acevedo (1.90) def. Stoupe (1.41)
     - Position: 5
@@ -102,7 +103,7 @@ Lineups:
         AVG: AZST - McKennon (61%) def. Ovil (39%)
         SLM: WICH - Ovil (56%) def. McKennon (44%)
         TRN: AZST - McKennon (55%) def. Ovil (45%)
-        MAS: WICH - Ovil (NaN%) def. McKennon (NaN%)
+        MAS: AZST - McKennon (62%) def. Ovil (38%)
         UTR: AZST - McKennon (85%) def. Ovil (15%)
         ITA: WICH - Ovil (1.40) def. McKennon (0.00)
     - Position: 6
@@ -112,7 +113,7 @@ Lineups:
         AVG: AZST - Lerby (58%) def. Mrsic (42%)
         SLM: AZST - Lerby (53%) def. Mrsic (47%)
         TRN: AZST - Lerby (56%) def. Mrsic (44%)
-        MAS: WICH - Mrsic (NaN%) def. Lerby (NaN%)
+        MAS: AZST - Lerby (56%) def. Mrsic (44%)
         UTR: AZST - Lerby (67%) def. Mrsic (33%)
         ITA: WICH - Mrsic (1.93) def. Lerby (1.82)
   Doubles:

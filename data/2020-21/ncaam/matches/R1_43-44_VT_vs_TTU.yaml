@@ -38,6 +38,7 @@ Visitor:
   Polls:
     Coach: 34
 Predictions:
+  AVG: VT - Virginia Tech (54%) def. Texas Tech (46%)
   SLM: "VT - #30 Virginia Tech (57%) def. #35 Texas Tech (43%)"
   TRN: "VT - #29 Virginia Tech (52%) def. #31 Texas Tech (48%)"
   MAS: "TTU - #28 Texas Tech (59%) def. #33 Virginia Tech (41%)"
@@ -49,8 +50,8 @@ Predictions:
   Seeding: "TTU - #2 Texas Tech def. #3 Virginia Tech"
 Lineups:
   Predictions:
-    Average EWPs for TTU: 44%,49%,NaN%,31%
-    Average EWPs for VT: 56%,51%,NaN%,69%
+    Average EWPs for TTU: 44%,49%,59%,31%
+    Average EWPs for VT: 56%,51%,41%,69%
     TTU wins 4 or more Singles points: 21%
     VT wins 4 or more Singles points: 49%
     Winner decided by the Doubles point: 30%
@@ -62,7 +63,7 @@ Lineups:
         AVG: VT - Harper (75%) def. Wynn (25%)
         SLM: VT - Harper (78%) def. Wynn (22%)
         TRN: VT - Harper (80%) def. Wynn (20%)
-        MAS: VT - Harper (NaN%) def. Wynn (NaN%)
+        MAS: VT - Harper (64%) def. Wynn (36%)
         UTR: VT - Harper (81%) def. Wynn (19%)
         ITA: VT - Harper (7.69) def. Wynn (1.67)
     - Position: 2
@@ -72,7 +73,7 @@ Lineups:
         AVG: TTU - Valiev (53%) def. Ribeiro (47%)
         SLM: VT - Ribeiro (59%) def. Valiev (41%)
         TRN: VT - Ribeiro (58%) def. Valiev (42%)
-        MAS: VT - Ribeiro (NaN%) def. Valiev (NaN%)
+        MAS: TTU - Valiev (55%) def. Ribeiro (45%)
         UTR: TTU - Valiev (75%) def. Ribeiro (25%)
         ITA: VT - Ribeiro (9.63) def. Valiev (1.70)
     - Position: 3
@@ -82,7 +83,7 @@ Lineups:
         AVG: VT - Ross (70%) def. Ribero (30%)
         SLM: VT - Ross (78%) def. Ribero (22%)
         TRN: VT - Ross (72%) def. Ribero (28%)
-        MAS: VT - Ross (NaN%) def. Ribero (NaN%)
+        MAS: VT - Ross (64%) def. Ribero (36%)
         UTR: VT - Ross (71%) def. Ribero (29%)
         ITA: VT - Ross (6.68) def. Ribero (1.57)
     - Position: 4
@@ -92,7 +93,7 @@ Lineups:
         AVG: TTU - Collier (59%) def. Donato (41%)
         SLM: VT - Donato (59%) def. Collier (41%)
         TRN: TTU - Collier (50%) def. Donato (50%)
-        MAS: VT - Donato (NaN%) def. Collier (NaN%)
+        MAS: TTU - Collier (69%) def. Donato (31%)
         UTR: TTU - Collier (76%) def. Donato (24%)
         ITA: VT - Donato (2.08) def. Collier (1.70)
     - Position: 5
@@ -102,7 +103,7 @@ Lineups:
         AVG: VT - Maia (61%) def. Azoides (39%)
         SLM: VT - Maia (68%) def. Azoides (32%)
         TRN: VT - Maia (71%) def. Azoides (29%)
-        MAS: VT - Maia (NaN%) def. Azoides (NaN%)
+        MAS: VT - Maia (68%) def. Azoides (32%)
         UTR: TTU - Azoides (62%) def. Maia (38%)
         ITA: VT - Maia (2.60) def. Azoides (1.70)
     - Position: 6
@@ -112,7 +113,7 @@ Lineups:
         AVG: VT - Fishback (52%) def. Arevalo (48%)
         SLM: VT - Fishback (54%) def. Arevalo (46%)
         TRN: VT - Fishback (61%) def. Arevalo (39%)
-        MAS: VT - Fishback (NaN%) def. Arevalo (NaN%)
+        MAS: VT - Fishback (55%) def. Arevalo (45%)
         UTR: TTU - Arevalo (60%) def. Fishback (40%)
         ITA: VT - Fishback (2.03) def. Arevalo (1.77)
   Doubles:

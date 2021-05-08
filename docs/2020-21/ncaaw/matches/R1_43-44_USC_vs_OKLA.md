@@ -44,10 +44,11 @@ Gainesville, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***OKLA*** - Oklahoma (65%) def. Southern California (35%)  
 - Slam: ***OKLA*** - #13 Oklahoma (87%) def. #35 Southern California (13%)  
 - TRN: ***OKLA*** - #22 Oklahoma (88%) def. #41 Southern California (12%)  
 - Massey: ***OKLA*** - #12 Oklahoma (77%) def. #26 Southern California (23%)  
-- Lineup: ***USC*** - Southern California (84%) def. Oklahoma (16%)  
+- Lineup: ***USC*** - Southern California (89%) def. Oklahoma (11%)  
 - UTR: ***USC*** - #6 Southern California (+1.96) def. #14 Oklahoma (-1.96)  
 - ITA: ***OKLA*** - #23 Oklahoma def. #35 Southern California  
 - USTA Poll: ***OKLA*** - #22 Oklahoma def. Southern California  
@@ -67,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Ewing (66%) def. Corley (34%)</li>  
 <li>Slam: <b><i>USC</i></b> - Ewing (61%) def. Corley (39%)</li>  
 <li>TRN: <b><i>USC</i></b> - Ewing (85%) def. Corley (15%)</li>  
-<li>Massey: <b><i>USC</i></b> - Ewing (NaN%) def. Corley (NaN%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Corley (59%) def. Ewing (41%)</li>  
 <li>UTR: <b><i>USC</i></b> - Ewing (80%) def. Corley (20%)</li>  
 <li>ITA: <b><i>USC</i></b> - Ewing (14.56) def. Corley (9.20)</li>  
 </ul>
@@ -78,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Cayetano (55%) def. Guzman (45%)</li>  
 <li>Slam: <b><i>USC</i></b> - Cayetano (62%) def. Guzman (38%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cayetano (60%) def. Guzman (40%)</li>  
-<li>Massey: <b><i>USC</i></b> - Cayetano (NaN%) def. Guzman (NaN%)</li>  
+<li>Massey: <b><i>OKLA</i></b> - Guzman (64%) def. Cayetano (36%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cayetano (66%) def. Guzman (34%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Guzman (9.21) def. Cayetano (5.85)</li>  
 </ul>
@@ -86,10 +87,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Angela Kulikov (USC) - 0-0 at #3, 0-1 in duals, 0-1 overall<br>Ivana Corley (OKLA) - 11-5 at #3, 13-6 in duals, 20-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OKLA</i></b> - Corley (97%) def. Kulikov (3%)</li>  
-<li>Slam: <b><i>OKLA</i></b> - Corley (100%) def. Kulikov (0%)</li>  
-<li>TRN: <b><i>OKLA</i></b> - Corley (100%) def. Kulikov (0%)</li>  
-<li>Massey: <b><i>OKLA</i></b> - Corley (90%) def. Kulikov (10%)</li>  
+<li>Composite: <b><i>OKLA</i></b> - Corley (74%) def. Kulikov (26%)</li>  
+<li>Slam: <b><i>OKLA</i></b> - Corley (99%) def. Kulikov (1%)</li>  
+<li>TRN: <b><i>OKLA</i></b> - Corley (99%) def. Kulikov (1%)</li>  
+<li>Massey: <b><i>USC</i></b> - Kulikov (99%) def. Corley (1%)</li>  
 <li>UTR: <b><i>OKLA</i></b> - Corley (99%) def. Kulikov (1%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Corley (6.90) def. Kulikov (0.00)</li>  
 </ul>
@@ -100,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Cheong (75%) def. Capurro (25%)</li>  
 <li>Slam: <b><i>USC</i></b> - Cheong (81%) def. Capurro (19%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cheong (80%) def. Capurro (20%)</li>  
-<li>Massey: <b><i>USC</i></b> - Cheong (NaN%) def. Capurro (NaN%)</li>  
+<li>Massey: <b><i>USC</i></b> - Cheong (61%) def. Capurro (39%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cheong (81%) def. Capurro (19%)</li>  
 <li>ITA: <b><i>USC</i></b> - Cheong (4.19) def. Capurro (1.84)</li>  
 </ul>
@@ -111,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Willson (70%) def. Motosono (30%)</li>  
 <li>Slam: <b><i>USC</i></b> - Willson (73%) def. Motosono (27%)</li>  
 <li>TRN: <b><i>USC</i></b> - Willson (71%) def. Motosono (29%)</li>  
-<li>Massey: <b><i>USC</i></b> - Willson (NaN%) def. Motosono (NaN%)</li>  
+<li>Massey: <b><i>USC</i></b> - Willson (61%) def. Motosono (39%)</li>  
 <li>UTR: <b><i>USC</i></b> - Willson (78%) def. Motosono (22%)</li>  
 <li>ITA: <b><i>USC</i></b> - Willson (1.74) def. Motosono (1.65)</li>  
 </ul>
@@ -119,10 +120,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Summer Dvorak (USC) - 0-0 at #6, 12-7 in duals, 12-7 overall<br>Camila Romero (OKLA) - 1-1 at #6, 1-1 in duals, 1-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>USC</i></b> - Dvorak (97%) def. Romero (3%)</li>  
+<li>Composite: <b><i>USC</i></b> - Dvorak (99%) def. Romero (1%)</li>  
 <li>Slam: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
 <li>TRN: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
-<li>Massey: <b><i>USC</i></b> - Dvorak (89%) def. Romero (11%)</li>  
+<li>Massey: <b><i>USC</i></b> - Dvorak (99%) def. Romero (1%)</li>  
 <li>UTR: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dvorak (1.85) def. Romero (0.00)</li>  
 </ul>
@@ -149,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Oklahoma should win 4 or more singles matches _11%_ of the time.  
-- Southern California should win 4 or more singles matches _60%_ of the time.  
-- The winner of the doubles point will decide the match the other _29%_ of the time.  
-- If Oklahoma wins the doubles point, their chances of winning the dual improve to _40%_.  
-- If Southern California wins the doubles point, their chances of winning the dual improve to _89%_.  
+- Oklahoma should win 4 or more singles matches _8%_ of the time.  
+- Southern California should win 4 or more singles matches _67%_ of the time.  
+- The winner of the doubles point will decide the match the other _25%_ of the time.  
+- If Oklahoma wins the doubles point, their chances of winning the dual improve to _33%_.  
+- If Southern California wins the doubles point, their chances of winning the dual improve to _92%_.  
   
 ------
 

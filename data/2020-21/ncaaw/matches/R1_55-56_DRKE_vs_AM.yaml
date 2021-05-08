@@ -37,6 +37,7 @@ Visitor:
     MAS: 59 (4.59)
     UTR: 59 (50.87)
 Predictions:
+  AVG: A&M - Texas A&M (99%) def. Drake (1%)
   SLM: "A&M - #15 Texas A&M (99%) def. #58 Drake (1%)"
   TRN: "A&M - #14 Texas A&M (99%) def. #58 Drake (1%)"
   MAS: "A&M - #21 Texas A&M (99%) def. #59 Drake (1%)"
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "A&M - #1 Texas A&M def. #4 Drake"
 Lineups:
   Predictions:
-    Average EWPs for A&M: 99%,99%,NaN%,100%
-    Average EWPs for DRKE: 1%,1%,NaN%,0%
+    Average EWPs for A&M: 99%,99%,99%,100%
+    Average EWPs for DRKE: 1%,1%,1%,0%
     A&M wins 4 or more Singles points: 100%
     DRKE wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,7 +62,7 @@ Lineups:
         AVG: A&M - Makarova (98%) def. Petushkova (2%)
         SLM: A&M - Makarova (97%) def. Petushkova (3%)
         TRN: A&M - Makarova (99%) def. Petushkova (1%)
-        MAS: DRKE - Petushkova (NaN%) def. Makarova (NaN%)
+        MAS: A&M - Makarova (98%) def. Petushkova (2%)
         UTR: A&M - Makarova (98%) def. Petushkova (2%)
         ITA: A&M - Makarova (21.86) def. Petushkova (1.55)
     - Position: 2
@@ -71,7 +72,7 @@ Lineups:
         AVG: A&M - Goldsmith (98%) def. Walczak (2%)
         SLM: A&M - Goldsmith (98%) def. Walczak (2%)
         TRN: A&M - Goldsmith (98%) def. Walczak (2%)
-        MAS: DRKE - Walczak (NaN%) def. Goldsmith (NaN%)
+        MAS: A&M - Goldsmith (98%) def. Walczak (2%)
         UTR: A&M - Goldsmith (98%) def. Walczak (2%)
         ITA: A&M - Goldsmith (3.03) def. Walczak (1.52)
     - Position: 3
@@ -81,7 +82,7 @@ Lineups:
         AVG: A&M - Townsend (96%) def. Stephani (4%)
         SLM: A&M - Townsend (98%) def. Stephani (2%)
         TRN: A&M - Townsend (98%) def. Stephani (2%)
-        MAS: DRKE - Stephani (NaN%) def. Townsend (NaN%)
+        MAS: A&M - Townsend (92%) def. Stephani (8%)
         UTR: A&M - Townsend (98%) def. Stephani (2%)
         ITA: A&M - Townsend (3.71) def. Stephani (2.39)
     - Position: 4
@@ -91,7 +92,7 @@ Lineups:
         AVG: A&M - Faa-Hviding (96%) def. Tatarnikova (4%)
         SLM: A&M - Faa-Hviding (97%) def. Tatarnikova (3%)
         TRN: A&M - Faa-Hviding (98%) def. Tatarnikova (2%)
-        MAS: DRKE - Tatarnikova (NaN%) def. Faa-Hviding (NaN%)
+        MAS: A&M - Faa-Hviding (91%) def. Tatarnikova (9%)
         UTR: A&M - Faa-Hviding (97%) def. Tatarnikova (3%)
         ITA: A&M - Faa-Hviding (1.87) def. Tatarnikova (1.80)
     - Position: 5
@@ -101,7 +102,7 @@ Lineups:
         AVG: A&M - McBryde (98%) def. Stepan (2%)
         SLM: A&M - McBryde (99%) def. Stepan (1%)
         TRN: A&M - McBryde (99%) def. Stepan (1%)
-        MAS: DRKE - Stepan (NaN%) def. McBryde (NaN%)
+        MAS: A&M - McBryde (96%) def. Stepan (4%)
         UTR: A&M - McBryde (97%) def. Stepan (3%)
         ITA: A&M - McBryde (2.44) def. Stepan (1.93)
     - Position: 6
@@ -111,7 +112,7 @@ Lineups:
         AVG: A&M - McQuaid (98%) def. Neville (2%)
         SLM: A&M - McQuaid (99%) def. Neville (1%)
         TRN: A&M - McQuaid (99%) def. Neville (1%)
-        MAS: DRKE - Neville (NaN%) def. McQuaid (NaN%)
+        MAS: A&M - McQuaid (96%) def. Neville (4%)
         UTR: A&M - McQuaid (99%) def. Neville (1%)
         ITA: A&M - McQuaid (2.12) def. Neville (1.64)
   Doubles:

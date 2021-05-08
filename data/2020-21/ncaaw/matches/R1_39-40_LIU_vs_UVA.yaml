@@ -37,9 +37,10 @@ Visitor:
     MAS: 61 (4.25)
     UTR: 60 (49.85)
 Predictions:
+  AVG: UVA - Virginia (99%) def. LIU (1%)
   SLM: "UVA - #9 Virginia (99%) def. #61 LIU (1%)"
   TRN: "UVA - #11 Virginia (99%) def. #63 LIU (1%)"
-  MAS: "UVA - #7 Virginia (100%) def. #61 LIU (0%)"
+  MAS: "UVA - #7 Virginia (99%) def. #61 LIU (1%)"
   LNUP: UVA - Virginia (99%) def. LIU (1%)
   UTR: "UVA - #13 Virginia (+12.56) def. #60 LIU (-12.56)"
   ITA: "UVA - #14 Virginia def. #52 LIU"
@@ -47,8 +48,8 @@ Predictions:
   Seeding: "UVA - #1 Virginia def. #4 LIU"
 Lineups:
   Predictions:
-    Average EWPs for UVA: 99%,99%,NaN%,100%
-    Average EWPs for LIU: 1%,1%,NaN%,0%
+    Average EWPs for UVA: 99%,99%,100%,100%
+    Average EWPs for LIU: 1%,1%,0%,0%
     UVA wins 4 or more Singles points: 100%
     LIU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -60,7 +61,7 @@ Lineups:
         AVG: UVA - Navarro (99%) def. Kuzina (1%)
         SLM: UVA - Navarro (99%) def. Kuzina (1%)
         TRN: UVA - Navarro (99%) def. Kuzina (1%)
-        MAS: LIU - Kuzina (NaN%) def. Navarro (NaN%)
+        MAS: UVA - Navarro (99%) def. Kuzina (1%)
         UTR: UVA - Navarro (99%) def. Kuzina (1%)
         ITA: UVA - Navarro (62.96) def. Kuzina (3.50)
     - Position: 2
@@ -70,7 +71,7 @@ Lineups:
         AVG: UVA - Subhash (99%) def. Dancenco (1%)
         SLM: UVA - Subhash (99%) def. Dancenco (1%)
         TRN: UVA - Subhash (99%) def. Dancenco (1%)
-        MAS: LIU - Dancenco (NaN%) def. Subhash (NaN%)
+        MAS: UVA - Subhash (98%) def. Dancenco (2%)
         UTR: UVA - Subhash (98%) def. Dancenco (2%)
         ITA: UVA - Subhash (40.00) def. Dancenco (4.17)
     - Position: 3
@@ -80,7 +81,7 @@ Lineups:
         AVG: UVA - Johanson (99%) def. Erechtchenko (1%)
         SLM: UVA - Johanson (99%) def. Erechtchenko (1%)
         TRN: UVA - Johanson (99%) def. Erechtchenko (1%)
-        MAS: LIU - Erechtchenko (NaN%) def. Johanson (NaN%)
+        MAS: UVA - Johanson (99%) def. Erechtchenko (1%)
         UTR: UVA - Johanson (99%) def. Erechtchenko (1%)
         ITA: UVA - Johanson (6.37) def. Erechtchenko (3.50)
     - Position: 4
@@ -90,17 +91,17 @@ Lineups:
         AVG: UVA - Shaikh (99%) def. Storkaas (1%)
         SLM: UVA - Shaikh (99%) def. Storkaas (1%)
         TRN: UVA - Shaikh (99%) def. Storkaas (1%)
-        MAS: LIU - Storkaas (NaN%) def. Shaikh (NaN%)
+        MAS: UVA - Shaikh (99%) def. Storkaas (1%)
         UTR: UVA - Shaikh (99%) def. Storkaas (1%)
         ITA: UVA - Shaikh (1.63) def. Storkaas (0.00)
     - Position: 5
       UVA: Amber O'Dell - 1-3 at 5, 10-7 in duals, 10-9 overall
       LIU: Bianca Compuesto - 4-0 at 5, 6-0 in duals, 6-0 overall
       Predictions:
-        AVG: LIU - Compuesto (78%) def. O'Dell (22%)
+        AVG: LIU - Compuesto (77%) def. O'Dell (23%)
         SLM: LIU - Compuesto (100%) def. O'Dell (0%)
         TRN: LIU - Compuesto (100%) def. O'Dell (0%)
-        MAS: LIU - Compuesto (NaN%) def. O'Dell (NaN%)
+        MAS: UVA - O'Dell (89%) def. Compuesto (11%)
         UTR: LIU - Compuesto (100%) def. O'Dell (0%)
         ITA: LIU - Compuesto (3.66) def. O'Dell (1.59)
     - Position: 6
@@ -110,7 +111,7 @@ Lineups:
         AVG: UVA - Glozman (98%) def. Jorjoliani (2%)
         SLM: UVA - Glozman (99%) def. Jorjoliani (1%)
         TRN: UVA - Glozman (99%) def. Jorjoliani (1%)
-        MAS: LIU - Jorjoliani (NaN%) def. Glozman (NaN%)
+        MAS: UVA - Glozman (97%) def. Jorjoliani (3%)
         UTR: UVA - Glozman (98%) def. Jorjoliani (2%)
         ITA: LIU - Jorjoliani (3.50) def. Glozman (2.77)
   Doubles:

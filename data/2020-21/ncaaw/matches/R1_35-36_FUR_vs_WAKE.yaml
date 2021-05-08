@@ -38,6 +38,7 @@ Visitor:
     USTA: RV
     Coach: 35
 Predictions:
+  AVG: WAKE - Wake Forest (61%) def. Furman (39%)
   SLM: "WAKE - #32 Wake Forest (51%) def. #33 Furman (49%)"
   TRN: "WAKE - #31 Wake Forest (58%) def. #35 Furman (42%)"
   MAS: "WAKE - #34 Wake Forest (52%) def. #35 Furman (48%)"
@@ -49,8 +50,8 @@ Predictions:
   Seeding: "WAKE - #2 Wake Forest def. #3 Furman"
 Lineups:
   Predictions:
-    Average EWPs for WAKE: 51%,58%,NaN%,82%
-    Average EWPs for FUR: 49%,42%,NaN%,18%
+    Average EWPs for WAKE: 51%,58%,52%,82%
+    Average EWPs for FUR: 49%,42%,48%,18%
     WAKE wins 4 or more Singles points: 60%
     FUR wins 4 or more Singles points: 13%
     Winner decided by the Doubles point: 27%
@@ -62,7 +63,7 @@ Lineups:
         AVG: FUR - Kozarov (56%) def. Campana (44%)
         SLM: FUR - Kozarov (56%) def. Campana (44%)
         TRN: FUR - Kozarov (72%) def. Campana (28%)
-        MAS: FUR - Kozarov (NaN%) def. Campana (NaN%)
+        MAS: FUR - Kozarov (56%) def. Campana (44%)
         UTR: WAKE - Campana (56%) def. Kozarov (44%)
         ITA: WAKE - Campana (28.61) def. Kozarov (26.43)
     - Position: 2
@@ -72,7 +73,7 @@ Lineups:
         AVG: FUR - Adams (58%) def. Campana (42%)
         SLM: WAKE - Campana (52%) def. Adams (48%)
         TRN: FUR - Adams (61%) def. Campana (39%)
-        MAS: FUR - Adams (NaN%) def. Campana (NaN%)
+        MAS: FUR - Adams (56%) def. Campana (44%)
         UTR: FUR - Adams (71%) def. Campana (29%)
         ITA: WAKE - Campana (11.52) def. Adams (5.79)
     - Position: 3
@@ -82,7 +83,7 @@ Lineups:
         AVG: WAKE - Brylin (88%) def. Dillon (12%)
         SLM: WAKE - Brylin (85%) def. Dillon (15%)
         TRN: WAKE - Brylin (87%) def. Dillon (13%)
-        MAS: FUR - Dillon (NaN%) def. Brylin (NaN%)
+        MAS: WAKE - Brylin (88%) def. Dillon (12%)
         UTR: WAKE - Brylin (92%) def. Dillon (8%)
         ITA: WAKE - Brylin (2.10) def. Dillon (1.67)
     - Position: 4
@@ -92,7 +93,7 @@ Lineups:
         AVG: WAKE - Omirou (66%) def. Rompf (34%)
         SLM: WAKE - Omirou (66%) def. Rompf (34%)
         TRN: WAKE - Omirou (60%) def. Rompf (40%)
-        MAS: FUR - Rompf (NaN%) def. Omirou (NaN%)
+        MAS: WAKE - Omirou (68%) def. Rompf (32%)
         UTR: WAKE - Omirou (72%) def. Rompf (28%)
         ITA: WAKE - Omirou (1.88) def. Rompf (1.74)
     - Position: 5
@@ -102,7 +103,7 @@ Lineups:
         AVG: WAKE - Killingsworth (70%) def. Pate (30%)
         SLM: WAKE - Killingsworth (79%) def. Pate (21%)
         TRN: WAKE - Killingsworth (66%) def. Pate (34%)
-        MAS: FUR - Pate (NaN%) def. Killingsworth (NaN%)
+        MAS: WAKE - Killingsworth (59%) def. Pate (41%)
         UTR: WAKE - Killingsworth (77%) def. Pate (23%)
         ITA: FUR - Pate (1.95) def. Killingsworth (1.48)
     - Position: 6
@@ -112,7 +113,7 @@ Lineups:
         AVG: WAKE - Wooten (66%) def. Schoppe (34%)
         SLM: WAKE - Wooten (66%) def. Schoppe (34%)
         TRN: WAKE - Wooten (57%) def. Schoppe (43%)
-        MAS: FUR - Schoppe (NaN%) def. Wooten (NaN%)
+        MAS: WAKE - Wooten (66%) def. Schoppe (34%)
         UTR: WAKE - Wooten (75%) def. Schoppe (25%)
         ITA: FUR - Schoppe (2.79) def. Wooten (1.70)
   Doubles:

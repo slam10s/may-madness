@@ -40,6 +40,7 @@ Austin, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***TEX*** - Texas (99%) def. Northern Ariz. (1%)  
 - Slam: ***TEX*** - #8 Texas (99%) def. #58 Northern Ariz. (1%)  
 - TRN: ***TEX*** - #7 Texas (99%) def. #60 Northern Ariz. (1%)  
 - Massey: ***TEX*** - #11 Texas (99%) def. #59 Northern Ariz. (1%)  
@@ -60,10 +61,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Eban Straker-Meads (NAU) - 5-4 at #1, 6-6 in duals, 6-6 overall<br>Eliot Spizzirri (TEX) - 9-6 at #1, 15-8 in duals, 22-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Spizzirri (95%) def. Straker-Meads (5%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Spizzirri (96%) def. Straker-Meads (4%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Spizzirri (95%) def. Straker-Meads (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Spizzirri (98%) def. Straker-Meads (2%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Straker-Meads (NaN%) def. Spizzirri (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Spizzirri (95%) def. Straker-Meads (5%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Spizzirri (95%) def. Straker-Meads (5%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Spizzirri (28.17) def. Straker-Meads (1.70)</li>  
 </ul>
@@ -74,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Braswell (96%) def. Tumosa (4%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Braswell (95%) def. Tumosa (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Braswell (97%) def. Tumosa (3%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Tumosa (NaN%) def. Braswell (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Braswell (96%) def. Tumosa (4%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Braswell (96%) def. Tumosa (4%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Braswell (20.88) def. Tumosa (1.38)</li>  
 </ul>
@@ -82,10 +83,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Dominik Buzonics (NAU) - 4-3 at #3, 6-8 in duals, 6-8 overall<br>Siem Woldeab (TEX) - 5-1 at #3, 9-7 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Woldeab (98%) def. Buzonics (2%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Woldeab (99%) def. Buzonics (1%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Woldeab (99%) def. Buzonics (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Woldeab (99%) def. Buzonics (1%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Buzonics (NaN%) def. Woldeab (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Woldeab (98%) def. Buzonics (2%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Woldeab (97%) def. Buzonics (3%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Woldeab (9.31) def. Buzonics (1.51)</li>  
 </ul>
@@ -96,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Harper (98%) def. Steele (2%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Harper (98%) def. Steele (2%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Harper (99%) def. Steele (1%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Steele (NaN%) def. Harper (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Harper (98%) def. Steele (2%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Harper (98%) def. Steele (2%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Harper (5.83) def. Steele (2.01)</li>  
 </ul>
@@ -104,10 +105,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Maciej Ziomber (NAU) - 5-2 at #5, 11-4 in duals, 11-4 overall<br>Chih Chi Huang (TEX) - 9-7 at #5, 11-8 in duals, 15-17 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Huang (89%) def. Ziomber (11%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Huang (90%) def. Ziomber (10%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Huang (95%) def. Ziomber (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Huang (94%) def. Ziomber (6%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Ziomber (NaN%) def. Huang (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Huang (79%) def. Ziomber (21%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Huang (92%) def. Ziomber (8%)</li>  
 <li>ITA: <b><i>NAU</i></b> - Ziomber (2.68) def. Huang (0.00)</li>  
 </ul>
@@ -115,10 +116,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alexander Groves (NAU) - 3-0 at #6, 6-8 in duals, 6-8 overall<br>Evin McDonald (TEX) - 6-9 at #6, 11-10 in duals, 15-16 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - McDonald (93%) def. Groves (7%)</li>  
+<li>Composite: <b><i>TEX</i></b> - McDonald (94%) def. Groves (6%)</li>  
 <li>Slam: <b><i>TEX</i></b> - McDonald (96%) def. Groves (4%)</li>  
 <li>TRN: <b><i>TEX</i></b> - McDonald (98%) def. Groves (2%)</li>  
-<li>Massey: <b><i>NAU</i></b> - Groves (NaN%) def. McDonald (NaN%)</li>  
+<li>Massey: <b><i>TEX</i></b> - McDonald (86%) def. Groves (14%)</li>  
 <li>UTR: <b><i>TEX</i></b> - McDonald (96%) def. Groves (4%)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -37,6 +37,7 @@ Visitor:
   Polls:
     Coach: 44
 Predictions:
+  AVG: OKLA - Oklahoma (70%) def. Denver (30%)
   SLM: "OKLA - #29 Oklahoma (68%) def. #42 Denver (32%)"
   TRN: "OKLA - #28 Oklahoma (59%) def. #35 Denver (41%)"
   MAS: "OKLA - #37 Oklahoma (57%) def. #38 Denver (43%)"
@@ -47,8 +48,8 @@ Predictions:
   Seeding: "OKLA - #2 Oklahoma def. #3 Denver"
 Lineups:
   Predictions:
-    Average EWPs for OKLA: 68%,59%,NaN%,95%
-    Average EWPs for DEN: 32%,41%,NaN%,5%
+    Average EWPs for OKLA: 68%,59%,57%,95%
+    Average EWPs for DEN: 32%,41%,43%,5%
     OKLA wins 4 or more Singles points: 82%
     DEN wins 4 or more Singles points: 4%
     Winner decided by the Doubles point: 14%
@@ -60,7 +61,7 @@ Lineups:
         AVG: OKLA - Emburgh (57%) def. Davis (43%)
         SLM: OKLA - Emburgh (57%) def. Davis (43%)
         TRN: OKLA - Emburgh (53%) def. Davis (47%)
-        MAS: DEN - Davis (NaN%) def. Emburgh (NaN%)
+        MAS: DEN - Davis (60%) def. Emburgh (40%)
         UTR: OKLA - Emburgh (79%) def. Davis (21%)
         ITA: OKLA - Emburgh (7.98) def. Davis (6.67)
     - Position: 2
@@ -70,7 +71,7 @@ Lineups:
         AVG: OKLA - Beiler (86%) def. Ros (14%)
         SLM: OKLA - Beiler (80%) def. Ros (20%)
         TRN: OKLA - Beiler (93%) def. Ros (7%)
-        MAS: DEN - Ros (NaN%) def. Beiler (NaN%)
+        MAS: OKLA - Beiler (79%) def. Ros (21%)
         UTR: OKLA - Beiler (92%) def. Ros (8%)
         ITA: OKLA - Beiler (10.05) def. Ros (1.92)
     - Position: 3
@@ -80,7 +81,7 @@ Lineups:
         AVG: OKLA - Martinez (75%) def. Summers (25%)
         SLM: OKLA - Martinez (71%) def. Summers (29%)
         TRN: OKLA - Martinez (83%) def. Summers (17%)
-        MAS: DEN - Summers (NaN%) def. Martinez (NaN%)
+        MAS: OKLA - Martinez (71%) def. Summers (29%)
         UTR: OKLA - Martinez (74%) def. Summers (26%)
         ITA: OKLA - Martinez (2.93) def. Summers (2.15)
     - Position: 4
@@ -90,7 +91,7 @@ Lineups:
         AVG: OKLA - Han (78%) def. Sallay (22%)
         SLM: OKLA - Han (80%) def. Sallay (20%)
         TRN: OKLA - Han (87%) def. Sallay (13%)
-        MAS: DEN - Sallay (NaN%) def. Han (NaN%)
+        MAS: OKLA - Han (61%) def. Sallay (39%)
         UTR: OKLA - Han (86%) def. Sallay (14%)
         ITA: DEN - Sallay (2.45) def. Han (1.72)
     - Position: 5
@@ -100,7 +101,7 @@ Lineups:
         AVG: OKLA - Schlageter (65%) def. Cuesta (35%)
         SLM: OKLA - Schlageter (72%) def. Cuesta (28%)
         TRN: OKLA - Schlageter (65%) def. Cuesta (35%)
-        MAS: DEN - Cuesta (NaN%) def. Schlageter (NaN%)
+        MAS: DEN - Cuesta (59%) def. Schlageter (41%)
         UTR: OKLA - Schlageter (85%) def. Cuesta (15%)
         ITA: DEN - Cuesta (3.64) def. Schlageter (0.00)
     - Position: 6
@@ -110,7 +111,7 @@ Lineups:
         AVG: OKLA - Mandlik (80%) def. Crespo (20%)
         SLM: OKLA - Mandlik (91%) def. Crespo (9%)
         TRN: OKLA - Mandlik (78%) def. Crespo (22%)
-        MAS: DEN - Crespo (NaN%) def. Mandlik (NaN%)
+        MAS: DEN - Crespo (50%) def. Mandlik (50%)
         UTR: OKLA - Mandlik (99%) def. Crespo (1%)
         ITA: DEN - Crespo (3.50) def. Mandlik (0.00)
   Doubles:

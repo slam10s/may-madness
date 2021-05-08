@@ -37,9 +37,10 @@ Visitor:
     MAS: 52 (5.45)
     UTR: 52 (54.53)
 Predictions:
+  AVG: BAY - Baylor (99%) def. A&M-Corpus Christi (1%)
   SLM: "BAY - #7 Baylor (99%) def. #55 A&M-Corpus Christi (1%)"
   TRN: "BAY - #4 Baylor (99%) def. #55 A&M-Corpus Christi (1%)"
-  MAS: "TAMCC - #52 A&M-Corpus Christi (NaN%) def. #12 Baylor (NaN%)"
+  MAS: "BAY - #12 Baylor (99%) def. #52 A&M-Corpus Christi (1%)"
   LNUP: BAY - Baylor (99%) def. A&M-Corpus Christi (1%)
   UTR: "BAY - #8 Baylor (+8.61) def. #52 A&M-Corpus Christi (-8.61)"
   ITA: "BAY - #8 Baylor def. #56 A&M-Corpus Christi"
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "BAY - #1 Baylor def. #4 A&M-Corpus Christi"
 Lineups:
   Predictions:
-    Average EWPs for BAY: 99%,99%,NaN%,100%
-    Average EWPs for TAMCC: 1%,1%,NaN%,0%
+    Average EWPs for BAY: 99%,99%,99%,100%
+    Average EWPs for TAMCC: 1%,1%,1%,0%
     BAY wins 4 or more Singles points: 100%
     TAMCC wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,17 +62,17 @@ Lineups:
         AVG: BAY - Krywoj (93%) def. Shumeika (7%)
         SLM: BAY - Krywoj (95%) def. Shumeika (5%)
         TRN: BAY - Krywoj (90%) def. Shumeika (10%)
-        MAS: TAMCC - Shumeika (NaN%) def. Krywoj (NaN%)
+        MAS: BAY - Krywoj (91%) def. Shumeika (9%)
         UTR: BAY - Krywoj (97%) def. Shumeika (3%)
         ITA: BAY - Krywoj (8.77) def. Shumeika (2.79)
     - Position: 2
       BAY: Jessica Hinojosa - 7-6 at 2, 12-10 in duals, 18-15 overall
       TAMCC: Camille Townsend - 6-3 at 2, 14-6 in duals, 14-6 overall
       Predictions:
-        AVG: BAY - Hinojosa (90%) def. Townsend (10%)
+        AVG: BAY - Hinojosa (91%) def. Townsend (9%)
         SLM: BAY - Hinojosa (90%) def. Townsend (10%)
         TRN: BAY - Hinojosa (95%) def. Townsend (5%)
-        MAS: TAMCC - Townsend (NaN%) def. Hinojosa (NaN%)
+        MAS: BAY - Hinojosa (83%) def. Townsend (17%)
         UTR: BAY - Hinojosa (95%) def. Townsend (5%)
         ITA: BAY - Hinojosa (3.62) def. Townsend (1.97)
     - Position: 3
@@ -81,7 +82,7 @@ Lineups:
         AVG: BAY - Herrero (97%) def. Honore (3%)
         SLM: BAY - Herrero (97%) def. Honore (3%)
         TRN: BAY - Herrero (98%) def. Honore (2%)
-        MAS: TAMCC - Honore (NaN%) def. Herrero (NaN%)
+        MAS: BAY - Herrero (96%) def. Honore (4%)
         UTR: BAY - Herrero (97%) def. Honore (3%)
         ITA: BAY - Herrero (2.87) def. Honore (2.07)
     - Position: 4
@@ -91,17 +92,17 @@ Lineups:
         AVG: BAY - Shakhraichuck (88%) def. Aucagne (12%)
         SLM: BAY - Shakhraichuck (96%) def. Aucagne (4%)
         TRN: BAY - Shakhraichuck (96%) def. Aucagne (4%)
-        MAS: TAMCC - Aucagne (NaN%) def. Shakhraichuck (NaN%)
+        MAS: BAY - Shakhraichuck (89%) def. Aucagne (11%)
         UTR: BAY - Shakhraichuck (72%) def. Aucagne (28%)
         ITA: TAMCC - Aucagne (3.69) def. Shakhraichuck (1.88)
     - Position: 5
       BAY: Kristina Sorokolet - 4-1 at 5, 11-3 in duals, 18-5 overall
       TAMCC: Leopoldine Boisseau - 14-3 at 5, 17-3 in duals, 17-3 overall
       Predictions:
-        AVG: BAY - Sorokolet (93%) def. Boisseau (7%)
+        AVG: BAY - Sorokolet (94%) def. Boisseau (6%)
         SLM: BAY - Sorokolet (96%) def. Boisseau (4%)
         TRN: BAY - Sorokolet (96%) def. Boisseau (4%)
-        MAS: TAMCC - Boisseau (NaN%) def. Sorokolet (NaN%)
+        MAS: BAY - Sorokolet (88%) def. Boisseau (12%)
         UTR: BAY - Sorokolet (95%) def. Boisseau (5%)
         ITA: TAMCC - Boisseau (2.71) def. Sorokolet (1.95)
     - Position: 6
@@ -111,7 +112,7 @@ Lineups:
         AVG: BAY - Baranano (98%) def. Delattre (2%)
         SLM: BAY - Baranano (99%) def. Delattre (1%)
         TRN: BAY - Baranano (99%) def. Delattre (1%)
-        MAS: TAMCC - Delattre (NaN%) def. Baranano (NaN%)
+        MAS: BAY - Baranano (96%) def. Delattre (4%)
         UTR: BAY - Baranano (98%) def. Delattre (2%)
         ITA: TAMCC - Delattre (3.13) def. Baranano (2.52)
   Doubles:

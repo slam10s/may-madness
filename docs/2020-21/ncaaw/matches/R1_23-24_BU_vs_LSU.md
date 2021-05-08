@@ -43,6 +43,7 @@ Baton Rouge, Louisiana
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***LSU*** - LSU (99%) def. Boston U. (1%)  
 - Slam: ***LSU*** - #21 LSU (99%) def. #54 Boston U. (1%)  
 - TRN: ***LSU*** - #18 LSU (99%) def. #51 Boston U. (1%)  
 - Massey: ***LSU*** - #21 LSU (99%) def. #54 Boston U. (1%)  
@@ -66,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>LSU</i></b> - Bridges (92%) def. Carlsten (8%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Bridges (94%) def. Carlsten (6%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Bridges (94%) def. Carlsten (6%)</li>  
-<li>Massey: <b><i>BU</i></b> - Carlsten (NaN%) def. Bridges (NaN%)</li>  
+<li>Massey: <b><i>LSU</i></b> - Bridges (94%) def. Carlsten (6%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Bridges (86%) def. Carlsten (14%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Bridges (11.61) def. Carlsten (0.00)</li>  
 </ul>
@@ -74,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kaitlin Tan (BU) - 3-0 at #2, 5-0 in duals, 5-0 overall<br>Safiya Carrington (LSU) - 2-5 at #2, 3-6 in duals, 10-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>LSU</i></b> - Carrington (75%) def. Tan (25%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Carrington (76%) def. Tan (24%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Carrington (79%) def. Tan (21%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Carrington (78%) def. Tan (22%)</li>  
-<li>Massey: <b><i>BU</i></b> - Tan (NaN%) def. Carrington (NaN%)</li>  
+<li>Massey: <b><i>LSU</i></b> - Carrington (57%) def. Tan (43%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Carrington (91%) def. Tan (9%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Carrington (4.09) def. Tan (3.03)</li>  
 </ul>
@@ -88,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>LSU</i></b> - Corley (96%) def. Battista (4%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Corley (96%) def. Battista (4%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Corley (97%) def. Battista (3%)</li>  
-<li>Massey: <b><i>BU</i></b> - Battista (NaN%) def. Corley (NaN%)</li>  
+<li>Massey: <b><i>LSU</i></b> - Corley (95%) def. Battista (5%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Corley (97%) def. Battista (3%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Corley (9.83) def. Battista (2.01)</li>  
 </ul>
@@ -99,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>LSU</i></b> - Cubitt (96%) def. Kim (4%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Cubitt (96%) def. Kim (4%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Cubitt (96%) def. Kim (4%)</li>  
-<li>Massey: <b><i>BU</i></b> - Kim (NaN%) def. Cubitt (NaN%)</li>  
+<li>Massey: <b><i>LSU</i></b> - Cubitt (96%) def. Kim (4%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Cubitt (97%) def. Kim (3%)</li>  
 <li>ITA: <b><i>BU</i></b> - Kim (2.60) def. Cubitt (2.11)</li>  
 </ul>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>LSU</i></b> - Richardson (85%) def. Burchell (15%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Richardson (94%) def. Burchell (6%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Richardson (90%) def. Burchell (10%)</li>  
-<li>Massey: <b><i>BU</i></b> - Burchell (NaN%) def. Richardson (NaN%)</li>  
+<li>Massey: <b><i>LSU</i></b> - Richardson (68%) def. Burchell (32%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Richardson (90%) def. Burchell (10%)</li>  
 <li>ITA: <b><i>BU</i></b> - Burchell (3.12) def. Richardson (1.47)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>LSU</i></b> - Geissler (93%) def. Martens (7%)</li>  
 <li>Slam: <b><i>LSU</i></b> - Geissler (96%) def. Martens (4%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Geissler (95%) def. Martens (5%)</li>  
-<li>Massey: <b><i>BU</i></b> - Martens (NaN%) def. Geissler (NaN%)</li>  
+<li>Massey: <b><i>LSU</i></b> - Geissler (88%) def. Martens (12%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Geissler (92%) def. Martens (8%)</li>  
 <li>ITA: <b><i>BU</i></b> - Martens (2.51) def. Geissler (2.01)</li>  
 </ul>

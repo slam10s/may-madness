@@ -40,6 +40,7 @@ Gainesville, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***USF*** - South Fla. (51%) def. Duke (49%)  
 - Slam: ***DUKE*** - #31 Duke (51%) def. #32 South Fla. (49%)  
 - TRN: ***USF*** - #34 South Fla. (52%) def. #36 Duke (48%)  
 - Massey: ***USF*** - #32 South Fla. (55%) def. #34 Duke (45%)  
@@ -60,7 +61,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Johns (56%) def. Wojcik (44%)</li>  
 <li>TRN: <b><i>USF</i></b> - Wojcik (67%) def. Johns (33%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Johns (NaN%) def. Wojcik (NaN%)</li>  
+<li>Massey: <b><i>USF</i></b> - Wojcik (66%) def. Johns (34%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Johns (76%) def. Wojcik (24%)</li>  
 <li>ITA: <b><i>USF</i></b> - Wojcik (16.76) def. Johns (9.19)</li>  
 </ul>
@@ -71,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USF</i></b> - Ferguson (60%) def. Sculley (40%)</li>  
 <li>Slam: <b><i>USF</i></b> - Ferguson (73%) def. Sculley (27%)</li>  
 <li>TRN: <b><i>USF</i></b> - Ferguson (56%) def. Sculley (44%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Sculley (NaN%) def. Ferguson (NaN%)</li>  
+<li>Massey: <b><i>USF</i></b> - Ferguson (56%) def. Sculley (44%)</li>  
 <li>UTR: <b><i>USF</i></b> - Ferguson (53%) def. Sculley (47%)</li>  
 <li>ITA: <b><i>USF</i></b> - Ferguson (11.90) def. Sculley (3.41)</li>  
 </ul>
@@ -82,7 +83,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>DUKE</i></b> - Zhang (52%) def. Yatsuk (48%)</li>  
 <li>Slam: <b><i>USF</i></b> - Yatsuk (50%) def. Zhang (50%)</li>  
 <li>TRN: <b><i>USF</i></b> - Yatsuk (56%) def. Zhang (44%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Zhang (NaN%) def. Yatsuk (NaN%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Zhang (51%) def. Yatsuk (49%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Zhang (68%) def. Yatsuk (32%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Zhang (3.87) def. Yatsuk (2.48)</li>  
 </ul>
@@ -93,7 +94,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>DUKE</i></b> - Guell (54%) def. Muniz-Hidalgo (46%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Guell (75%) def. Muniz-Hidalgo (25%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Guell (59%) def. Muniz-Hidalgo (41%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Guell (NaN%) def. Muniz-Hidalgo (NaN%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Guell (52%) def. Muniz-Hidalgo (48%)</li>  
 <li>UTR: <b><i>USF</i></b> - Muniz-Hidalgo (66%) def. Guell (34%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Guell (4.04) def. Muniz-Hidalgo (1.67)</li>  
 </ul>
@@ -104,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>DUKE</i></b> - Keist (58%) def. Luquet (42%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Keist (62%) def. Luquet (38%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Keist (72%) def. Luquet (28%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Keist (NaN%) def. Luquet (NaN%)</li>  
+<li>Massey: <b><i>DUKE</i></b> - Keist (68%) def. Luquet (32%)</li>  
 <li>UTR: <b><i>USF</i></b> - Luquet (68%) def. Keist (32%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Keist (3.16) def. Luquet (1.56)</li>  
 </ul>
@@ -115,7 +116,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USF</i></b> - Gomez-Montesa (53%) def. Dale (47%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Dale (53%) def. Gomez-Montesa (47%)</li>  
 <li>TRN: <b><i>USF</i></b> - Gomez-Montesa (58%) def. Dale (42%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Dale (NaN%) def. Gomez-Montesa (NaN%)</li>  
+<li>Massey: <b><i>USF</i></b> - Gomez-Montesa (59%) def. Dale (41%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Dale (54%) def. Gomez-Montesa (46%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Dale (2.29) def. Gomez-Montesa (1.78)</li>  
 </ul>

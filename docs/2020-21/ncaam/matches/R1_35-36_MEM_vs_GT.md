@@ -41,6 +41,7 @@ Knoxville, Tennessee
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***GT*** - Georgia Tech (77%) def. Memphis (23%)  
 - Slam: ***GT*** - #27 Georgia Tech (69%) def. #41 Memphis (31%)  
 - TRN: ***GT*** - #33 Georgia Tech (64%) def. #40 Memphis (36%)  
 - Massey: ***GT*** - #25 Georgia Tech (84%) def. #43 Memphis (16%)  
@@ -64,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>GT</i></b> - McDaniel (73%) def. Story (27%)</li>  
 <li>Slam: <b><i>GT</i></b> - McDaniel (71%) def. Story (29%)</li>  
 <li>TRN: <b><i>GT</i></b> - McDaniel (72%) def. Story (28%)</li>  
-<li>Massey: <b><i>MEM</i></b> - Story (NaN%) def. McDaniel (NaN%)</li>  
+<li>Massey: <b><i>GT</i></b> - McDaniel (71%) def. Story (29%)</li>  
 <li>UTR: <b><i>GT</i></b> - McDaniel (79%) def. Story (21%)</li>  
 <li>ITA: <b><i>GT</i></b> - McDaniel (25.05) def. Story (13.58)</li>  
 </ul>
@@ -75,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>GT</i></b> - Martin (83%) def. Stevenson (17%)</li>  
 <li>Slam: <b><i>GT</i></b> - Martin (82%) def. Stevenson (18%)</li>  
 <li>TRN: <b><i>GT</i></b> - Martin (85%) def. Stevenson (15%)</li>  
-<li>Massey: <b><i>MEM</i></b> - Stevenson (NaN%) def. Martin (NaN%)</li>  
+<li>Massey: <b><i>GT</i></b> - Martin (82%) def. Stevenson (18%)</li>  
 <li>UTR: <b><i>GT</i></b> - Martin (83%) def. Stevenson (17%)</li>  
 <li>ITA: <b><i>GT</i></b> - Martin (17.00) def. Stevenson (6.29)</li>  
 </ul>
@@ -86,7 +87,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>GT</i></b> - Schelcher (67%) def. Cutting (33%)</li>  
 <li>Slam: <b><i>GT</i></b> - Schelcher (58%) def. Cutting (42%)</li>  
 <li>TRN: <b><i>GT</i></b> - Schelcher (68%) def. Cutting (32%)</li>  
-<li>Massey: <b><i>MEM</i></b> - Cutting (NaN%) def. Schelcher (NaN%)</li>  
+<li>Massey: <b><i>GT</i></b> - Schelcher (70%) def. Cutting (30%)</li>  
 <li>UTR: <b><i>GT</i></b> - Schelcher (72%) def. Cutting (28%)</li>  
 <li>ITA: <b><i>MEM</i></b> - Cutting (4.13) def. Schelcher (3.19)</li>  
 </ul>
@@ -97,7 +98,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>GT</i></b> - Chopra (76%) def. Pallares (24%)</li>  
 <li>Slam: <b><i>GT</i></b> - Chopra (80%) def. Pallares (20%)</li>  
 <li>TRN: <b><i>GT</i></b> - Chopra (83%) def. Pallares (17%)</li>  
-<li>Massey: <b><i>MEM</i></b> - Pallares (NaN%) def. Chopra (NaN%)</li>  
+<li>Massey: <b><i>GT</i></b> - Chopra (67%) def. Pallares (33%)</li>  
 <li>UTR: <b><i>GT</i></b> - Chopra (75%) def. Pallares (25%)</li>  
 <li>ITA: <b><i>GT</i></b> - Chopra (1.81) def. Pallares (1.34)</li>  
 </ul>
@@ -108,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MEM</i></b> - Taylor (63%) def. McKinney (37%)</li>  
 <li>Slam: <b><i>MEM</i></b> - Taylor (51%) def. McKinney (49%)</li>  
 <li>TRN: <b><i>MEM</i></b> - Taylor (58%) def. McKinney (42%)</li>  
-<li>Massey: <b><i>MEM</i></b> - Taylor (NaN%) def. McKinney (NaN%)</li>  
+<li>Massey: <b><i>MEM</i></b> - Taylor (64%) def. McKinney (36%)</li>  
 <li>UTR: <b><i>MEM</i></b> - Taylor (82%) def. McKinney (18%)</li>  
 <li>ITA: <b><i>MEM</i></b> - Taylor (2.71) def. McKinney (1.37)</li>  
 </ul>
@@ -119,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>GT</i></b> - Dong (72%) def. Fanlo (28%)</li>  
 <li>Slam: <b><i>GT</i></b> - Dong (64%) def. Fanlo (36%)</li>  
 <li>TRN: <b><i>GT</i></b> - Dong (76%) def. Fanlo (24%)</li>  
-<li>Massey: <b><i>MEM</i></b> - Fanlo (NaN%) def. Dong (NaN%)</li>  
+<li>Massey: <b><i>GT</i></b> - Dong (73%) def. Fanlo (27%)</li>  
 <li>UTR: <b><i>GT</i></b> - Dong (75%) def. Fanlo (25%)</li>  
 <li>ITA: <b><i>GT</i></b> - Dong (1.93) def. Fanlo (1.57)</li>  
 </ul>

@@ -43,9 +43,10 @@ Athens, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UGA*** - Georgia (99%) def. Austin Peay (1%)  
 - Slam: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
 - TRN: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
-- Massey: ***UGA*** - #3 Georgia (100%) def. #56 Austin Peay (0%)  
+- Massey: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
 - Lineup: ***UGA*** - Georgia (99%) def. Austin Peay (1%)  
 - UTR: ***UGA*** - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)  
 - ITA: ***UGA*** - #3 Georgia def. #57 Austin Peay  
@@ -66,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Jokic (99%) def. Schmidt (1%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Jokic (99%) def. Schmidt (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Jokic (99%) def. Schmidt (1%)</li>  
-<li>Massey: <b><i>PEAY</i></b> - Schmidt (NaN%) def. Jokic (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Jokic (99%) def. Schmidt (1%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Jokic (98%) def. Schmidt (2%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Jokic (60.56) def. Schmidt (2.35)</li>  
 </ul>
@@ -74,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Danielle Morris (PEAY) - 9-5 at #2, 9-5 in duals, 9-5 overall<br>Lea Ma (UGA) - 13-3 at #2, 13-3 in duals, 14-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UGA</i></b> - Ma (98%) def. Morris (2%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
-<li>Massey: <b><i>PEAY</i></b> - Morris (NaN%) def. Ma (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Ma (97%) def. Morris (3%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Ma (11.14) def. Morris (2.12)</li>  
 </ul>
@@ -88,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
-<li>Massey: <b><i>PEAY</i></b> - Leder (NaN%) def. Kowalski (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Kowalski (98%) def. Leder (2%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Kowalski (23.73) def. Leder (3.05)</li>  
 </ul>
@@ -99,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
-<li>Massey: <b><i>PEAY</i></b> - Topalovic (NaN%) def. Coppoc (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Coppoc (8.66) def. Topalovic (2.10)</li>  
 </ul>
@@ -110,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
-<li>Massey: <b><i>PEAY</i></b> - Paladini-Jennings (NaN%) def. Gonzalez (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Gonzalez (11.71) def. Paladini-Jennings (1.85)</li>  
 </ul>
@@ -121,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Christofi (99%) def. Nakanishi (1%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Christofi (99%) def. Nakanishi (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Christofi (99%) def. Nakanishi (1%)</li>  
-<li>Massey: <b><i>PEAY</i></b> - Nakanishi (NaN%) def. Christofi (NaN%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Christofi (98%) def. Nakanishi (2%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Christofi (99%) def. Nakanishi (1%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Christofi (2.36) def. Nakanishi (2.24)</li>  
 </ul>

@@ -36,6 +36,7 @@ Visitor:
     MAS: 40 (6.75)
     UTR: 46 (57.03)
 Predictions:
+  AVG: STAN - Stanford (90%) def. UC Santa Barbara (10%)
   SLM: "STAN - #23 Stanford (81%) def. #39 UC Santa Barbara (19%)"
   TRN: "STAN - #24 Stanford (83%) def. #40 UC Santa Barbara (17%)"
   MAS: "STAN - #15 Stanford (95%) def. #40 UC Santa Barbara (5%)"
@@ -47,8 +48,8 @@ Predictions:
   Seeding: "STAN - #2 Stanford def. #3 UC Santa Barbara"
 Lineups:
   Predictions:
-    Average EWPs for STAN: 81%,83%,NaN%,100%
-    Average EWPs for UCSB: 19%,17%,NaN%,0%
+    Average EWPs for STAN: 81%,83%,95%,100%
+    Average EWPs for UCSB: 19%,17%,5%,0%
     STAN wins 4 or more Singles points: 97%
     UCSB wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 3%
@@ -60,7 +61,7 @@ Lineups:
         AVG: STAN - Gordon (77%) def. Volodko (23%)
         SLM: STAN - Gordon (76%) def. Volodko (24%)
         TRN: STAN - Gordon (76%) def. Volodko (24%)
-        MAS: UCSB - Volodko (NaN%) def. Gordon (NaN%)
+        MAS: STAN - Gordon (67%) def. Volodko (33%)
         UTR: STAN - Gordon (87%) def. Volodko (13%)
         ITA: STAN - Gordon (17.68) def. Volodko (4.21)
     - Position: 2
@@ -70,7 +71,7 @@ Lineups:
         AVG: STAN - Blake (82%) def. Kiss (18%)
         SLM: STAN - Blake (75%) def. Kiss (25%)
         TRN: STAN - Blake (87%) def. Kiss (13%)
-        MAS: UCSB - Kiss (NaN%) def. Blake (NaN%)
+        MAS: STAN - Blake (78%) def. Kiss (22%)
         UTR: STAN - Blake (88%) def. Kiss (12%)
         ITA: STAN - Blake (5.37) def. Kiss (2.42)
     - Position: 3
@@ -80,7 +81,7 @@ Lineups:
         AVG: STAN - Arbuthnott (54%) def. Khatamova (46%)
         SLM: STAN - Arbuthnott (56%) def. Khatamova (44%)
         TRN: UCSB - Khatamova (73%) def. Arbuthnott (27%)
-        MAS: UCSB - Khatamova (NaN%) def. Arbuthnott (NaN%)
+        MAS: STAN - Arbuthnott (53%) def. Khatamova (47%)
         UTR: STAN - Arbuthnott (80%) def. Khatamova (20%)
         ITA: UCSB - Khatamova (6.05) def. Arbuthnott (1.89)
     - Position: 4
@@ -90,7 +91,7 @@ Lineups:
         AVG: STAN - Geller (97%) def. Sentenac (3%)
         SLM: STAN - Geller (98%) def. Sentenac (2%)
         TRN: STAN - Geller (98%) def. Sentenac (2%)
-        MAS: UCSB - Sentenac (NaN%) def. Geller (NaN%)
+        MAS: STAN - Geller (92%) def. Sentenac (8%)
         UTR: STAN - Geller (98%) def. Sentenac (2%)
         ITA: STAN - Geller (2.62) def. Sentenac (1.51)
     - Position: 5
@@ -100,7 +101,7 @@ Lineups:
         AVG: STAN - Choy (97%) def. Reuter (3%)
         SLM: STAN - Choy (98%) def. Reuter (2%)
         TRN: STAN - Choy (99%) def. Reuter (1%)
-        MAS: UCSB - Reuter (NaN%) def. Choy (NaN%)
+        MAS: STAN - Choy (94%) def. Reuter (6%)
         UTR: STAN - Choy (98%) def. Reuter (2%)
         ITA: STAN - Choy (2.38) def. Reuter (0.00)
     - Position: 6
@@ -110,7 +111,7 @@ Lineups:
         AVG: STAN - Higuchi (97%) def. Ballbe (3%)
         SLM: STAN - Higuchi (97%) def. Ballbe (3%)
         TRN: STAN - Higuchi (98%) def. Ballbe (2%)
-        MAS: UCSB - Ballbe (NaN%) def. Higuchi (NaN%)
+        MAS: STAN - Higuchi (92%) def. Ballbe (8%)
         UTR: STAN - Higuchi (99%) def. Ballbe (1%)
         ITA: STAN - Higuchi (2.68) def. Ballbe (2.38)
   Doubles:

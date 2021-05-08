@@ -43,6 +43,7 @@ Atlanta, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***MISS*** - Ole Miss (93%) def. North Florida (7%)  
 - Slam: ***MISS*** - #26 Ole Miss (93%) def. #46 North Florida (7%)  
 - TRN: ***MISS*** - #26 Ole Miss (96%) def. #46 North Florida (4%)  
 - Massey: ***MISS*** - #29 Ole Miss (85%) def. #47 North Florida (15%)  
@@ -65,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MISS</i></b> - Machalova (81%) def. Montano (19%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Machalova (74%) def. Montano (26%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Machalova (87%) def. Montano (13%)</li>  
-<li>Massey: <b><i>UNF</i></b> - Montano (NaN%) def. Machalova (NaN%)</li>  
+<li>Massey: <b><i>MISS</i></b> - Machalova (73%) def. Montano (27%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Machalova (91%) def. Montano (9%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Machalova (19.63) def. Montano (2.10)</li>  
 </ul>
@@ -76,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MISS</i></b> - Fiquet (64%) def. Gulihur (36%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Fiquet (67%) def. Gulihur (33%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Fiquet (68%) def. Gulihur (32%)</li>  
-<li>Massey: <b><i>UNF</i></b> - Gulihur (NaN%) def. Fiquet (NaN%)</li>  
+<li>Massey: <b><i>UNF</i></b> - Gulihur (51%) def. Fiquet (49%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Fiquet (74%) def. Gulihur (26%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Fiquet (6.49) def. Gulihur (3.92)</li>  
 </ul>
@@ -87,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MISS</i></b> - Janatova (90%) def. Gorches (10%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Janatova (93%) def. Gorches (7%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Janatova (95%) def. Gorches (5%)</li>  
-<li>Massey: <b><i>UNF</i></b> - Gorches (NaN%) def. Janatova (NaN%)</li>  
+<li>Massey: <b><i>MISS</i></b> - Janatova (80%) def. Gorches (20%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Janatova (92%) def. Gorches (8%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Janatova (4.99) def. Gorches (1.63)</li>  
 </ul>
@@ -98,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MISS</i></b> - Vrbenska (94%) def. Yardley (6%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Vrbenska (95%) def. Yardley (5%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Vrbenska (95%) def. Yardley (5%)</li>  
-<li>Massey: <b><i>UNF</i></b> - Yardley (NaN%) def. Vrbenska (NaN%)</li>  
+<li>Massey: <b><i>MISS</i></b> - Vrbenska (93%) def. Yardley (7%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Vrbenska (94%) def. Yardley (6%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Vrbenska (2.42) def. Yardley (1.55)</li>  
 </ul>
@@ -109,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MISS</i></b> - Zadori (75%) def. Davis (25%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Zadori (82%) def. Davis (18%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Zadori (73%) def. Davis (27%)</li>  
-<li>Massey: <b><i>UNF</i></b> - Davis (NaN%) def. Zadori (NaN%)</li>  
+<li>Massey: <b><i>MISS</i></b> - Zadori (55%) def. Davis (45%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Zadori (88%) def. Davis (12%)</li>  
 <li>ITA: <b><i>UNF</i></b> - Davis (3.59) def. Zadori (1.55)</li>  
 </ul>
@@ -120,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MISS</i></b> - Gabrielsen (91%) def. Mariotto (9%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Gabrielsen (93%) def. Mariotto (7%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Gabrielsen (95%) def. Mariotto (5%)</li>  
-<li>Massey: <b><i>UNF</i></b> - Mariotto (NaN%) def. Gabrielsen (NaN%)</li>  
+<li>Massey: <b><i>MISS</i></b> - Gabrielsen (81%) def. Mariotto (19%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Gabrielsen (94%) def. Mariotto (6%)</li>  
 <li>ITA: <b><i>UNF</i></b> - Mariotto (1.74) def. Gabrielsen (1.53)</li>  
 </ul>

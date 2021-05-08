@@ -36,6 +36,7 @@ Visitor:
     MAS: 56 (5.80)
     UTR: 58 (70.91)
 Predictions:
+  AVG: OKST - Oklahoma St. (97%) def. Navy (3%)
   SLM: "OKST - #24 Oklahoma St. (98%) def. #54 Navy (2%)"
   TRN: "OKST - #23 Oklahoma St. (92%) def. #48 Navy (8%)"
   MAS: "OKST - #29 Oklahoma St. (99%) def. #56 Navy (1%)"
@@ -47,8 +48,8 @@ Predictions:
   Seeding: "OKST - #2 Oklahoma St. def. #3 Navy"
 Lineups:
   Predictions:
-    Average EWPs for OKST: 98%,92%,NaN%,100%
-    Average EWPs for NAVY: 2%,8%,NaN%,0%
+    Average EWPs for OKST: 98%,92%,99%,100%
+    Average EWPs for NAVY: 2%,8%,1%,0%
     OKST wins 4 or more Singles points: 98%
     NAVY wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 2%
@@ -60,7 +61,7 @@ Lineups:
         AVG: OKST - Vocel (91%) def. Ton (9%)
         SLM: OKST - Vocel (92%) def. Ton (8%)
         TRN: OKST - Vocel (93%) def. Ton (7%)
-        MAS: NAVY - Ton (NaN%) def. Vocel (NaN%)
+        MAS: OKST - Vocel (86%) def. Ton (14%)
         UTR: OKST - Vocel (95%) def. Ton (5%)
         ITA: OKST - Vocel (20.98) def. Ton (4.17)
     - Position: 2
@@ -70,7 +71,7 @@ Lineups:
         AVG: OKST - Korsgaard (80%) def. Thompson (20%)
         SLM: OKST - Korsgaard (80%) def. Thompson (20%)
         TRN: OKST - Korsgaard (84%) def. Thompson (16%)
-        MAS: NAVY - Thompson (NaN%) def. Korsgaard (NaN%)
+        MAS: OKST - Korsgaard (72%) def. Thompson (28%)
         UTR: OKST - Korsgaard (85%) def. Thompson (15%)
         ITA: NAVY - Thompson (4.17) def. Korsgaard (2.00)
     - Position: 3
@@ -80,7 +81,7 @@ Lineups:
         AVG: OKST - Hudd (99%) def. Fishkin (1%)
         SLM: OKST - Hudd (99%) def. Fishkin (1%)
         TRN: OKST - Hudd (99%) def. Fishkin (1%)
-        MAS: NAVY - Fishkin (NaN%) def. Hudd (NaN%)
+        MAS: OKST - Hudd (98%) def. Fishkin (2%)
         UTR: OKST - Hudd (98%) def. Fishkin (2%)
         ITA: OKST - Hudd (4.25) def. Fishkin (0.00)
     - Position: 4
@@ -90,7 +91,7 @@ Lineups:
         AVG: OKST - Scaglia (94%) def. Garner (6%)
         SLM: OKST - Scaglia (96%) def. Garner (4%)
         TRN: OKST - Scaglia (96%) def. Garner (4%)
-        MAS: NAVY - Garner (NaN%) def. Scaglia (NaN%)
+        MAS: OKST - Scaglia (88%) def. Garner (12%)
         UTR: OKST - Scaglia (96%) def. Garner (4%)
         ITA: OKST - Scaglia (2.10) def. Garner (1.69)
     - Position: 5
@@ -100,7 +101,7 @@ Lineups:
         AVG: OKST - Donnet (81%) def. Segraves (19%)
         SLM: OKST - Donnet (87%) def. Segraves (13%)
         TRN: OKST - Donnet (88%) def. Segraves (12%)
-        MAS: NAVY - Segraves (NaN%) def. Donnet (NaN%)
+        MAS: OKST - Donnet (61%) def. Segraves (39%)
         UTR: OKST - Donnet (89%) def. Segraves (11%)
         ITA: NAVY - Segraves (4.17) def. Donnet (0.00)
     - Position: 6
@@ -110,7 +111,7 @@ Lineups:
         AVG: OKST - Bobichon (76%) def. McBride (24%)
         SLM: OKST - Bobichon (81%) def. McBride (19%)
         TRN: OKST - Bobichon (67%) def. McBride (33%)
-        MAS: NAVY - McBride (NaN%) def. Bobichon (NaN%)
+        MAS: OKST - Bobichon (62%) def. McBride (38%)
         UTR: OKST - Bobichon (93%) def. McBride (7%)
         ITA: NAVY - McBride (2.91) def. Bobichon (1.32)
   Doubles:

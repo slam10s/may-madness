@@ -37,6 +37,7 @@ Visitor:
   Polls:
     Coach: 47
 Predictions:
+  AVG: TTU - Texas Tech (59%) def. San Diego (41%)
   SLM: "TTU - #34 Texas Tech (53%) def. #36 San Diego (47%)"
   TRN: "TTU - #34 Texas Tech (61%) def. #38 San Diego (39%)"
   MAS: "TTU - #28 Texas Tech (56%) def. #32 San Diego (44%)"
@@ -47,8 +48,8 @@ Predictions:
   Seeding: "TTU - #2 Texas Tech def. #3 San Diego"
 Lineups:
   Predictions:
-    Average EWPs for TTU: 53%,61%,NaN%,65%
-    Average EWPs for USD: 47%,39%,NaN%,35%
+    Average EWPs for TTU: 53%,61%,56%,65%
+    Average EWPs for USD: 47%,39%,44%,35%
     TTU wins 4 or more Singles points: 43%
     USD wins 4 or more Singles points: 23%
     Winner decided by the Doubles point: 34%
@@ -60,7 +61,7 @@ Lineups:
         AVG: USD - Colling (80%) def. Mays (20%)
         SLM: USD - Colling (89%) def. Mays (11%)
         TRN: USD - Colling (88%) def. Mays (12%)
-        MAS: USD - Colling (NaN%) def. Mays (NaN%)
+        MAS: USD - Colling (62%) def. Mays (38%)
         UTR: USD - Colling (84%) def. Mays (16%)
         ITA: USD - Colling (12.76) def. Mays (3.54)
     - Position: 2
@@ -70,7 +71,7 @@ Lineups:
         AVG: TTU - Skriabina (66%) def. Goldsmith (34%)
         SLM: USD - Goldsmith (51%) def. Skriabina (49%)
         TRN: TTU - Skriabina (54%) def. Goldsmith (46%)
-        MAS: USD - Goldsmith (NaN%) def. Skriabina (NaN%)
+        MAS: TTU - Skriabina (76%) def. Goldsmith (24%)
         UTR: TTU - Skriabina (86%) def. Goldsmith (14%)
         ITA: TTU - Skriabina (6.63) def. Goldsmith (2.97)
     - Position: 3
@@ -80,7 +81,7 @@ Lineups:
         AVG: USD - McBride (59%) def. Staines (41%)
         SLM: USD - McBride (52%) def. Staines (48%)
         TRN: USD - McBride (58%) def. Staines (42%)
-        MAS: USD - McBride (NaN%) def. Staines (NaN%)
+        MAS: USD - McBride (70%) def. Staines (30%)
         UTR: USD - McBride (59%) def. Staines (41%)
         ITA: TTU - Staines (4.66) def. McBride (3.11)
     - Position: 4
@@ -90,7 +91,7 @@ Lineups:
         AVG: USD - Desiatnikov (51%) def. Miller (49%)
         SLM: TTU - Miller (61%) def. Desiatnikov (39%)
         TRN: USD - Desiatnikov (57%) def. Miller (43%)
-        MAS: USD - Desiatnikov (NaN%) def. Miller (NaN%)
+        MAS: TTU - Miller (60%) def. Desiatnikov (40%)
         UTR: USD - Desiatnikov (71%) def. Miller (29%)
         ITA: TTU - Miller (2.66) def. Desiatnikov (2.52)
     - Position: 5
@@ -100,7 +101,7 @@ Lineups:
         AVG: TTU - Peet (78%) def. Kalaitzis (22%)
         SLM: TTU - Peet (83%) def. Kalaitzis (17%)
         TRN: TTU - Peet (77%) def. Kalaitzis (23%)
-        MAS: USD - Kalaitzis (NaN%) def. Peet (NaN%)
+        MAS: TTU - Peet (69%) def. Kalaitzis (31%)
         UTR: TTU - Peet (83%) def. Kalaitzis (17%)
         ITA: USD - Kalaitzis (2.42) def. Peet (2.03)
     - Position: 6
@@ -110,7 +111,7 @@ Lineups:
         AVG: TTU - Komac (75%) def. Kukaras (25%)
         SLM: TTU - Komac (82%) def. Kukaras (18%)
         TRN: TTU - Komac (83%) def. Kukaras (17%)
-        MAS: USD - Kukaras (NaN%) def. Komac (NaN%)
+        MAS: TTU - Komac (64%) def. Kukaras (36%)
         UTR: TTU - Komac (72%) def. Kukaras (28%)
         ITA: USD - Kukaras (2.39) def. Komac (1.98)
   Doubles:

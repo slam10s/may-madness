@@ -38,6 +38,7 @@ Visitor:
   Polls:
     Coach: 43
 Predictions:
+  AVG: DUKE - Duke (96%) def. Alabama (4%)
   SLM: "DUKE - #14 Duke (93%) def. #44 Alabama (7%)"
   TRN: "DUKE - #15 Duke (94%) def. #44 Alabama (6%)"
   MAS: "DUKE - #11 Duke (98%) def. #44 Alabama (2%)"
@@ -49,8 +50,8 @@ Predictions:
   Seeding: "DUKE - #2 Duke def. #3 Alabama"
 Lineups:
   Predictions:
-    Average EWPs for DUKE: 93%,94%,NaN%,100%
-    Average EWPs for BAMA: 7%,6%,NaN%,0%
+    Average EWPs for DUKE: 93%,94%,98%,100%
+    Average EWPs for BAMA: 7%,6%,2%,0%
     DUKE wins 4 or more Singles points: 99%
     BAMA wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -62,7 +63,7 @@ Lineups:
         AVG: DUKE - Chen (86%) def. Bencheikh (14%)
         SLM: DUKE - Chen (86%) def. Bencheikh (14%)
         TRN: DUKE - Chen (85%) def. Bencheikh (15%)
-        MAS: BAMA - Bencheikh (NaN%) def. Chen (NaN%)
+        MAS: DUKE - Chen (85%) def. Bencheikh (15%)
         UTR: DUKE - Chen (86%) def. Bencheikh (14%)
         ITA: DUKE - Chen (12.42) def. Bencheikh (1.60)
     - Position: 2
@@ -72,7 +73,7 @@ Lineups:
         AVG: DUKE - Drummy (90%) def. Pou (10%)
         SLM: DUKE - Drummy (93%) def. Pou (7%)
         TRN: DUKE - Drummy (90%) def. Pou (10%)
-        MAS: BAMA - Pou (NaN%) def. Drummy (NaN%)
+        MAS: DUKE - Drummy (88%) def. Pou (12%)
         UTR: DUKE - Drummy (90%) def. Pou (10%)
         ITA: DUKE - Drummy (24.14) def. Pou (2.01)
     - Position: 3
@@ -82,7 +83,7 @@ Lineups:
         AVG: DUKE - Beck (95%) def. Parkhomenko (5%)
         SLM: DUKE - Beck (96%) def. Parkhomenko (4%)
         TRN: DUKE - Beck (96%) def. Parkhomenko (4%)
-        MAS: BAMA - Parkhomenko (NaN%) def. Beck (NaN%)
+        MAS: DUKE - Beck (96%) def. Parkhomenko (4%)
         UTR: DUKE - Beck (93%) def. Parkhomenko (7%)
         ITA: DUKE - Beck (15.35) def. Parkhomenko (0.00)
     - Position: 4
@@ -92,7 +93,7 @@ Lineups:
         AVG: DUKE - Chi (94%) def. Hiser (6%)
         SLM: DUKE - Chi (93%) def. Hiser (7%)
         TRN: DUKE - Chi (96%) def. Hiser (4%)
-        MAS: BAMA - Hiser (NaN%) def. Chi (NaN%)
+        MAS: DUKE - Chi (94%) def. Hiser (6%)
         UTR: DUKE - Chi (91%) def. Hiser (9%)
         ITA: DUKE - Chi (15.20) def. Hiser (0.00)
     - Position: 5
@@ -102,7 +103,7 @@ Lineups:
         AVG: DUKE - Bilokin (91%) def. Riley (9%)
         SLM: DUKE - Bilokin (93%) def. Riley (7%)
         TRN: DUKE - Bilokin (90%) def. Riley (10%)
-        MAS: BAMA - Riley (NaN%) def. Bilokin (NaN%)
+        MAS: DUKE - Bilokin (87%) def. Riley (13%)
         UTR: DUKE - Bilokin (93%) def. Riley (7%)
         ITA: DUKE - Bilokin (2.72) def. Riley (0.00)
     - Position: 6
@@ -112,7 +113,7 @@ Lineups:
         AVG: DUKE - Berankova (84%) def. Orefice (16%)
         SLM: DUKE - Berankova (92%) def. Orefice (8%)
         TRN: DUKE - Berankova (80%) def. Orefice (20%)
-        MAS: BAMA - Orefice (NaN%) def. Berankova (NaN%)
+        MAS: DUKE - Berankova (68%) def. Orefice (32%)
         UTR: DUKE - Berankova (97%) def. Orefice (3%)
   Doubles:
     - Position: 1

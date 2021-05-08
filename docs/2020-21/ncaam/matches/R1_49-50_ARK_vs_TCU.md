@@ -41,6 +41,7 @@ Fort Worth, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***TCU*** - TCU (98%) def. Arkansas (2%)  
 - Slam: ***TCU*** - #9 TCU (96%) def. #43 Arkansas (4%)  
 - TRN: ***TCU*** - #9 TCU (98%) def. #44 Arkansas (2%)  
 - Massey: ***TCU*** - #6 TCU (99%) def. #50 Arkansas (1%)  
@@ -64,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TCU</i></b> - Gray (87%) def. Reco (13%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Gray (83%) def. Reco (17%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Gray (88%) def. Reco (12%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Reco (NaN%) def. Gray (NaN%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Gray (89%) def. Reco (11%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Gray (89%) def. Reco (11%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Gray (40.15) def. Reco (4.00)</li>  
 </ul>
@@ -75,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TCU</i></b> - Fomba (95%) def. Verboven (5%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Fomba (94%) def. Verboven (6%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Fomba (98%) def. Verboven (2%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Verboven (NaN%) def. Fomba (NaN%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Fomba (98%) def. Verboven (2%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Fomba (92%) def. Verboven (8%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Fomba (35.12) def. Verboven (1.79)</li>  
 </ul>
@@ -83,10 +84,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nico Rousett (ARK) - 8-5 at #3, 12-9 in duals, 15-12 overall<br>Sander Jong (TCU) - 10-5 at #3, 10-7 in duals, 11-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Jong (82%) def. Rousett (18%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Jong (83%) def. Rousett (17%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Jong (79%) def. Rousett (21%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Jong (81%) def. Rousett (19%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Rousett (NaN%) def. Jong (NaN%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Jong (81%) def. Rousett (19%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Jong (91%) def. Rousett (9%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jong (11.43) def. Rousett (9.93)</li>  
 </ul>
@@ -94,10 +95,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Aleksa Bucan (ARK) - 3-4 at #4, 6-8 in duals, 10-10 overall<br>Jake Fearnley (TCU) - 4-2 at #4, 8-3 in duals, 8-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Fearnley (88%) def. Bucan (12%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Fearnley (89%) def. Bucan (11%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Fearnley (83%) def. Bucan (17%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Fearnley (91%) def. Bucan (9%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Bucan (NaN%) def. Fearnley (NaN%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Fearnley (89%) def. Bucan (11%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Fearnley (91%) def. Bucan (9%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Fearnley (5.67) def. Bucan (2.10)</li>  
 </ul>
@@ -108,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TCU</i></b> - Jirousek (87%) def. Burdet (13%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Jirousek (87%) def. Burdet (13%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Jirousek (88%) def. Burdet (12%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Burdet (NaN%) def. Jirousek (NaN%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Jirousek (89%) def. Burdet (11%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Jirousek (86%) def. Burdet (14%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jirousek (6.98) def. Burdet (1.73)</li>  
 </ul>
@@ -116,10 +117,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Enrique Paya (ARK) - 6-10 at #6, 6-11 in duals, 6-11 overall<br>Tadeas Paroulek (TCU) - 1-3 at #6, 7-11 in duals, 7-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Paroulek (90%) def. Paya (10%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Paroulek (91%) def. Paya (9%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Paroulek (92%) def. Paya (8%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Paroulek (96%) def. Paya (4%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Paya (NaN%) def. Paroulek (NaN%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Paroulek (87%) def. Paya (13%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Paroulek (88%) def. Paya (12%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Paroulek (1.35) def. Paya (0.00)</li>  
 </ul>

@@ -37,6 +37,7 @@ Visitor:
     MAS: 48 (6.03)
     UTR: 48 (55.75)
 Predictions:
+  AVG: NCST - NC State (99%) def. VCU (1%)
   SLM: "NCST - #11 NC State (99%) def. #48 VCU (1%)"
   TRN: "NCST - #10 NC State (99%) def. #48 VCU (1%)"
   MAS: "NCST - #6 NC State (99%) def. #48 VCU (1%)"
@@ -48,8 +49,8 @@ Predictions:
   Seeding: "NCST - #1 NC State def. #4 VCU"
 Lineups:
   Predictions:
-    Average EWPs for NCST: 99%,99%,NaN%,100%
-    Average EWPs for VCU: 1%,1%,NaN%,0%
+    Average EWPs for NCST: 99%,99%,99%,100%
+    Average EWPs for VCU: 1%,1%,1%,0%
     NCST wins 4 or more Singles points: 100%
     VCU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -58,10 +59,10 @@ Lineups:
       NCST: Anna Rogers - 14-6 at 1, 14-6 in duals, 19-6 overall
       VCU: Paola Exposito Diaz-Delgado - 16-3 at 1, 16-3 in duals, 16-3 overall
       Predictions:
-        AVG: NCST - Rogers (84%) def. Diaz-Delgado (16%)
+        AVG: NCST - Rogers (85%) def. Diaz-Delgado (15%)
         SLM: NCST - Rogers (85%) def. Diaz-Delgado (15%)
         TRN: NCST - Rogers (81%) def. Diaz-Delgado (19%)
-        MAS: VCU - Diaz-Delgado (NaN%) def. Rogers (NaN%)
+        MAS: NCST - Rogers (87%) def. Diaz-Delgado (13%)
         UTR: NCST - Rogers (85%) def. Diaz-Delgado (15%)
         ITA: NCST - Rogers (48.19) def. Diaz-Delgado (5.71)
     - Position: 2
@@ -71,7 +72,7 @@ Lineups:
         AVG: NCST - Smith (97%) def. Tutunaru (3%)
         SLM: NCST - Smith (96%) def. Tutunaru (4%)
         TRN: NCST - Smith (98%) def. Tutunaru (2%)
-        MAS: VCU - Tutunaru (NaN%) def. Smith (NaN%)
+        MAS: NCST - Smith (97%) def. Tutunaru (3%)
         UTR: NCST - Smith (97%) def. Tutunaru (3%)
         ITA: NCST - Smith (22.32) def. Tutunaru (1.60)
     - Position: 3
@@ -81,7 +82,7 @@ Lineups:
         AVG: NCST - Reami (96%) def. Ciuca (4%)
         SLM: NCST - Reami (96%) def. Ciuca (4%)
         TRN: NCST - Reami (97%) def. Ciuca (3%)
-        MAS: VCU - Ciuca (NaN%) def. Reami (NaN%)
+        MAS: NCST - Reami (95%) def. Ciuca (5%)
         UTR: NCST - Reami (97%) def. Ciuca (3%)
         ITA: NCST - Reami (4.00) def. Ciuca (1.68)
     - Position: 4
@@ -91,7 +92,7 @@ Lineups:
         AVG: NCST - Daniel (95%) def. Davidescu (5%)
         SLM: NCST - Daniel (96%) def. Davidescu (4%)
         TRN: NCST - Daniel (95%) def. Davidescu (5%)
-        MAS: VCU - Davidescu (NaN%) def. Daniel (NaN%)
+        MAS: NCST - Daniel (93%) def. Davidescu (7%)
         UTR: NCST - Daniel (96%) def. Davidescu (4%)
         ITA: NCST - Daniel (1.87) def. Davidescu (1.64)
     - Position: 5
@@ -101,7 +102,7 @@ Lineups:
         AVG: NCST - Rencheli (94%) def. Witmus (6%)
         SLM: NCST - Rencheli (95%) def. Witmus (5%)
         TRN: NCST - Rencheli (97%) def. Witmus (3%)
-        MAS: VCU - Witmus (NaN%) def. Rencheli (NaN%)
+        MAS: NCST - Rencheli (90%) def. Witmus (10%)
         UTR: NCST - Rencheli (96%) def. Witmus (4%)
         ITA: NCST - Rencheli (7.12) def. Witmus (2.03)
     - Position: 6
@@ -111,7 +112,7 @@ Lineups:
         AVG: NCST - Keberle (96%) def. Manjanna (4%)
         SLM: NCST - Keberle (97%) def. Manjanna (3%)
         TRN: NCST - Keberle (98%) def. Manjanna (2%)
-        MAS: VCU - Manjanna (NaN%) def. Keberle (NaN%)
+        MAS: NCST - Keberle (94%) def. Manjanna (6%)
         UTR: NCST - Keberle (96%) def. Manjanna (4%)
         ITA: VCU - Manjanna (1.77) def. Keberle (1.71)
   Doubles:
