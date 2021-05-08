@@ -45,7 +45,7 @@ Chapel Hill, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***ODU*** - #28 Old Dominion (73%) def. #38 Arkansas (27%)  
 - TRN: ***ODU*** - #25 Old Dominion (71%) def. #32 Arkansas (29%)  
-- Massey: ***ODU*** - #29 Old Dominion (75%) def. #41 Arkansas (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***ODU*** - #29 Old Dominion (77%) def. #41 Arkansas (23%)  
 - Lineup: ***ODU*** - Old Dominion (63%) def. Arkansas (37%)  
 - Composite: ***ODU*** - Old Dominion (71%) def. Arkansas (29%)  
 - UTR: ***ODU*** - #37 Old Dominion (+0.12) def. #38 Arkansas (-0.12)  
@@ -66,9 +66,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ODU</i></b> - Hutchinson (61%) def. Spink (39%)</li>  
 <li>TRN: <b><i>ARK</i></b> - Spink (54%) def. Hutchinson (46%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Spink (75%) def. Hutchinson (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ARK</i></b> - Spink (59%) def. Hutchinson (41%)</li>  
 <li>UTR: <b><i>ARK</i></b> - Spink (72%) def. Hutchinson (28%)</li>  
-<li>Composite: <b><i>ARK</i></b> - Spink (59%) def. Hutchinson (41%)</li>  
+<li>Composite: <b><i>ARK</i></b> - Spink (55%) def. Hutchinson (45%)</li>  
 <li>ITA: <b><i>ARK</i></b> - Spink (13.82) def. Hutchinson (5.40)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,9 +77,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ODU</i></b> - Starodubtseva (55%) def. Keller (45%)</li>  
 <li>TRN: <b><i>ODU</i></b> - Starodubtseva (74%) def. Keller (26%)</li>  
-<li>Massey: <b><i>ODU</i></b> - Starodubtseva (75%) def. Keller (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ODU</i></b> - Starodubtseva (69%) def. Keller (31%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Starodubtseva (55%) def. Keller (45%)</li>  
-<li>Composite: <b><i>ODU</i></b> - Starodubtseva (65%) def. Keller (35%)</li>  
+<li>Composite: <b><i>ODU</i></b> - Starodubtseva (63%) def. Keller (37%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Starodubtseva (11.96) def. Keller (2.19)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ODU</i></b> - Sasnouskaya (68%) def. Rice (32%)</li>  
 <li>TRN: <b><i>ODU</i></b> - Sasnouskaya (66%) def. Rice (34%)</li>  
-<li>Massey: <b><i>ODU</i></b> - Sasnouskaya (75%) def. Rice (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ODU</i></b> - Sasnouskaya (75%) def. Rice (25%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Sasnouskaya (67%) def. Rice (33%)</li>  
 <li>Composite: <b><i>ODU</i></b> - Sasnouskaya (69%) def. Rice (31%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Sasnouskaya (7.78) def. Rice (2.00)</li>  
@@ -99,9 +99,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ARK</i></b> - Cross (63%) def. Yakubovich (37%)</li>  
 <li>TRN: <b><i>ARK</i></b> - Cross (69%) def. Yakubovich (31%)</li>  
-<li>Massey: <b><i>ARK</i></b> - Cross (75%) def. Yakubovich (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ARK</i></b> - Cross (51%) def. Yakubovich (49%)</li>  
 <li>UTR: <b><i>ARK</i></b> - Cross (80%) def. Yakubovich (20%)</li>  
-<li>Composite: <b><i>ARK</i></b> - Cross (71%) def. Yakubovich (29%)</li>  
+<li>Composite: <b><i>ARK</i></b> - Cross (65%) def. Yakubovich (35%)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ODU</i></b> - Pilkington (54%) def. Alter (46%)</li>  
 <li>TRN: <b><i>ODU</i></b> - Pilkington (55%) def. Alter (45%)</li>  
-<li>Massey: <b><i>ODU</i></b> - Pilkington (75%) def. Alter (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ODU</i></b> - Pilkington (74%) def. Alter (26%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Pilkington (79%) def. Alter (21%)</li>  
 <li>Composite: <b><i>ODU</i></b> - Pilkington (66%) def. Alter (34%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Pilkington (1.80) def. Alter (0.00)</li>  
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ARK</i></b> - Rijkers (55%) def. Viktorovich (45%)</li>  
 <li>TRN: <b><i>ARK</i></b> - Rijkers (69%) def. Viktorovich (31%)</li>  
-<li>Massey: <b><i>ODU</i></b> - Viktorovich (75%) def. Rijkers (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ODU</i></b> - Viktorovich (55%) def. Rijkers (45%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Viktorovich (80%) def. Rijkers (20%)</li>  
-<li>Composite: <b><i>ODU</i></b> - Viktorovich (58%) def. Rijkers (42%)</li>  
+<li>Composite: <b><i>ODU</i></b> - Viktorovich (53%) def. Rijkers (47%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Viktorovich (2.38) def. Rijkers (1.60)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Old Dominion should win 4 or more singles matches _43%_ of the time.  
+- Old Dominion should win 4 or more singles matches _44%_ of the time.  
 - Arkansas should win 4 or more singles matches _25%_ of the time.  
-- The winner of the doubles point will decide the match the other _32%_ of the time.  
+- The winner of the doubles point will decide the match the other _31%_ of the time.  
 - If Old Dominion wins the doubles point, their chances of winning the dual improve to _75%_.  
-- If Arkansas wins the doubles point, their chances of winning the dual improve to _57%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Arkansas wins the doubles point, their chances of winning the dual improve to _56%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

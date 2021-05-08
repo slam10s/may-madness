@@ -39,9 +39,9 @@ Visitor:
 Predictions:
   SLM: "OSU - #7 Ohio St. (95%) def. #36 VCU (5%)"
   TRN: "OSU - #8 Ohio St. (98%) def. #38 VCU (2%)"
-  MAS: "OSU - #9 Ohio St. (75%) def. #35 VCU (25%)"
+  MAS: "OSU - #9 Ohio St. (95%) def. #35 VCU (5%)"
   LNUP: OSU - Ohio St. (100%) def. VCU (0%)
-  AVG: OSU - Ohio St. (92%) def. VCU (8%)
+  AVG: OSU - Ohio St. (97%) def. VCU (3%)
   UTR: "OSU - #3 Ohio St. (+3.21) def. #29 VCU (-3.21)"
   ITA: "OSU - #31 Ohio St. def. #37 VCU"
   USTA: "OSU - #7 Ohio St. def. VCU"
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "OSU - #2 Ohio St. def. #3 VCU"
 Lineups:
   Predictions:
-    Average EWPs for OSU: 95%,98%,75%,100%
-    Average EWPs for VCU: 5%,2%,25%,0%
-    OSU wins 4 or more Singles points: 96%
+    Average EWPs for OSU: 95%,98%,95%,100%
+    Average EWPs for VCU: 5%,2%,5%,0%
+    OSU wins 4 or more Singles points: 97%
     VCU wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 4%
+    Winner decided by the Doubles point: 3%
   Singles:
     - Position: 1
       OSU: John McNally - 10-2 at 1, 16-4 in duals, 21-4 overall
@@ -61,9 +61,9 @@ Lineups:
       Predictions:
         SLM: OSU - McNally (89%) def. Cronje (11%)
         TRN: OSU - McNally (90%) def. Cronje (10%)
-        MAS: OSU - McNally (75%) def. Cronje (25%)
+        MAS: OSU - McNally (80%) def. Cronje (20%)
         UTR: OSU - McNally (85%) def. Cronje (15%)
-        AVG: OSU - McNally (85%) def. Cronje (15%)
+        AVG: OSU - McNally (86%) def. Cronje (14%)
         ITA: VCU - Cronje (8.20) def. McNally (3.89)
     - Position: 2
       OSU: Cannon Kingsley - 12-0 at 2, 21-0 in duals, 27-0 overall
@@ -71,9 +71,9 @@ Lineups:
       Predictions:
         SLM: OSU - Kingsley (95%) def. Bertimon (5%)
         TRN: OSU - Kingsley (97%) def. Bertimon (3%)
-        MAS: OSU - Kingsley (75%) def. Bertimon (25%)
+        MAS: OSU - Kingsley (91%) def. Bertimon (9%)
         UTR: OSU - Kingsley (91%) def. Bertimon (9%)
-        AVG: OSU - Kingsley (89%) def. Bertimon (11%)
+        AVG: OSU - Kingsley (93%) def. Bertimon (7%)
         ITA: OSU - Kingsley (5.20) def. Bertimon (3.10)
     - Position: 3
       OSU: James Trotter - 13-1 at 3, 13-1 in duals, 13-1 overall
@@ -91,9 +91,9 @@ Lineups:
       Predictions:
         SLM: OSU - Boulais (85%) def. Stable (15%)
         TRN: OSU - Boulais (73%) def. Stable (27%)
-        MAS: OSU - Boulais (75%) def. Stable (25%)
+        MAS: OSU - Boulais (59%) def. Stable (41%)
         UTR: OSU - Boulais (63%) def. Stable (37%)
-        AVG: OSU - Boulais (74%) def. Stable (26%)
+        AVG: OSU - Boulais (70%) def. Stable (30%)
         ITA: VCU - Stable (3.09) def. Boulais (2.92)
     - Position: 5
       OSU: Kyle Seelig - 3-0 at 5, 15-4 in duals, 18-8 overall
@@ -101,9 +101,9 @@ Lineups:
       Predictions:
         SLM: OSU - Seelig (87%) def. Coulaud (13%)
         TRN: OSU - Seelig (90%) def. Coulaud (10%)
-        MAS: OSU - Seelig (75%) def. Coulaud (25%)
+        MAS: OSU - Seelig (79%) def. Coulaud (21%)
         UTR: OSU - Seelig (89%) def. Coulaud (11%)
-        AVG: OSU - Seelig (85%) def. Coulaud (15%)
+        AVG: OSU - Seelig (86%) def. Coulaud (14%)
         ITA: OSU - Seelig (2.02) def. Coulaud (1.96)
     - Position: 6
       OSU: JJ Tracy - 6-0 at 6, 21-1 in duals, 24-3 overall
@@ -111,9 +111,9 @@ Lineups:
       Predictions:
         SLM: OSU - Tracy (94%) def. Zgraggen (6%)
         TRN: OSU - Tracy (97%) def. Zgraggen (3%)
-        MAS: OSU - Tracy (75%) def. Zgraggen (25%)
+        MAS: OSU - Tracy (86%) def. Zgraggen (14%)
         UTR: OSU - Tracy (96%) def. Zgraggen (4%)
-        AVG: OSU - Tracy (90%) def. Zgraggen (10%)
+        AVG: OSU - Tracy (93%) def. Zgraggen (7%)
         ITA: VCU - Zgraggen (3.45) def. Tracy (3.11)
   Doubles:
     - Position: 1

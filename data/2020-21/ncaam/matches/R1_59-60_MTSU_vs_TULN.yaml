@@ -39,7 +39,7 @@ Predictions:
   SLM: "TULN - #26 Tulane (78%) def. #45 Middle Tenn. (22%)"
   TRN: "TULN - #26 Tulane (79%) def. #45 Middle Tenn. (21%)"
   MAS: "TULN - #26 Tulane (75%) def. #42 Middle Tenn. (25%)"
-  LNUP: TULN - Tulane (85%) def. Middle Tenn. (15%)
+  LNUP: TULN - Tulane (82%) def. Middle Tenn. (18%)
   AVG: TULN - Tulane (79%) def. Middle Tenn. (21%)
   UTR: "TULN - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)"
   ITA: "TULN - #22 Tulane def. #42 Middle Tenn."
@@ -47,11 +47,11 @@ Predictions:
   Seeding: "TULN - #2 Tulane def. #3 Middle Tenn."
 Lineups:
   Predictions:
-    Average EWPs for TULN: 78%,79%,75%,85%
-    Average EWPs for MTSU: 22%,21%,25%,15%
-    TULN wins 4 or more Singles points: 64%
-    MTSU wins 4 or more Singles points: 11%
-    Winner decided by the Doubles point: 25%
+    Average EWPs for TULN: 78%,79%,75%,82%
+    Average EWPs for MTSU: 22%,21%,25%,18%
+    TULN wins 4 or more Singles points: 61%
+    MTSU wins 4 or more Singles points: 13%
+    Winner decided by the Doubles point: 26%
   Singles:
     - Position: 1
       TULN: Hamish Stewart - 12-7 at 1, 12-7 in duals, 12-7 overall
@@ -59,7 +59,7 @@ Lineups:
       Predictions:
         SLM: TULN - Stewart (70%) def. Rocha (30%)
         TRN: TULN - Stewart (60%) def. Rocha (40%)
-        MAS: TULN - Stewart (75%) def. Rocha (25%)
+        MAS: TULN - Stewart (71%) def. Rocha (29%)
         UTR: TULN - Stewart (85%) def. Rocha (15%)
         AVG: TULN - Stewart (72%) def. Rocha (28%)
         ITA: TULN - Stewart (22.58) def. Rocha (14.55)
@@ -69,9 +69,9 @@ Lineups:
       Predictions:
         SLM: TULN - Moore (69%) def. Slump (31%)
         TRN: TULN - Moore (58%) def. Slump (42%)
-        MAS: TULN - Moore (75%) def. Slump (25%)
+        MAS: TULN - Moore (58%) def. Slump (42%)
         UTR: TULN - Moore (78%) def. Slump (22%)
-        AVG: TULN - Moore (70%) def. Slump (30%)
+        AVG: TULN - Moore (66%) def. Slump (34%)
         ITA: MTSU - Slump (3.60) def. Moore (3.08)
     - Position: 3
       TULN: Luis Erlenbusch - 13-5 at 3, 14-5 in duals, 14-5 overall
@@ -79,9 +79,9 @@ Lineups:
       Predictions:
         SLM: TULN - Erlenbusch (72%) def. Moonen (28%)
         TRN: TULN - Erlenbusch (81%) def. Moonen (19%)
-        MAS: TULN - Erlenbusch (75%) def. Moonen (25%)
+        MAS: TULN - Erlenbusch (86%) def. Moonen (14%)
         UTR: TULN - Erlenbusch (86%) def. Moonen (14%)
-        AVG: TULN - Erlenbusch (78%) def. Moonen (22%)
+        AVG: TULN - Erlenbusch (81%) def. Moonen (19%)
         ITA: TULN - Erlenbusch (4.16) def. Moonen (1.88)
     - Position: 4
       TULN: Billy Suarez - 8-5 at 4, 9-6 in duals, 9-6 overall
@@ -89,9 +89,9 @@ Lineups:
       Predictions:
         SLM: MTSU - Edge (51%) def. Suarez (49%)
         TRN: TULN - Suarez (60%) def. Edge (40%)
-        MAS: TULN - Suarez (75%) def. Edge (25%)
+        MAS: TULN - Suarez (50%) def. Edge (50%)
         UTR: TULN - Suarez (56%) def. Edge (44%)
-        AVG: TULN - Suarez (60%) def. Edge (40%)
+        AVG: TULN - Suarez (54%) def. Edge (46%)
         ITA: MTSU - Edge (4.29) def. Suarez (2.40)
     - Position: 5
       TULN: Rafael de Alba - 3-2 at 5, 12-4 in duals, 12-4 overall
@@ -99,7 +99,7 @@ Lineups:
       Predictions:
         SLM: TULN - Alba (57%) def. Motl (43%)
         TRN: TULN - Alba (67%) def. Motl (33%)
-        MAS: TULN - Alba (75%) def. Motl (25%)
+        MAS: TULN - Alba (72%) def. Motl (28%)
         UTR: TULN - Alba (67%) def. Motl (33%)
         AVG: TULN - Alba (66%) def. Motl (34%)
         ITA: TULN - Alba (2.39) def. Motl (1.44)
@@ -109,9 +109,9 @@ Lineups:
       Predictions:
         SLM: MTSU - Michalek (60%) def. Kotorman (40%)
         TRN: TULN - Kotorman (58%) def. Michalek (42%)
-        MAS: MTSU - Michalek (75%) def. Kotorman (25%)
+        MAS: MTSU - Michalek (71%) def. Kotorman (29%)
         UTR: MTSU - Michalek (83%) def. Kotorman (17%)
-        AVG: MTSU - Michalek (64%) def. Kotorman (36%)
+        AVG: MTSU - Michalek (63%) def. Kotorman (37%)
         ITA: MTSU - Michalek (1.92) def. Kotorman (0.00)
   Doubles:
     - Position: 1

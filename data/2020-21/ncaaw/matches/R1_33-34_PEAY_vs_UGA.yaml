@@ -38,9 +38,9 @@ Visitor:
 Predictions:
   SLM: "UGA - #3 Georgia (99%) def. #56 Austin Peay (1%)"
   TRN: "UGA - #3 Georgia (99%) def. #56 Austin Peay (1%)"
-  MAS: "UGA - #3 Georgia (75%) def. #56 Austin Peay (25%)"
-  LNUP: UGA - Georgia (99%) def. Austin Peay (1%)
-  AVG: UGA - Georgia (93%) def. Austin Peay (7%)
+  MAS: "UGA - #3 Georgia (100%) def. #56 Austin Peay (0%)"
+  LNUP: UGA - Georgia (100%) def. Austin Peay (0%)
+  AVG: UGA - Georgia (99%) def. Austin Peay (1%)
   UTR: "UGA - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)"
   ITA: "UGA - #3 Georgia def. #57 Austin Peay"
   USTA: "UGA - #3 Georgia def. Austin Peay"
@@ -48,10 +48,10 @@ Predictions:
   Seeding: "UGA - #1 Georgia def. #4 Austin Peay"
 Lineups:
   Predictions:
-    Average EWPs for UGA: 99%,99%,75%,99%
-    Average EWPs for PEAY: 1%,1%,25%,1%
-    UGA wins 4 or more Singles points: 99%
-    PEAY wins 4 or more Singles points: 1%
+    Average EWPs for UGA: 99%,99%,100%,100%
+    Average EWPs for PEAY: 1%,1%,0%,0%
+    UGA wins 4 or more Singles points: 100%
+    PEAY wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
   Singles:
     - Position: 1
@@ -60,9 +60,9 @@ Lineups:
       Predictions:
         SLM: UGA - Jokic (99%) def. Schmidt (1%)
         TRN: UGA - Jokic (99%) def. Schmidt (1%)
-        MAS: UGA - Jokic (75%) def. Schmidt (25%)
+        MAS: UGA - Jokic (99%) def. Schmidt (1%)
         UTR: UGA - Jokic (98%) def. Schmidt (2%)
-        AVG: UGA - Jokic (93%) def. Schmidt (7%)
+        AVG: UGA - Jokic (99%) def. Schmidt (1%)
         ITA: UGA - Jokic (60.56) def. Schmidt (2.35)
     - Position: 2
       UGA: Lea Ma - 13-3 at 2, 13-3 in duals, 14-4 overall
@@ -70,9 +70,9 @@ Lineups:
       Predictions:
         SLM: UGA - Ma (99%) def. Morris (1%)
         TRN: UGA - Ma (99%) def. Morris (1%)
-        MAS: UGA - Ma (75%) def. Morris (25%)
+        MAS: UGA - Ma (98%) def. Morris (2%)
         UTR: UGA - Ma (97%) def. Morris (3%)
-        AVG: UGA - Ma (93%) def. Morris (7%)
+        AVG: UGA - Ma (98%) def. Morris (2%)
         ITA: UGA - Ma (11.14) def. Morris (2.12)
     - Position: 3
       UGA: Meg Kowalski - 12-1 at 3, 12-1 in duals, 22-1 overall
@@ -80,9 +80,9 @@ Lineups:
       Predictions:
         SLM: UGA - Kowalski (99%) def. Leder (1%)
         TRN: UGA - Kowalski (99%) def. Leder (1%)
-        MAS: UGA - Kowalski (75%) def. Leder (25%)
+        MAS: UGA - Kowalski (98%) def. Leder (2%)
         UTR: UGA - Kowalski (98%) def. Leder (2%)
-        AVG: UGA - Kowalski (93%) def. Leder (7%)
+        AVG: UGA - Kowalski (99%) def. Leder (1%)
         ITA: UGA - Kowalski (23.73) def. Leder (3.05)
     - Position: 4
       UGA: Morgan Coppoc - 15-2 at 4, 15-2 in duals, 23-5 overall
@@ -90,9 +90,9 @@ Lineups:
       Predictions:
         SLM: UGA - Coppoc (99%) def. Topalovic (1%)
         TRN: UGA - Coppoc (99%) def. Topalovic (1%)
-        MAS: UGA - Coppoc (75%) def. Topalovic (25%)
+        MAS: UGA - Coppoc (99%) def. Topalovic (1%)
         UTR: UGA - Coppoc (99%) def. Topalovic (1%)
-        AVG: UGA - Coppoc (93%) def. Topalovic (7%)
+        AVG: UGA - Coppoc (99%) def. Topalovic (1%)
         ITA: UGA - Coppoc (8.66) def. Topalovic (2.10)
     - Position: 5
       UGA: Marta Gonzalez - 1-1 at 5, 2-1 in duals, 11-1 overall
@@ -100,9 +100,9 @@ Lineups:
       Predictions:
         SLM: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         TRN: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
-        MAS: UGA - Gonzalez (75%) def. Paladini-Jennings (25%)
+        MAS: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         UTR: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
-        AVG: UGA - Gonzalez (93%) def. Paladini-Jennings (7%)
+        AVG: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         ITA: UGA - Gonzalez (11.71) def. Paladini-Jennings (1.85)
     - Position: 6
       UGA: Elena Christofi - 9-0 at 6, 10-2 in duals, 17-4 overall
@@ -110,9 +110,9 @@ Lineups:
       Predictions:
         SLM: UGA - Christofi (99%) def. Nakanishi (1%)
         TRN: UGA - Christofi (99%) def. Nakanishi (1%)
-        MAS: UGA - Christofi (75%) def. Nakanishi (25%)
+        MAS: UGA - Christofi (98%) def. Nakanishi (2%)
         UTR: UGA - Christofi (99%) def. Nakanishi (1%)
-        AVG: UGA - Christofi (93%) def. Nakanishi (7%)
+        AVG: UGA - Christofi (99%) def. Nakanishi (1%)
         ITA: UGA - Christofi (2.36) def. Nakanishi (2.24)
   Doubles:
     - Position: 1

@@ -45,9 +45,9 @@ Waco, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***DUKE*** - #14 Duke (93%) def. #44 Alabama (7%)  
 - TRN: ***DUKE*** - #15 Duke (94%) def. #44 Alabama (6%)  
-- Massey: ***DUKE*** - #11 Duke (75%) def. #44 Alabama (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***DUKE*** - #11 Duke (98%) def. #44 Alabama (2%)  
 - Lineup: ***DUKE*** - Duke (100%) def. Alabama (0%)  
-- Composite: ***DUKE*** - Duke (90%) def. Alabama (10%)  
+- Composite: ***DUKE*** - Duke (96%) def. Alabama (4%)  
 - UTR: ***DUKE*** - #12 Duke (+3.40) def. #40 Alabama (-3.40)  
 - ITA: ***DUKE*** - #17 Duke def. #42 Alabama  
 - USTA Poll: ***DUKE*** - #14 Duke def. Alabama  
@@ -66,9 +66,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chen (85%) def. Bencheikh (15%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Chen (75%) def. Bencheikh (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>DUKE</i></b> - Chen (85%) def. Bencheikh (15%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Chen (83%) def. Bencheikh (17%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chen (12.42) def. Bencheikh (1.60)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,9 +77,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Drummy (93%) def. Pou (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Drummy (75%) def. Pou (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>DUKE</i></b> - Drummy (88%) def. Pou (12%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Drummy (87%) def. Pou (13%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Drummy (24.14) def. Pou (2.01)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,9 +88,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Beck (75%) def. Parkhomenko (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Beck (93%) def. Parkhomenko (7%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Beck (90%) def. Parkhomenko (10%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Beck (95%) def. Parkhomenko (5%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Beck (15.35) def. Parkhomenko (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,9 +99,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Chi (93%) def. Hiser (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chi (96%) def. Hiser (4%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Chi (75%) def. Hiser (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>DUKE</i></b> - Chi (94%) def. Hiser (6%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chi (91%) def. Hiser (9%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Chi (89%) def. Hiser (11%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Chi (94%) def. Hiser (6%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chi (15.20) def. Hiser (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -110,9 +110,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Bilokin (93%) def. Riley (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Bilokin (90%) def. Riley (10%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Bilokin (75%) def. Riley (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>DUKE</i></b> - Bilokin (87%) def. Riley (13%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Bilokin (93%) def. Riley (7%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Bilokin (87%) def. Riley (13%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Bilokin (91%) def. Riley (9%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Bilokin (2.72) def. Riley (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -121,9 +121,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Berankova (92%) def. Orefice (8%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Berankova (80%) def. Orefice (20%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Berankova (75%) def. Orefice (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>DUKE</i></b> - Berankova (68%) def. Orefice (32%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Berankova (97%) def. Orefice (3%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Berankova (86%) def. Orefice (14%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Berankova (84%) def. Orefice (16%)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Duke should win 4 or more singles matches _97%_ of the time.  
+- Duke should win 4 or more singles matches _99%_ of the time.  
 - Alabama should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
+- The winner of the doubles point will decide the match the other _1%_ of the time.  
 - If Duke wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Alabama wins the doubles point, their chances of winning the dual improve to _3%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Alabama wins the doubles point, their chances of winning the dual improve to _1%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

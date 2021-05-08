@@ -44,9 +44,9 @@ Atlanta, Georgia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***MISS*** - #26 Ole Miss (93%) def. #46 North Florida (7%)  
 - TRN: ***MISS*** - #26 Ole Miss (96%) def. #46 North Florida (4%)  
-- Massey: ***MISS*** - #29 Ole Miss (75%) def. #47 North Florida (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***MISS*** - #29 Ole Miss (85%) def. #47 North Florida (15%)  
 - Lineup: ***MISS*** - Ole Miss (98%) def. North Florida (2%)  
-- Composite: ***MISS*** - Ole Miss (90%) def. North Florida (10%)  
+- Composite: ***MISS*** - Ole Miss (93%) def. North Florida (7%)  
 - UTR: ***MISS*** - #20 Ole Miss (+3.30) def. #44 North Florida (-3.30)  
 - ITA: ***MISS*** - #25 Ole Miss def. #48 North Florida  
 - Coaches Poll: ***MISS*** - #25 Ole Miss def. North Florida  
@@ -64,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Machalova (74%) def. Montano (26%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Machalova (87%) def. Montano (13%)</li>  
-<li>Massey: <b><i>MISS</i></b> - Machalova (75%) def. Montano (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MISS</i></b> - Machalova (73%) def. Montano (27%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Machalova (91%) def. Montano (9%)</li>  
 <li>Composite: <b><i>MISS</i></b> - Machalova (81%) def. Montano (19%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Machalova (19.63) def. Montano (2.10)</li>  
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Fiquet (67%) def. Gulihur (33%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Fiquet (68%) def. Gulihur (32%)</li>  
-<li>Massey: <b><i>UNF</i></b> - Gulihur (75%) def. Fiquet (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UNF</i></b> - Gulihur (51%) def. Fiquet (49%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Fiquet (74%) def. Gulihur (26%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Fiquet (58%) def. Gulihur (42%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Fiquet (64%) def. Gulihur (36%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Fiquet (6.49) def. Gulihur (3.92)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Janatova (93%) def. Gorches (7%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Janatova (95%) def. Gorches (5%)</li>  
-<li>Massey: <b><i>MISS</i></b> - Janatova (75%) def. Gorches (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MISS</i></b> - Janatova (80%) def. Gorches (20%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Janatova (92%) def. Gorches (8%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Janatova (89%) def. Gorches (11%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Janatova (90%) def. Gorches (10%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Janatova (4.99) def. Gorches (1.63)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Vrbenska (95%) def. Yardley (5%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Vrbenska (95%) def. Yardley (5%)</li>  
-<li>Massey: <b><i>MISS</i></b> - Vrbenska (75%) def. Yardley (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MISS</i></b> - Vrbenska (93%) def. Yardley (7%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Vrbenska (94%) def. Yardley (6%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Vrbenska (90%) def. Yardley (10%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Vrbenska (94%) def. Yardley (6%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Vrbenska (2.42) def. Yardley (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Zadori (82%) def. Davis (18%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Zadori (73%) def. Davis (27%)</li>  
-<li>Massey: <b><i>UNF</i></b> - Davis (75%) def. Zadori (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UNF</i></b> - Davis (45%) def. Zadori (55%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Zadori (88%) def. Davis (12%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Zadori (67%) def. Davis (33%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Zadori (75%) def. Davis (25%)</li>  
 <li>ITA: <b><i>UNF</i></b> - Davis (3.59) def. Zadori (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MISS</i></b> - Gabrielsen (93%) def. Mariotto (7%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Gabrielsen (95%) def. Mariotto (5%)</li>  
-<li>Massey: <b><i>MISS</i></b> - Gabrielsen (75%) def. Mariotto (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MISS</i></b> - Gabrielsen (81%) def. Mariotto (19%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Gabrielsen (94%) def. Mariotto (6%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Gabrielsen (89%) def. Mariotto (11%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Gabrielsen (91%) def. Mariotto (9%)</li>  
 <li>ITA: <b><i>UNF</i></b> - Mariotto (1.74) def. Gabrielsen (1.53)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ole Miss should win 4 or more singles matches _91%_ of the time.  
+- Ole Miss should win 4 or more singles matches _94%_ of the time.  
 - North Florida should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _8%_ of the time.  
+- The winner of the doubles point will decide the match the other _5%_ of the time.  
 - If Ole Miss wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If North Florida wins the doubles point, their chances of winning the dual improve to _9%_.  
-  
-Return to [List of Matches](../index.md)  
+- If North Florida wins the doubles point, their chances of winning the dual improve to _6%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

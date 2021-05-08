@@ -45,9 +45,9 @@ Raleigh, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***SCAR*** - #27 South Carolina (81%) def. #41 Iowa St. (19%)  
 - TRN: ***SCAR*** - #28 South Carolina (84%) def. #42 Iowa St. (16%)  
-- Massey: ***SCAR*** - #27 South Carolina (75%) def. #39 Iowa St. (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***SCAR*** - South Carolina (86%) def. Iowa St. (14%)  
-- Composite: ***SCAR*** - South Carolina (81%) def. Iowa St. (19%)  
+- Massey: ***SCAR*** - #27 South Carolina (83%) def. #39 Iowa St. (17%)  
+- Lineup: ***SCAR*** - South Carolina (91%) def. Iowa St. (9%)  
+- Composite: ***SCAR*** - South Carolina (85%) def. Iowa St. (15%)  
 - UTR: ***SCAR*** - #29 South Carolina (+2.24) def. #39 Iowa St. (-2.24)  
 - ITA: ***SCAR*** - #22 South Carolina def. #36 Iowa St.  
 - USTA Poll: ***SCAR*** - RV South Carolina def. Iowa St.  
@@ -66,9 +66,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Horvit (81%) def. Naklo (19%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Horvit (85%) def. Naklo (15%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Horvit (75%) def. Naklo (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>SCAR</i></b> - Horvit (78%) def. Naklo (22%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Horvit (84%) def. Naklo (16%)</li>  
-<li>Composite: <b><i>SCAR</i></b> - Horvit (81%) def. Naklo (19%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Horvit (82%) def. Naklo (18%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Horvit (18.78) def. Naklo (2.77)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,9 +77,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Davies (81%) def. Cancini (19%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Davies (88%) def. Cancini (12%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Davies (75%) def. Cancini (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>SCAR</i></b> - Davies (88%) def. Cancini (12%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Davies (86%) def. Cancini (14%)</li>  
-<li>Composite: <b><i>SCAR</i></b> - Davies (82%) def. Cancini (18%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Davies (86%) def. Cancini (14%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Davies (10.26) def. Cancini (1.95)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,9 +88,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Shelton (66%) def. Kadleckova (34%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Shelton (58%) def. Kadleckova (42%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Kadleckova (75%) def. Shelton (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ISU</i></b> - Kadleckova (51%) def. Shelton (49%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Shelton (65%) def. Kadleckova (35%)</li>  
-<li>Composite: <b><i>SCAR</i></b> - Shelton (53%) def. Kadleckova (47%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Shelton (59%) def. Kadleckova (41%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Shelton (6.55) def. Kadleckova (2.94)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,9 +99,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>SCAR</i></b> - Chinellato (83%) def. Hsieh (17%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Chinellato (88%) def. Hsieh (12%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Chinellato (75%) def. Hsieh (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>SCAR</i></b> - Chinellato (90%) def. Hsieh (10%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Chinellato (93%) def. Hsieh (7%)</li>  
-<li>Composite: <b><i>SCAR</i></b> - Chinellato (85%) def. Hsieh (15%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Chinellato (89%) def. Hsieh (11%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Chinellato (2.47) def. Hsieh (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -110,9 +110,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Kezuka (53%) def. Gretkowski (47%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Kezuka (75%) def. Gretkowski (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ISU</i></b> - Kezuka (58%) def. Gretkowski (42%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Gretkowski (80%) def. Kezuka (20%)</li>  
-<li>Composite: <b><i>ISU</i></b> - Kezuka (51%) def. Gretkowski (49%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Gretkowski (53%) def. Kezuka (47%)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Cabezas (72%) def. Cruz (28%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Cabezas (75%) def. Cruz (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ISU</i></b> - Cabezas (46%) def. Cruz (54%)</li>  
 <li>UTR: <b><i>ISU</i></b> - Cabezas (80%) def. Cruz (20%)</li>  
-<li>Composite: <b><i>ISU</i></b> - Cabezas (72%) def. Cruz (28%)</li>  
+<li>Composite: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
 <li>ITA: <b><i>ISU</i></b> - Cabezas (2.42) def. Cruz (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- South Carolina should win 4 or more singles matches _63%_ of the time.  
-- Iowa St. should win 4 or more singles matches _10%_ of the time.  
-- The winner of the doubles point will decide the match the other _27%_ of the time.  
-- If South Carolina wins the doubles point, their chances of winning the dual improve to _90%_.  
-- If Iowa St. wins the doubles point, their chances of winning the dual improve to _37%_.  
-  
-Return to [List of Matches](../index.md)  
+- South Carolina should win 4 or more singles matches _71%_ of the time.  
+- Iowa St. should win 4 or more singles matches _7%_ of the time.  
+- The winner of the doubles point will decide the match the other _22%_ of the time.  
+- If South Carolina wins the doubles point, their chances of winning the dual improve to _93%_.  
+- If Iowa St. wins the doubles point, their chances of winning the dual improve to _29%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

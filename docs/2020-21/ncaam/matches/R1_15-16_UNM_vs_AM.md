@@ -44,9 +44,9 @@ College Station, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***A&M*** - #11 Texas A&M (99%) def. #53 New Mexico (1%)  
 - TRN: ***A&M*** - #11 Texas A&M (99%) def. #54 New Mexico (1%)  
-- Massey: ***A&M*** - #12 Texas A&M (75%) def. #48 New Mexico (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***A&M*** - Texas A&M (98%) def. New Mexico (2%)  
-- Composite: ***A&M*** - Texas A&M (93%) def. New Mexico (7%)  
+- Massey: ***A&M*** - #12 Texas A&M (98%) def. #48 New Mexico (2%)  
+- Lineup: ***A&M*** - Texas A&M (100%) def. New Mexico (0%)  
+- Composite: ***A&M*** - Texas A&M (99%) def. New Mexico (1%)  
 - UTR: ***A&M*** - #8 Texas A&M (+5.97) def. #51 New Mexico (-5.97)  
 - ITA: ***A&M*** - #8 Texas A&M def. #52 New Mexico  
 - USTA Poll: ***A&M*** - #14 Texas A&M def. New Mexico  
@@ -65,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Vacherot (91%) def. Dobai (9%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Vacherot (95%) def. Dobai (5%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Vacherot (75%) def. Dobai (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Vacherot (91%) def. Dobai (9%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Vacherot (92%) def. Dobai (8%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Vacherot (88%) def. Dobai (12%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Vacherot (93%) def. Dobai (7%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Vacherot (51.31) def. Dobai (2.42)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,9 +76,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Habib (95%) def. West (5%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Habib (98%) def. West (2%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Habib (75%) def. West (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Habib (94%) def. West (6%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Habib (93%) def. West (7%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Habib (90%) def. West (10%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Habib (95%) def. West (5%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Habib (54.57) def. West (2.18)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,9 +87,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Aguilar (93%) def. Holis (7%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Aguilar (96%) def. Holis (4%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Aguilar (75%) def. Holis (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Aguilar (86%) def. Holis (14%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Aguilar (93%) def. Holis (7%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Aguilar (89%) def. Holis (11%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Aguilar (92%) def. Holis (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Aguilar (23.98) def. Holis (2.18)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Schachter (94%) def. Abdulsalam (6%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Schachter (96%) def. Abdulsalam (4%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Schachter (75%) def. Abdulsalam (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Schachter (83%) def. Abdulsalam (17%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Schachter (92%) def. Abdulsalam (8%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Schachter (89%) def. Abdulsalam (11%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Schachter (92%) def. Abdulsalam (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Schachter (6.58) def. Abdulsalam (1.72)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +109,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Rollins (96%) def. Trondson (4%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Rollins (98%) def. Trondson (2%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Rollins (75%) def. Trondson (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Rollins (87%) def. Trondson (13%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Rollins (95%) def. Trondson (5%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Rollins (91%) def. Trondson (9%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Rollins (94%) def. Trondson (6%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Rollins (5.08) def. Trondson (2.42)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Marson (93%) def. Molina (7%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Marson (98%) def. Molina (2%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Marson (75%) def. Molina (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Marson (89%) def. Molina (11%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Marson (91%) def. Molina (9%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Marson (89%) def. Molina (11%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Marson (93%) def. Molina (7%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Marson (1.86) def. Molina (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas A&M should win 4 or more singles matches _98%_ of the time.  
-- New Mexico should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
-- If Texas A&M wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If New Mexico wins the doubles point, their chances of winning the dual improve to _2%_.  
-  
-Return to [List of Matches](../index.md)  
+- Texas A&M should win 4 or more singles matches _100%_ of the time.  
+- New Mexico should win 4 or more singles matches _0%_ of the time.  
+- The winner of the doubles point will decide the match the other _0%_ of the time.  
+- If Texas A&M wins the doubles point, their chances of winning the dual improve to _100%_.  
+- If New Mexico wins the doubles point, their chances of winning the dual improve to _0%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

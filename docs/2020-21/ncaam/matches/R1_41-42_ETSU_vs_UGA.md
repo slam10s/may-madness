@@ -41,9 +41,9 @@ Athens, Georgia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UGA*** - #16 Georgia (99%) def. #52 ETSU (1%)  
 - TRN: ***UGA*** - #14 Georgia (99%) def. #53 ETSU (1%)  
-- Massey: ***UGA*** - #15 Georgia (75%) def. #51 ETSU (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***UGA*** - #15 Georgia (97%) def. #51 ETSU (3%)  
 - Lineup: ***UGA*** - Georgia (100%) def. ETSU (0%)  
-- Composite: ***UGA*** - Georgia (93%) def. ETSU (7%)  
+- Composite: ***UGA*** - Georgia (99%) def. ETSU (1%)  
 - UTR: ***UGA*** - #19 Georgia (+4.52) def. #50 ETSU (-4.52)  
 - ITA: ***UGA*** - #11 Georgia def. #49 ETSU  
 - USTA Poll: ***UGA*** - #16 Georgia def. ETSU  
@@ -62,9 +62,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Bryde (85%) def. Badra (15%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Bryde (79%) def. Badra (21%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Bryde (75%) def. Badra (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Bryde (65%) def. Badra (35%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Bryde (88%) def. Badra (12%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Bryde (82%) def. Badra (18%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Bryde (79%) def. Badra (21%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Bryde (36.71) def. Badra (10.52)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Zink (90%) def. Rengifo (10%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Zink (93%) def. Rengifo (7%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Zink (75%) def. Rengifo (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Zink (72%) def. Rengifo (28%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Zink (91%) def. Rengifo (9%)</li>  
 <li>Composite: <b><i>UGA</i></b> - Zink (87%) def. Rengifo (13%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Zink (25.30) def. Rengifo (2.55)</li>  
@@ -84,9 +84,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Henning (96%) def. Lugo (4%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Henning (97%) def. Lugo (3%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Henning (75%) def. Lugo (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Henning (92%) def. Lugo (8%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Henning (94%) def. Lugo (6%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Henning (91%) def. Lugo (9%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Henning (95%) def. Lugo (5%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Henning (31.73) def. Lugo (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -95,9 +95,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Croyder (93%) def. Pernas (7%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Croyder (96%) def. Pernas (4%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Croyder (75%) def. Pernas (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Croyder (83%) def. Pernas (17%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Croyder (91%) def. Pernas (9%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Croyder (88%) def. Pernas (12%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Croyder (91%) def. Pernas (9%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Croyder (4.08) def. Pernas (1.71)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -106,9 +106,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Rowe (98%) def. Este (2%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Rowe (99%) def. Este (1%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Rowe (75%) def. Este (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Rowe (92%) def. Este (8%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Rowe (96%) def. Este (4%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Rowe (92%) def. Este (8%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Rowe (96%) def. Este (4%)</li>  
 <li>ITA: <b><i>ETSU</i></b> - Este (2.15) def. Rowe (1.84)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -117,9 +117,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Grevelius (96%) def. Zabala (4%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Grevelius (97%) def. Zabala (3%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Grevelius (75%) def. Zabala (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Grevelius (94%) def. Zabala (6%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Grevelius (99%) def. Zabala (1%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Grevelius (92%) def. Zabala (8%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Grevelius (97%) def. Zabala (3%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Grevelius (2.48) def. Zabala (1.96)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -145,13 +145,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Georgia should win 4 or more singles matches _98%_ of the time.  
+- Georgia should win 4 or more singles matches _99%_ of the time.  
 - ETSU should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _2%_ of the time.  
+- The winner of the doubles point will decide the match the other _1%_ of the time.  
 - If Georgia wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If ETSU wins the doubles point, their chances of winning the dual improve to _2%_.  
-  
-Return to [List of Matches](../index.md)  
+- If ETSU wins the doubles point, their chances of winning the dual improve to _1%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

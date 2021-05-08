@@ -41,9 +41,8 @@ Gainesville, Florida
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***DUKE*** - #31 Duke (51%) def. #32 South Fla. (49%)  
 - TRN: ***USF*** - #34 South Fla. (52%) def. #36 Duke (48%)  
-- Massey: ***USF*** - #32 South Fla. (75%) def. #34 Duke (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***DUKE*** - Duke (52%) def. South Fla. (48%)  
-- Composite: ***USF*** - South Fla. (55%) def. Duke (45%)  
+- Massey: ***USF*** - #32 South Fla. (55%) def. #34 Duke (45%)  
+- Composite: ***USF*** - South Fla. (51%) def. Duke (49%)  
 - UTR: ***DUKE*** - #32 Duke (+0.35) def. #37 South Fla. (-0.35)  
 - ITA: ***USF*** - #32 South Fla. def. #35 Duke  
 - Coaches Poll: ***USF*** - #33 South Fla. def. #36 Duke  
@@ -61,9 +60,8 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Johns (56%) def. Wojcik (44%)</li>  
 <li>TRN: <b><i>USF</i></b> - Wojcik (67%) def. Johns (33%)</li>  
-<li>Massey: <b><i>USF</i></b> - Wojcik (75%) def. Johns (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USF</i></b> - Wojcik (66%) def. Johns (34%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Johns (76%) def. Wojcik (24%)</li>  
-<li>Composite: <b><i>USF</i></b> - Wojcik (52%) def. Johns (48%)</li>  
 <li>ITA: <b><i>USF</i></b> - Wojcik (16.76) def. Johns (9.19)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -72,9 +70,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USF</i></b> - Ferguson (73%) def. Sculley (27%)</li>  
 <li>TRN: <b><i>USF</i></b> - Ferguson (56%) def. Sculley (44%)</li>  
-<li>Massey: <b><i>USF</i></b> - Ferguson (75%) def. Sculley (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USF</i></b> - Ferguson (56%) def. Sculley (44%)</li>  
 <li>UTR: <b><i>USF</i></b> - Ferguson (53%) def. Sculley (47%)</li>  
-<li>Composite: <b><i>USF</i></b> - Ferguson (64%) def. Sculley (36%)</li>  
+<li>Composite: <b><i>USF</i></b> - Ferguson (60%) def. Sculley (40%)</li>  
 <li>ITA: <b><i>USF</i></b> - Ferguson (11.90) def. Sculley (3.41)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -83,9 +81,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USF</i></b> - Yatsuk (50%) def. Zhang (50%)</li>  
 <li>TRN: <b><i>USF</i></b> - Yatsuk (56%) def. Zhang (44%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Zhang (75%) def. Yatsuk (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>DUKE</i></b> - Zhang (51%) def. Yatsuk (49%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Zhang (68%) def. Yatsuk (32%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Zhang (58%) def. Yatsuk (42%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Zhang (52%) def. Yatsuk (48%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Zhang (3.87) def. Yatsuk (2.48)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -94,9 +92,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Guell (75%) def. Muniz-Hidalgo (25%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Guell (59%) def. Muniz-Hidalgo (41%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Guell (75%) def. Muniz-Hidalgo (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>DUKE</i></b> - Guell (53%) def. Muniz-Hidalgo (47%)</li>  
 <li>UTR: <b><i>USF</i></b> - Muniz-Hidalgo (66%) def. Guell (34%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Guell (60%) def. Muniz-Hidalgo (40%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Guell (54%) def. Muniz-Hidalgo (46%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Guell (4.04) def. Muniz-Hidalgo (1.67)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -105,9 +103,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Keist (62%) def. Luquet (38%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Keist (72%) def. Luquet (28%)</li>  
-<li>Massey: <b><i>DUKE</i></b> - Keist (75%) def. Luquet (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>DUKE</i></b> - Keist (69%) def. Luquet (31%)</li>  
 <li>UTR: <b><i>USF</i></b> - Luquet (68%) def. Keist (32%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Keist (60%) def. Luquet (40%)</li>  
+<li>Composite: <b><i>DUKE</i></b> - Keist (58%) def. Luquet (42%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Keist (3.16) def. Luquet (1.56)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -116,9 +114,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>DUKE</i></b> - Dale (53%) def. Gomez-Montesa (47%)</li>  
 <li>TRN: <b><i>USF</i></b> - Gomez-Montesa (58%) def. Dale (42%)</li>  
-<li>Massey: <b><i>USF</i></b> - Gomez-Montesa (75%) def. Dale (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USF</i></b> - Gomez-Montesa (59%) def. Dale (41%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Dale (54%) def. Gomez-Montesa (46%)</li>  
-<li>Composite: <b><i>USF</i></b> - Gomez-Montesa (56%) def. Dale (44%)</li>  
+<li>Composite: <b><i>USF</i></b> - Gomez-Montesa (53%) def. Dale (47%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Dale (2.29) def. Gomez-Montesa (1.78)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -144,13 +142,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- South Fla. should win 4 or more singles matches _32%_ of the time.  
-- Duke should win 4 or more singles matches _36%_ of the time.  
+- South Fla. should win 4 or more singles matches _34%_ of the time.  
+- Duke should win 4 or more singles matches _34%_ of the time.  
 - The winner of the doubles point will decide the match the other _32%_ of the time.  
-- If South Fla. wins the doubles point, their chances of winning the dual improve to _64%_.  
-- If Duke wins the doubles point, their chances of winning the dual improve to _68%_.  
-  
-Return to [List of Matches](../index.md)  
+- If South Fla. wins the doubles point, their chances of winning the dual improve to _66%_.  
+- If Duke wins the doubles point, their chances of winning the dual improve to _66%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

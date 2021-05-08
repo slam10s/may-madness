@@ -42,9 +42,9 @@ College Station, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***A&M*** - #11 Texas A&M (90%) def. #29 Oklahoma (10%)  
 - TRN: ***A&M*** - #11 Texas A&M (93%) def. #28 Oklahoma (7%)  
-- Massey: ***A&M*** - #12 Texas A&M (75%) def. #37 Oklahoma (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***A&M*** - #12 Texas A&M (93%) def. #37 Oklahoma (7%)  
 - Lineup: ***A&M*** - Texas A&M (97%) def. Oklahoma (3%)  
-- Composite: ***A&M*** - Texas A&M (89%) def. Oklahoma (11%)  
+- Composite: ***A&M*** - Texas A&M (93%) def. Oklahoma (7%)  
 - UTR: ***A&M*** - #8 Texas A&M (+2.23) def. #28 Oklahoma (-2.23)  
 - ITA: ***A&M*** - #8 Texas A&M def. #27 Oklahoma  
 - USTA Poll: ***A&M*** - #14 Texas A&M def. Oklahoma  
@@ -63,9 +63,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Vacherot (91%) def. Emburgh (9%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Vacherot (94%) def. Emburgh (6%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Vacherot (75%) def. Emburgh (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Vacherot (95%) def. Emburgh (5%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Vacherot (90%) def. Emburgh (10%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Vacherot (87%) def. Emburgh (13%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Vacherot (93%) def. Emburgh (7%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Vacherot (51.31) def. Emburgh (7.98)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -74,9 +74,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Habib (86%) def. Beiler (14%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Habib (84%) def. Beiler (16%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Habib (75%) def. Beiler (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Habib (84%) def. Beiler (16%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Habib (86%) def. Beiler (14%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Habib (83%) def. Beiler (17%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Habib (85%) def. Beiler (15%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Habib (54.57) def. Beiler (10.05)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -85,9 +85,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Aguilar (75%) def. Martinez (25%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Aguilar (75%) def. Martinez (25%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Aguilar (75%) def. Martinez (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Aguilar (70%) def. Martinez (30%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Aguilar (84%) def. Martinez (16%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Aguilar (77%) def. Martinez (23%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Aguilar (76%) def. Martinez (24%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Aguilar (23.98) def. Martinez (2.93)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -96,9 +96,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Schachter (68%) def. Han (32%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Schachter (65%) def. Han (35%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Schachter (75%) def. Han (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Schachter (62%) def. Han (38%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Schachter (62%) def. Han (38%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Schachter (68%) def. Han (32%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Schachter (64%) def. Han (36%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Schachter (6.58) def. Han (1.72)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,9 +107,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Rollins (79%) def. Schlageter (21%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Rollins (84%) def. Schlageter (16%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Rollins (75%) def. Schlageter (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Rollins (78%) def. Schlageter (22%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Rollins (80%) def. Schlageter (20%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Rollins (79%) def. Schlageter (21%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Rollins (80%) def. Schlageter (20%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Rollins (5.08) def. Schlageter (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Marson (63%) def. Mandlik (37%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Marson (75%) def. Mandlik (25%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Marson (75%) def. Mandlik (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Marson (76%) def. Mandlik (24%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Marson (67%) def. Mandlik (33%)</li>  
 <li>Composite: <b><i>A&M</i></b> - Marson (70%) def. Mandlik (30%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Marson (1.86) def. Mandlik (0.00)</li>  
@@ -146,13 +146,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas A&M should win 4 or more singles matches _88%_ of the time.  
+- Texas A&M should win 4 or more singles matches _89%_ of the time.  
 - Oklahoma should win 4 or more singles matches _2%_ of the time.  
-- The winner of the doubles point will decide the match the other _10%_ of the time.  
+- The winner of the doubles point will decide the match the other _9%_ of the time.  
 - If Texas A&M wins the doubles point, their chances of winning the dual improve to _98%_.  
-- If Oklahoma wins the doubles point, their chances of winning the dual improve to _12%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Oklahoma wins the doubles point, their chances of winning the dual improve to _11%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

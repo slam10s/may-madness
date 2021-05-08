@@ -40,9 +40,9 @@ Visitor:
 Predictions:
   SLM: "OSU - #5 Ohio St. (91%) def. #29 Vanderbilt (9%)"
   TRN: "OSU - #5 Ohio St. (93%) def. #30 Vanderbilt (7%)"
-  MAS: "OSU - #8 Ohio St. (75%) def. #31 Vanderbilt (25%)"
+  MAS: "OSU - #8 Ohio St. (81%) def. #31 Vanderbilt (19%)"
   LNUP: OSU - Ohio St. (80%) def. Vanderbilt (20%)
-  AVG: OSU - Ohio St. (85%) def. Vanderbilt (15%)
+  AVG: OSU - Ohio St. (86%) def. Vanderbilt (14%)
   UTR: "OSU - #25 Ohio St. (+0.14) def. #28 Vanderbilt (-0.14)"
   ITA: "OSU - #18 Ohio St. def. #27 Vanderbilt"
   USTA: "OSU - #6 Ohio St. def. Vanderbilt"
@@ -50,8 +50,8 @@ Predictions:
   Seeding: "OSU - #1 Ohio St. def. #2 Vanderbilt"
 Lineups:
   Predictions:
-    Average EWPs for OSU: 91%,93%,75%,80%
-    Average EWPs for VANDY: 9%,7%,25%,20%
+    Average EWPs for OSU: 91%,93%,81%,80%
+    Average EWPs for VANDY: 9%,7%,19%,20%
     OSU wins 4 or more Singles points: 59%
     VANDY wins 4 or more Singles points: 14%
     Winner decided by the Doubles point: 27%
@@ -72,9 +72,9 @@ Lineups:
       Predictions:
         SLM: OSU - Boulais (68%) def. Kurtz (32%)
         TRN: OSU - Boulais (68%) def. Kurtz (32%)
-        MAS: OSU - Boulais (75%) def. Kurtz (25%)
+        MAS: OSU - Boulais (84%) def. Kurtz (16%)
         UTR: OSU - Boulais (59%) def. Kurtz (41%)
-        AVG: OSU - Boulais (67%) def. Kurtz (33%)
+        AVG: OSU - Boulais (70%) def. Kurtz (30%)
         ITA: VANDY - Kurtz (3.05) def. Boulais (2.65)
     - Position: 3
       OSU: Kolie Allen - 7-3 at 3, 10-9 in duals, 10-12 overall
@@ -82,9 +82,9 @@ Lineups:
       Predictions:
         SLM: VANDY - Lee (53%) def. Allen (47%)
         TRN: VANDY - Lee (76%) def. Allen (24%)
-        MAS: VANDY - Lee (75%) def. Allen (25%)
+        MAS: VANDY - Lee (61%) def. Allen (39%)
         UTR: VANDY - Lee (81%) def. Allen (19%)
-        AVG: VANDY - Lee (71%) def. Allen (29%)
+        AVG: VANDY - Lee (67%) def. Allen (33%)
         ITA: VANDY - Lee (2.64) def. Allen (1.59)
     - Position: 4
       OSU: Lisa Hofbauer - 7-2 at 4, 12-6 in duals, 13-8 overall
@@ -92,9 +92,9 @@ Lineups:
       Predictions:
         SLM: OSU - Hofbauer (59%) def. Ross (41%)
         TRN: OSU - Hofbauer (60%) def. Ross (40%)
-        MAS: OSU - Hofbauer (75%) def. Ross (25%)
+        MAS: OSU - Hofbauer (61%) def. Ross (39%)
         UTR: VANDY - Ross (61%) def. Hofbauer (39%)
-        AVG: OSU - Hofbauer (58%) def. Ross (42%)
+        AVG: OSU - Hofbauer (55%) def. Ross (45%)
         ITA: OSU - Hofbauer (2.47) def. Ross (2.20)
     - Position: 5
       OSU: Lucia Marzal - 10-2 at 5, 19-2 in duals, 21-3 overall
@@ -102,9 +102,9 @@ Lineups:
       Predictions:
         SLM: OSU - Marzal (69%) def. Cruz (31%)
         TRN: OSU - Marzal (66%) def. Cruz (34%)
-        MAS: OSU - Marzal (75%) def. Cruz (25%)
+        MAS: OSU - Marzal (61%) def. Cruz (39%)
         UTR: OSU - Marzal (61%) def. Cruz (39%)
-        AVG: OSU - Marzal (68%) def. Cruz (32%)
+        AVG: OSU - Marzal (64%) def. Cruz (36%)
         ITA: OSU - Marzal (3.08) def. Cruz (2.13)
     - Position: 6
       OSU: Luna Dormet - 9-1 at 6, 17-1 in duals, 19-1 overall
@@ -112,7 +112,7 @@ Lineups:
       Predictions:
         SLM: OSU - Dormet (57%) def. Staff (43%)
         TRN: OSU - Dormet (63%) def. Staff (37%)
-        MAS: OSU - Dormet (75%) def. Staff (25%)
+        MAS: OSU - Dormet (72%) def. Staff (28%)
         UTR: OSU - Dormet (70%) def. Staff (30%)
         AVG: OSU - Dormet (66%) def. Staff (34%)
         ITA: OSU - Dormet (3.78) def. Staff (1.75)

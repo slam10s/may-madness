@@ -40,9 +40,9 @@ Visitor:
 Predictions:
   SLM: "TCU - #9 TCU (96%) def. #43 Arkansas (4%)"
   TRN: "TCU - #9 TCU (98%) def. #44 Arkansas (2%)"
-  MAS: "TCU - #6 TCU (75%) def. #50 Arkansas (25%)"
+  MAS: "TCU - #6 TCU (99%) def. #50 Arkansas (1%)"
   LNUP: TCU - TCU (100%) def. Arkansas (0%)
-  AVG: TCU - TCU (92%) def. Arkansas (8%)
+  AVG: TCU - TCU (98%) def. Arkansas (2%)
   UTR: "TCU - #10 TCU (+4.41) def. #44 Arkansas (-4.41)"
   ITA: "TCU - #7 TCU def. #43 Arkansas"
   USTA: "TCU - #9 TCU def. Arkansas"
@@ -50,11 +50,11 @@ Predictions:
   Seeding: "TCU - #1 TCU def. #4 Arkansas"
 Lineups:
   Predictions:
-    Average EWPs for TCU: 96%,98%,75%,100%
-    Average EWPs for ARK: 4%,2%,25%,0%
-    TCU wins 4 or more Singles points: 96%
+    Average EWPs for TCU: 96%,98%,99%,100%
+    Average EWPs for ARK: 4%,2%,1%,0%
+    TCU wins 4 or more Singles points: 98%
     ARK wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 4%
+    Winner decided by the Doubles point: 2%
   Singles:
     - Position: 1
       TCU: Alastair Gray - 6-4 at 1, 13-7 in duals, 13-7 overall
@@ -62,9 +62,9 @@ Lineups:
       Predictions:
         SLM: TCU - Gray (83%) def. Reco (17%)
         TRN: TCU - Gray (88%) def. Reco (12%)
-        MAS: TCU - Gray (75%) def. Reco (25%)
+        MAS: TCU - Gray (87%) def. Reco (13%)
         UTR: TCU - Gray (89%) def. Reco (11%)
-        AVG: TCU - Gray (84%) def. Reco (16%)
+        AVG: TCU - Gray (87%) def. Reco (13%)
         ITA: TCU - Gray (40.15) def. Reco (4.00)
     - Position: 2
       TCU: Luc Fomba - 7-3 at 2, 12-6 in duals, 12-6 overall
@@ -72,9 +72,9 @@ Lineups:
       Predictions:
         SLM: TCU - Fomba (94%) def. Verboven (6%)
         TRN: TCU - Fomba (98%) def. Verboven (2%)
-        MAS: TCU - Fomba (75%) def. Verboven (25%)
+        MAS: TCU - Fomba (98%) def. Verboven (2%)
         UTR: TCU - Fomba (92%) def. Verboven (8%)
-        AVG: TCU - Fomba (89%) def. Verboven (11%)
+        AVG: TCU - Fomba (95%) def. Verboven (5%)
         ITA: TCU - Fomba (35.12) def. Verboven (1.79)
     - Position: 3
       TCU: Sander Jong - 10-5 at 3, 10-7 in duals, 11-8 overall
@@ -82,9 +82,9 @@ Lineups:
       Predictions:
         SLM: TCU - Jong (79%) def. Rousett (21%)
         TRN: TCU - Jong (81%) def. Rousett (19%)
-        MAS: TCU - Jong (75%) def. Rousett (25%)
+        MAS: TCU - Jong (78%) def. Rousett (22%)
         UTR: TCU - Jong (91%) def. Rousett (9%)
-        AVG: TCU - Jong (81%) def. Rousett (19%)
+        AVG: TCU - Jong (82%) def. Rousett (18%)
         ITA: TCU - Jong (11.43) def. Rousett (9.93)
     - Position: 4
       TCU: Jake Fearnley - 4-2 at 4, 8-3 in duals, 8-3 overall
@@ -92,9 +92,9 @@ Lineups:
       Predictions:
         SLM: TCU - Fearnley (83%) def. Bucan (17%)
         TRN: TCU - Fearnley (91%) def. Bucan (9%)
-        MAS: TCU - Fearnley (75%) def. Bucan (25%)
+        MAS: TCU - Fearnley (87%) def. Bucan (13%)
         UTR: TCU - Fearnley (91%) def. Bucan (9%)
-        AVG: TCU - Fearnley (85%) def. Bucan (15%)
+        AVG: TCU - Fearnley (88%) def. Bucan (12%)
         ITA: TCU - Fearnley (5.67) def. Bucan (2.10)
     - Position: 5
       TCU: Tomas Jirousek - 1-1 at 5, 6-5 in duals, 7-6 overall
@@ -102,9 +102,9 @@ Lineups:
       Predictions:
         SLM: TCU - Jirousek (87%) def. Burdet (13%)
         TRN: TCU - Jirousek (88%) def. Burdet (12%)
-        MAS: TCU - Jirousek (75%) def. Burdet (25%)
+        MAS: TCU - Jirousek (87%) def. Burdet (13%)
         UTR: TCU - Jirousek (86%) def. Burdet (14%)
-        AVG: TCU - Jirousek (84%) def. Burdet (16%)
+        AVG: TCU - Jirousek (87%) def. Burdet (13%)
         ITA: TCU - Jirousek (6.98) def. Burdet (1.73)
     - Position: 6
       TCU: Tadeas Paroulek - 1-3 at 6, 7-11 in duals, 7-12 overall
@@ -112,9 +112,9 @@ Lineups:
       Predictions:
         SLM: TCU - Paroulek (92%) def. Paya (8%)
         TRN: TCU - Paroulek (96%) def. Paya (4%)
-        MAS: TCU - Paroulek (75%) def. Paya (25%)
+        MAS: TCU - Paroulek (85%) def. Paya (15%)
         UTR: TCU - Paroulek (88%) def. Paya (12%)
-        AVG: TCU - Paroulek (88%) def. Paya (12%)
+        AVG: TCU - Paroulek (90%) def. Paya (10%)
         ITA: TCU - Paroulek (1.35) def. Paya (0.00)
   Doubles:
     - Position: 1

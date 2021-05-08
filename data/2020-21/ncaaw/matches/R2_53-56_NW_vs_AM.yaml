@@ -41,9 +41,9 @@ Visitor:
 Predictions:
   SLM: "A&M - #15 Texas A&M (55%) def. #18 Northwestern (45%)"
   TRN: "NW - #13 Northwestern (56%) def. #14 Texas A&M (44%)"
-  MAS: "NW - #20 Northwestern (75%) def. #21 Texas A&M (25%)"
-  LNUP: A&M - Texas A&M (68%) def. Northwestern (32%)
-  AVG: NW - Northwestern (51%) def. Texas A&M (49%)
+  MAS: "NW - #20 Northwestern (52%) def. #21 Texas A&M (48%)"
+  LNUP: A&M - Texas A&M (70%) def. Northwestern (30%)
+  AVG: A&M - Texas A&M (54%) def. Northwestern (46%)
   UTR: "A&M - #21 Texas A&M (+1.27) def. #33 Northwestern (-1.27)"
   ITA: "A&M - #10 Texas A&M def. #21 Northwestern"
   USTA: "NW - #16 Northwestern def. #17 Texas A&M"
@@ -51,10 +51,10 @@ Predictions:
   Seeding: "A&M - #1 Texas A&M def. #2 Northwestern"
 Lineups:
   Predictions:
-    Average EWPs for A&M: 55%,45%,26%,68%
-    Average EWPs for NW: 45%,55%,74%,32%
-    A&M wins 4 or more Singles points: 48%
-    NW wins 4 or more Singles points: 22%
+    Average EWPs for A&M: 55%,45%,49%,70%
+    Average EWPs for NW: 45%,55%,51%,30%
+    A&M wins 4 or more Singles points: 49%
+    NW wins 4 or more Singles points: 21%
     Winner decided by the Doubles point: 30%
   Singles:
     - Position: 1
@@ -63,9 +63,9 @@ Lineups:
       Predictions:
         SLM: A&M - Makarova (53%) def. Shusharina (47%)
         TRN: A&M - Makarova (75%) def. Shusharina (25%)
-        MAS: A&M - Makarova (75%) def. Shusharina (25%)
+        MAS: A&M - Makarova (56%) def. Shusharina (44%)
         UTR: A&M - Makarova (74%) def. Shusharina (26%)
-        AVG: A&M - Makarova (69%) def. Shusharina (31%)
+        AVG: A&M - Makarova (64%) def. Shusharina (36%)
         ITA: A&M - Makarova (21.86) def. Shusharina (3.92)
     - Position: 2
       A&M: Jayci Goldsmith - 9-7 at 2, 11-9 in duals, 13-10 overall
@@ -73,9 +73,9 @@ Lineups:
       Predictions:
         SLM: NW - Hand (52%) def. Goldsmith (48%)
         TRN: NW - Hand (56%) def. Goldsmith (44%)
-        MAS: NW - Hand (75%) def. Goldsmith (25%)
+        MAS: NW - Hand (64%) def. Goldsmith (36%)
         UTR: A&M - Goldsmith (64%) def. Hand (36%)
-        AVG: NW - Hand (54%) def. Goldsmith (46%)
+        AVG: NW - Hand (51%) def. Goldsmith (49%)
         ITA: NW - Hand (4.82) def. Goldsmith (3.03)
     - Position: 3
       A&M: Katya Townsend - 9-6 at 3, 11-6 in duals, 18-9 overall
@@ -83,9 +83,9 @@ Lineups:
       Predictions:
         SLM: NW - Byrne (64%) def. Townsend (36%)
         TRN: A&M - Townsend (53%) def. Byrne (47%)
-        MAS: NW - Byrne (75%) def. Townsend (25%)
+        MAS: NW - Byrne (62%) def. Townsend (38%)
         UTR: A&M - Townsend (79%) def. Byrne (21%)
-        AVG: NW - Byrne (51%) def. Townsend (49%)
+        AVG: A&M - Townsend (51%) def. Byrne (49%)
         ITA: A&M - Townsend (3.71) def. Byrne (1.56)
     - Position: 4
       A&M: Dorthea Faa-Hviding - 7-6 at 4, 13-6 in duals, 14-7 overall
@@ -93,9 +93,9 @@ Lineups:
       Predictions:
         SLM: NW - Crowley (52%) def. Faa-Hviding (48%)
         TRN: A&M - Faa-Hviding (55%) def. Crowley (45%)
-        MAS: NW - Crowley (75%) def. Faa-Hviding (25%)
+        MAS: NW - Crowley (59%) def. Faa-Hviding (41%)
         UTR: A&M - Faa-Hviding (59%) def. Crowley (41%)
-        AVG: NW - Crowley (52%) def. Faa-Hviding (48%)
+        AVG: A&M - Faa-Hviding (51%) def. Crowley (49%)
         ITA: NW - Crowley (1.93) def. Faa-Hviding (1.87)
     - Position: 5
       A&M: Renee McBryde - 10-1 at 5, 14-3 in duals, 17-4 overall
@@ -103,9 +103,9 @@ Lineups:
       Predictions:
         SLM: A&M - McBryde (68%) def. Pozo (32%)
         TRN: A&M - McBryde (77%) def. Pozo (23%)
-        MAS: A&M - McBryde (75%) def. Pozo (25%)
+        MAS: A&M - McBryde (58%) def. Pozo (42%)
         UTR: A&M - McBryde (80%) def. Pozo (20%)
-        AVG: A&M - McBryde (75%) def. Pozo (25%)
+        AVG: A&M - McBryde (71%) def. Pozo (29%)
         ITA: A&M - McBryde (2.44) def. Pozo (1.76)
     - Position: 6
       A&M: Riley McQuaid - 8-5 at 6, 11-5 in duals, 16-9 overall
@@ -113,9 +113,9 @@ Lineups:
       Predictions:
         SLM: A&M - McQuaid (63%) def. Hand (37%)
         TRN: A&M - McQuaid (66%) def. Hand (34%)
-        MAS: NW - Hand (75%) def. McQuaid (25%)
+        MAS: NW - Hand (67%) def. McQuaid (33%)
         UTR: A&M - McQuaid (69%) def. Hand (31%)
-        AVG: A&M - McQuaid (56%) def. Hand (44%)
+        AVG: A&M - McQuaid (58%) def. Hand (42%)
         ITA: NW - Hand (2.48) def. McQuaid (2.12)
   Doubles:
     - Position: 1

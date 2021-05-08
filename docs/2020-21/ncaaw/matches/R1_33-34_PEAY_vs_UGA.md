@@ -44,9 +44,9 @@ Athens, Georgia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
 - TRN: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
-- Massey: ***UGA*** - #3 Georgia (75%) def. #56 Austin Peay (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***UGA*** - Georgia (99%) def. Austin Peay (1%)  
-- Composite: ***UGA*** - Georgia (93%) def. Austin Peay (7%)  
+- Massey: ***UGA*** - #3 Georgia (100%) def. #56 Austin Peay (0%)  
+- Lineup: ***UGA*** - Georgia (100%) def. Austin Peay (0%)  
+- Composite: ***UGA*** - Georgia (99%) def. Austin Peay (1%)  
 - UTR: ***UGA*** - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)  
 - ITA: ***UGA*** - #3 Georgia def. #57 Austin Peay  
 - USTA Poll: ***UGA*** - #3 Georgia def. Austin Peay  
@@ -65,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Jokic (99%) def. Schmidt (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Jokic (99%) def. Schmidt (1%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Jokic (75%) def. Schmidt (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Jokic (99%) def. Schmidt (1%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Jokic (98%) def. Schmidt (2%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Jokic (93%) def. Schmidt (7%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Jokic (99%) def. Schmidt (1%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Jokic (60.56) def. Schmidt (2.35)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,9 +76,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Ma (99%) def. Morris (1%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Ma (75%) def. Morris (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Ma (98%) def. Morris (2%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Ma (97%) def. Morris (3%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Ma (93%) def. Morris (7%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Ma (98%) def. Morris (2%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Ma (11.14) def. Morris (2.12)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,9 +87,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Kowalski (75%) def. Leder (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Kowalski (98%) def. Leder (2%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Kowalski (98%) def. Leder (2%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Kowalski (93%) def. Leder (7%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Kowalski (23.73) def. Leder (3.05)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Coppoc (75%) def. Topalovic (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Coppoc (93%) def. Topalovic (7%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Coppoc (99%) def. Topalovic (1%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Coppoc (8.66) def. Topalovic (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +109,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Gonzalez (75%) def. Paladini-Jennings (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Gonzalez (93%) def. Paladini-Jennings (7%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Gonzalez (11.71) def. Paladini-Jennings (1.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UGA</i></b> - Christofi (99%) def. Nakanishi (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Christofi (99%) def. Nakanishi (1%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Christofi (75%) def. Nakanishi (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UGA</i></b> - Christofi (98%) def. Nakanishi (2%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Christofi (99%) def. Nakanishi (1%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Christofi (93%) def. Nakanishi (7%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Christofi (99%) def. Nakanishi (1%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Christofi (2.36) def. Nakanishi (2.24)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Georgia should win 4 or more singles matches _99%_ of the time.  
-- Austin Peay should win 4 or more singles matches _1%_ of the time.  
+- Georgia should win 4 or more singles matches _100%_ of the time.  
+- Austin Peay should win 4 or more singles matches _0%_ of the time.  
 - The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Georgia wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Austin Peay wins the doubles point, their chances of winning the dual improve to _1%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Georgia wins the doubles point, their chances of winning the dual improve to _100%_.  
+- If Austin Peay wins the doubles point, their chances of winning the dual improve to _0%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

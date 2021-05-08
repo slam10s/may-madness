@@ -43,9 +43,9 @@ Orlando, Florida
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCF*** - #12 UCF (66%) def. #22 Miami (FL) (34%)  
 - TRN: ***UCF*** - #12 UCF (70%) def. #21 Miami (FL) (30%)  
-- Massey: ***UCF*** - #10 UCF (75%) def. #17 Miami (FL) (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***UCF*** - #10 UCF (55%) def. #17 Miami (FL) (45%)  
 - Lineup: ***MIA*** - Miami (FL) (82%) def. UCF (18%)  
-- Composite: ***UCF*** - UCF (57%) def. Miami (FL) (43%)  
+- Composite: ***UCF*** - UCF (52%) def. Miami (FL) (48%)  
 - UTR: ***UCF*** - #16 UCF (+0.14) def. #19 Miami (FL) (-0.14)  
 - ITA: ***UCF*** - #9 UCF def. #24 Miami (FL)  
 - USTA Poll: ***UCF*** - #9 UCF def. #21 Miami (FL)  
@@ -64,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Perez-Somarriba (86%) def. Zeleva (14%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Perez-Somarriba (88%) def. Zeleva (12%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (75%) def. Zeleva (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (72%) def. Zeleva (28%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Perez-Somarriba (88%) def. Zeleva (12%)</li>  
 <li>Composite: <b><i>MIA</i></b> - Perez-Somarriba (83%) def. Zeleva (17%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Perez-Somarriba (69.45) def. Zeleva (22.66)</li>  
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Pfennig (63%) def. Stolmar (37%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Pfennig (71%) def. Stolmar (29%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Pfennig (75%) def. Stolmar (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MIA</i></b> - Pfennig (61%) def. Stolmar (39%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Pfennig (79%) def. Stolmar (21%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Pfennig (71%) def. Stolmar (29%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Pfennig (67%) def. Stolmar (33%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Pfennig (32.52) def. Stolmar (15.81)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Levashova (62%) def. Achong (38%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Levashova (78%) def. Achong (22%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Levashova (75%) def. Achong (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCF</i></b> - Levashova (66%) def. Achong (34%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Levashova (80%) def. Achong (20%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Levashova (74%) def. Achong (26%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Levashova (71%) def. Achong (29%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Levashova (4.48) def. Achong (1.49)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Kuznetsova (76%) def. Urrutia (24%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Kuznetsova (74%) def. Urrutia (26%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Kuznetsova (75%) def. Urrutia (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCF</i></b> - Kuznetsova (72%) def. Urrutia (28%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Kuznetsova (84%) def. Urrutia (16%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Kuznetsova (77%) def. Urrutia (23%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Kuznetsova (76%) def. Urrutia (24%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Kuznetsova (3.33) def. Urrutia (1.96)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Khodan (56%) def. Mattel (44%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Khodan (64%) def. Mattel (36%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Khodan (75%) def. Mattel (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MIA</i></b> - Khodan (67%) def. Mattel (33%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Khodan (76%) def. Mattel (24%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Khodan (67%) def. Mattel (33%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Khodan (65%) def. Mattel (35%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mattel (2.00) def. Khodan (1.90)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Tahan (75%) def. Bay (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MIA</i></b> - Tahan (90%) def. Bay (10%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Tahan (93%) def. Bay (7%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Tahan (97%) def. Bay (3%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Tahan (2.26) def. Bay (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -153,7 +153,6 @@ Based on the composite metrics for each individual match:
 - If UCF wins the doubles point, their chances of winning the dual improve to _43%_.  
 - If Miami (FL) wins the doubles point, their chances of winning the dual improve to _88%_.  
   
-Return to [List of Matches](../index.md)  
-  
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

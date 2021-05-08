@@ -44,9 +44,9 @@ Malibu, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***PEPP*** - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)  
 - TRN: ***PEPP*** - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)  
-- Massey: ***PEPP*** - #5 Pepperdine (75%) def. #51 Northern Ariz. (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***PEPP*** - #5 Pepperdine (100%) def. #51 Northern Ariz. (0%)  
 - Lineup: ***PEPP*** - Pepperdine (100%) def. Northern Ariz. (0%)  
-- Composite: ***PEPP*** - Pepperdine (93%) def. Northern Ariz. (7%)  
+- Composite: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #54 Northern Ariz.  
 - USTA Poll: ***PEPP*** - #5 Pepperdine def. Northern Ariz.  
@@ -65,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Lahey (87%) def. Dittmann (13%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Lahey (75%) def. Dittmann (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Lahey (83%) def. Dittmann (17%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Lahey (87%) def. Dittmann (13%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Lahey (89%) def. Dittmann (11%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Lahey (7.80) def. Dittmann (4.32)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,9 +76,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Failla (75%) def. Bland (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Failla (94%) def. Bland (6%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Failla (93%) def. Bland (7%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Failla (23.38) def. Bland (2.75)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,9 +87,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Pachkaleva (99%) def. Millard (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Pachkaleva (75%) def. Millard (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Pachkaleva (97%) def. Millard (3%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (93%) def. Millard (7%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Pachkaleva (6.37) def. Millard (2.21)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Fukuda (75%) def. Neyestani (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Fukuda (95%) def. Neyestani (5%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Fukuda (98%) def. Neyestani (2%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Fukuda (93%) def. Neyestani (7%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Fukuda (98%) def. Neyestani (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Fukuda (4.88) def. Neyestani (1.91)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +109,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Zaar (75%) def. Beazley (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Zaar (97%) def. Beazley (3%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Zaar (93%) def. Beazley (7%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zaar (4.47) def. Beazley (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Redelijk (75%) def. Moore (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Redelijk (98%) def. Moore (2%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Redelijk (93%) def. Moore (7%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Redelijk (1.87) def. Moore (1.46)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Pepperdine should win 4 or more singles matches _99%_ of the time.  
+- Pepperdine should win 4 or more singles matches _100%_ of the time.  
 - Northern Ariz. should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _0%_ of the time.  
 - If Pepperdine wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Northern Ariz. wins the doubles point, their chances of winning the dual improve to _1%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Northern Ariz. wins the doubles point, their chances of winning the dual improve to _0%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

@@ -44,9 +44,9 @@ Los Angeles, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***PEPP*** - #34 Pepperdine (95%) def. #51 UC Santa Barbara (5%)  
 - TRN: ***PEPP*** - #30 Pepperdine (98%) def. #51 UC Santa Barbara (2%)  
-- Massey: ***PEPP*** - #22 Pepperdine (75%) def. #52 UC Santa Barbara (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***PEPP*** - Pepperdine (95%) def. UC Santa Barbara (5%)  
-- Composite: ***PEPP*** - Pepperdine (90%) def. UC Santa Barbara (10%)  
+- Massey: ***PEPP*** - #22 Pepperdine (93%) def. #52 UC Santa Barbara (7%)  
+- Lineup: ***PEPP*** - Pepperdine (96%) def. UC Santa Barbara (4%)  
+- Composite: ***PEPP*** - Pepperdine (95%) def. UC Santa Barbara (5%)  
 - UTR: ***PEPP*** - #26 Pepperdine (+3.39) def. #47 UC Santa Barbara (-3.39)  
 - ITA: ***PEPP*** - #28 Pepperdine def. #54 UC Santa Barbara  
 - USTA Poll: ***PEPP*** - #24 Pepperdine def. UC Santa Barbara  
@@ -65,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCSB</i></b> - Guillin (81%) def. Oetzbach (19%)</li>  
 <li>TRN: <b><i>UCSB</i></b> - Guillin (83%) def. Oetzbach (17%)</li>  
-<li>Massey: <b><i>UCSB</i></b> - Guillin (75%) def. Oetzbach (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCSB</i></b> - Guillin (77%) def. Oetzbach (23%)</li>  
 <li>UTR: <b><i>UCSB</i></b> - Guillin (75%) def. Oetzbach (25%)</li>  
-<li>Composite: <b><i>UCSB</i></b> - Guillin (77%) def. Oetzbach (23%)</li>  
+<li>Composite: <b><i>UCSB</i></b> - Guillin (78%) def. Oetzbach (22%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Oetzbach (5.20) def. Guillin (3.96)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,9 +76,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Ouden (90%) def. Tsorotiotis (10%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Ouden (97%) def. Tsorotiotis (3%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Ouden (75%) def. Tsorotiotis (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Ouden (96%) def. Tsorotiotis (4%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Ouden (96%) def. Tsorotiotis (4%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Ouden (89%) def. Tsorotiotis (11%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Ouden (95%) def. Tsorotiotis (5%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Ouden (2.60) def. Tsorotiotis (1.60)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,9 +87,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - DeJonge (75%) def. Krustev (25%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - DeJonge (75%) def. Krustev (25%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - DeJonge (75%) def. Krustev (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - DeJonge (63%) def. Krustev (37%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - DeJonge (81%) def. Krustev (19%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - DeJonge (76%) def. Krustev (24%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - DeJonge (73%) def. Krustev (27%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - DeJonge (3.53) def. Krustev (2.71)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Zeitvogel (82%) def. Masjuan (18%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zeitvogel (82%) def. Masjuan (18%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Zeitvogel (75%) def. Masjuan (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Zeitvogel (84%) def. Masjuan (16%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Zeitvogel (85%) def. Masjuan (15%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Zeitvogel (81%) def. Masjuan (19%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Zeitvogel (83%) def. Masjuan (17%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zeitvogel (4.17) def. Masjuan (2.35)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +109,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Summaria (82%) def. Rotheram (18%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Summaria (81%) def. Rotheram (19%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Summaria (75%) def. Rotheram (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Summaria (77%) def. Rotheram (23%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Summaria (76%) def. Rotheram (24%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Summaria (78%) def. Rotheram (22%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Summaria (79%) def. Rotheram (21%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Rotheram (1.83) def. Summaria (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Fellin (85%) def. Brady (15%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fellin (87%) def. Brady (13%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Fellin (75%) def. Brady (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Fellin (72%) def. Brady (28%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Fellin (91%) def. Brady (9%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Fellin (84%) def. Brady (16%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Fellin (83%) def. Brady (17%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Brady (2.64) def. Fellin (2.12)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Pepperdine should win 4 or more singles matches _82%_ of the time.  
-- UC Santa Barbara should win 4 or more singles matches _4%_ of the time.  
-- The winner of the doubles point will decide the match the other _14%_ of the time.  
-- If Pepperdine wins the doubles point, their chances of winning the dual improve to _96%_.  
-- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _18%_.  
-  
-Return to [List of Matches](../index.md)  
+- Pepperdine should win 4 or more singles matches _84%_ of the time.  
+- UC Santa Barbara should win 4 or more singles matches _3%_ of the time.  
+- The winner of the doubles point will decide the match the other _13%_ of the time.  
+- If Pepperdine wins the doubles point, their chances of winning the dual improve to _97%_.  
+- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _16%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

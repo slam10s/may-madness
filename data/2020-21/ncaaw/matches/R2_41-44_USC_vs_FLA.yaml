@@ -40,9 +40,9 @@ Visitor:
 Predictions:
   SLM: "FLA - #16 Florida (82%) def. #35 Southern California (18%)"
   TRN: "FLA - #20 Florida (90%) def. #41 Southern California (10%)"
-  MAS: "FLA - #21 Florida (75%) def. #26 Southern California (25%)"
-  LNUP: FLA - Florida (77%) def. Southern California (23%)
-  AVG: FLA - Florida (81%) def. Southern California (19%)
+  MAS: "FLA - #21 Florida (62%) def. #26 Southern California (38%)"
+  LNUP: FLA - Florida (82%) def. Southern California (18%)
+  AVG: FLA - Florida (79%) def. Southern California (21%)
   UTR: "USC - #6 Southern California (+1.59) def. #11 Florida (-1.59)"
   ITA: "FLA - #11 Florida def. #35 Southern California"
   USTA: "FLA - #20 Florida def. Southern California"
@@ -50,11 +50,11 @@ Predictions:
   Seeding: "FLA - #1 Florida def. #3 Southern California"
 Lineups:
   Predictions:
-    Average EWPs for FLA: 82%,90%,75%,77%
-    Average EWPs for USC: 18%,10%,25%,23%
-    FLA wins 4 or more Singles points: 53%
-    USC wins 4 or more Singles points: 15%
-    Winner decided by the Doubles point: 32%
+    Average EWPs for FLA: 82%,90%,62%,82%
+    Average EWPs for USC: 18%,10%,38%,18%
+    FLA wins 4 or more Singles points: 57%
+    USC wins 4 or more Singles points: 12%
+    Winner decided by the Doubles point: 31%
   Singles:
     - Position: 1
       FLA: McCartney Kessler - 13-2 at 1, 13-2 in duals, 16-2 overall
@@ -62,9 +62,9 @@ Lineups:
       Predictions:
         SLM: FLA - Kessler (86%) def. Ewing (14%)
         TRN: FLA - Kessler (73%) def. Ewing (27%)
-        MAS: FLA - Kessler (75%) def. Ewing (25%)
+        MAS: FLA - Kessler (85%) def. Ewing (15%)
         UTR: FLA - Kessler (70%) def. Ewing (30%)
-        AVG: FLA - Kessler (76%) def. Ewing (24%)
+        AVG: FLA - Kessler (78%) def. Ewing (22%)
         ITA: FLA - Kessler (45.58) def. Ewing (14.56)
     - Position: 2
       FLA: Marlee Zein - 6-5 at 2, 8-5 in duals, 10-8 overall
@@ -72,9 +72,9 @@ Lineups:
       Predictions:
         SLM: USC - Cayetano (78%) def. Zein (22%)
         TRN: USC - Cayetano (82%) def. Zein (18%)
-        MAS: USC - Cayetano (75%) def. Zein (25%)
+        MAS: USC - Cayetano (63%) def. Zein (37%)
         UTR: USC - Cayetano (89%) def. Zein (11%)
-        AVG: USC - Cayetano (80%) def. Zein (20%)
+        AVG: USC - Cayetano (77%) def. Zein (23%)
         ITA: FLA - Zein (8.25) def. Cayetano (5.85)
     - Position: 3
       FLA: Ida Jarlskog - 6-2 at 3, 8-4 in duals, 8-4 overall
@@ -82,9 +82,9 @@ Lineups:
       Predictions:
         SLM: FLA - Jarlskog (100%) def. Kulikov (0%)
         TRN: FLA - Jarlskog (100%) def. Kulikov (0%)
-        MAS: FLA - Jarlskog (75%) def. Kulikov (25%)
+        MAS: FLA - Jarlskog (90%) def. Kulikov (10%)
         UTR: FLA - Jarlskog (99%) def. Kulikov (1%)
-        AVG: FLA - Jarlskog (93%) def. Kulikov (7%)
+        AVG: FLA - Jarlskog (97%) def. Kulikov (3%)
         ITA: FLA - Jarlskog (5.66) def. Kulikov (0.00)
     - Position: 4
       FLA: Layne Sleeth - 7-0 at 4, 9-1 in duals, 9-1 overall
@@ -92,7 +92,7 @@ Lineups:
       Predictions:
         SLM: USC - Cheong (58%) def. Sleeth (42%)
         TRN: FLA - Sleeth (51%) def. Cheong (49%)
-        MAS: FLA - Sleeth (75%) def. Cheong (25%)
+        MAS: FLA - Sleeth (73%) def. Cheong (27%)
         UTR: FLA - Sleeth (78%) def. Cheong (22%)
         AVG: FLA - Sleeth (61%) def. Cheong (39%)
         ITA: FLA - Sleeth (7.72) def. Cheong (4.19)
@@ -102,9 +102,9 @@ Lineups:
       Predictions:
         SLM: USC - Willson (63%) def. Dahlstrom (37%)
         TRN: USC - Willson (71%) def. Dahlstrom (29%)
-        MAS: USC - Willson (75%) def. Dahlstrom (25%)
+        MAS: USC - Willson (63%) def. Dahlstrom (37%)
         UTR: USC - Willson (69%) def. Dahlstrom (31%)
-        AVG: USC - Willson (68%) def. Dahlstrom (32%)
+        AVG: USC - Willson (65%) def. Dahlstrom (35%)
         ITA: FLA - Dahlstrom (3.40) def. Willson (1.74)
     - Position: 6
       FLA: Sydney Berlin - 6-3 at 6, 11-4 in duals, 16-5 overall
@@ -112,9 +112,9 @@ Lineups:
       Predictions:
         SLM: FLA - Berlin (70%) def. Dvorak (30%)
         TRN: FLA - Berlin (70%) def. Dvorak (30%)
-        MAS: FLA - Berlin (75%) def. Dvorak (25%)
+        MAS: FLA - Berlin (65%) def. Dvorak (35%)
         UTR: FLA - Berlin (75%) def. Dvorak (25%)
-        AVG: FLA - Berlin (72%) def. Dvorak (28%)
+        AVG: FLA - Berlin (70%) def. Dvorak (30%)
         ITA: FLA - Berlin (2.47) def. Dvorak (1.85)
   Doubles:
     - Position: 1

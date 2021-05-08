@@ -42,9 +42,9 @@ Fort Worth, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TCU*** - #9 TCU (96%) def. #43 Arkansas (4%)  
 - TRN: ***TCU*** - #9 TCU (98%) def. #44 Arkansas (2%)  
-- Massey: ***TCU*** - #6 TCU (75%) def. #50 Arkansas (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***TCU*** - #6 TCU (99%) def. #50 Arkansas (1%)  
 - Lineup: ***TCU*** - TCU (100%) def. Arkansas (0%)  
-- Composite: ***TCU*** - TCU (92%) def. Arkansas (8%)  
+- Composite: ***TCU*** - TCU (98%) def. Arkansas (2%)  
 - UTR: ***TCU*** - #10 TCU (+4.41) def. #44 Arkansas (-4.41)  
 - ITA: ***TCU*** - #7 TCU def. #43 Arkansas  
 - USTA Poll: ***TCU*** - #9 TCU def. Arkansas  
@@ -63,9 +63,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Gray (83%) def. Reco (17%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Gray (88%) def. Reco (12%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Gray (75%) def. Reco (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TCU</i></b> - Gray (87%) def. Reco (13%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Gray (89%) def. Reco (11%)</li>  
-<li>Composite: <b><i>TCU</i></b> - Gray (84%) def. Reco (16%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Gray (87%) def. Reco (13%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Gray (40.15) def. Reco (4.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -74,9 +74,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Fomba (94%) def. Verboven (6%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Fomba (98%) def. Verboven (2%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Fomba (75%) def. Verboven (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TCU</i></b> - Fomba (98%) def. Verboven (2%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Fomba (92%) def. Verboven (8%)</li>  
-<li>Composite: <b><i>TCU</i></b> - Fomba (89%) def. Verboven (11%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Fomba (95%) def. Verboven (5%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Fomba (35.12) def. Verboven (1.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -85,9 +85,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Jong (79%) def. Rousett (21%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Jong (81%) def. Rousett (19%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Jong (75%) def. Rousett (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TCU</i></b> - Jong (78%) def. Rousett (22%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Jong (91%) def. Rousett (9%)</li>  
-<li>Composite: <b><i>TCU</i></b> - Jong (81%) def. Rousett (19%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Jong (82%) def. Rousett (18%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jong (11.43) def. Rousett (9.93)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -96,9 +96,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Fearnley (83%) def. Bucan (17%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Fearnley (91%) def. Bucan (9%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Fearnley (75%) def. Bucan (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TCU</i></b> - Fearnley (87%) def. Bucan (13%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Fearnley (91%) def. Bucan (9%)</li>  
-<li>Composite: <b><i>TCU</i></b> - Fearnley (85%) def. Bucan (15%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Fearnley (88%) def. Bucan (12%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Fearnley (5.67) def. Bucan (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,9 +107,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Jirousek (87%) def. Burdet (13%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Jirousek (88%) def. Burdet (12%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Jirousek (75%) def. Burdet (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TCU</i></b> - Jirousek (87%) def. Burdet (13%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Jirousek (86%) def. Burdet (14%)</li>  
-<li>Composite: <b><i>TCU</i></b> - Jirousek (84%) def. Burdet (16%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Jirousek (87%) def. Burdet (13%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jirousek (6.98) def. Burdet (1.73)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -118,9 +118,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TCU</i></b> - Paroulek (92%) def. Paya (8%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Paroulek (96%) def. Paya (4%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Paroulek (75%) def. Paya (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TCU</i></b> - Paroulek (85%) def. Paya (15%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Paroulek (88%) def. Paya (12%)</li>  
-<li>Composite: <b><i>TCU</i></b> - Paroulek (88%) def. Paya (12%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Paroulek (90%) def. Paya (10%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Paroulek (1.35) def. Paya (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -146,13 +146,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- TCU should win 4 or more singles matches _96%_ of the time.  
+- TCU should win 4 or more singles matches _98%_ of the time.  
 - Arkansas should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _4%_ of the time.  
+- The winner of the doubles point will decide the match the other _2%_ of the time.  
 - If TCU wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Arkansas wins the doubles point, their chances of winning the dual improve to _4%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Arkansas wins the doubles point, their chances of winning the dual improve to _2%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

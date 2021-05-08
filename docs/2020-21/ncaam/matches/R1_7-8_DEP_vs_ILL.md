@@ -44,9 +44,9 @@ Urbana, Illinois
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***ILL*** - #6 Illinois (99%) def. #55 DePaul (1%)  
 - TRN: ***ILL*** - #4 Illinois (99%) def. #55 DePaul (1%)  
-- Massey: ***ILL*** - #9 Illinois (75%) def. #54 DePaul (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***ILL*** - #9 Illinois (99%) def. #54 DePaul (1%)  
 - Lineup: ***ILL*** - Illinois (100%) def. DePaul (0%)  
-- Composite: ***ILL*** - Illinois (93%) def. DePaul (7%)  
+- Composite: ***ILL*** - Illinois (99%) def. DePaul (1%)  
 - UTR: ***ILL*** - #15 Illinois (+8.25) def. #60 DePaul (-8.25)  
 - ITA: ***ILL*** - #18 Illinois def. #55 DePaul  
 - USTA Poll: ***ILL*** - #8 Illinois def. DePaul  
@@ -65,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Kovacevic (75%) def. Tonejc (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Kovacevic (92%) def. Tonejc (8%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>ITA: <b><i>DEP</i></b> - Tonejc (4.23) def. Kovacevic (4.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,9 +76,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Montsi (75%) def. Casati (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Montsi (98%) def. Casati (2%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Montsi (98%) def. Casati (2%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Montsi (93%) def. Casati (7%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Montsi (4.79) def. Casati (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,9 +87,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Brown (75%) def. Spanjaard (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Brown (88%) def. Spanjaard (12%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Brown (92%) def. Spanjaard (8%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Brown (90%) def. Spanjaard (10%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Brown (94%) def. Spanjaard (6%)</li>  
 <li>ITA: <b><i>DEP</i></b> - Spanjaard (2.02) def. Brown (1.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Clark (98%) def. Zador (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Clark (99%) def. Zador (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Clark (75%) def. Zador (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Clark (99%) def. Zador (1%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Clark (96%) def. Zador (4%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Clark (92%) def. Zador (8%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Clark (98%) def. Zador (2%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Clark (6.43) def. Zador (1.31)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +109,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Heck (98%) def. Tonejc (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Heck (99%) def. Tonejc (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Heck (75%) def. Tonejc (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Heck (95%) def. Tonejc (5%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Heck (96%) def. Tonejc (4%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Heck (92%) def. Tonejc (8%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Heck (97%) def. Tonejc (3%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Heck (2.36) def. Tonejc (1.51)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Khlif (75%) def. Wassenaar (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Khlif (97%) def. Wassenaar (3%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Khlif (97%) def. Wassenaar (3%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Khlif (92%) def. Wassenaar (8%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Khlif (98%) def. Wassenaar (2%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Khlif (3.59) def. Wassenaar (2.18)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Illinois should win 4 or more singles matches _99%_ of the time.  
+- Illinois should win 4 or more singles matches _100%_ of the time.  
 - DePaul should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _0%_ of the time.  
 - If Illinois wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If DePaul wins the doubles point, their chances of winning the dual improve to _1%_.  
-  
-Return to [List of Matches](../index.md)  
+- If DePaul wins the doubles point, their chances of winning the dual improve to _0%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

@@ -43,9 +43,9 @@ Lexington, Kentucky
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UK*** - #17 Kentucky (71%) def. #21 Arizona (29%)  
 - TRN: ***UK*** - #17 Kentucky (69%) def. #20 Arizona (31%)  
-- Massey: ***UK*** - #17 Kentucky (75%) def. #18 Arizona (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***UK*** - Kentucky (81%) def. Arizona (19%)  
-- Composite: ***UK*** - Kentucky (74%) def. Arizona (26%)  
+- Massey: ***UK*** - #17 Kentucky (48%) def. #18 Arizona (52%)  
+- Lineup: ***UK*** - Kentucky (80%) def. Arizona (20%)  
+- Composite: ***UK*** - Kentucky (67%) def. Arizona (33%)  
 - UTR: ***UK*** - #16 Kentucky (+0.53) def. #21 Arizona (-0.53)  
 - ITA: ***UK*** - #15 Kentucky def. #17 Arizona  
 - USTA Poll: ***UK*** - #17 Kentucky def. #18 Arizona  
@@ -64,9 +64,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Draxl (86%) def. Strom (14%)</li>  
 <li>TRN: <b><i>UK</i></b> - Draxl (66%) def. Strom (34%)</li>  
-<li>Massey: <b><i>UK</i></b> - Draxl (75%) def. Strom (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UK</i></b> - Draxl (63%) def. Strom (37%)</li>  
 <li>UTR: <b><i>UK</i></b> - Draxl (84%) def. Strom (16%)</li>  
-<li>Composite: <b><i>UK</i></b> - Draxl (78%) def. Strom (22%)</li>  
+<li>Composite: <b><i>UK</i></b> - Draxl (75%) def. Strom (25%)</li>  
 <li>ITA: <b><i>UK</i></b> - Draxl (64.58) def. Strom (17.40)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Diallo (55%) def. Ziverts (45%)</li>  
 <li>TRN: <b><i>UK</i></b> - Diallo (63%) def. Ziverts (37%)</li>  
-<li>Massey: <b><i>UK</i></b> - Diallo (75%) def. Ziverts (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UK</i></b> - Diallo (66%) def. Ziverts (34%)</li>  
 <li>UTR: <b><i>UK</i></b> - Diallo (64%) def. Ziverts (36%)</li>  
-<li>Composite: <b><i>UK</i></b> - Diallo (64%) def. Ziverts (36%)</li>  
+<li>Composite: <b><i>UK</i></b> - Diallo (62%) def. Ziverts (38%)</li>  
 <li>ITA: <b><i>UK</i></b> - Diallo (37.70) def. Ziverts (7.58)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Hurrion (69%) def. Malbasic (31%)</li>  
 <li>TRN: <b><i>UK</i></b> - Hurrion (72%) def. Malbasic (28%)</li>  
-<li>Massey: <b><i>UK</i></b> - Hurrion (75%) def. Malbasic (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UK</i></b> - Hurrion (58%) def. Malbasic (42%)</li>  
 <li>UTR: <b><i>UK</i></b> - Hurrion (70%) def. Malbasic (30%)</li>  
-<li>Composite: <b><i>UK</i></b> - Hurrion (71%) def. Malbasic (29%)</li>  
+<li>Composite: <b><i>UK</i></b> - Hurrion (67%) def. Malbasic (33%)</li>  
 <li>ITA: <b><i>UK</i></b> - Hurrion (22.80) def. Malbasic (2.36)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Bourgois (100%) def. Hoeyeraal (0%)</li>  
 <li>TRN: <b><i>UK</i></b> - Bourgois (100%) def. Hoeyeraal (0%)</li>  
-<li>Massey: <b><i>UK</i></b> - Bourgois (75%) def. Hoeyeraal (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UK</i></b> - Bourgois (67%) def. Hoeyeraal (33%)</li>  
 <li>UTR: <b><i>UK</i></b> - Bourgois (99%) def. Hoeyeraal (1%)</li>  
-<li>Composite: <b><i>UK</i></b> - Bourgois (93%) def. Hoeyeraal (7%)</li>  
+<li>Composite: <b><i>UK</i></b> - Bourgois (91%) def. Hoeyeraal (9%)</li>  
 <li>ITA: <b><i>UK</i></b> - Bourgois (7.98) def. Hoeyeraal (2.40)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ARIZ</i></b> - Reguant (61%) def. Lapadat (39%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Reguant (53%) def. Lapadat (47%)</li>  
-<li>Massey: <b><i>ARIZ</i></b> - Reguant (75%) def. Lapadat (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ARIZ</i></b> - Reguant (54%) def. Lapadat (46%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Reguant (79%) def. Lapadat (21%)</li>  
-<li>Composite: <b><i>ARIZ</i></b> - Reguant (66%) def. Lapadat (34%)</li>  
+<li>Composite: <b><i>ARIZ</i></b> - Reguant (61%) def. Lapadat (39%)</li>  
 <li>ITA: <b><i>UK</i></b> - Lapadat (6.21) def. Reguant (2.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ARIZ</i></b> - Hassey (78%) def. LeBlanc (22%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Hassey (79%) def. LeBlanc (21%)</li>  
-<li>Massey: <b><i>ARIZ</i></b> - Hassey (75%) def. LeBlanc (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ARIZ</i></b> - Hassey (56%) def. LeBlanc (44%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Hassey (81%) def. LeBlanc (19%)</li>  
-<li>Composite: <b><i>ARIZ</i></b> - Hassey (77%) def. LeBlanc (23%)</li>  
+<li>Composite: <b><i>ARIZ</i></b> - Hassey (72%) def. LeBlanc (28%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Hassey (1.70) def. LeBlanc (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,12 +148,11 @@ Click on a Singles match to show individual predections for each line.
   
 Based on the composite metrics for each individual match:  
 - Kentucky should win 4 or more singles matches _56%_ of the time.  
-- Arizona should win 4 or more singles matches _13%_ of the time.  
-- The winner of the doubles point will decide the match the other _31%_ of the time.  
-- If Kentucky wins the doubles point, their chances of winning the dual improve to _87%_.  
+- Arizona should win 4 or more singles matches _14%_ of the time.  
+- The winner of the doubles point will decide the match the other _30%_ of the time.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to _86%_.  
 - If Arizona wins the doubles point, their chances of winning the dual improve to _44%_.  
   
-Return to [List of Matches](../index.md)  
-  
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

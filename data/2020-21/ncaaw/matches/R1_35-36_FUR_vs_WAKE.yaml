@@ -39,9 +39,9 @@ Visitor:
 Predictions:
   SLM: "WAKE - #32 Wake Forest (51%) def. #33 Furman (49%)"
   TRN: "WAKE - #31 Wake Forest (58%) def. #35 Furman (42%)"
-  MAS: "WAKE - #34 Wake Forest (75%) def. #35 Furman (25%)"
-  LNUP: WAKE - Wake Forest (81%) def. Furman (19%)
-  AVG: WAKE - Wake Forest (66%) def. Furman (34%)
+  MAS: "WAKE - #34 Wake Forest (52%) def. #35 Furman (48%)"
+  LNUP: WAKE - Wake Forest (82%) def. Furman (18%)
+  AVG: WAKE - Wake Forest (61%) def. Furman (39%)
   UTR: "WAKE - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)"
   ITA: "WAKE - #33 Wake Forest def. #34 Furman"
   USTA: FUR - RV Furman def. Wake Forest
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "WAKE - #2 Wake Forest def. #3 Furman"
 Lineups:
   Predictions:
-    Average EWPs for WAKE: 51%,58%,75%,81%
-    Average EWPs for FUR: 49%,42%,25%,19%
-    WAKE wins 4 or more Singles points: 59%
+    Average EWPs for WAKE: 51%,58%,52%,82%
+    Average EWPs for FUR: 49%,42%,48%,18%
+    WAKE wins 4 or more Singles points: 60%
     FUR wins 4 or more Singles points: 13%
-    Winner decided by the Doubles point: 28%
+    Winner decided by the Doubles point: 27%
   Singles:
     - Position: 1
       WAKE: Carolyn Campana - 9-5 at 1, 9-5 in duals, 9-5 overall
@@ -61,9 +61,9 @@ Lineups:
       Predictions:
         SLM: FUR - Kozarov (56%) def. Campana (44%)
         TRN: FUR - Kozarov (72%) def. Campana (28%)
-        MAS: FUR - Kozarov (75%) def. Campana (25%)
+        MAS: FUR - Kozarov (57%) def. Campana (43%)
         UTR: WAKE - Campana (56%) def. Kozarov (44%)
-        AVG: FUR - Kozarov (61%) def. Campana (39%)
+        AVG: FUR - Kozarov (56%) def. Campana (44%)
         ITA: WAKE - Campana (28.61) def. Kozarov (26.43)
     - Position: 2
       WAKE: Anna Campana - 4-6 at 2, 6-10 in duals, 6-10 overall
@@ -71,9 +71,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Campana (52%) def. Adams (48%)
         TRN: FUR - Adams (61%) def. Campana (39%)
-        MAS: FUR - Adams (75%) def. Campana (25%)
+        MAS: FUR - Adams (57%) def. Campana (43%)
         UTR: FUR - Adams (71%) def. Campana (29%)
-        AVG: FUR - Adams (63%) def. Campana (37%)
+        AVG: FUR - Adams (58%) def. Campana (42%)
         ITA: WAKE - Campana (11.52) def. Adams (5.79)
     - Position: 3
       WAKE: Anna Brylin - 10-3 at 3, 12-8 in duals, 12-8 overall
@@ -81,9 +81,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Brylin (85%) def. Dillon (15%)
         TRN: WAKE - Brylin (87%) def. Dillon (13%)
-        MAS: WAKE - Brylin (75%) def. Dillon (25%)
+        MAS: WAKE - Brylin (88%) def. Dillon (12%)
         UTR: WAKE - Brylin (92%) def. Dillon (8%)
-        AVG: WAKE - Brylin (85%) def. Dillon (15%)
+        AVG: WAKE - Brylin (88%) def. Dillon (12%)
         ITA: WAKE - Brylin (2.10) def. Dillon (1.67)
     - Position: 4
       WAKE: Eliza Omirou - 3-3 at 4, 9-8 in duals, 9-8 overall
@@ -91,9 +91,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Omirou (66%) def. Rompf (34%)
         TRN: WAKE - Omirou (60%) def. Rompf (40%)
-        MAS: WAKE - Omirou (75%) def. Rompf (25%)
+        MAS: WAKE - Omirou (68%) def. Rompf (32%)
         UTR: WAKE - Omirou (72%) def. Rompf (28%)
-        AVG: WAKE - Omirou (68%) def. Rompf (32%)
+        AVG: WAKE - Omirou (66%) def. Rompf (34%)
         ITA: WAKE - Omirou (1.88) def. Rompf (1.74)
     - Position: 5
       WAKE: Brooke Killingsworth - 1-1 at 5, 7-14 in duals, 7-14 overall
@@ -101,9 +101,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Killingsworth (79%) def. Pate (21%)
         TRN: WAKE - Killingsworth (66%) def. Pate (34%)
-        MAS: WAKE - Killingsworth (75%) def. Pate (25%)
+        MAS: WAKE - Killingsworth (59%) def. Pate (41%)
         UTR: WAKE - Killingsworth (77%) def. Pate (23%)
-        AVG: WAKE - Killingsworth (74%) def. Pate (26%)
+        AVG: WAKE - Killingsworth (70%) def. Pate (30%)
         ITA: FUR - Pate (1.95) def. Killingsworth (1.48)
     - Position: 6
       WAKE: Casie Wooten - 7-3 at 6, 12-7 in duals, 12-7 overall
@@ -111,9 +111,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Wooten (66%) def. Schoppe (34%)
         TRN: WAKE - Wooten (57%) def. Schoppe (43%)
-        MAS: WAKE - Wooten (75%) def. Schoppe (25%)
+        MAS: WAKE - Wooten (66%) def. Schoppe (34%)
         UTR: WAKE - Wooten (75%) def. Schoppe (25%)
-        AVG: WAKE - Wooten (68%) def. Schoppe (32%)
+        AVG: WAKE - Wooten (66%) def. Schoppe (34%)
         ITA: FUR - Schoppe (2.79) def. Wooten (1.70)
   Doubles:
     - Position: 1

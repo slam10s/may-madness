@@ -39,9 +39,9 @@ Visitor:
 Predictions:
   SLM: "MICH - #8 Michigan (94%) def. #40 Rice (6%)"
   TRN: "MICH - #8 Michigan (96%) def. #36 Rice (4%)"
-  MAS: "MICH - #15 Michigan (75%) def. #38 Rice (25%)"
-  LNUP: MICH - Michigan (92%) def. Rice (8%)
-  AVG: MICH - Michigan (89%) def. Rice (11%)
+  MAS: "MICH - #15 Michigan (85%) def. #38 Rice (15%)"
+  LNUP: MICH - Michigan (94%) def. Rice (6%)
+  AVG: MICH - Michigan (92%) def. Rice (8%)
   UTR: "MICH - #17 Michigan (+1.87) def. #35 Rice (-1.87)"
   ITA: "MICH - #19 Michigan def. #40 Rice"
   USTA: "MICH - #7 Michigan def. Rice"
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "MICH - #2 Michigan def. #3 Rice"
 Lineups:
   Predictions:
-    Average EWPs for MICH: 94%,96%,75%,92%
-    Average EWPs for RICE: 6%,4%,25%,8%
-    MICH wins 4 or more Singles points: 76%
-    RICE wins 4 or more Singles points: 6%
-    Winner decided by the Doubles point: 18%
+    Average EWPs for MICH: 94%,96%,85%,94%
+    Average EWPs for RICE: 6%,4%,15%,6%
+    MICH wins 4 or more Singles points: 79%
+    RICE wins 4 or more Singles points: 5%
+    Winner decided by the Doubles point: 16%
   Singles:
     - Position: 1
       MICH: Kari Miller - 11-3 at 1, 12-4 in duals, 15-4 overall
@@ -61,9 +61,9 @@ Lineups:
       Predictions:
         SLM: MICH - Miller (94%) def. Haet (6%)
         TRN: MICH - Miller (94%) def. Haet (6%)
-        MAS: MICH - Miller (75%) def. Haet (25%)
+        MAS: MICH - Miller (95%) def. Haet (5%)
         UTR: MICH - Miller (91%) def. Haet (9%)
-        AVG: MICH - Miller (89%) def. Haet (11%)
+        AVG: MICH - Miller (94%) def. Haet (6%)
         ITA: MICH - Miller (10.66) def. Haet (0.00)
     - Position: 2
       MICH: Chiara Lommer - 10-3 at 2, 12-4 in duals, 14-5 overall
@@ -71,9 +71,9 @@ Lineups:
       Predictions:
         SLM: MICH - Lommer (74%) def. Smirnova (26%)
         TRN: MICH - Lommer (74%) def. Smirnova (26%)
-        MAS: MICH - Lommer (75%) def. Smirnova (25%)
+        MAS: MICH - Lommer (83%) def. Smirnova (17%)
         UTR: MICH - Lommer (79%) def. Smirnova (21%)
-        AVG: MICH - Lommer (75%) def. Smirnova (25%)
+        AVG: MICH - Lommer (77%) def. Smirnova (23%)
         ITA: RICE - Smirnova (2.76) def. Lommer (2.49)
     - Position: 3
       MICH: Andrea Cerdan - 7-4 at 3, 11-6 in duals, 13-7 overall
@@ -81,7 +81,7 @@ Lineups:
       Predictions:
         SLM: MICH - Cerdan (66%) def. Trevisan (34%)
         TRN: RICE - Trevisan (52%) def. Cerdan (48%)
-        MAS: MICH - Cerdan (75%) def. Trevisan (25%)
+        MAS: MICH - Cerdan (74%) def. Trevisan (26%)
         UTR: MICH - Cerdan (76%) def. Trevisan (24%)
         AVG: MICH - Cerdan (66%) def. Trevisan (34%)
         ITA: RICE - Trevisan (6.30) def. Cerdan (1.79)
@@ -91,9 +91,9 @@ Lineups:
       Predictions:
         SLM: MICH - Brown (56%) def. Huang (44%)
         TRN: MICH - Brown (54%) def. Huang (46%)
-        MAS: MICH - Brown (75%) def. Huang (25%)
+        MAS: MICH - Brown (77%) def. Huang (23%)
         UTR: MICH - Brown (66%) def. Huang (34%)
-        AVG: MICH - Brown (62%) def. Huang (38%)
+        AVG: MICH - Brown (63%) def. Huang (37%)
         ITA: RICE - Huang (5.83) def. Brown (2.65)
     - Position: 5
       MICH: Alyvia Jones - 3-0 at 5, 7-2 in duals, 7-5 overall
@@ -101,7 +101,7 @@ Lineups:
       Predictions:
         SLM: MICH - Jones (78%) def. Smirnova (22%)
         TRN: MICH - Jones (69%) def. Smirnova (31%)
-        MAS: MICH - Jones (75%) def. Smirnova (25%)
+        MAS: MICH - Jones (72%) def. Smirnova (28%)
         UTR: MICH - Jones (72%) def. Smirnova (28%)
         AVG: MICH - Jones (73%) def. Smirnova (27%)
         ITA: MICH - Jones (2.08) def. Smirnova (1.55)
@@ -111,9 +111,9 @@ Lineups:
       Predictions:
         SLM: MICH - Lorenzini (59%) def. Bowtell (41%)
         TRN: MICH - Lorenzini (52%) def. Bowtell (48%)
-        MAS: MICH - Lorenzini (75%) def. Bowtell (25%)
+        MAS: MICH - Lorenzini (83%) def. Bowtell (17%)
         UTR: RICE - Bowtell (61%) def. Lorenzini (39%)
-        AVG: MICH - Lorenzini (56%) def. Bowtell (44%)
+        AVG: MICH - Lorenzini (58%) def. Bowtell (42%)
         ITA: MICH - Lorenzini (2.86) def. Bowtell (1.88)
   Doubles:
     - Position: 1

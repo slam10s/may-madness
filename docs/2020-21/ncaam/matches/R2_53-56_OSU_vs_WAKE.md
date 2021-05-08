@@ -43,9 +43,9 @@ Winston-Salem, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***OSU*** - #7 Ohio St. (60%) def. #10 Wake Forest (40%)  
 - TRN: ***OSU*** - #8 Ohio St. (68%) def. #10 Wake Forest (32%)  
-- Massey: ***OSU*** - #9 Ohio St. (75%) def. #13 Wake Forest (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***OSU*** - Ohio St. (80%) def. Wake Forest (20%)  
-- Composite: ***OSU*** - Ohio St. (70%) def. Wake Forest (30%)  
+- Massey: ***OSU*** - #9 Ohio St. (63%) def. #13 Wake Forest (37%)  
+- Lineup: ***OSU*** - Ohio St. (74%) def. Wake Forest (26%)  
+- Composite: ***OSU*** - Ohio St. (65%) def. Wake Forest (35%)  
 - UTR: ***OSU*** - #3 Ohio St. (+0.49) def. #7 Wake Forest (-0.49)  
 - ITA: ***WAKE*** - #9 Wake Forest def. #31 Ohio St.  
 - USTA Poll: ***OSU*** - #7 Ohio St. def. #12 Wake Forest  
@@ -64,9 +64,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - McNally (54%) def. Squire (46%)</li>  
 <li>TRN: <b><i>OSU</i></b> - McNally (52%) def. Squire (48%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Squire (75%) def. McNally (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>WAKE</i></b> - Squire (53%) def. McNally (47%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Squire (78%) def. McNally (22%)</li>  
-<li>Composite: <b><i>WAKE</i></b> - Squire (62%) def. McNally (38%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Squire (56%) def. McNally (44%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Squire (38.10) def. McNally (3.89)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Kingsley (87%) def. Nava (13%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Kingsley (82%) def. Nava (18%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Kingsley (75%) def. Nava (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>OSU</i></b> - Kingsley (57%) def. Nava (43%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Kingsley (83%) def. Nava (17%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Kingsley (81%) def. Nava (19%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Kingsley (76%) def. Nava (24%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Nava (19.97) def. Kingsley (5.20)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Trotter (61%) def. Baadi (39%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Trotter (69%) def. Baadi (31%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Trotter (75%) def. Baadi (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>OSU</i></b> - Trotter (53%) def. Baadi (47%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Trotter (80%) def. Baadi (20%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Trotter (70%) def. Baadi (30%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Trotter (64%) def. Baadi (36%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Baadi (6.71) def. Trotter (3.90)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>WAKE</i></b> - Cungu (55%) def. Boulais (45%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Cungu (77%) def. Boulais (23%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Cungu (75%) def. Boulais (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>WAKE</i></b> - Cungu (66%) def. Boulais (34%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Cungu (83%) def. Boulais (17%)</li>  
-<li>Composite: <b><i>WAKE</i></b> - Cungu (72%) def. Boulais (28%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Cungu (70%) def. Boulais (30%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Cungu (3.35) def. Boulais (2.92)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Seelig (75%) def. Efstathiou (25%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Seelig (66%) def. Efstathiou (34%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Seelig (75%) def. Efstathiou (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>OSU</i></b> - Seelig (57%) def. Efstathiou (43%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Seelig (87%) def. Efstathiou (13%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Seelig (75%) def. Efstathiou (25%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Seelig (70%) def. Efstathiou (30%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Efstathiou (2.09) def. Seelig (2.02)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Tracy (70%) def. Banthia (30%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Tracy (67%) def. Banthia (33%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Tracy (75%) def. Banthia (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>OSU</i></b> - Tracy (54%) def. Banthia (46%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Tracy (81%) def. Banthia (19%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Tracy (72%) def. Banthia (28%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Tracy (67%) def. Banthia (33%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Tracy (3.11) def. Banthia (2.98)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Wake Forest should win 4 or more singles matches _14%_ of the time.  
-- Ohio St. should win 4 or more singles matches _57%_ of the time.  
-- The winner of the doubles point will decide the match the other _29%_ of the time.  
-- If Wake Forest wins the doubles point, their chances of winning the dual improve to _43%_.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to _86%_.  
-  
-Return to [List of Matches](../index.md)  
+- Wake Forest should win 4 or more singles matches _18%_ of the time.  
+- Ohio St. should win 4 or more singles matches _52%_ of the time.  
+- The winner of the doubles point will decide the match the other _30%_ of the time.  
+- If Wake Forest wins the doubles point, their chances of winning the dual improve to _48%_.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to _82%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

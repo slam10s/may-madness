@@ -41,9 +41,9 @@ Visitor:
 Predictions:
   SLM: "USC - #14 Southern California (89%) def. #34 Pepperdine (11%)"
   TRN: "USC - #16 Southern California (87%) def. #30 Pepperdine (13%)"
-  MAS: "USC - #8 Southern California (75%) def. #22 Pepperdine (25%)"
+  MAS: "USC - #8 Southern California (90%) def. #22 Pepperdine (10%)"
   LNUP: USC - Southern California (98%) def. Pepperdine (2%)
-  AVG: USC - Southern California (87%) def. Pepperdine (13%)
+  AVG: USC - Southern California (91%) def. Pepperdine (9%)
   UTR: "USC - #2 Southern California (+2.70) def. #26 Pepperdine (-2.70)"
   ITA: "USC - #12 Southern California def. #28 Pepperdine"
   USTA: "USC - #13 Southern California def. #24 Pepperdine"
@@ -51,8 +51,8 @@ Predictions:
   Seeding: "USC - #1 Southern California def. #2 Pepperdine"
 Lineups:
   Predictions:
-    Average EWPs for USC: 89%,87%,75%,98%
-    Average EWPs for PEPP: 11%,13%,25%,2%
+    Average EWPs for USC: 89%,87%,90%,98%
+    Average EWPs for PEPP: 11%,13%,10%,2%
     USC wins 4 or more Singles points: 92%
     PEPP wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 7%
@@ -63,9 +63,9 @@ Lineups:
       Predictions:
         SLM: USC - Cukierman (91%) def. Oetzbach (9%)
         TRN: USC - Cukierman (94%) def. Oetzbach (6%)
-        MAS: USC - Cukierman (75%) def. Oetzbach (25%)
+        MAS: USC - Cukierman (92%) def. Oetzbach (8%)
         UTR: USC - Cukierman (93%) def. Oetzbach (7%)
-        AVG: USC - Cukierman (88%) def. Oetzbach (12%)
+        AVG: USC - Cukierman (93%) def. Oetzbach (7%)
         ITA: USC - Cukierman (16.39) def. Oetzbach (5.20)
     - Position: 2
       USC: Riley Smith - 9-5 at 2, 13-5 in duals, 15-5 overall
@@ -73,9 +73,9 @@ Lineups:
       Predictions:
         SLM: USC - Smith (75%) def. Ouden (25%)
         TRN: USC - Smith (75%) def. Ouden (25%)
-        MAS: USC - Smith (75%) def. Ouden (25%)
+        MAS: USC - Smith (65%) def. Ouden (35%)
         UTR: USC - Smith (70%) def. Ouden (30%)
-        AVG: USC - Smith (74%) def. Ouden (26%)
+        AVG: USC - Smith (71%) def. Ouden (29%)
         ITA: USC - Smith (15.48) def. Ouden (2.60)
     - Position: 3
       USC: Stefan Dostanic - 12-3 at 3, 16-3 in duals, 18-3 overall
@@ -83,9 +83,9 @@ Lineups:
       Predictions:
         SLM: USC - Dostanic (74%) def. DeJonge (26%)
         TRN: USC - Dostanic (81%) def. DeJonge (19%)
-        MAS: USC - Dostanic (75%) def. DeJonge (25%)
+        MAS: USC - Dostanic (68%) def. DeJonge (32%)
         UTR: USC - Dostanic (80%) def. DeJonge (20%)
-        AVG: USC - Dostanic (77%) def. DeJonge (23%)
+        AVG: USC - Dostanic (76%) def. DeJonge (24%)
         ITA: USC - Dostanic (5.43) def. DeJonge (3.53)
     - Position: 4
       USC: Bradley Frye - 9-2 at 4, 15-4 in duals, 17-4 overall
@@ -93,9 +93,9 @@ Lineups:
       Predictions:
         SLM: USC - Frye (78%) def. Zeitvogel (22%)
         TRN: USC - Frye (83%) def. Zeitvogel (17%)
-        MAS: USC - Frye (75%) def. Zeitvogel (25%)
+        MAS: USC - Frye (70%) def. Zeitvogel (30%)
         UTR: USC - Frye (82%) def. Zeitvogel (18%)
-        AVG: USC - Frye (80%) def. Zeitvogel (20%)
+        AVG: USC - Frye (79%) def. Zeitvogel (21%)
         ITA: PEPP - Zeitvogel (4.17) def. Frye (2.44)
     - Position: 5
       USC: Lodewijk Weststrate - 9-3 at 5, 21-4 in duals, 23-4 overall
@@ -103,9 +103,9 @@ Lineups:
       Predictions:
         SLM: USC - Weststrate (83%) def. Summaria (17%)
         TRN: USC - Weststrate (91%) def. Summaria (9%)
-        MAS: USC - Weststrate (75%) def. Summaria (25%)
+        MAS: USC - Weststrate (83%) def. Summaria (17%)
         UTR: USC - Weststrate (91%) def. Summaria (9%)
-        AVG: USC - Weststrate (85%) def. Summaria (15%)
+        AVG: USC - Weststrate (87%) def. Summaria (13%)
         ITA: USC - Weststrate (2.93) def. Summaria (1.59)
     - Position: 6
       USC: Jake Sands - 8-3 at 6, 14-4 in duals, 14-4 overall
@@ -113,9 +113,9 @@ Lineups:
       Predictions:
         SLM: USC - Sands (79%) def. Fellin (21%)
         TRN: USC - Sands (87%) def. Fellin (13%)
-        MAS: USC - Sands (75%) def. Fellin (25%)
+        MAS: USC - Sands (78%) def. Fellin (22%)
         UTR: USC - Sands (77%) def. Fellin (23%)
-        AVG: USC - Sands (79%) def. Fellin (21%)
+        AVG: USC - Sands (80%) def. Fellin (20%)
         ITA: USC - Sands (2.42) def. Fellin (2.12)
   Doubles:
     - Position: 1

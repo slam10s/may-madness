@@ -48,11 +48,11 @@ Predictions:
   Seeding: "UCLA - #2 UCLA def. #3 Northwestern"
 Lineups:
   Predictions:
-    Average EWPs for UCLA: 63%,63%,75%,50%
-    Average EWPs for NW: 37%,37%,25%,50%
+    Average EWPs for UCLA: 63%,63%,75%,51%
+    Average EWPs for NW: 37%,37%,25%,49%
     UCLA wins 4 or more Singles points: 34%
-    NW wins 4 or more Singles points: 33%
-    Winner decided by the Doubles point: 33%
+    NW wins 4 or more Singles points: 34%
+    Winner decided by the Doubles point: 32%
   Singles:
     - Position: 1
       UCLA: Govind Nanda - 2-2 at 1, 8-3 in duals, 8-3 overall
@@ -70,9 +70,9 @@ Lineups:
       Predictions:
         SLM: NW - Stary (69%) def. Baird (31%)
         TRN: NW - Stary (64%) def. Baird (36%)
-        MAS: UCLA - Baird (75%) def. Stary (25%)
+        MAS: UCLA - Baird (40%) def. Stary (60%)
         UTR: UCLA - Baird (66%) def. Stary (34%)
-        AVG: UCLA - Baird (52%) def. Stary (48%)
+        AVG: NW - Stary (56%) def. Baird (44%)
         ITA: UCLA - Baird (3.85) def. Stary (0.00)
     - Position: 3
       UCLA: Ben Goldberg - 5-2 at 3, 8-8 in duals, 9-8 overall
@@ -80,9 +80,9 @@ Lineups:
       Predictions:
         SLM: NW - Brookes (66%) def. Goldberg (34%)
         TRN: NW - Brookes (52%) def. Goldberg (48%)
-        MAS: NW - Brookes (75%) def. Goldberg (25%)
+        MAS: NW - Brookes (65%) def. Goldberg (35%)
         UTR: NW - Brookes (77%) def. Goldberg (23%)
-        AVG: NW - Brookes (67%) def. Goldberg (33%)
+        AVG: NW - Brookes (64%) def. Goldberg (36%)
         ITA: UCLA - Goldberg (1.97) def. Brookes (1.58)
     - Position: 4
       UCLA: Sam Feit - 6-1 at 4, 11-5 in duals, 11-6 overall
@@ -90,9 +90,9 @@ Lineups:
       Predictions:
         SLM: NW - Ephron (65%) def. Feit (35%)
         TRN: UCLA - Feit (51%) def. Ephron (49%)
-        MAS: NW - Ephron (75%) def. Feit (25%)
+        MAS: NW - Ephron (56%) def. Feit (44%)
         UTR: UCLA - Feit (56%) def. Ephron (44%)
-        AVG: NW - Ephron (57%) def. Feit (43%)
+        AVG: NW - Ephron (52%) def. Feit (48%)
         ITA: NW - Ephron (2.01) def. Feit (1.91)
     - Position: 5
       UCLA: Roscoe Bellamy - 2-1 at 5, 8-2 in duals, 8-2 overall
@@ -100,9 +100,9 @@ Lineups:
       Predictions:
         SLM: NW - Pickens (70%) def. Bellamy (30%)
         TRN: NW - Pickens (56%) def. Bellamy (44%)
-        MAS: UCLA - Bellamy (75%) def. Pickens (25%)
+        MAS: UCLA - Bellamy (60%) def. Pickens (40%)
         UTR: UCLA - Bellamy (81%) def. Pickens (19%)
-        AVG: UCLA - Bellamy (58%) def. Pickens (42%)
+        AVG: UCLA - Bellamy (54%) def. Pickens (46%)
         ITA: UCLA - Bellamy (2.89) def. Pickens (1.58)
     - Position: 6
       UCLA: Mathew Tsolakyan - 4-2 at 6, 10-3 in duals, 11-3 overall
@@ -110,9 +110,9 @@ Lineups:
       Predictions:
         SLM: NW - Bratholm (66%) def. Tsolakyan (34%)
         TRN: NW - Bratholm (64%) def. Tsolakyan (36%)
-        MAS: NW - Bratholm (75%) def. Tsolakyan (25%)
+        MAS: NW - Bratholm (60%) def. Tsolakyan (40%)
         UTR: UCLA - Tsolakyan (62%) def. Bratholm (38%)
-        AVG: NW - Bratholm (60%) def. Tsolakyan (40%)
+        AVG: NW - Bratholm (56%) def. Tsolakyan (44%)
         ITA: UCLA - Tsolakyan (2.57) def. Bratholm (2.06)
   Doubles:
     - Position: 1

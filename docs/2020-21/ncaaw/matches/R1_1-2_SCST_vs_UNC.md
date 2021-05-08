@@ -43,9 +43,9 @@ Chapel Hill, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #62 South Carolina St. (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #61 South Carolina St. (1%)  
-- Massey: ***UNC*** - #1 North Carolina (75%) def. #62 South Carolina St. (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***UNC*** - #1 North Carolina (100%) def. #62 South Carolina St. (0%)  
 - Lineup: ***UNC*** - North Carolina (100%) def. South Carolina St. (0%)  
-- Composite: ***UNC*** - North Carolina (93%) def. South Carolina St. (7%)  
+- Composite: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - UTR: ***UNC*** - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)  
 - ITA: ***UNC*** - #1 North Carolina def. South Carolina St.  
 - USTA Poll: ***UNC*** - #1 North Carolina def. South Carolina St.  
@@ -64,9 +64,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Daavettila (75%) def. Berjane (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Daavettila (93%) def. Berjane (7%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Daavettila (64.17) def. Berjane (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Graham (75%) def. Semlali (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Graham (93%) def. Semlali (7%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Graham (15.03) def. Semlali (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Morra (75%) def. Mihajilovic (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Morra (93%) def. Mihajilovic (7%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Morra (20.00) def. Mihajilovic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Scotty (75%) def. Patnaik (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Scotty (93%) def. Patnaik (7%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Scotty (5.93) def. Patnaik (2.21)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Jones (75%) def. Rassif (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Jones (93%) def. Rassif (7%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Jones (18.39) def. Rassif (1.48)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UNC</i></b> - Crawley (100%) def. Aguilar (0%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Crawley (100%) def. Aguilar (0%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Crawley (75%) def. Aguilar (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UNC</i></b> - Crawley (90%) def. Aguilar (10%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Crawley (99%) def. Aguilar (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Crawley (93%) def. Aguilar (7%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Crawley (97%) def. Aguilar (3%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Crawley (16.89) def. Aguilar (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -153,7 +153,6 @@ Based on the composite metrics for each individual match:
 - If North Carolina wins the doubles point, their chances of winning the dual improve to _100%_.  
 - If South Carolina St. wins the doubles point, their chances of winning the dual improve to _0%_.  
   
-Return to [List of Matches](../index.md)  
-  
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

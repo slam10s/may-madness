@@ -45,9 +45,9 @@ Austin, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
 - TRN: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
-- Massey: ***TEX*** - #2 Texas (75%) def. #43 Denver (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***TEX*** - #2 Texas (99%) def. #43 Denver (1%)  
 - Lineup: ***TEX*** - Texas (100%) def. Denver (0%)  
-- Composite: ***TEX*** - Texas (93%) def. Denver (7%)  
+- Composite: ***TEX*** - Texas (99%) def. Denver (1%)  
 - UTR: ***TEX*** - #1 Texas (+7.56) def. #45 Denver (-7.56)  
 - ITA: ***TEX*** - #2 Texas def. #45 Denver  
 - USTA Poll: ***TEX*** - #2 Texas def. Denver  
@@ -66,9 +66,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Stearns (86%) def. Riedmiller (14%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Stearns (65%) def. Riedmiller (35%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Stearns (75%) def. Riedmiller (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Stearns (79%) def. Riedmiller (21%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Stearns (90%) def. Riedmiller (10%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Stearns (79%) def. Riedmiller (21%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Stearns (80%) def. Riedmiller (20%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Stearns (16.38) def. Riedmiller (4.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,9 +77,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Turati (92%) def. Melville (8%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Turati (97%) def. Melville (3%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Turati (75%) def. Melville (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Turati (92%) def. Melville (8%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Turati (94%) def. Melville (6%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Turati (89%) def. Melville (11%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Turati (94%) def. Melville (6%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Turati (17.31) def. Melville (2.84)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,9 +88,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Sun (97%) def. Pursell (3%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Sun (99%) def. Pursell (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Sun (75%) def. Pursell (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Sun (95%) def. Pursell (5%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Sun (98%) def. Pursell (2%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Sun (92%) def. Pursell (8%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Sun (97%) def. Pursell (3%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Sun (9.34) def. Pursell (2.61)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,9 +99,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Chavatipon (75%) def. Verden-Anderson (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Chavatipon (97%) def. Verden-Anderson (3%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Chavatipon (93%) def. Verden-Anderson (7%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Chavatipon (7.87) def. Verden-Anderson (3.01)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -110,9 +110,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Collins (75%) def. Chang (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Collins (98%) def. Chang (2%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Collins (98%) def. Chang (2%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Collins (93%) def. Chang (7%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Collins (8.04) def. Chang (2.56)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -121,9 +121,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Labrana (75%) def. Burger (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Labrana (96%) def. Burger (4%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Labrana (97%) def. Burger (3%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Labrana (92%) def. Burger (8%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Labrana (98%) def. Burger (2%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Burger (1.93) def. Labrana (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -149,13 +149,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas should win 4 or more singles matches _99%_ of the time.  
+- Texas should win 4 or more singles matches _100%_ of the time.  
 - Denver should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _0%_ of the time.  
 - If Texas wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Denver wins the doubles point, their chances of winning the dual improve to _1%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Denver wins the doubles point, their chances of winning the dual improve to _0%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

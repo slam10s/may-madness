@@ -43,9 +43,9 @@ Charlottesville, Virginia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UVA*** - #9 Virginia (69%) def. #19 Tennessee (31%)  
 - TRN: ***UVA*** - #11 Virginia (67%) def. #19 Tennessee (33%)  
-- Massey: ***UVA*** - #7 Virginia (75%) def. #19 Tennessee (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***UVA*** - Virginia (63%) def. Tennessee (37%)  
-- Composite: ***UVA*** - Virginia (69%) def. Tennessee (31%)  
+- Massey: ***UVA*** - #7 Virginia (69%) def. #19 Tennessee (31%)  
+- Lineup: ***UVA*** - Virginia (65%) def. Tennessee (35%)  
+- Composite: ***UVA*** - Virginia (68%) def. Tennessee (32%)  
 - UTR: ***UVA*** - #13 Virginia (+0.80) def. #22 Tennessee (-0.80)  
 - ITA: ***UVA*** - #14 Virginia def. #15 Tennessee  
 - USTA Poll: ***UVA*** - #10 Virginia def. #19 Tennessee  
@@ -64,9 +64,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Navarro (97%) def. Mertena (3%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Navarro (99%) def. Mertena (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Navarro (75%) def. Mertena (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UVA</i></b> - Navarro (90%) def. Mertena (10%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Navarro (93%) def. Mertena (7%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Navarro (91%) def. Mertena (9%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Navarro (95%) def. Mertena (5%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Navarro (62.96) def. Mertena (7.45)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Subhash (83%) def. Molinaro (17%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Subhash (91%) def. Molinaro (9%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Subhash (75%) def. Molinaro (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UVA</i></b> - Subhash (89%) def. Molinaro (11%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Subhash (88%) def. Molinaro (12%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Subhash (84%) def. Molinaro (16%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Subhash (88%) def. Molinaro (12%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Subhash (40.00) def. Molinaro (5.46)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Johanson (67%) def. Briggs (33%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Johanson (75%) def. Briggs (25%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Johanson (75%) def. Briggs (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UVA</i></b> - Johanson (83%) def. Briggs (17%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Johanson (83%) def. Briggs (17%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Johanson (75%) def. Briggs (25%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Johanson (77%) def. Briggs (23%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Briggs (8.89) def. Johanson (6.37)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Kuczer (73%) def. Shaikh (27%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Kuczer (88%) def. Shaikh (12%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Kuczer (75%) def. Shaikh (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TENN</i></b> - Kuczer (84%) def. Shaikh (16%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Kuczer (86%) def. Shaikh (14%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Kuczer (80%) def. Shaikh (20%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Kuczer (82%) def. Shaikh (18%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Kuczer (3.41) def. Shaikh (1.63)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - McGiffin (100%) def. O'Dell (0%)</li>  
 <li>TRN: <b><i>TENN</i></b> - McGiffin (100%) def. O'Dell (0%)</li>  
-<li>Massey: <b><i>TENN</i></b> - McGiffin (75%) def. O'Dell (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TENN</i></b> - McGiffin (68%) def. O'Dell (32%)</li>  
 <li>UTR: <b><i>TENN</i></b> - McGiffin (100%) def. O'Dell (0%)</li>  
-<li>Composite: <b><i>TENN</i></b> - McGiffin (93%) def. O'Dell (7%)</li>  
+<li>Composite: <b><i>TENN</i></b> - McGiffin (91%) def. O'Dell (9%)</li>  
 <li>ITA: <b><i>TENN</i></b> - McGiffin (1.61) def. O'Dell (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Silva (67%) def. Glozman (33%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Silva (62%) def. Glozman (38%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Glozman (75%) def. Silva (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UVA</i></b> - Glozman (45%) def. Silva (55%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Silva (82%) def. Glozman (18%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Silva (58%) def. Glozman (42%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Silva (66%) def. Glozman (34%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Glozman (2.77) def. Silva (1.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Virginia should win 4 or more singles matches _37%_ of the time.  
-- Tennessee should win 4 or more singles matches _21%_ of the time.  
-- The winner of the doubles point will decide the match the other _42%_ of the time.  
-- If Virginia wins the doubles point, their chances of winning the dual improve to _79%_.  
-- If Tennessee wins the doubles point, their chances of winning the dual improve to _63%_.  
-  
-Return to [List of Matches](../index.md)  
+- Virginia should win 4 or more singles matches _36%_ of the time.  
+- Tennessee should win 4 or more singles matches _19%_ of the time.  
+- The winner of the doubles point will decide the match the other _45%_ of the time.  
+- If Virginia wins the doubles point, their chances of winning the dual improve to _81%_.  
+- If Tennessee wins the doubles point, their chances of winning the dual improve to _64%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

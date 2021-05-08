@@ -40,9 +40,9 @@ Visitor:
 Predictions:
   SLM: "NCST - #11 NC State (94%) def. #41 Iowa St. (6%)"
   TRN: "NCST - #10 NC State (96%) def. #42 Iowa St. (4%)"
-  MAS: "NCST - #6 NC State (75%) def. #39 Iowa St. (25%)"
+  MAS: "NCST - #6 NC State (98%) def. #39 Iowa St. (2%)"
   LNUP: NCST - NC State (98%) def. Iowa St. (2%)
-  AVG: NCST - NC State (91%) def. Iowa St. (9%)
+  AVG: NCST - NC State (97%) def. Iowa St. (3%)
   UTR: "NCST - #9 NC State (+3.92) def. #39 Iowa St. (-3.92)"
   ITA: "NCST - #6 NC State def. #36 Iowa St."
   USTA: "NCST - #11 NC State def. Iowa St."
@@ -50,11 +50,11 @@ Predictions:
   Seeding: "NCST - #1 NC State def. #3 Iowa St."
 Lineups:
   Predictions:
-    Average EWPs for NCST: 94%,96%,75%,98%
-    Average EWPs for ISU: 6%,4%,25%,2%
-    NCST wins 4 or more Singles points: 92%
+    Average EWPs for NCST: 94%,96%,98%,98%
+    Average EWPs for ISU: 6%,4%,2%,2%
+    NCST wins 4 or more Singles points: 94%
     ISU wins 4 or more Singles points: 1%
-    Winner decided by the Doubles point: 7%
+    Winner decided by the Doubles point: 5%
   Singles:
     - Position: 1
       NCST: Anna Rogers - 14-6 at 1, 14-6 in duals, 19-6 overall
@@ -62,9 +62,9 @@ Lineups:
       Predictions:
         SLM: NCST - Rogers (94%) def. Naklo (6%)
         TRN: NCST - Rogers (97%) def. Naklo (3%)
-        MAS: NCST - Rogers (75%) def. Naklo (25%)
+        MAS: NCST - Rogers (91%) def. Naklo (9%)
         UTR: NCST - Rogers (90%) def. Naklo (10%)
-        AVG: NCST - Rogers (89%) def. Naklo (11%)
+        AVG: NCST - Rogers (93%) def. Naklo (7%)
         ITA: NCST - Rogers (48.19) def. Naklo (2.77)
     - Position: 2
       NCST: Alana Smith - 14-5 at 2, 14-5 in duals, 16-8 overall
@@ -72,9 +72,9 @@ Lineups:
       Predictions:
         SLM: NCST - Smith (90%) def. Cancini (10%)
         TRN: NCST - Smith (92%) def. Cancini (8%)
-        MAS: NCST - Smith (75%) def. Cancini (25%)
+        MAS: NCST - Smith (92%) def. Cancini (8%)
         UTR: NCST - Smith (89%) def. Cancini (11%)
-        AVG: NCST - Smith (86%) def. Cancini (14%)
+        AVG: NCST - Smith (91%) def. Cancini (9%)
         ITA: NCST - Smith (22.32) def. Cancini (1.95)
     - Position: 3
       NCST: Adriana Reami - 12-4 at 3, 15-5 in duals, 16-9 overall
@@ -82,9 +82,9 @@ Lineups:
       Predictions:
         SLM: NCST - Reami (75%) def. Kadleckova (25%)
         TRN: NCST - Reami (68%) def. Kadleckova (32%)
-        MAS: NCST - Reami (75%) def. Kadleckova (25%)
+        MAS: NCST - Reami (58%) def. Kadleckova (42%)
         UTR: NCST - Reami (72%) def. Kadleckova (28%)
-        AVG: NCST - Reami (72%) def. Kadleckova (28%)
+        AVG: NCST - Reami (68%) def. Kadleckova (32%)
         ITA: NCST - Reami (4.00) def. Kadleckova (2.94)
     - Position: 4
       NCST: Jaeda Daniel - 10-6 at 4, 11-8 in duals, 13-10 overall
@@ -92,9 +92,9 @@ Lineups:
       Predictions:
         SLM: NCST - Daniel (84%) def. Hsieh (16%)
         TRN: NCST - Daniel (87%) def. Hsieh (13%)
-        MAS: NCST - Daniel (75%) def. Hsieh (25%)
+        MAS: NCST - Daniel (91%) def. Hsieh (9%)
         UTR: NCST - Daniel (95%) def. Hsieh (5%)
-        AVG: NCST - Daniel (85%) def. Hsieh (15%)
+        AVG: NCST - Daniel (89%) def. Hsieh (11%)
         ITA: NCST - Daniel (1.87) def. Hsieh (0.00)
     - Position: 5
       NCST: Abigail Rencheli - 5-2 at 5, 10-4 in duals, 13-5 overall
@@ -102,9 +102,9 @@ Lineups:
       Predictions:
         SLM: NCST - Rencheli (68%) def. Kezuka (32%)
         TRN: NCST - Rencheli (81%) def. Kezuka (19%)
-        MAS: NCST - Rencheli (75%) def. Kezuka (25%)
+        MAS: NCST - Rencheli (80%) def. Kezuka (20%)
         UTR: NCST - Rencheli (92%) def. Kezuka (8%)
-        AVG: NCST - Rencheli (79%) def. Kezuka (21%)
+        AVG: NCST - Rencheli (80%) def. Kezuka (20%)
         ITA: NCST - Rencheli (7.12) def. Kezuka (0.00)
     - Position: 6
       NCST: Lexi Keberle - 2-4 at 6, 13-6 in duals, 16-8 overall
@@ -112,7 +112,7 @@ Lineups:
       Predictions:
         SLM: NCST - Keberle (73%) def. Cabezas (27%)
         TRN: NCST - Keberle (67%) def. Cabezas (33%)
-        MAS: NCST - Keberle (75%) def. Cabezas (25%)
+        MAS: NCST - Keberle (74%) def. Cabezas (26%)
         UTR: NCST - Keberle (80%) def. Cabezas (20%)
         AVG: NCST - Keberle (73%) def. Cabezas (27%)
         ITA: ISU - Cabezas (2.42) def. Keberle (1.71)

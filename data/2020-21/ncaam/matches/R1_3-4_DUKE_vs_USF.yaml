@@ -38,19 +38,18 @@ Visitor:
 Predictions:
   SLM: "DUKE - #31 Duke (51%) def. #32 South Fla. (49%)"
   TRN: "USF - #34 South Fla. (52%) def. #36 Duke (48%)"
-  MAS: "USF - #32 South Fla. (75%) def. #34 Duke (25%)"
-  LNUP: DUKE - Duke (52%) def. South Fla. (48%)
-  AVG: USF - South Fla. (55%) def. Duke (45%)
+  MAS: "USF - #32 South Fla. (55%) def. #34 Duke (45%)"
+  AVG: USF - South Fla. (51%) def. Duke (49%)
   UTR: "DUKE - #32 Duke (+0.35) def. #37 South Fla. (-0.35)"
   ITA: "USF - #32 South Fla. def. #35 Duke"
   Coach: "USF - #33 South Fla. def. #36 Duke"
   Seeding: "USF - #2 South Fla. def. #3 Duke"
 Lineups:
   Predictions:
-    Average EWPs for USF: 50%,52%,75%,48%
-    Average EWPs for DUKE: 50%,48%,25%,52%
-    USF wins 4 or more Singles points: 32%
-    DUKE wins 4 or more Singles points: 36%
+    Average EWPs for USF: 50%,52%,55%,51%
+    Average EWPs for DUKE: 50%,48%,45%,49%
+    USF wins 4 or more Singles points: 34%
+    DUKE wins 4 or more Singles points: 34%
     Winner decided by the Doubles point: 32%
   Singles:
     - Position: 1
@@ -59,9 +58,8 @@ Lineups:
       Predictions:
         SLM: DUKE - Johns (56%) def. Wojcik (44%)
         TRN: USF - Wojcik (67%) def. Johns (33%)
-        MAS: USF - Wojcik (75%) def. Johns (25%)
+        MAS: USF - Wojcik (66%) def. Johns (34%)
         UTR: DUKE - Johns (76%) def. Wojcik (24%)
-        AVG: USF - Wojcik (52%) def. Johns (48%)
         ITA: USF - Wojcik (16.76) def. Johns (9.19)
     - Position: 2
       USF: Chase Ferguson - 5-0 at 2, 13-9 in duals, 13-9 overall
@@ -69,9 +67,9 @@ Lineups:
       Predictions:
         SLM: USF - Ferguson (73%) def. Sculley (27%)
         TRN: USF - Ferguson (56%) def. Sculley (44%)
-        MAS: USF - Ferguson (75%) def. Sculley (25%)
+        MAS: USF - Ferguson (56%) def. Sculley (44%)
         UTR: USF - Ferguson (53%) def. Sculley (47%)
-        AVG: USF - Ferguson (64%) def. Sculley (36%)
+        AVG: USF - Ferguson (60%) def. Sculley (40%)
         ITA: USF - Ferguson (11.90) def. Sculley (3.41)
     - Position: 3
       USF: Ivan Yatsuk - 12-6 at 3, 15-7 in duals, 15-7 overall
@@ -79,9 +77,9 @@ Lineups:
       Predictions:
         SLM: USF - Yatsuk (50%) def. Zhang (50%)
         TRN: USF - Yatsuk (56%) def. Zhang (44%)
-        MAS: DUKE - Zhang (75%) def. Yatsuk (25%)
+        MAS: DUKE - Zhang (51%) def. Yatsuk (49%)
         UTR: DUKE - Zhang (68%) def. Yatsuk (32%)
-        AVG: DUKE - Zhang (58%) def. Yatsuk (42%)
+        AVG: DUKE - Zhang (52%) def. Yatsuk (48%)
         ITA: DUKE - Zhang (3.87) def. Yatsuk (2.48)
     - Position: 4
       USF: Antonio Muniz-Hidalgo - 1-1 at 4, 5-4 in duals, 5-4 overall
@@ -89,9 +87,9 @@ Lineups:
       Predictions:
         SLM: DUKE - Guell (75%) def. Muniz-Hidalgo (25%)
         TRN: DUKE - Guell (59%) def. Muniz-Hidalgo (41%)
-        MAS: DUKE - Guell (75%) def. Muniz-Hidalgo (25%)
+        MAS: DUKE - Guell (53%) def. Muniz-Hidalgo (47%)
         UTR: USF - Muniz-Hidalgo (66%) def. Guell (34%)
-        AVG: DUKE - Guell (60%) def. Muniz-Hidalgo (40%)
+        AVG: DUKE - Guell (54%) def. Muniz-Hidalgo (46%)
         ITA: DUKE - Guell (4.04) def. Muniz-Hidalgo (1.67)
     - Position: 5
       USF: Pierre Luquet - 0-2 at 5, 8-10 in duals, 8-10 overall
@@ -99,9 +97,9 @@ Lineups:
       Predictions:
         SLM: DUKE - Keist (62%) def. Luquet (38%)
         TRN: DUKE - Keist (72%) def. Luquet (28%)
-        MAS: DUKE - Keist (75%) def. Luquet (25%)
+        MAS: DUKE - Keist (69%) def. Luquet (31%)
         UTR: USF - Luquet (68%) def. Keist (32%)
-        AVG: DUKE - Keist (60%) def. Luquet (40%)
+        AVG: DUKE - Keist (58%) def. Luquet (42%)
         ITA: DUKE - Keist (3.16) def. Luquet (1.56)
     - Position: 6
       USF: Sergio Gomez-Montesa - 2-1 at 6, 13-10 in duals, 13-10 overall
@@ -109,9 +107,9 @@ Lineups:
       Predictions:
         SLM: DUKE - Dale (53%) def. Gomez-Montesa (47%)
         TRN: USF - Gomez-Montesa (58%) def. Dale (42%)
-        MAS: USF - Gomez-Montesa (75%) def. Dale (25%)
+        MAS: USF - Gomez-Montesa (59%) def. Dale (41%)
         UTR: DUKE - Dale (54%) def. Gomez-Montesa (46%)
-        AVG: USF - Gomez-Montesa (56%) def. Dale (44%)
+        AVG: USF - Gomez-Montesa (53%) def. Dale (47%)
         ITA: DUKE - Dale (2.29) def. Gomez-Montesa (1.78)
   Doubles:
     - Position: 1

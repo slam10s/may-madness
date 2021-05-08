@@ -1,5 +1,5 @@
 Second Round  
-Saturday, May 8 at 4:00 EDT  
+Saturday, May 8 at 2:00 EDT  
 Atkins Tennis Center  
 Urbana, Illinois  
 ## [Notre Dame vs #16 Illinois](https://www.ncaa.com/game/5833403)  
@@ -42,9 +42,9 @@ Urbana, Illinois
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***ILL*** - #6 Illinois (98%) def. #40 Notre Dame (2%)  
 - TRN: ***ILL*** - #4 Illinois (99%) def. #42 Notre Dame (1%)  
-- Massey: ***ILL*** - #9 Illinois (75%) def. #36 Notre Dame (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***ILL*** - Illinois (97%) def. Notre Dame (3%)  
-- Composite: ***ILL*** - Illinois (92%) def. Notre Dame (8%)  
+- Massey: ***ILL*** - #9 Illinois (85%) def. #36 Notre Dame (15%)  
+- Lineup: ***ILL*** - Illinois (98%) def. Notre Dame (2%)  
+- Composite: ***ILL*** - Illinois (95%) def. Notre Dame (5%)  
 - UTR: ***ILL*** - #15 Illinois (+2.54) def. #38 Notre Dame (-2.54)  
 - ITA: ***ILL*** - #18 Illinois def. #34 Notre Dame  
 - USTA Poll: ***ILL*** - #8 Illinois def. Notre Dame  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Kovacevic (77%) def. Nefve (23%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Kovacevic (71%) def. Nefve (29%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Kovacevic (75%) def. Nefve (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Kovacevic (74%) def. Nefve (26%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Kovacevic (82%) def. Nefve (18%)</li>  
 <li>Composite: <b><i>ILL</i></b> - Kovacevic (76%) def. Nefve (24%)</li>  
 <li>ITA: <b><i>ND</i></b> - Nefve (21.49) def. Kovacevic (4.00)</li>  
@@ -74,9 +74,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Montsi (65%) def. Ciamarra (35%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Montsi (75%) def. Ciamarra (25%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Montsi (75%) def. Ciamarra (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Montsi (67%) def. Ciamarra (33%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Montsi (64%) def. Ciamarra (36%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Montsi (70%) def. Ciamarra (30%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Montsi (68%) def. Ciamarra (32%)</li>  
 <li>ITA: <b><i>ND</i></b> - Ciamarra (8.18) def. Montsi (4.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -85,9 +85,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Brown (66%) def. McCormick (34%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (58%) def. McCormick (42%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Brown (75%) def. McCormick (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Brown (47%) def. McCormick (53%)</li>  
 <li>UTR: <b><i>ND</i></b> - McCormick (73%) def. Brown (27%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Brown (56%) def. McCormick (44%)</li>  
+<li>Composite: <b><i>ND</i></b> - McCormick (51%) def. Brown (49%)</li>  
 <li>ITA: <b><i>ND</i></b> - McCormick (3.76) def. Brown (1.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -96,9 +96,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Clark (100%) def. Howells (0%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Clark (100%) def. Howells (0%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Clark (75%) def. Howells (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Clark (90%) def. Howells (10%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Clark (99%) def. Howells (1%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Clark (93%) def. Howells (7%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Clark (97%) def. Howells (3%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Clark (6.43) def. Howells (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,9 +107,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Heck (87%) def. Che (13%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Heck (94%) def. Che (6%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Heck (75%) def. Che (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Heck (84%) def. Che (16%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Heck (89%) def. Che (11%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Heck (86%) def. Che (14%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Heck (89%) def. Che (11%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Heck (2.36) def. Che (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -118,9 +118,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>ILL</i></b> - Khlif (89%) def. Fu (11%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Khlif (93%) def. Fu (7%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Khlif (75%) def. Fu (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>ILL</i></b> - Khlif (85%) def. Fu (15%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Khlif (85%) def. Fu (15%)</li>  
-<li>Composite: <b><i>ILL</i></b> - Khlif (85%) def. Fu (15%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Khlif (88%) def. Fu (12%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Khlif (3.59) def. Fu (1.57)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -146,13 +146,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Illinois should win 4 or more singles matches _89%_ of the time.  
-- Notre Dame should win 4 or more singles matches _2%_ of the time.  
+- Illinois should win 4 or more singles matches _90%_ of the time.  
+- Notre Dame should win 4 or more singles matches _1%_ of the time.  
 - The winner of the doubles point will decide the match the other _9%_ of the time.  
-- If Illinois wins the doubles point, their chances of winning the dual improve to _98%_.  
-- If Notre Dame wins the doubles point, their chances of winning the dual improve to _11%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Illinois wins the doubles point, their chances of winning the dual improve to _99%_.  
+- If Notre Dame wins the doubles point, their chances of winning the dual improve to _10%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

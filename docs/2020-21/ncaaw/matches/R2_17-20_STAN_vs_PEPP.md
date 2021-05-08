@@ -43,8 +43,8 @@ Malibu, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***PEPP*** - #6 Pepperdine (81%) def. #23 Stanford (19%)  
 - TRN: ***PEPP*** - #6 Pepperdine (91%) def. #24 Stanford (9%)  
-- Massey: ***PEPP*** - #5 Pepperdine (75%) def. #15 Stanford (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***PEPP*** - Pepperdine (91%) def. Stanford (9%)  
+- Massey: ***PEPP*** - #5 Pepperdine (74%) def. #15 Stanford (26%)  
+- Lineup: ***PEPP*** - Pepperdine (89%) def. Stanford (11%)  
 - Composite: ***PEPP*** - Pepperdine (84%) def. Stanford (16%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+1.18) def. #7 Stanford (-1.18)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #28 Stanford  
@@ -64,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Lahey (52%) def. Gordon (48%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Lahey (64%) def. Gordon (36%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Lahey (75%) def. Gordon (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Lahey (74%) def. Gordon (26%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Lahey (56%) def. Gordon (44%)</li>  
 <li>Composite: <b><i>PEPP</i></b> - Lahey (62%) def. Gordon (38%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Gordon (17.68) def. Lahey (7.80)</li>  
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Failla (85%) def. Blake (15%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Failla (70%) def. Blake (30%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Failla (75%) def. Blake (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Failla (50%) def. Blake (50%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Failla (76%) def. Blake (24%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Failla (76%) def. Blake (24%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Failla (70%) def. Blake (30%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Failla (23.38) def. Blake (5.37)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Pachkaleva (81%) def. Arbuthnott (19%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Pachkaleva (94%) def. Arbuthnott (6%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Pachkaleva (75%) def. Arbuthnott (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Pachkaleva (79%) def. Arbuthnott (21%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Pachkaleva (84%) def. Arbuthnott (16%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (84%) def. Arbuthnott (16%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (85%) def. Arbuthnott (15%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Pachkaleva (6.37) def. Arbuthnott (1.89)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Fukuda (84%) def. Geller (16%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fukuda (90%) def. Geller (10%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Fukuda (75%) def. Geller (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Fukuda (71%) def. Geller (29%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Fukuda (68%) def. Geller (32%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Fukuda (79%) def. Geller (21%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Fukuda (78%) def. Geller (22%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Fukuda (4.88) def. Geller (2.62)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Zaar (61%) def. Choy (39%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zaar (79%) def. Choy (21%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Zaar (75%) def. Choy (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>PEPP</i></b> - Zaar (54%) def. Choy (46%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Zaar (69%) def. Choy (31%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Zaar (71%) def. Choy (29%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Zaar (66%) def. Choy (34%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zaar (4.47) def. Choy (2.38)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>PEPP</i></b> - Redelijk (54%) def. Higuchi (46%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Higuchi (53%) def. Redelijk (47%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Higuchi (75%) def. Redelijk (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>STAN</i></b> - Higuchi (70%) def. Redelijk (30%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Higuchi (75%) def. Redelijk (25%)</li>  
-<li>Composite: <b><i>STAN</i></b> - Higuchi (61%) def. Redelijk (39%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Higuchi (60%) def. Redelijk (40%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Higuchi (2.68) def. Redelijk (1.87)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Pepperdine should win 4 or more singles matches _73%_ of the time.  
-- Stanford should win 4 or more singles matches _7%_ of the time.  
-- The winner of the doubles point will decide the match the other _20%_ of the time.  
-- If Pepperdine wins the doubles point, their chances of winning the dual improve to _93%_.  
-- If Stanford wins the doubles point, their chances of winning the dual improve to _27%_.  
-  
-Return to [List of Matches](../index.md)  
+- Pepperdine should win 4 or more singles matches _70%_ of the time.  
+- Stanford should win 4 or more singles matches _8%_ of the time.  
+- The winner of the doubles point will decide the match the other _22%_ of the time.  
+- If Pepperdine wins the doubles point, their chances of winning the dual improve to _92%_.  
+- If Stanford wins the doubles point, their chances of winning the dual improve to _30%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

@@ -44,9 +44,9 @@ Columbus, Ohio
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***OSU*** - #5 Ohio St. (99%) def. #57 UIC (1%)  
 - TRN: ***OSU*** - #5 Ohio St. (99%) def. #59 UIC (1%)  
-- Massey: ***OSU*** - #8 Ohio St. (75%) def. #58 UIC (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***OSU*** - #8 Ohio St. (100%) def. #58 UIC (0%)  
 - Lineup: ***OSU*** - Ohio St. (100%) def. UIC (0%)  
-- Composite: ***OSU*** - Ohio St. (93%) def. UIC (7%)  
+- Composite: ***OSU*** - Ohio St. (99%) def. UIC (1%)  
 - UTR: ***OSU*** - #25 Ohio St. (+10.14) def. #58 UIC (-10.14)  
 - ITA: ***OSU*** - #18 Ohio St. def. #59 UIC  
 - USTA Poll: ***OSU*** - #6 Ohio St. def. UIC  
@@ -65,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Siemers (75%) def. Malazonia (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Siemers (93%) def. Malazonia (7%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Siemers (24.34) def. Malazonia (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,9 +76,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Boulais (98%) def. Gustafsson (2%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Boulais (99%) def. Gustafsson (1%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Boulais (75%) def. Gustafsson (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>OSU</i></b> - Boulais (99%) def. Gustafsson (1%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Boulais (96%) def. Gustafsson (4%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Boulais (92%) def. Gustafsson (8%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Boulais (98%) def. Gustafsson (2%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Boulais (2.65) def. Gustafsson (1.82)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,9 +87,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Allen (95%) def. Prochazkova (5%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Allen (84%) def. Prochazkova (16%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Allen (75%) def. Prochazkova (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>OSU</i></b> - Allen (76%) def. Prochazkova (24%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Allen (96%) def. Prochazkova (4%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Allen (87%) def. Prochazkova (13%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Allen (88%) def. Prochazkova (12%)</li>  
 <li>ITA: <b><i>UIC</i></b> - Prochazkova (3.17) def. Allen (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Hofbauer (98%) def. Jover (2%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Hofbauer (98%) def. Jover (2%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Hofbauer (75%) def. Jover (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>OSU</i></b> - Hofbauer (89%) def. Jover (11%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Hofbauer (97%) def. Jover (3%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Hofbauer (92%) def. Jover (8%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Hofbauer (95%) def. Jover (5%)</li>  
 <li>ITA: <b><i>UIC</i></b> - Jover (2.79) def. Hofbauer (2.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +109,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Marzal (99%) def. Gulin (1%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Marzal (99%) def. Gulin (1%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Marzal (75%) def. Gulin (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>OSU</i></b> - Marzal (92%) def. Gulin (8%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Marzal (98%) def. Gulin (2%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Marzal (93%) def. Gulin (7%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Marzal (97%) def. Gulin (3%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Marzal (3.08) def. Gulin (2.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>OSU</i></b> - Dormet (99%) def. Arendt (1%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Dormet (99%) def. Arendt (1%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Dormet (75%) def. Arendt (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>OSU</i></b> - Dormet (99%) def. Arendt (1%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Dormet (98%) def. Arendt (2%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Dormet (93%) def. Arendt (7%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Dormet (99%) def. Arendt (1%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Dormet (3.78) def. Arendt (3.01)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ohio St. should win 4 or more singles matches _99%_ of the time.  
+- Ohio St. should win 4 or more singles matches _100%_ of the time.  
 - UIC should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _0%_ of the time.  
 - If Ohio St. wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If UIC wins the doubles point, their chances of winning the dual improve to _1%_.  
-  
-Return to [List of Matches](../index.md)  
+- If UIC wins the doubles point, their chances of winning the dual improve to _0%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

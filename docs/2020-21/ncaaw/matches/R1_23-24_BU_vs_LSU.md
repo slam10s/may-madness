@@ -44,9 +44,9 @@ Baton Rouge, Louisiana
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***LSU*** - #21 LSU (99%) def. #54 Boston U. (1%)  
 - TRN: ***LSU*** - #18 LSU (99%) def. #51 Boston U. (1%)  
-- Massey: ***LSU*** - #21 LSU (75%) def. #54 Boston U. (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***LSU*** - #21 LSU (99%) def. #54 Boston U. (1%)  
 - Lineup: ***LSU*** - LSU (100%) def. Boston U. (0%)  
-- Composite: ***LSU*** - LSU (93%) def. Boston U. (7%)  
+- Composite: ***LSU*** - LSU (99%) def. Boston U. (1%)  
 - UTR: ***LSU*** - #26 LSU (+5.98) def. #49 Boston U. (-5.98)  
 - ITA: ***LSU*** - #12 LSU def. #50 Boston U.  
 - USTA Poll: ***LSU*** - #23 LSU def. Boston U.  
@@ -65,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>LSU</i></b> - Bridges (94%) def. Carlsten (6%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Bridges (94%) def. Carlsten (6%)</li>  
-<li>Massey: <b><i>LSU</i></b> - Bridges (75%) def. Carlsten (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>LSU</i></b> - Bridges (93%) def. Carlsten (7%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Bridges (86%) def. Carlsten (14%)</li>  
-<li>Composite: <b><i>LSU</i></b> - Bridges (87%) def. Carlsten (13%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Bridges (92%) def. Carlsten (8%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Bridges (11.61) def. Carlsten (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,9 +76,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>LSU</i></b> - Carrington (79%) def. Tan (21%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Carrington (78%) def. Tan (22%)</li>  
-<li>Massey: <b><i>BU</i></b> - Tan (75%) def. Carrington (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>BU</i></b> - Tan (46%) def. Carrington (54%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Carrington (91%) def. Tan (9%)</li>  
-<li>Composite: <b><i>LSU</i></b> - Carrington (68%) def. Tan (32%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Carrington (75%) def. Tan (25%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Carrington (4.09) def. Tan (3.03)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,9 +87,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>LSU</i></b> - Corley (96%) def. Battista (4%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Corley (97%) def. Battista (3%)</li>  
-<li>Massey: <b><i>LSU</i></b> - Corley (75%) def. Battista (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>LSU</i></b> - Corley (94%) def. Battista (6%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Corley (97%) def. Battista (3%)</li>  
-<li>Composite: <b><i>LSU</i></b> - Corley (91%) def. Battista (9%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Corley (96%) def. Battista (4%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Corley (9.83) def. Battista (2.01)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>LSU</i></b> - Cubitt (96%) def. Kim (4%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Cubitt (96%) def. Kim (4%)</li>  
-<li>Massey: <b><i>LSU</i></b> - Cubitt (75%) def. Kim (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>LSU</i></b> - Cubitt (95%) def. Kim (5%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Cubitt (97%) def. Kim (3%)</li>  
-<li>Composite: <b><i>LSU</i></b> - Cubitt (91%) def. Kim (9%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Cubitt (96%) def. Kim (4%)</li>  
 <li>ITA: <b><i>BU</i></b> - Kim (2.60) def. Cubitt (2.11)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +109,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>LSU</i></b> - Richardson (94%) def. Burchell (6%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Richardson (90%) def. Burchell (10%)</li>  
-<li>Massey: <b><i>LSU</i></b> - Richardson (75%) def. Burchell (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>LSU</i></b> - Richardson (65%) def. Burchell (35%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Richardson (90%) def. Burchell (10%)</li>  
-<li>Composite: <b><i>LSU</i></b> - Richardson (87%) def. Burchell (13%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Richardson (85%) def. Burchell (15%)</li>  
 <li>ITA: <b><i>BU</i></b> - Burchell (3.12) def. Richardson (1.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>LSU</i></b> - Geissler (96%) def. Martens (4%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Geissler (95%) def. Martens (5%)</li>  
-<li>Massey: <b><i>LSU</i></b> - Geissler (75%) def. Martens (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>LSU</i></b> - Geissler (86%) def. Martens (14%)</li>  
 <li>UTR: <b><i>LSU</i></b> - Geissler (92%) def. Martens (8%)</li>  
-<li>Composite: <b><i>LSU</i></b> - Geissler (90%) def. Martens (10%)</li>  
+<li>Composite: <b><i>LSU</i></b> - Geissler (93%) def. Martens (7%)</li>  
 <li>ITA: <b><i>BU</i></b> - Martens (2.51) def. Geissler (2.01)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- LSU should win 4 or more singles matches _97%_ of the time.  
+- LSU should win 4 or more singles matches _99%_ of the time.  
 - Boston U. should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
+- The winner of the doubles point will decide the match the other _1%_ of the time.  
 - If LSU wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Boston U. wins the doubles point, their chances of winning the dual improve to _3%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Boston U. wins the doubles point, their chances of winning the dual improve to _1%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

@@ -42,9 +42,9 @@ Gainesville, Florida
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***FLA*** - #16 Florida (82%) def. #35 Southern California (18%)  
 - TRN: ***FLA*** - #20 Florida (90%) def. #41 Southern California (10%)  
-- Massey: ***FLA*** - #21 Florida (75%) def. #26 Southern California (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***FLA*** - Florida (77%) def. Southern California (23%)  
-- Composite: ***FLA*** - Florida (81%) def. Southern California (19%)  
+- Massey: ***FLA*** - #21 Florida (62%) def. #26 Southern California (38%)  
+- Lineup: ***FLA*** - Florida (82%) def. Southern California (18%)  
+- Composite: ***FLA*** - Florida (79%) def. Southern California (21%)  
 - UTR: ***USC*** - #6 Southern California (+1.59) def. #11 Florida (-1.59)  
 - ITA: ***FLA*** - #11 Florida def. #35 Southern California  
 - USTA Poll: ***FLA*** - #20 Florida def. Southern California  
@@ -63,9 +63,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Kessler (86%) def. Ewing (14%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Kessler (73%) def. Ewing (27%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Kessler (75%) def. Ewing (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Kessler (85%) def. Ewing (15%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Kessler (70%) def. Ewing (30%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Kessler (76%) def. Ewing (24%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Kessler (78%) def. Ewing (22%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Kessler (45.58) def. Ewing (14.56)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -74,9 +74,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Cayetano (78%) def. Zein (22%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cayetano (82%) def. Zein (18%)</li>  
-<li>Massey: <b><i>USC</i></b> - Cayetano (75%) def. Zein (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USC</i></b> - Cayetano (63%) def. Zein (37%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cayetano (89%) def. Zein (11%)</li>  
-<li>Composite: <b><i>USC</i></b> - Cayetano (80%) def. Zein (20%)</li>  
+<li>Composite: <b><i>USC</i></b> - Cayetano (77%) def. Zein (23%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Zein (8.25) def. Cayetano (5.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -85,9 +85,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Jarlskog (100%) def. Kulikov (0%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Jarlskog (100%) def. Kulikov (0%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Jarlskog (75%) def. Kulikov (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Jarlskog (90%) def. Kulikov (10%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Jarlskog (99%) def. Kulikov (1%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Jarlskog (93%) def. Kulikov (7%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Jarlskog (97%) def. Kulikov (3%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Jarlskog (5.66) def. Kulikov (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Cheong (58%) def. Sleeth (42%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Sleeth (51%) def. Cheong (49%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Sleeth (75%) def. Cheong (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Sleeth (73%) def. Cheong (27%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Sleeth (78%) def. Cheong (22%)</li>  
 <li>Composite: <b><i>FLA</i></b> - Sleeth (61%) def. Cheong (39%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Sleeth (7.72) def. Cheong (4.19)</li>  
@@ -107,9 +107,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Willson (63%) def. Dahlstrom (37%)</li>  
 <li>TRN: <b><i>USC</i></b> - Willson (71%) def. Dahlstrom (29%)</li>  
-<li>Massey: <b><i>USC</i></b> - Willson (75%) def. Dahlstrom (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USC</i></b> - Willson (63%) def. Dahlstrom (37%)</li>  
 <li>UTR: <b><i>USC</i></b> - Willson (69%) def. Dahlstrom (31%)</li>  
-<li>Composite: <b><i>USC</i></b> - Willson (68%) def. Dahlstrom (32%)</li>  
+<li>Composite: <b><i>USC</i></b> - Willson (65%) def. Dahlstrom (35%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Dahlstrom (3.40) def. Willson (1.74)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -118,9 +118,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Berlin (70%) def. Dvorak (30%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Berlin (70%) def. Dvorak (30%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Berlin (75%) def. Dvorak (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Berlin (65%) def. Dvorak (35%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Berlin (75%) def. Dvorak (25%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Berlin (72%) def. Dvorak (28%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Berlin (70%) def. Dvorak (30%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Berlin (2.47) def. Dvorak (1.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -146,13 +146,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Florida should win 4 or more singles matches _53%_ of the time.  
-- Southern California should win 4 or more singles matches _15%_ of the time.  
-- The winner of the doubles point will decide the match the other _32%_ of the time.  
-- If Florida wins the doubles point, their chances of winning the dual improve to _85%_.  
-- If Southern California wins the doubles point, their chances of winning the dual improve to _47%_.  
-  
-Return to [List of Matches](../index.md)  
+- Florida should win 4 or more singles matches _57%_ of the time.  
+- Southern California should win 4 or more singles matches _12%_ of the time.  
+- The winner of the doubles point will decide the match the other _31%_ of the time.  
+- If Florida wins the doubles point, their chances of winning the dual improve to _88%_.  
+- If Southern California wins the doubles point, their chances of winning the dual improve to _43%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

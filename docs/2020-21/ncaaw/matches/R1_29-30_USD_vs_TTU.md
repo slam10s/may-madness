@@ -44,9 +44,9 @@ Los Angeles, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TTU*** - #34 Texas Tech (53%) def. #36 San Diego (47%)  
 - TRN: ***TTU*** - #34 Texas Tech (61%) def. #38 San Diego (39%)  
-- Massey: ***TTU*** - #28 Texas Tech (75%) def. #32 San Diego (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***TTU*** - Texas Tech (66%) def. San Diego (34%)  
-- Composite: ***TTU*** - Texas Tech (64%) def. San Diego (36%)  
+- Massey: ***TTU*** - #28 Texas Tech (56%) def. #32 San Diego (44%)  
+- Lineup: ***TTU*** - Texas Tech (65%) def. San Diego (35%)  
+- Composite: ***TTU*** - Texas Tech (59%) def. San Diego (41%)  
 - UTR: ***TTU*** - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)  
 - ITA: ***TTU*** - #29 Texas Tech def. #39 San Diego  
 - Coaches Poll: ***TTU*** - #29 Texas Tech def. #47 San Diego  
@@ -64,9 +64,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USD</i></b> - Colling (89%) def. Mays (11%)</li>  
 <li>TRN: <b><i>USD</i></b> - Colling (88%) def. Mays (12%)</li>  
-<li>Massey: <b><i>USD</i></b> - Colling (75%) def. Mays (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USD</i></b> - Colling (63%) def. Mays (37%)</li>  
 <li>UTR: <b><i>USD</i></b> - Colling (84%) def. Mays (16%)</li>  
-<li>Composite: <b><i>USD</i></b> - Colling (83%) def. Mays (17%)</li>  
+<li>Composite: <b><i>USD</i></b> - Colling (80%) def. Mays (20%)</li>  
 <li>ITA: <b><i>USD</i></b> - Colling (12.76) def. Mays (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USD</i></b> - Goldsmith (51%) def. Skriabina (49%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Skriabina (54%) def. Goldsmith (46%)</li>  
-<li>Massey: <b><i>TTU</i></b> - Skriabina (75%) def. Goldsmith (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TTU</i></b> - Skriabina (76%) def. Goldsmith (24%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Skriabina (86%) def. Goldsmith (14%)</li>  
 <li>Composite: <b><i>TTU</i></b> - Skriabina (66%) def. Goldsmith (34%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Skriabina (6.63) def. Goldsmith (2.97)</li>  
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USD</i></b> - McBride (52%) def. Staines (48%)</li>  
 <li>TRN: <b><i>USD</i></b> - McBride (58%) def. Staines (42%)</li>  
-<li>Massey: <b><i>USD</i></b> - McBride (75%) def. Staines (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USD</i></b> - McBride (71%) def. Staines (29%)</li>  
 <li>UTR: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
-<li>Composite: <b><i>USD</i></b> - McBride (60%) def. Staines (40%)</li>  
+<li>Composite: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. McBride (3.11)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TTU</i></b> - Miller (61%) def. Desiatnikov (39%)</li>  
 <li>TRN: <b><i>USD</i></b> - Desiatnikov (57%) def. Miller (43%)</li>  
-<li>Massey: <b><i>TTU</i></b> - Miller (75%) def. Desiatnikov (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TTU</i></b> - Miller (60%) def. Desiatnikov (40%)</li>  
 <li>UTR: <b><i>USD</i></b> - Desiatnikov (71%) def. Miller (29%)</li>  
-<li>Composite: <b><i>TTU</i></b> - Miller (52%) def. Desiatnikov (48%)</li>  
+<li>Composite: <b><i>USD</i></b> - Desiatnikov (51%) def. Miller (49%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Miller (2.66) def. Desiatnikov (2.52)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TTU</i></b> - Peet (83%) def. Kalaitzis (17%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Peet (77%) def. Kalaitzis (23%)</li>  
-<li>Massey: <b><i>TTU</i></b> - Peet (75%) def. Kalaitzis (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TTU</i></b> - Peet (69%) def. Kalaitzis (31%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Peet (83%) def. Kalaitzis (17%)</li>  
-<li>Composite: <b><i>TTU</i></b> - Peet (79%) def. Kalaitzis (21%)</li>  
+<li>Composite: <b><i>TTU</i></b> - Peet (78%) def. Kalaitzis (22%)</li>  
 <li>ITA: <b><i>USD</i></b> - Kalaitzis (2.42) def. Peet (2.03)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TTU</i></b> - Komac (82%) def. Kukaras (18%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Komac (83%) def. Kukaras (17%)</li>  
-<li>Massey: <b><i>TTU</i></b> - Komac (75%) def. Kukaras (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TTU</i></b> - Komac (64%) def. Kukaras (36%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Komac (72%) def. Kukaras (28%)</li>  
-<li>Composite: <b><i>TTU</i></b> - Komac (78%) def. Kukaras (22%)</li>  
+<li>Composite: <b><i>TTU</i></b> - Komac (75%) def. Kukaras (25%)</li>  
 <li>ITA: <b><i>USD</i></b> - Kukaras (2.39) def. Komac (1.98)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas Tech should win 4 or more singles matches _44%_ of the time.  
-- San Diego should win 4 or more singles matches _22%_ of the time.  
+- Texas Tech should win 4 or more singles matches _43%_ of the time.  
+- San Diego should win 4 or more singles matches _23%_ of the time.  
 - The winner of the doubles point will decide the match the other _34%_ of the time.  
-- If Texas Tech wins the doubles point, their chances of winning the dual improve to _78%_.  
-- If San Diego wins the doubles point, their chances of winning the dual improve to _56%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Texas Tech wins the doubles point, their chances of winning the dual improve to _77%_.  
+- If San Diego wins the doubles point, their chances of winning the dual improve to _57%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

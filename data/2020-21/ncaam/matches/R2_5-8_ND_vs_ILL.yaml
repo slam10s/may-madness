@@ -1,5 +1,5 @@
 Date: Saturday, May 8
-Time: 4:00 EDT
+Time: 2:00 EDT
 Round: Second Round
 Lines: 5-8
 Title: "Notre Dame vs #16 Illinois"
@@ -40,9 +40,9 @@ Visitor:
 Predictions:
   SLM: "ILL - #6 Illinois (98%) def. #40 Notre Dame (2%)"
   TRN: "ILL - #4 Illinois (99%) def. #42 Notre Dame (1%)"
-  MAS: "ILL - #9 Illinois (75%) def. #36 Notre Dame (25%)"
-  LNUP: ILL - Illinois (97%) def. Notre Dame (3%)
-  AVG: ILL - Illinois (92%) def. Notre Dame (8%)
+  MAS: "ILL - #9 Illinois (85%) def. #36 Notre Dame (15%)"
+  LNUP: ILL - Illinois (98%) def. Notre Dame (2%)
+  AVG: ILL - Illinois (95%) def. Notre Dame (5%)
   UTR: "ILL - #15 Illinois (+2.54) def. #38 Notre Dame (-2.54)"
   ITA: "ILL - #18 Illinois def. #34 Notre Dame"
   USTA: "ILL - #8 Illinois def. Notre Dame"
@@ -50,10 +50,10 @@ Predictions:
   Seeding: "ILL - #1 Illinois def. #2 Notre Dame"
 Lineups:
   Predictions:
-    Average EWPs for ILL: 98%,99%,75%,97%
-    Average EWPs for ND: 2%,1%,25%,3%
-    ILL wins 4 or more Singles points: 89%
-    ND wins 4 or more Singles points: 2%
+    Average EWPs for ILL: 98%,99%,85%,98%
+    Average EWPs for ND: 2%,1%,15%,2%
+    ILL wins 4 or more Singles points: 90%
+    ND wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 9%
   Singles:
     - Position: 1
@@ -62,7 +62,7 @@ Lineups:
       Predictions:
         SLM: ILL - Kovacevic (77%) def. Nefve (23%)
         TRN: ILL - Kovacevic (71%) def. Nefve (29%)
-        MAS: ILL - Kovacevic (75%) def. Nefve (25%)
+        MAS: ILL - Kovacevic (74%) def. Nefve (26%)
         UTR: ILL - Kovacevic (82%) def. Nefve (18%)
         AVG: ILL - Kovacevic (76%) def. Nefve (24%)
         ITA: ND - Nefve (21.49) def. Kovacevic (4.00)
@@ -72,9 +72,9 @@ Lineups:
       Predictions:
         SLM: ILL - Montsi (65%) def. Ciamarra (35%)
         TRN: ILL - Montsi (75%) def. Ciamarra (25%)
-        MAS: ILL - Montsi (75%) def. Ciamarra (25%)
+        MAS: ILL - Montsi (67%) def. Ciamarra (33%)
         UTR: ILL - Montsi (64%) def. Ciamarra (36%)
-        AVG: ILL - Montsi (70%) def. Ciamarra (30%)
+        AVG: ILL - Montsi (68%) def. Ciamarra (32%)
         ITA: ND - Ciamarra (8.18) def. Montsi (4.79)
     - Position: 3
       ILL: Alex Brown - 3-2 at 3, 8-9 in duals, 9-12 overall
@@ -82,9 +82,9 @@ Lineups:
       Predictions:
         SLM: ILL - Brown (66%) def. McCormick (34%)
         TRN: ILL - Brown (58%) def. McCormick (42%)
-        MAS: ILL - Brown (75%) def. McCormick (25%)
+        MAS: ILL - Brown (47%) def. McCormick (53%)
         UTR: ND - McCormick (73%) def. Brown (27%)
-        AVG: ILL - Brown (56%) def. McCormick (44%)
+        AVG: ND - McCormick (51%) def. Brown (49%)
         ITA: ND - McCormick (3.76) def. Brown (1.47)
     - Position: 4
       ILL: Zeke Clark - 6-1 at 4, 16-1 in duals, 19-2 overall
@@ -92,9 +92,9 @@ Lineups:
       Predictions:
         SLM: ILL - Clark (100%) def. Howells (0%)
         TRN: ILL - Clark (100%) def. Howells (0%)
-        MAS: ILL - Clark (75%) def. Howells (25%)
+        MAS: ILL - Clark (90%) def. Howells (10%)
         UTR: ILL - Clark (99%) def. Howells (1%)
-        AVG: ILL - Clark (93%) def. Howells (7%)
+        AVG: ILL - Clark (97%) def. Howells (3%)
         ITA: ILL - Clark (6.43) def. Howells (0.00)
     - Position: 5
       ILL: Hunter Heck - 9-4 at 5, 13-5 in duals, 16-6 overall
@@ -102,9 +102,9 @@ Lineups:
       Predictions:
         SLM: ILL - Heck (87%) def. Che (13%)
         TRN: ILL - Heck (94%) def. Che (6%)
-        MAS: ILL - Heck (75%) def. Che (25%)
+        MAS: ILL - Heck (84%) def. Che (16%)
         UTR: ILL - Heck (89%) def. Che (11%)
-        AVG: ILL - Heck (86%) def. Che (14%)
+        AVG: ILL - Heck (89%) def. Che (11%)
         ITA: ILL - Heck (2.36) def. Che (0.00)
     - Position: 6
       ILL: Noe Khlif - 5-0 at 6, 15-1 in duals, 15-1 overall
@@ -112,9 +112,9 @@ Lineups:
       Predictions:
         SLM: ILL - Khlif (89%) def. Fu (11%)
         TRN: ILL - Khlif (93%) def. Fu (7%)
-        MAS: ILL - Khlif (75%) def. Fu (25%)
+        MAS: ILL - Khlif (85%) def. Fu (15%)
         UTR: ILL - Khlif (85%) def. Fu (15%)
-        AVG: ILL - Khlif (85%) def. Fu (15%)
+        AVG: ILL - Khlif (88%) def. Fu (12%)
         ITA: ILL - Khlif (3.59) def. Fu (1.57)
   Doubles:
     - Position: 1

@@ -37,9 +37,9 @@ Visitor:
 Predictions:
   SLM: "PEPP - #34 Pepperdine (95%) def. #51 UC Santa Barbara (5%)"
   TRN: "PEPP - #30 Pepperdine (98%) def. #51 UC Santa Barbara (2%)"
-  MAS: "PEPP - #22 Pepperdine (75%) def. #52 UC Santa Barbara (25%)"
-  LNUP: PEPP - Pepperdine (95%) def. UC Santa Barbara (5%)
-  AVG: PEPP - Pepperdine (90%) def. UC Santa Barbara (10%)
+  MAS: "PEPP - #22 Pepperdine (93%) def. #52 UC Santa Barbara (7%)"
+  LNUP: PEPP - Pepperdine (96%) def. UC Santa Barbara (4%)
+  AVG: PEPP - Pepperdine (95%) def. UC Santa Barbara (5%)
   UTR: "PEPP - #26 Pepperdine (+3.39) def. #47 UC Santa Barbara (-3.39)"
   ITA: "PEPP - #28 Pepperdine def. #54 UC Santa Barbara"
   USTA: "PEPP - #24 Pepperdine def. UC Santa Barbara"
@@ -47,11 +47,11 @@ Predictions:
   Seeding: "PEPP - #2 Pepperdine def. #3 UC Santa Barbara"
 Lineups:
   Predictions:
-    Average EWPs for PEPP: 95%,98%,75%,95%
-    Average EWPs for UCSB: 5%,2%,25%,5%
-    PEPP wins 4 or more Singles points: 82%
-    UCSB wins 4 or more Singles points: 4%
-    Winner decided by the Doubles point: 14%
+    Average EWPs for PEPP: 95%,98%,93%,96%
+    Average EWPs for UCSB: 5%,2%,7%,4%
+    PEPP wins 4 or more Singles points: 84%
+    UCSB wins 4 or more Singles points: 3%
+    Winner decided by the Doubles point: 13%
   Singles:
     - Position: 1
       PEPP: Adrian Oetzbach - 7-7 at 1, 7-8 in duals, 8-9 overall
@@ -59,9 +59,9 @@ Lineups:
       Predictions:
         SLM: UCSB - Guillin (81%) def. Oetzbach (19%)
         TRN: UCSB - Guillin (83%) def. Oetzbach (17%)
-        MAS: UCSB - Guillin (75%) def. Oetzbach (25%)
+        MAS: UCSB - Guillin (77%) def. Oetzbach (23%)
         UTR: UCSB - Guillin (75%) def. Oetzbach (25%)
-        AVG: UCSB - Guillin (77%) def. Oetzbach (23%)
+        AVG: UCSB - Guillin (78%) def. Oetzbach (22%)
         ITA: PEPP - Oetzbach (5.20) def. Guillin (3.96)
     - Position: 2
       PEPP: Guy Den Ouden - 10-4 at 2, 15-5 in duals, 15-5 overall
@@ -69,9 +69,9 @@ Lineups:
       Predictions:
         SLM: PEPP - Ouden (90%) def. Tsorotiotis (10%)
         TRN: PEPP - Ouden (97%) def. Tsorotiotis (3%)
-        MAS: PEPP - Ouden (75%) def. Tsorotiotis (25%)
+        MAS: PEPP - Ouden (96%) def. Tsorotiotis (4%)
         UTR: PEPP - Ouden (96%) def. Tsorotiotis (4%)
-        AVG: PEPP - Ouden (89%) def. Tsorotiotis (11%)
+        AVG: PEPP - Ouden (95%) def. Tsorotiotis (5%)
         ITA: PEPP - Ouden (2.60) def. Tsorotiotis (1.60)
     - Position: 3
       PEPP: Daniel DeJonge - 5-4 at 3, 10-4 in duals, 11-5 overall
@@ -79,9 +79,9 @@ Lineups:
       Predictions:
         SLM: PEPP - DeJonge (75%) def. Krustev (25%)
         TRN: PEPP - DeJonge (75%) def. Krustev (25%)
-        MAS: PEPP - DeJonge (75%) def. Krustev (25%)
+        MAS: PEPP - DeJonge (63%) def. Krustev (37%)
         UTR: PEPP - DeJonge (81%) def. Krustev (19%)
-        AVG: PEPP - DeJonge (76%) def. Krustev (24%)
+        AVG: PEPP - DeJonge (73%) def. Krustev (27%)
         ITA: PEPP - DeJonge (3.53) def. Krustev (2.71)
     - Position: 4
       PEPP: Tim Zeitvogel - 4-0 at 4, 7-0 in duals, 7-0 overall
@@ -89,9 +89,9 @@ Lineups:
       Predictions:
         SLM: PEPP - Zeitvogel (82%) def. Masjuan (18%)
         TRN: PEPP - Zeitvogel (82%) def. Masjuan (18%)
-        MAS: PEPP - Zeitvogel (75%) def. Masjuan (25%)
+        MAS: PEPP - Zeitvogel (84%) def. Masjuan (16%)
         UTR: PEPP - Zeitvogel (85%) def. Masjuan (15%)
-        AVG: PEPP - Zeitvogel (81%) def. Masjuan (19%)
+        AVG: PEPP - Zeitvogel (83%) def. Masjuan (17%)
         ITA: PEPP - Zeitvogel (4.17) def. Masjuan (2.35)
     - Position: 5
       PEPP: Corrado Summaria - 3-0 at 5, 8-5 in duals, 8-6 overall
@@ -99,9 +99,9 @@ Lineups:
       Predictions:
         SLM: PEPP - Summaria (82%) def. Rotheram (18%)
         TRN: PEPP - Summaria (81%) def. Rotheram (19%)
-        MAS: PEPP - Summaria (75%) def. Rotheram (25%)
+        MAS: PEPP - Summaria (77%) def. Rotheram (23%)
         UTR: PEPP - Summaria (76%) def. Rotheram (24%)
-        AVG: PEPP - Summaria (78%) def. Rotheram (22%)
+        AVG: PEPP - Summaria (79%) def. Rotheram (21%)
         ITA: UCSB - Rotheram (1.83) def. Summaria (1.59)
     - Position: 6
       PEPP: Pietro Fellin - 8-0 at 6, 8-3 in duals, 8-5 overall
@@ -109,9 +109,9 @@ Lineups:
       Predictions:
         SLM: PEPP - Fellin (85%) def. Brady (15%)
         TRN: PEPP - Fellin (87%) def. Brady (13%)
-        MAS: PEPP - Fellin (75%) def. Brady (25%)
+        MAS: PEPP - Fellin (72%) def. Brady (28%)
         UTR: PEPP - Fellin (91%) def. Brady (9%)
-        AVG: PEPP - Fellin (84%) def. Brady (16%)
+        AVG: PEPP - Fellin (83%) def. Brady (17%)
         ITA: UCSB - Brady (2.64) def. Fellin (2.12)
   Doubles:
     - Position: 1

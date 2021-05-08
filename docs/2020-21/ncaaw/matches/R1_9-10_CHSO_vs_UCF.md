@@ -44,9 +44,9 @@ Orlando, Florida
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCF*** - #12 UCF (99%) def. #60 Charleston So. (1%)  
 - TRN: ***UCF*** - #12 UCF (99%) def. #57 Charleston So. (1%)  
-- Massey: ***UCF*** - #10 UCF (75%) def. #60 Charleston So. (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***UCF*** - #10 UCF (100%) def. #60 Charleston So. (0%)  
 - Lineup: ***UCF*** - UCF (100%) def. Charleston So. (0%)  
-- Composite: ***UCF*** - UCF (93%) def. Charleston So. (7%)  
+- Composite: ***UCF*** - UCF (99%) def. Charleston So. (1%)  
 - UTR: ***UCF*** - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)  
 - ITA: ***UCF*** - #9 UCF def. #58 Charleston So.  
 - USTA Poll: ***UCF*** - #9 UCF def. Charleston So.  
@@ -65,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Zeleva (98%) def. Man (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Zeleva (99%) def. Man (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Zeleva (75%) def. Man (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCF</i></b> - Zeleva (98%) def. Man (2%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Zeleva (97%) def. Man (3%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Zeleva (92%) def. Man (8%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Zeleva (98%) def. Man (2%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Zeleva (22.66) def. Man (1.99)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,9 +76,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Stolmar (98%) def. Fullana (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Stolmar (99%) def. Fullana (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Stolmar (75%) def. Fullana (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCF</i></b> - Stolmar (96%) def. Fullana (4%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Stolmar (96%) def. Fullana (4%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Stolmar (92%) def. Fullana (8%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Stolmar (97%) def. Fullana (3%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Stolmar (15.81) def. Fullana (1.91)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,9 +87,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Levashova (98%) def. Singh (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Levashova (99%) def. Singh (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Levashova (75%) def. Singh (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCF</i></b> - Levashova (96%) def. Singh (4%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Levashova (98%) def. Singh (2%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Levashova (92%) def. Singh (8%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Levashova (98%) def. Singh (2%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Levashova (4.48) def. Singh (1.60)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Kuznetsova (75%) def. Cauthen (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Kuznetsova (98%) def. Cauthen (2%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Kuznetsova (93%) def. Cauthen (7%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Kuznetsova (3.33) def. Cauthen (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +109,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCF</i></b> - Mattel (98%) def. Schmitz (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Mattel (99%) def. Schmitz (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Mattel (75%) def. Schmitz (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCF</i></b> - Mattel (97%) def. Schmitz (3%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Mattel (97%) def. Schmitz (3%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Mattel (92%) def. Schmitz (8%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Mattel (98%) def. Schmitz (2%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mattel (2.00) def. Schmitz (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -121,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
 <li>TRN: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
 <li>UTR: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
-<li>Composite: <b><i>CHSO</i></b> - Pyrtiz (93%) def. Bay (7%)</li>  
+<li>Composite: <b><i>CHSO</i></b> - Pyrtiz (97%) def. Bay (3%)</li>  
 <li>ITA: <b><i>CHSO</i></b> - Pyrtiz (1.53) def. Bay (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- UCF should win 4 or more singles matches _96%_ of the time.  
+- UCF should win 4 or more singles matches _100%_ of the time.  
 - Charleston So. should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _4%_ of the time.  
+- The winner of the doubles point will decide the match the other _0%_ of the time.  
 - If UCF wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Charleston So. wins the doubles point, their chances of winning the dual improve to _4%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Charleston So. wins the doubles point, their chances of winning the dual improve to _0%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

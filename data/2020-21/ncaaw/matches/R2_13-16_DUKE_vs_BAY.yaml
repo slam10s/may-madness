@@ -41,9 +41,9 @@ Visitor:
 Predictions:
   SLM: "BAY - #7 Baylor (70%) def. #14 Duke (30%)"
   TRN: "BAY - #4 Baylor (97%) def. #15 Duke (3%)"
-  MAS: "DUKE - #11 Duke (75%) def. #12 Baylor (25%)"
+  MAS: "DUKE - #11 Duke (67%) def. #12 Baylor (33%)"
   LNUP: DUKE - Duke (87%) def. Baylor (13%)
-  AVG: BAY - Baylor (51%) def. Duke (49%)
+  AVG: BAY - Baylor (53%) def. Duke (47%)
   UTR: "BAY - #8 Baylor (+0.69) def. #12 Duke (-0.69)"
   ITA: "BAY - #8 Baylor def. #17 Duke"
   USTA: "BAY - #8 Baylor def. #14 Duke"
@@ -51,11 +51,11 @@ Predictions:
   Seeding: "BAY - #1 Baylor def. #2 Duke"
 Lineups:
   Predictions:
-    Average EWPs for BAY: 70%,97%,26%,13%
-    Average EWPs for DUKE: 30%,3%,74%,87%
+    Average EWPs for BAY: 70%,97%,34%,13%
+    Average EWPs for DUKE: 30%,3%,66%,87%
     BAY wins 4 or more Singles points: 9%
-    DUKE wins 4 or more Singles points: 66%
-    Winner decided by the Doubles point: 25%
+    DUKE wins 4 or more Singles points: 65%
+    Winner decided by the Doubles point: 26%
   Singles:
     - Position: 1
       BAY: Melany Krywoj - 11-6 at 1, 11-6 in duals, 19-10 overall
@@ -63,9 +63,9 @@ Lineups:
       Predictions:
         SLM: DUKE - Chen (66%) def. Krywoj (34%)
         TRN: DUKE - Chen (62%) def. Krywoj (38%)
-        MAS: DUKE - Chen (75%) def. Krywoj (25%)
+        MAS: DUKE - Chen (59%) def. Krywoj (41%)
         UTR: BAY - Krywoj (62%) def. Chen (38%)
-        AVG: DUKE - Chen (59%) def. Krywoj (41%)
+        AVG: DUKE - Chen (55%) def. Krywoj (45%)
         ITA: DUKE - Chen (12.42) def. Krywoj (8.77)
     - Position: 2
       BAY: Jessica Hinojosa - 7-6 at 2, 12-10 in duals, 18-15 overall
@@ -73,9 +73,9 @@ Lineups:
       Predictions:
         SLM: DUKE - Drummy (90%) def. Hinojosa (10%)
         TRN: DUKE - Drummy (88%) def. Hinojosa (12%)
-        MAS: DUKE - Drummy (75%) def. Hinojosa (25%)
+        MAS: DUKE - Drummy (95%) def. Hinojosa (5%)
         UTR: DUKE - Drummy (92%) def. Hinojosa (8%)
-        AVG: DUKE - Drummy (86%) def. Hinojosa (14%)
+        AVG: DUKE - Drummy (90%) def. Hinojosa (10%)
         ITA: DUKE - Drummy (24.14) def. Hinojosa (3.62)
     - Position: 3
       BAY: Alicia Herrero - 4-4 at 3, 13-8 in duals, 20-13 overall
@@ -83,9 +83,9 @@ Lineups:
       Predictions:
         SLM: DUKE - Beck (75%) def. Herrero (25%)
         TRN: DUKE - Beck (78%) def. Herrero (22%)
-        MAS: DUKE - Beck (75%) def. Herrero (25%)
+        MAS: DUKE - Beck (78%) def. Herrero (22%)
         UTR: DUKE - Beck (73%) def. Herrero (27%)
-        AVG: DUKE - Beck (74%) def. Herrero (26%)
+        AVG: DUKE - Beck (75%) def. Herrero (25%)
         ITA: DUKE - Beck (15.35) def. Herrero (2.87)
     - Position: 4
       BAY: Angie Shakhraichuck - 6-4 at 4, 17-5 in duals, 24-10 overall
@@ -93,7 +93,7 @@ Lineups:
       Predictions:
         SLM: DUKE - Chi (81%) def. Shakhraichuck (19%)
         TRN: DUKE - Chi (87%) def. Shakhraichuck (13%)
-        MAS: DUKE - Chi (75%) def. Shakhraichuck (25%)
+        MAS: DUKE - Chi (76%) def. Shakhraichuck (24%)
         UTR: DUKE - Chi (82%) def. Shakhraichuck (18%)
         AVG: DUKE - Chi (81%) def. Shakhraichuck (19%)
         ITA: DUKE - Chi (15.20) def. Shakhraichuck (1.88)
@@ -103,9 +103,9 @@ Lineups:
       Predictions:
         SLM: DUKE - Bilokin (70%) def. Sorokolet (30%)
         TRN: DUKE - Bilokin (68%) def. Sorokolet (32%)
-        MAS: DUKE - Bilokin (75%) def. Sorokolet (25%)
+        MAS: DUKE - Bilokin (64%) def. Sorokolet (36%)
         UTR: DUKE - Bilokin (81%) def. Sorokolet (19%)
-        AVG: DUKE - Bilokin (72%) def. Sorokolet (28%)
+        AVG: DUKE - Bilokin (70%) def. Sorokolet (30%)
         ITA: DUKE - Bilokin (2.72) def. Sorokolet (1.95)
     - Position: 6
       BAY: Paula Baranano - 5-2 at 6, 12-3 in duals, 12-3 overall
@@ -113,9 +113,9 @@ Lineups:
       Predictions:
         SLM: BAY - Baranano (90%) def. Berankova (10%)
         TRN: BAY - Baranano (92%) def. Berankova (8%)
-        MAS: BAY - Baranano (75%) def. Berankova (25%)
+        MAS: BAY - Baranano (87%) def. Berankova (13%)
         UTR: BAY - Baranano (92%) def. Berankova (8%)
-        AVG: BAY - Baranano (87%) def. Berankova (13%)
+        AVG: BAY - Baranano (90%) def. Berankova (10%)
         ITA: BAY - Baranano (2.52) def. Berankova (0.00)
   Doubles:
     - Position: 1

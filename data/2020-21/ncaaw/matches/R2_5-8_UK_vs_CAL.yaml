@@ -41,9 +41,9 @@ Visitor:
 Predictions:
   SLM: "CAL - #17 California (65%) def. #25 Kentucky (35%)"
   TRN: "CAL - #17 California (70%) def. #27 Kentucky (30%)"
-  MAS: "CAL - #14 California (75%) def. #33 Kentucky (25%)"
-  LNUP: CAL - California (96%) def. Kentucky (4%)
-  AVG: CAL - California (76%) def. Kentucky (24%)
+  MAS: "CAL - #14 California (77%) def. #33 Kentucky (23%)"
+  LNUP: CAL - California (95%) def. Kentucky (5%)
+  AVG: CAL - California (77%) def. Kentucky (23%)
   UTR: "CAL - #15 California (+2.00) def. #34 Kentucky (-2.00)"
   ITA: "CAL - #16 California def. #26 Kentucky"
   USTA: "CAL - #13 California def. #24 Kentucky"
@@ -51,11 +51,11 @@ Predictions:
   Seeding: "CAL - #1 California def. #2 Kentucky"
 Lineups:
   Predictions:
-    Average EWPs for CAL: 65%,70%,75%,96%
-    Average EWPs for UK: 35%,30%,25%,4%
-    CAL wins 4 or more Singles points: 86%
-    UK wins 4 or more Singles points: 3%
-    Winner decided by the Doubles point: 11%
+    Average EWPs for CAL: 65%,70%,77%,95%
+    Average EWPs for UK: 35%,30%,23%,5%
+    CAL wins 4 or more Singles points: 83%
+    UK wins 4 or more Singles points: 4%
+    Winner decided by the Doubles point: 13%
   Singles:
     - Position: 1
       CAL: Haley Giavara - 12-10 at 1, 12-10 in duals, 12-10 overall
@@ -63,9 +63,9 @@ Lineups:
       Predictions:
         SLM: CAL - Giavara (73%) def. Parazinskaite (27%)
         TRN: CAL - Giavara (75%) def. Parazinskaite (25%)
-        MAS: CAL - Giavara (75%) def. Parazinskaite (25%)
+        MAS: CAL - Giavara (54%) def. Parazinskaite (46%)
         UTR: CAL - Giavara (58%) def. Parazinskaite (42%)
-        AVG: CAL - Giavara (70%) def. Parazinskaite (30%)
+        AVG: CAL - Giavara (65%) def. Parazinskaite (35%)
         ITA: CAL - Giavara (18.44) def. Parazinskaite (0.00)
     - Position: 2
       CAL: Julia Rosenqvist - 11-7 at 2, 14-7 in duals, 14-7 overall
@@ -73,9 +73,9 @@ Lineups:
       Predictions:
         SLM: CAL - Rosenqvist (72%) def. Jacobs (28%)
         TRN: CAL - Rosenqvist (70%) def. Jacobs (30%)
-        MAS: CAL - Rosenqvist (75%) def. Jacobs (25%)
+        MAS: CAL - Rosenqvist (54%) def. Jacobs (46%)
         UTR: CAL - Rosenqvist (79%) def. Jacobs (21%)
-        AVG: CAL - Rosenqvist (74%) def. Jacobs (26%)
+        AVG: CAL - Rosenqvist (69%) def. Jacobs (31%)
         ITA: UK - Jacobs (5.00) def. Rosenqvist (2.23)
     - Position: 3
       CAL: Valentina Ivanov - 9-5 at 3, 10-8 in duals, 10-8 overall
@@ -83,9 +83,9 @@ Lineups:
       Predictions:
         SLM: CAL - Ivanov (64%) def. Molina (36%)
         TRN: CAL - Ivanov (64%) def. Molina (36%)
-        MAS: CAL - Ivanov (75%) def. Molina (25%)
+        MAS: CAL - Ivanov (53%) def. Molina (47%)
         UTR: CAL - Ivanov (79%) def. Molina (21%)
-        AVG: CAL - Ivanov (70%) def. Molina (30%)
+        AVG: CAL - Ivanov (65%) def. Molina (35%)
         ITA: UK - Molina (2.40) def. Ivanov (1.97)
     - Position: 4
       CAL: Jada Bui - 8-5 at 4, 10-6 in duals, 10-6 overall
@@ -103,9 +103,9 @@ Lineups:
       Predictions:
         SLM: CAL - Moeller (70%) def. Girbau (30%)
         TRN: CAL - Moeller (84%) def. Girbau (16%)
-        MAS: CAL - Moeller (75%) def. Girbau (25%)
+        MAS: CAL - Moeller (74%) def. Girbau (26%)
         UTR: CAL - Moeller (81%) def. Girbau (19%)
-        AVG: CAL - Moeller (78%) def. Girbau (22%)
+        AVG: CAL - Moeller (77%) def. Girbau (23%)
         ITA: CAL - Moeller (1.79) def. Girbau (0.00)
     - Position: 6
       CAL: Anna Bright - 10-3 at 6, 18-3 in duals, 18-3 overall
@@ -113,9 +113,9 @@ Lineups:
       Predictions:
         SLM: CAL - Bright (75%) def. Arrese (25%)
         TRN: CAL - Bright (89%) def. Arrese (11%)
-        MAS: CAL - Bright (75%) def. Arrese (25%)
+        MAS: CAL - Bright (88%) def. Arrese (12%)
         UTR: CAL - Bright (99%) def. Arrese (1%)
-        AVG: CAL - Bright (84%) def. Arrese (16%)
+        AVG: CAL - Bright (88%) def. Arrese (12%)
         ITA: CAL - Bright (2.79) def. Arrese (1.49)
   Doubles:
     - Position: 1

@@ -42,9 +42,9 @@ Raleigh, North Carolina
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***NCST*** - #11 NC State (94%) def. #41 Iowa St. (6%)  
 - TRN: ***NCST*** - #10 NC State (96%) def. #42 Iowa St. (4%)  
-- Massey: ***NCST*** - #6 NC State (75%) def. #39 Iowa St. (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***NCST*** - #6 NC State (98%) def. #39 Iowa St. (2%)  
 - Lineup: ***NCST*** - NC State (98%) def. Iowa St. (2%)  
-- Composite: ***NCST*** - NC State (91%) def. Iowa St. (9%)  
+- Composite: ***NCST*** - NC State (97%) def. Iowa St. (3%)  
 - UTR: ***NCST*** - #9 NC State (+3.92) def. #39 Iowa St. (-3.92)  
 - ITA: ***NCST*** - #6 NC State def. #36 Iowa St.  
 - USTA Poll: ***NCST*** - #11 NC State def. Iowa St.  
@@ -63,9 +63,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Rogers (94%) def. Naklo (6%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rogers (97%) def. Naklo (3%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Rogers (75%) def. Naklo (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Rogers (91%) def. Naklo (9%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rogers (90%) def. Naklo (10%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Rogers (89%) def. Naklo (11%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rogers (93%) def. Naklo (7%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rogers (48.19) def. Naklo (2.77)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -74,9 +74,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Smith (90%) def. Cancini (10%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Smith (92%) def. Cancini (8%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Smith (75%) def. Cancini (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Smith (92%) def. Cancini (8%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Smith (89%) def. Cancini (11%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Smith (86%) def. Cancini (14%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Smith (91%) def. Cancini (9%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Smith (22.32) def. Cancini (1.95)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -85,9 +85,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Reami (75%) def. Kadleckova (25%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Reami (68%) def. Kadleckova (32%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Reami (75%) def. Kadleckova (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Reami (58%) def. Kadleckova (42%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Reami (72%) def. Kadleckova (28%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Reami (72%) def. Kadleckova (28%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Reami (68%) def. Kadleckova (32%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Reami (4.00) def. Kadleckova (2.94)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -96,9 +96,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Daniel (84%) def. Hsieh (16%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Daniel (87%) def. Hsieh (13%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Daniel (75%) def. Hsieh (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Daniel (91%) def. Hsieh (9%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Daniel (95%) def. Hsieh (5%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Daniel (85%) def. Hsieh (15%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Daniel (89%) def. Hsieh (11%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Daniel (1.87) def. Hsieh (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,9 +107,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Rencheli (68%) def. Kezuka (32%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rencheli (81%) def. Kezuka (19%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Rencheli (75%) def. Kezuka (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Rencheli (80%) def. Kezuka (20%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rencheli (92%) def. Kezuka (8%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Rencheli (79%) def. Kezuka (21%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rencheli (80%) def. Kezuka (20%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rencheli (7.12) def. Kezuka (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NCST</i></b> - Keberle (73%) def. Cabezas (27%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Keberle (67%) def. Cabezas (33%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Keberle (75%) def. Cabezas (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>NCST</i></b> - Keberle (74%) def. Cabezas (26%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Keberle (80%) def. Cabezas (20%)</li>  
 <li>Composite: <b><i>NCST</i></b> - Keberle (73%) def. Cabezas (27%)</li>  
 <li>ITA: <b><i>ISU</i></b> - Cabezas (2.42) def. Keberle (1.71)</li>  
@@ -146,13 +146,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- NC State should win 4 or more singles matches _92%_ of the time.  
+- NC State should win 4 or more singles matches _94%_ of the time.  
 - Iowa St. should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _7%_ of the time.  
+- The winner of the doubles point will decide the match the other _5%_ of the time.  
 - If NC State wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Iowa St. wins the doubles point, their chances of winning the dual improve to _8%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Iowa St. wins the doubles point, their chances of winning the dual improve to _6%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

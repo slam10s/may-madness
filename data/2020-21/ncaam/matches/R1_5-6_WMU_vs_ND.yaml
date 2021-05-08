@@ -39,8 +39,8 @@ Visitor:
 Predictions:
   SLM: "ND - #40 Notre Dame (77%) def. #47 Western Mich. (23%)"
   TRN: "ND - #42 Notre Dame (62%) def. #46 Western Mich. (38%)"
-  MAS: "ND - #36 Notre Dame (75%) def. #45 Western Mich. (25%)"
-  LNUP: ND - Notre Dame (93%) def. Western Mich. (7%)
+  MAS: "ND - #36 Notre Dame (77%) def. #45 Western Mich. (23%)"
+  LNUP: ND - Notre Dame (95%) def. Western Mich. (5%)
   AVG: ND - Notre Dame (77%) def. Western Mich. (23%)
   UTR: "ND - #38 Notre Dame (+3.43) def. #53 Western Mich. (-3.43)"
   ITA: "ND - #34 Notre Dame def. #41 Western Mich."
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "ND - #2 Notre Dame def. #3 Western Mich."
 Lineups:
   Predictions:
-    Average EWPs for ND: 77%,62%,75%,93%
-    Average EWPs for WMU: 23%,38%,25%,7%
-    ND wins 4 or more Singles points: 76%
-    WMU wins 4 or more Singles points: 5%
-    Winner decided by the Doubles point: 19%
+    Average EWPs for ND: 77%,62%,77%,95%
+    Average EWPs for WMU: 23%,38%,23%,5%
+    ND wins 4 or more Singles points: 78%
+    WMU wins 4 or more Singles points: 4%
+    Winner decided by the Doubles point: 18%
   Singles:
     - Position: 1
       ND: Axel Nefve - 13-2 at 1, 18-3 in duals, 18-3 overall
@@ -61,9 +61,9 @@ Lineups:
       Predictions:
         SLM: ND - Nefve (82%) def. Opitz (18%)
         TRN: ND - Nefve (84%) def. Opitz (16%)
-        MAS: ND - Nefve (75%) def. Opitz (25%)
+        MAS: ND - Nefve (85%) def. Opitz (15%)
         UTR: ND - Nefve (92%) def. Opitz (8%)
-        AVG: ND - Nefve (83%) def. Opitz (17%)
+        AVG: ND - Nefve (86%) def. Opitz (14%)
         ITA: ND - Nefve (21.49) def. Opitz (3.71)
     - Position: 2
       ND: Richard Ciamarra - 9-4 at 2, 14-7 in duals, 14-7 overall
@@ -81,9 +81,9 @@ Lineups:
       Predictions:
         SLM: ND - McCormick (88%) def. Lohse (12%)
         TRN: ND - McCormick (88%) def. Lohse (12%)
-        MAS: ND - McCormick (75%) def. Lohse (25%)
+        MAS: ND - McCormick (77%) def. Lohse (23%)
         UTR: ND - McCormick (91%) def. Lohse (9%)
-        AVG: ND - McCormick (85%) def. Lohse (15%)
+        AVG: ND - McCormick (86%) def. Lohse (14%)
         ITA: ND - McCormick (3.76) def. Lohse (2.10)
     - Position: 4
       ND: William Howells - 0-0 at 4, 2-1 in duals, 2-1 overall
@@ -91,9 +91,9 @@ Lineups:
       Predictions:
         SLM: WMU - Boone (100%) def. Howells (0%)
         TRN: WMU - Boone (100%) def. Howells (0%)
-        MAS: WMU - Boone (75%) def. Howells (25%)
+        MAS: WMU - Boone (90%) def. Howells (10%)
         UTR: WMU - Boone (100%) def. Howells (0%)
-        AVG: WMU - Boone (93%) def. Howells (7%)
+        AVG: WMU - Boone (97%) def. Howells (3%)
         ITA: WMU - Boone (1.91) def. Howells (0.00)
     - Position: 5
       ND: Matthew Che - 0-1 at 5, 6-12 in duals, 6-12 overall
@@ -101,9 +101,9 @@ Lineups:
       Predictions:
         SLM: ND - Che (80%) def. Honnappa (20%)
         TRN: ND - Che (65%) def. Honnappa (35%)
-        MAS: WMU - Honnappa (75%) def. Che (25%)
+        MAS: WMU - Honnappa (49%) def. Che (51%)
         UTR: ND - Che (78%) def. Honnappa (22%)
-        AVG: ND - Che (62%) def. Honnappa (38%)
+        AVG: ND - Che (68%) def. Honnappa (32%)
         ITA: WMU - Honnappa (2.67) def. Che (0.00)
     - Position: 6
       ND: Connor Fu - 0-1 at 6, 12-9 in duals, 12-9 overall
@@ -111,9 +111,9 @@ Lineups:
       Predictions:
         SLM: ND - Fu (89%) def. George (11%)
         TRN: ND - Fu (86%) def. George (14%)
-        MAS: ND - Fu (75%) def. George (25%)
+        MAS: ND - Fu (69%) def. George (31%)
         UTR: ND - Fu (86%) def. George (14%)
-        AVG: ND - Fu (84%) def. George (16%)
+        AVG: ND - Fu (82%) def. George (18%)
         ITA: WMU - George (4.11) def. Fu (1.57)
   Doubles:
     - Position: 1

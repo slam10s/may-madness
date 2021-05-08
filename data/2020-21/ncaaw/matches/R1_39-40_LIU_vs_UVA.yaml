@@ -38,20 +38,20 @@ Visitor:
 Predictions:
   SLM: "UVA - #9 Virginia (99%) def. #61 LIU (1%)"
   TRN: "UVA - #11 Virginia (99%) def. #63 LIU (1%)"
-  MAS: "UVA - #7 Virginia (75%) def. #61 LIU (25%)"
-  LNUP: UVA - Virginia (98%) def. LIU (2%)
-  AVG: UVA - Virginia (93%) def. LIU (7%)
+  MAS: "UVA - #7 Virginia (100%) def. #61 LIU (0%)"
+  LNUP: UVA - Virginia (100%) def. LIU (0%)
+  AVG: UVA - Virginia (99%) def. LIU (1%)
   UTR: "UVA - #13 Virginia (+12.56) def. #60 LIU (-12.56)"
   ITA: "UVA - #14 Virginia def. #52 LIU"
   USTA: "UVA - #10 Virginia def. LIU"
   Seeding: "UVA - #1 Virginia def. #4 LIU"
 Lineups:
   Predictions:
-    Average EWPs for UVA: 99%,99%,75%,98%
-    Average EWPs for LIU: 1%,1%,25%,2%
-    UVA wins 4 or more Singles points: 96%
-    LIU wins 4 or more Singles points: 1%
-    Winner decided by the Doubles point: 3%
+    Average EWPs for UVA: 99%,99%,100%,100%
+    Average EWPs for LIU: 1%,1%,0%,0%
+    UVA wins 4 or more Singles points: 100%
+    LIU wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 0%
   Singles:
     - Position: 1
       UVA: Emma Navarro - 17-1 at 1, 17-1 in duals, 17-1 overall
@@ -59,9 +59,9 @@ Lineups:
       Predictions:
         SLM: UVA - Navarro (99%) def. Kuzina (1%)
         TRN: UVA - Navarro (99%) def. Kuzina (1%)
-        MAS: UVA - Navarro (75%) def. Kuzina (25%)
+        MAS: UVA - Navarro (99%) def. Kuzina (1%)
         UTR: UVA - Navarro (99%) def. Kuzina (1%)
-        AVG: UVA - Navarro (93%) def. Kuzina (7%)
+        AVG: UVA - Navarro (99%) def. Kuzina (1%)
         ITA: UVA - Navarro (62.96) def. Kuzina (3.50)
     - Position: 2
       UVA: Natasha Subhash - 14-4 at 2, 15-4 in duals, 15-5 overall
@@ -69,9 +69,9 @@ Lineups:
       Predictions:
         SLM: UVA - Subhash (99%) def. Dancenco (1%)
         TRN: UVA - Subhash (99%) def. Dancenco (1%)
-        MAS: UVA - Subhash (75%) def. Dancenco (25%)
+        MAS: UVA - Subhash (98%) def. Dancenco (2%)
         UTR: UVA - Subhash (98%) def. Dancenco (2%)
-        AVG: UVA - Subhash (93%) def. Dancenco (7%)
+        AVG: UVA - Subhash (99%) def. Dancenco (1%)
         ITA: UVA - Subhash (40.00) def. Dancenco (4.17)
     - Position: 3
       UVA: Rosie Johanson - 15-2 at 3, 16-2 in duals, 16-4 overall
@@ -79,9 +79,9 @@ Lineups:
       Predictions:
         SLM: UVA - Johanson (99%) def. Erechtchenko (1%)
         TRN: UVA - Johanson (99%) def. Erechtchenko (1%)
-        MAS: UVA - Johanson (75%) def. Erechtchenko (25%)
+        MAS: UVA - Johanson (99%) def. Erechtchenko (1%)
         UTR: UVA - Johanson (99%) def. Erechtchenko (1%)
-        AVG: UVA - Johanson (93%) def. Erechtchenko (7%)
+        AVG: UVA - Johanson (99%) def. Erechtchenko (1%)
         ITA: UVA - Johanson (6.37) def. Erechtchenko (3.50)
     - Position: 4
       UVA: Hibah Shaikh - 4-9 at 4, 6-9 in duals, 7-10 overall
@@ -89,9 +89,9 @@ Lineups:
       Predictions:
         SLM: UVA - Shaikh (99%) def. Storkaas (1%)
         TRN: UVA - Shaikh (99%) def. Storkaas (1%)
-        MAS: UVA - Shaikh (75%) def. Storkaas (25%)
+        MAS: UVA - Shaikh (98%) def. Storkaas (2%)
         UTR: UVA - Shaikh (99%) def. Storkaas (1%)
-        AVG: UVA - Shaikh (93%) def. Storkaas (7%)
+        AVG: UVA - Shaikh (99%) def. Storkaas (1%)
         ITA: UVA - Shaikh (1.63) def. Storkaas (0.00)
     - Position: 5
       UVA: Amber O'Dell - 1-3 at 5, 10-7 in duals, 10-9 overall
@@ -99,9 +99,9 @@ Lineups:
       Predictions:
         SLM: LIU - Compuesto (100%) def. O'Dell (0%)
         TRN: LIU - Compuesto (100%) def. O'Dell (0%)
-        MAS: LIU - Compuesto (75%) def. O'Dell (25%)
+        MAS: LIU - Compuesto (13%) def. O'Dell (87%)
         UTR: LIU - Compuesto (100%) def. O'Dell (0%)
-        AVG: LIU - Compuesto (93%) def. O'Dell (7%)
+        AVG: LIU - Compuesto (78%) def. O'Dell (22%)
         ITA: LIU - Compuesto (3.66) def. O'Dell (1.59)
     - Position: 6
       UVA: Vivian Glozman - 2-1 at 6, 7-3 in duals, 8-4 overall
@@ -109,9 +109,9 @@ Lineups:
       Predictions:
         SLM: UVA - Glozman (99%) def. Jorjoliani (1%)
         TRN: UVA - Glozman (99%) def. Jorjoliani (1%)
-        MAS: UVA - Glozman (75%) def. Jorjoliani (25%)
+        MAS: UVA - Glozman (97%) def. Jorjoliani (3%)
         UTR: UVA - Glozman (98%) def. Jorjoliani (2%)
-        AVG: UVA - Glozman (93%) def. Jorjoliani (7%)
+        AVG: UVA - Glozman (98%) def. Jorjoliani (2%)
         ITA: LIU - Jorjoliani (3.50) def. Glozman (2.77)
   Doubles:
     - Position: 1

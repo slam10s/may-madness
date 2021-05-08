@@ -39,7 +39,7 @@ Visitor:
 Predictions:
   SLM: "ODU - #28 Old Dominion (73%) def. #38 Arkansas (27%)"
   TRN: "ODU - #25 Old Dominion (71%) def. #32 Arkansas (29%)"
-  MAS: "ODU - #29 Old Dominion (75%) def. #41 Arkansas (25%)"
+  MAS: "ODU - #29 Old Dominion (77%) def. #41 Arkansas (23%)"
   LNUP: ODU - Old Dominion (63%) def. Arkansas (37%)
   AVG: ODU - Old Dominion (71%) def. Arkansas (29%)
   UTR: "ODU - #37 Old Dominion (+0.12) def. #38 Arkansas (-0.12)"
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "ODU - #2 Old Dominion def. #3 Arkansas"
 Lineups:
   Predictions:
-    Average EWPs for ODU: 73%,71%,75%,63%
-    Average EWPs for ARK: 27%,29%,25%,37%
-    ODU wins 4 or more Singles points: 43%
+    Average EWPs for ODU: 73%,71%,77%,63%
+    Average EWPs for ARK: 27%,29%,23%,37%
+    ODU wins 4 or more Singles points: 44%
     ARK wins 4 or more Singles points: 25%
-    Winner decided by the Doubles point: 32%
+    Winner decided by the Doubles point: 31%
   Singles:
     - Position: 1
       ODU: Holly Hutchinson - 7-8 at 1, 7-8 in duals, 8-9 overall
@@ -61,9 +61,9 @@ Lineups:
       Predictions:
         SLM: ODU - Hutchinson (61%) def. Spink (39%)
         TRN: ARK - Spink (54%) def. Hutchinson (46%)
-        MAS: ARK - Spink (75%) def. Hutchinson (25%)
+        MAS: ARK - Spink (59%) def. Hutchinson (41%)
         UTR: ARK - Spink (72%) def. Hutchinson (28%)
-        AVG: ARK - Spink (59%) def. Hutchinson (41%)
+        AVG: ARK - Spink (55%) def. Hutchinson (45%)
         ITA: ARK - Spink (13.82) def. Hutchinson (5.40)
     - Position: 2
       ODU: Yulia Starodubtseva - 11-1 at 2, 11-1 in duals, 11-1 overall
@@ -71,9 +71,9 @@ Lineups:
       Predictions:
         SLM: ODU - Starodubtseva (55%) def. Keller (45%)
         TRN: ODU - Starodubtseva (74%) def. Keller (26%)
-        MAS: ODU - Starodubtseva (75%) def. Keller (25%)
+        MAS: ODU - Starodubtseva (69%) def. Keller (31%)
         UTR: ODU - Starodubtseva (55%) def. Keller (45%)
-        AVG: ODU - Starodubtseva (65%) def. Keller (35%)
+        AVG: ODU - Starodubtseva (63%) def. Keller (37%)
         ITA: ODU - Starodubtseva (11.96) def. Keller (2.19)
     - Position: 3
       ODU: Tatsiana Sasnouskaya - 9-2 at 3, 13-2 in duals, 13-2 overall
@@ -91,16 +91,16 @@ Lineups:
       Predictions:
         SLM: ARK - Cross (63%) def. Yakubovich (37%)
         TRN: ARK - Cross (69%) def. Yakubovich (31%)
-        MAS: ARK - Cross (75%) def. Yakubovich (25%)
+        MAS: ARK - Cross (51%) def. Yakubovich (49%)
         UTR: ARK - Cross (80%) def. Yakubovich (20%)
-        AVG: ARK - Cross (71%) def. Yakubovich (29%)
+        AVG: ARK - Cross (65%) def. Yakubovich (35%)
     - Position: 5
       ODU: Brooke Pilkington - 2-3 at 5, 6-5 in duals, 6-5 overall
       ARK: Lauren Alter - 5-5 at 5, 6-9 in duals, 6-9 overall
       Predictions:
         SLM: ODU - Pilkington (54%) def. Alter (46%)
         TRN: ODU - Pilkington (55%) def. Alter (45%)
-        MAS: ODU - Pilkington (75%) def. Alter (25%)
+        MAS: ODU - Pilkington (74%) def. Alter (26%)
         UTR: ODU - Pilkington (79%) def. Alter (21%)
         AVG: ODU - Pilkington (66%) def. Alter (34%)
         ITA: ODU - Pilkington (1.80) def. Alter (0.00)
@@ -110,9 +110,9 @@ Lineups:
       Predictions:
         SLM: ARK - Rijkers (55%) def. Viktorovich (45%)
         TRN: ARK - Rijkers (69%) def. Viktorovich (31%)
-        MAS: ODU - Viktorovich (75%) def. Rijkers (25%)
+        MAS: ODU - Viktorovich (55%) def. Rijkers (45%)
         UTR: ODU - Viktorovich (80%) def. Rijkers (20%)
-        AVG: ODU - Viktorovich (58%) def. Rijkers (42%)
+        AVG: ODU - Viktorovich (53%) def. Rijkers (47%)
         ITA: ODU - Viktorovich (2.38) def. Rijkers (1.60)
   Doubles:
     - Position: 1

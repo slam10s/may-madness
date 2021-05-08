@@ -44,9 +44,9 @@ Charlottesville, Virginia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UVA*** - #9 Virginia (99%) def. #61 LIU (1%)  
 - TRN: ***UVA*** - #11 Virginia (99%) def. #63 LIU (1%)  
-- Massey: ***UVA*** - #7 Virginia (75%) def. #61 LIU (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***UVA*** - Virginia (98%) def. LIU (2%)  
-- Composite: ***UVA*** - Virginia (93%) def. LIU (7%)  
+- Massey: ***UVA*** - #7 Virginia (100%) def. #61 LIU (0%)  
+- Lineup: ***UVA*** - Virginia (100%) def. LIU (0%)  
+- Composite: ***UVA*** - Virginia (99%) def. LIU (1%)  
 - UTR: ***UVA*** - #13 Virginia (+12.56) def. #60 LIU (-12.56)  
 - ITA: ***UVA*** - #14 Virginia def. #52 LIU  
 - USTA Poll: ***UVA*** - #10 Virginia def. LIU  
@@ -64,9 +64,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Navarro (75%) def. Kuzina (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Navarro (93%) def. Kuzina (7%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Navarro (99%) def. Kuzina (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Navarro (62.96) def. Kuzina (3.50)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Subhash (75%) def. Dancenco (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UVA</i></b> - Subhash (98%) def. Dancenco (2%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Subhash (98%) def. Dancenco (2%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Subhash (93%) def. Dancenco (7%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Subhash (99%) def. Dancenco (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Subhash (40.00) def. Dancenco (4.17)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Johanson (75%) def. Erechtchenko (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Johanson (93%) def. Erechtchenko (7%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Johanson (6.37) def. Erechtchenko (3.50)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Shaikh (75%) def. Storkaas (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UVA</i></b> - Shaikh (98%) def. Storkaas (2%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Shaikh (93%) def. Storkaas (7%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Shaikh (1.63) def. Storkaas (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
 <li>TRN: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
-<li>Massey: <b><i>LIU</i></b> - Compuesto (75%) def. O'Dell (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>LIU</i></b> - Compuesto (13%) def. O'Dell (87%)</li>  
 <li>UTR: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
-<li>Composite: <b><i>LIU</i></b> - Compuesto (93%) def. O'Dell (7%)</li>  
+<li>Composite: <b><i>LIU</i></b> - Compuesto (78%) def. O'Dell (22%)</li>  
 <li>ITA: <b><i>LIU</i></b> - Compuesto (3.66) def. O'Dell (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Glozman (99%) def. Jorjoliani (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Glozman (75%) def. Jorjoliani (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UVA</i></b> - Glozman (97%) def. Jorjoliani (3%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Glozman (98%) def. Jorjoliani (2%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Glozman (93%) def. Jorjoliani (7%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Glozman (98%) def. Jorjoliani (2%)</li>  
 <li>ITA: <b><i>LIU</i></b> - Jorjoliani (3.50) def. Glozman (2.77)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Virginia should win 4 or more singles matches _96%_ of the time.  
-- LIU should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
-- If Virginia wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If LIU wins the doubles point, their chances of winning the dual improve to _4%_.  
-  
-Return to [List of Matches](../index.md)  
+- Virginia should win 4 or more singles matches _100%_ of the time.  
+- LIU should win 4 or more singles matches _0%_ of the time.  
+- The winner of the doubles point will decide the match the other _0%_ of the time.  
+- If Virginia wins the doubles point, their chances of winning the dual improve to _100%_.  
+- If LIU wins the doubles point, their chances of winning the dual improve to _0%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

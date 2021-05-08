@@ -38,9 +38,9 @@ Visitor:
 Predictions:
   SLM: "CAL - #17 California (99%) def. #50 San Jose St. (1%)"
   TRN: "CAL - #17 California (99%) def. #49 San Jose St. (1%)"
-  MAS: "CAL - #14 California (75%) def. #49 San Jose St. (25%)"
+  MAS: "CAL - #14 California (99%) def. #49 San Jose St. (1%)"
   LNUP: CAL - California (100%) def. San Jose St. (0%)
-  AVG: CAL - California (93%) def. San Jose St. (7%)
+  AVG: CAL - California (99%) def. San Jose St. (1%)
   UTR: "CAL - #15 California (+6.78) def. #50 San Jose St. (-6.78)"
   ITA: "CAL - #16 California def. #47 San Jose St."
   USTA: "CAL - #13 California def. San Jose St."
@@ -48,11 +48,11 @@ Predictions:
   Seeding: "CAL - #1 California def. #4 San Jose St."
 Lineups:
   Predictions:
-    Average EWPs for CAL: 99%,99%,75%,100%
-    Average EWPs for SJSU: 1%,1%,25%,0%
-    CAL wins 4 or more Singles points: 99%
+    Average EWPs for CAL: 99%,99%,99%,100%
+    Average EWPs for SJSU: 1%,1%,1%,0%
+    CAL wins 4 or more Singles points: 100%
     SJSU wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 1%
+    Winner decided by the Doubles point: 0%
   Singles:
     - Position: 1
       CAL: Haley Giavara - 12-10 at 1, 12-10 in duals, 12-10 overall
@@ -60,7 +60,7 @@ Lineups:
       Predictions:
         SLM: CAL - Giavara (93%) def. Galindo (7%)
         TRN: CAL - Giavara (95%) def. Galindo (5%)
-        MAS: CAL - Giavara (75%) def. Galindo (25%)
+        MAS: CAL - Giavara (77%) def. Galindo (23%)
         UTR: CAL - Giavara (91%) def. Galindo (9%)
         AVG: CAL - Giavara (89%) def. Galindo (11%)
         ITA: CAL - Giavara (18.44) def. Galindo (2.47)
@@ -70,9 +70,9 @@ Lineups:
       Predictions:
         SLM: CAL - Rosenqvist (96%) def. Youseva (4%)
         TRN: CAL - Rosenqvist (97%) def. Youseva (3%)
-        MAS: CAL - Rosenqvist (75%) def. Youseva (25%)
+        MAS: CAL - Rosenqvist (94%) def. Youseva (6%)
         UTR: CAL - Rosenqvist (98%) def. Youseva (2%)
-        AVG: CAL - Rosenqvist (91%) def. Youseva (9%)
+        AVG: CAL - Rosenqvist (96%) def. Youseva (4%)
         ITA: CAL - Rosenqvist (2.23) def. Youseva (1.67)
     - Position: 3
       CAL: Valentina Ivanov - 9-5 at 3, 10-8 in duals, 10-8 overall
@@ -80,9 +80,9 @@ Lineups:
       Predictions:
         SLM: CAL - Ivanov (94%) def. Muradyan (6%)
         TRN: CAL - Ivanov (92%) def. Muradyan (8%)
-        MAS: CAL - Ivanov (75%) def. Muradyan (25%)
+        MAS: CAL - Ivanov (61%) def. Muradyan (39%)
         UTR: CAL - Ivanov (91%) def. Muradyan (9%)
-        AVG: CAL - Ivanov (88%) def. Muradyan (12%)
+        AVG: CAL - Ivanov (84%) def. Muradyan (16%)
         ITA: SJSU - Muradyan (3.64) def. Ivanov (1.97)
     - Position: 4
       CAL: Jada Bui - 8-5 at 4, 10-6 in duals, 10-6 overall
@@ -90,9 +90,9 @@ Lineups:
       Predictions:
         SLM: CAL - Bui (98%) def. Mas (2%)
         TRN: CAL - Bui (99%) def. Mas (1%)
-        MAS: CAL - Bui (75%) def. Mas (25%)
+        MAS: CAL - Bui (95%) def. Mas (5%)
         UTR: CAL - Bui (94%) def. Mas (6%)
-        AVG: CAL - Bui (91%) def. Mas (9%)
+        AVG: CAL - Bui (96%) def. Mas (4%)
         ITA: CAL - Bui (1.95) def. Mas (1.77)
     - Position: 5
       CAL: Hannah Viller Moeller - 8-5 at 5, 14-7 in duals, 14-7 overall
@@ -100,9 +100,9 @@ Lineups:
       Predictions:
         SLM: CAL - Moeller (98%) def. Pereira (2%)
         TRN: CAL - Moeller (98%) def. Pereira (2%)
-        MAS: CAL - Moeller (75%) def. Pereira (25%)
+        MAS: CAL - Moeller (88%) def. Pereira (12%)
         UTR: CAL - Moeller (99%) def. Pereira (1%)
-        AVG: CAL - Moeller (93%) def. Pereira (7%)
+        AVG: CAL - Moeller (96%) def. Pereira (4%)
         ITA: SJSU - Pereira (3.01) def. Moeller (1.79)
     - Position: 6
       CAL: Anna Bright - 10-3 at 6, 18-3 in duals, 18-3 overall
@@ -110,9 +110,9 @@ Lineups:
       Predictions:
         SLM: CAL - Bright (99%) def. Babic (1%)
         TRN: CAL - Bright (99%) def. Babic (1%)
-        MAS: CAL - Bright (75%) def. Babic (25%)
+        MAS: CAL - Bright (98%) def. Babic (2%)
         UTR: CAL - Bright (97%) def. Babic (3%)
-        AVG: CAL - Bright (92%) def. Babic (8%)
+        AVG: CAL - Bright (98%) def. Babic (2%)
         ITA: CAL - Bright (2.79) def. Babic (2.68)
   Doubles:
     - Position: 1

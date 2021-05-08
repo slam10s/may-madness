@@ -38,19 +38,19 @@ Visitor:
 Predictions:
   SLM: "TTU - #34 Texas Tech (53%) def. #36 San Diego (47%)"
   TRN: "TTU - #34 Texas Tech (61%) def. #38 San Diego (39%)"
-  MAS: "TTU - #28 Texas Tech (75%) def. #32 San Diego (25%)"
-  LNUP: TTU - Texas Tech (66%) def. San Diego (34%)
-  AVG: TTU - Texas Tech (64%) def. San Diego (36%)
+  MAS: "TTU - #28 Texas Tech (56%) def. #32 San Diego (44%)"
+  LNUP: TTU - Texas Tech (65%) def. San Diego (35%)
+  AVG: TTU - Texas Tech (59%) def. San Diego (41%)
   UTR: "TTU - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)"
   ITA: "TTU - #29 Texas Tech def. #39 San Diego"
   Coach: "TTU - #29 Texas Tech def. #47 San Diego"
   Seeding: "TTU - #2 Texas Tech def. #3 San Diego"
 Lineups:
   Predictions:
-    Average EWPs for TTU: 53%,61%,75%,66%
-    Average EWPs for USD: 47%,39%,25%,34%
-    TTU wins 4 or more Singles points: 44%
-    USD wins 4 or more Singles points: 22%
+    Average EWPs for TTU: 53%,61%,56%,65%
+    Average EWPs for USD: 47%,39%,44%,35%
+    TTU wins 4 or more Singles points: 43%
+    USD wins 4 or more Singles points: 23%
     Winner decided by the Doubles point: 34%
   Singles:
     - Position: 1
@@ -59,9 +59,9 @@ Lineups:
       Predictions:
         SLM: USD - Colling (89%) def. Mays (11%)
         TRN: USD - Colling (88%) def. Mays (12%)
-        MAS: USD - Colling (75%) def. Mays (25%)
+        MAS: USD - Colling (63%) def. Mays (37%)
         UTR: USD - Colling (84%) def. Mays (16%)
-        AVG: USD - Colling (83%) def. Mays (17%)
+        AVG: USD - Colling (80%) def. Mays (20%)
         ITA: USD - Colling (12.76) def. Mays (3.54)
     - Position: 2
       TTU: Margarita Skriabina - 2-0 at 2, 16-1 in duals, 18-2 overall
@@ -69,7 +69,7 @@ Lineups:
       Predictions:
         SLM: USD - Goldsmith (51%) def. Skriabina (49%)
         TRN: TTU - Skriabina (54%) def. Goldsmith (46%)
-        MAS: TTU - Skriabina (75%) def. Goldsmith (25%)
+        MAS: TTU - Skriabina (76%) def. Goldsmith (24%)
         UTR: TTU - Skriabina (86%) def. Goldsmith (14%)
         AVG: TTU - Skriabina (66%) def. Goldsmith (34%)
         ITA: TTU - Skriabina (6.63) def. Goldsmith (2.97)
@@ -79,9 +79,9 @@ Lineups:
       Predictions:
         SLM: USD - McBride (52%) def. Staines (48%)
         TRN: USD - McBride (58%) def. Staines (42%)
-        MAS: USD - McBride (75%) def. Staines (25%)
+        MAS: USD - McBride (71%) def. Staines (29%)
         UTR: USD - McBride (59%) def. Staines (41%)
-        AVG: USD - McBride (60%) def. Staines (40%)
+        AVG: USD - McBride (59%) def. Staines (41%)
         ITA: TTU - Staines (4.66) def. McBride (3.11)
     - Position: 4
       TTU: Nell Miller - 11-4 at 4, 14-6 in duals, 16-10 overall
@@ -89,9 +89,9 @@ Lineups:
       Predictions:
         SLM: TTU - Miller (61%) def. Desiatnikov (39%)
         TRN: USD - Desiatnikov (57%) def. Miller (43%)
-        MAS: TTU - Miller (75%) def. Desiatnikov (25%)
+        MAS: TTU - Miller (60%) def. Desiatnikov (40%)
         UTR: USD - Desiatnikov (71%) def. Miller (29%)
-        AVG: TTU - Miller (52%) def. Desiatnikov (48%)
+        AVG: USD - Desiatnikov (51%) def. Miller (49%)
         ITA: TTU - Miller (2.66) def. Desiatnikov (2.52)
     - Position: 5
       TTU: Olivia Peet - 9-6 at 5, 10-6 in duals, 12-6 overall
@@ -99,9 +99,9 @@ Lineups:
       Predictions:
         SLM: TTU - Peet (83%) def. Kalaitzis (17%)
         TRN: TTU - Peet (77%) def. Kalaitzis (23%)
-        MAS: TTU - Peet (75%) def. Kalaitzis (25%)
+        MAS: TTU - Peet (69%) def. Kalaitzis (31%)
         UTR: TTU - Peet (83%) def. Kalaitzis (17%)
-        AVG: TTU - Peet (79%) def. Kalaitzis (21%)
+        AVG: TTU - Peet (78%) def. Kalaitzis (22%)
         ITA: USD - Kalaitzis (2.42) def. Peet (2.03)
     - Position: 6
       TTU: Metka Komac - 9-4 at 6, 10-5 in duals, 12-6 overall
@@ -109,9 +109,9 @@ Lineups:
       Predictions:
         SLM: TTU - Komac (82%) def. Kukaras (18%)
         TRN: TTU - Komac (83%) def. Kukaras (17%)
-        MAS: TTU - Komac (75%) def. Kukaras (25%)
+        MAS: TTU - Komac (64%) def. Kukaras (36%)
         UTR: TTU - Komac (72%) def. Kukaras (28%)
-        AVG: TTU - Komac (78%) def. Kukaras (22%)
+        AVG: TTU - Komac (75%) def. Kukaras (25%)
         ITA: USD - Kukaras (2.39) def. Komac (1.98)
   Doubles:
     - Position: 1

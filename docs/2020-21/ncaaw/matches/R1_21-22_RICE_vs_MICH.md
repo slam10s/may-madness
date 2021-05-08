@@ -45,9 +45,9 @@ Baton Rouge, Louisiana
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***MICH*** - #8 Michigan (94%) def. #40 Rice (6%)  
 - TRN: ***MICH*** - #8 Michigan (96%) def. #36 Rice (4%)  
-- Massey: ***MICH*** - #15 Michigan (75%) def. #38 Rice (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***MICH*** - Michigan (92%) def. Rice (8%)  
-- Composite: ***MICH*** - Michigan (89%) def. Rice (11%)  
+- Massey: ***MICH*** - #15 Michigan (85%) def. #38 Rice (15%)  
+- Lineup: ***MICH*** - Michigan (94%) def. Rice (6%)  
+- Composite: ***MICH*** - Michigan (92%) def. Rice (8%)  
 - UTR: ***MICH*** - #17 Michigan (+1.87) def. #35 Rice (-1.87)  
 - ITA: ***MICH*** - #19 Michigan def. #40 Rice  
 - USTA Poll: ***MICH*** - #7 Michigan def. Rice  
@@ -66,9 +66,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Miller (75%) def. Haet (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MICH</i></b> - Miller (95%) def. Haet (5%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Miller (91%) def. Haet (9%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Miller (89%) def. Haet (11%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Miller (10.66) def. Haet (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,9 +77,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Lommer (74%) def. Smirnova (26%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Lommer (74%) def. Smirnova (26%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Lommer (75%) def. Smirnova (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MICH</i></b> - Lommer (83%) def. Smirnova (17%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Lommer (79%) def. Smirnova (21%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Lommer (75%) def. Smirnova (25%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Lommer (77%) def. Smirnova (23%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Smirnova (2.76) def. Lommer (2.49)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -88,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Cerdan (66%) def. Trevisan (34%)</li>  
 <li>TRN: <b><i>RICE</i></b> - Trevisan (52%) def. Cerdan (48%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Cerdan (75%) def. Trevisan (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MICH</i></b> - Cerdan (74%) def. Trevisan (26%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Cerdan (76%) def. Trevisan (24%)</li>  
 <li>Composite: <b><i>MICH</i></b> - Cerdan (66%) def. Trevisan (34%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Trevisan (6.30) def. Cerdan (1.79)</li>  
@@ -99,9 +99,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Brown (56%) def. Huang (44%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Brown (54%) def. Huang (46%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Brown (75%) def. Huang (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MICH</i></b> - Brown (77%) def. Huang (23%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Brown (66%) def. Huang (34%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Brown (62%) def. Huang (38%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Brown (63%) def. Huang (37%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Huang (5.83) def. Brown (2.65)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -110,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Jones (78%) def. Smirnova (22%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Jones (69%) def. Smirnova (31%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Jones (75%) def. Smirnova (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MICH</i></b> - Jones (72%) def. Smirnova (28%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Jones (72%) def. Smirnova (28%)</li>  
 <li>Composite: <b><i>MICH</i></b> - Jones (73%) def. Smirnova (27%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Jones (2.08) def. Smirnova (1.55)</li>  
@@ -121,9 +121,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MICH</i></b> - Lorenzini (59%) def. Bowtell (41%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Lorenzini (52%) def. Bowtell (48%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Lorenzini (75%) def. Bowtell (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MICH</i></b> - Lorenzini (83%) def. Bowtell (17%)</li>  
 <li>UTR: <b><i>RICE</i></b> - Bowtell (61%) def. Lorenzini (39%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Lorenzini (56%) def. Bowtell (44%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Lorenzini (58%) def. Bowtell (42%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Lorenzini (2.86) def. Bowtell (1.88)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -149,13 +149,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Michigan should win 4 or more singles matches _76%_ of the time.  
-- Rice should win 4 or more singles matches _6%_ of the time.  
-- The winner of the doubles point will decide the match the other _18%_ of the time.  
-- If Michigan wins the doubles point, their chances of winning the dual improve to _94%_.  
-- If Rice wins the doubles point, their chances of winning the dual improve to _24%_.  
-  
-Return to [List of Matches](../index.md)  
+- Michigan should win 4 or more singles matches _79%_ of the time.  
+- Rice should win 4 or more singles matches _5%_ of the time.  
+- The winner of the doubles point will decide the match the other _16%_ of the time.  
+- If Michigan wins the doubles point, their chances of winning the dual improve to _95%_.  
+- If Rice wins the doubles point, their chances of winning the dual improve to _21%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

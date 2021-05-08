@@ -37,9 +37,9 @@ Visitor:
 Predictions:
   SLM: "UNC - #1 North Carolina (99%) def. #62 South Carolina St. (1%)"
   TRN: "UNC - #1 North Carolina (99%) def. #61 South Carolina St. (1%)"
-  MAS: "UNC - #1 North Carolina (75%) def. #62 South Carolina St. (25%)"
+  MAS: "UNC - #1 North Carolina (100%) def. #62 South Carolina St. (0%)"
   LNUP: UNC - North Carolina (100%) def. South Carolina St. (0%)
-  AVG: UNC - North Carolina (93%) def. South Carolina St. (7%)
+  AVG: UNC - North Carolina (99%) def. South Carolina St. (1%)
   UTR: "UNC - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)"
   ITA: "UNC - #1 North Carolina def. South Carolina St."
   USTA: "UNC - #1 North Carolina def. South Carolina St."
@@ -47,8 +47,8 @@ Predictions:
   Seeding: "UNC - #1 North Carolina def. #4 South Carolina St."
 Lineups:
   Predictions:
-    Average EWPs for UNC: 99%,99%,75%,100%
-    Average EWPs for SCST: 1%,1%,25%,0%
+    Average EWPs for UNC: 99%,99%,100%,100%
+    Average EWPs for SCST: 1%,1%,0%,0%
     UNC wins 4 or more Singles points: 100%
     SCST wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -59,9 +59,9 @@ Lineups:
       Predictions:
         SLM: UNC - Daavettila (99%) def. Berjane (1%)
         TRN: UNC - Daavettila (99%) def. Berjane (1%)
-        MAS: UNC - Daavettila (75%) def. Berjane (25%)
+        MAS: UNC - Daavettila (99%) def. Berjane (1%)
         UTR: UNC - Daavettila (99%) def. Berjane (1%)
-        AVG: UNC - Daavettila (93%) def. Berjane (7%)
+        AVG: UNC - Daavettila (99%) def. Berjane (1%)
         ITA: UNC - Daavettila (64.17) def. Berjane (0.00)
     - Position: 2
       UNC: Alexa Graham - 5-0 at 2, 11-2 in duals, 16-2 overall
@@ -69,9 +69,9 @@ Lineups:
       Predictions:
         SLM: UNC - Graham (99%) def. Semlali (1%)
         TRN: UNC - Graham (99%) def. Semlali (1%)
-        MAS: UNC - Graham (75%) def. Semlali (25%)
+        MAS: UNC - Graham (99%) def. Semlali (1%)
         UTR: UNC - Graham (99%) def. Semlali (1%)
-        AVG: UNC - Graham (93%) def. Semlali (7%)
+        AVG: UNC - Graham (99%) def. Semlali (1%)
         ITA: UNC - Graham (15.03) def. Semlali (0.00)
     - Position: 3
       UNC: Cameron Morra - 6-2 at 3, 15-6 in duals, 15-6 overall
@@ -79,9 +79,9 @@ Lineups:
       Predictions:
         SLM: UNC - Morra (99%) def. Mihajilovic (1%)
         TRN: UNC - Morra (99%) def. Mihajilovic (1%)
-        MAS: UNC - Morra (75%) def. Mihajilovic (25%)
+        MAS: UNC - Morra (99%) def. Mihajilovic (1%)
         UTR: UNC - Morra (99%) def. Mihajilovic (1%)
-        AVG: UNC - Morra (93%) def. Mihajilovic (7%)
+        AVG: UNC - Morra (99%) def. Mihajilovic (1%)
         ITA: UNC - Morra (20.00) def. Mihajilovic (0.00)
     - Position: 4
       UNC: Elizabeth Scotty - 6-1 at 4, 11-2 in duals, 11-3 overall
@@ -89,9 +89,9 @@ Lineups:
       Predictions:
         SLM: UNC - Scotty (99%) def. Patnaik (1%)
         TRN: UNC - Scotty (99%) def. Patnaik (1%)
-        MAS: UNC - Scotty (75%) def. Patnaik (25%)
+        MAS: UNC - Scotty (99%) def. Patnaik (1%)
         UTR: UNC - Scotty (99%) def. Patnaik (1%)
-        AVG: UNC - Scotty (93%) def. Patnaik (7%)
+        AVG: UNC - Scotty (99%) def. Patnaik (1%)
         ITA: UNC - Scotty (5.93) def. Patnaik (2.21)
     - Position: 5
       UNC: Makenna Jones - 1-2 at 5, 13-2 in duals, 15-2 overall
@@ -99,9 +99,9 @@ Lineups:
       Predictions:
         SLM: UNC - Jones (99%) def. Rassif (1%)
         TRN: UNC - Jones (99%) def. Rassif (1%)
-        MAS: UNC - Jones (75%) def. Rassif (25%)
+        MAS: UNC - Jones (99%) def. Rassif (1%)
         UTR: UNC - Jones (99%) def. Rassif (1%)
-        AVG: UNC - Jones (93%) def. Rassif (7%)
+        AVG: UNC - Jones (99%) def. Rassif (1%)
         ITA: UNC - Jones (18.39) def. Rassif (1.48)
     - Position: 6
       UNC: Fiona Crawley - 3-0 at 6, 23-0 in duals, 25-0 overall
@@ -109,9 +109,9 @@ Lineups:
       Predictions:
         SLM: UNC - Crawley (100%) def. Aguilar (0%)
         TRN: UNC - Crawley (100%) def. Aguilar (0%)
-        MAS: UNC - Crawley (75%) def. Aguilar (25%)
+        MAS: UNC - Crawley (90%) def. Aguilar (10%)
         UTR: UNC - Crawley (99%) def. Aguilar (1%)
-        AVG: UNC - Crawley (93%) def. Aguilar (7%)
+        AVG: UNC - Crawley (97%) def. Aguilar (3%)
         ITA: UNC - Crawley (16.89) def. Aguilar (0.00)
   Doubles:
     - Position: 1

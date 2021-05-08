@@ -39,9 +39,9 @@ Visitor:
 Predictions:
   SLM: "OKLA - #13 Oklahoma (87%) def. #35 Southern California (13%)"
   TRN: "OKLA - #22 Oklahoma (88%) def. #41 Southern California (12%)"
-  MAS: "OKLA - #12 Oklahoma (75%) def. #26 Southern California (25%)"
-  LNUP: USC - Southern California (83%) def. Oklahoma (17%)
-  AVG: OKLA - Oklahoma (66%) def. Southern California (34%)
+  MAS: "OKLA - #12 Oklahoma (77%) def. #26 Southern California (23%)"
+  LNUP: USC - Southern California (84%) def. Oklahoma (16%)
+  AVG: OKLA - Oklahoma (67%) def. Southern California (33%)
   UTR: "USC - #6 Southern California (+1.96) def. #14 Oklahoma (-1.96)"
   ITA: "OKLA - #23 Oklahoma def. #35 Southern California"
   USTA: "OKLA - #22 Oklahoma def. Southern California"
@@ -49,10 +49,10 @@ Predictions:
   Seeding: "OKLA - #2 Oklahoma def. #3 Southern California"
 Lineups:
   Predictions:
-    Average EWPs for OKLA: 87%,88%,75%,17%
-    Average EWPs for USC: 13%,12%,25%,83%
-    OKLA wins 4 or more Singles points: 12%
-    USC wins 4 or more Singles points: 59%
+    Average EWPs for OKLA: 87%,88%,77%,16%
+    Average EWPs for USC: 13%,12%,23%,84%
+    OKLA wins 4 or more Singles points: 11%
+    USC wins 4 or more Singles points: 60%
     Winner decided by the Doubles point: 29%
   Singles:
     - Position: 1
@@ -61,9 +61,9 @@ Lineups:
       Predictions:
         SLM: USC - Ewing (61%) def. Corley (39%)
         TRN: USC - Ewing (85%) def. Corley (15%)
-        MAS: OKLA - Corley (75%) def. Ewing (25%)
+        MAS: OKLA - Corley (59%) def. Ewing (41%)
         UTR: USC - Ewing (80%) def. Corley (20%)
-        AVG: USC - Ewing (62%) def. Corley (38%)
+        AVG: USC - Ewing (66%) def. Corley (34%)
         ITA: USC - Ewing (14.56) def. Corley (9.20)
     - Position: 2
       OKLA: Dana Guzman - 13-1 at 2, 18-2 in duals, 18-2 overall
@@ -71,9 +71,9 @@ Lineups:
       Predictions:
         SLM: USC - Cayetano (62%) def. Guzman (38%)
         TRN: USC - Cayetano (60%) def. Guzman (40%)
-        MAS: OKLA - Guzman (75%) def. Cayetano (25%)
+        MAS: OKLA - Guzman (64%) def. Cayetano (36%)
         UTR: USC - Cayetano (66%) def. Guzman (34%)
-        AVG: USC - Cayetano (52%) def. Guzman (48%)
+        AVG: USC - Cayetano (55%) def. Guzman (45%)
         ITA: OKLA - Guzman (9.21) def. Cayetano (5.85)
     - Position: 3
       OKLA: Ivana Corley - 11-5 at 3, 13-6 in duals, 20-12 overall
@@ -81,9 +81,9 @@ Lineups:
       Predictions:
         SLM: OKLA - Corley (100%) def. Kulikov (0%)
         TRN: OKLA - Corley (100%) def. Kulikov (0%)
-        MAS: OKLA - Corley (75%) def. Kulikov (25%)
+        MAS: OKLA - Corley (90%) def. Kulikov (10%)
         UTR: OKLA - Corley (99%) def. Kulikov (1%)
-        AVG: OKLA - Corley (93%) def. Kulikov (7%)
+        AVG: OKLA - Corley (97%) def. Kulikov (3%)
         ITA: OKLA - Corley (6.90) def. Kulikov (0.00)
     - Position: 4
       OKLA: Martina Capurro - 9-3 at 4, 11-8 in duals, 11-8 overall
@@ -91,9 +91,9 @@ Lineups:
       Predictions:
         SLM: USC - Cheong (81%) def. Capurro (19%)
         TRN: USC - Cheong (80%) def. Capurro (20%)
-        MAS: USC - Cheong (75%) def. Capurro (25%)
+        MAS: USC - Cheong (62%) def. Capurro (38%)
         UTR: USC - Cheong (81%) def. Capurro (19%)
-        AVG: USC - Cheong (79%) def. Capurro (21%)
+        AVG: USC - Cheong (75%) def. Capurro (25%)
         ITA: USC - Cheong (4.19) def. Capurro (1.84)
     - Position: 5
       OKLA: Kianah Motosono - 3-3 at 5, 10-7 in duals, 16-14 overall
@@ -101,9 +101,9 @@ Lineups:
       Predictions:
         SLM: USC - Willson (73%) def. Motosono (27%)
         TRN: USC - Willson (71%) def. Motosono (29%)
-        MAS: USC - Willson (75%) def. Motosono (25%)
+        MAS: USC - Willson (62%) def. Motosono (38%)
         UTR: USC - Willson (78%) def. Motosono (22%)
-        AVG: USC - Willson (73%) def. Motosono (27%)
+        AVG: USC - Willson (70%) def. Motosono (30%)
         ITA: USC - Willson (1.74) def. Motosono (1.65)
     - Position: 6
       OKLA: Camila Romero - 1-1 at 6, 1-1 in duals, 1-1 overall
@@ -111,9 +111,9 @@ Lineups:
       Predictions:
         SLM: USC - Dvorak (100%) def. Romero (0%)
         TRN: USC - Dvorak (100%) def. Romero (0%)
-        MAS: USC - Dvorak (75%) def. Romero (25%)
+        MAS: USC - Dvorak (90%) def. Romero (10%)
         UTR: USC - Dvorak (100%) def. Romero (0%)
-        AVG: USC - Dvorak (93%) def. Romero (7%)
+        AVG: USC - Dvorak (97%) def. Romero (3%)
         ITA: USC - Dvorak (1.85) def. Romero (0.00)
   Doubles:
     - Position: 1

@@ -41,9 +41,9 @@ Visitor:
 Predictions:
   SLM: "OSU - #7 Ohio St. (60%) def. #10 Wake Forest (40%)"
   TRN: "OSU - #8 Ohio St. (68%) def. #10 Wake Forest (32%)"
-  MAS: "OSU - #9 Ohio St. (75%) def. #13 Wake Forest (25%)"
-  LNUP: OSU - Ohio St. (80%) def. Wake Forest (20%)
-  AVG: OSU - Ohio St. (70%) def. Wake Forest (30%)
+  MAS: "OSU - #9 Ohio St. (63%) def. #13 Wake Forest (37%)"
+  LNUP: OSU - Ohio St. (74%) def. Wake Forest (26%)
+  AVG: OSU - Ohio St. (65%) def. Wake Forest (35%)
   UTR: "OSU - #3 Ohio St. (+0.49) def. #7 Wake Forest (-0.49)"
   ITA: "WAKE - #9 Wake Forest def. #31 Ohio St."
   USTA: "OSU - #7 Ohio St. def. #12 Wake Forest"
@@ -51,11 +51,11 @@ Predictions:
   Seeding: "WAKE - #1 Wake Forest def. #2 Ohio St."
 Lineups:
   Predictions:
-    Average EWPs for WAKE: 41%,33%,26%,20%
-    Average EWPs for OSU: 59%,67%,74%,80%
-    WAKE wins 4 or more Singles points: 14%
-    OSU wins 4 or more Singles points: 57%
-    Winner decided by the Doubles point: 29%
+    Average EWPs for WAKE: 41%,33%,38%,26%
+    Average EWPs for OSU: 59%,67%,62%,74%
+    WAKE wins 4 or more Singles points: 18%
+    OSU wins 4 or more Singles points: 52%
+    Winner decided by the Doubles point: 30%
   Singles:
     - Position: 1
       WAKE: Henri Squire - 15-6 at 1, 15-6 in duals, 15-6 overall
@@ -63,9 +63,9 @@ Lineups:
       Predictions:
         SLM: OSU - McNally (54%) def. Squire (46%)
         TRN: OSU - McNally (52%) def. Squire (48%)
-        MAS: WAKE - Squire (75%) def. McNally (25%)
+        MAS: WAKE - Squire (53%) def. McNally (47%)
         UTR: WAKE - Squire (78%) def. McNally (22%)
-        AVG: WAKE - Squire (62%) def. McNally (38%)
+        AVG: WAKE - Squire (56%) def. McNally (44%)
         ITA: WAKE - Squire (38.10) def. McNally (3.89)
     - Position: 2
       WAKE: Eduardo Nava - 6-3 at 2, 17-4 in duals, 17-4 overall
@@ -73,9 +73,9 @@ Lineups:
       Predictions:
         SLM: OSU - Kingsley (87%) def. Nava (13%)
         TRN: OSU - Kingsley (82%) def. Nava (18%)
-        MAS: OSU - Kingsley (75%) def. Nava (25%)
+        MAS: OSU - Kingsley (57%) def. Nava (43%)
         UTR: OSU - Kingsley (83%) def. Nava (17%)
-        AVG: OSU - Kingsley (81%) def. Nava (19%)
+        AVG: OSU - Kingsley (76%) def. Nava (24%)
         ITA: WAKE - Nava (19.97) def. Kingsley (5.20)
     - Position: 3
       WAKE: Taha Baadi - 6-2 at 3, 13-8 in duals, 13-8 overall
@@ -83,9 +83,9 @@ Lineups:
       Predictions:
         SLM: OSU - Trotter (61%) def. Baadi (39%)
         TRN: OSU - Trotter (69%) def. Baadi (31%)
-        MAS: OSU - Trotter (75%) def. Baadi (25%)
+        MAS: OSU - Trotter (53%) def. Baadi (47%)
         UTR: OSU - Trotter (80%) def. Baadi (20%)
-        AVG: OSU - Trotter (70%) def. Baadi (30%)
+        AVG: OSU - Trotter (64%) def. Baadi (36%)
         ITA: WAKE - Baadi (6.71) def. Trotter (3.90)
     - Position: 4
       WAKE: Rrezart Cungu - 7-3 at 4, 20-4 in duals, 20-4 overall
@@ -93,9 +93,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Cungu (55%) def. Boulais (45%)
         TRN: WAKE - Cungu (77%) def. Boulais (23%)
-        MAS: WAKE - Cungu (75%) def. Boulais (25%)
+        MAS: WAKE - Cungu (66%) def. Boulais (34%)
         UTR: WAKE - Cungu (83%) def. Boulais (17%)
-        AVG: WAKE - Cungu (72%) def. Boulais (28%)
+        AVG: WAKE - Cungu (70%) def. Boulais (30%)
         ITA: WAKE - Cungu (3.35) def. Boulais (2.92)
     - Position: 5
       WAKE: Melios Efstathiou - 6-2 at 5, 12-6 in duals, 12-6 overall
@@ -103,9 +103,9 @@ Lineups:
       Predictions:
         SLM: OSU - Seelig (75%) def. Efstathiou (25%)
         TRN: OSU - Seelig (66%) def. Efstathiou (34%)
-        MAS: OSU - Seelig (75%) def. Efstathiou (25%)
+        MAS: OSU - Seelig (57%) def. Efstathiou (43%)
         UTR: OSU - Seelig (87%) def. Efstathiou (13%)
-        AVG: OSU - Seelig (75%) def. Efstathiou (25%)
+        AVG: OSU - Seelig (70%) def. Efstathiou (30%)
         ITA: WAKE - Efstathiou (2.09) def. Seelig (2.02)
     - Position: 6
       WAKE: Sid Banthia - 7-1 at 6, 19-3 in duals, 19-3 overall
@@ -113,9 +113,9 @@ Lineups:
       Predictions:
         SLM: OSU - Tracy (70%) def. Banthia (30%)
         TRN: OSU - Tracy (67%) def. Banthia (33%)
-        MAS: OSU - Tracy (75%) def. Banthia (25%)
+        MAS: OSU - Tracy (54%) def. Banthia (46%)
         UTR: OSU - Tracy (81%) def. Banthia (19%)
-        AVG: OSU - Tracy (72%) def. Banthia (28%)
+        AVG: OSU - Tracy (67%) def. Banthia (33%)
         ITA: OSU - Tracy (3.11) def. Banthia (2.98)
   Doubles:
     - Position: 1

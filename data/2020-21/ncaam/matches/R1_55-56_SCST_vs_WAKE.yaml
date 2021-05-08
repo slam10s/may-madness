@@ -38,9 +38,9 @@ Visitor:
 Predictions:
   SLM: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
   TRN: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
-  MAS: "WAKE - #13 Wake Forest (75%) def. #63 South Carolina St. (25%)"
+  MAS: "WAKE - #13 Wake Forest (100%) def. #63 South Carolina St. (0%)"
   LNUP: WAKE - Wake Forest (100%) def. South Carolina St. (0%)
-  AVG: WAKE - Wake Forest (93%) def. South Carolina St. (7%)
+  AVG: WAKE - Wake Forest (99%) def. South Carolina St. (1%)
   UTR: "WAKE - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)"
   ITA: "WAKE - #9 Wake Forest def. #65 South Carolina St."
   USTA: "WAKE - #12 Wake Forest def. South Carolina St."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "WAKE - #1 Wake Forest def. #4 South Carolina St."
 Lineups:
   Predictions:
-    Average EWPs for WAKE: 99%,99%,75%,100%
-    Average EWPs for SCST: 1%,1%,25%,0%
+    Average EWPs for WAKE: 99%,99%,100%,100%
+    Average EWPs for SCST: 1%,1%,0%,0%
     WAKE wins 4 or more Singles points: 100%
     SCST wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -60,9 +60,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Squire (100%) def. Daskalovic (0%)
         TRN: WAKE - Squire (100%) def. Daskalovic (0%)
-        MAS: WAKE - Squire (75%) def. Daskalovic (25%)
+        MAS: WAKE - Squire (90%) def. Daskalovic (10%)
         UTR: WAKE - Squire (99%) def. Daskalovic (1%)
-        AVG: WAKE - Squire (93%) def. Daskalovic (7%)
+        AVG: WAKE - Squire (97%) def. Daskalovic (3%)
         ITA: WAKE - Squire (38.10) def. Daskalovic (0.00)
     - Position: 2
       WAKE: Eduardo Nava - 6-3 at 2, 17-4 in duals, 17-4 overall
@@ -70,9 +70,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Nava (99%) def. Rodriguez (1%)
         TRN: WAKE - Nava (99%) def. Rodriguez (1%)
-        MAS: WAKE - Nava (75%) def. Rodriguez (25%)
+        MAS: WAKE - Nava (99%) def. Rodriguez (1%)
         UTR: WAKE - Nava (97%) def. Rodriguez (3%)
-        AVG: WAKE - Nava (92%) def. Rodriguez (8%)
+        AVG: WAKE - Nava (98%) def. Rodriguez (2%)
         ITA: WAKE - Nava (19.97) def. Rodriguez (0.00)
     - Position: 3
       WAKE: Taha Baadi - 6-2 at 3, 13-8 in duals, 13-8 overall
@@ -80,9 +80,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Baadi (100%) def. Marouani (0%)
         TRN: WAKE - Baadi (100%) def. Marouani (0%)
-        MAS: WAKE - Baadi (75%) def. Marouani (25%)
+        MAS: WAKE - Baadi (88%) def. Marouani (12%)
         UTR: WAKE - Baadi (99%) def. Marouani (1%)
-        AVG: WAKE - Baadi (93%) def. Marouani (7%)
+        AVG: WAKE - Baadi (97%) def. Marouani (3%)
         ITA: WAKE - Baadi (6.71) def. Marouani (1.53)
     - Position: 4
       WAKE: Rrezart Cungu - 7-3 at 4, 20-4 in duals, 20-4 overall
@@ -90,9 +90,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Cungu (99%) def. Gorgun (1%)
         TRN: WAKE - Cungu (99%) def. Gorgun (1%)
-        MAS: WAKE - Cungu (75%) def. Gorgun (25%)
+        MAS: WAKE - Cungu (99%) def. Gorgun (1%)
         UTR: WAKE - Cungu (98%) def. Gorgun (2%)
-        AVG: WAKE - Cungu (93%) def. Gorgun (7%)
+        AVG: WAKE - Cungu (99%) def. Gorgun (1%)
         ITA: WAKE - Cungu (3.35) def. Gorgun (0.00)
     - Position: 5
       WAKE: Melios Efstathiou - 6-2 at 5, 12-6 in duals, 12-6 overall
@@ -100,9 +100,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Efstathiou (100%) def. Arzaluz (0%)
         TRN: WAKE - Efstathiou (100%) def. Arzaluz (0%)
-        MAS: WAKE - Efstathiou (75%) def. Arzaluz (25%)
+        MAS: WAKE - Efstathiou (90%) def. Arzaluz (10%)
         UTR: WAKE - Efstathiou (99%) def. Arzaluz (1%)
-        AVG: WAKE - Efstathiou (93%) def. Arzaluz (7%)
+        AVG: WAKE - Efstathiou (97%) def. Arzaluz (3%)
         ITA: WAKE - Efstathiou (2.09) def. Arzaluz (0.00)
     - Position: 6
       WAKE: Sid Banthia - 7-1 at 6, 19-3 in duals, 19-3 overall
@@ -110,9 +110,9 @@ Lineups:
       Predictions:
         SLM: WAKE - Banthia (100%) def. Stefanovic (0%)
         TRN: WAKE - Banthia (100%) def. Stefanovic (0%)
-        MAS: WAKE - Banthia (75%) def. Stefanovic (25%)
+        MAS: WAKE - Banthia (90%) def. Stefanovic (10%)
         UTR: WAKE - Banthia (99%) def. Stefanovic (1%)
-        AVG: WAKE - Banthia (93%) def. Stefanovic (7%)
+        AVG: WAKE - Banthia (97%) def. Stefanovic (3%)
         ITA: WAKE - Banthia (2.98) def. Stefanovic (0.00)
   Doubles:
     - Position: 1

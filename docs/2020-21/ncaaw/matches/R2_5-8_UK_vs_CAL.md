@@ -43,9 +43,9 @@ Berkeley, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***CAL*** - #17 California (65%) def. #25 Kentucky (35%)  
 - TRN: ***CAL*** - #17 California (70%) def. #27 Kentucky (30%)  
-- Massey: ***CAL*** - #14 California (75%) def. #33 Kentucky (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***CAL*** - California (96%) def. Kentucky (4%)  
-- Composite: ***CAL*** - California (76%) def. Kentucky (24%)  
+- Massey: ***CAL*** - #14 California (77%) def. #33 Kentucky (23%)  
+- Lineup: ***CAL*** - California (95%) def. Kentucky (5%)  
+- Composite: ***CAL*** - California (77%) def. Kentucky (23%)  
 - UTR: ***CAL*** - #15 California (+2.00) def. #34 Kentucky (-2.00)  
 - ITA: ***CAL*** - #16 California def. #26 Kentucky  
 - USTA Poll: ***CAL*** - #13 California def. #24 Kentucky  
@@ -64,9 +64,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Giavara (73%) def. Parazinskaite (27%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Giavara (75%) def. Parazinskaite (25%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Giavara (75%) def. Parazinskaite (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>CAL</i></b> - Giavara (54%) def. Parazinskaite (46%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Giavara (58%) def. Parazinskaite (42%)</li>  
-<li>Composite: <b><i>CAL</i></b> - Giavara (70%) def. Parazinskaite (30%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Giavara (65%) def. Parazinskaite (35%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Giavara (18.44) def. Parazinskaite (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Rosenqvist (72%) def. Jacobs (28%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Rosenqvist (70%) def. Jacobs (30%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Rosenqvist (75%) def. Jacobs (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>CAL</i></b> - Rosenqvist (54%) def. Jacobs (46%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Rosenqvist (79%) def. Jacobs (21%)</li>  
-<li>Composite: <b><i>CAL</i></b> - Rosenqvist (74%) def. Jacobs (26%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Rosenqvist (69%) def. Jacobs (31%)</li>  
 <li>ITA: <b><i>UK</i></b> - Jacobs (5.00) def. Rosenqvist (2.23)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Ivanov (64%) def. Molina (36%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Ivanov (64%) def. Molina (36%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Ivanov (75%) def. Molina (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>CAL</i></b> - Ivanov (53%) def. Molina (47%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Ivanov (79%) def. Molina (21%)</li>  
-<li>Composite: <b><i>CAL</i></b> - Ivanov (70%) def. Molina (30%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Ivanov (65%) def. Molina (35%)</li>  
 <li>ITA: <b><i>UK</i></b> - Molina (2.40) def. Ivanov (1.97)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Bui (82%) def. Stevens (18%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Bui (85%) def. Stevens (15%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Bui (75%) def. Stevens (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>CAL</i></b> - Bui (75%) def. Stevens (25%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Bui (83%) def. Stevens (17%)</li>  
 <li>Composite: <b><i>CAL</i></b> - Bui (81%) def. Stevens (19%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Bui (1.95) def. Stevens (0.00)</li>  
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Moeller (70%) def. Girbau (30%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Moeller (84%) def. Girbau (16%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Moeller (75%) def. Girbau (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>CAL</i></b> - Moeller (74%) def. Girbau (26%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Moeller (81%) def. Girbau (19%)</li>  
-<li>Composite: <b><i>CAL</i></b> - Moeller (78%) def. Girbau (22%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Moeller (77%) def. Girbau (23%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Moeller (1.79) def. Girbau (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>CAL</i></b> - Bright (75%) def. Arrese (25%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Bright (89%) def. Arrese (11%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Bright (75%) def. Arrese (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>CAL</i></b> - Bright (88%) def. Arrese (12%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Bright (99%) def. Arrese (1%)</li>  
-<li>Composite: <b><i>CAL</i></b> - Bright (84%) def. Arrese (16%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Bright (88%) def. Arrese (12%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Bright (2.79) def. Arrese (1.49)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- California should win 4 or more singles matches _86%_ of the time.  
-- Kentucky should win 4 or more singles matches _3%_ of the time.  
-- The winner of the doubles point will decide the match the other _11%_ of the time.  
-- If California wins the doubles point, their chances of winning the dual improve to _97%_.  
-- If Kentucky wins the doubles point, their chances of winning the dual improve to _14%_.  
-  
-Return to [List of Matches](../index.md)  
+- California should win 4 or more singles matches _83%_ of the time.  
+- Kentucky should win 4 or more singles matches _4%_ of the time.  
+- The winner of the doubles point will decide the match the other _13%_ of the time.  
+- If California wins the doubles point, their chances of winning the dual improve to _96%_.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to _17%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

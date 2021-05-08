@@ -40,9 +40,9 @@ Visitor:
 Predictions:
   SLM: "UCLA - #4 UCLA (94%) def. #34 Texas Tech (6%)"
   TRN: "UCLA - #7 UCLA (96%) def. #34 Texas Tech (4%)"
-  MAS: "UCLA - #4 UCLA (75%) def. #28 Texas Tech (25%)"
+  MAS: "UCLA - #4 UCLA (97%) def. #28 Texas Tech (3%)"
   LNUP: UCLA - UCLA (97%) def. Texas Tech (3%)
-  AVG: UCLA - UCLA (90%) def. Texas Tech (10%)
+  AVG: UCLA - UCLA (96%) def. Texas Tech (4%)
   UTR: "UCLA - #5 UCLA (+2.96) def. #27 Texas Tech (-2.96)"
   ITA: "UCLA - #4 UCLA def. #29 Texas Tech"
   USTA: "UCLA - #4 UCLA def. Texas Tech"
@@ -50,8 +50,8 @@ Predictions:
   Seeding: "UCLA - #1 UCLA def. #2 Texas Tech"
 Lineups:
   Predictions:
-    Average EWPs for UCLA: 94%,96%,75%,97%
-    Average EWPs for TTU: 6%,4%,25%,3%
+    Average EWPs for UCLA: 94%,96%,97%,97%
+    Average EWPs for TTU: 6%,4%,3%,3%
     UCLA wins 4 or more Singles points: 88%
     TTU wins 4 or more Singles points: 2%
     Winner decided by the Doubles point: 10%
@@ -62,9 +62,9 @@ Lineups:
       Predictions:
         SLM: UCLA - Forbes (96%) def. Mays (4%)
         TRN: UCLA - Forbes (98%) def. Mays (2%)
-        MAS: UCLA - Forbes (75%) def. Mays (25%)
+        MAS: UCLA - Forbes (93%) def. Mays (7%)
         UTR: UCLA - Forbes (91%) def. Mays (9%)
-        AVG: UCLA - Forbes (90%) def. Mays (10%)
+        AVG: UCLA - Forbes (95%) def. Mays (5%)
         ITA: UCLA - Forbes (46.46) def. Mays (3.54)
     - Position: 2
       UCLA: Jada Hart - 8-1 at 2, 11-2 in duals, 11-2 overall
@@ -72,9 +72,9 @@ Lineups:
       Predictions:
         SLM: UCLA - Hart (90%) def. Skriabina (10%)
         TRN: UCLA - Hart (87%) def. Skriabina (13%)
-        MAS: UCLA - Hart (75%) def. Skriabina (25%)
+        MAS: UCLA - Hart (60%) def. Skriabina (40%)
         UTR: UCLA - Hart (70%) def. Skriabina (30%)
-        AVG: UCLA - Hart (80%) def. Skriabina (20%)
+        AVG: UCLA - Hart (77%) def. Skriabina (23%)
         ITA: UCLA - Hart (12.21) def. Skriabina (6.63)
     - Position: 3
       UCLA: Elysia Bolton - 5-2 at 3, 9-3 in duals, 9-3 overall
@@ -82,9 +82,9 @@ Lineups:
       Predictions:
         SLM: UCLA - Bolton (86%) def. Staines (14%)
         TRN: UCLA - Bolton (89%) def. Staines (11%)
-        MAS: UCLA - Bolton (75%) def. Staines (25%)
+        MAS: UCLA - Bolton (89%) def. Staines (11%)
         UTR: UCLA - Bolton (91%) def. Staines (9%)
-        AVG: UCLA - Bolton (85%) def. Staines (15%)
+        AVG: UCLA - Bolton (89%) def. Staines (11%)
         ITA: TTU - Staines (4.66) def. Bolton (4.20)
     - Position: 4
       UCLA: Vivian Wolff - 9-4 at 4, 10-6 in duals, 10-6 overall
@@ -92,9 +92,9 @@ Lineups:
       Predictions:
         SLM: UCLA - Wolff (68%) def. Miller (32%)
         TRN: UCLA - Wolff (75%) def. Miller (25%)
-        MAS: UCLA - Wolff (75%) def. Miller (25%)
+        MAS: UCLA - Wolff (72%) def. Miller (28%)
         UTR: UCLA - Wolff (72%) def. Miller (28%)
-        AVG: UCLA - Wolff (73%) def. Miller (27%)
+        AVG: UCLA - Wolff (72%) def. Miller (28%)
         ITA: TTU - Miller (2.66) def. Wolff (2.06)
     - Position: 5
       UCLA: Sasha Vagramov - 5-3 at 5, 9-5 in duals, 9-5 overall
@@ -102,9 +102,9 @@ Lineups:
       Predictions:
         SLM: UCLA - Vagramov (61%) def. Peet (39%)
         TRN: UCLA - Vagramov (72%) def. Peet (28%)
-        MAS: UCLA - Vagramov (75%) def. Peet (25%)
+        MAS: UCLA - Vagramov (51%) def. Peet (49%)
         UTR: TTU - Peet (63%) def. Vagramov (37%)
-        AVG: UCLA - Vagramov (61%) def. Peet (39%)
+        AVG: UCLA - Vagramov (55%) def. Peet (45%)
         ITA: UCLA - Vagramov (2.24) def. Peet (2.03)
     - Position: 6
       UCLA: Vanessa Ong - 3-1 at 6, 4-1 in duals, 4-1 overall
@@ -112,9 +112,9 @@ Lineups:
       Predictions:
         SLM: UCLA - Ong (63%) def. Komac (37%)
         TRN: UCLA - Ong (77%) def. Komac (23%)
-        MAS: UCLA - Ong (75%) def. Komac (25%)
+        MAS: UCLA - Ong (64%) def. Komac (36%)
         UTR: UCLA - Ong (93%) def. Komac (7%)
-        AVG: UCLA - Ong (77%) def. Komac (23%)
+        AVG: UCLA - Ong (74%) def. Komac (26%)
         ITA: TTU - Komac (1.98) def. Ong (1.95)
   Doubles:
     - Position: 1

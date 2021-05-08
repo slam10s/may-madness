@@ -41,9 +41,9 @@ Atlanta, Georgia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***GT*** - #20 Georgia Tech (96%) def. #46 North Florida (4%)  
 - TRN: ***GT*** - #16 Georgia Tech (98%) def. #46 North Florida (2%)  
-- Massey: ***GT*** - #18 Georgia Tech (75%) def. #47 North Florida (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***GT*** - #18 Georgia Tech (93%) def. #47 North Florida (7%)  
 - Lineup: ***GT*** - Georgia Tech (100%) def. North Florida (0%)  
-- Composite: ***GT*** - Georgia Tech (92%) def. North Florida (8%)  
+- Composite: ***GT*** - Georgia Tech (97%) def. North Florida (3%)  
 - UTR: ***GT*** - #24 Georgia Tech (+3.09) def. #44 North Florida (-3.09)  
 - ITA: ***GT*** - #13 Georgia Tech def. #48 North Florida  
 - USTA Poll: ***GT*** - #15 Georgia Tech def. North Florida  
@@ -61,9 +61,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Jones (91%) def. Montano (9%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jones (97%) def. Montano (3%)</li>  
-<li>Massey: <b><i>GT</i></b> - Jones (75%) def. Montano (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>GT</i></b> - Jones (84%) def. Montano (16%)</li>  
 <li>UTR: <b><i>GT</i></b> - Jones (93%) def. Montano (7%)</li>  
-<li>Composite: <b><i>GT</i></b> - Jones (89%) def. Montano (11%)</li>  
+<li>Composite: <b><i>GT</i></b> - Jones (91%) def. Montano (9%)</li>  
 <li>ITA: <b><i>GT</i></b> - Jones (50.31) def. Montano (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -72,7 +72,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Flores (80%) def. Gulihur (20%)</li>  
 <li>TRN: <b><i>GT</i></b> - Flores (84%) def. Gulihur (16%)</li>  
-<li>Massey: <b><i>GT</i></b> - Flores (75%) def. Gulihur (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>GT</i></b> - Flores (74%) def. Gulihur (26%)</li>  
 <li>UTR: <b><i>GT</i></b> - Flores (73%) def. Gulihur (27%)</li>  
 <li>Composite: <b><i>GT</i></b> - Flores (78%) def. Gulihur (22%)</li>  
 <li>ITA: <b><i>GT</i></b> - Flores (29.63) def. Gulihur (3.92)</li>  
@@ -83,9 +83,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Cohen (81%) def. Gorches (19%)</li>  
 <li>TRN: <b><i>GT</i></b> - Cohen (79%) def. Gorches (21%)</li>  
-<li>Massey: <b><i>GT</i></b> - Cohen (75%) def. Gorches (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>GT</i></b> - Cohen (46%) def. Gorches (54%)</li>  
 <li>UTR: <b><i>GT</i></b> - Cohen (66%) def. Gorches (34%)</li>  
-<li>Composite: <b><i>GT</i></b> - Cohen (75%) def. Gorches (25%)</li>  
+<li>Composite: <b><i>GT</i></b> - Cohen (68%) def. Gorches (32%)</li>  
 <li>ITA: <b><i>GT</i></b> - Cohen (3.38) def. Gorches (1.63)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -94,9 +94,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Hrastar (97%) def. Yardley (3%)</li>  
 <li>TRN: <b><i>GT</i></b> - Hrastar (96%) def. Yardley (4%)</li>  
-<li>Massey: <b><i>GT</i></b> - Hrastar (75%) def. Yardley (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>GT</i></b> - Hrastar (95%) def. Yardley (5%)</li>  
 <li>UTR: <b><i>GT</i></b> - Hrastar (95%) def. Yardley (5%)</li>  
-<li>Composite: <b><i>GT</i></b> - Hrastar (91%) def. Yardley (9%)</li>  
+<li>Composite: <b><i>GT</i></b> - Hrastar (96%) def. Yardley (4%)</li>  
 <li>ITA: <b><i>GT</i></b> - Hrastar (5.81) def. Yardley (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -105,9 +105,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Lee (90%) def. Davis (10%)</li>  
 <li>TRN: <b><i>GT</i></b> - Lee (86%) def. Davis (14%)</li>  
-<li>Massey: <b><i>GT</i></b> - Lee (75%) def. Davis (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>GT</i></b> - Lee (70%) def. Davis (30%)</li>  
 <li>UTR: <b><i>GT</i></b> - Lee (91%) def. Davis (9%)</li>  
-<li>Composite: <b><i>GT</i></b> - Lee (85%) def. Davis (15%)</li>  
+<li>Composite: <b><i>GT</i></b> - Lee (84%) def. Davis (16%)</li>  
 <li>ITA: <b><i>GT</i></b> - Lee (4.33) def. Davis (3.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -116,9 +116,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>GT</i></b> - Jain (94%) def. Mariotto (6%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jain (97%) def. Mariotto (3%)</li>  
-<li>Massey: <b><i>GT</i></b> - Jain (75%) def. Mariotto (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>GT</i></b> - Jain (90%) def. Mariotto (10%)</li>  
 <li>UTR: <b><i>GT</i></b> - Jain (95%) def. Mariotto (5%)</li>  
-<li>Composite: <b><i>GT</i></b> - Jain (90%) def. Mariotto (10%)</li>  
+<li>Composite: <b><i>GT</i></b> - Jain (94%) def. Mariotto (6%)</li>  
 <li>ITA: <b><i>GT</i></b> - Jain (1.89) def. Mariotto (1.74)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -144,13 +144,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Georgia Tech should win 4 or more singles matches _96%_ of the time.  
+- Georgia Tech should win 4 or more singles matches _97%_ of the time.  
 - North Florida should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _4%_ of the time.  
+- The winner of the doubles point will decide the match the other _3%_ of the time.  
 - If Georgia Tech wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If North Florida wins the doubles point, their chances of winning the dual improve to _4%_.  
-  
-Return to [List of Matches](../index.md)  
+- If North Florida wins the doubles point, their chances of winning the dual improve to _3%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

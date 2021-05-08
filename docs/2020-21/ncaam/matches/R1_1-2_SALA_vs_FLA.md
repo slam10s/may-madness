@@ -41,9 +41,9 @@ Gainesville, Florida
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***FLA*** - #2 Florida (99%) def. #50 South Alabama (1%)  
 - TRN: ***FLA*** - #3 Florida (99%) def. #52 South Alabama (1%)  
-- Massey: ***FLA*** - #1 Florida (75%) def. #46 South Alabama (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***FLA*** - #1 Florida (99%) def. #46 South Alabama (1%)  
 - Lineup: ***FLA*** - Florida (100%) def. South Alabama (0%)  
-- Composite: ***FLA*** - Florida (93%) def. South Alabama (7%)  
+- Composite: ***FLA*** - Florida (99%) def. South Alabama (1%)  
 - UTR: ***FLA*** - #1 Florida (+6.84) def. #49 South Alabama (-6.84)  
 - ITA: ***FLA*** - #2 Florida def. #53 South Alabama  
 - USTA Poll: ***FLA*** - #2 Florida def. South Alabama  
@@ -62,9 +62,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Vale (75%) def. Evrard (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Vale (86%) def. Evrard (14%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Vale (87%) def. Evrard (13%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Vale (54.01) def. Evrard (8.29)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -73,9 +73,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Riffice (90%) def. Marzol (10%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Riffice (75%) def. Marzol (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Riffice (82%) def. Marzol (18%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Riffice (87%) def. Marzol (13%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Riffice (89%) def. Marzol (11%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Riffice (49.68) def. Marzol (8.12)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -84,9 +84,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Andrade (96%) def. Cloes (4%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Andrade (75%) def. Cloes (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Andrade (88%) def. Cloes (12%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Andrade (94%) def. Cloes (6%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Andrade (90%) def. Cloes (10%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Andrade (32.71) def. Cloes (2.46)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -95,9 +95,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Bicknell (98%) def. Collard (2%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Bicknell (75%) def. Collard (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Bicknell (87%) def. Collard (13%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Bicknell (90%) def. Collard (10%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Bicknell (93%) def. Collard (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Bicknell (15.89) def. Collard (2.43)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -106,9 +106,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Shelton (98%) def. Delcour (2%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Shelton (75%) def. Delcour (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Shelton (88%) def. Delcour (12%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Shelton (91%) def. Delcour (9%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Shelton (94%) def. Delcour (6%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Shelton (3.20) def. Delcour (2.17)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -117,9 +117,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Goodger (75%) def. Bugaj (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Goodger (98%) def. Bugaj (2%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Goodger (93%) def. Bugaj (7%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Goodger (8.31) def. Bugaj (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -145,13 +145,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Florida should win 4 or more singles matches _99%_ of the time.  
+- Florida should win 4 or more singles matches _100%_ of the time.  
 - South Alabama should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _0%_ of the time.  
 - If Florida wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If South Alabama wins the doubles point, their chances of winning the dual improve to _1%_.  
-  
-Return to [List of Matches](../index.md)  
+- If South Alabama wins the doubles point, their chances of winning the dual improve to _0%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

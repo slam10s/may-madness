@@ -41,9 +41,9 @@ Visitor:
 Predictions:
   SLM: "SCAR - #15 South Carolina (73%) def. #19 NC State (27%)"
   TRN: "SCAR - #15 South Carolina (77%) def. #22 NC State (23%)"
-  MAS: "SCAR - #16 South Carolina (75%) def. #23 NC State (25%)"
-  LNUP: SCAR - South Carolina (86%) def. NC State (14%)
-  AVG: SCAR - South Carolina (78%) def. NC State (22%)
+  MAS: "SCAR - #16 South Carolina (69%) def. #23 NC State (31%)"
+  LNUP: SCAR - South Carolina (84%) def. NC State (16%)
+  AVG: SCAR - South Carolina (76%) def. NC State (24%)
   UTR: "SCAR - #17 South Carolina (+0.58) def. #22 NC State (-0.58)"
   ITA: "SCAR - #13 South Carolina def. #23 NC State"
   USTA: "SCAR - #15 South Carolina def. #25 NC State"
@@ -51,11 +51,11 @@ Predictions:
   Seeding: "SCAR - #1 South Carolina def. #2 NC State"
 Lineups:
   Predictions:
-    Average EWPs for SCAR: 73%,77%,75%,86%
-    Average EWPs for NCST: 27%,23%,25%,14%
-    SCAR wins 4 or more Singles points: 66%
-    NCST wins 4 or more Singles points: 10%
-    Winner decided by the Doubles point: 24%
+    Average EWPs for SCAR: 73%,77%,69%,84%
+    Average EWPs for NCST: 27%,23%,31%,16%
+    SCAR wins 4 or more Singles points: 63%
+    NCST wins 4 or more Singles points: 12%
+    Winner decided by the Doubles point: 25%
   Singles:
     - Position: 1
       SCAR: Daniel Rodrigues - 16-4 at 1, 16-4 in duals, 24-6 overall
@@ -63,9 +63,9 @@ Lineups:
       Predictions:
         SLM: SCAR - Rodrigues (50%) def. Galarneau (50%)
         TRN: SCAR - Rodrigues (66%) def. Galarneau (34%)
-        MAS: SCAR - Rodrigues (75%) def. Galarneau (25%)
+        MAS: SCAR - Rodrigues (63%) def. Galarneau (37%)
         UTR: NCST - Galarneau (83%) def. Rodrigues (17%)
-        AVG: SCAR - Rodrigues (52%) def. Galarneau (48%)
+        AVG: NCST - Galarneau (51%) def. Rodrigues (49%)
         ITA: SCAR - Rodrigues (58.79) def. Galarneau (25.90)
     - Position: 2
       SCAR: Connor Thomson - 6-5 at 2, 11-8 in duals, 18-12 overall
@@ -73,9 +73,9 @@ Lineups:
       Predictions:
         SLM: SCAR - Thomson (76%) def. Luque (24%)
         TRN: SCAR - Thomson (85%) def. Luque (15%)
-        MAS: SCAR - Thomson (75%) def. Luque (25%)
+        MAS: SCAR - Thomson (73%) def. Luque (27%)
         UTR: SCAR - Thomson (70%) def. Luque (30%)
-        AVG: SCAR - Thomson (77%) def. Luque (23%)
+        AVG: SCAR - Thomson (76%) def. Luque (24%)
         ITA: SCAR - Thomson (28.97) def. Luque (6.91)
     - Position: 3
       SCAR: Toby Samuel - 4-2 at 3, 16-4 in duals, 24-7 overall
@@ -83,9 +83,9 @@ Lineups:
       Predictions:
         SLM: SCAR - Samuel (71%) def. Babelis (29%)
         TRN: SCAR - Samuel (86%) def. Babelis (14%)
-        MAS: SCAR - Samuel (75%) def. Babelis (25%)
+        MAS: SCAR - Samuel (85%) def. Babelis (15%)
         UTR: SCAR - Samuel (83%) def. Babelis (17%)
-        AVG: SCAR - Samuel (78%) def. Babelis (22%)
+        AVG: SCAR - Samuel (81%) def. Babelis (19%)
         ITA: SCAR - Samuel (10.78) def. Babelis (2.63)
     - Position: 4
       SCAR: Raphael Lambling - 0-2 at 4, 6-12 in duals, 11-18 overall
@@ -93,9 +93,9 @@ Lineups:
       Predictions:
         SLM: SCAR - Lambling (76%) def. Barkai (24%)
         TRN: SCAR - Lambling (76%) def. Barkai (24%)
-        MAS: SCAR - Lambling (75%) def. Barkai (25%)
+        MAS: SCAR - Lambling (58%) def. Barkai (42%)
         UTR: SCAR - Lambling (78%) def. Barkai (22%)
-        AVG: SCAR - Lambling (76%) def. Barkai (24%)
+        AVG: SCAR - Lambling (72%) def. Barkai (28%)
         ITA: SCAR - Lambling (15.34) def. Barkai (2.33)
     - Position: 5
       SCAR: Jake Beasley - 7-7 at 5, 12-8 in duals, 18-10 overall
@@ -103,9 +103,9 @@ Lineups:
       Predictions:
         SLM: NCST - Catry (56%) def. Beasley (44%)
         TRN: SCAR - Beasley (53%) def. Catry (47%)
-        MAS: SCAR - Beasley (75%) def. Catry (25%)
+        MAS: SCAR - Beasley (53%) def. Catry (47%)
         UTR: SCAR - Beasley (70%) def. Catry (30%)
-        AVG: SCAR - Beasley (61%) def. Catry (39%)
+        AVG: SCAR - Beasley (55%) def. Catry (45%)
         ITA: NCST - Catry (3.10) def. Beasley (1.73)
     - Position: 6
       SCAR: Thomas Brown - 2-2 at 6, 3-2 in duals, 11-6 overall
@@ -113,9 +113,9 @@ Lineups:
       Predictions:
         SLM: SCAR - Brown (62%) def. Turzak (38%)
         TRN: SCAR - Brown (61%) def. Turzak (39%)
-        MAS: NCST - Turzak (75%) def. Brown (25%)
+        MAS: NCST - Turzak (66%) def. Brown (34%)
         UTR: NCST - Turzak (67%) def. Brown (33%)
-        AVG: NCST - Turzak (54%) def. Brown (46%)
+        AVG: NCST - Turzak (52%) def. Brown (48%)
         ITA: SCAR - Brown (2.19) def. Turzak (1.56)
   Doubles:
     - Position: 1

@@ -46,9 +46,9 @@ Orlando, Florida
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***MIA*** - #22 Miami (FL) (74%) def. #30 FIU (26%)  
 - TRN: ***MIA*** - #21 Miami (FL) (63%) def. #29 FIU (37%)  
-- Massey: ***MIA*** - #17 Miami (FL) (75%) def. #37 FIU (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***MIA*** - Miami (FL) (96%) def. FIU (4%)  
-- Composite: ***MIA*** - Miami (FL) (77%) def. FIU (23%)  
+- Massey: ***MIA*** - #17 Miami (FL) (92%) def. #37 FIU (8%)  
+- Lineup: ***MIA*** - Miami (FL) (97%) def. FIU (3%)  
+- Composite: ***MIA*** - Miami (FL) (82%) def. FIU (18%)  
 - UTR: ***MIA*** - #19 Miami (FL) (+2.89) def. #42 FIU (-2.89)  
 - ITA: ***MIA*** - #24 Miami (FL) def. #41 FIU  
 - USTA Poll: ***MIA*** - #21 Miami (FL) def. RV FIU  
@@ -67,9 +67,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Perez-Somarriba (95%) def. Umarova (5%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Perez-Somarriba (97%) def. Umarova (3%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (75%) def. Umarova (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (93%) def. Umarova (7%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Perez-Somarriba (95%) def. Umarova (5%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Perez-Somarriba (90%) def. Umarova (10%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Perez-Somarriba (95%) def. Umarova (5%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Perez-Somarriba (69.45) def. Umarova (3.07)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,9 +78,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Pfennig (83%) def. Alcaide (17%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Pfennig (87%) def. Alcaide (13%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Pfennig (75%) def. Alcaide (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MIA</i></b> - Pfennig (70%) def. Alcaide (30%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Pfennig (88%) def. Alcaide (12%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Pfennig (83%) def. Alcaide (17%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Pfennig (82%) def. Alcaide (18%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Pfennig (32.52) def. Alcaide (6.23)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -89,7 +89,8 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Achong (67%) def. Skrobonja (33%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Achong (58%) def. Skrobonja (42%)</li>  
-<li>Massey: <b><i>FIU</i></b> - Skrobonja (75%) def. Achong (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>FIU</i></b> - Skrobonja (59%) def. Achong (41%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Achong (54%) def. Skrobonja (46%)</li>  
 <li>ITA: <b><i>FIU</i></b> - Skrobonja (2.97) def. Achong (1.49)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +99,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>FIU</i></b> - Akbas (52%) def. Urrutia (48%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Urrutia (63%) def. Akbas (37%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Urrutia (75%) def. Akbas (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MIA</i></b> - Urrutia (68%) def. Akbas (32%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Urrutia (82%) def. Akbas (18%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Urrutia (67%) def. Akbas (33%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Urrutia (65%) def. Akbas (35%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Urrutia (1.96) def. Akbas (1.61)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +110,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Khodan (79%) def. Velcea (21%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Khodan (83%) def. Velcea (17%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Khodan (75%) def. Velcea (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MIA</i></b> - Khodan (78%) def. Velcea (22%)</li>  
 <li>UTR: <b><i>FIU</i></b> - Velcea (82%) def. Khodan (18%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Khodan (64%) def. Velcea (36%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Khodan (65%) def. Velcea (35%)</li>  
 <li>ITA: <b><i>FIU</i></b> - Velcea (3.05) def. Khodan (1.90)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,9 +121,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>MIA</i></b> - Tahan (96%) def. Miletic (4%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Tahan (98%) def. Miletic (2%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Tahan (75%) def. Miletic (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>MIA</i></b> - Tahan (95%) def. Miletic (5%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Tahan (95%) def. Miletic (5%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Tahan (91%) def. Miletic (9%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Tahan (96%) def. Miletic (4%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Tahan (2.26) def. Miletic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +149,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Miami (FL) should win 4 or more singles matches _84%_ of the time.  
-- FIU should win 4 or more singles matches _3%_ of the time.  
-- The winner of the doubles point will decide the match the other _13%_ of the time.  
-- If Miami (FL) wins the doubles point, their chances of winning the dual improve to _97%_.  
-- If FIU wins the doubles point, their chances of winning the dual improve to _16%_.  
-  
-Return to [List of Matches](../index.md)  
+- Miami (FL) should win 4 or more singles matches _87%_ of the time.  
+- FIU should win 4 or more singles matches _2%_ of the time.  
+- The winner of the doubles point will decide the match the other _11%_ of the time.  
+- If Miami (FL) wins the doubles point, their chances of winning the dual improve to _98%_.  
+- If FIU wins the doubles point, their chances of winning the dual improve to _13%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

@@ -43,9 +43,9 @@ Austin, Texas
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TEX*** - #2 Texas (99%) def. #31 Arizona St. (1%)  
 - TRN: ***TEX*** - #2 Texas (99%) def. #33 Arizona St. (1%)  
-- Massey: ***TEX*** - #2 Texas (75%) def. #24 Arizona St. (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***TEX*** - Texas (98%) def. Arizona St. (2%)  
-- Composite: ***TEX*** - Texas (93%) def. Arizona St. (7%)  
+- Massey: ***TEX*** - #2 Texas (96%) def. #24 Arizona St. (4%)  
+- Lineup: ***TEX*** - Texas (100%) def. Arizona St. (0%)  
+- Composite: ***TEX*** - Texas (98%) def. Arizona St. (2%)  
 - UTR: ***TEX*** - #1 Texas (+4.00) def. #23 Arizona St. (-4.00)  
 - ITA: ***TEX*** - #2 Texas def. #31 Arizona St.  
 - USTA Poll: ***TEX*** - #2 Texas def. RV Arizona St.  
@@ -64,9 +64,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Stearns (73%) def. Hattingh (27%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Stearns (77%) def. Hattingh (23%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Stearns (75%) def. Hattingh (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Stearns (82%) def. Hattingh (18%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Stearns (91%) def. Hattingh (9%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Stearns (79%) def. Hattingh (21%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Stearns (80%) def. Hattingh (20%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Stearns (16.38) def. Hattingh (6.86)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Turati (90%) def. Hampton (10%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Turati (94%) def. Hampton (6%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Turati (75%) def. Hampton (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Turati (86%) def. Hampton (14%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Turati (89%) def. Hampton (11%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Turati (87%) def. Hampton (13%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Turati (90%) def. Hampton (10%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Turati (17.31) def. Hampton (1.50)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Sun (87%) def. John-Baptiste (13%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Sun (92%) def. John-Baptiste (8%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Sun (75%) def. John-Baptiste (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Sun (84%) def. John-Baptiste (16%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Sun (96%) def. John-Baptiste (4%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Sun (87%) def. John-Baptiste (13%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Sun (90%) def. John-Baptiste (10%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Sun (9.34) def. John-Baptiste (2.78)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Chavatipon (93%) def. Morlet (7%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Chavatipon (97%) def. Morlet (3%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Chavatipon (75%) def. Morlet (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Chavatipon (86%) def. Morlet (14%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Chavatipon (88%) def. Morlet (12%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Chavatipon (88%) def. Morlet (12%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Chavatipon (91%) def. Morlet (9%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Chavatipon (7.87) def. Morlet (2.20)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Collins (88%) def. Argyrokastriti (12%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Collins (90%) def. Argyrokastriti (10%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Collins (75%) def. Argyrokastriti (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Collins (81%) def. Argyrokastriti (19%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Collins (88%) def. Argyrokastriti (12%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Collins (85%) def. Argyrokastriti (15%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Collins (87%) def. Argyrokastriti (13%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Collins (8.04) def. Argyrokastriti (2.12)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TEX</i></b> - Labrana (95%) def. Turkovic (5%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Labrana (98%) def. Turkovic (2%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Labrana (75%) def. Turkovic (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TEX</i></b> - Labrana (83%) def. Turkovic (17%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Labrana (90%) def. Turkovic (10%)</li>  
-<li>Composite: <b><i>TEX</i></b> - Labrana (89%) def. Turkovic (11%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Labrana (91%) def. Turkovic (9%)</li>  
 <li>ITA: <b><i>AZST</i></b> - Turkovic (1.94) def. Labrana (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas should win 4 or more singles matches _96%_ of the time.  
-- Arizona St. should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
-- If Texas wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Arizona St. wins the doubles point, their chances of winning the dual improve to _4%_.  
-  
-Return to [List of Matches](../index.md)  
+- Texas should win 4 or more singles matches _98%_ of the time.  
+- Arizona St. should win 4 or more singles matches _0%_ of the time.  
+- The winner of the doubles point will decide the match the other _2%_ of the time.  
+- If Texas wins the doubles point, their chances of winning the dual improve to _100%_.  
+- If Arizona St. wins the doubles point, their chances of winning the dual improve to _2%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

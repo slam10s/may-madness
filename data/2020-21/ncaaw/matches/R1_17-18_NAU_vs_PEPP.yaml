@@ -38,9 +38,9 @@ Visitor:
 Predictions:
   SLM: "PEPP - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)"
   TRN: "PEPP - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)"
-  MAS: "PEPP - #5 Pepperdine (75%) def. #51 Northern Ariz. (25%)"
+  MAS: "PEPP - #5 Pepperdine (100%) def. #51 Northern Ariz. (0%)"
   LNUP: PEPP - Pepperdine (100%) def. Northern Ariz. (0%)
-  AVG: PEPP - Pepperdine (93%) def. Northern Ariz. (7%)
+  AVG: PEPP - Pepperdine (99%) def. Northern Ariz. (1%)
   UTR: "PEPP - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)"
   ITA: "PEPP - #5 Pepperdine def. #54 Northern Ariz."
   USTA: "PEPP - #5 Pepperdine def. Northern Ariz."
@@ -48,11 +48,11 @@ Predictions:
   Seeding: "PEPP - #1 Pepperdine def. #4 Northern Ariz."
 Lineups:
   Predictions:
-    Average EWPs for PEPP: 99%,99%,75%,100%
-    Average EWPs for NAU: 1%,1%,25%,0%
-    PEPP wins 4 or more Singles points: 99%
+    Average EWPs for PEPP: 99%,99%,100%,100%
+    Average EWPs for NAU: 1%,1%,0%,0%
+    PEPP wins 4 or more Singles points: 100%
     NAU wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 1%
+    Winner decided by the Doubles point: 0%
   Singles:
     - Position: 1
       PEPP: Ashley Lahey - 7-3 at 1, 10-4 in duals, 10-4 overall
@@ -60,9 +60,9 @@ Lineups:
       Predictions:
         SLM: PEPP - Lahey (87%) def. Dittmann (13%)
         TRN: PEPP - Lahey (92%) def. Dittmann (8%)
-        MAS: PEPP - Lahey (75%) def. Dittmann (25%)
+        MAS: PEPP - Lahey (83%) def. Dittmann (17%)
         UTR: PEPP - Lahey (92%) def. Dittmann (8%)
-        AVG: PEPP - Lahey (87%) def. Dittmann (13%)
+        AVG: PEPP - Lahey (89%) def. Dittmann (11%)
         ITA: PEPP - Lahey (7.80) def. Dittmann (4.32)
     - Position: 2
       PEPP: Jessica Failla - 6-1 at 2, 14-3 in duals, 14-3 overall
@@ -70,9 +70,9 @@ Lineups:
       Predictions:
         SLM: PEPP - Failla (99%) def. Bland (1%)
         TRN: PEPP - Failla (99%) def. Bland (1%)
-        MAS: PEPP - Failla (75%) def. Bland (25%)
+        MAS: PEPP - Failla (94%) def. Bland (6%)
         UTR: PEPP - Failla (97%) def. Bland (3%)
-        AVG: PEPP - Failla (93%) def. Bland (7%)
+        AVG: PEPP - Failla (97%) def. Bland (3%)
         ITA: PEPP - Failla (23.38) def. Bland (2.75)
     - Position: 3
       PEPP: Taisiya Pachkaleva - 8-1 at 3, 22-1 in duals, 22-1 overall
@@ -80,9 +80,9 @@ Lineups:
       Predictions:
         SLM: PEPP - Pachkaleva (98%) def. Millard (2%)
         TRN: PEPP - Pachkaleva (99%) def. Millard (1%)
-        MAS: PEPP - Pachkaleva (75%) def. Millard (25%)
+        MAS: PEPP - Pachkaleva (97%) def. Millard (3%)
         UTR: PEPP - Pachkaleva (98%) def. Millard (2%)
-        AVG: PEPP - Pachkaleva (93%) def. Millard (7%)
+        AVG: PEPP - Pachkaleva (98%) def. Millard (2%)
         ITA: PEPP - Pachkaleva (6.37) def. Millard (2.21)
     - Position: 4
       PEPP: Shiori Fukuda - 6-0 at 4, 14-4 in duals, 14-4 overall
@@ -90,9 +90,9 @@ Lineups:
       Predictions:
         SLM: PEPP - Fukuda (99%) def. Neyestani (1%)
         TRN: PEPP - Fukuda (99%) def. Neyestani (1%)
-        MAS: PEPP - Fukuda (75%) def. Neyestani (25%)
+        MAS: PEPP - Fukuda (95%) def. Neyestani (5%)
         UTR: PEPP - Fukuda (98%) def. Neyestani (2%)
-        AVG: PEPP - Fukuda (93%) def. Neyestani (7%)
+        AVG: PEPP - Fukuda (98%) def. Neyestani (2%)
         ITA: PEPP - Fukuda (4.88) def. Neyestani (1.91)
     - Position: 5
       PEPP: LIsa Zaar - 10-1 at 5, 19-1 in duals, 19-1 overall
@@ -100,9 +100,9 @@ Lineups:
       Predictions:
         SLM: PEPP - Zaar (99%) def. Beazley (1%)
         TRN: PEPP - Zaar (99%) def. Beazley (1%)
-        MAS: PEPP - Zaar (75%) def. Beazley (25%)
+        MAS: PEPP - Zaar (97%) def. Beazley (3%)
         UTR: PEPP - Zaar (98%) def. Beazley (2%)
-        AVG: PEPP - Zaar (93%) def. Beazley (7%)
+        AVG: PEPP - Zaar (98%) def. Beazley (2%)
         ITA: PEPP - Zaar (4.47) def. Beazley (2.10)
     - Position: 6
       PEPP: Nikki Redelijk - 7-4 at 6, 12-7 in duals, 12-7 overall
@@ -110,9 +110,9 @@ Lineups:
       Predictions:
         SLM: PEPP - Redelijk (99%) def. Moore (1%)
         TRN: PEPP - Redelijk (99%) def. Moore (1%)
-        MAS: PEPP - Redelijk (75%) def. Moore (25%)
+        MAS: PEPP - Redelijk (98%) def. Moore (2%)
         UTR: PEPP - Redelijk (99%) def. Moore (1%)
-        AVG: PEPP - Redelijk (93%) def. Moore (7%)
+        AVG: PEPP - Redelijk (99%) def. Moore (1%)
         ITA: PEPP - Redelijk (1.87) def. Moore (1.46)
   Doubles:
     - Position: 1

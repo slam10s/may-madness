@@ -44,9 +44,9 @@ Lexington, Kentucky
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
 - TRN: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
-- Massey: ***UK*** - #17 Kentucky (75%) def. #55 Cleveland St. (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***UK*** - #17 Kentucky (99%) def. #55 Cleveland St. (1%)  
 - Lineup: ***UK*** - Kentucky (100%) def. Cleveland St. (0%)  
-- Composite: ***UK*** - Kentucky (93%) def. Cleveland St. (7%)  
+- Composite: ***UK*** - Kentucky (99%) def. Cleveland St. (1%)  
 - UTR: ***UK*** - #16 Kentucky (+7.36) def. #54 Cleveland St. (-7.36)  
 - ITA: ***UK*** - #15 Kentucky def. #57 Cleveland St.  
 - USTA Poll: ***UK*** - #17 Kentucky def. Cleveland St.  
@@ -65,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Draxl (98%) def. Mostardi (2%)</li>  
 <li>TRN: <b><i>UK</i></b> - Draxl (99%) def. Mostardi (1%)</li>  
-<li>Massey: <b><i>UK</i></b> - Draxl (75%) def. Mostardi (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UK</i></b> - Draxl (94%) def. Mostardi (6%)</li>  
 <li>UTR: <b><i>UK</i></b> - Draxl (96%) def. Mostardi (4%)</li>  
-<li>Composite: <b><i>UK</i></b> - Draxl (92%) def. Mostardi (8%)</li>  
+<li>Composite: <b><i>UK</i></b> - Draxl (97%) def. Mostardi (3%)</li>  
 <li>ITA: <b><i>UK</i></b> - Draxl (64.58) def. Mostardi (2.33)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,9 +76,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Diallo (94%) def. Terry (6%)</li>  
 <li>TRN: <b><i>UK</i></b> - Diallo (96%) def. Terry (4%)</li>  
-<li>Massey: <b><i>UK</i></b> - Diallo (75%) def. Terry (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UK</i></b> - Diallo (88%) def. Terry (12%)</li>  
 <li>UTR: <b><i>UK</i></b> - Diallo (95%) def. Terry (5%)</li>  
-<li>Composite: <b><i>UK</i></b> - Diallo (90%) def. Terry (10%)</li>  
+<li>Composite: <b><i>UK</i></b> - Diallo (93%) def. Terry (7%)</li>  
 <li>ITA: <b><i>UK</i></b> - Diallo (37.70) def. Terry (2.92)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,9 +87,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Hurrion (96%) def. Phillips (4%)</li>  
 <li>TRN: <b><i>UK</i></b> - Hurrion (96%) def. Phillips (4%)</li>  
-<li>Massey: <b><i>UK</i></b> - Hurrion (75%) def. Phillips (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UK</i></b> - Hurrion (89%) def. Phillips (11%)</li>  
 <li>UTR: <b><i>UK</i></b> - Hurrion (94%) def. Phillips (6%)</li>  
-<li>Composite: <b><i>UK</i></b> - Hurrion (90%) def. Phillips (10%)</li>  
+<li>Composite: <b><i>UK</i></b> - Hurrion (93%) def. Phillips (7%)</li>  
 <li>ITA: <b><i>UK</i></b> - Hurrion (22.80) def. Phillips (2.83)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Bourgois (95%) def. Mareschal-Hay (5%)</li>  
 <li>TRN: <b><i>UK</i></b> - Bourgois (96%) def. Mareschal-Hay (4%)</li>  
-<li>Massey: <b><i>UK</i></b> - Bourgois (75%) def. Mareschal-Hay (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UK</i></b> - Bourgois (92%) def. Mareschal-Hay (8%)</li>  
 <li>UTR: <b><i>UK</i></b> - Bourgois (93%) def. Mareschal-Hay (7%)</li>  
-<li>Composite: <b><i>UK</i></b> - Bourgois (90%) def. Mareschal-Hay (10%)</li>  
+<li>Composite: <b><i>UK</i></b> - Bourgois (94%) def. Mareschal-Hay (6%)</li>  
 <li>ITA: <b><i>UK</i></b> - Bourgois (7.98) def. Mareschal-Hay (2.45)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +109,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - Lapadat (99%) def. Bilinovich (1%)</li>  
 <li>TRN: <b><i>UK</i></b> - Lapadat (99%) def. Bilinovich (1%)</li>  
-<li>Massey: <b><i>UK</i></b> - Lapadat (75%) def. Bilinovich (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UK</i></b> - Lapadat (92%) def. Bilinovich (8%)</li>  
 <li>UTR: <b><i>UK</i></b> - Lapadat (97%) def. Bilinovich (3%)</li>  
-<li>Composite: <b><i>UK</i></b> - Lapadat (92%) def. Bilinovich (8%)</li>  
+<li>Composite: <b><i>UK</i></b> - Lapadat (97%) def. Bilinovich (3%)</li>  
 <li>ITA: <b><i>UK</i></b> - Lapadat (6.21) def. Bilinovich (1.91)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UK</i></b> - LeBlanc (97%) def. Teichmann (3%)</li>  
 <li>TRN: <b><i>UK</i></b> - LeBlanc (97%) def. Teichmann (3%)</li>  
-<li>Massey: <b><i>UK</i></b> - LeBlanc (75%) def. Teichmann (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UK</i></b> - LeBlanc (91%) def. Teichmann (9%)</li>  
 <li>UTR: <b><i>UK</i></b> - LeBlanc (96%) def. Teichmann (4%)</li>  
-<li>Composite: <b><i>UK</i></b> - LeBlanc (91%) def. Teichmann (9%)</li>  
+<li>Composite: <b><i>UK</i></b> - LeBlanc (95%) def. Teichmann (5%)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Kentucky should win 4 or more singles matches _99%_ of the time.  
+- Kentucky should win 4 or more singles matches _100%_ of the time.  
 - Cleveland St. should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
+- The winner of the doubles point will decide the match the other _0%_ of the time.  
 - If Kentucky wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Cleveland St. wins the doubles point, their chances of winning the dual improve to _1%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Cleveland St. wins the doubles point, their chances of winning the dual improve to _0%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

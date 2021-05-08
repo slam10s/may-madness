@@ -37,9 +37,9 @@ Visitor:
 Predictions:
   SLM: "OKST - #24 Oklahoma St. (98%) def. #54 Navy (2%)"
   TRN: "OKST - #23 Oklahoma St. (92%) def. #48 Navy (8%)"
-  MAS: "OKST - #29 Oklahoma St. (75%) def. #56 Navy (25%)"
+  MAS: "OKST - #29 Oklahoma St. (99%) def. #56 Navy (1%)"
   LNUP: OKST - Oklahoma St. (100%) def. Navy (0%)
-  AVG: OKST - Oklahoma St. (91%) def. Navy (9%)
+  AVG: OKST - Oklahoma St. (97%) def. Navy (3%)
   UTR: "OKST - #19 Oklahoma St. (+7.52) def. #58 Navy (-7.52)"
   ITA: "OKST - #19 Oklahoma St. def. #48 Navy"
   USTA: OKST - RV Oklahoma St. def. Navy
@@ -47,11 +47,11 @@ Predictions:
   Seeding: "OKST - #2 Oklahoma St. def. #3 Navy"
 Lineups:
   Predictions:
-    Average EWPs for OKST: 98%,92%,75%,100%
-    Average EWPs for NAVY: 2%,8%,25%,0%
-    OKST wins 4 or more Singles points: 97%
+    Average EWPs for OKST: 98%,92%,99%,100%
+    Average EWPs for NAVY: 2%,8%,1%,0%
+    OKST wins 4 or more Singles points: 98%
     NAVY wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 3%
+    Winner decided by the Doubles point: 2%
   Singles:
     - Position: 1
       OKST: Matej Vocel - 11-5 at 1, 11-5 in duals, 11-5 overall
@@ -59,9 +59,9 @@ Lineups:
       Predictions:
         SLM: OKST - Vocel (92%) def. Ton (8%)
         TRN: OKST - Vocel (93%) def. Ton (7%)
-        MAS: OKST - Vocel (75%) def. Ton (25%)
+        MAS: OKST - Vocel (86%) def. Ton (14%)
         UTR: OKST - Vocel (95%) def. Ton (5%)
-        AVG: OKST - Vocel (89%) def. Ton (11%)
+        AVG: OKST - Vocel (91%) def. Ton (9%)
         ITA: OKST - Vocel (20.98) def. Ton (4.17)
     - Position: 2
       OKST: Henrik Korsgaard - 3-2 at 2, 9-9 in duals, 9-9 overall
@@ -69,9 +69,9 @@ Lineups:
       Predictions:
         SLM: OKST - Korsgaard (80%) def. Thompson (20%)
         TRN: OKST - Korsgaard (84%) def. Thompson (16%)
-        MAS: OKST - Korsgaard (75%) def. Thompson (25%)
+        MAS: OKST - Korsgaard (72%) def. Thompson (28%)
         UTR: OKST - Korsgaard (85%) def. Thompson (15%)
-        AVG: OKST - Korsgaard (81%) def. Thompson (19%)
+        AVG: OKST - Korsgaard (80%) def. Thompson (20%)
         ITA: NAVY - Thompson (4.17) def. Korsgaard (2.00)
     - Position: 3
       OKST: Emile Hudd - 5-2 at 3, 7-7 in duals, 9-9 overall
@@ -79,9 +79,9 @@ Lineups:
       Predictions:
         SLM: OKST - Hudd (99%) def. Fishkin (1%)
         TRN: OKST - Hudd (99%) def. Fishkin (1%)
-        MAS: OKST - Hudd (75%) def. Fishkin (25%)
+        MAS: OKST - Hudd (98%) def. Fishkin (2%)
         UTR: OKST - Hudd (98%) def. Fishkin (2%)
-        AVG: OKST - Hudd (93%) def. Fishkin (7%)
+        AVG: OKST - Hudd (99%) def. Fishkin (1%)
         ITA: OKST - Hudd (4.25) def. Fishkin (0.00)
     - Position: 4
       OKST: Mathieu Scaglia - 4-5 at 4, 9-7 in duals, 9-8 overall
@@ -89,9 +89,9 @@ Lineups:
       Predictions:
         SLM: OKST - Scaglia (96%) def. Garner (4%)
         TRN: OKST - Scaglia (96%) def. Garner (4%)
-        MAS: OKST - Scaglia (75%) def. Garner (25%)
+        MAS: OKST - Scaglia (88%) def. Garner (12%)
         UTR: OKST - Scaglia (96%) def. Garner (4%)
-        AVG: OKST - Scaglia (91%) def. Garner (9%)
+        AVG: OKST - Scaglia (94%) def. Garner (6%)
         ITA: OKST - Scaglia (2.10) def. Garner (1.69)
     - Position: 5
       OKST: Etienne Donnet - 3-4 at 5, 8-9 in duals, 9-14 overall
@@ -99,9 +99,9 @@ Lineups:
       Predictions:
         SLM: OKST - Donnet (87%) def. Segraves (13%)
         TRN: OKST - Donnet (88%) def. Segraves (12%)
-        MAS: OKST - Donnet (75%) def. Segraves (25%)
+        MAS: OKST - Donnet (61%) def. Segraves (39%)
         UTR: OKST - Donnet (89%) def. Segraves (11%)
-        AVG: OKST - Donnet (85%) def. Segraves (15%)
+        AVG: OKST - Donnet (81%) def. Segraves (19%)
         ITA: NAVY - Segraves (4.17) def. Donnet (0.00)
     - Position: 6
       OKST: Matisse Bobichon - 4-4 at 6, 4-4 in duals, 4-4 overall
@@ -109,9 +109,9 @@ Lineups:
       Predictions:
         SLM: OKST - Bobichon (81%) def. McBride (19%)
         TRN: OKST - Bobichon (67%) def. McBride (33%)
-        MAS: OKST - Bobichon (75%) def. McBride (25%)
+        MAS: OKST - Bobichon (62%) def. McBride (38%)
         UTR: OKST - Bobichon (93%) def. McBride (7%)
-        AVG: OKST - Bobichon (79%) def. McBride (21%)
+        AVG: OKST - Bobichon (76%) def. McBride (24%)
         ITA: NAVY - McBride (2.91) def. Bobichon (1.32)
   Doubles:
     - Position: 1

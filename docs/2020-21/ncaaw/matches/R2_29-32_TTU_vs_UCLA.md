@@ -42,9 +42,9 @@ Los Angeles, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***UCLA*** - #4 UCLA (94%) def. #34 Texas Tech (6%)  
 - TRN: ***UCLA*** - #7 UCLA (96%) def. #34 Texas Tech (4%)  
-- Massey: ***UCLA*** - #4 UCLA (75%) def. #28 Texas Tech (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***UCLA*** - #4 UCLA (97%) def. #28 Texas Tech (3%)  
 - Lineup: ***UCLA*** - UCLA (97%) def. Texas Tech (3%)  
-- Composite: ***UCLA*** - UCLA (90%) def. Texas Tech (10%)  
+- Composite: ***UCLA*** - UCLA (96%) def. Texas Tech (4%)  
 - UTR: ***UCLA*** - #5 UCLA (+2.96) def. #27 Texas Tech (-2.96)  
 - ITA: ***UCLA*** - #4 UCLA def. #29 Texas Tech  
 - USTA Poll: ***UCLA*** - #4 UCLA def. Texas Tech  
@@ -63,9 +63,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Forbes (96%) def. Mays (4%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Forbes (98%) def. Mays (2%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Forbes (75%) def. Mays (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCLA</i></b> - Forbes (93%) def. Mays (7%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Forbes (91%) def. Mays (9%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Forbes (90%) def. Mays (10%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Forbes (95%) def. Mays (5%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Forbes (46.46) def. Mays (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -74,9 +74,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Hart (90%) def. Skriabina (10%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Hart (87%) def. Skriabina (13%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Hart (75%) def. Skriabina (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCLA</i></b> - Hart (60%) def. Skriabina (40%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Hart (70%) def. Skriabina (30%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Hart (80%) def. Skriabina (20%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Hart (77%) def. Skriabina (23%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Hart (12.21) def. Skriabina (6.63)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -85,9 +85,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Bolton (86%) def. Staines (14%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Bolton (75%) def. Staines (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bolton (91%) def. Staines (9%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Bolton (85%) def. Staines (15%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. Bolton (4.20)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -96,9 +96,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Wolff (68%) def. Miller (32%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Wolff (75%) def. Miller (25%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Wolff (75%) def. Miller (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Wolff (73%) def. Miller (27%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Miller (2.66) def. Wolff (2.06)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,9 +107,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Vagramov (61%) def. Peet (39%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (72%) def. Peet (28%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Vagramov (75%) def. Peet (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCLA</i></b> - Vagramov (51%) def. Peet (49%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Peet (63%) def. Vagramov (37%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Vagramov (61%) def. Peet (39%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Vagramov (55%) def. Peet (45%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Peet (2.03)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -118,9 +118,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>UCLA</i></b> - Ong (63%) def. Komac (37%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Ong (77%) def. Komac (23%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Ong (75%) def. Komac (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>UCLA</i></b> - Ong (64%) def. Komac (36%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Ong (93%) def. Komac (7%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Ong (77%) def. Komac (23%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Ong (74%) def. Komac (26%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Komac (1.98) def. Ong (1.95)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -152,7 +152,6 @@ Based on the composite metrics for each individual match:
 - If UCLA wins the doubles point, their chances of winning the dual improve to _98%_.  
 - If Texas Tech wins the doubles point, their chances of winning the dual improve to _12%_.  
   
-Return to [List of Matches](../index.md)  
-  
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

@@ -43,9 +43,9 @@ Evanston, Illinois
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***A&M*** - #15 Texas A&M (55%) def. #18 Northwestern (45%)  
 - TRN: ***NW*** - #13 Northwestern (56%) def. #14 Texas A&M (44%)  
-- Massey: ***NW*** - #20 Northwestern (75%) def. #21 Texas A&M (25%)<sup>[1](#footnote1)</sup>  
-- Lineup: ***A&M*** - Texas A&M (68%) def. Northwestern (32%)  
-- Composite: ***NW*** - Northwestern (51%) def. Texas A&M (49%)  
+- Massey: ***NW*** - #20 Northwestern (52%) def. #21 Texas A&M (48%)  
+- Lineup: ***A&M*** - Texas A&M (70%) def. Northwestern (30%)  
+- Composite: ***A&M*** - Texas A&M (54%) def. Northwestern (46%)  
 - UTR: ***A&M*** - #21 Texas A&M (+1.27) def. #33 Northwestern (-1.27)  
 - ITA: ***A&M*** - #10 Texas A&M def. #21 Northwestern  
 - USTA Poll: ***NW*** - #16 Northwestern def. #17 Texas A&M  
@@ -64,9 +64,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - Makarova (53%) def. Shusharina (47%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Makarova (75%) def. Shusharina (25%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Makarova (75%) def. Shusharina (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - Makarova (56%) def. Shusharina (44%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Makarova (74%) def. Shusharina (26%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Makarova (69%) def. Shusharina (31%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Makarova (64%) def. Shusharina (36%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Makarova (21.86) def. Shusharina (3.92)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Hand (52%) def. Goldsmith (48%)</li>  
 <li>TRN: <b><i>NW</i></b> - Hand (56%) def. Goldsmith (44%)</li>  
-<li>Massey: <b><i>NW</i></b> - Hand (75%) def. Goldsmith (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>NW</i></b> - Hand (64%) def. Goldsmith (36%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Goldsmith (64%) def. Hand (36%)</li>  
-<li>Composite: <b><i>NW</i></b> - Hand (54%) def. Goldsmith (46%)</li>  
+<li>Composite: <b><i>NW</i></b> - Hand (51%) def. Goldsmith (49%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (4.82) def. Goldsmith (3.03)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Byrne (64%) def. Townsend (36%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Townsend (53%) def. Byrne (47%)</li>  
-<li>Massey: <b><i>NW</i></b> - Byrne (75%) def. Townsend (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>NW</i></b> - Byrne (62%) def. Townsend (38%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Townsend (79%) def. Byrne (21%)</li>  
-<li>Composite: <b><i>NW</i></b> - Byrne (51%) def. Townsend (49%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Townsend (51%) def. Byrne (49%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Townsend (3.71) def. Byrne (1.56)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>NW</i></b> - Crowley (52%) def. Faa-Hviding (48%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (55%) def. Crowley (45%)</li>  
-<li>Massey: <b><i>NW</i></b> - Crowley (75%) def. Faa-Hviding (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>NW</i></b> - Crowley (59%) def. Faa-Hviding (41%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Faa-Hviding (59%) def. Crowley (41%)</li>  
-<li>Composite: <b><i>NW</i></b> - Crowley (52%) def. Faa-Hviding (48%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Faa-Hviding (51%) def. Crowley (49%)</li>  
 <li>ITA: <b><i>NW</i></b> - Crowley (1.93) def. Faa-Hviding (1.87)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - McBryde (68%) def. Pozo (32%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McBryde (77%) def. Pozo (23%)</li>  
-<li>Massey: <b><i>A&M</i></b> - McBryde (75%) def. Pozo (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>A&M</i></b> - McBryde (58%) def. Pozo (42%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McBryde (80%) def. Pozo (20%)</li>  
-<li>Composite: <b><i>A&M</i></b> - McBryde (75%) def. Pozo (25%)</li>  
+<li>Composite: <b><i>A&M</i></b> - McBryde (71%) def. Pozo (29%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McBryde (2.44) def. Pozo (1.76)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>A&M</i></b> - McQuaid (63%) def. Hand (37%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McQuaid (66%) def. Hand (34%)</li>  
-<li>Massey: <b><i>NW</i></b> - Hand (75%) def. McQuaid (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>NW</i></b> - Hand (67%) def. McQuaid (33%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McQuaid (69%) def. Hand (31%)</li>  
-<li>Composite: <b><i>A&M</i></b> - McQuaid (56%) def. Hand (44%)</li>  
+<li>Composite: <b><i>A&M</i></b> - McQuaid (58%) def. Hand (42%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (2.48) def. McQuaid (2.12)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,13 +147,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas A&M should win 4 or more singles matches _48%_ of the time.  
-- Northwestern should win 4 or more singles matches _22%_ of the time.  
+- Texas A&M should win 4 or more singles matches _49%_ of the time.  
+- Northwestern should win 4 or more singles matches _21%_ of the time.  
 - The winner of the doubles point will decide the match the other _30%_ of the time.  
-- If Texas A&M wins the doubles point, their chances of winning the dual improve to _78%_.  
-- If Northwestern wins the doubles point, their chances of winning the dual improve to _52%_.  
-  
-Return to [List of Matches](../index.md)  
+- If Texas A&M wins the doubles point, their chances of winning the dual improve to _79%_.  
+- If Northwestern wins the doubles point, their chances of winning the dual improve to _51%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

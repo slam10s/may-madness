@@ -43,9 +43,9 @@ Los Angeles, California
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***USC*** - #14 Southern California (89%) def. #34 Pepperdine (11%)  
 - TRN: ***USC*** - #16 Southern California (87%) def. #30 Pepperdine (13%)  
-- Massey: ***USC*** - #8 Southern California (75%) def. #22 Pepperdine (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***USC*** - #8 Southern California (90%) def. #22 Pepperdine (10%)  
 - Lineup: ***USC*** - Southern California (98%) def. Pepperdine (2%)  
-- Composite: ***USC*** - Southern California (87%) def. Pepperdine (13%)  
+- Composite: ***USC*** - Southern California (91%) def. Pepperdine (9%)  
 - UTR: ***USC*** - #2 Southern California (+2.70) def. #26 Pepperdine (-2.70)  
 - ITA: ***USC*** - #12 Southern California def. #28 Pepperdine  
 - USTA Poll: ***USC*** - #13 Southern California def. #24 Pepperdine  
@@ -64,9 +64,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Cukierman (91%) def. Oetzbach (9%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cukierman (94%) def. Oetzbach (6%)</li>  
-<li>Massey: <b><i>USC</i></b> - Cukierman (75%) def. Oetzbach (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USC</i></b> - Cukierman (92%) def. Oetzbach (8%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cukierman (93%) def. Oetzbach (7%)</li>  
-<li>Composite: <b><i>USC</i></b> - Cukierman (88%) def. Oetzbach (12%)</li>  
+<li>Composite: <b><i>USC</i></b> - Cukierman (93%) def. Oetzbach (7%)</li>  
 <li>ITA: <b><i>USC</i></b> - Cukierman (16.39) def. Oetzbach (5.20)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,9 +75,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Smith (75%) def. Ouden (25%)</li>  
 <li>TRN: <b><i>USC</i></b> - Smith (75%) def. Ouden (25%)</li>  
-<li>Massey: <b><i>USC</i></b> - Smith (75%) def. Ouden (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USC</i></b> - Smith (65%) def. Ouden (35%)</li>  
 <li>UTR: <b><i>USC</i></b> - Smith (70%) def. Ouden (30%)</li>  
-<li>Composite: <b><i>USC</i></b> - Smith (74%) def. Ouden (26%)</li>  
+<li>Composite: <b><i>USC</i></b> - Smith (71%) def. Ouden (29%)</li>  
 <li>ITA: <b><i>USC</i></b> - Smith (15.48) def. Ouden (2.60)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Dostanic (74%) def. DeJonge (26%)</li>  
 <li>TRN: <b><i>USC</i></b> - Dostanic (81%) def. DeJonge (19%)</li>  
-<li>Massey: <b><i>USC</i></b> - Dostanic (75%) def. DeJonge (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USC</i></b> - Dostanic (68%) def. DeJonge (32%)</li>  
 <li>UTR: <b><i>USC</i></b> - Dostanic (80%) def. DeJonge (20%)</li>  
-<li>Composite: <b><i>USC</i></b> - Dostanic (77%) def. DeJonge (23%)</li>  
+<li>Composite: <b><i>USC</i></b> - Dostanic (76%) def. DeJonge (24%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dostanic (5.43) def. DeJonge (3.53)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,9 +97,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Frye (78%) def. Zeitvogel (22%)</li>  
 <li>TRN: <b><i>USC</i></b> - Frye (83%) def. Zeitvogel (17%)</li>  
-<li>Massey: <b><i>USC</i></b> - Frye (75%) def. Zeitvogel (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USC</i></b> - Frye (70%) def. Zeitvogel (30%)</li>  
 <li>UTR: <b><i>USC</i></b> - Frye (82%) def. Zeitvogel (18%)</li>  
-<li>Composite: <b><i>USC</i></b> - Frye (80%) def. Zeitvogel (20%)</li>  
+<li>Composite: <b><i>USC</i></b> - Frye (79%) def. Zeitvogel (21%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zeitvogel (4.17) def. Frye (2.44)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Weststrate (83%) def. Summaria (17%)</li>  
 <li>TRN: <b><i>USC</i></b> - Weststrate (91%) def. Summaria (9%)</li>  
-<li>Massey: <b><i>USC</i></b> - Weststrate (75%) def. Summaria (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USC</i></b> - Weststrate (83%) def. Summaria (17%)</li>  
 <li>UTR: <b><i>USC</i></b> - Weststrate (91%) def. Summaria (9%)</li>  
-<li>Composite: <b><i>USC</i></b> - Weststrate (85%) def. Summaria (15%)</li>  
+<li>Composite: <b><i>USC</i></b> - Weststrate (87%) def. Summaria (13%)</li>  
 <li>ITA: <b><i>USC</i></b> - Weststrate (2.93) def. Summaria (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,9 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>USC</i></b> - Sands (79%) def. Fellin (21%)</li>  
 <li>TRN: <b><i>USC</i></b> - Sands (87%) def. Fellin (13%)</li>  
-<li>Massey: <b><i>USC</i></b> - Sands (75%) def. Fellin (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>USC</i></b> - Sands (78%) def. Fellin (22%)</li>  
 <li>UTR: <b><i>USC</i></b> - Sands (77%) def. Fellin (23%)</li>  
-<li>Composite: <b><i>USC</i></b> - Sands (79%) def. Fellin (21%)</li>  
+<li>Composite: <b><i>USC</i></b> - Sands (80%) def. Fellin (20%)</li>  
 <li>ITA: <b><i>USC</i></b> - Sands (2.42) def. Fellin (2.12)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -153,7 +153,6 @@ Based on the composite metrics for each individual match:
 - If Southern California wins the doubles point, their chances of winning the dual improve to _99%_.  
 - If Pepperdine wins the doubles point, their chances of winning the dual improve to _8%_.  
   
-Return to [List of Matches](../index.md)  
-  
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  

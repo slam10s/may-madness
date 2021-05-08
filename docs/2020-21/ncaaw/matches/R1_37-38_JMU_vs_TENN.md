@@ -44,9 +44,9 @@ Charlottesville, Virginia
 Ranks listed here are the metric's ranking within the field of 64:  
 - Slam: ***TENN*** - #19 Tennessee (97%) def. #47 James Madison (3%)  
 - TRN: ***TENN*** - #19 Tennessee (98%) def. #47 James Madison (2%)  
-- Massey: ***TENN*** - #19 Tennessee (75%) def. #46 James Madison (25%)<sup>[1](#footnote1)</sup>  
+- Massey: ***TENN*** - #19 Tennessee (95%) def. #46 James Madison (5%)  
 - Lineup: ***TENN*** - Tennessee (98%) def. James Madison (2%)  
-- Composite: ***TENN*** - Tennessee (92%) def. James Madison (8%)  
+- Composite: ***TENN*** - Tennessee (97%) def. James Madison (3%)  
 - UTR: ***TENN*** - #22 Tennessee (+4.72) def. #47 James Madison (-4.72)  
 - ITA: ***TENN*** - #15 Tennessee def. #46 James Madison  
 - USTA Poll: ***TENN*** - #19 Tennessee def. James Madison  
@@ -65,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Mertena (62%) def. Afanasyeva (38%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Mertena (67%) def. Afanasyeva (33%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Mertena (75%) def. Afanasyeva (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TENN</i></b> - Mertena (74%) def. Afanasyeva (26%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Mertena (91%) def. Afanasyeva (9%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Mertena (74%) def. Afanasyeva (26%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Mertena (73%) def. Afanasyeva (27%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Mertena (7.45) def. Afanasyeva (2.51)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,9 +76,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Molinaro (85%) def. Roka (15%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Molinaro (84%) def. Roka (16%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Molinaro (75%) def. Roka (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TENN</i></b> - Molinaro (67%) def. Roka (33%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Molinaro (92%) def. Roka (8%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Molinaro (84%) def. Roka (16%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Molinaro (82%) def. Roka (18%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Molinaro (5.46) def. Roka (2.41)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,9 +87,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Briggs (95%) def. Nikolopoulou (5%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Briggs (94%) def. Nikolopoulou (6%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Briggs (75%) def. Nikolopoulou (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TENN</i></b> - Briggs (87%) def. Nikolopoulou (13%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Briggs (95%) def. Nikolopoulou (5%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Briggs (90%) def. Nikolopoulou (10%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Briggs (93%) def. Nikolopoulou (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Briggs (8.89) def. Nikolopoulou (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Kuczer (90%) def. Moulin (10%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Kuczer (91%) def. Moulin (9%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Kuczer (75%) def. Moulin (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TENN</i></b> - Kuczer (85%) def. Moulin (15%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Kuczer (91%) def. Moulin (9%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Kuczer (87%) def. Moulin (13%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Kuczer (89%) def. Moulin (11%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Kuczer (3.41) def. Moulin (3.15)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -109,9 +109,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - McGiffin (86%) def. Franco (14%)</li>  
 <li>TRN: <b><i>TENN</i></b> - McGiffin (79%) def. Franco (21%)</li>  
-<li>Massey: <b><i>TENN</i></b> - McGiffin (75%) def. Franco (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TENN</i></b> - McGiffin (68%) def. Franco (32%)</li>  
 <li>UTR: <b><i>TENN</i></b> - McGiffin (88%) def. Franco (12%)</li>  
-<li>Composite: <b><i>TENN</i></b> - McGiffin (82%) def. Franco (18%)</li>  
+<li>Composite: <b><i>TENN</i></b> - McGiffin (80%) def. Franco (20%)</li>  
 <li>ITA: <b><i>JMU</i></b> - Franco (3.01) def. McGiffin (1.61)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Slam: <b><i>TENN</i></b> - Silva (90%) def. Voloh (10%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Silva (87%) def. Voloh (13%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Silva (75%) def. Voloh (25%)<sup><a href="#footnote1">1</a></sup></li>  
+<li>Massey: <b><i>TENN</i></b> - Silva (78%) def. Voloh (22%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Silva (86%) def. Voloh (14%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Silva (84%) def. Voloh (16%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Silva (85%) def. Voloh (15%)</li>  
 <li>ITA: <b><i>JMU</i></b> - Voloh (3.50) def. Silva (1.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,13 +148,12 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Tennessee should win 4 or more singles matches _94%_ of the time.  
+- Tennessee should win 4 or more singles matches _95%_ of the time.  
 - James Madison should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _5%_ of the time.  
+- The winner of the doubles point will decide the match the other _4%_ of the time.  
 - If Tennessee wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If James Madison wins the doubles point, their chances of winning the dual improve to _6%_.  
-  
-Return to [List of Matches](../index.md)  
+- If James Madison wins the doubles point, their chances of winning the dual improve to _5%_.  
   
 ------
-<a name="footnote1">1</a>: Currently the expected win percentage (EWP) for the higher rated Massey player or team is pegged at 75%.
+
+Return to [List of Matches](../index.md)  
