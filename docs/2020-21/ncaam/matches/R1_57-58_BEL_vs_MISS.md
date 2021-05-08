@@ -9,7 +9,7 @@ Oxford, Mississippi
 <td>  
 
 <h2>#4 Belmont</h2>  
-&nbsp; Record: 13-4<br>  
+&nbsp; Record: 13-5<br>  
 &nbsp; ITA: 56 (4.48)<br>  
 &nbsp; Slam: 57 (83.10)<br>  
 &nbsp; TRN: 58 (79.14)<br>  
@@ -21,7 +21,7 @@ Oxford, Mississippi
 <td>  
 
 <h2>#1 Ole Miss</h2>  
-&nbsp; Record: 11-10<br>  
+&nbsp; Record: 12-10<br>  
 &#10004; ITA: 14 (44.94)<br>  
 &#10004; Slam: 18 (95.00)<br>  
 &#10004; TRN: 18 (93.41)<br>  
@@ -38,6 +38,7 @@ Oxford, Mississippi
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Ole Miss def. Belmont 4-0***  
 Go to [Live Stats](http://stats.statbroadcast.com/statmonitr/?id=350591)  
 
 ## Predictions  

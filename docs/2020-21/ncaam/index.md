@@ -15,6 +15,7 @@ The various metrics disagree on the outcome of these matches:
 The metrics agree on the winner, but not by a lot:
 
 - Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (2) / <b><i>ARIZ (4)</i></b>
+- Sun, 5/09 at  2:00 EDT	[Tulane vs #15 Ole Miss](./matches/R2_57-60_TULN_vs_MISS.md) ... MISS (73%) / TULN (27%)
 - Sat, 5/08 at  1:00 EDT	[NC State vs #13 South Carolina](./matches/R2_25-28_NCST_vs_SCAR.md) ... <b>SCAR (4)</b> / NCST (0)
 
 ### Heavy Favorites
@@ -23,7 +24,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Sun, 5/09 at  1:00 EDT	[Texas Tech vs #11 Georgia](./matches/R2_41-44_TTU_vs_UGA.md) ... UGA (89%) / TTU (11%)
 - Sun, 5/09 at  1:00 EDT	[Northwestern vs #4 Texas](./matches/R2_29-32_NW_vs_TEX.md) ... TEX (91%) / NW (9%)
-- Sat, 5/08 at  4:00 EDT	[Pepperdine vs #12 Southern California](./matches/R2_21-24_PEPP_vs_USC.md) ... USC (92%) / PEPP (8%)
+- Sat, 5/08 at  4:00 EDT	[Pepperdine vs #12 Southern California](./matches/R2_21-24_PEPP_vs_USC.md) ... <b>USC (4)</b> / PEPP (2)
 - Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... <b>A&M (4)</b> / OKLA (1)
 - Sun, 5/09 at  2:00 EDT	[Arizona St. vs #7 TCU](./matches/R2_49-52_AZST_vs_TCU.md) ... TCU (94%) / AZST (6%)
 - Sat, 5/08 at  2:00 EDT	[Notre Dame vs #16 Illinois](./matches/R2_5-8_ND_vs_ILL.md) ... <b>ILL (4)</b> / ND (0)
@@ -76,7 +77,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  1:00 EDT	[ETSU vs #11 Georgia](./matches/R1_41-42_ETSU_vs_UGA.md) ... <b>UGA (4)</b> / ETSU (0)
 - Sat, 5/08 at  1:00 EDT	[Presbyterian vs #6 North Carolina](./matches/R1_47-48_PRES_vs_UNC.md) ... <b>UNC (4)</b> / PRES (0)
 - Sat, 5/08 at  3:00 EDT	[A&M-Corpus Christi vs #2 Baylor](./matches/R1_63-64_TAMCC_vs_BAY.md) ... <b>BAY (4)</b> / TAMCC (0)
-- Sat, 5/08 at  4:00 EDT	[Belmont vs #15 Ole Miss](./matches/R1_57-58_BEL_vs_MISS.md) ... MISS (99%) / BEL (1%)
+- Sat, 5/08 at  4:00 EDT	[Belmont vs #15 Ole Miss](./matches/R1_57-58_BEL_vs_MISS.md) ... <b>MISS (4)</b> / BEL (0)
   
 ------
 Return to the [Home Page](../../index.md)

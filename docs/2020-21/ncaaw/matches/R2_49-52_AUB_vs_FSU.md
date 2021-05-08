@@ -9,7 +9,7 @@ Tallahassee, Florida
 <td>  
 
 <h2>#2 Auburn</h2>  
-&nbsp; Record: 14-8<br>  
+&nbsp; Record: 14-9<br>  
 &nbsp; ITA: 20 (41.17)<br>  
 &nbsp; Slam: 24 (89.44)<br>  
 &nbsp; TRN: 23 (81.74)<br>  
@@ -23,7 +23,7 @@ Tallahassee, Florida
 <td>  
 
 <h2>#1 Florida St.</h2>  
-&nbsp; Record: 17-5<br>  
+&nbsp; Record: 18-5<br>  
 &#10004; ITA: 7 (55.15)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  
@@ -40,6 +40,7 @@ Tallahassee, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Florida State def. Auburn 4-1***  
 Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350663)  
 
 ## Predictions  

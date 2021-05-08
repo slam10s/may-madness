@@ -9,7 +9,7 @@ Athens, Georgia
 <td>  
 
 <h2>#2 Wake Forest</h2>  
-&nbsp; Record: 12-12<br>  
+&nbsp; Record: 12-13<br>  
 &nbsp; ITA: 33 (25.77)<br>  
 &nbsp; Slam: 32 (88.11)<br>  
 &nbsp; TRN: 31 (80.20)<br>  
@@ -22,7 +22,7 @@ Athens, Georgia
 <td>  
 
 <h2>#1 Georgia</h2>  
-&nbsp; Record: 21-1<br>  
+&nbsp; Record: 22-1<br>  
 &#10004; ITA: 3 (74.01)<br>  
 &#10004; Slam: 3 (97.81)<br>  
 &#10004; TRN: 3 (94.01)<br>  
@@ -39,6 +39,7 @@ Athens, Georgia
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Georgia def. Wake Forest 4-1***  
 Go to [Live Stats](https://t.co/T8QKQKSjw6?amp=1)  
 
 ## Predictions  

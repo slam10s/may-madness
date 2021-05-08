@@ -4,6 +4,13 @@ Return to the [Home Page](../../index.md)
 
 ## Third Round
 
+### Intriguing Matches
+
+The metrics agree on the winner, but not by a lot:
+
+- Sun, 5/16 at 10:00 EDT	[#3 Georgia vs #14 Virginia](./matches/R3_25-30_UGA_vs_UVA.md) ... UGA (94%) / UVA (6%)
+- Sun, 5/16 at  1:00 EDT	[#7 Florida St. vs #10 Texas A&M](./matches/R3_37-42_FSU_vs_AM.md) ... FSU (70%) / A&M (30%)
+
 ### Heavy Favorites
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
@@ -31,14 +38,14 @@ The metrics agree on the winner, but not by a lot:
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Sat, 5/08 at  4:00 EDT	[Auburn vs #7 Florida St.](./matches/R2_49-52_AUB_vs_FSU.md) ... FSU (85%) / AUB (15%)
+- Sat, 5/08 at  4:00 EDT	[Auburn vs #7 Florida St.](./matches/R2_49-52_AUB_vs_FSU.md) ... <b>FSU (4)</b> / AUB (1)
 - Sat, 5/08 at  4:00 EDT	[Stanford vs #5 Pepperdine](./matches/R2_17-20_STAN_vs_PEPP.md) ... PEPP (86%) / STAN (14%)
 - Sat, 5/08 at 12:00 EDT	[Vanderbilt vs #15 Ohio St.](./matches/R2_57-60_VANDY_vs_OSU.md) ... <b>OSU (4)</b> / VANDY (3)
 - Sat, 5/08 at  3:00 EDT	[Texas Tech vs #4 UCLA](./matches/R2_29-32_TTU_vs_UCLA.md) ... <b>UCLA (4)</b> / TTU (0)
 - Sat, 5/08 at  2:00 EDT	[North Florida vs #13 Georgia Tech](./matches/R2_25-28_UNF_vs_GT.md) ... <b>GT (4)</b> / UNF (0)
 - Sat, 5/08 at  2:00 EDT	[Iowa St. vs #6 NC State](./matches/R2_45-48_ISU_vs_NCST.md) ... <b>NCST (4)</b> / ISU (2)
 - Sat, 5/08 at  4:00 EDT	[Old Dominion vs #1 North Carolina](./matches/R2_1-4_ODU_vs_UNC.md) ... <b>UNC (4)</b> / ODU (0)
-- Sat, 5/08 at  4:00 EDT	[Wake Forest vs #3 Georgia](./matches/R2_33-36_WAKE_vs_UGA.md) ... UGA (99%) / WAKE (1%)
+- Sat, 5/08 at  4:00 EDT	[Wake Forest vs #3 Georgia](./matches/R2_33-36_WAKE_vs_UGA.md) ... <b>UGA (4)</b> / WAKE (1)
 - Sat, 5/08 at  4:00 EDT	[Arizona St. vs #2 Texas](./matches/R2_61-64_AZST_vs_TEX.md) ... <b>TEX (4)</b> / AZST (0)
 ## First Round
 

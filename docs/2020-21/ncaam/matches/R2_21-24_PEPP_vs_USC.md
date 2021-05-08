@@ -9,7 +9,7 @@ Los Angeles, California
 <td>  
 
 <h2>#2 Pepperdine</h2>  
-&nbsp; Record: 16-6<br>  
+&nbsp; Record: 16-7<br>  
 &nbsp; ITA: 28 (29.09)<br>  
 &nbsp; Slam: 34 (92.69)<br>  
 &nbsp; TRN: 30 (91.07)<br>  
@@ -23,7 +23,7 @@ Los Angeles, California
 <td>  
 
 <h2>#1 Southern California</h2>  
-&nbsp; Record: 21-6<br>  
+&nbsp; Record: 22-6<br>  
 &#10004; ITA: 12 (52.23)<br>  
 &#10004; Slam: 14 (96.38)<br>  
 &#10004; TRN: 16 (94.47)<br>  
@@ -40,6 +40,7 @@ Los Angeles, California
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***USC def. Pepperdine 4-2***  
 Go to [Live Stats](https://usctrojans.com/sports/2020/2/19/usc-trojans-m-tennis-live-scoreboard-video-david-marks-stadium.aspx)  
 
 ## Predictions  
