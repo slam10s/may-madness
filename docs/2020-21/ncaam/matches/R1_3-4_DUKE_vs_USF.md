@@ -44,7 +44,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***DUKE*** - #31 Duke (51%) def. #32 South Fla. (49%)  
 - TRN: ***USF*** - #34 South Fla. (52%) def. #36 Duke (48%)  
 - Massey: ***USF*** - #32 South Fla. (55%) def. #34 Duke (45%)  
-- Lineup: ***???*** - South Fla. (50%) / Duke (50%)  
+- Lineup: ***USF*** - South Fla. (50%) def. Duke (50%)  
 - UTR: ***DUKE*** - #32 Duke (+0.35) def. #37 South Fla. (-0.35)  
 - ITA: ***USF*** - #32 South Fla. def. #35 Duke  
 - Coaches Poll: ***USF*** - #33 South Fla. def. #36 Duke  
@@ -60,7 +60,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Garrett Johns (DUKE) - 8-8 at #1, 8-8 in duals, 9-9 overall<br>Jakub Wojcik (USF) - 4-1 at #1, 17-6 in duals, 17-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>???</i></b> - Wojcik (50%) / Johns (50%)</li>  
+<li>Composite: <b><i>USF</i></b> - Wojcik (50%) def. Johns (50%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Johns (55%) def. Wojcik (45%)</li>  
 <li>TRN: <b><i>USF</i></b> - Wojcik (67%) def. Johns (33%)</li>  
 <li>Massey: <b><i>USF</i></b> - Wojcik (66%) def. Johns (34%)</li>  

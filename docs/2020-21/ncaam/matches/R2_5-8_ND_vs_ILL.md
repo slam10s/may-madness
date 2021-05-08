@@ -84,7 +84,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Tristan McCormick (ND) - 8-5 at #3, 10-6 in duals, 10-6 overall<br>Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>???</i></b> - Brown (50%) / McCormick (50%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Brown (50%) def. McCormick (50%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Brown (66%) def. McCormick (34%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (58%) def. McCormick (42%)</li>  
 <li>Massey: <b><i>ILL</i></b> - Brown (50%) def. McCormick (50%)</li>  

@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Adria Soriano Barrera (MIA) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>Giovanni Oradini (MSST) - 11-7 at #1, 11-10 in duals, 17-14 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>???</i></b> - Oradini (50%) / Barrera (50%)</li>  
+<li>Composite: <b><i>MSST</i></b> - Oradini (50%) def. Barrera (50%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Barrera (53%) def. Oradini (47%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Barrera (56%) def. Oradini (44%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Barrera (57%) def. Oradini (43%)</li>  

@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Briana Crowley (NW) - 16-3 at #4, 16-5 in duals, 17-7 overall<br>Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>???</i></b> - Faa-Hviding (50%) / Crowley (50%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Faa-Hviding (50%) def. Crowley (50%)</li>  
 <li>Slam: <b><i>NW</i></b> - Crowley (51%) def. Faa-Hviding (49%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (55%) def. Crowley (45%)</li>  
 <li>Massey: <b><i>NW</i></b> - Crowley (62%) def. Faa-Hviding (38%)</li>  
