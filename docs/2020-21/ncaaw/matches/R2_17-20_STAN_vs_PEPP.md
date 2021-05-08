@@ -9,7 +9,7 @@ Malibu, California
 <td>  
 
 <h2>#2 Stanford</h2>  
-&nbsp; Record: 15-4<br>  
+&nbsp; Record: 15-5<br>  
 &nbsp; ITA: 28 (35.11)<br>  
 &nbsp; Slam: 23 (90.02)<br>  
 &nbsp; TRN: 24 (81.66)<br>  
@@ -23,7 +23,7 @@ Malibu, California
 <td>  
 
 <h2>#1 Pepperdine</h2>  
-&nbsp; Record: 21-3<br>  
+&nbsp; Record: 22-3<br>  
 &#10004; ITA: 5 (60.71)<br>  
 &#10004; Slam: 6 (92.64)<br>  
 &#10004; TRN: 6 (85.86)<br>  
@@ -40,6 +40,7 @@ Malibu, California
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Pepperdine def. Stanford 4-2***  
 Go to [Live Stats](https://pepperdinewaves.com/sports/2018/8/7/playsight.aspx)  
 
 ## Predictions  

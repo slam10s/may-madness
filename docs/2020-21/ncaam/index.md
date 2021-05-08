@@ -9,7 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Sat, 5/08 at  5:00 EDT	[Ohio St. vs #10 Wake Forest](./matches/R2_53-56_OSU_vs_WAKE.md) ... WAKE (37%) / <i>OSU (63%)</i>
+- Sat, 5/08 at  5:00 EDT	[Ohio St. vs #10 Wake Forest](./matches/R2_53-56_OSU_vs_WAKE.md) ... WAKE (1) / <b><i>OSU (4)</i></b>
 - Sun, 5/09 at 12:00 EDT	[Mississippi St. vs #9 UCF](./matches/R2_9-12_MSST_vs_UCF.md) ... UCF (85%) / MSST (15%)
 - Sun, 5/09 at 12:00 EDT	[Stanford vs #5 Virginia](./matches/R2_17-20_STAN_vs_UVA.md) ... UVA (92%) / STAN (8%)
 

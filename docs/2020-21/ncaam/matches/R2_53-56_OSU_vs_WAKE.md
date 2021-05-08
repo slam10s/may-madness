@@ -9,7 +9,7 @@ Winston-Salem, North Carolina
 <td>  
 
 <h2>#2 Ohio St.</h2>  
-&nbsp; Record: 21-3<br>  
+&nbsp; Record: 22-3<br>  
 &nbsp; ITA: 31 (26.40)<br>  
 &#10004; Slam: 7 (97.86)<br>  
 &#10004; TRN: 8 (97.23)<br>  
@@ -23,7 +23,7 @@ Winston-Salem, North Carolina
 <td>  
 
 <h2>#1 Wake Forest</h2>  
-&nbsp; Record: 29-6<br>  
+&nbsp; Record: 29-7<br>  
 &#10004; ITA: 9 (56.82)<br>  
 &nbsp; Slam: 10 (97.17)<br>  
 &nbsp; TRN: 10 (95.99)<br>  
@@ -40,6 +40,7 @@ Winston-Salem, North Carolina
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Ohio State def. Wake Forest 4-1***  
 Go to [Live Stats](http://sidearmstats.com/wakeforest/mten/)  
 
 ## Predictions  

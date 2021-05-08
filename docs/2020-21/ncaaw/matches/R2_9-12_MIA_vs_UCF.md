@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Miami (FL)</h2>  
-&nbsp; Record: 15-8<br>  
+&nbsp; Record: 15-9<br>  
 &nbsp; ITA: 24 (38.72)<br>  
 &nbsp; Slam: 22 (90.21)<br>  
 &nbsp; TRN: 21 (82.31)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 UCF</h2>  
-&nbsp; Record: 19-4<br>  
+&nbsp; Record: 20-4<br>  
 &#10004; ITA: 9 (52.14)<br>  
 &#10004; Slam: 12 (91.41)<br>  
 &#10004; TRN: 12 (83.85)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Central Florida def. Miami (FL) 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=77)  
 
 ## Predictions  
