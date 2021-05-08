@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 1:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 33-34
 Title: "Austin Peay vs #3 Georgia"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 56 (4.88)
     UTR: 55 (52.40)
 Predictions:
-  AVG: UGA - Georgia (99%) def. Austin Peay (1%)
   SLM: "UGA - #3 Georgia (99%) def. #56 Austin Peay (1%)"
   TRN: "UGA - #3 Georgia (99%) def. #56 Austin Peay (1%)"
-  MAS: "UGA - #3 Georgia (100%) def. #56 Austin Peay (0%)"
+  MAS: "PEAY - #56 Austin Peay (NaN%) def. #3 Georgia (NaN%)"
   LNUP: UGA - Georgia (99%) def. Austin Peay (1%)
   UTR: "UGA - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)"
   ITA: "UGA - #3 Georgia def. #57 Austin Peay"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "UGA - #1 Georgia def. #4 Austin Peay"
 Lineups:
   Predictions:
-    Average EWPs for UGA: 99%,99%,100%,100%
-    Average EWPs for PEAY: 1%,1%,0%,0%
+    Average EWPs for UGA: 99%,99%,NaN%,100%
+    Average EWPs for PEAY: 1%,1%,NaN%,0%
     UGA wins 4 or more Singles points: 100%
     PEAY wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,17 +61,17 @@ Lineups:
         AVG: UGA - Jokic (99%) def. Schmidt (1%)
         SLM: UGA - Jokic (99%) def. Schmidt (1%)
         TRN: UGA - Jokic (99%) def. Schmidt (1%)
-        MAS: UGA - Jokic (99%) def. Schmidt (1%)
+        MAS: PEAY - Schmidt (NaN%) def. Jokic (NaN%)
         UTR: UGA - Jokic (98%) def. Schmidt (2%)
         ITA: UGA - Jokic (60.56) def. Schmidt (2.35)
     - Position: 2
       UGA: Lea Ma - 13-3 at 2, 13-3 in duals, 14-4 overall
       PEAY: Danielle Morris - 9-5 at 2, 9-5 in duals, 9-5 overall
       Predictions:
-        AVG: UGA - Ma (98%) def. Morris (2%)
+        AVG: UGA - Ma (99%) def. Morris (1%)
         SLM: UGA - Ma (99%) def. Morris (1%)
         TRN: UGA - Ma (99%) def. Morris (1%)
-        MAS: UGA - Ma (98%) def. Morris (2%)
+        MAS: PEAY - Morris (NaN%) def. Ma (NaN%)
         UTR: UGA - Ma (97%) def. Morris (3%)
         ITA: UGA - Ma (11.14) def. Morris (2.12)
     - Position: 3
@@ -81,7 +81,7 @@ Lineups:
         AVG: UGA - Kowalski (99%) def. Leder (1%)
         SLM: UGA - Kowalski (99%) def. Leder (1%)
         TRN: UGA - Kowalski (99%) def. Leder (1%)
-        MAS: UGA - Kowalski (98%) def. Leder (2%)
+        MAS: PEAY - Leder (NaN%) def. Kowalski (NaN%)
         UTR: UGA - Kowalski (98%) def. Leder (2%)
         ITA: UGA - Kowalski (23.73) def. Leder (3.05)
     - Position: 4
@@ -91,7 +91,7 @@ Lineups:
         AVG: UGA - Coppoc (99%) def. Topalovic (1%)
         SLM: UGA - Coppoc (99%) def. Topalovic (1%)
         TRN: UGA - Coppoc (99%) def. Topalovic (1%)
-        MAS: UGA - Coppoc (99%) def. Topalovic (1%)
+        MAS: PEAY - Topalovic (NaN%) def. Coppoc (NaN%)
         UTR: UGA - Coppoc (99%) def. Topalovic (1%)
         ITA: UGA - Coppoc (8.66) def. Topalovic (2.10)
     - Position: 5
@@ -101,7 +101,7 @@ Lineups:
         AVG: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         SLM: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         TRN: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
-        MAS: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
+        MAS: PEAY - Paladini-Jennings (NaN%) def. Gonzalez (NaN%)
         UTR: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         ITA: UGA - Gonzalez (11.71) def. Paladini-Jennings (1.85)
     - Position: 6
@@ -111,7 +111,7 @@ Lineups:
         AVG: UGA - Christofi (99%) def. Nakanishi (1%)
         SLM: UGA - Christofi (99%) def. Nakanishi (1%)
         TRN: UGA - Christofi (99%) def. Nakanishi (1%)
-        MAS: UGA - Christofi (98%) def. Nakanishi (2%)
+        MAS: PEAY - Nakanishi (NaN%) def. Christofi (NaN%)
         UTR: UGA - Christofi (99%) def. Nakanishi (1%)
         ITA: UGA - Christofi (2.36) def. Nakanishi (2.24)
   Doubles:

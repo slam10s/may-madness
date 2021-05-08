@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
+2021 Division I Women's Tennis Championship  
 Cone-Kenfield Center  
 Chapel Hill, North Carolina  
 ## [South Carolina St. vs #1 North Carolina](https://www.ncaa.com/game/5833647)  
@@ -11,7 +12,7 @@ Chapel Hill, North Carolina
 &nbsp; Record: 6-5<br>  
 &nbsp; Slam: 62 (70.68)<br>  
 &nbsp; TRN: 61 (58.72)<br>  
-&nbsp; Massey: 62 (3.52)<br>  
+&#10004; Massey: 62 (3.52)<br>  
 &nbsp; UTR: 63 (44.35)<br>  
 <br>  
 
@@ -23,7 +24,7 @@ Chapel Hill, North Carolina
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
-&#10004; Massey: 1 (9.82)<br>  
+&nbsp; Massey: 1 (9.82)<br>  
 &#10004; UTR: 2 (65.21)<br>  
 &#10004; USTA Poll: 1<br>  
 &#10004; Coaches Poll: 1<br>  
@@ -41,10 +42,9 @@ Chapel Hill, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #62 South Carolina St. (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #61 South Carolina St. (1%)  
-- Massey: ***UNC*** - #1 North Carolina (100%) def. #62 South Carolina St. (0%)  
+- Massey: ***SCST*** - #62 South Carolina St. (NaN%) def. #1 North Carolina (NaN%)  
 - Lineup: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - UTR: ***UNC*** - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)  
 - ITA: ***UNC*** - #1 North Carolina def. South Carolina St.  
@@ -65,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
+<li>Massey: <b><i>SCST</i></b> - Berjane (NaN%) def. Daavettila (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Daavettila (64.17) def. Berjane (0.00)</li>  
 </ul>
@@ -76,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
+<li>Massey: <b><i>SCST</i></b> - Semlali (NaN%) def. Graham (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Graham (15.03) def. Semlali (0.00)</li>  
 </ul>
@@ -87,7 +87,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
+<li>Massey: <b><i>SCST</i></b> - Mihajilovic (NaN%) def. Morra (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Morra (20.00) def. Mihajilovic (0.00)</li>  
 </ul>
@@ -98,7 +98,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
+<li>Massey: <b><i>SCST</i></b> - Patnaik (NaN%) def. Scotty (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Scotty (5.93) def. Patnaik (2.21)</li>  
 </ul>
@@ -109,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
+<li>Massey: <b><i>SCST</i></b> - Rassif (NaN%) def. Jones (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Jones (18.39) def. Rassif (1.48)</li>  
 </ul>

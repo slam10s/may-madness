@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 5:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 7-8
 Title: "DePaul vs #16 Illinois"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 54 (5.94)
     UTR: 60 (70.67)
 Predictions:
-  AVG: ILL - Illinois (99%) def. DePaul (1%)
   SLM: "ILL - #6 Illinois (99%) def. #55 DePaul (1%)"
   TRN: "ILL - #4 Illinois (99%) def. #55 DePaul (1%)"
-  MAS: "ILL - #9 Illinois (99%) def. #54 DePaul (1%)"
+  MAS: "DEP - #54 DePaul (NaN%) def. #9 Illinois (NaN%)"
   LNUP: ILL - Illinois (99%) def. DePaul (1%)
   UTR: "ILL - #15 Illinois (+8.25) def. #60 DePaul (-8.25)"
   ITA: "ILL - #18 Illinois def. #55 DePaul"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "ILL - #1 Illinois def. #4 DePaul"
 Lineups:
   Predictions:
-    Average EWPs for ILL: 99%,99%,99%,100%
-    Average EWPs for DEP: 1%,1%,1%,0%
+    Average EWPs for ILL: 99%,99%,NaN%,100%
+    Average EWPs for DEP: 1%,1%,NaN%,0%
     ILL wins 4 or more Singles points: 100%
     DEP wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,7 +61,7 @@ Lineups:
         AVG: ILL - Kovacevic (98%) def. Tonejc (2%)
         SLM: ILL - Kovacevic (98%) def. Tonejc (2%)
         TRN: ILL - Kovacevic (98%) def. Tonejc (2%)
-        MAS: ILL - Kovacevic (98%) def. Tonejc (2%)
+        MAS: DEP - Tonejc (NaN%) def. Kovacevic (NaN%)
         UTR: ILL - Kovacevic (98%) def. Tonejc (2%)
         ITA: DEP - Tonejc (4.23) def. Kovacevic (4.00)
     - Position: 2
@@ -71,17 +71,17 @@ Lineups:
         AVG: ILL - Montsi (99%) def. Casati (1%)
         SLM: ILL - Montsi (99%) def. Casati (1%)
         TRN: ILL - Montsi (99%) def. Casati (1%)
-        MAS: ILL - Montsi (98%) def. Casati (2%)
+        MAS: DEP - Casati (NaN%) def. Montsi (NaN%)
         UTR: ILL - Montsi (98%) def. Casati (2%)
         ITA: ILL - Montsi (4.79) def. Casati (0.00)
     - Position: 3
       ILL: Alex Brown - 3-2 at 3, 8-9 in duals, 9-12 overall
       DEP: Boris Spanjaard - 8-4 at 3, 12-6 in duals, 12-6 overall
       Predictions:
-        AVG: ILL - Brown (94%) def. Spanjaard (6%)
+        AVG: ILL - Brown (95%) def. Spanjaard (5%)
         SLM: ILL - Brown (97%) def. Spanjaard (3%)
         TRN: ILL - Brown (97%) def. Spanjaard (3%)
-        MAS: ILL - Brown (88%) def. Spanjaard (12%)
+        MAS: DEP - Spanjaard (NaN%) def. Brown (NaN%)
         UTR: ILL - Brown (92%) def. Spanjaard (8%)
         ITA: DEP - Spanjaard (2.02) def. Brown (1.47)
     - Position: 4
@@ -91,17 +91,17 @@ Lineups:
         AVG: ILL - Clark (98%) def. Zador (2%)
         SLM: ILL - Clark (98%) def. Zador (2%)
         TRN: ILL - Clark (99%) def. Zador (1%)
-        MAS: ILL - Clark (99%) def. Zador (1%)
+        MAS: DEP - Zador (NaN%) def. Clark (NaN%)
         UTR: ILL - Clark (96%) def. Zador (4%)
         ITA: ILL - Clark (6.43) def. Zador (1.31)
     - Position: 5
       ILL: Hunter Heck - 9-4 at 5, 13-5 in duals, 16-6 overall
       DEP: Fran Tonejc - 1-3 at 5, 8-8 in duals, 8-8 overall
       Predictions:
-        AVG: ILL - Heck (97%) def. Tonejc (3%)
+        AVG: ILL - Heck (98%) def. Tonejc (2%)
         SLM: ILL - Heck (98%) def. Tonejc (2%)
         TRN: ILL - Heck (99%) def. Tonejc (1%)
-        MAS: ILL - Heck (95%) def. Tonejc (5%)
+        MAS: DEP - Tonejc (NaN%) def. Heck (NaN%)
         UTR: ILL - Heck (96%) def. Tonejc (4%)
         ITA: ILL - Heck (2.36) def. Tonejc (1.51)
     - Position: 6
@@ -111,7 +111,7 @@ Lineups:
         AVG: ILL - Khlif (98%) def. Wassenaar (2%)
         SLM: ILL - Khlif (99%) def. Wassenaar (1%)
         TRN: ILL - Khlif (99%) def. Wassenaar (1%)
-        MAS: ILL - Khlif (97%) def. Wassenaar (3%)
+        MAS: DEP - Wassenaar (NaN%) def. Khlif (NaN%)
         UTR: ILL - Khlif (97%) def. Wassenaar (3%)
         ITA: ILL - Khlif (3.59) def. Wassenaar (2.18)
   Doubles:

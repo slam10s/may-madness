@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
+2021 Division I Women's Tennis Championship  
 Texas Tennis Center  
 Austin, Texas  
 ## [Mississippi St. vs Arizona St.](https://www.ncaa.com/game/5833677)  
@@ -12,7 +13,7 @@ Austin, Texas
 &nbsp; ITA: 38 (19.84)<br>  
 &nbsp; Slam: 42 (86.60)<br>  
 &nbsp; TRN: 39 (78.82)<br>  
-&nbsp; Massey: 44 (6.49)<br>  
+&#10004; Massey: 44 (6.49)<br>  
 &nbsp; UTR: 36 (59.84)<br>  
 &nbsp; Coaches Poll: 38<br>  
 <br>  
@@ -25,7 +26,7 @@ Austin, Texas
 &#10004; ITA: 31 (26.09)<br>  
 &#10004; Slam: 31 (88.20)<br>  
 &#10004; TRN: 33 (79.83)<br>  
-&#10004; Massey: 24 (7.65)<br>  
+&nbsp; Massey: 24 (7.65)<br>  
 &#10004; UTR: 23 (61.59)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 30<br>  
@@ -43,10 +44,9 @@ Austin, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***AZST*** - Arizona St. (78%) def. Mississippi St. (22%)  
 - Slam: ***AZST*** - #31 Arizona St. (71%) def. #42 Mississippi St. (29%)  
 - TRN: ***AZST*** - #33 Arizona St. (64%) def. #39 Mississippi St. (36%)  
-- Massey: ***AZST*** - #24 Arizona St. (95%) def. #44 Mississippi St. (5%)  
+- Massey: ***MSST*** - #44 Mississippi St. (NaN%) def. #24 Arizona St. (NaN%)  
 - Lineup: ***AZST*** - Arizona St. (82%) def. Mississippi St. (18%)  
 - UTR: ***AZST*** - #23 Arizona St. (+1.75) def. #36 Mississippi St. (-1.75)  
 - ITA: ***AZST*** - #31 Arizona St. def. #38 Mississippi St.  
@@ -64,10 +64,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Emma Antonaki (MSST) - 5-2 at #1, 14-4 in duals, 16-4 overall<br>Ilze Hattingh (AZST) - 10-7 at #1, 10-7 in duals, 11-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MSST</i></b> - Antonaki (54%) def. Hattingh (46%)</li>  
+<li>Composite: <b><i>MSST</i></b> - Antonaki (51%) def. Hattingh (49%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Hattingh (65%) def. Antonaki (35%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Antonaki (61%) def. Hattingh (39%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Antonaki (63%) def. Hattingh (37%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Antonaki (NaN%) def. Hattingh (NaN%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Antonaki (59%) def. Hattingh (41%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Antonaki (17.81) def. Hattingh (6.86)</li>  
 </ul>
@@ -75,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Magda Adaloglou (MSST) - 5-2 at #2, 11-4 in duals, 12-5 overall<br>Sammi Hampton (AZST) - 6-8 at #2, 6-8 in duals, 6-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>AZST</i></b> - Hampton (55%) def. Adaloglou (45%)</li>  
+<li>Composite: <b><i>AZST</i></b> - Hampton (54%) def. Adaloglou (46%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Hampton (62%) def. Adaloglou (38%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Hampton (53%) def. Adaloglou (47%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Hampton (58%) def. Adaloglou (42%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Adaloglou (NaN%) def. Hampton (NaN%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Adaloglou (54%) def. Hampton (46%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Adaloglou (3.24) def. Hampton (1.50)</li>  
 </ul>
@@ -89,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>AZST</i></b> - John-Baptiste (74%) def. Racine (26%)</li>  
 <li>Slam: <b><i>AZST</i></b> - John-Baptiste (66%) def. Racine (34%)</li>  
 <li>TRN: <b><i>AZST</i></b> - John-Baptiste (76%) def. Racine (24%)</li>  
-<li>Massey: <b><i>AZST</i></b> - John-Baptiste (72%) def. Racine (28%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Racine (NaN%) def. John-Baptiste (NaN%)</li>  
 <li>UTR: <b><i>AZST</i></b> - John-Baptiste (81%) def. Racine (19%)</li>  
 <li>ITA: <b><i>AZST</i></b> - John-Baptiste (2.78) def. Racine (2.04)</li>  
 </ul>
@@ -97,10 +97,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alex Mikhailuk (MSST) - 6-7 at #4, 10-11 in duals, 16-15 overall<br>Giulia Morlet (AZST) - 8-5 at #4, 9-5 in duals, 10-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>AZST</i></b> - Morlet (73%) def. Mikhailuk (27%)</li>  
+<li>Composite: <b><i>AZST</i></b> - Morlet (72%) def. Mikhailuk (28%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Morlet (68%) def. Mikhailuk (32%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Morlet (67%) def. Mikhailuk (33%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Morlet (75%) def. Mikhailuk (25%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Mikhailuk (NaN%) def. Morlet (NaN%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Morlet (82%) def. Mikhailuk (18%)</li>  
 <li>ITA: <b><i>AZST</i></b> - Morlet (2.20) def. Mikhailuk (0.00)</li>  
 </ul>
@@ -108,10 +108,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lilian Poling (MSST) - 4-3 at #5, 5-9 in duals, 12-11 overall<br>Marianna Argyrokastriti (AZST) - 11-4 at #5, 14-5 in duals, 15-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>AZST</i></b> - Argyrokastriti (78%) def. Poling (22%)</li>  
+<li>Composite: <b><i>AZST</i></b> - Argyrokastriti (76%) def. Poling (24%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Argyrokastriti (69%) def. Poling (31%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Argyrokastriti (76%) def. Poling (24%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Argyrokastriti (81%) def. Poling (19%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Poling (NaN%) def. Argyrokastriti (NaN%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Argyrokastriti (85%) def. Poling (15%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Poling (2.33) def. Argyrokastriti (2.12)</li>  
 </ul>
@@ -119,10 +119,9 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Chloe Cirotte (MSST) - 6-2 at #6, 10-5 in duals, 11-6 overall<br>Domenika Turkovic (AZST) - 4-5 at #6, 8-6 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>AZST</i></b> - Turkovic (52%) def. Cirotte (48%)</li>  
 <li>Slam: <b><i>MSST</i></b> - Cirotte (52%) def. Turkovic (48%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Cirotte (55%) def. Turkovic (45%)</li>  
-<li>Massey: <b><i>AZST</i></b> - Turkovic (59%) def. Cirotte (41%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Cirotte (NaN%) def. Turkovic (NaN%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Turkovic (56%) def. Cirotte (44%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Cirotte (2.24) def. Turkovic (1.94)</li>  
 </ul>

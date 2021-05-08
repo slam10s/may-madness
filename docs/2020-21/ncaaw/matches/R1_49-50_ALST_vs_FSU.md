@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 4:00 EDT  
+2021 Division I Women's Tennis Championship  
 Scott Speicher Tennis Center  
 Tallahassee, Florida  
 ## [Alabama St. vs #7 Florida St.](https://www.ncaa.com/game/5833671)  
@@ -12,7 +13,7 @@ Tallahassee, Florida
 &nbsp; ITA: 61 (2.29)<br>  
 &nbsp; Slam: 63 (69.75)<br>  
 &nbsp; TRN: 62 (58.32)<br>  
-&nbsp; Massey: 63 (3.41)<br>  
+&#10004; Massey: 63 (3.41)<br>  
 &nbsp; UTR: 61 (46.66)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Tallahassee, Florida
 &#10004; ITA: 7 (55.15)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  
-&#10004; Massey: 9 (8.17)<br>  
+&nbsp; Massey: 9 (8.17)<br>  
 &#10004; UTR: 10 (62.71)<br>  
 &#10004; USTA Poll: 12<br>  
 &#10004; Coaches Poll: 7<br>  
@@ -42,10 +43,9 @@ Tallahassee, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***FSU*** - Florida St. (99%) def. Alabama St. (1%)  
 - Slam: ***FSU*** - #10 Florida St. (99%) def. #63 Alabama St. (1%)  
 - TRN: ***FSU*** - #9 Florida St. (99%) def. #62 Alabama St. (1%)  
-- Massey: ***FSU*** - #9 Florida St. (100%) def. #63 Alabama St. (0%)  
+- Massey: ***ALST*** - #63 Alabama St. (NaN%) def. #9 Florida St. (NaN%)  
 - Lineup: ***FSU*** - Florida St. (99%) def. Alabama St. (1%)  
 - UTR: ***FSU*** - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)  
 - ITA: ***FSU*** - #7 Florida St. def. #61 Alabama St.  
@@ -66,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
+<li>Massey: <b><i>ALST</i></b> - Andrade (NaN%) def. Pairone (NaN%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Pairone (99%) def. Andrade (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Pairone (30.67) def. Andrade (2.89)</li>  
 </ul>
@@ -88,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Das (98%) def. Velec (2%)</li>  
+<li>Massey: <b><i>ALST</i></b> - Velec (NaN%) def. Das (NaN%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Das (99%) def. Velec (1%)</li>  
 <li>ITA: <b><i>ALST</i></b> - Velec (2.89) def. Das (2.52)</li>  
 </ul>
@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
+<li>Massey: <b><i>ALST</i></b> - Duca (NaN%) def. Hule (NaN%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Hule (99%) def. Duca (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Hule (3.24) def. Duca (2.26)</li>  
 </ul>
@@ -110,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Allen (100%) def. Legaud (0%)</li>  
+<li>Massey: <b><i>ALST</i></b> - Legaud (NaN%) def. Allen (NaN%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Allen (2.90) def. Legaud (0.00)</li>  
 </ul>
@@ -121,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
+<li>Massey: <b><i>ALST</i></b> - Acena (NaN%) def. Arkadianou (NaN%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>ITA: <b><i>ALST</i></b> - Acena (1.75) def. Arkadianou (0.00)</li>  
 </ul>

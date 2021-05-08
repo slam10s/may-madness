@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 4:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 7-8
 Title: "San Jose St. vs #16 California"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 49 (5.94)
     UTR: 50 (55.37)
 Predictions:
-  AVG: CAL - California (99%) def. San Jose St. (1%)
   SLM: "CAL - #17 California (99%) def. #50 San Jose St. (1%)"
   TRN: "CAL - #17 California (99%) def. #49 San Jose St. (1%)"
-  MAS: "CAL - #14 California (99%) def. #49 San Jose St. (1%)"
+  MAS: "SJSU - #49 San Jose St. (NaN%) def. #14 California (NaN%)"
   LNUP: CAL - California (99%) def. San Jose St. (1%)
   UTR: "CAL - #15 California (+6.78) def. #50 San Jose St. (-6.78)"
   ITA: "CAL - #16 California def. #47 San Jose St."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "CAL - #1 California def. #4 San Jose St."
 Lineups:
   Predictions:
-    Average EWPs for CAL: 99%,99%,99%,100%
-    Average EWPs for SJSU: 1%,1%,1%,0%
+    Average EWPs for CAL: 99%,99%,NaN%,100%
+    Average EWPs for SJSU: 1%,1%,NaN%,0%
     CAL wins 4 or more Singles points: 100%
     SJSU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -58,50 +58,50 @@ Lineups:
       CAL: Haley Giavara - 12-10 at 1, 12-10 in duals, 12-10 overall
       SJSU: Alba Pedrero Galindo - 11-4 at 1, 11-4 in duals, 11-4 overall
       Predictions:
-        AVG: CAL - Giavara (89%) def. Galindo (11%)
+        AVG: CAL - Giavara (93%) def. Galindo (7%)
         SLM: CAL - Giavara (93%) def. Galindo (7%)
         TRN: CAL - Giavara (95%) def. Galindo (5%)
-        MAS: CAL - Giavara (77%) def. Galindo (23%)
+        MAS: SJSU - Galindo (NaN%) def. Giavara (NaN%)
         UTR: CAL - Giavara (91%) def. Galindo (9%)
         ITA: CAL - Giavara (18.44) def. Galindo (2.47)
     - Position: 2
       CAL: Julia Rosenqvist - 11-7 at 2, 14-7 in duals, 14-7 overall
       SJSU: Rozalina Youseva - 6-6 at 2, 6-6 in duals, 6-6 overall
       Predictions:
-        AVG: CAL - Rosenqvist (96%) def. Youseva (4%)
+        AVG: CAL - Rosenqvist (97%) def. Youseva (3%)
         SLM: CAL - Rosenqvist (96%) def. Youseva (4%)
         TRN: CAL - Rosenqvist (97%) def. Youseva (3%)
-        MAS: CAL - Rosenqvist (94%) def. Youseva (6%)
+        MAS: SJSU - Youseva (NaN%) def. Rosenqvist (NaN%)
         UTR: CAL - Rosenqvist (98%) def. Youseva (2%)
         ITA: CAL - Rosenqvist (2.23) def. Youseva (1.67)
     - Position: 3
       CAL: Valentina Ivanov - 9-5 at 3, 10-8 in duals, 10-8 overall
       SJSU: Irena Muradyan - 13-1 at 3, 14-1 in duals, 14-1 overall
       Predictions:
-        AVG: CAL - Ivanov (84%) def. Muradyan (16%)
+        AVG: CAL - Ivanov (92%) def. Muradyan (8%)
         SLM: CAL - Ivanov (94%) def. Muradyan (6%)
         TRN: CAL - Ivanov (92%) def. Muradyan (8%)
-        MAS: CAL - Ivanov (61%) def. Muradyan (39%)
+        MAS: SJSU - Muradyan (NaN%) def. Ivanov (NaN%)
         UTR: CAL - Ivanov (91%) def. Muradyan (9%)
         ITA: SJSU - Muradyan (3.64) def. Ivanov (1.97)
     - Position: 4
       CAL: Jada Bui - 8-5 at 4, 10-6 in duals, 10-6 overall
       SJSU: Lara Marco Mas - 4-5 at 4, 6-5 in duals, 6-5 overall
       Predictions:
-        AVG: CAL - Bui (96%) def. Mas (4%)
+        AVG: CAL - Bui (97%) def. Mas (3%)
         SLM: CAL - Bui (98%) def. Mas (2%)
         TRN: CAL - Bui (99%) def. Mas (1%)
-        MAS: CAL - Bui (95%) def. Mas (5%)
+        MAS: SJSU - Mas (NaN%) def. Bui (NaN%)
         UTR: CAL - Bui (94%) def. Mas (6%)
         ITA: CAL - Bui (1.95) def. Mas (1.77)
     - Position: 5
       CAL: Hannah Viller Moeller - 8-5 at 5, 14-7 in duals, 14-7 overall
       SJSU: Raquel Villan Pereira - 9-2 at 5, 9-2 in duals, 9-2 overall
       Predictions:
-        AVG: CAL - Moeller (96%) def. Pereira (4%)
+        AVG: CAL - Moeller (99%) def. Pereira (1%)
         SLM: CAL - Moeller (98%) def. Pereira (2%)
         TRN: CAL - Moeller (98%) def. Pereira (2%)
-        MAS: CAL - Moeller (88%) def. Pereira (12%)
+        MAS: SJSU - Pereira (NaN%) def. Moeller (NaN%)
         UTR: CAL - Moeller (99%) def. Pereira (1%)
         ITA: SJSU - Pereira (3.01) def. Moeller (1.79)
     - Position: 6
@@ -111,7 +111,7 @@ Lineups:
         AVG: CAL - Bright (98%) def. Babic (2%)
         SLM: CAL - Bright (99%) def. Babic (1%)
         TRN: CAL - Bright (99%) def. Babic (1%)
-        MAS: CAL - Bright (98%) def. Babic (2%)
+        MAS: SJSU - Babic (NaN%) def. Bright (NaN%)
         UTR: CAL - Bright (97%) def. Babic (3%)
         ITA: CAL - Bright (2.79) def. Babic (2.68)
   Doubles:

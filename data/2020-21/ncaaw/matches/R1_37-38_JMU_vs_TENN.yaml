@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 12:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 37-38
 Title: James Madison vs Tennessee
@@ -35,11 +36,10 @@ Visitor:
     MAS: 46 (6.46)
     UTR: 47 (56.89)
 Predictions:
-  AVG: TENN - Tennessee (97%) def. James Madison (3%)
   SLM: "TENN - #19 Tennessee (97%) def. #47 James Madison (3%)"
   TRN: "TENN - #19 Tennessee (98%) def. #47 James Madison (2%)"
-  MAS: "TENN - #19 Tennessee (95%) def. #46 James Madison (5%)"
-  LNUP: TENN - Tennessee (98%) def. James Madison (2%)
+  MAS: "JMU - #46 James Madison (NaN%) def. #19 Tennessee (NaN%)"
+  LNUP: TENN - Tennessee (99%) def. James Madison (1%)
   UTR: "TENN - #22 Tennessee (+4.72) def. #47 James Madison (-4.72)"
   ITA: "TENN - #15 Tennessee def. #46 James Madison"
   USTA: "TENN - #19 Tennessee def. James Madison"
@@ -47,11 +47,11 @@ Predictions:
   Seeding: "TENN - #2 Tennessee def. #3 James Madison"
 Lineups:
   Predictions:
-    Average EWPs for TENN: 97%,98%,95%,98%
-    Average EWPs for JMU: 3%,2%,5%,2%
-    TENN wins 4 or more Singles points: 95%
-    JMU wins 4 or more Singles points: 1%
-    Winner decided by the Doubles point: 4%
+    Average EWPs for TENN: 97%,98%,NaN%,100%
+    Average EWPs for JMU: 3%,2%,NaN%,0%
+    TENN wins 4 or more Singles points: 97%
+    JMU wins 4 or more Singles points: 0%
+    Winner decided by the Doubles point: 3%
   Singles:
     - Position: 1
       TENN: Rebeka Mertena - 2-2 at 1, 11-6 in duals, 15-14 overall
@@ -60,57 +60,57 @@ Lineups:
         AVG: TENN - Mertena (73%) def. Afanasyeva (27%)
         SLM: TENN - Mertena (62%) def. Afanasyeva (38%)
         TRN: TENN - Mertena (67%) def. Afanasyeva (33%)
-        MAS: TENN - Mertena (74%) def. Afanasyeva (26%)
+        MAS: JMU - Afanasyeva (NaN%) def. Mertena (NaN%)
         UTR: TENN - Mertena (91%) def. Afanasyeva (9%)
         ITA: TENN - Mertena (7.45) def. Afanasyeva (2.51)
     - Position: 2
       TENN: Eleonora Molinaro - 1-2 at 2, 3-9 in duals, 3-9 overall
       JMU: Jona Roka - 10-4 at 2, 10-4 in duals, 10-4 overall
       Predictions:
-        AVG: TENN - Molinaro (82%) def. Roka (18%)
+        AVG: TENN - Molinaro (87%) def. Roka (13%)
         SLM: TENN - Molinaro (85%) def. Roka (15%)
         TRN: TENN - Molinaro (84%) def. Roka (16%)
-        MAS: TENN - Molinaro (67%) def. Roka (33%)
+        MAS: JMU - Roka (NaN%) def. Molinaro (NaN%)
         UTR: TENN - Molinaro (92%) def. Roka (8%)
         ITA: TENN - Molinaro (5.46) def. Roka (2.41)
     - Position: 3
       TENN: Carly Briggs - 3-4 at 3, 6-12 in duals, 15-15 overall
       JMU: Natalia Nikolopoulou - 7-5 at 3, 8-5 in duals, 8-5 overall
       Predictions:
-        AVG: TENN - Briggs (93%) def. Nikolopoulou (7%)
+        AVG: TENN - Briggs (95%) def. Nikolopoulou (5%)
         SLM: TENN - Briggs (95%) def. Nikolopoulou (5%)
         TRN: TENN - Briggs (94%) def. Nikolopoulou (6%)
-        MAS: TENN - Briggs (87%) def. Nikolopoulou (13%)
+        MAS: JMU - Nikolopoulou (NaN%) def. Briggs (NaN%)
         UTR: TENN - Briggs (95%) def. Nikolopoulou (5%)
         ITA: TENN - Briggs (8.89) def. Nikolopoulou (2.10)
     - Position: 4
       TENN: Daria Kuczer - 8-1 at 4, 19-2 in duals, 25-7 overall
       JMU: Kylie Moulin - 12-1 at 4, 13-2 in duals, 13-2 overall
       Predictions:
-        AVG: TENN - Kuczer (89%) def. Moulin (11%)
+        AVG: TENN - Kuczer (91%) def. Moulin (9%)
         SLM: TENN - Kuczer (90%) def. Moulin (10%)
         TRN: TENN - Kuczer (91%) def. Moulin (9%)
-        MAS: TENN - Kuczer (85%) def. Moulin (15%)
+        MAS: JMU - Moulin (NaN%) def. Kuczer (NaN%)
         UTR: TENN - Kuczer (91%) def. Moulin (9%)
         ITA: TENN - Kuczer (3.41) def. Moulin (3.15)
     - Position: 5
       TENN: Tenika McGiffin - 6-0 at 5, 15-4 in duals, 20-12 overall
       JMU: Alexis Franco - 10-1 at 5, 14-2 in duals, 14-2 overall
       Predictions:
-        AVG: TENN - McGiffin (80%) def. Franco (20%)
+        AVG: TENN - McGiffin (84%) def. Franco (16%)
         SLM: TENN - McGiffin (86%) def. Franco (14%)
         TRN: TENN - McGiffin (79%) def. Franco (21%)
-        MAS: TENN - McGiffin (68%) def. Franco (32%)
+        MAS: JMU - Franco (NaN%) def. McGiffin (NaN%)
         UTR: TENN - McGiffin (88%) def. Franco (12%)
         ITA: JMU - Franco (3.01) def. McGiffin (1.61)
     - Position: 6
       TENN: Johanna Silva - 9-1 at 6, 9-4 in duals, 12-10 overall
       JMU: Daniela Voloh - 9-1 at 6, 12-1 in duals, 12-1 overall
       Predictions:
-        AVG: TENN - Silva (85%) def. Voloh (15%)
+        AVG: TENN - Silva (88%) def. Voloh (12%)
         SLM: TENN - Silva (90%) def. Voloh (10%)
         TRN: TENN - Silva (87%) def. Voloh (13%)
-        MAS: TENN - Silva (78%) def. Voloh (22%)
+        MAS: JMU - Voloh (NaN%) def. Silva (NaN%)
         UTR: TENN - Silva (86%) def. Voloh (14%)
         ITA: JMU - Voloh (3.50) def. Silva (1.85)
   Doubles:

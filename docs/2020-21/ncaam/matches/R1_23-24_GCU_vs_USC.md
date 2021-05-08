@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 4:00 EDT  
+2021 Division I Men's Tennis Championship  
 David X. Marks Tennis Stadium  
 Los Angeles, California  
 ## [Grand Canyon vs #12 Southern California](https://www.ncaa.com/game/5833381)  
@@ -12,7 +13,7 @@ Los Angeles, California
 &nbsp; ITA: 64 (1.38)<br>  
 &nbsp; Slam: 62 (81.82)<br>  
 &nbsp; TRN: 62 (76.83)<br>  
-&nbsp; Massey: 62 (5.21)<br>  
+&#10004; Massey: 62 (5.21)<br>  
 &nbsp; UTR: 56 (71.32)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Los Angeles, California
 &#10004; ITA: 12 (52.23)<br>  
 &#10004; Slam: 14 (96.38)<br>  
 &#10004; TRN: 16 (94.47)<br>  
-&#10004; Massey: 8 (8.62)<br>  
+&nbsp; Massey: 8 (8.62)<br>  
 &#10004; UTR: 2 (80.29)<br>  
 &#10004; USTA Poll: 13<br>  
 &#10004; Coaches Poll: 12<br>  
@@ -42,10 +43,9 @@ Los Angeles, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***USC*** - Southern California (99%) def. Grand Canyon (1%)  
 - Slam: ***USC*** - #14 Southern California (99%) def. #62 Grand Canyon (1%)  
 - TRN: ***USC*** - #16 Southern California (99%) def. #62 Grand Canyon (1%)  
-- Massey: ***USC*** - #8 Southern California (100%) def. #62 Grand Canyon (0%)  
+- Massey: ***GCU*** - #62 Grand Canyon (NaN%) def. #8 Southern California (NaN%)  
 - Lineup: ***USC*** - Southern California (99%) def. Grand Canyon (1%)  
 - UTR: ***USC*** - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)  
 - ITA: ***USC*** - #12 Southern California def. #64 Grand Canyon  
@@ -66,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Cukierman (98%) def. Lang (2%)</li>  
 <li>Slam: <b><i>USC</i></b> - Cukierman (98%) def. Lang (2%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cukierman (99%) def. Lang (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Cukierman (98%) def. Lang (2%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Lang (NaN%) def. Cukierman (NaN%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cukierman (97%) def. Lang (3%)</li>  
 <li>ITA: <b><i>USC</i></b> - Cukierman (16.39) def. Lang (1.42)</li>  
 </ul>
@@ -77,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Smith (98%) def. Argote (2%)</li>  
 <li>Slam: <b><i>USC</i></b> - Smith (98%) def. Argote (2%)</li>  
 <li>TRN: <b><i>USC</i></b> - Smith (99%) def. Argote (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Smith (97%) def. Argote (3%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Argote (NaN%) def. Smith (NaN%)</li>  
 <li>UTR: <b><i>USC</i></b> - Smith (97%) def. Argote (3%)</li>  
 <li>ITA: <b><i>USC</i></b> - Smith (15.48) def. Argote (1.91)</li>  
 </ul>
@@ -88,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Dostanic (99%) def. Cvitanovic (1%)</li>  
 <li>Slam: <b><i>USC</i></b> - Dostanic (99%) def. Cvitanovic (1%)</li>  
 <li>TRN: <b><i>USC</i></b> - Dostanic (99%) def. Cvitanovic (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Dostanic (99%) def. Cvitanovic (1%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Cvitanovic (NaN%) def. Dostanic (NaN%)</li>  
 <li>UTR: <b><i>USC</i></b> - Dostanic (98%) def. Cvitanovic (2%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dostanic (5.43) def. Cvitanovic (0.00)</li>  
 </ul>
@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Frye (99%) def. Silva (1%)</li>  
 <li>Slam: <b><i>USC</i></b> - Frye (99%) def. Silva (1%)</li>  
 <li>TRN: <b><i>USC</i></b> - Frye (99%) def. Silva (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Frye (99%) def. Silva (1%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Silva (NaN%) def. Frye (NaN%)</li>  
 <li>UTR: <b><i>USC</i></b> - Frye (98%) def. Silva (2%)</li>  
 <li>ITA: <b><i>USC</i></b> - Frye (2.44) def. Silva (1.73)</li>  
 </ul>
@@ -107,10 +107,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jiri Novak (GCU) - 5-1 at #5, 8-9 in duals, 8-9 overall<br>Lodewijk Weststrate (USC) - 9-3 at #5, 21-4 in duals, 23-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>USC</i></b> - Weststrate (98%) def. Novak (2%)</li>  
+<li>Composite: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
 <li>Slam: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
 <li>TRN: <b><i>USC</i></b> - Weststrate (99%) def. Novak (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Weststrate (98%) def. Novak (2%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Novak (NaN%) def. Weststrate (NaN%)</li>  
 <li>UTR: <b><i>USC</i></b> - Weststrate (98%) def. Novak (2%)</li>  
 <li>ITA: <b><i>USC</i></b> - Weststrate (2.93) def. Novak (1.55)</li>  
 </ul>
@@ -121,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>USC</i></b> - Sands (97%) def. Grant (3%)</li>  
 <li>Slam: <b><i>USC</i></b> - Sands (98%) def. Grant (2%)</li>  
 <li>TRN: <b><i>USC</i></b> - Sands (99%) def. Grant (1%)</li>  
-<li>Massey: <b><i>USC</i></b> - Sands (95%) def. Grant (5%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Grant (NaN%) def. Sands (NaN%)</li>  
 <li>UTR: <b><i>USC</i></b> - Sands (94%) def. Grant (6%)</li>  
 <li>ITA: <b><i>USC</i></b> - Sands (2.42) def. Grant (1.60)</li>  
 </ul>

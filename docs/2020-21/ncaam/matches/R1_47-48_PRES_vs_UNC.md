@@ -1,5 +1,6 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
+2021 Division I Men's Tennis Championship  
 Cone-Kenfield Center  
 Chapel Hill, North Carolina  
 ## [Presbyterian vs #6 North Carolina](https://www.ncaa.com/game/5833393)  
@@ -12,7 +13,7 @@ Chapel Hill, North Carolina
 &nbsp; ITA: 59 (3.97)<br>  
 &nbsp; Slam: 59 (82.26)<br>  
 &nbsp; TRN: 59 (77.90)<br>  
-&nbsp; Massey: 61 (5.23)<br>  
+&#10004; Massey: 61 (5.23)<br>  
 &nbsp; UTR: 61 (70.28)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Chapel Hill, North Carolina
 &#10004; ITA: 6 (72.02)<br>  
 &#10004; Slam: 3 (99.37)<br>  
 &#10004; TRN: 2 (99.37)<br>  
-&#10004; Massey: 4 (8.94)<br>  
+&nbsp; Massey: 4 (8.94)<br>  
 &#10004; UTR: 11 (79.64)<br>  
 &#10004; USTA Poll: 5<br>  
 &#10004; Coaches Poll: 6<br>  
@@ -39,10 +40,9 @@ Chapel Hill, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UNC*** - North Carolina (99%) def. Presbyterian (1%)  
 - Slam: ***UNC*** - #3 North Carolina (99%) def. #59 Presbyterian (1%)  
 - TRN: ***UNC*** - #2 North Carolina (99%) def. #59 Presbyterian (1%)  
-- Massey: ***UNC*** - #4 North Carolina (100%) def. #61 Presbyterian (0%)  
+- Massey: ***PRES*** - #61 Presbyterian (NaN%) def. #4 North Carolina (NaN%)  
 - Lineup: ***UNC*** - North Carolina (99%) def. Presbyterian (1%)  
 - UTR: ***UNC*** - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)  
 - ITA: ***UNC*** - #6 North Carolina def. #59 Presbyterian  
@@ -63,7 +63,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Blumberg (98%) def. Benson (2%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Blumberg (98%) def. Benson (2%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Blumberg (99%) def. Benson (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Blumberg (96%) def. Benson (4%)</li>  
+<li>Massey: <b><i>PRES</i></b> - Benson (NaN%) def. Blumberg (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Blumberg (97%) def. Benson (3%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Blumberg (21.87) def. Benson (2.12)</li>  
 </ul>
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
+<li>Massey: <b><i>PRES</i></b> - Dominguez (NaN%) def. Hijikata (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Hijikata (98%) def. Dominguez (2%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Hijikata (27.96) def. Dominguez (0.00)</li>  
 </ul>
@@ -82,10 +82,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nick McKinney (PRES) - 3-1 at #3, 13-1 in duals, 13-1 overall<br>Benjamin Sigouin (UNC) - 3-2 at #3, 9-9 in duals, 9-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Sigouin (88%) def. McKinney (12%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Sigouin (94%) def. McKinney (6%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Sigouin (97%) def. McKinney (3%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Sigouin (96%) def. McKinney (4%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Sigouin (71%) def. McKinney (29%)</li>  
+<li>Massey: <b><i>PRES</i></b> - McKinney (NaN%) def. Sigouin (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Sigouin (89%) def. McKinney (11%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Sigouin (13.85) def. McKinney (3.59)</li>  
 </ul>
@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
+<li>Massey: <b><i>PRES</i></b> - Babic (NaN%) def. Cernoch (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Cernoch (12.67) def. Babic (0.00)</li>  
 </ul>
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Peck (98%) def. Stenger (2%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Peck (98%) def. Stenger (2%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Peck (99%) def. Stenger (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Peck (97%) def. Stenger (3%)</li>  
+<li>Massey: <b><i>PRES</i></b> - Stenger (NaN%) def. Peck (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Peck (98%) def. Stenger (2%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Peck (4.29) def. Stenger (1.37)</li>  
 </ul>
@@ -115,10 +115,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Javier Matos (PRES) - 6-2 at #6, 7-2 in duals, 7-2 overall<br>Simon Soendergaard (UNC) - 6-3 at #6, 10-5 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Soendergaard (96%) def. Matos (4%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Soendergaard (97%) def. Matos (3%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Soendergaard (98%) def. Matos (2%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Soendergaard (99%) def. Matos (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Soendergaard (91%) def. Matos (9%)</li>  
+<li>Massey: <b><i>PRES</i></b> - Matos (NaN%) def. Soendergaard (NaN%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Soendergaard (95%) def. Matos (5%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Soendergaard (3.62) def. Matos (2.56)</li>  
 </ul>

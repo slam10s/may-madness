@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 1:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 19-20
 Title: UC Santa Barbara vs Stanford
@@ -35,10 +36,9 @@ Visitor:
     MAS: 40 (6.75)
     UTR: 46 (57.03)
 Predictions:
-  AVG: STAN - Stanford (90%) def. UC Santa Barbara (10%)
   SLM: "STAN - #23 Stanford (81%) def. #39 UC Santa Barbara (19%)"
   TRN: "STAN - #24 Stanford (83%) def. #40 UC Santa Barbara (17%)"
-  MAS: "STAN - #15 Stanford (95%) def. #40 UC Santa Barbara (5%)"
+  MAS: "UCSB - #40 UC Santa Barbara (NaN%) def. #15 Stanford (NaN%)"
   LNUP: STAN - Stanford (99%) def. UC Santa Barbara (1%)
   UTR: "STAN - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)"
   ITA: "STAN - #28 Stanford def. #44 UC Santa Barbara"
@@ -47,30 +47,30 @@ Predictions:
   Seeding: "STAN - #2 Stanford def. #3 UC Santa Barbara"
 Lineups:
   Predictions:
-    Average EWPs for STAN: 81%,83%,95%,100%
-    Average EWPs for UCSB: 19%,17%,5%,0%
-    STAN wins 4 or more Singles points: 97%
+    Average EWPs for STAN: 81%,83%,NaN%,100%
+    Average EWPs for UCSB: 19%,17%,NaN%,0%
+    STAN wins 4 or more Singles points: 98%
     UCSB wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 3%
+    Winner decided by the Doubles point: 2%
   Singles:
     - Position: 1
       STAN: Michaela Gordon - 9-6 at 1, 9-6 in duals, 9-6 overall
       UCSB: Elizaveta Volodko - 9-4 at 1, 9-4 in duals, 9-4 overall
       Predictions:
-        AVG: STAN - Gordon (77%) def. Volodko (23%)
+        AVG: STAN - Gordon (80%) def. Volodko (20%)
         SLM: STAN - Gordon (76%) def. Volodko (24%)
         TRN: STAN - Gordon (76%) def. Volodko (24%)
-        MAS: STAN - Gordon (67%) def. Volodko (33%)
+        MAS: UCSB - Volodko (NaN%) def. Gordon (NaN%)
         UTR: STAN - Gordon (87%) def. Volodko (13%)
         ITA: STAN - Gordon (17.68) def. Volodko (4.21)
     - Position: 2
       STAN: Angelica Blake - 2-1 at 2, 7-2 in duals, 7-2 overall
       UCSB: Camille Kiss - 10-4 at 2, 10-4 in duals, 10-4 overall
       Predictions:
-        AVG: STAN - Blake (82%) def. Kiss (18%)
+        AVG: STAN - Blake (83%) def. Kiss (17%)
         SLM: STAN - Blake (75%) def. Kiss (25%)
         TRN: STAN - Blake (87%) def. Kiss (13%)
-        MAS: STAN - Blake (78%) def. Kiss (22%)
+        MAS: UCSB - Kiss (NaN%) def. Blake (NaN%)
         UTR: STAN - Blake (88%) def. Kiss (12%)
         ITA: STAN - Blake (5.37) def. Kiss (2.42)
     - Position: 3
@@ -80,37 +80,37 @@ Lineups:
         AVG: STAN - Arbuthnott (54%) def. Khatamova (46%)
         SLM: STAN - Arbuthnott (56%) def. Khatamova (44%)
         TRN: UCSB - Khatamova (73%) def. Arbuthnott (27%)
-        MAS: STAN - Arbuthnott (53%) def. Khatamova (47%)
+        MAS: UCSB - Khatamova (NaN%) def. Arbuthnott (NaN%)
         UTR: STAN - Arbuthnott (80%) def. Khatamova (20%)
         ITA: UCSB - Khatamova (6.05) def. Arbuthnott (1.89)
     - Position: 4
       STAN: Ana Geller - 1-3 at 4, 7-3 in duals, 7-3 overall
       UCSB: Lise Sentenac - 6-4 at 4, 6-7 in duals, 6-7 overall
       Predictions:
-        AVG: STAN - Geller (97%) def. Sentenac (3%)
+        AVG: STAN - Geller (98%) def. Sentenac (2%)
         SLM: STAN - Geller (98%) def. Sentenac (2%)
         TRN: STAN - Geller (98%) def. Sentenac (2%)
-        MAS: STAN - Geller (92%) def. Sentenac (8%)
+        MAS: UCSB - Sentenac (NaN%) def. Geller (NaN%)
         UTR: STAN - Geller (98%) def. Sentenac (2%)
         ITA: STAN - Geller (2.62) def. Sentenac (1.51)
     - Position: 5
       STAN: Sara Choy - 3-2 at 5, 13-4 in duals, 13-4 overall
       UCSB: Kira Reuter - 5-5 at 5, 5-7 in duals, 5-7 overall
       Predictions:
-        AVG: STAN - Choy (97%) def. Reuter (3%)
+        AVG: STAN - Choy (98%) def. Reuter (2%)
         SLM: STAN - Choy (98%) def. Reuter (2%)
         TRN: STAN - Choy (99%) def. Reuter (1%)
-        MAS: STAN - Choy (94%) def. Reuter (6%)
+        MAS: UCSB - Reuter (NaN%) def. Choy (NaN%)
         UTR: STAN - Choy (98%) def. Reuter (2%)
         ITA: STAN - Choy (2.38) def. Reuter (0.00)
     - Position: 6
       STAN: Emma Higuchi - 10-3 at 6, 14-3 in duals, 14-3 overall
       UCSB: Marta Gonzalez Ballbe - 6-3 at 6, 7-4 in duals, 7-4 overall
       Predictions:
-        AVG: STAN - Higuchi (97%) def. Ballbe (3%)
+        AVG: STAN - Higuchi (98%) def. Ballbe (2%)
         SLM: STAN - Higuchi (97%) def. Ballbe (3%)
         TRN: STAN - Higuchi (98%) def. Ballbe (2%)
-        MAS: STAN - Higuchi (92%) def. Ballbe (8%)
+        MAS: UCSB - Ballbe (NaN%) def. Higuchi (NaN%)
         UTR: STAN - Higuchi (99%) def. Ballbe (1%)
         ITA: STAN - Higuchi (2.68) def. Ballbe (2.38)
   Doubles:

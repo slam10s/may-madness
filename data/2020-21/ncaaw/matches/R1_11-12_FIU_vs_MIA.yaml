@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 12:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 11-12
 Title: FIU vs Miami (FL)
@@ -38,10 +39,9 @@ Visitor:
     USTA: RV
     Coach: 50
 Predictions:
-  AVG: MIA - Miami (FL) (82%) def. FIU (18%)
   SLM: "MIA - #22 Miami (FL) (74%) def. #30 FIU (26%)"
   TRN: "MIA - #21 Miami (FL) (63%) def. #29 FIU (37%)"
-  MAS: "MIA - #17 Miami (FL) (92%) def. #37 FIU (8%)"
+  MAS: "FIU - #37 FIU (NaN%) def. #17 Miami (FL) (NaN%)"
   LNUP: MIA - Miami (FL) (97%) def. FIU (3%)
   UTR: "MIA - #19 Miami (FL) (+2.89) def. #42 FIU (-2.89)"
   ITA: "MIA - #24 Miami (FL) def. #41 FIU"
@@ -50,59 +50,59 @@ Predictions:
   Seeding: "MIA - #2 Miami (FL) def. #3 FIU"
 Lineups:
   Predictions:
-    Average EWPs for MIA: 74%,63%,92%,97%
-    Average EWPs for FIU: 26%,37%,8%,3%
-    MIA wins 4 or more Singles points: 87%
+    Average EWPs for MIA: 74%,63%,NaN%,97%
+    Average EWPs for FIU: 26%,37%,NaN%,3%
+    MIA wins 4 or more Singles points: 88%
     FIU wins 4 or more Singles points: 2%
-    Winner decided by the Doubles point: 11%
+    Winner decided by the Doubles point: 10%
   Singles:
     - Position: 1
       MIA: Estela Perez-Somarriba - 19-2 at 1, 19-2 in duals, 19-2 overall
       FIU: Kamila Umarova - 10-2 at 1, 10-2 in duals, 10-2 overall
       Predictions:
-        AVG: MIA - Perez-Somarriba (95%) def. Umarova (5%)
+        AVG: MIA - Perez-Somarriba (96%) def. Umarova (4%)
         SLM: MIA - Perez-Somarriba (95%) def. Umarova (5%)
         TRN: MIA - Perez-Somarriba (97%) def. Umarova (3%)
-        MAS: MIA - Perez-Somarriba (93%) def. Umarova (7%)
+        MAS: FIU - Umarova (NaN%) def. Perez-Somarriba (NaN%)
         UTR: MIA - Perez-Somarriba (95%) def. Umarova (5%)
         ITA: MIA - Perez-Somarriba (69.45) def. Umarova (3.07)
     - Position: 2
       MIA: Isabella Pfennig - 12-4 at 2, 16-4 in duals, 16-4 overall
       FIU: Marina Alcaide - 3-0 at 2, 11-0 in duals, 11-0 overall
       Predictions:
-        AVG: MIA - Pfennig (82%) def. Alcaide (18%)
+        AVG: MIA - Pfennig (86%) def. Alcaide (14%)
         SLM: MIA - Pfennig (83%) def. Alcaide (17%)
         TRN: MIA - Pfennig (87%) def. Alcaide (13%)
-        MAS: MIA - Pfennig (70%) def. Alcaide (30%)
+        MAS: FIU - Alcaide (NaN%) def. Pfennig (NaN%)
         UTR: MIA - Pfennig (88%) def. Alcaide (12%)
         ITA: MIA - Pfennig (32.52) def. Alcaide (6.23)
     - Position: 3
       MIA: Daevenia Achong - 7-6 at 3, 7-11 in duals, 7-11 overall
       FIU: Andjela Skrobonja - 0-0 at 3, 10-2 in duals, 10-2 overall
       Predictions:
-        AVG: MIA - Achong (54%) def. Skrobonja (46%)
+        AVG: MIA - Achong (58%) def. Skrobonja (42%)
         SLM: MIA - Achong (67%) def. Skrobonja (33%)
         TRN: MIA - Achong (58%) def. Skrobonja (42%)
-        MAS: FIU - Skrobonja (58%) def. Achong (42%)
+        MAS: FIU - Skrobonja (NaN%) def. Achong (NaN%)
         ITA: FIU - Skrobonja (2.97) def. Achong (1.49)
     - Position: 4
       MIA: Florencia Urrutia - 11-4 at 4, 12-8 in duals, 12-8 overall
       FIU: Basak Akbas - 0-0 at 4, 5-5 in duals, 5-5 overall
       Predictions:
-        AVG: MIA - Urrutia (65%) def. Akbas (35%)
+        AVG: MIA - Urrutia (64%) def. Akbas (36%)
         SLM: FIU - Akbas (52%) def. Urrutia (48%)
         TRN: MIA - Urrutia (63%) def. Akbas (37%)
-        MAS: MIA - Urrutia (68%) def. Akbas (32%)
+        MAS: FIU - Akbas (NaN%) def. Urrutia (NaN%)
         UTR: MIA - Urrutia (82%) def. Akbas (18%)
         ITA: MIA - Urrutia (1.96) def. Akbas (1.61)
     - Position: 5
       MIA: Diana Khodan - 5-5 at 5, 12-7 in duals, 12-7 overall
       FIU: Andreea Velcea - 6-2 at 5, 9-2 in duals, 9-2 overall
       Predictions:
-        AVG: MIA - Khodan (65%) def. Velcea (35%)
+        AVG: MIA - Khodan (60%) def. Velcea (40%)
         SLM: MIA - Khodan (79%) def. Velcea (21%)
         TRN: MIA - Khodan (83%) def. Velcea (17%)
-        MAS: MIA - Khodan (78%) def. Velcea (22%)
+        MAS: FIU - Velcea (NaN%) def. Khodan (NaN%)
         UTR: FIU - Velcea (82%) def. Khodan (18%)
         ITA: FIU - Velcea (3.05) def. Khodan (1.90)
     - Position: 6
@@ -112,7 +112,7 @@ Lineups:
         AVG: MIA - Tahan (96%) def. Miletic (4%)
         SLM: MIA - Tahan (96%) def. Miletic (4%)
         TRN: MIA - Tahan (98%) def. Miletic (2%)
-        MAS: MIA - Tahan (95%) def. Miletic (5%)
+        MAS: FIU - Miletic (NaN%) def. Tahan (NaN%)
         UTR: MIA - Tahan (95%) def. Miletic (5%)
         ITA: MIA - Tahan (2.26) def. Miletic (0.00)
   Doubles:

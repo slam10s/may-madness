@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 2:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 47-48
 Title: "VCU vs #6 NC State"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 48 (6.03)
     UTR: 48 (55.75)
 Predictions:
-  AVG: NCST - NC State (99%) def. VCU (1%)
   SLM: "NCST - #11 NC State (99%) def. #48 VCU (1%)"
   TRN: "NCST - #10 NC State (99%) def. #48 VCU (1%)"
-  MAS: "NCST - #6 NC State (99%) def. #48 VCU (1%)"
+  MAS: "VCU - #48 VCU (NaN%) def. #6 NC State (NaN%)"
   LNUP: NCST - NC State (99%) def. VCU (1%)
   UTR: "NCST - #9 NC State (+7.24) def. #48 VCU (-7.24)"
   ITA: "NCST - #6 NC State def. #49 VCU"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "NCST - #1 NC State def. #4 VCU"
 Lineups:
   Predictions:
-    Average EWPs for NCST: 99%,99%,99%,100%
-    Average EWPs for VCU: 1%,1%,1%,0%
+    Average EWPs for NCST: 99%,99%,NaN%,100%
+    Average EWPs for VCU: 1%,1%,NaN%,0%
     NCST wins 4 or more Singles points: 100%
     VCU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,7 +61,7 @@ Lineups:
         AVG: NCST - Rogers (84%) def. Diaz-Delgado (16%)
         SLM: NCST - Rogers (85%) def. Diaz-Delgado (15%)
         TRN: NCST - Rogers (81%) def. Diaz-Delgado (19%)
-        MAS: NCST - Rogers (85%) def. Diaz-Delgado (15%)
+        MAS: VCU - Diaz-Delgado (NaN%) def. Rogers (NaN%)
         UTR: NCST - Rogers (85%) def. Diaz-Delgado (15%)
         ITA: NCST - Rogers (48.19) def. Diaz-Delgado (5.71)
     - Position: 2
@@ -71,47 +71,47 @@ Lineups:
         AVG: NCST - Smith (97%) def. Tutunaru (3%)
         SLM: NCST - Smith (96%) def. Tutunaru (4%)
         TRN: NCST - Smith (98%) def. Tutunaru (2%)
-        MAS: NCST - Smith (96%) def. Tutunaru (4%)
+        MAS: VCU - Tutunaru (NaN%) def. Smith (NaN%)
         UTR: NCST - Smith (97%) def. Tutunaru (3%)
         ITA: NCST - Smith (22.32) def. Tutunaru (1.60)
     - Position: 3
       NCST: Adriana Reami - 12-4 at 3, 15-5 in duals, 16-9 overall
       VCU: Alessia Ciuca - 10-7 at 3, 10-11 in duals, 10-11 overall
       Predictions:
-        AVG: NCST - Reami (96%) def. Ciuca (4%)
+        AVG: NCST - Reami (97%) def. Ciuca (3%)
         SLM: NCST - Reami (96%) def. Ciuca (4%)
         TRN: NCST - Reami (97%) def. Ciuca (3%)
-        MAS: NCST - Reami (93%) def. Ciuca (7%)
+        MAS: VCU - Ciuca (NaN%) def. Reami (NaN%)
         UTR: NCST - Reami (97%) def. Ciuca (3%)
         ITA: NCST - Reami (4.00) def. Ciuca (1.68)
     - Position: 4
       NCST: Jaeda Daniel - 10-6 at 4, 11-8 in duals, 13-10 overall
       VCU: Gabriela Davidescu - 9-8 at 4, 10-8 in duals, 10-8 overall
       Predictions:
-        AVG: NCST - Daniel (95%) def. Davidescu (5%)
+        AVG: NCST - Daniel (96%) def. Davidescu (4%)
         SLM: NCST - Daniel (96%) def. Davidescu (4%)
         TRN: NCST - Daniel (95%) def. Davidescu (5%)
-        MAS: NCST - Daniel (92%) def. Davidescu (8%)
+        MAS: VCU - Davidescu (NaN%) def. Daniel (NaN%)
         UTR: NCST - Daniel (96%) def. Davidescu (4%)
         ITA: NCST - Daniel (1.87) def. Davidescu (1.64)
     - Position: 5
       NCST: Abigail Rencheli - 5-2 at 5, 10-4 in duals, 13-5 overall
       VCU: Noumea Witmus - 9-3 at 5, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: NCST - Rencheli (94%) def. Witmus (6%)
+        AVG: NCST - Rencheli (96%) def. Witmus (4%)
         SLM: NCST - Rencheli (95%) def. Witmus (5%)
         TRN: NCST - Rencheli (97%) def. Witmus (3%)
-        MAS: NCST - Rencheli (88%) def. Witmus (12%)
+        MAS: VCU - Witmus (NaN%) def. Rencheli (NaN%)
         UTR: NCST - Rencheli (96%) def. Witmus (4%)
         ITA: NCST - Rencheli (7.12) def. Witmus (2.03)
     - Position: 6
       NCST: Lexi Keberle - 2-4 at 6, 13-6 in duals, 16-8 overall
       VCU: Shivani Manjanna - 8-6 at 6, 11-7 in duals, 11-7 overall
       Predictions:
-        AVG: NCST - Keberle (96%) def. Manjanna (4%)
+        AVG: NCST - Keberle (97%) def. Manjanna (3%)
         SLM: NCST - Keberle (97%) def. Manjanna (3%)
         TRN: NCST - Keberle (98%) def. Manjanna (2%)
-        MAS: NCST - Keberle (92%) def. Manjanna (8%)
+        MAS: VCU - Manjanna (NaN%) def. Keberle (NaN%)
         UTR: NCST - Keberle (96%) def. Manjanna (4%)
         ITA: VCU - Manjanna (1.77) def. Keberle (1.71)
   Doubles:

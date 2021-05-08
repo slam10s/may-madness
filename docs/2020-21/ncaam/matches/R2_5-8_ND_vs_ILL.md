@@ -1,5 +1,6 @@
 Second Round  
 Saturday, May 8 at 2:00 EDT  
+2021 Division I Men's Tennis Championship  
 Atkins Tennis Center  
 Urbana, Illinois  
 ## [Notre Dame vs #16 Illinois](https://www.ncaa.com/game/5833403)  
@@ -12,7 +13,7 @@ Urbana, Illinois
 &nbsp; ITA: 34 (25.22)<br>  
 &nbsp; Slam: 40 (91.96)<br>  
 &nbsp; TRN: 42 (89.57)<br>  
-&nbsp; Massey: 36 (7.36)<br>  
+&#10004; Massey: 36 (7.36)<br>  
 &nbsp; UTR: 38 (76.38)<br>  
 &nbsp; Coaches Poll: 37<br>  
 <br>  
@@ -25,7 +26,7 @@ Urbana, Illinois
 &#10004; ITA: 18 (36.82)<br>  
 &#10004; Slam: 6 (98.81)<br>  
 &#10004; TRN: 4 (98.96)<br>  
-&#10004; Massey: 9 (8.60)<br>  
+&nbsp; Massey: 9 (8.60)<br>  
 &#10004; UTR: 15 (78.92)<br>  
 &#10004; USTA Poll: 8<br>  
 &#10004; Coaches Poll: 13<br>  
@@ -40,10 +41,9 @@ Urbana, Illinois
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***ILL*** - Illinois (95%) def. Notre Dame (5%)  
 - Slam: ***ILL*** - #6 Illinois (98%) def. #40 Notre Dame (2%)  
 - TRN: ***ILL*** - #4 Illinois (99%) def. #42 Notre Dame (1%)  
-- Massey: ***ILL*** - #9 Illinois (85%) def. #36 Notre Dame (15%)  
+- Massey: ***ND*** - #36 Notre Dame (NaN%) def. #9 Illinois (NaN%)  
 - Lineup: ***ILL*** - Illinois (98%) def. Notre Dame (2%)  
 - UTR: ***ILL*** - #15 Illinois (+2.54) def. #38 Notre Dame (-2.54)  
 - ITA: ***ILL*** - #18 Illinois def. #34 Notre Dame  
@@ -61,10 +61,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Axel Nefve (ND) - 13-2 at #1, 18-3 in duals, 18-3 overall<br>Aleks Kovacevic (ILL) - 10-1 at #1, 10-1 in duals, 10-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ILL</i></b> - Kovacevic (76%) def. Nefve (24%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Kovacevic (77%) def. Nefve (23%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Kovacevic (77%) def. Nefve (23%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Kovacevic (71%) def. Nefve (29%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Kovacevic (74%) def. Nefve (26%)</li>  
+<li>Massey: <b><i>ND</i></b> - Nefve (NaN%) def. Kovacevic (NaN%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Kovacevic (82%) def. Nefve (18%)</li>  
 <li>ITA: <b><i>ND</i></b> - Nefve (21.49) def. Kovacevic (4.00)</li>  
 </ul>
@@ -75,7 +75,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Montsi (68%) def. Ciamarra (32%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Montsi (65%) def. Ciamarra (35%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Montsi (75%) def. Ciamarra (25%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Montsi (67%) def. Ciamarra (33%)</li>  
+<li>Massey: <b><i>ND</i></b> - Ciamarra (NaN%) def. Montsi (NaN%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Montsi (64%) def. Ciamarra (36%)</li>  
 <li>ITA: <b><i>ND</i></b> - Ciamarra (8.18) def. Montsi (4.79)</li>  
 </ul>
@@ -83,10 +83,9 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Tristan McCormick (ND) - 8-5 at #3, 10-6 in duals, 10-6 overall<br>Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ND</i></b> - McCormick (51%) def. Brown (49%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Brown (66%) def. McCormick (34%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (58%) def. McCormick (42%)</li>  
-<li>Massey: <b><i>ND</i></b> - McCormick (52%) def. Brown (48%)</li>  
+<li>Massey: <b><i>ND</i></b> - McCormick (NaN%) def. Brown (NaN%)</li>  
 <li>UTR: <b><i>ND</i></b> - McCormick (73%) def. Brown (27%)</li>  
 <li>ITA: <b><i>ND</i></b> - McCormick (3.76) def. Brown (1.47)</li>  
 </ul>
@@ -105,10 +104,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Matthew Che (ND) - 0-1 at #5, 6-12 in duals, 6-12 overall<br>Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ILL</i></b> - Heck (89%) def. Che (11%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Heck (90%) def. Che (10%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Heck (87%) def. Che (13%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Heck (94%) def. Che (6%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Heck (84%) def. Che (16%)</li>  
+<li>Massey: <b><i>ND</i></b> - Che (NaN%) def. Heck (NaN%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Heck (89%) def. Che (11%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Heck (2.36) def. Che (0.00)</li>  
 </ul>
@@ -116,10 +115,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Connor Fu (ND) - 0-1 at #6, 12-9 in duals, 12-9 overall<br>Noe Khlif (ILL) - 5-0 at #6, 15-1 in duals, 15-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ILL</i></b> - Khlif (88%) def. Fu (12%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Khlif (89%) def. Fu (11%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Khlif (89%) def. Fu (11%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Khlif (93%) def. Fu (7%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Khlif (85%) def. Fu (15%)</li>  
+<li>Massey: <b><i>ND</i></b> - Fu (NaN%) def. Khlif (NaN%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Khlif (85%) def. Fu (15%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Khlif (3.59) def. Fu (1.57)</li>  
 </ul>
@@ -146,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Illinois should win 4 or more singles matches _90%_ of the time.  
+- Illinois should win 4 or more singles matches _91%_ of the time.  
 - Notre Dame should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _9%_ of the time.  
+- The winner of the doubles point will decide the match the other _8%_ of the time.  
 - If Illinois wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Notre Dame wins the doubles point, their chances of winning the dual improve to _10%_.  
+- If Notre Dame wins the doubles point, their chances of winning the dual improve to _9%_.  
   
 ------
 

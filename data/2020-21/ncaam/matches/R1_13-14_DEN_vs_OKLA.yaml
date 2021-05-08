@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 12:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 13-14
 Title: Denver vs Oklahoma
@@ -36,81 +37,80 @@ Visitor:
   Polls:
     Coach: 44
 Predictions:
-  AVG: OKLA - Oklahoma (70%) def. Denver (30%)
   SLM: "OKLA - #29 Oklahoma (68%) def. #42 Denver (32%)"
   TRN: "OKLA - #28 Oklahoma (59%) def. #35 Denver (41%)"
-  MAS: "OKLA - #37 Oklahoma (57%) def. #38 Denver (43%)"
-  LNUP: OKLA - Oklahoma (95%) def. Denver (5%)
+  MAS: "DEN - #38 Denver (NaN%) def. #37 Oklahoma (NaN%)"
+  LNUP: OKLA - Oklahoma (97%) def. Denver (3%)
   UTR: "OKLA - #28 Oklahoma (+3.10) def. #46 Denver (-3.10)"
   ITA: "OKLA - #27 Oklahoma def. #45 Denver"
   Coach: "OKLA - #26 Oklahoma def. #44 Denver"
   Seeding: "OKLA - #2 Oklahoma def. #3 Denver"
 Lineups:
   Predictions:
-    Average EWPs for OKLA: 68%,59%,57%,95%
-    Average EWPs for DEN: 32%,41%,43%,5%
-    OKLA wins 4 or more Singles points: 82%
-    DEN wins 4 or more Singles points: 4%
-    Winner decided by the Doubles point: 14%
+    Average EWPs for OKLA: 68%,59%,NaN%,97%
+    Average EWPs for DEN: 32%,41%,NaN%,3%
+    OKLA wins 4 or more Singles points: 90%
+    DEN wins 4 or more Singles points: 2%
+    Winner decided by the Doubles point: 8%
   Singles:
     - Position: 1
       OKLA: Jake Van Emburgh - 4-9 at 1, 8-10 in duals, 8-13 overall
       DEN: James Davis - 4-1 at 1, 14-2 in duals, 14-2 overall
       Predictions:
-        AVG: OKLA - Emburgh (57%) def. Davis (43%)
+        AVG: OKLA - Emburgh (63%) def. Davis (37%)
         SLM: OKLA - Emburgh (57%) def. Davis (43%)
         TRN: OKLA - Emburgh (53%) def. Davis (47%)
-        MAS: DEN - Davis (60%) def. Emburgh (40%)
+        MAS: DEN - Davis (NaN%) def. Emburgh (NaN%)
         UTR: OKLA - Emburgh (79%) def. Davis (21%)
         ITA: OKLA - Emburgh (7.98) def. Davis (6.67)
     - Position: 2
       OKLA: Mason Beiler - 7-4 at 2, 11-8 in duals, 16-13 overall
       DEN: Mattia Ros - 4-1 at 2, 8-8 in duals, 8-8 overall
       Predictions:
-        AVG: OKLA - Beiler (86%) def. Ros (14%)
+        AVG: OKLA - Beiler (89%) def. Ros (11%)
         SLM: OKLA - Beiler (80%) def. Ros (20%)
         TRN: OKLA - Beiler (93%) def. Ros (7%)
-        MAS: OKLA - Beiler (79%) def. Ros (21%)
+        MAS: DEN - Ros (NaN%) def. Beiler (NaN%)
         UTR: OKLA - Beiler (92%) def. Ros (8%)
         ITA: OKLA - Beiler (10.05) def. Ros (1.92)
     - Position: 3
       OKLA: Alex Martinez - 6-2 at 3, 12-7 in duals, 15-13 overall
       DEN: Matt Summers - 9-1 at 3, 10-6 in duals, 10-6 overall
       Predictions:
-        AVG: OKLA - Martinez (75%) def. Summers (25%)
+        AVG: OKLA - Martinez (76%) def. Summers (24%)
         SLM: OKLA - Martinez (71%) def. Summers (29%)
         TRN: OKLA - Martinez (83%) def. Summers (17%)
-        MAS: OKLA - Martinez (71%) def. Summers (29%)
+        MAS: DEN - Summers (NaN%) def. Martinez (NaN%)
         UTR: OKLA - Martinez (74%) def. Summers (26%)
         ITA: OKLA - Martinez (2.93) def. Summers (2.15)
     - Position: 4
       OKLA: Nathan Han - 2-6 at 4, 7-7 in duals, 13-11 overall
       DEN: Peter Sallay - 12-4 at 4, 12-4 in duals, 12-4 overall
       Predictions:
-        AVG: OKLA - Han (78%) def. Sallay (22%)
+        AVG: OKLA - Han (84%) def. Sallay (16%)
         SLM: OKLA - Han (80%) def. Sallay (20%)
         TRN: OKLA - Han (87%) def. Sallay (13%)
-        MAS: OKLA - Han (61%) def. Sallay (39%)
+        MAS: DEN - Sallay (NaN%) def. Han (NaN%)
         UTR: OKLA - Han (86%) def. Sallay (14%)
         ITA: DEN - Sallay (2.45) def. Han (1.72)
     - Position: 5
       OKLA: Justin Schlageter - 3-5 at 5, 6-6 in duals, 10-12 overall
       DEN: Nicolas Herrero Cuesta - 10-1 at 5, 14-1 in duals, 14-1 overall
       Predictions:
-        AVG: OKLA - Schlageter (65%) def. Cuesta (35%)
+        AVG: OKLA - Schlageter (74%) def. Cuesta (26%)
         SLM: OKLA - Schlageter (72%) def. Cuesta (28%)
         TRN: OKLA - Schlageter (65%) def. Cuesta (35%)
-        MAS: DEN - Cuesta (59%) def. Schlageter (41%)
+        MAS: DEN - Cuesta (NaN%) def. Schlageter (NaN%)
         UTR: OKLA - Schlageter (85%) def. Cuesta (15%)
         ITA: DEN - Cuesta (3.64) def. Schlageter (0.00)
     - Position: 6
       OKLA: Mark Mandlik - 1-1 at 6, 6-14 in duals, 6-14 overall
       DEN: Ignacio Rivero Crespo - 8-1 at 6, 9-1 in duals, 9-1 overall
       Predictions:
-        AVG: OKLA - Mandlik (80%) def. Crespo (20%)
+        AVG: OKLA - Mandlik (90%) def. Crespo (10%)
         SLM: OKLA - Mandlik (91%) def. Crespo (9%)
         TRN: OKLA - Mandlik (78%) def. Crespo (22%)
-        MAS: DEN - Crespo (50%) def. Mandlik (50%)
+        MAS: DEN - Crespo (NaN%) def. Mandlik (NaN%)
         UTR: OKLA - Mandlik (99%) def. Crespo (1%)
         ITA: DEN - Crespo (3.50) def. Mandlik (0.00)
   Doubles:

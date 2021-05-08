@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 4:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: Second Round
 Lines: 33-36
 Title: "Wake Forest vs #3 Georgia"
@@ -38,11 +39,10 @@ Visitor:
   Polls:
     Coach: 31
 Predictions:
-  AVG: UGA - Georgia (99%) def. Wake Forest (1%)
   SLM: "UGA - #3 Georgia (99%) def. #32 Wake Forest (1%)"
   TRN: "UGA - #3 Georgia (99%) def. #31 Wake Forest (1%)"
-  MAS: "UGA - #3 Georgia (99%) def. #34 Wake Forest (1%)"
-  LNUP: UGA - Georgia (98%) def. Wake Forest (2%)
+  MAS: "WAKE - #34 Wake Forest (NaN%) def. #3 Georgia (NaN%)"
+  LNUP: UGA - Georgia (99%) def. Wake Forest (1%)
   UTR: "UGA - #3 Georgia (+3.99) def. #31 Wake Forest (-3.99)"
   ITA: "UGA - #3 Georgia def. #33 Wake Forest"
   USTA: "UGA - #3 Georgia def. Wake Forest"
@@ -50,70 +50,70 @@ Predictions:
   Seeding: "UGA - #1 Georgia def. #2 Wake Forest"
 Lineups:
   Predictions:
-    Average EWPs for UGA: 99%,99%,99%,98%
-    Average EWPs for WAKE: 1%,1%,1%,2%
-    UGA wins 4 or more Singles points: 97%
-    WAKE wins 4 or more Singles points: 1%
+    Average EWPs for UGA: 99%,99%,NaN%,100%
+    Average EWPs for WAKE: 1%,1%,NaN%,0%
+    UGA wins 4 or more Singles points: 98%
+    WAKE wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 2%
   Singles:
     - Position: 1
       UGA: Katarina Jokic - 15-0 at 1, 15-0 in duals, 24-1 overall
       WAKE: Carolyn Campana - 9-5 at 1, 9-5 in duals, 9-5 overall
       Predictions:
-        AVG: UGA - Jokic (86%) def. Campana (14%)
+        AVG: UGA - Jokic (88%) def. Campana (12%)
         SLM: UGA - Jokic (84%) def. Campana (16%)
         TRN: UGA - Jokic (92%) def. Campana (8%)
-        MAS: UGA - Jokic (78%) def. Campana (22%)
+        MAS: WAKE - Campana (NaN%) def. Jokic (NaN%)
         UTR: UGA - Jokic (90%) def. Campana (10%)
         ITA: UGA - Jokic (60.56) def. Campana (28.61)
     - Position: 2
       UGA: Lea Ma - 13-3 at 2, 13-3 in duals, 14-4 overall
       WAKE: Anna Campana - 4-6 at 2, 6-10 in duals, 6-10 overall
       Predictions:
-        AVG: UGA - Ma (89%) def. Campana (11%)
+        AVG: UGA - Ma (91%) def. Campana (9%)
         SLM: UGA - Ma (89%) def. Campana (11%)
         TRN: UGA - Ma (93%) def. Campana (7%)
-        MAS: UGA - Ma (85%) def. Campana (15%)
+        MAS: WAKE - Campana (NaN%) def. Ma (NaN%)
         UTR: UGA - Ma (90%) def. Campana (10%)
         ITA: WAKE - Campana (11.52) def. Ma (11.14)
     - Position: 3
       UGA: Meg Kowalski - 12-1 at 3, 12-1 in duals, 22-1 overall
       WAKE: Anna Brylin - 10-3 at 3, 12-8 in duals, 12-8 overall
       Predictions:
-        AVG: UGA - Kowalski (87%) def. Brylin (13%)
+        AVG: UGA - Kowalski (89%) def. Brylin (11%)
         SLM: UGA - Kowalski (91%) def. Brylin (9%)
         TRN: UGA - Kowalski (94%) def. Brylin (6%)
-        MAS: UGA - Kowalski (83%) def. Brylin (17%)
+        MAS: WAKE - Brylin (NaN%) def. Kowalski (NaN%)
         UTR: UGA - Kowalski (80%) def. Brylin (20%)
         ITA: UGA - Kowalski (23.73) def. Brylin (2.10)
     - Position: 4
       UGA: Morgan Coppoc - 15-2 at 4, 15-2 in duals, 23-5 overall
       WAKE: Eliza Omirou - 3-3 at 4, 9-8 in duals, 9-8 overall
       Predictions:
-        AVG: UGA - Coppoc (91%) def. Omirou (9%)
+        AVG: UGA - Coppoc (92%) def. Omirou (8%)
         SLM: UGA - Coppoc (92%) def. Omirou (8%)
         TRN: UGA - Coppoc (94%) def. Omirou (6%)
-        MAS: UGA - Coppoc (87%) def. Omirou (13%)
+        MAS: WAKE - Omirou (NaN%) def. Coppoc (NaN%)
         UTR: UGA - Coppoc (90%) def. Omirou (10%)
         ITA: UGA - Coppoc (8.66) def. Omirou (1.88)
     - Position: 5
       UGA: Marta Gonzalez - 1-1 at 5, 2-1 in duals, 11-1 overall
       WAKE: Brooke Killingsworth - 1-1 at 5, 7-14 in duals, 7-14 overall
       Predictions:
-        AVG: UGA - Gonzalez (93%) def. Killingsworth (7%)
+        AVG: UGA - Gonzalez (94%) def. Killingsworth (6%)
         SLM: UGA - Gonzalez (91%) def. Killingsworth (9%)
         TRN: UGA - Gonzalez (97%) def. Killingsworth (3%)
-        MAS: UGA - Gonzalez (91%) def. Killingsworth (9%)
+        MAS: WAKE - Killingsworth (NaN%) def. Gonzalez (NaN%)
         UTR: UGA - Gonzalez (93%) def. Killingsworth (7%)
         ITA: UGA - Gonzalez (11.71) def. Killingsworth (1.48)
     - Position: 6
       UGA: Elena Christofi - 9-0 at 6, 10-2 in duals, 17-4 overall
       WAKE: Casie Wooten - 7-3 at 6, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: UGA - Christofi (76%) def. Wooten (24%)
+        AVG: UGA - Christofi (81%) def. Wooten (19%)
         SLM: UGA - Christofi (81%) def. Wooten (19%)
         TRN: UGA - Christofi (79%) def. Wooten (21%)
-        MAS: UGA - Christofi (60%) def. Wooten (40%)
+        MAS: WAKE - Wooten (NaN%) def. Christofi (NaN%)
         UTR: UGA - Christofi (84%) def. Wooten (16%)
         ITA: UGA - Christofi (2.36) def. Wooten (1.70)
   Doubles:

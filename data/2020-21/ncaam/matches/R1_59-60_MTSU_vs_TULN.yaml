@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 1:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 59-60
 Title: Middle Tenn. vs Tulane
@@ -36,10 +37,9 @@ Visitor:
   Polls:
     Coach: 42
 Predictions:
-  AVG: TULN - Tulane (79%) def. Middle Tenn. (21%)
   SLM: "TULN - #26 Tulane (78%) def. #45 Middle Tenn. (22%)"
   TRN: "TULN - #26 Tulane (79%) def. #45 Middle Tenn. (21%)"
-  MAS: "TULN - #26 Tulane (75%) def. #42 Middle Tenn. (25%)"
+  MAS: "MTSU - #42 Middle Tenn. (NaN%) def. #26 Tulane (NaN%)"
   LNUP: TULN - Tulane (82%) def. Middle Tenn. (18%)
   UTR: "TULN - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)"
   ITA: "TULN - #22 Tulane def. #42 Middle Tenn."
@@ -47,8 +47,8 @@ Predictions:
   Seeding: "TULN - #2 Tulane def. #3 Middle Tenn."
 Lineups:
   Predictions:
-    Average EWPs for TULN: 78%,79%,75%,82%
-    Average EWPs for MTSU: 22%,21%,25%,18%
+    Average EWPs for TULN: 78%,79%,NaN%,82%
+    Average EWPs for MTSU: 22%,21%,NaN%,18%
     TULN wins 4 or more Singles points: 61%
     MTSU wins 4 or more Singles points: 13%
     Winner decided by the Doubles point: 26%
@@ -60,57 +60,57 @@ Lineups:
         AVG: TULN - Stewart (72%) def. Rocha (28%)
         SLM: TULN - Stewart (70%) def. Rocha (30%)
         TRN: TULN - Stewart (60%) def. Rocha (40%)
-        MAS: TULN - Stewart (71%) def. Rocha (29%)
+        MAS: MTSU - Rocha (NaN%) def. Stewart (NaN%)
         UTR: TULN - Stewart (85%) def. Rocha (15%)
         ITA: TULN - Stewart (22.58) def. Rocha (14.55)
     - Position: 2
       TULN: Ewan Moore - 9-7 at 2, 10-7 in duals, 10-7 overall
       MTSU: Stijn Slump - 9-2 at 2, 16-5 in duals, 16-5 overall
       Predictions:
-        AVG: TULN - Moore (66%) def. Slump (34%)
+        AVG: TULN - Moore (69%) def. Slump (31%)
         SLM: TULN - Moore (69%) def. Slump (31%)
         TRN: TULN - Moore (58%) def. Slump (42%)
-        MAS: TULN - Moore (58%) def. Slump (42%)
+        MAS: MTSU - Slump (NaN%) def. Moore (NaN%)
         UTR: TULN - Moore (78%) def. Slump (22%)
         ITA: MTSU - Slump (3.60) def. Moore (3.08)
     - Position: 3
       TULN: Luis Erlenbusch - 13-5 at 3, 14-5 in duals, 14-5 overall
       MTSU: Tom Moonen - 2-1 at 3, 8-11 in duals, 8-11 overall
       Predictions:
-        AVG: TULN - Erlenbusch (81%) def. Moonen (19%)
+        AVG: TULN - Erlenbusch (80%) def. Moonen (20%)
         SLM: TULN - Erlenbusch (72%) def. Moonen (28%)
         TRN: TULN - Erlenbusch (81%) def. Moonen (19%)
-        MAS: TULN - Erlenbusch (86%) def. Moonen (14%)
+        MAS: MTSU - Moonen (NaN%) def. Erlenbusch (NaN%)
         UTR: TULN - Erlenbusch (86%) def. Moonen (14%)
         ITA: TULN - Erlenbusch (4.16) def. Moonen (1.88)
     - Position: 4
       TULN: Billy Suarez - 8-5 at 4, 9-6 in duals, 9-6 overall
       MTSU: Christopher Edge - 15-5 at 4, 15-5 in duals, 15-5 overall
       Predictions:
-        AVG: TULN - Suarez (54%) def. Edge (46%)
+        AVG: TULN - Suarez (55%) def. Edge (45%)
         SLM: MTSU - Edge (51%) def. Suarez (49%)
         TRN: TULN - Suarez (60%) def. Edge (40%)
-        MAS: MTSU - Edge (50%) def. Suarez (50%)
+        MAS: MTSU - Edge (NaN%) def. Suarez (NaN%)
         UTR: TULN - Suarez (56%) def. Edge (44%)
         ITA: MTSU - Edge (4.29) def. Suarez (2.40)
     - Position: 5
       TULN: Rafael de Alba - 3-2 at 5, 12-4 in duals, 12-4 overall
       MTSU: Pavel Motl - 6-3 at 5, 9-6 in duals, 9-6 overall
       Predictions:
-        AVG: TULN - Alba (66%) def. Motl (34%)
+        AVG: TULN - Alba (64%) def. Motl (36%)
         SLM: TULN - Alba (57%) def. Motl (43%)
         TRN: TULN - Alba (67%) def. Motl (33%)
-        MAS: TULN - Alba (72%) def. Motl (28%)
+        MAS: MTSU - Motl (NaN%) def. Alba (NaN%)
         UTR: TULN - Alba (67%) def. Motl (33%)
         ITA: TULN - Alba (2.39) def. Motl (1.44)
     - Position: 6
       TULN: Akos Kotorman - 1-2 at 6, 2-3 in duals, 2-3 overall
       MTSU: Oskar Michalek - 1-0 at 6, 5-1 in duals, 5-1 overall
       Predictions:
-        AVG: MTSU - Michalek (63%) def. Kotorman (37%)
+        AVG: MTSU - Michalek (61%) def. Kotorman (39%)
         SLM: MTSU - Michalek (60%) def. Kotorman (40%)
         TRN: TULN - Kotorman (58%) def. Michalek (42%)
-        MAS: MTSU - Michalek (70%) def. Kotorman (30%)
+        MAS: MTSU - Michalek (NaN%) def. Kotorman (NaN%)
         UTR: MTSU - Michalek (83%) def. Kotorman (17%)
         ITA: MTSU - Michalek (1.92) def. Kotorman (0.00)
   Doubles:

@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 1:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: Second Round
 Lines: 25-28
 Title: "NC State vs #13 South Carolina"
@@ -39,11 +40,10 @@ Visitor:
     USTA: 25
     Coach: 28
 Predictions:
-  AVG: SCAR - South Carolina (76%) def. NC State (24%)
   SLM: "SCAR - #15 South Carolina (73%) def. #19 NC State (27%)"
   TRN: "SCAR - #15 South Carolina (77%) def. #22 NC State (23%)"
-  MAS: "SCAR - #16 South Carolina (69%) def. #23 NC State (31%)"
-  LNUP: SCAR - South Carolina (84%) def. NC State (16%)
+  MAS: "NCST - #23 NC State (NaN%) def. #16 South Carolina (NaN%)"
+  LNUP: SCAR - South Carolina (85%) def. NC State (15%)
   UTR: "SCAR - #17 South Carolina (+0.58) def. #22 NC State (-0.58)"
   ITA: "SCAR - #13 South Carolina def. #23 NC State"
   USTA: "SCAR - #15 South Carolina def. #25 NC State"
@@ -51,70 +51,70 @@ Predictions:
   Seeding: "SCAR - #1 South Carolina def. #2 NC State"
 Lineups:
   Predictions:
-    Average EWPs for SCAR: 73%,77%,69%,84%
-    Average EWPs for NCST: 27%,23%,31%,16%
-    SCAR wins 4 or more Singles points: 63%
-    NCST wins 4 or more Singles points: 12%
-    Winner decided by the Doubles point: 25%
+    Average EWPs for SCAR: 73%,77%,NaN%,85%
+    Average EWPs for NCST: 27%,23%,NaN%,15%
+    SCAR wins 4 or more Singles points: 65%
+    NCST wins 4 or more Singles points: 11%
+    Winner decided by the Doubles point: 24%
   Singles:
     - Position: 1
       SCAR: Daniel Rodrigues - 16-4 at 1, 16-4 in duals, 24-6 overall
       NCST: Alexis Galarneau - 10-2 at 1, 10-2 in duals, 10-3 overall
       Predictions:
-        AVG: NCST - Galarneau (51%) def. Rodrigues (49%)
+        AVG: NCST - Galarneau (55%) def. Rodrigues (45%)
         SLM: SCAR - Rodrigues (50%) def. Galarneau (50%)
         TRN: SCAR - Rodrigues (66%) def. Galarneau (34%)
-        MAS: SCAR - Rodrigues (63%) def. Galarneau (37%)
+        MAS: NCST - Galarneau (NaN%) def. Rodrigues (NaN%)
         UTR: NCST - Galarneau (83%) def. Rodrigues (17%)
         ITA: SCAR - Rodrigues (58.79) def. Galarneau (25.90)
     - Position: 2
       SCAR: Connor Thomson - 6-5 at 2, 11-8 in duals, 18-12 overall
       NCST: Rafael Izquierdo Luque - 2-5 at 2, 7-8 in duals, 8-9 overall
       Predictions:
-        AVG: SCAR - Thomson (76%) def. Luque (24%)
+        AVG: SCAR - Thomson (77%) def. Luque (23%)
         SLM: SCAR - Thomson (76%) def. Luque (24%)
         TRN: SCAR - Thomson (85%) def. Luque (15%)
-        MAS: SCAR - Thomson (73%) def. Luque (27%)
+        MAS: NCST - Luque (NaN%) def. Thomson (NaN%)
         UTR: SCAR - Thomson (70%) def. Luque (30%)
         ITA: SCAR - Thomson (28.97) def. Luque (6.91)
     - Position: 3
       SCAR: Toby Samuel - 4-2 at 3, 16-4 in duals, 24-7 overall
       NCST: Tadas Babelis - 3-4 at 3, 5-9 in duals, 6-10 overall
       Predictions:
-        AVG: SCAR - Samuel (81%) def. Babelis (19%)
+        AVG: SCAR - Samuel (80%) def. Babelis (20%)
         SLM: SCAR - Samuel (71%) def. Babelis (29%)
         TRN: SCAR - Samuel (86%) def. Babelis (14%)
-        MAS: SCAR - Samuel (85%) def. Babelis (15%)
+        MAS: NCST - Babelis (NaN%) def. Samuel (NaN%)
         UTR: SCAR - Samuel (83%) def. Babelis (17%)
         ITA: SCAR - Samuel (10.78) def. Babelis (2.63)
     - Position: 4
       SCAR: Raphael Lambling - 0-2 at 4, 6-12 in duals, 11-18 overall
       NCST: Yannai Barkai - 3-4 at 4, 5-8 in duals, 7-8 overall
       Predictions:
-        AVG: SCAR - Lambling (72%) def. Barkai (28%)
+        AVG: SCAR - Lambling (77%) def. Barkai (23%)
         SLM: SCAR - Lambling (76%) def. Barkai (24%)
         TRN: SCAR - Lambling (76%) def. Barkai (24%)
-        MAS: SCAR - Lambling (58%) def. Barkai (42%)
+        MAS: NCST - Barkai (NaN%) def. Lambling (NaN%)
         UTR: SCAR - Lambling (78%) def. Barkai (22%)
         ITA: SCAR - Lambling (15.34) def. Barkai (2.33)
     - Position: 5
       SCAR: Jake Beasley - 7-7 at 5, 12-8 in duals, 18-10 overall
       NCST: Robin Catry - 4-0 at 5, 10-5 in duals, 10-6 overall
       Predictions:
-        AVG: SCAR - Beasley (55%) def. Catry (45%)
+        AVG: SCAR - Beasley (56%) def. Catry (44%)
         SLM: NCST - Catry (56%) def. Beasley (44%)
         TRN: SCAR - Beasley (53%) def. Catry (47%)
-        MAS: SCAR - Beasley (53%) def. Catry (47%)
+        MAS: NCST - Catry (NaN%) def. Beasley (NaN%)
         UTR: SCAR - Beasley (70%) def. Catry (30%)
         ITA: NCST - Catry (3.10) def. Beasley (1.73)
     - Position: 6
       SCAR: Thomas Brown - 2-2 at 6, 3-2 in duals, 11-6 overall
       NCST: Robert Turzak - 0-0 at 6, 6-4 in duals, 7-5 overall
       Predictions:
-        AVG: NCST - Turzak (52%) def. Brown (48%)
+        AVG: SCAR - Brown (52%) def. Turzak (48%)
         SLM: SCAR - Brown (62%) def. Turzak (38%)
         TRN: SCAR - Brown (61%) def. Turzak (39%)
-        MAS: NCST - Turzak (65%) def. Brown (35%)
+        MAS: NCST - Turzak (NaN%) def. Brown (NaN%)
         UTR: NCST - Turzak (67%) def. Brown (33%)
         ITA: SCAR - Brown (2.19) def. Turzak (1.56)
   Doubles:

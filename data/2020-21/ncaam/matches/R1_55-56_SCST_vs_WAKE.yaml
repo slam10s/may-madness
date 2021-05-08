@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 5:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 55-56
 Title: "South Carolina St. vs #10 Wake Forest"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 63 (4.87)
     UTR: 63 (66.99)
 Predictions:
-  AVG: WAKE - Wake Forest (99%) def. South Carolina St. (1%)
   SLM: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
   TRN: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
-  MAS: "WAKE - #13 Wake Forest (100%) def. #63 South Carolina St. (0%)"
+  MAS: "SCST - #63 South Carolina St. (NaN%) def. #13 Wake Forest (NaN%)"
   LNUP: WAKE - Wake Forest (99%) def. South Carolina St. (1%)
   UTR: "WAKE - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)"
   ITA: "WAKE - #9 Wake Forest def. #65 South Carolina St."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "WAKE - #1 Wake Forest def. #4 South Carolina St."
 Lineups:
   Predictions:
-    Average EWPs for WAKE: 99%,99%,100%,100%
-    Average EWPs for SCST: 1%,1%,0%,0%
+    Average EWPs for WAKE: 99%,99%,NaN%,100%
+    Average EWPs for SCST: 1%,1%,NaN%,0%
     WAKE wins 4 or more Singles points: 100%
     SCST wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -71,17 +71,17 @@ Lineups:
         AVG: WAKE - Nava (98%) def. Rodriguez (2%)
         SLM: WAKE - Nava (99%) def. Rodriguez (1%)
         TRN: WAKE - Nava (99%) def. Rodriguez (1%)
-        MAS: WAKE - Nava (99%) def. Rodriguez (1%)
+        MAS: SCST - Rodriguez (NaN%) def. Nava (NaN%)
         UTR: WAKE - Nava (97%) def. Rodriguez (3%)
         ITA: WAKE - Nava (19.97) def. Rodriguez (0.00)
     - Position: 3
       WAKE: Taha Baadi - 6-2 at 3, 13-8 in duals, 13-8 overall
       SCST: Elyes Marouani - 9-2 at 3, 9-2 in duals, 9-2 overall
       Predictions:
-        AVG: WAKE - Baadi (97%) def. Marouani (3%)
+        AVG: WAKE - Baadi (99%) def. Marouani (1%)
         SLM: WAKE - Baadi (100%) def. Marouani (0%)
         TRN: WAKE - Baadi (100%) def. Marouani (0%)
-        MAS: WAKE - Baadi (88%) def. Marouani (12%)
+        MAS: SCST - Marouani (NaN%) def. Baadi (NaN%)
         UTR: WAKE - Baadi (99%) def. Marouani (1%)
         ITA: WAKE - Baadi (6.71) def. Marouani (1.53)
     - Position: 4
@@ -91,7 +91,7 @@ Lineups:
         AVG: WAKE - Cungu (99%) def. Gorgun (1%)
         SLM: WAKE - Cungu (99%) def. Gorgun (1%)
         TRN: WAKE - Cungu (99%) def. Gorgun (1%)
-        MAS: WAKE - Cungu (99%) def. Gorgun (1%)
+        MAS: SCST - Gorgun (NaN%) def. Cungu (NaN%)
         UTR: WAKE - Cungu (98%) def. Gorgun (2%)
         ITA: WAKE - Cungu (3.35) def. Gorgun (0.00)
     - Position: 5

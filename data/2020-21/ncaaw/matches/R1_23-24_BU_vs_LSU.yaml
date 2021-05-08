@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 2:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 23-24
 Title: "Boston U. vs #12 LSU"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 54 (5.32)
     UTR: 49 (55.50)
 Predictions:
-  AVG: LSU - LSU (99%) def. Boston U. (1%)
   SLM: "LSU - #21 LSU (99%) def. #54 Boston U. (1%)"
   TRN: "LSU - #18 LSU (99%) def. #51 Boston U. (1%)"
-  MAS: "LSU - #21 LSU (99%) def. #54 Boston U. (1%)"
+  MAS: "BU - #54 Boston U. (NaN%) def. #21 LSU (NaN%)"
   LNUP: LSU - LSU (99%) def. Boston U. (1%)
   UTR: "LSU - #26 LSU (+5.98) def. #49 Boston U. (-5.98)"
   ITA: "LSU - #12 LSU def. #50 Boston U."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "LSU - #1 LSU def. #4 Boston U."
 Lineups:
   Predictions:
-    Average EWPs for LSU: 99%,99%,99%,100%
-    Average EWPs for BU: 1%,1%,1%,0%
+    Average EWPs for LSU: 99%,99%,NaN%,100%
+    Average EWPs for BU: 1%,1%,NaN%,0%
     LSU wins 4 or more Singles points: 99%
     BU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 1%
@@ -58,30 +58,30 @@ Lineups:
       LSU: Taylor Bridges - 7-7 at 1, 7-7 in duals, 13-10 overall
       BU: Victoria Carlsten - 2-2 at 1, 3-3 in duals, 3-3 overall
       Predictions:
-        AVG: LSU - Bridges (92%) def. Carlsten (8%)
+        AVG: LSU - Bridges (91%) def. Carlsten (9%)
         SLM: LSU - Bridges (94%) def. Carlsten (6%)
         TRN: LSU - Bridges (94%) def. Carlsten (6%)
-        MAS: LSU - Bridges (93%) def. Carlsten (7%)
+        MAS: BU - Carlsten (NaN%) def. Bridges (NaN%)
         UTR: LSU - Bridges (86%) def. Carlsten (14%)
         ITA: LSU - Bridges (11.61) def. Carlsten (0.00)
     - Position: 2
       LSU: Safiya Carrington - 2-5 at 2, 3-6 in duals, 10-10 overall
       BU: Kaitlin Tan - 3-0 at 2, 5-0 in duals, 5-0 overall
       Predictions:
-        AVG: LSU - Carrington (75%) def. Tan (25%)
+        AVG: LSU - Carrington (82%) def. Tan (18%)
         SLM: LSU - Carrington (79%) def. Tan (21%)
         TRN: LSU - Carrington (78%) def. Tan (22%)
-        MAS: LSU - Carrington (54%) def. Tan (46%)
+        MAS: BU - Tan (NaN%) def. Carrington (NaN%)
         UTR: LSU - Carrington (91%) def. Tan (9%)
         ITA: LSU - Carrington (4.09) def. Tan (3.03)
     - Position: 3
       LSU: Paris Corley - 6-2 at 3, 10-3 in duals, 18-4 overall
       BU: Erica Di Battista - 1-1 at 3, 4-1 in duals, 4-1 overall
       Predictions:
-        AVG: LSU - Corley (96%) def. Battista (4%)
+        AVG: LSU - Corley (97%) def. Battista (3%)
         SLM: LSU - Corley (96%) def. Battista (4%)
         TRN: LSU - Corley (97%) def. Battista (3%)
-        MAS: LSU - Corley (94%) def. Battista (6%)
+        MAS: BU - Battista (NaN%) def. Corley (NaN%)
         UTR: LSU - Corley (97%) def. Battista (3%)
         ITA: LSU - Corley (9.83) def. Battista (2.01)
     - Position: 4
@@ -91,27 +91,27 @@ Lineups:
         AVG: LSU - Cubitt (96%) def. Kim (4%)
         SLM: LSU - Cubitt (96%) def. Kim (4%)
         TRN: LSU - Cubitt (96%) def. Kim (4%)
-        MAS: LSU - Cubitt (95%) def. Kim (5%)
+        MAS: BU - Kim (NaN%) def. Cubitt (NaN%)
         UTR: LSU - Cubitt (97%) def. Kim (3%)
         ITA: BU - Kim (2.60) def. Cubitt (2.11)
     - Position: 5
       LSU: Eden Richardson - 2-2 at 5, 4-6 in duals, 8-11 overall
       BU: Lily Burchell - 4-0 at 5, 6-1 in duals, 6-1 overall
       Predictions:
-        AVG: LSU - Richardson (85%) def. Burchell (15%)
+        AVG: LSU - Richardson (91%) def. Burchell (9%)
         SLM: LSU - Richardson (94%) def. Burchell (6%)
         TRN: LSU - Richardson (90%) def. Burchell (10%)
-        MAS: LSU - Richardson (65%) def. Burchell (35%)
+        MAS: BU - Burchell (NaN%) def. Richardson (NaN%)
         UTR: LSU - Richardson (90%) def. Burchell (10%)
         ITA: BU - Burchell (3.12) def. Richardson (1.47)
     - Position: 6
       LSU: Nina Geissler - 4-2 at 6, 10-3 in duals, 15-6 overall
       BU: Katya Martens - 0-0 at 6, 4-0 in duals, 4-0 overall
       Predictions:
-        AVG: LSU - Geissler (93%) def. Martens (7%)
+        AVG: LSU - Geissler (95%) def. Martens (5%)
         SLM: LSU - Geissler (96%) def. Martens (4%)
         TRN: LSU - Geissler (95%) def. Martens (5%)
-        MAS: LSU - Geissler (86%) def. Martens (14%)
+        MAS: BU - Martens (NaN%) def. Geissler (NaN%)
         UTR: LSU - Geissler (92%) def. Martens (8%)
         ITA: BU - Martens (2.51) def. Geissler (2.01)
   Doubles:

@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 1:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 17-18
 Title: "Fairleigh Dickinson vs #5 Virginia"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 64 (3.98)
     UTR: 64 (65.74)
 Predictions:
-  AVG: UVA - Virginia (99%) def. Fairleigh Dickinson (1%)
   SLM: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
   TRN: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
-  MAS: "UVA - #3 Virginia (100%) def. #64 Fairleigh Dickinson (0%)"
+  MAS: "FDU - #64 Fairleigh Dickinson (NaN%) def. #3 Virginia (NaN%)"
   LNUP: UVA - Virginia (99%) def. Fairleigh Dickinson (1%)
   UTR: "UVA - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)"
   ITA: "UVA - #4 Virginia def. #62 Fairleigh Dickinson"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "UVA - #1 Virginia def. #4 Fairleigh Dickinson"
 Lineups:
   Predictions:
-    Average EWPs for UVA: 99%,99%,100%,100%
-    Average EWPs for FDU: 1%,1%,0%,0%
+    Average EWPs for UVA: 99%,99%,NaN%,100%
+    Average EWPs for FDU: 1%,1%,NaN%,0%
     UVA wins 4 or more Singles points: 100%
     FDU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -58,10 +58,10 @@ Lineups:
       UVA: Carl Soderlund - 12-2 at 1, 12-2 in duals, 12-2 overall
       FDU: Teodors Pukse - 4-3 at 1, 4-3 in duals, 4-3 overall
       Predictions:
-        AVG: FDU - Pukse (75%) def. Soderlund (25%)
+        AVG: FDU - Pukse (99%) def. Soderlund (1%)
         SLM: FDU - Pukse (100%) def. Soderlund (0%)
         TRN: FDU - Pukse (100%) def. Soderlund (0%)
-        MAS: UVA - Soderlund (99%) def. Pukse (1%)
+        MAS: FDU - Pukse (NaN%) def. Soderlund (NaN%)
         UTR: FDU - Pukse (100%) def. Soderlund (0%)
         ITA: UVA - Soderlund (48.38) def. Pukse (1.52)
     - Position: 2
@@ -71,7 +71,7 @@ Lineups:
         AVG: UVA - Schulenburg (99%) def. Gudins (1%)
         SLM: UVA - Schulenburg (99%) def. Gudins (1%)
         TRN: UVA - Schulenburg (99%) def. Gudins (1%)
-        MAS: UVA - Schulenburg (99%) def. Gudins (1%)
+        MAS: FDU - Gudins (NaN%) def. Schulenburg (NaN%)
         UTR: UVA - Schulenburg (99%) def. Gudins (1%)
         ITA: UVA - Schulenburg (18.39) def. Gudins (1.26)
     - Position: 3
@@ -81,7 +81,7 @@ Lineups:
         AVG: UVA - Rodesch (99%) def. Autuch (1%)
         SLM: UVA - Rodesch (99%) def. Autuch (1%)
         TRN: UVA - Rodesch (99%) def. Autuch (1%)
-        MAS: UVA - Rodesch (99%) def. Autuch (1%)
+        MAS: FDU - Autuch (NaN%) def. Rodesch (NaN%)
         UTR: UVA - Rodesch (99%) def. Autuch (1%)
         ITA: UVA - Rodesch (3.82) def. Autuch (1.74)
     - Position: 4
@@ -101,7 +101,7 @@ Lineups:
         AVG: UVA - Goetz (99%) def. Budinszky (1%)
         SLM: UVA - Goetz (99%) def. Budinszky (1%)
         TRN: UVA - Goetz (99%) def. Budinszky (1%)
-        MAS: UVA - Goetz (100%) def. Budinszky (0%)
+        MAS: FDU - Budinszky (NaN%) def. Goetz (NaN%)
         UTR: UVA - Goetz (99%) def. Budinszky (1%)
         ITA: UVA - Goetz (6.09) def. Budinszky (0.00)
     - Position: 6
@@ -111,7 +111,7 @@ Lineups:
         AVG: UVA - Ross (99%) def. Sader (1%)
         SLM: UVA - Ross (99%) def. Sader (1%)
         TRN: UVA - Ross (99%) def. Sader (1%)
-        MAS: UVA - Ross (99%) def. Sader (1%)
+        MAS: FDU - Sader (NaN%) def. Ross (NaN%)
         UTR: UVA - Ross (99%) def. Sader (1%)
         ITA: UVA - Ross (2.67) def. Sader (1.68)
   Doubles:

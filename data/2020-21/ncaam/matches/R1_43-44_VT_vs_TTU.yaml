@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 10:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 43-44
 Title: Virginia Tech vs Texas Tech
@@ -37,11 +38,10 @@ Visitor:
   Polls:
     Coach: 34
 Predictions:
-  AVG: VT - Virginia Tech (54%) def. Texas Tech (46%)
   SLM: "VT - #30 Virginia Tech (57%) def. #35 Texas Tech (43%)"
   TRN: "VT - #29 Virginia Tech (52%) def. #31 Texas Tech (48%)"
-  MAS: "TTU - #28 Texas Tech (59%) def. #33 Virginia Tech (41%)"
-  LNUP: VT - Virginia Tech (69%) def. Texas Tech (31%)
+  MAS: "VT - #33 Virginia Tech (NaN%) def. #28 Texas Tech (NaN%)"
+  LNUP: VT - Virginia Tech (72%) def. Texas Tech (28%)
   UTR: "VT - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)"
   ITA: "TTU - #25 Texas Tech def. #29 Virginia Tech"
   USTA: TTU - RV Texas Tech def. Virginia Tech
@@ -49,20 +49,20 @@ Predictions:
   Seeding: "TTU - #2 Texas Tech def. #3 Virginia Tech"
 Lineups:
   Predictions:
-    Average EWPs for TTU: 44%,49%,59%,31%
-    Average EWPs for VT: 56%,51%,41%,69%
-    TTU wins 4 or more Singles points: 21%
-    VT wins 4 or more Singles points: 49%
+    Average EWPs for TTU: 44%,49%,NaN%,28%
+    Average EWPs for VT: 56%,51%,NaN%,72%
+    TTU wins 4 or more Singles points: 19%
+    VT wins 4 or more Singles points: 51%
     Winner decided by the Doubles point: 30%
   Singles:
     - Position: 1
       TTU: Parker Wynn - 5-9 at 1, 5-9 in duals, 9-13 overall
       VT: Mitch Harper - 7-4 at 1, 7-4 in duals, 7-4 overall
       Predictions:
-        AVG: VT - Harper (75%) def. Wynn (25%)
+        AVG: VT - Harper (78%) def. Wynn (22%)
         SLM: VT - Harper (78%) def. Wynn (22%)
         TRN: VT - Harper (80%) def. Wynn (20%)
-        MAS: VT - Harper (64%) def. Wynn (36%)
+        MAS: VT - Harper (NaN%) def. Wynn (NaN%)
         UTR: VT - Harper (81%) def. Wynn (19%)
         ITA: VT - Harper (7.69) def. Wynn (1.67)
     - Position: 2
@@ -72,47 +72,47 @@ Lineups:
         AVG: TTU - Valiev (53%) def. Ribeiro (47%)
         SLM: VT - Ribeiro (59%) def. Valiev (41%)
         TRN: VT - Ribeiro (58%) def. Valiev (42%)
-        MAS: TTU - Valiev (55%) def. Ribeiro (45%)
+        MAS: VT - Ribeiro (NaN%) def. Valiev (NaN%)
         UTR: TTU - Valiev (75%) def. Ribeiro (25%)
         ITA: VT - Ribeiro (9.63) def. Valiev (1.70)
     - Position: 3
       TTU: Franco Ribero - 7-4 at 3, 8-5 in duals, 11-11 overall
       VT: Matt Ross - 1-1 at 3, 8-12 in duals, 8-12 overall
       Predictions:
-        AVG: VT - Ross (70%) def. Ribero (30%)
+        AVG: VT - Ross (73%) def. Ribero (27%)
         SLM: VT - Ross (78%) def. Ribero (22%)
         TRN: VT - Ross (72%) def. Ribero (28%)
-        MAS: VT - Ross (64%) def. Ribero (36%)
+        MAS: VT - Ross (NaN%) def. Ribero (NaN%)
         UTR: VT - Ross (71%) def. Ribero (29%)
         ITA: VT - Ross (6.68) def. Ribero (1.57)
     - Position: 4
       TTU: Reed Collier - 6-5 at 4, 7-7 in duals, 14-8 overall
       VT: Carlo Donato - 0-2 at 4, 5-13 in duals, 5-13 overall
       Predictions:
-        AVG: TTU - Collier (59%) def. Donato (41%)
+        AVG: TTU - Collier (56%) def. Donato (44%)
         SLM: VT - Donato (59%) def. Collier (41%)
         TRN: TTU - Collier (50%) def. Donato (50%)
-        MAS: TTU - Collier (69%) def. Donato (31%)
+        MAS: VT - Donato (NaN%) def. Collier (NaN%)
         UTR: TTU - Collier (76%) def. Donato (24%)
         ITA: VT - Donato (2.08) def. Collier (1.70)
     - Position: 5
       TTU: Dimi Azoides - 8-3 at 5, 12-4 in duals, 15-10 overall
       VT: Hugo Maia - 0-2 at 5, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: VT - Maia (61%) def. Azoides (39%)
+        AVG: VT - Maia (58%) def. Azoides (42%)
         SLM: VT - Maia (68%) def. Azoides (32%)
         TRN: VT - Maia (71%) def. Azoides (29%)
-        MAS: VT - Maia (68%) def. Azoides (32%)
+        MAS: VT - Maia (NaN%) def. Azoides (NaN%)
         UTR: TTU - Azoides (62%) def. Maia (38%)
         ITA: VT - Maia (2.60) def. Azoides (1.70)
     - Position: 6
       TTU: Isaac Arevalo - 5-4 at 6, 8-5 in duals, 14-7 overall
       VT: Ryan Fishback - 4-1 at 6, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: VT - Fishback (52%) def. Arevalo (48%)
+        AVG: VT - Fishback (51%) def. Arevalo (49%)
         SLM: VT - Fishback (54%) def. Arevalo (46%)
         TRN: VT - Fishback (61%) def. Arevalo (39%)
-        MAS: VT - Fishback (55%) def. Arevalo (45%)
+        MAS: VT - Fishback (NaN%) def. Arevalo (NaN%)
         UTR: TTU - Arevalo (60%) def. Fishback (40%)
         ITA: VT - Fishback (2.03) def. Arevalo (1.77)
   Doubles:

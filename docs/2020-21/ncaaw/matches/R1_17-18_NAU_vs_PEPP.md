@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 5:00 EDT  
+2021 Division I Women's Tennis Championship  
 Ralphs-Straus Tennis Center  
 Malibu, California  
 ## [Northern Ariz. vs #5 Pepperdine](https://www.ncaa.com/game/5833655)  
@@ -12,7 +13,7 @@ Malibu, California
 &nbsp; ITA: 54 (3.85)<br>  
 &nbsp; Slam: 51 (79.81)<br>  
 &nbsp; TRN: 53 (69.11)<br>  
-&nbsp; Massey: 51 (5.50)<br>  
+&#10004; Massey: 51 (5.50)<br>  
 &nbsp; UTR: 54 (52.95)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Malibu, California
 &#10004; ITA: 5 (60.71)<br>  
 &#10004; Slam: 6 (92.64)<br>  
 &#10004; TRN: 6 (85.86)<br>  
-&#10004; Massey: 5 (8.71)<br>  
+&nbsp; Massey: 5 (8.71)<br>  
 &#10004; UTR: 4 (64.63)<br>  
 &#10004; USTA Poll: 5<br>  
 &#10004; Coaches Poll: 4<br>  
@@ -42,10 +43,9 @@ Malibu, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - Slam: ***PEPP*** - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)  
 - TRN: ***PEPP*** - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)  
-- Massey: ***PEPP*** - #5 Pepperdine (100%) def. #51 Northern Ariz. (0%)  
+- Massey: ***NAU*** - #51 Northern Ariz. (NaN%) def. #5 Pepperdine (NaN%)  
 - Lineup: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #54 Northern Ariz.  
@@ -63,10 +63,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Gina Dittmann (NAU) - 14-1 at #1, 15-1 in duals, 15-1 overall<br>Ashley Lahey (PEPP) - 7-3 at #1, 10-4 in duals, 10-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Lahey (89%) def. Dittmann (11%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Lahey (91%) def. Dittmann (9%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Lahey (87%) def. Dittmann (13%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Lahey (83%) def. Dittmann (17%)</li>  
+<li>Massey: <b><i>NAU</i></b> - Dittmann (NaN%) def. Lahey (NaN%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Lahey (7.80) def. Dittmann (4.32)</li>  
 </ul>
@@ -74,10 +74,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Emily Bland (NAU) - 1-1 at #2, 14-3 in duals, 14-3 overall<br>Jessica Failla (PEPP) - 6-1 at #2, 14-3 in duals, 14-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Failla (94%) def. Bland (6%)</li>  
+<li>Massey: <b><i>NAU</i></b> - Bland (NaN%) def. Failla (NaN%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Failla (23.38) def. Bland (2.75)</li>  
 </ul>
@@ -85,10 +85,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Eleanor Millard (NAU) - 3-0 at #3, 11-5 in duals, 11-5 overall<br>Taisiya Pachkaleva (PEPP) - 8-1 at #3, 22-1 in duals, 22-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (99%) def. Millard (1%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Pachkaleva (99%) def. Millard (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Pachkaleva (97%) def. Millard (3%)</li>  
+<li>Massey: <b><i>NAU</i></b> - Millard (NaN%) def. Pachkaleva (NaN%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Pachkaleva (6.37) def. Millard (2.21)</li>  
 </ul>
@@ -96,10 +96,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ava Neyestani (NAU) - 9-5 at #4, 11-6 in duals, 11-6 overall<br>Shiori Fukuda (PEPP) - 6-0 at #4, 14-4 in duals, 14-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Fukuda (98%) def. Neyestani (2%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Fukuda (95%) def. Neyestani (5%)</li>  
+<li>Massey: <b><i>NAU</i></b> - Neyestani (NaN%) def. Fukuda (NaN%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Fukuda (98%) def. Neyestani (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Fukuda (4.88) def. Neyestani (1.91)</li>  
 </ul>
@@ -107,10 +107,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Elinor Beazley (NAU) - 5-5 at #5, 8-5 in duals, 8-5 overall<br>LIsa Zaar (PEPP) - 10-1 at #5, 19-1 in duals, 19-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Zaar (97%) def. Beazley (3%)</li>  
+<li>Massey: <b><i>NAU</i></b> - Beazley (NaN%) def. Zaar (NaN%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zaar (4.47) def. Beazley (2.10)</li>  
 </ul>
@@ -121,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Redelijk (98%) def. Moore (2%)</li>  
+<li>Massey: <b><i>NAU</i></b> - Moore (NaN%) def. Redelijk (NaN%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Redelijk (1.87) def. Moore (1.46)</li>  
 </ul>

@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
+2021 Division I Women's Tennis Championship  
 Los Angeles Tennis Center  
 Los Angeles, California  
 ## [Grand Canyon vs #4 UCLA](https://www.ncaa.com/game/5833662)  
@@ -12,7 +13,7 @@ Los Angeles, California
 &nbsp; ITA: 62 (1.99)<br>  
 &nbsp; Slam: 59 (75.93)<br>  
 &nbsp; TRN: 60 (64.13)<br>  
-&nbsp; Massey: 57 (4.78)<br>  
+&#10004; Massey: 57 (4.78)<br>  
 &nbsp; UTR: 57 (51.77)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Los Angeles, California
 &#10004; ITA: 4 (61.84)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
-&#10004; Massey: 4 (8.85)<br>  
+&nbsp; Massey: 4 (8.85)<br>  
 &#10004; UTR: 5 (64.40)<br>  
 &#10004; USTA Poll: 4<br>  
 &#10004; Coaches Poll: 5<br>  
@@ -42,10 +43,9 @@ Los Angeles, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UCLA*** - UCLA (99%) def. Grand Canyon (1%)  
 - Slam: ***UCLA*** - #4 UCLA (99%) def. #59 Grand Canyon (1%)  
 - TRN: ***UCLA*** - #7 UCLA (99%) def. #60 Grand Canyon (1%)  
-- Massey: ***UCLA*** - #4 UCLA (100%) def. #57 Grand Canyon (0%)  
+- Massey: ***GCU*** - #57 Grand Canyon (NaN%) def. #4 UCLA (NaN%)  
 - Lineup: ***UCLA*** - UCLA (99%) def. Grand Canyon (1%)  
 - UTR: ***UCLA*** - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)  
 - ITA: ***UCLA*** - #4 UCLA def. #62 Grand Canyon  
@@ -66,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCLA</i></b> - Forbes (99%) def. Puehse (1%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Forbes (99%) def. Puehse (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Forbes (99%) def. Puehse (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Forbes (99%) def. Puehse (1%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Puehse (NaN%) def. Forbes (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Forbes (98%) def. Puehse (2%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Forbes (46.46) def. Puehse (2.45)</li>  
 </ul>
@@ -74,10 +74,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Emilia Occhipinti (GCU) - 12-5 at #2, 12-5 in duals, 12-5 overall<br>Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Hart (98%) def. Occhipinti (2%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Hart (98%) def. Occhipinti (2%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Occhipinti (NaN%) def. Hart (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Hart (98%) def. Occhipinti (2%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Hart (12.21) def. Occhipinti (2.15)</li>  
 </ul>
@@ -85,10 +85,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jana Weiss (GCU) - 15-4 at #3, 15-4 in duals, 15-4 overall<br>Elysia Bolton (UCLA) - 5-2 at #3, 9-3 in duals, 9-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Bolton (98%) def. Weiss (2%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Bolton (99%) def. Weiss (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Bolton (97%) def. Weiss (3%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Weiss (NaN%) def. Bolton (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bolton (98%) def. Weiss (2%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Bolton (4.20) def. Weiss (2.42)</li>  
 </ul>
@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCLA</i></b> - Wolff (99%) def. Lomas (1%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Wolff (99%) def. Lomas (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Wolff (99%) def. Lomas (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Wolff (99%) def. Lomas (1%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Lomas (NaN%) def. Wolff (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Wolff (98%) def. Lomas (2%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Wolff (2.06) def. Lomas (1.64)</li>  
 </ul>
@@ -110,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Prudhomme (NaN%) def. Vagramov (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Prudhomme (0.00)</li>  
 </ul>
@@ -121,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Ong (97%) def. Andersen (3%)</li>  
+<li>Massey: <b><i>GCU</i></b> - Andersen (NaN%) def. Ong (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Ong (99%) def. Andersen (1%)</li>  
 <li>ITA: <b><i>GCU</i></b> - Andersen (1.96) def. Ong (1.95)</li>  
 </ul>

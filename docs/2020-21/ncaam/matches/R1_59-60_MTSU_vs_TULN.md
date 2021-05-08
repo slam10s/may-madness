@@ -1,5 +1,6 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
+2021 Division I Men's Tennis Championship  
 Palmer/Salloum Tennis Center  
 Oxford, Mississippi  
 ## [Middle Tenn. vs Tulane](https://www.ncaa.com/game/5833399)  
@@ -12,7 +13,7 @@ Oxford, Mississippi
 &nbsp; ITA: 42 (18.52)<br>  
 &nbsp; Slam: 45 (91.28)<br>  
 &nbsp; TRN: 45 (89.05)<br>  
-&nbsp; Massey: 42 (7.21)<br>  
+&#10004; Massey: 42 (7.21)<br>  
 &nbsp; UTR: 41 (75.54)<br>  
 &nbsp; Coaches Poll: 42<br>  
 <br>  
@@ -25,7 +26,7 @@ Oxford, Mississippi
 &#10004; ITA: 22 (33.07)<br>  
 &#10004; Slam: 26 (93.53)<br>  
 &#10004; TRN: 26 (91.45)<br>  
-&#10004; Massey: 26 (7.63)<br>  
+&nbsp; Massey: 26 (7.63)<br>  
 &#10004; UTR: 31 (76.99)<br>  
 &#10004; Coaches Poll: 24<br>  
 <br>  
@@ -39,10 +40,9 @@ Oxford, Mississippi
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***TULN*** - Tulane (79%) def. Middle Tenn. (21%)  
 - Slam: ***TULN*** - #26 Tulane (78%) def. #45 Middle Tenn. (22%)  
 - TRN: ***TULN*** - #26 Tulane (79%) def. #45 Middle Tenn. (21%)  
-- Massey: ***TULN*** - #26 Tulane (75%) def. #42 Middle Tenn. (25%)  
+- Massey: ***MTSU*** - #42 Middle Tenn. (NaN%) def. #26 Tulane (NaN%)  
 - Lineup: ***TULN*** - Tulane (82%) def. Middle Tenn. (18%)  
 - UTR: ***TULN*** - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)  
 - ITA: ***TULN*** - #22 Tulane def. #42 Middle Tenn.  
@@ -62,7 +62,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TULN</i></b> - Stewart (72%) def. Rocha (28%)</li>  
 <li>Slam: <b><i>TULN</i></b> - Stewart (70%) def. Rocha (30%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Stewart (60%) def. Rocha (40%)</li>  
-<li>Massey: <b><i>TULN</i></b> - Stewart (71%) def. Rocha (29%)</li>  
+<li>Massey: <b><i>MTSU</i></b> - Rocha (NaN%) def. Stewart (NaN%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Stewart (85%) def. Rocha (15%)</li>  
 <li>ITA: <b><i>TULN</i></b> - Stewart (22.58) def. Rocha (14.55)</li>  
 </ul>
@@ -70,10 +70,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Stijn Slump (MTSU) - 9-2 at #2, 16-5 in duals, 16-5 overall<br>Ewan Moore (TULN) - 9-7 at #2, 10-7 in duals, 10-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TULN</i></b> - Moore (66%) def. Slump (34%)</li>  
+<li>Composite: <b><i>TULN</i></b> - Moore (69%) def. Slump (31%)</li>  
 <li>Slam: <b><i>TULN</i></b> - Moore (69%) def. Slump (31%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Moore (58%) def. Slump (42%)</li>  
-<li>Massey: <b><i>TULN</i></b> - Moore (58%) def. Slump (42%)</li>  
+<li>Massey: <b><i>MTSU</i></b> - Slump (NaN%) def. Moore (NaN%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Moore (78%) def. Slump (22%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Slump (3.60) def. Moore (3.08)</li>  
 </ul>
@@ -81,10 +81,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Tom Moonen (MTSU) - 2-1 at #3, 8-11 in duals, 8-11 overall<br>Luis Erlenbusch (TULN) - 13-5 at #3, 14-5 in duals, 14-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TULN</i></b> - Erlenbusch (81%) def. Moonen (19%)</li>  
+<li>Composite: <b><i>TULN</i></b> - Erlenbusch (80%) def. Moonen (20%)</li>  
 <li>Slam: <b><i>TULN</i></b> - Erlenbusch (72%) def. Moonen (28%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Erlenbusch (81%) def. Moonen (19%)</li>  
-<li>Massey: <b><i>TULN</i></b> - Erlenbusch (86%) def. Moonen (14%)</li>  
+<li>Massey: <b><i>MTSU</i></b> - Moonen (NaN%) def. Erlenbusch (NaN%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Erlenbusch (86%) def. Moonen (14%)</li>  
 <li>ITA: <b><i>TULN</i></b> - Erlenbusch (4.16) def. Moonen (1.88)</li>  
 </ul>
@@ -92,10 +92,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Christopher Edge (MTSU) - 15-5 at #4, 15-5 in duals, 15-5 overall<br>Billy Suarez (TULN) - 8-5 at #4, 9-6 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TULN</i></b> - Suarez (54%) def. Edge (46%)</li>  
+<li>Composite: <b><i>TULN</i></b> - Suarez (55%) def. Edge (45%)</li>  
 <li>Slam: <b><i>MTSU</i></b> - Edge (51%) def. Suarez (49%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Suarez (60%) def. Edge (40%)</li>  
-<li>Massey: <b><i>MTSU</i></b> - Edge (50%) def. Suarez (50%)</li>  
+<li>Massey: <b><i>MTSU</i></b> - Edge (NaN%) def. Suarez (NaN%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Suarez (56%) def. Edge (44%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Edge (4.29) def. Suarez (2.40)</li>  
 </ul>
@@ -103,10 +103,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Pavel Motl (MTSU) - 6-3 at #5, 9-6 in duals, 9-6 overall<br>Rafael de Alba (TULN) - 3-2 at #5, 12-4 in duals, 12-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TULN</i></b> - Alba (66%) def. Motl (34%)</li>  
+<li>Composite: <b><i>TULN</i></b> - Alba (64%) def. Motl (36%)</li>  
 <li>Slam: <b><i>TULN</i></b> - Alba (57%) def. Motl (43%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Alba (67%) def. Motl (33%)</li>  
-<li>Massey: <b><i>TULN</i></b> - Alba (72%) def. Motl (28%)</li>  
+<li>Massey: <b><i>MTSU</i></b> - Motl (NaN%) def. Alba (NaN%)</li>  
 <li>UTR: <b><i>TULN</i></b> - Alba (67%) def. Motl (33%)</li>  
 <li>ITA: <b><i>TULN</i></b> - Alba (2.39) def. Motl (1.44)</li>  
 </ul>
@@ -114,10 +114,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Oskar Michalek (MTSU) - 1-0 at #6, 5-1 in duals, 5-1 overall<br>Akos Kotorman (TULN) - 1-2 at #6, 2-3 in duals, 2-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MTSU</i></b> - Michalek (63%) def. Kotorman (37%)</li>  
+<li>Composite: <b><i>MTSU</i></b> - Michalek (61%) def. Kotorman (39%)</li>  
 <li>Slam: <b><i>MTSU</i></b> - Michalek (60%) def. Kotorman (40%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Kotorman (58%) def. Michalek (42%)</li>  
-<li>Massey: <b><i>MTSU</i></b> - Michalek (70%) def. Kotorman (30%)</li>  
+<li>Massey: <b><i>MTSU</i></b> - Michalek (NaN%) def. Kotorman (NaN%)</li>  
 <li>UTR: <b><i>MTSU</i></b> - Michalek (83%) def. Kotorman (17%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Michalek (1.92) def. Kotorman (0.00)</li>  
 </ul>

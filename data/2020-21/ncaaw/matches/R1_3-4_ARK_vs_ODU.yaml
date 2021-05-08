@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 10:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 3-4
 Title: Arkansas vs Old Dominion
@@ -37,11 +38,10 @@ Visitor:
   Polls:
     Coach: 33
 Predictions:
-  AVG: ODU - Old Dominion (71%) def. Arkansas (29%)
   SLM: "ODU - #28 Old Dominion (73%) def. #38 Arkansas (27%)"
   TRN: "ODU - #25 Old Dominion (71%) def. #32 Arkansas (29%)"
-  MAS: "ODU - #29 Old Dominion (77%) def. #41 Arkansas (23%)"
-  LNUP: ODU - Old Dominion (63%) def. Arkansas (37%)
+  MAS: "ARK - #41 Arkansas (NaN%) def. #29 Old Dominion (NaN%)"
+  LNUP: ODU - Old Dominion (60%) def. Arkansas (40%)
   UTR: "ODU - #37 Old Dominion (+0.12) def. #38 Arkansas (-0.12)"
   ITA: "ODU - #30 Old Dominion def. #32 Arkansas"
   USTA: ODU - RV Old Dominion def. Arkansas
@@ -49,69 +49,69 @@ Predictions:
   Seeding: "ODU - #2 Old Dominion def. #3 Arkansas"
 Lineups:
   Predictions:
-    Average EWPs for ODU: 73%,71%,77%,63%
-    Average EWPs for ARK: 27%,29%,23%,37%
-    ODU wins 4 or more Singles points: 44%
-    ARK wins 4 or more Singles points: 25%
-    Winner decided by the Doubles point: 31%
+    Average EWPs for ODU: 73%,71%,NaN%,60%
+    Average EWPs for ARK: 27%,29%,NaN%,40%
+    ODU wins 4 or more Singles points: 41%
+    ARK wins 4 or more Singles points: 27%
+    Winner decided by the Doubles point: 32%
   Singles:
     - Position: 1
       ODU: Holly Hutchinson - 7-8 at 1, 7-8 in duals, 8-9 overall
       ARK: Indianna Spink - 6-4 at 1, 9-5 in duals, 9-5 overall
       Predictions:
-        AVG: ARK - Spink (55%) def. Hutchinson (45%)
+        AVG: ARK - Spink (54%) def. Hutchinson (46%)
         SLM: ODU - Hutchinson (61%) def. Spink (39%)
         TRN: ARK - Spink (54%) def. Hutchinson (46%)
-        MAS: ARK - Spink (58%) def. Hutchinson (42%)
+        MAS: ARK - Spink (NaN%) def. Hutchinson (NaN%)
         UTR: ARK - Spink (72%) def. Hutchinson (28%)
         ITA: ARK - Spink (13.82) def. Hutchinson (5.40)
     - Position: 2
       ODU: Yulia Starodubtseva - 11-1 at 2, 11-1 in duals, 11-1 overall
       ARK: Kelly Keller - 7-3 at 2, 8-6 in duals, 8-6 overall
       Predictions:
-        AVG: ODU - Starodubtseva (63%) def. Keller (37%)
+        AVG: ODU - Starodubtseva (61%) def. Keller (39%)
         SLM: ODU - Starodubtseva (55%) def. Keller (45%)
         TRN: ODU - Starodubtseva (74%) def. Keller (26%)
-        MAS: ODU - Starodubtseva (69%) def. Keller (31%)
+        MAS: ARK - Keller (NaN%) def. Starodubtseva (NaN%)
         UTR: ODU - Starodubtseva (55%) def. Keller (45%)
         ITA: ODU - Starodubtseva (11.96) def. Keller (2.19)
     - Position: 3
       ODU: Tatsiana Sasnouskaya - 9-2 at 3, 13-2 in duals, 13-2 overall
       ARK: Tatum Rice - 8-7 at 3, 9-7 in duals, 9-7 overall
       Predictions:
-        AVG: ODU - Sasnouskaya (69%) def. Rice (31%)
+        AVG: ODU - Sasnouskaya (67%) def. Rice (33%)
         SLM: ODU - Sasnouskaya (68%) def. Rice (32%)
         TRN: ODU - Sasnouskaya (66%) def. Rice (34%)
-        MAS: ODU - Sasnouskaya (75%) def. Rice (25%)
+        MAS: ARK - Rice (NaN%) def. Sasnouskaya (NaN%)
         UTR: ODU - Sasnouskaya (67%) def. Rice (33%)
         ITA: ODU - Sasnouskaya (7.78) def. Rice (2.00)
     - Position: 4
       ODU: Alesya Yakubovich - 4-5 at 4, 6-7 in duals, 6-7 overall
       ARK: Morgan Cross - 9-10 at 4, 10-10 in duals, 10-10 overall
       Predictions:
-        AVG: ARK - Cross (65%) def. Yakubovich (35%)
+        AVG: ARK - Cross (70%) def. Yakubovich (30%)
         SLM: ARK - Cross (63%) def. Yakubovich (37%)
         TRN: ARK - Cross (69%) def. Yakubovich (31%)
-        MAS: ARK - Cross (51%) def. Yakubovich (49%)
+        MAS: ARK - Cross (NaN%) def. Yakubovich (NaN%)
         UTR: ARK - Cross (80%) def. Yakubovich (20%)
     - Position: 5
       ODU: Brooke Pilkington - 2-3 at 5, 6-5 in duals, 6-5 overall
       ARK: Lauren Alter - 5-5 at 5, 6-9 in duals, 6-9 overall
       Predictions:
-        AVG: ODU - Pilkington (66%) def. Alter (34%)
+        AVG: ODU - Pilkington (63%) def. Alter (37%)
         SLM: ODU - Pilkington (54%) def. Alter (46%)
         TRN: ODU - Pilkington (55%) def. Alter (45%)
-        MAS: ODU - Pilkington (74%) def. Alter (26%)
+        MAS: ARK - Alter (NaN%) def. Pilkington (NaN%)
         UTR: ODU - Pilkington (79%) def. Alter (21%)
         ITA: ODU - Pilkington (1.80) def. Alter (0.00)
     - Position: 6
       ODU: Alexandra Viktorovich - 6-2 at 6, 7-4 in duals, 7-4 overall
       ARK: Laura Rijkers - 7-0 at 6, 7-8 in duals, 7-8 overall
       Predictions:
-        AVG: ODU - Viktorovich (53%) def. Rijkers (47%)
+        AVG: ODU - Viktorovich (52%) def. Rijkers (48%)
         SLM: ARK - Rijkers (55%) def. Viktorovich (45%)
         TRN: ARK - Rijkers (69%) def. Viktorovich (31%)
-        MAS: ODU - Viktorovich (55%) def. Rijkers (45%)
+        MAS: ARK - Rijkers (NaN%) def. Viktorovich (NaN%)
         UTR: ODU - Viktorovich (80%) def. Rijkers (20%)
         ITA: ODU - Viktorovich (2.38) def. Rijkers (1.60)
   Doubles:

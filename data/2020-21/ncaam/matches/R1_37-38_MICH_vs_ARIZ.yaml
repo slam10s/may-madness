@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 10:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 37-38
 Title: Michigan vs Arizona
@@ -38,11 +39,10 @@ Visitor:
     USTA: T10
     Coach: 23
 Predictions:
-  AVG: MICH - Michigan (72%) def. Arizona (28%)
   SLM: "MICH - #13 Michigan (78%) def. #21 Arizona (22%)"
   TRN: "MICH - #12 Michigan (88%) def. #20 Arizona (12%)"
-  MAS: "MICH - #14 Michigan (54%) def. #18 Arizona (46%)"
-  LNUP: MICH - Michigan (70%) def. Arizona (30%)
+  MAS: "MICH - #14 Michigan (NaN%) def. #18 Arizona (NaN%)"
+  LNUP: MICH - Michigan (68%) def. Arizona (32%)
   UTR: "MICH - #18 Michigan (+0.3) def. #21 Arizona (-0.3)"
   ITA: "ARIZ - #17 Arizona def. #46 Michigan"
   USTA: "ARIZ - #18 Arizona def. Michigan"
@@ -50,30 +50,30 @@ Predictions:
   Seeding: "ARIZ - #2 Arizona def. #3 Michigan"
 Lineups:
   Predictions:
-    Average EWPs for ARIZ: 23%,13%,46%,30%
-    Average EWPs for MICH: 77%,87%,54%,70%
-    ARIZ wins 4 or more Singles points: 20%
-    MICH wins 4 or more Singles points: 48%
-    Winner decided by the Doubles point: 32%
+    Average EWPs for ARIZ: 23%,13%,NaN%,32%
+    Average EWPs for MICH: 77%,87%,NaN%,68%
+    ARIZ wins 4 or more Singles points: 21%
+    MICH wins 4 or more Singles points: 46%
+    Winner decided by the Doubles point: 33%
   Singles:
     - Position: 1
       ARIZ: Gustaf Strom - 3-1 at 1, 17-2 in duals, 17-2 overall
       MICH: Andrew Fenty - 10-3 at 1, 13-4 in duals, 16-9 overall
       Predictions:
-        AVG: ARIZ - Strom (64%) def. Fenty (36%)
+        AVG: ARIZ - Strom (67%) def. Fenty (33%)
         SLM: MICH - Fenty (56%) def. Strom (44%)
         TRN: ARIZ - Strom (87%) def. Fenty (13%)
-        MAS: ARIZ - Strom (57%) def. Fenty (43%)
+        MAS: MICH - Fenty (NaN%) def. Strom (NaN%)
         UTR: ARIZ - Strom (69%) def. Fenty (31%)
         ITA: ARIZ - Strom (17.40) def. Fenty (1.71)
     - Position: 2
       ARIZ: Jonas Ziverts - 1-1 at 2, 9-8 in duals, 9-8 overall
       MICH: Ondrej Styler - 7-3 at 2, 8-4 in duals, 12-7 overall
       Predictions:
-        AVG: MICH - Styler (62%) def. Ziverts (38%)
+        AVG: MICH - Styler (60%) def. Ziverts (40%)
         SLM: MICH - Styler (54%) def. Ziverts (46%)
         TRN: MICH - Styler (55%) def. Ziverts (45%)
-        MAS: MICH - Styler (68%) def. Ziverts (32%)
+        MAS: MICH - Styler (NaN%) def. Ziverts (NaN%)
         UTR: MICH - Styler (76%) def. Ziverts (24%)
         ITA: ARIZ - Ziverts (7.58) def. Styler (2.60)
     - Position: 3
@@ -83,27 +83,27 @@ Lineups:
         AVG: ARIZ - Malbasic (57%) def. Maloney (43%)
         SLM: ARIZ - Malbasic (53%) def. Maloney (47%)
         TRN: ARIZ - Malbasic (64%) def. Maloney (36%)
-        MAS: ARIZ - Malbasic (57%) def. Maloney (43%)
+        MAS: MICH - Maloney (NaN%) def. Malbasic (NaN%)
         UTR: ARIZ - Malbasic (53%) def. Maloney (47%)
         ITA: ARIZ - Malbasic (2.36) def. Maloney (2.15)
     - Position: 4
       ARIZ: Herman Hoeyeraal - 0-0 at 4, 4-0 in duals, 4-0 overall
       MICH: Mattias Siimar - 8-1 at 4, 14-3 in duals, 17-6 overall
       Predictions:
-        AVG: MICH - Siimar (94%) def. Hoeyeraal (6%)
+        AVG: MICH - Siimar (99%) def. Hoeyeraal (1%)
         SLM: MICH - Siimar (100%) def. Hoeyeraal (0%)
         TRN: MICH - Siimar (100%) def. Hoeyeraal (0%)
-        MAS: MICH - Siimar (79%) def. Hoeyeraal (21%)
+        MAS: MICH - Siimar (NaN%) def. Hoeyeraal (NaN%)
         UTR: MICH - Siimar (100%) def. Hoeyeraal (0%)
         ITA: MICH - Siimar (2.45) def. Hoeyeraal (2.40)
     - Position: 5
       ARIZ: Alejandro Reguant - 0-0 at 5, 13-6 in duals, 13-6 overall
       MICH: Nick Beaty - 8-2 at 5, 13-2 in duals, 19-4 overall
       Predictions:
-        AVG: MICH - Beaty (51%) def. Reguant (49%)
+        AVG: ARIZ - Reguant (53%) def. Beaty (47%)
         SLM: ARIZ - Reguant (55%) def. Beaty (45%)
         TRN: MICH - Beaty (66%) def. Reguant (34%)
-        MAS: MICH - Beaty (66%) def. Reguant (34%)
+        MAS: MICH - Beaty (NaN%) def. Reguant (NaN%)
         UTR: ARIZ - Reguant (70%) def. Beaty (30%)
         ITA: ARIZ - Reguant (2.55) def. Beaty (2.52)
     - Position: 6
@@ -113,7 +113,7 @@ Lineups:
         AVG: MICH - Ehrenschneider (57%) def. Hassey (43%)
         SLM: MICH - Ehrenschneider (51%) def. Hassey (49%)
         TRN: MICH - Ehrenschneider (66%) def. Hassey (34%)
-        MAS: MICH - Ehrenschneider (58%) def. Hassey (42%)
+        MAS: MICH - Ehrenschneider (NaN%) def. Hassey (NaN%)
         UTR: MICH - Ehrenschneider (57%) def. Hassey (43%)
         ITA: MICH - Ehrenschneider (2.63) def. Hassey (1.70)
   Doubles:

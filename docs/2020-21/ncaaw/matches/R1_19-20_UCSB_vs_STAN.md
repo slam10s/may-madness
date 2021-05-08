@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
+2021 Division I Women's Tennis Championship  
 Ralphs-Straus Tennis Center  
 Malibu, California  
 ## [UC Santa Barbara vs Stanford](https://www.ncaa.com/game/5833656)  
@@ -12,7 +13,7 @@ Malibu, California
 &nbsp; ITA: 44 (14.68)<br>  
 &nbsp; Slam: 39 (87.38)<br>  
 &nbsp; TRN: 40 (78.81)<br>  
-&nbsp; Massey: 40 (6.75)<br>  
+&#10004; Massey: 40 (6.75)<br>  
 &nbsp; UTR: 46 (57.03)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Malibu, California
 &#10004; ITA: 28 (35.11)<br>  
 &#10004; Slam: 23 (90.02)<br>  
 &#10004; TRN: 24 (81.66)<br>  
-&#10004; Massey: 15 (7.96)<br>  
+&nbsp; Massey: 15 (7.96)<br>  
 &#10004; UTR: 7 (63.45)<br>  
 &#10004; USTA Poll: 18<br>  
 &#10004; Coaches Poll: 26<br>  
@@ -42,10 +43,9 @@ Malibu, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***STAN*** - Stanford (90%) def. UC Santa Barbara (10%)  
 - Slam: ***STAN*** - #23 Stanford (81%) def. #39 UC Santa Barbara (19%)  
 - TRN: ***STAN*** - #24 Stanford (83%) def. #40 UC Santa Barbara (17%)  
-- Massey: ***STAN*** - #15 Stanford (95%) def. #40 UC Santa Barbara (5%)  
+- Massey: ***UCSB*** - #40 UC Santa Barbara (NaN%) def. #15 Stanford (NaN%)  
 - Lineup: ***STAN*** - Stanford (99%) def. UC Santa Barbara (1%)  
 - UTR: ***STAN*** - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)  
 - ITA: ***STAN*** - #28 Stanford def. #44 UC Santa Barbara  
@@ -63,10 +63,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Elizaveta Volodko (UCSB) - 9-4 at #1, 9-4 in duals, 9-4 overall<br>Michaela Gordon (STAN) - 9-6 at #1, 9-6 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Gordon (77%) def. Volodko (23%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Gordon (80%) def. Volodko (20%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Gordon (76%) def. Volodko (24%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Gordon (76%) def. Volodko (24%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Gordon (67%) def. Volodko (33%)</li>  
+<li>Massey: <b><i>UCSB</i></b> - Volodko (NaN%) def. Gordon (NaN%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Gordon (87%) def. Volodko (13%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Gordon (17.68) def. Volodko (4.21)</li>  
 </ul>
@@ -74,10 +74,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Camille Kiss (UCSB) - 10-4 at #2, 10-4 in duals, 10-4 overall<br>Angelica Blake (STAN) - 2-1 at #2, 7-2 in duals, 7-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Blake (82%) def. Kiss (18%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Blake (83%) def. Kiss (17%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Blake (75%) def. Kiss (25%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Blake (87%) def. Kiss (13%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Blake (78%) def. Kiss (22%)</li>  
+<li>Massey: <b><i>UCSB</i></b> - Kiss (NaN%) def. Blake (NaN%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Blake (88%) def. Kiss (12%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Blake (5.37) def. Kiss (2.42)</li>  
 </ul>
@@ -88,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>STAN</i></b> - Arbuthnott (54%) def. Khatamova (46%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Arbuthnott (56%) def. Khatamova (44%)</li>  
 <li>TRN: <b><i>UCSB</i></b> - Khatamova (73%) def. Arbuthnott (27%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Arbuthnott (53%) def. Khatamova (47%)</li>  
+<li>Massey: <b><i>UCSB</i></b> - Khatamova (NaN%) def. Arbuthnott (NaN%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Arbuthnott (80%) def. Khatamova (20%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Khatamova (6.05) def. Arbuthnott (1.89)</li>  
 </ul>
@@ -96,10 +96,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lise Sentenac (UCSB) - 6-4 at #4, 6-7 in duals, 6-7 overall<br>Ana Geller (STAN) - 1-3 at #4, 7-3 in duals, 7-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Geller (97%) def. Sentenac (3%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Geller (98%) def. Sentenac (2%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Geller (98%) def. Sentenac (2%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Geller (98%) def. Sentenac (2%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Geller (92%) def. Sentenac (8%)</li>  
+<li>Massey: <b><i>UCSB</i></b> - Sentenac (NaN%) def. Geller (NaN%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Geller (98%) def. Sentenac (2%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Geller (2.62) def. Sentenac (1.51)</li>  
 </ul>
@@ -107,10 +107,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kira Reuter (UCSB) - 5-5 at #5, 5-7 in duals, 5-7 overall<br>Sara Choy (STAN) - 3-2 at #5, 13-4 in duals, 13-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Choy (97%) def. Reuter (3%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Choy (98%) def. Reuter (2%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Choy (98%) def. Reuter (2%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Choy (99%) def. Reuter (1%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Choy (94%) def. Reuter (6%)</li>  
+<li>Massey: <b><i>UCSB</i></b> - Reuter (NaN%) def. Choy (NaN%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Choy (98%) def. Reuter (2%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Choy (2.38) def. Reuter (0.00)</li>  
 </ul>
@@ -118,10 +118,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Marta Gonzalez Ballbe (UCSB) - 6-3 at #6, 7-4 in duals, 7-4 overall<br>Emma Higuchi (STAN) - 10-3 at #6, 14-3 in duals, 14-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Higuchi (97%) def. Ballbe (3%)</li>  
+<li>Composite: <b><i>STAN</i></b> - Higuchi (98%) def. Ballbe (2%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Higuchi (97%) def. Ballbe (3%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Higuchi (98%) def. Ballbe (2%)</li>  
-<li>Massey: <b><i>STAN</i></b> - Higuchi (92%) def. Ballbe (8%)</li>  
+<li>Massey: <b><i>UCSB</i></b> - Ballbe (NaN%) def. Higuchi (NaN%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Higuchi (99%) def. Ballbe (1%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Higuchi (2.68) def. Ballbe (2.38)</li>  
 </ul>
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Stanford should win 4 or more singles matches _97%_ of the time.  
+- Stanford should win 4 or more singles matches _98%_ of the time.  
 - UC Santa Barbara should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
+- The winner of the doubles point will decide the match the other _2%_ of the time.  
 - If Stanford wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _3%_.  
+- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _2%_.  
   
 ------
 

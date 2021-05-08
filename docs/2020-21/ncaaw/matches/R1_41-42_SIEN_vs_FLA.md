@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 1:00 EDT  
+2021 Division I Women's Tennis Championship  
 Alfred A. Ring Tennis Complex  
 Gainesville, Florida  
 ## [Siena vs #11 Florida](https://www.ncaa.com/game/5833667)  
@@ -12,7 +13,7 @@ Gainesville, Florida
 &nbsp; ITA: 60 (2.41)<br>  
 &nbsp; Slam: 64 (65.57)<br>  
 &nbsp; TRN: 64 (50.23)<br>  
-&nbsp; Massey: 64 (2.92)<br>  
+&#10004; Massey: 64 (2.92)<br>  
 &nbsp; UTR: 62 (46.43)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Gainesville, Florida
 &#10004; ITA: 11 (49.18)<br>  
 &#10004; Slam: 16 (90.47)<br>  
 &#10004; TRN: 20 (82.70)<br>  
-&#10004; Massey: 21 (7.77)<br>  
+&nbsp; Massey: 21 (7.77)<br>  
 &#10004; UTR: 11 (62.70)<br>  
 &#10004; USTA Poll: 20<br>  
 &#10004; Coaches Poll: 15<br>  
@@ -42,10 +43,9 @@ Gainesville, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***FLA*** - Florida (99%) def. Siena (1%)  
 - Slam: ***FLA*** - #16 Florida (99%) def. #64 Siena (1%)  
 - TRN: ***FLA*** - #20 Florida (99%) def. #64 Siena (1%)  
-- Massey: ***FLA*** - #21 Florida (100%) def. #64 Siena (0%)  
+- Massey: ***SIEN*** - #64 Siena (NaN%) def. #21 Florida (NaN%)  
 - Lineup: ***FLA*** - Florida (99%) def. Siena (1%)  
 - UTR: ***FLA*** - #11 Florida (+16.27) def. #62 Siena (-16.27)  
 - ITA: ***FLA*** - #11 Florida def. #60 Siena  
@@ -66,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
+<li>Massey: <b><i>SIEN</i></b> - Brown (NaN%) def. Kessler (NaN%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Kessler (45.58) def. Brown (2.61)</li>  
 </ul>
@@ -77,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
+<li>Massey: <b><i>SIEN</i></b> - Mullaney (NaN%) def. Zein (NaN%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Zein (8.25) def. Mullaney (0.00)</li>  
 </ul>
@@ -88,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
+<li>Massey: <b><i>SIEN</i></b> - Miszczak (NaN%) def. Jarlskog (NaN%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Jarlskog (5.66) def. Miszczak (0.00)</li>  
 </ul>
@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
+<li>Massey: <b><i>SIEN</i></b> - Viswanath (NaN%) def. Sleeth (NaN%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Sleeth (7.72) def. Viswanath (2.10)</li>  
 </ul>
@@ -110,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Dahlstrom (98%) def. Boggiali (2%)</li>  
+<li>Massey: <b><i>SIEN</i></b> - Boggiali (NaN%) def. Dahlstrom (NaN%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Dahlstrom (3.40) def. Boggiali (2.28)</li>  
 </ul>
@@ -121,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
+<li>Massey: <b><i>SIEN</i></b> - Koniaev (NaN%) def. Berlin (NaN%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
 <li>ITA: <b><i>SIEN</i></b> - Koniaev (2.56) def. Berlin (2.47)</li>  
 </ul>

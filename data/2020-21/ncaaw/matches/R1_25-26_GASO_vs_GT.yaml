@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 2:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 25-26
 Title: "Ga. Southern vs #13 Georgia Tech"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 55 (5.15)
     UTR: 53 (54.43)
 Predictions:
-  AVG: GT - Georgia Tech (99%) def. Ga. Southern (1%)
   SLM: "GT - #20 Georgia Tech (99%) def. #53 Ga. Southern (1%)"
   TRN: "GT - #16 Georgia Tech (99%) def. #54 Ga. Southern (1%)"
-  MAS: "GT - #18 Georgia Tech (99%) def. #55 Ga. Southern (1%)"
+  MAS: "GASO - #55 Ga. Southern (NaN%) def. #18 Georgia Tech (NaN%)"
   LNUP: GT - Georgia Tech (99%) def. Ga. Southern (1%)
   UTR: "GT - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)"
   ITA: "GT - #13 Georgia Tech def. #53 Ga. Southern"
@@ -47,8 +47,8 @@ Predictions:
   Seeding: "GT - #1 Georgia Tech def. #4 Ga. Southern"
 Lineups:
   Predictions:
-    Average EWPs for GT: 99%,99%,99%,100%
-    Average EWPs for GASO: 1%,1%,1%,0%
+    Average EWPs for GT: 99%,99%,NaN%,100%
+    Average EWPs for GASO: 1%,1%,NaN%,0%
     GT wins 4 or more Singles points: 100%
     GASO wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -60,7 +60,7 @@ Lineups:
         AVG: GT - Jones (98%) def. Meier (2%)
         SLM: GT - Jones (99%) def. Meier (1%)
         TRN: GT - Jones (99%) def. Meier (1%)
-        MAS: GT - Jones (96%) def. Meier (4%)
+        MAS: GASO - Meier (NaN%) def. Jones (NaN%)
         UTR: GT - Jones (96%) def. Meier (4%)
         ITA: GT - Jones (50.31) def. Meier (1.56)
     - Position: 2
@@ -70,17 +70,17 @@ Lineups:
         AVG: GT - Flores (98%) def. Boixader (2%)
         SLM: GT - Flores (97%) def. Boixader (3%)
         TRN: GT - Flores (99%) def. Boixader (1%)
-        MAS: GT - Flores (99%) def. Boixader (1%)
+        MAS: GASO - Boixader (NaN%) def. Flores (NaN%)
         UTR: GT - Flores (98%) def. Boixader (2%)
         ITA: GT - Flores (29.63) def. Boixader (0.00)
     - Position: 3
       GT: Gia Cohen - 3-11 at 3, 8-14 in duals, 8-15 overall
       GASO: Sophie Wagemaker - 10-3 at 3, 11-7 in duals, 11-7 overall
       Predictions:
-        AVG: GT - Cohen (86%) def. Wagemaker (14%)
+        AVG: GT - Cohen (91%) def. Wagemaker (9%)
         SLM: GT - Cohen (93%) def. Wagemaker (7%)
         TRN: GT - Cohen (93%) def. Wagemaker (7%)
-        MAS: GT - Cohen (72%) def. Wagemaker (28%)
+        MAS: GASO - Wagemaker (NaN%) def. Cohen (NaN%)
         UTR: GT - Cohen (87%) def. Wagemaker (13%)
         ITA: GT - Cohen (3.38) def. Wagemaker (1.85)
     - Position: 4
@@ -90,27 +90,27 @@ Lineups:
         AVG: GT - Hrastar (97%) def. Diemen (3%)
         SLM: GT - Hrastar (96%) def. Diemen (4%)
         TRN: GT - Hrastar (97%) def. Diemen (3%)
-        MAS: GT - Hrastar (97%) def. Diemen (3%)
+        MAS: GASO - Diemen (NaN%) def. Hrastar (NaN%)
         UTR: GT - Hrastar (97%) def. Diemen (3%)
         ITA: GT - Hrastar (5.81) def. Diemen (0.00)
     - Position: 5
       GT: Carol Lee - 5-8 at 5, 12-12 in duals, 14-12 overall
       GASO: Mila Hartig - 1-0 at 5, 14-4 in duals, 14-4 overall
       Predictions:
-        AVG: GT - Lee (90%) def. Hartig (10%)
+        AVG: GT - Lee (91%) def. Hartig (9%)
         SLM: GT - Lee (93%) def. Hartig (7%)
         TRN: GT - Lee (91%) def. Hartig (9%)
-        MAS: GT - Lee (87%) def. Hartig (13%)
+        MAS: GASO - Hartig (NaN%) def. Lee (NaN%)
         UTR: GT - Lee (90%) def. Hartig (10%)
         ITA: GT - Lee (4.33) def. Hartig (2.42)
     - Position: 6
       GT: Mahak Jain - 7-2 at 6, 14-7 in duals, 16-7 overall
       GASO: Paula Hijos - 2-0 at 6, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: GT - Jain (96%) def. Hijos (4%)
+        AVG: GT - Jain (97%) def. Hijos (3%)
         SLM: GT - Jain (95%) def. Hijos (5%)
         TRN: GT - Jain (97%) def. Hijos (3%)
-        MAS: GT - Jain (92%) def. Hijos (8%)
+        MAS: GASO - Hijos (NaN%) def. Jain (NaN%)
         UTR: GT - Jain (99%) def. Hijos (1%)
         ITA: GASO - Hijos (1.93) def. Jain (1.89)
   Doubles:

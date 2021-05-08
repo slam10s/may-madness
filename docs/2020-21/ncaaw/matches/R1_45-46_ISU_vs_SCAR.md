@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 11:00 EDT  
+2021 Division I Women's Tennis Championship  
 J.W. Isenhour Tennis Center  
 Raleigh, North Carolina  
 ## [Iowa St. vs South Carolina](https://www.ncaa.com/game/5833669)  
@@ -12,7 +13,7 @@ Raleigh, North Carolina
 &nbsp; ITA: 36 (22.35)<br>  
 &nbsp; Slam: 41 (86.71)<br>  
 &nbsp; TRN: 42 (78.56)<br>  
-&nbsp; Massey: 39 (6.76)<br>  
+&#10004; Massey: 39 (6.76)<br>  
 &nbsp; UTR: 39 (59.07)<br>  
 &nbsp; Coaches Poll: 36<br>  
 <br>  
@@ -25,7 +26,7 @@ Raleigh, North Carolina
 &#10004; ITA: 22 (39.21)<br>  
 &#10004; Slam: 27 (89.34)<br>  
 &#10004; TRN: 28 (81.46)<br>  
-&#10004; Massey: 27 (7.41)<br>  
+&nbsp; Massey: 27 (7.41)<br>  
 &#10004; UTR: 29 (61.31)<br>  
 &#10004; USTA Poll: RV<br>  
 &#10004; Coaches Poll: 23<br>  
@@ -43,11 +44,10 @@ Raleigh, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***SCAR*** - South Carolina (85%) def. Iowa St. (15%)  
 - Slam: ***SCAR*** - #27 South Carolina (81%) def. #41 Iowa St. (19%)  
 - TRN: ***SCAR*** - #28 South Carolina (84%) def. #42 Iowa St. (16%)  
-- Massey: ***SCAR*** - #27 South Carolina (83%) def. #39 Iowa St. (17%)  
-- Lineup: ***SCAR*** - South Carolina (91%) def. Iowa St. (9%)  
+- Massey: ***ISU*** - #39 Iowa St. (NaN%) def. #27 South Carolina (NaN%)  
+- Lineup: ***SCAR*** - South Carolina (92%) def. Iowa St. (8%)  
 - UTR: ***SCAR*** - #29 South Carolina (+2.24) def. #39 Iowa St. (-2.24)  
 - ITA: ***SCAR*** - #22 South Carolina def. #36 Iowa St.  
 - USTA Poll: ***SCAR*** - RV South Carolina def. Iowa St.  
@@ -64,10 +64,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Thasaporn Naklo (ISU) - 10-7 at #1, 10-7 in duals, 10-7 overall<br>Mia Horvit (SCAR) - 9-7 at #1, 9-7 in duals, 11-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SCAR</i></b> - Horvit (82%) def. Naklo (18%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Horvit (84%) def. Naklo (16%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Horvit (81%) def. Naklo (19%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Horvit (85%) def. Naklo (15%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Horvit (78%) def. Naklo (22%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Naklo (NaN%) def. Horvit (NaN%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Horvit (84%) def. Naklo (16%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Horvit (18.78) def. Naklo (2.77)</li>  
 </ul>
@@ -75,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Maty Cancini (ISU) - 6-9 at #2, 6-9 in duals, 6-9 overall<br>Megan Davies (SCAR) - 10-5 at #2, 10-5 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SCAR</i></b> - Davies (86%) def. Cancini (14%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Davies (85%) def. Cancini (15%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Davies (81%) def. Cancini (19%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Davies (88%) def. Cancini (12%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Davies (88%) def. Cancini (12%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Cancini (NaN%) def. Davies (NaN%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Davies (86%) def. Cancini (14%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Davies (10.26) def. Cancini (1.95)</li>  
 </ul>
@@ -86,10 +86,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Miska Kadleckova (ISU) - 6-1 at #3, 14-3 in duals, 14-3 overall<br>Emma Shelton (SCAR) - 7-7 at #3, 10-8 in duals, 13-11 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SCAR</i></b> - Shelton (59%) def. Kadleckova (41%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Shelton (63%) def. Kadleckova (37%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Shelton (66%) def. Kadleckova (34%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Shelton (58%) def. Kadleckova (42%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Kadleckova (51%) def. Shelton (49%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Kadleckova (NaN%) def. Shelton (NaN%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Shelton (65%) def. Kadleckova (35%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Shelton (6.55) def. Kadleckova (2.94)</li>  
 </ul>
@@ -97,10 +97,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Christin Hsieh (ISU) - 1-3 at #4, 7-11 in duals, 7-11 overall<br>Silvia Chinellato (SCAR) - 7-6 at #4, 10-9 in duals, 12-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SCAR</i></b> - Chinellato (89%) def. Hsieh (11%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Chinellato (88%) def. Hsieh (12%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Chinellato (83%) def. Hsieh (17%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Chinellato (88%) def. Hsieh (12%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Chinellato (90%) def. Hsieh (10%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Hsieh (NaN%) def. Chinellato (NaN%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Chinellato (93%) def. Hsieh (7%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Chinellato (2.47) def. Hsieh (0.00)</li>  
 </ul>
@@ -108,20 +108,20 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Chie Kezuka (ISU) - 7-4 at #5, 10-6 in duals, 10-6 overall<br>Allie Gretkowski (SCAR) - 5-9 at #5, 7-12 in duals, 7-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SCAR</i></b> - Gretkowski (53%) def. Kezuka (47%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Gretkowski (57%) def. Kezuka (43%)</li>  
 <li>Slam: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Kezuka (53%) def. Gretkowski (47%)</li>  
-<li>Massey: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Kezuka (NaN%) def. Gretkowski (NaN%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Gretkowski (80%) def. Kezuka (20%)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Sofia Cabezas (ISU) - 9-3 at #6, 13-4 in duals, 13-4 overall<br>Ana Cruz (SCAR) - 4-4 at #6, 5-6 in duals, 5-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
+<li>Composite: <b><i>ISU</i></b> - Cabezas (71%) def. Cruz (29%)</li>  
 <li>Slam: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
 <li>TRN: <b><i>ISU</i></b> - Cabezas (72%) def. Cruz (28%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Cruz (54%) def. Cabezas (46%)</li>  
+<li>Massey: <b><i>ISU</i></b> - Cabezas (NaN%) def. Cruz (NaN%)</li>  
 <li>UTR: <b><i>ISU</i></b> - Cabezas (80%) def. Cruz (20%)</li>  
 <li>ITA: <b><i>ISU</i></b> - Cabezas (2.42) def. Cruz (0.00)</li>  
 </ul>
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- South Carolina should win 4 or more singles matches _71%_ of the time.  
-- Iowa St. should win 4 or more singles matches _7%_ of the time.  
-- The winner of the doubles point will decide the match the other _22%_ of the time.  
-- If South Carolina wins the doubles point, their chances of winning the dual improve to _93%_.  
-- If Iowa St. wins the doubles point, their chances of winning the dual improve to _29%_.  
+- South Carolina should win 4 or more singles matches _73%_ of the time.  
+- Iowa St. should win 4 or more singles matches _6%_ of the time.  
+- The winner of the doubles point will decide the match the other _21%_ of the time.  
+- If South Carolina wins the doubles point, their chances of winning the dual improve to _94%_.  
+- If Iowa St. wins the doubles point, their chances of winning the dual improve to _27%_.  
   
 ------
 

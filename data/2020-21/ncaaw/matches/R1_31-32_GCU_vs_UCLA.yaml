@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 1:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 31-32
 Title: "Grand Canyon vs #4 UCLA"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 57 (4.78)
     UTR: 57 (51.77)
 Predictions:
-  AVG: UCLA - UCLA (99%) def. Grand Canyon (1%)
   SLM: "UCLA - #4 UCLA (99%) def. #59 Grand Canyon (1%)"
   TRN: "UCLA - #7 UCLA (99%) def. #60 Grand Canyon (1%)"
-  MAS: "UCLA - #4 UCLA (100%) def. #57 Grand Canyon (0%)"
+  MAS: "GCU - #57 Grand Canyon (NaN%) def. #4 UCLA (NaN%)"
   LNUP: UCLA - UCLA (99%) def. Grand Canyon (1%)
   UTR: "UCLA - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)"
   ITA: "UCLA - #4 UCLA def. #62 Grand Canyon"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "UCLA - #1 UCLA def. #4 Grand Canyon"
 Lineups:
   Predictions:
-    Average EWPs for UCLA: 99%,99%,100%,100%
-    Average EWPs for GCU: 1%,1%,0%,0%
+    Average EWPs for UCLA: 99%,99%,NaN%,100%
+    Average EWPs for GCU: 1%,1%,NaN%,0%
     UCLA wins 4 or more Singles points: 100%
     GCU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,27 +61,27 @@ Lineups:
         AVG: UCLA - Forbes (99%) def. Puehse (1%)
         SLM: UCLA - Forbes (99%) def. Puehse (1%)
         TRN: UCLA - Forbes (99%) def. Puehse (1%)
-        MAS: UCLA - Forbes (99%) def. Puehse (1%)
+        MAS: GCU - Puehse (NaN%) def. Forbes (NaN%)
         UTR: UCLA - Forbes (98%) def. Puehse (2%)
         ITA: UCLA - Forbes (46.46) def. Puehse (2.45)
     - Position: 2
       UCLA: Jada Hart - 8-1 at 2, 11-2 in duals, 11-2 overall
       GCU: Emilia Occhipinti - 12-5 at 2, 12-5 in duals, 12-5 overall
       Predictions:
-        AVG: UCLA - Hart (98%) def. Occhipinti (2%)
+        AVG: UCLA - Hart (99%) def. Occhipinti (1%)
         SLM: UCLA - Hart (99%) def. Occhipinti (1%)
         TRN: UCLA - Hart (99%) def. Occhipinti (1%)
-        MAS: UCLA - Hart (98%) def. Occhipinti (2%)
+        MAS: GCU - Occhipinti (NaN%) def. Hart (NaN%)
         UTR: UCLA - Hart (98%) def. Occhipinti (2%)
         ITA: UCLA - Hart (12.21) def. Occhipinti (2.15)
     - Position: 3
       UCLA: Elysia Bolton - 5-2 at 3, 9-3 in duals, 9-3 overall
       GCU: Jana Weiss - 15-4 at 3, 15-4 in duals, 15-4 overall
       Predictions:
-        AVG: UCLA - Bolton (98%) def. Weiss (2%)
+        AVG: UCLA - Bolton (99%) def. Weiss (1%)
         SLM: UCLA - Bolton (99%) def. Weiss (1%)
         TRN: UCLA - Bolton (99%) def. Weiss (1%)
-        MAS: UCLA - Bolton (97%) def. Weiss (3%)
+        MAS: GCU - Weiss (NaN%) def. Bolton (NaN%)
         UTR: UCLA - Bolton (98%) def. Weiss (2%)
         ITA: UCLA - Bolton (4.20) def. Weiss (2.42)
     - Position: 4
@@ -91,7 +91,7 @@ Lineups:
         AVG: UCLA - Wolff (99%) def. Lomas (1%)
         SLM: UCLA - Wolff (99%) def. Lomas (1%)
         TRN: UCLA - Wolff (99%) def. Lomas (1%)
-        MAS: UCLA - Wolff (99%) def. Lomas (1%)
+        MAS: GCU - Lomas (NaN%) def. Wolff (NaN%)
         UTR: UCLA - Wolff (98%) def. Lomas (2%)
         ITA: UCLA - Wolff (2.06) def. Lomas (1.64)
     - Position: 5
@@ -101,7 +101,7 @@ Lineups:
         AVG: UCLA - Vagramov (99%) def. Prudhomme (1%)
         SLM: UCLA - Vagramov (99%) def. Prudhomme (1%)
         TRN: UCLA - Vagramov (99%) def. Prudhomme (1%)
-        MAS: UCLA - Vagramov (99%) def. Prudhomme (1%)
+        MAS: GCU - Prudhomme (NaN%) def. Vagramov (NaN%)
         UTR: UCLA - Vagramov (99%) def. Prudhomme (1%)
         ITA: UCLA - Vagramov (2.24) def. Prudhomme (0.00)
     - Position: 6
@@ -111,7 +111,7 @@ Lineups:
         AVG: UCLA - Ong (99%) def. Andersen (1%)
         SLM: UCLA - Ong (99%) def. Andersen (1%)
         TRN: UCLA - Ong (99%) def. Andersen (1%)
-        MAS: UCLA - Ong (97%) def. Andersen (3%)
+        MAS: GCU - Andersen (NaN%) def. Ong (NaN%)
         UTR: UCLA - Ong (99%) def. Andersen (1%)
         ITA: GCU - Andersen (1.96) def. Ong (1.95)
   Doubles:

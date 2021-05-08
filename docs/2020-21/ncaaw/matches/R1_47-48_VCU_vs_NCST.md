@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 2:00 EDT  
+2021 Division I Women's Tennis Championship  
 J.W. Isenhour Tennis Center  
 Raleigh, North Carolina  
 ## [VCU vs #6 NC State](https://www.ncaa.com/game/5833670)  
@@ -12,7 +13,7 @@ Raleigh, North Carolina
 &nbsp; ITA: 49 (6.76)<br>  
 &nbsp; Slam: 48 (82.19)<br>  
 &nbsp; TRN: 48 (73.53)<br>  
-&nbsp; Massey: 48 (6.03)<br>  
+&#10004; Massey: 48 (6.03)<br>  
 &nbsp; UTR: 48 (55.75)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Raleigh, North Carolina
 &#10004; ITA: 6 (55.66)<br>  
 &#10004; Slam: 11 (91.65)<br>  
 &#10004; TRN: 10 (84.27)<br>  
-&#10004; Massey: 6 (8.36)<br>  
+&nbsp; Massey: 6 (8.36)<br>  
 &#10004; UTR: 9 (62.99)<br>  
 &#10004; USTA Poll: 11<br>  
 &#10004; Coaches Poll: 6<br>  
@@ -42,10 +43,9 @@ Raleigh, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***NCST*** - NC State (99%) def. VCU (1%)  
 - Slam: ***NCST*** - #11 NC State (99%) def. #48 VCU (1%)  
 - TRN: ***NCST*** - #10 NC State (99%) def. #48 VCU (1%)  
-- Massey: ***NCST*** - #6 NC State (99%) def. #48 VCU (1%)  
+- Massey: ***VCU*** - #48 VCU (NaN%) def. #6 NC State (NaN%)  
 - Lineup: ***NCST*** - NC State (99%) def. VCU (1%)  
 - UTR: ***NCST*** - #9 NC State (+7.24) def. #48 VCU (-7.24)  
 - ITA: ***NCST*** - #6 NC State def. #49 VCU  
@@ -66,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Rogers (84%) def. Diaz-Delgado (16%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rogers (81%) def. Diaz-Delgado (19%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
+<li>Massey: <b><i>VCU</i></b> - Diaz-Delgado (NaN%) def. Rogers (NaN%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rogers (48.19) def. Diaz-Delgado (5.71)</li>  
 </ul>
@@ -77,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Smith (97%) def. Tutunaru (3%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Smith (96%) def. Tutunaru (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Smith (98%) def. Tutunaru (2%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Smith (96%) def. Tutunaru (4%)</li>  
+<li>Massey: <b><i>VCU</i></b> - Tutunaru (NaN%) def. Smith (NaN%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Smith (97%) def. Tutunaru (3%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Smith (22.32) def. Tutunaru (1.60)</li>  
 </ul>
@@ -85,10 +85,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alessia Ciuca (VCU) - 10-7 at #3, 10-11 in duals, 10-11 overall<br>Adriana Reami (NCST) - 12-4 at #3, 15-5 in duals, 16-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Reami (96%) def. Ciuca (4%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Reami (96%) def. Ciuca (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Reami (93%) def. Ciuca (7%)</li>  
+<li>Massey: <b><i>VCU</i></b> - Ciuca (NaN%) def. Reami (NaN%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Reami (4.00) def. Ciuca (1.68)</li>  
 </ul>
@@ -96,10 +96,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Gabriela Davidescu (VCU) - 9-8 at #4, 10-8 in duals, 10-8 overall<br>Jaeda Daniel (NCST) - 10-6 at #4, 11-8 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Daniel (95%) def. Davidescu (5%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Daniel (95%) def. Davidescu (5%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Daniel (92%) def. Davidescu (8%)</li>  
+<li>Massey: <b><i>VCU</i></b> - Davidescu (NaN%) def. Daniel (NaN%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Daniel (1.87) def. Davidescu (1.64)</li>  
 </ul>
@@ -107,10 +107,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Noumea Witmus (VCU) - 9-3 at #5, 13-6 in duals, 13-6 overall<br>Abigail Rencheli (NCST) - 5-2 at #5, 10-4 in duals, 13-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Rencheli (94%) def. Witmus (6%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rencheli (96%) def. Witmus (4%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Rencheli (95%) def. Witmus (5%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rencheli (97%) def. Witmus (3%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Rencheli (88%) def. Witmus (12%)</li>  
+<li>Massey: <b><i>VCU</i></b> - Witmus (NaN%) def. Rencheli (NaN%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rencheli (96%) def. Witmus (4%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rencheli (7.12) def. Witmus (2.03)</li>  
 </ul>
@@ -118,10 +118,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Shivani Manjanna (VCU) - 8-6 at #6, 11-7 in duals, 11-7 overall<br>Lexi Keberle (NCST) - 2-4 at #6, 13-6 in duals, 16-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Keberle (96%) def. Manjanna (4%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Keberle (97%) def. Manjanna (3%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Keberle (97%) def. Manjanna (3%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Keberle (98%) def. Manjanna (2%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Keberle (92%) def. Manjanna (8%)</li>  
+<li>Massey: <b><i>VCU</i></b> - Manjanna (NaN%) def. Keberle (NaN%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Keberle (96%) def. Manjanna (4%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Manjanna (1.77) def. Keberle (1.71)</li>  
 </ul>

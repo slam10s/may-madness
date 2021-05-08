@@ -1,5 +1,6 @@
 First Round  
 Saturday, May 8 at 4:00 EDT  
+2021 Division I Men's Tennis Championship  
 Palmer/Salloum Tennis Center  
 Oxford, Mississippi  
 ## [Belmont vs #15 Ole Miss](https://www.ncaa.com/game/5833398)  
@@ -12,7 +13,7 @@ Oxford, Mississippi
 &nbsp; ITA: 56 (4.48)<br>  
 &nbsp; Slam: 57 (83.10)<br>  
 &nbsp; TRN: 58 (79.14)<br>  
-&nbsp; Massey: 57 (5.77)<br>  
+&#10004; Massey: 57 (5.77)<br>  
 &nbsp; UTR: 57 (70.99)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Oxford, Mississippi
 &#10004; ITA: 14 (44.94)<br>  
 &#10004; Slam: 18 (95.00)<br>  
 &#10004; TRN: 18 (93.41)<br>  
-&#10004; Massey: 21 (7.84)<br>  
+&nbsp; Massey: 21 (7.84)<br>  
 &#10004; UTR: 25 (77.70)<br>  
 &#10004; USTA Poll: 21<br>  
 &#10004; Coaches Poll: 16<br>  
@@ -39,10 +40,9 @@ Oxford, Mississippi
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***MISS*** - Ole Miss (99%) def. Belmont (1%)  
 - Slam: ***MISS*** - #18 Ole Miss (99%) def. #57 Belmont (1%)  
 - TRN: ***MISS*** - #18 Ole Miss (99%) def. #58 Belmont (1%)  
-- Massey: ***MISS*** - #21 Ole Miss (99%) def. #57 Belmont (1%)  
+- Massey: ***BEL*** - #57 Belmont (NaN%) def. #21 Ole Miss (NaN%)  
 - Lineup: ***MISS*** - Ole Miss (99%) def. Belmont (1%)  
 - UTR: ***MISS*** - #25 Ole Miss (+6.71) def. #57 Belmont (-6.71)  
 - ITA: ***MISS*** - #14 Ole Miss def. #56 Belmont  
@@ -60,10 +60,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Marko Ilic (BEL) - 13-4 at #1, 13-4 in duals, 13-4 overall<br>Tim Sandkaulen (MISS) - 1-7 at #1, 8-12 in duals, 13-16 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MISS</i></b> - Sandkaulen (85%) def. Ilic (15%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Sandkaulen (88%) def. Ilic (12%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Sandkaulen (79%) def. Ilic (21%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Sandkaulen (91%) def. Ilic (9%)</li>  
-<li>Massey: <b><i>MISS</i></b> - Sandkaulen (77%) def. Ilic (23%)</li>  
+<li>Massey: <b><i>BEL</i></b> - Ilic (NaN%) def. Sandkaulen (NaN%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Sandkaulen (93%) def. Ilic (7%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Sandkaulen (22.95) def. Ilic (2.51)</li>  
 </ul>
@@ -71,10 +71,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Arthur Toledo (BEL) - 13-3 at #2, 13-3 in duals, 13-3 overall<br>Finn Reynolds (MISS) - 6-1 at #2, 10-10 in duals, 10-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MISS</i></b> - Reynolds (96%) def. Toledo (4%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Reynolds (98%) def. Toledo (2%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Reynolds (97%) def. Toledo (3%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Reynolds (98%) def. Toledo (2%)</li>  
-<li>Massey: <b><i>MISS</i></b> - Reynolds (91%) def. Toledo (9%)</li>  
+<li>Massey: <b><i>BEL</i></b> - Toledo (NaN%) def. Reynolds (NaN%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Reynolds (97%) def. Toledo (3%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Reynolds (36.17) def. Toledo (2.71)</li>  
 </ul>
@@ -82,10 +82,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Tomas Luis (BEL) - 7-5 at #3, 10-7 in duals, 10-7 overall<br>Nikola Slavic (MISS) - 12-7 at #3, 13-7 in duals, 13-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MISS</i></b> - Slavic (96%) def. Luis (4%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Slavic (97%) def. Luis (3%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Slavic (99%) def. Luis (1%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Slavic (99%) def. Luis (1%)</li>  
-<li>Massey: <b><i>MISS</i></b> - Slavic (95%) def. Luis (5%)</li>  
+<li>Massey: <b><i>BEL</i></b> - Luis (NaN%) def. Slavic (NaN%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Slavic (92%) def. Luis (8%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Slavic (24.24) def. Luis (1.54)</li>  
 </ul>
@@ -93,10 +93,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Diego Castro (BEL) - 6-4 at #4, 10-6 in duals, 10-6 overall<br>John Hallquist Lithen (MISS) - 5-6 at #4, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MISS</i></b> - Lithen (97%) def. Castro (3%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Lithen (98%) def. Castro (2%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Lithen (98%) def. Castro (2%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Lithen (99%) def. Castro (1%)</li>  
-<li>Massey: <b><i>MISS</i></b> - Lithen (94%) def. Castro (6%)</li>  
+<li>Massey: <b><i>BEL</i></b> - Castro (NaN%) def. Lithen (NaN%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Lithen (96%) def. Castro (4%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Lithen (2.40) def. Castro (1.99)</li>  
 </ul>
@@ -104,10 +104,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Taisei Miyamoto (BEL) - 5-3 at #5, 8-7 in duals, 8-7 overall<br>Simon Junk (MISS) - 2-6 at #5, 9-11 in duals, 9-14 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MISS</i></b> - Junk (92%) def. Miyamoto (8%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Junk (97%) def. Miyamoto (3%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Junk (97%) def. Miyamoto (3%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Junk (98%) def. Miyamoto (2%)</li>  
-<li>Massey: <b><i>MISS</i></b> - Junk (78%) def. Miyamoto (22%)</li>  
+<li>Massey: <b><i>BEL</i></b> - Miyamoto (NaN%) def. Junk (NaN%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Junk (96%) def. Miyamoto (4%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Junk (1.99) def. Miyamoto (1.70)</li>  
 </ul>
@@ -115,10 +115,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alfred Wallin (BEL) - 9-4 at #6, 11-4 in duals, 11-4 overall<br>Lukas Engelhardt (MISS) - 3-4 at #6, 3-7 in duals, 3-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MISS</i></b> - Engelhardt (93%) def. Wallin (7%)</li>  
+<li>Composite: <b><i>MISS</i></b> - Engelhardt (97%) def. Wallin (3%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Engelhardt (98%) def. Wallin (2%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Engelhardt (98%) def. Wallin (2%)</li>  
-<li>Massey: <b><i>MISS</i></b> - Engelhardt (84%) def. Wallin (16%)</li>  
+<li>Massey: <b><i>BEL</i></b> - Wallin (NaN%) def. Engelhardt (NaN%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Engelhardt (94%) def. Wallin (6%)</li>  
 <li>ITA: <b><i>BEL</i></b> - Wallin (2.75) def. Engelhardt (0.00)</li>  
 </ul>

@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 1:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 51-52
 Title: Oklahoma St. vs Auburn
@@ -37,11 +38,10 @@ Visitor:
   Polls:
     Coach: 37
 Predictions:
-  AVG: AUB - Auburn (65%) def. Oklahoma St. (35%)
   SLM: "AUB - #24 Auburn (75%) def. #37 Oklahoma St. (25%)"
   TRN: "AUB - #23 Auburn (82%) def. #37 Oklahoma St. (18%)"
-  MAS: "AUB - #25 Auburn (72%) def. #36 Oklahoma St. (28%)"
-  LNUP: OKST - Oklahoma St. (69%) def. Auburn (31%)
+  MAS: "OKST - #36 Oklahoma St. (NaN%) def. #25 Auburn (NaN%)"
+  LNUP: OKST - Oklahoma St. (74%) def. Auburn (26%)
   UTR: "OKST - #17 Oklahoma St. (+0.99) def. #30 Auburn (-0.99)"
   ITA: "AUB - #20 Auburn def. #37 Oklahoma St."
   USTA: "AUB - #25 Auburn def. Oklahoma St."
@@ -49,60 +49,60 @@ Predictions:
   Seeding: "AUB - #2 Auburn def. #3 Oklahoma St."
 Lineups:
   Predictions:
-    Average EWPs for AUB: 75%,82%,72%,31%
-    Average EWPs for OKST: 25%,18%,28%,69%
-    AUB wins 4 or more Singles points: 21%
-    OKST wins 4 or more Singles points: 48%
-    Winner decided by the Doubles point: 31%
+    Average EWPs for AUB: 75%,82%,NaN%,26%
+    Average EWPs for OKST: 25%,18%,NaN%,74%
+    AUB wins 4 or more Singles points: 18%
+    OKST wins 4 or more Singles points: 52%
+    Winner decided by the Doubles point: 30%
   Singles:
     - Position: 1
       AUB: Selin Ovunc - 8-9 at 1, 8-9 in duals, 13-10 overall
       OKST: Bunyawi Thamchaiwat - 9-2 at 1, 12-2 in duals, 20-4 overall
       Predictions:
-        AVG: OKST - Thamchaiwat (80%) def. Ovunc (20%)
+        AVG: OKST - Thamchaiwat (82%) def. Ovunc (18%)
         SLM: OKST - Thamchaiwat (75%) def. Ovunc (25%)
         TRN: OKST - Thamchaiwat (83%) def. Ovunc (17%)
-        MAS: OKST - Thamchaiwat (77%) def. Ovunc (23%)
+        MAS: OKST - Thamchaiwat (NaN%) def. Ovunc (NaN%)
         UTR: OKST - Thamchaiwat (91%) def. Ovunc (9%)
         ITA: OKST - Thamchaiwat (21.36) def. Ovunc (9.63)
     - Position: 2
       AUB: Carolyn Ansari - 1-0 at 2, 12-3 in duals, 14-10 overall
       OKST: Ayumi Miyamoto - 3-2 at 2, 11-5 in duals, 21-9 overall
       Predictions:
-        AVG: AUB - Ansari (57%) def. Miyamoto (43%)
+        AVG: AUB - Ansari (54%) def. Miyamoto (46%)
         SLM: AUB - Ansari (51%) def. Miyamoto (49%)
         TRN: OKST - Miyamoto (52%) def. Ansari (48%)
-        MAS: AUB - Ansari (68%) def. Miyamoto (32%)
+        MAS: OKST - Miyamoto (NaN%) def. Ansari (NaN%)
         UTR: AUB - Ansari (62%) def. Miyamoto (38%)
         ITA: AUB - Ansari (7.96) def. Miyamoto (4.02)
     - Position: 3
       AUB: Yu Chen - 0-2 at 3, 5-11 in duals, 12-13 overall
       OKST: Alana Wolfberg - 3-2 at 3, 7-8 in duals, 17-10 overall
       Predictions:
-        AVG: OKST - Wolfberg (68%) def. Chen (32%)
+        AVG: OKST - Wolfberg (70%) def. Chen (30%)
         SLM: OKST - Wolfberg (65%) def. Chen (35%)
         TRN: OKST - Wolfberg (67%) def. Chen (33%)
-        MAS: OKST - Wolfberg (63%) def. Chen (37%)
+        MAS: OKST - Wolfberg (NaN%) def. Chen (NaN%)
         UTR: OKST - Wolfberg (81%) def. Chen (19%)
         ITA: OKST - Wolfberg (10.37) def. Chen (3.54)
     - Position: 4
       AUB: Georgie Axon - 15-3 at 4, 16-3 in duals, 22-6 overall
       OKST: Dariya Detkovskaya - 5-6 at 4, 9-6 in duals, 17-8 overall
       Predictions:
-        AVG: AUB - Axon (71%) def. Detkovskaya (29%)
+        AVG: AUB - Axon (70%) def. Detkovskaya (30%)
         SLM: AUB - Axon (58%) def. Detkovskaya (42%)
         TRN: AUB - Axon (65%) def. Detkovskaya (35%)
-        MAS: AUB - Axon (74%) def. Detkovskaya (26%)
+        MAS: OKST - Detkovskaya (NaN%) def. Axon (NaN%)
         UTR: AUB - Axon (86%) def. Detkovskaya (14%)
         ITA: OKST - Detkovskaya (2.79) def. Axon (2.43)
     - Position: 5
       AUB: Adeline Flach - 4-5 at 5, 11-7 in duals, 14-10 overall
       OKST: Lenka Stara - 7-6 at 5, 10-8 in duals, 17-14 overall
       Predictions:
-        AVG: OKST - Stara (61%) def. Flach (39%)
+        AVG: OKST - Stara (64%) def. Flach (36%)
         SLM: OKST - Stara (66%) def. Flach (34%)
         TRN: OKST - Stara (62%) def. Flach (38%)
-        MAS: OKST - Stara (51%) def. Flach (49%)
+        MAS: OKST - Stara (NaN%) def. Flach (NaN%)
         UTR: OKST - Stara (67%) def. Flach (33%)
         ITA: AUB - Flach (1.50) def. Stara (0.00)
     - Position: 6
@@ -112,7 +112,7 @@ Lineups:
         AVG: OKST - Medvedeva (61%) def. Astakhova (39%)
         SLM: OKST - Medvedeva (61%) def. Astakhova (39%)
         TRN: AUB - Astakhova (58%) def. Medvedeva (42%)
-        MAS: OKST - Medvedeva (60%) def. Astakhova (40%)
+        MAS: OKST - Medvedeva (NaN%) def. Astakhova (NaN%)
         UTR: OKST - Medvedeva (82%) def. Astakhova (18%)
   Doubles:
     - Position: 1

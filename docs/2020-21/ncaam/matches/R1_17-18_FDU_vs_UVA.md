@@ -1,5 +1,6 @@
 First Round  
 Saturday, May 8 at 1:00 EDT  
+2021 Division I Men's Tennis Championship  
 Virginia Tennis Facility at the Boar’s Head Resort  
 Charlottesville, Virginia  
 ## [Fairleigh Dickinson vs #5 Virginia](https://www.ncaa.com/game/5833378)  
@@ -12,7 +13,7 @@ Charlottesville, Virginia
 &nbsp; ITA: 62 (1.95)<br>  
 &nbsp; Slam: 65 (72.33)<br>  
 &nbsp; TRN: 65 (65.17)<br>  
-&nbsp; Massey: 64 (3.98)<br>  
+&#10004; Massey: 64 (3.98)<br>  
 &nbsp; UTR: 64 (65.74)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Charlottesville, Virginia
 &#10004; ITA: 4 (74.36)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
-&#10004; Massey: 3 (9.13)<br>  
+&nbsp; Massey: 3 (9.13)<br>  
 &#10004; UTR: 6 (80.03)<br>  
 &#10004; USTA Poll: 1<br>  
 &#10004; Coaches Poll: 5<br>  
@@ -39,10 +40,9 @@ Charlottesville, Virginia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UVA*** - Virginia (99%) def. Fairleigh Dickinson (1%)  
 - Slam: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - TRN: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
-- Massey: ***UVA*** - #3 Virginia (100%) def. #64 Fairleigh Dickinson (0%)  
+- Massey: ***FDU*** - #64 Fairleigh Dickinson (NaN%) def. #3 Virginia (NaN%)  
 - Lineup: ***UVA*** - Virginia (99%) def. Fairleigh Dickinson (1%)  
 - UTR: ***UVA*** - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)  
 - ITA: ***UVA*** - #4 Virginia def. #62 Fairleigh Dickinson  
@@ -60,10 +60,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Teodors Pukse (FDU) - 4-3 at #1, 4-3 in duals, 4-3 overall<br>Carl Soderlund (UVA) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FDU</i></b> - Pukse (75%) def. Soderlund (25%)</li>  
+<li>Composite: <b><i>FDU</i></b> - Pukse (99%) def. Soderlund (1%)</li>  
 <li>Slam: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>TRN: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Soderlund (99%) def. Pukse (1%)</li>  
+<li>Massey: <b><i>FDU</i></b> - Pukse (NaN%) def. Soderlund (NaN%)</li>  
 <li>UTR: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Soderlund (48.38) def. Pukse (1.52)</li>  
 </ul>
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
+<li>Massey: <b><i>FDU</i></b> - Gudins (NaN%) def. Schulenburg (NaN%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Schulenburg (18.39) def. Gudins (1.26)</li>  
 </ul>
@@ -85,7 +85,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
+<li>Massey: <b><i>FDU</i></b> - Autuch (NaN%) def. Rodesch (NaN%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Rodesch (3.82) def. Autuch (1.74)</li>  
 </ul>
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Goetz (100%) def. Budinszky (0%)</li>  
+<li>Massey: <b><i>FDU</i></b> - Budinszky (NaN%) def. Goetz (NaN%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Goetz (6.09) def. Budinszky (0.00)</li>  
 </ul>
@@ -118,7 +118,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
+<li>Massey: <b><i>FDU</i></b> - Sader (NaN%) def. Ross (NaN%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Ross (2.67) def. Sader (1.68)</li>  
 </ul>

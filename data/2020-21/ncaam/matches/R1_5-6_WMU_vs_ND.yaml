@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 2:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 5-6
 Title: Western Mich. vs Notre Dame
@@ -37,11 +38,10 @@ Visitor:
     USTA: RV
     Coach: 48
 Predictions:
-  AVG: ND - Notre Dame (77%) def. Western Mich. (23%)
   SLM: "ND - #40 Notre Dame (77%) def. #47 Western Mich. (23%)"
   TRN: "ND - #42 Notre Dame (62%) def. #46 Western Mich. (38%)"
-  MAS: "ND - #36 Notre Dame (77%) def. #45 Western Mich. (23%)"
-  LNUP: ND - Notre Dame (95%) def. Western Mich. (5%)
+  MAS: "WMU - #45 Western Mich. (NaN%) def. #36 Notre Dame (NaN%)"
+  LNUP: ND - Notre Dame (96%) def. Western Mich. (4%)
   UTR: "ND - #38 Notre Dame (+3.43) def. #53 Western Mich. (-3.43)"
   ITA: "ND - #34 Notre Dame def. #41 Western Mich."
   USTA: WMU - RV Western Mich. def. Notre Dame
@@ -49,11 +49,11 @@ Predictions:
   Seeding: "ND - #2 Notre Dame def. #3 Western Mich."
 Lineups:
   Predictions:
-    Average EWPs for ND: 77%,62%,77%,95%
-    Average EWPs for WMU: 23%,38%,23%,5%
-    ND wins 4 or more Singles points: 78%
-    WMU wins 4 or more Singles points: 4%
-    Winner decided by the Doubles point: 18%
+    Average EWPs for ND: 77%,62%,NaN%,96%
+    Average EWPs for WMU: 23%,38%,NaN%,4%
+    ND wins 4 or more Singles points: 84%
+    WMU wins 4 or more Singles points: 3%
+    Winner decided by the Doubles point: 13%
   Singles:
     - Position: 1
       ND: Axel Nefve - 13-2 at 1, 18-3 in duals, 18-3 overall
@@ -62,27 +62,27 @@ Lineups:
         AVG: ND - Nefve (86%) def. Opitz (14%)
         SLM: ND - Nefve (82%) def. Opitz (18%)
         TRN: ND - Nefve (84%) def. Opitz (16%)
-        MAS: ND - Nefve (85%) def. Opitz (15%)
+        MAS: WMU - Opitz (NaN%) def. Nefve (NaN%)
         UTR: ND - Nefve (92%) def. Opitz (8%)
         ITA: ND - Nefve (21.49) def. Opitz (3.71)
     - Position: 2
       ND: Richard Ciamarra - 9-4 at 2, 14-7 in duals, 14-7 overall
       WMU: Peter Kuszynski - 15-2 at 2, 18-2 in duals, 18-2 overall
       Predictions:
-        AVG: ND - Ciamarra (84%) def. Kuszynski (16%)
+        AVG: ND - Ciamarra (87%) def. Kuszynski (13%)
         SLM: ND - Ciamarra (89%) def. Kuszynski (11%)
         TRN: ND - Ciamarra (82%) def. Kuszynski (18%)
-        MAS: ND - Ciamarra (75%) def. Kuszynski (25%)
+        MAS: WMU - Kuszynski (NaN%) def. Ciamarra (NaN%)
         UTR: ND - Ciamarra (91%) def. Kuszynski (9%)
         ITA: ND - Ciamarra (8.18) def. Kuszynski (3.15)
     - Position: 3
       ND: Tristan McCormick - 8-5 at 3, 10-6 in duals, 10-6 overall
       WMU: Fynn Lohse - 7-4 at 3, 16-5 in duals, 16-5 overall
       Predictions:
-        AVG: ND - McCormick (86%) def. Lohse (14%)
+        AVG: ND - McCormick (89%) def. Lohse (11%)
         SLM: ND - McCormick (88%) def. Lohse (12%)
         TRN: ND - McCormick (88%) def. Lohse (12%)
-        MAS: ND - McCormick (77%) def. Lohse (23%)
+        MAS: WMU - Lohse (NaN%) def. McCormick (NaN%)
         UTR: ND - McCormick (91%) def. Lohse (9%)
         ITA: ND - McCormick (3.76) def. Lohse (2.10)
     - Position: 4
@@ -99,20 +99,20 @@ Lineups:
       ND: Matthew Che - 0-1 at 5, 6-12 in duals, 6-12 overall
       WMU: Arjun Honnappa - 11-3 at 5, 17-3 in duals, 17-3 overall
       Predictions:
-        AVG: ND - Che (68%) def. Honnappa (32%)
+        AVG: ND - Che (74%) def. Honnappa (26%)
         SLM: ND - Che (80%) def. Honnappa (20%)
         TRN: ND - Che (65%) def. Honnappa (35%)
-        MAS: ND - Che (51%) def. Honnappa (49%)
+        MAS: WMU - Honnappa (NaN%) def. Che (NaN%)
         UTR: ND - Che (78%) def. Honnappa (22%)
         ITA: WMU - Honnappa (2.67) def. Che (0.00)
     - Position: 6
       ND: Connor Fu - 0-1 at 6, 12-9 in duals, 12-9 overall
       WMU: Ben George - 8-0 at 6, 11-0 in duals, 11-0 overall
       Predictions:
-        AVG: ND - Fu (82%) def. George (18%)
+        AVG: ND - Fu (87%) def. George (13%)
         SLM: ND - Fu (89%) def. George (11%)
         TRN: ND - Fu (86%) def. George (14%)
-        MAS: ND - Fu (69%) def. George (31%)
+        MAS: WMU - George (NaN%) def. Fu (NaN%)
         UTR: ND - Fu (86%) def. George (14%)
         ITA: WMU - George (4.11) def. Fu (1.57)
   Doubles:

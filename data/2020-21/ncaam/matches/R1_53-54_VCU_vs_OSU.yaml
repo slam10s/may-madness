@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 2:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 53-54
 Title: VCU vs Ohio St.
@@ -37,10 +38,9 @@ Visitor:
   Polls:
     Coach: 38
 Predictions:
-  AVG: OSU - Ohio St. (97%) def. VCU (3%)
   SLM: "OSU - #7 Ohio St. (95%) def. #36 VCU (5%)"
   TRN: "OSU - #8 Ohio St. (98%) def. #38 VCU (2%)"
-  MAS: "OSU - #9 Ohio St. (95%) def. #35 VCU (5%)"
+  MAS: "VCU - #35 VCU (NaN%) def. #9 Ohio St. (NaN%)"
   LNUP: OSU - Ohio St. (99%) def. VCU (1%)
   UTR: "OSU - #3 Ohio St. (+3.21) def. #29 VCU (-3.21)"
   ITA: "OSU - #31 Ohio St. def. #37 VCU"
@@ -49,70 +49,70 @@ Predictions:
   Seeding: "OSU - #2 Ohio St. def. #3 VCU"
 Lineups:
   Predictions:
-    Average EWPs for OSU: 95%,98%,95%,100%
-    Average EWPs for VCU: 5%,2%,5%,0%
-    OSU wins 4 or more Singles points: 97%
+    Average EWPs for OSU: 95%,98%,NaN%,100%
+    Average EWPs for VCU: 5%,2%,NaN%,0%
+    OSU wins 4 or more Singles points: 98%
     VCU wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 3%
+    Winner decided by the Doubles point: 2%
   Singles:
     - Position: 1
       OSU: John McNally - 10-2 at 1, 16-4 in duals, 21-4 overall
       VCU: Lleyton Cronje - 10-2 at 1, 12-3 in duals, 12-3 overall
       Predictions:
-        AVG: OSU - McNally (86%) def. Cronje (14%)
+        AVG: OSU - McNally (88%) def. Cronje (12%)
         SLM: OSU - McNally (89%) def. Cronje (11%)
         TRN: OSU - McNally (90%) def. Cronje (10%)
-        MAS: OSU - McNally (80%) def. Cronje (20%)
+        MAS: VCU - Cronje (NaN%) def. McNally (NaN%)
         UTR: OSU - McNally (85%) def. Cronje (15%)
         ITA: VCU - Cronje (8.20) def. McNally (3.89)
     - Position: 2
       OSU: Cannon Kingsley - 12-0 at 2, 21-0 in duals, 27-0 overall
       VCU: Charles Bertimon - 9-3 at 2, 11-4 in duals, 11-4 overall
       Predictions:
-        AVG: OSU - Kingsley (93%) def. Bertimon (7%)
+        AVG: OSU - Kingsley (94%) def. Bertimon (6%)
         SLM: OSU - Kingsley (95%) def. Bertimon (5%)
         TRN: OSU - Kingsley (97%) def. Bertimon (3%)
-        MAS: OSU - Kingsley (91%) def. Bertimon (9%)
+        MAS: VCU - Bertimon (NaN%) def. Kingsley (NaN%)
         UTR: OSU - Kingsley (91%) def. Bertimon (9%)
         ITA: OSU - Kingsley (5.20) def. Bertimon (3.10)
     - Position: 3
       OSU: James Trotter - 13-1 at 3, 13-1 in duals, 13-1 overall
       VCU: Inigo Torre - 7-2 at 3, 10-3 in duals, 10-3 overall
       Predictions:
-        AVG: OSU - Trotter (87%) def. Torre (13%)
+        AVG: OSU - Trotter (91%) def. Torre (9%)
         SLM: OSU - Trotter (91%) def. Torre (9%)
         TRN: OSU - Trotter (92%) def. Torre (8%)
-        MAS: OSU - Trotter (75%) def. Torre (25%)
+        MAS: VCU - Torre (NaN%) def. Trotter (NaN%)
         UTR: OSU - Trotter (89%) def. Torre (11%)
         ITA: OSU - Trotter (3.90) def. Torre (2.89)
     - Position: 4
       OSU: Justin Boulais - 5-1 at 4, 7-1 in duals, 7-1 overall
       VCU: Rayane Stable - 5-0 at 4, 15-2 in duals, 15-2 overall
       Predictions:
-        AVG: OSU - Boulais (70%) def. Stable (30%)
+        AVG: OSU - Boulais (74%) def. Stable (26%)
         SLM: OSU - Boulais (85%) def. Stable (15%)
         TRN: OSU - Boulais (73%) def. Stable (27%)
-        MAS: OSU - Boulais (59%) def. Stable (41%)
+        MAS: VCU - Stable (NaN%) def. Boulais (NaN%)
         UTR: OSU - Boulais (63%) def. Stable (37%)
         ITA: VCU - Stable (3.09) def. Boulais (2.92)
     - Position: 5
       OSU: Kyle Seelig - 3-0 at 5, 15-4 in duals, 18-8 overall
       VCU: Quentin Coulaud - 1-2 at 5, 10-6 in duals, 10-6 overall
       Predictions:
-        AVG: OSU - Seelig (86%) def. Coulaud (14%)
+        AVG: OSU - Seelig (88%) def. Coulaud (12%)
         SLM: OSU - Seelig (87%) def. Coulaud (13%)
         TRN: OSU - Seelig (90%) def. Coulaud (10%)
-        MAS: OSU - Seelig (79%) def. Coulaud (21%)
+        MAS: VCU - Coulaud (NaN%) def. Seelig (NaN%)
         UTR: OSU - Seelig (89%) def. Coulaud (11%)
         ITA: OSU - Seelig (2.02) def. Coulaud (1.96)
     - Position: 6
       OSU: JJ Tracy - 6-0 at 6, 21-1 in duals, 24-3 overall
       VCU: Timo Zgraggen - 6-0 at 6, 9-1 in duals, 9-1 overall
       Predictions:
-        AVG: OSU - Tracy (93%) def. Zgraggen (7%)
+        AVG: OSU - Tracy (96%) def. Zgraggen (4%)
         SLM: OSU - Tracy (94%) def. Zgraggen (6%)
         TRN: OSU - Tracy (97%) def. Zgraggen (3%)
-        MAS: OSU - Tracy (86%) def. Zgraggen (14%)
+        MAS: VCU - Zgraggen (NaN%) def. Tracy (NaN%)
         UTR: OSU - Tracy (96%) def. Zgraggen (4%)
         ITA: VCU - Zgraggen (3.45) def. Tracy (3.11)
   Doubles:

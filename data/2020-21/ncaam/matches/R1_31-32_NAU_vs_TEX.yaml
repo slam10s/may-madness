@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 1:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 31-32
 Title: "Northern Ariz. vs #4 Texas"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 59 (5.53)
     UTR: 59 (70.85)
 Predictions:
-  AVG: TEX - Texas (99%) def. Northern Ariz. (1%)
   SLM: "TEX - #8 Texas (99%) def. #58 Northern Ariz. (1%)"
   TRN: "TEX - #7 Texas (99%) def. #60 Northern Ariz. (1%)"
-  MAS: "TEX - #11 Texas (99%) def. #59 Northern Ariz. (1%)"
+  MAS: "NAU - #59 Northern Ariz. (NaN%) def. #11 Texas (NaN%)"
   LNUP: TEX - Texas (99%) def. Northern Ariz. (1%)
   UTR: "TEX - #14 Texas (+8.16) def. #59 Northern Ariz. (-8.16)"
   ITA: "TEX - #5 Texas def. #61 Northern Ariz."
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "TEX - #1 Texas def. #4 Northern Ariz."
 Lineups:
   Predictions:
-    Average EWPs for TEX: 99%,99%,99%,100%
-    Average EWPs for NAU: 1%,1%,1%,0%
+    Average EWPs for TEX: 99%,99%,NaN%,100%
+    Average EWPs for NAU: 1%,1%,NaN%,0%
     TEX wins 4 or more Singles points: 100%
     NAU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -58,10 +58,10 @@ Lineups:
       TEX: Eliot Spizzirri - 9-6 at 1, 15-8 in duals, 22-9 overall
       NAU: Eban Straker-Meads - 5-4 at 1, 6-6 in duals, 6-6 overall
       Predictions:
-        AVG: TEX - Spizzirri (95%) def. Straker-Meads (5%)
+        AVG: TEX - Spizzirri (96%) def. Straker-Meads (4%)
         SLM: TEX - Spizzirri (95%) def. Straker-Meads (5%)
         TRN: TEX - Spizzirri (98%) def. Straker-Meads (2%)
-        MAS: TEX - Spizzirri (94%) def. Straker-Meads (6%)
+        MAS: NAU - Straker-Meads (NaN%) def. Spizzirri (NaN%)
         UTR: TEX - Spizzirri (95%) def. Straker-Meads (5%)
         ITA: TEX - Spizzirri (28.17) def. Straker-Meads (1.70)
     - Position: 2
@@ -71,17 +71,17 @@ Lineups:
         AVG: TEX - Braswell (96%) def. Tumosa (4%)
         SLM: TEX - Braswell (95%) def. Tumosa (5%)
         TRN: TEX - Braswell (97%) def. Tumosa (3%)
-        MAS: TEX - Braswell (96%) def. Tumosa (4%)
+        MAS: NAU - Tumosa (NaN%) def. Braswell (NaN%)
         UTR: TEX - Braswell (96%) def. Tumosa (4%)
         ITA: TEX - Braswell (20.88) def. Tumosa (1.38)
     - Position: 3
       TEX: Siem Woldeab - 5-1 at 3, 9-7 in duals, 14-12 overall
       NAU: Dominik Buzonics - 4-3 at 3, 6-8 in duals, 6-8 overall
       Predictions:
-        AVG: TEX - Woldeab (98%) def. Buzonics (2%)
+        AVG: TEX - Woldeab (99%) def. Buzonics (1%)
         SLM: TEX - Woldeab (99%) def. Buzonics (1%)
         TRN: TEX - Woldeab (99%) def. Buzonics (1%)
-        MAS: TEX - Woldeab (98%) def. Buzonics (2%)
+        MAS: NAU - Buzonics (NaN%) def. Woldeab (NaN%)
         UTR: TEX - Woldeab (97%) def. Buzonics (3%)
         ITA: TEX - Woldeab (9.31) def. Buzonics (1.51)
     - Position: 4
@@ -91,27 +91,27 @@ Lineups:
         AVG: TEX - Harper (98%) def. Steele (2%)
         SLM: TEX - Harper (98%) def. Steele (2%)
         TRN: TEX - Harper (99%) def. Steele (1%)
-        MAS: TEX - Harper (98%) def. Steele (2%)
+        MAS: NAU - Steele (NaN%) def. Harper (NaN%)
         UTR: TEX - Harper (98%) def. Steele (2%)
         ITA: TEX - Harper (5.83) def. Steele (2.01)
     - Position: 5
       TEX: Chih Chi Huang - 9-7 at 5, 11-8 in duals, 15-17 overall
       NAU: Maciej Ziomber - 5-2 at 5, 11-4 in duals, 11-4 overall
       Predictions:
-        AVG: TEX - Huang (89%) def. Ziomber (11%)
+        AVG: TEX - Huang (94%) def. Ziomber (6%)
         SLM: TEX - Huang (95%) def. Ziomber (5%)
         TRN: TEX - Huang (94%) def. Ziomber (6%)
-        MAS: TEX - Huang (76%) def. Ziomber (24%)
+        MAS: NAU - Ziomber (NaN%) def. Huang (NaN%)
         UTR: TEX - Huang (92%) def. Ziomber (8%)
         ITA: NAU - Ziomber (2.68) def. Huang (0.00)
     - Position: 6
       TEX: Evin McDonald - 6-9 at 6, 11-10 in duals, 15-16 overall
       NAU: Alexander Groves - 3-0 at 6, 6-8 in duals, 6-8 overall
       Predictions:
-        AVG: TEX - McDonald (93%) def. Groves (7%)
+        AVG: TEX - McDonald (97%) def. Groves (3%)
         SLM: TEX - McDonald (96%) def. Groves (4%)
         TRN: TEX - McDonald (98%) def. Groves (2%)
-        MAS: TEX - McDonald (84%) def. Groves (16%)
+        MAS: NAU - Groves (NaN%) def. McDonald (NaN%)
         UTR: TEX - McDonald (96%) def. Groves (4%)
   Doubles:
     - Position: 1

@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 12:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 51-52
 Title: Wichita St. vs Arizona St.
@@ -37,11 +38,9 @@ Visitor:
   Polls:
     Coach: 32
 Predictions:
-  AVG: AZST - Arizona St. (65%) def. Wichita St. (35%)
   SLM: "AZST - #25 Arizona St. (70%) def. #39 Wichita St. (30%)"
   TRN: "AZST - #25 Arizona St. (70%) def. #37 Wichita St. (30%)"
-  MAS: "AZST - #24 Arizona St. (63%) def. #41 Wichita St. (37%)"
-  LNUP: AZST - Arizona St. (56%) def. Wichita St. (44%)
+  MAS: "WICH - #41 Wichita St. (NaN%) def. #24 Arizona St. (NaN%)"
   UTR: "AZST - #23 Arizona St. (+2.10) def. #39 Wichita St. (-2.10)"
   ITA: "AZST - #20 Arizona St. def. #33 Wichita St."
   USTA: "AZST - #19 Arizona St. def. Wichita St."
@@ -49,50 +48,50 @@ Predictions:
   Seeding: "AZST - #2 Arizona St. def. #3 Wichita St."
 Lineups:
   Predictions:
-    Average EWPs for AZST: 70%,70%,63%,56%
-    Average EWPs for WICH: 30%,30%,37%,44%
-    AZST wins 4 or more Singles points: 37%
-    WICH wins 4 or more Singles points: 28%
-    Winner decided by the Doubles point: 35%
+    Average EWPs for AZST: 70%,70%,NaN%,50%
+    Average EWPs for WICH: 30%,30%,NaN%,50%
+    AZST wins 4 or more Singles points: 32%
+    WICH wins 4 or more Singles points: 31%
+    Winner decided by the Doubles point: 37%
   Singles:
     - Position: 1
       AZST: Nathan Ponwtih - 14-7 at 1, 15-7 in duals, 15-7 overall
       WICH: Murkel Dellien - 7-0 at 1, 13-2 in duals, 13-2 overall
       Predictions:
-        AVG: AZST - Ponwtih (55%) def. Dellien (45%)
+        AVG: AZST - Ponwtih (57%) def. Dellien (43%)
         SLM: AZST - Ponwtih (68%) def. Dellien (32%)
         TRN: AZST - Ponwtih (59%) def. Dellien (41%)
-        MAS: WICH - Dellien (51%) def. Ponwtih (49%)
+        MAS: WICH - Dellien (NaN%) def. Ponwtih (NaN%)
         UTR: WICH - Dellien (56%) def. Ponwtih (44%)
         ITA: WICH - Dellien (19.99) def. Ponwtih (8.02)
     - Position: 2
       AZST: Makey Rakotomalala - 4-8 at 2, 9-10 in duals, 9-10 overall
       WICH: Marius Frosa - 6-3 at 2, 11-7 in duals, 11-7 overall
       Predictions:
-        AVG: WICH - Frosa (83%) def. Rakotomalala (17%)
+        AVG: WICH - Frosa (99%) def. Rakotomalala (1%)
         SLM: WICH - Frosa (100%) def. Rakotomalala (0%)
         TRN: WICH - Frosa (100%) def. Rakotomalala (0%)
-        MAS: AZST - Rakotomalala (67%) def. Frosa (33%)
+        MAS: WICH - Frosa (NaN%) def. Rakotomalala (NaN%)
         UTR: WICH - Frosa (100%) def. Rakotomalala (0%)
         ITA: WICH - Frosa (2.75) def. Rakotomalala (0.00)
     - Position: 3
       AZST: Tim Ruehl - 6-2 at 3, 10-5 in duals, 10-5 overall
       WICH: Stefan Latinovic - 4-8 at 3, 9-12 in duals, 9-12 overall
       Predictions:
-        AVG: AZST - Ruehl (85%) def. Latinovic (15%)
+        AVG: AZST - Ruehl (84%) def. Latinovic (16%)
         SLM: AZST - Ruehl (80%) def. Latinovic (20%)
         TRN: AZST - Ruehl (84%) def. Latinovic (16%)
-        MAS: AZST - Ruehl (87%) def. Latinovic (13%)
+        MAS: WICH - Latinovic (NaN%) def. Ruehl (NaN%)
         UTR: AZST - Ruehl (88%) def. Latinovic (12%)
         ITA: AZST - Ruehl (2.65) def. Latinovic (1.52)
     - Position: 4
       AZST: George Stoupe - 4-4 at 4, 10-10 in duals, 10-10 overall
       WICH: Nicolas Acevedo - 7-4 at 4, 12-8 in duals, 12-8 overall
       Predictions:
-        AVG: WICH - Acevedo (64%) def. Stoupe (36%)
+        AVG: WICH - Acevedo (62%) def. Stoupe (38%)
         SLM: WICH - Acevedo (63%) def. Stoupe (37%)
         TRN: WICH - Acevedo (62%) def. Stoupe (38%)
-        MAS: WICH - Acevedo (71%) def. Stoupe (29%)
+        MAS: WICH - Acevedo (NaN%) def. Stoupe (NaN%)
         UTR: WICH - Acevedo (64%) def. Stoupe (36%)
         ITA: WICH - Acevedo (1.90) def. Stoupe (1.41)
     - Position: 5
@@ -102,17 +101,17 @@ Lineups:
         AVG: AZST - McKennon (61%) def. Ovil (39%)
         SLM: WICH - Ovil (56%) def. McKennon (44%)
         TRN: AZST - McKennon (55%) def. Ovil (45%)
-        MAS: AZST - McKennon (62%) def. Ovil (38%)
+        MAS: WICH - Ovil (NaN%) def. McKennon (NaN%)
         UTR: AZST - McKennon (85%) def. Ovil (15%)
         ITA: WICH - Ovil (1.40) def. McKennon (0.00)
     - Position: 6
       AZST: Christian Lerby - 9-5 at 6, 12-7 in duals, 12-7 overall
       WICH: Luka Mrsic - 8-6 at 6, 9-6 in duals, 9-6 overall
       Predictions:
-        AVG: AZST - Lerby (58%) def. Mrsic (42%)
+        AVG: AZST - Lerby (59%) def. Mrsic (41%)
         SLM: AZST - Lerby (53%) def. Mrsic (47%)
         TRN: AZST - Lerby (56%) def. Mrsic (44%)
-        MAS: AZST - Lerby (56%) def. Mrsic (44%)
+        MAS: WICH - Mrsic (NaN%) def. Lerby (NaN%)
         UTR: AZST - Lerby (67%) def. Mrsic (33%)
         ITA: WICH - Mrsic (1.93) def. Lerby (1.82)
   Doubles:

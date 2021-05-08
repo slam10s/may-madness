@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 1:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 33-34
 Title: "Alabama A&M vs #3 Tennessee"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 65 (3.71)
     UTR: 65 (63.25)
 Predictions:
-  AVG: TENN - Tennessee (99%) def. Alabama A&M (1%)
   SLM: "TENN - #4 Tennessee (99%) def. #64 Alabama A&M (1%)"
   TRN: "TENN - #5 Tennessee (99%) def. #64 Alabama A&M (1%)"
-  MAS: "TENN - #2 Tennessee (100%) def. #65 Alabama A&M (0%)"
+  MAS: "AAMU - #65 Alabama A&M (NaN%) def. #2 Tennessee (NaN%)"
   LNUP: TENN - Tennessee (99%) def. Alabama A&M (1%)
   UTR: "TENN - #4 Tennessee (+16.92) def. #65 Alabama A&M (-16.92)"
   ITA: "TENN - #3 Tennessee def. #63 Alabama A&M"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "TENN - #1 Tennessee def. #4 Alabama A&M"
 Lineups:
   Predictions:
-    Average EWPs for TENN: 99%,99%,100%,100%
-    Average EWPs for AAMU: 1%,1%,0%,0%
+    Average EWPs for TENN: 99%,99%,NaN%,100%
+    Average EWPs for AAMU: 1%,1%,NaN%,0%
     TENN wins 4 or more Singles points: 100%
     AAMU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,7 +61,7 @@ Lineups:
         AVG: TENN - Walton (99%) def. Rios (1%)
         SLM: TENN - Walton (99%) def. Rios (1%)
         TRN: TENN - Walton (99%) def. Rios (1%)
-        MAS: TENN - Walton (99%) def. Rios (1%)
+        MAS: AAMU - Rios (NaN%) def. Walton (NaN%)
         UTR: TENN - Walton (99%) def. Rios (1%)
         ITA: TENN - Walton (42.60) def. Rios (0.00)
     - Position: 2
@@ -71,7 +71,7 @@ Lineups:
         AVG: TENN - Monday (99%) def. Popovski (1%)
         SLM: TENN - Monday (99%) def. Popovski (1%)
         TRN: TENN - Monday (99%) def. Popovski (1%)
-        MAS: TENN - Monday (99%) def. Popovski (1%)
+        MAS: AAMU - Popovski (NaN%) def. Monday (NaN%)
         UTR: TENN - Monday (99%) def. Popovski (1%)
         ITA: TENN - Monday (43.71) def. Popovski (1.64)
     - Position: 3
@@ -91,7 +91,7 @@ Lineups:
         AVG: TENN - Wiedenmann (99%) def. Mulada (1%)
         SLM: TENN - Wiedenmann (99%) def. Mulada (1%)
         TRN: TENN - Wiedenmann (99%) def. Mulada (1%)
-        MAS: TENN - Wiedenmann (99%) def. Mulada (1%)
+        MAS: AAMU - Mulada (NaN%) def. Wiedenmann (NaN%)
         UTR: TENN - Wiedenmann (99%) def. Mulada (1%)
         ITA: TENN - Wiedenmann (4.02) def. Mulada (1.65)
     - Position: 5
@@ -101,7 +101,7 @@ Lineups:
         AVG: TENN - Hussey (99%) def. Setiawan (1%)
         SLM: TENN - Hussey (99%) def. Setiawan (1%)
         TRN: TENN - Hussey (99%) def. Setiawan (1%)
-        MAS: TENN - Hussey (99%) def. Setiawan (1%)
+        MAS: AAMU - Setiawan (NaN%) def. Hussey (NaN%)
         UTR: TENN - Hussey (99%) def. Setiawan (1%)
         ITA: TENN - Hussey (7.54) def. Setiawan (1.79)
     - Position: 6

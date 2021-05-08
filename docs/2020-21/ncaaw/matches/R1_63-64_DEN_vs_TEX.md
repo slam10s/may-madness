@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 4:00 EDT  
+2021 Division I Women's Tennis Championship  
 Texas Tennis Center  
 Austin, Texas  
 ## [Denver vs #2 Texas](https://www.ncaa.com/game/5833678)  
@@ -12,7 +13,7 @@ Austin, Texas
 &nbsp; ITA: 45 (11.66)<br>  
 &nbsp; Slam: 45 (84.92)<br>  
 &nbsp; TRN: 45 (76.03)<br>  
-&nbsp; Massey: 43 (6.53)<br>  
+&#10004; Massey: 43 (6.53)<br>  
 &nbsp; UTR: 45 (58.03)<br>  
 &nbsp; Coaches Poll: 49<br>  
 <br>  
@@ -25,7 +26,7 @@ Austin, Texas
 &#10004; ITA: 2 (79.19)<br>  
 &#10004; Slam: 2 (98.44)<br>  
 &#10004; TRN: 2 (97.97)<br>  
-&#10004; Massey: 2 (9.38)<br>  
+&nbsp; Massey: 2 (9.38)<br>  
 &#10004; UTR: 1 (65.59)<br>  
 &#10004; USTA Poll: 2<br>  
 &#10004; Coaches Poll: 2<br>  
@@ -43,10 +44,9 @@ Austin, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***TEX*** - Texas (99%) def. Denver (1%)  
 - Slam: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
 - TRN: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
-- Massey: ***TEX*** - #2 Texas (99%) def. #43 Denver (1%)  
+- Massey: ***DEN*** - #43 Denver (NaN%) def. #2 Texas (NaN%)  
 - Lineup: ***TEX*** - Texas (99%) def. Denver (1%)  
 - UTR: ***TEX*** - #1 Texas (+7.56) def. #45 Denver (-7.56)  
 - ITA: ***TEX*** - #2 Texas def. #45 Denver  
@@ -67,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Stearns (80%) def. Riedmiller (20%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Stearns (86%) def. Riedmiller (14%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Stearns (65%) def. Riedmiller (35%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Stearns (79%) def. Riedmiller (21%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Riedmiller (NaN%) def. Stearns (NaN%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Stearns (90%) def. Riedmiller (10%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Stearns (16.38) def. Riedmiller (4.70)</li>  
 </ul>
@@ -78,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Turati (94%) def. Melville (6%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Turati (92%) def. Melville (8%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Turati (97%) def. Melville (3%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Turati (92%) def. Melville (8%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Melville (NaN%) def. Turati (NaN%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Turati (94%) def. Melville (6%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Turati (17.31) def. Melville (2.84)</li>  
 </ul>
@@ -86,10 +86,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Britt Pursell (DEN) - 11-3 at #3, 12-3 in duals, 12-3 overall<br>Lulu Sun (TEX) - 12-1 at #3, 18-2 in duals, 18-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Sun (97%) def. Pursell (3%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Sun (98%) def. Pursell (2%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Sun (97%) def. Pursell (3%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Sun (99%) def. Pursell (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Sun (95%) def. Pursell (5%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Pursell (NaN%) def. Sun (NaN%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Sun (98%) def. Pursell (2%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Sun (9.34) def. Pursell (2.61)</li>  
 </ul>
@@ -97,10 +97,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Camille Verden-Anderson (DEN) - 3-1 at #4, 8-2 in duals, 8-2 overall<br>Charlotte Chavatipon (TEX) - 16-1 at #4, 20-1 in duals, 23-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Chavatipon (97%) def. Verden-Anderson (3%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Verden-Anderson (NaN%) def. Chavatipon (NaN%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Chavatipon (7.87) def. Verden-Anderson (3.01)</li>  
 </ul>
@@ -111,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Collins (99%) def. Chang (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Collins (98%) def. Chang (2%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Chang (NaN%) def. Collins (NaN%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Collins (98%) def. Chang (2%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Collins (8.04) def. Chang (2.56)</li>  
 </ul>
@@ -122,7 +122,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Labrana (98%) def. Burger (2%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Labrana (96%) def. Burger (4%)</li>  
+<li>Massey: <b><i>DEN</i></b> - Burger (NaN%) def. Labrana (NaN%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Labrana (97%) def. Burger (3%)</li>  
 <li>ITA: <b><i>DEN</i></b> - Burger (1.93) def. Labrana (0.00)</li>  
 </ul>

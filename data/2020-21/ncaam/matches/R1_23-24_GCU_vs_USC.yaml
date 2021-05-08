@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 4:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 23-24
 Title: "Grand Canyon vs #12 Southern California"
@@ -36,10 +37,9 @@ Visitor:
     MAS: 62 (5.21)
     UTR: 56 (71.32)
 Predictions:
-  AVG: USC - Southern California (99%) def. Grand Canyon (1%)
   SLM: "USC - #14 Southern California (99%) def. #62 Grand Canyon (1%)"
   TRN: "USC - #16 Southern California (99%) def. #62 Grand Canyon (1%)"
-  MAS: "USC - #8 Southern California (100%) def. #62 Grand Canyon (0%)"
+  MAS: "GCU - #62 Grand Canyon (NaN%) def. #8 Southern California (NaN%)"
   LNUP: USC - Southern California (99%) def. Grand Canyon (1%)
   UTR: "USC - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)"
   ITA: "USC - #12 Southern California def. #64 Grand Canyon"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "USC - #1 Southern California def. #4 Grand Canyon"
 Lineups:
   Predictions:
-    Average EWPs for USC: 99%,99%,100%,100%
-    Average EWPs for GCU: 1%,1%,0%,0%
+    Average EWPs for USC: 99%,99%,NaN%,100%
+    Average EWPs for GCU: 1%,1%,NaN%,0%
     USC wins 4 or more Singles points: 100%
     GCU wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -61,7 +61,7 @@ Lineups:
         AVG: USC - Cukierman (98%) def. Lang (2%)
         SLM: USC - Cukierman (98%) def. Lang (2%)
         TRN: USC - Cukierman (99%) def. Lang (1%)
-        MAS: USC - Cukierman (98%) def. Lang (2%)
+        MAS: GCU - Lang (NaN%) def. Cukierman (NaN%)
         UTR: USC - Cukierman (97%) def. Lang (3%)
         ITA: USC - Cukierman (16.39) def. Lang (1.42)
     - Position: 2
@@ -71,7 +71,7 @@ Lineups:
         AVG: USC - Smith (98%) def. Argote (2%)
         SLM: USC - Smith (98%) def. Argote (2%)
         TRN: USC - Smith (99%) def. Argote (1%)
-        MAS: USC - Smith (97%) def. Argote (3%)
+        MAS: GCU - Argote (NaN%) def. Smith (NaN%)
         UTR: USC - Smith (97%) def. Argote (3%)
         ITA: USC - Smith (15.48) def. Argote (1.91)
     - Position: 3
@@ -81,7 +81,7 @@ Lineups:
         AVG: USC - Dostanic (99%) def. Cvitanovic (1%)
         SLM: USC - Dostanic (99%) def. Cvitanovic (1%)
         TRN: USC - Dostanic (99%) def. Cvitanovic (1%)
-        MAS: USC - Dostanic (99%) def. Cvitanovic (1%)
+        MAS: GCU - Cvitanovic (NaN%) def. Dostanic (NaN%)
         UTR: USC - Dostanic (98%) def. Cvitanovic (2%)
         ITA: USC - Dostanic (5.43) def. Cvitanovic (0.00)
     - Position: 4
@@ -91,17 +91,17 @@ Lineups:
         AVG: USC - Frye (99%) def. Silva (1%)
         SLM: USC - Frye (99%) def. Silva (1%)
         TRN: USC - Frye (99%) def. Silva (1%)
-        MAS: USC - Frye (99%) def. Silva (1%)
+        MAS: GCU - Silva (NaN%) def. Frye (NaN%)
         UTR: USC - Frye (98%) def. Silva (2%)
         ITA: USC - Frye (2.44) def. Silva (1.73)
     - Position: 5
       USC: Lodewijk Weststrate - 9-3 at 5, 21-4 in duals, 23-4 overall
       GCU: Jiri Novak - 5-1 at 5, 8-9 in duals, 8-9 overall
       Predictions:
-        AVG: USC - Weststrate (98%) def. Novak (2%)
+        AVG: USC - Weststrate (99%) def. Novak (1%)
         SLM: USC - Weststrate (99%) def. Novak (1%)
         TRN: USC - Weststrate (99%) def. Novak (1%)
-        MAS: USC - Weststrate (98%) def. Novak (2%)
+        MAS: GCU - Novak (NaN%) def. Weststrate (NaN%)
         UTR: USC - Weststrate (98%) def. Novak (2%)
         ITA: USC - Weststrate (2.93) def. Novak (1.55)
     - Position: 6
@@ -111,7 +111,7 @@ Lineups:
         AVG: USC - Sands (97%) def. Grant (3%)
         SLM: USC - Sands (98%) def. Grant (2%)
         TRN: USC - Sands (99%) def. Grant (1%)
-        MAS: USC - Sands (95%) def. Grant (5%)
+        MAS: GCU - Grant (NaN%) def. Sands (NaN%)
         UTR: USC - Sands (94%) def. Grant (6%)
         ITA: USC - Sands (2.42) def. Grant (1.60)
   Doubles:

@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 10:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 29-30
 Title: Northwestern vs UCLA
@@ -37,10 +38,9 @@ Visitor:
   Polls:
     Coach: 49
 Predictions:
-  AVG: UCLA - UCLA (63%) def. Northwestern (37%)
   SLM: "UCLA - #23 UCLA (63%) def. #33 Northwestern (37%)"
   TRN: "UCLA - #24 UCLA (63%) def. #32 Northwestern (37%)"
-  MAS: "UCLA - #19 UCLA (75%) def. #31 Northwestern (25%)"
+  MAS: "NW - #31 Northwestern (NaN%) def. #19 UCLA (NaN%)"
   UTR: "UCLA - #13 UCLA (+1.50) def. #27 Northwestern (-1.50)"
   ITA: "UCLA - #24 UCLA def. #50 Northwestern"
   USTA: "UCLA - #22 UCLA def. Northwestern"
@@ -48,8 +48,8 @@ Predictions:
   Seeding: "UCLA - #2 UCLA def. #3 Northwestern"
 Lineups:
   Predictions:
-    Average EWPs for UCLA: 63%,63%,75%,51%
-    Average EWPs for NW: 37%,37%,25%,49%
+    Average EWPs for UCLA: 63%,63%,NaN%,51%
+    Average EWPs for NW: 37%,37%,NaN%,49%
     UCLA wins 4 or more Singles points: 34%
     NW wins 4 or more Singles points: 34%
     Winner decided by the Doubles point: 32%
@@ -61,17 +61,17 @@ Lineups:
         AVG: UCLA - Nanda (74%) def. Forman (26%)
         SLM: UCLA - Nanda (63%) def. Forman (37%)
         TRN: UCLA - Nanda (75%) def. Forman (25%)
-        MAS: UCLA - Nanda (75%) def. Forman (25%)
+        MAS: NW - Forman (NaN%) def. Nanda (NaN%)
         UTR: UCLA - Nanda (85%) def. Forman (15%)
         ITA: UCLA - Nanda (4.24) def. Forman (2.23)
     - Position: 2
       UCLA: Drew Baird - 5-2 at 2, 9-6 in duals, 9-7 overall
       NW: Dominik Stary - 4-0 at 2, 8-4 in duals, 9-6 overall
       Predictions:
-        AVG: NW - Stary (56%) def. Baird (44%)
+        AVG: NW - Stary (55%) def. Baird (45%)
         SLM: NW - Stary (69%) def. Baird (31%)
         TRN: NW - Stary (64%) def. Baird (36%)
-        MAS: NW - Stary (59%) def. Baird (41%)
+        MAS: NW - Stary (NaN%) def. Baird (NaN%)
         UTR: UCLA - Baird (66%) def. Stary (34%)
         ITA: UCLA - Baird (3.85) def. Stary (0.00)
     - Position: 3
@@ -81,7 +81,7 @@ Lineups:
         AVG: NW - Brookes (64%) def. Goldberg (36%)
         SLM: NW - Brookes (66%) def. Goldberg (34%)
         TRN: NW - Brookes (52%) def. Goldberg (48%)
-        MAS: NW - Brookes (64%) def. Goldberg (36%)
+        MAS: NW - Brookes (NaN%) def. Goldberg (NaN%)
         UTR: NW - Brookes (77%) def. Goldberg (23%)
         ITA: UCLA - Goldberg (1.97) def. Brookes (1.58)
     - Position: 4
@@ -91,27 +91,27 @@ Lineups:
         AVG: NW - Ephron (52%) def. Feit (48%)
         SLM: NW - Ephron (65%) def. Feit (35%)
         TRN: UCLA - Feit (51%) def. Ephron (49%)
-        MAS: NW - Ephron (55%) def. Feit (45%)
+        MAS: NW - Ephron (NaN%) def. Feit (NaN%)
         UTR: UCLA - Feit (56%) def. Ephron (44%)
         ITA: NW - Ephron (2.01) def. Feit (1.91)
     - Position: 5
       UCLA: Roscoe Bellamy - 2-1 at 5, 8-2 in duals, 8-2 overall
       NW: Trice Pickens - 3-3 at 5, 8-10 in duals, 13-10 overall
       Predictions:
-        AVG: UCLA - Bellamy (54%) def. Pickens (46%)
+        AVG: UCLA - Bellamy (52%) def. Pickens (48%)
         SLM: NW - Pickens (70%) def. Bellamy (30%)
         TRN: NW - Pickens (56%) def. Bellamy (44%)
-        MAS: UCLA - Bellamy (60%) def. Pickens (40%)
+        MAS: NW - Pickens (NaN%) def. Bellamy (NaN%)
         UTR: UCLA - Bellamy (81%) def. Pickens (19%)
         ITA: UCLA - Bellamy (2.89) def. Pickens (1.58)
     - Position: 6
       UCLA: Mathew Tsolakyan - 4-2 at 6, 10-3 in duals, 11-3 overall
       NW: Simen Bratholm - 0-0 at 6, 5-4 in duals, 8-5 overall
       Predictions:
-        AVG: NW - Bratholm (56%) def. Tsolakyan (44%)
+        AVG: NW - Bratholm (55%) def. Tsolakyan (45%)
         SLM: NW - Bratholm (66%) def. Tsolakyan (34%)
         TRN: NW - Bratholm (64%) def. Tsolakyan (36%)
-        MAS: NW - Bratholm (59%) def. Tsolakyan (41%)
+        MAS: NW - Bratholm (NaN%) def. Tsolakyan (NaN%)
         UTR: UCLA - Tsolakyan (62%) def. Bratholm (38%)
         ITA: UCLA - Tsolakyan (2.57) def. Bratholm (2.06)
   Doubles:

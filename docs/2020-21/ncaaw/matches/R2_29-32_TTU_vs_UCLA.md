@@ -1,5 +1,6 @@
 Second Round  
 Saturday, May 8 at 3:00 EDT  
+2021 Division I Women's Tennis Championship  
 Los Angeles Tennis Center  
 Los Angeles, California  
 ## [Texas Tech vs #4 UCLA](https://www.ncaa.com/game/5833686)  
@@ -12,7 +13,7 @@ Los Angeles, California
 &nbsp; ITA: 29 (28.07)<br>  
 &nbsp; Slam: 34 (87.92)<br>  
 &nbsp; TRN: 34 (79.75)<br>  
-&nbsp; Massey: 28 (7.39)<br>  
+&#10004; Massey: 28 (7.39)<br>  
 &nbsp; UTR: 27 (61.44)<br>  
 &nbsp; Coaches Poll: 29<br>  
 <br>  
@@ -25,7 +26,7 @@ Los Angeles, California
 &#10004; ITA: 4 (61.84)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
-&#10004; Massey: 4 (8.85)<br>  
+&nbsp; Massey: 4 (8.85)<br>  
 &#10004; UTR: 5 (64.40)<br>  
 &#10004; USTA Poll: 4<br>  
 &#10004; Coaches Poll: 5<br>  
@@ -40,10 +41,9 @@ Los Angeles, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UCLA*** - UCLA (96%) def. Texas Tech (4%)  
 - Slam: ***UCLA*** - #4 UCLA (94%) def. #34 Texas Tech (6%)  
 - TRN: ***UCLA*** - #7 UCLA (96%) def. #34 Texas Tech (4%)  
-- Massey: ***UCLA*** - #4 UCLA (97%) def. #28 Texas Tech (3%)  
+- Massey: ***TTU*** - #28 Texas Tech (NaN%) def. #4 UCLA (NaN%)  
 - Lineup: ***UCLA*** - UCLA (97%) def. Texas Tech (3%)  
 - UTR: ***UCLA*** - #5 UCLA (+2.96) def. #27 Texas Tech (-2.96)  
 - ITA: ***UCLA*** - #4 UCLA def. #29 Texas Tech  
@@ -64,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCLA</i></b> - Forbes (95%) def. Mays (5%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Forbes (96%) def. Mays (4%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Forbes (98%) def. Mays (2%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Forbes (93%) def. Mays (7%)</li>  
+<li>Massey: <b><i>TTU</i></b> - Mays (NaN%) def. Forbes (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Forbes (91%) def. Mays (9%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Forbes (46.46) def. Mays (3.54)</li>  
 </ul>
@@ -72,10 +72,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Margarita Skriabina (TTU) - 2-0 at #2, 16-1 in duals, 18-2 overall<br>Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Hart (77%) def. Skriabina (23%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Hart (82%) def. Skriabina (18%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Hart (90%) def. Skriabina (10%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Hart (87%) def. Skriabina (13%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Hart (60%) def. Skriabina (40%)</li>  
+<li>Massey: <b><i>TTU</i></b> - Skriabina (NaN%) def. Hart (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Hart (70%) def. Skriabina (30%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Hart (12.21) def. Skriabina (6.63)</li>  
 </ul>
@@ -86,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Bolton (86%) def. Staines (14%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
+<li>Massey: <b><i>TTU</i></b> - Staines (NaN%) def. Bolton (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bolton (91%) def. Staines (9%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. Bolton (4.20)</li>  
 </ul>
@@ -97,7 +97,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Wolff (68%) def. Miller (32%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Wolff (75%) def. Miller (25%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
+<li>Massey: <b><i>TTU</i></b> - Miller (NaN%) def. Wolff (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Miller (2.66) def. Wolff (2.06)</li>  
 </ul>
@@ -105,10 +105,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Olivia Peet (TTU) - 9-6 at #5, 10-6 in duals, 12-6 overall<br>Sasha Vagramov (UCLA) - 5-3 at #5, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Vagramov (55%) def. Peet (45%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Vagramov (57%) def. Peet (43%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Vagramov (61%) def. Peet (39%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (72%) def. Peet (28%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Vagramov (51%) def. Peet (49%)</li>  
+<li>Massey: <b><i>TTU</i></b> - Peet (NaN%) def. Vagramov (NaN%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Peet (63%) def. Vagramov (37%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Peet (2.03)</li>  
 </ul>
@@ -116,10 +116,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Metka Komac (TTU) - 9-4 at #6, 10-5 in duals, 12-6 overall<br>Vanessa Ong (UCLA) - 3-1 at #6, 4-1 in duals, 4-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Ong (74%) def. Komac (26%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Ong (78%) def. Komac (22%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Ong (63%) def. Komac (37%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Ong (77%) def. Komac (23%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Ong (64%) def. Komac (36%)</li>  
+<li>Massey: <b><i>TTU</i></b> - Komac (NaN%) def. Ong (NaN%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Ong (93%) def. Komac (7%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Komac (1.98) def. Ong (1.95)</li>  
 </ul>
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- UCLA should win 4 or more singles matches _88%_ of the time.  
+- UCLA should win 4 or more singles matches _90%_ of the time.  
 - Texas Tech should win 4 or more singles matches _2%_ of the time.  
-- The winner of the doubles point will decide the match the other _10%_ of the time.  
+- The winner of the doubles point will decide the match the other _8%_ of the time.  
 - If UCLA wins the doubles point, their chances of winning the dual improve to _98%_.  
-- If Texas Tech wins the doubles point, their chances of winning the dual improve to _12%_.  
+- If Texas Tech wins the doubles point, their chances of winning the dual improve to _10%_.  
   
 ------
 

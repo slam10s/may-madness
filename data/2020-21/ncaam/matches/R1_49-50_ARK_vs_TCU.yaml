@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 3:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
 Round: First Round
 Lines: 49-50
 Title: "Arkansas vs #7 TCU"
@@ -38,10 +39,9 @@ Visitor:
   Polls:
     Coach: 40
 Predictions:
-  AVG: TCU - TCU (98%) def. Arkansas (2%)
   SLM: "TCU - #9 TCU (96%) def. #43 Arkansas (4%)"
   TRN: "TCU - #9 TCU (98%) def. #44 Arkansas (2%)"
-  MAS: "TCU - #6 TCU (99%) def. #50 Arkansas (1%)"
+  MAS: "ARK - #50 Arkansas (NaN%) def. #6 TCU (NaN%)"
   LNUP: TCU - TCU (99%) def. Arkansas (1%)
   UTR: "TCU - #10 TCU (+4.41) def. #44 Arkansas (-4.41)"
   ITA: "TCU - #7 TCU def. #43 Arkansas"
@@ -50,8 +50,8 @@ Predictions:
   Seeding: "TCU - #1 TCU def. #4 Arkansas"
 Lineups:
   Predictions:
-    Average EWPs for TCU: 96%,98%,99%,100%
-    Average EWPs for ARK: 4%,2%,1%,0%
+    Average EWPs for TCU: 96%,98%,NaN%,100%
+    Average EWPs for ARK: 4%,2%,NaN%,0%
     TCU wins 4 or more Singles points: 98%
     ARK wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 2%
@@ -63,37 +63,37 @@ Lineups:
         AVG: TCU - Gray (87%) def. Reco (13%)
         SLM: TCU - Gray (83%) def. Reco (17%)
         TRN: TCU - Gray (88%) def. Reco (12%)
-        MAS: TCU - Gray (87%) def. Reco (13%)
+        MAS: ARK - Reco (NaN%) def. Gray (NaN%)
         UTR: TCU - Gray (89%) def. Reco (11%)
         ITA: TCU - Gray (40.15) def. Reco (4.00)
     - Position: 2
       TCU: Luc Fomba - 7-3 at 2, 12-6 in duals, 12-6 overall
       ARK: Max Verboven - 1-7 at 2, 3-12 in duals, 3-12 overall
       Predictions:
-        AVG: TCU - Fomba (95%) def. Verboven (5%)
+        AVG: TCU - Fomba (94%) def. Verboven (6%)
         SLM: TCU - Fomba (94%) def. Verboven (6%)
         TRN: TCU - Fomba (98%) def. Verboven (2%)
-        MAS: TCU - Fomba (98%) def. Verboven (2%)
+        MAS: ARK - Verboven (NaN%) def. Fomba (NaN%)
         UTR: TCU - Fomba (92%) def. Verboven (8%)
         ITA: TCU - Fomba (35.12) def. Verboven (1.79)
     - Position: 3
       TCU: Sander Jong - 10-5 at 3, 10-7 in duals, 11-8 overall
       ARK: Nico Rousett - 8-5 at 3, 12-9 in duals, 15-12 overall
       Predictions:
-        AVG: TCU - Jong (82%) def. Rousett (18%)
+        AVG: TCU - Jong (84%) def. Rousett (16%)
         SLM: TCU - Jong (79%) def. Rousett (21%)
         TRN: TCU - Jong (81%) def. Rousett (19%)
-        MAS: TCU - Jong (78%) def. Rousett (22%)
+        MAS: ARK - Rousett (NaN%) def. Jong (NaN%)
         UTR: TCU - Jong (91%) def. Rousett (9%)
         ITA: TCU - Jong (11.43) def. Rousett (9.93)
     - Position: 4
       TCU: Jake Fearnley - 4-2 at 4, 8-3 in duals, 8-3 overall
       ARK: Aleksa Bucan - 3-4 at 4, 6-8 in duals, 10-10 overall
       Predictions:
-        AVG: TCU - Fearnley (88%) def. Bucan (12%)
+        AVG: TCU - Fearnley (89%) def. Bucan (11%)
         SLM: TCU - Fearnley (83%) def. Bucan (17%)
         TRN: TCU - Fearnley (91%) def. Bucan (9%)
-        MAS: TCU - Fearnley (87%) def. Bucan (13%)
+        MAS: ARK - Bucan (NaN%) def. Fearnley (NaN%)
         UTR: TCU - Fearnley (91%) def. Bucan (9%)
         ITA: TCU - Fearnley (5.67) def. Bucan (2.10)
     - Position: 5
@@ -103,17 +103,17 @@ Lineups:
         AVG: TCU - Jirousek (87%) def. Burdet (13%)
         SLM: TCU - Jirousek (87%) def. Burdet (13%)
         TRN: TCU - Jirousek (88%) def. Burdet (12%)
-        MAS: TCU - Jirousek (87%) def. Burdet (13%)
+        MAS: ARK - Burdet (NaN%) def. Jirousek (NaN%)
         UTR: TCU - Jirousek (86%) def. Burdet (14%)
         ITA: TCU - Jirousek (6.98) def. Burdet (1.73)
     - Position: 6
       TCU: Tadeas Paroulek - 1-3 at 6, 7-11 in duals, 7-12 overall
       ARK: Enrique Paya - 6-10 at 6, 6-11 in duals, 6-11 overall
       Predictions:
-        AVG: TCU - Paroulek (90%) def. Paya (10%)
+        AVG: TCU - Paroulek (92%) def. Paya (8%)
         SLM: TCU - Paroulek (92%) def. Paya (8%)
         TRN: TCU - Paroulek (96%) def. Paya (4%)
-        MAS: TCU - Paroulek (85%) def. Paya (15%)
+        MAS: ARK - Paya (NaN%) def. Paroulek (NaN%)
         UTR: TCU - Paroulek (88%) def. Paya (12%)
         ITA: TCU - Paroulek (1.35) def. Paya (0.00)
   Doubles:

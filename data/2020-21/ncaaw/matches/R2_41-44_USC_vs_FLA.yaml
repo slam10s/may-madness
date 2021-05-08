@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 4:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: Second Round
 Lines: 41-44
 Title: "Southern California vs #11 Florida"
@@ -38,11 +39,10 @@ Visitor:
   Polls:
     Coach: 34
 Predictions:
-  AVG: FLA - Florida (79%) def. Southern California (21%)
   SLM: "FLA - #16 Florida (82%) def. #35 Southern California (18%)"
   TRN: "FLA - #20 Florida (90%) def. #41 Southern California (10%)"
-  MAS: "FLA - #21 Florida (62%) def. #26 Southern California (38%)"
-  LNUP: FLA - Florida (82%) def. Southern California (18%)
+  MAS: "USC - #26 Southern California (NaN%) def. #21 Florida (NaN%)"
+  LNUP: FLA - Florida (79%) def. Southern California (21%)
   UTR: "USC - #6 Southern California (+1.59) def. #11 Florida (-1.59)"
   ITA: "FLA - #11 Florida def. #35 Southern California"
   USTA: "FLA - #20 Florida def. Southern California"
@@ -50,30 +50,30 @@ Predictions:
   Seeding: "FLA - #1 Florida def. #3 Southern California"
 Lineups:
   Predictions:
-    Average EWPs for FLA: 82%,90%,62%,82%
-    Average EWPs for USC: 18%,10%,38%,18%
-    FLA wins 4 or more Singles points: 57%
-    USC wins 4 or more Singles points: 12%
-    Winner decided by the Doubles point: 31%
+    Average EWPs for FLA: 82%,90%,NaN%,79%
+    Average EWPs for USC: 18%,10%,NaN%,21%
+    FLA wins 4 or more Singles points: 53%
+    USC wins 4 or more Singles points: 14%
+    Winner decided by the Doubles point: 33%
   Singles:
     - Position: 1
       FLA: McCartney Kessler - 13-2 at 1, 13-2 in duals, 16-2 overall
       USC: Salma Ewing - 4-2 at 1, 13-5 in duals, 13-5 overall
       Predictions:
-        AVG: FLA - Kessler (78%) def. Ewing (22%)
+        AVG: FLA - Kessler (76%) def. Ewing (24%)
         SLM: FLA - Kessler (86%) def. Ewing (14%)
         TRN: FLA - Kessler (73%) def. Ewing (27%)
-        MAS: FLA - Kessler (85%) def. Ewing (15%)
+        MAS: USC - Ewing (NaN%) def. Kessler (NaN%)
         UTR: FLA - Kessler (70%) def. Ewing (30%)
         ITA: FLA - Kessler (45.58) def. Ewing (14.56)
     - Position: 2
       FLA: Marlee Zein - 6-5 at 2, 8-5 in duals, 10-8 overall
       USC: Eryn Cayetano - 6-2 at 2, 10-5 in duals, 10-5 overall
       Predictions:
-        AVG: USC - Cayetano (77%) def. Zein (23%)
+        AVG: USC - Cayetano (82%) def. Zein (18%)
         SLM: USC - Cayetano (78%) def. Zein (22%)
         TRN: USC - Cayetano (82%) def. Zein (18%)
-        MAS: USC - Cayetano (62%) def. Zein (38%)
+        MAS: USC - Cayetano (NaN%) def. Zein (NaN%)
         UTR: USC - Cayetano (89%) def. Zein (11%)
         ITA: FLA - Zein (8.25) def. Cayetano (5.85)
     - Position: 3
@@ -90,30 +90,30 @@ Lineups:
       FLA: Layne Sleeth - 7-0 at 4, 9-1 in duals, 9-1 overall
       USC: Naomi Cheong - 0-0 at 4, 9-8 in duals, 9-8 overall
       Predictions:
-        AVG: FLA - Sleeth (61%) def. Cheong (39%)
+        AVG: FLA - Sleeth (57%) def. Cheong (43%)
         SLM: USC - Cheong (58%) def. Sleeth (42%)
         TRN: FLA - Sleeth (51%) def. Cheong (49%)
-        MAS: FLA - Sleeth (73%) def. Cheong (27%)
+        MAS: USC - Cheong (NaN%) def. Sleeth (NaN%)
         UTR: FLA - Sleeth (78%) def. Cheong (22%)
         ITA: FLA - Sleeth (7.72) def. Cheong (4.19)
     - Position: 5
       FLA: Sara Dahlstrom - 3-4 at 5, 6-8 in duals, 9-11 overall
       USC: Dani Willson - 0-0 at 5, 12-8 in duals, 12-8 overall
       Predictions:
-        AVG: USC - Willson (65%) def. Dahlstrom (35%)
+        AVG: USC - Willson (66%) def. Dahlstrom (34%)
         SLM: USC - Willson (63%) def. Dahlstrom (37%)
         TRN: USC - Willson (71%) def. Dahlstrom (29%)
-        MAS: USC - Willson (62%) def. Dahlstrom (38%)
+        MAS: USC - Willson (NaN%) def. Dahlstrom (NaN%)
         UTR: USC - Willson (69%) def. Dahlstrom (31%)
         ITA: FLA - Dahlstrom (3.40) def. Willson (1.74)
     - Position: 6
       FLA: Sydney Berlin - 6-3 at 6, 11-4 in duals, 16-5 overall
       USC: Summer Dvorak - 0-0 at 6, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: FLA - Berlin (70%) def. Dvorak (30%)
+        AVG: FLA - Berlin (72%) def. Dvorak (28%)
         SLM: FLA - Berlin (70%) def. Dvorak (30%)
         TRN: FLA - Berlin (70%) def. Dvorak (30%)
-        MAS: FLA - Berlin (65%) def. Dvorak (35%)
+        MAS: USC - Dvorak (NaN%) def. Berlin (NaN%)
         UTR: FLA - Berlin (75%) def. Dvorak (25%)
         ITA: FLA - Berlin (2.47) def. Dvorak (1.85)
   Doubles:

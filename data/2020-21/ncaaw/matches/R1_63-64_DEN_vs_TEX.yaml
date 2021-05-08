@@ -1,5 +1,6 @@
 Date: Friday, May 7
 Time: 4:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: First Round
 Lines: 63-64
 Title: "Denver vs #2 Texas"
@@ -38,10 +39,9 @@ Visitor:
   Polls:
     Coach: 49
 Predictions:
-  AVG: TEX - Texas (99%) def. Denver (1%)
   SLM: "TEX - #2 Texas (99%) def. #45 Denver (1%)"
   TRN: "TEX - #2 Texas (99%) def. #45 Denver (1%)"
-  MAS: "TEX - #2 Texas (99%) def. #43 Denver (1%)"
+  MAS: "DEN - #43 Denver (NaN%) def. #2 Texas (NaN%)"
   LNUP: TEX - Texas (99%) def. Denver (1%)
   UTR: "TEX - #1 Texas (+7.56) def. #45 Denver (-7.56)"
   ITA: "TEX - #2 Texas def. #45 Denver"
@@ -50,8 +50,8 @@ Predictions:
   Seeding: "TEX - #1 Texas def. #4 Denver"
 Lineups:
   Predictions:
-    Average EWPs for TEX: 99%,99%,99%,100%
-    Average EWPs for DEN: 1%,1%,1%,0%
+    Average EWPs for TEX: 99%,99%,NaN%,100%
+    Average EWPs for DEN: 1%,1%,NaN%,0%
     TEX wins 4 or more Singles points: 100%
     DEN wins 4 or more Singles points: 0%
     Winner decided by the Doubles point: 0%
@@ -63,7 +63,7 @@ Lineups:
         AVG: TEX - Stearns (80%) def. Riedmiller (20%)
         SLM: TEX - Stearns (86%) def. Riedmiller (14%)
         TRN: TEX - Stearns (65%) def. Riedmiller (35%)
-        MAS: TEX - Stearns (79%) def. Riedmiller (21%)
+        MAS: DEN - Riedmiller (NaN%) def. Stearns (NaN%)
         UTR: TEX - Stearns (90%) def. Riedmiller (10%)
         ITA: TEX - Stearns (16.38) def. Riedmiller (4.70)
     - Position: 2
@@ -73,27 +73,27 @@ Lineups:
         AVG: TEX - Turati (94%) def. Melville (6%)
         SLM: TEX - Turati (92%) def. Melville (8%)
         TRN: TEX - Turati (97%) def. Melville (3%)
-        MAS: TEX - Turati (92%) def. Melville (8%)
+        MAS: DEN - Melville (NaN%) def. Turati (NaN%)
         UTR: TEX - Turati (94%) def. Melville (6%)
         ITA: TEX - Turati (17.31) def. Melville (2.84)
     - Position: 3
       TEX: Lulu Sun - 12-1 at 3, 18-2 in duals, 18-2 overall
       DEN: Britt Pursell - 11-3 at 3, 12-3 in duals, 12-3 overall
       Predictions:
-        AVG: TEX - Sun (97%) def. Pursell (3%)
+        AVG: TEX - Sun (98%) def. Pursell (2%)
         SLM: TEX - Sun (97%) def. Pursell (3%)
         TRN: TEX - Sun (99%) def. Pursell (1%)
-        MAS: TEX - Sun (95%) def. Pursell (5%)
+        MAS: DEN - Pursell (NaN%) def. Sun (NaN%)
         UTR: TEX - Sun (98%) def. Pursell (2%)
         ITA: TEX - Sun (9.34) def. Pursell (2.61)
     - Position: 4
       TEX: Charlotte Chavatipon - 16-1 at 4, 20-1 in duals, 23-1 overall
       DEN: Camille Verden-Anderson - 3-1 at 4, 8-2 in duals, 8-2 overall
       Predictions:
-        AVG: TEX - Chavatipon (98%) def. Verden-Anderson (2%)
+        AVG: TEX - Chavatipon (99%) def. Verden-Anderson (1%)
         SLM: TEX - Chavatipon (99%) def. Verden-Anderson (1%)
         TRN: TEX - Chavatipon (99%) def. Verden-Anderson (1%)
-        MAS: TEX - Chavatipon (97%) def. Verden-Anderson (3%)
+        MAS: DEN - Verden-Anderson (NaN%) def. Chavatipon (NaN%)
         UTR: TEX - Chavatipon (98%) def. Verden-Anderson (2%)
         ITA: TEX - Chavatipon (7.87) def. Verden-Anderson (3.01)
     - Position: 5
@@ -103,7 +103,7 @@ Lineups:
         AVG: TEX - Collins (99%) def. Chang (1%)
         SLM: TEX - Collins (99%) def. Chang (1%)
         TRN: TEX - Collins (99%) def. Chang (1%)
-        MAS: TEX - Collins (98%) def. Chang (2%)
+        MAS: DEN - Chang (NaN%) def. Collins (NaN%)
         UTR: TEX - Collins (98%) def. Chang (2%)
         ITA: TEX - Collins (8.04) def. Chang (2.56)
     - Position: 6
@@ -113,7 +113,7 @@ Lineups:
         AVG: TEX - Labrana (98%) def. Burger (2%)
         SLM: TEX - Labrana (99%) def. Burger (1%)
         TRN: TEX - Labrana (99%) def. Burger (1%)
-        MAS: TEX - Labrana (96%) def. Burger (4%)
+        MAS: DEN - Burger (NaN%) def. Labrana (NaN%)
         UTR: TEX - Labrana (97%) def. Burger (3%)
         ITA: DEN - Burger (1.93) def. Labrana (0.00)
   Doubles:

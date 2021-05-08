@@ -1,5 +1,6 @@
 Date: Saturday, May 8
 Time: 2:00 EDT
+Tournament: 2021 Division I Women's Tennis Championship
 Round: Second Round
 Lines: 45-48
 Title: "Iowa St. vs #6 NC State"
@@ -38,10 +39,9 @@ Visitor:
   Polls:
     Coach: 36
 Predictions:
-  AVG: NCST - NC State (97%) def. Iowa St. (3%)
   SLM: "NCST - #11 NC State (94%) def. #41 Iowa St. (6%)"
   TRN: "NCST - #10 NC State (96%) def. #42 Iowa St. (4%)"
-  MAS: "NCST - #6 NC State (98%) def. #39 Iowa St. (2%)"
+  MAS: "ISU - #39 Iowa St. (NaN%) def. #6 NC State (NaN%)"
   LNUP: NCST - NC State (98%) def. Iowa St. (2%)
   UTR: "NCST - #9 NC State (+3.92) def. #39 Iowa St. (-3.92)"
   ITA: "NCST - #6 NC State def. #36 Iowa St."
@@ -50,8 +50,8 @@ Predictions:
   Seeding: "NCST - #1 NC State def. #3 Iowa St."
 Lineups:
   Predictions:
-    Average EWPs for NCST: 94%,96%,98%,98%
-    Average EWPs for ISU: 6%,4%,2%,2%
+    Average EWPs for NCST: 94%,96%,NaN%,98%
+    Average EWPs for ISU: 6%,4%,NaN%,2%
     NCST wins 4 or more Singles points: 94%
     ISU wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 5%
@@ -60,30 +60,30 @@ Lineups:
       NCST: Anna Rogers - 14-6 at 1, 14-6 in duals, 19-6 overall
       ISU: Thasaporn Naklo - 10-7 at 1, 10-7 in duals, 10-7 overall
       Predictions:
-        AVG: NCST - Rogers (93%) def. Naklo (7%)
+        AVG: NCST - Rogers (94%) def. Naklo (6%)
         SLM: NCST - Rogers (94%) def. Naklo (6%)
         TRN: NCST - Rogers (97%) def. Naklo (3%)
-        MAS: NCST - Rogers (91%) def. Naklo (9%)
+        MAS: ISU - Naklo (NaN%) def. Rogers (NaN%)
         UTR: NCST - Rogers (90%) def. Naklo (10%)
         ITA: NCST - Rogers (48.19) def. Naklo (2.77)
     - Position: 2
       NCST: Alana Smith - 14-5 at 2, 14-5 in duals, 16-8 overall
       ISU: Maty Cancini - 6-9 at 2, 6-9 in duals, 6-9 overall
       Predictions:
-        AVG: NCST - Smith (91%) def. Cancini (9%)
+        AVG: NCST - Smith (90%) def. Cancini (10%)
         SLM: NCST - Smith (90%) def. Cancini (10%)
         TRN: NCST - Smith (92%) def. Cancini (8%)
-        MAS: NCST - Smith (92%) def. Cancini (8%)
+        MAS: ISU - Cancini (NaN%) def. Smith (NaN%)
         UTR: NCST - Smith (89%) def. Cancini (11%)
         ITA: NCST - Smith (22.32) def. Cancini (1.95)
     - Position: 3
       NCST: Adriana Reami - 12-4 at 3, 15-5 in duals, 16-9 overall
       ISU: Miska Kadleckova - 6-1 at 3, 14-3 in duals, 14-3 overall
       Predictions:
-        AVG: NCST - Reami (68%) def. Kadleckova (32%)
+        AVG: NCST - Reami (72%) def. Kadleckova (28%)
         SLM: NCST - Reami (75%) def. Kadleckova (25%)
         TRN: NCST - Reami (68%) def. Kadleckova (32%)
-        MAS: NCST - Reami (58%) def. Kadleckova (42%)
+        MAS: ISU - Kadleckova (NaN%) def. Reami (NaN%)
         UTR: NCST - Reami (72%) def. Kadleckova (28%)
         ITA: NCST - Reami (4.00) def. Kadleckova (2.94)
     - Position: 4
@@ -93,7 +93,7 @@ Lineups:
         AVG: NCST - Daniel (89%) def. Hsieh (11%)
         SLM: NCST - Daniel (84%) def. Hsieh (16%)
         TRN: NCST - Daniel (87%) def. Hsieh (13%)
-        MAS: NCST - Daniel (91%) def. Hsieh (9%)
+        MAS: ISU - Hsieh (NaN%) def. Daniel (NaN%)
         UTR: NCST - Daniel (95%) def. Hsieh (5%)
         ITA: NCST - Daniel (1.87) def. Hsieh (0.00)
     - Position: 5
@@ -103,7 +103,7 @@ Lineups:
         AVG: NCST - Rencheli (80%) def. Kezuka (20%)
         SLM: NCST - Rencheli (68%) def. Kezuka (32%)
         TRN: NCST - Rencheli (81%) def. Kezuka (19%)
-        MAS: NCST - Rencheli (80%) def. Kezuka (20%)
+        MAS: ISU - Kezuka (NaN%) def. Rencheli (NaN%)
         UTR: NCST - Rencheli (92%) def. Kezuka (8%)
         ITA: NCST - Rencheli (7.12) def. Kezuka (0.00)
     - Position: 6
@@ -113,7 +113,7 @@ Lineups:
         AVG: NCST - Keberle (73%) def. Cabezas (27%)
         SLM: NCST - Keberle (73%) def. Cabezas (27%)
         TRN: NCST - Keberle (67%) def. Cabezas (33%)
-        MAS: NCST - Keberle (74%) def. Cabezas (26%)
+        MAS: ISU - Cabezas (NaN%) def. Keberle (NaN%)
         UTR: NCST - Keberle (80%) def. Cabezas (20%)
         ITA: ISU - Cabezas (2.42) def. Keberle (1.71)
   Doubles:

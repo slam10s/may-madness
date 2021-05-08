@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 5:00 EDT  
+2021 Division I Men's Tennis Championship  
 Atkins Tennis Center  
 Urbana, Illinois  
 ## [DePaul vs #16 Illinois](https://www.ncaa.com/game/5833373)  
@@ -12,7 +13,7 @@ Urbana, Illinois
 &nbsp; ITA: 55 (5.64)<br>  
 &nbsp; Slam: 55 (85.74)<br>  
 &nbsp; TRN: 55 (82.45)<br>  
-&nbsp; Massey: 54 (5.94)<br>  
+&#10004; Massey: 54 (5.94)<br>  
 &nbsp; UTR: 60 (70.67)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Urbana, Illinois
 &#10004; ITA: 18 (36.82)<br>  
 &#10004; Slam: 6 (98.81)<br>  
 &#10004; TRN: 4 (98.96)<br>  
-&#10004; Massey: 9 (8.60)<br>  
+&nbsp; Massey: 9 (8.60)<br>  
 &#10004; UTR: 15 (78.92)<br>  
 &#10004; USTA Poll: 8<br>  
 &#10004; Coaches Poll: 13<br>  
@@ -42,10 +43,9 @@ Urbana, Illinois
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***ILL*** - Illinois (99%) def. DePaul (1%)  
 - Slam: ***ILL*** - #6 Illinois (99%) def. #55 DePaul (1%)  
 - TRN: ***ILL*** - #4 Illinois (99%) def. #55 DePaul (1%)  
-- Massey: ***ILL*** - #9 Illinois (99%) def. #54 DePaul (1%)  
+- Massey: ***DEP*** - #54 DePaul (NaN%) def. #9 Illinois (NaN%)  
 - Lineup: ***ILL*** - Illinois (99%) def. DePaul (1%)  
 - UTR: ***ILL*** - #15 Illinois (+8.25) def. #60 DePaul (-8.25)  
 - ITA: ***ILL*** - #18 Illinois def. #55 DePaul  
@@ -66,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
+<li>Massey: <b><i>DEP</i></b> - Tonejc (NaN%) def. Kovacevic (NaN%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Kovacevic (98%) def. Tonejc (2%)</li>  
 <li>ITA: <b><i>DEP</i></b> - Tonejc (4.23) def. Kovacevic (4.00)</li>  
 </ul>
@@ -77,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Montsi (99%) def. Casati (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Montsi (98%) def. Casati (2%)</li>  
+<li>Massey: <b><i>DEP</i></b> - Casati (NaN%) def. Montsi (NaN%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Montsi (98%) def. Casati (2%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Montsi (4.79) def. Casati (0.00)</li>  
 </ul>
@@ -85,10 +85,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Boris Spanjaard (DEP) - 8-4 at #3, 12-6 in duals, 12-6 overall<br>Alex Brown (ILL) - 3-2 at #3, 8-9 in duals, 9-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ILL</i></b> - Brown (94%) def. Spanjaard (6%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Brown (95%) def. Spanjaard (5%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (97%) def. Spanjaard (3%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Brown (88%) def. Spanjaard (12%)</li>  
+<li>Massey: <b><i>DEP</i></b> - Spanjaard (NaN%) def. Brown (NaN%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Brown (92%) def. Spanjaard (8%)</li>  
 <li>ITA: <b><i>DEP</i></b> - Spanjaard (2.02) def. Brown (1.47)</li>  
 </ul>
@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Clark (98%) def. Zador (2%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Clark (98%) def. Zador (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Clark (99%) def. Zador (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Clark (99%) def. Zador (1%)</li>  
+<li>Massey: <b><i>DEP</i></b> - Zador (NaN%) def. Clark (NaN%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Clark (96%) def. Zador (4%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Clark (6.43) def. Zador (1.31)</li>  
 </ul>
@@ -107,10 +107,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Fran Tonejc (DEP) - 1-3 at #5, 8-8 in duals, 8-8 overall<br>Hunter Heck (ILL) - 9-4 at #5, 13-5 in duals, 16-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ILL</i></b> - Heck (97%) def. Tonejc (3%)</li>  
+<li>Composite: <b><i>ILL</i></b> - Heck (98%) def. Tonejc (2%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Heck (98%) def. Tonejc (2%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Heck (99%) def. Tonejc (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Heck (95%) def. Tonejc (5%)</li>  
+<li>Massey: <b><i>DEP</i></b> - Tonejc (NaN%) def. Heck (NaN%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Heck (96%) def. Tonejc (4%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Heck (2.36) def. Tonejc (1.51)</li>  
 </ul>
@@ -121,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>ILL</i></b> - Khlif (98%) def. Wassenaar (2%)</li>  
 <li>Slam: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Khlif (99%) def. Wassenaar (1%)</li>  
-<li>Massey: <b><i>ILL</i></b> - Khlif (97%) def. Wassenaar (3%)</li>  
+<li>Massey: <b><i>DEP</i></b> - Wassenaar (NaN%) def. Khlif (NaN%)</li>  
 <li>UTR: <b><i>ILL</i></b> - Khlif (97%) def. Wassenaar (3%)</li>  
 <li>ITA: <b><i>ILL</i></b> - Khlif (3.59) def. Wassenaar (2.18)</li>  
 </ul>

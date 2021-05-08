@@ -1,5 +1,6 @@
 Second Round  
 Saturday, May 8 at 4:00 EDT  
+2021 Division I Women's Tennis Championship  
 Hellman Tennis Complex  
 Berkeley, California  
 ## [Kentucky vs #16 California](https://www.ncaa.com/game/5833680)  
@@ -12,7 +13,7 @@ Berkeley, California
 &nbsp; ITA: 26 (37.41)<br>  
 &nbsp; Slam: 25 (89.36)<br>  
 &nbsp; TRN: 27 (81.49)<br>  
-&nbsp; Massey: 33 (7.29)<br>  
+&#10004; Massey: 33 (7.29)<br>  
 &nbsp; UTR: 34 (60.15)<br>  
 &nbsp; USTA Poll: 24<br>  
 &nbsp; Coaches Poll: 27<br>  
@@ -26,7 +27,7 @@ Berkeley, California
 &#10004; ITA: 16 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
 &#10004; TRN: 17 (82.99)<br>  
-&#10004; Massey: 14 (8.01)<br>  
+&nbsp; Massey: 14 (8.01)<br>  
 &#10004; UTR: 15 (62.15)<br>  
 &#10004; USTA Poll: 13<br>  
 &#10004; Coaches Poll: 17<br>  
@@ -41,11 +42,10 @@ Berkeley, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***CAL*** - California (77%) def. Kentucky (23%)  
 - Slam: ***CAL*** - #17 California (65%) def. #25 Kentucky (35%)  
 - TRN: ***CAL*** - #17 California (70%) def. #27 Kentucky (30%)  
-- Massey: ***CAL*** - #14 California (77%) def. #33 Kentucky (23%)  
-- Lineup: ***CAL*** - California (95%) def. Kentucky (5%)  
+- Massey: ***UK*** - #33 Kentucky (NaN%) def. #14 California (NaN%)  
+- Lineup: ***CAL*** - California (97%) def. Kentucky (3%)  
 - UTR: ***CAL*** - #15 California (+2.00) def. #34 Kentucky (-2.00)  
 - ITA: ***CAL*** - #16 California def. #26 Kentucky  
 - USTA Poll: ***CAL*** - #13 California def. #24 Kentucky  
@@ -62,10 +62,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Akvile Parazinskaite (UK) - 16-6 at #1, 16-6 in duals, 19-10 overall<br>Haley Giavara (CAL) - 12-10 at #1, 12-10 in duals, 12-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Giavara (65%) def. Parazinskaite (35%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Giavara (68%) def. Parazinskaite (32%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Giavara (73%) def. Parazinskaite (27%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Giavara (75%) def. Parazinskaite (25%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Giavara (54%) def. Parazinskaite (46%)</li>  
+<li>Massey: <b><i>UK</i></b> - Parazinskaite (NaN%) def. Giavara (NaN%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Giavara (58%) def. Parazinskaite (42%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Giavara (18.44) def. Parazinskaite (0.00)</li>  
 </ul>
@@ -73,10 +73,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lesedi Jacobs (UK) - 0-1 at #2, 9-5 in duals, 11-8 overall<br>Julia Rosenqvist (CAL) - 11-7 at #2, 14-7 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Rosenqvist (69%) def. Jacobs (31%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Rosenqvist (74%) def. Jacobs (26%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Rosenqvist (72%) def. Jacobs (28%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Rosenqvist (70%) def. Jacobs (30%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Rosenqvist (54%) def. Jacobs (46%)</li>  
+<li>Massey: <b><i>UK</i></b> - Jacobs (NaN%) def. Rosenqvist (NaN%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Rosenqvist (79%) def. Jacobs (21%)</li>  
 <li>ITA: <b><i>UK</i></b> - Jacobs (5.00) def. Rosenqvist (2.23)</li>  
 </ul>
@@ -84,10 +84,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Carlota Molina (UK) - 1-1 at #3, 12-7 in duals, 12-13 overall<br>Valentina Ivanov (CAL) - 9-5 at #3, 10-8 in duals, 10-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Ivanov (65%) def. Molina (35%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Ivanov (69%) def. Molina (31%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Ivanov (64%) def. Molina (36%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Ivanov (64%) def. Molina (36%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Ivanov (53%) def. Molina (47%)</li>  
+<li>Massey: <b><i>UK</i></b> - Molina (NaN%) def. Ivanov (NaN%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Ivanov (79%) def. Molina (21%)</li>  
 <li>ITA: <b><i>UK</i></b> - Molina (2.40) def. Ivanov (1.97)</li>  
 </ul>
@@ -95,10 +95,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Elizabeth Stevens (UK) - 1-5 at #4, 3-8 in duals, 6-13 overall<br>Jada Bui (CAL) - 8-5 at #4, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Bui (81%) def. Stevens (19%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Bui (83%) def. Stevens (17%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Bui (82%) def. Stevens (18%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Bui (85%) def. Stevens (15%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Bui (75%) def. Stevens (25%)</li>  
+<li>Massey: <b><i>UK</i></b> - Stevens (NaN%) def. Bui (NaN%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Bui (83%) def. Stevens (17%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Bui (1.95) def. Stevens (0.00)</li>  
 </ul>
@@ -106,10 +106,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Carla Girbau (UK) - 2-1 at #5, 9-9 in duals, 11-14 overall<br>Hannah Viller Moeller (CAL) - 8-5 at #5, 14-7 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Moeller (77%) def. Girbau (23%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Moeller (79%) def. Girbau (21%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Moeller (70%) def. Girbau (30%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Moeller (84%) def. Girbau (16%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Moeller (74%) def. Girbau (26%)</li>  
+<li>Massey: <b><i>UK</i></b> - Girbau (NaN%) def. Moeller (NaN%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Moeller (81%) def. Girbau (19%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Moeller (1.79) def. Girbau (0.00)</li>  
 </ul>
@@ -120,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>CAL</i></b> - Bright (88%) def. Arrese (12%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Bright (75%) def. Arrese (25%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Bright (89%) def. Arrese (11%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Bright (88%) def. Arrese (12%)</li>  
+<li>Massey: <b><i>UK</i></b> - Arrese (NaN%) def. Bright (NaN%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Bright (99%) def. Arrese (1%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Bright (2.79) def. Arrese (1.49)</li>  
 </ul>
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- California should win 4 or more singles matches _83%_ of the time.  
-- Kentucky should win 4 or more singles matches _4%_ of the time.  
-- The winner of the doubles point will decide the match the other _13%_ of the time.  
-- If California wins the doubles point, their chances of winning the dual improve to _96%_.  
-- If Kentucky wins the doubles point, their chances of winning the dual improve to _17%_.  
+- California should win 4 or more singles matches _87%_ of the time.  
+- Kentucky should win 4 or more singles matches _2%_ of the time.  
+- The winner of the doubles point will decide the match the other _11%_ of the time.  
+- If California wins the doubles point, their chances of winning the dual improve to _98%_.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to _13%_.  
   
 ------
 

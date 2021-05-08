@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 5:00 EDT  
+2021 Division I Men's Tennis Championship  
 Wake Forest Tennis Complex  
 Winston-Salem, North Carolina  
 ## [South Carolina St. vs #10 Wake Forest](https://www.ncaa.com/game/5833397)  
@@ -12,7 +13,7 @@ Winston-Salem, North Carolina
 &nbsp; ITA: 65 (0.72)<br>  
 &nbsp; Slam: 63 (81.19)<br>  
 &nbsp; TRN: 63 (76.54)<br>  
-&nbsp; Massey: 63 (4.87)<br>  
+&#10004; Massey: 63 (4.87)<br>  
 &nbsp; UTR: 63 (66.99)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Winston-Salem, North Carolina
 &#10004; ITA: 9 (56.82)<br>  
 &#10004; Slam: 10 (97.17)<br>  
 &#10004; TRN: 10 (95.99)<br>  
-&#10004; Massey: 13 (8.43)<br>  
+&nbsp; Massey: 13 (8.43)<br>  
 &#10004; UTR: 7 (79.79)<br>  
 &#10004; USTA Poll: 12<br>  
 &#10004; Coaches Poll: 10<br>  
@@ -42,10 +43,9 @@ Winston-Salem, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***WAKE*** - Wake Forest (99%) def. South Carolina St. (1%)  
 - Slam: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
 - TRN: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
-- Massey: ***WAKE*** - #13 Wake Forest (100%) def. #63 South Carolina St. (0%)  
+- Massey: ***SCST*** - #63 South Carolina St. (NaN%) def. #13 Wake Forest (NaN%)  
 - Lineup: ***WAKE*** - Wake Forest (99%) def. South Carolina St. (1%)  
 - UTR: ***WAKE*** - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)  
 - ITA: ***WAKE*** - #9 Wake Forest def. #65 South Carolina St.  
@@ -77,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>WAKE</i></b> - Nava (98%) def. Rodriguez (2%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Nava (99%) def. Rodriguez (1%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Nava (99%) def. Rodriguez (1%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Nava (99%) def. Rodriguez (1%)</li>  
+<li>Massey: <b><i>SCST</i></b> - Rodriguez (NaN%) def. Nava (NaN%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Nava (97%) def. Rodriguez (3%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Nava (19.97) def. Rodriguez (0.00)</li>  
 </ul>
@@ -85,10 +85,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Elyes Marouani (SCST) - 9-2 at #3, 9-2 in duals, 9-2 overall<br>Taha Baadi (WAKE) - 6-2 at #3, 13-8 in duals, 13-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>WAKE</i></b> - Baadi (97%) def. Marouani (3%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Baadi (99%) def. Marouani (1%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Baadi (100%) def. Marouani (0%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Baadi (100%) def. Marouani (0%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Baadi (88%) def. Marouani (12%)</li>  
+<li>Massey: <b><i>SCST</i></b> - Marouani (NaN%) def. Baadi (NaN%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Baadi (99%) def. Marouani (1%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Baadi (6.71) def. Marouani (1.53)</li>  
 </ul>
@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>WAKE</i></b> - Cungu (99%) def. Gorgun (1%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Cungu (99%) def. Gorgun (1%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Cungu (99%) def. Gorgun (1%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Cungu (99%) def. Gorgun (1%)</li>  
+<li>Massey: <b><i>SCST</i></b> - Gorgun (NaN%) def. Cungu (NaN%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Cungu (98%) def. Gorgun (2%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Cungu (3.35) def. Gorgun (0.00)</li>  
 </ul>

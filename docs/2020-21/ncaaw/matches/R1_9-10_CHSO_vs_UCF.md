@@ -1,5 +1,6 @@
 First Round  
 Friday, May 7 at 3:00 EDT  
+2021 Division I Women's Tennis Championship  
 USTA National Campus  
 Orlando, Florida  
 ## [Charleston So. vs #9 UCF](https://www.ncaa.com/game/5833651)  
@@ -12,7 +13,7 @@ Orlando, Florida
 &nbsp; ITA: 58 (2.77)<br>  
 &nbsp; Slam: 60 (75.63)<br>  
 &nbsp; TRN: 57 (65.77)<br>  
-&nbsp; Massey: 60 (4.33)<br>  
+&#10004; Massey: 60 (4.33)<br>  
 &nbsp; UTR: 56 (51.92)<br>  
 <br>  
 
@@ -24,7 +25,7 @@ Orlando, Florida
 &#10004; ITA: 9 (52.14)<br>  
 &#10004; Slam: 12 (91.41)<br>  
 &#10004; TRN: 12 (83.85)<br>  
-&#10004; Massey: 10 (8.12)<br>  
+&nbsp; Massey: 10 (8.12)<br>  
 &#10004; UTR: 16 (62.03)<br>  
 &#10004; USTA Poll: 9<br>  
 &#10004; Coaches Poll: 9<br>  
@@ -42,10 +43,9 @@ Orlando, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UCF*** - UCF (99%) def. Charleston So. (1%)  
 - Slam: ***UCF*** - #12 UCF (99%) def. #60 Charleston So. (1%)  
 - TRN: ***UCF*** - #12 UCF (99%) def. #57 Charleston So. (1%)  
-- Massey: ***UCF*** - #10 UCF (100%) def. #60 Charleston So. (0%)  
+- Massey: ***CHSO*** - #60 Charleston So. (NaN%) def. #10 UCF (NaN%)  
 - Lineup: ***UCF*** - UCF (99%) def. Charleston So. (1%)  
 - UTR: ***UCF*** - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)  
 - ITA: ***UCF*** - #9 UCF def. #58 Charleston So.  
@@ -66,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCF</i></b> - Zeleva (98%) def. Man (2%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Zeleva (98%) def. Man (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Zeleva (99%) def. Man (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Zeleva (98%) def. Man (2%)</li>  
+<li>Massey: <b><i>CHSO</i></b> - Man (NaN%) def. Zeleva (NaN%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Zeleva (97%) def. Man (3%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Zeleva (22.66) def. Man (1.99)</li>  
 </ul>
@@ -74,10 +74,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Luiza Fullana (CHSO) - 7-6 at #2, 7-6 in duals, 7-6 overall<br>Rebeka Stolmar (UCF) - 7-4 at #2, 12-6 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCF</i></b> - Stolmar (97%) def. Fullana (3%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Stolmar (98%) def. Fullana (2%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Stolmar (98%) def. Fullana (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Stolmar (99%) def. Fullana (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Stolmar (96%) def. Fullana (4%)</li>  
+<li>Massey: <b><i>CHSO</i></b> - Fullana (NaN%) def. Stolmar (NaN%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Stolmar (96%) def. Fullana (4%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Stolmar (15.81) def. Fullana (1.91)</li>  
 </ul>
@@ -88,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCF</i></b> - Levashova (98%) def. Singh (2%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Levashova (98%) def. Singh (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Levashova (99%) def. Singh (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Levashova (96%) def. Singh (4%)</li>  
+<li>Massey: <b><i>CHSO</i></b> - Singh (NaN%) def. Levashova (NaN%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Levashova (98%) def. Singh (2%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Levashova (4.48) def. Singh (1.60)</li>  
 </ul>
@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Kuznetsova (99%) def. Cauthen (1%)</li>  
+<li>Massey: <b><i>CHSO</i></b> - Cauthen (NaN%) def. Kuznetsova (NaN%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Kuznetsova (98%) def. Cauthen (2%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Kuznetsova (3.33) def. Cauthen (2.15)</li>  
 </ul>
@@ -110,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCF</i></b> - Mattel (98%) def. Schmitz (2%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Mattel (98%) def. Schmitz (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Mattel (99%) def. Schmitz (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Mattel (97%) def. Schmitz (3%)</li>  
+<li>Massey: <b><i>CHSO</i></b> - Schmitz (NaN%) def. Mattel (NaN%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Mattel (97%) def. Schmitz (3%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mattel (2.00) def. Schmitz (1.70)</li>  
 </ul>
