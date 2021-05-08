@@ -39,6 +39,9 @@ Tallahassee, Florida
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350663)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

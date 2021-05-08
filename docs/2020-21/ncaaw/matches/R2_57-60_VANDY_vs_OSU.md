@@ -38,6 +38,9 @@ Columbus, Ohio
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](https://ohiostatebuckeyes.com/womens-tennis-live-scoring/)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

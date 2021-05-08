@@ -37,6 +37,9 @@ Oxford, Mississippi
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](https://olemisssports.com/sports/2021/4/29/live-video-scoring.aspx)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

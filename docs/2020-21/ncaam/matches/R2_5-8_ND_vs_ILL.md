@@ -38,6 +38,9 @@ Urbana, Illinois
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](https://fightingillini.com/sports/2016/1/14/mtennis_livestatsvideo.aspx?path=mten)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

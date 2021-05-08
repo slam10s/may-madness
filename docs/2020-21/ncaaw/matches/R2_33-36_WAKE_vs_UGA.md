@@ -38,6 +38,9 @@ Athens, Georgia
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](https://t.co/T8QKQKSjw6?amp=1)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

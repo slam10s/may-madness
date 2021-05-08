@@ -39,6 +39,9 @@ Los Angeles, California
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](https://usctrojans.com/sports/2020/2/19/usc-trojans-m-tennis-live-scoreboard-video-david-marks-stadium.aspx)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

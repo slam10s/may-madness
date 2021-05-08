@@ -39,6 +39,9 @@ Austin, Texas
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](http://sidearmstats.com/texas/wtennis/xlive.htm)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

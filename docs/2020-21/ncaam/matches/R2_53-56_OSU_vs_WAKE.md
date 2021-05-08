@@ -39,6 +39,9 @@ Winston-Salem, North Carolina
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](http://sidearmstats.com/wakeforest/mten/)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

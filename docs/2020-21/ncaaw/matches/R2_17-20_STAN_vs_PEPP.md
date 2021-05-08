@@ -39,6 +39,9 @@ Malibu, California
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](https://pepperdinewaves.com/sports/2018/8/7/playsight.aspx)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

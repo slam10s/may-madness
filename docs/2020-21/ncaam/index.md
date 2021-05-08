@@ -39,7 +39,7 @@ The metrics agree on the winner, but not by a lot:
 - Sat, 5/08 at 10:00 EDT	[Northwestern vs UCLA](./matches/R1_29-30_NW_vs_UCLA.md) ... UCLA (63%) / NW (37%)
 - Sat, 5/08 at 12:00 EDT	[Wichita St. vs Arizona St.](./matches/R1_51-52_WICH_vs_AZST.md) ... AZST (65%) / WICH (35%)
 - Fri, 5/07 at 12:00 EDT	[Denver vs Oklahoma](./matches/R1_13-14_DEN_vs_OKLA.md) ... <b>OKLA (4)</b> / DEN (1)
-- Sat, 5/08 at 10:00 EDT	[Memphis vs Georgia Tech](./matches/R1_35-36_MEM_vs_GT.md) ... GT (77%) / MEM (23%)
+- Sat, 5/08 at 10:00 EDT	[Memphis vs Georgia Tech](./matches/R1_35-36_MEM_vs_GT.md) ... GT (2) / <b><i>MEM (4)</i></b>
 - Sat, 5/08 at 11:00 EDT	[Miami (FL) vs Mississippi St.](./matches/R1_11-12_MIA_vs_MSST.md) ... MSST (78%) / MIA (22%)
 - Sat, 5/08 at  1:00 EDT	[Middle Tenn. vs Tulane](./matches/R1_59-60_MTSU_vs_TULN.md) ... TULN (79%) / MTSU (21%)
 
@@ -47,11 +47,11 @@ The metrics agree on the winner, but not by a lot:
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Sat, 5/08 at 10:00 EDT	[LSU vs Stanford](./matches/R1_19-20_LSU_vs_STAN.md) ... STAN (86%) / LSU (14%)
+- Sat, 5/08 at 10:00 EDT	[LSU vs Stanford](./matches/R1_19-20_LSU_vs_STAN.md) ... <b>STAN (4)</b> / LSU (0)
 - Fri, 5/07 at  1:00 EDT	[UC Santa Barbara vs Pepperdine](./matches/R1_21-22_UCSB_vs_PEPP.md) ... <b>PEPP (4)</b> / UCSB (1)
 - Fri, 5/07 at 10:00 EDT	[FGCU vs NC State](./matches/R1_27-28_FGCU_vs_NCST.md) ... NCST (97%) / FGCU (3%)
 - Fri, 5/07 at  2:00 EDT	[VCU vs Ohio St.](./matches/R1_53-54_VCU_vs_OSU.md) ... <b>OSU (4)</b> / VCU (1)
-- Sat, 5/08 at 10:00 EDT	[Navy vs Oklahoma St.](./matches/R1_45-46_NAVY_vs_OKST.md) ... OKST (97%) / NAVY (3%)
+- Sat, 5/08 at 10:00 EDT	[Navy vs Oklahoma St.](./matches/R1_45-46_NAVY_vs_OKST.md) ... <b>OKST (4)</b> / NAVY (0)
 - Fri, 5/07 at  1:00 EDT	[UNCW vs #13 South Carolina](./matches/R1_25-26_UNCW_vs_SCAR.md) ... <b>SCAR (4)</b> / UNCW (0)
 - Sat, 5/08 at  3:00 EDT	[Arkansas vs #7 TCU](./matches/R1_49-50_ARK_vs_TCU.md) ... TCU (98%) / ARK (2%)
 - Sat, 5/08 at  2:00 EDT	[Monmouth vs #9 UCF](./matches/R1_9-10_MONM_vs_UCF.md) ... UCF (99%) / MONM (1%)
@@ -69,4 +69,5 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  3:00 EDT	[A&M-Corpus Christi vs #2 Baylor](./matches/R1_63-64_TAMCC_vs_BAY.md) ... BAY (99%) / TAMCC (1%)
 - Sat, 5/08 at  4:00 EDT	[Belmont vs #15 Ole Miss](./matches/R1_57-58_BEL_vs_MISS.md) ... MISS (99%) / BEL (1%)
   
+------
 Return to the [Home Page](../../index.md)

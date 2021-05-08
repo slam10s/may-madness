@@ -79,4 +79,5 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Fri, 5/07 at  5:00 EDT	[Northern Ariz. vs #5 Pepperdine](./matches/R1_17-18_NAU_vs_PEPP.md) ... <b>PEPP (4)</b> / NAU (0)
 - Fri, 5/07 at  6:00 EDT	[A&M-Corpus Christi vs #8 Baylor](./matches/R1_15-16_TAMCC_vs_BAY.md) ... <b>BAY (4)</b> / TAMCC (0)
   
+------
 Return to the [Home Page](../../index.md)

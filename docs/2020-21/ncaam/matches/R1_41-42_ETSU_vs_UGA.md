@@ -37,6 +37,9 @@ Athens, Georgia
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](https://georgiadogs.com/sports/2017/6/17/sports-m-tennis-spec-rel-vid-stream-html.aspx)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

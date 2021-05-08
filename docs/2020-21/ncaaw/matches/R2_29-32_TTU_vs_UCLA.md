@@ -38,6 +38,9 @@ Los Angeles, California
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](https://uclabruins.com/sports/2020/1/13/ucla-tennis-live-stats-w.aspx)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

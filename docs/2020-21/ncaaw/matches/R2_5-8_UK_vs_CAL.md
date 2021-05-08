@@ -39,6 +39,9 @@ Berkeley, California
 
 <br>Return to [List of Matches](../index.md)  
 
+## Match Information  
+Go to [Live Stats](https://calbears.com/sports/2013/4/17/208195810.aspx)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

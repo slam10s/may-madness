@@ -9,7 +9,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#3 LSU</h2>  
-&nbsp; Record: 12-12<br>  
+&nbsp; Record: 12-13<br>  
 &nbsp; ITA: 40 (19.17)<br>  
 &nbsp; Slam: 38 (92.17)<br>  
 &nbsp; TRN: 39 (90.14)<br>  
@@ -22,7 +22,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#2 Stanford</h2>  
-&nbsp; Record: 10-5<br>  
+&nbsp; Record: 11-5<br>  
 &#10004; ITA: 21 (34.55)<br>  
 &#10004; Slam: 22 (94.00)<br>  
 &#10004; TRN: 21 (92.30)<br>  
@@ -39,6 +39,7 @@ Charlottesville, Virginia
 <br>Return to [List of Matches](../index.md)  
 
 ## Match Information  
+***Stanford def. LSU 4-0***  
 Go to [Live Stats](https://virginiasports.com/mens-live-tennis-video-outdoor-courts/)  
 
 ## Predictions  
