@@ -1,5 +1,5 @@
 First Round  
-Saturday, May 8 at 10:00 EDT  
+[Saturday, May 8](../../schedule/05-08.md) at 10:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 Alfred A. Ring Tennis Complex  
 Gainesville, Florida  
@@ -9,7 +9,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#3 Duke</h2>  
-&nbsp; Record: 12-10<br>  
+&nbsp; Record: 12-11<br>  
 &nbsp; ITA: 35 (25.15)<br>  
 &#10004; Slam: 31 (93.00)<br>  
 &nbsp; TRN: 36 (90.55)<br>  
@@ -22,7 +22,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#2 South Fla.</h2>  
-&nbsp; Record: 16-9<br>  
+&nbsp; Record: 17-9<br>  
 &#10004; ITA: 32 (26.14)<br>  
 &nbsp; Slam: 32 (92.98)<br>  
 &#10004; TRN: 34 (90.69)<br>  
@@ -35,9 +35,10 @@ Gainesville, Florida
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***South Florida def. Duke 4-2***  
 Go to [Live Stats](https://sidearmstats.com/florida/mten/)  
 
 ## Predictions  
@@ -156,4 +157,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md)  
+Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)  

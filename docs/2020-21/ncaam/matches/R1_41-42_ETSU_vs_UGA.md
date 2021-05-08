@@ -1,5 +1,5 @@
 First Round  
-Saturday, May 8 at 1:00 EDT  
+[Saturday, May 8](../../schedule/05-08.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 Dan Magill Tennis Complex  
 Athens, Georgia  
@@ -35,7 +35,7 @@ Athens, Georgia
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
 Go to [Live Stats](https://georgiadogs.com/sports/2017/6/17/sports-m-tennis-spec-rel-vid-stream-html.aspx)  
@@ -157,4 +157,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md)  
+Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)  

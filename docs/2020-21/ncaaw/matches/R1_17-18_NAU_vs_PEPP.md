@@ -1,5 +1,5 @@
 First Round  
-Friday, May 7 at 5:00 EDT  
+[Friday, May 7](../../schedule/05-07.md) at 5:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 Ralphs-Straus Tennis Center  
 Malibu, California  
@@ -35,7 +35,7 @@ Malibu, California
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-07.md)
 
 ## Match Information  
 ***Pepperdine def. Northern Arizona 4-0***  
@@ -157,4 +157,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md)  
+Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-07.md)  

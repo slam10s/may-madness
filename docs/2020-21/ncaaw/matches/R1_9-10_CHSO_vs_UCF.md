@@ -1,5 +1,5 @@
 First Round  
-Friday, May 7 at 3:00 EDT  
+[Friday, May 7](../../schedule/05-07.md) at 3:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -35,7 +35,7 @@ Orlando, Florida
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-07.md)
 
 ## Match Information  
 ***Central Florida def. Charleston Southern 4-0***  
@@ -157,4 +157,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md)  
+Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-07.md)  

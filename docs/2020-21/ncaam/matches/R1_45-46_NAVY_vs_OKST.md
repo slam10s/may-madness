@@ -1,5 +1,5 @@
 First Round  
-Saturday, May 8 at 10:00 EDT  
+[Saturday, May 8](../../schedule/05-08.md) at 10:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 Cone-Kenfield Center  
 Chapel Hill, North Carolina  
@@ -35,7 +35,7 @@ Chapel Hill, North Carolina
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
 ***Oklahoma State def. Navy 4-0***  
@@ -158,4 +158,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md)  
+Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)  

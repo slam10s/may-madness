@@ -29,7 +29,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at 10:00 EDT	[Virginia Tech vs Texas Tech](./matches/R1_43-44_VT_vs_TTU.md) ... <b>TTU (4)</b> / VT (2)
-- Sat, 5/08 at 10:00 EDT	[Duke vs South Fla.](./matches/R1_3-4_DUKE_vs_USF.md) ... USF (51%) / DUKE (49%)
+- Sat, 5/08 at 10:00 EDT	[Duke vs South Fla.](./matches/R1_3-4_DUKE_vs_USF.md) ... <b>USF (4)</b> / DUKE (2)
 - Sat, 5/08 at 12:00 EDT	[Oregon vs Alabama](./matches/R1_61-62_ORE_vs_BAMA.md) ... BAMA (60%) / ORE (40%)
 - Fri, 5/07 at 10:00 EDT	[Michigan vs Arizona](./matches/R1_37-38_MICH_vs_ARIZ.md) ... <b>ARIZ (4)</b> / MICH (3)
 - Fri, 5/07 at  2:00 EDT	[Western Mich. vs Notre Dame](./matches/R1_5-6_WMU_vs_ND.md) ... <b>ND (4)</b> / WMU (1)

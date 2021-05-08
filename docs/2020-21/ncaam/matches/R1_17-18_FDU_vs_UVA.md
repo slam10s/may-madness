@@ -1,5 +1,5 @@
 First Round  
-Saturday, May 8 at 1:00 EDT  
+[Saturday, May 8](../../schedule/05-08.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 Virginia Tennis Facility at the Boar’s Head Resort  
 Charlottesville, Virginia  
@@ -35,7 +35,7 @@ Charlottesville, Virginia
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
 Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350361)  
@@ -157,4 +157,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md)  
+Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)  

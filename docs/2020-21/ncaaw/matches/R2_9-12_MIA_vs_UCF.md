@@ -1,5 +1,5 @@
 Second Round  
-Saturday, May 8 at 5:00 EDT  
+[Saturday, May 8](../../schedule/05-08.md) at 5:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -37,7 +37,7 @@ Orlando, Florida
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md)  
+<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=77)  
@@ -159,4 +159,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md)  
+Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)  
