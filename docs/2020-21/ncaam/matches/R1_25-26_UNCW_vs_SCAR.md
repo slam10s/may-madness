@@ -5,7 +5,7 @@ Carolina Tennis Center
 Columbia, South Carolina  
 ## [UNCW vs #13 South Carolina](https://www.ncaa.com/game/5833382)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00685E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" /></td><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00685E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 UNCW</h2>  

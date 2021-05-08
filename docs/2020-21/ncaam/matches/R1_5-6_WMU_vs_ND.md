@@ -5,7 +5,7 @@ Atkins Tennis Center
 Urbana, Illinois  
 ## [Western Mich. vs Notre Dame](https://www.ncaa.com/game/5833372)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #693F23 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" /></td><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #693F23 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Western Mich.</h2>  

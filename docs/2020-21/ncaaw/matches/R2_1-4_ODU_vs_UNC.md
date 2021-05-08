@@ -5,7 +5,7 @@ Cone-Kenfield Center
 Chapel Hill, North Carolina  
 ## [Old Dominion vs #1 North Carolina](https://www.ncaa.com/game/5833679)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0B4071 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0B4071 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
 <td>  
 
 <h2>#2 Old Dominion</h2>  

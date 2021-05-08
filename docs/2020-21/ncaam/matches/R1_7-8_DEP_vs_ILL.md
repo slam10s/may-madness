@@ -5,7 +5,7 @@ Atkins Tennis Center
 Urbana, Illinois  
 ## [DePaul vs #16 Illinois](https://www.ncaa.com/game/5833373)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #003DA5 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" /></td><td style="background-color: #E04E39 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #003DA5 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #E04E39 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 DePaul</h2>  

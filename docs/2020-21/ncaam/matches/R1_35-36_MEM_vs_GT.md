@@ -5,7 +5,7 @@ Barksdale Stadium
 Knoxville, Tennessee  
 ## [Memphis vs Georgia Tech](https://www.ncaa.com/game/5833387)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #012169 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/memphis.70.png" width="70" height="70" /></td><td style="background-color: #B3A369 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #012169 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/memphis.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #B3A369 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Memphis</h2>  

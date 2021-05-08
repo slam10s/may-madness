@@ -5,7 +5,7 @@ Carolina Tennis Center
 Columbia, South Carolina  
 ## [FGCU vs NC State](https://www.ncaa.com/game/5833383)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fgcu.70.png" width="70" height="70" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fgcu.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 FGCU</h2>  

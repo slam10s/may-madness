@@ -5,7 +5,7 @@ Wake Forest Tennis Complex
 Winston-Salem, North Carolina  
 ## [Ohio St. vs #10 Wake Forest](https://www.ncaa.com/game/5833415)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #CE0F3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #CE0F3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
 <td>  
 
 <h2>#2 Ohio St.</h2>  

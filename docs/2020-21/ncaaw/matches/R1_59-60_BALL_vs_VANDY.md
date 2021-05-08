@@ -5,7 +5,7 @@ Varsity Tennis Center
 Columbus, Ohio  
 ## [Ball St. vs Vanderbilt](https://www.ncaa.com/game/5833676)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Ball St.</h2>  

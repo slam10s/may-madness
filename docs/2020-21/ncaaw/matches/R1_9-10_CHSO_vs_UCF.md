@@ -5,7 +5,7 @@ USTA National Campus
 Orlando, Florida  
 ## [Charleston So. vs #9 UCF](https://www.ncaa.com/game/5833651)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002855 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png" width="70" height="70" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002855 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Charleston So.</h2>  

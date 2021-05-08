@@ -5,7 +5,7 @@ Combe Tennis Center
 Evanston, Illinois  
 ## [Drake vs #10 Texas A&M](https://www.ncaa.com/game/5833674)  
 
-<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002F6C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" /></td></tr><tr>
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002F6C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" style="padding: 5px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 5px;" /></td></tr><tr>
 <td>  
 
 <h2>#4 Drake</h2>  
