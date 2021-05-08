@@ -42,7 +42,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***MISS*** - #18 Ole Miss (99%) def. #57 Belmont (1%)  
 - TRN: ***MISS*** - #18 Ole Miss (99%) def. #58 Belmont (1%)  
 - Massey: ***MISS*** - #21 Ole Miss (99%) def. #57 Belmont (1%)  
-- Lineup: ***MISS*** - Ole Miss (100%) def. Belmont (0%)  
+- Lineup: ***MISS*** - Ole Miss (99%) def. Belmont (1%)  
 - Composite: ***MISS*** - Ole Miss (99%) def. Belmont (1%)  
 - UTR: ***MISS*** - #25 Ole Miss (+6.71) def. #57 Belmont (-6.71)  
 - ITA: ***MISS*** - #14 Ole Miss def. #56 Belmont  
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ole Miss should win 4 or more singles matches _100%_ of the time.  
-- Belmont should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Ole Miss wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Belmont wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Ole Miss should win 4 or more singles matches _99%_ of the time.  
+- Belmont should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Ole Miss wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Belmont wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

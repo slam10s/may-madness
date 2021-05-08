@@ -42,7 +42,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***GT*** - #20 Georgia Tech (96%) def. #46 North Florida (4%)  
 - TRN: ***GT*** - #16 Georgia Tech (98%) def. #46 North Florida (2%)  
 - Massey: ***GT*** - #18 Georgia Tech (93%) def. #47 North Florida (7%)  
-- Lineup: ***GT*** - Georgia Tech (100%) def. North Florida (0%)  
+- Lineup: ***GT*** - Georgia Tech (99%) def. North Florida (1%)  
 - Composite: ***GT*** - Georgia Tech (97%) def. North Florida (3%)  
 - UTR: ***GT*** - #24 Georgia Tech (+3.09) def. #44 North Florida (-3.09)  
 - ITA: ***GT*** - #13 Georgia Tech def. #48 North Florida  
@@ -144,11 +144,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Georgia Tech should win 4 or more singles matches _97%_ of the time.  
-- North Florida should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
-- If Georgia Tech wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If North Florida wins the doubles point, their chances of winning the dual improve to _3%_.  
+- Georgia Tech should win 4 or more singles matches _99%_ of the time.  
+- North Florida should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Georgia Tech wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If North Florida wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

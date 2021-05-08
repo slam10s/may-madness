@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UVA*** - #9 Virginia (99%) def. #61 LIU (1%)  
 - TRN: ***UVA*** - #11 Virginia (99%) def. #63 LIU (1%)  
 - Massey: ***UVA*** - #7 Virginia (100%) def. #61 LIU (0%)  
-- Lineup: ***UVA*** - Virginia (100%) def. LIU (0%)  
+- Lineup: ***UVA*** - Virginia (99%) def. LIU (1%)  
 - Composite: ***UVA*** - Virginia (99%) def. LIU (1%)  
 - UTR: ***UVA*** - #13 Virginia (+12.56) def. #60 LIU (-12.56)  
 - ITA: ***UVA*** - #14 Virginia def. #52 LIU  
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Virginia should win 4 or more singles matches _100%_ of the time.  
-- LIU should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Virginia wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If LIU wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Virginia should win 4 or more singles matches _99%_ of the time.  
+- LIU should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Virginia wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If LIU wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

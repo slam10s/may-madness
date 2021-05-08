@@ -42,7 +42,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UCF*** - #12 UCF (99%) def. #61 Monmouth (1%)  
 - TRN: ***UCF*** - #13 UCF (99%) def. #57 Monmouth (1%)  
 - Massey: ***UCF*** - #7 UCF (100%) def. #60 Monmouth (0%)  
-- Lineup: ***UCF*** - UCF (100%) def. Monmouth (0%)  
+- Lineup: ***UCF*** - UCF (99%) def. Monmouth (1%)  
 - Composite: ***UCF*** - UCF (99%) def. Monmouth (1%)  
 - UTR: ***UCF*** - #12 UCF (+9.47) def. #62 Monmouth (-9.47)  
 - ITA: ***UCF*** - #10 UCF def. #58 Monmouth  
@@ -144,11 +144,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- UCF should win 4 or more singles matches _100%_ of the time.  
-- Monmouth should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If UCF wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Monmouth wins the doubles point, their chances of winning the dual improve to _0%_.  
+- UCF should win 4 or more singles matches _99%_ of the time.  
+- Monmouth should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If UCF wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Monmouth wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

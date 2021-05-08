@@ -42,7 +42,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UNC*** - #3 North Carolina (99%) def. #59 Presbyterian (1%)  
 - TRN: ***UNC*** - #2 North Carolina (99%) def. #59 Presbyterian (1%)  
 - Massey: ***UNC*** - #4 North Carolina (100%) def. #61 Presbyterian (0%)  
-- Lineup: ***UNC*** - North Carolina (100%) def. Presbyterian (0%)  
+- Lineup: ***UNC*** - North Carolina (99%) def. Presbyterian (1%)  
 - Composite: ***UNC*** - North Carolina (99%) def. Presbyterian (1%)  
 - UTR: ***UNC*** - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)  
 - ITA: ***UNC*** - #6 North Carolina def. #59 Presbyterian  
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- North Carolina should win 4 or more singles matches _100%_ of the time.  
-- Presbyterian should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If North Carolina wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Presbyterian wins the doubles point, their chances of winning the dual improve to _0%_.  
+- North Carolina should win 4 or more singles matches _99%_ of the time.  
+- Presbyterian should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If North Carolina wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Presbyterian wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

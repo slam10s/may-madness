@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***USC*** - #14 Southern California (99%) def. #62 Grand Canyon (1%)  
 - TRN: ***USC*** - #16 Southern California (99%) def. #62 Grand Canyon (1%)  
 - Massey: ***USC*** - #8 Southern California (100%) def. #62 Grand Canyon (0%)  
-- Lineup: ***USC*** - Southern California (100%) def. Grand Canyon (0%)  
+- Lineup: ***USC*** - Southern California (99%) def. Grand Canyon (1%)  
 - Composite: ***USC*** - Southern California (99%) def. Grand Canyon (1%)  
 - UTR: ***USC*** - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)  
 - ITA: ***USC*** - #12 Southern California def. #64 Grand Canyon  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Southern California should win 4 or more singles matches _100%_ of the time.  
-- Grand Canyon should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Southern California wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Grand Canyon wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Southern California should win 4 or more singles matches _99%_ of the time.  
+- Grand Canyon should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Southern California wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Grand Canyon wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

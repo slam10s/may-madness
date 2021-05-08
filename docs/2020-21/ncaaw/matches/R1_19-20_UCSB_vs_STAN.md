@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***STAN*** - #23 Stanford (81%) def. #39 UC Santa Barbara (19%)  
 - TRN: ***STAN*** - #24 Stanford (83%) def. #40 UC Santa Barbara (17%)  
 - Massey: ***STAN*** - #15 Stanford (95%) def. #40 UC Santa Barbara (5%)  
-- Lineup: ***STAN*** - Stanford (100%) def. UC Santa Barbara (0%)  
+- Lineup: ***STAN*** - Stanford (99%) def. UC Santa Barbara (1%)  
 - Composite: ***STAN*** - Stanford (90%) def. UC Santa Barbara (10%)  
 - UTR: ***STAN*** - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)  
 - ITA: ***STAN*** - #28 Stanford def. #44 UC Santa Barbara  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Stanford should win 4 or more singles matches _97%_ of the time.  
-- UC Santa Barbara should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
-- If Stanford wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _3%_.  
+- Stanford should win 4 or more singles matches _99%_ of the time.  
+- UC Santa Barbara should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Stanford wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

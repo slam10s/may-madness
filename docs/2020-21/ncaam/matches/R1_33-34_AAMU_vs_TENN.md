@@ -42,7 +42,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***TENN*** - #4 Tennessee (99%) def. #64 Alabama A&M (1%)  
 - TRN: ***TENN*** - #5 Tennessee (99%) def. #64 Alabama A&M (1%)  
 - Massey: ***TENN*** - #2 Tennessee (100%) def. #65 Alabama A&M (0%)  
-- Lineup: ***TENN*** - Tennessee (100%) def. Alabama A&M (0%)  
+- Lineup: ***TENN*** - Tennessee (99%) def. Alabama A&M (1%)  
 - Composite: ***TENN*** - Tennessee (99%) def. Alabama A&M (1%)  
 - UTR: ***TENN*** - #4 Tennessee (+16.92) def. #65 Alabama A&M (-16.92)  
 - ITA: ***TENN*** - #3 Tennessee def. #63 Alabama A&M  
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Tennessee should win 4 or more singles matches _100%_ of the time.  
-- Alabama A&M should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Tennessee wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Alabama A&M wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Tennessee should win 4 or more singles matches _99%_ of the time.  
+- Alabama A&M should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Tennessee wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Alabama A&M wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

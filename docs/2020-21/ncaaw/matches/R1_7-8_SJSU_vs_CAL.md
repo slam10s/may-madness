@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***CAL*** - #17 California (99%) def. #50 San Jose St. (1%)  
 - TRN: ***CAL*** - #17 California (99%) def. #49 San Jose St. (1%)  
 - Massey: ***CAL*** - #14 California (99%) def. #49 San Jose St. (1%)  
-- Lineup: ***CAL*** - California (100%) def. San Jose St. (0%)  
+- Lineup: ***CAL*** - California (99%) def. San Jose St. (1%)  
 - Composite: ***CAL*** - California (99%) def. San Jose St. (1%)  
 - UTR: ***CAL*** - #15 California (+6.78) def. #50 San Jose St. (-6.78)  
 - ITA: ***CAL*** - #16 California def. #47 San Jose St.  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- California should win 4 or more singles matches _100%_ of the time.  
-- San Jose St. should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If California wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If San Jose St. wins the doubles point, their chances of winning the dual improve to _0%_.  
+- California should win 4 or more singles matches _99%_ of the time.  
+- San Jose St. should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If California wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If San Jose St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

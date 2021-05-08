@@ -46,7 +46,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
 - TRN: ***TEX*** - #2 Texas (99%) def. #45 Denver (1%)  
 - Massey: ***TEX*** - #2 Texas (99%) def. #43 Denver (1%)  
-- Lineup: ***TEX*** - Texas (100%) def. Denver (0%)  
+- Lineup: ***TEX*** - Texas (99%) def. Denver (1%)  
 - Composite: ***TEX*** - Texas (99%) def. Denver (1%)  
 - UTR: ***TEX*** - #1 Texas (+7.56) def. #45 Denver (-7.56)  
 - ITA: ***TEX*** - #2 Texas def. #45 Denver  
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas should win 4 or more singles matches _100%_ of the time.  
-- Denver should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Texas wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Denver wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Texas should win 4 or more singles matches _99%_ of the time.  
+- Denver should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Texas wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Denver wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

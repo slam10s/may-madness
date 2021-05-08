@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***NW*** - #18 Northwestern (99%) def. #49 Xavier (1%)  
 - TRN: ***NW*** - #13 Northwestern (99%) def. #50 Xavier (1%)  
 - Massey: ***NW*** - #20 Northwestern (99%) def. #50 Xavier (1%)  
-- Lineup: ***NW*** - Northwestern (100%) def. Xavier (0%)  
+- Lineup: ***NW*** - Northwestern (99%) def. Xavier (1%)  
 - Composite: ***NW*** - Northwestern (99%) def. Xavier (1%)  
 - UTR: ***NW*** - #33 Northwestern (+36.37) def. #64 Xavier (-36.37)  
 - ITA: ***NW*** - #21 Northwestern def. #55 Xavier  
@@ -149,10 +149,10 @@ Click on a Singles match to show individual predections for each line.
   
 Based on the composite metrics for each individual match:  
 - Northwestern should win 4 or more singles matches _99%_ of the time.  
-- Xavier should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
-- If Northwestern wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Xavier wins the doubles point, their chances of winning the dual improve to _1%_.  
+- Xavier should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Northwestern wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Xavier wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

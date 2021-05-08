@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***A&M*** - #15 Texas A&M (99%) def. #58 Drake (1%)  
 - TRN: ***A&M*** - #14 Texas A&M (99%) def. #58 Drake (1%)  
 - Massey: ***A&M*** - #21 Texas A&M (99%) def. #59 Drake (1%)  
-- Lineup: ***A&M*** - Texas A&M (100%) def. Drake (0%)  
+- Lineup: ***A&M*** - Texas A&M (99%) def. Drake (1%)  
 - Composite: ***A&M*** - Texas A&M (99%) def. Drake (1%)  
 - UTR: ***A&M*** - #21 Texas A&M (+10.83) def. #59 Drake (-10.83)  
 - ITA: ***A&M*** - #10 Texas A&M def. #63 Drake  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas A&M should win 4 or more singles matches _100%_ of the time.  
-- Drake should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Texas A&M wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Drake wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Texas A&M should win 4 or more singles matches _99%_ of the time.  
+- Drake should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Texas A&M wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Drake wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

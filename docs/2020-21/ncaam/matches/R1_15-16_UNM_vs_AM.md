@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***A&M*** - #11 Texas A&M (99%) def. #53 New Mexico (1%)  
 - TRN: ***A&M*** - #11 Texas A&M (99%) def. #54 New Mexico (1%)  
 - Massey: ***A&M*** - #12 Texas A&M (98%) def. #48 New Mexico (2%)  
-- Lineup: ***A&M*** - Texas A&M (100%) def. New Mexico (0%)  
+- Lineup: ***A&M*** - Texas A&M (99%) def. New Mexico (1%)  
 - Composite: ***A&M*** - Texas A&M (99%) def. New Mexico (1%)  
 - UTR: ***A&M*** - #8 Texas A&M (+5.97) def. #51 New Mexico (-5.97)  
 - ITA: ***A&M*** - #8 Texas A&M def. #52 New Mexico  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas A&M should win 4 or more singles matches _100%_ of the time.  
-- New Mexico should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Texas A&M wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If New Mexico wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Texas A&M should win 4 or more singles matches _99%_ of the time.  
+- New Mexico should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Texas A&M wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If New Mexico wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

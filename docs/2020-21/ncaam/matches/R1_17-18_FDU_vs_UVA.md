@@ -42,7 +42,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - TRN: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - Massey: ***UVA*** - #3 Virginia (100%) def. #64 Fairleigh Dickinson (0%)  
-- Lineup: ***UVA*** - Virginia (100%) def. Fairleigh Dickinson (0%)  
+- Lineup: ***UVA*** - Virginia (99%) def. Fairleigh Dickinson (1%)  
 - Composite: ***UVA*** - Virginia (99%) def. Fairleigh Dickinson (1%)  
 - UTR: ***UVA*** - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)  
 - ITA: ***UVA*** - #4 Virginia def. #62 Fairleigh Dickinson  
@@ -144,11 +144,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Virginia should win 4 or more singles matches _100%_ of the time.  
-- Fairleigh Dickinson should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Virginia wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Fairleigh Dickinson wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Virginia should win 4 or more singles matches _99%_ of the time.  
+- Fairleigh Dickinson should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Virginia wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Fairleigh Dickinson wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

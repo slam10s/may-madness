@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UCLA*** - #4 UCLA (99%) def. #59 Grand Canyon (1%)  
 - TRN: ***UCLA*** - #7 UCLA (99%) def. #60 Grand Canyon (1%)  
 - Massey: ***UCLA*** - #4 UCLA (100%) def. #57 Grand Canyon (0%)  
-- Lineup: ***UCLA*** - UCLA (100%) def. Grand Canyon (0%)  
+- Lineup: ***UCLA*** - UCLA (99%) def. Grand Canyon (1%)  
 - Composite: ***UCLA*** - UCLA (99%) def. Grand Canyon (1%)  
 - UTR: ***UCLA*** - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)  
 - ITA: ***UCLA*** - #4 UCLA def. #62 Grand Canyon  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- UCLA should win 4 or more singles matches _100%_ of the time.  
-- Grand Canyon should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If UCLA wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Grand Canyon wins the doubles point, their chances of winning the dual improve to _0%_.  
+- UCLA should win 4 or more singles matches _99%_ of the time.  
+- Grand Canyon should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If UCLA wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Grand Canyon wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

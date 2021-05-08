@@ -44,7 +44,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #28 Old Dominion (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #25 Old Dominion (1%)  
 - Massey: ***UNC*** - #1 North Carolina (99%) def. #29 Old Dominion (1%)  
-- Lineup: ***UNC*** - North Carolina (100%) def. Old Dominion (0%)  
+- Lineup: ***UNC*** - North Carolina (99%) def. Old Dominion (1%)  
 - Composite: ***UNC*** - North Carolina (99%) def. Old Dominion (1%)  
 - UTR: ***UNC*** - #2 North Carolina (+5.44) def. #37 Old Dominion (-5.44)  
 - ITA: ***UNC*** - #1 North Carolina def. #30 Old Dominion  
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- North Carolina should win 4 or more singles matches _100%_ of the time.  
-- Old Dominion should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If North Carolina wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Old Dominion wins the doubles point, their chances of winning the dual improve to _0%_.  
+- North Carolina should win 4 or more singles matches _99%_ of the time.  
+- Old Dominion should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If North Carolina wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Old Dominion wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

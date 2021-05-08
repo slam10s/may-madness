@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
 - TRN: ***UGA*** - #3 Georgia (99%) def. #56 Austin Peay (1%)  
 - Massey: ***UGA*** - #3 Georgia (100%) def. #56 Austin Peay (0%)  
-- Lineup: ***UGA*** - Georgia (100%) def. Austin Peay (0%)  
+- Lineup: ***UGA*** - Georgia (99%) def. Austin Peay (1%)  
 - Composite: ***UGA*** - Georgia (99%) def. Austin Peay (1%)  
 - UTR: ***UGA*** - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)  
 - ITA: ***UGA*** - #3 Georgia def. #57 Austin Peay  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Georgia should win 4 or more singles matches _100%_ of the time.  
-- Austin Peay should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Georgia wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Austin Peay wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Georgia should win 4 or more singles matches _99%_ of the time.  
+- Austin Peay should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Georgia wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Austin Peay wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Stanford should win 4 or more singles matches _93%_ of the time.  
-- LSU should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _6%_ of the time.  
-- If Stanford wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If LSU wins the doubles point, their chances of winning the dual improve to _7%_.  
+- Stanford should win 4 or more singles matches _99%_ of the time.  
+- LSU should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Stanford wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If LSU wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

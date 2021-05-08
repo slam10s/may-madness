@@ -43,7 +43,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***TCU*** - #9 TCU (96%) def. #43 Arkansas (4%)  
 - TRN: ***TCU*** - #9 TCU (98%) def. #44 Arkansas (2%)  
 - Massey: ***TCU*** - #6 TCU (99%) def. #50 Arkansas (1%)  
-- Lineup: ***TCU*** - TCU (100%) def. Arkansas (0%)  
+- Lineup: ***TCU*** - TCU (99%) def. Arkansas (1%)  
 - Composite: ***TCU*** - TCU (98%) def. Arkansas (2%)  
 - UTR: ***TCU*** - #10 TCU (+4.41) def. #44 Arkansas (-4.41)  
 - ITA: ***TCU*** - #7 TCU def. #43 Arkansas  
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- TCU should win 4 or more singles matches _98%_ of the time.  
-- Arkansas should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _2%_ of the time.  
-- If TCU wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Arkansas wins the doubles point, their chances of winning the dual improve to _2%_.  
+- TCU should win 4 or more singles matches _99%_ of the time.  
+- Arkansas should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If TCU wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Arkansas wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

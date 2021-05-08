@@ -46,7 +46,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***OSU*** - #7 Ohio St. (95%) def. #36 VCU (5%)  
 - TRN: ***OSU*** - #8 Ohio St. (98%) def. #38 VCU (2%)  
 - Massey: ***OSU*** - #9 Ohio St. (95%) def. #35 VCU (5%)  
-- Lineup: ***OSU*** - Ohio St. (100%) def. VCU (0%)  
+- Lineup: ***OSU*** - Ohio St. (99%) def. VCU (1%)  
 - Composite: ***OSU*** - Ohio St. (97%) def. VCU (3%)  
 - UTR: ***OSU*** - #3 Ohio St. (+3.21) def. #29 VCU (-3.21)  
 - ITA: ***OSU*** - #31 Ohio St. def. #37 VCU  
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ohio St. should win 4 or more singles matches _97%_ of the time.  
-- VCU should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If VCU wins the doubles point, their chances of winning the dual improve to _3%_.  
+- Ohio St. should win 4 or more singles matches _99%_ of the time.  
+- VCU should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If VCU wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

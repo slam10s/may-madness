@@ -44,7 +44,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #62 South Carolina St. (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #61 South Carolina St. (1%)  
 - Massey: ***UNC*** - #1 North Carolina (100%) def. #62 South Carolina St. (0%)  
-- Lineup: ***UNC*** - North Carolina (100%) def. South Carolina St. (0%)  
+- Lineup: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - Composite: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - UTR: ***UNC*** - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)  
 - ITA: ***UNC*** - #1 North Carolina def. South Carolina St.  
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- North Carolina should win 4 or more singles matches _100%_ of the time.  
-- South Carolina St. should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If North Carolina wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If South Carolina St. wins the doubles point, their chances of winning the dual improve to _0%_.  
+- North Carolina should win 4 or more singles matches _99%_ of the time.  
+- South Carolina St. should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If North Carolina wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If South Carolina St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

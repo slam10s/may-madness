@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
 - TRN: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
 - Massey: ***UK*** - #17 Kentucky (99%) def. #55 Cleveland St. (1%)  
-- Lineup: ***UK*** - Kentucky (100%) def. Cleveland St. (0%)  
+- Lineup: ***UK*** - Kentucky (99%) def. Cleveland St. (1%)  
 - Composite: ***UK*** - Kentucky (99%) def. Cleveland St. (1%)  
 - UTR: ***UK*** - #16 Kentucky (+7.36) def. #54 Cleveland St. (-7.36)  
 - ITA: ***UK*** - #15 Kentucky def. #57 Cleveland St.  
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Kentucky should win 4 or more singles matches _100%_ of the time.  
-- Cleveland St. should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Kentucky wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Cleveland St. wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Kentucky should win 4 or more singles matches _99%_ of the time.  
+- Cleveland St. should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Cleveland St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

@@ -42,7 +42,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***BAY*** - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)  
 - TRN: ***BAY*** - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)  
 - Massey: ***BAY*** - #5 Baylor (99%) def. #58 A&M-Corpus Christi (1%)  
-- Lineup: ***BAY*** - Baylor (100%) def. A&M-Corpus Christi (0%)  
+- Lineup: ***BAY*** - Baylor (99%) def. A&M-Corpus Christi (1%)  
 - Composite: ***BAY*** - Baylor (99%) def. A&M-Corpus Christi (1%)  
 - UTR: ***BAY*** - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)  
 - ITA: ***BAY*** - #1 Baylor def. #60 A&M-Corpus Christi  
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Baylor should win 4 or more singles matches _100%_ of the time.  
-- A&M-Corpus Christi should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Baylor wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If A&M-Corpus Christi wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Baylor should win 4 or more singles matches _99%_ of the time.  
+- A&M-Corpus Christi should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Baylor wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If A&M-Corpus Christi wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Miami (FL) should win 4 or more singles matches _87%_ of the time.  
-- FIU should win 4 or more singles matches _2%_ of the time.  
-- The winner of the doubles point will decide the match the other _11%_ of the time.  
-- If Miami (FL) wins the doubles point, their chances of winning the dual improve to _98%_.  
-- If FIU wins the doubles point, their chances of winning the dual improve to _13%_.  
+- Miami (FL) should win 4 or more singles matches _99%_ of the time.  
+- FIU should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Miami (FL) wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If FIU wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

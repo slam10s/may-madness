@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***OSU*** - #5 Ohio St. (99%) def. #57 UIC (1%)  
 - TRN: ***OSU*** - #5 Ohio St. (99%) def. #59 UIC (1%)  
 - Massey: ***OSU*** - #8 Ohio St. (100%) def. #58 UIC (0%)  
-- Lineup: ***OSU*** - Ohio St. (100%) def. UIC (0%)  
+- Lineup: ***OSU*** - Ohio St. (99%) def. UIC (1%)  
 - Composite: ***OSU*** - Ohio St. (99%) def. UIC (1%)  
 - UTR: ***OSU*** - #25 Ohio St. (+10.14) def. #58 UIC (-10.14)  
 - ITA: ***OSU*** - #18 Ohio St. def. #59 UIC  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ohio St. should win 4 or more singles matches _100%_ of the time.  
-- UIC should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If UIC wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Ohio St. should win 4 or more singles matches _99%_ of the time.  
+- UIC should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If UIC wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

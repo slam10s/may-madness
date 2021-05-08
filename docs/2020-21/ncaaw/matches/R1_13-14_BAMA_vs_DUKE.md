@@ -46,7 +46,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***DUKE*** - #14 Duke (93%) def. #44 Alabama (7%)  
 - TRN: ***DUKE*** - #15 Duke (94%) def. #44 Alabama (6%)  
 - Massey: ***DUKE*** - #11 Duke (98%) def. #44 Alabama (2%)  
-- Lineup: ***DUKE*** - Duke (100%) def. Alabama (0%)  
+- Lineup: ***DUKE*** - Duke (99%) def. Alabama (1%)  
 - Composite: ***DUKE*** - Duke (96%) def. Alabama (4%)  
 - UTR: ***DUKE*** - #12 Duke (+3.40) def. #40 Alabama (-3.40)  
 - ITA: ***DUKE*** - #17 Duke def. #42 Alabama  
@@ -149,10 +149,10 @@ Click on a Singles match to show individual predections for each line.
   
 Based on the composite metrics for each individual match:  
 - Duke should win 4 or more singles matches _99%_ of the time.  
-- Alabama should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
-- If Duke wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Alabama wins the doubles point, their chances of winning the dual improve to _1%_.  
+- Alabama should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Duke wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Alabama wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

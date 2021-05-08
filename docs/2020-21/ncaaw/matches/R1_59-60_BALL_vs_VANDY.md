@@ -44,7 +44,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***VANDY*** - #29 Vanderbilt (99%) def. #52 Ball St. (1%)  
 - TRN: ***VANDY*** - #30 Vanderbilt (99%) def. #52 Ball St. (1%)  
 - Massey: ***VANDY*** - #31 Vanderbilt (99%) def. #53 Ball St. (1%)  
-- Lineup: ***VANDY*** - Vanderbilt (100%) def. Ball St. (0%)  
+- Lineup: ***VANDY*** - Vanderbilt (99%) def. Ball St. (1%)  
 - Composite: ***VANDY*** - Vanderbilt (99%) def. Ball St. (1%)  
 - UTR: ***VANDY*** - #28 Vanderbilt (+6.81) def. #51 Ball St. (-6.81)  
 - ITA: ***VANDY*** - #27 Vanderbilt def. #51 Ball St.  
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Vanderbilt should win 4 or more singles matches _100%_ of the time.  
-- Ball St. should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Vanderbilt wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Ball St. wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Vanderbilt should win 4 or more singles matches _99%_ of the time.  
+- Ball St. should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Vanderbilt wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Ball St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

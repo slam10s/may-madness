@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***ILL*** - #6 Illinois (99%) def. #55 DePaul (1%)  
 - TRN: ***ILL*** - #4 Illinois (99%) def. #55 DePaul (1%)  
 - Massey: ***ILL*** - #9 Illinois (99%) def. #54 DePaul (1%)  
-- Lineup: ***ILL*** - Illinois (100%) def. DePaul (0%)  
+- Lineup: ***ILL*** - Illinois (99%) def. DePaul (1%)  
 - Composite: ***ILL*** - Illinois (99%) def. DePaul (1%)  
 - UTR: ***ILL*** - #15 Illinois (+8.25) def. #60 DePaul (-8.25)  
 - ITA: ***ILL*** - #18 Illinois def. #55 DePaul  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Illinois should win 4 or more singles matches _100%_ of the time.  
-- DePaul should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Illinois wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If DePaul wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Illinois should win 4 or more singles matches _99%_ of the time.  
+- DePaul should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Illinois wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If DePaul wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

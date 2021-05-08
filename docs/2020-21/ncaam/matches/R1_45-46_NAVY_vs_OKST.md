@@ -42,7 +42,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***OKST*** - #24 Oklahoma St. (98%) def. #54 Navy (2%)  
 - TRN: ***OKST*** - #23 Oklahoma St. (92%) def. #48 Navy (8%)  
 - Massey: ***OKST*** - #29 Oklahoma St. (99%) def. #56 Navy (1%)  
-- Lineup: ***OKST*** - Oklahoma St. (100%) def. Navy (0%)  
+- Lineup: ***OKST*** - Oklahoma St. (99%) def. Navy (1%)  
 - Composite: ***OKST*** - Oklahoma St. (97%) def. Navy (3%)  
 - UTR: ***OKST*** - #19 Oklahoma St. (+7.52) def. #58 Navy (-7.52)  
 - ITA: ***OKST*** - #19 Oklahoma St. def. #48 Navy  
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Oklahoma St. should win 4 or more singles matches _98%_ of the time.  
-- Navy should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _2%_ of the time.  
-- If Oklahoma St. wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Navy wins the doubles point, their chances of winning the dual improve to _2%_.  
+- Oklahoma St. should win 4 or more singles matches _99%_ of the time.  
+- Navy should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Oklahoma St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Navy wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

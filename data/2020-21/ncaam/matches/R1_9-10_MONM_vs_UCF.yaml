@@ -39,7 +39,7 @@ Predictions:
   SLM: "UCF - #12 UCF (99%) def. #61 Monmouth (1%)"
   TRN: "UCF - #13 UCF (99%) def. #57 Monmouth (1%)"
   MAS: "UCF - #7 UCF (100%) def. #60 Monmouth (0%)"
-  LNUP: UCF - UCF (100%) def. Monmouth (0%)
+  LNUP: UCF - UCF (99%) def. Monmouth (1%)
   AVG: UCF - UCF (99%) def. Monmouth (1%)
   UTR: "UCF - #12 UCF (+9.47) def. #62 Monmouth (-9.47)"
   ITA: "UCF - #10 UCF def. #58 Monmouth"

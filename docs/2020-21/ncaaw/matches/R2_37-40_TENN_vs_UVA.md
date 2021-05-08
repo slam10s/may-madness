@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Virginia should win 4 or more singles matches _36%_ of the time.  
-- Tennessee should win 4 or more singles matches _19%_ of the time.  
-- The winner of the doubles point will decide the match the other _45%_ of the time.  
-- If Virginia wins the doubles point, their chances of winning the dual improve to _81%_.  
-- If Tennessee wins the doubles point, their chances of winning the dual improve to _64%_.  
+- Virginia should win 4 or more singles matches _99%_ of the time.  
+- Tennessee should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Virginia wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Tennessee wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

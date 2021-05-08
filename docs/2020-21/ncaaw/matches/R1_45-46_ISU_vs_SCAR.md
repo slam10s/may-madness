@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- South Carolina should win 4 or more singles matches _71%_ of the time.  
-- Iowa St. should win 4 or more singles matches _7%_ of the time.  
-- The winner of the doubles point will decide the match the other _22%_ of the time.  
-- If South Carolina wins the doubles point, their chances of winning the dual improve to _93%_.  
-- If Iowa St. wins the doubles point, their chances of winning the dual improve to _29%_.  
+- South Carolina should win 4 or more singles matches _99%_ of the time.  
+- Iowa St. should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If South Carolina wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Iowa St. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***PEPP*** - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)  
 - TRN: ***PEPP*** - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)  
 - Massey: ***PEPP*** - #5 Pepperdine (100%) def. #51 Northern Ariz. (0%)  
-- Lineup: ***PEPP*** - Pepperdine (100%) def. Northern Ariz. (0%)  
+- Lineup: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - Composite: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #54 Northern Ariz.  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Pepperdine should win 4 or more singles matches _100%_ of the time.  
-- Northern Ariz. should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Pepperdine wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If Northern Ariz. wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Pepperdine should win 4 or more singles matches _99%_ of the time.  
+- Northern Ariz. should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Pepperdine wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If Northern Ariz. wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

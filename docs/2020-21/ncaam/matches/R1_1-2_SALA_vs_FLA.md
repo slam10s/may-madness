@@ -42,7 +42,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***FLA*** - #2 Florida (99%) def. #50 South Alabama (1%)  
 - TRN: ***FLA*** - #3 Florida (99%) def. #52 South Alabama (1%)  
 - Massey: ***FLA*** - #1 Florida (99%) def. #46 South Alabama (1%)  
-- Lineup: ***FLA*** - Florida (100%) def. South Alabama (0%)  
+- Lineup: ***FLA*** - Florida (99%) def. South Alabama (1%)  
 - Composite: ***FLA*** - Florida (99%) def. South Alabama (1%)  
 - UTR: ***FLA*** - #1 Florida (+6.84) def. #49 South Alabama (-6.84)  
 - ITA: ***FLA*** - #2 Florida def. #53 South Alabama  
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Florida should win 4 or more singles matches _100%_ of the time.  
-- South Alabama should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If Florida wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If South Alabama wins the doubles point, their chances of winning the dual improve to _0%_.  
+- Florida should win 4 or more singles matches _99%_ of the time.  
+- South Alabama should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If Florida wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If South Alabama wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 

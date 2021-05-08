@@ -45,7 +45,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***NCST*** - #11 NC State (99%) def. #48 VCU (1%)  
 - TRN: ***NCST*** - #10 NC State (99%) def. #48 VCU (1%)  
 - Massey: ***NCST*** - #6 NC State (99%) def. #48 VCU (1%)  
-- Lineup: ***NCST*** - NC State (100%) def. VCU (0%)  
+- Lineup: ***NCST*** - NC State (99%) def. VCU (1%)  
 - Composite: ***NCST*** - NC State (99%) def. VCU (1%)  
 - UTR: ***NCST*** - #9 NC State (+7.24) def. #48 VCU (-7.24)  
 - ITA: ***NCST*** - #6 NC State def. #49 VCU  
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- NC State should win 4 or more singles matches _100%_ of the time.  
-- VCU should win 4 or more singles matches _0%_ of the time.  
-- The winner of the doubles point will decide the match the other _0%_ of the time.  
-- If NC State wins the doubles point, their chances of winning the dual improve to _100%_.  
-- If VCU wins the doubles point, their chances of winning the dual improve to _0%_.  
+- NC State should win 4 or more singles matches _99%_ of the time.  
+- VCU should win 4 or more singles matches _NaN%_ of the time.  
+- The winner of the doubles point will decide the match the other _NaN%_ of the time.  
+- If NC State wins the doubles point, their chances of winning the dual improve to _NaN%_.  
+- If VCU wins the doubles point, their chances of winning the dual improve to _NaN%_.  
   
 ------
 
