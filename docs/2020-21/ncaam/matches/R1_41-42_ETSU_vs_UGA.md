@@ -35,7 +35,7 @@ Athens, Georgia
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
 Go to [Live Stats](https://georgiadogs.com/sports/2017/6/17/sports-m-tennis-spec-rel-vid-stream-html.aspx)  
@@ -157,4 +157,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)  
+Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)  

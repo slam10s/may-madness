@@ -36,7 +36,7 @@ Chapel Hill, North Carolina
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-07.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
 
 ## Match Information  
 ***Old Dominion def. Arkansas 4-2***  
@@ -157,4 +157,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-07.md)  
+Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)  

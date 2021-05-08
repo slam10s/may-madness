@@ -35,7 +35,7 @@ Charlottesville, Virginia
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-07.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
 
 ## Match Information  
 ***Virginia def. Long Island 4-0***  
@@ -156,4 +156,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-07.md)  
+Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)  

@@ -37,7 +37,7 @@ Waco, Texas
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
 Go to [Live Stats](http://www.sidearmstats.com/baylor/wten/)  
@@ -159,4 +159,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to [List of Matches](../index.md) | [Daily Schedule](../../schedule/05-08.md)  
+Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)  
