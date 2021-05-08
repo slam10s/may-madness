@@ -43,11 +43,11 @@ Waco, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***DUKE*** - Duke (96%) def. Alabama (4%)  
 - Slam: ***DUKE*** - #14 Duke (93%) def. #44 Alabama (7%)  
 - TRN: ***DUKE*** - #15 Duke (94%) def. #44 Alabama (6%)  
 - Massey: ***DUKE*** - #11 Duke (98%) def. #44 Alabama (2%)  
 - Lineup: ***DUKE*** - Duke (99%) def. Alabama (1%)  
-- Composite: ***DUKE*** - Duke (96%) def. Alabama (4%)  
 - UTR: ***DUKE*** - #12 Duke (+3.40) def. #40 Alabama (-3.40)  
 - ITA: ***DUKE*** - #17 Duke def. #42 Alabama  
 - USTA Poll: ***DUKE*** - #14 Duke def. Alabama  
@@ -64,66 +64,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Loudmilla Bencheikh (BAMA) - 2-5 at #1, 2-5 in duals, 2-5 overall<br>Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chen (85%) def. Bencheikh (15%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chen (85%) def. Bencheikh (15%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Chen (86%) def. Bencheikh (14%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chen (12.42) def. Bencheikh (1.60)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Alba Cortina Pou (BAMA) - 3-2 at #2, 15-4 in duals, 15-7 overall<br>Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Drummy (93%) def. Pou (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Drummy (88%) def. Pou (12%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Drummy (90%) def. Pou (10%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Drummy (24.14) def. Pou (2.01)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Anna Parkhomenko (BAMA) - 0-6 at #3, 11-7 in duals, 15-11 overall<br>Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>DUKE</i></b> - Beck (95%) def. Parkhomenko (5%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Beck (96%) def. Parkhomenko (4%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Beck (93%) def. Parkhomenko (7%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Beck (95%) def. Parkhomenko (5%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Beck (15.35) def. Parkhomenko (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Anne Marie Hiser (BAMA) - 4-0 at #4, 13-8 in duals, 17-10 overall<br>Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>DUKE</i></b> - Chi (94%) def. Hiser (6%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Chi (93%) def. Hiser (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Chi (96%) def. Hiser (4%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chi (94%) def. Hiser (6%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chi (91%) def. Hiser (9%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Chi (94%) def. Hiser (6%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chi (15.20) def. Hiser (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Sydney Riley (BAMA) - 2-0 at #5, 12-7 in duals, 14-13 overall<br>Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>DUKE</i></b> - Bilokin (91%) def. Riley (9%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Bilokin (93%) def. Riley (7%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Bilokin (90%) def. Riley (10%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Bilokin (87%) def. Riley (13%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Bilokin (93%) def. Riley (7%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Bilokin (91%) def. Riley (9%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Bilokin (2.72) def. Riley (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Sydney Orefice (BAMA) - 2-0 at #6, 2-0 in duals, 2-5 overall<br>Karolina Berankova (DUKE) - 7-7 at #6, 9-9 in duals, 10-11 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>DUKE</i></b> - Berankova (84%) def. Orefice (16%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Berankova (92%) def. Orefice (8%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Berankova (80%) def. Orefice (20%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Berankova (68%) def. Orefice (32%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Berankova (97%) def. Orefice (3%)</li>  
-<li>Composite: <b><i>DUKE</i></b> - Berankova (84%) def. Orefice (16%)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

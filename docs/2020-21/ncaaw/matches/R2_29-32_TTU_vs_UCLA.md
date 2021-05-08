@@ -40,11 +40,11 @@ Los Angeles, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UCLA*** - UCLA (96%) def. Texas Tech (4%)  
 - Slam: ***UCLA*** - #4 UCLA (94%) def. #34 Texas Tech (6%)  
 - TRN: ***UCLA*** - #7 UCLA (96%) def. #34 Texas Tech (4%)  
 - Massey: ***UCLA*** - #4 UCLA (97%) def. #28 Texas Tech (3%)  
 - Lineup: ***UCLA*** - UCLA (97%) def. Texas Tech (3%)  
-- Composite: ***UCLA*** - UCLA (96%) def. Texas Tech (4%)  
 - UTR: ***UCLA*** - #5 UCLA (+2.96) def. #27 Texas Tech (-2.96)  
 - ITA: ***UCLA*** - #4 UCLA def. #29 Texas Tech  
 - USTA Poll: ***UCLA*** - #4 UCLA def. Texas Tech  
@@ -61,66 +61,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lisa Mays (TTU) - 9-7 at #1, 10-7 in duals, 12-8 overall<br>Abbey Forbes (UCLA) - 17-2 at #1, 18-2 in duals, 18-2 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UCLA</i></b> - Forbes (95%) def. Mays (5%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Forbes (96%) def. Mays (4%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Forbes (98%) def. Mays (2%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Forbes (93%) def. Mays (7%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Forbes (91%) def. Mays (9%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Forbes (95%) def. Mays (5%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Forbes (46.46) def. Mays (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Margarita Skriabina (TTU) - 2-0 at #2, 16-1 in duals, 18-2 overall<br>Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UCLA</i></b> - Hart (77%) def. Skriabina (23%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Hart (90%) def. Skriabina (10%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Hart (87%) def. Skriabina (13%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Hart (60%) def. Skriabina (40%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Hart (70%) def. Skriabina (30%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Hart (77%) def. Skriabina (23%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Hart (12.21) def. Skriabina (6.63)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Kaitlin Staines (TTU) - 0-0 at #3, 6-9 in duals, 9-11 overall<br>Elysia Bolton (UCLA) - 5-2 at #3, 9-3 in duals, 9-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Bolton (86%) def. Staines (14%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bolton (91%) def. Staines (9%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. Bolton (4.20)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Nell Miller (TTU) - 11-4 at #4, 14-6 in duals, 16-10 overall<br>Vivian Wolff (UCLA) - 9-4 at #4, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Wolff (68%) def. Miller (32%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Wolff (75%) def. Miller (25%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Miller (2.66) def. Wolff (2.06)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Olivia Peet (TTU) - 9-6 at #5, 10-6 in duals, 12-6 overall<br>Sasha Vagramov (UCLA) - 5-3 at #5, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UCLA</i></b> - Vagramov (55%) def. Peet (45%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Vagramov (61%) def. Peet (39%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (72%) def. Peet (28%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Vagramov (51%) def. Peet (49%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Peet (63%) def. Vagramov (37%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Vagramov (55%) def. Peet (45%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Peet (2.03)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Metka Komac (TTU) - 9-4 at #6, 10-5 in duals, 12-6 overall<br>Vanessa Ong (UCLA) - 3-1 at #6, 4-1 in duals, 4-1 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UCLA</i></b> - Ong (74%) def. Komac (26%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Ong (63%) def. Komac (37%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Ong (77%) def. Komac (23%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Ong (64%) def. Komac (36%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Ong (93%) def. Komac (7%)</li>  
-<li>Composite: <b><i>UCLA</i></b> - Ong (74%) def. Komac (26%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Komac (1.98) def. Ong (1.95)</li>  
 </ul>
 </details>&nbsp;</li>

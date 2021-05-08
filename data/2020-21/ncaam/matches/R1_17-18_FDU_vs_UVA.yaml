@@ -36,11 +36,11 @@ Visitor:
     MAS: 64 (3.98)
     UTR: 64 (65.74)
 Predictions:
+  AVG: UVA - Virginia (99%) def. Fairleigh Dickinson (1%)
   SLM: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
   TRN: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
   MAS: "UVA - #3 Virginia (100%) def. #64 Fairleigh Dickinson (0%)"
   LNUP: UVA - Virginia (99%) def. Fairleigh Dickinson (1%)
-  AVG: UVA - Virginia (99%) def. Fairleigh Dickinson (1%)
   UTR: "UVA - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)"
   ITA: "UVA - #4 Virginia def. #62 Fairleigh Dickinson"
   USTA: "UVA - #1 Virginia def. Fairleigh Dickinson"
@@ -58,60 +58,60 @@ Lineups:
       UVA: Carl Soderlund - 12-2 at 1, 12-2 in duals, 12-2 overall
       FDU: Teodors Pukse - 4-3 at 1, 4-3 in duals, 4-3 overall
       Predictions:
+        AVG: FDU - Pukse (75%) def. Soderlund (25%)
         SLM: FDU - Pukse (100%) def. Soderlund (0%)
         TRN: FDU - Pukse (100%) def. Soderlund (0%)
         UTR: FDU - Pukse (100%) def. Soderlund (0%)
-        AVG: FDU - Pukse (75%) def. Soderlund (25%)
         ITA: UVA - Soderlund (48.38) def. Pukse (1.52)
     - Position: 2
       UVA: Jeffrey von der Schulenburg - 7-2 at 2, 16-4 in duals, 16-4 overall
       FDU: Andris Gudins - 2-3 at 2, 4-5 in duals, 4-5 overall
       Predictions:
+        AVG: UVA - Schulenburg (99%) def. Gudins (1%)
         SLM: UVA - Schulenburg (99%) def. Gudins (1%)
         TRN: UVA - Schulenburg (99%) def. Gudins (1%)
         MAS: UVA - Schulenburg (99%) def. Gudins (1%)
         UTR: UVA - Schulenburg (99%) def. Gudins (1%)
-        AVG: UVA - Schulenburg (99%) def. Gudins (1%)
         ITA: UVA - Schulenburg (18.39) def. Gudins (1.26)
     - Position: 3
       UVA: Chris Rodesch - 6-2 at 3, 14-6 in duals, 14-6 overall
       FDU: MacIej Autuch - 1-1 at 3, 5-4 in duals, 5-4 overall
       Predictions:
+        AVG: UVA - Rodesch (99%) def. Autuch (1%)
         SLM: UVA - Rodesch (99%) def. Autuch (1%)
         TRN: UVA - Rodesch (99%) def. Autuch (1%)
         MAS: UVA - Rodesch (99%) def. Autuch (1%)
         UTR: UVA - Rodesch (99%) def. Autuch (1%)
-        AVG: UVA - Rodesch (99%) def. Autuch (1%)
         ITA: UVA - Rodesch (3.82) def. Autuch (1.74)
     - Position: 4
       UVA: Inaki Montes de la Torre - 6-0 at 4, 15-4 in duals, 15-4 overall
       FDU: Arjun Sriram - 0-0 at 4, 1-1 in duals, 1-1 overall
       Predictions:
+        AVG: UVA - Torre (97%) def. Sriram (3%)
         SLM: UVA - Torre (100%) def. Sriram (0%)
         TRN: UVA - Torre (100%) def. Sriram (0%)
         MAS: UVA - Torre (90%) def. Sriram (10%)
         UTR: UVA - Torre (99%) def. Sriram (1%)
-        AVG: UVA - Torre (97%) def. Sriram (3%)
         ITA: UVA - Torre (12.34) def. Sriram (0.00)
     - Position: 5
       UVA: Ryan Goetz - 7-1 at 5, 16-5 in duals, 16-5 overall
       FDU: Moric Budinszky - 0-1 at 5, 2-4 in duals, 2-4 overall
       Predictions:
+        AVG: UVA - Goetz (99%) def. Budinszky (1%)
         SLM: UVA - Goetz (99%) def. Budinszky (1%)
         TRN: UVA - Goetz (99%) def. Budinszky (1%)
         MAS: UVA - Goetz (100%) def. Budinszky (0%)
         UTR: UVA - Goetz (99%) def. Budinszky (1%)
-        AVG: UVA - Goetz (99%) def. Budinszky (1%)
         ITA: UVA - Goetz (6.09) def. Budinszky (0.00)
     - Position: 6
       UVA: Gianni Ross - 7-3 at 6, 11-3 in duals, 11-3 overall
       FDU: Youssef Sader - 2-0 at 6, 5-4 in duals, 5-4 overall
       Predictions:
+        AVG: UVA - Ross (99%) def. Sader (1%)
         SLM: UVA - Ross (99%) def. Sader (1%)
         TRN: UVA - Ross (99%) def. Sader (1%)
         MAS: UVA - Ross (99%) def. Sader (1%)
         UTR: UVA - Ross (99%) def. Sader (1%)
-        AVG: UVA - Ross (99%) def. Sader (1%)
         ITA: UVA - Ross (2.67) def. Sader (1.68)
   Doubles:
     - Position: 1

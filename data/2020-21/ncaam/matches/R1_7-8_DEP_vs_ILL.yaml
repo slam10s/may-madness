@@ -36,11 +36,11 @@ Visitor:
     MAS: 54 (5.94)
     UTR: 60 (70.67)
 Predictions:
+  AVG: ILL - Illinois (99%) def. DePaul (1%)
   SLM: "ILL - #6 Illinois (99%) def. #55 DePaul (1%)"
   TRN: "ILL - #4 Illinois (99%) def. #55 DePaul (1%)"
   MAS: "ILL - #9 Illinois (99%) def. #54 DePaul (1%)"
   LNUP: ILL - Illinois (99%) def. DePaul (1%)
-  AVG: ILL - Illinois (99%) def. DePaul (1%)
   UTR: "ILL - #15 Illinois (+8.25) def. #60 DePaul (-8.25)"
   ITA: "ILL - #18 Illinois def. #55 DePaul"
   USTA: "ILL - #8 Illinois def. DePaul"
@@ -58,61 +58,61 @@ Lineups:
       ILL: Aleks Kovacevic - 10-1 at 1, 10-1 in duals, 10-1 overall
       DEP: Vito Tonejc - 11-5 at 1, 13-5 in duals, 13-5 overall
       Predictions:
+        AVG: ILL - Kovacevic (98%) def. Tonejc (2%)
         SLM: ILL - Kovacevic (98%) def. Tonejc (2%)
         TRN: ILL - Kovacevic (98%) def. Tonejc (2%)
         MAS: ILL - Kovacevic (98%) def. Tonejc (2%)
         UTR: ILL - Kovacevic (98%) def. Tonejc (2%)
-        AVG: ILL - Kovacevic (98%) def. Tonejc (2%)
         ITA: DEP - Tonejc (4.23) def. Kovacevic (4.00)
     - Position: 2
       ILL: Siphosothando Montsi - 7-2 at 2, 15-3 in duals, 15-3 overall
       DEP: Christopher Casati - 3-7 at 2, 8-12 in duals, 8-12 overall
       Predictions:
+        AVG: ILL - Montsi (99%) def. Casati (1%)
         SLM: ILL - Montsi (99%) def. Casati (1%)
         TRN: ILL - Montsi (99%) def. Casati (1%)
         MAS: ILL - Montsi (98%) def. Casati (2%)
         UTR: ILL - Montsi (98%) def. Casati (2%)
-        AVG: ILL - Montsi (99%) def. Casati (1%)
         ITA: ILL - Montsi (4.79) def. Casati (0.00)
     - Position: 3
       ILL: Alex Brown - 3-2 at 3, 8-9 in duals, 9-12 overall
       DEP: Boris Spanjaard - 8-4 at 3, 12-6 in duals, 12-6 overall
       Predictions:
+        AVG: ILL - Brown (94%) def. Spanjaard (6%)
         SLM: ILL - Brown (97%) def. Spanjaard (3%)
         TRN: ILL - Brown (97%) def. Spanjaard (3%)
         MAS: ILL - Brown (88%) def. Spanjaard (12%)
         UTR: ILL - Brown (92%) def. Spanjaard (8%)
-        AVG: ILL - Brown (94%) def. Spanjaard (6%)
         ITA: DEP - Spanjaard (2.02) def. Brown (1.47)
     - Position: 4
       ILL: Zeke Clark - 6-1 at 4, 16-1 in duals, 19-2 overall
       DEP: Tamas Zador - 1-1 at 4, 3-3 in duals, 3-3 overall
       Predictions:
+        AVG: ILL - Clark (98%) def. Zador (2%)
         SLM: ILL - Clark (98%) def. Zador (2%)
         TRN: ILL - Clark (99%) def. Zador (1%)
         MAS: ILL - Clark (99%) def. Zador (1%)
         UTR: ILL - Clark (96%) def. Zador (4%)
-        AVG: ILL - Clark (98%) def. Zador (2%)
         ITA: ILL - Clark (6.43) def. Zador (1.31)
     - Position: 5
       ILL: Hunter Heck - 9-4 at 5, 13-5 in duals, 16-6 overall
       DEP: Fran Tonejc - 1-3 at 5, 8-8 in duals, 8-8 overall
       Predictions:
+        AVG: ILL - Heck (97%) def. Tonejc (3%)
         SLM: ILL - Heck (98%) def. Tonejc (2%)
         TRN: ILL - Heck (99%) def. Tonejc (1%)
         MAS: ILL - Heck (95%) def. Tonejc (5%)
         UTR: ILL - Heck (96%) def. Tonejc (4%)
-        AVG: ILL - Heck (97%) def. Tonejc (3%)
         ITA: ILL - Heck (2.36) def. Tonejc (1.51)
     - Position: 6
       ILL: Noe Khlif - 5-0 at 6, 15-1 in duals, 15-1 overall
       DEP: Luuk Wassenaar - 3-2 at 6, 11-6 in duals, 11-6 overall
       Predictions:
+        AVG: ILL - Khlif (98%) def. Wassenaar (2%)
         SLM: ILL - Khlif (99%) def. Wassenaar (1%)
         TRN: ILL - Khlif (99%) def. Wassenaar (1%)
         MAS: ILL - Khlif (97%) def. Wassenaar (3%)
         UTR: ILL - Khlif (97%) def. Wassenaar (3%)
-        AVG: ILL - Khlif (98%) def. Wassenaar (2%)
         ITA: ILL - Khlif (3.59) def. Wassenaar (2.18)
   Doubles:
     - Position: 1

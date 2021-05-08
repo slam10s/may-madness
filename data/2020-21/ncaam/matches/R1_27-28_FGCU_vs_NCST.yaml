@@ -35,11 +35,11 @@ Visitor:
     MAS: 53 (6.42)
     UTR: 52 (73.58)
 Predictions:
+  AVG: NCST - NC State (97%) def. FGCU (3%)
   SLM: "NCST - #19 NC State (98%) def. #49 FGCU (2%)"
   TRN: "NCST - #22 NC State (98%) def. #50 FGCU (2%)"
   MAS: "NCST - #23 NC State (95%) def. #53 FGCU (5%)"
   LNUP: NCST - NC State (98%) def. FGCU (2%)
-  AVG: NCST - NC State (97%) def. FGCU (3%)
   UTR: "NCST - #22 NC State (+4.53) def. #52 FGCU (-4.53)"
   ITA: "NCST - #23 NC State def. #47 FGCU"
   USTA: "NCST - #25 NC State def. FGCU"
@@ -57,61 +57,61 @@ Lineups:
       NCST: Alexis Galarneau - 10-2 at 1, 10-2 in duals, 10-3 overall
       FGCU: Magnus Johnson - 9-3 at 1, 9-3 in duals, 9-3 overall
       Predictions:
+        AVG: NCST - Galarneau (87%) def. Johnson (13%)
         SLM: NCST - Galarneau (87%) def. Johnson (13%)
         TRN: NCST - Galarneau (85%) def. Johnson (15%)
         MAS: NCST - Galarneau (81%) def. Johnson (19%)
         UTR: NCST - Galarneau (93%) def. Johnson (7%)
-        AVG: NCST - Galarneau (87%) def. Johnson (13%)
         ITA: NCST - Galarneau (25.90) def. Johnson (7.86)
     - Position: 2
       NCST: Rafael Izquierdo Luque - 2-5 at 2, 7-8 in duals, 8-9 overall
       FGCU: Juan Montes - 7-4 at 2, 7-4 in duals, 7-4 overall
       Predictions:
+        AVG: NCST - Luque (77%) def. Montes (23%)
         SLM: NCST - Luque (75%) def. Montes (25%)
         TRN: NCST - Luque (75%) def. Montes (25%)
         MAS: NCST - Luque (72%) def. Montes (28%)
         UTR: NCST - Luque (86%) def. Montes (14%)
-        AVG: NCST - Luque (77%) def. Montes (23%)
         ITA: NCST - Luque (6.91) def. Montes (2.32)
     - Position: 3
       NCST: Tadas Babelis - 3-4 at 3, 5-9 in duals, 6-10 overall
       FGCU: Randy Wilson - 5-5 at 3, 6-7 in duals, 6-7 overall
       Predictions:
+        AVG: NCST - Babelis (84%) def. Wilson (16%)
         SLM: NCST - Babelis (85%) def. Wilson (15%)
         TRN: NCST - Babelis (84%) def. Wilson (16%)
         MAS: NCST - Babelis (76%) def. Wilson (24%)
         UTR: NCST - Babelis (89%) def. Wilson (11%)
-        AVG: NCST - Babelis (84%) def. Wilson (16%)
         ITA: NCST - Babelis (2.63) def. Wilson (1.63)
     - Position: 4
       NCST: Yannai Barkai - 3-4 at 4, 5-8 in duals, 7-8 overall
       FGCU: Felipe Ramirez - 1-1 at 4, 2-4 in duals, 2-4 overall
       Predictions:
+        AVG: NCST - Barkai (80%) def. Ramirez (20%)
         SLM: NCST - Barkai (78%) def. Ramirez (22%)
         TRN: NCST - Barkai (77%) def. Ramirez (23%)
         MAS: NCST - Barkai (80%) def. Ramirez (20%)
         UTR: NCST - Barkai (85%) def. Ramirez (15%)
-        AVG: NCST - Barkai (80%) def. Ramirez (20%)
         ITA: NCST - Barkai (2.33) def. Ramirez (0.00)
     - Position: 5
       NCST: Robin Catry - 4-0 at 5, 10-5 in duals, 10-6 overall
       FGCU: Guglielmo Stefanacci - 3-3 at 5, 8-5 in duals, 8-5 overall
       Predictions:
+        AVG: NCST - Catry (89%) def. Stefanacci (11%)
         SLM: NCST - Catry (95%) def. Stefanacci (5%)
         TRN: NCST - Catry (95%) def. Stefanacci (5%)
         MAS: NCST - Catry (78%) def. Stefanacci (22%)
         UTR: NCST - Catry (90%) def. Stefanacci (10%)
-        AVG: NCST - Catry (89%) def. Stefanacci (11%)
         ITA: NCST - Catry (3.10) def. Stefanacci (2.15)
     - Position: 6
       NCST: Robert Turzak - 0-0 at 6, 6-4 in duals, 7-5 overall
       FGCU: Alessandro Conca - 0-2 at 6, 3-9 in duals, 3-9 overall
       Predictions:
+        AVG: NCST - Turzak (90%) def. Conca (10%)
         SLM: NCST - Turzak (83%) def. Conca (17%)
         TRN: NCST - Turzak (89%) def. Conca (11%)
         MAS: NCST - Turzak (91%) def. Conca (9%)
         UTR: NCST - Turzak (95%) def. Conca (5%)
-        AVG: NCST - Turzak (90%) def. Conca (10%)
         ITA: NCST - Turzak (1.56) def. Conca (0.00)
   Doubles:
     - Position: 1

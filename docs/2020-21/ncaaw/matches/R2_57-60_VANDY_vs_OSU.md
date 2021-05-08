@@ -40,11 +40,11 @@ Columbus, Ohio
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***OSU*** - Ohio St. (86%) def. Vanderbilt (14%)  
 - Slam: ***OSU*** - #5 Ohio St. (91%) def. #29 Vanderbilt (9%)  
 - TRN: ***OSU*** - #5 Ohio St. (93%) def. #30 Vanderbilt (7%)  
 - Massey: ***OSU*** - #8 Ohio St. (81%) def. #31 Vanderbilt (19%)  
 - Lineup: ***OSU*** - Ohio St. (80%) def. Vanderbilt (20%)  
-- Composite: ***OSU*** - Ohio St. (86%) def. Vanderbilt (14%)  
 - UTR: ***OSU*** - #25 Ohio St. (+0.14) def. #28 Vanderbilt (-0.14)  
 - ITA: ***OSU*** - #18 Ohio St. def. #27 Vanderbilt  
 - USTA Poll: ***OSU*** - #6 Ohio St. def. Vanderbilt  
@@ -61,66 +61,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Christina Rosca (VANDY) - 3-5 at #1, 13-5 in duals, 13-5 overall<br>Irina Cantos Siemers (OSU) - 10-5 at #1, 15-5 in duals, 18-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>OSU</i></b> - Siemers (82%) def. Rosca (18%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Siemers (88%) def. Rosca (12%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Siemers (88%) def. Rosca (12%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Siemers (75%) def. Rosca (25%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Siemers (76%) def. Rosca (24%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Siemers (82%) def. Rosca (18%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Siemers (24.34) def. Rosca (14.48)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Emma Kurtz (VANDY) - 6-5 at #2, 8-10 in duals, 11-16 overall<br>Isabelle Boulais (OSU) - 6-3 at #2, 11-5 in duals, 11-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>OSU</i></b> - Boulais (70%) def. Kurtz (30%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Boulais (68%) def. Kurtz (32%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Boulais (68%) def. Kurtz (32%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Boulais (84%) def. Kurtz (16%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Boulais (59%) def. Kurtz (41%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Boulais (70%) def. Kurtz (30%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Kurtz (3.05) def. Boulais (2.65)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Anessa Lee (VANDY) - 3-1 at #3, 11-5 in duals, 16-8 overall<br>Kolie Allen (OSU) - 7-3 at #3, 10-9 in duals, 10-12 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>VANDY</i></b> - Lee (67%) def. Allen (33%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Lee (53%) def. Allen (47%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Lee (76%) def. Allen (24%)</li>  
 <li>Massey: <b><i>VANDY</i></b> - Lee (61%) def. Allen (39%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Lee (81%) def. Allen (19%)</li>  
-<li>Composite: <b><i>VANDY</i></b> - Lee (67%) def. Allen (33%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Lee (2.64) def. Allen (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Anna Ross (VANDY) - 0-1 at #4, 8-9 in duals, 8-10 overall<br>Lisa Hofbauer (OSU) - 7-2 at #4, 12-6 in duals, 13-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>OSU</i></b> - Hofbauer (55%) def. Ross (45%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Hofbauer (59%) def. Ross (41%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Hofbauer (60%) def. Ross (40%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Hofbauer (61%) def. Ross (39%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Ross (61%) def. Hofbauer (39%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Hofbauer (55%) def. Ross (45%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Hofbauer (2.47) def. Ross (2.20)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Marcella Cruz (VANDY) - 4-2 at #5, 13-4 in duals, 16-9 overall<br>Lucia Marzal (OSU) - 10-2 at #5, 19-2 in duals, 21-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>OSU</i></b> - Marzal (64%) def. Cruz (36%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Marzal (69%) def. Cruz (31%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Marzal (66%) def. Cruz (34%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Marzal (61%) def. Cruz (39%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Marzal (61%) def. Cruz (39%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Marzal (64%) def. Cruz (36%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Marzal (3.08) def. Cruz (2.13)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Holly Staff (VANDY) - 0-0 at #6, 9-9 in duals, 14-12 overall<br>Luna Dormet (OSU) - 9-1 at #6, 17-1 in duals, 19-1 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>OSU</i></b> - Dormet (66%) def. Staff (34%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Dormet (57%) def. Staff (43%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Dormet (63%) def. Staff (37%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Dormet (72%) def. Staff (28%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Dormet (70%) def. Staff (30%)</li>  
-<li>Composite: <b><i>OSU</i></b> - Dormet (66%) def. Staff (34%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Dormet (3.78) def. Staff (1.75)</li>  
 </ul>
 </details>&nbsp;</li>

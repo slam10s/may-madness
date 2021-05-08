@@ -39,11 +39,11 @@ Visitor:
     USTA: 24
     Coach: 30
 Predictions:
+  AVG: USC - Southern California (91%) def. Pepperdine (9%)
   SLM: "USC - #14 Southern California (89%) def. #34 Pepperdine (11%)"
   TRN: "USC - #16 Southern California (87%) def. #30 Pepperdine (13%)"
   MAS: "USC - #8 Southern California (90%) def. #22 Pepperdine (10%)"
   LNUP: USC - Southern California (98%) def. Pepperdine (2%)
-  AVG: USC - Southern California (91%) def. Pepperdine (9%)
   UTR: "USC - #2 Southern California (+2.70) def. #26 Pepperdine (-2.70)"
   ITA: "USC - #12 Southern California def. #28 Pepperdine"
   USTA: "USC - #13 Southern California def. #24 Pepperdine"
@@ -61,61 +61,61 @@ Lineups:
       USC: Daniel Cukierman - 12-5 at 1, 12-5 in duals, 14-5 overall
       PEPP: Adrian Oetzbach - 7-7 at 1, 7-8 in duals, 8-9 overall
       Predictions:
+        AVG: USC - Cukierman (93%) def. Oetzbach (7%)
         SLM: USC - Cukierman (91%) def. Oetzbach (9%)
         TRN: USC - Cukierman (94%) def. Oetzbach (6%)
         MAS: USC - Cukierman (92%) def. Oetzbach (8%)
         UTR: USC - Cukierman (93%) def. Oetzbach (7%)
-        AVG: USC - Cukierman (93%) def. Oetzbach (7%)
         ITA: USC - Cukierman (16.39) def. Oetzbach (5.20)
     - Position: 2
       USC: Riley Smith - 9-5 at 2, 13-5 in duals, 15-5 overall
       PEPP: Guy Den Ouden - 10-4 at 2, 15-5 in duals, 15-5 overall
       Predictions:
+        AVG: USC - Smith (71%) def. Ouden (29%)
         SLM: USC - Smith (75%) def. Ouden (25%)
         TRN: USC - Smith (75%) def. Ouden (25%)
         MAS: USC - Smith (65%) def. Ouden (35%)
         UTR: USC - Smith (70%) def. Ouden (30%)
-        AVG: USC - Smith (71%) def. Ouden (29%)
         ITA: USC - Smith (15.48) def. Ouden (2.60)
     - Position: 3
       USC: Stefan Dostanic - 12-3 at 3, 16-3 in duals, 18-3 overall
       PEPP: Daniel DeJonge - 5-4 at 3, 10-4 in duals, 11-5 overall
       Predictions:
+        AVG: USC - Dostanic (76%) def. DeJonge (24%)
         SLM: USC - Dostanic (74%) def. DeJonge (26%)
         TRN: USC - Dostanic (81%) def. DeJonge (19%)
         MAS: USC - Dostanic (68%) def. DeJonge (32%)
         UTR: USC - Dostanic (80%) def. DeJonge (20%)
-        AVG: USC - Dostanic (76%) def. DeJonge (24%)
         ITA: USC - Dostanic (5.43) def. DeJonge (3.53)
     - Position: 4
       USC: Bradley Frye - 9-2 at 4, 15-4 in duals, 17-4 overall
       PEPP: Tim Zeitvogel - 4-0 at 4, 7-0 in duals, 7-0 overall
       Predictions:
+        AVG: USC - Frye (79%) def. Zeitvogel (21%)
         SLM: USC - Frye (78%) def. Zeitvogel (22%)
         TRN: USC - Frye (83%) def. Zeitvogel (17%)
         MAS: USC - Frye (70%) def. Zeitvogel (30%)
         UTR: USC - Frye (82%) def. Zeitvogel (18%)
-        AVG: USC - Frye (79%) def. Zeitvogel (21%)
         ITA: PEPP - Zeitvogel (4.17) def. Frye (2.44)
     - Position: 5
       USC: Lodewijk Weststrate - 9-3 at 5, 21-4 in duals, 23-4 overall
       PEPP: Corrado Summaria - 3-0 at 5, 8-5 in duals, 8-6 overall
       Predictions:
+        AVG: USC - Weststrate (87%) def. Summaria (13%)
         SLM: USC - Weststrate (83%) def. Summaria (17%)
         TRN: USC - Weststrate (91%) def. Summaria (9%)
         MAS: USC - Weststrate (83%) def. Summaria (17%)
         UTR: USC - Weststrate (91%) def. Summaria (9%)
-        AVG: USC - Weststrate (87%) def. Summaria (13%)
         ITA: USC - Weststrate (2.93) def. Summaria (1.59)
     - Position: 6
       USC: Jake Sands - 8-3 at 6, 14-4 in duals, 14-4 overall
       PEPP: Pietro Fellin - 8-0 at 6, 8-3 in duals, 8-5 overall
       Predictions:
+        AVG: USC - Sands (80%) def. Fellin (20%)
         SLM: USC - Sands (79%) def. Fellin (21%)
         TRN: USC - Sands (87%) def. Fellin (13%)
         MAS: USC - Sands (78%) def. Fellin (22%)
         UTR: USC - Sands (77%) def. Fellin (23%)
-        AVG: USC - Sands (80%) def. Fellin (20%)
         ITA: USC - Sands (2.42) def. Fellin (2.12)
   Doubles:
     - Position: 1

@@ -35,11 +35,11 @@ Visitor:
     MAS: 47 (6.44)
     UTR: 44 (58.45)
 Predictions:
+  AVG: MISS - Ole Miss (93%) def. North Florida (7%)
   SLM: "MISS - #26 Ole Miss (93%) def. #46 North Florida (7%)"
   TRN: "MISS - #26 Ole Miss (96%) def. #46 North Florida (4%)"
   MAS: "MISS - #29 Ole Miss (85%) def. #47 North Florida (15%)"
   LNUP: MISS - Ole Miss (98%) def. North Florida (2%)
-  AVG: MISS - Ole Miss (93%) def. North Florida (7%)
   UTR: "MISS - #20 Ole Miss (+3.30) def. #44 North Florida (-3.30)"
   ITA: "MISS - #25 Ole Miss def. #48 North Florida"
   Coach: "MISS - #25 Ole Miss def. North Florida"
@@ -56,61 +56,61 @@ Lineups:
       MISS: Sabina Machalova - 5-8 at 1, 8-8 in duals, 15-8 overall
       UNF: Lucia Montano - 14-8 at 1, 14-8 in duals, 14-8 overall
       Predictions:
+        AVG: MISS - Machalova (81%) def. Montano (19%)
         SLM: MISS - Machalova (74%) def. Montano (26%)
         TRN: MISS - Machalova (87%) def. Montano (13%)
         MAS: MISS - Machalova (73%) def. Montano (27%)
         UTR: MISS - Machalova (91%) def. Montano (9%)
-        AVG: MISS - Machalova (81%) def. Montano (19%)
         ITA: MISS - Machalova (19.63) def. Montano (2.10)
     - Position: 2
       MISS: Tiphanie Fiquet - 8-4 at 2, 9-5 in duals, 14-8 overall
       UNF: Catherine Gulihur - 17-3 at 2, 18-3 in duals, 18-3 overall
       Predictions:
+        AVG: MISS - Fiquet (64%) def. Gulihur (36%)
         SLM: MISS - Fiquet (67%) def. Gulihur (33%)
         TRN: MISS - Fiquet (68%) def. Gulihur (32%)
         MAS: UNF - Gulihur (51%) def. Fiquet (49%)
         UTR: MISS - Fiquet (74%) def. Gulihur (26%)
-        AVG: MISS - Fiquet (64%) def. Gulihur (36%)
         ITA: MISS - Fiquet (6.49) def. Gulihur (3.92)
     - Position: 3
       MISS: Tereza Janatova - 9-3 at 3, 10-3 in duals, 11-3 overall
       UNF: Constanza Gorches - 4-3 at 3, 13-9 in duals, 13-9 overall
       Predictions:
+        AVG: MISS - Janatova (90%) def. Gorches (10%)
         SLM: MISS - Janatova (93%) def. Gorches (7%)
         TRN: MISS - Janatova (95%) def. Gorches (5%)
         MAS: MISS - Janatova (80%) def. Gorches (20%)
         UTR: MISS - Janatova (92%) def. Gorches (8%)
-        AVG: MISS - Janatova (90%) def. Gorches (10%)
         ITA: MISS - Janatova (4.99) def. Gorches (1.63)
     - Position: 4
       MISS: Anna Vrbenska - 9-4 at 4, 9-4 in duals, 8-4 overall
       UNF: Summer Yardley - 3-3 at 4, 11-9 in duals, 11-9 overall
       Predictions:
+        AVG: MISS - Vrbenska (94%) def. Yardley (6%)
         SLM: MISS - Vrbenska (95%) def. Yardley (5%)
         TRN: MISS - Vrbenska (95%) def. Yardley (5%)
         MAS: MISS - Vrbenska (93%) def. Yardley (7%)
         UTR: MISS - Vrbenska (94%) def. Yardley (6%)
-        AVG: MISS - Vrbenska (94%) def. Yardley (6%)
         ITA: MISS - Vrbenska (2.42) def. Yardley (1.55)
     - Position: 5
       MISS: Reka Zadori - 4-1 at 5, 9-3 in duals, 12-9 overall
       UNF: Annabelle Davis - 6-0 at 5, 10-1 in duals, 10-1 overall
       Predictions:
+        AVG: MISS - Zadori (75%) def. Davis (25%)
         SLM: MISS - Zadori (82%) def. Davis (18%)
         TRN: MISS - Zadori (73%) def. Davis (27%)
         MAS: UNF - Davis (45%) def. Zadori (55%)
         UTR: MISS - Zadori (88%) def. Davis (12%)
-        AVG: MISS - Zadori (75%) def. Davis (25%)
         ITA: UNF - Davis (3.59) def. Zadori (1.55)
     - Position: 6
       MISS: Lillian Gabrielsen - 2-1 at 6, 5-3 in duals, 8-8 overall
       UNF: Valentina Mariotto - 3-1 at 6, 8-7 in duals, 8-7 overall
       Predictions:
+        AVG: MISS - Gabrielsen (91%) def. Mariotto (9%)
         SLM: MISS - Gabrielsen (93%) def. Mariotto (7%)
         TRN: MISS - Gabrielsen (95%) def. Mariotto (5%)
         MAS: MISS - Gabrielsen (81%) def. Mariotto (19%)
         UTR: MISS - Gabrielsen (94%) def. Mariotto (6%)
-        AVG: MISS - Gabrielsen (91%) def. Mariotto (9%)
         ITA: UNF - Mariotto (1.74) def. Gabrielsen (1.53)
   Doubles:
     - Position: 1

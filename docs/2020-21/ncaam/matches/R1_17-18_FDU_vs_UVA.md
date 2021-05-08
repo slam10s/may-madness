@@ -39,11 +39,11 @@ Charlottesville, Virginia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UVA*** - Virginia (99%) def. Fairleigh Dickinson (1%)  
 - Slam: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - TRN: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
 - Massey: ***UVA*** - #3 Virginia (100%) def. #64 Fairleigh Dickinson (0%)  
 - Lineup: ***UVA*** - Virginia (99%) def. Fairleigh Dickinson (1%)  
-- Composite: ***UVA*** - Virginia (99%) def. Fairleigh Dickinson (1%)  
 - UTR: ***UVA*** - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)  
 - ITA: ***UVA*** - #4 Virginia def. #62 Fairleigh Dickinson  
 - USTA Poll: ***UVA*** - #1 Virginia def. Fairleigh Dickinson  
@@ -60,65 +60,65 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Teodors Pukse (FDU) - 4-3 at #1, 4-3 in duals, 4-3 overall<br>Carl Soderlund (UVA) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FDU</i></b> - Pukse (75%) def. Soderlund (25%)</li>  
 <li>Slam: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>TRN: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
 <li>UTR: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
-<li>Composite: <b><i>FDU</i></b> - Pukse (75%) def. Soderlund (25%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Soderlund (48.38) def. Pukse (1.52)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Andris Gudins (FDU) - 2-3 at #2, 4-5 in duals, 4-5 overall<br>Jeffrey von der Schulenburg (UVA) - 7-2 at #2, 16-4 in duals, 16-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Schulenburg (99%) def. Gudins (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Schulenburg (18.39) def. Gudins (1.26)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">MacIej Autuch (FDU) - 1-1 at #3, 5-4 in duals, 5-4 overall<br>Chris Rodesch (UVA) - 6-2 at #3, 14-6 in duals, 14-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Rodesch (3.82) def. Autuch (1.74)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Arjun Sriram (FDU) - 0-0 at #4, 1-1 in duals, 1-1 overall<br>Inaki Montes de la Torre (UVA) - 6-0 at #4, 15-4 in duals, 15-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UVA</i></b> - Torre (97%) def. Sriram (3%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Torre (100%) def. Sriram (0%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Torre (100%) def. Sriram (0%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Torre (90%) def. Sriram (10%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Torre (99%) def. Sriram (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Torre (97%) def. Sriram (3%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Torre (12.34) def. Sriram (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Moric Budinszky (FDU) - 0-1 at #5, 2-4 in duals, 2-4 overall<br>Ryan Goetz (UVA) - 7-1 at #5, 16-5 in duals, 16-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Goetz (100%) def. Budinszky (0%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Goetz (6.09) def. Budinszky (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Youssef Sader (FDU) - 2-0 at #6, 5-4 in duals, 5-4 overall<br>Gianni Ross (UVA) - 7-3 at #6, 11-3 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
-<li>Composite: <b><i>UVA</i></b> - Ross (99%) def. Sader (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Ross (2.67) def. Sader (1.68)</li>  
 </ul>
 </details>&nbsp;</li>

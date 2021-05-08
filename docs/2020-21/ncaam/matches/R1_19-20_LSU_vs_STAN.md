@@ -40,11 +40,11 @@ Charlottesville, Virginia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***STAN*** - Stanford (86%) def. LSU (14%)  
 - Slam: ***STAN*** - #22 Stanford (74%) def. #38 LSU (26%)  
 - TRN: ***STAN*** - #21 Stanford (77%) def. #39 LSU (23%)  
 - Massey: ***STAN*** - #20 Stanford (94%) def. #47 LSU (6%)  
 - Lineup: ***STAN*** - Stanford (98%) def. LSU (2%)  
-- Composite: ***STAN*** - Stanford (86%) def. LSU (14%)  
 - UTR: ***STAN*** - #5 Stanford (+4.64) def. #42 LSU (-4.64)  
 - ITA: ***STAN*** - #21 Stanford def. #40 LSU  
 - USTA Poll: ***STAN*** - #20 Stanford def. LSU  
@@ -61,66 +61,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ronald Hohmann (LSU) - 10-9 at #1, 10-9 in duals, 13-12 overall<br>Axel Geller (STAN) - 5-6 at #1, 6-6 in duals, 6-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>STAN</i></b> - Geller (76%) def. Hohmann (24%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Geller (70%) def. Hohmann (30%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Geller (80%) def. Hohmann (20%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Geller (72%) def. Hohmann (28%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Geller (80%) def. Hohmann (20%)</li>  
-<li>Composite: <b><i>STAN</i></b> - Geller (76%) def. Hohmann (24%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Hohmann (23.83) def. Geller (6.21)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Rafael Wagner (LSU) - 5-9 at #2, 7-9 in duals, 11-13 overall<br>Arthur Fery (STAN) - 6-2 at #2, 11-3 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>STAN</i></b> - Fery (90%) def. Wagner (10%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Fery (86%) def. Wagner (14%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Fery (92%) def. Wagner (8%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Fery (87%) def. Wagner (13%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Fery (94%) def. Wagner (6%)</li>  
-<li>Composite: <b><i>STAN</i></b> - Fery (90%) def. Wagner (10%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Fery (8.87) def. Wagner (6.22)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Joao Graca (LSU) - 0-4 at #3, 5-10 in duals, 5-10 overall<br>Tristan Boyer (STAN) - 1-1 at #3, 8-5 in duals, 8-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>STAN</i></b> - Boyer (88%) def. Graca (12%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Boyer (86%) def. Graca (14%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Boyer (87%) def. Graca (13%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Boyer (87%) def. Graca (13%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Boyer (93%) def. Graca (7%)</li>  
-<li>Composite: <b><i>STAN</i></b> - Boyer (88%) def. Graca (12%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Boyer (2.12) def. Graca (1.37)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Boris Kozlov (LSU) - 5-4 at #4, 10-6 in duals, 13-11 overall<br>Alex Rotsaert (STAN) - 0-0 at #4, 4-6 in duals, 4-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>STAN</i></b> - Rotsaert (82%) def. Kozlov (18%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Rotsaert (88%) def. Kozlov (12%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Rotsaert (83%) def. Kozlov (17%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Rotsaert (74%) def. Kozlov (26%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Rotsaert (83%) def. Kozlov (17%)</li>  
-<li>Composite: <b><i>STAN</i></b> - Rotsaert (82%) def. Kozlov (18%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Rotsaert (1.37) def. Kozlov (1.32)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Benjamin Ambrosio (LSU) - 1-3 at #5, 9-6 in duals, 9-6 overall<br>Timothy Sah (STAN) - 6-3 at #5, 8-4 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>STAN</i></b> - Sah (83%) def. Ambrosio (17%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Sah (85%) def. Ambrosio (15%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Sah (82%) def. Ambrosio (18%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Sah (76%) def. Ambrosio (24%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Sah (90%) def. Ambrosio (10%)</li>  
-<li>Composite: <b><i>STAN</i></b> - Sah (83%) def. Ambrosio (17%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Sah (2.32) def. Ambrosio (1.97)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ben Koch (LSU) - 2-1 at #6, 4-2 in duals, 8-6 overall<br>William Genesen (STAN) - 3-2 at #6, 5-3 in duals, 5-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>STAN</i></b> - Genesen (73%) def. Koch (27%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Genesen (71%) def. Koch (29%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Genesen (78%) def. Koch (22%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Genesen (66%) def. Koch (34%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Genesen (79%) def. Koch (21%)</li>  
-<li>Composite: <b><i>STAN</i></b> - Genesen (73%) def. Koch (27%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Genesen (1.81) def. Koch (1.76)</li>  
 </ul>
 </details>&nbsp;</li>

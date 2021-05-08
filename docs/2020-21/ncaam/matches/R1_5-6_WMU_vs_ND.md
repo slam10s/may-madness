@@ -43,11 +43,11 @@ Urbana, Illinois
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***ND*** - Notre Dame (77%) def. Western Mich. (23%)  
 - Slam: ***ND*** - #40 Notre Dame (77%) def. #47 Western Mich. (23%)  
 - TRN: ***ND*** - #42 Notre Dame (62%) def. #46 Western Mich. (38%)  
 - Massey: ***ND*** - #36 Notre Dame (77%) def. #45 Western Mich. (23%)  
 - Lineup: ***ND*** - Notre Dame (95%) def. Western Mich. (5%)  
-- Composite: ***ND*** - Notre Dame (77%) def. Western Mich. (23%)  
 - UTR: ***ND*** - #38 Notre Dame (+3.43) def. #53 Western Mich. (-3.43)  
 - ITA: ***ND*** - #34 Notre Dame def. #41 Western Mich.  
 - USTA Poll: ***WMU*** - RV Western Mich. def. Notre Dame  
@@ -64,66 +64,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jannik Opitz (WMU) - 20-2 at #1, 20-2 in duals, 20-2 overall<br>Axel Nefve (ND) - 13-2 at #1, 18-3 in duals, 18-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>ND</i></b> - Nefve (86%) def. Opitz (14%)</li>  
 <li>Slam: <b><i>ND</i></b> - Nefve (82%) def. Opitz (18%)</li>  
 <li>TRN: <b><i>ND</i></b> - Nefve (84%) def. Opitz (16%)</li>  
 <li>Massey: <b><i>ND</i></b> - Nefve (85%) def. Opitz (15%)</li>  
 <li>UTR: <b><i>ND</i></b> - Nefve (92%) def. Opitz (8%)</li>  
-<li>Composite: <b><i>ND</i></b> - Nefve (86%) def. Opitz (14%)</li>  
 <li>ITA: <b><i>ND</i></b> - Nefve (21.49) def. Opitz (3.71)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Peter Kuszynski (WMU) - 15-2 at #2, 18-2 in duals, 18-2 overall<br>Richard Ciamarra (ND) - 9-4 at #2, 14-7 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>ND</i></b> - Ciamarra (84%) def. Kuszynski (16%)</li>  
 <li>Slam: <b><i>ND</i></b> - Ciamarra (89%) def. Kuszynski (11%)</li>  
 <li>TRN: <b><i>ND</i></b> - Ciamarra (82%) def. Kuszynski (18%)</li>  
 <li>Massey: <b><i>ND</i></b> - Ciamarra (75%) def. Kuszynski (25%)</li>  
 <li>UTR: <b><i>ND</i></b> - Ciamarra (91%) def. Kuszynski (9%)</li>  
-<li>Composite: <b><i>ND</i></b> - Ciamarra (84%) def. Kuszynski (16%)</li>  
 <li>ITA: <b><i>ND</i></b> - Ciamarra (8.18) def. Kuszynski (3.15)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Fynn Lohse (WMU) - 7-4 at #3, 16-5 in duals, 16-5 overall<br>Tristan McCormick (ND) - 8-5 at #3, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>ND</i></b> - McCormick (86%) def. Lohse (14%)</li>  
 <li>Slam: <b><i>ND</i></b> - McCormick (88%) def. Lohse (12%)</li>  
 <li>TRN: <b><i>ND</i></b> - McCormick (88%) def. Lohse (12%)</li>  
 <li>Massey: <b><i>ND</i></b> - McCormick (77%) def. Lohse (23%)</li>  
 <li>UTR: <b><i>ND</i></b> - McCormick (91%) def. Lohse (9%)</li>  
-<li>Composite: <b><i>ND</i></b> - McCormick (86%) def. Lohse (14%)</li>  
 <li>ITA: <b><i>ND</i></b> - McCormick (3.76) def. Lohse (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Jackson Boone (WMU) - 5-3 at #4, 13-6 in duals, 13-6 overall<br>William Howells (ND) - 0-0 at #4, 2-1 in duals, 2-1 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>WMU</i></b> - Boone (97%) def. Howells (3%)</li>  
 <li>Slam: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
 <li>TRN: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
 <li>Massey: <b><i>WMU</i></b> - Boone (90%) def. Howells (10%)</li>  
 <li>UTR: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
-<li>Composite: <b><i>WMU</i></b> - Boone (97%) def. Howells (3%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Boone (1.91) def. Howells (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Arjun Honnappa (WMU) - 11-3 at #5, 17-3 in duals, 17-3 overall<br>Matthew Che (ND) - 0-1 at #5, 6-12 in duals, 6-12 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>ND</i></b> - Che (68%) def. Honnappa (32%)</li>  
 <li>Slam: <b><i>ND</i></b> - Che (80%) def. Honnappa (20%)</li>  
 <li>TRN: <b><i>ND</i></b> - Che (65%) def. Honnappa (35%)</li>  
 <li>Massey: <b><i>WMU</i></b> - Honnappa (49%) def. Che (51%)</li>  
 <li>UTR: <b><i>ND</i></b> - Che (78%) def. Honnappa (22%)</li>  
-<li>Composite: <b><i>ND</i></b> - Che (68%) def. Honnappa (32%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Honnappa (2.67) def. Che (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ben George (WMU) - 8-0 at #6, 11-0 in duals, 11-0 overall<br>Connor Fu (ND) - 0-1 at #6, 12-9 in duals, 12-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>ND</i></b> - Fu (82%) def. George (18%)</li>  
 <li>Slam: <b><i>ND</i></b> - Fu (89%) def. George (11%)</li>  
 <li>TRN: <b><i>ND</i></b> - Fu (86%) def. George (14%)</li>  
 <li>Massey: <b><i>ND</i></b> - Fu (69%) def. George (31%)</li>  
 <li>UTR: <b><i>ND</i></b> - Fu (86%) def. George (14%)</li>  
-<li>Composite: <b><i>ND</i></b> - Fu (82%) def. George (18%)</li>  
 <li>ITA: <b><i>WMU</i></b> - George (4.11) def. Fu (1.57)</li>  
 </ul>
 </details>&nbsp;</li>

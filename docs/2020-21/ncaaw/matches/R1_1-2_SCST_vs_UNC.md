@@ -41,11 +41,11 @@ Chapel Hill, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #62 South Carolina St. (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #61 South Carolina St. (1%)  
 - Massey: ***UNC*** - #1 North Carolina (100%) def. #62 South Carolina St. (0%)  
 - Lineup: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
-- Composite: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - UTR: ***UNC*** - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)  
 - ITA: ***UNC*** - #1 North Carolina def. South Carolina St.  
 - USTA Poll: ***UNC*** - #1 North Carolina def. South Carolina St.  
@@ -62,66 +62,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Rachida Berjane (SCST) - 6-2 at #1, 6-2 in duals, 6-2 overall<br>Sara Daavettila (UNC) - 10-1 at #1, 15-1 in duals, 15-1 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Daavettila (64.17) def. Berjane (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Hind Semlali (SCST) - 6-3 at #2, 6-3 in duals, 6-3 overall<br>Alexa Graham (UNC) - 5-0 at #2, 11-2 in duals, 16-2 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Graham (15.03) def. Semlali (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Andjela Mihajilovic (SCST) - 2-6 at #3, 2-6 in duals, 2-6 overall<br>Cameron Morra (UNC) - 6-2 at #3, 15-6 in duals, 15-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Morra (20.00) def. Mihajilovic (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Lasya Patnaik (SCST) - 6-3 at #4, 6-3 in duals, 6-3 overall<br>Elizabeth Scotty (UNC) - 6-1 at #4, 11-2 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Scotty (99%) def. Patnaik (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Scotty (5.93) def. Patnaik (2.21)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ikram Rassif (SCST) - 4-3 at #5, 4-3 in duals, 4-3 overall<br>Makenna Jones (UNC) - 1-2 at #5, 13-2 in duals, 15-2 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Jones (99%) def. Rassif (1%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Jones (18.39) def. Rassif (1.48)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Anabel Aguilar (SCST) - 3-1 at #6, 3-1 in duals, 3-1 overall<br>Fiona Crawley (UNC) - 3-0 at #6, 23-0 in duals, 25-0 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UNC</i></b> - Crawley (97%) def. Aguilar (3%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Crawley (100%) def. Aguilar (0%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Crawley (100%) def. Aguilar (0%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Crawley (90%) def. Aguilar (10%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Crawley (99%) def. Aguilar (1%)</li>  
-<li>Composite: <b><i>UNC</i></b> - Crawley (97%) def. Aguilar (3%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Crawley (16.89) def. Aguilar (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

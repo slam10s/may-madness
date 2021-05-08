@@ -36,11 +36,11 @@ Visitor:
     MAS: 58 (5.69)
     UTR: 54 (71.52)
 Predictions:
+  AVG: BAY - Baylor (99%) def. A&M-Corpus Christi (1%)
   SLM: "BAY - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)"
   TRN: "BAY - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)"
   MAS: "BAY - #5 Baylor (99%) def. #58 A&M-Corpus Christi (1%)"
   LNUP: BAY - Baylor (99%) def. A&M-Corpus Christi (1%)
-  AVG: BAY - Baylor (99%) def. A&M-Corpus Christi (1%)
   UTR: "BAY - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)"
   ITA: "BAY - #1 Baylor def. #60 A&M-Corpus Christi"
   USTA: "BAY - #3 Baylor def. A&M-Corpus Christi"
@@ -58,61 +58,61 @@ Lineups:
       BAY: Adrian Boitan - 14-4 at 1, 15-5 in duals, 15-5 overall
       TAMCC: Kyohei Yamanaka - 10-7 at 1, 10-7 in duals, 11-9 overall
       Predictions:
+        AVG: BAY - Boitan (98%) def. Yamanaka (2%)
         SLM: BAY - Boitan (98%) def. Yamanaka (2%)
         TRN: BAY - Boitan (99%) def. Yamanaka (1%)
         MAS: BAY - Boitan (98%) def. Yamanaka (2%)
         UTR: BAY - Boitan (97%) def. Yamanaka (3%)
-        AVG: BAY - Boitan (98%) def. Yamanaka (2%)
         ITA: BAY - Boitan (31.04) def. Yamanaka (1.61)
     - Position: 2
       BAY: Matias Soto - 12-3 at 2, 14-4 in duals, 18-4 overall
       TAMCC: Ryuya Ata - 7-4 at 2, 8-8 in duals, 9-8 overall
       Predictions:
+        AVG: BAY - Soto (99%) def. Ata (1%)
         SLM: BAY - Soto (99%) def. Ata (1%)
         TRN: BAY - Soto (99%) def. Ata (1%)
         MAS: BAY - Soto (99%) def. Ata (1%)
         UTR: BAY - Soto (98%) def. Ata (2%)
-        AVG: BAY - Soto (99%) def. Ata (1%)
         ITA: BAY - Soto (41.70) def. Ata (1.70)
     - Position: 3
       BAY: Sven Lah - 6-7 at 3, 9-9 in duals, 11-12 overall
       TAMCC: Nathan Schwartz - 7-4 at 3, 13-4 in duals, 15-5 overall
       Predictions:
+        AVG: BAY - Lah (93%) def. Schwartz (7%)
         SLM: BAY - Lah (95%) def. Schwartz (5%)
         TRN: BAY - Lah (96%) def. Schwartz (4%)
         MAS: BAY - Lah (87%) def. Schwartz (13%)
         UTR: BAY - Lah (94%) def. Schwartz (6%)
-        AVG: BAY - Lah (93%) def. Schwartz (7%)
         ITA: BAY - Lah (4.25) def. Schwartz (2.22)
     - Position: 4
       BAY: Nick Stachowiak - 8-2 at 4, 12-5 in duals, 19-7 overall
       TAMCC: Pascal Loriel - 10-0 at 4, 15-0 in duals, 17-1 overall
       Predictions:
+        AVG: BAY - Stachowiak (95%) def. Loriel (5%)
         SLM: BAY - Stachowiak (96%) def. Loriel (4%)
         TRN: BAY - Stachowiak (97%) def. Loriel (3%)
         MAS: BAY - Stachowiak (92%) def. Loriel (8%)
         UTR: BAY - Stachowiak (95%) def. Loriel (5%)
-        AVG: BAY - Stachowiak (95%) def. Loriel (5%)
         ITA: TAMCC - Loriel (3.69) def. Stachowiak (3.38)
     - Position: 5
       BAY: Charlie Broom - 17-2 at 5, 21-3 in duals, 24-6 overall
       TAMCC: Borja Delgado - 4-0 at 5, 14-1 in duals, 14-1 overall
       Predictions:
+        AVG: BAY - Broom (99%) def. Delgado (1%)
         SLM: BAY - Broom (99%) def. Delgado (1%)
         TRN: BAY - Broom (99%) def. Delgado (1%)
         MAS: BAY - Broom (97%) def. Delgado (3%)
         UTR: BAY - Broom (99%) def. Delgado (1%)
-        AVG: BAY - Broom (99%) def. Delgado (1%)
         ITA: BAY - Broom (3.72) def. Delgado (3.54)
     - Position: 6
       BAY: Spencer Furman - 11-2 at 6, 18-2 in duals, 21-3 overall
       TAMCC: Guillermo Castaneda - 4-1 at 6, 10-1 in duals, 10-1 overall
       Predictions:
+        AVG: BAY - Furman (98%) def. Castaneda (2%)
         SLM: BAY - Furman (99%) def. Castaneda (1%)
         TRN: BAY - Furman (99%) def. Castaneda (1%)
         MAS: BAY - Furman (99%) def. Castaneda (1%)
         UTR: BAY - Furman (94%) def. Castaneda (6%)
-        AVG: BAY - Furman (98%) def. Castaneda (2%)
         ITA: BAY - Furman (4.24) def. Castaneda (3.54)
   Doubles:
     - Position: 1

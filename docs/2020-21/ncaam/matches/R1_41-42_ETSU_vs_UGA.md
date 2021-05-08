@@ -39,11 +39,11 @@ Athens, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UGA*** - Georgia (99%) def. ETSU (1%)  
 - Slam: ***UGA*** - #16 Georgia (99%) def. #52 ETSU (1%)  
 - TRN: ***UGA*** - #14 Georgia (99%) def. #53 ETSU (1%)  
 - Massey: ***UGA*** - #15 Georgia (97%) def. #51 ETSU (3%)  
 - Lineup: ***UGA*** - Georgia (99%) def. ETSU (1%)  
-- Composite: ***UGA*** - Georgia (99%) def. ETSU (1%)  
 - UTR: ***UGA*** - #19 Georgia (+4.52) def. #50 ETSU (-4.52)  
 - ITA: ***UGA*** - #11 Georgia def. #49 ETSU  
 - USTA Poll: ***UGA*** - #16 Georgia def. ETSU  
@@ -60,66 +60,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Dimitri Badra (ETSU) - 11-3 at #1, 14-5 in duals, 14-5 overall<br>Trent Bryde (UGA) - 9-10 at #1, 9-10 in duals, 14-13 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UGA</i></b> - Bryde (79%) def. Badra (21%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Bryde (85%) def. Badra (15%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Bryde (79%) def. Badra (21%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Bryde (65%) def. Badra (35%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Bryde (88%) def. Badra (12%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Bryde (79%) def. Badra (21%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Bryde (36.71) def. Badra (10.52)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Frazier Rengifo (ETSU) - 10-4 at #2, 11-7 in duals, 11-7 overall<br>Tyler Zink (UGA) - 6-5 at #2, 9-5 in duals, 11-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UGA</i></b> - Zink (87%) def. Rengifo (13%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Zink (90%) def. Rengifo (10%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Zink (93%) def. Rengifo (7%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Zink (72%) def. Rengifo (28%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Zink (91%) def. Rengifo (9%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Zink (87%) def. Rengifo (13%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Zink (25.30) def. Rengifo (2.55)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Juan Lugo (ETSU) - 5-1 at #3, 9-5 in duals, 9-5 overall<br>Philip Henning (UGA) - 11-4 at #3, 13-6 in duals, 18-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UGA</i></b> - Henning (95%) def. Lugo (5%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Henning (96%) def. Lugo (4%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Henning (97%) def. Lugo (3%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Henning (92%) def. Lugo (8%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Henning (94%) def. Lugo (6%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Henning (95%) def. Lugo (5%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Henning (31.73) def. Lugo (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Thiago Pernas (ETSU) - 7-2 at #4, 10-8 in duals, 10-8 overall<br>Blake Croyder (UGA) - 10-2 at #4, 11-5 in duals, 15-12 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UGA</i></b> - Croyder (91%) def. Pernas (9%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Croyder (93%) def. Pernas (7%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Croyder (96%) def. Pernas (4%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Croyder (83%) def. Pernas (17%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Croyder (91%) def. Pernas (9%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Croyder (91%) def. Pernas (9%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Croyder (4.08) def. Pernas (1.71)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">MIguel Este (ETSU) - 1-1 at #5, 8-5 in duals, 8-5 overall<br>Billy Rowe (UGA) - 8-4 at #5, 12-7 in duals, 16-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UGA</i></b> - Rowe (96%) def. Este (4%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Rowe (98%) def. Este (2%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Rowe (99%) def. Este (1%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Rowe (92%) def. Este (8%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Rowe (96%) def. Este (4%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Rowe (96%) def. Este (4%)</li>  
 <li>ITA: <b><i>ETSU</i></b> - Este (2.15) def. Rowe (1.84)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Juan Zabala (ETSU) - 2-1 at #6, 6-4 in duals, 6-4 overall<br>Erik Grevelius (UGA) - 7-3 at #6, 9-4 in duals, 15-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UGA</i></b> - Grevelius (97%) def. Zabala (3%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Grevelius (96%) def. Zabala (4%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Grevelius (97%) def. Zabala (3%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Grevelius (94%) def. Zabala (6%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Grevelius (99%) def. Zabala (1%)</li>  
-<li>Composite: <b><i>UGA</i></b> - Grevelius (97%) def. Zabala (3%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Grevelius (2.48) def. Zabala (1.96)</li>  
 </ul>
 </details>&nbsp;</li>

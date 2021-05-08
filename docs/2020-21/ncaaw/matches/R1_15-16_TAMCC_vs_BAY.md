@@ -42,11 +42,11 @@ Waco, Texas
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***BAY*** - Baylor (99%) def. A&M-Corpus Christi (1%)  
 - Slam: ***BAY*** - #7 Baylor (99%) def. #55 A&M-Corpus Christi (1%)  
 - TRN: ***BAY*** - #4 Baylor (99%) def. #55 A&M-Corpus Christi (1%)  
 - Massey: ***BAY*** - #12 Baylor (99%) def. #52 A&M-Corpus Christi (1%)  
 - Lineup: ***BAY*** - Baylor (99%) def. A&M-Corpus Christi (1%)  
-- Composite: ***BAY*** - Baylor (99%) def. A&M-Corpus Christi (1%)  
 - UTR: ***BAY*** - #8 Baylor (+8.61) def. #52 A&M-Corpus Christi (-8.61)  
 - ITA: ***BAY*** - #8 Baylor def. #56 A&M-Corpus Christi  
 - USTA Poll: ***BAY*** - #8 Baylor def. A&M-Corpus Christi  
@@ -63,66 +63,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Mariya Shumeika (TAMCC) - 7-3 at #1, 19-3 in duals, 19-3 overall<br>Melany Krywoj (BAY) - 11-6 at #1, 11-6 in duals, 19-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>BAY</i></b> - Krywoj (93%) def. Shumeika (7%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Krywoj (95%) def. Shumeika (5%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Krywoj (90%) def. Shumeika (10%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Krywoj (90%) def. Shumeika (10%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Krywoj (97%) def. Shumeika (3%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Krywoj (93%) def. Shumeika (7%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Krywoj (8.77) def. Shumeika (2.79)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Camille Townsend (TAMCC) - 6-3 at #2, 14-6 in duals, 14-6 overall<br>Jessica Hinojosa (BAY) - 7-6 at #2, 12-10 in duals, 18-15 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>BAY</i></b> - Hinojosa (90%) def. Townsend (10%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Hinojosa (90%) def. Townsend (10%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Hinojosa (95%) def. Townsend (5%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Hinojosa (80%) def. Townsend (20%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Hinojosa (95%) def. Townsend (5%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Hinojosa (90%) def. Townsend (10%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Hinojosa (3.62) def. Townsend (1.97)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Emma Honore (TAMCC) - 16-4 at #3, 16-6 in duals, 15-6 overall<br>Alicia Herrero (BAY) - 4-4 at #3, 13-8 in duals, 20-13 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>BAY</i></b> - Herrero (97%) def. Honore (3%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Herrero (97%) def. Honore (3%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Herrero (98%) def. Honore (2%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Herrero (95%) def. Honore (5%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Herrero (97%) def. Honore (3%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Herrero (97%) def. Honore (3%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Herrero (2.87) def. Honore (2.07)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Emma Aucagne (TAMCC) - 20-1 at #4, 22-1 in duals, 22-1 overall<br>Angie Shakhraichuck (BAY) - 6-4 at #4, 17-5 in duals, 24-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>BAY</i></b> - Shakhraichuck (88%) def. Aucagne (12%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Shakhraichuck (96%) def. Aucagne (4%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Shakhraichuck (96%) def. Aucagne (4%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Shakhraichuck (88%) def. Aucagne (12%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Shakhraichuck (72%) def. Aucagne (28%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Shakhraichuck (88%) def. Aucagne (12%)</li>  
 <li>ITA: <b><i>TAMCC</i></b> - Aucagne (3.69) def. Shakhraichuck (1.88)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Leopoldine Boisseau (TAMCC) - 14-3 at #5, 17-3 in duals, 17-3 overall<br>Kristina Sorokolet (BAY) - 4-1 at #5, 11-3 in duals, 18-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>BAY</i></b> - Sorokolet (93%) def. Boisseau (7%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Sorokolet (96%) def. Boisseau (4%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Sorokolet (96%) def. Boisseau (4%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Sorokolet (86%) def. Boisseau (14%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Sorokolet (95%) def. Boisseau (5%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Sorokolet (93%) def. Boisseau (7%)</li>  
 <li>ITA: <b><i>TAMCC</i></b> - Boisseau (2.71) def. Sorokolet (1.95)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Victoire Delattre (TAMCC) - 14-2 at #6, 17-2 in duals, 17-2 overall<br>Paula Baranano (BAY) - 5-2 at #6, 12-3 in duals, 12-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>BAY</i></b> - Baranano (98%) def. Delattre (2%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Baranano (99%) def. Delattre (1%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Baranano (99%) def. Delattre (1%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Baranano (96%) def. Delattre (4%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Baranano (98%) def. Delattre (2%)</li>  
-<li>Composite: <b><i>BAY</i></b> - Baranano (98%) def. Delattre (2%)</li>  
 <li>ITA: <b><i>TAMCC</i></b> - Delattre (3.13) def. Baranano (2.52)</li>  
 </ul>
 </details>&nbsp;</li>

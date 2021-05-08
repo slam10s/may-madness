@@ -36,11 +36,11 @@ Visitor:
     MAS: 65 (3.71)
     UTR: 65 (63.25)
 Predictions:
+  AVG: TENN - Tennessee (99%) def. Alabama A&M (1%)
   SLM: "TENN - #4 Tennessee (99%) def. #64 Alabama A&M (1%)"
   TRN: "TENN - #5 Tennessee (99%) def. #64 Alabama A&M (1%)"
   MAS: "TENN - #2 Tennessee (100%) def. #65 Alabama A&M (0%)"
   LNUP: TENN - Tennessee (99%) def. Alabama A&M (1%)
-  AVG: TENN - Tennessee (99%) def. Alabama A&M (1%)
   UTR: "TENN - #4 Tennessee (+16.92) def. #65 Alabama A&M (-16.92)"
   ITA: "TENN - #3 Tennessee def. #63 Alabama A&M"
   USTA: "TENN - #4 Tennessee def. Alabama A&M"
@@ -58,61 +58,61 @@ Lineups:
       TENN: Adam Walton - 8-7 at 1, 10-8 in duals, 16-10 overall
       AAMU: Rodrigo Arana Rios - 1-10 at 1, 1-10 in duals, 1-10 overall
       Predictions:
+        AVG: TENN - Walton (99%) def. Rios (1%)
         SLM: TENN - Walton (99%) def. Rios (1%)
         TRN: TENN - Walton (99%) def. Rios (1%)
         MAS: TENN - Walton (99%) def. Rios (1%)
         UTR: TENN - Walton (99%) def. Rios (1%)
-        AVG: TENN - Walton (99%) def. Rios (1%)
         ITA: TENN - Walton (42.60) def. Rios (0.00)
     - Position: 2
       TENN: Johannus Monday - 17-3 at 2, 22-4 in duals, 31-6 overall
       AAMU: Gjorgji Popovski - 6-6 at 2, 6-6 in duals, 6-6 overall
       Predictions:
+        AVG: TENN - Monday (99%) def. Popovski (1%)
         SLM: TENN - Monday (99%) def. Popovski (1%)
         TRN: TENN - Monday (99%) def. Popovski (1%)
         MAS: TENN - Monday (99%) def. Popovski (1%)
         UTR: TENN - Monday (99%) def. Popovski (1%)
-        AVG: TENN - Monday (99%) def. Popovski (1%)
         ITA: TENN - Monday (43.71) def. Popovski (1.64)
     - Position: 3
       TENN: Martim Prata - 11-8 at 3, 15-8 in duals, 22-12 overall
       AAMU: Fermin Ruiz - 0-9 at 3, 0-12 in duals, 0-12 overall
       Predictions:
+        AVG: TENN - Prata (97%) def. Ruiz (3%)
         SLM: TENN - Prata (100%) def. Ruiz (0%)
         TRN: TENN - Prata (100%) def. Ruiz (0%)
         MAS: TENN - Prata (90%) def. Ruiz (10%)
         UTR: TENN - Prata (99%) def. Ruiz (1%)
-        AVG: TENN - Prata (97%) def. Ruiz (3%)
         ITA: TENN - Prata (18.77) def. Ruiz (0.00)
     - Position: 4
       TENN: Luca Wiedenmann - 8-2 at 4, 20-3 in duals, 30-4 overall
       AAMU: Natiphat Mulada - 5-2 at 4, 5-4 in duals, 5-4 overall
       Predictions:
+        AVG: TENN - Wiedenmann (99%) def. Mulada (1%)
         SLM: TENN - Wiedenmann (99%) def. Mulada (1%)
         TRN: TENN - Wiedenmann (99%) def. Mulada (1%)
         MAS: TENN - Wiedenmann (99%) def. Mulada (1%)
         UTR: TENN - Wiedenmann (99%) def. Mulada (1%)
-        AVG: TENN - Wiedenmann (99%) def. Mulada (1%)
         ITA: TENN - Wiedenmann (4.02) def. Mulada (1.65)
     - Position: 5
       TENN: Giles Hussey - 9-0 at 5, 18-3 in duals, 29-4 overall
       AAMU: Panji Setiawan - 4-4 at 5, 4-7 in duals, 4-7 overall
       Predictions:
+        AVG: TENN - Hussey (99%) def. Setiawan (1%)
         SLM: TENN - Hussey (99%) def. Setiawan (1%)
         TRN: TENN - Hussey (99%) def. Setiawan (1%)
         MAS: TENN - Hussey (99%) def. Setiawan (1%)
         UTR: TENN - Hussey (99%) def. Setiawan (1%)
-        AVG: TENN - Hussey (99%) def. Setiawan (1%)
         ITA: TENN - Hussey (7.54) def. Setiawan (1.79)
     - Position: 6
       TENN: Pat Harper - 5-3 at 6, 5-4 in duals, 12-5 overall
       AAMU: Divesh Gahlot - 3-0 at 6, 3-0 in duals, 3-0 overall
       Predictions:
+        AVG: TENN - Harper (99%) def. Gahlot (1%)
         SLM: TENN - Harper (100%) def. Gahlot (0%)
         TRN: TENN - Harper (100%) def. Gahlot (0%)
         MAS: TENN - Harper def. Gahlot
         UTR: TENN - Harper (99%) def. Gahlot (1%)
-        AVG: TENN - Harper (99%) def. Gahlot (1%)
         ITA: TENN - Harper (5.43) def. Gahlot (1.77)
   Doubles:
     - Position: 1

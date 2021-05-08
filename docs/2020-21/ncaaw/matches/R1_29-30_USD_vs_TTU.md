@@ -42,11 +42,11 @@ Los Angeles, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***TTU*** - Texas Tech (59%) def. San Diego (41%)  
 - Slam: ***TTU*** - #34 Texas Tech (53%) def. #36 San Diego (47%)  
 - TRN: ***TTU*** - #34 Texas Tech (61%) def. #38 San Diego (39%)  
 - Massey: ***TTU*** - #28 Texas Tech (56%) def. #32 San Diego (44%)  
 - Lineup: ***TTU*** - Texas Tech (65%) def. San Diego (35%)  
-- Composite: ***TTU*** - Texas Tech (59%) def. San Diego (41%)  
 - UTR: ***TTU*** - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)  
 - ITA: ***TTU*** - #29 Texas Tech def. #39 San Diego  
 - Coaches Poll: ***TTU*** - #29 Texas Tech def. #47 San Diego  
@@ -62,66 +62,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Solymar Colling (USD) - 14-4 at #1, 14-4 in duals, 14-3 overall<br>Lisa Mays (TTU) - 9-7 at #1, 10-7 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>USD</i></b> - Colling (80%) def. Mays (20%)</li>  
 <li>Slam: <b><i>USD</i></b> - Colling (89%) def. Mays (11%)</li>  
 <li>TRN: <b><i>USD</i></b> - Colling (88%) def. Mays (12%)</li>  
 <li>Massey: <b><i>USD</i></b> - Colling (63%) def. Mays (37%)</li>  
 <li>UTR: <b><i>USD</i></b> - Colling (84%) def. Mays (16%)</li>  
-<li>Composite: <b><i>USD</i></b> - Colling (80%) def. Mays (20%)</li>  
 <li>ITA: <b><i>USD</i></b> - Colling (12.76) def. Mays (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Elizabeth Goldsmith (USD) - 11-3 at #2, 11-3 in duals, 11-3 overall<br>Margarita Skriabina (TTU) - 2-0 at #2, 16-1 in duals, 18-2 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TTU</i></b> - Skriabina (66%) def. Goldsmith (34%)</li>  
 <li>Slam: <b><i>USD</i></b> - Goldsmith (51%) def. Skriabina (49%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Skriabina (54%) def. Goldsmith (46%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Skriabina (76%) def. Goldsmith (24%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Skriabina (86%) def. Goldsmith (14%)</li>  
-<li>Composite: <b><i>TTU</i></b> - Skriabina (66%) def. Goldsmith (34%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Skriabina (6.63) def. Goldsmith (2.97)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Jordyn McBride (USD) - 12-3 at #3, 14-3 in duals, 14-3 overall<br>Kaitlin Staines (TTU) - 0-0 at #3, 6-9 in duals, 9-11 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
 <li>Slam: <b><i>USD</i></b> - McBride (52%) def. Staines (48%)</li>  
 <li>TRN: <b><i>USD</i></b> - McBride (58%) def. Staines (42%)</li>  
 <li>Massey: <b><i>USD</i></b> - McBride (71%) def. Staines (29%)</li>  
 <li>UTR: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
-<li>Composite: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. McBride (3.11)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Abigail Desiatnikov (USD) - 6-3 at #4, 12-4 in duals, 12-4 overall<br>Nell Miller (TTU) - 11-4 at #4, 14-6 in duals, 16-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>USD</i></b> - Desiatnikov (51%) def. Miller (49%)</li>  
 <li>Slam: <b><i>TTU</i></b> - Miller (61%) def. Desiatnikov (39%)</li>  
 <li>TRN: <b><i>USD</i></b> - Desiatnikov (57%) def. Miller (43%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Miller (60%) def. Desiatnikov (40%)</li>  
 <li>UTR: <b><i>USD</i></b> - Desiatnikov (71%) def. Miller (29%)</li>  
-<li>Composite: <b><i>USD</i></b> - Desiatnikov (51%) def. Miller (49%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Miller (2.66) def. Desiatnikov (2.52)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Victoria Kalaitzis (USD) - 8-2 at #5, 12-4 in duals, 12-4 overall<br>Olivia Peet (TTU) - 9-6 at #5, 10-6 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TTU</i></b> - Peet (78%) def. Kalaitzis (22%)</li>  
 <li>Slam: <b><i>TTU</i></b> - Peet (83%) def. Kalaitzis (17%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Peet (77%) def. Kalaitzis (23%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Peet (69%) def. Kalaitzis (31%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Peet (83%) def. Kalaitzis (17%)</li>  
-<li>Composite: <b><i>TTU</i></b> - Peet (78%) def. Kalaitzis (22%)</li>  
 <li>ITA: <b><i>USD</i></b> - Kalaitzis (2.42) def. Peet (2.03)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Katharina Kukaras (USD) - 5-3 at #6, 11-4 in duals, 11-4 overall<br>Metka Komac (TTU) - 9-4 at #6, 10-5 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TTU</i></b> - Komac (75%) def. Kukaras (25%)</li>  
 <li>Slam: <b><i>TTU</i></b> - Komac (82%) def. Kukaras (18%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Komac (83%) def. Kukaras (17%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Komac (64%) def. Kukaras (36%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Komac (72%) def. Kukaras (28%)</li>  
-<li>Composite: <b><i>TTU</i></b> - Komac (75%) def. Kukaras (25%)</li>  
 <li>ITA: <b><i>USD</i></b> - Kukaras (2.39) def. Komac (1.98)</li>  
 </ul>
 </details>&nbsp;</li>

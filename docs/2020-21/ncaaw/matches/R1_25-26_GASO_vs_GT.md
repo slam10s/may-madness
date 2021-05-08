@@ -42,11 +42,11 @@ Atlanta, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***GT*** - Georgia Tech (99%) def. Ga. Southern (1%)  
 - Slam: ***GT*** - #20 Georgia Tech (99%) def. #53 Ga. Southern (1%)  
 - TRN: ***GT*** - #16 Georgia Tech (99%) def. #54 Ga. Southern (1%)  
 - Massey: ***GT*** - #18 Georgia Tech (99%) def. #55 Ga. Southern (1%)  
 - Lineup: ***GT*** - Georgia Tech (99%) def. Ga. Southern (1%)  
-- Composite: ***GT*** - Georgia Tech (99%) def. Ga. Southern (1%)  
 - UTR: ***GT*** - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)  
 - ITA: ***GT*** - #13 Georgia Tech def. #53 Ga. Southern  
 - USTA Poll: ***GT*** - #15 Georgia Tech def. Ga. Southern  
@@ -62,66 +62,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nadja Meier (GASO) - 4-3 at #1, 15-9 in duals, 15-9 overall<br>Kenya Jones (GT) - 16-7 at #1, 16-7 in duals, 17-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Jones (98%) def. Meier (2%)</li>  
 <li>Slam: <b><i>GT</i></b> - Jones (99%) def. Meier (1%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jones (99%) def. Meier (1%)</li>  
 <li>Massey: <b><i>GT</i></b> - Jones (96%) def. Meier (4%)</li>  
 <li>UTR: <b><i>GT</i></b> - Jones (96%) def. Meier (4%)</li>  
-<li>Composite: <b><i>GT</i></b> - Jones (98%) def. Meier (2%)</li>  
 <li>ITA: <b><i>GT</i></b> - Jones (50.31) def. Meier (1.56)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Paula Boixader (GASO) - 2-1 at #2, 8-10 in duals, 8-10 overall<br>Victoria Flores (GT) - 12-4 at #2, 17-5 in duals, 18-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Flores (98%) def. Boixader (2%)</li>  
 <li>Slam: <b><i>GT</i></b> - Flores (97%) def. Boixader (3%)</li>  
 <li>TRN: <b><i>GT</i></b> - Flores (99%) def. Boixader (1%)</li>  
 <li>Massey: <b><i>GT</i></b> - Flores (99%) def. Boixader (1%)</li>  
 <li>UTR: <b><i>GT</i></b> - Flores (98%) def. Boixader (2%)</li>  
-<li>Composite: <b><i>GT</i></b> - Flores (98%) def. Boixader (2%)</li>  
 <li>ITA: <b><i>GT</i></b> - Flores (29.63) def. Boixader (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Sophie Wagemaker (GASO) - 10-3 at #3, 11-7 in duals, 11-7 overall<br>Gia Cohen (GT) - 3-11 at #3, 8-14 in duals, 8-15 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Cohen (86%) def. Wagemaker (14%)</li>  
 <li>Slam: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
 <li>TRN: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
 <li>Massey: <b><i>GT</i></b> - Cohen (72%) def. Wagemaker (28%)</li>  
 <li>UTR: <b><i>GT</i></b> - Cohen (87%) def. Wagemaker (13%)</li>  
-<li>Composite: <b><i>GT</i></b> - Cohen (86%) def. Wagemaker (14%)</li>  
 <li>ITA: <b><i>GT</i></b> - Cohen (3.38) def. Wagemaker (1.85)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Charlotte van Diemen (GASO) - 3-1 at #4, 8-5 in duals, 8-5 overall<br>Ava Hrastar (GT) - 2-3 at #4, 10-9 in duals, 12-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
 <li>Slam: <b><i>GT</i></b> - Hrastar (96%) def. Diemen (4%)</li>  
 <li>TRN: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
 <li>Massey: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
 <li>UTR: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
-<li>Composite: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
 <li>ITA: <b><i>GT</i></b> - Hrastar (5.81) def. Diemen (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Mila Hartig (GASO) - 1-0 at #5, 14-4 in duals, 14-4 overall<br>Carol Lee (GT) - 5-8 at #5, 12-12 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Lee (90%) def. Hartig (10%)</li>  
 <li>Slam: <b><i>GT</i></b> - Lee (93%) def. Hartig (7%)</li>  
 <li>TRN: <b><i>GT</i></b> - Lee (91%) def. Hartig (9%)</li>  
 <li>Massey: <b><i>GT</i></b> - Lee (87%) def. Hartig (13%)</li>  
 <li>UTR: <b><i>GT</i></b> - Lee (90%) def. Hartig (10%)</li>  
-<li>Composite: <b><i>GT</i></b> - Lee (90%) def. Hartig (10%)</li>  
 <li>ITA: <b><i>GT</i></b> - Lee (4.33) def. Hartig (2.42)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Paula Hijos (GASO) - 2-0 at #6, 13-6 in duals, 13-6 overall<br>Mahak Jain (GT) - 7-2 at #6, 14-7 in duals, 16-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Jain (96%) def. Hijos (4%)</li>  
 <li>Slam: <b><i>GT</i></b> - Jain (95%) def. Hijos (5%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jain (97%) def. Hijos (3%)</li>  
 <li>Massey: <b><i>GT</i></b> - Jain (92%) def. Hijos (8%)</li>  
 <li>UTR: <b><i>GT</i></b> - Jain (99%) def. Hijos (1%)</li>  
-<li>Composite: <b><i>GT</i></b> - Jain (96%) def. Hijos (4%)</li>  
 <li>ITA: <b><i>GASO</i></b> - Hijos (1.93) def. Jain (1.89)</li>  
 </ul>
 </details>&nbsp;</li>

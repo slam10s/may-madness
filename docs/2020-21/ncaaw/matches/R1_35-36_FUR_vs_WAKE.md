@@ -43,11 +43,11 @@ Athens, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***WAKE*** - Wake Forest (61%) def. Furman (39%)  
 - Slam: ***WAKE*** - #32 Wake Forest (51%) def. #33 Furman (49%)  
 - TRN: ***WAKE*** - #31 Wake Forest (58%) def. #35 Furman (42%)  
 - Massey: ***WAKE*** - #34 Wake Forest (52%) def. #35 Furman (48%)  
 - Lineup: ***WAKE*** - Wake Forest (82%) def. Furman (18%)  
-- Composite: ***WAKE*** - Wake Forest (61%) def. Furman (39%)  
 - UTR: ***WAKE*** - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)  
 - ITA: ***WAKE*** - #33 Wake Forest def. #34 Furman  
 - USTA Poll: ***FUR*** - RV Furman def. Wake Forest  
@@ -64,66 +64,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Katarina Kozarov (FUR) - 22-1 at #1, 22-1 in duals, 22-1 overall<br>Carolyn Campana (WAKE) - 9-5 at #1, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>Slam: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Kozarov (72%) def. Campana (28%)</li>  
 <li>Massey: <b><i>FUR</i></b> - Kozarov (57%) def. Campana (43%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Campana (56%) def. Kozarov (44%)</li>  
-<li>Composite: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (28.61) def. Kozarov (26.43)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Julia Adams (FUR) - 15-6 at #2, 19-6 in duals, 19-6 overall<br>Anna Campana (WAKE) - 4-6 at #2, 6-10 in duals, 6-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FUR</i></b> - Adams (58%) def. Campana (42%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Campana (52%) def. Adams (48%)</li>  
 <li>TRN: <b><i>FUR</i></b> - Adams (61%) def. Campana (39%)</li>  
 <li>Massey: <b><i>FUR</i></b> - Adams (57%) def. Campana (43%)</li>  
 <li>UTR: <b><i>FUR</i></b> - Adams (71%) def. Campana (29%)</li>  
-<li>Composite: <b><i>FUR</i></b> - Adams (58%) def. Campana (42%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (11.52) def. Adams (5.79)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Madison Dillon (FUR) - 10-10 at #3, 12-12 in duals, 12-12 overall<br>Anna Brylin (WAKE) - 10-3 at #3, 12-8 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>WAKE</i></b> - Brylin (88%) def. Dillon (12%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Brylin (85%) def. Dillon (15%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Brylin (87%) def. Dillon (13%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Brylin (88%) def. Dillon (12%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Brylin (92%) def. Dillon (8%)</li>  
-<li>Composite: <b><i>WAKE</i></b> - Brylin (88%) def. Dillon (12%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Brylin (2.10) def. Dillon (1.67)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">MaryAnn Rompf (FUR) - 15-6 at #4, 18-8 in duals, 18-8 overall<br>Eliza Omirou (WAKE) - 3-3 at #4, 9-8 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>WAKE</i></b> - Omirou (66%) def. Rompf (34%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Omirou (66%) def. Rompf (34%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Omirou (60%) def. Rompf (40%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Omirou (68%) def. Rompf (32%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Omirou (72%) def. Rompf (28%)</li>  
-<li>Composite: <b><i>WAKE</i></b> - Omirou (66%) def. Rompf (34%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Omirou (1.88) def. Rompf (1.74)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Maggie Pate (FUR) - 9-6 at #5, 15-7 in duals, 15-7 overall<br>Brooke Killingsworth (WAKE) - 1-1 at #5, 7-14 in duals, 7-14 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>WAKE</i></b> - Killingsworth (70%) def. Pate (30%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Killingsworth (79%) def. Pate (21%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Killingsworth (66%) def. Pate (34%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Killingsworth (59%) def. Pate (41%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Killingsworth (77%) def. Pate (23%)</li>  
-<li>Composite: <b><i>WAKE</i></b> - Killingsworth (70%) def. Pate (30%)</li>  
 <li>ITA: <b><i>FUR</i></b> - Pate (1.95) def. Killingsworth (1.48)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ellie Schoppe (FUR) - 15-1 at #6, 20-3 in duals, 20-3 overall<br>Casie Wooten (WAKE) - 7-3 at #6, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>WAKE</i></b> - Wooten (66%) def. Schoppe (34%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Wooten (66%) def. Schoppe (34%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Wooten (57%) def. Schoppe (43%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Wooten (66%) def. Schoppe (34%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Wooten (75%) def. Schoppe (25%)</li>  
-<li>Composite: <b><i>WAKE</i></b> - Wooten (66%) def. Schoppe (34%)</li>  
 <li>ITA: <b><i>FUR</i></b> - Schoppe (2.79) def. Wooten (1.70)</li>  
 </ul>
 </details>&nbsp;</li>

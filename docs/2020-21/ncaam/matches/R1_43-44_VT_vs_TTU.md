@@ -40,11 +40,11 @@ Athens, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***VT*** - Virginia Tech (54%) def. Texas Tech (46%)  
 - Slam: ***VT*** - #30 Virginia Tech (57%) def. #35 Texas Tech (43%)  
 - TRN: ***VT*** - #29 Virginia Tech (52%) def. #31 Texas Tech (48%)  
 - Massey: ***TTU*** - #28 Texas Tech (59%) def. #33 Virginia Tech (41%)  
 - Lineup: ***VT*** - Virginia Tech (69%) def. Texas Tech (31%)  
-- Composite: ***VT*** - Virginia Tech (54%) def. Texas Tech (46%)  
 - UTR: ***VT*** - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)  
 - ITA: ***TTU*** - #25 Texas Tech def. #29 Virginia Tech  
 - USTA Poll: ***TTU*** - RV Texas Tech def. Virginia Tech  
@@ -61,66 +61,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Mitch Harper (VT) - 7-4 at #1, 7-4 in duals, 7-4 overall<br>Parker Wynn (TTU) - 5-9 at #1, 5-9 in duals, 9-13 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>VT</i></b> - Harper (75%) def. Wynn (25%)</li>  
 <li>Slam: <b><i>VT</i></b> - Harper (78%) def. Wynn (22%)</li>  
 <li>TRN: <b><i>VT</i></b> - Harper (80%) def. Wynn (20%)</li>  
 <li>Massey: <b><i>VT</i></b> - Harper (65%) def. Wynn (35%)</li>  
 <li>UTR: <b><i>VT</i></b> - Harper (81%) def. Wynn (19%)</li>  
-<li>Composite: <b><i>VT</i></b> - Harper (75%) def. Wynn (25%)</li>  
 <li>ITA: <b><i>VT</i></b> - Harper (7.69) def. Wynn (1.67)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Alex Ribeiro (VT) - 2-1 at #2, 5-5 in duals, 5-5 overall<br>Ilgiz Valiev (TTU) - 10-6 at #2, 11-7 in duals, 14-13 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TTU</i></b> - Valiev (53%) def. Ribeiro (47%)</li>  
 <li>Slam: <b><i>VT</i></b> - Ribeiro (59%) def. Valiev (41%)</li>  
 <li>TRN: <b><i>VT</i></b> - Ribeiro (58%) def. Valiev (42%)</li>  
 <li>Massey: <b><i>VT</i></b> - Ribeiro (45%) def. Valiev (55%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Valiev (75%) def. Ribeiro (25%)</li>  
-<li>Composite: <b><i>TTU</i></b> - Valiev (53%) def. Ribeiro (47%)</li>  
 <li>ITA: <b><i>VT</i></b> - Ribeiro (9.63) def. Valiev (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Matt Ross (VT) - 1-1 at #3, 8-12 in duals, 8-12 overall<br>Franco Ribero (TTU) - 7-4 at #3, 8-5 in duals, 11-11 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>VT</i></b> - Ross (70%) def. Ribero (30%)</li>  
 <li>Slam: <b><i>VT</i></b> - Ross (78%) def. Ribero (22%)</li>  
 <li>TRN: <b><i>VT</i></b> - Ross (72%) def. Ribero (28%)</li>  
 <li>Massey: <b><i>VT</i></b> - Ross (65%) def. Ribero (35%)</li>  
 <li>UTR: <b><i>VT</i></b> - Ross (71%) def. Ribero (29%)</li>  
-<li>Composite: <b><i>VT</i></b> - Ross (70%) def. Ribero (30%)</li>  
 <li>ITA: <b><i>VT</i></b> - Ross (6.68) def. Ribero (1.57)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Carlo Donato (VT) - 0-2 at #4, 5-13 in duals, 5-13 overall<br>Reed Collier (TTU) - 6-5 at #4, 7-7 in duals, 14-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TTU</i></b> - Collier (59%) def. Donato (41%)</li>  
 <li>Slam: <b><i>VT</i></b> - Donato (59%) def. Collier (41%)</li>  
 <li>TRN: <b><i>TTU</i></b> - Collier (50%) def. Donato (50%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Collier (69%) def. Donato (31%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Collier (76%) def. Donato (24%)</li>  
-<li>Composite: <b><i>TTU</i></b> - Collier (59%) def. Donato (41%)</li>  
 <li>ITA: <b><i>VT</i></b> - Donato (2.08) def. Collier (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Hugo Maia (VT) - 0-2 at #5, 13-6 in duals, 13-6 overall<br>Dimi Azoides (TTU) - 8-3 at #5, 12-4 in duals, 15-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>VT</i></b> - Maia (61%) def. Azoides (39%)</li>  
 <li>Slam: <b><i>VT</i></b> - Maia (68%) def. Azoides (32%)</li>  
 <li>TRN: <b><i>VT</i></b> - Maia (71%) def. Azoides (29%)</li>  
 <li>Massey: <b><i>VT</i></b> - Maia (69%) def. Azoides (31%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Azoides (62%) def. Maia (38%)</li>  
-<li>Composite: <b><i>VT</i></b> - Maia (61%) def. Azoides (39%)</li>  
 <li>ITA: <b><i>VT</i></b> - Maia (2.60) def. Azoides (1.70)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ryan Fishback (VT) - 4-1 at #6, 13-6 in duals, 13-6 overall<br>Isaac Arevalo (TTU) - 5-4 at #6, 8-5 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>VT</i></b> - Fishback (52%) def. Arevalo (48%)</li>  
 <li>Slam: <b><i>VT</i></b> - Fishback (54%) def. Arevalo (46%)</li>  
 <li>TRN: <b><i>VT</i></b> - Fishback (61%) def. Arevalo (39%)</li>  
 <li>Massey: <b><i>VT</i></b> - Fishback (56%) def. Arevalo (44%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Arevalo (60%) def. Fishback (40%)</li>  
-<li>Composite: <b><i>VT</i></b> - Fishback (52%) def. Arevalo (48%)</li>  
 <li>ITA: <b><i>VT</i></b> - Fishback (2.03) def. Arevalo (1.77)</li>  
 </ul>
 </details>&nbsp;</li>

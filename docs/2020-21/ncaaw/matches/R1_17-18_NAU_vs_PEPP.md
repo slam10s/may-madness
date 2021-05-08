@@ -42,11 +42,11 @@ Malibu, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - Slam: ***PEPP*** - #6 Pepperdine (99%) def. #51 Northern Ariz. (1%)  
 - TRN: ***PEPP*** - #6 Pepperdine (99%) def. #53 Northern Ariz. (1%)  
 - Massey: ***PEPP*** - #5 Pepperdine (100%) def. #51 Northern Ariz. (0%)  
 - Lineup: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
-- Composite: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #54 Northern Ariz.  
 - USTA Poll: ***PEPP*** - #5 Pepperdine def. Northern Ariz.  
@@ -63,66 +63,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Gina Dittmann (NAU) - 14-1 at #1, 15-1 in duals, 15-1 overall<br>Ashley Lahey (PEPP) - 7-3 at #1, 10-4 in duals, 10-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Lahey (89%) def. Dittmann (11%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Lahey (87%) def. Dittmann (13%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Lahey (83%) def. Dittmann (17%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Lahey (89%) def. Dittmann (11%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Lahey (7.80) def. Dittmann (4.32)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Emily Bland (NAU) - 1-1 at #2, 14-3 in duals, 14-3 overall<br>Jessica Failla (PEPP) - 6-1 at #2, 14-3 in duals, 14-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Failla (94%) def. Bland (6%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Failla (23.38) def. Bland (2.75)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Eleanor Millard (NAU) - 3-0 at #3, 11-5 in duals, 11-5 overall<br>Taisiya Pachkaleva (PEPP) - 8-1 at #3, 22-1 in duals, 22-1 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Pachkaleva (99%) def. Millard (1%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Pachkaleva (97%) def. Millard (3%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (98%) def. Millard (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Pachkaleva (6.37) def. Millard (2.21)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ava Neyestani (NAU) - 9-5 at #4, 11-6 in duals, 11-6 overall<br>Shiori Fukuda (PEPP) - 6-0 at #4, 14-4 in duals, 14-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Fukuda (98%) def. Neyestani (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fukuda (99%) def. Neyestani (1%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Fukuda (95%) def. Neyestani (5%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Fukuda (98%) def. Neyestani (2%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Fukuda (98%) def. Neyestani (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Fukuda (4.88) def. Neyestani (1.91)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Elinor Beazley (NAU) - 5-5 at #5, 8-5 in duals, 8-5 overall<br>LIsa Zaar (PEPP) - 10-1 at #5, 19-1 in duals, 19-1 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Zaar (97%) def. Beazley (3%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zaar (4.47) def. Beazley (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Madison Moore (NAU) - 6-8 at #6, 6-8 in duals, 6-8 overall<br>Nikki Redelijk (PEPP) - 7-4 at #6, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Redelijk (98%) def. Moore (2%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Redelijk (99%) def. Moore (1%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Redelijk (1.87) def. Moore (1.46)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -37,11 +37,11 @@ Visitor:
   Polls:
     Coach: 45
 Predictions:
+  AVG: UK - Kentucky (78%) def. Syracuse (22%)
   SLM: "UK - #25 Kentucky (83%) def. #43 Syracuse (17%)"
   TRN: "UK - #27 Kentucky (84%) def. #43 Syracuse (16%)"
   MAS: "UK - #33 Kentucky (78%) def. #42 Syracuse (22%)"
   LNUP: UK - Kentucky (68%) def. Syracuse (32%)
-  AVG: UK - Kentucky (78%) def. Syracuse (22%)
   UTR: "UK - #34 Kentucky (+1.47) def. #43 Syracuse (-1.47)"
   ITA: "UK - #26 Kentucky def. #43 Syracuse"
   USTA: "UK - #24 Kentucky def. Syracuse"
@@ -59,60 +59,60 @@ Lineups:
       UK: Akvile Parazinskaite - 16-6 at 1, 16-6 in duals, 19-10 overall
       SYR: Viktoriya Kanapatskaya - 9-5 at 1, 11-5 in duals, 11-5 overall
       Predictions:
+        AVG: SYR - Kanapatskaya (61%) def. Parazinskaite (39%)
         SLM: SYR - Kanapatskaya (65%) def. Parazinskaite (35%)
         TRN: SYR - Kanapatskaya (65%) def. Parazinskaite (35%)
         MAS: SYR - Kanapatskaya (56%) def. Parazinskaite (44%)
         UTR: SYR - Kanapatskaya (64%) def. Parazinskaite (36%)
-        AVG: SYR - Kanapatskaya (61%) def. Parazinskaite (39%)
         ITA: SYR - Kanapatskaya (30.96) def. Parazinskaite (0.00)
     - Position: 2
       UK: Lesedi Jacobs - 0-1 at 2, 9-5 in duals, 11-8 overall
       SYR: Guzal Yusupova - 4-6 at 2, 4-9 in duals, 4-9 overall
       Predictions:
+        AVG: UK - Jacobs (76%) def. Yusupova (24%)
         SLM: UK - Jacobs (66%) def. Yusupova (34%)
         TRN: UK - Jacobs (76%) def. Yusupova (24%)
         MAS: UK - Jacobs (72%) def. Yusupova (28%)
         UTR: UK - Jacobs (89%) def. Yusupova (11%)
-        AVG: UK - Jacobs (76%) def. Yusupova (24%)
         ITA: UK - Jacobs (5.00) def. Yusupova (4.12)
     - Position: 3
       UK: Carlota Molina - 1-1 at 3, 12-7 in duals, 12-13 overall
       SYR: Natalie Novotna - 4-6 at 3, 7-9 in duals, 7-9 overall
       Predictions:
+        AVG: UK - Molina (68%) def. Novotna (32%)
         SLM: UK - Molina (67%) def. Novotna (33%)
         TRN: UK - Molina (73%) def. Novotna (27%)
         MAS: UK - Molina (57%) def. Novotna (43%)
         UTR: UK - Molina (77%) def. Novotna (23%)
-        AVG: UK - Molina (68%) def. Novotna (32%)
         ITA: UK - Molina (2.40) def. Novotna (2.02)
     - Position: 4
       UK: Elizabeth Stevens - 1-5 at 4, 3-8 in duals, 6-13 overall
       SYR: Miranda Ramirez - 3-6 at 4, 4-13 in duals, 4-13 overall
       Predictions:
+        AVG: UK - Stevens (56%) def. Ramirez (44%)
         SLM: UK - Stevens (59%) def. Ramirez (41%)
         TRN: UK - Stevens (65%) def. Ramirez (35%)
         MAS: UK - Stevens (58%) def. Ramirez (42%)
         UTR: SYR - Ramirez (57%) def. Stevens (43%)
-        AVG: UK - Stevens (56%) def. Ramirez (44%)
     - Position: 5
       UK: Carla Girbau - 2-1 at 5, 9-9 in duals, 11-14 overall
       SYR: Zeynep Erman - 3-4 at 5, 4-4 in duals, 4-4 overall
       Predictions:
+        AVG: UK - Girbau (60%) def. Erman (40%)
         SLM: UK - Girbau (64%) def. Erman (36%)
         TRN: UK - Girbau (61%) def. Erman (39%)
         MAS: SYR - Erman (59%) def. Girbau (41%)
         UTR: UK - Girbau (74%) def. Erman (26%)
-        AVG: UK - Girbau (60%) def. Erman (40%)
         ITA: SYR - Erman (1.82) def. Girbau (0.00)
     - Position: 6
       UK: Fiona Arrese - 2-1 at 6, 10-4 in duals, 10-9 overall
       SYR: Polina Kozyreva - 7-5 at 6, 10-9 in duals, 10-9 overall
       Predictions:
+        AVG: SYR - Kozyreva (61%) def. Arrese (39%)
         SLM: UK - Arrese (60%) def. Kozyreva (40%)
         TRN: UK - Arrese (57%) def. Kozyreva (43%)
         MAS: SYR - Kozyreva (64%) def. Arrese (36%)
         UTR: SYR - Kozyreva (100%) def. Arrese (0%)
-        AVG: SYR - Kozyreva (61%) def. Arrese (39%)
         ITA: SYR - Kozyreva (1.79) def. Arrese (1.49)
   Doubles:
     - Position: 1

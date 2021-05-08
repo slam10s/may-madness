@@ -39,11 +39,11 @@ Visitor:
     USTA: 25
     Coach: 22
 Predictions:
+  AVG: FSU - Florida St. (82%) def. Auburn (18%)
   SLM: "FSU - #10 Florida St. (79%) def. #24 Auburn (21%)"
   TRN: "FSU - #9 Florida St. (82%) def. #23 Auburn (18%)"
   MAS: "FSU - #9 Florida St. (75%) def. #25 Auburn (25%)"
   LNUP: FSU - Florida St. (93%) def. Auburn (7%)
-  AVG: FSU - Florida St. (82%) def. Auburn (18%)
   UTR: "FSU - #10 Florida St. (+1.72) def. #30 Auburn (-1.72)"
   ITA: "FSU - #7 Florida St. def. #20 Auburn"
   USTA: "FSU - #12 Florida St. def. #25 Auburn"
@@ -61,11 +61,11 @@ Lineups:
       FSU: Giulia Pairone - 11-8 at 1, 11-8 in duals, 13-8 overall
       AUB: Selin Ovunc - 8-9 at 1, 8-9 in duals, 13-10 overall
       Predictions:
+        AVG: FSU - Pairone (81%) def. Ovunc (19%)
         SLM: FSU - Pairone (80%) def. Ovunc (20%)
         TRN: FSU - Pairone (82%) def. Ovunc (18%)
         MAS: FSU - Pairone (77%) def. Ovunc (23%)
         UTR: FSU - Pairone (84%) def. Ovunc (16%)
-        AVG: FSU - Pairone (81%) def. Ovunc (19%)
         ITA: FSU - Pairone (30.67) def. Ovunc (9.63)
     - Position: 2
       FSU: Emmanuelle Salas - 5-6 at 2, 7-9 in duals, 7-10 overall
@@ -80,41 +80,41 @@ Lineups:
       FSU: Nandini Das - 6-4 at 3, 11-8 in duals, 12-8 overall
       AUB: Yu Chen - 0-2 at 3, 5-11 in duals, 12-13 overall
       Predictions:
+        AVG: FSU - Das (56%) def. Chen (44%)
         SLM: AUB - Chen (52%) def. Das (48%)
         TRN: AUB - Chen (53%) def. Das (47%)
         MAS: FSU - Das (63%) def. Chen (37%)
         UTR: FSU - Das (65%) def. Chen (35%)
-        AVG: FSU - Das (56%) def. Chen (44%)
         ITA: AUB - Chen (3.54) def. Das (2.52)
     - Position: 4
       FSU: Petra Hule - 4-0 at 4, 12-3 in duals, 13-3 overall
       AUB: Georgie Axon - 15-3 at 4, 16-3 in duals, 22-6 overall
       Predictions:
+        AVG: AUB - Axon (52%) def. Hule (48%)
         SLM: FSU - Hule (52%) def. Axon (48%)
         TRN: FSU - Hule (52%) def. Axon (48%)
         MAS: FSU - Hule (47%) def. Axon (53%)
         UTR: AUB - Axon (65%) def. Hule (35%)
-        AVG: AUB - Axon (52%) def. Hule (48%)
         ITA: FSU - Hule (3.24) def. Axon (2.43)
     - Position: 5
       FSU: Victoria Allen - 7-0 at 5, 11-4 in duals, 12-5 overall
       AUB: Adeline Flach - 4-5 at 5, 11-7 in duals, 14-10 overall
       Predictions:
+        AVG: FSU - Allen (91%) def. Flach (9%)
         SLM: FSU - Allen (92%) def. Flach (8%)
         TRN: FSU - Allen (91%) def. Flach (9%)
         MAS: FSU - Allen (91%) def. Flach (9%)
         UTR: FSU - Allen (90%) def. Flach (10%)
-        AVG: FSU - Allen (91%) def. Flach (9%)
         ITA: FSU - Allen (2.90) def. Flach (1.50)
     - Position: 6
       FSU: Anna Arkadianou - 0-0 at 6, 3-4 in duals, 4-5 overall
       AUB: Anastasia Astakhova - 2-5 at 6, 2-5 in duals, 2-5 overall
       Predictions:
+        AVG: FSU - Arkadianou (92%) def. Astakhova (8%)
         SLM: FSU - Arkadianou (93%) def. Astakhova (7%)
         TRN: FSU - Arkadianou (92%) def. Astakhova (8%)
         MAS: FSU - Arkadianou (88%) def. Astakhova (12%)
         UTR: FSU - Arkadianou (94%) def. Astakhova (6%)
-        AVG: FSU - Arkadianou (92%) def. Astakhova (8%)
   Doubles:
     - Position: 1
       FSU: Salas/Allen - 5-3 at 1, 5-3 in duals, 5-3 overall

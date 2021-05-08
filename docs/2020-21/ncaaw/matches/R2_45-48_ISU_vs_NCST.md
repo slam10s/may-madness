@@ -40,11 +40,11 @@ Raleigh, North Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***NCST*** - NC State (97%) def. Iowa St. (3%)  
 - Slam: ***NCST*** - #11 NC State (94%) def. #41 Iowa St. (6%)  
 - TRN: ***NCST*** - #10 NC State (96%) def. #42 Iowa St. (4%)  
 - Massey: ***NCST*** - #6 NC State (98%) def. #39 Iowa St. (2%)  
 - Lineup: ***NCST*** - NC State (98%) def. Iowa St. (2%)  
-- Composite: ***NCST*** - NC State (97%) def. Iowa St. (3%)  
 - UTR: ***NCST*** - #9 NC State (+3.92) def. #39 Iowa St. (-3.92)  
 - ITA: ***NCST*** - #6 NC State def. #36 Iowa St.  
 - USTA Poll: ***NCST*** - #11 NC State def. Iowa St.  
@@ -61,66 +61,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Thasaporn Naklo (ISU) - 10-7 at #1, 10-7 in duals, 10-7 overall<br>Anna Rogers (NCST) - 14-6 at #1, 14-6 in duals, 19-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>NCST</i></b> - Rogers (93%) def. Naklo (7%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Rogers (94%) def. Naklo (6%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rogers (97%) def. Naklo (3%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Rogers (91%) def. Naklo (9%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rogers (90%) def. Naklo (10%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Rogers (93%) def. Naklo (7%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rogers (48.19) def. Naklo (2.77)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Maty Cancini (ISU) - 6-9 at #2, 6-9 in duals, 6-9 overall<br>Alana Smith (NCST) - 14-5 at #2, 14-5 in duals, 16-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>NCST</i></b> - Smith (91%) def. Cancini (9%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Smith (90%) def. Cancini (10%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Smith (92%) def. Cancini (8%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Smith (92%) def. Cancini (8%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Smith (89%) def. Cancini (11%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Smith (91%) def. Cancini (9%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Smith (22.32) def. Cancini (1.95)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Miska Kadleckova (ISU) - 6-1 at #3, 14-3 in duals, 14-3 overall<br>Adriana Reami (NCST) - 12-4 at #3, 15-5 in duals, 16-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>NCST</i></b> - Reami (68%) def. Kadleckova (32%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Reami (75%) def. Kadleckova (25%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Reami (68%) def. Kadleckova (32%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Reami (58%) def. Kadleckova (42%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Reami (72%) def. Kadleckova (28%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Reami (68%) def. Kadleckova (32%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Reami (4.00) def. Kadleckova (2.94)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Christin Hsieh (ISU) - 1-3 at #4, 7-11 in duals, 7-11 overall<br>Jaeda Daniel (NCST) - 10-6 at #4, 11-8 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>NCST</i></b> - Daniel (89%) def. Hsieh (11%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Daniel (84%) def. Hsieh (16%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Daniel (87%) def. Hsieh (13%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Daniel (91%) def. Hsieh (9%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Daniel (95%) def. Hsieh (5%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Daniel (89%) def. Hsieh (11%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Daniel (1.87) def. Hsieh (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Chie Kezuka (ISU) - 7-4 at #5, 10-6 in duals, 10-6 overall<br>Abigail Rencheli (NCST) - 5-2 at #5, 10-4 in duals, 13-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>NCST</i></b> - Rencheli (80%) def. Kezuka (20%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Rencheli (68%) def. Kezuka (32%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rencheli (81%) def. Kezuka (19%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Rencheli (80%) def. Kezuka (20%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rencheli (92%) def. Kezuka (8%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Rencheli (80%) def. Kezuka (20%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rencheli (7.12) def. Kezuka (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Sofia Cabezas (ISU) - 9-3 at #6, 13-4 in duals, 13-4 overall<br>Lexi Keberle (NCST) - 2-4 at #6, 13-6 in duals, 16-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>NCST</i></b> - Keberle (73%) def. Cabezas (27%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Keberle (73%) def. Cabezas (27%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Keberle (67%) def. Cabezas (33%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Keberle (74%) def. Cabezas (26%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Keberle (80%) def. Cabezas (20%)</li>  
-<li>Composite: <b><i>NCST</i></b> - Keberle (73%) def. Cabezas (27%)</li>  
 <li>ITA: <b><i>ISU</i></b> - Cabezas (2.42) def. Keberle (1.71)</li>  
 </ul>
 </details>&nbsp;</li>

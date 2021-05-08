@@ -36,11 +36,11 @@ Visitor:
     MAS: 57 (4.78)
     UTR: 57 (51.77)
 Predictions:
+  AVG: UCLA - UCLA (99%) def. Grand Canyon (1%)
   SLM: "UCLA - #4 UCLA (99%) def. #59 Grand Canyon (1%)"
   TRN: "UCLA - #7 UCLA (99%) def. #60 Grand Canyon (1%)"
   MAS: "UCLA - #4 UCLA (100%) def. #57 Grand Canyon (0%)"
   LNUP: UCLA - UCLA (99%) def. Grand Canyon (1%)
-  AVG: UCLA - UCLA (99%) def. Grand Canyon (1%)
   UTR: "UCLA - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)"
   ITA: "UCLA - #4 UCLA def. #62 Grand Canyon"
   USTA: "UCLA - #4 UCLA def. Grand Canyon"
@@ -58,61 +58,61 @@ Lineups:
       UCLA: Abbey Forbes - 17-2 at 1, 18-2 in duals, 18-2 overall
       GCU: Natahsa Puehse - 14-4 at 1, 14-4 in duals, 14-4 overall
       Predictions:
+        AVG: UCLA - Forbes (99%) def. Puehse (1%)
         SLM: UCLA - Forbes (99%) def. Puehse (1%)
         TRN: UCLA - Forbes (99%) def. Puehse (1%)
         MAS: UCLA - Forbes (99%) def. Puehse (1%)
         UTR: UCLA - Forbes (98%) def. Puehse (2%)
-        AVG: UCLA - Forbes (99%) def. Puehse (1%)
         ITA: UCLA - Forbes (46.46) def. Puehse (2.45)
     - Position: 2
       UCLA: Jada Hart - 8-1 at 2, 11-2 in duals, 11-2 overall
       GCU: Emilia Occhipinti - 12-5 at 2, 12-5 in duals, 12-5 overall
       Predictions:
+        AVG: UCLA - Hart (98%) def. Occhipinti (2%)
         SLM: UCLA - Hart (99%) def. Occhipinti (1%)
         TRN: UCLA - Hart (99%) def. Occhipinti (1%)
         MAS: UCLA - Hart (98%) def. Occhipinti (2%)
         UTR: UCLA - Hart (98%) def. Occhipinti (2%)
-        AVG: UCLA - Hart (98%) def. Occhipinti (2%)
         ITA: UCLA - Hart (12.21) def. Occhipinti (2.15)
     - Position: 3
       UCLA: Elysia Bolton - 5-2 at 3, 9-3 in duals, 9-3 overall
       GCU: Jana Weiss - 15-4 at 3, 15-4 in duals, 15-4 overall
       Predictions:
+        AVG: UCLA - Bolton (98%) def. Weiss (2%)
         SLM: UCLA - Bolton (99%) def. Weiss (1%)
         TRN: UCLA - Bolton (99%) def. Weiss (1%)
         MAS: UCLA - Bolton (97%) def. Weiss (3%)
         UTR: UCLA - Bolton (98%) def. Weiss (2%)
-        AVG: UCLA - Bolton (98%) def. Weiss (2%)
         ITA: UCLA - Bolton (4.20) def. Weiss (2.42)
     - Position: 4
       UCLA: Vivian Wolff - 9-4 at 4, 10-6 in duals, 10-6 overall
       GCU: Joely Lomas - 9-4 at 4, 10-8 in duals, 10-8 overall
       Predictions:
+        AVG: UCLA - Wolff (99%) def. Lomas (1%)
         SLM: UCLA - Wolff (99%) def. Lomas (1%)
         TRN: UCLA - Wolff (99%) def. Lomas (1%)
         MAS: UCLA - Wolff (99%) def. Lomas (1%)
         UTR: UCLA - Wolff (98%) def. Lomas (2%)
-        AVG: UCLA - Wolff (99%) def. Lomas (1%)
         ITA: UCLA - Wolff (2.06) def. Lomas (1.64)
     - Position: 5
       UCLA: Sasha Vagramov - 5-3 at 5, 9-5 in duals, 9-5 overall
       GCU: Autum Prudhomme - 6-4 at 5, 7-10 in duals, 7-10 overall
       Predictions:
+        AVG: UCLA - Vagramov (99%) def. Prudhomme (1%)
         SLM: UCLA - Vagramov (99%) def. Prudhomme (1%)
         TRN: UCLA - Vagramov (99%) def. Prudhomme (1%)
         MAS: UCLA - Vagramov (99%) def. Prudhomme (1%)
         UTR: UCLA - Vagramov (99%) def. Prudhomme (1%)
-        AVG: UCLA - Vagramov (99%) def. Prudhomme (1%)
         ITA: UCLA - Vagramov (2.24) def. Prudhomme (0.00)
     - Position: 6
       UCLA: Vanessa Ong - 3-1 at 6, 4-1 in duals, 4-1 overall
       GCU: Taylor Andersen - 9-5 at 6, 10-7 in duals, 10-7 overall
       Predictions:
+        AVG: UCLA - Ong (99%) def. Andersen (1%)
         SLM: UCLA - Ong (99%) def. Andersen (1%)
         TRN: UCLA - Ong (99%) def. Andersen (1%)
         MAS: UCLA - Ong (97%) def. Andersen (3%)
         UTR: UCLA - Ong (99%) def. Andersen (1%)
-        AVG: UCLA - Ong (99%) def. Andersen (1%)
         ITA: GCU - Andersen (1.96) def. Ong (1.95)
   Doubles:
     - Position: 1

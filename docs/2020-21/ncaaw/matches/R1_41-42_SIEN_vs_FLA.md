@@ -42,11 +42,11 @@ Gainesville, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***FLA*** - Florida (99%) def. Siena (1%)  
 - Slam: ***FLA*** - #16 Florida (99%) def. #64 Siena (1%)  
 - TRN: ***FLA*** - #20 Florida (99%) def. #64 Siena (1%)  
 - Massey: ***FLA*** - #21 Florida (100%) def. #64 Siena (0%)  
 - Lineup: ***FLA*** - Florida (99%) def. Siena (1%)  
-- Composite: ***FLA*** - Florida (99%) def. Siena (1%)  
 - UTR: ***FLA*** - #11 Florida (+16.27) def. #62 Siena (-16.27)  
 - ITA: ***FLA*** - #11 Florida def. #60 Siena  
 - USTA Poll: ***FLA*** - #20 Florida def. Siena  
@@ -63,66 +63,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Meagan Brown (SIEN) - 7-3 at #1, 7-3 in duals, 7-3 overall<br>McCartney Kessler (FLA) - 13-2 at #1, 13-2 in duals, 16-2 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Kessler (99%) def. Brown (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Kessler (45.58) def. Brown (2.61)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Kylie Mullaney (SIEN) - 3-5 at #2, 3-5 in duals, 3-5 overall<br>Marlee Zein (FLA) - 6-5 at #2, 8-5 in duals, 10-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Zein (8.25) def. Mullaney (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Petra Miszczak (SIEN) - 3-4 at #3, 4-4 in duals, 4-4 overall<br>Ida Jarlskog (FLA) - 6-2 at #3, 8-4 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Jarlskog (5.66) def. Miszczak (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Maanya Viswanath (SIEN) - 4-2 at #4, 5-2 in duals, 5-2 overall<br>Layne Sleeth (FLA) - 7-0 at #4, 9-1 in duals, 9-1 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Sleeth (99%) def. Viswanath (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Sleeth (7.72) def. Viswanath (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Emma Boggiali (SIEN) - 5-2 at #5, 6-3 in duals, 6-3 overall<br>Sara Dahlstrom (FLA) - 3-4 at #5, 6-8 in duals, 9-11 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Dahlstrom (98%) def. Boggiali (2%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Dahlstrom (3.40) def. Boggiali (2.28)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Anastasia Koniaev (SIEN) - 5-2 at #6, 6-2 in duals, 6-2 overall<br>Sydney Berlin (FLA) - 6-3 at #6, 11-4 in duals, 16-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Berlin (99%) def. Koniaev (1%)</li>  
 <li>ITA: <b><i>SIEN</i></b> - Koniaev (2.56) def. Berlin (2.47)</li>  
 </ul>
 </details>&nbsp;</li>

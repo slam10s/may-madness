@@ -39,11 +39,11 @@ Visitor:
     USTA: 24
     Coach: 27
 Predictions:
+  AVG: CAL - California (77%) def. Kentucky (23%)
   SLM: "CAL - #17 California (65%) def. #25 Kentucky (35%)"
   TRN: "CAL - #17 California (70%) def. #27 Kentucky (30%)"
   MAS: "CAL - #14 California (77%) def. #33 Kentucky (23%)"
   LNUP: CAL - California (95%) def. Kentucky (5%)
-  AVG: CAL - California (77%) def. Kentucky (23%)
   UTR: "CAL - #15 California (+2.00) def. #34 Kentucky (-2.00)"
   ITA: "CAL - #16 California def. #26 Kentucky"
   USTA: "CAL - #13 California def. #24 Kentucky"
@@ -61,61 +61,61 @@ Lineups:
       CAL: Haley Giavara - 12-10 at 1, 12-10 in duals, 12-10 overall
       UK: Akvile Parazinskaite - 16-6 at 1, 16-6 in duals, 19-10 overall
       Predictions:
+        AVG: CAL - Giavara (65%) def. Parazinskaite (35%)
         SLM: CAL - Giavara (73%) def. Parazinskaite (27%)
         TRN: CAL - Giavara (75%) def. Parazinskaite (25%)
         MAS: CAL - Giavara (54%) def. Parazinskaite (46%)
         UTR: CAL - Giavara (58%) def. Parazinskaite (42%)
-        AVG: CAL - Giavara (65%) def. Parazinskaite (35%)
         ITA: CAL - Giavara (18.44) def. Parazinskaite (0.00)
     - Position: 2
       CAL: Julia Rosenqvist - 11-7 at 2, 14-7 in duals, 14-7 overall
       UK: Lesedi Jacobs - 0-1 at 2, 9-5 in duals, 11-8 overall
       Predictions:
+        AVG: CAL - Rosenqvist (69%) def. Jacobs (31%)
         SLM: CAL - Rosenqvist (72%) def. Jacobs (28%)
         TRN: CAL - Rosenqvist (70%) def. Jacobs (30%)
         MAS: CAL - Rosenqvist (54%) def. Jacobs (46%)
         UTR: CAL - Rosenqvist (79%) def. Jacobs (21%)
-        AVG: CAL - Rosenqvist (69%) def. Jacobs (31%)
         ITA: UK - Jacobs (5.00) def. Rosenqvist (2.23)
     - Position: 3
       CAL: Valentina Ivanov - 9-5 at 3, 10-8 in duals, 10-8 overall
       UK: Carlota Molina - 1-1 at 3, 12-7 in duals, 12-13 overall
       Predictions:
+        AVG: CAL - Ivanov (65%) def. Molina (35%)
         SLM: CAL - Ivanov (64%) def. Molina (36%)
         TRN: CAL - Ivanov (64%) def. Molina (36%)
         MAS: CAL - Ivanov (53%) def. Molina (47%)
         UTR: CAL - Ivanov (79%) def. Molina (21%)
-        AVG: CAL - Ivanov (65%) def. Molina (35%)
         ITA: UK - Molina (2.40) def. Ivanov (1.97)
     - Position: 4
       CAL: Jada Bui - 8-5 at 4, 10-6 in duals, 10-6 overall
       UK: Elizabeth Stevens - 1-5 at 4, 3-8 in duals, 6-13 overall
       Predictions:
+        AVG: CAL - Bui (81%) def. Stevens (19%)
         SLM: CAL - Bui (82%) def. Stevens (18%)
         TRN: CAL - Bui (85%) def. Stevens (15%)
         MAS: CAL - Bui (75%) def. Stevens (25%)
         UTR: CAL - Bui (83%) def. Stevens (17%)
-        AVG: CAL - Bui (81%) def. Stevens (19%)
         ITA: CAL - Bui (1.95) def. Stevens (0.00)
     - Position: 5
       CAL: Hannah Viller Moeller - 8-5 at 5, 14-7 in duals, 14-7 overall
       UK: Carla Girbau - 2-1 at 5, 9-9 in duals, 11-14 overall
       Predictions:
+        AVG: CAL - Moeller (77%) def. Girbau (23%)
         SLM: CAL - Moeller (70%) def. Girbau (30%)
         TRN: CAL - Moeller (84%) def. Girbau (16%)
         MAS: CAL - Moeller (74%) def. Girbau (26%)
         UTR: CAL - Moeller (81%) def. Girbau (19%)
-        AVG: CAL - Moeller (77%) def. Girbau (23%)
         ITA: CAL - Moeller (1.79) def. Girbau (0.00)
     - Position: 6
       CAL: Anna Bright - 10-3 at 6, 18-3 in duals, 18-3 overall
       UK: Fiona Arrese - 2-1 at 6, 10-4 in duals, 10-9 overall
       Predictions:
+        AVG: CAL - Bright (88%) def. Arrese (12%)
         SLM: CAL - Bright (75%) def. Arrese (25%)
         TRN: CAL - Bright (89%) def. Arrese (11%)
         MAS: CAL - Bright (88%) def. Arrese (12%)
         UTR: CAL - Bright (99%) def. Arrese (1%)
-        AVG: CAL - Bright (88%) def. Arrese (12%)
         ITA: CAL - Bright (2.79) def. Arrese (1.49)
   Doubles:
     - Position: 1

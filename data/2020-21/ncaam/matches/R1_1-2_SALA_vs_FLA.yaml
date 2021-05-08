@@ -36,11 +36,11 @@ Visitor:
     MAS: 46 (6.79)
     UTR: 49 (73.92)
 Predictions:
+  AVG: FLA - Florida (99%) def. South Alabama (1%)
   SLM: "FLA - #2 Florida (99%) def. #50 South Alabama (1%)"
   TRN: "FLA - #3 Florida (99%) def. #52 South Alabama (1%)"
   MAS: "FLA - #1 Florida (99%) def. #46 South Alabama (1%)"
   LNUP: FLA - Florida (99%) def. South Alabama (1%)
-  AVG: FLA - Florida (99%) def. South Alabama (1%)
   UTR: "FLA - #1 Florida (+6.84) def. #49 South Alabama (-6.84)"
   ITA: "FLA - #2 Florida def. #53 South Alabama"
   USTA: "FLA - #2 Florida def. South Alabama"
@@ -58,61 +58,61 @@ Lineups:
       FLA: Duarte Vale - 15-6 at 1, 15-6 in duals, 23-6 overall
       SALA: Julien Evrard - 10-4 at 1, 13-4 in duals, 19-7 overall
       Predictions:
+        AVG: FLA - Vale (90%) def. Evrard (10%)
         SLM: FLA - Vale (92%) def. Evrard (8%)
         TRN: FLA - Vale (92%) def. Evrard (8%)
         MAS: FLA - Vale (86%) def. Evrard (14%)
         UTR: FLA - Vale (90%) def. Evrard (10%)
-        AVG: FLA - Vale (90%) def. Evrard (10%)
         ITA: FLA - Vale (54.01) def. Evrard (8.29)
     - Position: 2
       FLA: Sam Riffice - 16-4 at 2, 18-4 in duals, 23-7 overall
       SALA: Clement Marzol - 8-1 at 2, 12-2 in duals, 18-4 overall
       Predictions:
+        AVG: FLA - Riffice (89%) def. Marzol (11%)
         SLM: FLA - Riffice (90%) def. Marzol (10%)
         TRN: FLA - Riffice (92%) def. Marzol (8%)
         MAS: FLA - Riffice (82%) def. Marzol (18%)
         UTR: FLA - Riffice (92%) def. Marzol (8%)
-        AVG: FLA - Riffice (89%) def. Marzol (11%)
         ITA: FLA - Riffice (49.68) def. Marzol (8.12)
     - Position: 3
       FLA: Andy Andrade - 12-7 at 3, 14-7 in duals, 22-7 overall
       SALA: Loic Cloes - 5-3 at 3, 9-4 in duals, 9-4 overall
       Predictions:
+        AVG: FLA - Andrade (93%) def. Cloes (7%)
         SLM: FLA - Andrade (93%) def. Cloes (7%)
         TRN: FLA - Andrade (96%) def. Cloes (4%)
         MAS: FLA - Andrade (88%) def. Cloes (12%)
         UTR: FLA - Andrade (94%) def. Cloes (6%)
-        AVG: FLA - Andrade (93%) def. Cloes (7%)
         ITA: FLA - Andrade (32.71) def. Cloes (2.46)
     - Position: 4
       FLA: Blaise Bicknell - 15-0 at 4, 20-0 in duals, 29-0 overall
       SALA: Sebastien Collard - 7-4 at 4, 11-6 in duals, 20-6 overall
       Predictions:
+        AVG: FLA - Bicknell (93%) def. Collard (7%)
         SLM: FLA - Bicknell (94%) def. Collard (6%)
         TRN: FLA - Bicknell (98%) def. Collard (2%)
         MAS: FLA - Bicknell (87%) def. Collard (13%)
         UTR: FLA - Bicknell (94%) def. Collard (6%)
-        AVG: FLA - Bicknell (93%) def. Collard (7%)
         ITA: FLA - Bicknell (15.89) def. Collard (2.43)
     - Position: 5
       FLA: Ben Shelton - 15-4 at 5, 17-4 in duals, 24-5 overall
       SALA: Louis Delcour - 5-2 at 5, 9-5 in duals, 9-5 overall
       Predictions:
+        AVG: FLA - Shelton (94%) def. Delcour (6%)
         SLM: FLA - Shelton (96%) def. Delcour (4%)
         TRN: FLA - Shelton (98%) def. Delcour (2%)
         MAS: FLA - Shelton (88%) def. Delcour (12%)
         UTR: FLA - Shelton (96%) def. Delcour (4%)
-        AVG: FLA - Shelton (94%) def. Delcour (6%)
         ITA: FLA - Shelton (3.20) def. Delcour (2.17)
     - Position: 6
       FLA: Josh Goodger - 12-0 at 6, 13-0 in duals, 19-0 overall
       SALA: Martin Bugaj - 1-4 at 6, 4-8 in duals, 7-13 overall
       Predictions:
+        AVG: FLA - Goodger (99%) def. Bugaj (1%)
         SLM: FLA - Goodger (99%) def. Bugaj (1%)
         TRN: FLA - Goodger (99%) def. Bugaj (1%)
         MAS: FLA - Goodger (99%) def. Bugaj (1%)
         UTR: FLA - Goodger (98%) def. Bugaj (2%)
-        AVG: FLA - Goodger (99%) def. Bugaj (1%)
         ITA: FLA - Goodger (8.31) def. Bugaj (0.00)
   Doubles:
     - Position: 1

@@ -36,11 +36,11 @@ Visitor:
     MAS: 63 (3.41)
     UTR: 61 (46.66)
 Predictions:
+  AVG: FSU - Florida St. (99%) def. Alabama St. (1%)
   SLM: "FSU - #10 Florida St. (99%) def. #63 Alabama St. (1%)"
   TRN: "FSU - #9 Florida St. (99%) def. #62 Alabama St. (1%)"
   MAS: "FSU - #9 Florida St. (100%) def. #63 Alabama St. (0%)"
   LNUP: FSU - Florida St. (99%) def. Alabama St. (1%)
-  AVG: FSU - Florida St. (99%) def. Alabama St. (1%)
   UTR: "FSU - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)"
   ITA: "FSU - #7 Florida St. def. #61 Alabama St."
   USTA: "FSU - #12 Florida St. def. Alabama St."
@@ -58,61 +58,61 @@ Lineups:
       FSU: Giulia Pairone - 11-8 at 1, 11-8 in duals, 13-8 overall
       ALST: Madalena Andrade - 10-3 at 1, 10-3 in duals, 10-3 overall
       Predictions:
+        AVG: FSU - Pairone (99%) def. Andrade (1%)
         SLM: FSU - Pairone (99%) def. Andrade (1%)
         TRN: FSU - Pairone (99%) def. Andrade (1%)
         MAS: FSU - Pairone (99%) def. Andrade (1%)
         UTR: FSU - Pairone (99%) def. Andrade (1%)
-        AVG: FSU - Pairone (99%) def. Andrade (1%)
         ITA: FSU - Pairone (30.67) def. Andrade (2.89)
     - Position: 2
       FSU: Emmanuelle Salas - 5-6 at 2, 7-9 in duals, 7-10 overall
       ALST: Lizaveta Dzemchanka - 0-0 at 2, 3-0 in duals, 3-0 overall
       Predictions:
+        AVG: FSU - Salas (97%) def. Dzemchanka (3%)
         SLM: FSU - Salas (100%) def. Dzemchanka (0%)
         TRN: FSU - Salas (100%) def. Dzemchanka (0%)
         MAS: FSU - Salas (90%) def. Dzemchanka (10%)
         UTR: FSU - Salas (99%) def. Dzemchanka (1%)
-        AVG: FSU - Salas (97%) def. Dzemchanka (3%)
         ITA: FSU - Salas (14.35) def. Dzemchanka (0.00)
     - Position: 3
       FSU: Nandini Das - 6-4 at 3, 11-8 in duals, 12-8 overall
       ALST: Urska Velec - 3-1 at 3, 8-2 in duals, 8-2 overall
       Predictions:
+        AVG: FSU - Das (99%) def. Velec (1%)
         SLM: FSU - Das (99%) def. Velec (1%)
         TRN: FSU - Das (99%) def. Velec (1%)
         MAS: FSU - Das (98%) def. Velec (2%)
         UTR: FSU - Das (99%) def. Velec (1%)
-        AVG: FSU - Das (99%) def. Velec (1%)
         ITA: ALST - Velec (2.89) def. Das (2.52)
     - Position: 4
       FSU: Petra Hule - 4-0 at 4, 12-3 in duals, 13-3 overall
       ALST: Francesca Duca - 8-0 at 4, 8-4 in duals, 8-4 overall
       Predictions:
+        AVG: FSU - Hule (99%) def. Duca (1%)
         SLM: FSU - Hule (99%) def. Duca (1%)
         TRN: FSU - Hule (99%) def. Duca (1%)
         MAS: FSU - Hule (99%) def. Duca (1%)
         UTR: FSU - Hule (99%) def. Duca (1%)
-        AVG: FSU - Hule (99%) def. Duca (1%)
         ITA: FSU - Hule (3.24) def. Duca (2.26)
     - Position: 5
       FSU: Victoria Allen - 7-0 at 5, 11-4 in duals, 12-5 overall
       ALST: Timothee Legaud - 0-2 at 5, 3-4 in duals, 3-4 overall
       Predictions:
+        AVG: FSU - Allen (99%) def. Legaud (1%)
         SLM: FSU - Allen (99%) def. Legaud (1%)
         TRN: FSU - Allen (99%) def. Legaud (1%)
         MAS: FSU - Allen (100%) def. Legaud (0%)
         UTR: FSU - Allen (99%) def. Legaud (1%)
-        AVG: FSU - Allen (99%) def. Legaud (1%)
         ITA: FSU - Allen (2.90) def. Legaud (0.00)
     - Position: 6
       FSU: Anna Arkadianou - 0-0 at 6, 3-4 in duals, 4-5 overall
       ALST: Bea Acena - 0-0 at 6, 7-6 in duals, 7-6 overall
       Predictions:
+        AVG: FSU - Arkadianou (99%) def. Acena (1%)
         SLM: FSU - Arkadianou (99%) def. Acena (1%)
         TRN: FSU - Arkadianou (99%) def. Acena (1%)
         MAS: FSU - Arkadianou (99%) def. Acena (1%)
         UTR: FSU - Arkadianou (99%) def. Acena (1%)
-        AVG: FSU - Arkadianou (99%) def. Acena (1%)
         ITA: ALST - Acena (1.75) def. Arkadianou (0.00)
   Doubles:
     - Position: 1

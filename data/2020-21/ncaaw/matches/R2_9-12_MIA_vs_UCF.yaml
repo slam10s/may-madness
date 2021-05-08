@@ -39,11 +39,11 @@ Visitor:
     USTA: 21
     Coach: 21
 Predictions:
+  AVG: UCF - UCF (52%) def. Miami (FL) (48%)
   SLM: "UCF - #12 UCF (66%) def. #22 Miami (FL) (34%)"
   TRN: "UCF - #12 UCF (70%) def. #21 Miami (FL) (30%)"
   MAS: "UCF - #10 UCF (55%) def. #17 Miami (FL) (45%)"
   LNUP: MIA - Miami (FL) (82%) def. UCF (18%)
-  AVG: UCF - UCF (52%) def. Miami (FL) (48%)
   UTR: "UCF - #16 UCF (+0.14) def. #19 Miami (FL) (-0.14)"
   ITA: "UCF - #9 UCF def. #24 Miami (FL)"
   USTA: "UCF - #9 UCF def. #21 Miami (FL)"
@@ -61,61 +61,61 @@ Lineups:
       UCF: Valeriya Zeleva - 9-2 at 1, 12-2 in duals, 13-3 overall
       MIA: Estela Perez-Somarriba - 19-2 at 1, 19-2 in duals, 19-2 overall
       Predictions:
+        AVG: MIA - Perez-Somarriba (83%) def. Zeleva (17%)
         SLM: MIA - Perez-Somarriba (86%) def. Zeleva (14%)
         TRN: MIA - Perez-Somarriba (88%) def. Zeleva (12%)
         MAS: MIA - Perez-Somarriba (72%) def. Zeleva (28%)
         UTR: MIA - Perez-Somarriba (88%) def. Zeleva (12%)
-        AVG: MIA - Perez-Somarriba (83%) def. Zeleva (17%)
         ITA: MIA - Perez-Somarriba (69.45) def. Zeleva (22.66)
     - Position: 2
       UCF: Rebeka Stolmar - 7-4 at 2, 12-6 in duals, 14-7 overall
       MIA: Isabella Pfennig - 12-4 at 2, 16-4 in duals, 16-4 overall
       Predictions:
+        AVG: MIA - Pfennig (67%) def. Stolmar (33%)
         SLM: MIA - Pfennig (63%) def. Stolmar (37%)
         TRN: MIA - Pfennig (71%) def. Stolmar (29%)
         MAS: MIA - Pfennig (61%) def. Stolmar (39%)
         UTR: MIA - Pfennig (79%) def. Stolmar (21%)
-        AVG: MIA - Pfennig (67%) def. Stolmar (33%)
         ITA: MIA - Pfennig (32.52) def. Stolmar (15.81)
     - Position: 3
       UCF: Evgeniya Levashova - 6-2 at 3, 11-5 in duals, 11-5 overall
       MIA: Daevenia Achong - 7-6 at 3, 7-11 in duals, 7-11 overall
       Predictions:
+        AVG: UCF - Levashova (71%) def. Achong (29%)
         SLM: UCF - Levashova (62%) def. Achong (38%)
         TRN: UCF - Levashova (78%) def. Achong (22%)
         MAS: UCF - Levashova (66%) def. Achong (34%)
         UTR: UCF - Levashova (80%) def. Achong (20%)
-        AVG: UCF - Levashova (71%) def. Achong (29%)
         ITA: UCF - Levashova (4.48) def. Achong (1.49)
     - Position: 4
       UCF: Ksenia Kuznetsova - 6-0 at 4, 11-3 in duals, 11-3 overall
       MIA: Florencia Urrutia - 11-4 at 4, 12-8 in duals, 12-8 overall
       Predictions:
+        AVG: UCF - Kuznetsova (76%) def. Urrutia (24%)
         SLM: UCF - Kuznetsova (76%) def. Urrutia (24%)
         TRN: UCF - Kuznetsova (74%) def. Urrutia (26%)
         MAS: UCF - Kuznetsova (72%) def. Urrutia (28%)
         UTR: UCF - Kuznetsova (84%) def. Urrutia (16%)
-        AVG: UCF - Kuznetsova (76%) def. Urrutia (24%)
         ITA: UCF - Kuznetsova (3.33) def. Urrutia (1.96)
     - Position: 5
       UCF: Marie Mattel - 2-0 at 5, 6-4 in duals, 6-4 overall
       MIA: Diana Khodan - 5-5 at 5, 12-7 in duals, 12-7 overall
       Predictions:
+        AVG: MIA - Khodan (65%) def. Mattel (35%)
         SLM: MIA - Khodan (56%) def. Mattel (44%)
         TRN: MIA - Khodan (64%) def. Mattel (36%)
         MAS: MIA - Khodan (67%) def. Mattel (33%)
         UTR: MIA - Khodan (76%) def. Mattel (24%)
-        AVG: MIA - Khodan (65%) def. Mattel (35%)
         ITA: UCF - Mattel (2.00) def. Khodan (1.90)
     - Position: 6
       UCF: Nadja Bay - 0-0 at 6, 1-3 in duals, 1-3 overall
       MIA: Maya Tahan - 6-1 at 6, 13-8 in duals, 13-8 overall
       Predictions:
+        AVG: MIA - Tahan (97%) def. Bay (3%)
         SLM: MIA - Tahan (100%) def. Bay (0%)
         TRN: MIA - Tahan (100%) def. Bay (0%)
         MAS: MIA - Tahan (90%) def. Bay (10%)
         UTR: MIA - Tahan (100%) def. Bay (0%)
-        AVG: MIA - Tahan (97%) def. Bay (3%)
         ITA: MIA - Tahan (2.26) def. Bay (0.00)
   Doubles:
     - Position: 1

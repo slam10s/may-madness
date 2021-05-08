@@ -42,11 +42,11 @@ Evanston, Illinois
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***A&M*** - Texas A&M (99%) def. Drake (1%)  
 - Slam: ***A&M*** - #15 Texas A&M (99%) def. #58 Drake (1%)  
 - TRN: ***A&M*** - #14 Texas A&M (99%) def. #58 Drake (1%)  
 - Massey: ***A&M*** - #21 Texas A&M (99%) def. #59 Drake (1%)  
 - Lineup: ***A&M*** - Texas A&M (99%) def. Drake (1%)  
-- Composite: ***A&M*** - Texas A&M (99%) def. Drake (1%)  
 - UTR: ***A&M*** - #21 Texas A&M (+10.83) def. #59 Drake (-10.83)  
 - ITA: ***A&M*** - #10 Texas A&M def. #63 Drake  
 - USTA Poll: ***A&M*** - #17 Texas A&M def. Drake  
@@ -63,66 +63,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Elizaveta Petushkova (DRKE) - 10-8 at #1, 10-8 in duals, 10-8 overall<br>Tatiana Makarova (A&M) - 12-4 at #1, 15-4 in duals, 23-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Makarova (97%) def. Petushkova (3%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Makarova (99%) def. Petushkova (1%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Makarova (98%) def. Petushkova (2%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Makarova (21.86) def. Petushkova (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Daria Walczak (DRKE) - 6-7 at #2, 8-9 in duals, 8-9 overall<br>Jayci Goldsmith (A&M) - 9-7 at #2, 11-9 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Goldsmith (98%) def. Walczak (2%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Goldsmith (3.03) def. Walczak (1.52)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ines Stephani (DRKE) - 5-1 at #3, 12-4 in duals, 12-4 overall<br>Katya Townsend (A&M) - 9-6 at #3, 11-6 in duals, 18-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - Townsend (96%) def. Stephani (4%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Townsend (92%) def. Stephani (8%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Townsend (98%) def. Stephani (2%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Townsend (96%) def. Stephani (4%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Townsend (3.71) def. Stephani (2.39)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Maria Tatarnikova (DRKE) - 7-0 at #4, 12-6 in duals, 12-6 overall<br>Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - Faa-Hviding (96%) def. Tatarnikova (4%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (98%) def. Tatarnikova (2%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Faa-Hviding (91%) def. Tatarnikova (9%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Faa-Hviding (97%) def. Tatarnikova (3%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Faa-Hviding (96%) def. Tatarnikova (4%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Faa-Hviding (1.87) def. Tatarnikova (1.80)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Darinka Stepan (DRKE) - 9-4 at #5, 10-5 in duals, 10-5 overall<br>Renee McBryde (A&M) - 10-1 at #5, 14-3 in duals, 17-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - McBryde (98%) def. Stepan (2%)</li>  
 <li>Slam: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McBryde (99%) def. Stepan (1%)</li>  
 <li>Massey: <b><i>A&M</i></b> - McBryde (96%) def. Stepan (4%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McBryde (97%) def. Stepan (3%)</li>  
-<li>Composite: <b><i>A&M</i></b> - McBryde (98%) def. Stepan (2%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McBryde (2.44) def. Stepan (1.93)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Kelsey Neville (DRKE) - 8-4 at #6, 9-7 in duals, 9-7 overall<br>Riley McQuaid (A&M) - 8-5 at #6, 11-5 in duals, 16-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - McQuaid (98%) def. Neville (2%)</li>  
 <li>Slam: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
 <li>Massey: <b><i>A&M</i></b> - McQuaid (96%) def. Neville (4%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McQuaid (99%) def. Neville (1%)</li>  
-<li>Composite: <b><i>A&M</i></b> - McQuaid (98%) def. Neville (2%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McQuaid (2.12) def. Neville (1.64)</li>  
 </ul>
 </details>&nbsp;</li>

@@ -36,11 +36,11 @@ Visitor:
     MAS: 59 (4.59)
     UTR: 59 (50.87)
 Predictions:
+  AVG: A&M - Texas A&M (99%) def. Drake (1%)
   SLM: "A&M - #15 Texas A&M (99%) def. #58 Drake (1%)"
   TRN: "A&M - #14 Texas A&M (99%) def. #58 Drake (1%)"
   MAS: "A&M - #21 Texas A&M (99%) def. #59 Drake (1%)"
   LNUP: A&M - Texas A&M (99%) def. Drake (1%)
-  AVG: A&M - Texas A&M (99%) def. Drake (1%)
   UTR: "A&M - #21 Texas A&M (+10.83) def. #59 Drake (-10.83)"
   ITA: "A&M - #10 Texas A&M def. #63 Drake"
   USTA: "A&M - #17 Texas A&M def. Drake"
@@ -58,61 +58,61 @@ Lineups:
       A&M: Tatiana Makarova - 12-4 at 1, 15-4 in duals, 23-6 overall
       DRKE: Elizaveta Petushkova - 10-8 at 1, 10-8 in duals, 10-8 overall
       Predictions:
+        AVG: A&M - Makarova (98%) def. Petushkova (2%)
         SLM: A&M - Makarova (97%) def. Petushkova (3%)
         TRN: A&M - Makarova (99%) def. Petushkova (1%)
         MAS: A&M - Makarova (98%) def. Petushkova (2%)
         UTR: A&M - Makarova (98%) def. Petushkova (2%)
-        AVG: A&M - Makarova (98%) def. Petushkova (2%)
         ITA: A&M - Makarova (21.86) def. Petushkova (1.55)
     - Position: 2
       A&M: Jayci Goldsmith - 9-7 at 2, 11-9 in duals, 13-10 overall
       DRKE: Daria Walczak - 6-7 at 2, 8-9 in duals, 8-9 overall
       Predictions:
+        AVG: A&M - Goldsmith (98%) def. Walczak (2%)
         SLM: A&M - Goldsmith (98%) def. Walczak (2%)
         TRN: A&M - Goldsmith (98%) def. Walczak (2%)
         MAS: A&M - Goldsmith (98%) def. Walczak (2%)
         UTR: A&M - Goldsmith (98%) def. Walczak (2%)
-        AVG: A&M - Goldsmith (98%) def. Walczak (2%)
         ITA: A&M - Goldsmith (3.03) def. Walczak (1.52)
     - Position: 3
       A&M: Katya Townsend - 9-6 at 3, 11-6 in duals, 18-9 overall
       DRKE: Ines Stephani - 5-1 at 3, 12-4 in duals, 12-4 overall
       Predictions:
+        AVG: A&M - Townsend (96%) def. Stephani (4%)
         SLM: A&M - Townsend (98%) def. Stephani (2%)
         TRN: A&M - Townsend (98%) def. Stephani (2%)
         MAS: A&M - Townsend (92%) def. Stephani (8%)
         UTR: A&M - Townsend (98%) def. Stephani (2%)
-        AVG: A&M - Townsend (96%) def. Stephani (4%)
         ITA: A&M - Townsend (3.71) def. Stephani (2.39)
     - Position: 4
       A&M: Dorthea Faa-Hviding - 7-6 at 4, 13-6 in duals, 14-7 overall
       DRKE: Maria Tatarnikova - 7-0 at 4, 12-6 in duals, 12-6 overall
       Predictions:
+        AVG: A&M - Faa-Hviding (96%) def. Tatarnikova (4%)
         SLM: A&M - Faa-Hviding (97%) def. Tatarnikova (3%)
         TRN: A&M - Faa-Hviding (98%) def. Tatarnikova (2%)
         MAS: A&M - Faa-Hviding (91%) def. Tatarnikova (9%)
         UTR: A&M - Faa-Hviding (97%) def. Tatarnikova (3%)
-        AVG: A&M - Faa-Hviding (96%) def. Tatarnikova (4%)
         ITA: A&M - Faa-Hviding (1.87) def. Tatarnikova (1.80)
     - Position: 5
       A&M: Renee McBryde - 10-1 at 5, 14-3 in duals, 17-4 overall
       DRKE: Darinka Stepan - 9-4 at 5, 10-5 in duals, 10-5 overall
       Predictions:
+        AVG: A&M - McBryde (98%) def. Stepan (2%)
         SLM: A&M - McBryde (99%) def. Stepan (1%)
         TRN: A&M - McBryde (99%) def. Stepan (1%)
         MAS: A&M - McBryde (96%) def. Stepan (4%)
         UTR: A&M - McBryde (97%) def. Stepan (3%)
-        AVG: A&M - McBryde (98%) def. Stepan (2%)
         ITA: A&M - McBryde (2.44) def. Stepan (1.93)
     - Position: 6
       A&M: Riley McQuaid - 8-5 at 6, 11-5 in duals, 16-9 overall
       DRKE: Kelsey Neville - 8-4 at 6, 9-7 in duals, 9-7 overall
       Predictions:
+        AVG: A&M - McQuaid (98%) def. Neville (2%)
         SLM: A&M - McQuaid (99%) def. Neville (1%)
         TRN: A&M - McQuaid (99%) def. Neville (1%)
         MAS: A&M - McQuaid (96%) def. Neville (4%)
         UTR: A&M - McQuaid (99%) def. Neville (1%)
-        AVG: A&M - McQuaid (98%) def. Neville (2%)
         ITA: A&M - McQuaid (2.12) def. Neville (1.64)
   Doubles:
     - Position: 1

@@ -37,11 +37,11 @@ Visitor:
   Polls:
     Coach: 37
 Predictions:
+  AVG: AUB - Auburn (65%) def. Oklahoma St. (35%)
   SLM: "AUB - #24 Auburn (75%) def. #37 Oklahoma St. (25%)"
   TRN: "AUB - #23 Auburn (82%) def. #37 Oklahoma St. (18%)"
   MAS: "AUB - #25 Auburn (72%) def. #36 Oklahoma St. (28%)"
   LNUP: OKST - Oklahoma St. (69%) def. Auburn (31%)
-  AVG: AUB - Auburn (65%) def. Oklahoma St. (35%)
   UTR: "OKST - #17 Oklahoma St. (+0.99) def. #30 Auburn (-0.99)"
   ITA: "AUB - #20 Auburn def. #37 Oklahoma St."
   USTA: "AUB - #25 Auburn def. Oklahoma St."
@@ -59,61 +59,61 @@ Lineups:
       AUB: Selin Ovunc - 8-9 at 1, 8-9 in duals, 13-10 overall
       OKST: Bunyawi Thamchaiwat - 9-2 at 1, 12-2 in duals, 20-4 overall
       Predictions:
+        AVG: OKST - Thamchaiwat (80%) def. Ovunc (20%)
         SLM: OKST - Thamchaiwat (75%) def. Ovunc (25%)
         TRN: OKST - Thamchaiwat (83%) def. Ovunc (17%)
         MAS: OKST - Thamchaiwat (78%) def. Ovunc (22%)
         UTR: OKST - Thamchaiwat (91%) def. Ovunc (9%)
-        AVG: OKST - Thamchaiwat (80%) def. Ovunc (20%)
         ITA: OKST - Thamchaiwat (21.36) def. Ovunc (9.63)
     - Position: 2
       AUB: Carolyn Ansari - 1-0 at 2, 12-3 in duals, 14-10 overall
       OKST: Ayumi Miyamoto - 3-2 at 2, 11-5 in duals, 21-9 overall
       Predictions:
+        AVG: AUB - Ansari (57%) def. Miyamoto (43%)
         SLM: AUB - Ansari (51%) def. Miyamoto (49%)
         TRN: OKST - Miyamoto (52%) def. Ansari (48%)
         MAS: AUB - Ansari (68%) def. Miyamoto (32%)
         UTR: AUB - Ansari (62%) def. Miyamoto (38%)
-        AVG: AUB - Ansari (57%) def. Miyamoto (43%)
         ITA: AUB - Ansari (7.96) def. Miyamoto (4.02)
     - Position: 3
       AUB: Yu Chen - 0-2 at 3, 5-11 in duals, 12-13 overall
       OKST: Alana Wolfberg - 3-2 at 3, 7-8 in duals, 17-10 overall
       Predictions:
+        AVG: OKST - Wolfberg (68%) def. Chen (32%)
         SLM: OKST - Wolfberg (65%) def. Chen (35%)
         TRN: OKST - Wolfberg (67%) def. Chen (33%)
         MAS: OKST - Wolfberg (64%) def. Chen (36%)
         UTR: OKST - Wolfberg (81%) def. Chen (19%)
-        AVG: OKST - Wolfberg (68%) def. Chen (32%)
         ITA: OKST - Wolfberg (10.37) def. Chen (3.54)
     - Position: 4
       AUB: Georgie Axon - 15-3 at 4, 16-3 in duals, 22-6 overall
       OKST: Dariya Detkovskaya - 5-6 at 4, 9-6 in duals, 17-8 overall
       Predictions:
+        AVG: AUB - Axon (71%) def. Detkovskaya (29%)
         SLM: AUB - Axon (58%) def. Detkovskaya (42%)
         TRN: AUB - Axon (65%) def. Detkovskaya (35%)
         MAS: AUB - Axon (74%) def. Detkovskaya (26%)
         UTR: AUB - Axon (86%) def. Detkovskaya (14%)
-        AVG: AUB - Axon (71%) def. Detkovskaya (29%)
         ITA: OKST - Detkovskaya (2.79) def. Axon (2.43)
     - Position: 5
       AUB: Adeline Flach - 4-5 at 5, 11-7 in duals, 14-10 overall
       OKST: Lenka Stara - 7-6 at 5, 10-8 in duals, 17-14 overall
       Predictions:
+        AVG: OKST - Stara (61%) def. Flach (39%)
         SLM: OKST - Stara (66%) def. Flach (34%)
         TRN: OKST - Stara (62%) def. Flach (38%)
         MAS: OKST - Stara (52%) def. Flach (48%)
         UTR: OKST - Stara (67%) def. Flach (33%)
-        AVG: OKST - Stara (61%) def. Flach (39%)
         ITA: AUB - Flach (1.50) def. Stara (0.00)
     - Position: 6
       AUB: Anastasia Astakhova - 2-5 at 6, 2-5 in duals, 2-5 overall
       OKST: Daniella Medvedeva - 3-7 at 6, 4-9 in duals, 10-12 overall
       Predictions:
+        AVG: OKST - Medvedeva (61%) def. Astakhova (39%)
         SLM: OKST - Medvedeva (61%) def. Astakhova (39%)
         TRN: AUB - Astakhova (58%) def. Medvedeva (42%)
         MAS: OKST - Medvedeva (61%) def. Astakhova (39%)
         UTR: OKST - Medvedeva (82%) def. Astakhova (18%)
-        AVG: OKST - Medvedeva (61%) def. Astakhova (39%)
   Doubles:
     - Position: 1
       AUB: Axon/Flach - 2-4 at 1, 10-8 in duals, 14-10 overall

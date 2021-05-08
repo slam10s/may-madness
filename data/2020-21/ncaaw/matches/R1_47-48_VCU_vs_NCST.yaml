@@ -36,11 +36,11 @@ Visitor:
     MAS: 48 (6.03)
     UTR: 48 (55.75)
 Predictions:
+  AVG: NCST - NC State (99%) def. VCU (1%)
   SLM: "NCST - #11 NC State (99%) def. #48 VCU (1%)"
   TRN: "NCST - #10 NC State (99%) def. #48 VCU (1%)"
   MAS: "NCST - #6 NC State (99%) def. #48 VCU (1%)"
   LNUP: NCST - NC State (99%) def. VCU (1%)
-  AVG: NCST - NC State (99%) def. VCU (1%)
   UTR: "NCST - #9 NC State (+7.24) def. #48 VCU (-7.24)"
   ITA: "NCST - #6 NC State def. #49 VCU"
   USTA: "NCST - #11 NC State def. VCU"
@@ -58,61 +58,61 @@ Lineups:
       NCST: Anna Rogers - 14-6 at 1, 14-6 in duals, 19-6 overall
       VCU: Paola Exposito Diaz-Delgado - 16-3 at 1, 16-3 in duals, 16-3 overall
       Predictions:
+        AVG: NCST - Rogers (84%) def. Diaz-Delgado (16%)
         SLM: NCST - Rogers (85%) def. Diaz-Delgado (15%)
         TRN: NCST - Rogers (81%) def. Diaz-Delgado (19%)
         MAS: NCST - Rogers (85%) def. Diaz-Delgado (15%)
         UTR: NCST - Rogers (85%) def. Diaz-Delgado (15%)
-        AVG: NCST - Rogers (84%) def. Diaz-Delgado (16%)
         ITA: NCST - Rogers (48.19) def. Diaz-Delgado (5.71)
     - Position: 2
       NCST: Alana Smith - 14-5 at 2, 14-5 in duals, 16-8 overall
       VCU: Luminita Tutunaru - 7-8 at 2, 7-11 in duals, 7-11 overall
       Predictions:
+        AVG: NCST - Smith (97%) def. Tutunaru (3%)
         SLM: NCST - Smith (96%) def. Tutunaru (4%)
         TRN: NCST - Smith (98%) def. Tutunaru (2%)
         MAS: NCST - Smith (96%) def. Tutunaru (4%)
         UTR: NCST - Smith (97%) def. Tutunaru (3%)
-        AVG: NCST - Smith (97%) def. Tutunaru (3%)
         ITA: NCST - Smith (22.32) def. Tutunaru (1.60)
     - Position: 3
       NCST: Adriana Reami - 12-4 at 3, 15-5 in duals, 16-9 overall
       VCU: Alessia Ciuca - 10-7 at 3, 10-11 in duals, 10-11 overall
       Predictions:
+        AVG: NCST - Reami (96%) def. Ciuca (4%)
         SLM: NCST - Reami (96%) def. Ciuca (4%)
         TRN: NCST - Reami (97%) def. Ciuca (3%)
         MAS: NCST - Reami (93%) def. Ciuca (7%)
         UTR: NCST - Reami (97%) def. Ciuca (3%)
-        AVG: NCST - Reami (96%) def. Ciuca (4%)
         ITA: NCST - Reami (4.00) def. Ciuca (1.68)
     - Position: 4
       NCST: Jaeda Daniel - 10-6 at 4, 11-8 in duals, 13-10 overall
       VCU: Gabriela Davidescu - 9-8 at 4, 10-8 in duals, 10-8 overall
       Predictions:
+        AVG: NCST - Daniel (95%) def. Davidescu (5%)
         SLM: NCST - Daniel (96%) def. Davidescu (4%)
         TRN: NCST - Daniel (95%) def. Davidescu (5%)
         MAS: NCST - Daniel (92%) def. Davidescu (8%)
         UTR: NCST - Daniel (96%) def. Davidescu (4%)
-        AVG: NCST - Daniel (95%) def. Davidescu (5%)
         ITA: NCST - Daniel (1.87) def. Davidescu (1.64)
     - Position: 5
       NCST: Abigail Rencheli - 5-2 at 5, 10-4 in duals, 13-5 overall
       VCU: Noumea Witmus - 9-3 at 5, 13-6 in duals, 13-6 overall
       Predictions:
+        AVG: NCST - Rencheli (94%) def. Witmus (6%)
         SLM: NCST - Rencheli (95%) def. Witmus (5%)
         TRN: NCST - Rencheli (97%) def. Witmus (3%)
         MAS: NCST - Rencheli (88%) def. Witmus (12%)
         UTR: NCST - Rencheli (96%) def. Witmus (4%)
-        AVG: NCST - Rencheli (94%) def. Witmus (6%)
         ITA: NCST - Rencheli (7.12) def. Witmus (2.03)
     - Position: 6
       NCST: Lexi Keberle - 2-4 at 6, 13-6 in duals, 16-8 overall
       VCU: Shivani Manjanna - 8-6 at 6, 11-7 in duals, 11-7 overall
       Predictions:
+        AVG: NCST - Keberle (96%) def. Manjanna (4%)
         SLM: NCST - Keberle (97%) def. Manjanna (3%)
         TRN: NCST - Keberle (98%) def. Manjanna (2%)
         MAS: NCST - Keberle (92%) def. Manjanna (8%)
         UTR: NCST - Keberle (96%) def. Manjanna (4%)
-        AVG: NCST - Keberle (96%) def. Manjanna (4%)
         ITA: VCU - Manjanna (1.77) def. Keberle (1.71)
   Doubles:
     - Position: 1

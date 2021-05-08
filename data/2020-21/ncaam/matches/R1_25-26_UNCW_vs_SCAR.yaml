@@ -36,11 +36,11 @@ Visitor:
     MAS: 49 (6.70)
     UTR: 48 (74.00)
 Predictions:
+  AVG: SCAR - South Carolina (98%) def. UNCW (2%)
   SLM: "SCAR - #15 South Carolina (98%) def. #48 UNCW (2%)"
   TRN: "SCAR - #15 South Carolina (99%) def. #49 UNCW (1%)"
   MAS: "SCAR - #16 South Carolina (96%) def. #49 UNCW (4%)"
   LNUP: SCAR - South Carolina (99%) def. UNCW (1%)
-  AVG: SCAR - South Carolina (98%) def. UNCW (2%)
   UTR: "SCAR - #17 South Carolina (+4.69) def. #48 UNCW (-4.69)"
   ITA: "SCAR - #13 South Carolina def. #51 UNCW"
   USTA: "SCAR - #15 South Carolina def. UNCW"
@@ -58,61 +58,61 @@ Lineups:
       SCAR: Daniel Rodrigues - 16-4 at 1, 16-4 in duals, 24-6 overall
       UNCW: Bruno Caula - 11-6 at 1, 11-6 in duals, 11-6 overall
       Predictions:
+        AVG: SCAR - Rodrigues (96%) def. Caula (4%)
         SLM: SCAR - Rodrigues (94%) def. Caula (6%)
         TRN: SCAR - Rodrigues (97%) def. Caula (3%)
         MAS: SCAR - Rodrigues (95%) def. Caula (5%)
         UTR: SCAR - Rodrigues (95%) def. Caula (5%)
-        AVG: SCAR - Rodrigues (96%) def. Caula (4%)
         ITA: SCAR - Rodrigues (58.79) def. Caula (2.92)
     - Position: 2
       SCAR: Connor Thomson - 6-5 at 2, 11-8 in duals, 18-12 overall
       UNCW: Davide Innocenti - 8-3 at 2, 8-4 in duals, 8-4 overall
       Predictions:
+        AVG: SCAR - Thomson (92%) def. Innocenti (8%)
         SLM: SCAR - Thomson (91%) def. Innocenti (9%)
         TRN: SCAR - Thomson (96%) def. Innocenti (4%)
         MAS: SCAR - Thomson (90%) def. Innocenti (10%)
         UTR: SCAR - Thomson (91%) def. Innocenti (9%)
-        AVG: SCAR - Thomson (92%) def. Innocenti (8%)
         ITA: SCAR - Thomson (28.97) def. Innocenti (2.85)
     - Position: 3
       SCAR: Toby Samuel - 4-2 at 3, 16-4 in duals, 24-7 overall
       UNCW: Daniel Groom - 7-3 at 3, 10-4 in duals, 10-4 overall
       Predictions:
+        AVG: SCAR - Samuel (91%) def. Groom (9%)
         SLM: SCAR - Samuel (89%) def. Groom (11%)
         TRN: SCAR - Samuel (95%) def. Groom (5%)
         MAS: SCAR - Samuel (89%) def. Groom (11%)
         UTR: SCAR - Samuel (90%) def. Groom (10%)
-        AVG: SCAR - Samuel (91%) def. Groom (9%)
         ITA: SCAR - Samuel (10.78) def. Groom (2.67)
     - Position: 4
       SCAR: Raphael Lambling - 0-2 at 4, 6-12 in duals, 11-18 overall
       UNCW: Bekhzod Rasamatov - 3-2 at 4, 11-4 in duals, 11-4 overall
       Predictions:
+        AVG: SCAR - Lambling (89%) def. Rasamatov (11%)
         SLM: SCAR - Lambling (95%) def. Rasamatov (5%)
         TRN: SCAR - Lambling (93%) def. Rasamatov (7%)
         MAS: SCAR - Lambling (76%) def. Rasamatov (24%)
         UTR: SCAR - Lambling (92%) def. Rasamatov (8%)
-        AVG: SCAR - Lambling (89%) def. Rasamatov (11%)
         ITA: SCAR - Lambling (15.34) def. Rasamatov (2.15)
     - Position: 5
       SCAR: Jake Beasley - 7-7 at 5, 12-8 in duals, 18-10 overall
       UNCW: Gabriel Hurtado - 4-3 at 5, 8-6 in duals, 8-6 overall
       Predictions:
+        AVG: SCAR - Beasley (90%) def. Hurtado (10%)
         SLM: SCAR - Beasley (91%) def. Hurtado (9%)
         TRN: SCAR - Beasley (95%) def. Hurtado (5%)
         MAS: SCAR - Beasley (87%) def. Hurtado (13%)
         UTR: SCAR - Beasley (87%) def. Hurtado (13%)
-        AVG: SCAR - Beasley (90%) def. Hurtado (10%)
         ITA: UNCW - Hurtado (1.80) def. Beasley (1.73)
     - Position: 6
       SCAR: Thomas Brown - 2-2 at 6, 3-2 in duals, 11-6 overall
       UNCW: Michael Copeland - 5-2 at 6, 13-6 in duals, 13-6 overall
       Predictions:
+        AVG: SCAR - Brown (85%) def. Copeland (15%)
         SLM: SCAR - Brown (89%) def. Copeland (11%)
         TRN: SCAR - Brown (93%) def. Copeland (7%)
         MAS: SCAR - Brown (69%) def. Copeland (31%)
         UTR: SCAR - Brown (90%) def. Copeland (10%)
-        AVG: SCAR - Brown (85%) def. Copeland (15%)
         ITA: SCAR - Brown (2.19) def. Copeland (1.97)
   Doubles:
     - Position: 1

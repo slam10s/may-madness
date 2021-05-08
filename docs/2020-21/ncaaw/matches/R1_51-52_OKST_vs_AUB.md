@@ -43,11 +43,11 @@ Tallahassee, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***AUB*** - Auburn (65%) def. Oklahoma St. (35%)  
 - Slam: ***AUB*** - #24 Auburn (75%) def. #37 Oklahoma St. (25%)  
 - TRN: ***AUB*** - #23 Auburn (82%) def. #37 Oklahoma St. (18%)  
 - Massey: ***AUB*** - #25 Auburn (72%) def. #36 Oklahoma St. (28%)  
 - Lineup: ***OKST*** - Oklahoma St. (69%) def. Auburn (31%)  
-- Composite: ***AUB*** - Auburn (65%) def. Oklahoma St. (35%)  
 - UTR: ***OKST*** - #17 Oklahoma St. (+0.99) def. #30 Auburn (-0.99)  
 - ITA: ***AUB*** - #20 Auburn def. #37 Oklahoma St.  
 - USTA Poll: ***AUB*** - #25 Auburn def. Oklahoma St.  
@@ -64,66 +64,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Bunyawi Thamchaiwat (OKST) - 9-2 at #1, 12-2 in duals, 20-4 overall<br>Selin Ovunc (AUB) - 8-9 at #1, 8-9 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>OKST</i></b> - Thamchaiwat (80%) def. Ovunc (20%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Thamchaiwat (75%) def. Ovunc (25%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Thamchaiwat (83%) def. Ovunc (17%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Thamchaiwat (78%) def. Ovunc (22%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Thamchaiwat (91%) def. Ovunc (9%)</li>  
-<li>Composite: <b><i>OKST</i></b> - Thamchaiwat (80%) def. Ovunc (20%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Thamchaiwat (21.36) def. Ovunc (9.63)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ayumi Miyamoto (OKST) - 3-2 at #2, 11-5 in duals, 21-9 overall<br>Carolyn Ansari (AUB) - 1-0 at #2, 12-3 in duals, 14-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>AUB</i></b> - Ansari (57%) def. Miyamoto (43%)</li>  
 <li>Slam: <b><i>AUB</i></b> - Ansari (51%) def. Miyamoto (49%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Miyamoto (52%) def. Ansari (48%)</li>  
 <li>Massey: <b><i>AUB</i></b> - Ansari (68%) def. Miyamoto (32%)</li>  
 <li>UTR: <b><i>AUB</i></b> - Ansari (62%) def. Miyamoto (38%)</li>  
-<li>Composite: <b><i>AUB</i></b> - Ansari (57%) def. Miyamoto (43%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Ansari (7.96) def. Miyamoto (4.02)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Alana Wolfberg (OKST) - 3-2 at #3, 7-8 in duals, 17-10 overall<br>Yu Chen (AUB) - 0-2 at #3, 5-11 in duals, 12-13 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>OKST</i></b> - Wolfberg (68%) def. Chen (32%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Wolfberg (65%) def. Chen (35%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Wolfberg (67%) def. Chen (33%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Wolfberg (64%) def. Chen (36%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Wolfberg (81%) def. Chen (19%)</li>  
-<li>Composite: <b><i>OKST</i></b> - Wolfberg (68%) def. Chen (32%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Wolfberg (10.37) def. Chen (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Dariya Detkovskaya (OKST) - 5-6 at #4, 9-6 in duals, 17-8 overall<br>Georgie Axon (AUB) - 15-3 at #4, 16-3 in duals, 22-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>AUB</i></b> - Axon (71%) def. Detkovskaya (29%)</li>  
 <li>Slam: <b><i>AUB</i></b> - Axon (58%) def. Detkovskaya (42%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Axon (65%) def. Detkovskaya (35%)</li>  
 <li>Massey: <b><i>AUB</i></b> - Axon (74%) def. Detkovskaya (26%)</li>  
 <li>UTR: <b><i>AUB</i></b> - Axon (86%) def. Detkovskaya (14%)</li>  
-<li>Composite: <b><i>AUB</i></b> - Axon (71%) def. Detkovskaya (29%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Detkovskaya (2.79) def. Axon (2.43)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Lenka Stara (OKST) - 7-6 at #5, 10-8 in duals, 17-14 overall<br>Adeline Flach (AUB) - 4-5 at #5, 11-7 in duals, 14-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>OKST</i></b> - Stara (61%) def. Flach (39%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Stara (66%) def. Flach (34%)</li>  
 <li>TRN: <b><i>OKST</i></b> - Stara (62%) def. Flach (38%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Stara (52%) def. Flach (48%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Stara (67%) def. Flach (33%)</li>  
-<li>Composite: <b><i>OKST</i></b> - Stara (61%) def. Flach (39%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Flach (1.50) def. Stara (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Daniella Medvedeva (OKST) - 3-7 at #6, 4-9 in duals, 10-12 overall<br>Anastasia Astakhova (AUB) - 2-5 at #6, 2-5 in duals, 2-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
 <li>Slam: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Astakhova (58%) def. Medvedeva (42%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
 <li>UTR: <b><i>OKST</i></b> - Medvedeva (82%) def. Astakhova (18%)</li>  
-<li>Composite: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

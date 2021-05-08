@@ -43,11 +43,11 @@ Baton Rouge, Louisiana
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***MICH*** - Michigan (92%) def. Rice (8%)  
 - Slam: ***MICH*** - #8 Michigan (94%) def. #40 Rice (6%)  
 - TRN: ***MICH*** - #8 Michigan (96%) def. #36 Rice (4%)  
 - Massey: ***MICH*** - #15 Michigan (85%) def. #38 Rice (15%)  
 - Lineup: ***MICH*** - Michigan (94%) def. Rice (6%)  
-- Composite: ***MICH*** - Michigan (92%) def. Rice (8%)  
 - UTR: ***MICH*** - #17 Michigan (+1.87) def. #35 Rice (-1.87)  
 - ITA: ***MICH*** - #19 Michigan def. #40 Rice  
 - USTA Poll: ***MICH*** - #7 Michigan def. Rice  
@@ -64,66 +64,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Michaela Haet (RICE) - 4-3 at #1, 8-5 in duals, 9-11 overall<br>Kari Miller (MICH) - 11-3 at #1, 12-4 in duals, 15-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Miller (95%) def. Haet (5%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Miller (91%) def. Haet (9%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Miller (94%) def. Haet (6%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Miller (10.66) def. Haet (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Victoria Smirnova (RICE) - 1-0 at #2, 4-4 in duals, 5-4 overall<br>Chiara Lommer (MICH) - 10-3 at #2, 12-4 in duals, 14-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MICH</i></b> - Lommer (77%) def. Smirnova (23%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Lommer (74%) def. Smirnova (26%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Lommer (74%) def. Smirnova (26%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Lommer (83%) def. Smirnova (17%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Lommer (79%) def. Smirnova (21%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Lommer (77%) def. Smirnova (23%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Smirnova (2.76) def. Lommer (2.49)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Federica Trevisan (RICE) - 12-1 at #3, 14-2 in duals, 17-6 overall<br>Andrea Cerdan (MICH) - 7-4 at #3, 11-6 in duals, 13-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MICH</i></b> - Cerdan (66%) def. Trevisan (34%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Cerdan (66%) def. Trevisan (34%)</li>  
 <li>TRN: <b><i>RICE</i></b> - Trevisan (52%) def. Cerdan (48%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Cerdan (74%) def. Trevisan (26%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Cerdan (76%) def. Trevisan (24%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Cerdan (66%) def. Trevisan (34%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Trevisan (6.30) def. Cerdan (1.79)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Linda Huang (RICE) - 0-0 at #4, 4-2 in duals, 7-5 overall<br>Jaedan Brown (MICH) - 7-0 at #4, 15-2 in duals, 17-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MICH</i></b> - Brown (63%) def. Huang (37%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Brown (56%) def. Huang (44%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Brown (54%) def. Huang (46%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Brown (77%) def. Huang (23%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Brown (66%) def. Huang (34%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Brown (63%) def. Huang (37%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Huang (5.83) def. Brown (2.65)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Anastasia Smirnova (RICE) - 3-2 at #5, 4-3 in duals, 4-3 overall<br>Alyvia Jones (MICH) - 3-0 at #5, 7-2 in duals, 7-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MICH</i></b> - Jones (73%) def. Smirnova (27%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Jones (78%) def. Smirnova (22%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Jones (69%) def. Smirnova (31%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Jones (72%) def. Smirnova (28%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Jones (72%) def. Smirnova (28%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Jones (73%) def. Smirnova (27%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Jones (2.08) def. Smirnova (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Anna Bowtell (RICE) - 0-0 at #6, 11-5 in duals, 14-8 overall<br>Bella Lorenzini (MICH) - 2-0 at #6, 2-0 in duals, 4-0 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MICH</i></b> - Lorenzini (58%) def. Bowtell (42%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Lorenzini (59%) def. Bowtell (41%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Lorenzini (52%) def. Bowtell (48%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Lorenzini (83%) def. Bowtell (17%)</li>  
 <li>UTR: <b><i>RICE</i></b> - Bowtell (61%) def. Lorenzini (39%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Lorenzini (58%) def. Bowtell (42%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Lorenzini (2.86) def. Bowtell (1.88)</li>  
 </ul>
 </details>&nbsp;</li>

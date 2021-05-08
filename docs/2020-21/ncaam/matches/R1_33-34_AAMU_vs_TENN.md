@@ -39,11 +39,11 @@ Knoxville, Tennessee
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***TENN*** - Tennessee (99%) def. Alabama A&M (1%)  
 - Slam: ***TENN*** - #4 Tennessee (99%) def. #64 Alabama A&M (1%)  
 - TRN: ***TENN*** - #5 Tennessee (99%) def. #64 Alabama A&M (1%)  
 - Massey: ***TENN*** - #2 Tennessee (100%) def. #65 Alabama A&M (0%)  
 - Lineup: ***TENN*** - Tennessee (99%) def. Alabama A&M (1%)  
-- Composite: ***TENN*** - Tennessee (99%) def. Alabama A&M (1%)  
 - UTR: ***TENN*** - #4 Tennessee (+16.92) def. #65 Alabama A&M (-16.92)  
 - ITA: ***TENN*** - #3 Tennessee def. #63 Alabama A&M  
 - USTA Poll: ***TENN*** - #4 Tennessee def. Alabama A&M  
@@ -60,66 +60,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Rodrigo Arana Rios (AAMU) - 1-10 at #1, 1-10 in duals, 1-10 overall<br>Adam Walton (TENN) - 8-7 at #1, 10-8 in duals, 16-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Walton (42.60) def. Rios (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Gjorgji Popovski (AAMU) - 6-6 at #2, 6-6 in duals, 6-6 overall<br>Johannus Monday (TENN) - 17-3 at #2, 22-4 in duals, 31-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Monday (99%) def. Popovski (1%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Monday (43.71) def. Popovski (1.64)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Fermin Ruiz (AAMU) - 0-9 at #3, 0-12 in duals, 0-12 overall<br>Martim Prata (TENN) - 11-8 at #3, 15-8 in duals, 22-12 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TENN</i></b> - Prata (97%) def. Ruiz (3%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Prata (100%) def. Ruiz (0%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Prata (100%) def. Ruiz (0%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Prata (90%) def. Ruiz (10%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Prata (99%) def. Ruiz (1%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Prata (97%) def. Ruiz (3%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Prata (18.77) def. Ruiz (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Natiphat Mulada (AAMU) - 5-2 at #4, 5-4 in duals, 5-4 overall<br>Luca Wiedenmann (TENN) - 8-2 at #4, 20-3 in duals, 30-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Wiedenmann (99%) def. Mulada (1%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Wiedenmann (4.02) def. Mulada (1.65)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Panji Setiawan (AAMU) - 4-4 at #5, 4-7 in duals, 4-7 overall<br>Giles Hussey (TENN) - 9-0 at #5, 18-3 in duals, 29-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Hussey (99%) def. Setiawan (1%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Hussey (7.54) def. Setiawan (1.79)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Divesh Gahlot (AAMU) - 3-0 at #6, 3-0 in duals, 3-0 overall<br>Pat Harper (TENN) - 5-3 at #6, 5-4 in duals, 12-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Harper (100%) def. Gahlot (0%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Harper (100%) def. Gahlot (0%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Harper def. Gahlot</li>  
 <li>UTR: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
-<li>Composite: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Harper (5.43) def. Gahlot (1.77)</li>  
 </ul>
 </details>&nbsp;</li>

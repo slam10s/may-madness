@@ -39,11 +39,11 @@ Atlanta, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***GT*** - Georgia Tech (97%) def. North Florida (3%)  
 - Slam: ***GT*** - #20 Georgia Tech (96%) def. #46 North Florida (4%)  
 - TRN: ***GT*** - #16 Georgia Tech (98%) def. #46 North Florida (2%)  
 - Massey: ***GT*** - #18 Georgia Tech (93%) def. #47 North Florida (7%)  
 - Lineup: ***GT*** - Georgia Tech (99%) def. North Florida (1%)  
-- Composite: ***GT*** - Georgia Tech (97%) def. North Florida (3%)  
 - UTR: ***GT*** - #24 Georgia Tech (+3.09) def. #44 North Florida (-3.09)  
 - ITA: ***GT*** - #13 Georgia Tech def. #48 North Florida  
 - USTA Poll: ***GT*** - #15 Georgia Tech def. North Florida  
@@ -59,66 +59,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lucia Montano (UNF) - 14-8 at #1, 14-8 in duals, 14-8 overall<br>Kenya Jones (GT) - 16-7 at #1, 16-7 in duals, 17-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Jones (91%) def. Montano (9%)</li>  
 <li>Slam: <b><i>GT</i></b> - Jones (91%) def. Montano (9%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jones (97%) def. Montano (3%)</li>  
 <li>Massey: <b><i>GT</i></b> - Jones (84%) def. Montano (16%)</li>  
 <li>UTR: <b><i>GT</i></b> - Jones (93%) def. Montano (7%)</li>  
-<li>Composite: <b><i>GT</i></b> - Jones (91%) def. Montano (9%)</li>  
 <li>ITA: <b><i>GT</i></b> - Jones (50.31) def. Montano (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Catherine Gulihur (UNF) - 17-3 at #2, 18-3 in duals, 18-3 overall<br>Victoria Flores (GT) - 12-4 at #2, 17-5 in duals, 18-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Flores (78%) def. Gulihur (22%)</li>  
 <li>Slam: <b><i>GT</i></b> - Flores (80%) def. Gulihur (20%)</li>  
 <li>TRN: <b><i>GT</i></b> - Flores (84%) def. Gulihur (16%)</li>  
 <li>Massey: <b><i>GT</i></b> - Flores (74%) def. Gulihur (26%)</li>  
 <li>UTR: <b><i>GT</i></b> - Flores (73%) def. Gulihur (27%)</li>  
-<li>Composite: <b><i>GT</i></b> - Flores (78%) def. Gulihur (22%)</li>  
 <li>ITA: <b><i>GT</i></b> - Flores (29.63) def. Gulihur (3.92)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Constanza Gorches (UNF) - 4-3 at #3, 13-9 in duals, 13-9 overall<br>Gia Cohen (GT) - 3-11 at #3, 8-14 in duals, 8-15 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Cohen (68%) def. Gorches (32%)</li>  
 <li>Slam: <b><i>GT</i></b> - Cohen (81%) def. Gorches (19%)</li>  
 <li>TRN: <b><i>GT</i></b> - Cohen (79%) def. Gorches (21%)</li>  
 <li>Massey: <b><i>GT</i></b> - Cohen (46%) def. Gorches (54%)</li>  
 <li>UTR: <b><i>GT</i></b> - Cohen (66%) def. Gorches (34%)</li>  
-<li>Composite: <b><i>GT</i></b> - Cohen (68%) def. Gorches (32%)</li>  
 <li>ITA: <b><i>GT</i></b> - Cohen (3.38) def. Gorches (1.63)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Summer Yardley (UNF) - 3-3 at #4, 11-9 in duals, 11-9 overall<br>Ava Hrastar (GT) - 2-3 at #4, 10-9 in duals, 12-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Hrastar (96%) def. Yardley (4%)</li>  
 <li>Slam: <b><i>GT</i></b> - Hrastar (97%) def. Yardley (3%)</li>  
 <li>TRN: <b><i>GT</i></b> - Hrastar (96%) def. Yardley (4%)</li>  
 <li>Massey: <b><i>GT</i></b> - Hrastar (95%) def. Yardley (5%)</li>  
 <li>UTR: <b><i>GT</i></b> - Hrastar (95%) def. Yardley (5%)</li>  
-<li>Composite: <b><i>GT</i></b> - Hrastar (96%) def. Yardley (4%)</li>  
 <li>ITA: <b><i>GT</i></b> - Hrastar (5.81) def. Yardley (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Annabelle Davis (UNF) - 6-0 at #5, 10-1 in duals, 10-1 overall<br>Carol Lee (GT) - 5-8 at #5, 12-12 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Lee (84%) def. Davis (16%)</li>  
 <li>Slam: <b><i>GT</i></b> - Lee (90%) def. Davis (10%)</li>  
 <li>TRN: <b><i>GT</i></b> - Lee (86%) def. Davis (14%)</li>  
 <li>Massey: <b><i>GT</i></b> - Lee (70%) def. Davis (30%)</li>  
 <li>UTR: <b><i>GT</i></b> - Lee (91%) def. Davis (9%)</li>  
-<li>Composite: <b><i>GT</i></b> - Lee (84%) def. Davis (16%)</li>  
 <li>ITA: <b><i>GT</i></b> - Lee (4.33) def. Davis (3.59)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Valentina Mariotto (UNF) - 3-1 at #6, 8-7 in duals, 8-7 overall<br>Mahak Jain (GT) - 7-2 at #6, 14-7 in duals, 16-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>GT</i></b> - Jain (94%) def. Mariotto (6%)</li>  
 <li>Slam: <b><i>GT</i></b> - Jain (94%) def. Mariotto (6%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jain (97%) def. Mariotto (3%)</li>  
 <li>Massey: <b><i>GT</i></b> - Jain (90%) def. Mariotto (10%)</li>  
 <li>UTR: <b><i>GT</i></b> - Jain (95%) def. Mariotto (5%)</li>  
-<li>Composite: <b><i>GT</i></b> - Jain (94%) def. Mariotto (6%)</li>  
 <li>ITA: <b><i>GT</i></b> - Jain (1.89) def. Mariotto (1.74)</li>  
 </ul>
 </details>&nbsp;</li>

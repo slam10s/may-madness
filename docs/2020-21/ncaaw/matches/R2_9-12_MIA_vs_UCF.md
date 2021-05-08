@@ -41,11 +41,11 @@ Orlando, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***UCF*** - UCF (52%) def. Miami (FL) (48%)  
 - Slam: ***UCF*** - #12 UCF (66%) def. #22 Miami (FL) (34%)  
 - TRN: ***UCF*** - #12 UCF (70%) def. #21 Miami (FL) (30%)  
 - Massey: ***UCF*** - #10 UCF (55%) def. #17 Miami (FL) (45%)  
 - Lineup: ***MIA*** - Miami (FL) (82%) def. UCF (18%)  
-- Composite: ***UCF*** - UCF (52%) def. Miami (FL) (48%)  
 - UTR: ***UCF*** - #16 UCF (+0.14) def. #19 Miami (FL) (-0.14)  
 - ITA: ***UCF*** - #9 UCF def. #24 Miami (FL)  
 - USTA Poll: ***UCF*** - #9 UCF def. #21 Miami (FL)  
@@ -62,66 +62,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Estela Perez-Somarriba (MIA) - 19-2 at #1, 19-2 in duals, 19-2 overall<br>Valeriya Zeleva (UCF) - 9-2 at #1, 12-2 in duals, 13-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MIA</i></b> - Perez-Somarriba (83%) def. Zeleva (17%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Perez-Somarriba (86%) def. Zeleva (14%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Perez-Somarriba (88%) def. Zeleva (12%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (72%) def. Zeleva (28%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Perez-Somarriba (88%) def. Zeleva (12%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Perez-Somarriba (83%) def. Zeleva (17%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Perez-Somarriba (69.45) def. Zeleva (22.66)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Isabella Pfennig (MIA) - 12-4 at #2, 16-4 in duals, 16-4 overall<br>Rebeka Stolmar (UCF) - 7-4 at #2, 12-6 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MIA</i></b> - Pfennig (67%) def. Stolmar (33%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Pfennig (63%) def. Stolmar (37%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Pfennig (71%) def. Stolmar (29%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Pfennig (61%) def. Stolmar (39%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Pfennig (79%) def. Stolmar (21%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Pfennig (67%) def. Stolmar (33%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Pfennig (32.52) def. Stolmar (15.81)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Daevenia Achong (MIA) - 7-6 at #3, 7-11 in duals, 7-11 overall<br>Evgeniya Levashova (UCF) - 6-2 at #3, 11-5 in duals, 11-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UCF</i></b> - Levashova (71%) def. Achong (29%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Levashova (62%) def. Achong (38%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Levashova (78%) def. Achong (22%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Levashova (66%) def. Achong (34%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Levashova (80%) def. Achong (20%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Levashova (71%) def. Achong (29%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Levashova (4.48) def. Achong (1.49)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Florencia Urrutia (MIA) - 11-4 at #4, 12-8 in duals, 12-8 overall<br>Ksenia Kuznetsova (UCF) - 6-0 at #4, 11-3 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>UCF</i></b> - Kuznetsova (76%) def. Urrutia (24%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Kuznetsova (76%) def. Urrutia (24%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Kuznetsova (74%) def. Urrutia (26%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Kuznetsova (72%) def. Urrutia (28%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Kuznetsova (84%) def. Urrutia (16%)</li>  
-<li>Composite: <b><i>UCF</i></b> - Kuznetsova (76%) def. Urrutia (24%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Kuznetsova (3.33) def. Urrutia (1.96)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Diana Khodan (MIA) - 5-5 at #5, 12-7 in duals, 12-7 overall<br>Marie Mattel (UCF) - 2-0 at #5, 6-4 in duals, 6-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MIA</i></b> - Khodan (65%) def. Mattel (35%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Khodan (56%) def. Mattel (44%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Khodan (64%) def. Mattel (36%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Khodan (67%) def. Mattel (33%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Khodan (76%) def. Mattel (24%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Khodan (65%) def. Mattel (35%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mattel (2.00) def. Khodan (1.90)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Maya Tahan (MIA) - 6-1 at #6, 13-8 in duals, 13-8 overall<br>Nadja Bay (UCF) - 0-0 at #6, 1-3 in duals, 1-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MIA</i></b> - Tahan (97%) def. Bay (3%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Tahan (90%) def. Bay (10%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
-<li>Composite: <b><i>MIA</i></b> - Tahan (97%) def. Bay (3%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Tahan (2.26) def. Bay (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

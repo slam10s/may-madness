@@ -36,11 +36,11 @@ Visitor:
     MAS: 62 (5.21)
     UTR: 56 (71.32)
 Predictions:
+  AVG: USC - Southern California (99%) def. Grand Canyon (1%)
   SLM: "USC - #14 Southern California (99%) def. #62 Grand Canyon (1%)"
   TRN: "USC - #16 Southern California (99%) def. #62 Grand Canyon (1%)"
   MAS: "USC - #8 Southern California (100%) def. #62 Grand Canyon (0%)"
   LNUP: USC - Southern California (99%) def. Grand Canyon (1%)
-  AVG: USC - Southern California (99%) def. Grand Canyon (1%)
   UTR: "USC - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)"
   ITA: "USC - #12 Southern California def. #64 Grand Canyon"
   USTA: "USC - #13 Southern California def. Grand Canyon"
@@ -58,61 +58,61 @@ Lineups:
       USC: Daniel Cukierman - 12-5 at 1, 12-5 in duals, 14-5 overall
       GCU: Valentin Lang - 8-10 at 1, 8-10 in duals, 8-10 overall
       Predictions:
+        AVG: USC - Cukierman (98%) def. Lang (2%)
         SLM: USC - Cukierman (98%) def. Lang (2%)
         TRN: USC - Cukierman (99%) def. Lang (1%)
         MAS: USC - Cukierman (98%) def. Lang (2%)
         UTR: USC - Cukierman (97%) def. Lang (3%)
-        AVG: USC - Cukierman (98%) def. Lang (2%)
         ITA: USC - Cukierman (16.39) def. Lang (1.42)
     - Position: 2
       USC: Riley Smith - 9-5 at 2, 13-5 in duals, 15-5 overall
       GCU: Mariano Argote - 5-6 at 2, 7-6 in duals, 7-6 overall
       Predictions:
+        AVG: USC - Smith (98%) def. Argote (2%)
         SLM: USC - Smith (98%) def. Argote (2%)
         TRN: USC - Smith (99%) def. Argote (1%)
         MAS: USC - Smith (97%) def. Argote (3%)
         UTR: USC - Smith (97%) def. Argote (3%)
-        AVG: USC - Smith (98%) def. Argote (2%)
         ITA: USC - Smith (15.48) def. Argote (1.91)
     - Position: 3
       USC: Stefan Dostanic - 12-3 at 3, 16-3 in duals, 18-3 overall
       GCU: Justin Cvitanovic - 4-6 at 3, 4-15 in duals, 4-15 overall
       Predictions:
+        AVG: USC - Dostanic (99%) def. Cvitanovic (1%)
         SLM: USC - Dostanic (99%) def. Cvitanovic (1%)
         TRN: USC - Dostanic (99%) def. Cvitanovic (1%)
         MAS: USC - Dostanic (99%) def. Cvitanovic (1%)
         UTR: USC - Dostanic (98%) def. Cvitanovic (2%)
-        AVG: USC - Dostanic (99%) def. Cvitanovic (1%)
         ITA: USC - Dostanic (5.43) def. Cvitanovic (0.00)
     - Position: 4
       USC: Bradley Frye - 9-2 at 4, 15-4 in duals, 17-4 overall
       GCU: Jonathan Da Silva - 5-2 at 4, 7-7 in duals, 7-7 overall
       Predictions:
+        AVG: USC - Frye (99%) def. Silva (1%)
         SLM: USC - Frye (99%) def. Silva (1%)
         TRN: USC - Frye (99%) def. Silva (1%)
         MAS: USC - Frye (99%) def. Silva (1%)
         UTR: USC - Frye (98%) def. Silva (2%)
-        AVG: USC - Frye (99%) def. Silva (1%)
         ITA: USC - Frye (2.44) def. Silva (1.73)
     - Position: 5
       USC: Lodewijk Weststrate - 9-3 at 5, 21-4 in duals, 23-4 overall
       GCU: Jiri Novak - 5-1 at 5, 8-9 in duals, 8-9 overall
       Predictions:
+        AVG: USC - Weststrate (98%) def. Novak (2%)
         SLM: USC - Weststrate (99%) def. Novak (1%)
         TRN: USC - Weststrate (99%) def. Novak (1%)
         MAS: USC - Weststrate (98%) def. Novak (2%)
         UTR: USC - Weststrate (98%) def. Novak (2%)
-        AVG: USC - Weststrate (98%) def. Novak (2%)
         ITA: USC - Weststrate (2.93) def. Novak (1.55)
     - Position: 6
       USC: Jake Sands - 8-3 at 6, 14-4 in duals, 14-4 overall
       GCU: Freddie Grant - 9-2 at 6, 9-8 in duals, 9-8 overall
       Predictions:
+        AVG: USC - Sands (97%) def. Grant (3%)
         SLM: USC - Sands (98%) def. Grant (2%)
         TRN: USC - Sands (99%) def. Grant (1%)
         MAS: USC - Sands (95%) def. Grant (5%)
         UTR: USC - Sands (94%) def. Grant (6%)
-        AVG: USC - Sands (97%) def. Grant (3%)
         ITA: USC - Sands (2.42) def. Grant (1.60)
   Doubles:
     - Position: 1

@@ -41,11 +41,11 @@ Tallahassee, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***FSU*** - Florida St. (82%) def. Auburn (18%)  
 - Slam: ***FSU*** - #10 Florida St. (79%) def. #24 Auburn (21%)  
 - TRN: ***FSU*** - #9 Florida St. (82%) def. #23 Auburn (18%)  
 - Massey: ***FSU*** - #9 Florida St. (75%) def. #25 Auburn (25%)  
 - Lineup: ***FSU*** - Florida St. (93%) def. Auburn (7%)  
-- Composite: ***FSU*** - Florida St. (82%) def. Auburn (18%)  
 - UTR: ***FSU*** - #10 Florida St. (+1.72) def. #30 Auburn (-1.72)  
 - ITA: ***FSU*** - #7 Florida St. def. #20 Auburn  
 - USTA Poll: ***FSU*** - #12 Florida St. def. #25 Auburn  
@@ -62,11 +62,11 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Selin Ovunc (AUB) - 8-9 at #1, 8-9 in duals, 13-10 overall<br>Giulia Pairone (FSU) - 11-8 at #1, 11-8 in duals, 13-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FSU</i></b> - Pairone (81%) def. Ovunc (19%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Pairone (80%) def. Ovunc (20%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Pairone (82%) def. Ovunc (18%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Pairone (77%) def. Ovunc (23%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Pairone (84%) def. Ovunc (16%)</li>  
-<li>Composite: <b><i>FSU</i></b> - Pairone (81%) def. Ovunc (19%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Pairone (30.67) def. Ovunc (9.63)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -83,44 +83,44 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Yu Chen (AUB) - 0-2 at #3, 5-11 in duals, 12-13 overall<br>Nandini Das (FSU) - 6-4 at #3, 11-8 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FSU</i></b> - Das (56%) def. Chen (44%)</li>  
 <li>Slam: <b><i>AUB</i></b> - Chen (52%) def. Das (48%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Chen (53%) def. Das (47%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Das (63%) def. Chen (37%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Das (65%) def. Chen (35%)</li>  
-<li>Composite: <b><i>FSU</i></b> - Das (56%) def. Chen (44%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Chen (3.54) def. Das (2.52)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Georgie Axon (AUB) - 15-3 at #4, 16-3 in duals, 22-6 overall<br>Petra Hule (FSU) - 4-0 at #4, 12-3 in duals, 13-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>AUB</i></b> - Axon (52%) def. Hule (48%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Hule (52%) def. Axon (48%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Hule (52%) def. Axon (48%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Hule (47%) def. Axon (53%)</li>  
 <li>UTR: <b><i>AUB</i></b> - Axon (65%) def. Hule (35%)</li>  
-<li>Composite: <b><i>AUB</i></b> - Axon (52%) def. Hule (48%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Hule (3.24) def. Axon (2.43)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Adeline Flach (AUB) - 4-5 at #5, 11-7 in duals, 14-10 overall<br>Victoria Allen (FSU) - 7-0 at #5, 11-4 in duals, 12-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FSU</i></b> - Allen (91%) def. Flach (9%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Allen (92%) def. Flach (8%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Allen (91%) def. Flach (9%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Allen (91%) def. Flach (9%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Allen (90%) def. Flach (10%)</li>  
-<li>Composite: <b><i>FSU</i></b> - Allen (91%) def. Flach (9%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Allen (2.90) def. Flach (1.50)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Anastasia Astakhova (AUB) - 2-5 at #6, 2-5 in duals, 2-5 overall<br>Anna Arkadianou (FSU) - 0-0 at #6, 3-4 in duals, 4-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FSU</i></b> - Arkadianou (92%) def. Astakhova (8%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Arkadianou (93%) def. Astakhova (7%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Arkadianou (92%) def. Astakhova (8%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Arkadianou (88%) def. Astakhova (12%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Arkadianou (94%) def. Astakhova (6%)</li>  
-<li>Composite: <b><i>FSU</i></b> - Arkadianou (92%) def. Astakhova (8%)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

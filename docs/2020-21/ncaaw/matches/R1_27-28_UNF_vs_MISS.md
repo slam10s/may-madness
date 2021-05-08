@@ -42,11 +42,11 @@ Atlanta, Georgia
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***MISS*** - Ole Miss (93%) def. North Florida (7%)  
 - Slam: ***MISS*** - #26 Ole Miss (93%) def. #46 North Florida (7%)  
 - TRN: ***MISS*** - #26 Ole Miss (96%) def. #46 North Florida (4%)  
 - Massey: ***MISS*** - #29 Ole Miss (85%) def. #47 North Florida (15%)  
 - Lineup: ***MISS*** - Ole Miss (98%) def. North Florida (2%)  
-- Composite: ***MISS*** - Ole Miss (93%) def. North Florida (7%)  
 - UTR: ***MISS*** - #20 Ole Miss (+3.30) def. #44 North Florida (-3.30)  
 - ITA: ***MISS*** - #25 Ole Miss def. #48 North Florida  
 - Coaches Poll: ***MISS*** - #25 Ole Miss def. North Florida  
@@ -62,66 +62,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lucia Montano (UNF) - 14-8 at #1, 14-8 in duals, 14-8 overall<br>Sabina Machalova (MISS) - 5-8 at #1, 8-8 in duals, 15-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MISS</i></b> - Machalova (81%) def. Montano (19%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Machalova (74%) def. Montano (26%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Machalova (87%) def. Montano (13%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Machalova (73%) def. Montano (27%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Machalova (91%) def. Montano (9%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Machalova (81%) def. Montano (19%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Machalova (19.63) def. Montano (2.10)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Catherine Gulihur (UNF) - 17-3 at #2, 18-3 in duals, 18-3 overall<br>Tiphanie Fiquet (MISS) - 8-4 at #2, 9-5 in duals, 14-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MISS</i></b> - Fiquet (64%) def. Gulihur (36%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Fiquet (67%) def. Gulihur (33%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Fiquet (68%) def. Gulihur (32%)</li>  
 <li>Massey: <b><i>UNF</i></b> - Gulihur (51%) def. Fiquet (49%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Fiquet (74%) def. Gulihur (26%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Fiquet (64%) def. Gulihur (36%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Fiquet (6.49) def. Gulihur (3.92)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Constanza Gorches (UNF) - 4-3 at #3, 13-9 in duals, 13-9 overall<br>Tereza Janatova (MISS) - 9-3 at #3, 10-3 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MISS</i></b> - Janatova (90%) def. Gorches (10%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Janatova (93%) def. Gorches (7%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Janatova (95%) def. Gorches (5%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Janatova (80%) def. Gorches (20%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Janatova (92%) def. Gorches (8%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Janatova (90%) def. Gorches (10%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Janatova (4.99) def. Gorches (1.63)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Summer Yardley (UNF) - 3-3 at #4, 11-9 in duals, 11-9 overall<br>Anna Vrbenska (MISS) - 9-4 at #4, 9-4 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MISS</i></b> - Vrbenska (94%) def. Yardley (6%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Vrbenska (95%) def. Yardley (5%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Vrbenska (95%) def. Yardley (5%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Vrbenska (93%) def. Yardley (7%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Vrbenska (94%) def. Yardley (6%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Vrbenska (94%) def. Yardley (6%)</li>  
 <li>ITA: <b><i>MISS</i></b> - Vrbenska (2.42) def. Yardley (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Annabelle Davis (UNF) - 6-0 at #5, 10-1 in duals, 10-1 overall<br>Reka Zadori (MISS) - 4-1 at #5, 9-3 in duals, 12-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MISS</i></b> - Zadori (75%) def. Davis (25%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Zadori (82%) def. Davis (18%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Zadori (73%) def. Davis (27%)</li>  
 <li>Massey: <b><i>UNF</i></b> - Davis (45%) def. Zadori (55%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Zadori (88%) def. Davis (12%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Zadori (75%) def. Davis (25%)</li>  
 <li>ITA: <b><i>UNF</i></b> - Davis (3.59) def. Zadori (1.55)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Valentina Mariotto (UNF) - 3-1 at #6, 8-7 in duals, 8-7 overall<br>Lillian Gabrielsen (MISS) - 2-1 at #6, 5-3 in duals, 8-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MISS</i></b> - Gabrielsen (91%) def. Mariotto (9%)</li>  
 <li>Slam: <b><i>MISS</i></b> - Gabrielsen (93%) def. Mariotto (7%)</li>  
 <li>TRN: <b><i>MISS</i></b> - Gabrielsen (95%) def. Mariotto (5%)</li>  
 <li>Massey: <b><i>MISS</i></b> - Gabrielsen (81%) def. Mariotto (19%)</li>  
 <li>UTR: <b><i>MISS</i></b> - Gabrielsen (94%) def. Mariotto (6%)</li>  
-<li>Composite: <b><i>MISS</i></b> - Gabrielsen (91%) def. Mariotto (9%)</li>  
 <li>ITA: <b><i>UNF</i></b> - Mariotto (1.74) def. Gabrielsen (1.53)</li>  
 </ul>
 </details>&nbsp;</li>

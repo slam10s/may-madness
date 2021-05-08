@@ -41,11 +41,11 @@ Evanston, Illinois
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***A&M*** - Texas A&M (54%) def. Northwestern (46%)  
 - Slam: ***A&M*** - #15 Texas A&M (55%) def. #18 Northwestern (45%)  
 - TRN: ***NW*** - #13 Northwestern (56%) def. #14 Texas A&M (44%)  
 - Massey: ***NW*** - #20 Northwestern (52%) def. #21 Texas A&M (48%)  
 - Lineup: ***A&M*** - Texas A&M (70%) def. Northwestern (30%)  
-- Composite: ***A&M*** - Texas A&M (54%) def. Northwestern (46%)  
 - UTR: ***A&M*** - #21 Texas A&M (+1.27) def. #33 Northwestern (-1.27)  
 - ITA: ***A&M*** - #10 Texas A&M def. #21 Northwestern  
 - USTA Poll: ***NW*** - #16 Northwestern def. #17 Texas A&M  
@@ -62,66 +62,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Maria Shusharina (NW) - 5-12 at #1, 7-12 in duals, 9-13 overall<br>Tatiana Makarova (A&M) - 12-4 at #1, 15-4 in duals, 23-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - Makarova (64%) def. Shusharina (36%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Makarova (53%) def. Shusharina (47%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Makarova (75%) def. Shusharina (25%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Makarova (56%) def. Shusharina (44%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Makarova (74%) def. Shusharina (26%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Makarova (64%) def. Shusharina (36%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Makarova (21.86) def. Shusharina (3.92)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Clarissa Hand (NW) - 0-2 at #2, 14-6 in duals, 14-9 overall<br>Jayci Goldsmith (A&M) - 9-7 at #2, 11-9 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>NW</i></b> - Hand (51%) def. Goldsmith (49%)</li>  
 <li>Slam: <b><i>NW</i></b> - Hand (52%) def. Goldsmith (48%)</li>  
 <li>TRN: <b><i>NW</i></b> - Hand (56%) def. Goldsmith (44%)</li>  
 <li>Massey: <b><i>NW</i></b> - Hand (64%) def. Goldsmith (36%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Goldsmith (64%) def. Hand (36%)</li>  
-<li>Composite: <b><i>NW</i></b> - Hand (51%) def. Goldsmith (49%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (4.82) def. Goldsmith (3.03)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Julie Byrne (NW) - 4-0 at #3, 9-8 in duals, 11-9 overall<br>Katya Townsend (A&M) - 9-6 at #3, 11-6 in duals, 18-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - Townsend (51%) def. Byrne (49%)</li>  
 <li>Slam: <b><i>NW</i></b> - Byrne (64%) def. Townsend (36%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Townsend (53%) def. Byrne (47%)</li>  
 <li>Massey: <b><i>NW</i></b> - Byrne (62%) def. Townsend (38%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Townsend (79%) def. Byrne (21%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Townsend (51%) def. Byrne (49%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Townsend (3.71) def. Byrne (1.56)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Briana Crowley (NW) - 16-3 at #4, 16-5 in duals, 17-7 overall<br>Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - Faa-Hviding (51%) def. Crowley (49%)</li>  
 <li>Slam: <b><i>NW</i></b> - Crowley (52%) def. Faa-Hviding (48%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (55%) def. Crowley (45%)</li>  
 <li>Massey: <b><i>NW</i></b> - Crowley (59%) def. Faa-Hviding (41%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Faa-Hviding (59%) def. Crowley (41%)</li>  
-<li>Composite: <b><i>A&M</i></b> - Faa-Hviding (51%) def. Crowley (49%)</li>  
 <li>ITA: <b><i>NW</i></b> - Crowley (1.93) def. Faa-Hviding (1.87)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Caroline Pozo (NW) - 11-6 at #5, 12-7 in duals, 12-8 overall<br>Renee McBryde (A&M) - 10-1 at #5, 14-3 in duals, 17-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - McBryde (71%) def. Pozo (29%)</li>  
 <li>Slam: <b><i>A&M</i></b> - McBryde (68%) def. Pozo (32%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McBryde (77%) def. Pozo (23%)</li>  
 <li>Massey: <b><i>A&M</i></b> - McBryde (58%) def. Pozo (42%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McBryde (80%) def. Pozo (20%)</li>  
-<li>Composite: <b><i>A&M</i></b> - McBryde (71%) def. Pozo (29%)</li>  
 <li>ITA: <b><i>A&M</i></b> - McBryde (2.44) def. Pozo (1.76)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Christina Hand (NW) - 13-1 at #6, 13-1 in duals, 13-4 overall<br>Riley McQuaid (A&M) - 8-5 at #6, 11-5 in duals, 16-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>A&M</i></b> - McQuaid (58%) def. Hand (42%)</li>  
 <li>Slam: <b><i>A&M</i></b> - McQuaid (63%) def. Hand (37%)</li>  
 <li>TRN: <b><i>A&M</i></b> - McQuaid (66%) def. Hand (34%)</li>  
 <li>Massey: <b><i>NW</i></b> - Hand (67%) def. McQuaid (33%)</li>  
 <li>UTR: <b><i>A&M</i></b> - McQuaid (69%) def. Hand (31%)</li>  
-<li>Composite: <b><i>A&M</i></b> - McQuaid (58%) def. Hand (42%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (2.48) def. McQuaid (2.12)</li>  
 </ul>
 </details>&nbsp;</li>

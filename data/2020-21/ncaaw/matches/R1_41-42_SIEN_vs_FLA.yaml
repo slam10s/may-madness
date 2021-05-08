@@ -36,11 +36,11 @@ Visitor:
     MAS: 64 (2.92)
     UTR: 62 (46.43)
 Predictions:
+  AVG: FLA - Florida (99%) def. Siena (1%)
   SLM: "FLA - #16 Florida (99%) def. #64 Siena (1%)"
   TRN: "FLA - #20 Florida (99%) def. #64 Siena (1%)"
   MAS: "FLA - #21 Florida (100%) def. #64 Siena (0%)"
   LNUP: FLA - Florida (99%) def. Siena (1%)
-  AVG: FLA - Florida (99%) def. Siena (1%)
   UTR: "FLA - #11 Florida (+16.27) def. #62 Siena (-16.27)"
   ITA: "FLA - #11 Florida def. #60 Siena"
   USTA: "FLA - #20 Florida def. Siena"
@@ -58,61 +58,61 @@ Lineups:
       FLA: McCartney Kessler - 13-2 at 1, 13-2 in duals, 16-2 overall
       SIEN: Meagan Brown - 7-3 at 1, 7-3 in duals, 7-3 overall
       Predictions:
+        AVG: FLA - Kessler (99%) def. Brown (1%)
         SLM: FLA - Kessler (99%) def. Brown (1%)
         TRN: FLA - Kessler (99%) def. Brown (1%)
         MAS: FLA - Kessler (99%) def. Brown (1%)
         UTR: FLA - Kessler (99%) def. Brown (1%)
-        AVG: FLA - Kessler (99%) def. Brown (1%)
         ITA: FLA - Kessler (45.58) def. Brown (2.61)
     - Position: 2
       FLA: Marlee Zein - 6-5 at 2, 8-5 in duals, 10-8 overall
       SIEN: Kylie Mullaney - 3-5 at 2, 3-5 in duals, 3-5 overall
       Predictions:
+        AVG: FLA - Zein (99%) def. Mullaney (1%)
         SLM: FLA - Zein (99%) def. Mullaney (1%)
         TRN: FLA - Zein (99%) def. Mullaney (1%)
         MAS: FLA - Zein (99%) def. Mullaney (1%)
         UTR: FLA - Zein (99%) def. Mullaney (1%)
-        AVG: FLA - Zein (99%) def. Mullaney (1%)
         ITA: FLA - Zein (8.25) def. Mullaney (0.00)
     - Position: 3
       FLA: Ida Jarlskog - 6-2 at 3, 8-4 in duals, 8-4 overall
       SIEN: Petra Miszczak - 3-4 at 3, 4-4 in duals, 4-4 overall
       Predictions:
+        AVG: FLA - Jarlskog (99%) def. Miszczak (1%)
         SLM: FLA - Jarlskog (99%) def. Miszczak (1%)
         TRN: FLA - Jarlskog (99%) def. Miszczak (1%)
         MAS: FLA - Jarlskog (99%) def. Miszczak (1%)
         UTR: FLA - Jarlskog (99%) def. Miszczak (1%)
-        AVG: FLA - Jarlskog (99%) def. Miszczak (1%)
         ITA: FLA - Jarlskog (5.66) def. Miszczak (0.00)
     - Position: 4
       FLA: Layne Sleeth - 7-0 at 4, 9-1 in duals, 9-1 overall
       SIEN: Maanya Viswanath - 4-2 at 4, 5-2 in duals, 5-2 overall
       Predictions:
+        AVG: FLA - Sleeth (99%) def. Viswanath (1%)
         SLM: FLA - Sleeth (99%) def. Viswanath (1%)
         TRN: FLA - Sleeth (99%) def. Viswanath (1%)
         MAS: FLA - Sleeth (99%) def. Viswanath (1%)
         UTR: FLA - Sleeth (99%) def. Viswanath (1%)
-        AVG: FLA - Sleeth (99%) def. Viswanath (1%)
         ITA: FLA - Sleeth (7.72) def. Viswanath (2.10)
     - Position: 5
       FLA: Sara Dahlstrom - 3-4 at 5, 6-8 in duals, 9-11 overall
       SIEN: Emma Boggiali - 5-2 at 5, 6-3 in duals, 6-3 overall
       Predictions:
+        AVG: FLA - Dahlstrom (99%) def. Boggiali (1%)
         SLM: FLA - Dahlstrom (99%) def. Boggiali (1%)
         TRN: FLA - Dahlstrom (99%) def. Boggiali (1%)
         MAS: FLA - Dahlstrom (98%) def. Boggiali (2%)
         UTR: FLA - Dahlstrom (99%) def. Boggiali (1%)
-        AVG: FLA - Dahlstrom (99%) def. Boggiali (1%)
         ITA: FLA - Dahlstrom (3.40) def. Boggiali (2.28)
     - Position: 6
       FLA: Sydney Berlin - 6-3 at 6, 11-4 in duals, 16-5 overall
       SIEN: Anastasia Koniaev - 5-2 at 6, 6-2 in duals, 6-2 overall
       Predictions:
+        AVG: FLA - Berlin (99%) def. Koniaev (1%)
         SLM: FLA - Berlin (99%) def. Koniaev (1%)
         TRN: FLA - Berlin (99%) def. Koniaev (1%)
         MAS: FLA - Berlin (99%) def. Koniaev (1%)
         UTR: FLA - Berlin (99%) def. Koniaev (1%)
-        AVG: FLA - Berlin (99%) def. Koniaev (1%)
         ITA: SIEN - Koniaev (2.56) def. Berlin (2.47)
   Doubles:
     - Position: 1

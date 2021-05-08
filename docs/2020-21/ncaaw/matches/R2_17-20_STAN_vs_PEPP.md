@@ -41,11 +41,11 @@ Malibu, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***PEPP*** - Pepperdine (84%) def. Stanford (16%)  
 - Slam: ***PEPP*** - #6 Pepperdine (81%) def. #23 Stanford (19%)  
 - TRN: ***PEPP*** - #6 Pepperdine (91%) def. #24 Stanford (9%)  
 - Massey: ***PEPP*** - #5 Pepperdine (74%) def. #15 Stanford (26%)  
 - Lineup: ***PEPP*** - Pepperdine (89%) def. Stanford (11%)  
-- Composite: ***PEPP*** - Pepperdine (84%) def. Stanford (16%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+1.18) def. #7 Stanford (-1.18)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #28 Stanford  
 - USTA Poll: ***PEPP*** - #5 Pepperdine def. #18 Stanford  
@@ -62,66 +62,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Michaela Gordon (STAN) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>Ashley Lahey (PEPP) - 7-3 at #1, 10-4 in duals, 10-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Lahey (62%) def. Gordon (38%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Lahey (52%) def. Gordon (48%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Lahey (64%) def. Gordon (36%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Lahey (74%) def. Gordon (26%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Lahey (56%) def. Gordon (44%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Lahey (62%) def. Gordon (38%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Gordon (17.68) def. Lahey (7.80)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Angelica Blake (STAN) - 2-1 at #2, 7-2 in duals, 7-2 overall<br>Jessica Failla (PEPP) - 6-1 at #2, 14-3 in duals, 14-3 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Failla (70%) def. Blake (30%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Failla (85%) def. Blake (15%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Failla (70%) def. Blake (30%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Failla (50%) def. Blake (50%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Failla (76%) def. Blake (24%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Failla (70%) def. Blake (30%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Failla (23.38) def. Blake (5.37)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Emily Arbuthnott (STAN) - 1-3 at #3, 8-7 in duals, 8-7 overall<br>Taisiya Pachkaleva (PEPP) - 8-1 at #3, 22-1 in duals, 22-1 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (85%) def. Arbuthnott (15%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Pachkaleva (81%) def. Arbuthnott (19%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Pachkaleva (94%) def. Arbuthnott (6%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Pachkaleva (79%) def. Arbuthnott (21%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Pachkaleva (84%) def. Arbuthnott (16%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Pachkaleva (85%) def. Arbuthnott (15%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Pachkaleva (6.37) def. Arbuthnott (1.89)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ana Geller (STAN) - 1-3 at #4, 7-3 in duals, 7-3 overall<br>Shiori Fukuda (PEPP) - 6-0 at #4, 14-4 in duals, 14-4 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Fukuda (78%) def. Geller (22%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Fukuda (84%) def. Geller (16%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Fukuda (90%) def. Geller (10%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Fukuda (71%) def. Geller (29%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Fukuda (68%) def. Geller (32%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Fukuda (78%) def. Geller (22%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Fukuda (4.88) def. Geller (2.62)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Sara Choy (STAN) - 3-2 at #5, 13-4 in duals, 13-4 overall<br>LIsa Zaar (PEPP) - 10-1 at #5, 19-1 in duals, 19-1 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>PEPP</i></b> - Zaar (66%) def. Choy (34%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Zaar (61%) def. Choy (39%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zaar (79%) def. Choy (21%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Zaar (54%) def. Choy (46%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Zaar (69%) def. Choy (31%)</li>  
-<li>Composite: <b><i>PEPP</i></b> - Zaar (66%) def. Choy (34%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zaar (4.47) def. Choy (2.38)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Emma Higuchi (STAN) - 10-3 at #6, 14-3 in duals, 14-3 overall<br>Nikki Redelijk (PEPP) - 7-4 at #6, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>STAN</i></b> - Higuchi (60%) def. Redelijk (40%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Redelijk (54%) def. Higuchi (46%)</li>  
 <li>TRN: <b><i>STAN</i></b> - Higuchi (53%) def. Redelijk (47%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Higuchi (70%) def. Redelijk (30%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Higuchi (75%) def. Redelijk (25%)</li>  
-<li>Composite: <b><i>STAN</i></b> - Higuchi (60%) def. Redelijk (40%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Higuchi (2.68) def. Redelijk (1.87)</li>  
 </ul>
 </details>&nbsp;</li>

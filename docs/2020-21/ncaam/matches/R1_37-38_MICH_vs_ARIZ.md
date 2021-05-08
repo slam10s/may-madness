@@ -45,11 +45,11 @@ Go to [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***MICH*** - Michigan (72%) def. Arizona (28%)  
 - Slam: ***MICH*** - #13 Michigan (78%) def. #21 Arizona (22%)  
 - TRN: ***MICH*** - #12 Michigan (88%) def. #20 Arizona (12%)  
 - Massey: ***MICH*** - #14 Michigan (55%) def. #18 Arizona (45%)  
 - Lineup: ***MICH*** - Michigan (70%) def. Arizona (30%)  
-- Composite: ***MICH*** - Michigan (72%) def. Arizona (28%)  
 - UTR: ***MICH*** - #18 Michigan (+0.3) def. #21 Arizona (-0.3)  
 - ITA: ***ARIZ*** - #17 Arizona def. #46 Michigan  
 - USTA Poll: ***ARIZ*** - #18 Arizona def. Michigan  
@@ -66,66 +66,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Andrew Fenty (MICH) - 10-3 at #1, 13-4 in duals, 16-9 overall<br>Gustaf Strom (ARIZ) - 3-1 at #1, 17-2 in duals, 17-2 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>ARIZ</i></b> - Strom (64%) def. Fenty (36%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Fenty (56%) def. Strom (44%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Strom (87%) def. Fenty (13%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Strom (57%) def. Fenty (43%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Strom (69%) def. Fenty (31%)</li>  
-<li>Composite: <b><i>ARIZ</i></b> - Strom (64%) def. Fenty (36%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Strom (17.40) def. Fenty (1.71)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Ondrej Styler (MICH) - 7-3 at #2, 8-4 in duals, 12-7 overall<br>Jonas Ziverts (ARIZ) - 1-1 at #2, 9-8 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MICH</i></b> - Styler (62%) def. Ziverts (38%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Styler (54%) def. Ziverts (46%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Styler (55%) def. Ziverts (45%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Styler (69%) def. Ziverts (31%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Styler (76%) def. Ziverts (24%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Styler (62%) def. Ziverts (38%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Ziverts (7.58) def. Styler (2.60)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Patrick Maloney (MICH) - 7-3 at #3, 9-4 in duals, 9-4 overall<br>Filip Malbasic (ARIZ) - 5-4 at #3, 14-9 in duals, 14-9 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>ARIZ</i></b> - Malbasic (57%) def. Maloney (43%)</li>  
 <li>Slam: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
 <li>TRN: <b><i>ARIZ</i></b> - Malbasic (64%) def. Maloney (36%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Malbasic (57%) def. Maloney (43%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
-<li>Composite: <b><i>ARIZ</i></b> - Malbasic (57%) def. Maloney (43%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Malbasic (2.36) def. Maloney (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Mattias Siimar (MICH) - 8-1 at #4, 14-3 in duals, 17-6 overall<br>Herman Hoeyeraal (ARIZ) - 0-0 at #4, 4-0 in duals, 4-0 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MICH</i></b> - Siimar (94%) def. Hoeyeraal (6%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Siimar (80%) def. Hoeyeraal (20%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Siimar (100%) def. Hoeyeraal (0%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Siimar (94%) def. Hoeyeraal (6%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Siimar (2.45) def. Hoeyeraal (2.40)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Nick Beaty (MICH) - 8-2 at #5, 13-2 in duals, 19-4 overall<br>Alejandro Reguant (ARIZ) - 0-0 at #5, 13-6 in duals, 13-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MICH</i></b> - Beaty (51%) def. Reguant (49%)</li>  
 <li>Slam: <b><i>ARIZ</i></b> - Reguant (55%) def. Beaty (45%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Beaty (66%) def. Reguant (34%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Beaty (67%) def. Reguant (33%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Reguant (70%) def. Beaty (30%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Beaty (51%) def. Reguant (49%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Reguant (2.55) def. Beaty (2.52)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Nino Ehrenschneider (MICH) - 3-1 at #6, 4-1 in duals, 6-2 overall<br>Carlos Hassey (ARIZ) - 1-1 at #6, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Ehrenschneider (51%) def. Hassey (49%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Ehrenschneider (66%) def. Hassey (34%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Ehrenschneider (59%) def. Hassey (41%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
-<li>Composite: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Ehrenschneider (2.63) def. Hassey (1.70)</li>  
 </ul>
 </details>&nbsp;</li>

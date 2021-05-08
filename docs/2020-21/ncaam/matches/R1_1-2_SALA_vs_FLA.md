@@ -39,11 +39,11 @@ Gainesville, Florida
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***FLA*** - Florida (99%) def. South Alabama (1%)  
 - Slam: ***FLA*** - #2 Florida (99%) def. #50 South Alabama (1%)  
 - TRN: ***FLA*** - #3 Florida (99%) def. #52 South Alabama (1%)  
 - Massey: ***FLA*** - #1 Florida (99%) def. #46 South Alabama (1%)  
 - Lineup: ***FLA*** - Florida (99%) def. South Alabama (1%)  
-- Composite: ***FLA*** - Florida (99%) def. South Alabama (1%)  
 - UTR: ***FLA*** - #1 Florida (+6.84) def. #49 South Alabama (-6.84)  
 - ITA: ***FLA*** - #2 Florida def. #53 South Alabama  
 - USTA Poll: ***FLA*** - #2 Florida def. South Alabama  
@@ -60,66 +60,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Julien Evrard (SALA) - 10-4 at #1, 13-4 in duals, 19-7 overall<br>Duarte Vale (FLA) - 15-6 at #1, 15-6 in duals, 23-6 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Vale (86%) def. Evrard (14%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Vale (54.01) def. Evrard (8.29)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Clement Marzol (SALA) - 8-1 at #2, 12-2 in duals, 18-4 overall<br>Sam Riffice (FLA) - 16-4 at #2, 18-4 in duals, 23-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Riffice (89%) def. Marzol (11%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Riffice (90%) def. Marzol (10%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Riffice (82%) def. Marzol (18%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Riffice (89%) def. Marzol (11%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Riffice (49.68) def. Marzol (8.12)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Loic Cloes (SALA) - 5-3 at #3, 9-4 in duals, 9-4 overall<br>Andy Andrade (FLA) - 12-7 at #3, 14-7 in duals, 22-7 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Andrade (96%) def. Cloes (4%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Andrade (88%) def. Cloes (12%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Andrade (94%) def. Cloes (6%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Andrade (32.71) def. Cloes (2.46)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Sebastien Collard (SALA) - 7-4 at #4, 11-6 in duals, 20-6 overall<br>Blaise Bicknell (FLA) - 15-0 at #4, 20-0 in duals, 29-0 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Bicknell (93%) def. Collard (7%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Bicknell (98%) def. Collard (2%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Bicknell (87%) def. Collard (13%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Bicknell (93%) def. Collard (7%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Bicknell (15.89) def. Collard (2.43)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Louis Delcour (SALA) - 5-2 at #5, 9-5 in duals, 9-5 overall<br>Ben Shelton (FLA) - 15-4 at #5, 17-4 in duals, 24-5 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Shelton (94%) def. Delcour (6%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Shelton (98%) def. Delcour (2%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Shelton (88%) def. Delcour (12%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Shelton (94%) def. Delcour (6%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Shelton (3.20) def. Delcour (2.17)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Martin Bugaj (SALA) - 1-4 at #6, 4-8 in duals, 7-13 overall<br>Josh Goodger (FLA) - 12-0 at #6, 13-0 in duals, 19-0 overall</summary>
 <h4>Predictions</h4><ul>
+<li>Composite: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Goodger (98%) def. Bugaj (2%)</li>  
-<li>Composite: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Goodger (8.31) def. Bugaj (0.00)</li>  
 </ul>
 </details>&nbsp;</li>

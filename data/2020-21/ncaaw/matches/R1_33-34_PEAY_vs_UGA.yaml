@@ -36,11 +36,11 @@ Visitor:
     MAS: 56 (4.88)
     UTR: 55 (52.40)
 Predictions:
+  AVG: UGA - Georgia (99%) def. Austin Peay (1%)
   SLM: "UGA - #3 Georgia (99%) def. #56 Austin Peay (1%)"
   TRN: "UGA - #3 Georgia (99%) def. #56 Austin Peay (1%)"
   MAS: "UGA - #3 Georgia (100%) def. #56 Austin Peay (0%)"
   LNUP: UGA - Georgia (99%) def. Austin Peay (1%)
-  AVG: UGA - Georgia (99%) def. Austin Peay (1%)
   UTR: "UGA - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)"
   ITA: "UGA - #3 Georgia def. #57 Austin Peay"
   USTA: "UGA - #3 Georgia def. Austin Peay"
@@ -58,61 +58,61 @@ Lineups:
       UGA: Katarina Jokic - 15-0 at 1, 15-0 in duals, 24-1 overall
       PEAY: Fabienne Schmidt - 10-5 at 1, 10-5 in duals, 10-5 overall
       Predictions:
+        AVG: UGA - Jokic (99%) def. Schmidt (1%)
         SLM: UGA - Jokic (99%) def. Schmidt (1%)
         TRN: UGA - Jokic (99%) def. Schmidt (1%)
         MAS: UGA - Jokic (99%) def. Schmidt (1%)
         UTR: UGA - Jokic (98%) def. Schmidt (2%)
-        AVG: UGA - Jokic (99%) def. Schmidt (1%)
         ITA: UGA - Jokic (60.56) def. Schmidt (2.35)
     - Position: 2
       UGA: Lea Ma - 13-3 at 2, 13-3 in duals, 14-4 overall
       PEAY: Danielle Morris - 9-5 at 2, 9-5 in duals, 9-5 overall
       Predictions:
+        AVG: UGA - Ma (98%) def. Morris (2%)
         SLM: UGA - Ma (99%) def. Morris (1%)
         TRN: UGA - Ma (99%) def. Morris (1%)
         MAS: UGA - Ma (98%) def. Morris (2%)
         UTR: UGA - Ma (97%) def. Morris (3%)
-        AVG: UGA - Ma (98%) def. Morris (2%)
         ITA: UGA - Ma (11.14) def. Morris (2.12)
     - Position: 3
       UGA: Meg Kowalski - 12-1 at 3, 12-1 in duals, 22-1 overall
       PEAY: Jana Leder - 12-2 at 3, 12-2 in duals, 12-2 overall
       Predictions:
+        AVG: UGA - Kowalski (99%) def. Leder (1%)
         SLM: UGA - Kowalski (99%) def. Leder (1%)
         TRN: UGA - Kowalski (99%) def. Leder (1%)
         MAS: UGA - Kowalski (98%) def. Leder (2%)
         UTR: UGA - Kowalski (98%) def. Leder (2%)
-        AVG: UGA - Kowalski (99%) def. Leder (1%)
         ITA: UGA - Kowalski (23.73) def. Leder (3.05)
     - Position: 4
       UGA: Morgan Coppoc - 15-2 at 4, 15-2 in duals, 23-5 overall
       PEAY: Aleks Topalovic - 4-3 at 4, 9-5 in duals, 9-5 overall
       Predictions:
+        AVG: UGA - Coppoc (99%) def. Topalovic (1%)
         SLM: UGA - Coppoc (99%) def. Topalovic (1%)
         TRN: UGA - Coppoc (99%) def. Topalovic (1%)
         MAS: UGA - Coppoc (99%) def. Topalovic (1%)
         UTR: UGA - Coppoc (99%) def. Topalovic (1%)
-        AVG: UGA - Coppoc (99%) def. Topalovic (1%)
         ITA: UGA - Coppoc (8.66) def. Topalovic (2.10)
     - Position: 5
       UGA: Marta Gonzalez - 1-1 at 5, 2-1 in duals, 11-1 overall
       PEAY: Martina Paladini-Jennings - 4-4 at 5, 7-7 in duals, 7-7 overall
       Predictions:
+        AVG: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         SLM: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         TRN: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         MAS: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         UTR: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
-        AVG: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
         ITA: UGA - Gonzalez (11.71) def. Paladini-Jennings (1.85)
     - Position: 6
       UGA: Elena Christofi - 9-0 at 6, 10-2 in duals, 17-4 overall
       PEAY: Honoka Nakanishi - 7-3 at 6, 7-3 in duals, 7-3 overall
       Predictions:
+        AVG: UGA - Christofi (99%) def. Nakanishi (1%)
         SLM: UGA - Christofi (99%) def. Nakanishi (1%)
         TRN: UGA - Christofi (99%) def. Nakanishi (1%)
         MAS: UGA - Christofi (98%) def. Nakanishi (2%)
         UTR: UGA - Christofi (99%) def. Nakanishi (1%)
-        AVG: UGA - Christofi (99%) def. Nakanishi (1%)
         ITA: UGA - Christofi (2.36) def. Nakanishi (2.24)
   Doubles:
     - Position: 1
