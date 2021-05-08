@@ -9,7 +9,7 @@ Athens, Georgia
 <td>  
 
 <h2>#3 Virginia Tech</h2>  
-&nbsp; Record: 12-9<br>  
+&nbsp; Record: 12-10<br>  
 &nbsp; ITA: 29 (28.32)<br>  
 &#10004; Slam: 30 (93.02)<br>  
 &#10004; TRN: 29 (91.09)<br>  
@@ -22,7 +22,7 @@ Athens, Georgia
 <td>  
 
 <h2>#2 Texas Tech</h2>  
-&nbsp; Record: 12-7<br>  
+&nbsp; Record: 13-7<br>  
 &#10004; ITA: 25 (31.34)<br>  
 &nbsp; Slam: 35 (92.60)<br>  
 &nbsp; TRN: 31 (90.98)<br>  
@@ -39,6 +39,7 @@ Athens, Georgia
 <br>Return to [List of Matches](../index.md)  
 
 ## Match Information  
+***Texas Tech def. Virginia Tech 4-2***  
 Go to [Live Stats](https://georgiadogs.com/sports/2017/6/17/sports-m-tennis-spec-rel-vid-stream-html.aspx)  
 
 ## Predictions  
