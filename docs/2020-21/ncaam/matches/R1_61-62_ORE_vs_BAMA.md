@@ -62,10 +62,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Emmanuel Coste (ORE) - 5-4 at #1, 11-6 in duals, 11-6 overall<br>Edson Ortiz (BAMA) - 5-5 at #1, 12-10 in duals, 13-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>ORE</i></b> - Coste (69%) def. Ortiz (31%)</li>  
-<li>Slam: <b><i>ORE</i></b> - Coste (73%) def. Ortiz (27%)</li>  
-<li>TRN: <b><i>ORE</i></b> - Coste (76%) def. Ortiz (24%)</li>  
+<li>Slam: <b><i>ORE</i></b> - Coste (72%) def. Ortiz (28%)</li>  
+<li>TRN: <b><i>ORE</i></b> - Coste (75%) def. Ortiz (25%)</li>  
 <li>Massey: <b><i>ORE</i></b> - Coste (55%) def. Ortiz (45%)</li>  
-<li>UTR: <b><i>ORE</i></b> - Coste (76%) def. Ortiz (24%)</li>  
+<li>UTR: <b><i>ORE</i></b> - Coste (75%) def. Ortiz (25%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Ortiz (18.41) def. Coste (3.31)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -73,10 +73,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Joshua Charlton (ORE) - 6-2 at #2, 12-6 in duals, 12-6 overall<br>Patrick Kaukovalta (BAMA) - 3-2 at #2, 9-11 in duals, 15-17 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
-<li>Slam: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
-<li>TRN: <b><i>ORE</i></b> - Charlton (68%) def. Kaukovalta (32%)</li>  
+<li>Slam: <b><i>ORE</i></b> - Charlton (67%) def. Kaukovalta (33%)</li>  
+<li>TRN: <b><i>ORE</i></b> - Charlton (67%) def. Kaukovalta (33%)</li>  
 <li>Massey: <b><i>ORE</i></b> - Charlton (62%) def. Kaukovalta (38%)</li>  
-<li>UTR: <b><i>ORE</i></b> - Charlton (76%) def. Kaukovalta (24%)</li>  
+<li>UTR: <b><i>ORE</i></b> - Charlton (75%) def. Kaukovalta (25%)</li>  
 <li>ITA: <b><i>BAMA</i></b> - Kaukovalta (11.09) def. Charlton (2.88)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Alabama should win 4 or more singles matches _40%_ of the time.  
-- Oregon should win 4 or more singles matches _27%_ of the time.  
-- The winner of the doubles point will decide the match the other _33%_ of the time.  
-- If Alabama wins the doubles point, their chances of winning the dual improve to _73%_.  
-- If Oregon wins the doubles point, their chances of winning the dual improve to _60%_.  
+- Alabama should win 4 or more singles matches *40%* of the time.  
+- Oregon should win 4 or more singles matches *27%* of the time.  
+- The winner of the doubles point should decide the match the other *33%* of the time.  
+- If Alabama wins the doubles point, their chances of winning the dual improve to *73%*.  
+- If Oregon wins the doubles point, their chances of winning the dual improve to *60%*.  
   
 ------
 

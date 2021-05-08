@@ -108,9 +108,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MEM</i></b> - Taylor (63%) def. McKinney (37%)</li>  
 <li>Slam: <b><i>MEM</i></b> - Taylor (51%) def. McKinney (49%)</li>  
-<li>TRN: <b><i>MEM</i></b> - Taylor (58%) def. McKinney (42%)</li>  
+<li>TRN: <b><i>MEM</i></b> - Taylor (57%) def. McKinney (43%)</li>  
 <li>Massey: <b><i>MEM</i></b> - Taylor (64%) def. McKinney (36%)</li>  
-<li>UTR: <b><i>MEM</i></b> - Taylor (82%) def. McKinney (18%)</li>  
+<li>UTR: <b><i>MEM</i></b> - Taylor (81%) def. McKinney (19%)</li>  
 <li>ITA: <b><i>MEM</i></b> - Taylor (2.71) def. McKinney (1.37)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Georgia Tech should win 4 or more singles matches _73%_ of the time.  
-- Memphis should win 4 or more singles matches _7%_ of the time.  
-- The winner of the doubles point will decide the match the other _20%_ of the time.  
-- If Georgia Tech wins the doubles point, their chances of winning the dual improve to _93%_.  
-- If Memphis wins the doubles point, their chances of winning the dual improve to _27%_.  
+- Georgia Tech should win 4 or more singles matches *73%* of the time.  
+- Memphis should win 4 or more singles matches *7%* of the time.  
+- The winner of the doubles point should decide the match the other *20%* of the time.  
+- If Georgia Tech wins the doubles point, their chances of winning the dual improve to *93%*.  
+- If Memphis wins the doubles point, their chances of winning the dual improve to *27%*.  
   
 ------
 

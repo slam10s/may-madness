@@ -99,10 +99,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Jackson Boone (WMU) - 5-3 at #4, 13-6 in duals, 13-6 overall<br>William Howells (ND) - 0-0 at #4, 2-1 in duals, 2-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>WMU</i></b> - Boone (99%) def. Howells (1%)</li>  
-<li>Slam: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
-<li>TRN: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
+<li>Slam: <b><i>WMU</i></b> - Boone (99%) def. Howells (1%)</li>  
+<li>TRN: <b><i>WMU</i></b> - Boone (99%) def. Howells (1%)</li>  
 <li>Massey: <b><i>WMU</i></b> - Boone (99%) def. Howells (1%)</li>  
-<li>UTR: <b><i>WMU</i></b> - Boone (100%) def. Howells (0%)</li>  
+<li>UTR: <b><i>WMU</i></b> - Boone (99%) def. Howells (1%)</li>  
 <li>ITA: <b><i>WMU</i></b> - Boone (1.91) def. Howells (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -150,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Notre Dame should win 4 or more singles matches _78%_ of the time.  
-- Western Mich. should win 4 or more singles matches _4%_ of the time.  
-- The winner of the doubles point will decide the match the other _18%_ of the time.  
-- If Notre Dame wins the doubles point, their chances of winning the dual improve to _96%_.  
-- If Western Mich. wins the doubles point, their chances of winning the dual improve to _22%_.  
+- Notre Dame should win 4 or more singles matches *78%* of the time.  
+- Western Mich. should win 4 or more singles matches *4%* of the time.  
+- The winner of the doubles point should decide the match the other *18%* of the time.  
+- If Notre Dame wins the doubles point, their chances of winning the dual improve to *96%*.  
+- If Western Mich. wins the doubles point, their chances of winning the dual improve to *22%*.  
   
 ------
 

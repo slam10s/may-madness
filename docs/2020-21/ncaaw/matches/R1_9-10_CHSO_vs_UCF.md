@@ -120,10 +120,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Tiffany Pyrtiz (CHSO) - 6-7 at #6, 6-7 in duals, 6-7 overall<br>Nadja Bay (UCF) - 0-0 at #6, 1-3 in duals, 1-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>CHSO</i></b> - Pyrtiz (99%) def. Bay (1%)</li>  
-<li>Slam: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
-<li>TRN: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
+<li>Slam: <b><i>CHSO</i></b> - Pyrtiz (99%) def. Bay (1%)</li>  
+<li>TRN: <b><i>CHSO</i></b> - Pyrtiz (99%) def. Bay (1%)</li>  
 <li>Massey: <b><i>CHSO</i></b> - Pyrtiz (99%) def. Bay (1%)</li>  
-<li>UTR: <b><i>CHSO</i></b> - Pyrtiz (100%) def. Bay (0%)</li>  
+<li>UTR: <b><i>CHSO</i></b> - Pyrtiz (99%) def. Bay (1%)</li>  
 <li>ITA: <b><i>CHSO</i></b> - Pyrtiz (1.53) def. Bay (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- UCF should win 4 or more singles matches _99%_ of the time.  
-- Charleston So. should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
-- If UCF wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Charleston So. wins the doubles point, their chances of winning the dual improve to _1%_.  
+- UCF should win 4 or more singles matches *99%* of the time.  
+- Charleston So. should win 4 or more singles matches *1%* of the time.  
+- The winner of the doubles point should decide the match the other *1%* of the time.  
+- If UCF wins the doubles point, their chances of winning the dual improve to *99%*.  
+- If Charleston So. wins the doubles point, their chances of winning the dual improve to *1%*.  
   
 ------
 

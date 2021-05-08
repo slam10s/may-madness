@@ -67,9 +67,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MSST</i></b> - Antonaki (54%) def. Hattingh (46%)</li>  
 <li>Slam: <b><i>AZST</i></b> - Hattingh (65%) def. Antonaki (35%)</li>  
-<li>TRN: <b><i>MSST</i></b> - Antonaki (61%) def. Hattingh (39%)</li>  
+<li>TRN: <b><i>MSST</i></b> - Antonaki (60%) def. Hattingh (40%)</li>  
 <li>Massey: <b><i>MSST</i></b> - Antonaki (63%) def. Hattingh (37%)</li>  
-<li>UTR: <b><i>MSST</i></b> - Antonaki (59%) def. Hattingh (41%)</li>  
+<li>UTR: <b><i>MSST</i></b> - Antonaki (58%) def. Hattingh (42%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Antonaki (17.81) def. Hattingh (6.86)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -80,7 +80,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>AZST</i></b> - Hampton (62%) def. Adaloglou (38%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Hampton (53%) def. Adaloglou (47%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Hampton (58%) def. Adaloglou (42%)</li>  
-<li>UTR: <b><i>MSST</i></b> - Adaloglou (54%) def. Hampton (46%)</li>  
+<li>UTR: <b><i>MSST</i></b> - Adaloglou (53%) def. Hampton (47%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Adaloglou (3.24) def. Hampton (1.50)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -121,8 +121,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Chloe Cirotte (MSST) - 6-2 at #6, 10-5 in duals, 11-6 overall<br>Domenika Turkovic (AZST) - 4-5 at #6, 8-6 in duals, 9-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>AZST</i></b> - Turkovic (52%) def. Cirotte (48%)</li>  
-<li>Slam: <b><i>MSST</i></b> - Cirotte (52%) def. Turkovic (48%)</li>  
-<li>TRN: <b><i>MSST</i></b> - Cirotte (55%) def. Turkovic (45%)</li>  
+<li>Slam: <b><i>MSST</i></b> - Cirotte (51%) def. Turkovic (49%)</li>  
+<li>TRN: <b><i>MSST</i></b> - Cirotte (54%) def. Turkovic (46%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Turkovic (59%) def. Cirotte (41%)</li>  
 <li>UTR: <b><i>AZST</i></b> - Turkovic (56%) def. Cirotte (44%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Cirotte (2.24) def. Turkovic (1.94)</li>  
@@ -150,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Arizona St. should win 4 or more singles matches _61%_ of the time.  
-- Mississippi St. should win 4 or more singles matches _13%_ of the time.  
-- The winner of the doubles point will decide the match the other _26%_ of the time.  
-- If Arizona St. wins the doubles point, their chances of winning the dual improve to _87%_.  
-- If Mississippi St. wins the doubles point, their chances of winning the dual improve to _39%_.  
+- Arizona St. should win 4 or more singles matches *61%* of the time.  
+- Mississippi St. should win 4 or more singles matches *13%* of the time.  
+- The winner of the doubles point should decide the match the other *26%* of the time.  
+- If Arizona St. wins the doubles point, their chances of winning the dual improve to *87%*.  
+- If Mississippi St. wins the doubles point, their chances of winning the dual improve to *39%*.  
   
 ------
 

@@ -150,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ohio St. should win 4 or more singles matches _97%_ of the time.  
-- VCU should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If VCU wins the doubles point, their chances of winning the dual improve to _3%_.  
+- Ohio St. should win 4 or more singles matches *97%* of the time.  
+- VCU should win 4 or more singles matches *1%* of the time.  
+- The winner of the doubles point should decide the match the other *3%* of the time.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to *99%*.  
+- If VCU wins the doubles point, their chances of winning the dual improve to *3%*.  
   
 ------
 

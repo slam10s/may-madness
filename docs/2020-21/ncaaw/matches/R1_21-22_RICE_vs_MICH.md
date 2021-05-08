@@ -89,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MICH</i></b> - Cerdan (66%) def. Trevisan (34%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Cerdan (66%) def. Trevisan (34%)</li>  
-<li>TRN: <b><i>RICE</i></b> - Trevisan (52%) def. Cerdan (48%)</li>  
+<li>TRN: <b><i>RICE</i></b> - Trevisan (51%) def. Cerdan (49%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Cerdan (74%) def. Trevisan (26%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Cerdan (76%) def. Trevisan (24%)</li>  
 <li>ITA: <b><i>RICE</i></b> - Trevisan (6.30) def. Cerdan (1.79)</li>  
@@ -124,7 +124,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>MICH</i></b> - Lorenzini (59%) def. Bowtell (41%)</li>  
 <li>TRN: <b><i>MICH</i></b> - Lorenzini (52%) def. Bowtell (48%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Lorenzini (83%) def. Bowtell (17%)</li>  
-<li>UTR: <b><i>RICE</i></b> - Bowtell (61%) def. Lorenzini (39%)</li>  
+<li>UTR: <b><i>RICE</i></b> - Bowtell (60%) def. Lorenzini (40%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Lorenzini (2.86) def. Bowtell (1.88)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -150,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Michigan should win 4 or more singles matches _79%_ of the time.  
-- Rice should win 4 or more singles matches _5%_ of the time.  
-- The winner of the doubles point will decide the match the other _16%_ of the time.  
-- If Michigan wins the doubles point, their chances of winning the dual improve to _95%_.  
-- If Rice wins the doubles point, their chances of winning the dual improve to _21%_.  
+- Michigan should win 4 or more singles matches *79%* of the time.  
+- Rice should win 4 or more singles matches *5%* of the time.  
+- The winner of the doubles point should decide the match the other *16%* of the time.  
+- If Michigan wins the doubles point, their chances of winning the dual improve to *95%*.  
+- If Rice wins the doubles point, their chances of winning the dual improve to *21%*.  
   
 ------
 

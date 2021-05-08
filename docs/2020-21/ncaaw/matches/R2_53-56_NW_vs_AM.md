@@ -44,7 +44,7 @@ Evanston, Illinois
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***A&M*** - Texas A&M (52%) def. Northwestern (48%)  
 - Slam: ***A&M*** - #15 Texas A&M (55%) def. #18 Northwestern (45%)  
-- TRN: ***NW*** - #13 Northwestern (56%) def. #14 Texas A&M (44%)  
+- TRN: ***NW*** - #13 Northwestern (55%) def. #14 Texas A&M (45%)  
 - Massey: ***NW*** - #20 Northwestern (60%) def. #21 Texas A&M (40%)  
 - Lineup: ***A&M*** - Texas A&M (68%) def. Northwestern (32%)  
 - UTR: ***A&M*** - #21 Texas A&M (+1.27) def. #33 Northwestern (-1.27)  
@@ -75,8 +75,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Clarissa Hand (NW) - 0-2 at #2, 14-6 in duals, 14-9 overall<br>Jayci Goldsmith (A&M) - 9-7 at #2, 11-9 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>NW</i></b> - Hand (52%) def. Goldsmith (48%)</li>  
-<li>Slam: <b><i>NW</i></b> - Hand (52%) def. Goldsmith (48%)</li>  
-<li>TRN: <b><i>NW</i></b> - Hand (56%) def. Goldsmith (44%)</li>  
+<li>Slam: <b><i>NW</i></b> - Hand (51%) def. Goldsmith (49%)</li>  
+<li>TRN: <b><i>NW</i></b> - Hand (55%) def. Goldsmith (45%)</li>  
 <li>Massey: <b><i>NW</i></b> - Hand (66%) def. Goldsmith (34%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Goldsmith (64%) def. Hand (36%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (4.82) def. Goldsmith (3.03)</li>  
@@ -86,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Julie Byrne (NW) - 4-0 at #3, 9-8 in duals, 11-9 overall<br>Katya Townsend (A&M) - 9-6 at #3, 11-6 in duals, 18-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>A&M</i></b> - Townsend (51%) def. Byrne (49%)</li>  
-<li>Slam: <b><i>NW</i></b> - Byrne (64%) def. Townsend (36%)</li>  
+<li>Slam: <b><i>NW</i></b> - Byrne (63%) def. Townsend (37%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Townsend (53%) def. Byrne (47%)</li>  
 <li>Massey: <b><i>NW</i></b> - Byrne (64%) def. Townsend (36%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Townsend (79%) def. Byrne (21%)</li>  
@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Briana Crowley (NW) - 16-3 at #4, 16-5 in duals, 17-7 overall<br>Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>NW</i></b> - Crowley (52%) def. Faa-Hviding (48%)</li>  
+<li>Slam: <b><i>NW</i></b> - Crowley (51%) def. Faa-Hviding (49%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Faa-Hviding (55%) def. Crowley (45%)</li>  
 <li>Massey: <b><i>NW</i></b> - Crowley (62%) def. Faa-Hviding (38%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Faa-Hviding (59%) def. Crowley (41%)</li>  
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas A&M should win 4 or more singles matches _48%_ of the time.  
-- Northwestern should win 4 or more singles matches _22%_ of the time.  
-- The winner of the doubles point will decide the match the other _30%_ of the time.  
-- If Texas A&M wins the doubles point, their chances of winning the dual improve to _78%_.  
-- If Northwestern wins the doubles point, their chances of winning the dual improve to _52%_.  
+- Texas A&M should win 4 or more singles matches *48%* of the time.  
+- Northwestern should win 4 or more singles matches *22%* of the time.  
+- The winner of the doubles point should decide the match the other *30%* of the time.  
+- If Texas A&M wins the doubles point, their chances of winning the dual improve to *78%*.  
+- If Northwestern wins the doubles point, their chances of winning the dual improve to *52%*.  
   
 ------
 

@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- California should win 4 or more singles matches _84%_ of the time.  
-- Kentucky should win 4 or more singles matches _3%_ of the time.  
-- The winner of the doubles point will decide the match the other _13%_ of the time.  
-- If California wins the doubles point, their chances of winning the dual improve to _97%_.  
-- If Kentucky wins the doubles point, their chances of winning the dual improve to _16%_.  
+- California should win 4 or more singles matches *84%* of the time.  
+- Kentucky should win 4 or more singles matches *3%* of the time.  
+- The winner of the doubles point should decide the match the other *13%* of the time.  
+- If California wins the doubles point, their chances of winning the dual improve to *97%*.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to *16%*.  
   
 ------
 

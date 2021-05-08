@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas A&M should win 4 or more singles matches _90%_ of the time.  
-- Oklahoma should win 4 or more singles matches _2%_ of the time.  
-- The winner of the doubles point will decide the match the other _8%_ of the time.  
-- If Texas A&M wins the doubles point, their chances of winning the dual improve to _98%_.  
-- If Oklahoma wins the doubles point, their chances of winning the dual improve to _10%_.  
+- Texas A&M should win 4 or more singles matches *90%* of the time.  
+- Oklahoma should win 4 or more singles matches *2%* of the time.  
+- The winner of the doubles point should decide the match the other *8%* of the time.  
+- If Texas A&M wins the doubles point, their chances of winning the dual improve to *98%*.  
+- If Oklahoma wins the doubles point, their chances of winning the dual improve to *10%*.  
   
 ------
 

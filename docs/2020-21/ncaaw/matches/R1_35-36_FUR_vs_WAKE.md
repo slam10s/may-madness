@@ -66,8 +66,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Katarina Kozarov (FUR) - 22-1 at #1, 22-1 in duals, 22-1 overall<br>Carolyn Campana (WAKE) - 9-5 at #1, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
-<li>Slam: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
-<li>TRN: <b><i>FUR</i></b> - Kozarov (72%) def. Campana (28%)</li>  
+<li>Slam: <b><i>FUR</i></b> - Kozarov (55%) def. Campana (45%)</li>  
+<li>TRN: <b><i>FUR</i></b> - Kozarov (71%) def. Campana (29%)</li>  
 <li>Massey: <b><i>FUR</i></b> - Kozarov (56%) def. Campana (44%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Campana (56%) def. Kozarov (44%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (28.61) def. Kozarov (26.43)</li>  
@@ -78,9 +78,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>FUR</i></b> - Adams (58%) def. Campana (42%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Campana (52%) def. Adams (48%)</li>  
-<li>TRN: <b><i>FUR</i></b> - Adams (61%) def. Campana (39%)</li>  
+<li>TRN: <b><i>FUR</i></b> - Adams (60%) def. Campana (40%)</li>  
 <li>Massey: <b><i>FUR</i></b> - Adams (56%) def. Campana (44%)</li>  
-<li>UTR: <b><i>FUR</i></b> - Adams (71%) def. Campana (29%)</li>  
+<li>UTR: <b><i>FUR</i></b> - Adams (70%) def. Campana (30%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Campana (11.52) def. Adams (5.79)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -150,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Wake Forest should win 4 or more singles matches _60%_ of the time.  
-- Furman should win 4 or more singles matches _13%_ of the time.  
-- The winner of the doubles point will decide the match the other _27%_ of the time.  
-- If Wake Forest wins the doubles point, their chances of winning the dual improve to _87%_.  
-- If Furman wins the doubles point, their chances of winning the dual improve to _40%_.  
+- Wake Forest should win 4 or more singles matches *60%* of the time.  
+- Furman should win 4 or more singles matches *13%* of the time.  
+- The winner of the doubles point should decide the match the other *27%* of the time.  
+- If Wake Forest wins the doubles point, their chances of winning the dual improve to *87%*.  
+- If Furman wins the doubles point, their chances of winning the dual improve to *40%*.  
   
 ------
 

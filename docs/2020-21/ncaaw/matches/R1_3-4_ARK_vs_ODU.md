@@ -67,9 +67,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>ARK</i></b> - Spink (55%) def. Hutchinson (45%)</li>  
 <li>Slam: <b><i>ODU</i></b> - Hutchinson (61%) def. Spink (39%)</li>  
-<li>TRN: <b><i>ARK</i></b> - Spink (54%) def. Hutchinson (46%)</li>  
+<li>TRN: <b><i>ARK</i></b> - Spink (53%) def. Hutchinson (47%)</li>  
 <li>Massey: <b><i>ARK</i></b> - Spink (58%) def. Hutchinson (42%)</li>  
-<li>UTR: <b><i>ARK</i></b> - Spink (72%) def. Hutchinson (28%)</li>  
+<li>UTR: <b><i>ARK</i></b> - Spink (71%) def. Hutchinson (29%)</li>  
 <li>ITA: <b><i>ARK</i></b> - Spink (13.82) def. Hutchinson (5.40)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,10 +99,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Morgan Cross (ARK) - 9-10 at #4, 10-10 in duals, 10-10 overall<br>Alesya Yakubovich (ODU) - 4-5 at #4, 6-7 in duals, 6-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>ARK</i></b> - Cross (65%) def. Yakubovich (35%)</li>  
-<li>Slam: <b><i>ARK</i></b> - Cross (63%) def. Yakubovich (37%)</li>  
-<li>TRN: <b><i>ARK</i></b> - Cross (69%) def. Yakubovich (31%)</li>  
+<li>Slam: <b><i>ARK</i></b> - Cross (62%) def. Yakubovich (38%)</li>  
+<li>TRN: <b><i>ARK</i></b> - Cross (68%) def. Yakubovich (32%)</li>  
 <li>Massey: <b><i>ARK</i></b> - Cross (51%) def. Yakubovich (49%)</li>  
-<li>UTR: <b><i>ARK</i></b> - Cross (80%) def. Yakubovich (20%)</li>  
+<li>UTR: <b><i>ARK</i></b> - Cross (79%) def. Yakubovich (21%)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -120,8 +120,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Laura Rijkers (ARK) - 7-0 at #6, 7-8 in duals, 7-8 overall<br>Alexandra Viktorovich (ODU) - 6-2 at #6, 7-4 in duals, 7-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>ODU</i></b> - Viktorovich (53%) def. Rijkers (47%)</li>  
-<li>Slam: <b><i>ARK</i></b> - Rijkers (55%) def. Viktorovich (45%)</li>  
-<li>TRN: <b><i>ARK</i></b> - Rijkers (69%) def. Viktorovich (31%)</li>  
+<li>Slam: <b><i>ARK</i></b> - Rijkers (54%) def. Viktorovich (46%)</li>  
+<li>TRN: <b><i>ARK</i></b> - Rijkers (68%) def. Viktorovich (32%)</li>  
 <li>Massey: <b><i>ODU</i></b> - Viktorovich (55%) def. Rijkers (45%)</li>  
 <li>UTR: <b><i>ODU</i></b> - Viktorovich (80%) def. Rijkers (20%)</li>  
 <li>ITA: <b><i>ODU</i></b> - Viktorovich (2.38) def. Rijkers (1.60)</li>  
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Old Dominion should win 4 or more singles matches _44%_ of the time.  
-- Arkansas should win 4 or more singles matches _25%_ of the time.  
-- The winner of the doubles point will decide the match the other _31%_ of the time.  
-- If Old Dominion wins the doubles point, their chances of winning the dual improve to _75%_.  
-- If Arkansas wins the doubles point, their chances of winning the dual improve to _56%_.  
+- Old Dominion should win 4 or more singles matches *44%* of the time.  
+- Arkansas should win 4 or more singles matches *25%* of the time.  
+- The winner of the doubles point should decide the match the other *31%* of the time.  
+- If Old Dominion wins the doubles point, their chances of winning the dual improve to *75%*.  
+- If Arkansas wins the doubles point, their chances of winning the dual improve to *56%*.  
   
 ------
 

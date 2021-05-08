@@ -116,10 +116,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Oskar Michalek (MTSU) - 1-0 at #6, 5-1 in duals, 5-1 overall<br>Akos Kotorman (TULN) - 1-2 at #6, 2-3 in duals, 2-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MTSU</i></b> - Michalek (63%) def. Kotorman (37%)</li>  
-<li>Slam: <b><i>MTSU</i></b> - Michalek (60%) def. Kotorman (40%)</li>  
+<li>Slam: <b><i>MTSU</i></b> - Michalek (59%) def. Kotorman (41%)</li>  
 <li>TRN: <b><i>TULN</i></b> - Kotorman (58%) def. Michalek (42%)</li>  
 <li>Massey: <b><i>MTSU</i></b> - Michalek (70%) def. Kotorman (30%)</li>  
-<li>UTR: <b><i>MTSU</i></b> - Michalek (83%) def. Kotorman (17%)</li>  
+<li>UTR: <b><i>MTSU</i></b> - Michalek (82%) def. Kotorman (18%)</li>  
 <li>ITA: <b><i>MTSU</i></b> - Michalek (1.92) def. Kotorman (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Tulane should win 4 or more singles matches _61%_ of the time.  
-- Middle Tenn. should win 4 or more singles matches _13%_ of the time.  
-- The winner of the doubles point will decide the match the other _26%_ of the time.  
-- If Tulane wins the doubles point, their chances of winning the dual improve to _87%_.  
-- If Middle Tenn. wins the doubles point, their chances of winning the dual improve to _39%_.  
+- Tulane should win 4 or more singles matches *61%* of the time.  
+- Middle Tenn. should win 4 or more singles matches *13%* of the time.  
+- The winner of the doubles point should decide the match the other *26%* of the time.  
+- If Tulane wins the doubles point, their chances of winning the dual improve to *87%*.  
+- If Middle Tenn. wins the doubles point, their chances of winning the dual improve to *39%*.  
   
 ------
 

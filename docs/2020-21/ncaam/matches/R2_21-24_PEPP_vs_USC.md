@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Southern California should win 4 or more singles matches _93%_ of the time.  
-- Pepperdine should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _6%_ of the time.  
-- If Southern California wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Pepperdine wins the doubles point, their chances of winning the dual improve to _7%_.  
+- Southern California should win 4 or more singles matches *93%* of the time.  
+- Pepperdine should win 4 or more singles matches *1%* of the time.  
+- The winner of the doubles point should decide the match the other *6%* of the time.  
+- If Southern California wins the doubles point, their chances of winning the dual improve to *99%*.  
+- If Pepperdine wins the doubles point, their chances of winning the dual improve to *7%*.  
   
 ------
 

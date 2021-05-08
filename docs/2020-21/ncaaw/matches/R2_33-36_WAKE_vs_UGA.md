@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Georgia should win 4 or more singles matches _98%_ of the time.  
-- Wake Forest should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _2%_ of the time.  
-- If Georgia wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Wake Forest wins the doubles point, their chances of winning the dual improve to _2%_.  
+- Georgia should win 4 or more singles matches *98%* of the time.  
+- Wake Forest should win 4 or more singles matches *1%* of the time.  
+- The winner of the doubles point should decide the match the other *2%* of the time.  
+- If Georgia wins the doubles point, their chances of winning the dual improve to *99%*.  
+- If Wake Forest wins the doubles point, their chances of winning the dual improve to *2%*.  
   
 ------
 

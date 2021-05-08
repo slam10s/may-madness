@@ -110,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>UCLA</i></b> - Vagramov (61%) def. Peet (39%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (72%) def. Peet (28%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Vagramov (54%) def. Peet (46%)</li>  
-<li>UTR: <b><i>TTU</i></b> - Peet (63%) def. Vagramov (37%)</li>  
+<li>UTR: <b><i>TTU</i></b> - Peet (62%) def. Vagramov (38%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Peet (2.03)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- UCLA should win 4 or more singles matches _89%_ of the time.  
-- Texas Tech should win 4 or more singles matches _2%_ of the time.  
-- The winner of the doubles point will decide the match the other _9%_ of the time.  
-- If UCLA wins the doubles point, their chances of winning the dual improve to _98%_.  
-- If Texas Tech wins the doubles point, their chances of winning the dual improve to _11%_.  
+- UCLA should win 4 or more singles matches *89%* of the time.  
+- Texas Tech should win 4 or more singles matches *2%* of the time.  
+- The winner of the doubles point should decide the match the other *9%* of the time.  
+- If UCLA wins the doubles point, their chances of winning the dual improve to *98%*.  
+- If Texas Tech wins the doubles point, their chances of winning the dual improve to *11%*.  
   
 ------
 

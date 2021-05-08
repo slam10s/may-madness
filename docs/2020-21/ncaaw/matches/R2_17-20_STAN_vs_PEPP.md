@@ -120,9 +120,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>STAN</i></b> - Higuchi (59%) def. Redelijk (41%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Redelijk (54%) def. Higuchi (46%)</li>  
-<li>TRN: <b><i>STAN</i></b> - Higuchi (53%) def. Redelijk (47%)</li>  
+<li>TRN: <b><i>STAN</i></b> - Higuchi (52%) def. Redelijk (48%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Higuchi (65%) def. Redelijk (35%)</li>  
-<li>UTR: <b><i>STAN</i></b> - Higuchi (75%) def. Redelijk (25%)</li>  
+<li>UTR: <b><i>STAN</i></b> - Higuchi (74%) def. Redelijk (26%)</li>  
 <li>ITA: <b><i>STAN</i></b> - Higuchi (2.68) def. Redelijk (1.87)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Pepperdine should win 4 or more singles matches _71%_ of the time.  
-- Stanford should win 4 or more singles matches _8%_ of the time.  
-- The winner of the doubles point will decide the match the other _21%_ of the time.  
-- If Pepperdine wins the doubles point, their chances of winning the dual improve to _92%_.  
-- If Stanford wins the doubles point, their chances of winning the dual improve to _29%_.  
+- Pepperdine should win 4 or more singles matches *71%* of the time.  
+- Stanford should win 4 or more singles matches *8%* of the time.  
+- The winner of the doubles point should decide the match the other *21%* of the time.  
+- If Pepperdine wins the doubles point, their chances of winning the dual improve to *92%*.  
+- If Stanford wins the doubles point, their chances of winning the dual improve to *29%*.  
   
 ------
 

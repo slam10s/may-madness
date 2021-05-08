@@ -40,8 +40,8 @@ Visitor:
     Coach: 23
 Predictions:
   AVG: MICH - Michigan (72%) def. Arizona (28%)
-  SLM: "MICH - #13 Michigan (78%) def. #21 Arizona (22%)"
-  TRN: "MICH - #12 Michigan (88%) def. #20 Arizona (12%)"
+  SLM: "MICH - #13 Michigan (77%) def. #21 Arizona (23%)"
+  TRN: "MICH - #12 Michigan (87%) def. #20 Arizona (13%)"
   MAS: "MICH - #14 Michigan (54%) def. #18 Arizona (46%)"
   LNUP: MICH - Michigan (70%) def. Arizona (30%)
   UTR: "MICH - #18 Michigan (+0.3) def. #21 Arizona (-0.3)"
@@ -62,7 +62,7 @@ Lineups:
       MICH: Andrew Fenty - 10-3 at 1, 13-4 in duals, 16-9 overall
       Predictions:
         AVG: ARIZ - Strom (64%) def. Fenty (36%)
-        SLM: MICH - Fenty (56%) def. Strom (44%)
+        SLM: MICH - Fenty (55%) def. Strom (45%)
         TRN: ARIZ - Strom (87%) def. Fenty (13%)
         MAS: ARIZ - Strom (57%) def. Fenty (43%)
         UTR: ARIZ - Strom (69%) def. Fenty (31%)
@@ -72,10 +72,10 @@ Lineups:
       MICH: Ondrej Styler - 7-3 at 2, 8-4 in duals, 12-7 overall
       Predictions:
         AVG: MICH - Styler (62%) def. Ziverts (38%)
-        SLM: MICH - Styler (54%) def. Ziverts (46%)
-        TRN: MICH - Styler (55%) def. Ziverts (45%)
+        SLM: MICH - Styler (53%) def. Ziverts (47%)
+        TRN: MICH - Styler (54%) def. Ziverts (46%)
         MAS: MICH - Styler (68%) def. Ziverts (32%)
-        UTR: MICH - Styler (76%) def. Ziverts (24%)
+        UTR: MICH - Styler (75%) def. Ziverts (25%)
         ITA: ARIZ - Ziverts (7.58) def. Styler (2.60)
     - Position: 3
       ARIZ: Filip Malbasic - 5-4 at 3, 14-9 in duals, 14-9 overall
@@ -92,10 +92,10 @@ Lineups:
       MICH: Mattias Siimar - 8-1 at 4, 14-3 in duals, 17-6 overall
       Predictions:
         AVG: MICH - Siimar (94%) def. Hoeyeraal (6%)
-        SLM: MICH - Siimar (100%) def. Hoeyeraal (0%)
-        TRN: MICH - Siimar (100%) def. Hoeyeraal (0%)
+        SLM: MICH - Siimar (99%) def. Hoeyeraal (1%)
+        TRN: MICH - Siimar (99%) def. Hoeyeraal (1%)
         MAS: MICH - Siimar (79%) def. Hoeyeraal (21%)
-        UTR: MICH - Siimar (100%) def. Hoeyeraal (0%)
+        UTR: MICH - Siimar (99%) def. Hoeyeraal (1%)
         ITA: MICH - Siimar (2.45) def. Hoeyeraal (2.40)
     - Position: 5
       ARIZ: Alejandro Reguant - 0-0 at 5, 13-6 in duals, 13-6 overall
@@ -103,7 +103,7 @@ Lineups:
       Predictions:
         AVG: MICH - Beaty (51%) def. Reguant (49%)
         SLM: ARIZ - Reguant (55%) def. Beaty (45%)
-        TRN: MICH - Beaty (66%) def. Reguant (34%)
+        TRN: MICH - Beaty (65%) def. Reguant (35%)
         MAS: MICH - Beaty (66%) def. Reguant (34%)
         UTR: ARIZ - Reguant (70%) def. Beaty (30%)
         ITA: ARIZ - Reguant (2.55) def. Beaty (2.52)
@@ -113,9 +113,9 @@ Lineups:
       Predictions:
         AVG: MICH - Ehrenschneider (57%) def. Hassey (43%)
         SLM: MICH - Ehrenschneider (51%) def. Hassey (49%)
-        TRN: MICH - Ehrenschneider (66%) def. Hassey (34%)
+        TRN: MICH - Ehrenschneider (65%) def. Hassey (35%)
         MAS: MICH - Ehrenschneider (58%) def. Hassey (42%)
-        UTR: MICH - Ehrenschneider (57%) def. Hassey (43%)
+        UTR: MICH - Ehrenschneider (56%) def. Hassey (44%)
         ITA: MICH - Ehrenschneider (2.63) def. Hassey (1.70)
   Doubles:
     - Position: 1

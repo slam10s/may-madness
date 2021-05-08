@@ -64,10 +64,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Estela Perez-Somarriba (MIA) - 19-2 at #1, 19-2 in duals, 19-2 overall<br>Valeriya Zeleva (UCF) - 9-2 at #1, 12-2 in duals, 13-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MIA</i></b> - Perez-Somarriba (82%) def. Zeleva (18%)</li>  
-<li>Slam: <b><i>MIA</i></b> - Perez-Somarriba (86%) def. Zeleva (14%)</li>  
-<li>TRN: <b><i>MIA</i></b> - Perez-Somarriba (88%) def. Zeleva (12%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Perez-Somarriba (85%) def. Zeleva (15%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Perez-Somarriba (87%) def. Zeleva (13%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (67%) def. Zeleva (33%)</li>  
-<li>UTR: <b><i>MIA</i></b> - Perez-Somarriba (88%) def. Zeleva (12%)</li>  
+<li>UTR: <b><i>MIA</i></b> - Perez-Somarriba (87%) def. Zeleva (13%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Perez-Somarriba (69.45) def. Zeleva (22.66)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Isabella Pfennig (MIA) - 12-4 at #2, 16-4 in duals, 16-4 overall<br>Rebeka Stolmar (UCF) - 7-4 at #2, 12-6 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MIA</i></b> - Pfennig (67%) def. Stolmar (33%)</li>  
-<li>Slam: <b><i>MIA</i></b> - Pfennig (63%) def. Stolmar (37%)</li>  
-<li>TRN: <b><i>MIA</i></b> - Pfennig (71%) def. Stolmar (29%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Pfennig (62%) def. Stolmar (38%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Pfennig (70%) def. Stolmar (30%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Pfennig (56%) def. Stolmar (44%)</li>  
-<li>UTR: <b><i>MIA</i></b> - Pfennig (79%) def. Stolmar (21%)</li>  
+<li>UTR: <b><i>MIA</i></b> - Pfennig (78%) def. Stolmar (22%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Pfennig (32.52) def. Stolmar (15.81)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,10 +108,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Diana Khodan (MIA) - 5-5 at #5, 12-7 in duals, 12-7 overall<br>Marie Mattel (UCF) - 2-0 at #5, 6-4 in duals, 6-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MIA</i></b> - Khodan (64%) def. Mattel (36%)</li>  
-<li>Slam: <b><i>MIA</i></b> - Khodan (56%) def. Mattel (44%)</li>  
-<li>TRN: <b><i>MIA</i></b> - Khodan (64%) def. Mattel (36%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Khodan (55%) def. Mattel (45%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Khodan (63%) def. Mattel (37%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Khodan (63%) def. Mattel (37%)</li>  
-<li>UTR: <b><i>MIA</i></b> - Khodan (76%) def. Mattel (24%)</li>  
+<li>UTR: <b><i>MIA</i></b> - Khodan (75%) def. Mattel (25%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mattel (2.00) def. Khodan (1.90)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,10 +119,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Maya Tahan (MIA) - 6-1 at #6, 13-8 in duals, 13-8 overall<br>Nadja Bay (UCF) - 0-0 at #6, 1-3 in duals, 1-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MIA</i></b> - Tahan (99%) def. Bay (1%)</li>  
-<li>Slam: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
-<li>TRN: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Tahan (99%) def. Bay (1%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Tahan (99%) def. Bay (1%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Tahan (99%) def. Bay (1%)</li>  
-<li>UTR: <b><i>MIA</i></b> - Tahan (100%) def. Bay (0%)</li>  
+<li>UTR: <b><i>MIA</i></b> - Tahan (99%) def. Bay (1%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Tahan (2.26) def. Bay (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- UCF should win 4 or more singles matches _12%_ of the time.  
-- Miami (FL) should win 4 or more singles matches _56%_ of the time.  
-- The winner of the doubles point will decide the match the other _32%_ of the time.  
-- If UCF wins the doubles point, their chances of winning the dual improve to _44%_.  
-- If Miami (FL) wins the doubles point, their chances of winning the dual improve to _88%_.  
+- UCF should win 4 or more singles matches *12%* of the time.  
+- Miami (FL) should win 4 or more singles matches *56%* of the time.  
+- The winner of the doubles point should decide the match the other *32%* of the time.  
+- If UCF wins the doubles point, their chances of winning the dual improve to *44%*.  
+- If Miami (FL) wins the doubles point, their chances of winning the dual improve to *88%*.  
   
 ------
 

@@ -74,8 +74,8 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Carolyn Ansari (AUB) - 1-0 at #2, 12-3 in duals, 14-10 overall<br>Emmanuelle Salas (FSU) - 5-6 at #2, 7-9 in duals, 7-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>AUB</i></b> - Ansari (52%) def. Salas (48%)</li>  
-<li>TRN: <b><i>AUB</i></b> - Ansari (57%) def. Salas (43%)</li>  
+<li>Slam: <b><i>AUB</i></b> - Ansari (51%) def. Salas (49%)</li>  
+<li>TRN: <b><i>AUB</i></b> - Ansari (56%) def. Salas (44%)</li>  
 <li>Massey: <b><i>AUB</i></b> - Ansari (59%) def. Salas (41%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Salas (70%) def. Ansari (30%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Salas (14.35) def. Ansari (7.96)</li>  
@@ -85,8 +85,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Yu Chen (AUB) - 0-2 at #3, 5-11 in duals, 12-13 overall<br>Nandini Das (FSU) - 6-4 at #3, 11-8 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>FSU</i></b> - Das (57%) def. Chen (43%)</li>  
-<li>Slam: <b><i>AUB</i></b> - Chen (52%) def. Das (48%)</li>  
-<li>TRN: <b><i>AUB</i></b> - Chen (53%) def. Das (47%)</li>  
+<li>Slam: <b><i>AUB</i></b> - Chen (51%) def. Das (49%)</li>  
+<li>TRN: <b><i>AUB</i></b> - Chen (52%) def. Das (48%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Das (67%) def. Chen (33%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Das (65%) def. Chen (35%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Chen (3.54) def. Das (2.52)</li>  
@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>FSU</i></b> - Hule (52%) def. Axon (48%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Hule (52%) def. Axon (48%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Hule (51%) def. Axon (49%)</li>  
-<li>UTR: <b><i>AUB</i></b> - Axon (65%) def. Hule (35%)</li>  
+<li>UTR: <b><i>AUB</i></b> - Axon (64%) def. Hule (36%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Hule (3.24) def. Axon (2.43)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Florida St. should win 4 or more singles matches _77%_ of the time.  
-- Auburn should win 4 or more singles matches _4%_ of the time.  
-- The winner of the doubles point will decide the match the other _19%_ of the time.  
-- If Florida St. wins the doubles point, their chances of winning the dual improve to _96%_.  
-- If Auburn wins the doubles point, their chances of winning the dual improve to _23%_.  
+- Florida St. should win 4 or more singles matches *77%* of the time.  
+- Auburn should win 4 or more singles matches *4%* of the time.  
+- The winner of the doubles point should decide the match the other *19%* of the time.  
+- If Florida St. wins the doubles point, their chances of winning the dual improve to *96%*.  
+- If Auburn wins the doubles point, their chances of winning the dual improve to *23%*.  
   
 ------
 

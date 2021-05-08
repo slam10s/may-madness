@@ -66,7 +66,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>AZST</i></b> - Ponwtih (68%) def. Dellien (32%)</li>  
 <li>TRN: <b><i>AZST</i></b> - Ponwtih (59%) def. Dellien (41%)</li>  
 <li>Massey: <b><i>WICH</i></b> - Dellien (51%) def. Ponwtih (49%)</li>  
-<li>UTR: <b><i>WICH</i></b> - Dellien (56%) def. Ponwtih (44%)</li>  
+<li>UTR: <b><i>WICH</i></b> - Dellien (55%) def. Ponwtih (45%)</li>  
 <li>ITA: <b><i>WICH</i></b> - Dellien (19.99) def. Ponwtih (8.02)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -74,10 +74,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Marius Frosa (WICH) - 6-3 at #2, 11-7 in duals, 11-7 overall<br>Makey Rakotomalala (AZST) - 4-8 at #2, 9-10 in duals, 9-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>WICH</i></b> - Frosa (83%) def. Rakotomalala (17%)</li>  
-<li>Slam: <b><i>WICH</i></b> - Frosa (100%) def. Rakotomalala (0%)</li>  
-<li>TRN: <b><i>WICH</i></b> - Frosa (100%) def. Rakotomalala (0%)</li>  
+<li>Slam: <b><i>WICH</i></b> - Frosa (99%) def. Rakotomalala (1%)</li>  
+<li>TRN: <b><i>WICH</i></b> - Frosa (99%) def. Rakotomalala (1%)</li>  
 <li>Massey: <b><i>AZST</i></b> - Rakotomalala (67%) def. Frosa (33%)</li>  
-<li>UTR: <b><i>WICH</i></b> - Frosa (100%) def. Rakotomalala (0%)</li>  
+<li>UTR: <b><i>WICH</i></b> - Frosa (99%) def. Rakotomalala (1%)</li>  
 <li>ITA: <b><i>WICH</i></b> - Frosa (2.75) def. Rakotomalala (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -96,10 +96,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Nicolas Acevedo (WICH) - 7-4 at #4, 12-8 in duals, 12-8 overall<br>George Stoupe (AZST) - 4-4 at #4, 10-10 in duals, 10-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>WICH</i></b> - Acevedo (64%) def. Stoupe (36%)</li>  
-<li>Slam: <b><i>WICH</i></b> - Acevedo (63%) def. Stoupe (37%)</li>  
-<li>TRN: <b><i>WICH</i></b> - Acevedo (62%) def. Stoupe (38%)</li>  
+<li>Slam: <b><i>WICH</i></b> - Acevedo (62%) def. Stoupe (38%)</li>  
+<li>TRN: <b><i>WICH</i></b> - Acevedo (61%) def. Stoupe (39%)</li>  
 <li>Massey: <b><i>WICH</i></b> - Acevedo (71%) def. Stoupe (29%)</li>  
-<li>UTR: <b><i>WICH</i></b> - Acevedo (64%) def. Stoupe (36%)</li>  
+<li>UTR: <b><i>WICH</i></b> - Acevedo (63%) def. Stoupe (37%)</li>  
 <li>ITA: <b><i>WICH</i></b> - Acevedo (1.90) def. Stoupe (1.41)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -107,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Orel Ovil (WICH) - 6-3 at #5, 10-10 in duals, 10-10 overall<br>Max McKennon (AZST) - 3-2 at #5, 4-5 in duals, 4-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>AZST</i></b> - McKennon (61%) def. Ovil (39%)</li>  
-<li>Slam: <b><i>WICH</i></b> - Ovil (56%) def. McKennon (44%)</li>  
+<li>Slam: <b><i>WICH</i></b> - Ovil (55%) def. McKennon (45%)</li>  
 <li>TRN: <b><i>AZST</i></b> - McKennon (55%) def. Ovil (45%)</li>  
 <li>Massey: <b><i>AZST</i></b> - McKennon (62%) def. Ovil (38%)</li>  
 <li>UTR: <b><i>AZST</i></b> - McKennon (85%) def. Ovil (15%)</li>  
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Arizona St. should win 4 or more singles matches _37%_ of the time.  
-- Wichita St. should win 4 or more singles matches _28%_ of the time.  
-- The winner of the doubles point will decide the match the other _35%_ of the time.  
-- If Arizona St. wins the doubles point, their chances of winning the dual improve to _72%_.  
-- If Wichita St. wins the doubles point, their chances of winning the dual improve to _63%_.  
+- Arizona St. should win 4 or more singles matches *37%* of the time.  
+- Wichita St. should win 4 or more singles matches *28%* of the time.  
+- The winner of the doubles point should decide the match the other *35%* of the time.  
+- If Arizona St. wins the doubles point, their chances of winning the dual improve to *72%*.  
+- If Wichita St. wins the doubles point, their chances of winning the dual improve to *63%*.  
   
 ------
 

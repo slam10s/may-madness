@@ -88,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>STAN</i></b> - Arbuthnott (54%) def. Khatamova (46%)</li>  
 <li>Slam: <b><i>STAN</i></b> - Arbuthnott (56%) def. Khatamova (44%)</li>  
-<li>TRN: <b><i>UCSB</i></b> - Khatamova (73%) def. Arbuthnott (27%)</li>  
+<li>TRN: <b><i>UCSB</i></b> - Khatamova (72%) def. Arbuthnott (28%)</li>  
 <li>Massey: <b><i>STAN</i></b> - Arbuthnott (53%) def. Khatamova (47%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Arbuthnott (80%) def. Khatamova (20%)</li>  
 <li>ITA: <b><i>UCSB</i></b> - Khatamova (6.05) def. Arbuthnott (1.89)</li>  
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Stanford should win 4 or more singles matches _97%_ of the time.  
-- UC Santa Barbara should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _3%_ of the time.  
-- If Stanford wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _3%_.  
+- Stanford should win 4 or more singles matches *97%* of the time.  
+- UC Santa Barbara should win 4 or more singles matches *1%* of the time.  
+- The winner of the doubles point should decide the match the other *3%* of the time.  
+- If Stanford wins the doubles point, their chances of winning the dual improve to *99%*.  
+- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to *3%*.  
   
 ------
 

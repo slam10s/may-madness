@@ -108,10 +108,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Bianca Compuesto (LIU) - 4-0 at #5, 6-0 in duals, 6-0 overall<br>Amber O'Dell (UVA) - 1-3 at #5, 10-7 in duals, 10-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>LIU</i></b> - Compuesto (77%) def. O'Dell (23%)</li>  
-<li>Slam: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
-<li>TRN: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
+<li>Slam: <b><i>LIU</i></b> - Compuesto (99%) def. O'Dell (1%)</li>  
+<li>TRN: <b><i>LIU</i></b> - Compuesto (99%) def. O'Dell (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - O'Dell (89%) def. Compuesto (11%)</li>  
-<li>UTR: <b><i>LIU</i></b> - Compuesto (100%) def. O'Dell (0%)</li>  
+<li>UTR: <b><i>LIU</i></b> - Compuesto (99%) def. O'Dell (1%)</li>  
 <li>ITA: <b><i>LIU</i></b> - Compuesto (3.66) def. O'Dell (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Virginia should win 4 or more singles matches _99%_ of the time.  
-- LIU should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
-- If Virginia wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If LIU wins the doubles point, their chances of winning the dual improve to _1%_.  
+- Virginia should win 4 or more singles matches *99%* of the time.  
+- LIU should win 4 or more singles matches *1%* of the time.  
+- The winner of the doubles point should decide the match the other *1%* of the time.  
+- If Virginia wins the doubles point, their chances of winning the dual improve to *99%*.  
+- If LIU wins the doubles point, their chances of winning the dual improve to *1%*.  
   
 ------
 

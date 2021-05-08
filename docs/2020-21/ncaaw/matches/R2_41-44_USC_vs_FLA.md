@@ -74,10 +74,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Eryn Cayetano (USC) - 6-2 at #2, 10-5 in duals, 10-5 overall<br>Marlee Zein (FLA) - 6-5 at #2, 8-5 in duals, 10-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USC</i></b> - Cayetano (76%) def. Zein (24%)</li>  
-<li>Slam: <b><i>USC</i></b> - Cayetano (78%) def. Zein (22%)</li>  
-<li>TRN: <b><i>USC</i></b> - Cayetano (82%) def. Zein (18%)</li>  
+<li>Slam: <b><i>USC</i></b> - Cayetano (77%) def. Zein (23%)</li>  
+<li>TRN: <b><i>USC</i></b> - Cayetano (81%) def. Zein (19%)</li>  
 <li>Massey: <b><i>USC</i></b> - Cayetano (60%) def. Zein (40%)</li>  
-<li>UTR: <b><i>USC</i></b> - Cayetano (89%) def. Zein (11%)</li>  
+<li>UTR: <b><i>USC</i></b> - Cayetano (88%) def. Zein (12%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Zein (8.25) def. Cayetano (5.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -96,7 +96,7 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Naomi Cheong (USC) - 0-0 at #4, 9-8 in duals, 9-8 overall<br>Layne Sleeth (FLA) - 7-0 at #4, 9-1 in duals, 9-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>FLA</i></b> - Sleeth (62%) def. Cheong (38%)</li>  
-<li>Slam: <b><i>USC</i></b> - Cheong (58%) def. Sleeth (42%)</li>  
+<li>Slam: <b><i>USC</i></b> - Cheong (57%) def. Sleeth (43%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Sleeth (51%) def. Cheong (49%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Sleeth (76%) def. Cheong (24%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Sleeth (78%) def. Cheong (22%)</li>  
@@ -107,10 +107,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Dani Willson (USC) - 0-0 at #5, 12-8 in duals, 12-8 overall<br>Sara Dahlstrom (FLA) - 3-4 at #5, 6-8 in duals, 9-11 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USC</i></b> - Willson (64%) def. Dahlstrom (36%)</li>  
-<li>Slam: <b><i>USC</i></b> - Willson (63%) def. Dahlstrom (37%)</li>  
-<li>TRN: <b><i>USC</i></b> - Willson (71%) def. Dahlstrom (29%)</li>  
+<li>Slam: <b><i>USC</i></b> - Willson (62%) def. Dahlstrom (38%)</li>  
+<li>TRN: <b><i>USC</i></b> - Willson (70%) def. Dahlstrom (30%)</li>  
 <li>Massey: <b><i>USC</i></b> - Willson (58%) def. Dahlstrom (42%)</li>  
-<li>UTR: <b><i>USC</i></b> - Willson (69%) def. Dahlstrom (31%)</li>  
+<li>UTR: <b><i>USC</i></b> - Willson (68%) def. Dahlstrom (32%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Dahlstrom (3.40) def. Willson (1.74)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Florida should win 4 or more singles matches _50%_ of the time.  
-- Southern California should win 4 or more singles matches _18%_ of the time.  
-- The winner of the doubles point will decide the match the other _32%_ of the time.  
-- If Florida wins the doubles point, their chances of winning the dual improve to _82%_.  
-- If Southern California wins the doubles point, their chances of winning the dual improve to _50%_.  
+- Florida should win 4 or more singles matches *50%* of the time.  
+- Southern California should win 4 or more singles matches *18%* of the time.  
+- The winner of the doubles point should decide the match the other *32%* of the time.  
+- If Florida wins the doubles point, their chances of winning the dual improve to *82%*.  
+- If Southern California wins the doubles point, their chances of winning the dual improve to *50%*.  
   
 ------
 

@@ -66,10 +66,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Viktoriya Kanapatskaya (SYR) - 9-5 at #1, 11-5 in duals, 11-5 overall<br>Akvile Parazinskaite (UK) - 16-6 at #1, 16-6 in duals, 19-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>SYR</i></b> - Kanapatskaya (61%) def. Parazinskaite (39%)</li>  
-<li>Slam: <b><i>SYR</i></b> - Kanapatskaya (65%) def. Parazinskaite (35%)</li>  
-<li>TRN: <b><i>SYR</i></b> - Kanapatskaya (65%) def. Parazinskaite (35%)</li>  
+<li>Slam: <b><i>SYR</i></b> - Kanapatskaya (64%) def. Parazinskaite (36%)</li>  
+<li>TRN: <b><i>SYR</i></b> - Kanapatskaya (64%) def. Parazinskaite (36%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Kanapatskaya (55%) def. Parazinskaite (45%)</li>  
-<li>UTR: <b><i>SYR</i></b> - Kanapatskaya (64%) def. Parazinskaite (36%)</li>  
+<li>UTR: <b><i>SYR</i></b> - Kanapatskaya (63%) def. Parazinskaite (37%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Kanapatskaya (30.96) def. Parazinskaite (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -102,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>UK</i></b> - Stevens (59%) def. Ramirez (41%)</li>  
 <li>TRN: <b><i>UK</i></b> - Stevens (65%) def. Ramirez (35%)</li>  
 <li>Massey: <b><i>UK</i></b> - Stevens (58%) def. Ramirez (42%)</li>  
-<li>UTR: <b><i>SYR</i></b> - Ramirez (57%) def. Stevens (43%)</li>  
+<li>UTR: <b><i>SYR</i></b> - Ramirez (56%) def. Stevens (44%)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -123,7 +123,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>UK</i></b> - Arrese (60%) def. Kozyreva (40%)</li>  
 <li>TRN: <b><i>UK</i></b> - Arrese (57%) def. Kozyreva (43%)</li>  
 <li>Massey: <b><i>SYR</i></b> - Kozyreva (63%) def. Arrese (37%)</li>  
-<li>UTR: <b><i>SYR</i></b> - Kozyreva (100%) def. Arrese (0%)</li>  
+<li>UTR: <b><i>SYR</i></b> - Kozyreva (99%) def. Arrese (1%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Kozyreva (1.79) def. Arrese (1.49)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Kentucky should win 4 or more singles matches _47%_ of the time.  
-- Syracuse should win 4 or more singles matches _22%_ of the time.  
-- The winner of the doubles point will decide the match the other _31%_ of the time.  
-- If Kentucky wins the doubles point, their chances of winning the dual improve to _78%_.  
-- If Syracuse wins the doubles point, their chances of winning the dual improve to _53%_.  
+- Kentucky should win 4 or more singles matches *47%* of the time.  
+- Syracuse should win 4 or more singles matches *22%* of the time.  
+- The winner of the doubles point should decide the match the other *31%* of the time.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to *78%*.  
+- If Syracuse wins the doubles point, their chances of winning the dual improve to *53%*.  
   
 ------
 

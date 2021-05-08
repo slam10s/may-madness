@@ -42,7 +42,7 @@ Visitor:
 Predictions:
   AVG: A&M - Texas A&M (52%) def. Northwestern (48%)
   SLM: "A&M - #15 Texas A&M (55%) def. #18 Northwestern (45%)"
-  TRN: "NW - #13 Northwestern (56%) def. #14 Texas A&M (44%)"
+  TRN: "NW - #13 Northwestern (55%) def. #14 Texas A&M (45%)"
   MAS: "NW - #20 Northwestern (60%) def. #21 Texas A&M (40%)"
   LNUP: A&M - Texas A&M (68%) def. Northwestern (32%)
   UTR: "A&M - #21 Texas A&M (+1.27) def. #33 Northwestern (-1.27)"
@@ -73,8 +73,8 @@ Lineups:
       NW: Clarissa Hand - 0-2 at 2, 14-6 in duals, 14-9 overall
       Predictions:
         AVG: NW - Hand (52%) def. Goldsmith (48%)
-        SLM: NW - Hand (52%) def. Goldsmith (48%)
-        TRN: NW - Hand (56%) def. Goldsmith (44%)
+        SLM: NW - Hand (51%) def. Goldsmith (49%)
+        TRN: NW - Hand (55%) def. Goldsmith (45%)
         MAS: NW - Hand (66%) def. Goldsmith (34%)
         UTR: A&M - Goldsmith (64%) def. Hand (36%)
         ITA: NW - Hand (4.82) def. Goldsmith (3.03)
@@ -83,7 +83,7 @@ Lineups:
       NW: Julie Byrne - 4-0 at 3, 9-8 in duals, 11-9 overall
       Predictions:
         AVG: A&M - Townsend (51%) def. Byrne (49%)
-        SLM: NW - Byrne (64%) def. Townsend (36%)
+        SLM: NW - Byrne (63%) def. Townsend (37%)
         TRN: A&M - Townsend (53%) def. Byrne (47%)
         MAS: NW - Byrne (64%) def. Townsend (36%)
         UTR: A&M - Townsend (79%) def. Byrne (21%)
@@ -92,7 +92,7 @@ Lineups:
       A&M: Dorthea Faa-Hviding - 7-6 at 4, 13-6 in duals, 14-7 overall
       NW: Briana Crowley - 16-3 at 4, 16-5 in duals, 17-7 overall
       Predictions:
-        SLM: NW - Crowley (52%) def. Faa-Hviding (48%)
+        SLM: NW - Crowley (51%) def. Faa-Hviding (49%)
         TRN: A&M - Faa-Hviding (55%) def. Crowley (45%)
         MAS: NW - Crowley (62%) def. Faa-Hviding (38%)
         UTR: A&M - Faa-Hviding (59%) def. Crowley (41%)

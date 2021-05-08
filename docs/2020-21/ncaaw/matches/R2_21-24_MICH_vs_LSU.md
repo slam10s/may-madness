@@ -43,8 +43,8 @@ Baton Rouge, Louisiana
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***MICH*** - Michigan (68%) def. LSU (32%)  
-- Slam: ***MICH*** - #8 Michigan (73%) def. #21 LSU (27%)  
-- TRN: ***MICH*** - #8 Michigan (79%) def. #18 LSU (21%)  
+- Slam: ***MICH*** - #8 Michigan (72%) def. #21 LSU (28%)  
+- TRN: ***MICH*** - #8 Michigan (78%) def. #18 LSU (22%)  
 - Massey: ***LSU*** - #21 LSU (51%) def. #15 Michigan (49%)  
 - Lineup: ***MICH*** - Michigan (75%) def. LSU (25%)  
 - UTR: ***MICH*** - #17 Michigan (+0.5) def. #26 LSU (-0.5)  
@@ -64,10 +64,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Kari Miller (MICH) - 11-3 at #1, 12-4 in duals, 15-4 overall<br>Taylor Bridges (LSU) - 7-7 at #1, 7-7 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MICH</i></b> - Miller (82%) def. Bridges (18%)</li>  
-<li>Slam: <b><i>MICH</i></b> - Miller (84%) def. Bridges (16%)</li>  
-<li>TRN: <b><i>MICH</i></b> - Miller (81%) def. Bridges (19%)</li>  
+<li>Slam: <b><i>MICH</i></b> - Miller (83%) def. Bridges (17%)</li>  
+<li>TRN: <b><i>MICH</i></b> - Miller (80%) def. Bridges (20%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Miller (83%) def. Bridges (17%)</li>  
-<li>UTR: <b><i>MICH</i></b> - Miller (83%) def. Bridges (17%)</li>  
+<li>UTR: <b><i>MICH</i></b> - Miller (82%) def. Bridges (18%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Bridges (11.61) def. Miller (10.66)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -75,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Chiara Lommer (MICH) - 10-3 at #2, 12-4 in duals, 14-5 overall<br>Safiya Carrington (LSU) - 2-5 at #2, 3-6 in duals, 10-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MICH</i></b> - Lommer (69%) def. Carrington (31%)</li>  
-<li>Slam: <b><i>MICH</i></b> - Lommer (70%) def. Carrington (30%)</li>  
-<li>TRN: <b><i>MICH</i></b> - Lommer (68%) def. Carrington (32%)</li>  
+<li>Slam: <b><i>MICH</i></b> - Lommer (69%) def. Carrington (31%)</li>  
+<li>TRN: <b><i>MICH</i></b> - Lommer (67%) def. Carrington (33%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Lommer (76%) def. Carrington (24%)</li>  
-<li>UTR: <b><i>MICH</i></b> - Lommer (66%) def. Carrington (34%)</li>  
+<li>UTR: <b><i>MICH</i></b> - Lommer (65%) def. Carrington (35%)</li>  
 <li>ITA: <b><i>LSU</i></b> - Carrington (4.09) def. Lommer (2.49)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,10 +97,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Jaedan Brown (MICH) - 7-0 at #4, 15-2 in duals, 17-3 overall<br>Maggie Cubitt (LSU) - 4-1 at #4, 5-1 in duals, 6-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MICH</i></b> - Brown (62%) def. Cubitt (38%)</li>  
-<li>Slam: <b><i>MICH</i></b> - Brown (65%) def. Cubitt (35%)</li>  
-<li>TRN: <b><i>MICH</i></b> - Brown (69%) def. Cubitt (31%)</li>  
+<li>Slam: <b><i>MICH</i></b> - Brown (64%) def. Cubitt (36%)</li>  
+<li>TRN: <b><i>MICH</i></b> - Brown (68%) def. Cubitt (32%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Brown (51%) def. Cubitt (49%)</li>  
-<li>UTR: <b><i>MICH</i></b> - Brown (67%) def. Cubitt (33%)</li>  
+<li>UTR: <b><i>MICH</i></b> - Brown (66%) def. Cubitt (34%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Brown (2.65) def. Cubitt (2.11)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,10 +108,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Alyvia Jones (MICH) - 3-0 at #5, 7-2 in duals, 7-5 overall<br>Eden Richardson (LSU) - 2-2 at #5, 4-6 in duals, 8-11 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MICH</i></b> - Jones (68%) def. Richardson (32%)</li>  
-<li>Slam: <b><i>MICH</i></b> - Jones (66%) def. Richardson (34%)</li>  
-<li>TRN: <b><i>MICH</i></b> - Jones (63%) def. Richardson (37%)</li>  
+<li>Slam: <b><i>MICH</i></b> - Jones (65%) def. Richardson (35%)</li>  
+<li>TRN: <b><i>MICH</i></b> - Jones (62%) def. Richardson (38%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Jones (71%) def. Richardson (29%)</li>  
-<li>UTR: <b><i>MICH</i></b> - Jones (75%) def. Richardson (25%)</li>  
+<li>UTR: <b><i>MICH</i></b> - Jones (74%) def. Richardson (26%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Jones (2.08) def. Richardson (1.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -121,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>LSU</i></b> - Geissler (55%) def. Lorenzini (45%)</li>  
 <li>TRN: <b><i>LSU</i></b> - Geissler (69%) def. Lorenzini (31%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Lorenzini (71%) def. Geissler (29%)</li>  
-<li>UTR: <b><i>MICH</i></b> - Lorenzini (54%) def. Geissler (46%)</li>  
+<li>UTR: <b><i>MICH</i></b> - Lorenzini (53%) def. Geissler (47%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Lorenzini (2.86) def. Geissler (2.01)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- LSU should win 4 or more singles matches _17%_ of the time.  
-- Michigan should win 4 or more singles matches _52%_ of the time.  
-- The winner of the doubles point will decide the match the other _31%_ of the time.  
-- If LSU wins the doubles point, their chances of winning the dual improve to _48%_.  
-- If Michigan wins the doubles point, their chances of winning the dual improve to _83%_.  
+- LSU should win 4 or more singles matches *17%* of the time.  
+- Michigan should win 4 or more singles matches *52%* of the time.  
+- The winner of the doubles point should decide the match the other *31%* of the time.  
+- If LSU wins the doubles point, their chances of winning the dual improve to *48%*.  
+- If Michigan wins the doubles point, their chances of winning the dual improve to *83%*.  
   
 ------
 

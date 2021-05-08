@@ -66,10 +66,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Bunyawi Thamchaiwat (OKST) - 9-2 at #1, 12-2 in duals, 20-4 overall<br>Selin Ovunc (AUB) - 8-9 at #1, 8-9 in duals, 13-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>OKST</i></b> - Thamchaiwat (80%) def. Ovunc (20%)</li>  
-<li>Slam: <b><i>OKST</i></b> - Thamchaiwat (75%) def. Ovunc (25%)</li>  
-<li>TRN: <b><i>OKST</i></b> - Thamchaiwat (83%) def. Ovunc (17%)</li>  
+<li>Slam: <b><i>OKST</i></b> - Thamchaiwat (74%) def. Ovunc (26%)</li>  
+<li>TRN: <b><i>OKST</i></b> - Thamchaiwat (82%) def. Ovunc (18%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Thamchaiwat (77%) def. Ovunc (23%)</li>  
-<li>UTR: <b><i>OKST</i></b> - Thamchaiwat (91%) def. Ovunc (9%)</li>  
+<li>UTR: <b><i>OKST</i></b> - Thamchaiwat (90%) def. Ovunc (10%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Thamchaiwat (21.36) def. Ovunc (9.63)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>AUB</i></b> - Ansari (57%) def. Miyamoto (43%)</li>  
 <li>Slam: <b><i>AUB</i></b> - Ansari (51%) def. Miyamoto (49%)</li>  
-<li>TRN: <b><i>OKST</i></b> - Miyamoto (52%) def. Ansari (48%)</li>  
+<li>TRN: <b><i>OKST</i></b> - Miyamoto (51%) def. Ansari (49%)</li>  
 <li>Massey: <b><i>AUB</i></b> - Ansari (68%) def. Miyamoto (32%)</li>  
 <li>UTR: <b><i>AUB</i></b> - Ansari (62%) def. Miyamoto (38%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Ansari (7.96) def. Miyamoto (4.02)</li>  
@@ -88,10 +88,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Alana Wolfberg (OKST) - 3-2 at #3, 7-8 in duals, 17-10 overall<br>Yu Chen (AUB) - 0-2 at #3, 5-11 in duals, 12-13 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>OKST</i></b> - Wolfberg (68%) def. Chen (32%)</li>  
-<li>Slam: <b><i>OKST</i></b> - Wolfberg (65%) def. Chen (35%)</li>  
-<li>TRN: <b><i>OKST</i></b> - Wolfberg (67%) def. Chen (33%)</li>  
+<li>Slam: <b><i>OKST</i></b> - Wolfberg (64%) def. Chen (36%)</li>  
+<li>TRN: <b><i>OKST</i></b> - Wolfberg (66%) def. Chen (34%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Wolfberg (63%) def. Chen (37%)</li>  
-<li>UTR: <b><i>OKST</i></b> - Wolfberg (81%) def. Chen (19%)</li>  
+<li>UTR: <b><i>OKST</i></b> - Wolfberg (80%) def. Chen (20%)</li>  
 <li>ITA: <b><i>OKST</i></b> - Wolfberg (10.37) def. Chen (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -110,10 +110,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Lenka Stara (OKST) - 7-6 at #5, 10-8 in duals, 17-14 overall<br>Adeline Flach (AUB) - 4-5 at #5, 11-7 in duals, 14-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>OKST</i></b> - Stara (61%) def. Flach (39%)</li>  
-<li>Slam: <b><i>OKST</i></b> - Stara (66%) def. Flach (34%)</li>  
-<li>TRN: <b><i>OKST</i></b> - Stara (62%) def. Flach (38%)</li>  
+<li>Slam: <b><i>OKST</i></b> - Stara (65%) def. Flach (35%)</li>  
+<li>TRN: <b><i>OKST</i></b> - Stara (61%) def. Flach (39%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Stara (51%) def. Flach (49%)</li>  
-<li>UTR: <b><i>OKST</i></b> - Stara (67%) def. Flach (33%)</li>  
+<li>UTR: <b><i>OKST</i></b> - Stara (66%) def. Flach (34%)</li>  
 <li>ITA: <b><i>AUB</i></b> - Flach (1.50) def. Stara (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -121,10 +121,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Daniella Medvedeva (OKST) - 3-7 at #6, 4-9 in duals, 10-12 overall<br>Anastasia Astakhova (AUB) - 2-5 at #6, 2-5 in duals, 2-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
-<li>Slam: <b><i>OKST</i></b> - Medvedeva (61%) def. Astakhova (39%)</li>  
+<li>Slam: <b><i>OKST</i></b> - Medvedeva (60%) def. Astakhova (40%)</li>  
 <li>TRN: <b><i>AUB</i></b> - Astakhova (58%) def. Medvedeva (42%)</li>  
 <li>Massey: <b><i>OKST</i></b> - Medvedeva (60%) def. Astakhova (40%)</li>  
-<li>UTR: <b><i>OKST</i></b> - Medvedeva (82%) def. Astakhova (18%)</li>  
+<li>UTR: <b><i>OKST</i></b> - Medvedeva (81%) def. Astakhova (19%)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Auburn should win 4 or more singles matches _21%_ of the time.  
-- Oklahoma St. should win 4 or more singles matches _48%_ of the time.  
-- The winner of the doubles point will decide the match the other _31%_ of the time.  
-- If Auburn wins the doubles point, their chances of winning the dual improve to _52%_.  
-- If Oklahoma St. wins the doubles point, their chances of winning the dual improve to _79%_.  
+- Auburn should win 4 or more singles matches *21%* of the time.  
+- Oklahoma St. should win 4 or more singles matches *48%* of the time.  
+- The winner of the doubles point should decide the match the other *31%* of the time.  
+- If Auburn wins the doubles point, their chances of winning the dual improve to *52%*.  
+- If Oklahoma St. wins the doubles point, their chances of winning the dual improve to *79%*.  
   
 ------
 

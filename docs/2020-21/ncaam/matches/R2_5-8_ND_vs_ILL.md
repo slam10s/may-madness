@@ -87,7 +87,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>ILL</i></b> - Brown (66%) def. McCormick (34%)</li>  
 <li>TRN: <b><i>ILL</i></b> - Brown (58%) def. McCormick (42%)</li>  
 <li>Massey: <b><i>ND</i></b> - McCormick (50%) def. Brown (50%)</li>  
-<li>UTR: <b><i>ND</i></b> - McCormick (73%) def. Brown (27%)</li>  
+<li>UTR: <b><i>ND</i></b> - McCormick (72%) def. Brown (28%)</li>  
 <li>ITA: <b><i>ND</i></b> - McCormick (3.76) def. Brown (1.47)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Illinois should win 4 or more singles matches _84%_ of the time.  
-- Notre Dame should win 4 or more singles matches _3%_ of the time.  
-- The winner of the doubles point will decide the match the other _13%_ of the time.  
-- If Illinois wins the doubles point, their chances of winning the dual improve to _97%_.  
-- If Notre Dame wins the doubles point, their chances of winning the dual improve to _16%_.  
+- Illinois should win 4 or more singles matches *84%* of the time.  
+- Notre Dame should win 4 or more singles matches *3%* of the time.  
+- The winner of the doubles point should decide the match the other *13%* of the time.  
+- If Illinois wins the doubles point, their chances of winning the dual improve to *97%*.  
+- If Notre Dame wins the doubles point, their chances of winning the dual improve to *16%*.  
   
 ------
 

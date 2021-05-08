@@ -85,10 +85,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Anessa Lee (VANDY) - 3-1 at #3, 11-5 in duals, 16-8 overall<br>Kolie Allen (OSU) - 7-3 at #3, 10-9 in duals, 10-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>VANDY</i></b> - Lee (66%) def. Allen (34%)</li>  
-<li>Slam: <b><i>VANDY</i></b> - Lee (53%) def. Allen (47%)</li>  
-<li>TRN: <b><i>VANDY</i></b> - Lee (76%) def. Allen (24%)</li>  
+<li>Slam: <b><i>VANDY</i></b> - Lee (52%) def. Allen (48%)</li>  
+<li>TRN: <b><i>VANDY</i></b> - Lee (75%) def. Allen (25%)</li>  
 <li>Massey: <b><i>VANDY</i></b> - Lee (56%) def. Allen (44%)</li>  
-<li>UTR: <b><i>VANDY</i></b> - Lee (81%) def. Allen (19%)</li>  
+<li>UTR: <b><i>VANDY</i></b> - Lee (80%) def. Allen (20%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Lee (2.64) def. Allen (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>OSU</i></b> - Hofbauer (59%) def. Ross (41%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Hofbauer (60%) def. Ross (40%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Hofbauer (64%) def. Ross (36%)</li>  
-<li>UTR: <b><i>VANDY</i></b> - Ross (61%) def. Hofbauer (39%)</li>  
+<li>UTR: <b><i>VANDY</i></b> - Ross (60%) def. Hofbauer (40%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Hofbauer (2.47) def. Ross (2.20)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -147,11 +147,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Ohio St. should win 4 or more singles matches _60%_ of the time.  
-- Vanderbilt should win 4 or more singles matches _13%_ of the time.  
-- The winner of the doubles point will decide the match the other _27%_ of the time.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to _87%_.  
-- If Vanderbilt wins the doubles point, their chances of winning the dual improve to _40%_.  
+- Ohio St. should win 4 or more singles matches *60%* of the time.  
+- Vanderbilt should win 4 or more singles matches *13%* of the time.  
+- The winner of the doubles point should decide the match the other *27%* of the time.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to *87%*.  
+- If Vanderbilt wins the doubles point, their chances of winning the dual improve to *40%*.  
   
 ------
 

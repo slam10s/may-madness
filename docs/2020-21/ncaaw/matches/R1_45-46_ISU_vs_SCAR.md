@@ -110,8 +110,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Chie Kezuka (ISU) - 7-4 at #5, 10-6 in duals, 10-6 overall<br>Allie Gretkowski (SCAR) - 5-9 at #5, 7-12 in duals, 7-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>SCAR</i></b> - Gretkowski (53%) def. Kezuka (47%)</li>  
-<li>Slam: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
-<li>TRN: <b><i>ISU</i></b> - Kezuka (53%) def. Gretkowski (47%)</li>  
+<li>Slam: <b><i>ISU</i></b> - Kezuka (56%) def. Gretkowski (44%)</li>  
+<li>TRN: <b><i>ISU</i></b> - Kezuka (52%) def. Gretkowski (48%)</li>  
 <li>Massey: <b><i>ISU</i></b> - Kezuka (57%) def. Gretkowski (43%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Gretkowski (80%) def. Kezuka (20%)</li>  
 </ul>
@@ -120,10 +120,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Sofia Cabezas (ISU) - 9-3 at #6, 13-4 in duals, 13-4 overall<br>Ana Cruz (SCAR) - 4-4 at #6, 5-6 in duals, 5-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
-<li>Slam: <b><i>ISU</i></b> - Cabezas (64%) def. Cruz (36%)</li>  
-<li>TRN: <b><i>ISU</i></b> - Cabezas (72%) def. Cruz (28%)</li>  
+<li>Slam: <b><i>ISU</i></b> - Cabezas (63%) def. Cruz (37%)</li>  
+<li>TRN: <b><i>ISU</i></b> - Cabezas (71%) def. Cruz (29%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Cruz (54%) def. Cabezas (46%)</li>  
-<li>UTR: <b><i>ISU</i></b> - Cabezas (80%) def. Cruz (20%)</li>  
+<li>UTR: <b><i>ISU</i></b> - Cabezas (79%) def. Cruz (21%)</li>  
 <li>ITA: <b><i>ISU</i></b> - Cabezas (2.42) def. Cruz (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- South Carolina should win 4 or more singles matches _71%_ of the time.  
-- Iowa St. should win 4 or more singles matches _7%_ of the time.  
-- The winner of the doubles point will decide the match the other _22%_ of the time.  
-- If South Carolina wins the doubles point, their chances of winning the dual improve to _93%_.  
-- If Iowa St. wins the doubles point, their chances of winning the dual improve to _29%_.  
+- South Carolina should win 4 or more singles matches *71%* of the time.  
+- Iowa St. should win 4 or more singles matches *7%* of the time.  
+- The winner of the doubles point should decide the match the other *22%* of the time.  
+- If South Carolina wins the doubles point, their chances of winning the dual improve to *93%*.  
+- If Iowa St. wins the doubles point, their chances of winning the dual improve to *29%*.  
   
 ------
 

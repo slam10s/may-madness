@@ -64,8 +64,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall<br>Melany Krywoj (BAY) - 11-6 at #1, 11-6 in duals, 19-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>DUKE</i></b> - Chen (55%) def. Krywoj (45%)</li>  
-<li>Slam: <b><i>DUKE</i></b> - Chen (66%) def. Krywoj (34%)</li>  
-<li>TRN: <b><i>DUKE</i></b> - Chen (62%) def. Krywoj (38%)</li>  
+<li>Slam: <b><i>DUKE</i></b> - Chen (65%) def. Krywoj (35%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Chen (61%) def. Krywoj (39%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chen (55%) def. Krywoj (45%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Krywoj (62%) def. Chen (38%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chen (12.42) def. Krywoj (8.77)</li>  
@@ -75,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Georgia Drummy (DUKE) - 7-3 at #2, 15-3 in duals, 17-4 overall<br>Jessica Hinojosa (BAY) - 7-6 at #2, 12-10 in duals, 18-15 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>DUKE</i></b> - Drummy (90%) def. Hinojosa (10%)</li>  
-<li>Slam: <b><i>DUKE</i></b> - Drummy (90%) def. Hinojosa (10%)</li>  
-<li>TRN: <b><i>DUKE</i></b> - Drummy (88%) def. Hinojosa (12%)</li>  
+<li>Slam: <b><i>DUKE</i></b> - Drummy (89%) def. Hinojosa (11%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Drummy (87%) def. Hinojosa (13%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Drummy (92%) def. Hinojosa (8%)</li>  
-<li>UTR: <b><i>DUKE</i></b> - Drummy (92%) def. Hinojosa (8%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Drummy (91%) def. Hinojosa (9%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Drummy (24.14) def. Hinojosa (3.62)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,10 +86,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall<br>Alicia Herrero (BAY) - 4-4 at #3, 13-8 in duals, 20-13 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>DUKE</i></b> - Beck (74%) def. Herrero (26%)</li>  
-<li>Slam: <b><i>DUKE</i></b> - Beck (75%) def. Herrero (25%)</li>  
-<li>TRN: <b><i>DUKE</i></b> - Beck (78%) def. Herrero (22%)</li>  
+<li>Slam: <b><i>DUKE</i></b> - Beck (74%) def. Herrero (26%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Beck (77%) def. Herrero (23%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Beck (73%) def. Herrero (27%)</li>  
-<li>UTR: <b><i>DUKE</i></b> - Beck (73%) def. Herrero (27%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Beck (72%) def. Herrero (28%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Beck (15.35) def. Herrero (2.87)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,10 +97,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall<br>Angie Shakhraichuck (BAY) - 6-4 at #4, 17-5 in duals, 24-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>DUKE</i></b> - Chi (80%) def. Shakhraichuck (20%)</li>  
-<li>Slam: <b><i>DUKE</i></b> - Chi (81%) def. Shakhraichuck (19%)</li>  
-<li>TRN: <b><i>DUKE</i></b> - Chi (87%) def. Shakhraichuck (13%)</li>  
+<li>Slam: <b><i>DUKE</i></b> - Chi (80%) def. Shakhraichuck (20%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Chi (86%) def. Shakhraichuck (14%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chi (73%) def. Shakhraichuck (27%)</li>  
-<li>UTR: <b><i>DUKE</i></b> - Chi (82%) def. Shakhraichuck (18%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Chi (81%) def. Shakhraichuck (19%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chi (15.20) def. Shakhraichuck (1.88)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,10 +108,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall<br>Kristina Sorokolet (BAY) - 4-1 at #5, 11-3 in duals, 18-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>DUKE</i></b> - Bilokin (69%) def. Sorokolet (31%)</li>  
-<li>Slam: <b><i>DUKE</i></b> - Bilokin (70%) def. Sorokolet (30%)</li>  
-<li>TRN: <b><i>DUKE</i></b> - Bilokin (68%) def. Sorokolet (32%)</li>  
+<li>Slam: <b><i>DUKE</i></b> - Bilokin (69%) def. Sorokolet (31%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Bilokin (67%) def. Sorokolet (33%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Bilokin (60%) def. Sorokolet (40%)</li>  
-<li>UTR: <b><i>DUKE</i></b> - Bilokin (81%) def. Sorokolet (19%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Bilokin (80%) def. Sorokolet (20%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Bilokin (2.72) def. Sorokolet (1.95)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Baylor should win 4 or more singles matches _10%_ of the time.  
-- Duke should win 4 or more singles matches _63%_ of the time.  
-- The winner of the doubles point will decide the match the other _27%_ of the time.  
-- If Baylor wins the doubles point, their chances of winning the dual improve to _37%_.  
-- If Duke wins the doubles point, their chances of winning the dual improve to _90%_.  
+- Baylor should win 4 or more singles matches *10%* of the time.  
+- Duke should win 4 or more singles matches *63%* of the time.  
+- The winner of the doubles point should decide the match the other *27%* of the time.  
+- If Baylor wins the doubles point, their chances of winning the dual improve to *37%*.  
+- If Duke wins the doubles point, their chances of winning the dual improve to *90%*.  
   
 ------
 

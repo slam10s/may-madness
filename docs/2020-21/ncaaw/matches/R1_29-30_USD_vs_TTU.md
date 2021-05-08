@@ -64,10 +64,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Solymar Colling (USD) - 14-4 at #1, 14-4 in duals, 14-3 overall<br>Lisa Mays (TTU) - 9-7 at #1, 10-7 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USD</i></b> - Colling (80%) def. Mays (20%)</li>  
-<li>Slam: <b><i>USD</i></b> - Colling (89%) def. Mays (11%)</li>  
-<li>TRN: <b><i>USD</i></b> - Colling (88%) def. Mays (12%)</li>  
+<li>Slam: <b><i>USD</i></b> - Colling (88%) def. Mays (12%)</li>  
+<li>TRN: <b><i>USD</i></b> - Colling (87%) def. Mays (13%)</li>  
 <li>Massey: <b><i>USD</i></b> - Colling (62%) def. Mays (38%)</li>  
-<li>UTR: <b><i>USD</i></b> - Colling (84%) def. Mays (16%)</li>  
+<li>UTR: <b><i>USD</i></b> - Colling (83%) def. Mays (17%)</li>  
 <li>ITA: <b><i>USD</i></b> - Colling (12.76) def. Mays (3.54)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -86,10 +86,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Jordyn McBride (USD) - 12-3 at #3, 14-3 in duals, 14-3 overall<br>Kaitlin Staines (TTU) - 0-0 at #3, 6-9 in duals, 9-11 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
-<li>Slam: <b><i>USD</i></b> - McBride (52%) def. Staines (48%)</li>  
-<li>TRN: <b><i>USD</i></b> - McBride (58%) def. Staines (42%)</li>  
+<li>Slam: <b><i>USD</i></b> - McBride (51%) def. Staines (49%)</li>  
+<li>TRN: <b><i>USD</i></b> - McBride (57%) def. Staines (43%)</li>  
 <li>Massey: <b><i>USD</i></b> - McBride (70%) def. Staines (30%)</li>  
-<li>UTR: <b><i>USD</i></b> - McBride (59%) def. Staines (41%)</li>  
+<li>UTR: <b><i>USD</i></b> - McBride (58%) def. Staines (42%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. McBride (3.11)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,9 +98,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USD</i></b> - Desiatnikov (51%) def. Miller (49%)</li>  
 <li>Slam: <b><i>TTU</i></b> - Miller (61%) def. Desiatnikov (39%)</li>  
-<li>TRN: <b><i>USD</i></b> - Desiatnikov (57%) def. Miller (43%)</li>  
+<li>TRN: <b><i>USD</i></b> - Desiatnikov (56%) def. Miller (44%)</li>  
 <li>Massey: <b><i>TTU</i></b> - Miller (60%) def. Desiatnikov (40%)</li>  
-<li>UTR: <b><i>USD</i></b> - Desiatnikov (71%) def. Miller (29%)</li>  
+<li>UTR: <b><i>USD</i></b> - Desiatnikov (70%) def. Miller (30%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Miller (2.66) def. Desiatnikov (2.52)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas Tech should win 4 or more singles matches _43%_ of the time.  
-- San Diego should win 4 or more singles matches _23%_ of the time.  
-- The winner of the doubles point will decide the match the other _34%_ of the time.  
-- If Texas Tech wins the doubles point, their chances of winning the dual improve to _77%_.  
-- If San Diego wins the doubles point, their chances of winning the dual improve to _57%_.  
+- Texas Tech should win 4 or more singles matches *43%* of the time.  
+- San Diego should win 4 or more singles matches *23%* of the time.  
+- The winner of the doubles point should decide the match the other *34%* of the time.  
+- If Texas Tech wins the doubles point, their chances of winning the dual improve to *77%*.  
+- If San Diego wins the doubles point, their chances of winning the dual improve to *57%*.  
   
 ------
 

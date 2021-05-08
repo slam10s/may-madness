@@ -65,10 +65,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Joseph Guillin (UCSB) - 8-2 at #1, 8-2 in duals, 8-2 overall<br>Adrian Oetzbach (PEPP) - 7-7 at #1, 7-8 in duals, 8-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>UCSB</i></b> - Guillin (78%) def. Oetzbach (22%)</li>  
-<li>Slam: <b><i>UCSB</i></b> - Guillin (81%) def. Oetzbach (19%)</li>  
-<li>TRN: <b><i>UCSB</i></b> - Guillin (83%) def. Oetzbach (17%)</li>  
+<li>Slam: <b><i>UCSB</i></b> - Guillin (80%) def. Oetzbach (20%)</li>  
+<li>TRN: <b><i>UCSB</i></b> - Guillin (82%) def. Oetzbach (18%)</li>  
 <li>Massey: <b><i>UCSB</i></b> - Guillin (76%) def. Oetzbach (24%)</li>  
-<li>UTR: <b><i>UCSB</i></b> - Guillin (75%) def. Oetzbach (25%)</li>  
+<li>UTR: <b><i>UCSB</i></b> - Guillin (74%) def. Oetzbach (26%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Oetzbach (5.20) def. Guillin (3.96)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -149,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Pepperdine should win 4 or more singles matches _84%_ of the time.  
-- UC Santa Barbara should win 4 or more singles matches _3%_ of the time.  
-- The winner of the doubles point will decide the match the other _13%_ of the time.  
-- If Pepperdine wins the doubles point, their chances of winning the dual improve to _97%_.  
-- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to _16%_.  
+- Pepperdine should win 4 or more singles matches *84%* of the time.  
+- UC Santa Barbara should win 4 or more singles matches *3%* of the time.  
+- The winner of the doubles point should decide the match the other *13%* of the time.  
+- If Pepperdine wins the doubles point, their chances of winning the dual improve to *97%*.  
+- If UC Santa Barbara wins the doubles point, their chances of winning the dual improve to *16%*.  
   
 ------
 

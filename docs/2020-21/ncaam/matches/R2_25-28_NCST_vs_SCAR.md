@@ -64,7 +64,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>SCAR</i></b> - Rodrigues (50%) def. Galarneau (50%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Rodrigues (66%) def. Galarneau (34%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Rodrigues (67%) def. Galarneau (33%)</li>  
-<li>UTR: <b><i>NCST</i></b> - Galarneau (83%) def. Rodrigues (17%)</li>  
+<li>UTR: <b><i>NCST</i></b> - Galarneau (82%) def. Rodrigues (18%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Rodrigues (58.79) def. Galarneau (25.90)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -105,7 +105,7 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Robin Catry (NCST) - 4-0 at #5, 10-5 in duals, 10-6 overall<br>Jake Beasley (SCAR) - 7-7 at #5, 12-8 in duals, 18-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>SCAR</i></b> - Beasley (57%) def. Catry (43%)</li>  
-<li>Slam: <b><i>NCST</i></b> - Catry (56%) def. Beasley (44%)</li>  
+<li>Slam: <b><i>NCST</i></b> - Catry (55%) def. Beasley (45%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Beasley (53%) def. Catry (47%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Beasley (59%) def. Catry (41%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Beasley (70%) def. Catry (30%)</li>  
@@ -119,7 +119,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>SCAR</i></b> - Brown (62%) def. Turzak (38%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Brown (61%) def. Turzak (39%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Turzak (60%) def. Brown (40%)</li>  
-<li>UTR: <b><i>NCST</i></b> - Turzak (67%) def. Brown (33%)</li>  
+<li>UTR: <b><i>NCST</i></b> - Turzak (66%) def. Brown (34%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Brown (2.19) def. Turzak (1.56)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -145,11 +145,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- South Carolina should win 4 or more singles matches _65%_ of the time.  
-- NC State should win 4 or more singles matches _11%_ of the time.  
-- The winner of the doubles point will decide the match the other _24%_ of the time.  
-- If South Carolina wins the doubles point, their chances of winning the dual improve to _89%_.  
-- If NC State wins the doubles point, their chances of winning the dual improve to _35%_.  
+- South Carolina should win 4 or more singles matches *65%* of the time.  
+- NC State should win 4 or more singles matches *11%* of the time.  
+- The winner of the doubles point should decide the match the other *24%* of the time.  
+- If South Carolina wins the doubles point, their chances of winning the dual improve to *89%*.  
+- If NC State wins the doubles point, their chances of winning the dual improve to *35%*.  
   
 ------
 

@@ -108,10 +108,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Alejandro Reguant (ARIZ) - 0-0 at #5, 13-6 in duals, 13-6 overall<br>Joshua Lapadat (UK) - 3-3 at #5, 6-9 in duals, 11-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>ARIZ</i></b> - Reguant (59%) def. Lapadat (41%)</li>  
-<li>Slam: <b><i>ARIZ</i></b> - Reguant (61%) def. Lapadat (39%)</li>  
-<li>TRN: <b><i>ARIZ</i></b> - Reguant (53%) def. Lapadat (47%)</li>  
+<li>Slam: <b><i>ARIZ</i></b> - Reguant (60%) def. Lapadat (40%)</li>  
+<li>TRN: <b><i>ARIZ</i></b> - Reguant (52%) def. Lapadat (48%)</li>  
 <li>Massey: <b><i>UK</i></b> - Lapadat (51%) def. Reguant (49%)</li>  
-<li>UTR: <b><i>ARIZ</i></b> - Reguant (79%) def. Lapadat (21%)</li>  
+<li>UTR: <b><i>ARIZ</i></b> - Reguant (78%) def. Lapadat (22%)</li>  
 <li>ITA: <b><i>UK</i></b> - Lapadat (6.21) def. Reguant (2.55)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,10 +119,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Carlos Hassey (ARIZ) - 1-1 at #6, 12-7 in duals, 12-7 overall<br>Alexandre LeBlanc (UK) - 2-4 at #6, 4-4 in duals, 5-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>ARIZ</i></b> - Hassey (71%) def. LeBlanc (29%)</li>  
-<li>Slam: <b><i>ARIZ</i></b> - Hassey (78%) def. LeBlanc (22%)</li>  
-<li>TRN: <b><i>ARIZ</i></b> - Hassey (79%) def. LeBlanc (21%)</li>  
+<li>Slam: <b><i>ARIZ</i></b> - Hassey (77%) def. LeBlanc (23%)</li>  
+<li>TRN: <b><i>ARIZ</i></b> - Hassey (78%) def. LeBlanc (22%)</li>  
 <li>Massey: <b><i>ARIZ</i></b> - Hassey (51%) def. LeBlanc (49%)</li>  
-<li>UTR: <b><i>ARIZ</i></b> - Hassey (81%) def. LeBlanc (19%)</li>  
+<li>UTR: <b><i>ARIZ</i></b> - Hassey (80%) def. LeBlanc (20%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Hassey (1.70) def. LeBlanc (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Kentucky should win 4 or more singles matches _58%_ of the time.  
-- Arizona should win 4 or more singles matches _13%_ of the time.  
-- The winner of the doubles point will decide the match the other _29%_ of the time.  
-- If Kentucky wins the doubles point, their chances of winning the dual improve to _87%_.  
-- If Arizona wins the doubles point, their chances of winning the dual improve to _42%_.  
+- Kentucky should win 4 or more singles matches *58%* of the time.  
+- Arizona should win 4 or more singles matches *13%* of the time.  
+- The winner of the doubles point should decide the match the other *29%* of the time.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to *87%*.  
+- If Arizona wins the doubles point, their chances of winning the dual improve to *42%*.  
   
 ------
 

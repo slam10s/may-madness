@@ -62,10 +62,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Teodors Pukse (FDU) - 4-3 at #1, 4-3 in duals, 4-3 overall<br>Carl Soderlund (UVA) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>FDU</i></b> - Pukse (75%) def. Soderlund (25%)</li>  
-<li>Slam: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
-<li>TRN: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
+<li>Slam: <b><i>FDU</i></b> - Pukse (99%) def. Soderlund (1%)</li>  
+<li>TRN: <b><i>FDU</i></b> - Pukse (99%) def. Soderlund (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Soderlund (99%) def. Pukse (1%)</li>  
-<li>UTR: <b><i>FDU</i></b> - Pukse (100%) def. Soderlund (0%)</li>  
+<li>UTR: <b><i>FDU</i></b> - Pukse (99%) def. Soderlund (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Soderlund (48.38) def. Pukse (1.52)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Virginia should win 4 or more singles matches _99%_ of the time.  
-- Fairleigh Dickinson should win 4 or more singles matches _1%_ of the time.  
-- The winner of the doubles point will decide the match the other _1%_ of the time.  
-- If Virginia wins the doubles point, their chances of winning the dual improve to _99%_.  
-- If Fairleigh Dickinson wins the doubles point, their chances of winning the dual improve to _1%_.  
+- Virginia should win 4 or more singles matches *99%* of the time.  
+- Fairleigh Dickinson should win 4 or more singles matches *1%* of the time.  
+- The winner of the doubles point should decide the match the other *1%* of the time.  
+- If Virginia wins the doubles point, their chances of winning the dual improve to *99%*.  
+- If Fairleigh Dickinson wins the doubles point, their chances of winning the dual improve to *1%*.  
   
 ------
 

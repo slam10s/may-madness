@@ -66,10 +66,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Salma Ewing (USC) - 4-2 at #1, 13-5 in duals, 13-5 overall<br>Carmen Corley (OKLA) - 12-6 at #1, 12-6 in duals, 19-13 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USC</i></b> - Ewing (66%) def. Corley (34%)</li>  
-<li>Slam: <b><i>USC</i></b> - Ewing (61%) def. Corley (39%)</li>  
-<li>TRN: <b><i>USC</i></b> - Ewing (85%) def. Corley (15%)</li>  
+<li>Slam: <b><i>USC</i></b> - Ewing (60%) def. Corley (40%)</li>  
+<li>TRN: <b><i>USC</i></b> - Ewing (84%) def. Corley (16%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Corley (59%) def. Ewing (41%)</li>  
-<li>UTR: <b><i>USC</i></b> - Ewing (80%) def. Corley (20%)</li>  
+<li>UTR: <b><i>USC</i></b> - Ewing (79%) def. Corley (21%)</li>  
 <li>ITA: <b><i>USC</i></b> - Ewing (14.56) def. Corley (9.20)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -77,10 +77,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Eryn Cayetano (USC) - 6-2 at #2, 10-5 in duals, 10-5 overall<br>Dana Guzman (OKLA) - 13-1 at #2, 18-2 in duals, 18-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USC</i></b> - Cayetano (55%) def. Guzman (45%)</li>  
-<li>Slam: <b><i>USC</i></b> - Cayetano (62%) def. Guzman (38%)</li>  
-<li>TRN: <b><i>USC</i></b> - Cayetano (60%) def. Guzman (40%)</li>  
+<li>Slam: <b><i>USC</i></b> - Cayetano (61%) def. Guzman (39%)</li>  
+<li>TRN: <b><i>USC</i></b> - Cayetano (59%) def. Guzman (41%)</li>  
 <li>Massey: <b><i>OKLA</i></b> - Guzman (64%) def. Cayetano (36%)</li>  
-<li>UTR: <b><i>USC</i></b> - Cayetano (66%) def. Guzman (34%)</li>  
+<li>UTR: <b><i>USC</i></b> - Cayetano (65%) def. Guzman (35%)</li>  
 <li>ITA: <b><i>OKLA</i></b> - Guzman (9.21) def. Cayetano (5.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -99,10 +99,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Naomi Cheong (USC) - 0-0 at #4, 9-8 in duals, 9-8 overall<br>Martina Capurro (OKLA) - 9-3 at #4, 11-8 in duals, 11-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USC</i></b> - Cheong (75%) def. Capurro (25%)</li>  
-<li>Slam: <b><i>USC</i></b> - Cheong (81%) def. Capurro (19%)</li>  
-<li>TRN: <b><i>USC</i></b> - Cheong (80%) def. Capurro (20%)</li>  
+<li>Slam: <b><i>USC</i></b> - Cheong (80%) def. Capurro (20%)</li>  
+<li>TRN: <b><i>USC</i></b> - Cheong (79%) def. Capurro (21%)</li>  
 <li>Massey: <b><i>USC</i></b> - Cheong (61%) def. Capurro (39%)</li>  
-<li>UTR: <b><i>USC</i></b> - Cheong (81%) def. Capurro (19%)</li>  
+<li>UTR: <b><i>USC</i></b> - Cheong (80%) def. Capurro (20%)</li>  
 <li>ITA: <b><i>USC</i></b> - Cheong (4.19) def. Capurro (1.84)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -110,10 +110,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Dani Willson (USC) - 0-0 at #5, 12-8 in duals, 12-8 overall<br>Kianah Motosono (OKLA) - 3-3 at #5, 10-7 in duals, 16-14 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USC</i></b> - Willson (70%) def. Motosono (30%)</li>  
-<li>Slam: <b><i>USC</i></b> - Willson (73%) def. Motosono (27%)</li>  
-<li>TRN: <b><i>USC</i></b> - Willson (71%) def. Motosono (29%)</li>  
+<li>Slam: <b><i>USC</i></b> - Willson (72%) def. Motosono (28%)</li>  
+<li>TRN: <b><i>USC</i></b> - Willson (70%) def. Motosono (30%)</li>  
 <li>Massey: <b><i>USC</i></b> - Willson (61%) def. Motosono (39%)</li>  
-<li>UTR: <b><i>USC</i></b> - Willson (78%) def. Motosono (22%)</li>  
+<li>UTR: <b><i>USC</i></b> - Willson (77%) def. Motosono (23%)</li>  
 <li>ITA: <b><i>USC</i></b> - Willson (1.74) def. Motosono (1.65)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -121,10 +121,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Summer Dvorak (USC) - 0-0 at #6, 12-7 in duals, 12-7 overall<br>Camila Romero (OKLA) - 1-1 at #6, 1-1 in duals, 1-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USC</i></b> - Dvorak (99%) def. Romero (1%)</li>  
-<li>Slam: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
-<li>TRN: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
+<li>Slam: <b><i>USC</i></b> - Dvorak (99%) def. Romero (1%)</li>  
+<li>TRN: <b><i>USC</i></b> - Dvorak (99%) def. Romero (1%)</li>  
 <li>Massey: <b><i>USC</i></b> - Dvorak (99%) def. Romero (1%)</li>  
-<li>UTR: <b><i>USC</i></b> - Dvorak (100%) def. Romero (0%)</li>  
+<li>UTR: <b><i>USC</i></b> - Dvorak (99%) def. Romero (1%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dvorak (1.85) def. Romero (0.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -150,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Oklahoma should win 4 or more singles matches _8%_ of the time.  
-- Southern California should win 4 or more singles matches _67%_ of the time.  
-- The winner of the doubles point will decide the match the other _25%_ of the time.  
-- If Oklahoma wins the doubles point, their chances of winning the dual improve to _33%_.  
-- If Southern California wins the doubles point, their chances of winning the dual improve to _92%_.  
+- Oklahoma should win 4 or more singles matches *8%* of the time.  
+- Southern California should win 4 or more singles matches *67%* of the time.  
+- The winner of the doubles point should decide the match the other *25%* of the time.  
+- If Oklahoma wins the doubles point, their chances of winning the dual improve to *33%*.  
+- If Southern California wins the doubles point, their chances of winning the dual improve to *92%*.  
   
 ------
 

@@ -62,8 +62,8 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Adria Soriano Barrera (MIA) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>Giovanni Oradini (MSST) - 11-7 at #1, 11-10 in duals, 17-14 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Slam: <b><i>MIA</i></b> - Barrera (54%) def. Oradini (46%)</li>  
-<li>TRN: <b><i>MIA</i></b> - Barrera (57%) def. Oradini (43%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Barrera (53%) def. Oradini (47%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Barrera (56%) def. Oradini (44%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Barrera (57%) def. Oradini (43%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Oradini (68%) def. Barrera (32%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Oradini (31.20) def. Barrera (18.59)</li>  
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Mississippi St. should win 4 or more singles matches _74%_ of the time.  
-- Miami (FL) should win 4 or more singles matches _7%_ of the time.  
-- The winner of the doubles point will decide the match the other _19%_ of the time.  
-- If Mississippi St. wins the doubles point, their chances of winning the dual improve to _93%_.  
-- If Miami (FL) wins the doubles point, their chances of winning the dual improve to _26%_.  
+- Mississippi St. should win 4 or more singles matches *74%* of the time.  
+- Miami (FL) should win 4 or more singles matches *7%* of the time.  
+- The winner of the doubles point should decide the match the other *19%* of the time.  
+- If Mississippi St. wins the doubles point, their chances of winning the dual improve to *93%*.  
+- If Miami (FL) wins the doubles point, their chances of winning the dual improve to *26%*.  
   
 ------
 

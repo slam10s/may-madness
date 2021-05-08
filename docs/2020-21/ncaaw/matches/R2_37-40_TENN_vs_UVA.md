@@ -97,10 +97,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Daria Kuczer (TENN) - 8-1 at #4, 19-2 in duals, 25-7 overall<br>Hibah Shaikh (UVA) - 4-9 at #4, 6-9 in duals, 7-10 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>TENN</i></b> - Kuczer (81%) def. Shaikh (19%)</li>  
-<li>Slam: <b><i>TENN</i></b> - Kuczer (73%) def. Shaikh (27%)</li>  
-<li>TRN: <b><i>TENN</i></b> - Kuczer (88%) def. Shaikh (12%)</li>  
+<li>Slam: <b><i>TENN</i></b> - Kuczer (72%) def. Shaikh (28%)</li>  
+<li>TRN: <b><i>TENN</i></b> - Kuczer (87%) def. Shaikh (13%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Kuczer (81%) def. Shaikh (19%)</li>  
-<li>UTR: <b><i>TENN</i></b> - Kuczer (86%) def. Shaikh (14%)</li>  
+<li>UTR: <b><i>TENN</i></b> - Kuczer (85%) def. Shaikh (15%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Kuczer (3.41) def. Shaikh (1.63)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -108,10 +108,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Tenika McGiffin (TENN) - 6-0 at #5, 15-4 in duals, 20-12 overall<br>Amber O'Dell (UVA) - 1-3 at #5, 10-7 in duals, 10-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>TENN</i></b> - McGiffin (90%) def. O'Dell (10%)</li>  
-<li>Slam: <b><i>TENN</i></b> - McGiffin (100%) def. O'Dell (0%)</li>  
-<li>TRN: <b><i>TENN</i></b> - McGiffin (100%) def. O'Dell (0%)</li>  
+<li>Slam: <b><i>TENN</i></b> - McGiffin (99%) def. O'Dell (1%)</li>  
+<li>TRN: <b><i>TENN</i></b> - McGiffin (99%) def. O'Dell (1%)</li>  
 <li>Massey: <b><i>TENN</i></b> - McGiffin (62%) def. O'Dell (38%)</li>  
-<li>UTR: <b><i>TENN</i></b> - McGiffin (100%) def. O'Dell (0%)</li>  
+<li>UTR: <b><i>TENN</i></b> - McGiffin (99%) def. O'Dell (1%)</li>  
 <li>ITA: <b><i>TENN</i></b> - McGiffin (1.61) def. O'Dell (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -119,10 +119,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Johanna Silva (TENN) - 9-1 at #6, 9-4 in duals, 12-10 overall<br>Vivian Glozman (UVA) - 2-1 at #6, 7-3 in duals, 8-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>TENN</i></b> - Silva (65%) def. Glozman (35%)</li>  
-<li>Slam: <b><i>TENN</i></b> - Silva (67%) def. Glozman (33%)</li>  
-<li>TRN: <b><i>TENN</i></b> - Silva (62%) def. Glozman (38%)</li>  
+<li>Slam: <b><i>TENN</i></b> - Silva (66%) def. Glozman (34%)</li>  
+<li>TRN: <b><i>TENN</i></b> - Silva (61%) def. Glozman (39%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Silva (52%) def. Glozman (48%)</li>  
-<li>UTR: <b><i>TENN</i></b> - Silva (82%) def. Glozman (18%)</li>  
+<li>UTR: <b><i>TENN</i></b> - Silva (81%) def. Glozman (19%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Glozman (2.77) def. Silva (1.85)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -148,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Virginia should win 4 or more singles matches _37%_ of the time.  
-- Tennessee should win 4 or more singles matches _18%_ of the time.  
-- The winner of the doubles point will decide the match the other _45%_ of the time.  
-- If Virginia wins the doubles point, their chances of winning the dual improve to _82%_.  
-- If Tennessee wins the doubles point, their chances of winning the dual improve to _63%_.  
+- Virginia should win 4 or more singles matches *37%* of the time.  
+- Tennessee should win 4 or more singles matches *18%* of the time.  
+- The winner of the doubles point should decide the match the other *45%* of the time.  
+- If Virginia wins the doubles point, their chances of winning the dual improve to *82%*.  
+- If Tennessee wins the doubles point, their chances of winning the dual improve to *63%*.  
   
 ------
 

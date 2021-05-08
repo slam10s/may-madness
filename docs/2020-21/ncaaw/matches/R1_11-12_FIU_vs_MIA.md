@@ -99,7 +99,7 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Basak Akbas (FIU) - 0-0 at #4, 5-5 in duals, 5-5 overall<br>Florencia Urrutia (MIA) - 11-4 at #4, 12-8 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MIA</i></b> - Urrutia (65%) def. Akbas (35%)</li>  
-<li>Slam: <b><i>FIU</i></b> - Akbas (52%) def. Urrutia (48%)</li>  
+<li>Slam: <b><i>FIU</i></b> - Akbas (51%) def. Urrutia (49%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Urrutia (63%) def. Akbas (37%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Urrutia (68%) def. Akbas (32%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Urrutia (82%) def. Akbas (18%)</li>  
@@ -113,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>MIA</i></b> - Khodan (79%) def. Velcea (21%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Khodan (83%) def. Velcea (17%)</li>  
 <li>Massey: <b><i>MIA</i></b> - Khodan (78%) def. Velcea (22%)</li>  
-<li>UTR: <b><i>FIU</i></b> - Velcea (82%) def. Khodan (18%)</li>  
+<li>UTR: <b><i>FIU</i></b> - Velcea (81%) def. Khodan (19%)</li>  
 <li>ITA: <b><i>FIU</i></b> - Velcea (3.05) def. Khodan (1.90)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -150,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Miami (FL) should win 4 or more singles matches _87%_ of the time.  
-- FIU should win 4 or more singles matches _2%_ of the time.  
-- The winner of the doubles point will decide the match the other _11%_ of the time.  
-- If Miami (FL) wins the doubles point, their chances of winning the dual improve to _98%_.  
-- If FIU wins the doubles point, their chances of winning the dual improve to _13%_.  
+- Miami (FL) should win 4 or more singles matches *87%* of the time.  
+- FIU should win 4 or more singles matches *2%* of the time.  
+- The winner of the doubles point should decide the match the other *11%* of the time.  
+- If Miami (FL) wins the doubles point, their chances of winning the dual improve to *98%*.  
+- If FIU wins the doubles point, their chances of winning the dual improve to *13%*.  
   
 ------
 

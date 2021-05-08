@@ -102,9 +102,9 @@ Lineups:
       Predictions:
         AVG: MEM - Taylor (63%) def. McKinney (37%)
         SLM: MEM - Taylor (51%) def. McKinney (49%)
-        TRN: MEM - Taylor (58%) def. McKinney (42%)
+        TRN: MEM - Taylor (57%) def. McKinney (43%)
         MAS: MEM - Taylor (64%) def. McKinney (36%)
-        UTR: MEM - Taylor (82%) def. McKinney (18%)
+        UTR: MEM - Taylor (81%) def. McKinney (19%)
         ITA: MEM - Taylor (2.71) def. McKinney (1.37)
     - Position: 6
       GT: Chen Dong - 11-4 at 6, 11-4 in duals, 12-6 overall
