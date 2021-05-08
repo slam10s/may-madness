@@ -9,6 +9,7 @@ Return to the [Home Page](../../index.md)
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at  1:00 EDT	[Northwestern vs #10 Texas A&M](./matches/R2_53-56_NW_vs_AM.md) ... A&M (49%) / <i>NW (51%)</i>
+- Sat, 5/08 at  6:00 EDT	[Duke vs #8 Baylor](./matches/R2_13-16_DUKE_vs_BAY.md) ... BAY (51%) / DUKE (49%)
 - Sat, 5/08 at  5:00 EDT	[Miami (FL) vs #9 UCF](./matches/R2_9-12_MIA_vs_UCF.md) ... UCF (57%) / MIA (43%)
 - Sat, 5/08 at  4:00 EDT	[Tennessee vs #14 Virginia](./matches/R2_37-40_TENN_vs_UVA.md) ... UVA (69%) / TENN (31%)
 - Sat, 5/08 at  2:00 EDT	[Michigan vs #12 LSU](./matches/R2_21-24_MICH_vs_LSU.md) ... LSU (25%) / <i>MICH (75%)</i>
@@ -76,6 +77,6 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Fri, 5/07 at  4:00 EDT	[Xavier vs Northwestern](./matches/R1_53-54_XAV_vs_NW.md) ... <b>NW (4)</b> / XAV (0)
 - Fri, 5/07 at  4:00 EDT	[Denver vs #2 Texas](./matches/R1_63-64_DEN_vs_TEX.md) ... <b>TEX (4)</b> / DEN (0)
 - Fri, 5/07 at  5:00 EDT	[Northern Ariz. vs #5 Pepperdine](./matches/R1_17-18_NAU_vs_PEPP.md) ... <b>PEPP (5)</b> / NAU (0)
-- Fri, 5/07 at  6:00 EDT	[A&M-Corpus Christi vs #8 Baylor](./matches/R1_15-16_TAMCC_vs_BAY.md) ... BAY (93%) / TAMCC (7%)
+- Fri, 5/07 at  6:00 EDT	[A&M-Corpus Christi vs #8 Baylor](./matches/R1_15-16_TAMCC_vs_BAY.md) ... <b>BAY (4)</b> / TAMCC (0)
   
 Return to the [Home Page](../../index.md)
