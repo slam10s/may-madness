@@ -13,9 +13,7 @@ The various metrics disagree on the outcome of these matches:
 
 The metrics agree on the winner, but not by a lot:
 
-- Sun, 5/16 at  7:00 EDT	[#1 North Carolina vs #16 California](./matches/R3_1-6_UNC_vs_CAL.md) ... UNC (99%) / CAL (1%)
-- Sun, 5/16 at 10:00 EDT	[#3 Georgia vs #14 Virginia](./matches/R3_25-30_UGA_vs_UVA.md) ... UGA (94%) / UVA (6%)
-- Sun, 5/16 at  1:00 EDT	[#7 Florida St. vs #10 Texas A&M](./matches/R3_37-42_FSU_vs_AM.md) ... FSU (70%) / A&M (30%)
+- Sun, 5/16 at  1:00 EDT	[#10 Texas A&M vs #7 Florida St.](./matches/R3_37-42_AM_vs_FSU.md) ... FSU (70%) / A&M (30%)
 - Sun, 5/16 at  4:00 EDT	[Michigan vs #5 Pepperdine](./matches/R3_13-18_MICH_vs_PEPP.md) ... PEPP (73%) / MICH (27%)
 
 ### Heavy Favorites
@@ -23,7 +21,9 @@ The metrics agree on the winner, but not by a lot:
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Sun, 5/16 at  4:00 EDT	[#13 Georgia Tech vs #4 UCLA](./matches/R3_19-24_GT_vs_UCLA.md) ... UCLA (86%) / GT (14%)
+- Sun, 5/16 at 10:00 EDT	[#14 Virginia vs #3 Georgia](./matches/R3_25-30_UVA_vs_UGA.md) ... UGA (94%) / UVA (6%)
 - Sun, 5/16 at  1:00 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... TEX (95%) / OSU (5%)
+- Sun, 5/16 at  7:00 EDT	[#16 California vs #1 North Carolina](./matches/R3_1-6_CAL_vs_UNC.md) ... UNC (99%) / CAL (1%)
 ## Second Round
 
 ### Intriguing Matches
