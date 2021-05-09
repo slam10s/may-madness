@@ -9,7 +9,7 @@ Knoxville, Tennessee
 <td>  
 
 <h2>#3 Memphis</h2>  
-&nbsp; Record: 10-8<br>  
+&nbsp; Record: 10-9<br>  
 &nbsp; ITA: 38 (22.19)<br>  
 &nbsp; Slam: 41 (91.89)<br>  
 &nbsp; TRN: 40 (89.86)<br>  
@@ -22,7 +22,7 @@ Knoxville, Tennessee
 <td>  
 
 <h2>#1 Tennessee</h2>  
-&nbsp; Record: 25-3<br>  
+&nbsp; Record: 26-3<br>  
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.18)<br>  
 &#10004; TRN: 5 (98.72)<br>  
@@ -39,6 +39,7 @@ Knoxville, Tennessee
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
 ## Match Information  
+***Tennessee def. Memphis 4-0***  
 Go to [Live Stats](http://www.sidearmstats.com/utennessee/mten/)  
 
 ## Predictions  

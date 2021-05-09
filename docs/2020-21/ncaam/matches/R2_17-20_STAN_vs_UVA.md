@@ -9,7 +9,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#2 Stanford</h2>  
-&nbsp; Record: 11-5<br>  
+&nbsp; Record: 11-6<br>  
 &nbsp; ITA: 21 (34.55)<br>  
 &nbsp; Slam: 22 (94.00)<br>  
 &nbsp; TRN: 21 (92.30)<br>  
@@ -23,7 +23,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#1 Virginia</h2>  
-&nbsp; Record: 22-2<br>  
+&nbsp; Record: 23-2<br>  
 &#10004; ITA: 4 (74.36)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
@@ -40,6 +40,7 @@ Charlottesville, Virginia
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
 ## Match Information  
+***Virginia def. Stanford 4-2***  
 Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350363)  
 
 ## Predictions  

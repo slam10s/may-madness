@@ -9,7 +9,7 @@ Oxford, Mississippi
 <td>  
 
 <h2>#2 Tulane</h2>  
-&nbsp; Record: 15-7<br>  
+&nbsp; Record: 15-8<br>  
 &nbsp; ITA: 22 (33.07)<br>  
 &nbsp; Slam: 26 (93.53)<br>  
 &nbsp; TRN: 26 (91.45)<br>  
@@ -22,7 +22,7 @@ Oxford, Mississippi
 <td>  
 
 <h2>#1 Ole Miss</h2>  
-&nbsp; Record: 12-10<br>  
+&nbsp; Record: 13-10<br>  
 &#10004; ITA: 14 (44.94)<br>  
 &#10004; Slam: 18 (95.00)<br>  
 &#10004; TRN: 18 (93.41)<br>  
@@ -39,6 +39,7 @@ Oxford, Mississippi
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
 ## Match Information  
+***Ole Miss def. Tulane 4-0***  
 Go to [Live Stats](http://stats.statbroadcast.com/statmonitr/?id=350592)  
 
 ## Predictions  

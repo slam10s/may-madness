@@ -9,7 +9,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#2 South Fla.</h2>  
-&nbsp; Record: 17-9<br>  
+&nbsp; Record: 17-10<br>  
 &nbsp; ITA: 32 (26.14)<br>  
 &nbsp; Slam: 32 (92.98)<br>  
 &nbsp; TRN: 34 (90.69)<br>  
@@ -22,7 +22,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#1 Florida</h2>  
-&nbsp; Record: 21-2<br>  
+&nbsp; Record: 22-2<br>  
 &#10004; ITA: 2 (81.08)<br>  
 &#10004; Slam: 2 (99.77)<br>  
 &#10004; TRN: 3 (99.10)<br>  
@@ -39,6 +39,7 @@ Gainesville, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
 ## Match Information  
+***Florida def. South Florida 4-0***  
 Go to [Live Stats](https://sidearmstats.com/florida/mten/)  
 
 ## Predictions  

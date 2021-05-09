@@ -3,6 +3,26 @@
 
 Return to the [Home Page](../../index.md)
 
+## Third Round
+
+### Intriguing Matches
+
+The various metrics disagree on the outcome of these matches:
+
+- Mon, 5/17 at  4:00 EDT	[#13 South Carolina vs #4 Texas](./matches/R3_19-24_SCAR_vs_TEX.md) ... TEX (63%) / SCAR (37%)
+- Mon, 5/17 at  4:00 EDT	[#12 Southern California vs #5 Virginia](./matches/R3_13-18_USC_vs_UVA.md) ... UVA (71%) / USC (29%)
+
+The metrics agree on the winner, but not by a lot:
+
+- Mon, 5/17 at  7:00 EDT	[#16 Illinois vs #1 Florida](./matches/R3_1-6_ILL_vs_FLA.md) ... FLA (71%) / ILL (29%)
+
+### Heavy Favorites
+
+The favorite is expected to win at least 4 out of every 5 these teams play:
+
+- Mon, 5/17 at  7:00 EDT	[Mississippi St. vs #8 Texas A&M](./matches/R3_7-12_MSST_vs_AM.md) ... A&M (86%) / MSST (14%)
+- Mon, 5/17 at 10:00 EDT	[#11 Georgia vs #6 North Carolina](./matches/R3_31-36_UGA_vs_UNC.md) ... UNC (87%) / UGA (13%)
+- Mon, 5/17 at 10:00 EDT	[Arizona vs #3 Tennessee](./matches/R3_25-30_ARIZ_vs_TENN.md) ... TENN (93%) / ARIZ (7%)
 ## Second Round
 
 ### Intriguing Matches
@@ -10,29 +30,29 @@ Return to the [Home Page](../../index.md)
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at  5:00 EDT	[Ohio St. vs #10 Wake Forest](./matches/R2_53-56_OSU_vs_WAKE.md) ... WAKE (1) / <b><i>OSU (4)</i></b>
-- Sun, 5/09 at 12:00 EDT	[Stanford vs #5 Virginia](./matches/R2_17-20_STAN_vs_UVA.md) ... UVA (92%) / STAN (8%)
+- Sun, 5/09 at 12:00 EDT	[Stanford vs #5 Virginia](./matches/R2_17-20_STAN_vs_UVA.md) ... <b>UVA (4)</b> / STAN (2)
 
 The metrics agree on the winner, but not by a lot:
 
 - Sat, 5/08 at  1:00 EDT	[Arizona vs #14 Kentucky](./matches/R2_37-40_ARIZ_vs_UK.md) ... UK (2) / <b><i>ARIZ (4)</i></b>
-- Sun, 5/09 at  2:00 EDT	[Tulane vs #15 Ole Miss](./matches/R2_57-60_TULN_vs_MISS.md) ... MISS (73%) / TULN (27%)
+- Sun, 5/09 at  2:00 EDT	[Tulane vs #15 Ole Miss](./matches/R2_57-60_TULN_vs_MISS.md) ... <b>MISS (4)</b> / TULN (0)
 - Sat, 5/08 at  1:00 EDT	[NC State vs #13 South Carolina](./matches/R2_25-28_NCST_vs_SCAR.md) ... <b>SCAR (4)</b> / NCST (0)
 
 ### Heavy Favorites
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Sun, 5/09 at 12:00 EDT	[Mississippi St. vs #9 UCF](./matches/R2_9-12_MSST_vs_UCF.md) ... UCF (85%) / MSST (15%)
-- Sun, 5/09 at  1:00 EDT	[Texas Tech vs #11 Georgia](./matches/R2_41-44_TTU_vs_UGA.md) ... UGA (89%) / TTU (11%)
-- Sun, 5/09 at  1:00 EDT	[Northwestern vs #4 Texas](./matches/R2_29-32_NW_vs_TEX.md) ... TEX (91%) / NW (9%)
+- Sun, 5/09 at 12:00 EDT	[Mississippi St. vs #9 UCF](./matches/R2_9-12_MSST_vs_UCF.md) ... UCF (2) / <b><i>MSST (4)</i></b>
+- Sun, 5/09 at  1:00 EDT	[Texas Tech vs #11 Georgia](./matches/R2_41-44_TTU_vs_UGA.md) ... <b>UGA (4)</b> / TTU (0)
+- Sun, 5/09 at  1:00 EDT	[Northwestern vs #4 Texas](./matches/R2_29-32_NW_vs_TEX.md) ... <b>TEX (4)</b> / NW (0)
 - Sat, 5/08 at  4:00 EDT	[Pepperdine vs #12 Southern California](./matches/R2_21-24_PEPP_vs_USC.md) ... <b>USC (4)</b> / PEPP (2)
 - Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... <b>A&M (4)</b> / OKLA (1)
 - Sun, 5/09 at  2:00 EDT	[Arizona St. vs #7 TCU](./matches/R2_49-52_AZST_vs_TCU.md) ... TCU (94%) / AZST (6%)
 - Sat, 5/08 at  2:00 EDT	[Notre Dame vs #16 Illinois](./matches/R2_5-8_ND_vs_ILL.md) ... <b>ILL (4)</b> / ND (0)
-- Sun, 5/09 at  1:00 EDT	[Oklahoma St. vs #6 North Carolina](./matches/R2_45-48_OKST_vs_UNC.md) ... UNC (97%) / OKST (3%)
+- Sun, 5/09 at  1:00 EDT	[Oklahoma St. vs #6 North Carolina](./matches/R2_45-48_OKST_vs_UNC.md) ... <b>UNC (4)</b> / OKST (0)
 - Sun, 5/09 at  3:00 EDT	[Oregon vs #2 Baylor](./matches/R2_61-64_ORE_vs_BAY.md) ... BAY (97%) / ORE (3%)
-- Sun, 5/09 at  1:00 EDT	[Memphis vs #3 Tennessee](./matches/R2_33-36_MEM_vs_TENN.md) ... TENN (99%) / MEM (1%)
-- Sun, 5/09 at  2:00 EDT	[South Fla. vs #1 Florida](./matches/R2_1-4_USF_vs_FLA.md) ... FLA (99%) / USF (1%)
+- Sun, 5/09 at  1:00 EDT	[Memphis vs #3 Tennessee](./matches/R2_33-36_MEM_vs_TENN.md) ... <b>TENN (4)</b> / MEM (0)
+- Sun, 5/09 at  2:00 EDT	[South Fla. vs #1 Florida](./matches/R2_1-4_USF_vs_FLA.md) ... <b>FLA (4)</b> / USF (0)
 ## First Round
 
 ### Intriguing Matches

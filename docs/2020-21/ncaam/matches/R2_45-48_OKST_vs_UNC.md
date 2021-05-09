@@ -9,7 +9,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#2 Oklahoma St.</h2>  
-&nbsp; Record: 10-11<br>  
+&nbsp; Record: 10-12<br>  
 &nbsp; ITA: 19 (35.31)<br>  
 &nbsp; Slam: 24 (93.68)<br>  
 &nbsp; TRN: 23 (91.93)<br>  
@@ -23,7 +23,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#1 North Carolina</h2>  
-&nbsp; Record: 20-3<br>  
+&nbsp; Record: 21-3<br>  
 &#10004; ITA: 6 (72.02)<br>  
 &#10004; Slam: 3 (99.37)<br>  
 &#10004; TRN: 2 (99.37)<br>  
@@ -40,6 +40,7 @@ Chapel Hill, North Carolina
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
 ## Match Information  
+***North Carolina def. Oklahoma State 4-0***  
 Go to [Live Stats](http://stats.statbroadcast.com/statmonitr/?id=350570)  
 
 ## Predictions  

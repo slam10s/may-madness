@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Mississippi St.</h2>  
-&nbsp; Record: 17-9<br>  
+&nbsp; Record: 18-9<br>  
 &nbsp; ITA: 16 (41.29)<br>  
 &nbsp; Slam: 20 (94.39)<br>  
 &nbsp; TRN: 19 (92.98)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 UCF</h2>  
-&nbsp; Record: 22-3<br>  
+&nbsp; Record: 22-4<br>  
 &#10004; ITA: 10 (54.95)<br>  
 &#10004; Slam: 12 (96.59)<br>  
 &#10004; TRN: 13 (95.63)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
 ## Match Information  
+***Mississippi State def. Central Florida 4-2***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76)  
 
 ## Predictions  

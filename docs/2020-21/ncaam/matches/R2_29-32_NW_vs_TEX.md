@@ -9,7 +9,7 @@ Austin, Texas
 <td>  
 
 <h2>#3 Northwestern</h2>  
-&nbsp; Record: 14-7<br>  
+&nbsp; Record: 14-8<br>  
 &nbsp; ITA: 50 (7.95)<br>  
 &nbsp; Slam: 33 (92.89)<br>  
 &nbsp; TRN: 32 (90.90)<br>  
@@ -22,7 +22,7 @@ Austin, Texas
 <td>  
 
 <h2>#1 Texas</h2>  
-&nbsp; Record: 21-5<br>  
+&nbsp; Record: 22-5<br>  
 &#10004; ITA: 5 (74.24)<br>  
 &#10004; Slam: 8 (97.59)<br>  
 &#10004; TRN: 7 (97.63)<br>  
@@ -39,6 +39,7 @@ Austin, Texas
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
 ## Match Information  
+***Texas def. Northwestern 4-0***  
 Go to [Live Stats](http://sidearmstats.com/texas/mtennis/xlive.htm)  
 
 ## Predictions  
