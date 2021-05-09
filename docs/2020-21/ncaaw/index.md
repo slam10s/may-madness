@@ -9,6 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
+- Sun, 5/16 at  7:00 EDT	[Duke vs #9 UCF](./matches/R3_7-12_DUKE_vs_UCF.md) ... UCF (43%) / <i>DUKE (57%)</i>
 - Sun, 5/16 at 10:00 EDT	[Southern California vs #6 NC State](./matches/R3_31-36_USC_vs_NCST.md) ... NCST (86%) / USC (14%)
 
 The metrics agree on the winner, but not by a lot:
@@ -32,7 +33,7 @@ The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at  1:00 EDT	[Northwestern vs #10 Texas A&M](./matches/R2_53-56_NW_vs_AM.md) ... <b>A&M (4)</b> / NW (1)
 - Sat, 5/08 at  5:00 EDT	[Miami (FL) vs #9 UCF](./matches/R2_9-12_MIA_vs_UCF.md) ... <b>UCF (4)</b> / MIA (1)
-- Sat, 5/08 at  6:00 EDT	[Duke vs #8 Baylor](./matches/R2_13-16_DUKE_vs_BAY.md) ... BAY (56%) / DUKE (44%)
+- Sat, 5/08 at  6:00 EDT	[Duke vs #8 Baylor](./matches/R2_13-16_DUKE_vs_BAY.md) ... BAY (3) / <b><i>DUKE (4)</i></b>
 - Sat, 5/08 at  2:00 EDT	[Michigan vs #12 LSU](./matches/R2_21-24_MICH_vs_LSU.md) ... LSU (3) / <b><i>MICH (4)</i></b>
 - Sat, 5/08 at  4:00 EDT	[Southern California vs #11 Florida](./matches/R2_41-44_USC_vs_FLA.md) ... FLA (1) / <b><i>USC (4)</i></b>
 

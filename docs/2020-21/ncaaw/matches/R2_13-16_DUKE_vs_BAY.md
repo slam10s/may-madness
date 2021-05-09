@@ -9,7 +9,7 @@ Waco, Texas
 <td>  
 
 <h2>#2 Duke</h2>  
-&nbsp; Record: 16-6<br>  
+&nbsp; Record: 17-6<br>  
 &nbsp; ITA: 17 (43.03)<br>  
 &nbsp; Slam: 14 (90.91)<br>  
 &nbsp; TRN: 15 (83.33)<br>  
@@ -23,7 +23,7 @@ Waco, Texas
 <td>  
 
 <h2>#1 Baylor</h2>  
-&nbsp; Record: 24-4<br>  
+&nbsp; Record: 24-5<br>  
 &#10004; ITA: 8 (52.73)<br>  
 &#10004; Slam: 7 (92.44)<br>  
 &#10004; TRN: 4 (89.86)<br>  
@@ -40,6 +40,7 @@ Waco, Texas
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
+***Duke def. Baylor 4-3***  
 Go to [Live Stats](http://www.sidearmstats.com/baylor/wten/)  
 
 ## Predictions  
