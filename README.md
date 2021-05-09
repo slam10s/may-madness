@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # May Madness Predictions
 
 Our [May Madness Predictions](./docs/index.md) aggregate several different metrics for each match played in the NCAA Men's and Women's Division I Tennis Championships. This is the GitHub repository used to host the site. You can switch to the [GitHub May Madness](https://slam10s.github.io/may-madness/) website by clicking [here](https://slam10s.github.io/may-madness/).
@@ -72,3 +74,7 @@ The ITA Coaches Poll is a similar poll produced by the ITA each week alongside t
 All data and files in this repository are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Attribution is required. Non-commercial use only.
+
+---
+
+Return to the [Top](#top)
