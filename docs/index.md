@@ -17,8 +17,9 @@ You can find a complete listing of the predictions for each match here:
 
 Here's daily listings of the matches by start time:
 
-- [Sunday, May 16](./2020-21/schedule/05-16.md) - Sweet 16 (Women Only)
-- [Sunday, May 9](./2020-21/schedule/05-09.md) - 2nd Round (Men Only)
+- [Sunday, May 17](./2020-21/schedule/05-17.md) - Sweet 16 (Men)
+- [Sunday, May 16](./2020-21/schedule/05-16.md) - Sweet 16 (Women)
+- [Sunday, May 9](./2020-21/schedule/05-09.md) - 2nd Round (Men)
 - [Saturday, May 8](./2020-21/schedule/05-08.md) - 1st & 2nd Rounds (Men & Women)
 - [Friday, May 7](./2020-21/schedule/05-07.md) - 1st Round (Men & Women)
 
