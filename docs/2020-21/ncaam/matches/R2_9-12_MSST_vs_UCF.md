@@ -15,7 +15,7 @@ Orlando, Florida
 &nbsp; TRN: 19 (92.98)<br>  
 &nbsp; Massey: 26 (7.63)<br>  
 &nbsp; UTR: 24 (77.84)<br>  
-&#10004; USTA Poll: 23<br>  
+&nbsp; USTA Poll: 23<br>  
 &nbsp; Coaches Poll: 18<br>  
 <br>  
 
@@ -29,7 +29,7 @@ Orlando, Florida
 &#10004; TRN: 13 (95.63)<br>  
 &#10004; Massey: 7 (8.63)<br>  
 &#10004; UTR: 12 (79.08)<br>  
-&nbsp; USTA Poll: T10<br>  
+&#10004; USTA Poll: 10<br>  
 &#10004; Coaches Poll: 9<br>  
 <br>  
 
@@ -49,7 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***UCF*** - UCF (88%) def. Mississippi St. (12%)  
 - UTR: ***UCF*** - #12 UCF (+1.24) def. #24 Mississippi St. (-1.24)  
 - ITA: ***UCF*** - #10 UCF def. #16 Mississippi St.  
-- USTA Poll: ***MSST*** - #23 Mississippi St. def. UCF  
+- USTA Poll: ***UCF*** - #10 UCF def. #23 Mississippi St.  
 - Coaches Poll: ***UCF*** - #9 UCF def. #18 Mississippi St.  
 - Seeding: ***UCF*** - #1 UCF def. #2 Mississippi St.  
 

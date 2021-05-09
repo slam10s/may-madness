@@ -16,7 +16,7 @@ Charlottesville, Virginia
 &nbsp; Massey: 19 (7.80)<br>  
 &nbsp; UTR: 22 (61.61)<br>  
 &nbsp; USTA Poll: 19<br>  
-&#10004; Coaches Poll: 16<br>  
+&nbsp; Coaches Poll: 16<br>  
 <br>  
 
 </td>
@@ -30,7 +30,7 @@ Charlottesville, Virginia
 &#10004; Massey: 7 (8.25)<br>  
 &#10004; UTR: 13 (62.41)<br>  
 &#10004; USTA Poll: 10<br>  
-&nbsp; Coaches Poll: T11<br>  
+&#10004; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -54,7 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UVA*** - #13 Virginia (+0.80) def. #22 Tennessee (-0.80)  
 - ITA: ***UVA*** - #14 Virginia def. #15 Tennessee  
 - USTA Poll: ***UVA*** - #10 Virginia def. #19 Tennessee  
-- Coaches Poll: ***TENN*** - #16 Tennessee def. Virginia  
+- Coaches Poll: ***UVA*** - #11 Virginia def. #16 Tennessee  
 - Seeding: ***UVA*** - #1 Virginia def. #2 Tennessee  
 
 ## Individual Matchups  

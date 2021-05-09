@@ -1,10 +1,10 @@
 round	lines	title	winner	score	slam	trn	massey	utr	ita	usta	coach	lineups	home	visitor	composite	ewp	ewps
 Second Round	53-56	Ohio St. vs #10 Wake Forest             			OSU 	OSU 	OSU 	OSU 	WAKE	OSU 	WAKE	OSU 	2	6	OSU 	37	41,33,46,28
-Second Round	 9-12	Mississippi St. vs #9 UCF               			UCF 	UCF 	UCF 	UCF 	UCF 	MSST	UCF 	UCF 	7	1	UCF 	85	77,82,94,88
 Second Round	17-20	Stanford vs #5 Virginia                 			UVA 	UVA 	UVA 	STAN	UVA 	UVA 	UVA 	UVA 	7	1	UVA 	92	96,98,93,80
 Second Round	37-40	Arizona vs #14 Kentucky                 			UK  	UK  	UK  	UK  	UK  	UK  	UK  	UK  	8	0	UK  	70	71,69,60,81
 Second Round	57-60	Tulane vs #15 Ole Miss                  			MISS	MISS	MISS	MISS	MISS	MISS	MISS	MISS	8	0	MISS	73	69,75,64,82
 Second Round	25-28	NC State vs #13 South Carolina          			SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	8	0	SCAR	78	73,77,78,85
+Second Round	 9-12	Mississippi St. vs #9 UCF               			UCF 	UCF 	UCF 	UCF 	UCF 	UCF 	UCF 	UCF 	8	0	UCF 	85	77,82,94,88
 Second Round	41-44	Texas Tech vs #11 Georgia               			UGA 	UGA 	UGA 	UGA 	UGA 	UGA 	UGA 	UGA 	8	0	UGA 	89	88,90,83,95
 Second Round	29-32	Northwestern vs #4 Texas                			TEX 	TEX 	TEX 	TEX 	TEX 	TEX 	TEX 	TEX 	8	0	TEX 	91	93,97,89,86
 Second Round	21-24	Pepperdine vs #12 Southern California   			USC 	USC 	USC 	USC 	USC 	USC 	USC 	USC 	8	0	USC 	92	89,87,95,98
@@ -18,7 +18,7 @@ Second Round	 1-4 	South Fla. vs #1 Florida                			FLA 	FLA 	FLA 	FLA
 First Round	43-44	Virginia Tech vs Texas Tech             			VT  	VT  	TTU 	VT  	TTU 	TTU 	TTU 	VT  	4	4	VT  	46	44,49,59,31
 First Round	 3-4 	Duke vs South Fla.                      			DUKE	USF 	USF 	DUKE	USF 	-   	USF 	USF 	5	2	USF 	51	50,52,55,51
 First Round	61-62	Oregon vs Alabama                       			BAMA	BAMA	ORE 	BAMA	BAMA	-   	BAMA	BAMA	6	1	BAMA	60	70,71,42,59
-First Round	37-38	Michigan vs Arizona                     			MICH	MICH	MICH	MICH	ARIZ	ARIZ	ARIZ	MICH	3	5	MICH	72	77,87,54,70
+First Round	37-38	Michigan vs Arizona                     			MICH	MICH	MICH	MICH	ARIZ	MICH	ARIZ	MICH	2	6	MICH	72	77,87,54,70
 First Round	 5-6 	Western Mich. vs Notre Dame             			ND  	ND  	ND  	ND  	ND  	WMU 	ND  	ND  	7	1	ND  	77	77,62,77,95
 First Round	29-30	Northwestern vs UCLA                    			UCLA	UCLA	UCLA	UCLA	UCLA	UCLA	UCLA	UCLA	8	0	UCLA	63	63,63,75,51
 First Round	51-52	Wichita St. vs Arizona St.              			AZST	AZST	AZST	AZST	AZST	AZST	AZST	AZST	8	0	AZST	65	70,70,63,56
@@ -33,7 +33,6 @@ First Round	53-54	VCU vs Ohio St.                         			OSU 	OSU 	OSU 	OSU 
 First Round	45-46	Navy vs Oklahoma St.                    			OKST	OKST	OKST	OKST	OKST	OKST	OKST	OKST	8	0	OKST	97	98,92,99,100
 First Round	25-26	UNCW vs #13 South Carolina              			SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	SCAR	8	0	SCAR	98	98,99,98,100
 First Round	49-50	Arkansas vs #7 TCU                      			TCU 	TCU 	TCU 	TCU 	TCU 	TCU 	TCU 	TCU 	8	0	TCU 	98	96,98,99,100
-First Round	 9-10	Monmouth vs #9 UCF                      			UCF 	UCF 	UCF 	UCF 	UCF 	-   	UCF 	UCF 	7	0	UCF 	99	99,99,100,100
 First Round	39-40	Cleveland St. vs #14 Kentucky           			UK  	UK  	UK  	UK  	UK  	UK  	UK  	UK  	8	0	UK  	99	99,99,99,100
 First Round	15-16	New Mexico vs #8 Texas A&M              			A&M 	A&M 	A&M 	A&M 	A&M 	A&M 	A&M 	A&M 	8	0	A&M 	99	99,99,99,100
 First Round	23-24	Grand Canyon vs #12 Southern California 			USC 	USC 	USC 	USC 	USC 	USC 	USC 	USC 	8	0	USC 	99	99,99,100,100
@@ -45,5 +44,6 @@ First Round	31-32	Northern Ariz. vs #4 Texas              			TEX 	TEX 	TEX 	TEX 
 First Round	33-34	Alabama A&M vs #3 Tennessee             			TENN	TENN	TENN	TENN	TENN	TENN	TENN	TENN	8	0	TENN	99	99,99,100,100
 First Round	41-42	ETSU vs #11 Georgia                     			UGA 	UGA 	UGA 	UGA 	UGA 	UGA 	UGA 	UGA 	8	0	UGA 	99	99,99,99,100
 First Round	47-48	Presbyterian vs #6 North Carolina       			UNC 	UNC 	UNC 	UNC 	UNC 	UNC 	UNC 	UNC 	8	0	UNC 	99	99,99,100,100
+First Round	 9-10	Monmouth vs #9 UCF                      			UCF 	UCF 	UCF 	UCF 	UCF 	UCF 	UCF 	UCF 	8	0	UCF 	99	99,99,100,100
 First Round	63-64	A&M-Corpus Christi vs #2 Baylor         			BAY 	BAY 	BAY 	BAY 	BAY 	BAY 	BAY 	BAY 	8	0	BAY 	99	99,99,99,100
 First Round	57-58	Belmont vs #15 Ole Miss                 			MISS	MISS	MISS	MISS	MISS	MISS	MISS	MISS	8	0	MISS	99	99,99,99,100

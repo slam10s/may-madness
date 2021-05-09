@@ -10,7 +10,6 @@ Return to the [Home Page](../../index.md)
 The various metrics disagree on the outcome of these matches:
 
 - Sat, 5/08 at  5:00 EDT	[Ohio St. vs #10 Wake Forest](./matches/R2_53-56_OSU_vs_WAKE.md) ... WAKE (1) / <b><i>OSU (4)</i></b>
-- Sun, 5/09 at 12:00 EDT	[Mississippi St. vs #9 UCF](./matches/R2_9-12_MSST_vs_UCF.md) ... UCF (85%) / MSST (15%)
 - Sun, 5/09 at 12:00 EDT	[Stanford vs #5 Virginia](./matches/R2_17-20_STAN_vs_UVA.md) ... UVA (92%) / STAN (8%)
 
 The metrics agree on the winner, but not by a lot:
@@ -23,6 +22,7 @@ The metrics agree on the winner, but not by a lot:
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
+- Sun, 5/09 at 12:00 EDT	[Mississippi St. vs #9 UCF](./matches/R2_9-12_MSST_vs_UCF.md) ... UCF (85%) / MSST (15%)
 - Sun, 5/09 at  1:00 EDT	[Texas Tech vs #11 Georgia](./matches/R2_41-44_TTU_vs_UGA.md) ... UGA (89%) / TTU (11%)
 - Sun, 5/09 at  1:00 EDT	[Northwestern vs #4 Texas](./matches/R2_29-32_NW_vs_TEX.md) ... TEX (91%) / NW (9%)
 - Sat, 5/08 at  4:00 EDT	[Pepperdine vs #12 Southern California](./matches/R2_21-24_PEPP_vs_USC.md) ... <b>USC (4)</b> / PEPP (2)
@@ -65,7 +65,6 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at 10:00 EDT	[Navy vs Oklahoma St.](./matches/R1_45-46_NAVY_vs_OKST.md) ... <b>OKST (4)</b> / NAVY (0)
 - Fri, 5/07 at  1:00 EDT	[UNCW vs #13 South Carolina](./matches/R1_25-26_UNCW_vs_SCAR.md) ... <b>SCAR (4)</b> / UNCW (0)
 - Sat, 5/08 at  3:00 EDT	[Arkansas vs #7 TCU](./matches/R1_49-50_ARK_vs_TCU.md) ... <b>TCU (4)</b> / ARK (0)
-- Sat, 5/08 at  2:00 EDT	[Monmouth vs #9 UCF](./matches/R1_9-10_MONM_vs_UCF.md) ... <b>UCF (4)</b> / MONM (0)
 - Fri, 5/07 at  1:00 EDT	[Cleveland St. vs #14 Kentucky](./matches/R1_39-40_CLEV_vs_UK.md) ... <b>UK (4)</b> / CLEV (1)
 - Fri, 5/07 at  3:00 EDT	[New Mexico vs #8 Texas A&M](./matches/R1_15-16_UNM_vs_AM.md) ... <b>A&M (4)</b> / UNM (1)
 - Fri, 5/07 at  4:00 EDT	[Grand Canyon vs #12 Southern California](./matches/R1_23-24_GCU_vs_USC.md) ... <b>USC (4)</b> / GCU (0)
@@ -77,6 +76,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sat, 5/08 at  1:00 EDT	[Alabama A&M vs #3 Tennessee](./matches/R1_33-34_AAMU_vs_TENN.md) ... <b>TENN (5)</b> / AAMU (0)
 - Sat, 5/08 at  1:00 EDT	[ETSU vs #11 Georgia](./matches/R1_41-42_ETSU_vs_UGA.md) ... <b>UGA (4)</b> / ETSU (0)
 - Sat, 5/08 at  1:00 EDT	[Presbyterian vs #6 North Carolina](./matches/R1_47-48_PRES_vs_UNC.md) ... <b>UNC (4)</b> / PRES (0)
+- Sat, 5/08 at  2:00 EDT	[Monmouth vs #9 UCF](./matches/R1_9-10_MONM_vs_UCF.md) ... <b>UCF (4)</b> / MONM (0)
 - Sat, 5/08 at  3:00 EDT	[A&M-Corpus Christi vs #2 Baylor](./matches/R1_63-64_TAMCC_vs_BAY.md) ... <b>BAY (4)</b> / TAMCC (0)
 - Sat, 5/08 at  4:00 EDT	[Belmont vs #15 Ole Miss](./matches/R1_57-58_BEL_vs_MISS.md) ... <b>MISS (4)</b> / BEL (0)
   

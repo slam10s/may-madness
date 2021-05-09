@@ -27,7 +27,7 @@ Orlando, Florida
 &#10004; TRN: 13 (95.63)<br>  
 &#10004; Massey: 7 (8.63)<br>  
 &#10004; UTR: 12 (79.08)<br>  
-&nbsp; USTA Poll: T10<br>  
+&#10004; USTA Poll: 10<br>  
 &#10004; Coaches Poll: 9<br>  
 <br>  
 
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***UCF*** - UCF (99%) def. Monmouth (1%)  
 - UTR: ***UCF*** - #12 UCF (+9.47) def. #62 Monmouth (-9.47)  
 - ITA: ***UCF*** - #10 UCF def. #58 Monmouth  
+- USTA Poll: ***UCF*** - #10 UCF def. Monmouth  
 - Coaches Poll: ***UCF*** - #9 UCF def. Monmouth  
 - Seeding: ***UCF*** - #1 UCF def. #4 Monmouth  
 

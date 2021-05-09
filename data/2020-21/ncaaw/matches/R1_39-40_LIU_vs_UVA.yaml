@@ -22,7 +22,7 @@ Home:
     UTR: 13 (62.41)
   Polls:
     USTA: 10
-    Coach: T11
+    Coach: 11
 Visitor:
   Team: LIU
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png
@@ -45,6 +45,7 @@ Predictions:
   UTR: "UVA - #13 Virginia (+12.56) def. #60 LIU (-12.56)"
   ITA: "UVA - #14 Virginia def. #52 LIU"
   USTA: "UVA - #10 Virginia def. LIU"
+  Coach: "UVA - #11 Virginia def. LIU"
   Seeding: "UVA - #1 Virginia def. #4 LIU"
 Lineups:
   Predictions:

@@ -14,7 +14,7 @@ Third Round[](#top)<a name="top"></a>
 &nbsp; Massey: 18 (7.83)<br>  
 &nbsp; UTR: 24 (61.54)<br>  
 &nbsp; USTA Poll: 15<br>  
-&nbsp; Coaches Poll: T11<br>  
+&nbsp; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -48,7 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UCLA*** - #5 UCLA (+2.86) def. #24 Georgia Tech (-2.86)  
 - ITA: ***UCLA*** - #4 UCLA def. #13 Georgia Tech  
 - USTA Poll: ***UCLA*** - #4 UCLA def. #15 Georgia Tech  
-- Coaches Poll: ***UCLA*** - #5 UCLA def. Georgia Tech  
+- Coaches Poll: ***UCLA*** - #5 UCLA def. #11 Georgia Tech  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

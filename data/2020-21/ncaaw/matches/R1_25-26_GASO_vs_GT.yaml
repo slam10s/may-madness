@@ -22,7 +22,7 @@ Home:
     UTR: 24 (61.54)
   Polls:
     USTA: 15
-    Coach: T11
+    Coach: 11
 Visitor:
   Team: Ga. Southern
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png
@@ -45,6 +45,7 @@ Predictions:
   UTR: "GT - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)"
   ITA: "GT - #13 Georgia Tech def. #53 Ga. Southern"
   USTA: "GT - #15 Georgia Tech def. Ga. Southern"
+  Coach: "GT - #11 Georgia Tech def. Ga. Southern"
   Seeding: "GT - #1 Georgia Tech def. #4 Ga. Southern"
 Lineups:
   Predictions:

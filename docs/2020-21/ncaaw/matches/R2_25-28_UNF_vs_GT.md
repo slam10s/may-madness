@@ -28,7 +28,7 @@ Atlanta, Georgia
 &#10004; Massey: 18 (7.83)<br>  
 &#10004; UTR: 24 (61.54)<br>  
 &#10004; USTA Poll: 15<br>  
-&nbsp; Coaches Poll: T11<br>  
+&#10004; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***GT*** - #24 Georgia Tech (+3.09) def. #44 North Florida (-3.09)  
 - ITA: ***GT*** - #13 Georgia Tech def. #48 North Florida  
 - USTA Poll: ***GT*** - #15 Georgia Tech def. North Florida  
+- Coaches Poll: ***GT*** - #11 Georgia Tech def. North Florida  
 - Seeding: ***GT*** - #1 Georgia Tech def. #3 North Florida  
 
 ## Individual Matchups  

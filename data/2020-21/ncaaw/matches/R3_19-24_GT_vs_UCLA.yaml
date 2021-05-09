@@ -39,7 +39,7 @@ Visitor:
     UTR: 24 (61.54)
   Polls:
     USTA: 15
-    Coach: T11
+    Coach: 11
 Predictions:
   AVG: UCLA - UCLA (86%) def. Georgia Tech (14%)
   SLM: "UCLA - #4 UCLA (82%) def. #20 Georgia Tech (18%)"
@@ -49,7 +49,7 @@ Predictions:
   UTR: "UCLA - #5 UCLA (+2.86) def. #24 Georgia Tech (-2.86)"
   ITA: "UCLA - #4 UCLA def. #13 Georgia Tech"
   USTA: "UCLA - #4 UCLA def. #15 Georgia Tech"
-  Coach: "UCLA - #5 UCLA def. Georgia Tech"
+  Coach: "UCLA - #5 UCLA def. #11 Georgia Tech"
 Lineups:
   Predictions:
     Average EWPs for UCLA: 82%,77%,93%,94%

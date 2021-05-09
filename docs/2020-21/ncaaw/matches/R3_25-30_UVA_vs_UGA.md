@@ -14,7 +14,7 @@ Third Round[](#top)<a name="top"></a>
 &nbsp; Massey: 7 (8.25)<br>  
 &nbsp; UTR: 13 (62.41)<br>  
 &nbsp; USTA Poll: 10<br>  
-&nbsp; Coaches Poll: T11<br>  
+&nbsp; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -48,7 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UGA*** - #3 Georgia (+2.28) def. #13 Virginia (-2.28)  
 - ITA: ***UGA*** - #3 Georgia def. #14 Virginia  
 - USTA Poll: ***UGA*** - #3 Georgia def. #10 Virginia  
-- Coaches Poll: ***UGA*** - #3 Georgia def. Virginia  
+- Coaches Poll: ***UGA*** - #3 Georgia def. #11 Virginia  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

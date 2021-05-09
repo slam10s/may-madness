@@ -39,7 +39,7 @@ Visitor:
     UTR: 13 (62.41)
   Polls:
     USTA: 10
-    Coach: T11
+    Coach: 11
 Predictions:
   AVG: UGA - Georgia (94%) def. Virginia (6%)
   SLM: "UGA - #3 Georgia (96%) def. #9 Virginia (4%)"
@@ -49,7 +49,7 @@ Predictions:
   UTR: "UGA - #3 Georgia (+2.28) def. #13 Virginia (-2.28)"
   ITA: "UGA - #3 Georgia def. #14 Virginia"
   USTA: "UGA - #3 Georgia def. #10 Virginia"
-  Coach: "UGA - #3 Georgia def. Virginia"
+  Coach: "UGA - #3 Georgia def. #11 Virginia"
 Lineups:
   Predictions:
     Average EWPs for UGA: 96%,99%,87%,95%

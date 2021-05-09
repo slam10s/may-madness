@@ -21,7 +21,7 @@ Home:
     MAS: 7 (8.63)
     UTR: 12 (79.08)
   Polls:
-    USTA: T10
+    USTA: 10
     Coach: 9
 Visitor:
   Team: Monmouth
@@ -44,6 +44,7 @@ Predictions:
   LNUP: UCF - UCF (99%) def. Monmouth (1%)
   UTR: "UCF - #12 UCF (+9.47) def. #62 Monmouth (-9.47)"
   ITA: "UCF - #10 UCF def. #58 Monmouth"
+  USTA: "UCF - #10 UCF def. Monmouth"
   Coach: "UCF - #9 UCF def. Monmouth"
   Seeding: "UCF - #1 UCF def. #4 Monmouth"
 Lineups:

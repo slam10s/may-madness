@@ -15,7 +15,7 @@ Lexington, Kentucky
 &#10004; TRN: 12 (95.88)<br>  
 &#10004; Massey: 14 (8.22)<br>  
 &#10004; UTR: 18 (78.65)<br>  
-&nbsp; USTA Poll: T10<br>  
+&#10004; USTA Poll: 10<br>  
 &nbsp; Coaches Poll: 23<br>  
 <br>  
 
@@ -29,7 +29,7 @@ Lexington, Kentucky
 &nbsp; TRN: 20 (92.43)<br>  
 &nbsp; Massey: 18 (8.10)<br>  
 &nbsp; UTR: 21 (78.35)<br>  
-&#10004; USTA Poll: 18<br>  
+&nbsp; USTA Poll: 18<br>  
 &#10004; Coaches Poll: 19<br>  
 <br>  
 
@@ -53,7 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***MICH*** - Michigan (70%) def. Arizona (30%)  
 - UTR: ***MICH*** - #18 Michigan (+0.3) def. #21 Arizona (-0.3)  
 - ITA: ***ARIZ*** - #17 Arizona def. #46 Michigan  
-- USTA Poll: ***ARIZ*** - #18 Arizona def. Michigan  
+- USTA Poll: ***MICH*** - #10 Michigan def. #18 Arizona  
 - Coaches Poll: ***ARIZ*** - #19 Arizona def. #23 Michigan  
 - Seeding: ***ARIZ*** - #2 Arizona def. #3 Michigan  
 
