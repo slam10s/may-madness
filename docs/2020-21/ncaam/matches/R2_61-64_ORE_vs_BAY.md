@@ -39,6 +39,9 @@ Waco, Texas
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
+## Match Information  
+Go to [Live Stats](http://www.sidearmstats.com/baylor/mten/)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

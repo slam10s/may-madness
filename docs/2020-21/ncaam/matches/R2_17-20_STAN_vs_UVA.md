@@ -39,6 +39,9 @@ Charlottesville, Virginia
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
+## Match Information  
+Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350363)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
