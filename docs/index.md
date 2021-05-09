@@ -17,10 +17,10 @@ You can find a complete listing of the predictions for each match here:
 
 Here's daily listings of the matches by start time:
 
-- [Sunday, May 16](./2020-21/schedule/05-16.md)
-- [Sunday, May 9](./2020-21/schedule/05-09.md)
-- [Saturday, May 8](./2020-21/schedule/05-08.md)
-- [Friday, May 7](./2020-21/schedule/05-07.md)
+- [Sunday, May 16](./2020-21/schedule/05-16.md) - Sweet 16
+- [Sunday, May 9](./2020-21/schedule/05-09.md) - 2nd Round
+- [Saturday, May 8](./2020-21/schedule/05-08.md) - 1st & 2nd Rounds
+- [Friday, May 7](./2020-21/schedule/05-07.md) - 1st Round
 
 ## The Metrics
 
