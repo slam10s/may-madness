@@ -1,6 +1,4 @@
-<a name="top"></a>
-
-# May Madness Predictions
+# <a name="top"></a>May Madness Predictions
 
 Our [May Madness Predictions](./index.md) aggregate several different metrics for each match played in the NCAA Men's and Women's Division I Tennis Championships.
 

@@ -1,6 +1,4 @@
-<a name="top"></a>
-
-# May Madness Predictions
+# <a name="top"></a>May Madness Predictions
 
 Our [May Madness Predictions](./docs/index.md) aggregate several different metrics for each match played in the NCAA Men's and Women's Division I Tennis Championships. This is the GitHub repository used to host the site. You can switch to the [GitHub May Madness](https://slam10s.github.io/may-madness/) website by clicking [here](https://slam10s.github.io/may-madness/).
 
@@ -22,7 +20,7 @@ Here's daily listings of the matches by start time:
 - [Sunday, May 16](./docs/2020-21/schedule/05-16.md) - Sweet 16 (Women Only)
 - [Sunday, May 9](./docs/2020-21/schedule/05-09.md) - 2nd Round (Men Only)
 - [Saturday, May 8](./docs/2020-21/schedule/05-08.md) - 1st & 2nd Rounds (Men & Women)
-- [Friday, May 7](./docs/2020-21/schedule/05-07.md) - 1st Round (Men & Women)
+- [Friday, May 7](./docs/2020-21/schedule/05-07.md) - 1st Round
 
 ## The Metrics
 
