@@ -9,7 +9,7 @@ Fort Worth, Texas
 <td>  
 
 <h2>#2 Arizona St.</h2>  
-&nbsp; Record: 17-8<br>  
+&nbsp; Record: 17-9<br>  
 &nbsp; ITA: 20 (34.84)<br>  
 &nbsp; Slam: 25 (93.56)<br>  
 &nbsp; TRN: 25 (91.79)<br>  
@@ -23,7 +23,7 @@ Fort Worth, Texas
 <td>  
 
 <h2>#1 TCU</h2>  
-&nbsp; Record: 17-7<br>  
+&nbsp; Record: 18-7<br>  
 &#10004; ITA: 7 (69.22)<br>  
 &#10004; Slam: 9 (97.57)<br>  
 &#10004; TRN: 9 (96.56)<br>  
@@ -40,6 +40,7 @@ Fort Worth, Texas
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
 ## Match Information  
+***TCU def. Arizona State 4-1***  
 Go to [Live Stats](https://www.sidearmstats.com/tcu/mten/xlive.htm)  
 
 ## Predictions  

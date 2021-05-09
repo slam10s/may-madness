@@ -9,6 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
+- Mon, 5/17 at  1:00 EDT	[Ohio St. vs #7 TCU](./matches/R3_37-42_OSU_vs_TCU.md) ... TCU (43%) / <i>OSU (57%)</i>
 - Mon, 5/17 at  4:00 EDT	[#13 South Carolina vs #4 Texas](./matches/R3_19-24_SCAR_vs_TEX.md) ... TEX (63%) / SCAR (37%)
 - Mon, 5/17 at  4:00 EDT	[#12 Southern California vs #5 Virginia](./matches/R3_13-18_USC_vs_UVA.md) ... UVA (71%) / USC (29%)
 
@@ -47,7 +48,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sun, 5/09 at  1:00 EDT	[Northwestern vs #4 Texas](./matches/R2_29-32_NW_vs_TEX.md) ... <b>TEX (4)</b> / NW (0)
 - Sat, 5/08 at  4:00 EDT	[Pepperdine vs #12 Southern California](./matches/R2_21-24_PEPP_vs_USC.md) ... <b>USC (4)</b> / PEPP (2)
 - Sat, 5/08 at  3:00 EDT	[Oklahoma vs #8 Texas A&M](./matches/R2_13-16_OKLA_vs_AM.md) ... <b>A&M (4)</b> / OKLA (1)
-- Sun, 5/09 at  2:00 EDT	[Arizona St. vs #7 TCU](./matches/R2_49-52_AZST_vs_TCU.md) ... TCU (94%) / AZST (6%)
+- Sun, 5/09 at  2:00 EDT	[Arizona St. vs #7 TCU](./matches/R2_49-52_AZST_vs_TCU.md) ... <b>TCU (4)</b> / AZST (1)
 - Sat, 5/08 at  2:00 EDT	[Notre Dame vs #16 Illinois](./matches/R2_5-8_ND_vs_ILL.md) ... <b>ILL (4)</b> / ND (0)
 - Sun, 5/09 at  1:00 EDT	[Oklahoma St. vs #6 North Carolina](./matches/R2_45-48_OKST_vs_UNC.md) ... <b>UNC (4)</b> / OKST (0)
 - Sun, 5/09 at  3:00 EDT	[Oregon vs #2 Baylor](./matches/R2_61-64_ORE_vs_BAY.md) ... BAY (97%) / ORE (3%)

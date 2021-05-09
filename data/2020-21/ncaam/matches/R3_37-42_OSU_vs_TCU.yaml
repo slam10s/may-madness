@@ -1,0 +1,130 @@
+Date: Monday, May 17
+Time: 1:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
+Round: Third Round
+Lines: 37-42
+Title: "Ohio St. vs #7 TCU"
+URL: https://www.ncaa.com/game/5833424
+Winner: TBD
+Home:
+  Team: TCU
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png
+  Entry: At-Large Bid
+  Draw Line: 49
+  Seeding:
+    Overall: 7
+    Region: 1
+  Ratings:
+    ITA: 7 (69.22)
+    SLM: 9 (97.57)
+    TRN: 9 (96.56)
+    MAS: 6 (8.76)
+    UTR: 10 (79.71)
+  Polls:
+    USTA: 9
+    Coach: 7
+Visitor:
+  Team: Ohio St.
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png
+  Entry: At-Large Bid
+  Draw Line: 53
+  Seeding:
+    Region: 2
+  Ratings:
+    ITA: 31 (26.40)
+    SLM: 7 (97.86)
+    TRN: 8 (97.23)
+    MAS: 9 (8.60)
+    UTR: 3 (80.28)
+  Polls:
+    USTA: 7
+    Coach: 17
+Predictions:
+  AVG: OSU - Ohio St. (57%) def. TCU (43%)
+  SLM: "OSU - #7 Ohio St. (54%) def. #9 TCU (46%)"
+  TRN: "OSU - #8 Ohio St. (59%) def. #9 TCU (41%)"
+  MAS: "TCU - #6 TCU (56%) def. #9 Ohio St. (44%)"
+  LNUP: OSU - Ohio St. (72%) def. TCU (28%)
+  UTR: "OSU - #3 Ohio St. (+0.57) def. #10 TCU (-0.57)"
+  ITA: "TCU - #7 TCU def. #31 Ohio St."
+  USTA: "OSU - #7 Ohio St. def. #9 TCU"
+  Coach: "TCU - #7 TCU def. #17 Ohio St."
+  Seeding: "TCU - #1 TCU def. #2 Ohio St."
+Lineups:
+  Predictions:
+    Average EWPs for TCU: 46%,41%,56%,28%
+    Average EWPs for OSU: 54%,59%,44%,72%
+    TCU wins 4 or more Singles points: 19%
+    OSU wins 4 or more Singles points: 50%
+    Winner decided by the Doubles point: 31%
+  Singles:
+    - Position: 1
+      TCU: Alastair Gray - 6-4 at 1, 13-7 in duals, 13-7 overall
+      OSU: John McNally - 10-2 at 1, 16-4 in duals, 21-4 overall
+      Predictions:
+        AVG: OSU - McNally (55%) def. Gray (45%)
+        SLM: OSU - McNally (73%) def. Gray (27%)
+        TRN: OSU - McNally (65%) def. Gray (35%)
+        MAS: OSU - McNally (54%) def. Gray (46%)
+        UTR: TCU - Gray (71%) def. McNally (29%)
+        ITA: TCU - Gray (40.15) def. McNally (3.89)
+    - Position: 2
+      TCU: Luc Fomba - 7-3 at 2, 12-6 in duals, 12-6 overall
+      OSU: Cannon Kingsley - 12-0 at 2, 21-0 in duals, 27-0 overall
+      Predictions:
+        AVG: OSU - Kingsley (67%) def. Fomba (33%)
+        SLM: OSU - Kingsley (75%) def. Fomba (25%)
+        TRN: OSU - Kingsley (65%) def. Fomba (35%)
+        MAS: OSU - Kingsley (51%) def. Fomba (49%)
+        UTR: OSU - Kingsley (76%) def. Fomba (24%)
+        ITA: TCU - Fomba (35.12) def. Kingsley (5.20)
+    - Position: 3
+      TCU: Sander Jong - 10-5 at 3, 10-7 in duals, 11-8 overall
+      OSU: James Trotter - 13-1 at 3, 13-1 in duals, 13-1 overall
+      Predictions:
+        AVG: OSU - Trotter (57%) def. Jong (43%)
+        SLM: OSU - Trotter (59%) def. Jong (41%)
+        TRN: OSU - Trotter (57%) def. Jong (43%)
+        MAS: TCU - Jong (54%) def. Trotter (46%)
+        UTR: OSU - Trotter (68%) def. Jong (32%)
+        ITA: TCU - Jong (11.43) def. Trotter (3.90)
+    - Position: 4
+      TCU: Jake Fearnley - 4-2 at 4, 8-3 in duals, 8-3 overall
+      OSU: Justin Boulais - 5-1 at 4, 7-1 in duals, 7-1 overall
+      Predictions:
+        AVG: TCU - Fearnley (75%) def. Boulais (25%)
+        SLM: TCU - Fearnley (67%) def. Boulais (33%)
+        TRN: TCU - Fearnley (82%) def. Boulais (18%)
+        MAS: TCU - Fearnley (68%) def. Boulais (32%)
+        UTR: TCU - Fearnley (84%) def. Boulais (16%)
+        ITA: TCU - Fearnley (5.67) def. Boulais (2.92)
+    - Position: 5
+      TCU: Tomas Jirousek - 1-1 at 5, 6-5 in duals, 7-6 overall
+      OSU: Kyle Seelig - 3-0 at 5, 15-4 in duals, 18-8 overall
+      Predictions:
+        AVG: OSU - Seelig (57%) def. Jirousek (43%)
+        SLM: OSU - Seelig (61%) def. Jirousek (39%)
+        TRN: TCU - Jirousek (53%) def. Seelig (47%)
+        MAS: TCU - Jirousek (52%) def. Seelig (48%)
+        UTR: OSU - Seelig (76%) def. Jirousek (24%)
+        ITA: TCU - Jirousek (6.98) def. Seelig (2.02)
+    - Position: 6
+      TCU: Tadeas Paroulek - 1-3 at 6, 7-11 in duals, 7-12 overall
+      OSU: JJ Tracy - 6-0 at 6, 21-1 in duals, 24-3 overall
+      Predictions:
+        AVG: OSU - Tracy (85%) def. Paroulek (15%)
+        SLM: OSU - Tracy (82%) def. Paroulek (18%)
+        TRN: OSU - Tracy (89%) def. Paroulek (11%)
+        MAS: OSU - Tracy (80%) def. Paroulek (20%)
+        UTR: OSU - Tracy (88%) def. Paroulek (12%)
+        ITA: OSU - Tracy (3.11) def. Paroulek (1.35)
+  Doubles:
+    - Position: 1
+      TCU: Gray/Fomba - 10-6 at 1, 11-6 in duals, 13-6 overall
+      OSU: Trotter/Boulais - 3-2 at 1, 7-3 in duals, 7-3 overall
+    - Position: 2
+      TCU: Jong/Paroulek - 8-1 at 2, 10-3 in duals, 11-4 overall
+      OSU: McNally/Cash - 6-1 at 2, 13-4 in duals, 14-5 overall
+    - Position: 3
+      TCU: Kruger/Fearnley - 2-1 at 3, 4-3 in duals, 4-3 overall
+      OSU: Kingsley/Seelig - 1-2 at 3, 2-5 in duals, 5-6 overall
