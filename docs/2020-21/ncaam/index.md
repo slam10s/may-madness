@@ -23,6 +23,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Mon, 5/17 at  7:00 EDT	[Mississippi St. vs #8 Texas A&M](./matches/R3_7-12_MSST_vs_AM.md) ... A&M (86%) / MSST (14%)
 - Mon, 5/17 at 10:00 EDT	[#11 Georgia vs #6 North Carolina](./matches/R3_31-36_UGA_vs_UNC.md) ... UNC (87%) / UGA (13%)
+- Mon, 5/17 at  1:00 EDT	[#15 Ole Miss vs #2 Baylor](./matches/R3_43-48_MISS_vs_BAY.md) ... BAY (90%) / MISS (10%)
 - Mon, 5/17 at 10:00 EDT	[Arizona vs #3 Tennessee](./matches/R3_25-30_ARIZ_vs_TENN.md) ... TENN (93%) / ARIZ (7%)
 ## Second Round
 
@@ -51,7 +52,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sun, 5/09 at  2:00 EDT	[Arizona St. vs #7 TCU](./matches/R2_49-52_AZST_vs_TCU.md) ... <b>TCU (4)</b> / AZST (1)
 - Sat, 5/08 at  2:00 EDT	[Notre Dame vs #16 Illinois](./matches/R2_5-8_ND_vs_ILL.md) ... <b>ILL (4)</b> / ND (0)
 - Sun, 5/09 at  1:00 EDT	[Oklahoma St. vs #6 North Carolina](./matches/R2_45-48_OKST_vs_UNC.md) ... <b>UNC (4)</b> / OKST (0)
-- Sun, 5/09 at  3:00 EDT	[Oregon vs #2 Baylor](./matches/R2_61-64_ORE_vs_BAY.md) ... BAY (97%) / ORE (3%)
+- Sun, 5/09 at  3:00 EDT	[Oregon vs #2 Baylor](./matches/R2_61-64_ORE_vs_BAY.md) ... <b>BAY (4)</b> / ORE (0)
 - Sun, 5/09 at  1:00 EDT	[Memphis vs #3 Tennessee](./matches/R2_33-36_MEM_vs_TENN.md) ... <b>TENN (4)</b> / MEM (0)
 - Sun, 5/09 at  2:00 EDT	[South Fla. vs #1 Florida](./matches/R2_1-4_USF_vs_FLA.md) ... <b>FLA (4)</b> / USF (0)
 ## First Round

@@ -9,7 +9,7 @@ Waco, Texas
 <td>  
 
 <h2>#3 Oregon</h2>  
-&nbsp; Record: 17-6<br>  
+&nbsp; Record: 17-7<br>  
 &nbsp; ITA: 36 (23.55)<br>  
 &nbsp; Slam: 44 (91.52)<br>  
 &nbsp; TRN: 41 (89.70)<br>  
@@ -23,7 +23,7 @@ Waco, Texas
 <td>  
 
 <h2>#1 Baylor</h2>  
-&nbsp; Record: 30-4<br>  
+&nbsp; Record: 31-4<br>  
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 5 (99.05)<br>  
 &#10004; TRN: 6 (98.67)<br>  
@@ -40,6 +40,7 @@ Waco, Texas
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
 
 ## Match Information  
+***Baylor def. Oregon 4-0***  
 Go to [Live Stats](http://www.sidearmstats.com/baylor/mten/)  
 
 ## Predictions  
