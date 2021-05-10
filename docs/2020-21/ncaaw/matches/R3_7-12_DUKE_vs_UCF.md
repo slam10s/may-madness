@@ -6,7 +6,7 @@ Third Round[](#top)<a name="top"></a>
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
-<h2>#2 Duke</h2>  
+<h2>Duke</h2>  
 &nbsp; Record: 17-6<br>  
 &nbsp; ITA: 17 (43.03)<br>  
 &nbsp; Slam: 14 (90.91)<br>  
@@ -20,7 +20,7 @@ Third Round[](#top)<a name="top"></a>
 </td>
 <td>  
 
-<h2>#1 UCF</h2>  
+<h2>#9 UCF</h2>  
 &nbsp; Record: 20-4<br>  
 &#10004; ITA: 9 (52.14)<br>  
 &#10004; Slam: 12 (91.41)<br>  

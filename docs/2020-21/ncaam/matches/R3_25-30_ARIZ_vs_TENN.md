@@ -6,7 +6,7 @@ Third Round[](#top)<a name="top"></a>
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
-<h2>#2 Arizona</h2>  
+<h2>Arizona</h2>  
 &nbsp; Record: 21-7<br>  
 &nbsp; ITA: 17 (38.97)<br>  
 &nbsp; Slam: 21 (94.26)<br>  
@@ -20,7 +20,7 @@ Third Round[](#top)<a name="top"></a>
 </td>
 <td>  
 
-<h2>#1 Tennessee</h2>  
+<h2>#3 Tennessee</h2>  
 &nbsp; Record: 26-3<br>  
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.18)<br>  

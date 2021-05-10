@@ -6,7 +6,7 @@ Third Round[](#top)<a name="top"></a>
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #6F2C3F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
-<h2>#2 Mississippi St.</h2>  
+<h2>Mississippi St.</h2>  
 &nbsp; Record: 18-9<br>  
 &nbsp; ITA: 16 (41.29)<br>  
 &nbsp; Slam: 20 (94.39)<br>  
@@ -20,7 +20,7 @@ Third Round[](#top)<a name="top"></a>
 </td>
 <td>  
 
-<h2>#1 Texas A&M</h2>  
+<h2>#8 Texas A&M</h2>  
 &nbsp; Record: 18-8<br>  
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 11 (96.97)<br>  

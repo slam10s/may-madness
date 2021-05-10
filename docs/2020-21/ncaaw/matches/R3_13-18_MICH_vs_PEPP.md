@@ -6,7 +6,7 @@ Third Round[](#top)<a name="top"></a>
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #F46F1B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
-<h2>#2 Michigan</h2>  
+<h2>Michigan</h2>  
 &nbsp; Record: 19-3<br>  
 &nbsp; ITA: 19 (41.22)<br>  
 &nbsp; Slam: 8 (91.95)<br>  
@@ -20,7 +20,7 @@ Third Round[](#top)<a name="top"></a>
 </td>
 <td>  
 
-<h2>#1 Pepperdine</h2>  
+<h2>#5 Pepperdine</h2>  
 &nbsp; Record: 22-3<br>  
 &#10004; ITA: 5 (60.71)<br>  
 &#10004; Slam: 6 (92.64)<br>  

@@ -6,7 +6,7 @@ Third Round[](#top)<a name="top"></a>
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #CE0F3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
-<h2>#2 Ohio St.</h2>  
+<h2>Ohio St.</h2>  
 &nbsp; Record: 22-3<br>  
 &nbsp; ITA: 31 (26.40)<br>  
 &#10004; Slam: 7 (97.86)<br>  
@@ -20,7 +20,7 @@ Third Round[](#top)<a name="top"></a>
 </td>
 <td>  
 
-<h2>#1 TCU</h2>  
+<h2>#7 TCU</h2>  
 &nbsp; Record: 18-7<br>  
 &#10004; ITA: 7 (69.22)<br>  
 &nbsp; Slam: 9 (97.57)<br>  

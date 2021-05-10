@@ -6,7 +6,7 @@ Third Round[](#top)<a name="top"></a>
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
-<h2>#3 Southern California</h2>  
+<h2>Southern California</h2>  
 &nbsp; Record: 13-10<br>  
 &nbsp; ITA: 35 (23.17)<br>  
 &nbsp; Slam: 35 (87.72)<br>  
@@ -19,7 +19,7 @@ Third Round[](#top)<a name="top"></a>
 </td>
 <td>  
 
-<h2>#1 NC State</h2>  
+<h2>#6 NC State</h2>  
 &nbsp; Record: 18-5<br>  
 &#10004; ITA: 6 (55.66)<br>  
 &#10004; Slam: 11 (91.65)<br>  
