@@ -49,7 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***TENN*** - #3 Tennessee def. #17 Arizona  
 - USTA Poll: ***TENN*** - #4 Tennessee def. #18 Arizona  
 - Coaches Poll: ***TENN*** - #3 Tennessee def. #19 Arizona  
-- Seeding: ***TENN*** - #1 Tennessee def. #2 Arizona  
+- Seeding: ***TENN*** - #3 Tennessee def. #10000 Arizona  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

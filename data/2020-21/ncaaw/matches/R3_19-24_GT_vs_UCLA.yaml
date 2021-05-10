@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: UCLA
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 32
   Seeding:
     Overall: 4
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Georgia Tech
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 25
   Seeding:
     Overall: 13
@@ -50,6 +50,7 @@ Predictions:
   ITA: "UCLA - #4 UCLA def. #13 Georgia Tech"
   USTA: "UCLA - #4 UCLA def. #15 Georgia Tech"
   Coach: "UCLA - #5 UCLA def. #11 Georgia Tech"
+  Seeding: "UCLA - #4 UCLA def. #13 Georgia Tech"
 Lineups:
   Predictions:
     Average EWPs for UCLA: 82%,77%,93%,94%

@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***BAY*** - #1 Baylor def. #14 Ole Miss  
 - USTA Poll: ***BAY*** - #3 Baylor def. #21 Ole Miss  
 - Coaches Poll: ***BAY*** - #1 Baylor def. #16 Ole Miss  
+- Seeding: ***BAY*** - #2 Baylor def. #15 Ole Miss  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

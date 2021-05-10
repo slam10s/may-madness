@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Virginia
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 17
   Seeding:
     Overall: 5
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Southern California
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 24
   Seeding:
     Overall: 12
@@ -50,6 +50,7 @@ Predictions:
   ITA: "UVA - #4 Virginia def. #12 Southern California"
   USTA: "UVA - #1 Virginia def. #13 Southern California"
   Coach: "UVA - #5 Virginia def. #12 Southern California"
+  Seeding: "UVA - #5 Virginia def. #12 Southern California"
 Lineups:
   Predictions:
     Average EWPs for UVA: 88%,96%,56%,44%

@@ -49,7 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***TCU*** - #7 TCU def. #31 Ohio St.  
 - USTA Poll: ***OSU*** - #7 Ohio St. def. #9 TCU  
 - Coaches Poll: ***TCU*** - #7 TCU def. #17 Ohio St.  
-- Seeding: ***TCU*** - #1 TCU def. #2 Ohio St.  
+- Seeding: ***TCU*** - #7 TCU def. #10000 Ohio St.  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

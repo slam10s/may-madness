@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Texas
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 32
   Seeding:
     Overall: 4
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: South Carolina
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 25
   Seeding:
     Overall: 13
@@ -50,6 +50,7 @@ Predictions:
   ITA: "TEX - #5 Texas def. #13 South Carolina"
   USTA: "TEX - #6 Texas def. #15 South Carolina"
   Coach: "TEX - #4 Texas def. #13 South Carolina"
+  Seeding: "TEX - #4 Texas def. #13 South Carolina"
 Lineups:
   Predictions:
     Average EWPs for TEX: 69%,85%,60%,40%

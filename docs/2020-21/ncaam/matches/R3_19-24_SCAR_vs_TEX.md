@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***TEX*** - #5 Texas def. #13 South Carolina  
 - USTA Poll: ***TEX*** - #6 Texas def. #15 South Carolina  
 - Coaches Poll: ***TEX*** - #4 Texas def. #13 South Carolina  
+- Seeding: ***TEX*** - #4 Texas def. #13 South Carolina  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

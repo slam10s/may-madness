@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Georgia
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 33
   Seeding:
     Overall: 3
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Virginia
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 40
   Seeding:
     Overall: 14
@@ -50,6 +50,7 @@ Predictions:
   ITA: "UGA - #3 Georgia def. #14 Virginia"
   USTA: "UGA - #3 Georgia def. #10 Virginia"
   Coach: "UGA - #3 Georgia def. #11 Virginia"
+  Seeding: "UGA - #3 Georgia def. #14 Virginia"
 Lineups:
   Predictions:
     Average EWPs for UGA: 96%,99%,87%,95%

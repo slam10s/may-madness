@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***FLA*** - #2 Florida def. #18 Illinois  
 - USTA Poll: ***FLA*** - #2 Florida def. #8 Illinois  
 - Coaches Poll: ***FLA*** - #2 Florida def. #13 Illinois  
+- Seeding: ***FLA*** - #1 Florida def. #16 Illinois  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

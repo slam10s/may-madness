@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***FSU*** - #7 Florida St. def. #10 Texas A&M  
 - USTA Poll: ***FSU*** - #12 Florida St. def. #17 Texas A&M  
 - Coaches Poll: ***FSU*** - #7 Florida St. def. #10 Texas A&M  
+- Seeding: ***FSU*** - #7 Florida St. def. #10 Texas A&M  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

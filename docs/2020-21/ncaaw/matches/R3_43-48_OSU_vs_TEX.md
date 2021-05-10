@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***TEX*** - #2 Texas def. #18 Ohio St.  
 - USTA Poll: ***TEX*** - #2 Texas def. #6 Ohio St.  
 - Coaches Poll: ***TEX*** - #2 Texas def. #13 Ohio St.  
+- Seeding: ***TEX*** - #2 Texas def. #15 Ohio St.  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

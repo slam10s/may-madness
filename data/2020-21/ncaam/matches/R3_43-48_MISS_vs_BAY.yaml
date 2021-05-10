@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Baylor
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 64
   Seeding:
     Overall: 2
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Ole Miss
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 57
   Seeding:
     Overall: 15
@@ -50,6 +50,7 @@ Predictions:
   ITA: "BAY - #1 Baylor def. #14 Ole Miss"
   USTA: "BAY - #3 Baylor def. #21 Ole Miss"
   Coach: "BAY - #1 Baylor def. #16 Ole Miss"
+  Seeding: "BAY - #2 Baylor def. #15 Ole Miss"
 Lineups:
   Predictions:
     Average EWPs for BAY: 91%,95%,82%,93%

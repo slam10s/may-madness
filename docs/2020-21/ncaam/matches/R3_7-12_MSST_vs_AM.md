@@ -49,7 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***A&M*** - #8 Texas A&M def. #16 Mississippi St.  
 - USTA Poll: ***A&M*** - #14 Texas A&M def. #23 Mississippi St.  
 - Coaches Poll: ***A&M*** - #8 Texas A&M def. #18 Mississippi St.  
-- Seeding: ***A&M*** - #1 Texas A&M def. #2 Mississippi St.  
+- Seeding: ***A&M*** - #8 Texas A&M def. #10000 Mississippi St.  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

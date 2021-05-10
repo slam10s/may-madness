@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Texas
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 64
   Seeding:
     Overall: 2
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Ohio St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 57
   Seeding:
     Overall: 15
@@ -50,6 +50,7 @@ Predictions:
   ITA: "TEX - #2 Texas def. #18 Ohio St."
   USTA: "TEX - #2 Texas def. #6 Ohio St."
   Coach: "TEX - #2 Texas def. #13 Ohio St."
+  Seeding: "TEX - #2 Texas def. #15 Ohio St."
 Lineups:
   Predictions:
     Average EWPs for TEX: 95%,99%,90%,97%

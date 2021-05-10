@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: North Carolina
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 48
   Seeding:
     Overall: 6
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Georgia
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 41
   Seeding:
     Overall: 11
@@ -50,6 +50,7 @@ Predictions:
   ITA: "UNC - #6 North Carolina def. #11 Georgia"
   USTA: "UNC - #5 North Carolina def. #16 Georgia"
   Coach: "UNC - #6 North Carolina def. #11 Georgia"
+  Seeding: "UNC - #6 North Carolina def. #11 Georgia"
 Lineups:
   Predictions:
     Average EWPs for UNC: 86%,92%,77%,91%

@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***UGA*** - #3 Georgia def. #14 Virginia  
 - USTA Poll: ***UGA*** - #3 Georgia def. #10 Virginia  
 - Coaches Poll: ***UGA*** - #3 Georgia def. #11 Virginia  
+- Seeding: ***UGA*** - #3 Georgia def. #14 Virginia  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

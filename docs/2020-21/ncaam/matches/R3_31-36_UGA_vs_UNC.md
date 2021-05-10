@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***UNC*** - #6 North Carolina def. #11 Georgia  
 - USTA Poll: ***UNC*** - #5 North Carolina def. #16 Georgia  
 - Coaches Poll: ***UNC*** - #6 North Carolina def. #11 Georgia  
+- Seeding: ***UNC*** - #6 North Carolina def. #11 Georgia  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Florida
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 1
   Seeding:
     Overall: 1
@@ -26,7 +26,7 @@ Home:
 Visitor:
   Team: Illinois
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 8
   Seeding:
     Overall: 16
@@ -50,6 +50,7 @@ Predictions:
   ITA: "FLA - #2 Florida def. #18 Illinois"
   USTA: "FLA - #2 Florida def. #8 Illinois"
   Coach: "FLA - #2 Florida def. #13 Illinois"
+  Seeding: "FLA - #1 Florida def. #16 Illinois"
 Lineups:
   Predictions:
     Average EWPs for FLA: 63%,52%,88%,82%

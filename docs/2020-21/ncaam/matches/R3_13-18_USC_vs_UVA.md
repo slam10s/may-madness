@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***UVA*** - #4 Virginia def. #12 Southern California  
 - USTA Poll: ***UVA*** - #1 Virginia def. #13 Southern California  
 - Coaches Poll: ***UVA*** - #5 Virginia def. #12 Southern California  
+- Seeding: ***UVA*** - #5 Virginia def. #12 Southern California  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

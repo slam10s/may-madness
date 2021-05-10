@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***UCLA*** - #4 UCLA def. #13 Georgia Tech  
 - USTA Poll: ***UCLA*** - #4 UCLA def. #15 Georgia Tech  
 - Coaches Poll: ***UCLA*** - #5 UCLA def. #11 Georgia Tech  
+- Seeding: ***UCLA*** - #4 UCLA def. #13 Georgia Tech  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

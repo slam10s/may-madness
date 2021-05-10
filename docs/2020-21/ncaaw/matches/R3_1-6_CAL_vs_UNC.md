@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***UNC*** - #1 North Carolina def. #16 California  
 - USTA Poll: ***UNC*** - #1 North Carolina def. #13 California  
 - Coaches Poll: ***UNC*** - #1 North Carolina def. #17 California  
+- Seeding: ***UNC*** - #1 North Carolina def. #16 California  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

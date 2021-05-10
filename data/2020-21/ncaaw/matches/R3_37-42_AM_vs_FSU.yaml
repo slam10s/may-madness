@@ -9,7 +9,7 @@ Winner: TBD
 Home:
   Team: Florida St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png
-  Entry: At-Large Bid
+  Entry: Regional Host
   Draw Line: 49
   Seeding:
     Overall: 7
@@ -50,6 +50,7 @@ Predictions:
   ITA: "FSU - #7 Florida St. def. #10 Texas A&M"
   USTA: "FSU - #12 Florida St. def. #17 Texas A&M"
   Coach: "FSU - #7 Florida St. def. #10 Texas A&M"
+  Seeding: "FSU - #7 Florida St. def. #10 Texas A&M"
 Lineups:
   Predictions:
     Average EWPs for FSU: 63%,64%,69%,84%
