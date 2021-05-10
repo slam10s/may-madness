@@ -82,7 +82,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Sat, 5/08 at 10:00 EDT	[LSU vs Stanford](./matches/R1_19-20_LSU_vs_STAN.md) ... <b>STAN (4)</b> / LSU (0)
 - Fri, 5/07 at  1:00 EDT	[UC Santa Barbara vs Pepperdine](./matches/R1_21-22_UCSB_vs_PEPP.md) ... <b>PEPP (4)</b> / UCSB (1)
-- Fri, 5/07 at 10:00 EDT	[FGCU vs NC State](./matches/R1_27-28_FGCU_vs_NCST.md) ... NCST (97%) / FGCU (3%)
+- Fri, 5/07 at 10:00 EDT	[FGCU vs NC State](./matches/R1_27-28_FGCU_vs_NCST.md) ... <b>NCST (0)</b> / FGCU (0)
 - Fri, 5/07 at  2:00 EDT	[VCU vs Ohio St.](./matches/R1_53-54_VCU_vs_OSU.md) ... <b>OSU (4)</b> / VCU (1)
 - Sat, 5/08 at 10:00 EDT	[Navy vs Oklahoma St.](./matches/R1_45-46_NAVY_vs_OKST.md) ... <b>OKST (4)</b> / NAVY (0)
 - Fri, 5/07 at  1:00 EDT	[UNCW vs #13 South Carolina](./matches/R1_25-26_UNCW_vs_SCAR.md) ... <b>SCAR (4)</b> / UNCW (0)

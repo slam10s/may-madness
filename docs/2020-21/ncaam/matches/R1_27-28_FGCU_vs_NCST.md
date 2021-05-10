@@ -37,6 +37,9 @@ Columbia, South Carolina
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
 
+## Match Information  
+***N.C. State def. Florida Gulf Coast 0-0***  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
