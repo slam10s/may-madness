@@ -23,7 +23,7 @@ Here's daily listings of the matches by start time:
 - [Saturday, May 8](./docs/2020-21/schedule/05-08.md) - 1st & 2nd Rounds (Men & Women)
 - [Friday, May 7](./docs/2020-21/schedule/05-07.md) - 1st Round (Men & Women)
 
-## The Metrics...
+## The Metrics
 
 We're not pushing any particular metrics on you. All the different metrics have their own strengths and weaknesses. We just aggregate the different ones and let you decide which one(s) you like.
 
