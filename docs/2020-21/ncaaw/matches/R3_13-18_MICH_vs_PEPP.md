@@ -49,7 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***PEPP*** - #5 Pepperdine def. #19 Michigan  
 - USTA Poll: ***PEPP*** - #5 Pepperdine def. #7 Michigan  
 - Coaches Poll: ***PEPP*** - #4 Pepperdine def. #18 Michigan  
-- Seeding: ***PEPP*** - #5 Pepperdine def. #10000 Michigan  
+- Seeding: ***PEPP*** - #5 Pepperdine def. Michigan  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

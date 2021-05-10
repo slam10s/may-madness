@@ -49,7 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***UCF*** - #9 UCF def. #17 Duke  
 - USTA Poll: ***UCF*** - #9 UCF def. #14 Duke  
 - Coaches Poll: ***UCF*** - #9 UCF def. #20 Duke  
-- Seeding: ***UCF*** - #9 UCF def. #10000 Duke  
+- Seeding: ***UCF*** - #9 UCF def. Duke  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  

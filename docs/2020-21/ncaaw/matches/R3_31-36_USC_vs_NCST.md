@@ -48,7 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - ITA: ***NCST*** - #6 NC State def. #35 Southern California  
 - USTA Poll: ***NCST*** - #11 NC State def. Southern California  
 - Coaches Poll: ***NCST*** - #6 NC State def. #34 Southern California  
-- Seeding: ***NCST*** - #6 NC State def. #10000 Southern California  
+- Seeding: ***NCST*** - #6 NC State def. Southern California  
 
 ## Individual Matchups  
 This assumes the top players and doubles teams listed are starting.  
