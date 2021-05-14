@@ -29,7 +29,7 @@ Raleigh, North Carolina
 &#10004; Massey: 27 (7.41)<br>  
 &#10004; UTR: 29 (61.31)<br>  
 &#10004; USTA Poll: RV (12.00)<br>  
-&nbsp; Coaches Poll: 23<br>  
+&#10004; Coaches Poll: 23<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***SCAR*** - #29 South Carolina (+2.24) def. #39 Iowa St. (-2.24)  
 - ITA: ***SCAR*** - #24 South Carolina def. #36 Iowa St.  
 - USTA Poll: ***SCAR*** - RV South Carolina def. Iowa St.  
+- Coaches Poll: ***SCAR*** - #23 South Carolina def. #36 Iowa St.  
 - Seeding: ***SCAR*** - #2 South Carolina def. #3 Iowa St.  
 
 ## Individual Matchups  

@@ -30,7 +30,7 @@ Evanston, Illinois
 &nbsp; Massey: 23 (7.76)<br>  
 &#10004; UTR: 21 (61.70)<br>  
 &nbsp; USTA Poll: 18 (129.00)<br>  
-&nbsp; Coaches Poll: 10<br>  
+&#10004; Coaches Poll: 10<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***A&M*** - #21 Texas A&M (+1.27) def. #33 Northwestern (-1.27)  
 - ITA: ***A&M*** - #10 Texas A&M def. #21 Northwestern  
 - USTA Poll: ***NW*** - #17 Northwestern def. #18 Texas A&M  
+- Coaches Poll: ***A&M*** - #10 Texas A&M def. #19 Northwestern  
 - Seeding: ***A&M*** - #1 Texas A&M def. #2 Northwestern  
 
 ## Individual Matchups  

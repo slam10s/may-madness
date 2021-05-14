@@ -28,7 +28,7 @@ Evanston, Illinois
 &#10004; Massey: 20 (7.78)<br>  
 &#10004; UTR: 33 (60.43)<br>  
 &#10004; USTA Poll: 17 (133.00)<br>  
-&nbsp; Coaches Poll: 19<br>  
+&#10004; Coaches Poll: 19<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***NW*** - #33 Northwestern (+36.37) def. #64 Xavier (-36.37)  
 - ITA: ***NW*** - #21 Northwestern def. #56 Xavier  
 - USTA Poll: ***NW*** - #17 Northwestern def. Xavier  
+- Coaches Poll: ***NW*** - #19 Northwestern def. Xavier  
 - Seeding: ***NW*** - #2 Northwestern def. #3 Xavier  
 
 ## Individual Matchups  

@@ -29,7 +29,7 @@ Chapel Hill, North Carolina
 &#10004; Massey: 29 (7.37)<br>  
 &#10004; UTR: 37 (59.77)<br>  
 &#10004; USTA Poll: RV (3.00)<br>  
-&nbsp; Coaches Poll: 32<br>  
+&#10004; Coaches Poll: 32<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***ODU*** - #37 Old Dominion (+0.12) def. #38 Arkansas (-0.12)  
 - ITA: ***ODU*** - #29 Old Dominion def. #33 Arkansas  
 - USTA Poll: ***ODU*** - RV Old Dominion def. Arkansas  
+- Coaches Poll: ***ODU*** - #32 Old Dominion def. #33 Arkansas  
 - Seeding: ***ODU*** - #2 Old Dominion def. #3 Arkansas  
 
 ## Individual Matchups  

@@ -30,7 +30,7 @@ Lexington, Kentucky
 &nbsp; Massey: 17 (8.12)<br>  
 &#10004; UTR: 16 (78.88)<br>  
 &#10004; USTA Poll: 19 (111.00)<br>  
-&nbsp; Coaches Poll: 15<br>  
+&#10004; Coaches Poll: 15<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UK*** - #16 Kentucky (+0.53) def. #21 Arizona (-0.53)  
 - ITA: ***UK*** - #15 Kentucky def. #18 Arizona  
 - USTA Poll: ***UK*** - #19 Kentucky def. #20 Arizona  
+- Coaches Poll: ***UK*** - #15 Kentucky def. #19 Arizona  
 - Seeding: ***UK*** - #1 Kentucky def. #2 Arizona  
 
 ## Individual Matchups  

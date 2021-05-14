@@ -28,7 +28,7 @@ Third Round[](#top)<a name="top"></a>
 &#10004; Massey: 2 (9.17)<br>  
 &#10004; UTR: 4 (80.17)<br>  
 &#10004; USTA Poll: 6 (290.00)<br>  
-&nbsp; Coaches Poll: 3<br>  
+&#10004; Coaches Poll: 3<br>  
 <br>  
 
 </td>
@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***TENN*** - #4 Tennessee (+1.82) def. #21 Arizona (-1.82)  
 - ITA: ***TENN*** - #3 Tennessee def. #18 Arizona  
 - USTA Poll: ***TENN*** - #6 Tennessee def. #20 Arizona  
+- Coaches Poll: ***TENN*** - #3 Tennessee def. #19 Arizona  
 - Seeding: ***TENN*** - #3 Tennessee def. Arizona  
 
 ## Individual Matchups  

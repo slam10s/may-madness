@@ -28,7 +28,7 @@ Third Round[](#top)<a name="top"></a>
 &#10004; Massey: 2 (9.38)<br>  
 &#10004; UTR: 1 (65.59)<br>  
 &#10004; USTA Poll: 3 (312.00)<br>  
-&nbsp; Coaches Poll: 2<br>  
+&#10004; Coaches Poll: 2<br>  
 <br>  
 
 </td>
@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***TEX*** - #1 Texas (+4.06) def. #25 Ohio St. (-4.06)  
 - ITA: ***TEX*** - #2 Texas def. #16 Ohio St.  
 - USTA Poll: ***TEX*** - #3 Texas def. #7 Ohio St.  
+- Coaches Poll: ***TEX*** - #2 Texas def. #13 Ohio St.  
 - Seeding: ***TEX*** - #2 Texas def. #15 Ohio St.  
 
 ## Individual Matchups  

@@ -30,7 +30,7 @@ Fort Worth, Texas
 &#10004; Massey: 6 (8.76)<br>  
 &#10004; UTR: 10 (79.71)<br>  
 &#10004; USTA Poll: 11 (217.00)<br>  
-&nbsp; Coaches Poll: 7<br>  
+&#10004; Coaches Poll: 7<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***TCU*** - #10 TCU (+1.68) def. #23 Arizona St. (-1.68)  
 - ITA: ***TCU*** - #7 TCU def. #20 Arizona St.  
 - USTA Poll: ***TCU*** - #11 TCU def. #21 Arizona St.  
+- Coaches Poll: ***TCU*** - #7 TCU def. #22 Arizona St.  
 - Seeding: ***TCU*** - #1 TCU def. #2 Arizona St.  
 
 ## Individual Matchups  

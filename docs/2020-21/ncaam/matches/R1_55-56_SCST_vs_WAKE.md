@@ -28,7 +28,7 @@ Winston-Salem, North Carolina
 &#10004; Massey: 13 (8.43)<br>  
 &#10004; UTR: 7 (79.79)<br>  
 &#10004; USTA Poll: 14 (196.00)<br>  
-&nbsp; Coaches Poll: 10<br>  
+&#10004; Coaches Poll: 10<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***WAKE*** - #7 Wake Forest (+12.80) def. #62 South Carolina St. (-12.80)  
 - ITA: ***WAKE*** - #9 Wake Forest def. #64 South Carolina St.  
 - USTA Poll: ***WAKE*** - #14 Wake Forest def. South Carolina St.  
+- Coaches Poll: ***WAKE*** - #10 Wake Forest def. South Carolina St.  
 - Seeding: ***WAKE*** - #1 Wake Forest def. #4 South Carolina St.  
 
 ## Individual Matchups  

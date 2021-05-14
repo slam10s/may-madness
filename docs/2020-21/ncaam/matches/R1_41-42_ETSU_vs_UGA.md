@@ -28,7 +28,7 @@ Athens, Georgia
 &#10004; Massey: 15 (8.18)<br>  
 &#10004; UTR: 19 (78.43)<br>  
 &#10004; USTA Poll: 18 (131.00)<br>  
-&nbsp; Coaches Poll: 11<br>  
+&#10004; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UGA*** - #19 Georgia (+4.52) def. #49 ETSU (-4.52)  
 - ITA: ***UGA*** - #11 Georgia def. #49 ETSU  
 - USTA Poll: ***UGA*** - #18 Georgia def. ETSU  
+- Coaches Poll: ***UGA*** - #11 Georgia def. ETSU  
 - Seeding: ***UGA*** - #1 Georgia def. #4 ETSU  
 
 ## Individual Matchups  

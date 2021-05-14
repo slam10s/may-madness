@@ -28,7 +28,7 @@ College Station, Texas
 &#10004; Massey: 12 (8.53)<br>  
 &#10004; UTR: 8 (79.76)<br>  
 &#10004; USTA Poll: 16 (156.00)<br>  
-&nbsp; Coaches Poll: 8<br>  
+&#10004; Coaches Poll: 8<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***A&M*** - #8 Texas A&M (+5.97) def. #50 New Mexico (-5.97)  
 - ITA: ***A&M*** - #8 Texas A&M def. #52 New Mexico  
 - USTA Poll: ***A&M*** - #16 Texas A&M def. New Mexico  
+- Coaches Poll: ***A&M*** - #8 Texas A&M def. New Mexico  
 - Seeding: ***A&M*** - #1 Texas A&M def. #4 New Mexico  
 
 ## Individual Matchups  

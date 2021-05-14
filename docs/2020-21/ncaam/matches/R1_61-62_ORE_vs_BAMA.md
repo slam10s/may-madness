@@ -28,7 +28,7 @@ Waco, Texas
 &#10004; TRN: 27 (91.27)<br>  
 &nbsp; Massey: 39 (7.31)<br>  
 &#10004; UTR: 30 (77.06)<br>  
-&nbsp; Coaches Poll: 25<br>  
+&#10004; Coaches Poll: 25<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***BAMA*** - Alabama (59%) def. Oregon (41%)  
 - UTR: ***BAMA*** - #30 Alabama (+0.28) def. #33 Oregon (-0.28)  
 - ITA: ***BAMA*** - #26 Alabama def. #37 Oregon  
+- Coaches Poll: ***BAMA*** - #25 Alabama def. #41 Oregon  
 - Seeding: ***BAMA*** - #2 Alabama def. #3 Oregon  
 
 ## Individual Matchups  

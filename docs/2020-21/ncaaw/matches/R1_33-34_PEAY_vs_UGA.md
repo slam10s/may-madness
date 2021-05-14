@@ -28,7 +28,7 @@ Athens, Georgia
 &#10004; Massey: 3 (9.29)<br>  
 &#10004; UTR: 3 (64.69)<br>  
 &#10004; USTA Poll: 4 (299.00)<br>  
-&nbsp; Coaches Poll: 3<br>  
+&#10004; Coaches Poll: 3<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UGA*** - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)  
 - ITA: ***UGA*** - #3 Georgia def. #57 Austin Peay  
 - USTA Poll: ***UGA*** - #4 Georgia def. Austin Peay  
+- Coaches Poll: ***UGA*** - #3 Georgia def. Austin Peay  
 - Seeding: ***UGA*** - #1 Georgia def. #4 Austin Peay  
 
 ## Individual Matchups  

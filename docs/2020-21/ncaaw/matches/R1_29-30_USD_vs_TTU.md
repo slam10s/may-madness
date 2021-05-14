@@ -28,7 +28,7 @@ Los Angeles, California
 &#10004; TRN: 34 (79.75)<br>  
 &#10004; Massey: 28 (7.39)<br>  
 &#10004; UTR: 27 (61.44)<br>  
-&nbsp; Coaches Poll: 29<br>  
+&#10004; Coaches Poll: 29<br>  
 <br>  
 
 </td>
@@ -50,6 +50,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***TTU*** - Texas Tech (62%) def. San Diego (38%)  
 - UTR: ***TTU*** - #27 Texas Tech (+0.87) def. #32 San Diego (-0.87)  
 - ITA: ***TTU*** - #30 Texas Tech def. #39 San Diego  
+- Coaches Poll: ***TTU*** - #29 Texas Tech def. #42 San Diego  
 - Seeding: ***TTU*** - #2 Texas Tech def. #3 San Diego  
 
 ## Individual Matchups  

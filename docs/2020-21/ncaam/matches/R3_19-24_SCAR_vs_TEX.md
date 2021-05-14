@@ -28,7 +28,7 @@ Third Round[](#top)<a name="top"></a>
 &#10004; Massey: 11 (8.54)<br>  
 &#10004; UTR: 14 (79.01)<br>  
 &#10004; USTA Poll: 8 (263.00)<br>  
-&nbsp; Coaches Poll: 4<br>  
+&#10004; Coaches Poll: 4<br>  
 <br>  
 
 </td>
@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***TEX*** - #14 Texas (+0.32) def. #17 South Carolina (-0.32)  
 - ITA: ***TEX*** - #4 Texas def. #13 South Carolina  
 - USTA Poll: ***TEX*** - #8 Texas def. #17 South Carolina  
+- Coaches Poll: ***TEX*** - #4 Texas def. #13 South Carolina  
 - Seeding: ***TEX*** - #4 Texas def. #13 South Carolina  
 
 ## Individual Matchups  

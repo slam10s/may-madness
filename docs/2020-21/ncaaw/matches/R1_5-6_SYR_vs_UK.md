@@ -29,7 +29,7 @@ Berkeley, California
 &#10004; Massey: 33 (7.29)<br>  
 &#10004; UTR: 34 (60.15)<br>  
 &#10004; USTA Poll: 26 (16.00)<br>  
-&nbsp; Coaches Poll: 27<br>  
+&#10004; Coaches Poll: 27<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UK*** - #34 Kentucky (+1.47) def. #43 Syracuse (-1.47)  
 - ITA: ***UK*** - #26 Kentucky def. #42 Syracuse  
 - USTA Poll: ***UK*** - #26 Kentucky def. Syracuse  
+- Coaches Poll: ***UK*** - #27 Kentucky def. #41 Syracuse  
 - Seeding: ***UK*** - #2 Kentucky def. #3 Syracuse  
 
 ## Individual Matchups  

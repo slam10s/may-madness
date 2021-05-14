@@ -29,7 +29,7 @@ Athens, Georgia
 &#10004; Massey: 3 (9.29)<br>  
 &#10004; UTR: 3 (64.69)<br>  
 &#10004; USTA Poll: 4 (299.00)<br>  
-&nbsp; Coaches Poll: 3<br>  
+&#10004; Coaches Poll: 3<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UGA*** - #3 Georgia (+3.99) def. #31 Wake Forest (-3.99)  
 - ITA: ***UGA*** - #3 Georgia def. #32 Wake Forest  
 - USTA Poll: ***UGA*** - #4 Georgia def. Wake Forest  
+- Coaches Poll: ***UGA*** - #3 Georgia def. #31 Wake Forest  
 - Seeding: ***UGA*** - #1 Georgia def. #2 Wake Forest  
 
 ## Individual Matchups  

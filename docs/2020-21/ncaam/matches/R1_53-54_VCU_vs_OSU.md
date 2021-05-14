@@ -29,7 +29,7 @@ Winston-Salem, North Carolina
 &#10004; Massey: 10 (8.60)<br>  
 &#10004; UTR: 3 (80.28)<br>  
 &#10004; USTA Poll: 9 (239.00)<br>  
-&nbsp; Coaches Poll: 17<br>  
+&#10004; Coaches Poll: 17<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***OSU*** - #3 Ohio St. (+3.21) def. #29 VCU (-3.21)  
 - ITA: ***OSU*** - #35 Ohio St. def. #36 VCU  
 - USTA Poll: ***OSU*** - #9 Ohio St. def. VCU  
+- Coaches Poll: ***OSU*** - #17 Ohio St. def. #38 VCU  
 - Seeding: ***OSU*** - #2 Ohio St. def. #3 VCU  
 
 ## Individual Matchups  

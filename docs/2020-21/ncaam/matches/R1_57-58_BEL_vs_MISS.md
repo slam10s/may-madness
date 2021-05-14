@@ -28,7 +28,7 @@ Oxford, Mississippi
 &#10004; Massey: 21 (7.84)<br>  
 &#10004; UTR: 25 (77.70)<br>  
 &#10004; USTA Poll: 23 (73.00)<br>  
-&nbsp; Coaches Poll: 16<br>  
+&#10004; Coaches Poll: 16<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***MISS*** - #25 Ole Miss (+6.71) def. #56 Belmont (-6.71)  
 - ITA: ***MISS*** - #14 Ole Miss def. #56 Belmont  
 - USTA Poll: ***MISS*** - #23 Ole Miss def. Belmont  
+- Coaches Poll: ***MISS*** - #16 Ole Miss def. Belmont  
 - Seeding: ***MISS*** - #1 Ole Miss def. #4 Belmont  
 
 ## Individual Matchups  

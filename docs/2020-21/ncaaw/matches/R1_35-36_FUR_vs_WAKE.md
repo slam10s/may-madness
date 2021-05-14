@@ -29,7 +29,7 @@ Athens, Georgia
 &#10004; TRN: 31 (80.20)<br>  
 &#10004; Massey: 34 (7.13)<br>  
 &#10004; UTR: 31 (60.70)<br>  
-&nbsp; Coaches Poll: 31<br>  
+&#10004; Coaches Poll: 31<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***WAKE*** - #31 Wake Forest (+1.68) def. #41 Furman (-1.68)  
 - ITA: ***WAKE*** - #32 Wake Forest def. #34 Furman  
 - USTA Poll: ***FUR*** - RV Furman def. Wake Forest  
+- Coaches Poll: ***WAKE*** - #31 Wake Forest def. #35 Furman  
 - Seeding: ***WAKE*** - #2 Wake Forest def. #3 Furman  
 
 ## Individual Matchups  

@@ -28,7 +28,7 @@ Third Round[](#top)<a name="top"></a>
 &#10004; Massey: 1 (9.82)<br>  
 &#10004; UTR: 2 (65.21)<br>  
 &#10004; USTA Poll: 2 (325.00)<br>  
-&nbsp; Coaches Poll: 1<br>  
+&#10004; Coaches Poll: 1<br>  
 <br>  
 
 </td>
@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UNC*** - #2 North Carolina (+3.06) def. #15 California (-3.06)  
 - ITA: ***UNC*** - #1 North Carolina def. #17 California  
 - USTA Poll: ***UNC*** - #2 North Carolina def. #14 California  
+- Coaches Poll: ***UNC*** - #1 North Carolina def. #17 California  
 - Seeding: ***UNC*** - #1 North Carolina def. #16 California  
 
 ## Individual Matchups  

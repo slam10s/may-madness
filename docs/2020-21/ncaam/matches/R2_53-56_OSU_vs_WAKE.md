@@ -30,7 +30,7 @@ Winston-Salem, North Carolina
 &nbsp; Massey: 13 (8.43)<br>  
 &nbsp; UTR: 7 (79.79)<br>  
 &nbsp; USTA Poll: 14 (196.00)<br>  
-&nbsp; Coaches Poll: 10<br>  
+&#10004; Coaches Poll: 10<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***OSU*** - #3 Ohio St. (+0.49) def. #7 Wake Forest (-0.49)  
 - ITA: ***WAKE*** - #9 Wake Forest def. #35 Ohio St.  
 - USTA Poll: ***OSU*** - #9 Ohio St. def. #14 Wake Forest  
+- Coaches Poll: ***WAKE*** - #10 Wake Forest def. #17 Ohio St.  
 - Seeding: ***WAKE*** - #1 Wake Forest def. #2 Ohio St.  
 
 ## Individual Matchups  

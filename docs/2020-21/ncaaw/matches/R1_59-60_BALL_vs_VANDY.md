@@ -27,7 +27,7 @@ Columbus, Ohio
 &#10004; TRN: 30 (81.13)<br>  
 &#10004; Massey: 31 (7.33)<br>  
 &#10004; UTR: 28 (61.39)<br>  
-&nbsp; Coaches Poll: 28<br>  
+&#10004; Coaches Poll: 28<br>  
 <br>  
 
 </td>
@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***VANDY*** - Vanderbilt (99%) def. Ball St. (1%)  
 - UTR: ***VANDY*** - #28 Vanderbilt (+6.81) def. #51 Ball St. (-6.81)  
 - ITA: ***VANDY*** - #28 Vanderbilt def. #54 Ball St.  
+- Coaches Poll: ***VANDY*** - #28 Vanderbilt def. Ball St.  
 - Seeding: ***VANDY*** - #2 Vanderbilt def. #3 Ball St.  
 
 ## Individual Matchups  

@@ -29,7 +29,7 @@ Urbana, Illinois
 &#10004; TRN: 42 (89.57)<br>  
 &#10004; Massey: 36 (7.36)<br>  
 &#10004; UTR: 38 (76.38)<br>  
-&nbsp; Coaches Poll: 37<br>  
+&#10004; Coaches Poll: 37<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***ND*** - #38 Notre Dame (+3.43) def. #52 Western Mich. (-3.43)  
 - ITA: ***ND*** - #34 Notre Dame def. #41 Western Mich.  
 - USTA Poll: ***WMU*** - RV Western Mich. def. Notre Dame  
+- Coaches Poll: ***ND*** - #37 Notre Dame def. #45 Western Mich.  
 - Seeding: ***ND*** - #2 Notre Dame def. #3 Western Mich.  
 
 ## Individual Matchups  

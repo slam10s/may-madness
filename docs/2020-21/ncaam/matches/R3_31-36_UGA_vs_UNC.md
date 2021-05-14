@@ -28,7 +28,7 @@ Third Round[](#top)<a name="top"></a>
 &#10004; Massey: 4 (8.94)<br>  
 &#10004; UTR: 11 (79.64)<br>  
 &#10004; USTA Poll: 7 (282.00)<br>  
-&nbsp; Coaches Poll: 6<br>  
+&#10004; Coaches Poll: 6<br>  
 <br>  
 
 </td>
@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UNC*** - #11 North Carolina (+1.21) def. #19 Georgia (-1.21)  
 - ITA: ***UNC*** - #6 North Carolina def. #11 Georgia  
 - USTA Poll: ***UNC*** - #7 North Carolina def. #18 Georgia  
+- Coaches Poll: ***UNC*** - #6 North Carolina def. #11 Georgia  
 - Seeding: ***UNC*** - #6 North Carolina def. #11 Georgia  
 
 ## Individual Matchups  

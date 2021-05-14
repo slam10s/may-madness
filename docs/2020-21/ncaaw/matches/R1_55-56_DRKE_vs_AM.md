@@ -28,7 +28,7 @@ Evanston, Illinois
 &#10004; Massey: 23 (7.76)<br>  
 &#10004; UTR: 21 (61.70)<br>  
 &#10004; USTA Poll: 18 (129.00)<br>  
-&nbsp; Coaches Poll: 10<br>  
+&#10004; Coaches Poll: 10<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***A&M*** - #21 Texas A&M (+10.83) def. #59 Drake (-10.83)  
 - ITA: ***A&M*** - #10 Texas A&M def. #63 Drake  
 - USTA Poll: ***A&M*** - #18 Texas A&M def. Drake  
+- Coaches Poll: ***A&M*** - #10 Texas A&M def. Drake  
 - Seeding: ***A&M*** - #1 Texas A&M def. #4 Drake  
 
 ## Individual Matchups  

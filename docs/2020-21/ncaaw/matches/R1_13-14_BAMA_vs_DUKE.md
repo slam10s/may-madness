@@ -29,7 +29,7 @@ Waco, Texas
 &#10004; Massey: 11 (8.09)<br>  
 &#10004; UTR: 12 (62.45)<br>  
 &#10004; USTA Poll: 15 (162.00)<br>  
-&nbsp; Coaches Poll: 20<br>  
+&#10004; Coaches Poll: 20<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***DUKE*** - #12 Duke (+3.40) def. #40 Alabama (-3.40)  
 - ITA: ***DUKE*** - #18 Duke def. #43 Alabama  
 - USTA Poll: ***DUKE*** - #15 Duke def. Alabama  
+- Coaches Poll: ***DUKE*** - #20 Duke def. #40 Alabama  
 - Seeding: ***DUKE*** - #2 Duke def. #3 Alabama  
 
 ## Individual Matchups  

@@ -30,7 +30,7 @@ Tallahassee, Florida
 &#10004; Massey: 9 (8.17)<br>  
 &#10004; UTR: 10 (62.71)<br>  
 &#10004; USTA Poll: 13 (181.00)<br>  
-&nbsp; Coaches Poll: 7<br>  
+&#10004; Coaches Poll: 7<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***FSU*** - #10 Florida St. (+1.72) def. #30 Auburn (-1.72)  
 - ITA: ***FSU*** - #7 Florida St. def. #19 Auburn  
 - USTA Poll: ***FSU*** - #13 Florida St. def. #27 Auburn  
+- Coaches Poll: ***FSU*** - #7 Florida St. def. #22 Auburn  
 - Seeding: ***FSU*** - #1 Florida St. def. #2 Auburn  
 
 ## Individual Matchups  

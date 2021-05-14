@@ -28,7 +28,7 @@ Third Round[](#top)<a name="top"></a>
 &#10004; Massey: 5 (8.82)<br>  
 &#10004; UTR: 9 (79.74)<br>  
 &#10004; USTA Poll: 3 (292.00)<br>  
-&nbsp; Coaches Poll: 1<br>  
+&#10004; Coaches Poll: 1<br>  
 <br>  
 
 </td>
@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***BAY*** - #9 Baylor (+2.04) def. #25 Ole Miss (-2.04)  
 - ITA: ***BAY*** - #1 Baylor def. #14 Ole Miss  
 - USTA Poll: ***BAY*** - #3 Baylor def. #23 Ole Miss  
+- Coaches Poll: ***BAY*** - #1 Baylor def. #16 Ole Miss  
 - Seeding: ***BAY*** - #2 Baylor def. #15 Ole Miss  
 
 ## Individual Matchups  

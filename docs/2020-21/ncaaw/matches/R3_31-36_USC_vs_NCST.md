@@ -27,7 +27,7 @@ Third Round[](#top)<a name="top"></a>
 &#10004; Massey: 6 (8.36)<br>  
 &nbsp; UTR: 9 (62.99)<br>  
 &#10004; USTA Poll: 12 (197.00)<br>  
-&nbsp; Coaches Poll: 6<br>  
+&#10004; Coaches Poll: 6<br>  
 <br>  
 
 </td>
@@ -47,6 +47,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***USC*** - #6 Southern California (+1.3) def. #9 NC State (-1.3)  
 - ITA: ***NCST*** - #6 NC State def. #35 Southern California  
 - USTA Poll: ***NCST*** - #12 NC State def. Southern California  
+- Coaches Poll: ***NCST*** - #6 NC State def. #34 Southern California  
 - Seeding: ***NCST*** - #6 NC State def. Southern California  
 
 ## Individual Matchups  

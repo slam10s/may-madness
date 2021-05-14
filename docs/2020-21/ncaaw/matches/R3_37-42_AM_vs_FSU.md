@@ -28,7 +28,7 @@ Third Round[](#top)<a name="top"></a>
 &#10004; Massey: 9 (8.17)<br>  
 &#10004; UTR: 10 (62.71)<br>  
 &#10004; USTA Poll: 13 (181.00)<br>  
-&nbsp; Coaches Poll: 7<br>  
+&#10004; Coaches Poll: 7<br>  
 <br>  
 
 </td>
@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***FSU*** - #10 Florida St. (+1.01) def. #21 Texas A&M (-1.01)  
 - ITA: ***FSU*** - #7 Florida St. def. #10 Texas A&M  
 - USTA Poll: ***FSU*** - #13 Florida St. def. #18 Texas A&M  
+- Coaches Poll: ***FSU*** - #7 Florida St. def. #10 Texas A&M  
 - Seeding: ***FSU*** - #7 Florida St. def. #10 Texas A&M  
 
 ## Individual Matchups  

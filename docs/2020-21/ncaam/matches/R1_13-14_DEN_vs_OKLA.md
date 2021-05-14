@@ -28,7 +28,7 @@ College Station, Texas
 &#10004; TRN: 28 (91.23)<br>  
 &#10004; Massey: 37 (7.32)<br>  
 &#10004; UTR: 28 (77.53)<br>  
-&nbsp; Coaches Poll: 26<br>  
+&#10004; Coaches Poll: 26<br>  
 <br>  
 
 </td>
@@ -50,6 +50,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***OKLA*** - Oklahoma (96%) def. Denver (4%)  
 - UTR: ***OKLA*** - #28 Oklahoma (+3.10) def. #45 Denver (-3.10)  
 - ITA: ***OKLA*** - #27 Oklahoma def. #44 Denver  
+- Coaches Poll: ***OKLA*** - #26 Oklahoma def. #44 Denver  
 - Seeding: ***OKLA*** - #2 Oklahoma def. #3 Denver  
 
 ## Individual Matchups  

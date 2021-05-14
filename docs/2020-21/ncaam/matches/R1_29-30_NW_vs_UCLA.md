@@ -29,7 +29,7 @@ Austin, Texas
 &#10004; Massey: 19 (8.03)<br>  
 &#10004; UTR: 13 (79.06)<br>  
 &#10004; USTA Poll: 24 (52.00)<br>  
-&nbsp; Coaches Poll: 29<br>  
+&#10004; Coaches Poll: 29<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UCLA*** - #13 UCLA (+1.50) def. #27 Northwestern (-1.50)  
 - ITA: ***UCLA*** - #23 UCLA def. #50 Northwestern  
 - USTA Poll: ***UCLA*** - #24 UCLA def. Northwestern  
+- Coaches Poll: ***UCLA*** - #29 UCLA def. #46 Northwestern  
 - Seeding: ***UCLA*** - #2 UCLA def. #3 Northwestern  
 
 ## Individual Matchups  

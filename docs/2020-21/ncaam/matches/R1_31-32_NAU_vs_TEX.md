@@ -28,7 +28,7 @@ Austin, Texas
 &#10004; Massey: 11 (8.54)<br>  
 &#10004; UTR: 14 (79.01)<br>  
 &#10004; USTA Poll: 8 (263.00)<br>  
-&nbsp; Coaches Poll: 4<br>  
+&#10004; Coaches Poll: 4<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***TEX*** - #14 Texas (+8.16) def. #58 Northern Ariz. (-8.16)  
 - ITA: ***TEX*** - #4 Texas def. #60 Northern Ariz.  
 - USTA Poll: ***TEX*** - #8 Texas def. Northern Ariz.  
+- Coaches Poll: ***TEX*** - #4 Texas def. Northern Ariz.  
 - Seeding: ***TEX*** - #1 Texas def. #4 Northern Ariz.  
 
 ## Individual Matchups  

@@ -29,7 +29,7 @@ Gainesville, Florida
 &#10004; Massey: 21 (7.77)<br>  
 &nbsp; UTR: 11 (62.70)<br>  
 &#10004; USTA Poll: 22 (86.00)<br>  
-&nbsp; Coaches Poll: 15<br>  
+&#10004; Coaches Poll: 15<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***USC*** - #6 Southern California (+1.59) def. #11 Florida (-1.59)  
 - ITA: ***FLA*** - #12 Florida def. #35 Southern California  
 - USTA Poll: ***FLA*** - #22 Florida def. Southern California  
+- Coaches Poll: ***FLA*** - #15 Florida def. #34 Southern California  
 - Seeding: ***FLA*** - #1 Florida def. #3 Southern California  
 
 ## Individual Matchups  

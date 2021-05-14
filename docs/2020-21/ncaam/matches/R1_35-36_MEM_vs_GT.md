@@ -29,7 +29,7 @@ Knoxville, Tennessee
 &#10004; Massey: 25 (7.67)<br>  
 &#10004; UTR: 36 (76.54)<br>  
 &#10004; USTA Poll: RV (3.00)<br>  
-&nbsp; Coaches Poll: 31<br>  
+&#10004; Coaches Poll: 31<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***GT*** - #36 Georgia Tech (+1.14) def. #43 Memphis (-1.14)  
 - ITA: ***GT*** - #30 Georgia Tech def. #38 Memphis  
 - USTA Poll: ***GT*** - RV Georgia Tech def. Memphis  
+- Coaches Poll: ***GT*** - #31 Georgia Tech def. #35 Memphis  
 - Seeding: ***GT*** - #2 Georgia Tech def. #3 Memphis  
 
 ## Individual Matchups  

@@ -28,7 +28,7 @@ Third Round[](#top)<a name="top"></a>
 &#10004; Massey: 1 (9.40)<br>  
 &#10004; UTR: 1 (80.76)<br>  
 &#10004; USTA Poll: 2 (302.00)<br>  
-&nbsp; Coaches Poll: 2<br>  
+&#10004; Coaches Poll: 2<br>  
 <br>  
 
 </td>
@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***FLA*** - #1 Florida (+1.84) def. #15 Illinois (-1.84)  
 - ITA: ***FLA*** - #2 Florida def. #17 Illinois  
 - USTA Poll: ***FLA*** - #2 Florida def. #10 Illinois  
+- Coaches Poll: ***FLA*** - #2 Florida def. #13 Illinois  
 - Seeding: ***FLA*** - #1 Florida def. #16 Illinois  
 
 ## Individual Matchups  

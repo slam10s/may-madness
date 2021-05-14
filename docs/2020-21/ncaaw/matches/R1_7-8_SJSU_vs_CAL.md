@@ -28,7 +28,7 @@ Berkeley, California
 &#10004; Massey: 14 (8.01)<br>  
 &#10004; UTR: 15 (62.15)<br>  
 &#10004; USTA Poll: 14 (170.00)<br>  
-&nbsp; Coaches Poll: 17<br>  
+&#10004; Coaches Poll: 17<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***CAL*** - #15 California (+6.78) def. #50 San Jose St. (-6.78)  
 - ITA: ***CAL*** - #17 California def. #47 San Jose St.  
 - USTA Poll: ***CAL*** - #14 California def. San Jose St.  
+- Coaches Poll: ***CAL*** - #17 California def. San Jose St.  
 - Seeding: ***CAL*** - #1 California def. #4 San Jose St.  
 
 ## Individual Matchups  

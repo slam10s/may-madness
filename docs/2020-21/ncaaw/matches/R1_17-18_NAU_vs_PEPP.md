@@ -28,7 +28,7 @@ Malibu, California
 &#10004; Massey: 5 (8.71)<br>  
 &#10004; UTR: 4 (64.63)<br>  
 &#10004; USTA Poll: 6 (276.00)<br>  
-&nbsp; Coaches Poll: 4<br>  
+&#10004; Coaches Poll: 4<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***PEPP*** - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #53 Northern Ariz.  
 - USTA Poll: ***PEPP*** - #6 Pepperdine def. Northern Ariz.  
+- Coaches Poll: ***PEPP*** - #4 Pepperdine def. Northern Ariz.  
 - Seeding: ***PEPP*** - #1 Pepperdine def. #4 Northern Ariz.  
 
 ## Individual Matchups  

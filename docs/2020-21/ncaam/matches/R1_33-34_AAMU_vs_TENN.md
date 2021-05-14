@@ -28,7 +28,7 @@ Knoxville, Tennessee
 &#10004; Massey: 2 (9.17)<br>  
 &#10004; UTR: 4 (80.17)<br>  
 &#10004; USTA Poll: 6 (290.00)<br>  
-&nbsp; Coaches Poll: 3<br>  
+&#10004; Coaches Poll: 3<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***TENN*** - #4 Tennessee (+16.92) def. #64 Alabama A&M (-16.92)  
 - ITA: ***TENN*** - #3 Tennessee def. #63 Alabama A&M  
 - USTA Poll: ***TENN*** - #6 Tennessee def. Alabama A&M  
+- Coaches Poll: ***TENN*** - #3 Tennessee def. Alabama A&M  
 - Seeding: ***TENN*** - #1 Tennessee def. #4 Alabama A&M  
 
 ## Individual Matchups  

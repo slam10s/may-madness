@@ -28,7 +28,7 @@ Chapel Hill, North Carolina
 &#10004; Massey: 1 (9.82)<br>  
 &#10004; UTR: 2 (65.21)<br>  
 &#10004; USTA Poll: 2 (325.00)<br>  
-&nbsp; Coaches Poll: 1<br>  
+&#10004; Coaches Poll: 1<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UNC*** - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)  
 - ITA: ***UNC*** - #1 North Carolina def. #64 South Carolina St.  
 - USTA Poll: ***UNC*** - #2 North Carolina def. South Carolina St.  
+- Coaches Poll: ***UNC*** - #1 North Carolina def. South Carolina St.  
 - Seeding: ***UNC*** - #1 North Carolina def. #4 South Carolina St.  
 
 ## Individual Matchups  

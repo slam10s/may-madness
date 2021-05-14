@@ -28,7 +28,7 @@ Charlottesville, Virginia
 &#10004; Massey: 19 (7.80)<br>  
 &#10004; UTR: 22 (61.61)<br>  
 &#10004; USTA Poll: 21 (96.00)<br>  
-&nbsp; Coaches Poll: 16<br>  
+&#10004; Coaches Poll: 16<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***TENN*** - #22 Tennessee (+4.72) def. #47 James Madison (-4.72)  
 - ITA: ***TENN*** - #15 Tennessee def. #46 James Madison  
 - USTA Poll: ***TENN*** - #21 Tennessee def. James Madison  
+- Coaches Poll: ***TENN*** - #16 Tennessee def. James Madison  
 - Seeding: ***TENN*** - #2 Tennessee def. #3 James Madison  
 
 ## Individual Matchups  

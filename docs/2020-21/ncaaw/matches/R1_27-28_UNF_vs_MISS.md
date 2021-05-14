@@ -27,7 +27,7 @@ Atlanta, Georgia
 &#10004; TRN: 26 (81.50)<br>  
 &#10004; Massey: 30 (7.37)<br>  
 &#10004; UTR: 20 (61.75)<br>  
-&nbsp; Coaches Poll: 25<br>  
+&#10004; Coaches Poll: 25<br>  
 <br>  
 
 </td>
@@ -49,6 +49,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***MISS*** - Ole Miss (98%) def. North Florida (2%)  
 - UTR: ***MISS*** - #20 Ole Miss (+3.30) def. #44 North Florida (-3.30)  
 - ITA: ***MISS*** - #25 Ole Miss def. #48 North Florida  
+- Coaches Poll: ***MISS*** - #25 Ole Miss def. North Florida  
 - Seeding: ***MISS*** - #2 Ole Miss def. #3 North Florida  
 
 ## Individual Matchups  

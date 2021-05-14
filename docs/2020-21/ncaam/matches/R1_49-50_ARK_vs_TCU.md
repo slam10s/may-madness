@@ -29,7 +29,7 @@ Fort Worth, Texas
 &#10004; Massey: 6 (8.76)<br>  
 &#10004; UTR: 10 (79.71)<br>  
 &#10004; USTA Poll: 11 (217.00)<br>  
-&nbsp; Coaches Poll: 7<br>  
+&#10004; Coaches Poll: 7<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***TCU*** - #10 TCU (+4.41) def. #44 Arkansas (-4.41)  
 - ITA: ***TCU*** - #7 TCU def. #43 Arkansas  
 - USTA Poll: ***TCU*** - #11 TCU def. Arkansas  
+- Coaches Poll: ***TCU*** - #7 TCU def. #40 Arkansas  
 - Seeding: ***TCU*** - #1 TCU def. #4 Arkansas  
 
 ## Individual Matchups  

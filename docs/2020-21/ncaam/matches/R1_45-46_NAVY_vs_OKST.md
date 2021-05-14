@@ -28,7 +28,7 @@ Chapel Hill, North Carolina
 &#10004; Massey: 29 (7.54)<br>  
 &#10004; UTR: 19 (78.43)<br>  
 &#10004; USTA Poll: RV (2.00)<br>  
-&nbsp; Coaches Poll: 21<br>  
+&#10004; Coaches Poll: 21<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***OKST*** - #19 Oklahoma St. (+7.52) def. #57 Navy (-7.52)  
 - ITA: ***OKST*** - #19 Oklahoma St. def. #48 Navy  
 - USTA Poll: ***OKST*** - RV Oklahoma St. def. Navy  
+- Coaches Poll: ***OKST*** - #21 Oklahoma St. def. Navy  
 - Seeding: ***OKST*** - #2 Oklahoma St. def. #3 Navy  
 
 ## Individual Matchups  

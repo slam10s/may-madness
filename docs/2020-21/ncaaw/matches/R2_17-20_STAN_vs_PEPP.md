@@ -30,7 +30,7 @@ Malibu, California
 &#10004; Massey: 5 (8.71)<br>  
 &#10004; UTR: 4 (64.63)<br>  
 &#10004; USTA Poll: 6 (276.00)<br>  
-&nbsp; Coaches Poll: 4<br>  
+&#10004; Coaches Poll: 4<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***PEPP*** - #4 Pepperdine (+1.18) def. #7 Stanford (-1.18)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #27 Stanford  
 - USTA Poll: ***PEPP*** - #6 Pepperdine def. #20 Stanford  
+- Coaches Poll: ***PEPP*** - #4 Pepperdine def. #26 Stanford  
 - Seeding: ***PEPP*** - #1 Pepperdine def. #2 Stanford  
 
 ## Individual Matchups  

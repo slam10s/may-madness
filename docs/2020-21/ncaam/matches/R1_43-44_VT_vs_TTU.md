@@ -29,7 +29,7 @@ Athens, Georgia
 &#10004; Massey: 28 (7.55)<br>  
 &nbsp; UTR: 35 (76.66)<br>  
 &#10004; USTA Poll: RV (2.00)<br>  
-&nbsp; Coaches Poll: 27<br>  
+&#10004; Coaches Poll: 27<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***VT*** - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)  
 - ITA: ***TTU*** - #25 Texas Tech def. #29 Virginia Tech  
 - USTA Poll: ***TTU*** - RV Texas Tech def. Virginia Tech  
+- Coaches Poll: ***TTU*** - #27 Texas Tech def. #34 Virginia Tech  
 - Seeding: ***TTU*** - #2 Texas Tech def. #3 Virginia Tech  
 
 ## Individual Matchups  

@@ -29,7 +29,7 @@ Fort Worth, Texas
 &#10004; Massey: 24 (7.68)<br>  
 &#10004; UTR: 23 (78.03)<br>  
 &#10004; USTA Poll: 21 (88.00)<br>  
-&nbsp; Coaches Poll: 22<br>  
+&#10004; Coaches Poll: 22<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***AZST*** - #23 Arizona St. (+2.10) def. #39 Wichita St. (-2.10)  
 - ITA: ***AZST*** - #20 Arizona St. def. #33 Wichita St.  
 - USTA Poll: ***AZST*** - #21 Arizona St. def. Wichita St.  
+- Coaches Poll: ***AZST*** - #22 Arizona St. def. #32 Wichita St.  
 - Seeding: ***AZST*** - #2 Arizona St. def. #3 Wichita St.  
 
 ## Individual Matchups  

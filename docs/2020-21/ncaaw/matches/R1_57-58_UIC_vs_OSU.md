@@ -28,7 +28,7 @@ Columbus, Ohio
 &#10004; Massey: 8 (8.22)<br>  
 &#10004; UTR: 25 (61.53)<br>  
 &#10004; USTA Poll: 7 (249.00)<br>  
-&nbsp; Coaches Poll: 13<br>  
+&#10004; Coaches Poll: 13<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***OSU*** - #25 Ohio St. (+10.14) def. #58 UIC (-10.14)  
 - ITA: ***OSU*** - #16 Ohio St. def. #59 UIC  
 - USTA Poll: ***OSU*** - #7 Ohio St. def. UIC  
+- Coaches Poll: ***OSU*** - #13 Ohio St. def. UIC  
 - Seeding: ***OSU*** - #1 Ohio St. def. #4 UIC  
 
 ## Individual Matchups  

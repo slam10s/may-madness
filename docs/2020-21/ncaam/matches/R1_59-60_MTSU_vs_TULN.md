@@ -28,7 +28,7 @@ Oxford, Mississippi
 &#10004; TRN: 26 (91.45)<br>  
 &#10004; Massey: 26 (7.63)<br>  
 &#10004; UTR: 31 (76.99)<br>  
-&nbsp; Coaches Poll: 24<br>  
+&#10004; Coaches Poll: 24<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***TULN*** - Tulane (84%) def. Middle Tenn. (16%)  
 - UTR: ***TULN*** - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)  
 - ITA: ***TULN*** - #22 Tulane def. #42 Middle Tenn.  
+- Coaches Poll: ***TULN*** - #24 Tulane def. #42 Middle Tenn.  
 - Seeding: ***TULN*** - #2 Tulane def. #3 Middle Tenn.  
 
 ## Individual Matchups  

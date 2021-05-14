@@ -29,7 +29,7 @@ Urbana, Illinois
 &#10004; Massey: 9 (8.60)<br>  
 &#10004; UTR: 15 (78.92)<br>  
 &#10004; USTA Poll: 10 (231.00)<br>  
-&nbsp; Coaches Poll: 13<br>  
+&#10004; Coaches Poll: 13<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***ILL*** - #15 Illinois (+2.54) def. #38 Notre Dame (-2.54)  
 - ITA: ***ILL*** - #17 Illinois def. #34 Notre Dame  
 - USTA Poll: ***ILL*** - #10 Illinois def. Notre Dame  
+- Coaches Poll: ***ILL*** - #13 Illinois def. #37 Notre Dame  
 - Seeding: ***ILL*** - #1 Illinois def. #2 Notre Dame  
 
 ## Individual Matchups  

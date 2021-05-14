@@ -29,7 +29,7 @@ Austin, Texas
 &#10004; Massey: 11 (8.54)<br>  
 &#10004; UTR: 14 (79.01)<br>  
 &#10004; USTA Poll: 8 (263.00)<br>  
-&nbsp; Coaches Poll: 4<br>  
+&#10004; Coaches Poll: 4<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***TEX*** - #14 Texas (+1.45) def. #27 Northwestern (-1.45)  
 - ITA: ***TEX*** - #4 Texas def. #50 Northwestern  
 - USTA Poll: ***TEX*** - #8 Texas def. Northwestern  
+- Coaches Poll: ***TEX*** - #4 Texas def. #46 Northwestern  
 - Seeding: ***TEX*** - #1 Texas def. #3 Northwestern  
 
 ## Individual Matchups  

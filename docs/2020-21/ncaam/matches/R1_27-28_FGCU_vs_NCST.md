@@ -28,7 +28,7 @@ Columbia, South Carolina
 &#10004; Massey: 23 (7.70)<br>  
 &#10004; UTR: 22 (78.11)<br>  
 &#10004; USTA Poll: 27 (14.00)<br>  
-&nbsp; Coaches Poll: 28<br>  
+&#10004; Coaches Poll: 28<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***NCST*** - #22 NC State (+4.53) def. #51 FGCU (-4.53)  
 - ITA: ***NCST*** - #24 NC State def. #47 FGCU  
 - USTA Poll: ***NCST*** - #27 NC State def. FGCU  
+- Coaches Poll: ***NCST*** - #28 NC State def. FGCU  
 - Seeding: ***NCST*** - #2 NC State def. #3 FGCU  
 
 ## Individual Matchups  

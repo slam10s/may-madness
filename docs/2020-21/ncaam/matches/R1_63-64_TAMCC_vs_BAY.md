@@ -28,7 +28,7 @@ Waco, Texas
 &#10004; Massey: 5 (8.82)<br>  
 &#10004; UTR: 9 (79.74)<br>  
 &#10004; USTA Poll: 3 (292.00)<br>  
-&nbsp; Coaches Poll: 1<br>  
+&#10004; Coaches Poll: 1<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***BAY*** - #9 Baylor (+8.22) def. #53 A&M-Corpus Christi (-8.22)  
 - ITA: ***BAY*** - #1 Baylor def. #59 A&M-Corpus Christi  
 - USTA Poll: ***BAY*** - #3 Baylor def. A&M-Corpus Christi  
+- Coaches Poll: ***BAY*** - #1 Baylor def. A&M-Corpus Christi  
 - Seeding: ***BAY*** - #1 Baylor def. #4 A&M-Corpus Christi  
 
 ## Individual Matchups  

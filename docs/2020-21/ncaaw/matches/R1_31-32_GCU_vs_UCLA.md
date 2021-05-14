@@ -28,7 +28,7 @@ Los Angeles, California
 &#10004; Massey: 4 (8.85)<br>  
 &#10004; UTR: 5 (64.40)<br>  
 &#10004; USTA Poll: 5 (280.00)<br>  
-&nbsp; Coaches Poll: 5<br>  
+&#10004; Coaches Poll: 5<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UCLA*** - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)  
 - ITA: ***UCLA*** - #4 UCLA def. #62 Grand Canyon  
 - USTA Poll: ***UCLA*** - #5 UCLA def. Grand Canyon  
+- Coaches Poll: ***UCLA*** - #5 UCLA def. Grand Canyon  
 - Seeding: ***UCLA*** - #1 UCLA def. #4 Grand Canyon  
 
 ## Individual Matchups  

@@ -29,7 +29,7 @@ Charlottesville, Virginia
 &#10004; Massey: 20 (7.97)<br>  
 &#10004; UTR: 5 (80.08)<br>  
 &#10004; USTA Poll: 22 (85.00)<br>  
-&nbsp; Coaches Poll: 20<br>  
+&#10004; Coaches Poll: 20<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***STAN*** - #5 Stanford (+4.64) def. #42 LSU (-4.64)  
 - ITA: ***STAN*** - #21 Stanford def. #40 LSU  
 - USTA Poll: ***STAN*** - #22 Stanford def. LSU  
+- Coaches Poll: ***STAN*** - #20 Stanford def. #39 LSU  
 - Seeding: ***STAN*** - #2 Stanford def. #3 LSU  
 
 ## Individual Matchups  

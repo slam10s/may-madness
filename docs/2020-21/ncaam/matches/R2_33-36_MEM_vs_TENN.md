@@ -29,7 +29,7 @@ Knoxville, Tennessee
 &#10004; Massey: 2 (9.17)<br>  
 &#10004; UTR: 4 (80.17)<br>  
 &#10004; USTA Poll: 6 (290.00)<br>  
-&nbsp; Coaches Poll: 3<br>  
+&#10004; Coaches Poll: 3<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***TENN*** - #4 Tennessee (+4.77) def. #43 Memphis (-4.77)  
 - ITA: ***TENN*** - #3 Tennessee def. #38 Memphis  
 - USTA Poll: ***TENN*** - #6 Tennessee def. Memphis  
+- Coaches Poll: ***TENN*** - #3 Tennessee def. #35 Memphis  
 - Seeding: ***TENN*** - #1 Tennessee def. #3 Memphis  
 
 ## Individual Matchups  

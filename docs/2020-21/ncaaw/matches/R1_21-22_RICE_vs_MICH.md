@@ -29,7 +29,7 @@ Baton Rouge, Louisiana
 &#10004; Massey: 16 (7.96)<br>  
 &#10004; UTR: 17 (61.98)<br>  
 &#10004; USTA Poll: 8 (239.00)<br>  
-&nbsp; Coaches Poll: 18<br>  
+&#10004; Coaches Poll: 18<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***MICH*** - #17 Michigan (+1.87) def. #35 Rice (-1.87)  
 - ITA: ***MICH*** - #20 Michigan def. #40 Rice  
 - USTA Poll: ***MICH*** - #8 Michigan def. Rice  
+- Coaches Poll: ***MICH*** - #18 Michigan def. #39 Rice  
 - Seeding: ***MICH*** - #2 Michigan def. #3 Rice  
 
 ## Individual Matchups  

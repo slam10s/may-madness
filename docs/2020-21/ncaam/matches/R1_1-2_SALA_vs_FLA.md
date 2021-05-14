@@ -28,7 +28,7 @@ Gainesville, Florida
 &#10004; Massey: 1 (9.40)<br>  
 &#10004; UTR: 1 (80.76)<br>  
 &#10004; USTA Poll: 2 (302.00)<br>  
-&nbsp; Coaches Poll: 2<br>  
+&#10004; Coaches Poll: 2<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***FLA*** - #1 Florida (+6.84) def. #48 South Alabama (-6.84)  
 - ITA: ***FLA*** - #2 Florida def. #53 South Alabama  
 - USTA Poll: ***FLA*** - #2 Florida def. South Alabama  
+- Coaches Poll: ***FLA*** - #2 Florida def. South Alabama  
 - Seeding: ***FLA*** - #1 Florida def. #4 South Alabama  
 
 ## Individual Matchups  

@@ -28,7 +28,7 @@ Baton Rouge, Louisiana
 &#10004; Massey: 22 (7.77)<br>  
 &#10004; UTR: 26 (61.48)<br>  
 &#10004; USTA Poll: 25 (55.00)<br>  
-&nbsp; Coaches Poll: 14<br>  
+&#10004; Coaches Poll: 14<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***LSU*** - #26 LSU (+5.98) def. #49 Boston U. (-5.98)  
 - ITA: ***LSU*** - #14 LSU def. #50 Boston U.  
 - USTA Poll: ***LSU*** - #25 LSU def. Boston U.  
+- Coaches Poll: ***LSU*** - #14 LSU def. Boston U.  
 - Seeding: ***LSU*** - #1 LSU def. #4 Boston U.  
 
 ## Individual Matchups  

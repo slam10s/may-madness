@@ -28,7 +28,7 @@ Atlanta, Georgia
 &#10004; Massey: 18 (7.83)<br>  
 &#10004; UTR: 24 (61.54)<br>  
 &#10004; USTA Poll: 16 (148.00)<br>  
-&nbsp; Coaches Poll: 11<br>  
+&#10004; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***GT*** - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)  
 - ITA: ***GT*** - #11 Georgia Tech def. #52 Ga. Southern  
 - USTA Poll: ***GT*** - #16 Georgia Tech def. Ga. Southern  
+- Coaches Poll: ***GT*** - #11 Georgia Tech def. Ga. Southern  
 - Seeding: ***GT*** - #1 Georgia Tech def. #4 Ga. Southern  
 
 ## Individual Matchups  

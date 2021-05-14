@@ -29,7 +29,7 @@ Gainesville, Florida
 &#10004; Massey: 13 (8.06)<br>  
 &nbsp; UTR: 14 (62.33)<br>  
 &#10004; USTA Poll: 24 (58.00)<br>  
-&nbsp; Coaches Poll: 24<br>  
+&#10004; Coaches Poll: 24<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***USC*** - #6 Southern California (+1.96) def. #14 Oklahoma (-1.96)  
 - ITA: ***OKLA*** - #22 Oklahoma def. #35 Southern California  
 - USTA Poll: ***OKLA*** - #24 Oklahoma def. Southern California  
+- Coaches Poll: ***OKLA*** - #24 Oklahoma def. #34 Southern California  
 - Seeding: ***OKLA*** - #2 Oklahoma def. #3 Southern California  
 
 ## Individual Matchups  

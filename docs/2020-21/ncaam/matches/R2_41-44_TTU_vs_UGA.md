@@ -30,7 +30,7 @@ Athens, Georgia
 &#10004; Massey: 15 (8.18)<br>  
 &#10004; UTR: 19 (78.43)<br>  
 &#10004; USTA Poll: 18 (131.00)<br>  
-&nbsp; Coaches Poll: 11<br>  
+&#10004; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UGA*** - #19 Georgia (+1.77) def. #35 Texas Tech (-1.77)  
 - ITA: ***UGA*** - #11 Georgia def. #25 Texas Tech  
 - USTA Poll: ***UGA*** - #18 Georgia def. RV Texas Tech  
+- Coaches Poll: ***UGA*** - #11 Georgia def. #27 Texas Tech  
 - Seeding: ***UGA*** - #1 Georgia def. #2 Texas Tech  
 
 ## Individual Matchups  

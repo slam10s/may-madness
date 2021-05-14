@@ -28,7 +28,7 @@ Second Round[](#top)<a name="top"></a>
 &#10004; Massey: 16 (8.13)<br>  
 &#10004; UTR: 17 (78.69)<br>  
 &#10004; USTA Poll: 17 (133.00)<br>  
-&nbsp; Coaches Poll: 13<br>  
+&#10004; Coaches Poll: 13<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***SCAR*** - #17 South Carolina (+0.58) def. #22 NC State (-0.58)  
 - ITA: ***SCAR*** - #13 South Carolina def. #24 NC State  
 - USTA Poll: ***SCAR*** - #17 South Carolina def. #27 NC State  
+- Coaches Poll: ***SCAR*** - #13 South Carolina def. #28 NC State  
 - Seeding: ***SCAR*** - #1 South Carolina def. #2 NC State  
 
 ## Individual Matchups  

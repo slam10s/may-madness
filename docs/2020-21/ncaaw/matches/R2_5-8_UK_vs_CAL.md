@@ -30,7 +30,7 @@ Berkeley, California
 &#10004; Massey: 14 (8.01)<br>  
 &#10004; UTR: 15 (62.15)<br>  
 &#10004; USTA Poll: 14 (170.00)<br>  
-&nbsp; Coaches Poll: 17<br>  
+&#10004; Coaches Poll: 17<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***CAL*** - #15 California (+2.00) def. #34 Kentucky (-2.00)  
 - ITA: ***CAL*** - #17 California def. #26 Kentucky  
 - USTA Poll: ***CAL*** - #14 California def. #26 Kentucky  
+- Coaches Poll: ***CAL*** - #17 California def. #27 Kentucky  
 - Seeding: ***CAL*** - #1 California def. #2 Kentucky  
 
 ## Individual Matchups  

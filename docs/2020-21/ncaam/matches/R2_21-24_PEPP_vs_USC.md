@@ -30,7 +30,7 @@ Los Angeles, California
 &#10004; Massey: 8 (8.62)<br>  
 &#10004; UTR: 2 (80.29)<br>  
 &#10004; USTA Poll: 15 (169.00)<br>  
-&nbsp; Coaches Poll: 12<br>  
+&#10004; Coaches Poll: 12<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***USC*** - #2 Southern California (+2.70) def. #26 Pepperdine (-2.70)  
 - ITA: ***USC*** - #12 Southern California def. #28 Pepperdine  
 - USTA Poll: ***USC*** - #15 Southern California def. #26 Pepperdine  
+- Coaches Poll: ***USC*** - #12 Southern California def. #30 Pepperdine  
 - Seeding: ***USC*** - #1 Southern California def. #2 Pepperdine  
 
 ## Individual Matchups  

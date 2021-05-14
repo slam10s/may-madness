@@ -29,7 +29,7 @@ Orlando, Florida
 &#10004; Massey: 27 (7.63)<br>  
 &#10004; UTR: 24 (77.84)<br>  
 &#10004; USTA Poll: 25 (44.00)<br>  
-&nbsp; Coaches Poll: 18<br>  
+&#10004; Coaches Poll: 18<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***MSST*** - #24 Mississippi St. (+2.16) def. #40 Miami (FL) (-2.16)  
 - ITA: ***MSST*** - #16 Mississippi St. def. #39 Miami (FL)  
 - USTA Poll: ***MSST*** - #25 Mississippi St. def. Miami (FL)  
+- Coaches Poll: ***MSST*** - #18 Mississippi St. def. #43 Miami (FL)  
 - Seeding: ***MSST*** - #2 Mississippi St. def. #3 Miami (FL)  
 
 ## Individual Matchups  

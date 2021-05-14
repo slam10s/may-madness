@@ -30,7 +30,7 @@ Chapel Hill, North Carolina
 &#10004; Massey: 1 (9.82)<br>  
 &#10004; UTR: 2 (65.21)<br>  
 &#10004; USTA Poll: 2 (325.00)<br>  
-&nbsp; Coaches Poll: 1<br>  
+&#10004; Coaches Poll: 1<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UNC*** - #2 North Carolina (+5.44) def. #37 Old Dominion (-5.44)  
 - ITA: ***UNC*** - #1 North Carolina def. #29 Old Dominion  
 - USTA Poll: ***UNC*** - #2 North Carolina def. RV Old Dominion  
+- Coaches Poll: ***UNC*** - #1 North Carolina def. #32 Old Dominion  
 - Seeding: ***UNC*** - #1 North Carolina def. #2 Old Dominion  
 
 ## Individual Matchups  

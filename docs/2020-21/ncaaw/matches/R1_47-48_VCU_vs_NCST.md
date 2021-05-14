@@ -28,7 +28,7 @@ Raleigh, North Carolina
 &#10004; Massey: 6 (8.36)<br>  
 &#10004; UTR: 9 (62.99)<br>  
 &#10004; USTA Poll: 12 (197.00)<br>  
-&nbsp; Coaches Poll: 6<br>  
+&#10004; Coaches Poll: 6<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***NCST*** - #9 NC State (+7.24) def. #48 VCU (-7.24)  
 - ITA: ***NCST*** - #6 NC State def. #49 VCU  
 - USTA Poll: ***NCST*** - #12 NC State def. VCU  
+- Coaches Poll: ***NCST*** - #6 NC State def. VCU  
 - Seeding: ***NCST*** - #1 NC State def. #4 VCU  
 
 ## Individual Matchups  

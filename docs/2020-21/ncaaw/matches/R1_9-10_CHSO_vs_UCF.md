@@ -28,7 +28,7 @@ Orlando, Florida
 &#10004; Massey: 10 (8.12)<br>  
 &#10004; UTR: 16 (62.03)<br>  
 &#10004; USTA Poll: 10 (203.00)<br>  
-&nbsp; Coaches Poll: 9<br>  
+&#10004; Coaches Poll: 9<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UCF*** - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)  
 - ITA: ***UCF*** - #9 UCF def. #58 Charleston So.  
 - USTA Poll: ***UCF*** - #10 UCF def. Charleston So.  
+- Coaches Poll: ***UCF*** - #9 UCF def. Charleston So.  
 - Seeding: ***UCF*** - #1 UCF def. #4 Charleston So.  
 
 ## Individual Matchups  

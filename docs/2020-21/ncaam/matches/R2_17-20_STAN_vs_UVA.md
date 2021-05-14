@@ -30,7 +30,7 @@ Charlottesville, Virginia
 &#10004; Massey: 3 (9.13)<br>  
 &nbsp; UTR: 6 (80.03)<br>  
 &#10004; USTA Poll: 1 (320.00)<br>  
-&nbsp; Coaches Poll: 5<br>  
+&#10004; Coaches Poll: 5<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***STAN*** - #5 Stanford (+0.05) def. #6 Virginia (-0.05)  
 - ITA: ***UVA*** - #5 Virginia def. #21 Stanford  
 - USTA Poll: ***UVA*** - #1 Virginia def. #22 Stanford  
+- Coaches Poll: ***UVA*** - #5 Virginia def. #20 Stanford  
 - Seeding: ***UVA*** - #1 Virginia def. #2 Stanford  
 
 ## Individual Matchups  

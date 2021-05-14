@@ -28,7 +28,7 @@ Gainesville, Florida
 &#10004; Massey: 21 (7.77)<br>  
 &#10004; UTR: 11 (62.70)<br>  
 &#10004; USTA Poll: 22 (86.00)<br>  
-&nbsp; Coaches Poll: 15<br>  
+&#10004; Coaches Poll: 15<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***FLA*** - #11 Florida (+16.27) def. #62 Siena (-16.27)  
 - ITA: ***FLA*** - #12 Florida def. #60 Siena  
 - USTA Poll: ***FLA*** - #22 Florida def. Siena  
+- Coaches Poll: ***FLA*** - #15 Florida def. Siena  
 - Seeding: ***FLA*** - #1 Florida def. #4 Siena  
 
 ## Individual Matchups  

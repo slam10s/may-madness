@@ -28,7 +28,7 @@ Los Angeles, California
 &#10004; Massey: 8 (8.62)<br>  
 &#10004; UTR: 2 (80.29)<br>  
 &#10004; USTA Poll: 15 (169.00)<br>  
-&nbsp; Coaches Poll: 12<br>  
+&#10004; Coaches Poll: 12<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***USC*** - #2 Southern California (+8.97) def. #55 Grand Canyon (-8.97)  
 - ITA: ***USC*** - #12 Southern California def. #62 Grand Canyon  
 - USTA Poll: ***USC*** - #15 Southern California def. Grand Canyon  
+- Coaches Poll: ***USC*** - #12 Southern California def. Grand Canyon  
 - Seeding: ***USC*** - #1 Southern California def. #4 Grand Canyon  
 
 ## Individual Matchups  

@@ -30,7 +30,7 @@ Waco, Texas
 &nbsp; Massey: 12 (8.06)<br>  
 &#10004; UTR: 8 (63.14)<br>  
 &#10004; USTA Poll: 9 (204.00)<br>  
-&nbsp; Coaches Poll: 8<br>  
+&#10004; Coaches Poll: 8<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***BAY*** - #8 Baylor (+0.69) def. #12 Duke (-0.69)  
 - ITA: ***BAY*** - #8 Baylor def. #18 Duke  
 - USTA Poll: ***BAY*** - #9 Baylor def. #15 Duke  
+- Coaches Poll: ***BAY*** - #8 Baylor def. #20 Duke  
 - Seeding: ***BAY*** - #1 Baylor def. #2 Duke  
 
 ## Individual Matchups  

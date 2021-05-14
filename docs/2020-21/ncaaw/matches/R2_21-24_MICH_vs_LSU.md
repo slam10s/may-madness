@@ -30,7 +30,7 @@ Baton Rouge, Louisiana
 &nbsp; Massey: 22 (7.77)<br>  
 &nbsp; UTR: 26 (61.48)<br>  
 &nbsp; USTA Poll: 25 (55.00)<br>  
-&nbsp; Coaches Poll: 14<br>  
+&#10004; Coaches Poll: 14<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***MICH*** - #17 Michigan (+0.5) def. #26 LSU (-0.5)  
 - ITA: ***LSU*** - #14 LSU def. #20 Michigan  
 - USTA Poll: ***MICH*** - #8 Michigan def. #25 LSU  
+- Coaches Poll: ***LSU*** - #14 LSU def. #18 Michigan  
 - Seeding: ***LSU*** - #1 LSU def. #2 Michigan  
 
 ## Individual Matchups  

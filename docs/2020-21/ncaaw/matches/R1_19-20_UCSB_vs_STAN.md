@@ -28,7 +28,7 @@ Malibu, California
 &#10004; Massey: 15 (7.96)<br>  
 &#10004; UTR: 7 (63.45)<br>  
 &#10004; USTA Poll: 20 (100.00)<br>  
-&nbsp; Coaches Poll: 26<br>  
+&#10004; Coaches Poll: 26<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***STAN*** - #7 Stanford (+6.42) def. #46 UC Santa Barbara (-6.42)  
 - ITA: ***STAN*** - #27 Stanford def. #44 UC Santa Barbara  
 - USTA Poll: ***STAN*** - #20 Stanford def. UC Santa Barbara  
+- Coaches Poll: ***STAN*** - #26 Stanford def. UC Santa Barbara  
 - Seeding: ***STAN*** - #2 Stanford def. #3 UC Santa Barbara  
 
 ## Individual Matchups  

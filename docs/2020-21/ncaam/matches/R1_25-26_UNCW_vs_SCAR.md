@@ -28,7 +28,7 @@ Columbia, South Carolina
 &#10004; Massey: 16 (8.13)<br>  
 &#10004; UTR: 17 (78.69)<br>  
 &#10004; USTA Poll: 17 (133.00)<br>  
-&nbsp; Coaches Poll: 13<br>  
+&#10004; Coaches Poll: 13<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***SCAR*** - #17 South Carolina (+4.69) def. #47 UNCW (-4.69)  
 - ITA: ***SCAR*** - #13 South Carolina def. #46 UNCW  
 - USTA Poll: ***SCAR*** - #17 South Carolina def. UNCW  
+- Coaches Poll: ***SCAR*** - #13 South Carolina def. UNCW  
 - Seeding: ***SCAR*** - #1 South Carolina def. #4 UNCW  
 
 ## Individual Matchups  

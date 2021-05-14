@@ -29,7 +29,7 @@ Austin, Texas
 &#10004; Massey: 24 (7.65)<br>  
 &#10004; UTR: 23 (61.59)<br>  
 &#10004; USTA Poll: RV (6.00)<br>  
-&nbsp; Coaches Poll: 30<br>  
+&#10004; Coaches Poll: 30<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***AZST*** - #23 Arizona St. (+1.75) def. #36 Mississippi St. (-1.75)  
 - ITA: ***AZST*** - #31 Arizona St. def. #38 Mississippi St.  
 - USTA Poll: ***AZST*** - RV Arizona St. def. Mississippi St.  
+- Coaches Poll: ***AZST*** - #30 Arizona St. def. #38 Mississippi St.  
 - Seeding: ***AZST*** - #2 Arizona St. def. #3 Mississippi St.  
 
 ## Individual Matchups  

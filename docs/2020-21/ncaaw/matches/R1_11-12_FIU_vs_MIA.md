@@ -30,7 +30,7 @@ Orlando, Florida
 &#10004; Massey: 17 (7.84)<br>  
 &#10004; UTR: 19 (61.89)<br>  
 &#10004; USTA Poll: 23 (73.00)<br>  
-&nbsp; Coaches Poll: 21<br>  
+&#10004; Coaches Poll: 21<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***MIA*** - #19 Miami (FL) (+2.89) def. #42 FIU (-2.89)  
 - ITA: ***MIA*** - #23 Miami (FL) def. #41 FIU  
 - USTA Poll: ***MIA*** - #23 Miami (FL) def. RV FIU  
+- Coaches Poll: ***MIA*** - #21 Miami (FL) def. #44 FIU  
 - Seeding: ***MIA*** - #2 Miami (FL) def. #3 FIU  
 
 ## Individual Matchups  

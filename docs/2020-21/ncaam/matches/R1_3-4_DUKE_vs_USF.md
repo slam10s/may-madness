@@ -28,7 +28,7 @@ Gainesville, Florida
 &#10004; TRN: 34 (90.69)<br>  
 &#10004; Massey: 32 (7.49)<br>  
 &nbsp; UTR: 37 (76.51)<br>  
-&nbsp; Coaches Poll: 33<br>  
+&#10004; Coaches Poll: 33<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***USF*** - South Fla. (51%) def. Duke (49%)  
 - UTR: ***DUKE*** - #32 Duke (+0.35) def. #37 South Fla. (-0.35)  
 - ITA: ***USF*** - #31 South Fla. def. #32 Duke  
+- Coaches Poll: ***USF*** - #33 South Fla. def. #36 Duke  
 - Seeding: ***USF*** - #2 South Fla. def. #3 Duke  
 
 ## Individual Matchups  

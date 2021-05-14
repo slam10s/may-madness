@@ -28,7 +28,7 @@ Los Angeles, California
 &#10004; Massey: 22 (7.73)<br>  
 &#10004; UTR: 26 (77.59)<br>  
 &#10004; USTA Poll: 26 (27.00)<br>  
-&nbsp; Coaches Poll: 30<br>  
+&#10004; Coaches Poll: 30<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***PEPP*** - #26 Pepperdine (+3.39) def. #46 UC Santa Barbara (-3.39)  
 - ITA: ***PEPP*** - #28 Pepperdine def. #51 UC Santa Barbara  
 - USTA Poll: ***PEPP*** - #26 Pepperdine def. UC Santa Barbara  
+- Coaches Poll: ***PEPP*** - #30 Pepperdine def. UC Santa Barbara  
 - Seeding: ***PEPP*** - #2 Pepperdine def. #3 UC Santa Barbara  
 
 ## Individual Matchups  

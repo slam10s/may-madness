@@ -29,7 +29,7 @@ Waco, Texas
 &#10004; Massey: 5 (8.82)<br>  
 &#10004; UTR: 9 (79.74)<br>  
 &#10004; USTA Poll: 3 (292.00)<br>  
-&nbsp; Coaches Poll: 1<br>  
+&#10004; Coaches Poll: 1<br>  
 <br>  
 
 </td>
@@ -53,6 +53,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***BAY*** - #9 Baylor (+2.96) def. #33 Oregon (-2.96)  
 - ITA: ***BAY*** - #1 Baylor def. #37 Oregon  
 - USTA Poll: ***BAY*** - #3 Baylor def. Oregon  
+- Coaches Poll: ***BAY*** - #1 Baylor def. #41 Oregon  
 - Seeding: ***BAY*** - #1 Baylor def. #3 Oregon  
 
 ## Individual Matchups  

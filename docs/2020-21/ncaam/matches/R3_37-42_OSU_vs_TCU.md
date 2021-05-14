@@ -28,7 +28,7 @@ Third Round[](#top)<a name="top"></a>
 &#10004; Massey: 6 (8.76)<br>  
 &nbsp; UTR: 10 (79.71)<br>  
 &nbsp; USTA Poll: 11 (217.00)<br>  
-&nbsp; Coaches Poll: 7<br>  
+&#10004; Coaches Poll: 7<br>  
 <br>  
 
 </td>
@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***OSU*** - #3 Ohio St. (+0.57) def. #10 TCU (-0.57)  
 - ITA: ***TCU*** - #7 TCU def. #35 Ohio St.  
 - USTA Poll: ***OSU*** - #9 Ohio St. def. #11 TCU  
+- Coaches Poll: ***TCU*** - #7 TCU def. #17 Ohio St.  
 - Seeding: ***TCU*** - #7 TCU def. Ohio St.  
 
 ## Individual Matchups  

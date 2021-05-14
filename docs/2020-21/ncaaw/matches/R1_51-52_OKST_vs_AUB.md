@@ -29,7 +29,7 @@ Tallahassee, Florida
 &#10004; Massey: 25 (7.48)<br>  
 &nbsp; UTR: 30 (60.99)<br>  
 &#10004; USTA Poll: 27 (14.00)<br>  
-&nbsp; Coaches Poll: 22<br>  
+&#10004; Coaches Poll: 22<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***OKST*** - #17 Oklahoma St. (+0.99) def. #30 Auburn (-0.99)  
 - ITA: ***AUB*** - #19 Auburn def. #37 Oklahoma St.  
 - USTA Poll: ***AUB*** - #27 Auburn def. Oklahoma St.  
+- Coaches Poll: ***AUB*** - #22 Auburn def. #37 Oklahoma St.  
 - Seeding: ***AUB*** - #2 Auburn def. #3 Oklahoma St.  
 
 ## Individual Matchups  

@@ -28,7 +28,7 @@ Charlottesville, Virginia
 &#10004; Massey: 7 (8.25)<br>  
 &#10004; UTR: 13 (62.41)<br>  
 &#10004; USTA Poll: 11 (202.00)<br>  
-&nbsp; Coaches Poll: 11<br>  
+&#10004; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UVA*** - #13 Virginia (+12.56) def. #60 LIU (-12.56)  
 - ITA: ***UVA*** - #13 Virginia def. #51 LIU  
 - USTA Poll: ***UVA*** - #11 Virginia def. LIU  
+- Coaches Poll: ***UVA*** - #11 Virginia def. LIU  
 - Seeding: ***UVA*** - #1 Virginia def. #4 LIU  
 
 ## Individual Matchups  

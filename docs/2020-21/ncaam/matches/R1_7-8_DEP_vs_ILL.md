@@ -28,7 +28,7 @@ Urbana, Illinois
 &#10004; Massey: 9 (8.60)<br>  
 &#10004; UTR: 15 (78.92)<br>  
 &#10004; USTA Poll: 10 (231.00)<br>  
-&nbsp; Coaches Poll: 13<br>  
+&#10004; Coaches Poll: 13<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***ILL*** - #15 Illinois (+8.25) def. #59 DePaul (-8.25)  
 - ITA: ***ILL*** - #17 Illinois def. #54 DePaul  
 - USTA Poll: ***ILL*** - #10 Illinois def. DePaul  
+- Coaches Poll: ***ILL*** - #13 Illinois def. DePaul  
 - Seeding: ***ILL*** - #1 Illinois def. #4 DePaul  
 
 ## Individual Matchups  

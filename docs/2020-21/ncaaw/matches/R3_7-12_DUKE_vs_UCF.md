@@ -28,7 +28,7 @@ Third Round[](#top)<a name="top"></a>
 &nbsp; Massey: 10 (8.12)<br>  
 &nbsp; UTR: 16 (62.03)<br>  
 &#10004; USTA Poll: 10 (203.00)<br>  
-&nbsp; Coaches Poll: 9<br>  
+&#10004; Coaches Poll: 9<br>  
 <br>  
 
 </td>
@@ -48,6 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***DUKE*** - #12 Duke (+0.42) def. #16 UCF (-0.42)  
 - ITA: ***UCF*** - #9 UCF def. #18 Duke  
 - USTA Poll: ***UCF*** - #10 UCF def. #15 Duke  
+- Coaches Poll: ***UCF*** - #9 UCF def. #20 Duke  
 - Seeding: ***UCF*** - #9 UCF def. Duke  
 
 ## Individual Matchups  

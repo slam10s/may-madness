@@ -30,7 +30,7 @@ Orlando, Florida
 &#10004; Massey: 10 (8.12)<br>  
 &#10004; UTR: 16 (62.03)<br>  
 &#10004; USTA Poll: 10 (203.00)<br>  
-&nbsp; Coaches Poll: 9<br>  
+&#10004; Coaches Poll: 9<br>  
 <br>  
 
 </td>
@@ -54,6 +54,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UCF*** - #16 UCF (+0.14) def. #19 Miami (FL) (-0.14)  
 - ITA: ***UCF*** - #9 UCF def. #23 Miami (FL)  
 - USTA Poll: ***UCF*** - #10 UCF def. #23 Miami (FL)  
+- Coaches Poll: ***UCF*** - #9 UCF def. #21 Miami (FL)  
 - Seeding: ***UCF*** - #1 UCF def. #2 Miami (FL)  
 
 ## Individual Matchups  

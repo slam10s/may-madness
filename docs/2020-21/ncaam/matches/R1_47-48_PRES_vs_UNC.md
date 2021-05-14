@@ -28,7 +28,7 @@ Chapel Hill, North Carolina
 &#10004; Massey: 4 (8.94)<br>  
 &#10004; UTR: 11 (79.64)<br>  
 &#10004; USTA Poll: 7 (282.00)<br>  
-&nbsp; Coaches Poll: 6<br>  
+&#10004; Coaches Poll: 6<br>  
 <br>  
 
 </td>
@@ -52,6 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UNC*** - #11 North Carolina (+9.36) def. #60 Presbyterian (-9.36)  
 - ITA: ***UNC*** - #6 North Carolina def. #58 Presbyterian  
 - USTA Poll: ***UNC*** - #7 North Carolina def. Presbyterian  
+- Coaches Poll: ***UNC*** - #6 North Carolina def. Presbyterian  
 - Seeding: ***UNC*** - #1 North Carolina def. #4 Presbyterian  
 
 ## Individual Matchups  

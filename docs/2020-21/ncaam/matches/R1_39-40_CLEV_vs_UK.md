@@ -28,7 +28,7 @@ Lexington, Kentucky
 &#10004; Massey: 17 (8.12)<br>  
 &#10004; UTR: 16 (78.88)<br>  
 &#10004; USTA Poll: 19 (111.00)<br>  
-&nbsp; Coaches Poll: 15<br>  
+&#10004; Coaches Poll: 15<br>  
 <br>  
 
 </td>
@@ -51,6 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - UTR: ***UK*** - #16 Kentucky (+7.36) def. #53 Cleveland St. (-7.36)  
 - ITA: ***UK*** - #15 Kentucky def. #55 Cleveland St.  
 - USTA Poll: ***UK*** - #19 Kentucky def. Cleveland St.  
+- Coaches Poll: ***UK*** - #15 Kentucky def. Cleveland St.  
 - Seeding: ***UK*** - #1 Kentucky def. #4 Cleveland St.  
 
 ## Individual Matchups  
