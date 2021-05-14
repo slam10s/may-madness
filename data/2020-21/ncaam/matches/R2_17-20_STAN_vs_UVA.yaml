@@ -15,13 +15,13 @@ Home:
     Overall: 5
     Region: 1
   Ratings:
-    ITA: 4 (74.36)
+    ITA: 5 (74.11)
     SLM: 1 (100.00)
     TRN: 1 (100.00)
     MAS: 3 (9.13)
     UTR: 6 (80.03)
   Polls:
-    USTA: 1
+    USTA: 1 (320.00)
     Coach: 5
 Visitor:
   Team: Stanford
@@ -37,65 +37,64 @@ Visitor:
     MAS: 20 (7.97)
     UTR: 5 (80.08)
   Polls:
-    USTA: 20
+    USTA: 22 (85.00)
     Coach: 20
 Predictions:
-  AVG: UVA - Virginia (92%) def. Stanford (8%)
+  AVG: UVA - Virginia (94%) def. Stanford (6%)
   SLM: "UVA - #1 Virginia (96%) def. #22 Stanford (4%)"
   TRN: "UVA - #1 Virginia (98%) def. #21 Stanford (2%)"
-  MAS: "UVA - #3 Virginia (93%) def. #20 Stanford (7%)"
-  LNUP: UVA - Virginia (80%) def. Stanford (20%)
+  MAS: "UVA - #3 Virginia (88%) def. #20 Stanford (12%)"
+  LNUP: UVA - Virginia (93%) def. Stanford (7%)
   UTR: "STAN - #5 Stanford (+0.05) def. #6 Virginia (-0.05)"
-  ITA: "UVA - #4 Virginia def. #21 Stanford"
-  USTA: "UVA - #1 Virginia def. #20 Stanford"
-  Coach: "UVA - #5 Virginia def. #20 Stanford"
+  ITA: "UVA - #5 Virginia def. #21 Stanford"
+  USTA: "UVA - #1 Virginia def. #22 Stanford"
   Seeding: "UVA - #1 Virginia def. #2 Stanford"
 Lineups:
   Predictions:
-    Average EWPs for UVA: 96%,98%,93%,80%
-    Average EWPs for STAN: 4%,2%,7%,20%
-    UVA wins 4 or more Singles points: 57%
-    STAN wins 4 or more Singles points: 14%
-    Winner decided by the Doubles point: 29%
+    Average EWPs for UVA: 96%,98%,88%,93%
+    Average EWPs for STAN: 4%,2%,12%,7%
+    UVA wins 4 or more Singles points: 77%
+    STAN wins 4 or more Singles points: 5%
+    Winner decided by the Doubles point: 18%
   Singles:
     - Position: 1
-      UVA: Carl Soderlund - 12-2 at 1, 12-2 in duals, 12-2 overall
+      UVA: Carl Söderlund - 12-2 at 1, 12-2 in duals, 12-2 overall
       STAN: Axel Geller - 5-6 at 1, 6-6 in duals, 6-6 overall
       Predictions:
-        AVG: STAN - Geller (78%) def. Soderlund (22%)
-        SLM: STAN - Geller (99%) def. Soderlund (1%)
-        TRN: STAN - Geller (99%) def. Soderlund (1%)
-        MAS: UVA - Soderlund (85%) def. Geller (15%)
-        UTR: STAN - Geller (99%) def. Soderlund (1%)
-        ITA: UVA - Soderlund (48.38) def. Geller (6.21)
+        AVG: UVA - Söderlund (84%) def. Geller (16%)
+        SLM: UVA - Söderlund (84%) def. Geller (16%)
+        TRN: UVA - Söderlund (84%) def. Geller (16%)
+        MAS: UVA - Söderlund (87%) def. Geller (13%)
+        UTR: UVA - Söderlund (83%) def. Geller (17%)
+        ITA: UVA - Söderlund (48.38) def. Geller (6.21)
     - Position: 2
       UVA: Jeffrey von der Schulenburg - 7-2 at 2, 16-4 in duals, 16-4 overall
       STAN: Arthur Fery - 6-2 at 2, 11-3 in duals, 11-3 overall
       Predictions:
-        AVG: UVA - Schulenburg (54%) def. Fery (46%)
+        AVG: UVA - Schulenburg (52%) def. Fery (48%)
         SLM: UVA - Schulenburg (62%) def. Fery (38%)
         TRN: UVA - Schulenburg (68%) def. Fery (32%)
-        MAS: UVA - Schulenburg (66%) def. Fery (34%)
+        MAS: UVA - Schulenburg (58%) def. Fery (42%)
         UTR: STAN - Fery (79%) def. Schulenburg (21%)
         ITA: UVA - Schulenburg (18.39) def. Fery (8.87)
     - Position: 3
       UVA: Chris Rodesch - 6-2 at 3, 14-6 in duals, 14-6 overall
       STAN: Tristan Boyer - 1-1 at 3, 8-5 in duals, 8-5 overall
       Predictions:
-        AVG: UVA - Rodesch (50%) def. Boyer (50%)
+        AVG: UVA - Rodesch (51%) def. Boyer (49%)
         SLM: UVA - Rodesch (64%) def. Boyer (36%)
-        TRN: UVA - Rodesch (65%) def. Boyer (35%)
-        MAS: UVA - Rodesch (56%) def. Boyer (44%)
+        TRN: UVA - Rodesch (64%) def. Boyer (36%)
+        MAS: UVA - Rodesch (59%) def. Boyer (41%)
         UTR: STAN - Boyer (83%) def. Rodesch (17%)
         ITA: UVA - Rodesch (3.82) def. Boyer (2.12)
     - Position: 4
       UVA: Inaki Montes de la Torre - 6-0 at 4, 15-4 in duals, 15-4 overall
       STAN: Alex Rotsaert - 0-0 at 4, 4-6 in duals, 4-6 overall
       Predictions:
-        AVG: UVA - Torre (80%) def. Rotsaert (20%)
+        AVG: UVA - Torre (79%) def. Rotsaert (21%)
         SLM: UVA - Torre (73%) def. Rotsaert (27%)
         TRN: UVA - Torre (83%) def. Rotsaert (17%)
-        MAS: UVA - Torre (83%) def. Rotsaert (17%)
+        MAS: UVA - Torre (81%) def. Rotsaert (19%)
         UTR: UVA - Torre (81%) def. Rotsaert (19%)
         ITA: UVA - Torre (12.34) def. Rotsaert (1.37)
     - Position: 5
@@ -112,10 +111,10 @@ Lineups:
       UVA: Gianni Ross - 7-3 at 6, 11-3 in duals, 11-3 overall
       STAN: William Genesen - 3-2 at 6, 5-3 in duals, 5-3 overall
       Predictions:
-        AVG: UVA - Ross (76%) def. Genesen (24%)
+        AVG: UVA - Ross (74%) def. Genesen (26%)
         SLM: UVA - Ross (77%) def. Genesen (23%)
-        TRN: UVA - Ross (76%) def. Genesen (24%)
-        MAS: UVA - Ross (75%) def. Genesen (25%)
+        TRN: UVA - Ross (71%) def. Genesen (29%)
+        MAS: UVA - Ross (73%) def. Genesen (27%)
         UTR: UVA - Ross (76%) def. Genesen (24%)
         ITA: UVA - Ross (2.67) def. Genesen (1.81)
   Doubles:

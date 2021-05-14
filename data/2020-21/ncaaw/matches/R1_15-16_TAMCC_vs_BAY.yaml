@@ -21,17 +21,17 @@ Home:
     MAS: 12 (8.06)
     UTR: 8 (63.14)
   Polls:
-    USTA: 8
+    USTA: 9 (204.00)
     Coach: 8
 Visitor:
   Team: A&M-Corpus Christi
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 15
   Seeding:
     Region: 4
   Ratings:
-    ITA: 56 (3.61)
+    ITA: 55 (3.61)
     SLM: 55 (78.55)
     TRN: 55 (67.73)
     MAS: 52 (5.45)
@@ -43,9 +43,8 @@ Predictions:
   MAS: "BAY - #12 Baylor (99%) def. #52 A&M-Corpus Christi (1%)"
   LNUP: BAY - Baylor (99%) def. A&M-Corpus Christi (1%)
   UTR: "BAY - #8 Baylor (+8.61) def. #52 A&M-Corpus Christi (-8.61)"
-  ITA: "BAY - #8 Baylor def. #56 A&M-Corpus Christi"
-  USTA: "BAY - #8 Baylor def. A&M-Corpus Christi"
-  Coach: "BAY - #8 Baylor def. A&M-Corpus Christi"
+  ITA: "BAY - #8 Baylor def. #55 A&M-Corpus Christi"
+  USTA: "BAY - #9 Baylor def. A&M-Corpus Christi"
   Seeding: "BAY - #1 Baylor def. #4 A&M-Corpus Christi"
 Lineups:
   Predictions:
@@ -61,48 +60,48 @@ Lineups:
       Predictions:
         AVG: BAY - Krywoj (93%) def. Shumeika (7%)
         SLM: BAY - Krywoj (95%) def. Shumeika (5%)
-        TRN: BAY - Krywoj (90%) def. Shumeika (10%)
-        MAS: BAY - Krywoj (91%) def. Shumeika (9%)
+        TRN: BAY - Krywoj (91%) def. Shumeika (9%)
+        MAS: BAY - Krywoj (90%) def. Shumeika (10%)
         UTR: BAY - Krywoj (97%) def. Shumeika (3%)
         ITA: BAY - Krywoj (8.77) def. Shumeika (2.79)
     - Position: 2
       BAY: Jessica Hinojosa - 7-6 at 2, 12-10 in duals, 18-15 overall
       TAMCC: Camille Townsend - 6-3 at 2, 14-6 in duals, 14-6 overall
       Predictions:
-        AVG: BAY - Hinojosa (91%) def. Townsend (9%)
+        AVG: BAY - Hinojosa (90%) def. Townsend (10%)
         SLM: BAY - Hinojosa (90%) def. Townsend (10%)
         TRN: BAY - Hinojosa (95%) def. Townsend (5%)
-        MAS: BAY - Hinojosa (83%) def. Townsend (17%)
+        MAS: BAY - Hinojosa (81%) def. Townsend (19%)
         UTR: BAY - Hinojosa (95%) def. Townsend (5%)
         ITA: BAY - Hinojosa (3.62) def. Townsend (1.97)
     - Position: 3
-      BAY: Alicia Herrero - 4-4 at 3, 13-8 in duals, 20-13 overall
+      BAY: Alicia Herrero-Linana - 4-4 at 3, 13-8 in duals, 20-13 overall
       TAMCC: Emma Honore - 16-4 at 3, 16-6 in duals, 15-6 overall
       Predictions:
-        AVG: BAY - Herrero (97%) def. Honore (3%)
-        SLM: BAY - Herrero (97%) def. Honore (3%)
-        TRN: BAY - Herrero (98%) def. Honore (2%)
-        MAS: BAY - Herrero (96%) def. Honore (4%)
-        UTR: BAY - Herrero (97%) def. Honore (3%)
-        ITA: BAY - Herrero (2.87) def. Honore (2.07)
+        AVG: BAY - Herrero-Linana (97%) def. Honore (3%)
+        SLM: BAY - Herrero-Linana (97%) def. Honore (3%)
+        TRN: BAY - Herrero-Linana (98%) def. Honore (2%)
+        MAS: BAY - Herrero-Linana (95%) def. Honore (5%)
+        UTR: BAY - Herrero-Linana (97%) def. Honore (3%)
+        ITA: BAY - Herrero-Linana (2.87) def. Honore (2.07)
     - Position: 4
-      BAY: Angie Shakhraichuck - 6-4 at 4, 17-5 in duals, 24-10 overall
+      BAY: Angelina Shakhraichuk - 6-4 at 4, 17-5 in duals, 24-10 overall
       TAMCC: Emma Aucagne - 20-1 at 4, 22-1 in duals, 22-1 overall
       Predictions:
-        AVG: BAY - Shakhraichuck (88%) def. Aucagne (12%)
-        SLM: BAY - Shakhraichuck (96%) def. Aucagne (4%)
-        TRN: BAY - Shakhraichuck (96%) def. Aucagne (4%)
-        MAS: BAY - Shakhraichuck (89%) def. Aucagne (11%)
-        UTR: BAY - Shakhraichuck (72%) def. Aucagne (28%)
-        ITA: TAMCC - Aucagne (3.69) def. Shakhraichuck (1.88)
+        AVG: BAY - Shakhraichuk (88%) def. Aucagne (12%)
+        SLM: BAY - Shakhraichuk (95%) def. Aucagne (5%)
+        TRN: BAY - Shakhraichuk (96%) def. Aucagne (4%)
+        MAS: BAY - Shakhraichuk (88%) def. Aucagne (12%)
+        UTR: BAY - Shakhraichuk (72%) def. Aucagne (28%)
+        ITA: TAMCC - Aucagne (3.69) def. Shakhraichuk (1.88)
     - Position: 5
       BAY: Kristina Sorokolet - 4-1 at 5, 11-3 in duals, 18-5 overall
       TAMCC: Leopoldine Boisseau - 14-3 at 5, 17-3 in duals, 17-3 overall
       Predictions:
         AVG: BAY - Sorokolet (94%) def. Boisseau (6%)
-        SLM: BAY - Sorokolet (96%) def. Boisseau (4%)
-        TRN: BAY - Sorokolet (96%) def. Boisseau (4%)
-        MAS: BAY - Sorokolet (88%) def. Boisseau (12%)
+        SLM: BAY - Sorokolet (97%) def. Boisseau (3%)
+        TRN: BAY - Sorokolet (97%) def. Boisseau (3%)
+        MAS: BAY - Sorokolet (89%) def. Boisseau (11%)
         UTR: BAY - Sorokolet (95%) def. Boisseau (5%)
         ITA: TAMCC - Boisseau (2.71) def. Sorokolet (1.95)
     - Position: 6
@@ -112,7 +111,7 @@ Lineups:
         AVG: BAY - Baranano (98%) def. Delattre (2%)
         SLM: BAY - Baranano (99%) def. Delattre (1%)
         TRN: BAY - Baranano (99%) def. Delattre (1%)
-        MAS: BAY - Baranano (96%) def. Delattre (4%)
+        MAS: BAY - Baranano (97%) def. Delattre (3%)
         UTR: BAY - Baranano (98%) def. Delattre (2%)
         ITA: TAMCC - Delattre (3.13) def. Baranano (2.52)
   Doubles:

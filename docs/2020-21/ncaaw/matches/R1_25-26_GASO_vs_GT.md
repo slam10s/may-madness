@@ -10,7 +10,7 @@ Atlanta, Georgia
 
 <h2>#4 Ga. Southern</h2>  
 &nbsp; Record: 19-9<br>  
-&nbsp; ITA: 53 (4.08)<br>  
+&nbsp; ITA: 52 (4.08)<br>  
 &nbsp; Slam: 53 (78.88)<br>  
 &nbsp; TRN: 54 (68.86)<br>  
 &nbsp; Massey: 55 (5.15)<br>  
@@ -22,13 +22,13 @@ Atlanta, Georgia
 
 <h2>#1 Georgia Tech</h2>  
 &nbsp; Record: 19-10<br>  
-&#10004; ITA: 13 (48.32)<br>  
+&#10004; ITA: 11 (48.83)<br>  
 &#10004; Slam: 20 (90.34)<br>  
 &#10004; TRN: 16 (83.31)<br>  
 &#10004; Massey: 18 (7.83)<br>  
 &#10004; UTR: 24 (61.54)<br>  
-&#10004; USTA Poll: 15<br>  
-&#10004; Coaches Poll: 11<br>  
+&#10004; USTA Poll: 16 (148.00)<br>  
+&nbsp; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -49,9 +49,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***GT*** - #18 Georgia Tech (99%) def. #55 Ga. Southern (1%)  
 - Lineup: ***GT*** - Georgia Tech (99%) def. Ga. Southern (1%)  
 - UTR: ***GT*** - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)  
-- ITA: ***GT*** - #13 Georgia Tech def. #53 Ga. Southern  
-- USTA Poll: ***GT*** - #15 Georgia Tech def. Ga. Southern  
-- Coaches Poll: ***GT*** - #11 Georgia Tech def. Ga. Southern  
+- ITA: ***GT*** - #11 Georgia Tech def. #52 Ga. Southern  
+- USTA Poll: ***GT*** - #16 Georgia Tech def. Ga. Southern  
 - Seeding: ***GT*** - #1 Georgia Tech def. #4 Ga. Southern  
 
 ## Individual Matchups  
@@ -80,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>GT</i></b> - Flores (99%) def. Boixader (1%)</li>  
 <li>Massey: <b><i>GT</i></b> - Flores (99%) def. Boixader (1%)</li>  
 <li>UTR: <b><i>GT</i></b> - Flores (98%) def. Boixader (2%)</li>  
-<li>ITA: <b><i>GT</i></b> - Flores (29.63) def. Boixader (0.00)</li>  
+<li>ITA: <b><i>GASO</i></b> - # Boixader def. Flores (29.63)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -89,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>GT</i></b> - Cohen (87%) def. Wagemaker (13%)</li>  
 <li>Slam: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
 <li>TRN: <b><i>GT</i></b> - Cohen (93%) def. Wagemaker (7%)</li>  
-<li>Massey: <b><i>GT</i></b> - Cohen (75%) def. Wagemaker (25%)</li>  
+<li>Massey: <b><i>GT</i></b> - Cohen (76%) def. Wagemaker (24%)</li>  
 <li>UTR: <b><i>GT</i></b> - Cohen (87%) def. Wagemaker (13%)</li>  
 <li>ITA: <b><i>GT</i></b> - Cohen (3.38) def. Wagemaker (1.85)</li>  
 </ul>
@@ -102,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
 <li>Massey: <b><i>GT</i></b> - Hrastar (98%) def. Diemen (2%)</li>  
 <li>UTR: <b><i>GT</i></b> - Hrastar (97%) def. Diemen (3%)</li>  
-<li>ITA: <b><i>GT</i></b> - Hrastar (5.81) def. Diemen (0.00)</li>  
+<li>ITA: <b><i>GASO</i></b> - # Diemen def. Hrastar (5.81)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -119,11 +118,11 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Paula Hijos (GASO) - 2-0 at #6, 13-6 in duals, 13-6 overall<br>Mahak Jain (GT) - 7-2 at #6, 14-7 in duals, 16-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Jain (96%) def. Hijos (4%)</li>  
+<li>Composite: <b><i>GT</i></b> - Jain (95%) def. Hijos (5%)</li>  
 <li>Slam: <b><i>GT</i></b> - Jain (95%) def. Hijos (5%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jain (97%) def. Hijos (3%)</li>  
 <li>Massey: <b><i>GT</i></b> - Jain (93%) def. Hijos (7%)</li>  
-<li>UTR: <b><i>GT</i></b> - Jain (99%) def. Hijos (1%)</li>  
+<li>UTR: <b><i>GT</i></b> - Jain (95%) def. Hijos (5%)</li>  
 <li>ITA: <b><i>GASO</i></b> - Hijos (1.93) def. Jain (1.89)</li>  
 </ul>
 </details>&nbsp;</li>

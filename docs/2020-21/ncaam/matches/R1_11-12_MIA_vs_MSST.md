@@ -10,7 +10,7 @@ Orlando, Florida
 
 <h2>#3 Miami (FL)</h2>  
 &nbsp; Record: 8-11<br>  
-&nbsp; ITA: 39 (19.34)<br>  
+&nbsp; ITA: 39 (19.49)<br>  
 &nbsp; Slam: 37 (92.19)<br>  
 &nbsp; TRN: 43 (89.49)<br>  
 &nbsp; Massey: 38 (7.31)<br>  
@@ -26,10 +26,10 @@ Orlando, Florida
 &#10004; ITA: 16 (41.29)<br>  
 &#10004; Slam: 20 (94.39)<br>  
 &#10004; TRN: 19 (92.98)<br>  
-&#10004; Massey: 26 (7.63)<br>  
+&#10004; Massey: 27 (7.63)<br>  
 &#10004; UTR: 24 (77.84)<br>  
-&#10004; USTA Poll: 23<br>  
-&#10004; Coaches Poll: 18<br>  
+&#10004; USTA Poll: 25 (44.00)<br>  
+&nbsp; Coaches Poll: 18<br>  
 <br>  
 
 </td>
@@ -45,15 +45,14 @@ Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76)
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***MSST*** - Mississippi St. (78%) def. Miami (FL) (22%)  
+- Composite: ***MSST*** - Mississippi St. (82%) def. Miami (FL) (18%)  
 - Slam: ***MSST*** - #20 Mississippi St. (78%) def. #37 Miami (FL) (22%)  
 - TRN: ***MSST*** - #19 Mississippi St. (88%) def. #43 Miami (FL) (12%)  
-- Massey: ***MSST*** - #26 Mississippi St. (56%) def. #38 Miami (FL) (44%)  
-- Lineup: ***MSST*** - Mississippi St. (91%) def. Miami (FL) (9%)  
+- Massey: ***MSST*** - #27 Mississippi St. (69%) def. #38 Miami (FL) (31%)  
+- Lineup: ***MSST*** - Mississippi St. (92%) def. Miami (FL) (8%)  
 - UTR: ***MSST*** - #24 Mississippi St. (+2.16) def. #40 Miami (FL) (-2.16)  
 - ITA: ***MSST*** - #16 Mississippi St. def. #39 Miami (FL)  
-- USTA Poll: ***MSST*** - #23 Mississippi St. def. Miami (FL)  
-- Coaches Poll: ***MSST*** - #18 Mississippi St. def. #43 Miami (FL)  
+- USTA Poll: ***MSST*** - #25 Mississippi St. def. Miami (FL)  
 - Seeding: ***MSST*** - #2 Mississippi St. def. #3 Miami (FL)  
 
 ## Individual Matchups  
@@ -66,10 +65,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Adria Soriano Barrera (MIA) - 9-6 at #1, 9-6 in duals, 9-6 overall<br>Giovanni Oradini (MSST) - 11-7 at #1, 11-10 in duals, 17-14 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MSST</i></b> - Oradini (50%) def. Barrera (50%)</li>  
-<li>Slam: <b><i>MIA</i></b> - Barrera (53%) def. Oradini (47%)</li>  
-<li>TRN: <b><i>MIA</i></b> - Barrera (56%) def. Oradini (44%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Barrera (57%) def. Oradini (43%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Barrera (51%) def. Oradini (49%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Barrera (52%) def. Oradini (48%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Barrera (55%) def. Oradini (45%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Barrera (65%) def. Oradini (35%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Oradini (68%) def. Barrera (32%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Oradini (31.20) def. Barrera (18.59)</li>  
 </ul>
@@ -77,10 +76,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Bojan Jankulovski (MIA) - 5-4 at #2, 9-5 in duals, 9-5 overall<br>Florian Broska (MSST) - 10-5 at #2, 14-8 in duals, 20-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MSST</i></b> - Broska (64%) def. Jankulovski (36%)</li>  
+<li>Composite: <b><i>MSST</i></b> - Broska (67%) def. Jankulovski (33%)</li>  
 <li>Slam: <b><i>MSST</i></b> - Broska (68%) def. Jankulovski (32%)</li>  
-<li>TRN: <b><i>MSST</i></b> - Broska (63%) def. Jankulovski (37%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Jankulovski (53%) def. Broska (47%)</li>  
+<li>TRN: <b><i>MSST</i></b> - Broska (64%) def. Jankulovski (36%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Broska (58%) def. Jankulovski (42%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Broska (78%) def. Jankulovski (22%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Broska (16.73) def. Jankulovski (3.33)</li>  
 </ul>
@@ -88,10 +87,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Benjamin Hannestad (MIA) - 5-5 at #3, 6-10 in duals, 6-10 overall<br>Nemanja Malesevic (MSST) - 9-5 at #3, 15-7 in duals, 20-11 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MSST</i></b> - Malesevic (71%) def. Hannestad (29%)</li>  
+<li>Composite: <b><i>MSST</i></b> - Malesevic (72%) def. Hannestad (28%)</li>  
 <li>Slam: <b><i>MSST</i></b> - Malesevic (72%) def. Hannestad (28%)</li>  
-<li>TRN: <b><i>MSST</i></b> - Malesevic (77%) def. Hannestad (23%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Malesevic (62%) def. Hannestad (38%)</li>  
+<li>TRN: <b><i>MSST</i></b> - Malesevic (75%) def. Hannestad (25%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Malesevic (66%) def. Hannestad (34%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Malesevic (74%) def. Hannestad (26%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Malesevic (15.40) def. Hannestad (1.40)</li>  
 </ul>
@@ -101,19 +100,19 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>MSST</i></b> - Colas (85%) def. Milicevic (15%)</li>  
 <li>Slam: <b><i>MSST</i></b> - Colas (82%) def. Milicevic (18%)</li>  
-<li>TRN: <b><i>MSST</i></b> - Colas (86%) def. Milicevic (14%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Colas (81%) def. Milicevic (19%)</li>  
+<li>TRN: <b><i>MSST</i></b> - Colas (87%) def. Milicevic (13%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Colas (80%) def. Milicevic (20%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Colas (91%) def. Milicevic (9%)</li>  
-<li>ITA: <b><i>MSST</i></b> - Colas (5.15) def. Milicevic (0.00)</li>  
+<li>ITA: <b><i>MIA</i></b> - # Milicevic def. Colas (5.15)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Oren Vasser (MIA) - 3-1 at #5, 9-6 in duals, 9-6 overall<br>Carles Hernandez (MSST) - 9-8 at #5, 14-8 in duals, 14-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MSST</i></b> - Hernandez (72%) def. Vasser (28%)</li>  
+<li>Composite: <b><i>MSST</i></b> - Hernandez (74%) def. Vasser (26%)</li>  
 <li>Slam: <b><i>MSST</i></b> - Hernandez (78%) def. Vasser (22%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Hernandez (79%) def. Vasser (21%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Vasser (54%) def. Hernandez (46%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Hernandez (56%) def. Vasser (44%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Hernandez (85%) def. Vasser (15%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Vasser (1.93) def. Hernandez (1.85)</li>  
 </ul>
@@ -121,10 +120,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Franco Aubone (MIA) - 1-4 at #6, 7-10 in duals, 7-10 overall<br>Davide Tortora (MSST) - 7-3 at #6, 7-3 in duals, 13-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MSST</i></b> - Tortora (71%) def. Aubone (29%)</li>  
+<li>Composite: <b><i>MSST</i></b> - Tortora (73%) def. Aubone (27%)</li>  
 <li>Slam: <b><i>MSST</i></b> - Tortora (77%) def. Aubone (23%)</li>  
 <li>TRN: <b><i>MSST</i></b> - Tortora (89%) def. Aubone (11%)</li>  
-<li>Massey: <b><i>MSST</i></b> - Tortora (61%) def. Aubone (39%)</li>  
+<li>Massey: <b><i>MSST</i></b> - Tortora (65%) def. Aubone (35%)</li>  
 <li>UTR: <b><i>MSST</i></b> - Tortora (59%) def. Aubone (41%)</li>  
 <li>ITA: <b><i>MSST</i></b> - Tortora (9.41) def. Aubone (1.40)</li>  
 </ul>
@@ -151,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Mississippi St. should win 4 or more singles matches *74%* of the time.  
-- Miami (FL) should win 4 or more singles matches *7%* of the time.  
-- The winner of the doubles point should decide the match the other *19%* of the time.  
-- If Mississippi St. wins the doubles point, their chances of winning the dual improve to *93%*.  
-- If Miami (FL) wins the doubles point, their chances of winning the dual improve to *26%*.  
+- Mississippi St. should win 4 or more singles matches *76%* of the time.  
+- Miami (FL) should win 4 or more singles matches *6%* of the time.  
+- The winner of the doubles point should decide the match the other *18%* of the time.  
+- If Mississippi St. wins the doubles point, their chances of winning the dual improve to *94%*.  
+- If Miami (FL) wins the doubles point, their chances of winning the dual improve to *24%*.  
   
 ------
 

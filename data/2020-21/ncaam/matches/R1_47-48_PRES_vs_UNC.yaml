@@ -15,37 +15,36 @@ Home:
     Overall: 6
     Region: 1
   Ratings:
-    ITA: 6 (72.02)
+    ITA: 6 (72.28)
     SLM: 3 (99.37)
     TRN: 2 (99.37)
     MAS: 4 (8.94)
     UTR: 11 (79.64)
   Polls:
-    USTA: 5
+    USTA: 7 (282.00)
     Coach: 6
 Visitor:
   Team: Presbyterian
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 47
   Seeding:
     Region: 4
   Ratings:
-    ITA: 59 (3.97)
-    SLM: 59 (82.26)
-    TRN: 59 (77.90)
-    MAS: 61 (5.23)
-    UTR: 61 (70.28)
+    ITA: 58 (3.97)
+    SLM: 58 (82.26)
+    TRN: 58 (77.90)
+    MAS: 60 (5.23)
+    UTR: 60 (70.28)
 Predictions:
   AVG: UNC - North Carolina (99%) def. Presbyterian (1%)
-  SLM: "UNC - #3 North Carolina (99%) def. #59 Presbyterian (1%)"
-  TRN: "UNC - #2 North Carolina (99%) def. #59 Presbyterian (1%)"
-  MAS: "UNC - #4 North Carolina (99%) def. #61 Presbyterian (1%)"
+  SLM: "UNC - #3 North Carolina (99%) def. #58 Presbyterian (1%)"
+  TRN: "UNC - #2 North Carolina (99%) def. #58 Presbyterian (1%)"
+  MAS: "UNC - #4 North Carolina (99%) def. #60 Presbyterian (1%)"
   LNUP: UNC - North Carolina (99%) def. Presbyterian (1%)
-  UTR: "UNC - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)"
-  ITA: "UNC - #6 North Carolina def. #59 Presbyterian"
-  USTA: "UNC - #5 North Carolina def. Presbyterian"
-  Coach: "UNC - #6 North Carolina def. Presbyterian"
+  UTR: "UNC - #11 North Carolina (+9.36) def. #60 Presbyterian (-9.36)"
+  ITA: "UNC - #6 North Carolina def. #58 Presbyterian"
+  USTA: "UNC - #7 North Carolina def. Presbyterian"
   Seeding: "UNC - #1 North Carolina def. #4 Presbyterian"
 Lineups:
   Predictions:
@@ -62,27 +61,27 @@ Lineups:
         AVG: UNC - Blumberg (98%) def. Benson (2%)
         SLM: UNC - Blumberg (98%) def. Benson (2%)
         TRN: UNC - Blumberg (99%) def. Benson (1%)
-        MAS: UNC - Blumberg (97%) def. Benson (3%)
+        MAS: UNC - Blumberg (96%) def. Benson (4%)
         UTR: UNC - Blumberg (97%) def. Benson (3%)
         ITA: UNC - Blumberg (21.87) def. Benson (2.12)
     - Position: 2
       UNC: Rinky Hijikata - 4-2 at 2, 9-2 in duals, 11-2 overall
-      PRES: Sebastian Dominguez - 2-3 at 2, 4-6 in duals, 4-6 overall
+      PRES: Juan Sebastian Dominguez Collado - 2-3 at 2, 4-6 in duals, 4-6 overall
       Predictions:
-        AVG: UNC - Hijikata (99%) def. Dominguez (1%)
-        SLM: UNC - Hijikata (99%) def. Dominguez (1%)
-        TRN: UNC - Hijikata (99%) def. Dominguez (1%)
-        MAS: UNC - Hijikata (99%) def. Dominguez (1%)
-        UTR: UNC - Hijikata (98%) def. Dominguez (2%)
-        ITA: UNC - Hijikata (27.96) def. Dominguez (0.00)
+        AVG: UNC - Hijikata (99%) def. Collado (1%)
+        SLM: UNC - Hijikata (99%) def. Collado (1%)
+        TRN: UNC - Hijikata (99%) def. Collado (1%)
+        MAS: UNC - Hijikata (99%) def. Collado (1%)
+        UTR: UNC - Hijikata (98%) def. Collado (2%)
+        ITA: "PRES - # Collado def. Hijikata (27.96)"
     - Position: 3
       UNC: Benjamin Sigouin - 3-2 at 3, 9-9 in duals, 9-9 overall
       PRES: Nick McKinney - 3-1 at 3, 13-1 in duals, 13-1 overall
       Predictions:
-        AVG: UNC - Sigouin (89%) def. McKinney (11%)
+        AVG: UNC - Sigouin (90%) def. McKinney (10%)
         SLM: UNC - Sigouin (97%) def. McKinney (3%)
         TRN: UNC - Sigouin (96%) def. McKinney (4%)
-        MAS: UNC - Sigouin (74%) def. McKinney (26%)
+        MAS: UNC - Sigouin (76%) def. McKinney (24%)
         UTR: UNC - Sigouin (89%) def. McKinney (11%)
         ITA: UNC - Sigouin (13.85) def. McKinney (3.59)
     - Position: 4
@@ -94,7 +93,7 @@ Lineups:
         TRN: UNC - Cernoch (99%) def. Babic (1%)
         MAS: UNC - Cernoch (99%) def. Babic (1%)
         UTR: UNC - Cernoch (99%) def. Babic (1%)
-        ITA: UNC - Cernoch (12.67) def. Babic (0.00)
+        ITA: "PRES - # Babic def. Cernoch (12.67)"
     - Position: 5
       UNC: Josh Peck - 3-1 at 5, 8-3 in duals, 8-3 overall
       PRES: Daniel Stenger - 2-2 at 5, 7-8 in duals, 7-8 overall
@@ -118,7 +117,7 @@ Lineups:
   Doubles:
     - Position: 1
       UNC: Blumberg/Cernoch - 12-3 at 1, 12-3 in duals, 12-3 overall
-      PRES: Stenger/Dominguez - 2-1 at 1, 6-4 in duals, 6-4 overall
+      PRES: Stenger/Collado - 2-1 at 1, 6-4 in duals, 6-4 overall
     - Position: 2
       UNC: Kiger/Soendergaard - 8-5 at 2, 10-7 in duals, 10-7 overall
       PRES: Matos/McKinney - 0-0 at 2, 4-2 in duals, 4-2 overall

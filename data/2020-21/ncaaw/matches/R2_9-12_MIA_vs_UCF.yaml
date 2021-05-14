@@ -15,13 +15,13 @@ Home:
     Overall: 9
     Region: 1
   Ratings:
-    ITA: 9 (52.14)
+    ITA: 9 (52.03)
     SLM: 12 (91.41)
     TRN: 12 (83.85)
     MAS: 10 (8.12)
     UTR: 16 (62.03)
   Polls:
-    USTA: 9
+    USTA: 10 (203.00)
     Coach: 9
 Visitor:
   Team: Miami (FL)
@@ -31,32 +31,31 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 24 (38.72)
+    ITA: 23 (38.93)
     SLM: 22 (90.21)
     TRN: 21 (82.31)
     MAS: 17 (7.84)
     UTR: 19 (61.89)
   Polls:
-    USTA: 21
+    USTA: 23 (73.00)
     Coach: 21
 Predictions:
-  AVG: UCF - UCF (55%) def. Miami (FL) (45%)
+  AVG: UCF - UCF (54%) def. Miami (FL) (46%)
   SLM: "UCF - #12 UCF (66%) def. #22 Miami (FL) (34%)"
   TRN: "UCF - #12 UCF (70%) def. #21 Miami (FL) (30%)"
-  MAS: "UCF - #10 UCF (65%) def. #17 Miami (FL) (35%)"
+  MAS: "UCF - #10 UCF (64%) def. #17 Miami (FL) (36%)"
   LNUP: MIA - Miami (FL) (82%) def. UCF (18%)
   UTR: "UCF - #16 UCF (+0.14) def. #19 Miami (FL) (-0.14)"
-  ITA: "UCF - #9 UCF def. #24 Miami (FL)"
-  USTA: "UCF - #9 UCF def. #21 Miami (FL)"
-  Coach: "UCF - #9 UCF def. #21 Miami (FL)"
+  ITA: "UCF - #9 UCF def. #23 Miami (FL)"
+  USTA: "UCF - #10 UCF def. #23 Miami (FL)"
   Seeding: "UCF - #1 UCF def. #2 Miami (FL)"
 Lineups:
   Predictions:
-    Average EWPs for UCF: 66%,70%,65%,18%
-    Average EWPs for MIA: 34%,30%,35%,82%
+    Average EWPs for UCF: 66%,70%,64%,18%
+    Average EWPs for MIA: 34%,30%,36%,82%
     UCF wins 4 or more Singles points: 12%
-    MIA wins 4 or more Singles points: 56%
-    Winner decided by the Doubles point: 32%
+    MIA wins 4 or more Singles points: 57%
+    Winner decided by the Doubles point: 31%
   Singles:
     - Position: 1
       UCF: Valeriya Zeleva - 9-2 at 1, 12-2 in duals, 13-3 overall
@@ -65,17 +64,17 @@ Lineups:
         AVG: MIA - Perez-Somarriba (82%) def. Zeleva (18%)
         SLM: MIA - Perez-Somarriba (85%) def. Zeleva (15%)
         TRN: MIA - Perez-Somarriba (87%) def. Zeleva (13%)
-        MAS: MIA - Perez-Somarriba (67%) def. Zeleva (33%)
+        MAS: MIA - Perez-Somarriba (68%) def. Zeleva (32%)
         UTR: MIA - Perez-Somarriba (87%) def. Zeleva (13%)
         ITA: MIA - Perez-Somarriba (69.45) def. Zeleva (22.66)
     - Position: 2
       UCF: Rebeka Stolmar - 7-4 at 2, 12-6 in duals, 14-7 overall
       MIA: Isabella Pfennig - 12-4 at 2, 16-4 in duals, 16-4 overall
       Predictions:
-        AVG: MIA - Pfennig (67%) def. Stolmar (33%)
-        SLM: MIA - Pfennig (62%) def. Stolmar (38%)
-        TRN: MIA - Pfennig (70%) def. Stolmar (30%)
-        MAS: MIA - Pfennig (56%) def. Stolmar (44%)
+        AVG: MIA - Pfennig (68%) def. Stolmar (32%)
+        SLM: MIA - Pfennig (63%) def. Stolmar (37%)
+        TRN: MIA - Pfennig (71%) def. Stolmar (29%)
+        MAS: MIA - Pfennig (59%) def. Stolmar (41%)
         UTR: MIA - Pfennig (78%) def. Stolmar (22%)
         ITA: MIA - Pfennig (32.52) def. Stolmar (15.81)
     - Position: 3
@@ -95,17 +94,17 @@ Lineups:
         AVG: UCF - Kuznetsova (77%) def. Urrutia (23%)
         SLM: UCF - Kuznetsova (76%) def. Urrutia (24%)
         TRN: UCF - Kuznetsova (74%) def. Urrutia (26%)
-        MAS: UCF - Kuznetsova (76%) def. Urrutia (24%)
+        MAS: UCF - Kuznetsova (74%) def. Urrutia (26%)
         UTR: UCF - Kuznetsova (84%) def. Urrutia (16%)
         ITA: UCF - Kuznetsova (3.33) def. Urrutia (1.96)
     - Position: 5
       UCF: Marie Mattel - 2-0 at 5, 6-4 in duals, 6-4 overall
       MIA: Diana Khodan - 5-5 at 5, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: MIA - Khodan (64%) def. Mattel (36%)
-        SLM: MIA - Khodan (55%) def. Mattel (45%)
+        AVG: MIA - Khodan (65%) def. Mattel (35%)
+        SLM: MIA - Khodan (56%) def. Mattel (44%)
         TRN: MIA - Khodan (63%) def. Mattel (37%)
-        MAS: MIA - Khodan (63%) def. Mattel (37%)
+        MAS: MIA - Khodan (66%) def. Mattel (34%)
         UTR: MIA - Khodan (75%) def. Mattel (25%)
         ITA: UCF - Mattel (2.00) def. Khodan (1.90)
     - Position: 6

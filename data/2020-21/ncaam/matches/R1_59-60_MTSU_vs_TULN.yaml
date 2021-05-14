@@ -24,7 +24,7 @@ Home:
 Visitor:
   Team: Middle Tenn.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 59
   Seeding:
     Region: 3
@@ -37,60 +37,59 @@ Visitor:
   Polls:
     Coach: 42
 Predictions:
-  AVG: TULN - Tulane (79%) def. Middle Tenn. (21%)
+  AVG: TULN - Tulane (80%) def. Middle Tenn. (20%)
   SLM: "TULN - #26 Tulane (78%) def. #45 Middle Tenn. (22%)"
   TRN: "TULN - #26 Tulane (79%) def. #45 Middle Tenn. (21%)"
-  MAS: "TULN - #26 Tulane (75%) def. #42 Middle Tenn. (25%)"
-  LNUP: TULN - Tulane (82%) def. Middle Tenn. (18%)
+  MAS: "TULN - #26 Tulane (77%) def. #42 Middle Tenn. (23%)"
+  LNUP: TULN - Tulane (84%) def. Middle Tenn. (16%)
   UTR: "TULN - #31 Tulane (+1.45) def. #41 Middle Tenn. (-1.45)"
   ITA: "TULN - #22 Tulane def. #42 Middle Tenn."
-  Coach: "TULN - #24 Tulane def. #42 Middle Tenn."
   Seeding: "TULN - #2 Tulane def. #3 Middle Tenn."
 Lineups:
   Predictions:
-    Average EWPs for TULN: 78%,79%,75%,82%
-    Average EWPs for MTSU: 22%,21%,25%,18%
-    TULN wins 4 or more Singles points: 61%
-    MTSU wins 4 or more Singles points: 13%
-    Winner decided by the Doubles point: 26%
+    Average EWPs for TULN: 78%,79%,77%,84%
+    Average EWPs for MTSU: 22%,21%,23%,16%
+    TULN wins 4 or more Singles points: 63%
+    MTSU wins 4 or more Singles points: 12%
+    Winner decided by the Doubles point: 25%
   Singles:
     - Position: 1
       TULN: Hamish Stewart - 12-7 at 1, 12-7 in duals, 12-7 overall
       MTSU: Francisco Rocha - 5-3 at 1, 13-5 in duals, 13-5 overall
       Predictions:
-        AVG: TULN - Stewart (72%) def. Rocha (28%)
-        SLM: TULN - Stewart (70%) def. Rocha (30%)
-        TRN: TULN - Stewart (60%) def. Rocha (40%)
-        MAS: TULN - Stewart (71%) def. Rocha (29%)
+        AVG: TULN - Stewart (74%) def. Rocha (26%)
+        SLM: TULN - Stewart (72%) def. Rocha (28%)
+        TRN: TULN - Stewart (65%) def. Rocha (35%)
+        MAS: TULN - Stewart (75%) def. Rocha (25%)
         UTR: TULN - Stewart (85%) def. Rocha (15%)
         ITA: TULN - Stewart (22.58) def. Rocha (14.55)
     - Position: 2
       TULN: Ewan Moore - 9-7 at 2, 10-7 in duals, 10-7 overall
       MTSU: Stijn Slump - 9-2 at 2, 16-5 in duals, 16-5 overall
       Predictions:
-        AVG: TULN - Moore (66%) def. Slump (34%)
-        SLM: TULN - Moore (69%) def. Slump (31%)
-        TRN: TULN - Moore (58%) def. Slump (42%)
-        MAS: TULN - Moore (58%) def. Slump (42%)
+        AVG: TULN - Moore (67%) def. Slump (33%)
+        SLM: TULN - Moore (70%) def. Slump (30%)
+        TRN: TULN - Moore (60%) def. Slump (40%)
+        MAS: TULN - Moore (59%) def. Slump (41%)
         UTR: TULN - Moore (78%) def. Slump (22%)
         ITA: MTSU - Slump (3.60) def. Moore (3.08)
     - Position: 3
       TULN: Luis Erlenbusch - 13-5 at 3, 14-5 in duals, 14-5 overall
       MTSU: Tom Moonen - 2-1 at 3, 8-11 in duals, 8-11 overall
       Predictions:
-        AVG: TULN - Erlenbusch (81%) def. Moonen (19%)
-        SLM: TULN - Erlenbusch (72%) def. Moonen (28%)
-        TRN: TULN - Erlenbusch (81%) def. Moonen (19%)
-        MAS: TULN - Erlenbusch (86%) def. Moonen (14%)
+        AVG: TULN - Erlenbusch (83%) def. Moonen (17%)
+        SLM: TULN - Erlenbusch (74%) def. Moonen (26%)
+        TRN: TULN - Erlenbusch (84%) def. Moonen (16%)
+        MAS: TULN - Erlenbusch (88%) def. Moonen (12%)
         UTR: TULN - Erlenbusch (86%) def. Moonen (14%)
         ITA: TULN - Erlenbusch (4.16) def. Moonen (1.88)
     - Position: 4
       TULN: Billy Suarez - 8-5 at 4, 9-6 in duals, 9-6 overall
       MTSU: Christopher Edge - 15-5 at 4, 15-5 in duals, 15-5 overall
       Predictions:
-        AVG: TULN - Suarez (54%) def. Edge (46%)
-        SLM: MTSU - Edge (51%) def. Suarez (49%)
-        TRN: TULN - Suarez (60%) def. Edge (40%)
+        AVG: TULN - Suarez (56%) def. Edge (44%)
+        SLM: TULN - Suarez (54%) def. Edge (46%)
+        TRN: TULN - Suarez (66%) def. Edge (34%)
         MAS: TULN - Suarez (50%) def. Edge (50%)
         UTR: TULN - Suarez (56%) def. Edge (44%)
         ITA: MTSU - Edge (4.29) def. Suarez (2.40)
@@ -98,10 +97,10 @@ Lineups:
       TULN: Rafael de Alba - 3-2 at 5, 12-4 in duals, 12-4 overall
       MTSU: Pavel Motl - 6-3 at 5, 9-6 in duals, 9-6 overall
       Predictions:
-        AVG: TULN - Alba (66%) def. Motl (34%)
-        SLM: TULN - Alba (57%) def. Motl (43%)
-        TRN: TULN - Alba (67%) def. Motl (33%)
-        MAS: TULN - Alba (72%) def. Motl (28%)
+        AVG: TULN - Alba (65%) def. Motl (35%)
+        SLM: TULN - Alba (58%) def. Motl (42%)
+        TRN: TULN - Alba (68%) def. Motl (32%)
+        MAS: TULN - Alba (69%) def. Motl (31%)
         UTR: TULN - Alba (67%) def. Motl (33%)
         ITA: TULN - Alba (2.39) def. Motl (1.44)
     - Position: 6
@@ -109,11 +108,11 @@ Lineups:
       MTSU: Oskar Michalek - 1-0 at 6, 5-1 in duals, 5-1 overall
       Predictions:
         AVG: MTSU - Michalek (63%) def. Kotorman (37%)
-        SLM: MTSU - Michalek (59%) def. Kotorman (41%)
-        TRN: TULN - Kotorman (58%) def. Michalek (42%)
+        SLM: MTSU - Michalek (58%) def. Kotorman (42%)
+        TRN: TULN - Kotorman (57%) def. Michalek (43%)
         MAS: MTSU - Michalek (70%) def. Kotorman (30%)
         UTR: MTSU - Michalek (82%) def. Kotorman (18%)
-        ITA: MTSU - Michalek (1.92) def. Kotorman (0.00)
+        ITA: "TULN - # Kotorman def. Michalek (1.92)"
   Doubles:
     - Position: 1
       TULN: Stewart/Moore - 12-6 at 1, 12-6 in duals, 12-6 overall

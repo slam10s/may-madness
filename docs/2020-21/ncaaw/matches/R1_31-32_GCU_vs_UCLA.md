@@ -10,7 +10,7 @@ Los Angeles, California
 
 <h2>#4 Grand Canyon</h2>  
 &nbsp; Record: 10-9<br>  
-&nbsp; ITA: 62 (1.99)<br>  
+&nbsp; ITA: 62 (2.01)<br>  
 &nbsp; Slam: 59 (75.93)<br>  
 &nbsp; TRN: 60 (64.13)<br>  
 &nbsp; Massey: 57 (4.78)<br>  
@@ -22,13 +22,13 @@ Los Angeles, California
 
 <h2>#1 UCLA</h2>  
 &nbsp; Record: 20-4<br>  
-&#10004; ITA: 4 (61.84)<br>  
+&#10004; ITA: 4 (61.62)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
 &#10004; Massey: 4 (8.85)<br>  
 &#10004; UTR: 5 (64.40)<br>  
-&#10004; USTA Poll: 4<br>  
-&#10004; Coaches Poll: 5<br>  
+&#10004; USTA Poll: 5 (280.00)<br>  
+&nbsp; Coaches Poll: 5<br>  
 <br>  
 
 </td>
@@ -50,8 +50,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***UCLA*** - UCLA (99%) def. Grand Canyon (1%)  
 - UTR: ***UCLA*** - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)  
 - ITA: ***UCLA*** - #4 UCLA def. #62 Grand Canyon  
-- USTA Poll: ***UCLA*** - #4 UCLA def. Grand Canyon  
-- Coaches Poll: ***UCLA*** - #5 UCLA def. Grand Canyon  
+- USTA Poll: ***UCLA*** - #5 UCLA def. Grand Canyon  
 - Seeding: ***UCLA*** - #1 UCLA def. #4 Grand Canyon  
 
 ## Individual Matchups  
@@ -75,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Emilia Occhipinti (GCU) - 12-5 at #2, 12-5 in duals, 12-5 overall<br>Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Hart (98%) def. Occhipinti (2%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Hart (99%) def. Occhipinti (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Hart (98%) def. Occhipinti (2%)</li>  
@@ -113,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Vagramov (99%) def. Prudhomme (1%)</li>  
-<li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Prudhomme (0.00)</li>  
+<li>ITA: <b><i>GCU</i></b> - # Prudhomme def. Vagramov (2.24)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>

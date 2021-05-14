@@ -22,13 +22,13 @@ Atlanta, Georgia
 
 <h2>#1 Georgia Tech</h2>  
 &nbsp; Record: 20-10<br>  
-&#10004; ITA: 13 (48.32)<br>  
+&#10004; ITA: 11 (48.83)<br>  
 &#10004; Slam: 20 (90.34)<br>  
 &#10004; TRN: 16 (83.31)<br>  
 &#10004; Massey: 18 (7.83)<br>  
 &#10004; UTR: 24 (61.54)<br>  
-&#10004; USTA Poll: 15<br>  
-&#10004; Coaches Poll: 11<br>  
+&#10004; USTA Poll: 16 (148.00)<br>  
+&nbsp; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -47,12 +47,11 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***GT*** - Georgia Tech (97%) def. North Florida (3%)  
 - Slam: ***GT*** - #20 Georgia Tech (96%) def. #46 North Florida (4%)  
 - TRN: ***GT*** - #16 Georgia Tech (98%) def. #46 North Florida (2%)  
-- Massey: ***GT*** - #18 Georgia Tech (95%) def. #47 North Florida (5%)  
-- Lineup: ***GT*** - Georgia Tech (99%) def. North Florida (1%)  
+- Massey: ***GT*** - #18 Georgia Tech (96%) def. #47 North Florida (4%)  
+- Lineup: ***GT*** - Georgia Tech (98%) def. North Florida (2%)  
 - UTR: ***GT*** - #24 Georgia Tech (+3.09) def. #44 North Florida (-3.09)  
-- ITA: ***GT*** - #13 Georgia Tech def. #48 North Florida  
-- USTA Poll: ***GT*** - #15 Georgia Tech def. North Florida  
-- Coaches Poll: ***GT*** - #11 Georgia Tech def. North Florida  
+- ITA: ***GT*** - #11 Georgia Tech def. #48 North Florida  
+- USTA Poll: ***GT*** - #16 Georgia Tech def. North Florida  
 - Seeding: ***GT*** - #1 Georgia Tech def. #3 North Florida  
 
 ## Individual Matchups  
@@ -66,9 +65,9 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Lucia Montano (UNF) - 14-8 at #1, 14-8 in duals, 14-8 overall<br>Kenya Jones (GT) - 16-7 at #1, 16-7 in duals, 17-8 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>GT</i></b> - Jones (92%) def. Montano (8%)</li>  
-<li>Slam: <b><i>GT</i></b> - Jones (91%) def. Montano (9%)</li>  
+<li>Slam: <b><i>GT</i></b> - Jones (90%) def. Montano (10%)</li>  
 <li>TRN: <b><i>GT</i></b> - Jones (97%) def. Montano (3%)</li>  
-<li>Massey: <b><i>GT</i></b> - Jones (88%) def. Montano (12%)</li>  
+<li>Massey: <b><i>GT</i></b> - Jones (87%) def. Montano (13%)</li>  
 <li>UTR: <b><i>GT</i></b> - Jones (93%) def. Montano (7%)</li>  
 <li>ITA: <b><i>GT</i></b> - Jones (50.31) def. Montano (2.10)</li>  
 </ul>
@@ -76,10 +75,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Catherine Gulihur (UNF) - 17-3 at #2, 18-3 in duals, 18-3 overall<br>Victoria Flores (GT) - 12-4 at #2, 17-5 in duals, 18-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Flores (78%) def. Gulihur (22%)</li>  
-<li>Slam: <b><i>GT</i></b> - Flores (80%) def. Gulihur (20%)</li>  
-<li>TRN: <b><i>GT</i></b> - Flores (84%) def. Gulihur (16%)</li>  
-<li>Massey: <b><i>GT</i></b> - Flores (75%) def. Gulihur (25%)</li>  
+<li>Composite: <b><i>GT</i></b> - Flores (80%) def. Gulihur (20%)</li>  
+<li>Slam: <b><i>GT</i></b> - Flores (81%) def. Gulihur (19%)</li>  
+<li>TRN: <b><i>GT</i></b> - Flores (85%) def. Gulihur (15%)</li>  
+<li>Massey: <b><i>GT</i></b> - Flores (80%) def. Gulihur (20%)</li>  
 <li>UTR: <b><i>GT</i></b> - Flores (73%) def. Gulihur (27%)</li>  
 <li>ITA: <b><i>GT</i></b> - Flores (29.63) def. Gulihur (3.92)</li>  
 </ul>
@@ -87,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Constanza Gorches (UNF) - 4-3 at #3, 13-9 in duals, 13-9 overall<br>Gia Cohen (GT) - 3-11 at #3, 8-14 in duals, 8-15 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Cohen (69%) def. Gorches (31%)</li>  
-<li>Slam: <b><i>GT</i></b> - Cohen (81%) def. Gorches (19%)</li>  
-<li>TRN: <b><i>GT</i></b> - Cohen (79%) def. Gorches (21%)</li>  
+<li>Composite: <b><i>GT</i></b> - Cohen (67%) def. Gorches (33%)</li>  
+<li>Slam: <b><i>GT</i></b> - Cohen (78%) def. Gorches (22%)</li>  
+<li>TRN: <b><i>GT</i></b> - Cohen (76%) def. Gorches (24%)</li>  
 <li>Massey: <b><i>UNF</i></b> - Gorches (51%) def. Cohen (49%)</li>  
 <li>UTR: <b><i>GT</i></b> - Cohen (66%) def. Gorches (34%)</li>  
 <li>ITA: <b><i>GT</i></b> - Cohen (3.38) def. Gorches (1.63)</li>  
@@ -101,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>GT</i></b> - Hrastar (96%) def. Yardley (4%)</li>  
 <li>Slam: <b><i>GT</i></b> - Hrastar (97%) def. Yardley (3%)</li>  
 <li>TRN: <b><i>GT</i></b> - Hrastar (96%) def. Yardley (4%)</li>  
-<li>Massey: <b><i>GT</i></b> - Hrastar (95%) def. Yardley (5%)</li>  
+<li>Massey: <b><i>GT</i></b> - Hrastar (96%) def. Yardley (4%)</li>  
 <li>UTR: <b><i>GT</i></b> - Hrastar (95%) def. Yardley (5%)</li>  
 <li>ITA: <b><i>GT</i></b> - Hrastar (5.81) def. Yardley (1.55)</li>  
 </ul>
@@ -109,10 +108,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Annabelle Davis (UNF) - 6-0 at #5, 10-1 in duals, 10-1 overall<br>Carol Lee (GT) - 5-8 at #5, 12-12 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Lee (84%) def. Davis (16%)</li>  
-<li>Slam: <b><i>GT</i></b> - Lee (90%) def. Davis (10%)</li>  
-<li>TRN: <b><i>GT</i></b> - Lee (86%) def. Davis (14%)</li>  
-<li>Massey: <b><i>GT</i></b> - Lee (70%) def. Davis (30%)</li>  
+<li>Composite: <b><i>GT</i></b> - Lee (79%) def. Davis (21%)</li>  
+<li>Slam: <b><i>GT</i></b> - Lee (86%) def. Davis (14%)</li>  
+<li>TRN: <b><i>GT</i></b> - Lee (73%) def. Davis (27%)</li>  
+<li>Massey: <b><i>GT</i></b> - Lee (66%) def. Davis (34%)</li>  
 <li>UTR: <b><i>GT</i></b> - Lee (91%) def. Davis (9%)</li>  
 <li>ITA: <b><i>GT</i></b> - Lee (4.33) def. Davis (3.59)</li>  
 </ul>
@@ -120,10 +119,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Valentina Mariotto (UNF) - 3-1 at #6, 8-7 in duals, 8-7 overall<br>Mahak Jain (GT) - 7-2 at #6, 14-7 in duals, 16-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>GT</i></b> - Jain (95%) def. Mariotto (5%)</li>  
-<li>Slam: <b><i>GT</i></b> - Jain (94%) def. Mariotto (6%)</li>  
-<li>TRN: <b><i>GT</i></b> - Jain (97%) def. Mariotto (3%)</li>  
-<li>Massey: <b><i>GT</i></b> - Jain (92%) def. Mariotto (8%)</li>  
+<li>Composite: <b><i>GT</i></b> - Jain (94%) def. Mariotto (6%)</li>  
+<li>Slam: <b><i>GT</i></b> - Jain (93%) def. Mariotto (7%)</li>  
+<li>TRN: <b><i>GT</i></b> - Jain (96%) def. Mariotto (4%)</li>  
+<li>Massey: <b><i>GT</i></b> - Jain (91%) def. Mariotto (9%)</li>  
 <li>UTR: <b><i>GT</i></b> - Jain (95%) def. Mariotto (5%)</li>  
 <li>ITA: <b><i>GT</i></b> - Jain (1.89) def. Mariotto (1.74)</li>  
 </ul>
@@ -150,11 +149,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Georgia Tech should win 4 or more singles matches *97%* of the time.  
+- Georgia Tech should win 4 or more singles matches *96%* of the time.  
 - North Florida should win 4 or more singles matches *1%* of the time.  
 - The winner of the doubles point should decide the match the other *3%* of the time.  
 - If Georgia Tech wins the doubles point, their chances of winning the dual improve to *99%*.  
-- If North Florida wins the doubles point, their chances of winning the dual improve to *3%*.  
+- If North Florida wins the doubles point, their chances of winning the dual improve to *4%*.  
   
 ------
 

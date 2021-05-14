@@ -15,37 +15,36 @@ Home:
     Overall: 16
     Region: 1
   Ratings:
-    ITA: 18 (36.82)
+    ITA: 17 (40.14)
     SLM: 6 (98.81)
     TRN: 4 (98.96)
     MAS: 9 (8.60)
     UTR: 15 (78.92)
   Polls:
-    USTA: 8
+    USTA: 10 (231.00)
     Coach: 13
 Visitor:
   Team: DePaul
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 7
   Seeding:
     Region: 4
   Ratings:
-    ITA: 55 (5.64)
-    SLM: 55 (85.74)
-    TRN: 55 (82.45)
-    MAS: 54 (5.94)
-    UTR: 60 (70.67)
+    ITA: 54 (5.57)
+    SLM: 54 (85.74)
+    TRN: 54 (82.45)
+    MAS: 53 (5.94)
+    UTR: 59 (70.67)
 Predictions:
   AVG: ILL - Illinois (99%) def. DePaul (1%)
-  SLM: "ILL - #6 Illinois (99%) def. #55 DePaul (1%)"
-  TRN: "ILL - #4 Illinois (99%) def. #55 DePaul (1%)"
-  MAS: "ILL - #9 Illinois (99%) def. #54 DePaul (1%)"
+  SLM: "ILL - #6 Illinois (99%) def. #54 DePaul (1%)"
+  TRN: "ILL - #4 Illinois (99%) def. #54 DePaul (1%)"
+  MAS: "ILL - #9 Illinois (99%) def. #53 DePaul (1%)"
   LNUP: ILL - Illinois (99%) def. DePaul (1%)
-  UTR: "ILL - #15 Illinois (+8.25) def. #60 DePaul (-8.25)"
-  ITA: "ILL - #18 Illinois def. #55 DePaul"
-  USTA: "ILL - #8 Illinois def. DePaul"
-  Coach: "ILL - #13 Illinois def. DePaul"
+  UTR: "ILL - #15 Illinois (+8.25) def. #59 DePaul (-8.25)"
+  ITA: "ILL - #17 Illinois def. #54 DePaul"
+  USTA: "ILL - #10 Illinois def. DePaul"
   Seeding: "ILL - #1 Illinois def. #4 DePaul"
 Lineups:
   Predictions:
@@ -61,7 +60,7 @@ Lineups:
       Predictions:
         AVG: ILL - Kovacevic (98%) def. Tonejc (2%)
         SLM: ILL - Kovacevic (98%) def. Tonejc (2%)
-        TRN: ILL - Kovacevic (98%) def. Tonejc (2%)
+        TRN: ILL - Kovacevic (99%) def. Tonejc (1%)
         MAS: ILL - Kovacevic (99%) def. Tonejc (1%)
         UTR: ILL - Kovacevic (98%) def. Tonejc (2%)
         ITA: DEP - Tonejc (4.23) def. Kovacevic (4.00)
@@ -72,17 +71,17 @@ Lineups:
         AVG: ILL - Montsi (99%) def. Casati (1%)
         SLM: ILL - Montsi (99%) def. Casati (1%)
         TRN: ILL - Montsi (99%) def. Casati (1%)
-        MAS: ILL - Montsi (99%) def. Casati (1%)
+        MAS: ILL - Montsi (98%) def. Casati (2%)
         UTR: ILL - Montsi (98%) def. Casati (2%)
-        ITA: ILL - Montsi (4.79) def. Casati (0.00)
+        ITA: "DEP - # Casati def. Montsi (4.79)"
     - Position: 3
       ILL: Alex Brown - 3-2 at 3, 8-9 in duals, 9-12 overall
       DEP: Boris Spanjaard - 8-4 at 3, 12-6 in duals, 12-6 overall
       Predictions:
-        AVG: ILL - Brown (94%) def. Spanjaard (6%)
+        AVG: ILL - Brown (95%) def. Spanjaard (5%)
         SLM: ILL - Brown (97%) def. Spanjaard (3%)
-        TRN: ILL - Brown (97%) def. Spanjaard (3%)
-        MAS: ILL - Brown (90%) def. Spanjaard (10%)
+        TRN: ILL - Brown (98%) def. Spanjaard (2%)
+        MAS: ILL - Brown (91%) def. Spanjaard (9%)
         UTR: ILL - Brown (92%) def. Spanjaard (8%)
         ITA: DEP - Spanjaard (2.02) def. Brown (1.47)
     - Position: 4
@@ -102,26 +101,26 @@ Lineups:
         AVG: ILL - Heck (97%) def. Tonejc (3%)
         SLM: ILL - Heck (98%) def. Tonejc (2%)
         TRN: ILL - Heck (99%) def. Tonejc (1%)
-        MAS: ILL - Heck (96%) def. Tonejc (4%)
+        MAS: ILL - Heck (95%) def. Tonejc (5%)
         UTR: ILL - Heck (96%) def. Tonejc (4%)
         ITA: ILL - Heck (2.36) def. Tonejc (1.51)
     - Position: 6
       ILL: Noe Khlif - 5-0 at 6, 15-1 in duals, 15-1 overall
-      DEP: Luuk Wassenaar - 3-2 at 6, 11-6 in duals, 11-6 overall
+      DEP: Luuk Wassener - 3-2 at 6, 11-6 in duals, 11-6 overall
       Predictions:
-        AVG: ILL - Khlif (98%) def. Wassenaar (2%)
-        SLM: ILL - Khlif (99%) def. Wassenaar (1%)
-        TRN: ILL - Khlif (99%) def. Wassenaar (1%)
-        MAS: ILL - Khlif (98%) def. Wassenaar (2%)
-        UTR: ILL - Khlif (97%) def. Wassenaar (3%)
-        ITA: ILL - Khlif (3.59) def. Wassenaar (2.18)
+        AVG: ILL - Khlif (98%) def. Wassener (2%)
+        SLM: ILL - Khlif (99%) def. Wassener (1%)
+        TRN: ILL - Khlif (99%) def. Wassener (1%)
+        MAS: ILL - Khlif (97%) def. Wassener (3%)
+        UTR: ILL - Khlif (97%) def. Wassener (3%)
+        ITA: ILL - Khlif (3.59) def. Wassener (2.18)
   Doubles:
     - Position: 1
       ILL: Brown/Clark - 8-2 at 1, 11-2 in duals, 11-2 overall
       DEP: Casati/Spanjaard - 12-4 at 1, 14-4 in duals, 14-4 overall
     - Position: 2
       ILL: Montsi/Khlif - 5-1 at 2, 10-2 in duals, 10-2 overall
-      DEP: Tonejc/Wassenaar - 3-2 at 2, 6-4 in duals, 6-4 overall
+      DEP: Tonejc/Wassener - 3-2 at 2, 6-4 in duals, 6-4 overall
     - Position: 3
       ILL: Kovacevic/Heck - 2-1 at 3, 3-1 in duals, 3-1 overall
       DEP: Tonejc/Tuff - 5-0 at 3, 9-6 in duals, 9-6 overall

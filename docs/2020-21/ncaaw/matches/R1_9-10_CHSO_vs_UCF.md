@@ -22,13 +22,13 @@ Orlando, Florida
 
 <h2>#1 UCF</h2>  
 &nbsp; Record: 19-4<br>  
-&#10004; ITA: 9 (52.14)<br>  
+&#10004; ITA: 9 (52.03)<br>  
 &#10004; Slam: 12 (91.41)<br>  
 &#10004; TRN: 12 (83.85)<br>  
 &#10004; Massey: 10 (8.12)<br>  
 &#10004; UTR: 16 (62.03)<br>  
-&#10004; USTA Poll: 9<br>  
-&#10004; Coaches Poll: 9<br>  
+&#10004; USTA Poll: 10 (203.00)<br>  
+&nbsp; Coaches Poll: 9<br>  
 <br>  
 
 </td>
@@ -50,8 +50,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***UCF*** - UCF (99%) def. Charleston So. (1%)  
 - UTR: ***UCF*** - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)  
 - ITA: ***UCF*** - #9 UCF def. #58 Charleston So.  
-- USTA Poll: ***UCF*** - #9 UCF def. Charleston So.  
-- Coaches Poll: ***UCF*** - #9 UCF def. Charleston So.  
+- USTA Poll: ***UCF*** - #10 UCF def. Charleston So.  
 - Seeding: ***UCF*** - #1 UCF def. #4 Charleston So.  
 
 ## Individual Matchups  
@@ -78,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCF</i></b> - Stolmar (97%) def. Fullana (3%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Stolmar (98%) def. Fullana (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Stolmar (99%) def. Fullana (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Stolmar (97%) def. Fullana (3%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Stolmar (96%) def. Fullana (4%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Stolmar (96%) def. Fullana (4%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Stolmar (15.81) def. Fullana (1.91)</li>  
 </ul>
@@ -111,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCF</i></b> - Mattel (98%) def. Schmitz (2%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Mattel (98%) def. Schmitz (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Mattel (99%) def. Schmitz (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Mattel (98%) def. Schmitz (2%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Mattel (97%) def. Schmitz (3%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Mattel (97%) def. Schmitz (3%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mattel (2.00) def. Schmitz (1.70)</li>  
 </ul>

@@ -21,7 +21,7 @@ Home:
     MAS: 7 (8.63)
     UTR: 12 (79.08)
   Polls:
-    USTA: 10
+    USTA: 12 (199.00)
     Coach: 9
 Visitor:
   Team: Mississippi St.
@@ -34,29 +34,28 @@ Visitor:
     ITA: 16 (41.29)
     SLM: 20 (94.39)
     TRN: 19 (92.98)
-    MAS: 26 (7.63)
+    MAS: 27 (7.63)
     UTR: 24 (77.84)
   Polls:
-    USTA: 23
+    USTA: 25 (44.00)
     Coach: 18
 Predictions:
-  AVG: UCF - UCF (85%) def. Mississippi St. (15%)
+  AVG: UCF - UCF (84%) def. Mississippi St. (16%)
   SLM: "UCF - #12 UCF (77%) def. #20 Mississippi St. (23%)"
   TRN: "UCF - #13 UCF (82%) def. #19 Mississippi St. (18%)"
-  MAS: "UCF - #7 UCF (94%) def. #26 Mississippi St. (6%)"
-  LNUP: UCF - UCF (88%) def. Mississippi St. (12%)
+  MAS: "UCF - #7 UCF (90%) def. #27 Mississippi St. (10%)"
+  LNUP: UCF - UCF (87%) def. Mississippi St. (13%)
   UTR: "UCF - #12 UCF (+1.24) def. #24 Mississippi St. (-1.24)"
   ITA: "UCF - #10 UCF def. #16 Mississippi St."
-  USTA: "UCF - #10 UCF def. #23 Mississippi St."
-  Coach: "UCF - #9 UCF def. #18 Mississippi St."
+  USTA: "UCF - #12 UCF def. #25 Mississippi St."
   Seeding: "UCF - #1 UCF def. #2 Mississippi St."
 Lineups:
   Predictions:
-    Average EWPs for UCF: 77%,82%,94%,88%
-    Average EWPs for MSST: 23%,18%,6%,12%
-    UCF wins 4 or more Singles points: 69%
-    MSST wins 4 or more Singles points: 9%
-    Winner decided by the Doubles point: 22%
+    Average EWPs for UCF: 77%,82%,90%,87%
+    Average EWPs for MSST: 23%,18%,10%,13%
+    UCF wins 4 or more Singles points: 67%
+    MSST wins 4 or more Singles points: 10%
+    Winner decided by the Doubles point: 23%
   Singles:
     - Position: 1
       UCF: Gabriel Decamps - 16-4 at 1, 16-4 in duals, 16-4 overall
@@ -65,17 +64,17 @@ Lineups:
         AVG: UCF - Decamps (82%) def. Oradini (18%)
         SLM: UCF - Decamps (74%) def. Oradini (26%)
         TRN: UCF - Decamps (84%) def. Oradini (16%)
-        MAS: UCF - Decamps (85%) def. Oradini (15%)
+        MAS: UCF - Decamps (86%) def. Oradini (14%)
         UTR: UCF - Decamps (86%) def. Oradini (14%)
         ITA: UCF - Decamps (42.84) def. Oradini (31.20)
     - Position: 2
       UCF: Alan Rubio - 8-5 at 2, 12-7 in duals, 12-7 overall
       MSST: Florian Broska - 10-5 at 2, 14-8 in duals, 20-12 overall
       Predictions:
-        AVG: MSST - Broska (63%) def. Rubio (37%)
+        AVG: MSST - Broska (66%) def. Rubio (34%)
         SLM: MSST - Broska (63%) def. Rubio (37%)
-        TRN: MSST - Broska (56%) def. Rubio (44%)
-        MAS: UCF - Rubio (51%) def. Broska (49%)
+        TRN: MSST - Broska (57%) def. Rubio (43%)
+        MAS: MSST - Broska (58%) def. Rubio (42%)
         UTR: MSST - Broska (84%) def. Rubio (16%)
         ITA: MSST - Broska (16.73) def. Rubio (3.77)
     - Position: 3
@@ -83,9 +82,9 @@ Lineups:
       MSST: Nemanja Malesevic - 9-5 at 3, 15-7 in duals, 20-11 overall
       Predictions:
         AVG: UCF - Mazzuchi (70%) def. Malesevic (30%)
-        SLM: UCF - Mazzuchi (60%) def. Malesevic (40%)
-        TRN: UCF - Mazzuchi (58%) def. Malesevic (42%)
-        MAS: UCF - Mazzuchi (81%) def. Malesevic (19%)
+        SLM: UCF - Mazzuchi (61%) def. Malesevic (39%)
+        TRN: UCF - Mazzuchi (62%) def. Malesevic (38%)
+        MAS: UCF - Mazzuchi (75%) def. Malesevic (25%)
         UTR: UCF - Mazzuchi (82%) def. Malesevic (18%)
         ITA: MSST - Malesevic (15.40) def. Mazzuchi (7.08)
     - Position: 4
@@ -93,19 +92,19 @@ Lineups:
       MSST: Alberto Colas - 6-7 at 4, 14-8 in duals, 4-6 overall
       Predictions:
         AVG: UCF - Yamada (66%) def. Colas (34%)
-        SLM: UCF - Yamada (60%) def. Colas (40%)
-        TRN: UCF - Yamada (73%) def. Colas (27%)
-        MAS: UCF - Yamada (74%) def. Colas (26%)
+        SLM: UCF - Yamada (61%) def. Colas (39%)
+        TRN: UCF - Yamada (71%) def. Colas (29%)
+        MAS: UCF - Yamada (76%) def. Colas (24%)
         UTR: UCF - Yamada (58%) def. Colas (42%)
         ITA: MSST - Colas (5.15) def. Yamada (4.27)
     - Position: 5
       UCF: Trey Hilderbrand - 10-1 at 5, 17-4 in duals, 17-4 overall
       MSST: Carles Hernandez - 9-8 at 5, 14-8 in duals, 14-8 overall
       Predictions:
-        AVG: UCF - Hilderbrand (79%) def. Hernandez (21%)
+        AVG: UCF - Hilderbrand (77%) def. Hernandez (23%)
         SLM: UCF - Hilderbrand (75%) def. Hernandez (25%)
         TRN: UCF - Hilderbrand (79%) def. Hernandez (21%)
-        MAS: UCF - Hilderbrand (84%) def. Hernandez (16%)
+        MAS: UCF - Hilderbrand (77%) def. Hernandez (23%)
         UTR: UCF - Hilderbrand (79%) def. Hernandez (21%)
         ITA: UCF - Hilderbrand (2.90) def. Hernandez (1.85)
     - Position: 6
@@ -113,9 +112,9 @@ Lineups:
       MSST: Davide Tortora - 7-3 at 6, 7-3 in duals, 13-7 overall
       Predictions:
         AVG: UCF - Sokolovskiy (62%) def. Tortora (38%)
-        SLM: MSST - Tortora (51%) def. Sokolovskiy (49%)
-        TRN: MSST - Tortora (63%) def. Sokolovskiy (37%)
-        MAS: UCF - Sokolovskiy (78%) def. Tortora (22%)
+        SLM: UCF - Sokolovskiy (50%) def. Tortora (50%)
+        TRN: MSST - Tortora (62%) def. Sokolovskiy (38%)
+        MAS: UCF - Sokolovskiy (74%) def. Tortora (26%)
         UTR: UCF - Sokolovskiy (86%) def. Tortora (14%)
         ITA: MSST - Tortora (9.41) def. Sokolovskiy (2.26)
   Doubles:

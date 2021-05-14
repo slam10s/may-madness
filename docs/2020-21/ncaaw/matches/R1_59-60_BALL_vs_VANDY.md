@@ -10,7 +10,7 @@ Columbus, Ohio
 
 <h2>#3 Ball St.</h2>  
 &nbsp; Record: 22-4<br>  
-&nbsp; ITA: 51 (4.35)<br>  
+&nbsp; ITA: 54 (3.74)<br>  
 &nbsp; Slam: 52 (79.30)<br>  
 &nbsp; TRN: 52 (70.33)<br>  
 &nbsp; Massey: 53 (5.40)<br>  
@@ -22,12 +22,12 @@ Columbus, Ohio
 
 <h2>#2 Vanderbilt</h2>  
 &nbsp; Record: 14-9<br>  
-&#10004; ITA: 27 (35.19)<br>  
+&#10004; ITA: 28 (34.89)<br>  
 &#10004; Slam: 29 (88.87)<br>  
 &#10004; TRN: 30 (81.13)<br>  
 &#10004; Massey: 31 (7.33)<br>  
 &#10004; UTR: 28 (61.39)<br>  
-&#10004; Coaches Poll: 28<br>  
+&nbsp; Coaches Poll: 28<br>  
 <br>  
 
 </td>
@@ -48,8 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***VANDY*** - #31 Vanderbilt (99%) def. #53 Ball St. (1%)  
 - Lineup: ***VANDY*** - Vanderbilt (99%) def. Ball St. (1%)  
 - UTR: ***VANDY*** - #28 Vanderbilt (+6.81) def. #51 Ball St. (-6.81)  
-- ITA: ***VANDY*** - #27 Vanderbilt def. #51 Ball St.  
-- Coaches Poll: ***VANDY*** - #28 Vanderbilt def. Ball St.  
+- ITA: ***VANDY*** - #28 Vanderbilt def. #54 Ball St.  
 - Seeding: ***VANDY*** - #2 Vanderbilt def. #3 Ball St.  
 
 ## Individual Matchups  
@@ -62,21 +61,21 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Emma Peeler (BALL) - 10-10 at #1, 10-10 in duals, 10-10 overall<br>Christina Rosca (VANDY) - 3-5 at #1, 13-5 in duals, 13-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>VANDY</i></b> - Rosca (95%) def. Peeler (5%)</li>  
-<li>Slam: <b><i>VANDY</i></b> - Rosca (92%) def. Peeler (8%)</li>  
+<li>Composite: <b><i>VANDY</i></b> - Rosca (96%) def. Peeler (4%)</li>  
+<li>Slam: <b><i>VANDY</i></b> - Rosca (93%) def. Peeler (7%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Rosca (98%) def. Peeler (2%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Rosca (95%) def. Peeler (5%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Rosca (96%) def. Peeler (4%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Rosca (96%) def. Peeler (4%)</li>  
-<li>ITA: <b><i>VANDY</i></b> - Rosca (14.48) def. Peeler (0.00)</li>  
+<li>ITA: <b><i>BALL</i></b> - # Peeler def. Rosca (14.48)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Jessica Braun (BALL) - 6-5 at #2, 13-7 in duals, 13-7 overall<br>Emma Kurtz (VANDY) - 6-5 at #2, 8-10 in duals, 11-16 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>VANDY</i></b> - Kurtz (91%) def. Braun (9%)</li>  
+<li>Composite: <b><i>VANDY</i></b> - Kurtz (90%) def. Braun (10%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Kurtz (94%) def. Braun (6%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Kurtz (95%) def. Braun (5%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Kurtz (79%) def. Braun (21%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Kurtz (77%) def. Braun (23%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Kurtz (93%) def. Braun (7%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Kurtz (3.05) def. Braun (1.69)</li>  
 </ul>
@@ -87,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>VANDY</i></b> - Lee (91%) def. Polishchuk (9%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Lee (92%) def. Polishchuk (8%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Lee (95%) def. Polishchuk (5%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Lee (82%) def. Polishchuk (18%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Lee (83%) def. Polishchuk (17%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Lee (93%) def. Polishchuk (7%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Lee (2.64) def. Polishchuk (1.84)</li>  
 </ul>
@@ -97,8 +96,8 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>VANDY</i></b> - Ross (95%) def. Herrington (5%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Ross (98%) def. Herrington (2%)</li>  
-<li>TRN: <b><i>VANDY</i></b> - Ross (98%) def. Herrington (2%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Ross (90%) def. Herrington (10%)</li>  
+<li>TRN: <b><i>VANDY</i></b> - Ross (97%) def. Herrington (3%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Ross (87%) def. Herrington (13%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Ross (96%) def. Herrington (4%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Ross (2.20) def. Herrington (1.96)</li>  
 </ul>
@@ -109,7 +108,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>VANDY</i></b> - Cruz (96%) def. Kaplan (4%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Cruz (97%) def. Kaplan (3%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Cruz (98%) def. Kaplan (2%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Cruz (94%) def. Kaplan (6%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Cruz (93%) def. Kaplan (7%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Cruz (96%) def. Kaplan (4%)</li>  
 <li>ITA: <b><i>VANDY</i></b> - Cruz (2.13) def. Kaplan (1.71)</li>  
 </ul>
@@ -117,10 +116,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Livia Lukacs (BALL) - 6-2 at #6, 8-3 in duals, 8-3 overall<br>Holly Staff (VANDY) - 0-0 at #6, 9-9 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>VANDY</i></b> - Staff (96%) def. Lukacs (4%)</li>  
+<li>Composite: <b><i>VANDY</i></b> - Staff (95%) def. Lukacs (5%)</li>  
 <li>Slam: <b><i>VANDY</i></b> - Staff (99%) def. Lukacs (1%)</li>  
 <li>TRN: <b><i>VANDY</i></b> - Staff (99%) def. Lukacs (1%)</li>  
-<li>Massey: <b><i>VANDY</i></b> - Staff (89%) def. Lukacs (11%)</li>  
+<li>Massey: <b><i>VANDY</i></b> - Staff (87%) def. Lukacs (13%)</li>  
 <li>UTR: <b><i>VANDY</i></b> - Staff (97%) def. Lukacs (3%)</li>  
 <li>ITA: <b><i>BALL</i></b> - Lukacs (2.68) def. Staff (1.75)</li>  
 </ul>

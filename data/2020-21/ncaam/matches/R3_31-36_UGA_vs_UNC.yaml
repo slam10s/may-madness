@@ -15,13 +15,13 @@ Home:
     Overall: 6
     Region: 1
   Ratings:
-    ITA: 6 (72.02)
+    ITA: 6 (72.28)
     SLM: 3 (99.37)
     TRN: 2 (99.37)
     MAS: 4 (8.94)
     UTR: 11 (79.64)
   Polls:
-    USTA: 5
+    USTA: 7 (282.00)
     Coach: 6
 Visitor:
   Team: Georgia
@@ -32,32 +32,31 @@ Visitor:
     Overall: 11
     Region: 1
   Ratings:
-    ITA: 11 (54.81)
+    ITA: 11 (54.91)
     SLM: 16 (96.08)
     TRN: 14 (94.91)
     MAS: 15 (8.18)
     UTR: 19 (78.43)
   Polls:
-    USTA: 16
+    USTA: 18 (131.00)
     Coach: 11
 Predictions:
-  AVG: UNC - North Carolina (87%) def. Georgia (13%)
+  AVG: UNC - North Carolina (84%) def. Georgia (16%)
   SLM: "UNC - #3 North Carolina (86%) def. #16 Georgia (14%)"
   TRN: "UNC - #2 North Carolina (92%) def. #14 Georgia (8%)"
-  MAS: "UNC - #4 North Carolina (77%) def. #15 Georgia (23%)"
-  LNUP: UNC - North Carolina (91%) def. Georgia (9%)
+  MAS: "UNC - #4 North Carolina (70%) def. #15 Georgia (30%)"
+  LNUP: UNC - North Carolina (89%) def. Georgia (11%)
   UTR: "UNC - #11 North Carolina (+1.21) def. #19 Georgia (-1.21)"
   ITA: "UNC - #6 North Carolina def. #11 Georgia"
-  USTA: "UNC - #5 North Carolina def. #16 Georgia"
-  Coach: "UNC - #6 North Carolina def. #11 Georgia"
+  USTA: "UNC - #7 North Carolina def. #18 Georgia"
   Seeding: "UNC - #6 North Carolina def. #11 Georgia"
 Lineups:
   Predictions:
-    Average EWPs for UNC: 86%,92%,77%,91%
-    Average EWPs for UGA: 14%,8%,23%,9%
-    UNC wins 4 or more Singles points: 72%
-    UGA wins 4 or more Singles points: 7%
-    Winner decided by the Doubles point: 21%
+    Average EWPs for UNC: 86%,92%,70%,89%
+    Average EWPs for UGA: 14%,8%,30%,11%
+    UNC wins 4 or more Singles points: 70%
+    UGA wins 4 or more Singles points: 8%
+    Winner decided by the Doubles point: 22%
   Singles:
     - Position: 1
       UNC: William Blumberg - 8-3 at 1, 8-3 in duals, 9-3 overall
@@ -65,18 +64,18 @@ Lineups:
       Predictions:
         AVG: UNC - Blumberg (75%) def. Bryde (25%)
         SLM: UNC - Blumberg (78%) def. Bryde (22%)
-        TRN: UNC - Blumberg (81%) def. Bryde (19%)
-        MAS: UNC - Blumberg (68%) def. Bryde (32%)
+        TRN: UNC - Blumberg (82%) def. Bryde (18%)
+        MAS: UNC - Blumberg (66%) def. Bryde (34%)
         UTR: UNC - Blumberg (73%) def. Bryde (27%)
         ITA: UGA - Bryde (36.71) def. Blumberg (21.87)
     - Position: 2
       UNC: Rinky Hijikata - 4-2 at 2, 9-2 in duals, 11-2 overall
       UGA: Tyler Zink - 6-5 at 2, 9-5 in duals, 11-9 overall
       Predictions:
-        AVG: UNC - Hijikata (83%) def. Zink (17%)
-        SLM: UNC - Hijikata (77%) def. Zink (23%)
+        AVG: UNC - Hijikata (81%) def. Zink (19%)
+        SLM: UNC - Hijikata (76%) def. Zink (24%)
         TRN: UNC - Hijikata (87%) def. Zink (13%)
-        MAS: UNC - Hijikata (82%) def. Zink (18%)
+        MAS: UNC - Hijikata (77%) def. Zink (23%)
         UTR: UNC - Hijikata (85%) def. Zink (15%)
         ITA: UNC - Hijikata (27.96) def. Zink (25.30)
     - Position: 3
@@ -84,39 +83,39 @@ Lineups:
       UGA: Philip Henning - 11-4 at 3, 13-6 in duals, 18-10 overall
       Predictions:
         AVG: UGA - Henning (63%) def. Sigouin (37%)
-        SLM: UNC - Sigouin (51%) def. Henning (49%)
+        SLM: UNC - Sigouin (50%) def. Henning (50%)
         TRN: UGA - Henning (57%) def. Sigouin (43%)
-        MAS: UGA - Henning (70%) def. Sigouin (30%)
+        MAS: UGA - Henning (68%) def. Sigouin (32%)
         UTR: UGA - Henning (76%) def. Sigouin (24%)
         ITA: UGA - Henning (31.73) def. Sigouin (13.85)
     - Position: 4
       UNC: Brian Cernoch - 5-2 at 4, 17-5 in duals, 17-5 overall
       UGA: Blake Croyder - 10-2 at 4, 11-5 in duals, 15-12 overall
       Predictions:
-        AVG: UNC - Cernoch (82%) def. Croyder (18%)
-        SLM: UNC - Cernoch (81%) def. Croyder (19%)
+        AVG: UNC - Cernoch (80%) def. Croyder (20%)
+        SLM: UNC - Cernoch (82%) def. Croyder (18%)
         TRN: UNC - Cernoch (82%) def. Croyder (18%)
-        MAS: UNC - Cernoch (82%) def. Croyder (18%)
+        MAS: UNC - Cernoch (75%) def. Croyder (25%)
         UTR: UNC - Cernoch (82%) def. Croyder (18%)
         ITA: UNC - Cernoch (12.67) def. Croyder (4.08)
     - Position: 5
       UNC: Josh Peck - 3-1 at 5, 8-3 in duals, 8-3 overall
       UGA: Billy Rowe - 8-4 at 5, 12-7 in duals, 16-10 overall
       Predictions:
-        AVG: UNC - Peck (73%) def. Rowe (27%)
-        SLM: UNC - Peck (71%) def. Rowe (29%)
-        TRN: UNC - Peck (66%) def. Rowe (34%)
-        MAS: UNC - Peck (74%) def. Rowe (26%)
+        AVG: UNC - Peck (72%) def. Rowe (28%)
+        SLM: UNC - Peck (70%) def. Rowe (30%)
+        TRN: UNC - Peck (65%) def. Rowe (35%)
+        MAS: UNC - Peck (73%) def. Rowe (27%)
         UTR: UNC - Peck (80%) def. Rowe (20%)
         ITA: UNC - Peck (4.29) def. Rowe (1.84)
     - Position: 6
       UNC: Simon Soendergaard - 6-3 at 6, 10-5 in duals, 11-6 overall
       UGA: Erik Grevelius - 7-3 at 6, 9-4 in duals, 15-8 overall
       Predictions:
-        AVG: UNC - Soendergaard (56%) def. Grevelius (44%)
+        AVG: UNC - Soendergaard (57%) def. Grevelius (43%)
         SLM: UNC - Soendergaard (61%) def. Grevelius (39%)
-        TRN: UNC - Soendergaard (58%) def. Grevelius (42%)
-        MAS: UNC - Soendergaard (52%) def. Grevelius (48%)
+        TRN: UNC - Soendergaard (61%) def. Grevelius (39%)
+        MAS: UNC - Soendergaard (50%) def. Grevelius (50%)
         UTR: UNC - Soendergaard (55%) def. Grevelius (45%)
         ITA: UNC - Soendergaard (3.62) def. Grevelius (2.48)
   Doubles:

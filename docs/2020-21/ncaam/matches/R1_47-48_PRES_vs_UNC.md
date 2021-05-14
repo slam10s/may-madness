@@ -10,11 +10,11 @@ Chapel Hill, North Carolina
 
 <h2>#4 Presbyterian</h2>  
 &nbsp; Record: 11-7<br>  
-&nbsp; ITA: 59 (3.97)<br>  
-&nbsp; Slam: 59 (82.26)<br>  
-&nbsp; TRN: 59 (77.90)<br>  
-&nbsp; Massey: 61 (5.23)<br>  
-&nbsp; UTR: 61 (70.28)<br>  
+&nbsp; ITA: 58 (3.97)<br>  
+&nbsp; Slam: 58 (82.26)<br>  
+&nbsp; TRN: 58 (77.90)<br>  
+&nbsp; Massey: 60 (5.23)<br>  
+&nbsp; UTR: 60 (70.28)<br>  
 <br>  
 
 </td>
@@ -22,13 +22,13 @@ Chapel Hill, North Carolina
 
 <h2>#1 North Carolina</h2>  
 &nbsp; Record: 20-3<br>  
-&#10004; ITA: 6 (72.02)<br>  
+&#10004; ITA: 6 (72.28)<br>  
 &#10004; Slam: 3 (99.37)<br>  
 &#10004; TRN: 2 (99.37)<br>  
 &#10004; Massey: 4 (8.94)<br>  
 &#10004; UTR: 11 (79.64)<br>  
-&#10004; USTA Poll: 5<br>  
-&#10004; Coaches Poll: 6<br>  
+&#10004; USTA Poll: 7 (282.00)<br>  
+&nbsp; Coaches Poll: 6<br>  
 <br>  
 
 </td>
@@ -45,14 +45,13 @@ Go to [Live Stats](http://www.statbroadcast.com/events/statmonitr.php?gid=unc)
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***UNC*** - North Carolina (99%) def. Presbyterian (1%)  
-- Slam: ***UNC*** - #3 North Carolina (99%) def. #59 Presbyterian (1%)  
-- TRN: ***UNC*** - #2 North Carolina (99%) def. #59 Presbyterian (1%)  
-- Massey: ***UNC*** - #4 North Carolina (99%) def. #61 Presbyterian (1%)  
+- Slam: ***UNC*** - #3 North Carolina (99%) def. #58 Presbyterian (1%)  
+- TRN: ***UNC*** - #2 North Carolina (99%) def. #58 Presbyterian (1%)  
+- Massey: ***UNC*** - #4 North Carolina (99%) def. #60 Presbyterian (1%)  
 - Lineup: ***UNC*** - North Carolina (99%) def. Presbyterian (1%)  
-- UTR: ***UNC*** - #11 North Carolina (+9.36) def. #61 Presbyterian (-9.36)  
-- ITA: ***UNC*** - #6 North Carolina def. #59 Presbyterian  
-- USTA Poll: ***UNC*** - #5 North Carolina def. Presbyterian  
-- Coaches Poll: ***UNC*** - #6 North Carolina def. Presbyterian  
+- UTR: ***UNC*** - #11 North Carolina (+9.36) def. #60 Presbyterian (-9.36)  
+- ITA: ***UNC*** - #6 North Carolina def. #58 Presbyterian  
+- USTA Poll: ***UNC*** - #7 North Carolina def. Presbyterian  
 - Seeding: ***UNC*** - #1 North Carolina def. #4 Presbyterian  
 
 ## Individual Matchups  
@@ -68,29 +67,29 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UNC</i></b> - Blumberg (98%) def. Benson (2%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Blumberg (98%) def. Benson (2%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Blumberg (99%) def. Benson (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Blumberg (97%) def. Benson (3%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Blumberg (96%) def. Benson (4%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Blumberg (97%) def. Benson (3%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Blumberg (21.87) def. Benson (2.12)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Sebastian Dominguez (PRES) - 2-3 at #2, 4-6 in duals, 4-6 overall<br>Rinky Hijikata (UNC) - 4-2 at #2, 9-2 in duals, 11-2 overall</summary>
+<summary markdown="span">Juan Sebastian Dominguez Collado (PRES) - 2-3 at #2, 4-6 in duals, 4-6 overall<br>Rinky Hijikata (UNC) - 4-2 at #2, 9-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
-<li>TRN: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Hijikata (99%) def. Dominguez (1%)</li>  
-<li>UTR: <b><i>UNC</i></b> - Hijikata (98%) def. Dominguez (2%)</li>  
-<li>ITA: <b><i>UNC</i></b> - Hijikata (27.96) def. Dominguez (0.00)</li>  
+<li>Composite: <b><i>UNC</i></b> - Hijikata (99%) def. Collado (1%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Hijikata (99%) def. Collado (1%)</li>  
+<li>TRN: <b><i>UNC</i></b> - Hijikata (99%) def. Collado (1%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Hijikata (99%) def. Collado (1%)</li>  
+<li>UTR: <b><i>UNC</i></b> - Hijikata (98%) def. Collado (2%)</li>  
+<li>ITA: <b><i>PRES</i></b> - # Collado def. Hijikata (27.96)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Nick McKinney (PRES) - 3-1 at #3, 13-1 in duals, 13-1 overall<br>Benjamin Sigouin (UNC) - 3-2 at #3, 9-9 in duals, 9-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Sigouin (89%) def. McKinney (11%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Sigouin (90%) def. McKinney (10%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Sigouin (97%) def. McKinney (3%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Sigouin (96%) def. McKinney (4%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Sigouin (74%) def. McKinney (26%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Sigouin (76%) def. McKinney (24%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Sigouin (89%) def. McKinney (11%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Sigouin (13.85) def. McKinney (3.59)</li>  
 </ul>
@@ -103,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Cernoch (99%) def. Babic (1%)</li>  
-<li>ITA: <b><i>UNC</i></b> - Cernoch (12.67) def. Babic (0.00)</li>  
+<li>ITA: <b><i>PRES</i></b> - # Babic def. Cernoch (12.67)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -134,7 +133,7 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Stenger/Dominguez (PRES) - 2-1 at #1, 6-4 in duals, 6-4 overall<br>Blumberg/Cernoch (UNC) - 12-3 at #1, 12-3 in duals, 12-3 overall</summary>
+<summary markdown="span">Stenger/Collado (PRES) - 2-1 at #1, 6-4 in duals, 6-4 overall<br>Blumberg/Cernoch (UNC) - 12-3 at #1, 12-3 in duals, 12-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>

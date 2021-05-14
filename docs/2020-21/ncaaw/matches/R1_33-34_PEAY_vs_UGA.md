@@ -10,7 +10,7 @@ Athens, Georgia
 
 <h2>#4 Austin Peay</h2>  
 &nbsp; Record: 12-4<br>  
-&nbsp; ITA: 57 (3.35)<br>  
+&nbsp; ITA: 57 (3.32)<br>  
 &nbsp; Slam: 56 (77.22)<br>  
 &nbsp; TRN: 56 (67.26)<br>  
 &nbsp; Massey: 56 (4.88)<br>  
@@ -22,13 +22,13 @@ Athens, Georgia
 
 <h2>#1 Georgia</h2>  
 &nbsp; Record: 21-1<br>  
-&#10004; ITA: 3 (74.01)<br>  
+&#10004; ITA: 3 (73.77)<br>  
 &#10004; Slam: 3 (97.81)<br>  
 &#10004; TRN: 3 (94.01)<br>  
 &#10004; Massey: 3 (9.29)<br>  
 &#10004; UTR: 3 (64.69)<br>  
-&#10004; USTA Poll: 3<br>  
-&#10004; Coaches Poll: 3<br>  
+&#10004; USTA Poll: 4 (299.00)<br>  
+&nbsp; Coaches Poll: 3<br>  
 <br>  
 
 </td>
@@ -50,8 +50,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***UGA*** - Georgia (99%) def. Austin Peay (1%)  
 - UTR: ***UGA*** - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)  
 - ITA: ***UGA*** - #3 Georgia def. #57 Austin Peay  
-- USTA Poll: ***UGA*** - #3 Georgia def. Austin Peay  
-- Coaches Poll: ***UGA*** - #3 Georgia def. Austin Peay  
+- USTA Poll: ***UGA*** - #4 Georgia def. Austin Peay  
 - Seeding: ***UGA*** - #1 Georgia def. #4 Austin Peay  
 
 ## Individual Matchups  
@@ -89,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Kowalski (99%) def. Leder (1%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Kowalski (98%) def. Leder (2%)</li>  
 <li>UTR: <b><i>UGA</i></b> - Kowalski (98%) def. Leder (2%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Kowalski (23.73) def. Leder (3.05)</li>  
 </ul>
@@ -106,14 +105,14 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Martina Paladini-Jennings (PEAY) - 4-4 at #5, 7-7 in duals, 7-7 overall<br>Marta Gonzalez (UGA) - 1-1 at #5, 2-1 in duals, 11-1 overall</summary>
+<summary markdown="span">Martina Paladini Jennings (PEAY) - 4-4 at #5, 7-7 in duals, 7-7 overall<br>Marta Gonzalez (UGA) - 1-1 at #5, 2-1 in duals, 11-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
-<li>Slam: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
-<li>TRN: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
-<li>Massey: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
-<li>UTR: <b><i>UGA</i></b> - Gonzalez (99%) def. Paladini-Jennings (1%)</li>  
-<li>ITA: <b><i>UGA</i></b> - Gonzalez (11.71) def. Paladini-Jennings (1.85)</li>  
+<li>Composite: <b><i>UGA</i></b> - Gonzalez (99%) def. Jennings (1%)</li>  
+<li>Slam: <b><i>UGA</i></b> - Gonzalez (99%) def. Jennings (1%)</li>  
+<li>TRN: <b><i>UGA</i></b> - Gonzalez (99%) def. Jennings (1%)</li>  
+<li>Massey: <b><i>UGA</i></b> - Gonzalez (99%) def. Jennings (1%)</li>  
+<li>UTR: <b><i>UGA</i></b> - Gonzalez (99%) def. Jennings (1%)</li>  
+<li>ITA: <b><i>UGA</i></b> - Gonzalez (11.71) def. Jennings (1.85)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>

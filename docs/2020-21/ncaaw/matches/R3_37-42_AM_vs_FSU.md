@@ -8,12 +8,12 @@ Third Round[](#top)<a name="top"></a>
 
 <h2>#10 Texas A&M</h2>  
 &nbsp; Record: 21-7<br>  
-&nbsp; ITA: 10 (50.15)<br>  
+&nbsp; ITA: 10 (50.26)<br>  
 &nbsp; Slam: 15 (90.86)<br>  
 &nbsp; TRN: 14 (83.43)<br>  
-&nbsp; Massey: 21 (7.77)<br>  
+&nbsp; Massey: 23 (7.76)<br>  
 &nbsp; UTR: 21 (61.70)<br>  
-&nbsp; USTA Poll: 17<br>  
+&nbsp; USTA Poll: 18 (129.00)<br>  
 &nbsp; Coaches Poll: 10<br>  
 <br>  
 
@@ -22,13 +22,13 @@ Third Round[](#top)<a name="top"></a>
 
 <h2>#7 Florida St.</h2>  
 &nbsp; Record: 18-5<br>  
-&#10004; ITA: 7 (55.15)<br>  
+&#10004; ITA: 7 (55.39)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  
 &#10004; Massey: 9 (8.17)<br>  
 &#10004; UTR: 10 (62.71)<br>  
-&#10004; USTA Poll: 12<br>  
-&#10004; Coaches Poll: 7<br>  
+&#10004; USTA Poll: 13 (181.00)<br>  
+&nbsp; Coaches Poll: 7<br>  
 <br>  
 
 </td>
@@ -40,15 +40,14 @@ Third Round[](#top)<a name="top"></a>
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***FSU*** - Florida St. (70%) def. Texas A&M (30%)  
+- Composite: ***FSU*** - Florida St. (69%) def. Texas A&M (31%)  
 - Slam: ***FSU*** - #10 Florida St. (63%) def. #15 Texas A&M (37%)  
 - TRN: ***FSU*** - #9 Florida St. (64%) def. #14 Texas A&M (36%)  
-- Massey: ***FSU*** - #9 Florida St. (69%) def. #21 Texas A&M (31%)  
+- Massey: ***FSU*** - #9 Florida St. (66%) def. #23 Texas A&M (34%)  
 - Lineup: ***FSU*** - Florida St. (84%) def. Texas A&M (16%)  
 - UTR: ***FSU*** - #10 Florida St. (+1.01) def. #21 Texas A&M (-1.01)  
 - ITA: ***FSU*** - #7 Florida St. def. #10 Texas A&M  
-- USTA Poll: ***FSU*** - #12 Florida St. def. #17 Texas A&M  
-- Coaches Poll: ***FSU*** - #7 Florida St. def. #10 Texas A&M  
+- USTA Poll: ***FSU*** - #13 Florida St. def. #18 Texas A&M  
 - Seeding: ***FSU*** - #7 Florida St. def. #10 Texas A&M  
 
 ## Individual Matchups  
@@ -61,10 +60,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Tatiana Makarova (A&M) - 12-4 at #1, 15-4 in duals, 23-6 overall<br>Giulia Pairone (FSU) - 11-8 at #1, 11-8 in duals, 13-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FSU</i></b> - Pairone (57%) def. Makarova (43%)</li>  
-<li>Slam: <b><i>FSU</i></b> - Pairone (71%) def. Makarova (29%)</li>  
-<li>TRN: <b><i>FSU</i></b> - Pairone (60%) def. Makarova (40%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Pairone (57%) def. Makarova (43%)</li>  
+<li>Composite: <b><i>FSU</i></b> - Pairone (55%) def. Makarova (45%)</li>  
+<li>Slam: <b><i>FSU</i></b> - Pairone (67%) def. Makarova (33%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Pairone (57%) def. Makarova (43%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Pairone (55%) def. Makarova (45%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Makarova (58%) def. Pairone (42%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Pairone (30.67) def. Makarova (21.86)</li>  
 </ul>
@@ -72,10 +71,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jayci Goldsmith (A&M) - 9-7 at #2, 11-9 in duals, 13-10 overall<br>Emmanuelle Salas (FSU) - 5-6 at #2, 7-9 in duals, 7-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FSU</i></b> - Salas (58%) def. Goldsmith (42%)</li>  
-<li>Slam: <b><i>A&M</i></b> - Goldsmith (52%) def. Salas (48%)</li>  
-<li>TRN: <b><i>FSU</i></b> - Salas (51%) def. Goldsmith (49%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Salas (59%) def. Goldsmith (41%)</li>  
+<li>Composite: <b><i>FSU</i></b> - Salas (54%) def. Goldsmith (46%)</li>  
+<li>Slam: <b><i>A&M</i></b> - Goldsmith (58%) def. Salas (42%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Goldsmith (54%) def. Salas (46%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Salas (53%) def. Goldsmith (47%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Salas (76%) def. Goldsmith (24%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Salas (14.35) def. Goldsmith (3.03)</li>  
 </ul>
@@ -85,8 +84,8 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>A&M</i></b> - Townsend (53%) def. Das (47%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Das (51%) def. Townsend (49%)</li>  
-<li>TRN: <b><i>A&M</i></b> - Townsend (54%) def. Das (46%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Das (53%) def. Townsend (47%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Townsend (51%) def. Das (49%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Das (51%) def. Townsend (49%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Townsend (64%) def. Das (36%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Townsend (3.71) def. Das (2.52)</li>  
 </ul>
@@ -94,10 +93,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Dorthea Faa-Hviding (A&M) - 7-6 at #4, 13-6 in duals, 14-7 overall<br>Petra Hule (FSU) - 4-0 at #4, 12-3 in duals, 13-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FSU</i></b> - Hule (72%) def. Faa-Hviding (28%)</li>  
-<li>Slam: <b><i>FSU</i></b> - Hule (68%) def. Faa-Hviding (32%)</li>  
-<li>TRN: <b><i>FSU</i></b> - Hule (75%) def. Faa-Hviding (25%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Hule (74%) def. Faa-Hviding (26%)</li>  
+<li>Composite: <b><i>FSU</i></b> - Hule (75%) def. Faa-Hviding (25%)</li>  
+<li>Slam: <b><i>FSU</i></b> - Hule (74%) def. Faa-Hviding (26%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Hule (81%) def. Faa-Hviding (19%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Hule (76%) def. Faa-Hviding (24%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Hule (70%) def. Faa-Hviding (30%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Hule (3.24) def. Faa-Hviding (1.87)</li>  
 </ul>
@@ -106,9 +105,9 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Renee McBryde (A&M) - 10-1 at #5, 14-3 in duals, 17-4 overall<br>Victoria Allen (FSU) - 7-0 at #5, 11-4 in duals, 12-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>FSU</i></b> - Allen (76%) def. McBryde (24%)</li>  
-<li>Slam: <b><i>FSU</i></b> - Allen (76%) def. McBryde (24%)</li>  
-<li>TRN: <b><i>FSU</i></b> - Allen (74%) def. McBryde (26%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Allen (76%) def. McBryde (24%)</li>  
+<li>Slam: <b><i>FSU</i></b> - Allen (77%) def. McBryde (23%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Allen (76%) def. McBryde (24%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Allen (72%) def. McBryde (28%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Allen (77%) def. McBryde (23%)</li>  
 <li>ITA: <b><i>FSU</i></b> - Allen (2.90) def. McBryde (2.44)</li>  
 </ul>
@@ -116,12 +115,12 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Riley McQuaid (A&M) - 8-5 at #6, 11-5 in duals, 16-9 overall<br>Anna Arkadianou (FSU) - 0-0 at #6, 3-4 in duals, 4-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FSU</i></b> - Arkadianou (75%) def. McQuaid (25%)</li>  
+<li>Composite: <b><i>FSU</i></b> - Arkadianou (74%) def. McQuaid (26%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Arkadianou (74%) def. McQuaid (26%)</li>  
-<li>TRN: <b><i>FSU</i></b> - Arkadianou (74%) def. McQuaid (26%)</li>  
-<li>Massey: <b><i>FSU</i></b> - Arkadianou (72%) def. McQuaid (28%)</li>  
+<li>TRN: <b><i>FSU</i></b> - Arkadianou (73%) def. McQuaid (27%)</li>  
+<li>Massey: <b><i>FSU</i></b> - Arkadianou (69%) def. McQuaid (31%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Arkadianou (78%) def. McQuaid (22%)</li>  
-<li>ITA: <b><i>A&M</i></b> - McQuaid (2.12) def. Arkadianou (0.00)</li>  
+<li>ITA: <b><i>FSU</i></b> - # Arkadianou def. McQuaid (2.12)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

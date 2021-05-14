@@ -1,0 +1,116 @@
+Date: Saturday, May 8
+Time: 10:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
+Round: First Round
+Lines: 19-20
+Title: Stanford vs LSU
+URL: https://www.ncaa.com/game/5833379
+Winner: TBD
+Home:
+  Team: LSU
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png
+  Entry: At-Large Bid
+  Seeding: {}
+  Ratings:
+    ITA: 40 (19.17)
+    SLM: 38 (92.17)
+    TRN: 39 (90.14)
+    MAS: 46 (6.78)
+    UTR: 42 (75.44)
+Visitor:
+  Team: Stanford
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png
+  Entry: At-Large Bid
+  Seeding: {}
+  Ratings:
+    ITA: 21 (34.55)
+    SLM: 22 (94.00)
+    TRN: 21 (92.30)
+    MAS: 20 (7.97)
+    UTR: 5 (80.08)
+Predictions:
+  AVG: STAN - Stanford (86%) def. LSU (14%)
+  SLM: "STAN - #22 Stanford (74%) def. #38 LSU (26%)"
+  TRN: "STAN - #21 Stanford (77%) def. #39 LSU (23%)"
+  MAS: "STAN - #20 Stanford (96%) def. #46 LSU (4%)"
+  LNUP: STAN - Stanford (98%) def. LSU (2%)
+  UTR: "STAN - #5 Stanford (+4.64) def. #42 LSU (-4.64)"
+  ITA: "STAN - #21 Stanford def. #40 LSU"
+Lineups:
+  Predictions:
+    Average EWPs for LSU: 26%,23%,4%,2%
+    Average EWPs for STAN: 74%,77%,96%,98%
+    LSU wins 4 or more Singles points: 1%
+    STAN wins 4 or more Singles points: 94%
+    Winner decided by the Doubles point: 5%
+  Singles:
+    - Position: 1
+      LSU: Ronald Hohmann - 10-9 at 1, 10-9 in duals, 13-12 overall
+      STAN: Axel Geller - 5-6 at 1, 6-6 in duals, 6-6 overall
+      Predictions:
+        AVG: STAN - Geller (75%) def. Hohmann (25%)
+        SLM: STAN - Geller (71%) def. Hohmann (29%)
+        TRN: STAN - Geller (79%) def. Hohmann (21%)
+        MAS: STAN - Geller (71%) def. Hohmann (29%)
+        UTR: STAN - Geller (80%) def. Hohmann (20%)
+        ITA: LSU - Hohmann (23.83) def. Geller (6.21)
+    - Position: 2
+      LSU: Rafael Wagner - 5-9 at 2, 7-9 in duals, 11-13 overall
+      STAN: Arthur Fery - 6-2 at 2, 11-3 in duals, 11-3 overall
+      Predictions:
+        AVG: STAN - Fery (91%) def. Wagner (9%)
+        SLM: STAN - Fery (87%) def. Wagner (13%)
+        TRN: STAN - Fery (92%) def. Wagner (8%)
+        MAS: STAN - Fery (89%) def. Wagner (11%)
+        UTR: STAN - Fery (94%) def. Wagner (6%)
+        ITA: STAN - Fery (8.87) def. Wagner (6.22)
+    - Position: 3
+      LSU: Joao Graca - 0-4 at 3, 5-10 in duals, 5-10 overall
+      STAN: Tristan Boyer - 1-1 at 3, 8-5 in duals, 8-5 overall
+      Predictions:
+        AVG: STAN - Boyer (88%) def. Graca (12%)
+        SLM: STAN - Boyer (86%) def. Graca (14%)
+        TRN: STAN - Boyer (87%) def. Graca (13%)
+        MAS: STAN - Boyer (85%) def. Graca (15%)
+        UTR: STAN - Boyer (93%) def. Graca (7%)
+        ITA: STAN - Boyer (2.12) def. Graca (1.37)
+    - Position: 4
+      LSU: Boris Kozlov - 5-4 at 4, 10-6 in duals, 13-11 overall
+      STAN: Alex Rotsaert - 0-0 at 4, 4-6 in duals, 4-6 overall
+      Predictions:
+        AVG: STAN - Rotsaert (82%) def. Kozlov (18%)
+        SLM: STAN - Rotsaert (89%) def. Kozlov (11%)
+        TRN: STAN - Rotsaert (83%) def. Kozlov (17%)
+        MAS: STAN - Rotsaert (75%) def. Kozlov (25%)
+        UTR: STAN - Rotsaert (83%) def. Kozlov (17%)
+        ITA: STAN - Rotsaert (1.37) def. Kozlov (1.32)
+    - Position: 5
+      LSU: Benjamin Ambrosio - 1-3 at 5, 9-6 in duals, 9-6 overall
+      STAN: Timothy Sah - 6-3 at 5, 8-4 in duals, 8-4 overall
+      Predictions:
+        AVG: STAN - Sah (83%) def. Ambrosio (17%)
+        SLM: STAN - Sah (86%) def. Ambrosio (14%)
+        TRN: STAN - Sah (83%) def. Ambrosio (17%)
+        MAS: STAN - Sah (75%) def. Ambrosio (25%)
+        UTR: STAN - Sah (90%) def. Ambrosio (10%)
+        ITA: STAN - Sah (2.32) def. Ambrosio (1.97)
+    - Position: 6
+      LSU: Ben Koch - 2-1 at 6, 4-2 in duals, 8-6 overall
+      STAN: William Genesen - 3-2 at 6, 5-3 in duals, 5-3 overall
+      Predictions:
+        AVG: STAN - Genesen (77%) def. Koch (23%)
+        SLM: STAN - Genesen (75%) def. Koch (25%)
+        TRN: STAN - Genesen (84%) def. Koch (16%)
+        MAS: STAN - Genesen (70%) def. Koch (30%)
+        UTR: STAN - Genesen (79%) def. Koch (21%)
+        ITA: STAN - Genesen (1.81) def. Koch (1.76)
+  Doubles:
+    - Position: 1
+      LSU: Wagner/Hohmann - 10-9 at 1, 10-9 in duals, 18-11 overall
+      STAN: Geller/Kopczynski - 2-0 at 1, 3-0 in duals, 3-0 overall
+    - Position: 2
+      LSU: Thomas/Graca - 6-10 at 2, 7-10 in duals, 7-10 overall
+      STAN: Boyer/Sah - 3-2 at 2, 3-3 in duals, 3-3 overall
+    - Position: 3
+      LSU: Watson/Kozlov - 10-5 at 3, 11-5 in duals, 13-10 overall
+      STAN: Fery/Rotsaert - 7-0 at 3, 9-1 in duals, 9-1 overall

@@ -10,7 +10,7 @@ Evanston, Illinois
 
 <h2>#3 Xavier</h2>  
 &nbsp; Record: 17-4<br>  
-&nbsp; ITA: 55 (3.75)<br>  
+&nbsp; ITA: 56 (3.60)<br>  
 &nbsp; Slam: 49 (80.67)<br>  
 &nbsp; TRN: 50 (71.88)<br>  
 &nbsp; Massey: 50 (5.60)<br>  
@@ -22,13 +22,13 @@ Evanston, Illinois
 
 <h2>#2 Northwestern</h2>  
 &nbsp; Record: 19-5<br>  
-&#10004; ITA: 21 (39.92)<br>  
+&#10004; ITA: 21 (38.97)<br>  
 &#10004; Slam: 18 (90.46)<br>  
 &#10004; TRN: 13 (83.80)<br>  
 &#10004; Massey: 20 (7.78)<br>  
 &#10004; UTR: 33 (60.43)<br>  
-&#10004; USTA Poll: 16<br>  
-&#10004; Coaches Poll: 19<br>  
+&#10004; USTA Poll: 17 (133.00)<br>  
+&nbsp; Coaches Poll: 19<br>  
 <br>  
 
 </td>
@@ -49,9 +49,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***NW*** - #20 Northwestern (99%) def. #50 Xavier (1%)  
 - Lineup: ***NW*** - Northwestern (99%) def. Xavier (1%)  
 - UTR: ***NW*** - #33 Northwestern (+36.37) def. #64 Xavier (-36.37)  
-- ITA: ***NW*** - #21 Northwestern def. #55 Xavier  
-- USTA Poll: ***NW*** - #16 Northwestern def. Xavier  
-- Coaches Poll: ***NW*** - #19 Northwestern def. Xavier  
+- ITA: ***NW*** - #21 Northwestern def. #56 Xavier  
+- USTA Poll: ***NW*** - #17 Northwestern def. Xavier  
 - Seeding: ***NW*** - #2 Northwestern def. #3 Xavier  
 
 ## Individual Matchups  
@@ -64,66 +63,66 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ahmeir Kyle (XAV) - 10-3 at #1, 10-3 in duals, 10-3 overall<br>Maria Shusharina (NW) - 5-12 at #1, 7-12 in duals, 9-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Shusharina (89%) def. Kyle (11%)</li>  
-<li>Slam: <b><i>NW</i></b> - Shusharina (85%) def. Kyle (15%)</li>  
-<li>TRN: <b><i>NW</i></b> - Shusharina (84%) def. Kyle (16%)</li>  
-<li>Massey: <b><i>NW</i></b> - Shusharina (87%) def. Kyle (13%)</li>  
-<li>UTR: <b><i>NW</i></b> - Shusharina (99%) def. Kyle (1%)</li>  
+<li>Composite: <b><i>NW</i></b> - Shusharina (86%) def. Kyle (14%)</li>  
+<li>Slam: <b><i>NW</i></b> - Shusharina (83%) def. Kyle (17%)</li>  
+<li>TRN: <b><i>NW</i></b> - Shusharina (85%) def. Kyle (15%)</li>  
+<li>Massey: <b><i>NW</i></b> - Shusharina (85%) def. Kyle (15%)</li>  
+<li>UTR: <b><i>NW</i></b> - Shusharina (93%) def. Kyle (7%)</li>  
 <li>ITA: <b><i>XAV</i></b> - Kyle (4.79) def. Shusharina (3.92)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Kat Lyman (XAV) - 10-1 at #2, 13-3 in duals, 13-3 overall<br>Clarissa Hand (NW) - 0-2 at #2, 14-6 in duals, 14-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Hand (88%) def. Lyman (12%)</li>  
+<li>Composite: <b><i>NW</i></b> - Hand (85%) def. Lyman (15%)</li>  
 <li>Slam: <b><i>NW</i></b> - Hand (84%) def. Lyman (16%)</li>  
-<li>TRN: <b><i>NW</i></b> - Hand (84%) def. Lyman (16%)</li>  
+<li>TRN: <b><i>NW</i></b> - Hand (85%) def. Lyman (15%)</li>  
 <li>Massey: <b><i>NW</i></b> - Hand (83%) def. Lyman (17%)</li>  
-<li>UTR: <b><i>NW</i></b> - Hand (99%) def. Lyman (1%)</li>  
+<li>UTR: <b><i>NW</i></b> - Hand (86%) def. Lyman (14%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (4.82) def. Lyman (2.79)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Anna Roggenburk (XAV) - 7-2 at #3, 15-3 in duals, 15-3 overall<br>Julie Byrne (NW) - 4-0 at #3, 9-8 in duals, 11-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Byrne (90%) def. Roggenburk (10%)</li>  
-<li>Slam: <b><i>NW</i></b> - Byrne (89%) def. Roggenburk (11%)</li>  
+<li>Composite: <b><i>NW</i></b> - Byrne (87%) def. Roggenburk (13%)</li>  
+<li>Slam: <b><i>NW</i></b> - Byrne (88%) def. Roggenburk (12%)</li>  
 <li>TRN: <b><i>NW</i></b> - Byrne (84%) def. Roggenburk (16%)</li>  
-<li>Massey: <b><i>NW</i></b> - Byrne (89%) def. Roggenburk (11%)</li>  
-<li>UTR: <b><i>NW</i></b> - Byrne (99%) def. Roggenburk (1%)</li>  
+<li>Massey: <b><i>NW</i></b> - Byrne (87%) def. Roggenburk (13%)</li>  
+<li>UTR: <b><i>NW</i></b> - Byrne (89%) def. Roggenburk (11%)</li>  
 <li>ITA: <b><i>XAV</i></b> - Roggenburk (2.75) def. Byrne (1.56)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Imani Graham (XAV) - 8-4 at #4, 16-4 in duals, 16-4 overall<br>Briana Crowley (NW) - 16-3 at #4, 16-5 in duals, 17-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Crowley (92%) def. Graham (8%)</li>  
-<li>Slam: <b><i>NW</i></b> - Crowley (93%) def. Graham (7%)</li>  
+<li>Composite: <b><i>NW</i></b> - Crowley (90%) def. Graham (10%)</li>  
+<li>Slam: <b><i>NW</i></b> - Crowley (94%) def. Graham (6%)</li>  
 <li>TRN: <b><i>NW</i></b> - Crowley (92%) def. Graham (8%)</li>  
 <li>Massey: <b><i>NW</i></b> - Crowley (85%) def. Graham (15%)</li>  
-<li>UTR: <b><i>NW</i></b> - Crowley (99%) def. Graham (1%)</li>  
+<li>UTR: <b><i>NW</i></b> - Crowley (90%) def. Graham (10%)</li>  
 <li>ITA: <b><i>XAV</i></b> - Graham (2.45) def. Crowley (1.93)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Kaitlin Ruether (XAV) - 2-6 at #5, 6-12 in duals, 6-12 overall<br>Caroline Pozo (NW) - 11-6 at #5, 12-7 in duals, 12-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Pozo (99%) def. Ruether (1%)</li>  
+<li>Composite: <b><i>NW</i></b> - Pozo (97%) def. Ruether (3%)</li>  
 <li>Slam: <b><i>NW</i></b> - Pozo (98%) def. Ruether (2%)</li>  
 <li>TRN: <b><i>NW</i></b> - Pozo (99%) def. Ruether (1%)</li>  
 <li>Massey: <b><i>NW</i></b> - Pozo (98%) def. Ruether (2%)</li>  
-<li>UTR: <b><i>NW</i></b> - Pozo (99%) def. Ruether (1%)</li>  
-<li>ITA: <b><i>NW</i></b> - Pozo (1.76) def. Ruether (0.00)</li>  
+<li>UTR: <b><i>NW</i></b> - Pozo (95%) def. Ruether (5%)</li>  
+<li>ITA: <b><i>XAV</i></b> - # Ruether def. Pozo (1.76)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Emily Thomas (XAV) - 2-0 at #6, 8-4 in duals, 8-4 overall<br>Christina Hand (NW) - 13-1 at #6, 13-1 in duals, 13-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Hand (95%) def. Thomas (5%)</li>  
-<li>Slam: <b><i>NW</i></b> - Hand (95%) def. Thomas (5%)</li>  
-<li>TRN: <b><i>NW</i></b> - Hand (96%) def. Thomas (4%)</li>  
-<li>Massey: <b><i>NW</i></b> - Hand (92%) def. Thomas (8%)</li>  
-<li>UTR: <b><i>NW</i></b> - Hand (99%) def. Thomas (1%)</li>  
+<li>Composite: <b><i>NW</i></b> - Hand (92%) def. Thomas (8%)</li>  
+<li>Slam: <b><i>NW</i></b> - Hand (94%) def. Thomas (6%)</li>  
+<li>TRN: <b><i>NW</i></b> - Hand (95%) def. Thomas (5%)</li>  
+<li>Massey: <b><i>NW</i></b> - Hand (89%) def. Thomas (11%)</li>  
+<li>UTR: <b><i>NW</i></b> - Hand (91%) def. Thomas (9%)</li>  
 <li>ITA: <b><i>NW</i></b> - Hand (2.48) def. Thomas (2.39)</li>  
 </ul>
 </details>&nbsp;</li>

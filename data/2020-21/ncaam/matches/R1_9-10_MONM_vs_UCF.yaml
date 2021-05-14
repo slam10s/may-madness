@@ -21,31 +21,30 @@ Home:
     MAS: 7 (8.63)
     UTR: 12 (79.08)
   Polls:
-    USTA: 10
+    USTA: 12 (199.00)
     Coach: 9
 Visitor:
   Team: Monmouth
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 10
   Seeding:
     Region: 4
   Ratings:
-    ITA: 58 (4.41)
-    SLM: 61 (82.18)
-    TRN: 57 (79.79)
-    MAS: 60 (5.30)
-    UTR: 62 (69.61)
+    ITA: 57 (4.41)
+    SLM: 60 (82.18)
+    TRN: 56 (79.79)
+    MAS: 59 (5.30)
+    UTR: 61 (69.61)
 Predictions:
   AVG: UCF - UCF (99%) def. Monmouth (1%)
-  SLM: "UCF - #12 UCF (99%) def. #61 Monmouth (1%)"
-  TRN: "UCF - #13 UCF (99%) def. #57 Monmouth (1%)"
-  MAS: "UCF - #7 UCF (99%) def. #60 Monmouth (1%)"
+  SLM: "UCF - #12 UCF (99%) def. #60 Monmouth (1%)"
+  TRN: "UCF - #13 UCF (99%) def. #56 Monmouth (1%)"
+  MAS: "UCF - #7 UCF (99%) def. #59 Monmouth (1%)"
   LNUP: UCF - UCF (99%) def. Monmouth (1%)
-  UTR: "UCF - #12 UCF (+9.47) def. #62 Monmouth (-9.47)"
-  ITA: "UCF - #10 UCF def. #58 Monmouth"
-  USTA: "UCF - #10 UCF def. Monmouth"
-  Coach: "UCF - #9 UCF def. Monmouth"
+  UTR: "UCF - #12 UCF (+9.47) def. #61 Monmouth (-9.47)"
+  ITA: "UCF - #10 UCF def. #57 Monmouth"
+  USTA: "UCF - #12 UCF def. Monmouth"
   Seeding: "UCF - #1 UCF def. #4 Monmouth"
 Lineups:
   Predictions:
@@ -62,7 +61,7 @@ Lineups:
         AVG: UCF - Decamps (98%) def. Wharton (2%)
         SLM: UCF - Decamps (98%) def. Wharton (2%)
         TRN: UCF - Decamps (99%) def. Wharton (1%)
-        MAS: UCF - Decamps (99%) def. Wharton (1%)
+        MAS: UCF - Decamps (98%) def. Wharton (2%)
         UTR: UCF - Decamps (98%) def. Wharton (2%)
         ITA: UCF - Decamps (42.84) def. Wharton (2.36)
     - Position: 2
@@ -72,7 +71,7 @@ Lineups:
         AVG: UCF - Rubio (97%) def. Benaim (3%)
         SLM: UCF - Rubio (98%) def. Benaim (2%)
         TRN: UCF - Rubio (99%) def. Benaim (1%)
-        MAS: UCF - Rubio (97%) def. Benaim (3%)
+        MAS: UCF - Rubio (96%) def. Benaim (4%)
         UTR: UCF - Rubio (96%) def. Benaim (4%)
         ITA: UCF - Rubio (3.77) def. Benaim (2.42)
     - Position: 3
@@ -99,20 +98,20 @@ Lineups:
       UCF: Trey Hilderbrand - 10-1 at 5, 17-4 in duals, 17-4 overall
       MONM: Sergio Martinez - 10-2 at 5, 12-2 in duals, 12-2 overall
       Predictions:
-        AVG: UCF - Hilderbrand (99%) def. Martinez (1%)
+        AVG: UCF - Hilderbrand (98%) def. Martinez (2%)
         SLM: UCF - Hilderbrand (99%) def. Martinez (1%)
         TRN: UCF - Hilderbrand (99%) def. Martinez (1%)
-        MAS: UCF - Hilderbrand (98%) def. Martinez (2%)
+        MAS: UCF - Hilderbrand (97%) def. Martinez (3%)
         UTR: UCF - Hilderbrand (98%) def. Martinez (2%)
         ITA: MONM - Martinez (3.09) def. Hilderbrand (2.90)
     - Position: 6
       UCF: Mikhail Sokolovskiy - 13-4 at 6, 14-5 in duals, 14-5 overall
       MONM: Gabriel Busato - 12-1 at 6, 14-2 in duals, 14-2 overall
       Predictions:
-        AVG: UCF - Sokolovskiy (96%) def. Busato (4%)
+        AVG: UCF - Sokolovskiy (95%) def. Busato (5%)
         SLM: UCF - Sokolovskiy (98%) def. Busato (2%)
         TRN: UCF - Sokolovskiy (98%) def. Busato (2%)
-        MAS: UCF - Sokolovskiy (91%) def. Busato (9%)
+        MAS: UCF - Sokolovskiy (89%) def. Busato (11%)
         UTR: UCF - Sokolovskiy (96%) def. Busato (4%)
         ITA: MONM - Busato (3.43) def. Sokolovskiy (2.26)
   Doubles:

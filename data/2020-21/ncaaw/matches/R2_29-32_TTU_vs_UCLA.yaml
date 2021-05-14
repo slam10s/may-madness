@@ -15,13 +15,13 @@ Home:
     Overall: 4
     Region: 1
   Ratings:
-    ITA: 4 (61.84)
+    ITA: 4 (61.62)
     SLM: 4 (92.98)
     TRN: 7 (85.42)
     MAS: 4 (8.85)
     UTR: 5 (64.40)
   Polls:
-    USTA: 4
+    USTA: 5 (280.00)
     Coach: 5
 Visitor:
   Team: Texas Tech
@@ -31,7 +31,7 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 29 (28.07)
+    ITA: 30 (27.98)
     SLM: 34 (87.92)
     TRN: 34 (79.75)
     MAS: 28 (7.39)
@@ -45,17 +45,16 @@ Predictions:
   MAS: "UCLA - #4 UCLA (98%) def. #28 Texas Tech (2%)"
   LNUP: UCLA - UCLA (97%) def. Texas Tech (3%)
   UTR: "UCLA - #5 UCLA (+2.96) def. #27 Texas Tech (-2.96)"
-  ITA: "UCLA - #4 UCLA def. #29 Texas Tech"
-  USTA: "UCLA - #4 UCLA def. Texas Tech"
-  Coach: "UCLA - #5 UCLA def. #29 Texas Tech"
+  ITA: "UCLA - #4 UCLA def. #30 Texas Tech"
+  USTA: "UCLA - #5 UCLA def. Texas Tech"
   Seeding: "UCLA - #1 UCLA def. #2 Texas Tech"
 Lineups:
   Predictions:
     Average EWPs for UCLA: 94%,96%,98%,97%
     Average EWPs for TTU: 6%,4%,2%,3%
-    UCLA wins 4 or more Singles points: 89%
+    UCLA wins 4 or more Singles points: 90%
     TTU wins 4 or more Singles points: 2%
-    Winner decided by the Doubles point: 9%
+    Winner decided by the Doubles point: 8%
   Singles:
     - Position: 1
       UCLA: Abbey Forbes - 17-2 at 1, 18-2 in duals, 18-2 overall
@@ -81,40 +80,40 @@ Lineups:
       UCLA: Elysia Bolton - 5-2 at 3, 9-3 in duals, 9-3 overall
       TTU: Kaitlin Staines - 0-0 at 3, 6-9 in duals, 9-11 overall
       Predictions:
-        AVG: UCLA - Bolton (89%) def. Staines (11%)
+        AVG: UCLA - Bolton (90%) def. Staines (10%)
         SLM: UCLA - Bolton (86%) def. Staines (14%)
-        TRN: UCLA - Bolton (89%) def. Staines (11%)
-        MAS: UCLA - Bolton (91%) def. Staines (9%)
+        TRN: UCLA - Bolton (90%) def. Staines (10%)
+        MAS: UCLA - Bolton (92%) def. Staines (8%)
         UTR: UCLA - Bolton (91%) def. Staines (9%)
         ITA: TTU - Staines (4.66) def. Bolton (4.20)
     - Position: 4
       UCLA: Vivian Wolff - 9-4 at 4, 10-6 in duals, 10-6 overall
       TTU: Nell Miller - 11-4 at 4, 14-6 in duals, 16-10 overall
       Predictions:
-        AVG: UCLA - Wolff (73%) def. Miller (27%)
-        SLM: UCLA - Wolff (68%) def. Miller (32%)
-        TRN: UCLA - Wolff (75%) def. Miller (25%)
-        MAS: UCLA - Wolff (75%) def. Miller (25%)
+        AVG: UCLA - Wolff (75%) def. Miller (25%)
+        SLM: UCLA - Wolff (71%) def. Miller (29%)
+        TRN: UCLA - Wolff (78%) def. Miller (22%)
+        MAS: UCLA - Wolff (78%) def. Miller (22%)
         UTR: UCLA - Wolff (72%) def. Miller (28%)
         ITA: TTU - Miller (2.66) def. Wolff (2.06)
     - Position: 5
       UCLA: Sasha Vagramov - 5-3 at 5, 9-5 in duals, 9-5 overall
       TTU: Olivia Peet - 9-6 at 5, 10-6 in duals, 12-6 overall
       Predictions:
-        AVG: UCLA - Vagramov (56%) def. Peet (44%)
-        SLM: UCLA - Vagramov (61%) def. Peet (39%)
-        TRN: UCLA - Vagramov (72%) def. Peet (28%)
-        MAS: UCLA - Vagramov (54%) def. Peet (46%)
+        AVG: UCLA - Vagramov (59%) def. Peet (41%)
+        SLM: UCLA - Vagramov (65%) def. Peet (35%)
+        TRN: UCLA - Vagramov (76%) def. Peet (24%)
+        MAS: UCLA - Vagramov (59%) def. Peet (41%)
         UTR: TTU - Peet (62%) def. Vagramov (38%)
         ITA: UCLA - Vagramov (2.24) def. Peet (2.03)
     - Position: 6
       UCLA: Vanessa Ong - 3-1 at 6, 4-1 in duals, 4-1 overall
       TTU: Metka Komac - 9-4 at 6, 10-5 in duals, 12-6 overall
       Predictions:
-        AVG: UCLA - Ong (75%) def. Komac (25%)
-        SLM: UCLA - Ong (63%) def. Komac (37%)
-        TRN: UCLA - Ong (77%) def. Komac (23%)
-        MAS: UCLA - Ong (67%) def. Komac (33%)
+        AVG: UCLA - Ong (77%) def. Komac (23%)
+        SLM: UCLA - Ong (69%) def. Komac (31%)
+        TRN: UCLA - Ong (82%) def. Komac (18%)
+        MAS: UCLA - Ong (65%) def. Komac (35%)
         UTR: UCLA - Ong (93%) def. Komac (7%)
         ITA: TTU - Komac (1.98) def. Ong (1.95)
   Doubles:

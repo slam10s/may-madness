@@ -14,13 +14,13 @@ Home:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 24 (32.15)
+    ITA: 23 (32.53)
     SLM: 23 (93.84)
     TRN: 24 (91.84)
     MAS: 19 (8.03)
     UTR: 13 (79.06)
   Polls:
-    USTA: 22
+    USTA: 24 (52.00)
     Coach: 29
 Visitor:
   Team: Northwestern
@@ -30,90 +30,89 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 50 (7.95)
+    ITA: 50 (7.82)
     SLM: 33 (92.89)
     TRN: 32 (90.90)
     MAS: 31 (7.50)
     UTR: 27 (77.56)
   Polls:
-    Coach: 49
+    Coach: 46
 Predictions:
-  AVG: UCLA - UCLA (63%) def. Northwestern (37%)
+  AVG: UCLA - UCLA (58%) def. Northwestern (42%)
   SLM: "UCLA - #23 UCLA (63%) def. #33 Northwestern (37%)"
   TRN: "UCLA - #24 UCLA (63%) def. #32 Northwestern (37%)"
-  MAS: "UCLA - #19 UCLA (75%) def. #31 Northwestern (25%)"
-  LNUP: UCLA - UCLA (50%) def. Northwestern (50%)
+  MAS: "UCLA - #19 UCLA (71%) def. #31 Northwestern (29%)"
+  LNUP: NW - Northwestern (65%) def. UCLA (35%)
   UTR: "UCLA - #13 UCLA (+1.50) def. #27 Northwestern (-1.50)"
-  ITA: "UCLA - #24 UCLA def. #50 Northwestern"
-  USTA: "UCLA - #22 UCLA def. Northwestern"
-  Coach: "UCLA - #29 UCLA def. #49 Northwestern"
+  ITA: "UCLA - #23 UCLA def. #50 Northwestern"
+  USTA: "UCLA - #24 UCLA def. Northwestern"
   Seeding: "UCLA - #2 UCLA def. #3 Northwestern"
 Lineups:
   Predictions:
-    Average EWPs for UCLA: 63%,63%,75%,51%
-    Average EWPs for NW: 37%,37%,25%,49%
-    UCLA wins 4 or more Singles points: 34%
-    NW wins 4 or more Singles points: 34%
-    Winner decided by the Doubles point: 32%
+    Average EWPs for UCLA: 63%,63%,71%,35%
+    Average EWPs for NW: 37%,37%,29%,65%
+    UCLA wins 4 or more Singles points: 24%
+    NW wins 4 or more Singles points: 45%
+    Winner decided by the Doubles point: 31%
   Singles:
     - Position: 1
       UCLA: Govind Nanda - 2-2 at 1, 8-3 in duals, 8-3 overall
       NW: Steven Forman - 5-2 at 1, 5-2 in duals, 5-2 overall
       Predictions:
-        AVG: UCLA - Nanda (74%) def. Forman (26%)
-        SLM: UCLA - Nanda (63%) def. Forman (37%)
-        TRN: UCLA - Nanda (75%) def. Forman (25%)
-        MAS: UCLA - Nanda (75%) def. Forman (25%)
+        AVG: UCLA - Nanda (59%) def. Forman (41%)
+        SLM: UCLA - Nanda (50%) def. Forman (50%)
+        TRN: NW - Forman (57%) def. Nanda (43%)
+        MAS: UCLA - Nanda (60%) def. Forman (40%)
         UTR: UCLA - Nanda (85%) def. Forman (15%)
         ITA: UCLA - Nanda (4.24) def. Forman (2.23)
     - Position: 2
       UCLA: Drew Baird - 5-2 at 2, 9-6 in duals, 9-7 overall
-      NW: Dominik Stary - 4-0 at 2, 8-4 in duals, 9-6 overall
+      NW: Dominik Starý - 4-0 at 2, 8-4 in duals, 9-6 overall
       Predictions:
-        AVG: NW - Stary (56%) def. Baird (44%)
-        SLM: NW - Stary (68%) def. Baird (32%)
-        TRN: NW - Stary (63%) def. Baird (37%)
-        MAS: NW - Stary (59%) def. Baird (41%)
-        UTR: UCLA - Baird (66%) def. Stary (34%)
-        ITA: UCLA - Baird (3.85) def. Stary (0.00)
+        AVG: NW - Starý (63%) def. Baird (37%)
+        SLM: NW - Starý (75%) def. Baird (25%)
+        TRN: NW - Starý (76%) def. Baird (24%)
+        MAS: NW - Starý (67%) def. Baird (33%)
+        UTR: UCLA - Baird (66%) def. Starý (34%)
+        ITA: UCLA - Baird (3.85) def. Starý (2.05)
     - Position: 3
       UCLA: Ben Goldberg - 5-2 at 3, 8-8 in duals, 9-8 overall
       NW: Nick Brookes - 1-5 at 3, 9-7 in duals, 11-9 overall
       Predictions:
-        AVG: NW - Brookes (64%) def. Goldberg (36%)
-        SLM: NW - Brookes (65%) def. Goldberg (35%)
-        TRN: NW - Brookes (51%) def. Goldberg (49%)
-        MAS: NW - Brookes (64%) def. Goldberg (36%)
+        AVG: NW - Brookes (65%) def. Goldberg (35%)
+        SLM: NW - Brookes (68%) def. Goldberg (32%)
+        TRN: NW - Brookes (55%) def. Goldberg (45%)
+        MAS: NW - Brookes (62%) def. Goldberg (38%)
         UTR: NW - Brookes (76%) def. Goldberg (24%)
         ITA: UCLA - Goldberg (1.97) def. Brookes (1.58)
     - Position: 4
       UCLA: Sam Feit - 6-1 at 4, 11-5 in duals, 11-6 overall
       NW: Chris Ephron - 5-1 at 4, 9-5 in duals, 12-6 overall
       Predictions:
-        AVG: NW - Ephron (52%) def. Feit (48%)
-        SLM: NW - Ephron (64%) def. Feit (36%)
-        TRN: UCLA - Feit (51%) def. Ephron (49%)
-        MAS: NW - Ephron (55%) def. Feit (45%)
+        AVG: NW - Ephron (53%) def. Feit (47%)
+        SLM: NW - Ephron (66%) def. Feit (34%)
+        TRN: NW - Ephron (52%) def. Feit (48%)
+        MAS: NW - Ephron (51%) def. Feit (49%)
         UTR: UCLA - Feit (56%) def. Ephron (44%)
         ITA: NW - Ephron (2.01) def. Feit (1.91)
     - Position: 5
       UCLA: Roscoe Bellamy - 2-1 at 5, 8-2 in duals, 8-2 overall
       NW: Trice Pickens - 3-3 at 5, 8-10 in duals, 13-10 overall
       Predictions:
-        AVG: UCLA - Bellamy (54%) def. Pickens (46%)
-        SLM: NW - Pickens (69%) def. Bellamy (31%)
-        TRN: NW - Pickens (55%) def. Bellamy (45%)
-        MAS: UCLA - Bellamy (60%) def. Pickens (40%)
+        AVG: NW - Pickens (51%) def. Bellamy (49%)
+        SLM: NW - Pickens (72%) def. Bellamy (28%)
+        TRN: NW - Pickens (64%) def. Bellamy (36%)
+        MAS: UCLA - Bellamy (55%) def. Pickens (45%)
         UTR: UCLA - Bellamy (81%) def. Pickens (19%)
         ITA: UCLA - Bellamy (2.89) def. Pickens (1.58)
     - Position: 6
       UCLA: Mathew Tsolakyan - 4-2 at 6, 10-3 in duals, 11-3 overall
       NW: Simen Bratholm - 0-0 at 6, 5-4 in duals, 8-5 overall
       Predictions:
-        AVG: NW - Bratholm (56%) def. Tsolakyan (44%)
-        SLM: NW - Bratholm (65%) def. Tsolakyan (35%)
-        TRN: NW - Bratholm (63%) def. Tsolakyan (37%)
-        MAS: NW - Bratholm (59%) def. Tsolakyan (41%)
+        AVG: NW - Bratholm (59%) def. Tsolakyan (41%)
+        SLM: NW - Bratholm (68%) def. Tsolakyan (32%)
+        TRN: NW - Bratholm (70%) def. Tsolakyan (30%)
+        MAS: NW - Bratholm (63%) def. Tsolakyan (37%)
         UTR: UCLA - Tsolakyan (62%) def. Bratholm (38%)
         ITA: UCLA - Tsolakyan (2.57) def. Bratholm (2.06)
   Doubles:

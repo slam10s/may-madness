@@ -15,13 +15,13 @@ Home:
     Overall: 3
     Region: 1
   Ratings:
-    ITA: 3 (74.01)
+    ITA: 3 (73.77)
     SLM: 3 (97.81)
     TRN: 3 (94.01)
     MAS: 3 (9.29)
     UTR: 3 (64.69)
   Polls:
-    USTA: 3
+    USTA: 4 (299.00)
     Coach: 3
 Visitor:
   Team: Virginia
@@ -32,40 +32,39 @@ Visitor:
     Overall: 14
     Region: 1
   Ratings:
-    ITA: 14 (47.67)
+    ITA: 13 (48.31)
     SLM: 9 (91.88)
     TRN: 11 (84.03)
     MAS: 7 (8.25)
     UTR: 13 (62.41)
   Polls:
-    USTA: 10
+    USTA: 11 (202.00)
     Coach: 11
 Predictions:
-  AVG: UGA - Georgia (94%) def. Virginia (6%)
+  AVG: UGA - Georgia (93%) def. Virginia (7%)
   SLM: "UGA - #3 Georgia (96%) def. #9 Virginia (4%)"
   TRN: "UGA - #3 Georgia (99%) def. #11 Virginia (1%)"
-  MAS: "UGA - #3 Georgia (87%) def. #7 Virginia (13%)"
+  MAS: "UGA - #3 Georgia (82%) def. #7 Virginia (18%)"
   LNUP: UGA - Georgia (95%) def. Virginia (5%)
   UTR: "UGA - #3 Georgia (+2.28) def. #13 Virginia (-2.28)"
-  ITA: "UGA - #3 Georgia def. #14 Virginia"
-  USTA: "UGA - #3 Georgia def. #10 Virginia"
-  Coach: "UGA - #3 Georgia def. #11 Virginia"
+  ITA: "UGA - #3 Georgia def. #13 Virginia"
+  USTA: "UGA - #4 Georgia def. #11 Virginia"
   Seeding: "UGA - #3 Georgia def. #14 Virginia"
 Lineups:
   Predictions:
-    Average EWPs for UGA: 96%,99%,87%,95%
-    Average EWPs for UVA: 4%,1%,13%,5%
-    UGA wins 4 or more Singles points: 79%
+    Average EWPs for UGA: 96%,99%,82%,95%
+    Average EWPs for UVA: 4%,1%,18%,5%
+    UGA wins 4 or more Singles points: 78%
     UVA wins 4 or more Singles points: 4%
-    Winner decided by the Doubles point: 17%
+    Winner decided by the Doubles point: 18%
   Singles:
     - Position: 1
       UGA: Katarina Jokic - 15-0 at 1, 15-0 in duals, 24-1 overall
       UVA: Emma Navarro - 17-1 at 1, 17-1 in duals, 17-1 overall
       Predictions:
-        AVG: UVA - Navarro (53%) def. Jokic (47%)
-        SLM: UGA - Jokic (51%) def. Navarro (49%)
-        TRN: UVA - Navarro (57%) def. Jokic (43%)
+        AVG: UVA - Navarro (52%) def. Jokic (48%)
+        SLM: UGA - Jokic (52%) def. Navarro (48%)
+        TRN: UVA - Navarro (55%) def. Jokic (45%)
         MAS: UVA - Navarro (51%) def. Jokic (49%)
         UTR: UVA - Navarro (58%) def. Jokic (42%)
         ITA: UVA - Navarro (62.96) def. Jokic (60.56)
@@ -74,8 +73,8 @@ Lineups:
       UVA: Natasha Subhash - 14-4 at 2, 15-4 in duals, 15-5 overall
       Predictions:
         AVG: UVA - Subhash (51%) def. Ma (49%)
-        SLM: UGA - Ma (61%) def. Subhash (39%)
-        TRN: UVA - Subhash (52%) def. Ma (48%)
+        SLM: UGA - Ma (62%) def. Subhash (38%)
+        TRN: UVA - Subhash (51%) def. Ma (49%)
         MAS: UVA - Subhash (53%) def. Ma (47%)
         UTR: UVA - Subhash (58%) def. Ma (42%)
         ITA: UVA - Subhash (40.00) def. Ma (11.14)
@@ -84,39 +83,39 @@ Lineups:
       UVA: Rosie Johanson - 15-2 at 3, 16-2 in duals, 16-4 overall
       Predictions:
         AVG: UGA - Kowalski (68%) def. Johanson (32%)
-        SLM: UGA - Kowalski (76%) def. Johanson (24%)
+        SLM: UGA - Kowalski (77%) def. Johanson (23%)
         TRN: UGA - Kowalski (80%) def. Johanson (20%)
-        MAS: UGA - Kowalski (60%) def. Johanson (40%)
+        MAS: UGA - Kowalski (62%) def. Johanson (38%)
         UTR: UGA - Kowalski (55%) def. Johanson (45%)
         ITA: UGA - Kowalski (23.73) def. Johanson (6.37)
     - Position: 4
       UGA: Morgan Coppoc - 15-2 at 4, 15-2 in duals, 23-5 overall
       UVA: Hibah Shaikh - 4-9 at 4, 6-9 in duals, 7-10 overall
       Predictions:
-        AVG: UGA - Coppoc (91%) def. Shaikh (9%)
+        AVG: UGA - Coppoc (90%) def. Shaikh (10%)
         SLM: UGA - Coppoc (90%) def. Shaikh (10%)
-        TRN: UGA - Coppoc (94%) def. Shaikh (6%)
-        MAS: UGA - Coppoc (90%) def. Shaikh (10%)
+        TRN: UGA - Coppoc (93%) def. Shaikh (7%)
+        MAS: UGA - Coppoc (87%) def. Shaikh (13%)
         UTR: UGA - Coppoc (90%) def. Shaikh (10%)
         ITA: UGA - Coppoc (8.66) def. Shaikh (1.63)
     - Position: 5
       UGA: Marta Gonzalez - 1-1 at 5, 2-1 in duals, 11-1 overall
-      UVA: Amber O'Dell - 1-3 at 5, 10-7 in duals, 10-9 overall
+      UVA: Amber ODell - 1-3 at 5, 10-7 in duals, 10-9 overall
       Predictions:
-        AVG: UGA - Gonzalez (97%) def. O'Dell (3%)
-        SLM: UGA - Gonzalez (99%) def. O'Dell (1%)
-        TRN: UGA - Gonzalez (99%) def. O'Dell (1%)
-        MAS: UGA - Gonzalez (89%) def. O'Dell (11%)
-        UTR: UGA - Gonzalez (99%) def. O'Dell (1%)
-        ITA: UGA - Gonzalez (11.71) def. O'Dell (1.59)
+        AVG: UGA - Gonzalez (95%) def. ODell (5%)
+        SLM: UGA - Gonzalez (96%) def. ODell (4%)
+        TRN: UGA - Gonzalez (98%) def. ODell (2%)
+        MAS: UGA - Gonzalez (90%) def. ODell (10%)
+        UTR: UGA - Gonzalez (96%) def. ODell (4%)
+        ITA: UGA - Gonzalez (11.71) def. ODell (1.59)
     - Position: 6
       UGA: Elena Christofi - 9-0 at 6, 10-2 in duals, 17-4 overall
       UVA: Vivian Glozman - 2-1 at 6, 7-3 in duals, 8-4 overall
       Predictions:
         AVG: UGA - Christofi (74%) def. Glozman (26%)
         SLM: UGA - Christofi (77%) def. Glozman (23%)
-        TRN: UGA - Christofi (73%) def. Glozman (27%)
-        MAS: UGA - Christofi (60%) def. Glozman (40%)
+        TRN: UGA - Christofi (75%) def. Glozman (25%)
+        MAS: UGA - Christofi (59%) def. Glozman (41%)
         UTR: UGA - Christofi (86%) def. Glozman (14%)
         ITA: UVA - Glozman (2.77) def. Christofi (2.36)
   Doubles:

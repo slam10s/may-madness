@@ -1,65 +1,65 @@
-line	regSeed	seed	notes	code	wins	losses	conference	name	r2Id	utrId	masseyId
- 1	1	 1	AQ	UNC  	26	 0	ACC       	North Carolina       	383121	 966	5492
- 2	4	  	AQ	SCST 	 6	 4	MEAC      	S.C. State           	383370	 976	7250
- 3	3	  	  	ARK  	11	10	SEC       	Arkansas             	383667	1201	 316
- 4	2	  	AQ	ODU  	12	 4	C-USA     	Old Dominion         	383175	1084	5925
- 5	2	  	  	UK   	15	 8	SEC       	Kentucky             	383697	 928	3781
- 6	3	  	L4	SYR  	 8	11	ACC       	Syracuse             	383475	1727	7729
- 7	4	  	AQ	SJSU 	15	 1	MWC       	San Jose State       	383322	1698	7024
- 8	1	16	AQ	CAL  	17	 6	Pac-12    	California           	382292	 948	1098
- 9	1	 9	AQ	UCF  	18	 4	AAC       	Central Florida      	383672	1180	1380
-10	4	  	AQ	CHSO 	10	 7	Big South 	Charleston Southern  	382366	1721	1457
-11	3	  	L4	FIU  	12	 1	C-USA     	Florida International	382660	2468	2652
-12	2	  	  	MIA  	14	 8	ACC       	Miami (FL)           	383711	2460	4719
-13	2	  	  	DUKE 	15	 6	ACC       	Duke                 	382583	 867	2265
-14	3	  	L4	BAMA 	12	12	SEC       	Alabama              	383663	 984	  74
-15	4	  	AQ	TAMCC	21	 4	Southland 	A&M-Corpus Christi   	383489	1251	7856
-16	1	 8	  	BAY  	23	 4	Big 12    	Baylor               	382165	 924	 557
-17	1	 5	AQ	PEPP 	20	 3	WCC       	Pepperdine           	383211	 950	6161
-18	4	  	AQ	NAU  	14	 4	Big Sky   	Northern Arizona     	383138	1060	5620
-19	3	  	AQ	UCSB 	13	 3	Big West  	UC Santa Barbara     	383552	1307	8127
-20	2	  	  	STAN 	14	 4	Pac-12    	Stanford             	383445	 936	7582
-21	2	  	  	MICH 	17	 3	Big Ten   	Michigan             	383714	 952	4741
-22	3	  	L4	RICE 	15	 6	C-USA     	Rice                 	383266	 954	6535
-23	4	  	AQ	BU   	 7	 1	Patriot   	Boston University    	382232	1311	 796
-24	1	12	  	LSU  	14	 5	SEC       	LSU                  	382958	2945	4206
-25	1	13	  	GT   	18	10	ACC       	Georgia Tech         	382720	 956	2911
-26	4	  	AQ	GASO 	19	 8	Sun Belt  	Georgia Southern     	382713	1245	2899
-27	3	  	AQ	UNF  	17	 7	ASUN      	North Florida        	383732	1164	5558
-28	2	  	  	MISS 	11	 9	SEC       	Ole Miss             	383718	 958	4920
-29	2	  	  	TTU  	15	 8	Big 12    	Texas Tech           	383499	 869	7918
-30	3	  	  	USD  	15	 4	WCC       	San Diego            	383756	1162	8241
-31	4	  	AQ	GCU  	10	 8	WAC       	Grand Canyon         	382736	1458	2993
-32	1	 4	  	UCLA 	19	 4	Pac-12    	UCLA                 	383557	 926	8141
-33	1	 3	AQ	UGA  	20	 1	SEC       	Georgia              	383687	 916	2881
-34	4	  	AQ	PEAY 	12	 3	OVC       	Austin Peay          	382133	1130	 451
-35	3	  	AQ	FUR  	21	 6	SoCon     	Furman               	382695	1203	2800
-36	2	  	  	WAKE 	11	12	ACC       	Wake Forest          	383845	 996	8508
-37	2	  	  	TENN 	16	 8	SEC       	Tennessee            	383781	 912	7801
-38	3	  	AQ	JMU  	14	 3	CAA       	James Madison        	382857	1100	3611
-39	4	  	AQ	LIU  	 9	 0	NEC       	Long Island          	382948	2822	4164
-40	1	14	  	UVA  	14	 6	ACC       	Virginia             	383801	 918	8432
-41	1	11	  	FLA  	12	 7	SEC       	Florida              	383684	 938	2625
-42	4	  	AQ	SIEN 	 7	 3	MAAC      	Siena                	383353	1225	7163
-43	3	  	  	USC  	11	10	Pac-12    	USC                  	383774	 914	8251
-44	2	  	  	OKLA 	15	 6	Big 12    	Oklahoma             	383743	 922	5886
-45	2	  	  	SCAR 	12	11	SEC       	South Carolina       	383764	1032	7242
-46	3	  	  	ISU  	13	 7	Big 12    	Iowa State           	382840	1675	3554
-47	4	  	AQ	VCU  	14	 9	A-10      	VCU                  	383835	1014	8443
-48	1	 6	  	NCST 	16	 5	ACC       	N.C. State           	383125	1095	5511
-49	1	 7	  	FSU  	16	 5	ACC       	Florida State        	382663	 940	2666
-50	4	  	AQ	ALST 	 9	 6	SWAC      	Alabama State        	382051	1476	 103
-51	3	  	  	OKST 	11	11	Big 12    	Oklahoma State       	383174	 875	5912
-52	2	  	  	AUB  	13	 8	SEC       	Auburn               	382118	 944	 402
-53	2	  	  	NW   	18	 5	Big Ten   	Northwestern         	383149	1207	5704
-54	3	  	AQ	XAV  	17	 3	Big East  	Xavier               	383944	1010	9170
-55	4	  	AQ	DRKE 	11	 8	MVC       	Drake                	382575	1217	2236
-56	1	10	  	A&M  	19	 7	SEC       	Texas A&M            	383490	 934	7848
-57	1	15	AQ	OSU  	21	 3	Big Ten   	Ohio State           	383167	 920	5850
-58	4	  	AQ	UIC  	15	 5	Horizon   	Illinois - Chicago   	383592	1389	3437
-59	3	  	AQ	BALL 	22	 3	MAC       	Ball State           	382148	1176	 501
-60	2	  	  	VANDY	13	 9	SEC       	Vanderbilt           	383825	 980	8367
-61	2	  	  	AZST 	14	 8	Pac-12    	Arizona State        	382101	1701	 304
-62	3	  	  	MSST 	11	12	SEC       	Mississippi State    	383049	1269	4936
-63	4	  	AQ	DEN  	14	 3	The Summit	Denver               	383680	 982	2147
-64	1	 2	AQ	TEX  	25	 1	Big 12    	Texas                	383787	 930	7840
+line	host	regSeed	seed	notes	code	wins	losses	conference	name	r2Id	utrId	masseyId
+ 1	UNC 	1	 1	AQ	UNC  	26	 0	ACC       	North Carolina       	383121	 966	5492
+ 2	UNC 	4	  	AQ	SCST 	 6	 4	MEAC      	S.C. State           	383370	 976	7250
+ 3	UNC 	3	  	  	ARK  	11	10	SEC       	Arkansas             	383667	1201	 316
+ 4	UNC 	2	  	AQ	ODU  	12	 4	C-USA     	Old Dominion         	383175	1084	5925
+ 5	CAL 	2	  	  	UK   	15	 8	SEC       	Kentucky             	383697	 928	3781
+ 6	CAL 	3	  	L4	SYR  	 8	11	ACC       	Syracuse             	383475	1727	7729
+ 7	CAL 	4	  	AQ	SJSU 	15	 1	MWC       	San Jose State       	383322	1698	7024
+ 8	CAL 	1	16	AQ	CAL  	17	 6	Pac-12    	California           	382292	 948	1098
+ 9	UCF 	1	 9	AQ	UCF  	18	 4	AAC       	Central Florida      	383672	1180	1380
+10	UCF 	4	  	AQ	CHSO 	10	 7	Big South 	Charleston Southern  	382366	1721	1457
+11	UCF 	3	  	L4	FIU  	12	 1	C-USA     	Florida International	382660	2468	2652
+12	UCF 	2	  	  	MIA  	14	 8	ACC       	Miami (FL)           	383711	2460	4719
+13	BAY 	2	  	  	DUKE 	15	 6	ACC       	Duke                 	382583	 867	2265
+14	BAY 	3	  	L4	BAMA 	12	12	SEC       	Alabama              	383663	 984	  74
+15	BAY 	4	  	AQ	TAMCC	21	 4	Southland 	A&M-Corpus Christi   	383489	1251	7856
+16	BAY 	1	 8	  	BAY  	23	 4	Big 12    	Baylor               	382165	 924	 557
+17	PEPP	1	 5	AQ	PEPP 	20	 3	WCC       	Pepperdine           	383211	 950	6161
+18	PEPP	4	  	AQ	NAU  	14	 4	Big Sky   	Northern Arizona     	383138	1060	5620
+19	PEPP	3	  	AQ	UCSB 	13	 3	Big West  	UC Santa Barbara     	383552	1307	8127
+20	PEPP	2	  	  	STAN 	14	 4	Pac-12    	Stanford             	383445	 936	7582
+21	LSU 	2	  	  	MICH 	17	 3	Big Ten   	Michigan             	383714	 952	4741
+22	LSU 	3	  	L4	RICE 	15	 6	C-USA     	Rice                 	383266	 954	6535
+23	LSU 	4	  	AQ	BU   	 7	 1	Patriot   	Boston University    	382232	1311	 796
+24	LSU 	1	12	  	LSU  	14	 5	SEC       	LSU                  	382958	2945	4206
+25	GT  	1	13	  	GT   	18	10	ACC       	Georgia Tech         	382720	 956	2911
+26	GT  	4	  	AQ	GASO 	19	 8	Sun Belt  	Georgia Southern     	382713	1245	2899
+27	GT  	3	  	AQ	UNF  	17	 7	ASUN      	North Florida        	383732	1164	5558
+28	GT  	2	  	  	MISS 	11	 9	SEC       	Ole Miss             	383718	 958	4920
+29	UCLA	2	  	  	TTU  	15	 8	Big 12    	Texas Tech           	383499	 869	7918
+30	UCLA	3	  	  	USD  	15	 4	WCC       	San Diego            	383756	1162	8241
+31	UCLA	4	  	AQ	GCU  	10	 8	WAC       	Grand Canyon         	382736	1458	2993
+32	UCLA	1	 4	  	UCLA 	19	 4	Pac-12    	UCLA                 	383557	 926	8141
+33	UGA 	1	 3	AQ	UGA  	20	 1	SEC       	Georgia              	383687	 916	2881
+34	UGA 	4	  	AQ	PEAY 	12	 3	OVC       	Austin Peay          	382133	1130	 451
+35	UGA 	3	  	AQ	FUR  	21	 6	SoCon     	Furman               	382695	1203	2800
+36	UGA 	2	  	  	WAKE 	11	12	ACC       	Wake Forest          	383845	 996	8508
+37	UVA 	2	  	  	TENN 	16	 8	SEC       	Tennessee            	383781	 912	7801
+38	UVA 	3	  	AQ	JMU  	14	 3	CAA       	James Madison        	382857	1100	3611
+39	UVA 	4	  	AQ	LIU  	 9	 0	NEC       	Long Island          	382948	2822	4164
+40	UVA 	1	14	  	UVA  	14	 6	ACC       	Virginia             	383801	 918	8432
+41	FLA 	1	11	  	FLA  	12	 7	SEC       	Florida              	383684	 938	2625
+42	FLA 	4	  	AQ	SIEN 	 7	 3	MAAC      	Siena                	383353	1225	7163
+43	FLA 	3	  	  	USC  	11	10	Pac-12    	USC                  	383774	 914	8251
+44	FLA 	2	  	  	OKLA 	15	 6	Big 12    	Oklahoma             	383743	 922	5886
+45	NCST	2	  	  	SCAR 	12	11	SEC       	South Carolina       	383764	1032	7242
+46	NCST	3	  	  	ISU  	13	 7	Big 12    	Iowa State           	382840	1675	3554
+47	NCST	4	  	AQ	VCU  	14	 9	A-10      	VCU                  	383835	1014	8443
+48	NCST	1	 6	  	NCST 	16	 5	ACC       	N.C. State           	383125	1095	5511
+49	FSU 	1	 7	  	FSU  	16	 5	ACC       	Florida State        	382663	 940	2666
+50	FSU 	4	  	AQ	ALST 	 9	 6	SWAC      	Alabama State        	382051	1476	 103
+51	FSU 	3	  	  	OKST 	11	11	Big 12    	Oklahoma State       	383174	 875	5912
+52	FSU 	2	  	  	AUB  	13	 8	SEC       	Auburn               	382118	 944	 402
+53	NW  	2	  	  	NW   	18	 5	Big Ten   	Northwestern         	383149	1207	5704
+54	NW  	3	  	AQ	XAV  	17	 3	Big East  	Xavier               	383944	1010	9170
+55	NW  	4	  	AQ	DRKE 	11	 8	MVC       	Drake                	382575	1217	2236
+56	NW  	1	10	  	A&M  	19	 7	SEC       	Texas A&M            	383490	 934	7848
+57	OSU 	1	15	AQ	OSU  	21	 3	Big Ten   	Ohio State           	383167	 920	5850
+58	OSU 	4	  	AQ	UIC  	15	 5	Horizon   	Illinois - Chicago   	383592	1389	3437
+59	OSU 	3	  	AQ	BALL 	22	 3	MAC       	Ball State           	382148	1176	 501
+60	OSU 	2	  	  	VANDY	13	 9	SEC       	Vanderbilt           	383825	 980	8367
+61	TEX 	2	  	  	AZST 	14	 8	Pac-12    	Arizona State        	382101	1701	 304
+62	TEX 	3	  	  	MSST 	11	12	SEC       	Mississippi State    	383049	1269	4936
+63	TEX 	4	  	AQ	DEN  	14	 3	The Summit	Denver               	383680	 982	2147
+64	TEX 	1	 2	AQ	TEX  	25	 1	Big 12    	Texas                	383787	 930	7840

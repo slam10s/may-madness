@@ -10,7 +10,7 @@ Columbus, Ohio
 
 <h2>#4 UIC</h2>  
 &nbsp; Record: 14-6<br>  
-&nbsp; ITA: 59 (2.42)<br>  
+&nbsp; ITA: 59 (2.44)<br>  
 &nbsp; Slam: 57 (76.42)<br>  
 &nbsp; TRN: 59 (65.14)<br>  
 &nbsp; Massey: 58 (4.62)<br>  
@@ -22,13 +22,13 @@ Columbus, Ohio
 
 <h2>#1 Ohio St.</h2>  
 &nbsp; Record: 22-3<br>  
-&#10004; ITA: 18 (43.02)<br>  
+&#10004; ITA: 16 (46.78)<br>  
 &#10004; Slam: 5 (92.95)<br>  
 &#10004; TRN: 5 (85.87)<br>  
 &#10004; Massey: 8 (8.22)<br>  
 &#10004; UTR: 25 (61.53)<br>  
-&#10004; USTA Poll: 6<br>  
-&#10004; Coaches Poll: 13<br>  
+&#10004; USTA Poll: 7 (249.00)<br>  
+&nbsp; Coaches Poll: 13<br>  
 <br>  
 
 </td>
@@ -49,9 +49,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***OSU*** - #8 Ohio St. (99%) def. #58 UIC (1%)  
 - Lineup: ***OSU*** - Ohio St. (99%) def. UIC (1%)  
 - UTR: ***OSU*** - #25 Ohio St. (+10.14) def. #58 UIC (-10.14)  
-- ITA: ***OSU*** - #18 Ohio St. def. #59 UIC  
-- USTA Poll: ***OSU*** - #6 Ohio St. def. UIC  
-- Coaches Poll: ***OSU*** - #13 Ohio St. def. UIC  
+- ITA: ***OSU*** - #16 Ohio St. def. #59 UIC  
+- USTA Poll: ***OSU*** - #7 Ohio St. def. UIC  
 - Seeding: ***OSU*** - #1 Ohio St. def. #4 UIC  
 
 ## Individual Matchups  
@@ -69,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Siemers (99%) def. Malazonia (1%)</li>  
-<li>ITA: <b><i>OSU</i></b> - Siemers (24.34) def. Malazonia (0.00)</li>  
+<li>ITA: <b><i>UIC</i></b> - # Malazonia def. Siemers (24.34)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -87,9 +86,9 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Lucie Prochazkova (UIC) - 13-1 at #3, 15-2 in duals, 15-2 overall<br>Kolie Allen (OSU) - 7-3 at #3, 10-9 in duals, 10-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>OSU</i></b> - Allen (88%) def. Prochazkova (12%)</li>  
-<li>Slam: <b><i>OSU</i></b> - Allen (95%) def. Prochazkova (5%)</li>  
-<li>TRN: <b><i>OSU</i></b> - Allen (84%) def. Prochazkova (16%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Allen (79%) def. Prochazkova (21%)</li>  
+<li>Slam: <b><i>OSU</i></b> - Allen (94%) def. Prochazkova (6%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Allen (83%) def. Prochazkova (17%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Allen (77%) def. Prochazkova (23%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Allen (96%) def. Prochazkova (4%)</li>  
 <li>ITA: <b><i>UIC</i></b> - Prochazkova (3.17) def. Allen (1.59)</li>  
 </ul>
@@ -100,20 +99,20 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>OSU</i></b> - Hofbauer (96%) def. Jover (4%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Hofbauer (98%) def. Jover (2%)</li>  
 <li>TRN: <b><i>OSU</i></b> - Hofbauer (98%) def. Jover (2%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Hofbauer (91%) def. Jover (9%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Hofbauer (92%) def. Jover (8%)</li>  
 <li>UTR: <b><i>OSU</i></b> - Hofbauer (97%) def. Jover (3%)</li>  
 <li>ITA: <b><i>UIC</i></b> - Jover (2.79) def. Hofbauer (2.47)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Georgia Gulin (UIC) - 12-1 at #5, 17-3 in duals, 17-3 overall<br>Lucia Marzal (OSU) - 10-2 at #5, 19-2 in duals, 21-3 overall</summary>
+<summary markdown="span">Georgia Gulin (UIC) - 12-1 at #5, 17-3 in duals, 17-3 overall<br>Lucia Marzal Martinez (OSU) - 10-2 at #5, 19-2 in duals, 21-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Marzal (97%) def. Gulin (3%)</li>  
-<li>Slam: <b><i>OSU</i></b> - Marzal (99%) def. Gulin (1%)</li>  
-<li>TRN: <b><i>OSU</i></b> - Marzal (99%) def. Gulin (1%)</li>  
-<li>Massey: <b><i>OSU</i></b> - Marzal (94%) def. Gulin (6%)</li>  
-<li>UTR: <b><i>OSU</i></b> - Marzal (98%) def. Gulin (2%)</li>  
-<li>ITA: <b><i>OSU</i></b> - Marzal (3.08) def. Gulin (2.79)</li>  
+<li>Composite: <b><i>OSU</i></b> - Martinez (98%) def. Gulin (2%)</li>  
+<li>Slam: <b><i>OSU</i></b> - Martinez (99%) def. Gulin (1%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Martinez (99%) def. Gulin (1%)</li>  
+<li>Massey: <b><i>OSU</i></b> - Martinez (94%) def. Gulin (6%)</li>  
+<li>UTR: <b><i>OSU</i></b> - Martinez (98%) def. Gulin (2%)</li>  
+<li>ITA: <b><i>OSU</i></b> - Martinez (3.08) def. Gulin (2.79)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -137,7 +136,7 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Prochazkova/Jover (UIC) - 9-0 at #2, 10-1 in duals, 10-1 overall<br>Marzal/Hofbauer (OSU) - 10-2 at #2, 11-2 in duals, 11-2 overall</summary>
+<summary markdown="span">Prochazkova/Jover (UIC) - 9-0 at #2, 10-1 in duals, 10-1 overall<br>Martinez/Hofbauer (OSU) - 10-2 at #2, 11-2 in duals, 11-2 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>

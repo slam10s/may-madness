@@ -14,13 +14,13 @@ Home:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 26 (37.41)
+    ITA: 26 (37.22)
     SLM: 25 (89.36)
     TRN: 27 (81.49)
     MAS: 33 (7.29)
     UTR: 34 (60.15)
   Polls:
-    USTA: 24
+    USTA: 26 (16.00)
     Coach: 27
 Visitor:
   Team: Syracuse
@@ -30,90 +30,89 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 43 (15.84)
+    ITA: 42 (17.74)
     SLM: 43 (86.54)
     TRN: 43 (78.55)
     MAS: 42 (6.69)
     UTR: 43 (58.68)
   Polls:
-    Coach: 45
+    Coach: 41
 Predictions:
-  AVG: UK - Kentucky (78%) def. Syracuse (22%)
+  AVG: UK - Kentucky (79%) def. Syracuse (21%)
   SLM: "UK - #25 Kentucky (83%) def. #43 Syracuse (17%)"
   TRN: "UK - #27 Kentucky (84%) def. #43 Syracuse (16%)"
-  MAS: "UK - #33 Kentucky (78%) def. #42 Syracuse (22%)"
-  LNUP: UK - Kentucky (68%) def. Syracuse (32%)
+  MAS: "UK - #33 Kentucky (75%) def. #42 Syracuse (25%)"
+  LNUP: UK - Kentucky (73%) def. Syracuse (27%)
   UTR: "UK - #34 Kentucky (+1.47) def. #43 Syracuse (-1.47)"
-  ITA: "UK - #26 Kentucky def. #43 Syracuse"
-  USTA: "UK - #24 Kentucky def. Syracuse"
-  Coach: "UK - #27 Kentucky def. #45 Syracuse"
+  ITA: "UK - #26 Kentucky def. #42 Syracuse"
+  USTA: "UK - #26 Kentucky def. Syracuse"
   Seeding: "UK - #2 Kentucky def. #3 Syracuse"
 Lineups:
   Predictions:
-    Average EWPs for UK: 83%,84%,78%,68%
-    Average EWPs for SYR: 17%,16%,22%,32%
-    UK wins 4 or more Singles points: 47%
-    SYR wins 4 or more Singles points: 22%
-    Winner decided by the Doubles point: 31%
+    Average EWPs for UK: 83%,84%,75%,73%
+    Average EWPs for SYR: 17%,16%,25%,27%
+    UK wins 4 or more Singles points: 52%
+    SYR wins 4 or more Singles points: 19%
+    Winner decided by the Doubles point: 29%
   Singles:
     - Position: 1
-      UK: Akvile Parazinskaite - 16-6 at 1, 16-6 in duals, 19-10 overall
+      UK: Akvilė Paražinskaitė - 16-6 at 1, 16-6 in duals, 19-10 overall
       SYR: Viktoriya Kanapatskaya - 9-5 at 1, 11-5 in duals, 11-5 overall
       Predictions:
-        AVG: SYR - Kanapatskaya (61%) def. Parazinskaite (39%)
-        SLM: SYR - Kanapatskaya (64%) def. Parazinskaite (36%)
-        TRN: SYR - Kanapatskaya (64%) def. Parazinskaite (36%)
-        MAS: SYR - Kanapatskaya (55%) def. Parazinskaite (45%)
-        UTR: SYR - Kanapatskaya (63%) def. Parazinskaite (37%)
-        ITA: SYR - Kanapatskaya (30.96) def. Parazinskaite (0.00)
+        AVG: SYR - Kanapatskaya (62%) def. Paražinskaitė (38%)
+        SLM: SYR - Kanapatskaya (64%) def. Paražinskaitė (36%)
+        TRN: SYR - Kanapatskaya (62%) def. Paražinskaitė (38%)
+        MAS: SYR - Kanapatskaya (58%) def. Paražinskaitė (42%)
+        UTR: SYR - Kanapatskaya (63%) def. Paražinskaitė (37%)
+        ITA: SYR - Kanapatskaya (30.96) def. Paražinskaitė (19.85)
     - Position: 2
       UK: Lesedi Jacobs - 0-1 at 2, 9-5 in duals, 11-8 overall
       SYR: Guzal Yusupova - 4-6 at 2, 4-9 in duals, 4-9 overall
       Predictions:
-        AVG: UK - Jacobs (76%) def. Yusupova (24%)
-        SLM: UK - Jacobs (66%) def. Yusupova (34%)
-        TRN: UK - Jacobs (76%) def. Yusupova (24%)
-        MAS: UK - Jacobs (72%) def. Yusupova (28%)
+        AVG: UK - Jacobs (80%) def. Yusupova (20%)
+        SLM: UK - Jacobs (72%) def. Yusupova (28%)
+        TRN: UK - Jacobs (83%) def. Yusupova (17%)
+        MAS: UK - Jacobs (75%) def. Yusupova (25%)
         UTR: UK - Jacobs (89%) def. Yusupova (11%)
         ITA: UK - Jacobs (5.00) def. Yusupova (4.12)
     - Position: 3
-      UK: Carlota Molina - 1-1 at 3, 12-7 in duals, 12-13 overall
+      UK: Carlota Molina Megias - 1-1 at 3, 12-7 in duals, 12-13 overall
       SYR: Natalie Novotna - 4-6 at 3, 7-9 in duals, 7-9 overall
       Predictions:
-        AVG: UK - Molina (68%) def. Novotna (32%)
-        SLM: UK - Molina (67%) def. Novotna (33%)
-        TRN: UK - Molina (73%) def. Novotna (27%)
-        MAS: UK - Molina (57%) def. Novotna (43%)
-        UTR: UK - Molina (77%) def. Novotna (23%)
-        ITA: UK - Molina (2.40) def. Novotna (2.02)
+        AVG: UK - Megias (62%) def. Novotna (38%)
+        SLM: UK - Megias (62%) def. Novotna (38%)
+        TRN: UK - Megias (62%) def. Novotna (38%)
+        MAS: SYR - Novotna (51%) def. Megias (49%)
+        UTR: UK - Megias (77%) def. Novotna (23%)
+        ITA: UK - Megias (2.40) def. Novotna (2.02)
     - Position: 4
       UK: Elizabeth Stevens - 1-5 at 4, 3-8 in duals, 6-13 overall
       SYR: Miranda Ramirez - 3-6 at 4, 4-13 in duals, 4-13 overall
       Predictions:
-        AVG: UK - Stevens (56%) def. Ramirez (44%)
-        SLM: UK - Stevens (59%) def. Ramirez (41%)
-        TRN: UK - Stevens (65%) def. Ramirez (35%)
-        MAS: UK - Stevens (58%) def. Ramirez (42%)
+        AVG: UK - Stevens (50%) def. Ramirez (50%)
+        SLM: UK - Stevens (53%) def. Ramirez (47%)
+        TRN: UK - Stevens (53%) def. Ramirez (47%)
+        MAS: UK - Stevens (50%) def. Ramirez (50%)
         UTR: SYR - Ramirez (56%) def. Stevens (44%)
     - Position: 5
       UK: Carla Girbau - 2-1 at 5, 9-9 in duals, 11-14 overall
       SYR: Zeynep Erman - 3-4 at 5, 4-4 in duals, 4-4 overall
       Predictions:
-        AVG: UK - Girbau (60%) def. Erman (40%)
-        SLM: UK - Girbau (64%) def. Erman (36%)
-        TRN: UK - Girbau (61%) def. Erman (39%)
-        MAS: SYR - Erman (58%) def. Girbau (42%)
+        AVG: UK - Girbau (64%) def. Erman (36%)
+        SLM: UK - Girbau (67%) def. Erman (33%)
+        TRN: UK - Girbau (64%) def. Erman (36%)
+        MAS: UK - Girbau (51%) def. Erman (49%)
         UTR: UK - Girbau (74%) def. Erman (26%)
-        ITA: SYR - Erman (1.82) def. Girbau (0.00)
+        ITA: "UK - # Girbau def. Erman (1.82)"
     - Position: 6
       UK: Fiona Arrese - 2-1 at 6, 10-4 in duals, 10-9 overall
       SYR: Polina Kozyreva - 7-5 at 6, 10-9 in duals, 10-9 overall
       Predictions:
-        AVG: SYR - Kozyreva (61%) def. Arrese (39%)
-        SLM: UK - Arrese (60%) def. Kozyreva (40%)
-        TRN: UK - Arrese (57%) def. Kozyreva (43%)
-        MAS: SYR - Kozyreva (63%) def. Arrese (37%)
-        UTR: SYR - Kozyreva (99%) def. Arrese (1%)
+        AVG: UK - Arrese (58%) def. Kozyreva (42%)
+        SLM: UK - Arrese (61%) def. Kozyreva (39%)
+        TRN: UK - Arrese (60%) def. Kozyreva (40%)
+        MAS: SYR - Kozyreva (59%) def. Arrese (41%)
+        UTR: UK - Arrese (71%) def. Kozyreva (29%)
         ITA: SYR - Kozyreva (1.79) def. Arrese (1.49)
   Doubles:
     - Position: 1

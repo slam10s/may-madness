@@ -21,31 +21,30 @@ Home:
     MAS: 8 (8.62)
     UTR: 2 (80.29)
   Polls:
-    USTA: 13
+    USTA: 15 (169.00)
     Coach: 12
 Visitor:
   Team: Grand Canyon
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 23
   Seeding:
     Region: 4
   Ratings:
-    ITA: 64 (1.38)
-    SLM: 62 (81.82)
-    TRN: 62 (76.83)
-    MAS: 62 (5.21)
-    UTR: 56 (71.32)
+    ITA: 62 (1.72)
+    SLM: 61 (81.82)
+    TRN: 61 (76.83)
+    MAS: 61 (5.21)
+    UTR: 55 (71.32)
 Predictions:
   AVG: USC - Southern California (99%) def. Grand Canyon (1%)
-  SLM: "USC - #14 Southern California (99%) def. #62 Grand Canyon (1%)"
-  TRN: "USC - #16 Southern California (99%) def. #62 Grand Canyon (1%)"
-  MAS: "USC - #8 Southern California (99%) def. #62 Grand Canyon (1%)"
+  SLM: "USC - #14 Southern California (99%) def. #61 Grand Canyon (1%)"
+  TRN: "USC - #16 Southern California (99%) def. #61 Grand Canyon (1%)"
+  MAS: "USC - #8 Southern California (99%) def. #61 Grand Canyon (1%)"
   LNUP: USC - Southern California (99%) def. Grand Canyon (1%)
-  UTR: "USC - #2 Southern California (+8.97) def. #56 Grand Canyon (-8.97)"
-  ITA: "USC - #12 Southern California def. #64 Grand Canyon"
-  USTA: "USC - #13 Southern California def. Grand Canyon"
-  Coach: "USC - #12 Southern California def. Grand Canyon"
+  UTR: "USC - #2 Southern California (+8.97) def. #55 Grand Canyon (-8.97)"
+  ITA: "USC - #12 Southern California def. #62 Grand Canyon"
+  USTA: "USC - #15 Southern California def. Grand Canyon"
   Seeding: "USC - #1 Southern California def. #4 Grand Canyon"
 Lineups:
   Predictions:
@@ -62,7 +61,7 @@ Lineups:
         AVG: USC - Cukierman (98%) def. Lang (2%)
         SLM: USC - Cukierman (98%) def. Lang (2%)
         TRN: USC - Cukierman (99%) def. Lang (1%)
-        MAS: USC - Cukierman (99%) def. Lang (1%)
+        MAS: USC - Cukierman (98%) def. Lang (2%)
         UTR: USC - Cukierman (97%) def. Lang (3%)
         ITA: USC - Cukierman (16.39) def. Lang (1.42)
     - Position: 2
@@ -72,7 +71,7 @@ Lineups:
         AVG: USC - Smith (98%) def. Argote (2%)
         SLM: USC - Smith (98%) def. Argote (2%)
         TRN: USC - Smith (99%) def. Argote (1%)
-        MAS: USC - Smith (98%) def. Argote (2%)
+        MAS: USC - Smith (97%) def. Argote (3%)
         UTR: USC - Smith (97%) def. Argote (3%)
         ITA: USC - Smith (15.48) def. Argote (1.91)
     - Position: 3
@@ -84,7 +83,7 @@ Lineups:
         TRN: USC - Dostanic (99%) def. Cvitanovic (1%)
         MAS: USC - Dostanic (99%) def. Cvitanovic (1%)
         UTR: USC - Dostanic (98%) def. Cvitanovic (2%)
-        ITA: USC - Dostanic (5.43) def. Cvitanovic (0.00)
+        ITA: "GCU - # Cvitanovic def. Dostanic (5.43)"
     - Position: 4
       USC: Bradley Frye - 9-2 at 4, 15-4 in duals, 17-4 overall
       GCU: Jonathan Da Silva - 5-2 at 4, 7-7 in duals, 7-7 overall

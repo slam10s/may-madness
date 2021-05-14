@@ -21,7 +21,7 @@ Home:
     MAS: 2 (9.17)
     UTR: 4 (80.17)
   Polls:
-    USTA: 4
+    USTA: 6 (290.00)
     Coach: 3
 Visitor:
   Team: Arizona
@@ -31,51 +31,50 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 17 (38.97)
+    ITA: 18 (38.97)
     SLM: 21 (94.26)
     TRN: 20 (92.43)
     MAS: 18 (8.10)
     UTR: 21 (78.35)
   Polls:
-    USTA: 18
+    USTA: 20 (90.00)
     Coach: 19
 Predictions:
-  AVG: TENN - Tennessee (93%) def. Arizona (7%)
+  AVG: TENN - Tennessee (91%) def. Arizona (9%)
   SLM: "TENN - #4 Tennessee (94%) def. #21 Arizona (6%)"
   TRN: "TENN - #5 Tennessee (97%) def. #20 Arizona (3%)"
-  MAS: "TENN - #2 Tennessee (87%) def. #18 Arizona (13%)"
-  LNUP: TENN - Tennessee (95%) def. Arizona (5%)
+  MAS: "TENN - #2 Tennessee (82%) def. #18 Arizona (18%)"
+  LNUP: TENN - Tennessee (92%) def. Arizona (8%)
   UTR: "TENN - #4 Tennessee (+1.82) def. #21 Arizona (-1.82)"
-  ITA: "TENN - #3 Tennessee def. #17 Arizona"
-  USTA: "TENN - #4 Tennessee def. #18 Arizona"
-  Coach: "TENN - #3 Tennessee def. #19 Arizona"
+  ITA: "TENN - #3 Tennessee def. #18 Arizona"
+  USTA: "TENN - #6 Tennessee def. #20 Arizona"
   Seeding: "TENN - #3 Tennessee def. Arizona"
 Lineups:
   Predictions:
-    Average EWPs for TENN: 94%,97%,87%,95%
-    Average EWPs for ARIZ: 6%,3%,13%,5%
-    TENN wins 4 or more Singles points: 82%
-    ARIZ wins 4 or more Singles points: 4%
-    Winner decided by the Doubles point: 14%
+    Average EWPs for TENN: 94%,97%,82%,92%
+    Average EWPs for ARIZ: 6%,3%,18%,8%
+    TENN wins 4 or more Singles points: 76%
+    ARIZ wins 4 or more Singles points: 6%
+    Winner decided by the Doubles point: 18%
   Singles:
     - Position: 1
       TENN: Adam Walton - 8-7 at 1, 10-8 in duals, 16-10 overall
       ARIZ: Gustaf Strom - 3-1 at 1, 17-2 in duals, 17-2 overall
       Predictions:
-        AVG: TENN - Walton (52%) def. Strom (48%)
-        SLM: TENN - Walton (67%) def. Strom (33%)
+        AVG: TENN - Walton (51%) def. Strom (49%)
+        SLM: TENN - Walton (66%) def. Strom (34%)
         TRN: ARIZ - Strom (74%) def. Walton (26%)
-        MAS: ARIZ - Strom (51%) def. Walton (49%)
+        MAS: ARIZ - Strom (54%) def. Walton (46%)
         UTR: TENN - Walton (68%) def. Strom (32%)
         ITA: TENN - Walton (42.60) def. Strom (17.40)
     - Position: 2
       TENN: Johannus Monday - 17-3 at 2, 22-4 in duals, 31-6 overall
       ARIZ: Jonas Ziverts - 1-1 at 2, 9-8 in duals, 9-8 overall
       Predictions:
-        AVG: TENN - Monday (77%) def. Ziverts (23%)
-        SLM: TENN - Monday (67%) def. Ziverts (33%)
-        TRN: TENN - Monday (78%) def. Ziverts (22%)
-        MAS: TENN - Monday (81%) def. Ziverts (19%)
+        AVG: TENN - Monday (76%) def. Ziverts (24%)
+        SLM: TENN - Monday (64%) def. Ziverts (36%)
+        TRN: TENN - Monday (76%) def. Ziverts (24%)
+        MAS: TENN - Monday (80%) def. Ziverts (20%)
         UTR: TENN - Monday (82%) def. Ziverts (18%)
         ITA: TENN - Monday (43.71) def. Ziverts (7.58)
     - Position: 3
@@ -83,48 +82,48 @@ Lineups:
       ARIZ: Filip Malbasic - 5-4 at 3, 14-9 in duals, 14-9 overall
       Predictions:
         AVG: TENN - Prata (64%) def. Malbasic (36%)
-        SLM: TENN - Prata (66%) def. Malbasic (34%)
-        TRN: TENN - Prata (67%) def. Malbasic (33%)
-        MAS: TENN - Prata (63%) def. Malbasic (37%)
+        SLM: TENN - Prata (67%) def. Malbasic (33%)
+        TRN: TENN - Prata (68%) def. Malbasic (32%)
+        MAS: TENN - Prata (61%) def. Malbasic (39%)
         UTR: TENN - Prata (60%) def. Malbasic (40%)
         ITA: TENN - Prata (18.77) def. Malbasic (2.36)
     - Position: 4
       TENN: Luca Wiedenmann - 8-2 at 4, 20-3 in duals, 30-4 overall
-      ARIZ: Herman Hoeyeraal - 0-0 at 4, 4-0 in duals, 4-0 overall
+      ARIZ: Herman Hoyeraal - 0-0 at 4, 4-0 in duals, 4-0 overall
       Predictions:
-        AVG: TENN - Wiedenmann (96%) def. Hoeyeraal (4%)
-        SLM: TENN - Wiedenmann (99%) def. Hoeyeraal (1%)
-        TRN: TENN - Wiedenmann (99%) def. Hoeyeraal (1%)
-        MAS: TENN - Wiedenmann (85%) def. Hoeyeraal (15%)
-        UTR: TENN - Wiedenmann (99%) def. Hoeyeraal (1%)
-        ITA: TENN - Wiedenmann (4.02) def. Hoeyeraal (2.40)
+        AVG: TENN - Wiedenmann (83%) def. Hoyeraal (17%)
+        SLM: TENN - Wiedenmann (82%) def. Hoyeraal (18%)
+        TRN: TENN - Wiedenmann (81%) def. Hoyeraal (19%)
+        MAS: TENN - Wiedenmann (77%) def. Hoyeraal (23%)
+        UTR: TENN - Wiedenmann (93%) def. Hoyeraal (7%)
+        ITA: TENN - Wiedenmann (4.02) def. Hoyeraal (2.40)
     - Position: 5
       TENN: Giles Hussey - 9-0 at 5, 18-3 in duals, 29-4 overall
-      ARIZ: Alejandro Reguant - 0-0 at 5, 13-6 in duals, 13-6 overall
+      ARIZ: Alejandro Requant-Bicardi - 0-0 at 5, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: TENN - Hussey (77%) def. Reguant (23%)
-        SLM: TENN - Hussey (69%) def. Reguant (31%)
-        TRN: TENN - Hussey (87%) def. Reguant (13%)
-        MAS: TENN - Hussey (79%) def. Reguant (21%)
-        UTR: TENN - Hussey (72%) def. Reguant (28%)
-        ITA: TENN - Hussey (7.54) def. Reguant (2.55)
+        AVG: TENN - Hussey (76%) def. Requant-Bicardi (24%)
+        SLM: TENN - Hussey (68%) def. Requant-Bicardi (32%)
+        TRN: TENN - Hussey (87%) def. Requant-Bicardi (13%)
+        MAS: TENN - Hussey (76%) def. Requant-Bicardi (24%)
+        UTR: TENN - Hussey (72%) def. Requant-Bicardi (28%)
+        ITA: TENN - Hussey (7.54) def. Requant-Bicardi (2.55)
     - Position: 6
       TENN: Pat Harper - 5-3 at 6, 5-4 in duals, 12-5 overall
       ARIZ: Carlos Hassey - 1-1 at 6, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: TENN - Harper (75%) def. Hassey (25%)
-        SLM: TENN - Harper (72%) def. Hassey (28%)
-        TRN: TENN - Harper (83%) def. Hassey (17%)
-        MAS: TENN - Harper (66%) def. Hassey (34%)
+        AVG: TENN - Harper (73%) def. Hassey (27%)
+        SLM: TENN - Harper (71%) def. Hassey (29%)
+        TRN: TENN - Harper (81%) def. Hassey (19%)
+        MAS: TENN - Harper (61%) def. Hassey (39%)
         UTR: TENN - Harper (78%) def. Hassey (22%)
         ITA: TENN - Harper (5.43) def. Hassey (1.70)
   Doubles:
     - Position: 1
       TENN: Walton/Harper - 15-6 at 1, 15-6 in duals, 22-7 overall
-      ARIZ: Hassey/Reguant - 1-0 at 1, 10-3 in duals, 10-3 overall
+      ARIZ: Hassey/Requant-Bicardi - 1-0 at 1, 10-3 in duals, 10-3 overall
     - Position: 2
       TENN: Monday/Prata - 12-7 at 2, 16-7 in duals, 17-8 overall
-      ARIZ: Ziverts/Hoeyeraal - 0-0 at 2, 0-0 in duals, 0-0 overall
+      ARIZ: Ziverts/Hoyeraal - 0-0 at 2, 0-0 in duals, 0-0 overall
     - Position: 3
       TENN: Wallner/Hussey - 14-5 at 3, 15-5 in duals, 15-5 overall
       ARIZ: Strom/Malbasic - 7-5 at 3, 9-5 in duals, 9-5 overall

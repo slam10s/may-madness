@@ -10,7 +10,7 @@ Charlottesville, Virginia
 
 <h2>#4 LIU</h2>  
 &nbsp; Record: 9-1<br>  
-&nbsp; ITA: 52 (4.20)<br>  
+&nbsp; ITA: 51 (4.20)<br>  
 &nbsp; Slam: 61 (70.79)<br>  
 &nbsp; TRN: 63 (55.66)<br>  
 &nbsp; Massey: 61 (4.25)<br>  
@@ -22,13 +22,13 @@ Charlottesville, Virginia
 
 <h2>#1 Virginia</h2>  
 &nbsp; Record: 15-6<br>  
-&#10004; ITA: 14 (47.67)<br>  
+&#10004; ITA: 13 (48.31)<br>  
 &#10004; Slam: 9 (91.88)<br>  
 &#10004; TRN: 11 (84.03)<br>  
 &#10004; Massey: 7 (8.25)<br>  
 &#10004; UTR: 13 (62.41)<br>  
-&#10004; USTA Poll: 10<br>  
-&#10004; Coaches Poll: 11<br>  
+&#10004; USTA Poll: 11 (202.00)<br>  
+&nbsp; Coaches Poll: 11<br>  
 <br>  
 
 </td>
@@ -49,9 +49,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***UVA*** - #7 Virginia (99%) def. #61 LIU (1%)  
 - Lineup: ***UVA*** - Virginia (99%) def. LIU (1%)  
 - UTR: ***UVA*** - #13 Virginia (+12.56) def. #60 LIU (-12.56)  
-- ITA: ***UVA*** - #14 Virginia def. #52 LIU  
-- USTA Poll: ***UVA*** - #10 Virginia def. LIU  
-- Coaches Poll: ***UVA*** - #11 Virginia def. LIU  
+- ITA: ***UVA*** - #13 Virginia def. #51 LIU  
+- USTA Poll: ***UVA*** - #11 Virginia def. LIU  
 - Seeding: ***UVA*** - #1 Virginia def. #4 LIU  
 
 ## Individual Matchups  
@@ -89,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Johanson (98%) def. Erechtchenko (2%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Johanson (99%) def. Erechtchenko (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Johanson (6.37) def. Erechtchenko (3.50)</li>  
 </ul>
@@ -100,20 +99,20 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Shaikh (98%) def. Storkaas (2%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Shaikh (99%) def. Storkaas (1%)</li>  
-<li>ITA: <b><i>UVA</i></b> - Shaikh (1.63) def. Storkaas (0.00)</li>  
+<li>ITA: <b><i>LIU</i></b> - # Storkaas def. Shaikh (1.63)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Bianca Compuesto (LIU) - 4-0 at #5, 6-0 in duals, 6-0 overall<br>Amber O'Dell (UVA) - 1-3 at #5, 10-7 in duals, 10-9 overall</summary>
+<summary markdown="span">Bianca Compuesto (LIU) - 4-0 at #5, 6-0 in duals, 6-0 overall<br>Amber ODell (UVA) - 1-3 at #5, 10-7 in duals, 10-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>LIU</i></b> - Compuesto (77%) def. O'Dell (23%)</li>  
-<li>Slam: <b><i>LIU</i></b> - Compuesto (99%) def. O'Dell (1%)</li>  
-<li>TRN: <b><i>LIU</i></b> - Compuesto (99%) def. O'Dell (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - O'Dell (89%) def. Compuesto (11%)</li>  
-<li>UTR: <b><i>LIU</i></b> - Compuesto (99%) def. O'Dell (1%)</li>  
-<li>ITA: <b><i>LIU</i></b> - Compuesto (3.66) def. O'Dell (1.59)</li>  
+<li>Composite: <b><i>UVA</i></b> - ODell (95%) def. Compuesto (5%)</li>  
+<li>Slam: <b><i>UVA</i></b> - ODell (98%) def. Compuesto (2%)</li>  
+<li>TRN: <b><i>UVA</i></b> - ODell (99%) def. Compuesto (1%)</li>  
+<li>Massey: <b><i>UVA</i></b> - ODell (88%) def. Compuesto (12%)</li>  
+<li>UTR: <b><i>UVA</i></b> - ODell (96%) def. Compuesto (4%)</li>  
+<li>ITA: <b><i>LIU</i></b> - Compuesto (3.66) def. ODell (1.59)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>

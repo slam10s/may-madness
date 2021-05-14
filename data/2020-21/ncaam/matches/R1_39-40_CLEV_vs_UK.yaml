@@ -15,37 +15,36 @@ Home:
     Overall: 14
     Region: 1
   Ratings:
-    ITA: 15 (44.70)
+    ITA: 15 (44.81)
     SLM: 17 (95.87)
     TRN: 17 (93.83)
     MAS: 17 (8.12)
     UTR: 16 (78.88)
   Polls:
-    USTA: 17
+    USTA: 19 (111.00)
     Coach: 15
 Visitor:
   Team: Cleveland St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 39
   Seeding:
     Region: 4
   Ratings:
-    ITA: 57 (4.43)
-    SLM: 56 (84.36)
-    TRN: 56 (81.28)
-    MAS: 55 (5.83)
-    UTR: 54 (71.52)
+    ITA: 55 (4.93)
+    SLM: 55 (84.36)
+    TRN: 55 (81.28)
+    MAS: 54 (5.83)
+    UTR: 53 (71.52)
 Predictions:
   AVG: UK - Kentucky (99%) def. Cleveland St. (1%)
-  SLM: "UK - #17 Kentucky (99%) def. #56 Cleveland St. (1%)"
-  TRN: "UK - #17 Kentucky (99%) def. #56 Cleveland St. (1%)"
-  MAS: "UK - #17 Kentucky (99%) def. #55 Cleveland St. (1%)"
+  SLM: "UK - #17 Kentucky (99%) def. #55 Cleveland St. (1%)"
+  TRN: "UK - #17 Kentucky (99%) def. #55 Cleveland St. (1%)"
+  MAS: "UK - #17 Kentucky (99%) def. #54 Cleveland St. (1%)"
   LNUP: UK - Kentucky (99%) def. Cleveland St. (1%)
-  UTR: "UK - #16 Kentucky (+7.36) def. #54 Cleveland St. (-7.36)"
-  ITA: "UK - #15 Kentucky def. #57 Cleveland St."
-  USTA: "UK - #17 Kentucky def. Cleveland St."
-  Coach: "UK - #15 Kentucky def. Cleveland St."
+  UTR: "UK - #16 Kentucky (+7.36) def. #53 Cleveland St. (-7.36)"
+  ITA: "UK - #15 Kentucky def. #55 Cleveland St."
+  USTA: "UK - #19 Kentucky def. Cleveland St."
   Seeding: "UK - #1 Kentucky def. #4 Cleveland St."
 Lineups:
   Predictions:
@@ -71,8 +70,8 @@ Lineups:
       Predictions:
         AVG: UK - Diallo (94%) def. Terry (6%)
         SLM: UK - Diallo (94%) def. Terry (6%)
-        TRN: UK - Diallo (96%) def. Terry (4%)
-        MAS: UK - Diallo (91%) def. Terry (9%)
+        TRN: UK - Diallo (97%) def. Terry (3%)
+        MAS: UK - Diallo (90%) def. Terry (10%)
         UTR: UK - Diallo (95%) def. Terry (5%)
         ITA: UK - Diallo (37.70) def. Terry (2.92)
     - Position: 3
@@ -82,7 +81,7 @@ Lineups:
         AVG: UK - Hurrion (94%) def. Phillips (6%)
         SLM: UK - Hurrion (96%) def. Phillips (4%)
         TRN: UK - Hurrion (96%) def. Phillips (4%)
-        MAS: UK - Hurrion (90%) def. Phillips (10%)
+        MAS: UK - Hurrion (92%) def. Phillips (8%)
         UTR: UK - Hurrion (94%) def. Phillips (6%)
         ITA: UK - Hurrion (22.80) def. Phillips (2.83)
     - Position: 4
@@ -109,10 +108,10 @@ Lineups:
       UK: Alexandre LeBlanc - 2-4 at 6, 4-4 in duals, 5-9 overall
       CLEV: Raul Teichmann - 0-2 at 6, 3-4 in duals, 3-4 overall
       Predictions:
-        AVG: UK - LeBlanc (96%) def. Teichmann (4%)
+        AVG: UK - LeBlanc (95%) def. Teichmann (5%)
         SLM: UK - LeBlanc (97%) def. Teichmann (3%)
         TRN: UK - LeBlanc (97%) def. Teichmann (3%)
-        MAS: UK - LeBlanc (92%) def. Teichmann (8%)
+        MAS: UK - LeBlanc (91%) def. Teichmann (9%)
         UTR: UK - LeBlanc (96%) def. Teichmann (4%)
   Doubles:
     - Position: 1

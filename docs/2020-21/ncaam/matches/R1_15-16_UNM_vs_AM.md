@@ -10,11 +10,11 @@ College Station, Texas
 
 <h2>#4 New Mexico</h2>  
 &nbsp; Record: 8-10<br>  
-&nbsp; ITA: 52 (7.44)<br>  
-&nbsp; Slam: 53 (87.22)<br>  
-&nbsp; TRN: 54 (83.45)<br>  
-&nbsp; Massey: 48 (6.71)<br>  
-&nbsp; UTR: 51 (73.79)<br>  
+&nbsp; ITA: 52 (7.37)<br>  
+&nbsp; Slam: 52 (87.22)<br>  
+&nbsp; TRN: 53 (83.45)<br>  
+&nbsp; Massey: 47 (6.71)<br>  
+&nbsp; UTR: 50 (73.79)<br>  
 <br>  
 
 </td>
@@ -27,8 +27,8 @@ College Station, Texas
 &#10004; TRN: 11 (95.89)<br>  
 &#10004; Massey: 12 (8.53)<br>  
 &#10004; UTR: 8 (79.76)<br>  
-&#10004; USTA Poll: 14<br>  
-&#10004; Coaches Poll: 8<br>  
+&#10004; USTA Poll: 16 (156.00)<br>  
+&nbsp; Coaches Poll: 8<br>  
 <br>  
 
 </td>
@@ -44,14 +44,13 @@ College Station, Texas
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***A&M*** - Texas A&M (99%) def. New Mexico (1%)  
-- Slam: ***A&M*** - #11 Texas A&M (99%) def. #53 New Mexico (1%)  
-- TRN: ***A&M*** - #11 Texas A&M (99%) def. #54 New Mexico (1%)  
-- Massey: ***A&M*** - #12 Texas A&M (99%) def. #48 New Mexico (1%)  
+- Slam: ***A&M*** - #11 Texas A&M (99%) def. #52 New Mexico (1%)  
+- TRN: ***A&M*** - #11 Texas A&M (99%) def. #53 New Mexico (1%)  
+- Massey: ***A&M*** - #12 Texas A&M (99%) def. #47 New Mexico (1%)  
 - Lineup: ***A&M*** - Texas A&M (99%) def. New Mexico (1%)  
-- UTR: ***A&M*** - #8 Texas A&M (+5.97) def. #51 New Mexico (-5.97)  
+- UTR: ***A&M*** - #8 Texas A&M (+5.97) def. #50 New Mexico (-5.97)  
 - ITA: ***A&M*** - #8 Texas A&M def. #52 New Mexico  
-- USTA Poll: ***A&M*** - #14 Texas A&M def. New Mexico  
-- Coaches Poll: ***A&M*** - #8 Texas A&M def. New Mexico  
+- USTA Poll: ***A&M*** - #16 Texas A&M def. New Mexico  
 - Seeding: ***A&M*** - #1 Texas A&M def. #4 New Mexico  
 
 ## Individual Matchups  
@@ -65,8 +64,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Raul Dobai (UNM) - 7-5 at #1, 9-7 in duals, 9-7 overall<br>Valentin Vacherot (A&M) - 13-2 at #1, 16-3 in duals, 21-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>A&M</i></b> - Vacherot (93%) def. Dobai (7%)</li>  
-<li>Slam: <b><i>A&M</i></b> - Vacherot (91%) def. Dobai (9%)</li>  
-<li>TRN: <b><i>A&M</i></b> - Vacherot (95%) def. Dobai (5%)</li>  
+<li>Slam: <b><i>A&M</i></b> - Vacherot (92%) def. Dobai (8%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Vacherot (96%) def. Dobai (4%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Vacherot (93%) def. Dobai (7%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Vacherot (92%) def. Dobai (8%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Vacherot (51.31) def. Dobai (2.42)</li>  
@@ -86,8 +85,8 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Stepan Holis (UNM) - 5-5 at #3, 7-5 in duals, 7-5 overall<br>Juan Carlos Aguilar (A&M) - 6-6 at #3, 10-8 in duals, 15-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Aguilar (93%) def. Holis (7%)</li>  
-<li>Slam: <b><i>A&M</i></b> - Aguilar (93%) def. Holis (7%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Aguilar (92%) def. Holis (8%)</li>  
+<li>Slam: <b><i>A&M</i></b> - Aguilar (92%) def. Holis (8%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Aguilar (96%) def. Holis (4%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Aguilar (88%) def. Holis (12%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Aguilar (93%) def. Holis (7%)</li>  
@@ -95,14 +94,14 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Rafael Abdulsalam (UNM) - 3-3 at #4, 6-6 in duals, 6-6 overall<br>Noah Schachter (A&M) - 7-5 at #4, 12-10 in duals, 19-13 overall</summary>
+<summary markdown="span">Rafael Abdul Salam (UNM) - 3-3 at #4, 6-6 in duals, 6-6 overall<br>Noah Schachter (A&M) - 7-5 at #4, 12-10 in duals, 19-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Schachter (92%) def. Abdulsalam (8%)</li>  
-<li>Slam: <b><i>A&M</i></b> - Schachter (94%) def. Abdulsalam (6%)</li>  
-<li>TRN: <b><i>A&M</i></b> - Schachter (96%) def. Abdulsalam (4%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Schachter (86%) def. Abdulsalam (14%)</li>  
-<li>UTR: <b><i>A&M</i></b> - Schachter (92%) def. Abdulsalam (8%)</li>  
-<li>ITA: <b><i>A&M</i></b> - Schachter (6.58) def. Abdulsalam (1.72)</li>  
+<li>Composite: <b><i>A&M</i></b> - Schachter (88%) def. Salam (12%)</li>  
+<li>Slam: <b><i>A&M</i></b> - Schachter (91%) def. Salam (9%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Schachter (94%) def. Salam (6%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Schachter (77%) def. Salam (23%)</li>  
+<li>UTR: <b><i>A&M</i></b> - Schachter (92%) def. Salam (8%)</li>  
+<li>ITA: <b><i>A&M</i></b> - Schachter (6.58) def. Salam (1.72)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -111,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>A&M</i></b> - Rollins (95%) def. Trondson (5%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Rollins (96%) def. Trondson (4%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Rollins (98%) def. Trondson (2%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Rollins (90%) def. Trondson (10%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Rollins (92%) def. Trondson (8%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Rollins (95%) def. Trondson (5%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Rollins (5.08) def. Trondson (2.42)</li>  
 </ul>
@@ -120,11 +119,11 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Sergio Molina (UNM) - 0-0 at #6, 1-7 in duals, 1-7 overall<br>Guido Marson (A&M) - 0-0 at #6, 5-6 in duals, 7-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>A&M</i></b> - Marson (93%) def. Molina (7%)</li>  
-<li>Slam: <b><i>A&M</i></b> - Marson (93%) def. Molina (7%)</li>  
+<li>Slam: <b><i>A&M</i></b> - Marson (92%) def. Molina (8%)</li>  
 <li>TRN: <b><i>A&M</i></b> - Marson (98%) def. Molina (2%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Marson (91%) def. Molina (9%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Marson (92%) def. Molina (8%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Marson (91%) def. Molina (9%)</li>  
-<li>ITA: <b><i>A&M</i></b> - Marson (1.86) def. Molina (0.00)</li>  
+<li>ITA: <b><i>UNM</i></b> - # Molina def. Marson (1.86)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

@@ -15,18 +15,18 @@ Home:
     Overall: 9
     Region: 1
   Ratings:
-    ITA: 9 (52.14)
+    ITA: 9 (52.03)
     SLM: 12 (91.41)
     TRN: 12 (83.85)
     MAS: 10 (8.12)
     UTR: 16 (62.03)
   Polls:
-    USTA: 9
+    USTA: 10 (203.00)
     Coach: 9
 Visitor:
   Team: Charleston So.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/c/charleston-so.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 10
   Seeding:
     Region: 4
@@ -44,8 +44,7 @@ Predictions:
   LNUP: UCF - UCF (99%) def. Charleston So. (1%)
   UTR: "UCF - #16 UCF (+10.11) def. #56 Charleston So. (-10.11)"
   ITA: "UCF - #9 UCF def. #58 Charleston So."
-  USTA: "UCF - #9 UCF def. Charleston So."
-  Coach: "UCF - #9 UCF def. Charleston So."
+  USTA: "UCF - #10 UCF def. Charleston So."
   Seeding: "UCF - #1 UCF def. #4 Charleston So."
 Lineups:
   Predictions:
@@ -72,7 +71,7 @@ Lineups:
         AVG: UCF - Stolmar (97%) def. Fullana (3%)
         SLM: UCF - Stolmar (98%) def. Fullana (2%)
         TRN: UCF - Stolmar (99%) def. Fullana (1%)
-        MAS: UCF - Stolmar (97%) def. Fullana (3%)
+        MAS: UCF - Stolmar (96%) def. Fullana (4%)
         UTR: UCF - Stolmar (96%) def. Fullana (4%)
         ITA: UCF - Stolmar (15.81) def. Fullana (1.91)
     - Position: 3
@@ -102,7 +101,7 @@ Lineups:
         AVG: UCF - Mattel (98%) def. Schmitz (2%)
         SLM: UCF - Mattel (98%) def. Schmitz (2%)
         TRN: UCF - Mattel (99%) def. Schmitz (1%)
-        MAS: UCF - Mattel (98%) def. Schmitz (2%)
+        MAS: UCF - Mattel (97%) def. Schmitz (3%)
         UTR: UCF - Mattel (97%) def. Schmitz (3%)
         ITA: UCF - Mattel (2.00) def. Schmitz (1.70)
     - Position: 6

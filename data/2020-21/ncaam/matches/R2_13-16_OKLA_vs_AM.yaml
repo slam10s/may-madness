@@ -21,7 +21,7 @@ Home:
     MAS: 12 (8.53)
     UTR: 8 (79.76)
   Polls:
-    USTA: 14
+    USTA: 16 (156.00)
     Coach: 8
 Visitor:
   Team: Oklahoma
@@ -46,16 +46,15 @@ Predictions:
   LNUP: A&M - Texas A&M (97%) def. Oklahoma (3%)
   UTR: "A&M - #8 Texas A&M (+2.23) def. #28 Oklahoma (-2.23)"
   ITA: "A&M - #8 Texas A&M def. #27 Oklahoma"
-  USTA: "A&M - #14 Texas A&M def. Oklahoma"
-  Coach: "A&M - #8 Texas A&M def. #26 Oklahoma"
+  USTA: "A&M - #16 Texas A&M def. Oklahoma"
   Seeding: "A&M - #1 Texas A&M def. #2 Oklahoma"
 Lineups:
   Predictions:
     Average EWPs for A&M: 90%,93%,96%,97%
     Average EWPs for OKLA: 10%,7%,4%,3%
-    A&M wins 4 or more Singles points: 90%
+    A&M wins 4 or more Singles points: 88%
     OKLA wins 4 or more Singles points: 2%
-    Winner decided by the Doubles point: 8%
+    Winner decided by the Doubles point: 10%
   Singles:
     - Position: 1
       A&M: Valentin Vacherot - 13-2 at 1, 16-3 in duals, 21-5 overall
@@ -63,7 +62,7 @@ Lineups:
       Predictions:
         AVG: A&M - Vacherot (93%) def. Emburgh (7%)
         SLM: A&M - Vacherot (91%) def. Emburgh (9%)
-        TRN: A&M - Vacherot (94%) def. Emburgh (6%)
+        TRN: A&M - Vacherot (95%) def. Emburgh (5%)
         MAS: A&M - Vacherot (96%) def. Emburgh (4%)
         UTR: A&M - Vacherot (90%) def. Emburgh (10%)
         ITA: A&M - Vacherot (51.31) def. Emburgh (7.98)
@@ -79,22 +78,22 @@ Lineups:
         ITA: A&M - Habib (54.57) def. Beiler (10.05)
     - Position: 3
       A&M: Juan Carlos Aguilar - 6-6 at 3, 10-8 in duals, 15-10 overall
-      OKLA: Alex Martinez - 6-2 at 3, 12-7 in duals, 15-13 overall
+      OKLA: Alex Martinez Puigdellose - 6-2 at 3, 12-7 in duals, 15-13 overall
       Predictions:
-        AVG: A&M - Aguilar (77%) def. Martinez (23%)
-        SLM: A&M - Aguilar (75%) def. Martinez (25%)
-        TRN: A&M - Aguilar (75%) def. Martinez (25%)
-        MAS: A&M - Aguilar (74%) def. Martinez (26%)
-        UTR: A&M - Aguilar (84%) def. Martinez (16%)
-        ITA: A&M - Aguilar (23.98) def. Martinez (2.93)
+        AVG: A&M - Aguilar (76%) def. Puigdellose (24%)
+        SLM: A&M - Aguilar (74%) def. Puigdellose (26%)
+        TRN: A&M - Aguilar (74%) def. Puigdellose (26%)
+        MAS: A&M - Aguilar (73%) def. Puigdellose (27%)
+        UTR: A&M - Aguilar (84%) def. Puigdellose (16%)
+        ITA: A&M - Aguilar (23.98) def. Puigdellose (2.93)
     - Position: 4
       A&M: Noah Schachter - 7-5 at 4, 12-10 in duals, 19-13 overall
       OKLA: Nathan Han - 2-6 at 4, 7-7 in duals, 13-11 overall
       Predictions:
-        AVG: A&M - Schachter (65%) def. Han (35%)
-        SLM: A&M - Schachter (68%) def. Han (32%)
-        TRN: A&M - Schachter (65%) def. Han (35%)
-        MAS: A&M - Schachter (66%) def. Han (34%)
+        AVG: A&M - Schachter (57%) def. Han (43%)
+        SLM: A&M - Schachter (61%) def. Han (39%)
+        TRN: A&M - Schachter (55%) def. Han (45%)
+        MAS: A&M - Schachter (50%) def. Han (50%)
         UTR: A&M - Schachter (62%) def. Han (38%)
         ITA: A&M - Schachter (6.58) def. Han (1.72)
     - Position: 5
@@ -102,28 +101,28 @@ Lineups:
       OKLA: Justin Schlageter - 3-5 at 5, 6-6 in duals, 10-12 overall
       Predictions:
         AVG: A&M - Rollins (81%) def. Schlageter (19%)
-        SLM: A&M - Rollins (79%) def. Schlageter (21%)
-        TRN: A&M - Rollins (84%) def. Schlageter (16%)
-        MAS: A&M - Rollins (82%) def. Schlageter (18%)
+        SLM: A&M - Rollins (77%) def. Schlageter (23%)
+        TRN: A&M - Rollins (83%) def. Schlageter (17%)
+        MAS: A&M - Rollins (83%) def. Schlageter (17%)
         UTR: A&M - Rollins (80%) def. Schlageter (20%)
-        ITA: A&M - Rollins (5.08) def. Schlageter (0.00)
+        ITA: "OKLA - # Schlageter def. Rollins (5.08)"
     - Position: 6
       A&M: Guido Marson - 0-0 at 6, 5-6 in duals, 7-9 overall
       OKLA: Mark Mandlik - 1-1 at 6, 6-14 in duals, 6-14 overall
       Predictions:
-        AVG: A&M - Marson (71%) def. Mandlik (29%)
-        SLM: A&M - Marson (63%) def. Mandlik (37%)
-        TRN: A&M - Marson (75%) def. Mandlik (25%)
-        MAS: A&M - Marson (79%) def. Mandlik (21%)
+        AVG: A&M - Marson (70%) def. Mandlik (30%)
+        SLM: A&M - Marson (60%) def. Mandlik (40%)
+        TRN: A&M - Marson (74%) def. Mandlik (26%)
+        MAS: A&M - Marson (80%) def. Mandlik (20%)
         UTR: A&M - Marson (67%) def. Mandlik (33%)
-        ITA: A&M - Marson (1.86) def. Mandlik (0.00)
+        ITA: "OKLA - # Mandlik def. Marson (1.86)"
   Doubles:
     - Position: 1
       A&M: Aguilar/Thomson - 7-6 at 1, 7-6 in duals, 10-8 overall
       OKLA: Mandlik/Stewart - 0-1 at 1, 2-3 in duals, 2-3 overall
     - Position: 2
       A&M: Vacherot/Rollins - 5-3 at 2, 12-5 in duals, 15-5 overall
-      OKLA: Van Emburgh/Martinez - 0-1 at 2, 0-1 in duals, 0-1 overall
+      OKLA: Van Emburgh/Puigdellose - 0-1 at 2, 0-1 in duals, 0-1 overall
     - Position: 3
       A&M: Kumar/Schachter - 7-4 at 3, 7-4 in duals, 7-4 overall
       OKLA: Han/Beiler - 1-0 at 3, 1-0 in duals, 1-0 overall

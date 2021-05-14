@@ -10,11 +10,11 @@ Gainesville, Florida
 
 <h2>#4 South Alabama</h2>  
 &nbsp; Record: 12-8<br>  
-&nbsp; ITA: 53 (6.83)<br>  
-&nbsp; Slam: 50 (87.64)<br>  
-&nbsp; TRN: 52 (84.26)<br>  
-&nbsp; Massey: 46 (6.79)<br>  
-&nbsp; UTR: 49 (73.92)<br>  
+&nbsp; ITA: 53 (6.68)<br>  
+&nbsp; Slam: 49 (87.64)<br>  
+&nbsp; TRN: 51 (84.26)<br>  
+&nbsp; Massey: 45 (6.79)<br>  
+&nbsp; UTR: 48 (73.92)<br>  
 <br>  
 
 </td>
@@ -27,8 +27,8 @@ Gainesville, Florida
 &#10004; TRN: 3 (99.10)<br>  
 &#10004; Massey: 1 (9.40)<br>  
 &#10004; UTR: 1 (80.76)<br>  
-&#10004; USTA Poll: 2<br>  
-&#10004; Coaches Poll: 2<br>  
+&#10004; USTA Poll: 2 (302.00)<br>  
+&nbsp; Coaches Poll: 2<br>  
 <br>  
 
 </td>
@@ -45,14 +45,13 @@ Go to [Live Stats](https://sidearmstats.com/florida/mten/)
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***FLA*** - Florida (99%) def. South Alabama (1%)  
-- Slam: ***FLA*** - #2 Florida (99%) def. #50 South Alabama (1%)  
-- TRN: ***FLA*** - #3 Florida (99%) def. #52 South Alabama (1%)  
-- Massey: ***FLA*** - #1 Florida (99%) def. #46 South Alabama (1%)  
+- Slam: ***FLA*** - #2 Florida (99%) def. #49 South Alabama (1%)  
+- TRN: ***FLA*** - #3 Florida (99%) def. #51 South Alabama (1%)  
+- Massey: ***FLA*** - #1 Florida (99%) def. #45 South Alabama (1%)  
 - Lineup: ***FLA*** - Florida (99%) def. South Alabama (1%)  
-- UTR: ***FLA*** - #1 Florida (+6.84) def. #49 South Alabama (-6.84)  
+- UTR: ***FLA*** - #1 Florida (+6.84) def. #48 South Alabama (-6.84)  
 - ITA: ***FLA*** - #2 Florida def. #53 South Alabama  
 - USTA Poll: ***FLA*** - #2 Florida def. South Alabama  
-- Coaches Poll: ***FLA*** - #2 Florida def. South Alabama  
 - Seeding: ***FLA*** - #1 Florida def. #4 South Alabama  
 
 ## Individual Matchups  
@@ -67,8 +66,8 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>FLA</i></b> - Vale (91%) def. Evrard (9%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
-<li>TRN: <b><i>FLA</i></b> - Vale (92%) def. Evrard (8%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Vale (89%) def. Evrard (11%)</li>  
+<li>TRN: <b><i>FLA</i></b> - Vale (93%) def. Evrard (7%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Vale (90%) def. Evrard (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Vale (54.01) def. Evrard (8.29)</li>  
 </ul>
@@ -79,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Riffice (90%) def. Marzol (10%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Riffice (90%) def. Marzol (10%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Riffice (85%) def. Marzol (15%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Riffice (87%) def. Marzol (13%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Riffice (92%) def. Marzol (8%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Riffice (49.68) def. Marzol (8.12)</li>  
 </ul>
@@ -87,10 +86,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Loic Cloes (SALA) - 5-3 at #3, 9-4 in duals, 9-4 overall<br>Andy Andrade (FLA) - 12-7 at #3, 14-7 in duals, 22-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Andrade (94%) def. Cloes (6%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Andrade (93%) def. Cloes (7%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Andrade (96%) def. Cloes (4%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Andrade (90%) def. Cloes (10%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Andrade (91%) def. Cloes (9%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Andrade (94%) def. Cloes (6%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Andrade (32.71) def. Cloes (2.46)</li>  
 </ul>
@@ -101,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Bicknell (98%) def. Collard (2%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Bicknell (90%) def. Collard (10%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Bicknell (89%) def. Collard (11%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Bicknell (94%) def. Collard (6%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Bicknell (15.89) def. Collard (2.43)</li>  
 </ul>
@@ -112,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Shelton (95%) def. Delcour (5%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Shelton (98%) def. Delcour (2%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Shelton (91%) def. Delcour (9%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Shelton (92%) def. Delcour (8%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Shelton (96%) def. Delcour (4%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Shelton (3.20) def. Delcour (2.17)</li>  
 </ul>
@@ -125,7 +124,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Goodger (99%) def. Bugaj (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Goodger (98%) def. Bugaj (2%)</li>  
-<li>ITA: <b><i>FLA</i></b> - Goodger (8.31) def. Bugaj (0.00)</li>  
+<li>ITA: <b><i>SALA</i></b> - # Bugaj def. Goodger (8.31)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

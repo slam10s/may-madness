@@ -15,13 +15,13 @@ Home:
     Overall: 4
     Region: 1
   Ratings:
-    ITA: 5 (74.24)
+    ITA: 4 (74.24)
     SLM: 8 (97.59)
     TRN: 7 (97.63)
     MAS: 11 (8.54)
     UTR: 14 (79.01)
   Polls:
-    USTA: 6
+    USTA: 8 (263.00)
     Coach: 4
 Visitor:
   Team: Northwestern
@@ -31,60 +31,59 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 50 (7.95)
+    ITA: 50 (7.82)
     SLM: 33 (92.89)
     TRN: 32 (90.90)
     MAS: 31 (7.50)
     UTR: 27 (77.56)
   Polls:
-    Coach: 49
+    Coach: 46
 Predictions:
-  AVG: TEX - Texas (91%) def. Northwestern (9%)
+  AVG: TEX - Texas (90%) def. Northwestern (10%)
   SLM: "TEX - #8 Texas (93%) def. #33 Northwestern (7%)"
   TRN: "TEX - #7 Texas (97%) def. #32 Northwestern (3%)"
-  MAS: "TEX - #11 Texas (89%) def. #31 Northwestern (11%)"
-  LNUP: TEX - Texas (86%) def. Northwestern (14%)
+  MAS: "TEX - #11 Texas (90%) def. #31 Northwestern (10%)"
+  LNUP: TEX - Texas (81%) def. Northwestern (19%)
   UTR: "TEX - #14 Texas (+1.45) def. #27 Northwestern (-1.45)"
-  ITA: "TEX - #5 Texas def. #50 Northwestern"
-  USTA: "TEX - #6 Texas def. Northwestern"
-  Coach: "TEX - #4 Texas def. #49 Northwestern"
+  ITA: "TEX - #4 Texas def. #50 Northwestern"
+  USTA: "TEX - #8 Texas def. Northwestern"
   Seeding: "TEX - #1 Texas def. #3 Northwestern"
 Lineups:
   Predictions:
-    Average EWPs for TEX: 93%,97%,89%,86%
-    Average EWPs for NW: 7%,3%,11%,14%
-    TEX wins 4 or more Singles points: 66%
-    NW wins 4 or more Singles points: 10%
-    Winner decided by the Doubles point: 24%
+    Average EWPs for TEX: 93%,97%,90%,81%
+    Average EWPs for NW: 7%,3%,10%,19%
+    TEX wins 4 or more Singles points: 60%
+    NW wins 4 or more Singles points: 14%
+    Winner decided by the Doubles point: 26%
   Singles:
     - Position: 1
       TEX: Eliot Spizzirri - 9-6 at 1, 15-8 in duals, 22-9 overall
       NW: Steven Forman - 5-2 at 1, 5-2 in duals, 5-2 overall
       Predictions:
-        AVG: TEX - Spizzirri (66%) def. Forman (34%)
-        SLM: TEX - Spizzirri (56%) def. Forman (44%)
-        TRN: TEX - Spizzirri (71%) def. Forman (29%)
-        MAS: TEX - Spizzirri (70%) def. Forman (30%)
+        AVG: TEX - Spizzirri (54%) def. Forman (46%)
+        SLM: NW - Forman (51%) def. Spizzirri (49%)
+        TRN: NW - Forman (57%) def. Spizzirri (43%)
+        MAS: TEX - Spizzirri (59%) def. Forman (41%)
         UTR: TEX - Spizzirri (67%) def. Forman (33%)
         ITA: TEX - Spizzirri (28.17) def. Forman (2.23)
     - Position: 2
       TEX: Micah Braswell - 9-4 at 2, 17-5 in duals, 32-6 overall
-      NW: Dominik Stary - 4-0 at 2, 8-4 in duals, 9-6 overall
+      NW: Dominik Starý - 4-0 at 2, 8-4 in duals, 9-6 overall
       Predictions:
-        AVG: TEX - Braswell (76%) def. Stary (24%)
-        SLM: TEX - Braswell (63%) def. Stary (37%)
-        TRN: TEX - Braswell (85%) def. Stary (15%)
-        MAS: TEX - Braswell (71%) def. Stary (29%)
-        UTR: TEX - Braswell (87%) def. Stary (13%)
-        ITA: TEX - Braswell (20.88) def. Stary (0.00)
+        AVG: TEX - Braswell (72%) def. Starý (28%)
+        SLM: TEX - Braswell (57%) def. Starý (43%)
+        TRN: TEX - Braswell (78%) def. Starý (22%)
+        MAS: TEX - Braswell (67%) def. Starý (33%)
+        UTR: TEX - Braswell (87%) def. Starý (13%)
+        ITA: TEX - Braswell (20.88) def. Starý (2.05)
     - Position: 3
       TEX: Siem Woldeab - 5-1 at 3, 9-7 in duals, 14-12 overall
       NW: Nick Brookes - 1-5 at 3, 9-7 in duals, 11-9 overall
       Predictions:
         AVG: TEX - Woldeab (75%) def. Brookes (25%)
-        SLM: TEX - Woldeab (76%) def. Brookes (24%)
-        TRN: TEX - Woldeab (82%) def. Brookes (18%)
-        MAS: TEX - Woldeab (67%) def. Brookes (33%)
+        SLM: TEX - Woldeab (74%) def. Brookes (26%)
+        TRN: TEX - Woldeab (81%) def. Brookes (19%)
+        MAS: TEX - Woldeab (72%) def. Brookes (28%)
         UTR: TEX - Woldeab (74%) def. Brookes (26%)
         ITA: TEX - Woldeab (9.31) def. Brookes (1.58)
     - Position: 4
@@ -92,9 +91,9 @@ Lineups:
       NW: Chris Ephron - 5-1 at 4, 9-5 in duals, 12-6 overall
       Predictions:
         AVG: TEX - Harper (75%) def. Ephron (25%)
-        SLM: TEX - Harper (63%) def. Ephron (37%)
-        TRN: TEX - Harper (83%) def. Ephron (17%)
-        MAS: TEX - Harper (70%) def. Ephron (30%)
+        SLM: TEX - Harper (62%) def. Ephron (38%)
+        TRN: TEX - Harper (81%) def. Ephron (19%)
+        MAS: TEX - Harper (76%) def. Ephron (24%)
         UTR: TEX - Harper (82%) def. Ephron (18%)
         ITA: TEX - Harper (5.83) def. Ephron (2.01)
     - Position: 5
@@ -102,21 +101,21 @@ Lineups:
       NW: Trice Pickens - 3-3 at 5, 8-10 in duals, 13-10 overall
       Predictions:
         AVG: TEX - Huang (58%) def. Pickens (42%)
-        SLM: NW - Pickens (58%) def. Huang (42%)
-        TRN: TEX - Huang (54%) def. Pickens (46%)
-        MAS: TEX - Huang (61%) def. Pickens (39%)
+        SLM: NW - Pickens (60%) def. Huang (40%)
+        TRN: TEX - Huang (50%) def. Pickens (50%)
+        MAS: TEX - Huang (66%) def. Pickens (34%)
         UTR: TEX - Huang (77%) def. Pickens (23%)
-        ITA: NW - Pickens (1.58) def. Huang (0.00)
+        ITA: "TEX - # Huang def. Pickens (1.58)"
     - Position: 6
       TEX: Evin McDonald - 6-9 at 6, 11-10 in duals, 15-16 overall
       NW: Simen Bratholm - 0-0 at 6, 5-4 in duals, 8-5 overall
       Predictions:
         AVG: NW - Bratholm (61%) def. McDonald (39%)
         SLM: NW - Bratholm (67%) def. McDonald (33%)
-        TRN: NW - Bratholm (66%) def. McDonald (34%)
+        TRN: NW - Bratholm (67%) def. McDonald (33%)
         MAS: NW - Bratholm (64%) def. McDonald (36%)
         UTR: TEX - McDonald (55%) def. Bratholm (45%)
-        ITA: NW - Bratholm (2.06) def. McDonald (0.00)
+        ITA: "TEX - # McDonald def. Bratholm (2.06)"
   Doubles:
     - Position: 1
       TEX: Spizzirri/Woldeab - 12-9 at 1, 12-9 in duals, 19-9 overall

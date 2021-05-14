@@ -10,7 +10,7 @@ Knoxville, Tennessee
 
 <h2>#3 Memphis</h2>  
 &nbsp; Record: 10-9<br>  
-&nbsp; ITA: 38 (22.19)<br>  
+&nbsp; ITA: 38 (22.10)<br>  
 &nbsp; Slam: 41 (91.89)<br>  
 &nbsp; TRN: 40 (89.86)<br>  
 &nbsp; Massey: 43 (7.05)<br>  
@@ -28,8 +28,8 @@ Knoxville, Tennessee
 &#10004; TRN: 5 (98.72)<br>  
 &#10004; Massey: 2 (9.17)<br>  
 &#10004; UTR: 4 (80.17)<br>  
-&#10004; USTA Poll: 4<br>  
-&#10004; Coaches Poll: 3<br>  
+&#10004; USTA Poll: 6 (290.00)<br>  
+&nbsp; Coaches Poll: 3<br>  
 <br>  
 
 </td>
@@ -52,8 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***TENN*** - Tennessee (99%) def. Memphis (1%)  
 - UTR: ***TENN*** - #4 Tennessee (+4.77) def. #43 Memphis (-4.77)  
 - ITA: ***TENN*** - #3 Tennessee def. #38 Memphis  
-- USTA Poll: ***TENN*** - #4 Tennessee def. Memphis  
-- Coaches Poll: ***TENN*** - #3 Tennessee def. #35 Memphis  
+- USTA Poll: ***TENN*** - #6 Tennessee def. Memphis  
 - Seeding: ***TENN*** - #1 Tennessee def. #3 Memphis  
 
 ## Individual Matchups  
@@ -68,8 +67,8 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>TENN</i></b> - Walton (81%) def. Story (19%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Walton (76%) def. Story (24%)</li>  
-<li>TRN: <b><i>TENN</i></b> - Walton (77%) def. Story (23%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Walton (83%) def. Story (17%)</li>  
+<li>TRN: <b><i>TENN</i></b> - Walton (76%) def. Story (24%)</li>  
+<li>Massey: <b><i>TENN</i></b> - Walton (85%) def. Story (15%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Walton (87%) def. Story (13%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Walton (42.60) def. Story (13.58)</li>  
 </ul>
@@ -91,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TENN</i></b> - Prata (86%) def. Cutting (14%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Prata (84%) def. Cutting (16%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Prata (86%) def. Cutting (14%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Prata (88%) def. Cutting (12%)</li>  
+<li>Massey: <b><i>TENN</i></b> - Prata (84%) def. Cutting (16%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Prata (88%) def. Cutting (12%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Prata (18.77) def. Cutting (4.13)</li>  
 </ul>
@@ -102,7 +101,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TENN</i></b> - Wiedenmann (94%) def. Pallares (6%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Wiedenmann (92%) def. Pallares (8%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Wiedenmann (97%) def. Pallares (3%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Wiedenmann (95%) def. Pallares (5%)</li>  
+<li>Massey: <b><i>TENN</i></b> - Wiedenmann (94%) def. Pallares (6%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Wiedenmann (94%) def. Pallares (6%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Wiedenmann (4.02) def. Pallares (1.34)</li>  
 </ul>
@@ -111,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Jeremy Taylor (MEM) - 5-3 at #5, 9-3 in duals, 9-3 overall<br>Giles Hussey (TENN) - 9-0 at #5, 18-3 in duals, 29-4 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>TENN</i></b> - Hussey (92%) def. Taylor (8%)</li>  
-<li>Slam: <b><i>TENN</i></b> - Hussey (94%) def. Taylor (6%)</li>  
+<li>Slam: <b><i>TENN</i></b> - Hussey (93%) def. Taylor (7%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Hussey (95%) def. Taylor (5%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Hussey (90%) def. Taylor (10%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Hussey (90%) def. Taylor (10%)</li>  
@@ -124,7 +123,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TENN</i></b> - Harper (93%) def. Fanlo (7%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Harper (93%) def. Fanlo (7%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Harper (96%) def. Fanlo (4%)</li>  
-<li>Massey: <b><i>TENN</i></b> - Harper (92%) def. Fanlo (8%)</li>  
+<li>Massey: <b><i>TENN</i></b> - Harper (91%) def. Fanlo (9%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Harper (93%) def. Fanlo (7%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Harper (5.43) def. Fanlo (1.57)</li>  
 </ul>

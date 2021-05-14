@@ -10,11 +10,11 @@ Columbia, South Carolina
 
 <h2>#4 UNCW</h2>  
 &nbsp; Record: 15-6<br>  
-&nbsp; ITA: 51 (7.93)<br>  
-&nbsp; Slam: 48 (88.87)<br>  
-&nbsp; TRN: 49 (86.19)<br>  
-&nbsp; Massey: 49 (6.70)<br>  
-&nbsp; UTR: 48 (74.00)<br>  
+&nbsp; ITA: 46 (9.80)<br>  
+&nbsp; Slam: 47 (88.87)<br>  
+&nbsp; TRN: 48 (86.19)<br>  
+&nbsp; Massey: 48 (6.70)<br>  
+&nbsp; UTR: 47 (74.00)<br>  
 <br>  
 
 </td>
@@ -22,13 +22,13 @@ Columbia, South Carolina
 
 <h2>#1 South Carolina</h2>  
 &nbsp; Record: 16-9<br>  
-&#10004; ITA: 13 (50.95)<br>  
+&#10004; ITA: 13 (51.06)<br>  
 &#10004; Slam: 15 (96.20)<br>  
 &#10004; TRN: 15 (94.49)<br>  
 &#10004; Massey: 16 (8.13)<br>  
 &#10004; UTR: 17 (78.69)<br>  
-&#10004; USTA Poll: 15<br>  
-&#10004; Coaches Poll: 13<br>  
+&#10004; USTA Poll: 17 (133.00)<br>  
+&nbsp; Coaches Poll: 13<br>  
 <br>  
 
 </td>
@@ -43,15 +43,14 @@ Columbia, South Carolina
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***SCAR*** - South Carolina (98%) def. UNCW (2%)  
-- Slam: ***SCAR*** - #15 South Carolina (98%) def. #48 UNCW (2%)  
-- TRN: ***SCAR*** - #15 South Carolina (99%) def. #49 UNCW (1%)  
-- Massey: ***SCAR*** - #16 South Carolina (98%) def. #49 UNCW (2%)  
+- Composite: ***SCAR*** - South Carolina (99%) def. UNCW (1%)  
+- Slam: ***SCAR*** - #15 South Carolina (98%) def. #47 UNCW (2%)  
+- TRN: ***SCAR*** - #15 South Carolina (99%) def. #48 UNCW (1%)  
+- Massey: ***SCAR*** - #16 South Carolina (98%) def. #48 UNCW (2%)  
 - Lineup: ***SCAR*** - South Carolina (99%) def. UNCW (1%)  
-- UTR: ***SCAR*** - #17 South Carolina (+4.69) def. #48 UNCW (-4.69)  
-- ITA: ***SCAR*** - #13 South Carolina def. #51 UNCW  
-- USTA Poll: ***SCAR*** - #15 South Carolina def. UNCW  
-- Coaches Poll: ***SCAR*** - #13 South Carolina def. UNCW  
+- UTR: ***SCAR*** - #17 South Carolina (+4.69) def. #47 UNCW (-4.69)  
+- ITA: ***SCAR*** - #13 South Carolina def. #46 UNCW  
+- USTA Poll: ***SCAR*** - #17 South Carolina def. UNCW  
 - Seeding: ***SCAR*** - #1 South Carolina def. #4 UNCW  
 
 ## Individual Matchups  
@@ -65,8 +64,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Bruno Caula (UNCW) - 11-6 at #1, 11-6 in duals, 11-6 overall<br>Daniel Rodrigues (SCAR) - 16-4 at #1, 16-4 in duals, 24-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>SCAR</i></b> - Rodrigues (96%) def. Caula (4%)</li>  
-<li>Slam: <b><i>SCAR</i></b> - Rodrigues (94%) def. Caula (6%)</li>  
-<li>TRN: <b><i>SCAR</i></b> - Rodrigues (97%) def. Caula (3%)</li>  
+<li>Slam: <b><i>SCAR</i></b> - Rodrigues (95%) def. Caula (5%)</li>  
+<li>TRN: <b><i>SCAR</i></b> - Rodrigues (98%) def. Caula (2%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Rodrigues (96%) def. Caula (4%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Rodrigues (95%) def. Caula (5%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Rodrigues (58.79) def. Caula (2.92)</li>  
@@ -86,10 +85,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Daniel Groom (UNCW) - 7-3 at #3, 10-4 in duals, 10-4 overall<br>Toby Samuel (SCAR) - 4-2 at #3, 16-4 in duals, 24-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SCAR</i></b> - Samuel (91%) def. Groom (9%)</li>  
-<li>Slam: <b><i>SCAR</i></b> - Samuel (89%) def. Groom (11%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Samuel (92%) def. Groom (8%)</li>  
+<li>Slam: <b><i>SCAR</i></b> - Samuel (90%) def. Groom (10%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Samuel (95%) def. Groom (5%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Samuel (91%) def. Groom (9%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Samuel (92%) def. Groom (8%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Samuel (90%) def. Groom (10%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Samuel (10.78) def. Groom (2.67)</li>  
 </ul>
@@ -97,10 +96,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Bekhzod Rasamatov (UNCW) - 3-2 at #4, 11-4 in duals, 11-4 overall<br>Raphael Lambling (SCAR) - 0-2 at #4, 6-12 in duals, 11-18 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SCAR</i></b> - Lambling (90%) def. Rasamatov (10%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Lambling (91%) def. Rasamatov (9%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Lambling (95%) def. Rasamatov (5%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Lambling (93%) def. Rasamatov (7%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Lambling (80%) def. Rasamatov (20%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Lambling (83%) def. Rasamatov (17%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Lambling (92%) def. Rasamatov (8%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Lambling (15.34) def. Rasamatov (2.15)</li>  
 </ul>
@@ -110,7 +109,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>SCAR</i></b> - Beasley (91%) def. Hurtado (9%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Beasley (91%) def. Hurtado (9%)</li>  
-<li>TRN: <b><i>SCAR</i></b> - Beasley (95%) def. Hurtado (5%)</li>  
+<li>TRN: <b><i>SCAR</i></b> - Beasley (96%) def. Hurtado (4%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Beasley (90%) def. Hurtado (10%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Beasley (87%) def. Hurtado (13%)</li>  
 <li>ITA: <b><i>UNCW</i></b> - Hurtado (1.80) def. Beasley (1.73)</li>  
@@ -119,10 +118,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Michael Copeland (UNCW) - 5-2 at #6, 13-6 in duals, 13-6 overall<br>Thomas Brown (SCAR) - 2-2 at #6, 3-2 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SCAR</i></b> - Brown (86%) def. Copeland (14%)</li>  
-<li>Slam: <b><i>SCAR</i></b> - Brown (89%) def. Copeland (11%)</li>  
-<li>TRN: <b><i>SCAR</i></b> - Brown (93%) def. Copeland (7%)</li>  
-<li>Massey: <b><i>SCAR</i></b> - Brown (74%) def. Copeland (26%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Brown (88%) def. Copeland (12%)</li>  
+<li>Slam: <b><i>SCAR</i></b> - Brown (90%) def. Copeland (10%)</li>  
+<li>TRN: <b><i>SCAR</i></b> - Brown (94%) def. Copeland (6%)</li>  
+<li>Massey: <b><i>SCAR</i></b> - Brown (79%) def. Copeland (21%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Brown (90%) def. Copeland (10%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Brown (2.19) def. Copeland (1.97)</li>  
 </ul>

@@ -15,23 +15,23 @@ Home:
     Overall: 13
     Region: 1
   Ratings:
-    ITA: 13 (48.32)
+    ITA: 11 (48.83)
     SLM: 20 (90.34)
     TRN: 16 (83.31)
     MAS: 18 (7.83)
     UTR: 24 (61.54)
   Polls:
-    USTA: 15
+    USTA: 16 (148.00)
     Coach: 11
 Visitor:
   Team: Ga. Southern
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 26
   Seeding:
     Region: 4
   Ratings:
-    ITA: 53 (4.08)
+    ITA: 52 (4.08)
     SLM: 53 (78.88)
     TRN: 54 (68.86)
     MAS: 55 (5.15)
@@ -43,9 +43,8 @@ Predictions:
   MAS: "GT - #18 Georgia Tech (99%) def. #55 Ga. Southern (1%)"
   LNUP: GT - Georgia Tech (99%) def. Ga. Southern (1%)
   UTR: "GT - #24 Georgia Tech (+7.11) def. #53 Ga. Southern (-7.11)"
-  ITA: "GT - #13 Georgia Tech def. #53 Ga. Southern"
-  USTA: "GT - #15 Georgia Tech def. Ga. Southern"
-  Coach: "GT - #11 Georgia Tech def. Ga. Southern"
+  ITA: "GT - #11 Georgia Tech def. #52 Ga. Southern"
+  USTA: "GT - #16 Georgia Tech def. Ga. Southern"
   Seeding: "GT - #1 Georgia Tech def. #4 Ga. Southern"
 Lineups:
   Predictions:
@@ -74,7 +73,7 @@ Lineups:
         TRN: GT - Flores (99%) def. Boixader (1%)
         MAS: GT - Flores (99%) def. Boixader (1%)
         UTR: GT - Flores (98%) def. Boixader (2%)
-        ITA: GT - Flores (29.63) def. Boixader (0.00)
+        ITA: "GASO - # Boixader def. Flores (29.63)"
     - Position: 3
       GT: Gia Cohen - 3-11 at 3, 8-14 in duals, 8-15 overall
       GASO: Sophie Wagemaker - 10-3 at 3, 11-7 in duals, 11-7 overall
@@ -82,7 +81,7 @@ Lineups:
         AVG: GT - Cohen (87%) def. Wagemaker (13%)
         SLM: GT - Cohen (93%) def. Wagemaker (7%)
         TRN: GT - Cohen (93%) def. Wagemaker (7%)
-        MAS: GT - Cohen (75%) def. Wagemaker (25%)
+        MAS: GT - Cohen (76%) def. Wagemaker (24%)
         UTR: GT - Cohen (87%) def. Wagemaker (13%)
         ITA: GT - Cohen (3.38) def. Wagemaker (1.85)
     - Position: 4
@@ -94,7 +93,7 @@ Lineups:
         TRN: GT - Hrastar (97%) def. Diemen (3%)
         MAS: GT - Hrastar (98%) def. Diemen (2%)
         UTR: GT - Hrastar (97%) def. Diemen (3%)
-        ITA: GT - Hrastar (5.81) def. Diemen (0.00)
+        ITA: "GASO - # Diemen def. Hrastar (5.81)"
     - Position: 5
       GT: Carol Lee - 5-8 at 5, 12-12 in duals, 14-12 overall
       GASO: Mila Hartig - 1-0 at 5, 14-4 in duals, 14-4 overall
@@ -109,11 +108,11 @@ Lineups:
       GT: Mahak Jain - 7-2 at 6, 14-7 in duals, 16-7 overall
       GASO: Paula Hijos - 2-0 at 6, 13-6 in duals, 13-6 overall
       Predictions:
-        AVG: GT - Jain (96%) def. Hijos (4%)
+        AVG: GT - Jain (95%) def. Hijos (5%)
         SLM: GT - Jain (95%) def. Hijos (5%)
         TRN: GT - Jain (97%) def. Hijos (3%)
         MAS: GT - Jain (93%) def. Hijos (7%)
-        UTR: GT - Jain (99%) def. Hijos (1%)
+        UTR: GT - Jain (95%) def. Hijos (5%)
         ITA: GASO - Hijos (1.93) def. Jain (1.89)
   Doubles:
     - Position: 1

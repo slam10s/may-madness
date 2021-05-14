@@ -15,13 +15,13 @@ Home:
     Overall: 6
     Region: 1
   Ratings:
-    ITA: 6 (72.02)
+    ITA: 6 (72.28)
     SLM: 3 (99.37)
     TRN: 2 (99.37)
     MAS: 4 (8.94)
     UTR: 11 (79.64)
   Polls:
-    USTA: 5
+    USTA: 7 (282.00)
     Coach: 6
 Visitor:
   Team: Oklahoma St.
@@ -37,45 +37,44 @@ Visitor:
     MAS: 29 (7.54)
     UTR: 19 (78.43)
   Polls:
-    USTA: RV
+    USTA: RV (2.00)
     Coach: 21
 Predictions:
   AVG: UNC - North Carolina (97%) def. Oklahoma St. (3%)
   SLM: "UNC - #3 North Carolina (96%) def. #24 Oklahoma St. (4%)"
   TRN: "UNC - #2 North Carolina (98%) def. #23 Oklahoma St. (2%)"
-  MAS: "UNC - #4 North Carolina (95%) def. #29 Oklahoma St. (5%)"
+  MAS: "UNC - #4 North Carolina (94%) def. #29 Oklahoma St. (6%)"
   LNUP: UNC - North Carolina (98%) def. Oklahoma St. (2%)
   UTR: "UNC - #11 North Carolina (+1.21) def. #19 Oklahoma St. (-1.21)"
   ITA: "UNC - #6 North Carolina def. #19 Oklahoma St."
-  USTA: "UNC - #5 North Carolina def. RV Oklahoma St."
-  Coach: "UNC - #6 North Carolina def. #21 Oklahoma St."
+  USTA: "UNC - #7 North Carolina def. RV Oklahoma St."
   Seeding: "UNC - #1 North Carolina def. #2 Oklahoma St."
 Lineups:
   Predictions:
-    Average EWPs for UNC: 96%,98%,95%,98%
-    Average EWPs for OKST: 4%,2%,5%,2%
-    UNC wins 4 or more Singles points: 92%
+    Average EWPs for UNC: 96%,98%,94%,98%
+    Average EWPs for OKST: 4%,2%,6%,2%
+    UNC wins 4 or more Singles points: 91%
     OKST wins 4 or more Singles points: 1%
-    Winner decided by the Doubles point: 7%
+    Winner decided by the Doubles point: 8%
   Singles:
     - Position: 1
       UNC: William Blumberg - 8-3 at 1, 8-3 in duals, 9-3 overall
       OKST: Matej Vocel - 11-5 at 1, 11-5 in duals, 11-5 overall
       Predictions:
-        AVG: UNC - Blumberg (72%) def. Vocel (28%)
+        AVG: UNC - Blumberg (71%) def. Vocel (29%)
         SLM: UNC - Blumberg (73%) def. Vocel (27%)
-        TRN: UNC - Blumberg (77%) def. Vocel (23%)
-        MAS: UNC - Blumberg (67%) def. Vocel (33%)
+        TRN: UNC - Blumberg (78%) def. Vocel (22%)
+        MAS: UNC - Blumberg (65%) def. Vocel (35%)
         UTR: UNC - Blumberg (71%) def. Vocel (29%)
         ITA: UNC - Blumberg (21.87) def. Vocel (20.98)
     - Position: 2
       UNC: Rinky Hijikata - 4-2 at 2, 9-2 in duals, 11-2 overall
       OKST: Henrik Korsgaard - 3-2 at 2, 9-9 in duals, 9-9 overall
       Predictions:
-        AVG: UNC - Hijikata (92%) def. Korsgaard (8%)
+        AVG: UNC - Hijikata (91%) def. Korsgaard (9%)
         SLM: UNC - Hijikata (91%) def. Korsgaard (9%)
-        TRN: UNC - Hijikata (95%) def. Korsgaard (5%)
-        MAS: UNC - Hijikata (93%) def. Korsgaard (7%)
+        TRN: UNC - Hijikata (94%) def. Korsgaard (6%)
+        MAS: UNC - Hijikata (91%) def. Korsgaard (9%)
         UTR: UNC - Hijikata (88%) def. Korsgaard (12%)
         ITA: UNC - Hijikata (27.96) def. Korsgaard (2.00)
     - Position: 3
@@ -83,39 +82,39 @@ Lineups:
       OKST: Emile Hudd - 5-2 at 3, 7-7 in duals, 9-9 overall
       Predictions:
         AVG: UNC - Sigouin (51%) def. Hudd (49%)
-        SLM: UNC - Sigouin (65%) def. Hudd (35%)
-        TRN: UNC - Sigouin (63%) def. Hudd (37%)
-        MAS: UNC - Sigouin (51%) def. Hudd (49%)
+        SLM: UNC - Sigouin (64%) def. Hudd (36%)
+        TRN: UNC - Sigouin (62%) def. Hudd (38%)
+        MAS: UNC - Sigouin (54%) def. Hudd (46%)
         UTR: OKST - Hudd (74%) def. Sigouin (26%)
         ITA: UNC - Sigouin (13.85) def. Hudd (4.25)
     - Position: 4
       UNC: Brian Cernoch - 5-2 at 4, 17-5 in duals, 17-5 overall
       OKST: Mathieu Scaglia - 4-5 at 4, 9-7 in duals, 9-8 overall
       Predictions:
-        AVG: UNC - Cernoch (86%) def. Scaglia (14%)
-        SLM: UNC - Cernoch (90%) def. Scaglia (10%)
-        TRN: UNC - Cernoch (88%) def. Scaglia (12%)
-        MAS: UNC - Cernoch (89%) def. Scaglia (11%)
+        AVG: UNC - Cernoch (85%) def. Scaglia (15%)
+        SLM: UNC - Cernoch (89%) def. Scaglia (11%)
+        TRN: UNC - Cernoch (87%) def. Scaglia (13%)
+        MAS: UNC - Cernoch (86%) def. Scaglia (14%)
         UTR: UNC - Cernoch (78%) def. Scaglia (22%)
         ITA: UNC - Cernoch (12.67) def. Scaglia (2.10)
     - Position: 5
       UNC: Josh Peck - 3-1 at 5, 8-3 in duals, 8-3 overall
       OKST: Etienne Donnet - 3-4 at 5, 8-9 in duals, 9-14 overall
       Predictions:
-        AVG: UNC - Peck (89%) def. Donnet (11%)
+        AVG: UNC - Peck (87%) def. Donnet (13%)
         SLM: UNC - Peck (90%) def. Donnet (10%)
-        TRN: UNC - Peck (91%) def. Donnet (9%)
-        MAS: UNC - Peck (91%) def. Donnet (9%)
+        TRN: UNC - Peck (90%) def. Donnet (10%)
+        MAS: UNC - Peck (87%) def. Donnet (13%)
         UTR: UNC - Peck (83%) def. Donnet (17%)
-        ITA: UNC - Peck (4.29) def. Donnet (0.00)
+        ITA: "OKST - # Donnet def. Peck (4.29)"
     - Position: 6
       UNC: Simon Soendergaard - 6-3 at 6, 10-5 in duals, 11-6 overall
       OKST: Matisse Bobichon - 4-4 at 6, 4-4 in duals, 4-4 overall
       Predictions:
-        AVG: UNC - Soendergaard (88%) def. Bobichon (12%)
+        AVG: UNC - Soendergaard (87%) def. Bobichon (13%)
         SLM: UNC - Soendergaard (95%) def. Bobichon (5%)
-        TRN: UNC - Soendergaard (95%) def. Bobichon (5%)
-        MAS: UNC - Soendergaard (91%) def. Bobichon (9%)
+        TRN: UNC - Soendergaard (96%) def. Bobichon (4%)
+        MAS: UNC - Soendergaard (87%) def. Bobichon (13%)
         UTR: UNC - Soendergaard (69%) def. Bobichon (31%)
         ITA: UNC - Soendergaard (3.62) def. Bobichon (1.32)
   Doubles:

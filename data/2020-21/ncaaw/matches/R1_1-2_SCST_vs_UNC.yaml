@@ -21,16 +21,17 @@ Home:
     MAS: 1 (9.82)
     UTR: 2 (65.21)
   Polls:
-    USTA: 1
+    USTA: 2 (325.00)
     Coach: 1
 Visitor:
   Team: South Carolina St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 2
   Seeding:
     Region: 4
   Ratings:
+    ITA: 64 (1.85)
     SLM: 62 (70.68)
     TRN: 61 (58.72)
     MAS: 62 (3.52)
@@ -42,9 +43,8 @@ Predictions:
   MAS: "UNC - #1 North Carolina (99%) def. #62 South Carolina St. (1%)"
   LNUP: UNC - North Carolina (99%) def. South Carolina St. (1%)
   UTR: "UNC - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)"
-  ITA: "UNC - #1 North Carolina def. South Carolina St."
-  USTA: "UNC - #1 North Carolina def. South Carolina St."
-  Coach: "UNC - #1 North Carolina def. South Carolina St."
+  ITA: "UNC - #1 North Carolina def. #64 South Carolina St."
+  USTA: "UNC - #2 North Carolina def. South Carolina St."
   Seeding: "UNC - #1 North Carolina def. #4 South Carolina St."
 Lineups:
   Predictions:
@@ -63,7 +63,7 @@ Lineups:
         TRN: UNC - Daavettila (99%) def. Berjane (1%)
         MAS: UNC - Daavettila (99%) def. Berjane (1%)
         UTR: UNC - Daavettila (99%) def. Berjane (1%)
-        ITA: UNC - Daavettila (64.17) def. Berjane (0.00)
+        ITA: "SCST - # Berjane def. Daavettila (64.17)"
     - Position: 2
       UNC: Alexa Graham - 5-0 at 2, 11-2 in duals, 16-2 overall
       SCST: Hind Semlali - 6-3 at 2, 6-3 in duals, 6-3 overall
@@ -73,17 +73,17 @@ Lineups:
         TRN: UNC - Graham (99%) def. Semlali (1%)
         MAS: UNC - Graham (99%) def. Semlali (1%)
         UTR: UNC - Graham (99%) def. Semlali (1%)
-        ITA: UNC - Graham (15.03) def. Semlali (0.00)
+        ITA: "SCST - # Semlali def. Graham (15.03)"
     - Position: 3
       UNC: Cameron Morra - 6-2 at 3, 15-6 in duals, 15-6 overall
-      SCST: Andjela Mihajilovic - 2-6 at 3, 2-6 in duals, 2-6 overall
+      SCST: Andjela Mihajlovic - 2-6 at 3, 2-6 in duals, 2-6 overall
       Predictions:
-        AVG: UNC - Morra (99%) def. Mihajilovic (1%)
-        SLM: UNC - Morra (99%) def. Mihajilovic (1%)
-        TRN: UNC - Morra (99%) def. Mihajilovic (1%)
-        MAS: UNC - Morra (99%) def. Mihajilovic (1%)
-        UTR: UNC - Morra (99%) def. Mihajilovic (1%)
-        ITA: UNC - Morra (20.00) def. Mihajilovic (0.00)
+        AVG: UNC - Morra (99%) def. Mihajlovic (1%)
+        SLM: UNC - Morra (99%) def. Mihajlovic (1%)
+        TRN: UNC - Morra (99%) def. Mihajlovic (1%)
+        MAS: UNC - Morra (99%) def. Mihajlovic (1%)
+        UTR: UNC - Morra (99%) def. Mihajlovic (1%)
+        ITA: "SCST - # Mihajlovic def. Morra (20.00)"
     - Position: 4
       UNC: Elizabeth Scotty - 6-1 at 4, 11-2 in duals, 11-3 overall
       SCST: Lasya Patnaik - 6-3 at 4, 6-3 in duals, 6-3 overall
@@ -123,4 +123,4 @@ Lineups:
       SCST: Berjane/Cemalovic - 1-1 at 2, 1-1 in duals, 1-1 overall
     - Position: 3
       UNC: Sanford/Tran - 12-3 at 3, 16-3 in duals, 16-3 overall
-      SCST: Mihajilovic/Aguilar - 6-3 at 3, 6-3 in duals, 6-3 overall
+      SCST: Mihajlovic/Aguilar - 6-3 at 3, 6-3 in duals, 6-3 overall

@@ -15,7 +15,7 @@ Charlottesville, Virginia
 &nbsp; TRN: 21 (92.30)<br>  
 &nbsp; Massey: 20 (7.97)<br>  
 &#10004; UTR: 5 (80.08)<br>  
-&nbsp; USTA Poll: 20<br>  
+&nbsp; USTA Poll: 22 (85.00)<br>  
 &nbsp; Coaches Poll: 20<br>  
 <br>  
 
@@ -24,13 +24,13 @@ Charlottesville, Virginia
 
 <h2>#1 Virginia</h2>  
 &nbsp; Record: 23-2<br>  
-&#10004; ITA: 4 (74.36)<br>  
+&#10004; ITA: 5 (74.11)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
 &#10004; Massey: 3 (9.13)<br>  
 &nbsp; UTR: 6 (80.03)<br>  
-&#10004; USTA Poll: 1<br>  
-&#10004; Coaches Poll: 5<br>  
+&#10004; USTA Poll: 1 (320.00)<br>  
+&nbsp; Coaches Poll: 5<br>  
 <br>  
 
 </td>
@@ -46,15 +46,14 @@ Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350363)
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UVA*** - Virginia (92%) def. Stanford (8%)  
+- Composite: ***UVA*** - Virginia (94%) def. Stanford (6%)  
 - Slam: ***UVA*** - #1 Virginia (96%) def. #22 Stanford (4%)  
 - TRN: ***UVA*** - #1 Virginia (98%) def. #21 Stanford (2%)  
-- Massey: ***UVA*** - #3 Virginia (93%) def. #20 Stanford (7%)  
-- Lineup: ***UVA*** - Virginia (80%) def. Stanford (20%)  
+- Massey: ***UVA*** - #3 Virginia (88%) def. #20 Stanford (12%)  
+- Lineup: ***UVA*** - Virginia (93%) def. Stanford (7%)  
 - UTR: ***STAN*** - #5 Stanford (+0.05) def. #6 Virginia (-0.05)  
-- ITA: ***UVA*** - #4 Virginia def. #21 Stanford  
-- USTA Poll: ***UVA*** - #1 Virginia def. #20 Stanford  
-- Coaches Poll: ***UVA*** - #5 Virginia def. #20 Stanford  
+- ITA: ***UVA*** - #5 Virginia def. #21 Stanford  
+- USTA Poll: ***UVA*** - #1 Virginia def. #22 Stanford  
 - Seeding: ***UVA*** - #1 Virginia def. #2 Stanford  
 
 ## Individual Matchups  
@@ -65,23 +64,23 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Axel Geller (STAN) - 5-6 at #1, 6-6 in duals, 6-6 overall<br>Carl Soderlund (UVA) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
+<summary markdown="span">Axel Geller (STAN) - 5-6 at #1, 6-6 in duals, 6-6 overall<br>Carl Söderlund (UVA) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>STAN</i></b> - Geller (78%) def. Soderlund (22%)</li>  
-<li>Slam: <b><i>STAN</i></b> - Geller (99%) def. Soderlund (1%)</li>  
-<li>TRN: <b><i>STAN</i></b> - Geller (99%) def. Soderlund (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Soderlund (85%) def. Geller (15%)</li>  
-<li>UTR: <b><i>STAN</i></b> - Geller (99%) def. Soderlund (1%)</li>  
-<li>ITA: <b><i>UVA</i></b> - Soderlund (48.38) def. Geller (6.21)</li>  
+<li>Composite: <b><i>UVA</i></b> - Söderlund (84%) def. Geller (16%)</li>  
+<li>Slam: <b><i>UVA</i></b> - Söderlund (84%) def. Geller (16%)</li>  
+<li>TRN: <b><i>UVA</i></b> - Söderlund (84%) def. Geller (16%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Söderlund (87%) def. Geller (13%)</li>  
+<li>UTR: <b><i>UVA</i></b> - Söderlund (83%) def. Geller (17%)</li>  
+<li>ITA: <b><i>UVA</i></b> - Söderlund (48.38) def. Geller (6.21)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Arthur Fery (STAN) - 6-2 at #2, 11-3 in duals, 11-3 overall<br>Jeffrey von der Schulenburg (UVA) - 7-2 at #2, 16-4 in duals, 16-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UVA</i></b> - Schulenburg (54%) def. Fery (46%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Schulenburg (52%) def. Fery (48%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Schulenburg (62%) def. Fery (38%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Schulenburg (68%) def. Fery (32%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Schulenburg (66%) def. Fery (34%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Schulenburg (58%) def. Fery (42%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Fery (79%) def. Schulenburg (21%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Schulenburg (18.39) def. Fery (8.87)</li>  
 </ul>
@@ -89,10 +88,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Tristan Boyer (STAN) - 1-1 at #3, 8-5 in duals, 8-5 overall<br>Chris Rodesch (UVA) - 6-2 at #3, 14-6 in duals, 14-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UVA</i></b> - Rodesch (50%) def. Boyer (50%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Rodesch (51%) def. Boyer (49%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Rodesch (64%) def. Boyer (36%)</li>  
-<li>TRN: <b><i>UVA</i></b> - Rodesch (65%) def. Boyer (35%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Rodesch (56%) def. Boyer (44%)</li>  
+<li>TRN: <b><i>UVA</i></b> - Rodesch (64%) def. Boyer (36%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Rodesch (59%) def. Boyer (41%)</li>  
 <li>UTR: <b><i>STAN</i></b> - Boyer (83%) def. Rodesch (17%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Rodesch (3.82) def. Boyer (2.12)</li>  
 </ul>
@@ -100,10 +99,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alex Rotsaert (STAN) - 0-0 at #4, 4-6 in duals, 4-6 overall<br>Inaki Montes de la Torre (UVA) - 6-0 at #4, 15-4 in duals, 15-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UVA</i></b> - Torre (80%) def. Rotsaert (20%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Torre (79%) def. Rotsaert (21%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Torre (73%) def. Rotsaert (27%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Torre (83%) def. Rotsaert (17%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Torre (83%) def. Rotsaert (17%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Torre (81%) def. Rotsaert (19%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Torre (81%) def. Rotsaert (19%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Torre (12.34) def. Rotsaert (1.37)</li>  
 </ul>
@@ -122,10 +121,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">William Genesen (STAN) - 3-2 at #6, 5-3 in duals, 5-3 overall<br>Gianni Ross (UVA) - 7-3 at #6, 11-3 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UVA</i></b> - Ross (76%) def. Genesen (24%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Ross (74%) def. Genesen (26%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Ross (77%) def. Genesen (23%)</li>  
-<li>TRN: <b><i>UVA</i></b> - Ross (76%) def. Genesen (24%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Ross (75%) def. Genesen (25%)</li>  
+<li>TRN: <b><i>UVA</i></b> - Ross (71%) def. Genesen (29%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Ross (73%) def. Genesen (27%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Ross (76%) def. Genesen (24%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Ross (2.67) def. Genesen (1.81)</li>  
 </ul>
@@ -152,11 +151,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Virginia should win 4 or more singles matches *57%* of the time.  
-- Stanford should win 4 or more singles matches *14%* of the time.  
-- The winner of the doubles point should decide the match the other *29%* of the time.  
-- If Virginia wins the doubles point, their chances of winning the dual improve to *86%*.  
-- If Stanford wins the doubles point, their chances of winning the dual improve to *43%*.  
+- Virginia should win 4 or more singles matches *77%* of the time.  
+- Stanford should win 4 or more singles matches *5%* of the time.  
+- The winner of the doubles point should decide the match the other *18%* of the time.  
+- If Virginia wins the doubles point, their chances of winning the dual improve to *95%*.  
+- If Stanford wins the doubles point, their chances of winning the dual improve to *23%*.  
   
 ------
 

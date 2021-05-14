@@ -21,23 +21,23 @@ Home:
     MAS: 1 (9.82)
     UTR: 2 (65.21)
   Polls:
-    USTA: 1
+    USTA: 2 (325.00)
     Coach: 1
 Visitor:
   Team: Old Dominion
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 4
   Seeding:
     Region: 2
   Ratings:
-    ITA: 30 (28.00)
+    ITA: 29 (28.00)
     SLM: 28 (89.21)
     TRN: 25 (81.50)
     MAS: 29 (7.37)
     UTR: 37 (59.77)
   Polls:
-    USTA: RV
+    USTA: RV (3.00)
     Coach: 32
 Predictions:
   AVG: UNC - North Carolina (99%) def. Old Dominion (1%)
@@ -46,9 +46,8 @@ Predictions:
   MAS: "UNC - #1 North Carolina (99%) def. #29 Old Dominion (1%)"
   LNUP: UNC - North Carolina (99%) def. Old Dominion (1%)
   UTR: "UNC - #2 North Carolina (+5.44) def. #37 Old Dominion (-5.44)"
-  ITA: "UNC - #1 North Carolina def. #30 Old Dominion"
-  USTA: "UNC - #1 North Carolina def. RV Old Dominion"
-  Coach: "UNC - #1 North Carolina def. #32 Old Dominion"
+  ITA: "UNC - #1 North Carolina def. #29 Old Dominion"
+  USTA: "UNC - #2 North Carolina def. RV Old Dominion"
   Seeding: "UNC - #1 North Carolina def. #2 Old Dominion"
 Lineups:
   Predictions:
@@ -63,29 +62,29 @@ Lineups:
       ODU: Holly Hutchinson - 7-8 at 1, 7-8 in duals, 8-9 overall
       Predictions:
         AVG: UNC - Daavettila (94%) def. Hutchinson (6%)
-        SLM: UNC - Daavettila (91%) def. Hutchinson (9%)
+        SLM: UNC - Daavettila (92%) def. Hutchinson (8%)
         TRN: UNC - Daavettila (98%) def. Hutchinson (2%)
         MAS: UNC - Daavettila (96%) def. Hutchinson (4%)
         UTR: UNC - Daavettila (92%) def. Hutchinson (8%)
         ITA: UNC - Daavettila (64.17) def. Hutchinson (5.40)
     - Position: 2
       UNC: Alexa Graham - 5-0 at 2, 11-2 in duals, 16-2 overall
-      ODU: Yulia Starodubtseva - 11-1 at 2, 11-1 in duals, 11-1 overall
+      ODU: Yulia Starodubsteva - 11-1 at 2, 11-1 in duals, 11-1 overall
       Predictions:
-        AVG: UNC - Graham (90%) def. Starodubtseva (10%)
-        SLM: UNC - Graham (93%) def. Starodubtseva (7%)
-        TRN: UNC - Graham (94%) def. Starodubtseva (6%)
-        MAS: UNC - Graham (81%) def. Starodubtseva (19%)
-        UTR: UNC - Graham (91%) def. Starodubtseva (9%)
-        ITA: UNC - Graham (15.03) def. Starodubtseva (11.96)
+        AVG: UNC - Graham (88%) def. Starodubsteva (12%)
+        SLM: UNC - Graham (93%) def. Starodubsteva (7%)
+        TRN: UNC - Graham (90%) def. Starodubsteva (10%)
+        MAS: UNC - Graham (78%) def. Starodubsteva (22%)
+        UTR: UNC - Graham (91%) def. Starodubsteva (9%)
+        ITA: UNC - Graham (15.03) def. Starodubsteva (11.96)
     - Position: 3
       UNC: Cameron Morra - 6-2 at 3, 15-6 in duals, 15-6 overall
       ODU: Tatsiana Sasnouskaya - 9-2 at 3, 13-2 in duals, 13-2 overall
       Predictions:
         AVG: UNC - Morra (83%) def. Sasnouskaya (17%)
         SLM: UNC - Morra (88%) def. Sasnouskaya (12%)
-        TRN: UNC - Morra (88%) def. Sasnouskaya (12%)
-        MAS: UNC - Morra (68%) def. Sasnouskaya (32%)
+        TRN: UNC - Morra (85%) def. Sasnouskaya (15%)
+        MAS: UNC - Morra (69%) def. Sasnouskaya (31%)
         UTR: UNC - Morra (89%) def. Sasnouskaya (11%)
         ITA: UNC - Morra (20.00) def. Sasnouskaya (7.78)
     - Position: 4
@@ -93,16 +92,16 @@ Lineups:
       ODU: Alesya Yakubovich - 4-5 at 4, 6-7 in duals, 6-7 overall
       Predictions:
         AVG: UNC - Scotty (96%) def. Yakubovich (4%)
-        SLM: UNC - Scotty (97%) def. Yakubovich (3%)
+        SLM: UNC - Scotty (98%) def. Yakubovich (2%)
         TRN: UNC - Scotty (98%) def. Yakubovich (2%)
-        MAS: UNC - Scotty (94%) def. Yakubovich (6%)
+        MAS: UNC - Scotty (93%) def. Yakubovich (7%)
         UTR: UNC - Scotty (96%) def. Yakubovich (4%)
-        ITA: UNC - Scotty (5.93) def. Yakubovich (0.00)
+        ITA: "ODU - # Yakubovich def. Scotty (5.93)"
     - Position: 5
       UNC: Makenna Jones - 1-2 at 5, 13-2 in duals, 15-2 overall
       ODU: Brooke Pilkington - 2-3 at 5, 6-5 in duals, 6-5 overall
       Predictions:
-        AVG: UNC - Jones (96%) def. Pilkington (4%)
+        AVG: UNC - Jones (97%) def. Pilkington (3%)
         SLM: UNC - Jones (98%) def. Pilkington (2%)
         TRN: UNC - Jones (99%) def. Pilkington (1%)
         MAS: UNC - Jones (95%) def. Pilkington (5%)
@@ -115,13 +114,13 @@ Lineups:
         AVG: UNC - Crawley (97%) def. Viktorovich (3%)
         SLM: UNC - Crawley (99%) def. Viktorovich (1%)
         TRN: UNC - Crawley (99%) def. Viktorovich (1%)
-        MAS: UNC - Crawley (98%) def. Viktorovich (2%)
+        MAS: UNC - Crawley (97%) def. Viktorovich (3%)
         UTR: UNC - Crawley (93%) def. Viktorovich (7%)
         ITA: UNC - Crawley (16.89) def. Viktorovich (2.38)
   Doubles:
     - Position: 1
       UNC: Daavettila/Morra - 10-1 at 1, 10-1 in duals, 10-1 overall
-      ODU: Starodubtseva/Yakubovich - 5-5 at 1, 5-5 in duals, 5-5 overall
+      ODU: Starodubsteva/Yakubovich - 5-5 at 1, 5-5 in duals, 5-5 overall
     - Position: 2
       UNC: Jones/Scotty - 8-1 at 2, 10-1 in duals, 10-1 overall
       ODU: Hutchinson/Sasnouskaya - 11-0 at 2, 12-1 in duals, 12-1 overall

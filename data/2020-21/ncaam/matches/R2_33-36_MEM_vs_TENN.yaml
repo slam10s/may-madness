@@ -21,7 +21,7 @@ Home:
     MAS: 2 (9.17)
     UTR: 4 (80.17)
   Polls:
-    USTA: 4
+    USTA: 6 (290.00)
     Coach: 3
 Visitor:
   Team: Memphis
@@ -31,7 +31,7 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 38 (22.19)
+    ITA: 38 (22.10)
     SLM: 41 (91.89)
     TRN: 40 (89.86)
     MAS: 43 (7.05)
@@ -46,8 +46,7 @@ Predictions:
   LNUP: TENN - Tennessee (99%) def. Memphis (1%)
   UTR: "TENN - #4 Tennessee (+4.77) def. #43 Memphis (-4.77)"
   ITA: "TENN - #3 Tennessee def. #38 Memphis"
-  USTA: "TENN - #4 Tennessee def. Memphis"
-  Coach: "TENN - #3 Tennessee def. #35 Memphis"
+  USTA: "TENN - #6 Tennessee def. Memphis"
   Seeding: "TENN - #1 Tennessee def. #3 Memphis"
 Lineups:
   Predictions:
@@ -63,8 +62,8 @@ Lineups:
       Predictions:
         AVG: TENN - Walton (81%) def. Story (19%)
         SLM: TENN - Walton (76%) def. Story (24%)
-        TRN: TENN - Walton (77%) def. Story (23%)
-        MAS: TENN - Walton (83%) def. Story (17%)
+        TRN: TENN - Walton (76%) def. Story (24%)
+        MAS: TENN - Walton (85%) def. Story (15%)
         UTR: TENN - Walton (87%) def. Story (13%)
         ITA: TENN - Walton (42.60) def. Story (13.58)
     - Position: 2
@@ -84,7 +83,7 @@ Lineups:
         AVG: TENN - Prata (86%) def. Cutting (14%)
         SLM: TENN - Prata (84%) def. Cutting (16%)
         TRN: TENN - Prata (86%) def. Cutting (14%)
-        MAS: TENN - Prata (88%) def. Cutting (12%)
+        MAS: TENN - Prata (84%) def. Cutting (16%)
         UTR: TENN - Prata (88%) def. Cutting (12%)
         ITA: TENN - Prata (18.77) def. Cutting (4.13)
     - Position: 4
@@ -94,7 +93,7 @@ Lineups:
         AVG: TENN - Wiedenmann (94%) def. Pallares (6%)
         SLM: TENN - Wiedenmann (92%) def. Pallares (8%)
         TRN: TENN - Wiedenmann (97%) def. Pallares (3%)
-        MAS: TENN - Wiedenmann (95%) def. Pallares (5%)
+        MAS: TENN - Wiedenmann (94%) def. Pallares (6%)
         UTR: TENN - Wiedenmann (94%) def. Pallares (6%)
         ITA: TENN - Wiedenmann (4.02) def. Pallares (1.34)
     - Position: 5
@@ -102,7 +101,7 @@ Lineups:
       MEM: Jeremy Taylor - 5-3 at 5, 9-3 in duals, 9-3 overall
       Predictions:
         AVG: TENN - Hussey (92%) def. Taylor (8%)
-        SLM: TENN - Hussey (94%) def. Taylor (6%)
+        SLM: TENN - Hussey (93%) def. Taylor (7%)
         TRN: TENN - Hussey (95%) def. Taylor (5%)
         MAS: TENN - Hussey (90%) def. Taylor (10%)
         UTR: TENN - Hussey (90%) def. Taylor (10%)
@@ -114,7 +113,7 @@ Lineups:
         AVG: TENN - Harper (93%) def. Fanlo (7%)
         SLM: TENN - Harper (93%) def. Fanlo (7%)
         TRN: TENN - Harper (96%) def. Fanlo (4%)
-        MAS: TENN - Harper (92%) def. Fanlo (8%)
+        MAS: TENN - Harper (91%) def. Fanlo (9%)
         UTR: TENN - Harper (93%) def. Fanlo (7%)
         ITA: TENN - Harper (5.43) def. Fanlo (1.57)
   Doubles:

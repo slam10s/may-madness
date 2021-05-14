@@ -21,31 +21,30 @@ Home:
     MAS: 5 (8.82)
     UTR: 9 (79.74)
   Polls:
-    USTA: 3
+    USTA: 3 (292.00)
     Coach: 1
 Visitor:
   Team: A&M-Corpus Christi
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 63
   Seeding:
     Region: 4
   Ratings:
-    ITA: 60 (2.97)
-    SLM: 60 (82.18)
-    TRN: 61 (76.91)
-    MAS: 58 (5.69)
-    UTR: 54 (71.52)
+    ITA: 59 (2.97)
+    SLM: 59 (82.18)
+    TRN: 60 (76.91)
+    MAS: 57 (5.69)
+    UTR: 53 (71.52)
 Predictions:
   AVG: BAY - Baylor (99%) def. A&M-Corpus Christi (1%)
-  SLM: "BAY - #5 Baylor (99%) def. #60 A&M-Corpus Christi (1%)"
-  TRN: "BAY - #6 Baylor (99%) def. #61 A&M-Corpus Christi (1%)"
-  MAS: "BAY - #5 Baylor (99%) def. #58 A&M-Corpus Christi (1%)"
+  SLM: "BAY - #5 Baylor (99%) def. #59 A&M-Corpus Christi (1%)"
+  TRN: "BAY - #6 Baylor (99%) def. #60 A&M-Corpus Christi (1%)"
+  MAS: "BAY - #5 Baylor (99%) def. #57 A&M-Corpus Christi (1%)"
   LNUP: BAY - Baylor (99%) def. A&M-Corpus Christi (1%)
-  UTR: "BAY - #9 Baylor (+8.22) def. #54 A&M-Corpus Christi (-8.22)"
-  ITA: "BAY - #1 Baylor def. #60 A&M-Corpus Christi"
+  UTR: "BAY - #9 Baylor (+8.22) def. #53 A&M-Corpus Christi (-8.22)"
+  ITA: "BAY - #1 Baylor def. #59 A&M-Corpus Christi"
   USTA: "BAY - #3 Baylor def. A&M-Corpus Christi"
-  Coach: "BAY - #1 Baylor def. A&M-Corpus Christi"
   Seeding: "BAY - #1 Baylor def. #4 A&M-Corpus Christi"
 Lineups:
   Predictions:
@@ -62,7 +61,7 @@ Lineups:
         AVG: BAY - Boitan (98%) def. Yamanaka (2%)
         SLM: BAY - Boitan (98%) def. Yamanaka (2%)
         TRN: BAY - Boitan (99%) def. Yamanaka (1%)
-        MAS: BAY - Boitan (99%) def. Yamanaka (1%)
+        MAS: BAY - Boitan (98%) def. Yamanaka (2%)
         UTR: BAY - Boitan (97%) def. Yamanaka (3%)
         ITA: BAY - Boitan (31.04) def. Yamanaka (1.61)
     - Position: 2
@@ -80,30 +79,30 @@ Lineups:
       TAMCC: Nathan Schwartz - 7-4 at 3, 13-4 in duals, 15-5 overall
       Predictions:
         AVG: BAY - Lah (94%) def. Schwartz (6%)
-        SLM: BAY - Lah (95%) def. Schwartz (5%)
+        SLM: BAY - Lah (96%) def. Schwartz (4%)
         TRN: BAY - Lah (96%) def. Schwartz (4%)
-        MAS: BAY - Lah (89%) def. Schwartz (11%)
+        MAS: BAY - Lah (90%) def. Schwartz (10%)
         UTR: BAY - Lah (94%) def. Schwartz (6%)
         ITA: BAY - Lah (4.25) def. Schwartz (2.22)
     - Position: 4
       BAY: Nick Stachowiak - 8-2 at 4, 12-5 in duals, 19-7 overall
-      TAMCC: Pascal Loriel - 10-0 at 4, 15-0 in duals, 17-1 overall
+      TAMCC: Pascal Lorieul - 10-0 at 4, 15-0 in duals, 17-1 overall
       Predictions:
-        AVG: BAY - Stachowiak (95%) def. Loriel (5%)
-        SLM: BAY - Stachowiak (96%) def. Loriel (4%)
-        TRN: BAY - Stachowiak (97%) def. Loriel (3%)
-        MAS: BAY - Stachowiak (93%) def. Loriel (7%)
-        UTR: BAY - Stachowiak (95%) def. Loriel (5%)
-        ITA: TAMCC - Loriel (3.69) def. Stachowiak (3.38)
+        AVG: BAY - Stachowiak (95%) def. Lorieul (5%)
+        SLM: BAY - Stachowiak (96%) def. Lorieul (4%)
+        TRN: BAY - Stachowiak (97%) def. Lorieul (3%)
+        MAS: BAY - Stachowiak (94%) def. Lorieul (6%)
+        UTR: BAY - Stachowiak (95%) def. Lorieul (5%)
+        ITA: TAMCC - Lorieul (3.69) def. Stachowiak (3.38)
     - Position: 5
       BAY: Charlie Broom - 17-2 at 5, 21-3 in duals, 24-6 overall
       TAMCC: Borja Delgado - 4-0 at 5, 14-1 in duals, 14-1 overall
       Predictions:
-        AVG: BAY - Broom (99%) def. Delgado (1%)
+        AVG: BAY - Broom (98%) def. Delgado (2%)
         SLM: BAY - Broom (99%) def. Delgado (1%)
         TRN: BAY - Broom (99%) def. Delgado (1%)
-        MAS: BAY - Broom (98%) def. Delgado (2%)
-        UTR: BAY - Broom (99%) def. Delgado (1%)
+        MAS: BAY - Broom (97%) def. Delgado (3%)
+        UTR: BAY - Broom (98%) def. Delgado (2%)
         ITA: BAY - Broom (3.72) def. Delgado (3.54)
     - Position: 6
       BAY: Spencer Furman - 11-2 at 6, 18-2 in duals, 21-3 overall
@@ -112,7 +111,7 @@ Lineups:
         AVG: BAY - Furman (98%) def. Castaneda (2%)
         SLM: BAY - Furman (99%) def. Castaneda (1%)
         TRN: BAY - Furman (99%) def. Castaneda (1%)
-        MAS: BAY - Furman (99%) def. Castaneda (1%)
+        MAS: BAY - Furman (98%) def. Castaneda (2%)
         UTR: BAY - Furman (94%) def. Castaneda (6%)
         ITA: BAY - Furman (4.24) def. Castaneda (3.54)
   Doubles:

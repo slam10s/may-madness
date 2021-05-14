@@ -10,11 +10,11 @@ Orlando, Florida
 
 <h2>#4 Monmouth</h2>  
 &nbsp; Record: 14-3<br>  
-&nbsp; ITA: 58 (4.41)<br>  
-&nbsp; Slam: 61 (82.18)<br>  
-&nbsp; TRN: 57 (79.79)<br>  
-&nbsp; Massey: 60 (5.30)<br>  
-&nbsp; UTR: 62 (69.61)<br>  
+&nbsp; ITA: 57 (4.41)<br>  
+&nbsp; Slam: 60 (82.18)<br>  
+&nbsp; TRN: 56 (79.79)<br>  
+&nbsp; Massey: 59 (5.30)<br>  
+&nbsp; UTR: 61 (69.61)<br>  
 <br>  
 
 </td>
@@ -27,8 +27,8 @@ Orlando, Florida
 &#10004; TRN: 13 (95.63)<br>  
 &#10004; Massey: 7 (8.63)<br>  
 &#10004; UTR: 12 (79.08)<br>  
-&#10004; USTA Poll: 10<br>  
-&#10004; Coaches Poll: 9<br>  
+&#10004; USTA Poll: 12 (199.00)<br>  
+&nbsp; Coaches Poll: 9<br>  
 <br>  
 
 </td>
@@ -45,14 +45,13 @@ Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76)
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***UCF*** - UCF (99%) def. Monmouth (1%)  
-- Slam: ***UCF*** - #12 UCF (99%) def. #61 Monmouth (1%)  
-- TRN: ***UCF*** - #13 UCF (99%) def. #57 Monmouth (1%)  
-- Massey: ***UCF*** - #7 UCF (99%) def. #60 Monmouth (1%)  
+- Slam: ***UCF*** - #12 UCF (99%) def. #60 Monmouth (1%)  
+- TRN: ***UCF*** - #13 UCF (99%) def. #56 Monmouth (1%)  
+- Massey: ***UCF*** - #7 UCF (99%) def. #59 Monmouth (1%)  
 - Lineup: ***UCF*** - UCF (99%) def. Monmouth (1%)  
-- UTR: ***UCF*** - #12 UCF (+9.47) def. #62 Monmouth (-9.47)  
-- ITA: ***UCF*** - #10 UCF def. #58 Monmouth  
-- USTA Poll: ***UCF*** - #10 UCF def. Monmouth  
-- Coaches Poll: ***UCF*** - #9 UCF def. Monmouth  
+- UTR: ***UCF*** - #12 UCF (+9.47) def. #61 Monmouth (-9.47)  
+- ITA: ***UCF*** - #10 UCF def. #57 Monmouth  
+- USTA Poll: ***UCF*** - #12 UCF def. Monmouth  
 - Seeding: ***UCF*** - #1 UCF def. #4 Monmouth  
 
 ## Individual Matchups  
@@ -68,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCF</i></b> - Decamps (98%) def. Wharton (2%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Decamps (98%) def. Wharton (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Decamps (99%) def. Wharton (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Decamps (99%) def. Wharton (1%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Decamps (98%) def. Wharton (2%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Decamps (98%) def. Wharton (2%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Decamps (42.84) def. Wharton (2.36)</li>  
 </ul>
@@ -79,7 +78,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCF</i></b> - Rubio (97%) def. Benaim (3%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Rubio (98%) def. Benaim (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Rubio (99%) def. Benaim (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Rubio (97%) def. Benaim (3%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Rubio (96%) def. Benaim (4%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Rubio (96%) def. Benaim (4%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Rubio (3.77) def. Benaim (2.42)</li>  
 </ul>
@@ -109,10 +108,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Sergio Martinez (MONM) - 10-2 at #5, 12-2 in duals, 12-2 overall<br>Trey Hilderbrand (UCF) - 10-1 at #5, 17-4 in duals, 17-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCF</i></b> - Hilderbrand (99%) def. Martinez (1%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Hilderbrand (98%) def. Martinez (2%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Hilderbrand (99%) def. Martinez (1%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Hilderbrand (99%) def. Martinez (1%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Hilderbrand (98%) def. Martinez (2%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Hilderbrand (97%) def. Martinez (3%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Hilderbrand (98%) def. Martinez (2%)</li>  
 <li>ITA: <b><i>MONM</i></b> - Martinez (3.09) def. Hilderbrand (2.90)</li>  
 </ul>
@@ -120,10 +119,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Gabriel Busato (MONM) - 12-1 at #6, 14-2 in duals, 14-2 overall<br>Mikhail Sokolovskiy (UCF) - 13-4 at #6, 14-5 in duals, 14-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCF</i></b> - Sokolovskiy (96%) def. Busato (4%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Sokolovskiy (95%) def. Busato (5%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Sokolovskiy (98%) def. Busato (2%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Sokolovskiy (98%) def. Busato (2%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Sokolovskiy (91%) def. Busato (9%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Sokolovskiy (89%) def. Busato (11%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Sokolovskiy (96%) def. Busato (4%)</li>  
 <li>ITA: <b><i>MONM</i></b> - Busato (3.43) def. Sokolovskiy (2.26)</li>  
 </ul>

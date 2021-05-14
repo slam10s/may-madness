@@ -15,18 +15,18 @@ Home:
     Overall: 11
     Region: 1
   Ratings:
-    ITA: 11 (49.18)
+    ITA: 12 (48.69)
     SLM: 16 (90.47)
     TRN: 20 (82.70)
     MAS: 21 (7.77)
     UTR: 11 (62.70)
   Polls:
-    USTA: 20
+    USTA: 22 (86.00)
     Coach: 15
 Visitor:
   Team: Siena
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 42
   Seeding:
     Region: 4
@@ -43,9 +43,8 @@ Predictions:
   MAS: "FLA - #21 Florida (99%) def. #64 Siena (1%)"
   LNUP: FLA - Florida (99%) def. Siena (1%)
   UTR: "FLA - #11 Florida (+16.27) def. #62 Siena (-16.27)"
-  ITA: "FLA - #11 Florida def. #60 Siena"
-  USTA: "FLA - #20 Florida def. Siena"
-  Coach: "FLA - #15 Florida def. Siena"
+  ITA: "FLA - #12 Florida def. #60 Siena"
+  USTA: "FLA - #22 Florida def. Siena"
   Seeding: "FLA - #1 Florida def. #4 Siena"
 Lineups:
   Predictions:
@@ -74,7 +73,7 @@ Lineups:
         TRN: FLA - Zein (99%) def. Mullaney (1%)
         MAS: FLA - Zein (99%) def. Mullaney (1%)
         UTR: FLA - Zein (99%) def. Mullaney (1%)
-        ITA: FLA - Zein (8.25) def. Mullaney (0.00)
+        ITA: "SIEN - # Mullaney def. Zein (8.25)"
     - Position: 3
       FLA: Ida Jarlskog - 6-2 at 3, 8-4 in duals, 8-4 overall
       SIEN: Petra Miszczak - 3-4 at 3, 4-4 in duals, 4-4 overall
@@ -84,7 +83,7 @@ Lineups:
         TRN: FLA - Jarlskog (99%) def. Miszczak (1%)
         MAS: FLA - Jarlskog (99%) def. Miszczak (1%)
         UTR: FLA - Jarlskog (99%) def. Miszczak (1%)
-        ITA: FLA - Jarlskog (5.66) def. Miszczak (0.00)
+        ITA: "SIEN - # Miszczak def. Jarlskog (5.66)"
     - Position: 4
       FLA: Layne Sleeth - 7-0 at 4, 9-1 in duals, 9-1 overall
       SIEN: Maanya Viswanath - 4-2 at 4, 5-2 in duals, 5-2 overall
@@ -102,7 +101,7 @@ Lineups:
         AVG: FLA - Dahlstrom (99%) def. Boggiali (1%)
         SLM: FLA - Dahlstrom (99%) def. Boggiali (1%)
         TRN: FLA - Dahlstrom (99%) def. Boggiali (1%)
-        MAS: FLA - Dahlstrom (99%) def. Boggiali (1%)
+        MAS: FLA - Dahlstrom (98%) def. Boggiali (2%)
         UTR: FLA - Dahlstrom (99%) def. Boggiali (1%)
         ITA: FLA - Dahlstrom (3.40) def. Boggiali (2.28)
     - Position: 6

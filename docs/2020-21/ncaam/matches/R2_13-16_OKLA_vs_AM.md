@@ -28,8 +28,8 @@ College Station, Texas
 &#10004; TRN: 11 (95.89)<br>  
 &#10004; Massey: 12 (8.53)<br>  
 &#10004; UTR: 8 (79.76)<br>  
-&#10004; USTA Poll: 14<br>  
-&#10004; Coaches Poll: 8<br>  
+&#10004; USTA Poll: 16 (156.00)<br>  
+&nbsp; Coaches Poll: 8<br>  
 <br>  
 
 </td>
@@ -52,8 +52,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***A&M*** - Texas A&M (97%) def. Oklahoma (3%)  
 - UTR: ***A&M*** - #8 Texas A&M (+2.23) def. #28 Oklahoma (-2.23)  
 - ITA: ***A&M*** - #8 Texas A&M def. #27 Oklahoma  
-- USTA Poll: ***A&M*** - #14 Texas A&M def. Oklahoma  
-- Coaches Poll: ***A&M*** - #8 Texas A&M def. #26 Oklahoma  
+- USTA Poll: ***A&M*** - #16 Texas A&M def. Oklahoma  
 - Seeding: ***A&M*** - #1 Texas A&M def. #2 Oklahoma  
 
 ## Individual Matchups  
@@ -68,7 +67,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>A&M</i></b> - Vacherot (93%) def. Emburgh (7%)</li>  
 <li>Slam: <b><i>A&M</i></b> - Vacherot (91%) def. Emburgh (9%)</li>  
-<li>TRN: <b><i>A&M</i></b> - Vacherot (94%) def. Emburgh (6%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Vacherot (95%) def. Emburgh (5%)</li>  
 <li>Massey: <b><i>A&M</i></b> - Vacherot (96%) def. Emburgh (4%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Vacherot (90%) def. Emburgh (10%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Vacherot (51.31) def. Emburgh (7.98)</li>  
@@ -86,23 +85,23 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Alex Martinez (OKLA) - 6-2 at #3, 12-7 in duals, 15-13 overall<br>Juan Carlos Aguilar (A&M) - 6-6 at #3, 10-8 in duals, 15-10 overall</summary>
+<summary markdown="span">Alex Martinez Puigdellose (OKLA) - 6-2 at #3, 12-7 in duals, 15-13 overall<br>Juan Carlos Aguilar (A&M) - 6-6 at #3, 10-8 in duals, 15-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Aguilar (77%) def. Martinez (23%)</li>  
-<li>Slam: <b><i>A&M</i></b> - Aguilar (75%) def. Martinez (25%)</li>  
-<li>TRN: <b><i>A&M</i></b> - Aguilar (75%) def. Martinez (25%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Aguilar (74%) def. Martinez (26%)</li>  
-<li>UTR: <b><i>A&M</i></b> - Aguilar (84%) def. Martinez (16%)</li>  
-<li>ITA: <b><i>A&M</i></b> - Aguilar (23.98) def. Martinez (2.93)</li>  
+<li>Composite: <b><i>A&M</i></b> - Aguilar (76%) def. Puigdellose (24%)</li>  
+<li>Slam: <b><i>A&M</i></b> - Aguilar (74%) def. Puigdellose (26%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Aguilar (74%) def. Puigdellose (26%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Aguilar (73%) def. Puigdellose (27%)</li>  
+<li>UTR: <b><i>A&M</i></b> - Aguilar (84%) def. Puigdellose (16%)</li>  
+<li>ITA: <b><i>A&M</i></b> - Aguilar (23.98) def. Puigdellose (2.93)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Nathan Han (OKLA) - 2-6 at #4, 7-7 in duals, 13-11 overall<br>Noah Schachter (A&M) - 7-5 at #4, 12-10 in duals, 19-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Schachter (65%) def. Han (35%)</li>  
-<li>Slam: <b><i>A&M</i></b> - Schachter (68%) def. Han (32%)</li>  
-<li>TRN: <b><i>A&M</i></b> - Schachter (65%) def. Han (35%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Schachter (66%) def. Han (34%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Schachter (57%) def. Han (43%)</li>  
+<li>Slam: <b><i>A&M</i></b> - Schachter (61%) def. Han (39%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Schachter (55%) def. Han (45%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Schachter (50%) def. Han (50%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Schachter (62%) def. Han (38%)</li>  
 <li>ITA: <b><i>A&M</i></b> - Schachter (6.58) def. Han (1.72)</li>  
 </ul>
@@ -111,22 +110,22 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Justin Schlageter (OKLA) - 3-5 at #5, 6-6 in duals, 10-12 overall<br>Pierce Rollins (A&M) - 3-3 at #5, 8-5 in duals, 15-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>A&M</i></b> - Rollins (81%) def. Schlageter (19%)</li>  
-<li>Slam: <b><i>A&M</i></b> - Rollins (79%) def. Schlageter (21%)</li>  
-<li>TRN: <b><i>A&M</i></b> - Rollins (84%) def. Schlageter (16%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Rollins (82%) def. Schlageter (18%)</li>  
+<li>Slam: <b><i>A&M</i></b> - Rollins (77%) def. Schlageter (23%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Rollins (83%) def. Schlageter (17%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Rollins (83%) def. Schlageter (17%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Rollins (80%) def. Schlageter (20%)</li>  
-<li>ITA: <b><i>A&M</i></b> - Rollins (5.08) def. Schlageter (0.00)</li>  
+<li>ITA: <b><i>OKLA</i></b> - # Schlageter def. Rollins (5.08)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Mark Mandlik (OKLA) - 1-1 at #6, 6-14 in duals, 6-14 overall<br>Guido Marson (A&M) - 0-0 at #6, 5-6 in duals, 7-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>A&M</i></b> - Marson (71%) def. Mandlik (29%)</li>  
-<li>Slam: <b><i>A&M</i></b> - Marson (63%) def. Mandlik (37%)</li>  
-<li>TRN: <b><i>A&M</i></b> - Marson (75%) def. Mandlik (25%)</li>  
-<li>Massey: <b><i>A&M</i></b> - Marson (79%) def. Mandlik (21%)</li>  
+<li>Composite: <b><i>A&M</i></b> - Marson (70%) def. Mandlik (30%)</li>  
+<li>Slam: <b><i>A&M</i></b> - Marson (60%) def. Mandlik (40%)</li>  
+<li>TRN: <b><i>A&M</i></b> - Marson (74%) def. Mandlik (26%)</li>  
+<li>Massey: <b><i>A&M</i></b> - Marson (80%) def. Mandlik (20%)</li>  
 <li>UTR: <b><i>A&M</i></b> - Marson (67%) def. Mandlik (33%)</li>  
-<li>ITA: <b><i>A&M</i></b> - Marson (1.86) def. Mandlik (0.00)</li>  
+<li>ITA: <b><i>OKLA</i></b> - # Mandlik def. Marson (1.86)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>
@@ -139,7 +138,7 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Van Emburgh/Martinez (OKLA) - 0-1 at #2, 0-1 in duals, 0-1 overall<br>Vacherot/Rollins (A&M) - 5-3 at #2, 12-5 in duals, 15-5 overall</summary>
+<summary markdown="span">Van Emburgh/Puigdellose (OKLA) - 0-1 at #2, 0-1 in duals, 0-1 overall<br>Vacherot/Rollins (A&M) - 5-3 at #2, 12-5 in duals, 15-5 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
@@ -151,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas A&M should win 4 or more singles matches *90%* of the time.  
+- Texas A&M should win 4 or more singles matches *88%* of the time.  
 - Oklahoma should win 4 or more singles matches *2%* of the time.  
-- The winner of the doubles point should decide the match the other *8%* of the time.  
+- The winner of the doubles point should decide the match the other *10%* of the time.  
 - If Texas A&M wins the doubles point, their chances of winning the dual improve to *98%*.  
-- If Oklahoma wins the doubles point, their chances of winning the dual improve to *10%*.  
+- If Oklahoma wins the doubles point, their chances of winning the dual improve to *12%*.  
   
 ------
 

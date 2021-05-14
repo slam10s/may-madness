@@ -15,37 +15,36 @@ Home:
     Overall: 4
     Region: 1
   Ratings:
-    ITA: 5 (74.24)
+    ITA: 4 (74.24)
     SLM: 8 (97.59)
     TRN: 7 (97.63)
     MAS: 11 (8.54)
     UTR: 14 (79.01)
   Polls:
-    USTA: 6
+    USTA: 8 (263.00)
     Coach: 4
 Visitor:
   Team: Northern Ariz.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 31
   Seeding:
     Region: 4
   Ratings:
-    ITA: 61 (2.13)
-    SLM: 58 (82.40)
-    TRN: 60 (77.79)
-    MAS: 59 (5.53)
-    UTR: 59 (70.85)
+    ITA: 60 (2.43)
+    SLM: 57 (82.40)
+    TRN: 59 (77.79)
+    MAS: 58 (5.53)
+    UTR: 58 (70.85)
 Predictions:
   AVG: TEX - Texas (99%) def. Northern Ariz. (1%)
-  SLM: "TEX - #8 Texas (99%) def. #58 Northern Ariz. (1%)"
-  TRN: "TEX - #7 Texas (99%) def. #60 Northern Ariz. (1%)"
-  MAS: "TEX - #11 Texas (99%) def. #59 Northern Ariz. (1%)"
+  SLM: "TEX - #8 Texas (99%) def. #57 Northern Ariz. (1%)"
+  TRN: "TEX - #7 Texas (99%) def. #59 Northern Ariz. (1%)"
+  MAS: "TEX - #11 Texas (99%) def. #58 Northern Ariz. (1%)"
   LNUP: TEX - Texas (99%) def. Northern Ariz. (1%)
-  UTR: "TEX - #14 Texas (+8.16) def. #59 Northern Ariz. (-8.16)"
-  ITA: "TEX - #5 Texas def. #61 Northern Ariz."
-  USTA: "TEX - #6 Texas def. Northern Ariz."
-  Coach: "TEX - #4 Texas def. Northern Ariz."
+  UTR: "TEX - #14 Texas (+8.16) def. #58 Northern Ariz. (-8.16)"
+  ITA: "TEX - #4 Texas def. #60 Northern Ariz."
+  USTA: "TEX - #8 Texas def. Northern Ariz."
   Seeding: "TEX - #1 Texas def. #4 Northern Ariz."
 Lineups:
   Predictions:
@@ -62,7 +61,7 @@ Lineups:
         AVG: TEX - Spizzirri (96%) def. Straker-Meads (4%)
         SLM: TEX - Spizzirri (95%) def. Straker-Meads (5%)
         TRN: TEX - Spizzirri (98%) def. Straker-Meads (2%)
-        MAS: TEX - Spizzirri (95%) def. Straker-Meads (5%)
+        MAS: TEX - Spizzirri (94%) def. Straker-Meads (6%)
         UTR: TEX - Spizzirri (95%) def. Straker-Meads (5%)
         ITA: TEX - Spizzirri (28.17) def. Straker-Meads (1.70)
     - Position: 2
@@ -71,7 +70,7 @@ Lineups:
       Predictions:
         AVG: TEX - Braswell (96%) def. Tumosa (4%)
         SLM: TEX - Braswell (95%) def. Tumosa (5%)
-        TRN: TEX - Braswell (97%) def. Tumosa (3%)
+        TRN: TEX - Braswell (98%) def. Tumosa (2%)
         MAS: TEX - Braswell (96%) def. Tumosa (4%)
         UTR: TEX - Braswell (96%) def. Tumosa (4%)
         ITA: TEX - Braswell (20.88) def. Tumosa (1.38)
@@ -82,7 +81,7 @@ Lineups:
         AVG: TEX - Woldeab (99%) def. Buzonics (1%)
         SLM: TEX - Woldeab (99%) def. Buzonics (1%)
         TRN: TEX - Woldeab (99%) def. Buzonics (1%)
-        MAS: TEX - Woldeab (98%) def. Buzonics (2%)
+        MAS: TEX - Woldeab (99%) def. Buzonics (1%)
         UTR: TEX - Woldeab (97%) def. Buzonics (3%)
         ITA: TEX - Woldeab (9.31) def. Buzonics (1.51)
     - Position: 4
@@ -99,12 +98,12 @@ Lineups:
       TEX: Chih Chi Huang - 9-7 at 5, 11-8 in duals, 15-17 overall
       NAU: Maciej Ziomber - 5-2 at 5, 11-4 in duals, 11-4 overall
       Predictions:
-        AVG: TEX - Huang (90%) def. Ziomber (10%)
+        AVG: TEX - Huang (91%) def. Ziomber (9%)
         SLM: TEX - Huang (95%) def. Ziomber (5%)
-        TRN: TEX - Huang (94%) def. Ziomber (6%)
-        MAS: TEX - Huang (79%) def. Ziomber (21%)
+        TRN: TEX - Huang (95%) def. Ziomber (5%)
+        MAS: TEX - Huang (82%) def. Ziomber (18%)
         UTR: TEX - Huang (92%) def. Ziomber (8%)
-        ITA: NAU - Ziomber (2.68) def. Huang (0.00)
+        ITA: "TEX - # Huang def. Ziomber (2.68)"
     - Position: 6
       TEX: Evin McDonald - 6-9 at 6, 11-10 in duals, 15-16 overall
       NAU: Alexander Groves - 3-0 at 6, 6-8 in duals, 6-8 overall
@@ -112,7 +111,7 @@ Lineups:
         AVG: TEX - McDonald (94%) def. Groves (6%)
         SLM: TEX - McDonald (96%) def. Groves (4%)
         TRN: TEX - McDonald (98%) def. Groves (2%)
-        MAS: TEX - McDonald (86%) def. Groves (14%)
+        MAS: TEX - McDonald (85%) def. Groves (15%)
         UTR: TEX - McDonald (96%) def. Groves (4%)
   Doubles:
     - Position: 1

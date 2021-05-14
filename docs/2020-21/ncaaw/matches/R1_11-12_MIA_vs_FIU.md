@@ -1,0 +1,154 @@
+First Round[](#top)<a name="top"></a>  
+[Friday, May 7](../../schedule/05-07.md) at 12:00 EDT  
+[2021 Division I Women's Tennis Championship](../index.md)  
+USTA National Campus  
+Orlando, Florida  
+## [Miami (FL) vs FIU](https://www.ncaa.com/game/5833652)  
+
+<table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #154734 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fiu.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
+<td>  
+
+<h2>Miami (FL)</h2>  
+&nbsp; Record: 15-8<br>  
+&#10004; ITA: 23 (38.93)<br>  
+&#10004; Slam: 22 (90.21)<br>  
+&#10004; TRN: 21 (82.31)<br>  
+&#10004; Massey: 17 (7.84)<br>  
+&#10004; UTR: 19 (61.89)<br>  
+<br>  
+
+</td>
+<td>  
+
+<h2>FIU</h2>  
+&nbsp; Record: 12-2<br>  
+&nbsp; ITA: 41 (18.12)<br>  
+&nbsp; Slam: 30 (88.35)<br>  
+&nbsp; TRN: 29 (81.34)<br>  
+&nbsp; Massey: 37 (6.98)<br>  
+&nbsp; UTR: 42 (59.00)<br>  
+<br>  
+
+</td>
+</tr></table>  
+
+
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Miami (FL) def. Florida International 4-0***  
+
+## Predictions  
+
+Ranks listed here are the metric's ranking within the field of 64:  
+- Composite: ***MIA*** - Miami (FL) (82%) def. FIU (18%)  
+- Slam: ***MIA*** - #22 Miami (FL) (74%) def. #30 FIU (26%)  
+- TRN: ***MIA*** - #21 Miami (FL) (63%) def. #29 FIU (37%)  
+- Massey: ***MIA*** - #17 Miami (FL) (93%) def. #37 FIU (7%)  
+- Lineup: ***MIA*** - Miami (FL) (97%) def. FIU (3%)  
+- UTR: ***MIA*** - #19 Miami (FL) (+2.89) def. #42 FIU (-2.89)  
+- ITA: ***MIA*** - #23 Miami (FL) def. #41 FIU  
+
+## Individual Matchups  
+This assumes the top players and doubles teams listed are starting.  
+Click on a Singles match to show individual predections for each line.  
+
+### Singles:  
+
+<ol>
+<li><details>
+<summary markdown="span">Estela Perez-Somarriba (MIA) - 19-2 at #1, 19-2 in duals, 19-2 overall<br>Kamila Umarova (FIU) - 10-2 at #1, 10-2 in duals, 10-2 overall</summary>
+<h4>Predictions</h4><ul>
+<li>Composite: <b><i>MIA</i></b> - Perez-Somarriba (95%) def. Umarova (5%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Perez-Somarriba (95%) def. Umarova (5%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Perez-Somarriba (97%) def. Umarova (3%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (93%) def. Umarova (7%)</li>  
+<li>UTR: <b><i>MIA</i></b> - Perez-Somarriba (95%) def. Umarova (5%)</li>  
+<li>ITA: <b><i>MIA</i></b> - Perez-Somarriba (69.45) def. Umarova (3.07)</li>  
+</ul>
+</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Isabella Pfennig (MIA) - 12-4 at #2, 16-4 in duals, 16-4 overall<br>Marina Alcaide (FIU) - 3-0 at #2, 11-0 in duals, 11-0 overall</summary>
+<h4>Predictions</h4><ul>
+<li>Composite: <b><i>MIA</i></b> - Pfennig (83%) def. Alcaide (17%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Pfennig (83%) def. Alcaide (17%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Pfennig (87%) def. Alcaide (13%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Pfennig (74%) def. Alcaide (26%)</li>  
+<li>UTR: <b><i>MIA</i></b> - Pfennig (88%) def. Alcaide (12%)</li>  
+<li>ITA: <b><i>MIA</i></b> - Pfennig (32.52) def. Alcaide (6.23)</li>  
+</ul>
+</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Daevenia Achong (MIA) - 7-6 at #3, 7-11 in duals, 7-11 overall<br>Andjela Skrobonja (FIU) - 0-0 at #3, 10-2 in duals, 10-2 overall</summary>
+<h4>Predictions</h4><ul>
+<li>Composite: <b><i>MIA</i></b> - Achong (54%) def. Skrobonja (46%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Achong (67%) def. Skrobonja (33%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Achong (58%) def. Skrobonja (42%)</li>  
+<li>Massey: <b><i>FIU</i></b> - Skrobonja (59%) def. Achong (41%)</li>  
+<li>ITA: <b><i>FIU</i></b> - Skrobonja (2.97) def. Achong (1.49)</li>  
+</ul>
+</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Florencia Urrutia (MIA) - 11-4 at #4, 12-8 in duals, 12-8 overall<br>Basak Akbas (FIU) - 0-0 at #4, 5-5 in duals, 5-5 overall</summary>
+<h4>Predictions</h4><ul>
+<li>Composite: <b><i>MIA</i></b> - Urrutia (66%) def. Akbas (34%)</li>  
+<li>Slam: <b><i>FIU</i></b> - Akbas (50%) def. Urrutia (50%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Urrutia (67%) def. Akbas (33%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Urrutia (68%) def. Akbas (32%)</li>  
+<li>UTR: <b><i>MIA</i></b> - Urrutia (82%) def. Akbas (18%)</li>  
+<li>ITA: <b><i>MIA</i></b> - Urrutia (1.96) def. Akbas (1.61)</li>  
+</ul>
+</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Diana Khodan (MIA) - 5-5 at #5, 12-7 in duals, 12-7 overall<br>Andreea Velcea (FIU) - 6-2 at #5, 9-2 in duals, 9-2 overall</summary>
+<h4>Predictions</h4><ul>
+<li>Composite: <b><i>MIA</i></b> - Khodan (66%) def. Velcea (34%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Khodan (81%) def. Velcea (19%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Khodan (84%) def. Velcea (16%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Khodan (82%) def. Velcea (18%)</li>  
+<li>UTR: <b><i>FIU</i></b> - Velcea (81%) def. Khodan (19%)</li>  
+<li>ITA: <b><i>FIU</i></b> - Velcea (3.05) def. Khodan (1.90)</li>  
+</ul>
+</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Maya Tahan (MIA) - 6-1 at #6, 13-8 in duals, 13-8 overall<br>Kristina Miletic (FIU) - 1-5 at #6, 3-6 in duals, 3-6 overall</summary>
+<h4>Predictions</h4><ul>
+<li>Composite: <b><i>MIA</i></b> - Tahan (96%) def. Miletic (4%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Tahan (96%) def. Miletic (4%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Tahan (98%) def. Miletic (2%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Tahan (94%) def. Miletic (6%)</li>  
+<li>UTR: <b><i>MIA</i></b> - Tahan (95%) def. Miletic (5%)</li>  
+<li>ITA: <b><i>MIA</i></b> - Tahan (2.26) def. Miletic (0.00)</li>  
+</ul>
+</details>&nbsp;</li>
+</ol>
+
+### Doubles:  
+
+<ol>
+<li><details>
+<summary markdown="span">Perez-Somarriba/Pfennig (MIA) - 7-6 at #1, 9-6 in duals, 9-6 overall<br>Umarova/Skrobonja (FIU) - 5-0 at #1, 5-0 in duals, 5-0 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Khodan/Tahan (MIA) - 10-7 at #2, 10-7 in duals, 10-7 overall<br>Alcaide/Velcea (FIU) - 2-2 at #2, 2-2 in duals, 2-2 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
+<li><details>
+<summary markdown="span">Achong/Urrutia (MIA) - 8-5 at #3, 8-5 in duals, 8-5 overall<br>Akbas/Miletic (FIU) - 5-1 at #3, 5-1 in duals, 5-1 overall</summary>
+<br>Sorry, we don't have any metrics for this match
+</details>&nbsp;</li>
+</ol>
+
+### Dual Outcome Based on Individual Metrics  
+  
+Based on the composite metrics for each individual match:  
+- FIU should win 4 or more singles matches *2%* of the time.  
+- Miami (FL) should win 4 or more singles matches *88%* of the time.  
+- The winner of the doubles point should decide the match the other *10%* of the time.  
+- If FIU wins the doubles point, their chances of winning the dual improve to *12%*.  
+- If Miami (FL) wins the doubles point, their chances of winning the dual improve to *98%*.  
+  
+------
+
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)  

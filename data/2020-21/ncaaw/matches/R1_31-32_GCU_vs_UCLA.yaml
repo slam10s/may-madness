@@ -15,23 +15,23 @@ Home:
     Overall: 4
     Region: 1
   Ratings:
-    ITA: 4 (61.84)
+    ITA: 4 (61.62)
     SLM: 4 (92.98)
     TRN: 7 (85.42)
     MAS: 4 (8.85)
     UTR: 5 (64.40)
   Polls:
-    USTA: 4
+    USTA: 5 (280.00)
     Coach: 5
 Visitor:
   Team: Grand Canyon
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 31
   Seeding:
     Region: 4
   Ratings:
-    ITA: 62 (1.99)
+    ITA: 62 (2.01)
     SLM: 59 (75.93)
     TRN: 60 (64.13)
     MAS: 57 (4.78)
@@ -44,8 +44,7 @@ Predictions:
   LNUP: UCLA - UCLA (99%) def. Grand Canyon (1%)
   UTR: "UCLA - #5 UCLA (+12.63) def. #57 Grand Canyon (-12.63)"
   ITA: "UCLA - #4 UCLA def. #62 Grand Canyon"
-  USTA: "UCLA - #4 UCLA def. Grand Canyon"
-  Coach: "UCLA - #5 UCLA def. Grand Canyon"
+  USTA: "UCLA - #5 UCLA def. Grand Canyon"
   Seeding: "UCLA - #1 UCLA def. #4 Grand Canyon"
 Lineups:
   Predictions:
@@ -69,7 +68,7 @@ Lineups:
       UCLA: Jada Hart - 8-1 at 2, 11-2 in duals, 11-2 overall
       GCU: Emilia Occhipinti - 12-5 at 2, 12-5 in duals, 12-5 overall
       Predictions:
-        AVG: UCLA - Hart (99%) def. Occhipinti (1%)
+        AVG: UCLA - Hart (98%) def. Occhipinti (2%)
         SLM: UCLA - Hart (99%) def. Occhipinti (1%)
         TRN: UCLA - Hart (99%) def. Occhipinti (1%)
         MAS: UCLA - Hart (98%) def. Occhipinti (2%)
@@ -104,7 +103,7 @@ Lineups:
         TRN: UCLA - Vagramov (99%) def. Prudhomme (1%)
         MAS: UCLA - Vagramov (99%) def. Prudhomme (1%)
         UTR: UCLA - Vagramov (99%) def. Prudhomme (1%)
-        ITA: UCLA - Vagramov (2.24) def. Prudhomme (0.00)
+        ITA: "GCU - # Prudhomme def. Vagramov (2.24)"
     - Position: 6
       UCLA: Vanessa Ong - 3-1 at 6, 4-1 in duals, 4-1 overall
       GCU: Taylor Andersen - 9-5 at 6, 10-7 in duals, 10-7 overall

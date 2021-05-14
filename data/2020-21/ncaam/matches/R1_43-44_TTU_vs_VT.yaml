@@ -1,0 +1,116 @@
+Date: Saturday, May 8
+Time: 10:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
+Round: First Round
+Lines: 43-44
+Title: Texas Tech vs Virginia Tech
+URL: https://www.ncaa.com/game/5833391
+Winner: TBD
+Home:
+  Team: Virginia Tech
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png
+  Entry: At-Large Bid
+  Seeding: {}
+  Ratings:
+    ITA: 29 (28.22)
+    SLM: 30 (93.02)
+    TRN: 29 (91.09)
+    MAS: 33 (7.47)
+    UTR: 34 (76.77)
+Visitor:
+  Team: Texas Tech
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png
+  Entry: At-Large Bid
+  Seeding: {}
+  Ratings:
+    ITA: 25 (31.24)
+    SLM: 35 (92.60)
+    TRN: 31 (90.98)
+    MAS: 28 (7.55)
+    UTR: 35 (76.66)
+Predictions:
+  AVG: VT - Virginia Tech (51%) def. Texas Tech (49%)
+  SLM: "VT - #30 Virginia Tech (56%) def. #35 Texas Tech (44%)"
+  TRN: "VT - #29 Virginia Tech (51%) def. #31 Texas Tech (49%)"
+  MAS: "TTU - #28 Texas Tech (63%) def. #33 Virginia Tech (37%)"
+  LNUP: VT - Virginia Tech (60%) def. Texas Tech (40%)
+  UTR: "VT - #34 Virginia Tech (+0.11) def. #35 Texas Tech (-0.11)"
+  ITA: "TTU - #25 Texas Tech def. #29 Virginia Tech"
+Lineups:
+  Predictions:
+    Average EWPs for VT: 56%,51%,37%,60%
+    Average EWPs for TTU: 44%,49%,63%,40%
+    VT wins 4 or more Singles points: 41%
+    TTU wins 4 or more Singles points: 27%
+    Winner decided by the Doubles point: 32%
+  Singles:
+    - Position: 1
+      VT: Mitch Harper - 7-4 at 1, 7-4 in duals, 7-4 overall
+      TTU: Parker Wynn - 5-9 at 1, 5-9 in duals, 9-13 overall
+      Predictions:
+        AVG: VT - Harper (79%) def. Wynn (21%)
+        SLM: VT - Harper (79%) def. Wynn (21%)
+        TRN: VT - Harper (86%) def. Wynn (14%)
+        MAS: VT - Harper (72%) def. Wynn (28%)
+        UTR: VT - Harper (80%) def. Wynn (20%)
+        ITA: VT - Harper (7.69) def. Wynn (1.67)
+    - Position: 2
+      VT: Alex Ribeiro - 2-1 at 2, 5-5 in duals, 5-5 overall
+      TTU: Ilgiz Valiev - 10-6 at 2, 11-7 in duals, 14-13 overall
+      Predictions:
+        AVG: TTU - Valiev (60%) def. Ribeiro (40%)
+        SLM: VT - Ribeiro (50%) def. Valiev (50%)
+        TRN: TTU - Valiev (54%) def. Ribeiro (46%)
+        MAS: TTU - Valiev (61%) def. Ribeiro (39%)
+        UTR: TTU - Valiev (75%) def. Ribeiro (25%)
+        ITA: VT - Ribeiro (9.63) def. Valiev (1.70)
+    - Position: 3
+      VT: Matt Ross - 1-1 at 3, 8-12 in duals, 8-12 overall
+      TTU: Franco Ribero - 7-4 at 3, 8-5 in duals, 11-11 overall
+      Predictions:
+        AVG: VT - Ross (63%) def. Ribero (37%)
+        SLM: VT - Ross (68%) def. Ribero (32%)
+        TRN: VT - Ross (61%) def. Ribero (39%)
+        MAS: VT - Ross (54%) def. Ribero (46%)
+        UTR: VT - Ross (70%) def. Ribero (30%)
+        ITA: VT - Ross (6.68) def. Ribero (1.57)
+    - Position: 4
+      VT: Carlo Donato - 0-2 at 4, 5-13 in duals, 5-13 overall
+      TTU: Reed Collier - 6-5 at 4, 7-7 in duals, 14-8 overall
+      Predictions:
+        AVG: TTU - Collier (65%) def. Donato (35%)
+        SLM: VT - Donato (51%) def. Collier (49%)
+        TRN: TTU - Collier (59%) def. Donato (41%)
+        MAS: TTU - Collier (75%) def. Donato (25%)
+        UTR: TTU - Collier (76%) def. Donato (24%)
+        ITA: VT - Donato (2.08) def. Collier (1.70)
+    - Position: 5
+      VT: Hugo Maia - 0-2 at 5, 13-6 in duals, 13-6 overall
+      TTU: Dimitrios Azoidis - 8-3 at 5, 12-4 in duals, 15-10 overall
+      Predictions:
+        AVG: VT - Maia (53%) def. Azoidis (47%)
+        SLM: VT - Maia (59%) def. Azoidis (41%)
+        TRN: VT - Maia (61%) def. Azoidis (39%)
+        MAS: VT - Maia (56%) def. Azoidis (44%)
+        UTR: TTU - Azoidis (62%) def. Maia (38%)
+        ITA: VT - Maia (2.60) def. Azoidis (1.70)
+    - Position: 6
+      VT: Ryan Fishback - 4-1 at 6, 13-6 in duals, 13-6 overall
+      TTU: Isaac Arevalo - 5-4 at 6, 8-5 in duals, 14-7 overall
+      Predictions:
+        AVG: VT - Fishback (50%) def. Arevalo (50%)
+        SLM: TTU - Arevalo (51%) def. Fishback (49%)
+        TRN: VT - Fishback (57%) def. Arevalo (43%)
+        MAS: VT - Fishback (53%) def. Arevalo (47%)
+        UTR: TTU - Arevalo (60%) def. Fishback (40%)
+        ITA: VT - Fishback (2.03) def. Arevalo (1.77)
+  Doubles:
+    - Position: 1
+      VT: Chrysostom/Fishback - 6-4 at 1, 8-4 in duals, 8-4 overall
+      TTU: Wynn/Ribero - 7-7 at 1, 7-7 in duals, 7-7 overall
+    - Position: 2
+      VT: Harper/Ribeiro - 3-4 at 2, 3-4 in duals, 3-4 overall
+      TTU: Arevalo/Collier - 6-5 at 2, 6-5 in duals, 6-5 overall
+    - Position: 3
+      VT: Donato/Ariza - 1-1 at 3, 1-1 in duals, 1-1 overall
+      TTU: Valiev/Azoides - 8-2 at 3, 11-3 in duals, 12-4 overall

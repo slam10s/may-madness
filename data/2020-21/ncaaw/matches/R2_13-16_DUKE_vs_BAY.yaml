@@ -21,7 +21,7 @@ Home:
     MAS: 12 (8.06)
     UTR: 8 (63.14)
   Polls:
-    USTA: 8
+    USTA: 9 (204.00)
     Coach: 8
 Visitor:
   Team: Duke
@@ -31,29 +31,28 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 17 (43.03)
+    ITA: 18 (43.05)
     SLM: 14 (90.91)
     TRN: 15 (83.33)
     MAS: 11 (8.09)
     UTR: 12 (62.45)
   Polls:
-    USTA: 14
+    USTA: 15 (162.00)
     Coach: 20
 Predictions:
-  AVG: BAY - Baylor (56%) def. Duke (44%)
+  AVG: BAY - Baylor (55%) def. Duke (45%)
   SLM: "BAY - #7 Baylor (70%) def. #14 Duke (30%)"
   TRN: "BAY - #4 Baylor (97%) def. #15 Duke (3%)"
-  MAS: "DUKE - #11 Duke (56%) def. #12 Baylor (44%)"
+  MAS: "DUKE - #11 Duke (58%) def. #12 Baylor (42%)"
   LNUP: DUKE - Duke (86%) def. Baylor (14%)
   UTR: "BAY - #8 Baylor (+0.69) def. #12 Duke (-0.69)"
-  ITA: "BAY - #8 Baylor def. #17 Duke"
-  USTA: "BAY - #8 Baylor def. #14 Duke"
-  Coach: "BAY - #8 Baylor def. #20 Duke"
+  ITA: "BAY - #8 Baylor def. #18 Duke"
+  USTA: "BAY - #9 Baylor def. #15 Duke"
   Seeding: "BAY - #1 Baylor def. #2 Duke"
 Lineups:
   Predictions:
-    Average EWPs for BAY: 70%,97%,44%,14%
-    Average EWPs for DUKE: 30%,3%,56%,86%
+    Average EWPs for BAY: 70%,97%,42%,14%
+    Average EWPs for DUKE: 30%,3%,58%,86%
     BAY wins 4 or more Singles points: 10%
     DUKE wins 4 or more Singles points: 63%
     Winner decided by the Doubles point: 27%
@@ -62,10 +61,10 @@ Lineups:
       BAY: Melany Krywoj - 11-6 at 1, 11-6 in duals, 19-10 overall
       DUKE: Kelly Chen - 5-9 at 1, 8-10 in duals, 10-11 overall
       Predictions:
-        AVG: DUKE - Chen (55%) def. Krywoj (45%)
-        SLM: DUKE - Chen (65%) def. Krywoj (35%)
-        TRN: DUKE - Chen (61%) def. Krywoj (39%)
-        MAS: DUKE - Chen (55%) def. Krywoj (45%)
+        AVG: DUKE - Chen (56%) def. Krywoj (44%)
+        SLM: DUKE - Chen (67%) def. Krywoj (33%)
+        TRN: DUKE - Chen (65%) def. Krywoj (35%)
+        MAS: DUKE - Chen (56%) def. Krywoj (44%)
         UTR: BAY - Krywoj (62%) def. Chen (38%)
         ITA: DUKE - Chen (12.42) def. Krywoj (8.77)
     - Position: 2
@@ -73,39 +72,39 @@ Lineups:
       DUKE: Georgia Drummy - 7-3 at 2, 15-3 in duals, 17-4 overall
       Predictions:
         AVG: DUKE - Drummy (90%) def. Hinojosa (10%)
-        SLM: DUKE - Drummy (89%) def. Hinojosa (11%)
+        SLM: DUKE - Drummy (90%) def. Hinojosa (10%)
         TRN: DUKE - Drummy (87%) def. Hinojosa (13%)
-        MAS: DUKE - Drummy (92%) def. Hinojosa (8%)
+        MAS: DUKE - Drummy (93%) def. Hinojosa (7%)
         UTR: DUKE - Drummy (91%) def. Hinojosa (9%)
         ITA: DUKE - Drummy (24.14) def. Hinojosa (3.62)
     - Position: 3
-      BAY: Alicia Herrero - 4-4 at 3, 13-8 in duals, 20-13 overall
+      BAY: Alicia Herrero-Linana - 4-4 at 3, 13-8 in duals, 20-13 overall
       DUKE: Chloe Beck - 11-1 at 3, 15-3 in duals, 17-4 overall
       Predictions:
-        AVG: DUKE - Beck (74%) def. Herrero (26%)
-        SLM: DUKE - Beck (74%) def. Herrero (26%)
-        TRN: DUKE - Beck (77%) def. Herrero (23%)
-        MAS: DUKE - Beck (73%) def. Herrero (27%)
-        UTR: DUKE - Beck (72%) def. Herrero (28%)
-        ITA: DUKE - Beck (15.35) def. Herrero (2.87)
+        AVG: DUKE - Beck (76%) def. Herrero-Linana (24%)
+        SLM: DUKE - Beck (76%) def. Herrero-Linana (24%)
+        TRN: DUKE - Beck (80%) def. Herrero-Linana (20%)
+        MAS: DUKE - Beck (76%) def. Herrero-Linana (24%)
+        UTR: DUKE - Beck (72%) def. Herrero-Linana (28%)
+        ITA: DUKE - Beck (15.35) def. Herrero-Linana (2.87)
     - Position: 4
-      BAY: Angie Shakhraichuck - 6-4 at 4, 17-5 in duals, 24-10 overall
+      BAY: Angelina Shakhraichuk - 6-4 at 4, 17-5 in duals, 24-10 overall
       DUKE: Meible Chi - 12-1 at 4, 18-2 in duals, 21-3 overall
       Predictions:
-        AVG: DUKE - Chi (80%) def. Shakhraichuck (20%)
-        SLM: DUKE - Chi (80%) def. Shakhraichuck (20%)
-        TRN: DUKE - Chi (86%) def. Shakhraichuck (14%)
-        MAS: DUKE - Chi (73%) def. Shakhraichuck (27%)
-        UTR: DUKE - Chi (81%) def. Shakhraichuck (19%)
-        ITA: DUKE - Chi (15.20) def. Shakhraichuck (1.88)
+        AVG: DUKE - Chi (81%) def. Shakhraichuk (19%)
+        SLM: DUKE - Chi (81%) def. Shakhraichuk (19%)
+        TRN: DUKE - Chi (87%) def. Shakhraichuk (13%)
+        MAS: DUKE - Chi (75%) def. Shakhraichuk (25%)
+        UTR: DUKE - Chi (81%) def. Shakhraichuk (19%)
+        ITA: DUKE - Chi (15.20) def. Shakhraichuk (1.88)
     - Position: 5
       BAY: Kristina Sorokolet - 4-1 at 5, 11-3 in duals, 18-5 overall
       DUKE: Margaryta Bilokin - 6-6 at 5, 11-8 in duals, 14-9 overall
       Predictions:
-        AVG: DUKE - Bilokin (69%) def. Sorokolet (31%)
-        SLM: DUKE - Bilokin (69%) def. Sorokolet (31%)
-        TRN: DUKE - Bilokin (67%) def. Sorokolet (33%)
-        MAS: DUKE - Bilokin (60%) def. Sorokolet (40%)
+        AVG: DUKE - Bilokin (62%) def. Sorokolet (38%)
+        SLM: DUKE - Bilokin (63%) def. Sorokolet (37%)
+        TRN: DUKE - Bilokin (56%) def. Sorokolet (44%)
+        MAS: DUKE - Bilokin (51%) def. Sorokolet (49%)
         UTR: DUKE - Bilokin (80%) def. Sorokolet (20%)
         ITA: DUKE - Bilokin (2.72) def. Sorokolet (1.95)
     - Position: 6
@@ -115,9 +114,9 @@ Lineups:
         AVG: BAY - Baranano (91%) def. Berankova (9%)
         SLM: BAY - Baranano (90%) def. Berankova (10%)
         TRN: BAY - Baranano (92%) def. Berankova (8%)
-        MAS: BAY - Baranano (88%) def. Berankova (12%)
+        MAS: BAY - Baranano (90%) def. Berankova (10%)
         UTR: BAY - Baranano (92%) def. Berankova (8%)
-        ITA: BAY - Baranano (2.52) def. Berankova (0.00)
+        ITA: "DUKE - # Berankova def. Baranano (2.52)"
   Doubles:
     - Position: 1
       BAY: Shakhraichuk/Krywoj - 9-1 at 1, 9-1 in duals, 9-1 overall

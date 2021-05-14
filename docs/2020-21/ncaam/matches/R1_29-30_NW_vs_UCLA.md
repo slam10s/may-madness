@@ -10,12 +10,12 @@ Austin, Texas
 
 <h2>#3 Northwestern</h2>  
 &nbsp; Record: 14-7<br>  
-&nbsp; ITA: 50 (7.95)<br>  
+&nbsp; ITA: 50 (7.82)<br>  
 &nbsp; Slam: 33 (92.89)<br>  
 &nbsp; TRN: 32 (90.90)<br>  
 &nbsp; Massey: 31 (7.50)<br>  
 &nbsp; UTR: 27 (77.56)<br>  
-&nbsp; Coaches Poll: 49<br>  
+&nbsp; Coaches Poll: 46<br>  
 <br>  
 
 </td>
@@ -23,13 +23,13 @@ Austin, Texas
 
 <h2>#2 UCLA</h2>  
 &nbsp; Record: 13-7<br>  
-&#10004; ITA: 24 (32.15)<br>  
+&#10004; ITA: 23 (32.53)<br>  
 &#10004; Slam: 23 (93.84)<br>  
 &#10004; TRN: 24 (91.84)<br>  
 &#10004; Massey: 19 (8.03)<br>  
 &#10004; UTR: 13 (79.06)<br>  
-&#10004; USTA Poll: 22<br>  
-&#10004; Coaches Poll: 29<br>  
+&#10004; USTA Poll: 24 (52.00)<br>  
+&nbsp; Coaches Poll: 29<br>  
 <br>  
 
 </td>
@@ -45,15 +45,14 @@ Go to [Live Stats](http://sidearmstats.com/texas/mtennis/xlive.htm)
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UCLA*** - UCLA (63%) def. Northwestern (37%)  
+- Composite: ***UCLA*** - UCLA (58%) def. Northwestern (42%)  
 - Slam: ***UCLA*** - #23 UCLA (63%) def. #33 Northwestern (37%)  
 - TRN: ***UCLA*** - #24 UCLA (63%) def. #32 Northwestern (37%)  
-- Massey: ***UCLA*** - #19 UCLA (75%) def. #31 Northwestern (25%)  
-- Lineup: ***UCLA*** - UCLA (50%) def. Northwestern (50%)  
+- Massey: ***UCLA*** - #19 UCLA (71%) def. #31 Northwestern (29%)  
+- Lineup: ***NW*** - Northwestern (65%) def. UCLA (35%)  
 - UTR: ***UCLA*** - #13 UCLA (+1.50) def. #27 Northwestern (-1.50)  
-- ITA: ***UCLA*** - #24 UCLA def. #50 Northwestern  
-- USTA Poll: ***UCLA*** - #22 UCLA def. Northwestern  
-- Coaches Poll: ***UCLA*** - #29 UCLA def. #49 Northwestern  
+- ITA: ***UCLA*** - #23 UCLA def. #50 Northwestern  
+- USTA Poll: ***UCLA*** - #24 UCLA def. Northwestern  
 - Seeding: ***UCLA*** - #2 UCLA def. #3 Northwestern  
 
 ## Individual Matchups  
@@ -66,32 +65,32 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Steven Forman (NW) - 5-2 at #1, 5-2 in duals, 5-2 overall<br>Govind Nanda (UCLA) - 2-2 at #1, 8-3 in duals, 8-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Nanda (74%) def. Forman (26%)</li>  
-<li>Slam: <b><i>UCLA</i></b> - Nanda (63%) def. Forman (37%)</li>  
-<li>TRN: <b><i>UCLA</i></b> - Nanda (75%) def. Forman (25%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Nanda (75%) def. Forman (25%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Nanda (59%) def. Forman (41%)</li>  
+<li>Slam: <b><i>UCLA</i></b> - Nanda (50%) def. Forman (50%)</li>  
+<li>TRN: <b><i>NW</i></b> - Forman (57%) def. Nanda (43%)</li>  
+<li>Massey: <b><i>UCLA</i></b> - Nanda (60%) def. Forman (40%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Nanda (85%) def. Forman (15%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Nanda (4.24) def. Forman (2.23)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Dominik Stary (NW) - 4-0 at #2, 8-4 in duals, 9-6 overall<br>Drew Baird (UCLA) - 5-2 at #2, 9-6 in duals, 9-7 overall</summary>
+<summary markdown="span">Dominik Starý (NW) - 4-0 at #2, 8-4 in duals, 9-6 overall<br>Drew Baird (UCLA) - 5-2 at #2, 9-6 in duals, 9-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Stary (56%) def. Baird (44%)</li>  
-<li>Slam: <b><i>NW</i></b> - Stary (68%) def. Baird (32%)</li>  
-<li>TRN: <b><i>NW</i></b> - Stary (63%) def. Baird (37%)</li>  
-<li>Massey: <b><i>NW</i></b> - Stary (59%) def. Baird (41%)</li>  
-<li>UTR: <b><i>UCLA</i></b> - Baird (66%) def. Stary (34%)</li>  
-<li>ITA: <b><i>UCLA</i></b> - Baird (3.85) def. Stary (0.00)</li>  
+<li>Composite: <b><i>NW</i></b> - Starý (63%) def. Baird (37%)</li>  
+<li>Slam: <b><i>NW</i></b> - Starý (75%) def. Baird (25%)</li>  
+<li>TRN: <b><i>NW</i></b> - Starý (76%) def. Baird (24%)</li>  
+<li>Massey: <b><i>NW</i></b> - Starý (67%) def. Baird (33%)</li>  
+<li>UTR: <b><i>UCLA</i></b> - Baird (66%) def. Starý (34%)</li>  
+<li>ITA: <b><i>UCLA</i></b> - Baird (3.85) def. Starý (2.05)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Nick Brookes (NW) - 1-5 at #3, 9-7 in duals, 11-9 overall<br>Ben Goldberg (UCLA) - 5-2 at #3, 8-8 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Brookes (64%) def. Goldberg (36%)</li>  
-<li>Slam: <b><i>NW</i></b> - Brookes (65%) def. Goldberg (35%)</li>  
-<li>TRN: <b><i>NW</i></b> - Brookes (51%) def. Goldberg (49%)</li>  
-<li>Massey: <b><i>NW</i></b> - Brookes (64%) def. Goldberg (36%)</li>  
+<li>Composite: <b><i>NW</i></b> - Brookes (65%) def. Goldberg (35%)</li>  
+<li>Slam: <b><i>NW</i></b> - Brookes (68%) def. Goldberg (32%)</li>  
+<li>TRN: <b><i>NW</i></b> - Brookes (55%) def. Goldberg (45%)</li>  
+<li>Massey: <b><i>NW</i></b> - Brookes (62%) def. Goldberg (38%)</li>  
 <li>UTR: <b><i>NW</i></b> - Brookes (76%) def. Goldberg (24%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Goldberg (1.97) def. Brookes (1.58)</li>  
 </ul>
@@ -99,10 +98,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Chris Ephron (NW) - 5-1 at #4, 9-5 in duals, 12-6 overall<br>Sam Feit (UCLA) - 6-1 at #4, 11-5 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Ephron (52%) def. Feit (48%)</li>  
-<li>Slam: <b><i>NW</i></b> - Ephron (64%) def. Feit (36%)</li>  
-<li>TRN: <b><i>UCLA</i></b> - Feit (51%) def. Ephron (49%)</li>  
-<li>Massey: <b><i>NW</i></b> - Ephron (55%) def. Feit (45%)</li>  
+<li>Composite: <b><i>NW</i></b> - Ephron (53%) def. Feit (47%)</li>  
+<li>Slam: <b><i>NW</i></b> - Ephron (66%) def. Feit (34%)</li>  
+<li>TRN: <b><i>NW</i></b> - Ephron (52%) def. Feit (48%)</li>  
+<li>Massey: <b><i>NW</i></b> - Ephron (51%) def. Feit (49%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Feit (56%) def. Ephron (44%)</li>  
 <li>ITA: <b><i>NW</i></b> - Ephron (2.01) def. Feit (1.91)</li>  
 </ul>
@@ -110,10 +109,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Trice Pickens (NW) - 3-3 at #5, 8-10 in duals, 13-10 overall<br>Roscoe Bellamy (UCLA) - 2-1 at #5, 8-2 in duals, 8-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Bellamy (54%) def. Pickens (46%)</li>  
-<li>Slam: <b><i>NW</i></b> - Pickens (69%) def. Bellamy (31%)</li>  
-<li>TRN: <b><i>NW</i></b> - Pickens (55%) def. Bellamy (45%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Bellamy (60%) def. Pickens (40%)</li>  
+<li>Composite: <b><i>NW</i></b> - Pickens (51%) def. Bellamy (49%)</li>  
+<li>Slam: <b><i>NW</i></b> - Pickens (72%) def. Bellamy (28%)</li>  
+<li>TRN: <b><i>NW</i></b> - Pickens (64%) def. Bellamy (36%)</li>  
+<li>Massey: <b><i>UCLA</i></b> - Bellamy (55%) def. Pickens (45%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bellamy (81%) def. Pickens (19%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Bellamy (2.89) def. Pickens (1.58)</li>  
 </ul>
@@ -121,10 +120,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Simen Bratholm (NW) - 0-0 at #6, 5-4 in duals, 8-5 overall<br>Mathew Tsolakyan (UCLA) - 4-2 at #6, 10-3 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NW</i></b> - Bratholm (56%) def. Tsolakyan (44%)</li>  
-<li>Slam: <b><i>NW</i></b> - Bratholm (65%) def. Tsolakyan (35%)</li>  
-<li>TRN: <b><i>NW</i></b> - Bratholm (63%) def. Tsolakyan (37%)</li>  
-<li>Massey: <b><i>NW</i></b> - Bratholm (59%) def. Tsolakyan (41%)</li>  
+<li>Composite: <b><i>NW</i></b> - Bratholm (59%) def. Tsolakyan (41%)</li>  
+<li>Slam: <b><i>NW</i></b> - Bratholm (68%) def. Tsolakyan (32%)</li>  
+<li>TRN: <b><i>NW</i></b> - Bratholm (70%) def. Tsolakyan (30%)</li>  
+<li>Massey: <b><i>NW</i></b> - Bratholm (63%) def. Tsolakyan (37%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Tsolakyan (62%) def. Bratholm (38%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Tsolakyan (2.57) def. Bratholm (2.06)</li>  
 </ul>
@@ -151,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- UCLA should win 4 or more singles matches *34%* of the time.  
-- Northwestern should win 4 or more singles matches *34%* of the time.  
-- The winner of the doubles point should decide the match the other *32%* of the time.  
-- If UCLA wins the doubles point, their chances of winning the dual improve to *66%*.  
-- If Northwestern wins the doubles point, their chances of winning the dual improve to *66%*.  
+- UCLA should win 4 or more singles matches *24%* of the time.  
+- Northwestern should win 4 or more singles matches *45%* of the time.  
+- The winner of the doubles point should decide the match the other *31%* of the time.  
+- If UCLA wins the doubles point, their chances of winning the dual improve to *55%*.  
+- If Northwestern wins the doubles point, their chances of winning the dual improve to *76%*.  
   
 ------
 

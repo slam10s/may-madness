@@ -14,23 +14,23 @@ Home:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 21 (39.92)
+    ITA: 21 (38.97)
     SLM: 18 (90.46)
     TRN: 13 (83.80)
     MAS: 20 (7.78)
     UTR: 33 (60.43)
   Polls:
-    USTA: 16
+    USTA: 17 (133.00)
     Coach: 19
 Visitor:
   Team: Xavier
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/x/xavier.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 54
   Seeding:
     Region: 3
   Ratings:
-    ITA: 55 (3.75)
+    ITA: 56 (3.60)
     SLM: 49 (80.67)
     TRN: 50 (71.88)
     MAS: 50 (5.60)
@@ -42,9 +42,8 @@ Predictions:
   MAS: "NW - #20 Northwestern (99%) def. #50 Xavier (1%)"
   LNUP: NW - Northwestern (99%) def. Xavier (1%)
   UTR: "NW - #33 Northwestern (+36.37) def. #64 Xavier (-36.37)"
-  ITA: "NW - #21 Northwestern def. #55 Xavier"
-  USTA: "NW - #16 Northwestern def. Xavier"
-  Coach: "NW - #19 Northwestern def. Xavier"
+  ITA: "NW - #21 Northwestern def. #56 Xavier"
+  USTA: "NW - #17 Northwestern def. Xavier"
   Seeding: "NW - #2 Northwestern def. #3 Xavier"
 Lineups:
   Predictions:
@@ -58,61 +57,61 @@ Lineups:
       NW: Maria Shusharina - 5-12 at 1, 7-12 in duals, 9-13 overall
       XAV: Ahmeir Kyle - 10-3 at 1, 10-3 in duals, 10-3 overall
       Predictions:
-        AVG: NW - Shusharina (89%) def. Kyle (11%)
-        SLM: NW - Shusharina (85%) def. Kyle (15%)
-        TRN: NW - Shusharina (84%) def. Kyle (16%)
-        MAS: NW - Shusharina (87%) def. Kyle (13%)
-        UTR: NW - Shusharina (99%) def. Kyle (1%)
+        AVG: NW - Shusharina (86%) def. Kyle (14%)
+        SLM: NW - Shusharina (83%) def. Kyle (17%)
+        TRN: NW - Shusharina (85%) def. Kyle (15%)
+        MAS: NW - Shusharina (85%) def. Kyle (15%)
+        UTR: NW - Shusharina (93%) def. Kyle (7%)
         ITA: XAV - Kyle (4.79) def. Shusharina (3.92)
     - Position: 2
       NW: Clarissa Hand - 0-2 at 2, 14-6 in duals, 14-9 overall
       XAV: Kat Lyman - 10-1 at 2, 13-3 in duals, 13-3 overall
       Predictions:
-        AVG: NW - Hand (88%) def. Lyman (12%)
+        AVG: NW - Hand (85%) def. Lyman (15%)
         SLM: NW - Hand (84%) def. Lyman (16%)
-        TRN: NW - Hand (84%) def. Lyman (16%)
+        TRN: NW - Hand (85%) def. Lyman (15%)
         MAS: NW - Hand (83%) def. Lyman (17%)
-        UTR: NW - Hand (99%) def. Lyman (1%)
+        UTR: NW - Hand (86%) def. Lyman (14%)
         ITA: NW - Hand (4.82) def. Lyman (2.79)
     - Position: 3
       NW: Julie Byrne - 4-0 at 3, 9-8 in duals, 11-9 overall
       XAV: Anna Roggenburk - 7-2 at 3, 15-3 in duals, 15-3 overall
       Predictions:
-        AVG: NW - Byrne (90%) def. Roggenburk (10%)
-        SLM: NW - Byrne (89%) def. Roggenburk (11%)
+        AVG: NW - Byrne (87%) def. Roggenburk (13%)
+        SLM: NW - Byrne (88%) def. Roggenburk (12%)
         TRN: NW - Byrne (84%) def. Roggenburk (16%)
-        MAS: NW - Byrne (89%) def. Roggenburk (11%)
-        UTR: NW - Byrne (99%) def. Roggenburk (1%)
+        MAS: NW - Byrne (87%) def. Roggenburk (13%)
+        UTR: NW - Byrne (89%) def. Roggenburk (11%)
         ITA: XAV - Roggenburk (2.75) def. Byrne (1.56)
     - Position: 4
       NW: Briana Crowley - 16-3 at 4, 16-5 in duals, 17-7 overall
       XAV: Imani Graham - 8-4 at 4, 16-4 in duals, 16-4 overall
       Predictions:
-        AVG: NW - Crowley (92%) def. Graham (8%)
-        SLM: NW - Crowley (93%) def. Graham (7%)
+        AVG: NW - Crowley (90%) def. Graham (10%)
+        SLM: NW - Crowley (94%) def. Graham (6%)
         TRN: NW - Crowley (92%) def. Graham (8%)
         MAS: NW - Crowley (85%) def. Graham (15%)
-        UTR: NW - Crowley (99%) def. Graham (1%)
+        UTR: NW - Crowley (90%) def. Graham (10%)
         ITA: XAV - Graham (2.45) def. Crowley (1.93)
     - Position: 5
       NW: Caroline Pozo - 11-6 at 5, 12-7 in duals, 12-8 overall
       XAV: Kaitlin Ruether - 2-6 at 5, 6-12 in duals, 6-12 overall
       Predictions:
-        AVG: NW - Pozo (99%) def. Ruether (1%)
+        AVG: NW - Pozo (97%) def. Ruether (3%)
         SLM: NW - Pozo (98%) def. Ruether (2%)
         TRN: NW - Pozo (99%) def. Ruether (1%)
         MAS: NW - Pozo (98%) def. Ruether (2%)
-        UTR: NW - Pozo (99%) def. Ruether (1%)
-        ITA: NW - Pozo (1.76) def. Ruether (0.00)
+        UTR: NW - Pozo (95%) def. Ruether (5%)
+        ITA: "XAV - # Ruether def. Pozo (1.76)"
     - Position: 6
       NW: Christina Hand - 13-1 at 6, 13-1 in duals, 13-4 overall
       XAV: Emily Thomas - 2-0 at 6, 8-4 in duals, 8-4 overall
       Predictions:
-        AVG: NW - Hand (95%) def. Thomas (5%)
-        SLM: NW - Hand (95%) def. Thomas (5%)
-        TRN: NW - Hand (96%) def. Thomas (4%)
-        MAS: NW - Hand (92%) def. Thomas (8%)
-        UTR: NW - Hand (99%) def. Thomas (1%)
+        AVG: NW - Hand (92%) def. Thomas (8%)
+        SLM: NW - Hand (94%) def. Thomas (6%)
+        TRN: NW - Hand (95%) def. Thomas (5%)
+        MAS: NW - Hand (89%) def. Thomas (11%)
+        UTR: NW - Hand (91%) def. Thomas (9%)
         ITA: NW - Hand (2.48) def. Thomas (2.39)
   Doubles:
     - Position: 1

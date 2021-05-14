@@ -10,12 +10,12 @@ Berkeley, California
 
 <h2>#3 Syracuse</h2>  
 &nbsp; Record: 8-12<br>  
-&nbsp; ITA: 43 (15.84)<br>  
+&nbsp; ITA: 42 (17.74)<br>  
 &nbsp; Slam: 43 (86.54)<br>  
 &nbsp; TRN: 43 (78.55)<br>  
 &nbsp; Massey: 42 (6.69)<br>  
 &nbsp; UTR: 43 (58.68)<br>  
-&nbsp; Coaches Poll: 45<br>  
+&nbsp; Coaches Poll: 41<br>  
 <br>  
 
 </td>
@@ -23,13 +23,13 @@ Berkeley, California
 
 <h2>#2 Kentucky</h2>  
 &nbsp; Record: 16-8<br>  
-&#10004; ITA: 26 (37.41)<br>  
+&#10004; ITA: 26 (37.22)<br>  
 &#10004; Slam: 25 (89.36)<br>  
 &#10004; TRN: 27 (81.49)<br>  
 &#10004; Massey: 33 (7.29)<br>  
 &#10004; UTR: 34 (60.15)<br>  
-&#10004; USTA Poll: 24<br>  
-&#10004; Coaches Poll: 27<br>  
+&#10004; USTA Poll: 26 (16.00)<br>  
+&nbsp; Coaches Poll: 27<br>  
 <br>  
 
 </td>
@@ -44,15 +44,14 @@ Berkeley, California
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UK*** - Kentucky (78%) def. Syracuse (22%)  
+- Composite: ***UK*** - Kentucky (79%) def. Syracuse (21%)  
 - Slam: ***UK*** - #25 Kentucky (83%) def. #43 Syracuse (17%)  
 - TRN: ***UK*** - #27 Kentucky (84%) def. #43 Syracuse (16%)  
-- Massey: ***UK*** - #33 Kentucky (78%) def. #42 Syracuse (22%)  
-- Lineup: ***UK*** - Kentucky (68%) def. Syracuse (32%)  
+- Massey: ***UK*** - #33 Kentucky (75%) def. #42 Syracuse (25%)  
+- Lineup: ***UK*** - Kentucky (73%) def. Syracuse (27%)  
 - UTR: ***UK*** - #34 Kentucky (+1.47) def. #43 Syracuse (-1.47)  
-- ITA: ***UK*** - #26 Kentucky def. #43 Syracuse  
-- USTA Poll: ***UK*** - #24 Kentucky def. Syracuse  
-- Coaches Poll: ***UK*** - #27 Kentucky def. #45 Syracuse  
+- ITA: ***UK*** - #26 Kentucky def. #42 Syracuse  
+- USTA Poll: ***UK*** - #26 Kentucky def. Syracuse  
 - Seeding: ***UK*** - #2 Kentucky def. #3 Syracuse  
 
 ## Individual Matchups  
@@ -63,67 +62,67 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Viktoriya Kanapatskaya (SYR) - 9-5 at #1, 11-5 in duals, 11-5 overall<br>Akvile Parazinskaite (UK) - 16-6 at #1, 16-6 in duals, 19-10 overall</summary>
+<summary markdown="span">Viktoriya Kanapatskaya (SYR) - 9-5 at #1, 11-5 in duals, 11-5 overall<br>Akvilė Paražinskaitė (UK) - 16-6 at #1, 16-6 in duals, 19-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SYR</i></b> - Kanapatskaya (61%) def. Parazinskaite (39%)</li>  
-<li>Slam: <b><i>SYR</i></b> - Kanapatskaya (64%) def. Parazinskaite (36%)</li>  
-<li>TRN: <b><i>SYR</i></b> - Kanapatskaya (64%) def. Parazinskaite (36%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Kanapatskaya (55%) def. Parazinskaite (45%)</li>  
-<li>UTR: <b><i>SYR</i></b> - Kanapatskaya (63%) def. Parazinskaite (37%)</li>  
-<li>ITA: <b><i>SYR</i></b> - Kanapatskaya (30.96) def. Parazinskaite (0.00)</li>  
+<li>Composite: <b><i>SYR</i></b> - Kanapatskaya (62%) def. Paražinskaitė (38%)</li>  
+<li>Slam: <b><i>SYR</i></b> - Kanapatskaya (64%) def. Paražinskaitė (36%)</li>  
+<li>TRN: <b><i>SYR</i></b> - Kanapatskaya (62%) def. Paražinskaitė (38%)</li>  
+<li>Massey: <b><i>SYR</i></b> - Kanapatskaya (58%) def. Paražinskaitė (42%)</li>  
+<li>UTR: <b><i>SYR</i></b> - Kanapatskaya (63%) def. Paražinskaitė (37%)</li>  
+<li>ITA: <b><i>SYR</i></b> - Kanapatskaya (30.96) def. Paražinskaitė (19.85)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Guzal Yusupova (SYR) - 4-6 at #2, 4-9 in duals, 4-9 overall<br>Lesedi Jacobs (UK) - 0-1 at #2, 9-5 in duals, 11-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Jacobs (76%) def. Yusupova (24%)</li>  
-<li>Slam: <b><i>UK</i></b> - Jacobs (66%) def. Yusupova (34%)</li>  
-<li>TRN: <b><i>UK</i></b> - Jacobs (76%) def. Yusupova (24%)</li>  
-<li>Massey: <b><i>UK</i></b> - Jacobs (72%) def. Yusupova (28%)</li>  
+<li>Composite: <b><i>UK</i></b> - Jacobs (80%) def. Yusupova (20%)</li>  
+<li>Slam: <b><i>UK</i></b> - Jacobs (72%) def. Yusupova (28%)</li>  
+<li>TRN: <b><i>UK</i></b> - Jacobs (83%) def. Yusupova (17%)</li>  
+<li>Massey: <b><i>UK</i></b> - Jacobs (75%) def. Yusupova (25%)</li>  
 <li>UTR: <b><i>UK</i></b> - Jacobs (89%) def. Yusupova (11%)</li>  
 <li>ITA: <b><i>UK</i></b> - Jacobs (5.00) def. Yusupova (4.12)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Natalie Novotna (SYR) - 4-6 at #3, 7-9 in duals, 7-9 overall<br>Carlota Molina (UK) - 1-1 at #3, 12-7 in duals, 12-13 overall</summary>
+<summary markdown="span">Natalie Novotna (SYR) - 4-6 at #3, 7-9 in duals, 7-9 overall<br>Carlota Molina Megias (UK) - 1-1 at #3, 12-7 in duals, 12-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Molina (68%) def. Novotna (32%)</li>  
-<li>Slam: <b><i>UK</i></b> - Molina (67%) def. Novotna (33%)</li>  
-<li>TRN: <b><i>UK</i></b> - Molina (73%) def. Novotna (27%)</li>  
-<li>Massey: <b><i>UK</i></b> - Molina (57%) def. Novotna (43%)</li>  
-<li>UTR: <b><i>UK</i></b> - Molina (77%) def. Novotna (23%)</li>  
-<li>ITA: <b><i>UK</i></b> - Molina (2.40) def. Novotna (2.02)</li>  
+<li>Composite: <b><i>UK</i></b> - Megias (62%) def. Novotna (38%)</li>  
+<li>Slam: <b><i>UK</i></b> - Megias (62%) def. Novotna (38%)</li>  
+<li>TRN: <b><i>UK</i></b> - Megias (62%) def. Novotna (38%)</li>  
+<li>Massey: <b><i>SYR</i></b> - Novotna (51%) def. Megias (49%)</li>  
+<li>UTR: <b><i>UK</i></b> - Megias (77%) def. Novotna (23%)</li>  
+<li>ITA: <b><i>UK</i></b> - Megias (2.40) def. Novotna (2.02)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Miranda Ramirez (SYR) - 3-6 at #4, 4-13 in duals, 4-13 overall<br>Elizabeth Stevens (UK) - 1-5 at #4, 3-8 in duals, 6-13 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Stevens (56%) def. Ramirez (44%)</li>  
-<li>Slam: <b><i>UK</i></b> - Stevens (59%) def. Ramirez (41%)</li>  
-<li>TRN: <b><i>UK</i></b> - Stevens (65%) def. Ramirez (35%)</li>  
-<li>Massey: <b><i>UK</i></b> - Stevens (58%) def. Ramirez (42%)</li>  
+<li>Composite: <b><i>UK</i></b> - Stevens (50%) def. Ramirez (50%)</li>  
+<li>Slam: <b><i>UK</i></b> - Stevens (53%) def. Ramirez (47%)</li>  
+<li>TRN: <b><i>UK</i></b> - Stevens (53%) def. Ramirez (47%)</li>  
+<li>Massey: <b><i>UK</i></b> - Stevens (50%) def. Ramirez (50%)</li>  
 <li>UTR: <b><i>SYR</i></b> - Ramirez (56%) def. Stevens (44%)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Zeynep Erman (SYR) - 3-4 at #5, 4-4 in duals, 4-4 overall<br>Carla Girbau (UK) - 2-1 at #5, 9-9 in duals, 11-14 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - Girbau (60%) def. Erman (40%)</li>  
-<li>Slam: <b><i>UK</i></b> - Girbau (64%) def. Erman (36%)</li>  
-<li>TRN: <b><i>UK</i></b> - Girbau (61%) def. Erman (39%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Erman (58%) def. Girbau (42%)</li>  
+<li>Composite: <b><i>UK</i></b> - Girbau (64%) def. Erman (36%)</li>  
+<li>Slam: <b><i>UK</i></b> - Girbau (67%) def. Erman (33%)</li>  
+<li>TRN: <b><i>UK</i></b> - Girbau (64%) def. Erman (36%)</li>  
+<li>Massey: <b><i>UK</i></b> - Girbau (51%) def. Erman (49%)</li>  
 <li>UTR: <b><i>UK</i></b> - Girbau (74%) def. Erman (26%)</li>  
-<li>ITA: <b><i>SYR</i></b> - Erman (1.82) def. Girbau (0.00)</li>  
+<li>ITA: <b><i>UK</i></b> - # Girbau def. Erman (1.82)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Polina Kozyreva (SYR) - 7-5 at #6, 10-9 in duals, 10-9 overall<br>Fiona Arrese (UK) - 2-1 at #6, 10-4 in duals, 10-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SYR</i></b> - Kozyreva (61%) def. Arrese (39%)</li>  
-<li>Slam: <b><i>UK</i></b> - Arrese (60%) def. Kozyreva (40%)</li>  
-<li>TRN: <b><i>UK</i></b> - Arrese (57%) def. Kozyreva (43%)</li>  
-<li>Massey: <b><i>SYR</i></b> - Kozyreva (63%) def. Arrese (37%)</li>  
-<li>UTR: <b><i>SYR</i></b> - Kozyreva (99%) def. Arrese (1%)</li>  
+<li>Composite: <b><i>UK</i></b> - Arrese (58%) def. Kozyreva (42%)</li>  
+<li>Slam: <b><i>UK</i></b> - Arrese (61%) def. Kozyreva (39%)</li>  
+<li>TRN: <b><i>UK</i></b> - Arrese (60%) def. Kozyreva (40%)</li>  
+<li>Massey: <b><i>SYR</i></b> - Kozyreva (59%) def. Arrese (41%)</li>  
+<li>UTR: <b><i>UK</i></b> - Arrese (71%) def. Kozyreva (29%)</li>  
 <li>ITA: <b><i>SYR</i></b> - Kozyreva (1.79) def. Arrese (1.49)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -149,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Kentucky should win 4 or more singles matches *47%* of the time.  
-- Syracuse should win 4 or more singles matches *22%* of the time.  
-- The winner of the doubles point should decide the match the other *31%* of the time.  
-- If Kentucky wins the doubles point, their chances of winning the dual improve to *78%*.  
-- If Syracuse wins the doubles point, their chances of winning the dual improve to *53%*.  
+- Kentucky should win 4 or more singles matches *52%* of the time.  
+- Syracuse should win 4 or more singles matches *19%* of the time.  
+- The winner of the doubles point should decide the match the other *29%* of the time.  
+- If Kentucky wins the doubles point, their chances of winning the dual improve to *81%*.  
+- If Syracuse wins the doubles point, their chances of winning the dual improve to *48%*.  
   
 ------
 

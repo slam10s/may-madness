@@ -15,13 +15,13 @@ Home:
     Overall: 6
     Region: 1
   Ratings:
-    ITA: 6 (55.66)
+    ITA: 6 (56.15)
     SLM: 11 (91.65)
     TRN: 10 (84.27)
     MAS: 6 (8.36)
     UTR: 9 (62.99)
   Polls:
-    USTA: 11
+    USTA: 12 (197.00)
     Coach: 6
 Visitor:
   Team: Iowa St.
@@ -31,7 +31,7 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 36 (22.35)
+    ITA: 36 (22.52)
     SLM: 41 (86.71)
     TRN: 42 (78.56)
     MAS: 39 (6.76)
@@ -42,29 +42,28 @@ Predictions:
   AVG: NCST - NC State (97%) def. Iowa St. (3%)
   SLM: "NCST - #11 NC State (94%) def. #41 Iowa St. (6%)"
   TRN: "NCST - #10 NC State (96%) def. #42 Iowa St. (4%)"
-  MAS: "NCST - #6 NC State (99%) def. #39 Iowa St. (1%)"
+  MAS: "NCST - #6 NC State (98%) def. #39 Iowa St. (2%)"
   LNUP: NCST - NC State (98%) def. Iowa St. (2%)
   UTR: "NCST - #9 NC State (+3.92) def. #39 Iowa St. (-3.92)"
   ITA: "NCST - #6 NC State def. #36 Iowa St."
-  USTA: "NCST - #11 NC State def. Iowa St."
-  Coach: "NCST - #6 NC State def. #36 Iowa St."
+  USTA: "NCST - #12 NC State def. Iowa St."
   Seeding: "NCST - #1 NC State def. #3 Iowa St."
 Lineups:
   Predictions:
-    Average EWPs for NCST: 94%,96%,99%,98%
-    Average EWPs for ISU: 6%,4%,1%,2%
-    NCST wins 4 or more Singles points: 94%
+    Average EWPs for NCST: 94%,96%,98%,98%
+    Average EWPs for ISU: 6%,4%,2%,2%
+    NCST wins 4 or more Singles points: 93%
     ISU wins 4 or more Singles points: 1%
-    Winner decided by the Doubles point: 5%
+    Winner decided by the Doubles point: 6%
   Singles:
     - Position: 1
       NCST: Anna Rogers - 14-6 at 1, 14-6 in duals, 19-6 overall
       ISU: Thasaporn Naklo - 10-7 at 1, 10-7 in duals, 10-7 overall
       Predictions:
-        AVG: NCST - Rogers (93%) def. Naklo (7%)
-        SLM: NCST - Rogers (94%) def. Naklo (6%)
-        TRN: NCST - Rogers (97%) def. Naklo (3%)
-        MAS: NCST - Rogers (92%) def. Naklo (8%)
+        AVG: NCST - Rogers (91%) def. Naklo (9%)
+        SLM: NCST - Rogers (91%) def. Naklo (9%)
+        TRN: NCST - Rogers (95%) def. Naklo (5%)
+        MAS: NCST - Rogers (87%) def. Naklo (13%)
         UTR: NCST - Rogers (90%) def. Naklo (10%)
         ITA: NCST - Rogers (48.19) def. Naklo (2.77)
     - Position: 2
@@ -72,19 +71,19 @@ Lineups:
       ISU: Maty Cancini - 6-9 at 2, 6-9 in duals, 6-9 overall
       Predictions:
         AVG: NCST - Smith (91%) def. Cancini (9%)
-        SLM: NCST - Smith (90%) def. Cancini (10%)
-        TRN: NCST - Smith (92%) def. Cancini (8%)
-        MAS: NCST - Smith (94%) def. Cancini (6%)
+        SLM: NCST - Smith (89%) def. Cancini (11%)
+        TRN: NCST - Smith (91%) def. Cancini (9%)
+        MAS: NCST - Smith (93%) def. Cancini (7%)
         UTR: NCST - Smith (89%) def. Cancini (11%)
         ITA: NCST - Smith (22.32) def. Cancini (1.95)
     - Position: 3
       NCST: Adriana Reami - 12-4 at 3, 15-5 in duals, 16-9 overall
       ISU: Miska Kadleckova - 6-1 at 3, 14-3 in duals, 14-3 overall
       Predictions:
-        AVG: NCST - Reami (70%) def. Kadleckova (30%)
-        SLM: NCST - Reami (75%) def. Kadleckova (25%)
-        TRN: NCST - Reami (68%) def. Kadleckova (32%)
-        MAS: NCST - Reami (63%) def. Kadleckova (37%)
+        AVG: NCST - Reami (62%) def. Kadleckova (38%)
+        SLM: NCST - Reami (69%) def. Kadleckova (31%)
+        TRN: NCST - Reami (52%) def. Kadleckova (48%)
+        MAS: NCST - Reami (56%) def. Kadleckova (44%)
         UTR: NCST - Reami (72%) def. Kadleckova (28%)
         ITA: NCST - Reami (4.00) def. Kadleckova (2.94)
     - Position: 4
@@ -93,20 +92,20 @@ Lineups:
       Predictions:
         AVG: NCST - Daniel (90%) def. Hsieh (10%)
         SLM: NCST - Daniel (84%) def. Hsieh (16%)
-        TRN: NCST - Daniel (87%) def. Hsieh (13%)
-        MAS: NCST - Daniel (92%) def. Hsieh (8%)
+        TRN: NCST - Daniel (88%) def. Hsieh (12%)
+        MAS: NCST - Daniel (93%) def. Hsieh (7%)
         UTR: NCST - Daniel (95%) def. Hsieh (5%)
-        ITA: NCST - Daniel (1.87) def. Hsieh (0.00)
+        ITA: "ISU - # Hsieh def. Daniel (1.87)"
     - Position: 5
       NCST: Abigail Rencheli - 5-2 at 5, 10-4 in duals, 13-5 overall
       ISU: Chie Kezuka - 7-4 at 5, 10-6 in duals, 10-6 overall
       Predictions:
-        AVG: NCST - Rencheli (81%) def. Kezuka (19%)
-        SLM: NCST - Rencheli (68%) def. Kezuka (32%)
+        AVG: NCST - Rencheli (82%) def. Kezuka (18%)
+        SLM: NCST - Rencheli (71%) def. Kezuka (29%)
         TRN: NCST - Rencheli (81%) def. Kezuka (19%)
-        MAS: NCST - Rencheli (82%) def. Kezuka (18%)
+        MAS: NCST - Rencheli (83%) def. Kezuka (17%)
         UTR: NCST - Rencheli (92%) def. Kezuka (8%)
-        ITA: NCST - Rencheli (7.12) def. Kezuka (0.00)
+        ITA: "ISU - # Kezuka def. Rencheli (7.12)"
     - Position: 6
       NCST: Lexi Keberle - 2-4 at 6, 13-6 in duals, 16-8 overall
       ISU: Sofia Cabezas - 9-3 at 6, 13-4 in duals, 13-4 overall
@@ -114,7 +113,7 @@ Lineups:
         AVG: NCST - Keberle (74%) def. Cabezas (26%)
         SLM: NCST - Keberle (73%) def. Cabezas (27%)
         TRN: NCST - Keberle (67%) def. Cabezas (33%)
-        MAS: NCST - Keberle (78%) def. Cabezas (22%)
+        MAS: NCST - Keberle (77%) def. Cabezas (23%)
         UTR: NCST - Keberle (80%) def. Cabezas (20%)
         ITA: ISU - Cabezas (2.42) def. Keberle (1.71)
   Doubles:

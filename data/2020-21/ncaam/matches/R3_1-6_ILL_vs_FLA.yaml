@@ -21,7 +21,7 @@ Home:
     MAS: 1 (9.40)
     UTR: 1 (80.76)
   Polls:
-    USTA: 2
+    USTA: 2 (302.00)
     Coach: 2
 Visitor:
   Team: Illinois
@@ -32,61 +32,60 @@ Visitor:
     Overall: 16
     Region: 1
   Ratings:
-    ITA: 18 (36.82)
+    ITA: 17 (40.14)
     SLM: 6 (98.81)
     TRN: 4 (98.96)
     MAS: 9 (8.60)
     UTR: 15 (78.92)
   Polls:
-    USTA: 8
+    USTA: 10 (231.00)
     Coach: 13
 Predictions:
   AVG: FLA - Florida (71%) def. Illinois (29%)
   SLM: "FLA - #2 Florida (63%) def. #6 Illinois (37%)"
   TRN: "FLA - #3 Florida (52%) def. #4 Illinois (48%)"
   MAS: "FLA - #1 Florida (88%) def. #9 Illinois (12%)"
-  LNUP: FLA - Florida (82%) def. Illinois (18%)
+  LNUP: FLA - Florida (80%) def. Illinois (20%)
   UTR: "FLA - #1 Florida (+1.84) def. #15 Illinois (-1.84)"
-  ITA: "FLA - #2 Florida def. #18 Illinois"
-  USTA: "FLA - #2 Florida def. #8 Illinois"
-  Coach: "FLA - #2 Florida def. #13 Illinois"
+  ITA: "FLA - #2 Florida def. #17 Illinois"
+  USTA: "FLA - #2 Florida def. #10 Illinois"
   Seeding: "FLA - #1 Florida def. #16 Illinois"
 Lineups:
   Predictions:
-    Average EWPs for FLA: 63%,52%,88%,82%
-    Average EWPs for ILL: 37%,48%,12%,18%
-    FLA wins 4 or more Singles points: 60%
-    ILL wins 4 or more Singles points: 13%
-    Winner decided by the Doubles point: 27%
+    Average EWPs for FLA: 63%,52%,88%,80%
+    Average EWPs for ILL: 37%,48%,12%,20%
+    FLA wins 4 or more Singles points: 58%
+    ILL wins 4 or more Singles points: 14%
+    Winner decided by the Doubles point: 28%
   Singles:
     - Position: 1
       FLA: Duarte Vale - 15-6 at 1, 15-6 in duals, 23-6 overall
       ILL: Aleks Kovacevic - 10-1 at 1, 10-1 in duals, 10-1 overall
       Predictions:
-        AVG: ILL - Kovacevic (73%) def. Vale (27%)
-        SLM: ILL - Kovacevic (72%) def. Vale (28%)
-        TRN: ILL - Kovacevic (69%) def. Vale (31%)
-        MAS: ILL - Kovacevic (72%) def. Vale (28%)
+        AVG: ILL - Kovacevic (75%) def. Vale (25%)
+        SLM: ILL - Kovacevic (73%) def. Vale (27%)
+        TRN: ILL - Kovacevic (72%) def. Vale (28%)
+        MAS: ILL - Kovacevic (73%) def. Vale (27%)
         UTR: ILL - Kovacevic (80%) def. Vale (20%)
         ITA: FLA - Vale (54.01) def. Kovacevic (4.00)
     - Position: 2
       FLA: Sam Riffice - 16-4 at 2, 18-4 in duals, 23-7 overall
       ILL: Siphosothando Montsi - 7-2 at 2, 15-3 in duals, 15-3 overall
       Predictions:
-        AVG: FLA - Riffice (58%) def. Montsi (42%)
-        SLM: FLA - Riffice (50%) def. Montsi (50%)
-        TRN: FLA - Riffice (50%) def. Montsi (50%)
-        MAS: FLA - Riffice (54%) def. Montsi (46%)
+        AVG: FLA - Riffice (57%) def. Montsi (43%)
+        SLM: ILL - Montsi (51%) def. Riffice (49%)
+        TRN: ILL - Montsi (54%) def. Riffice (46%)
+        MAS: FLA - Riffice (56%) def. Montsi (44%)
         UTR: FLA - Riffice (78%) def. Montsi (22%)
         ITA: FLA - Riffice (49.68) def. Montsi (4.79)
     - Position: 3
       FLA: Andy Andrade - 12-7 at 3, 14-7 in duals, 22-7 overall
       ILL: Alex Brown - 3-2 at 3, 8-9 in duals, 9-12 overall
       Predictions:
-        AVG: FLA - Andrade (85%) def. Brown (15%)
-        SLM: FLA - Andrade (76%) def. Brown (24%)
-        TRN: FLA - Andrade (88%) def. Brown (12%)
-        MAS: FLA - Andrade (86%) def. Brown (14%)
+        AVG: FLA - Andrade (84%) def. Brown (16%)
+        SLM: FLA - Andrade (74%) def. Brown (26%)
+        TRN: FLA - Andrade (86%) def. Brown (14%)
+        MAS: FLA - Andrade (85%) def. Brown (15%)
         UTR: FLA - Andrade (90%) def. Brown (10%)
         ITA: FLA - Andrade (32.71) def. Brown (1.47)
     - Position: 4
@@ -94,9 +93,9 @@ Lineups:
       ILL: Zeke Clark - 6-1 at 4, 16-1 in duals, 19-2 overall
       Predictions:
         AVG: FLA - Bicknell (63%) def. Clark (37%)
-        SLM: FLA - Bicknell (52%) def. Clark (48%)
-        TRN: FLA - Bicknell (73%) def. Clark (27%)
-        MAS: FLA - Bicknell (55%) def. Clark (45%)
+        SLM: FLA - Bicknell (50%) def. Clark (50%)
+        TRN: FLA - Bicknell (71%) def. Clark (29%)
+        MAS: FLA - Bicknell (57%) def. Clark (43%)
         UTR: FLA - Bicknell (72%) def. Clark (28%)
         ITA: FLA - Bicknell (15.89) def. Clark (6.43)
     - Position: 5
@@ -104,9 +103,9 @@ Lineups:
       ILL: Hunter Heck - 9-4 at 5, 13-5 in duals, 16-6 overall
       Predictions:
         AVG: FLA - Shelton (70%) def. Heck (30%)
-        SLM: FLA - Shelton (64%) def. Heck (36%)
-        TRN: FLA - Shelton (65%) def. Heck (35%)
-        MAS: FLA - Shelton (64%) def. Heck (36%)
+        SLM: FLA - Shelton (62%) def. Heck (38%)
+        TRN: FLA - Shelton (63%) def. Heck (37%)
+        MAS: FLA - Shelton (67%) def. Heck (33%)
         UTR: FLA - Shelton (88%) def. Heck (12%)
         ITA: FLA - Shelton (3.20) def. Heck (2.36)
     - Position: 6
@@ -114,9 +113,9 @@ Lineups:
       ILL: Noe Khlif - 5-0 at 6, 15-1 in duals, 15-1 overall
       Predictions:
         AVG: FLA - Goodger (68%) def. Khlif (32%)
-        SLM: FLA - Goodger (61%) def. Khlif (39%)
-        TRN: FLA - Goodger (67%) def. Khlif (33%)
-        MAS: FLA - Goodger (64%) def. Khlif (36%)
+        SLM: FLA - Goodger (59%) def. Khlif (41%)
+        TRN: FLA - Goodger (65%) def. Khlif (35%)
+        MAS: FLA - Goodger (68%) def. Khlif (32%)
         UTR: FLA - Goodger (80%) def. Khlif (20%)
         ITA: FLA - Goodger (8.31) def. Khlif (3.59)
   Doubles:

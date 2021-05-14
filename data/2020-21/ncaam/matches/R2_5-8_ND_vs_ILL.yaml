@@ -15,13 +15,13 @@ Home:
     Overall: 16
     Region: 1
   Ratings:
-    ITA: 18 (36.82)
+    ITA: 17 (40.14)
     SLM: 6 (98.81)
     TRN: 4 (98.96)
     MAS: 9 (8.60)
     UTR: 15 (78.92)
   Polls:
-    USTA: 8
+    USTA: 10 (231.00)
     Coach: 13
 Visitor:
   Team: Notre Dame
@@ -31,7 +31,7 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 34 (25.22)
+    ITA: 34 (25.30)
     SLM: 40 (91.96)
     TRN: 42 (89.57)
     MAS: 36 (7.36)
@@ -39,82 +39,81 @@ Visitor:
   Polls:
     Coach: 37
 Predictions:
-  AVG: ILL - Illinois (96%) def. Notre Dame (4%)
+  AVG: ILL - Illinois (97%) def. Notre Dame (3%)
   SLM: "ILL - #6 Illinois (98%) def. #40 Notre Dame (2%)"
   TRN: "ILL - #4 Illinois (99%) def. #42 Notre Dame (1%)"
-  MAS: "ILL - #9 Illinois (90%) def. #36 Notre Dame (10%)"
-  LNUP: ILL - Illinois (96%) def. Notre Dame (4%)
+  MAS: "ILL - #9 Illinois (92%) def. #36 Notre Dame (8%)"
+  LNUP: ILL - Illinois (98%) def. Notre Dame (2%)
   UTR: "ILL - #15 Illinois (+2.54) def. #38 Notre Dame (-2.54)"
-  ITA: "ILL - #18 Illinois def. #34 Notre Dame"
-  USTA: "ILL - #8 Illinois def. Notre Dame"
-  Coach: "ILL - #13 Illinois def. #37 Notre Dame"
+  ITA: "ILL - #17 Illinois def. #34 Notre Dame"
+  USTA: "ILL - #10 Illinois def. Notre Dame"
   Seeding: "ILL - #1 Illinois def. #2 Notre Dame"
 Lineups:
   Predictions:
-    Average EWPs for ILL: 98%,99%,90%,96%
-    Average EWPs for ND: 2%,1%,10%,4%
-    ILL wins 4 or more Singles points: 84%
-    ND wins 4 or more Singles points: 3%
-    Winner decided by the Doubles point: 13%
+    Average EWPs for ILL: 98%,99%,92%,98%
+    Average EWPs for ND: 2%,1%,8%,2%
+    ILL wins 4 or more Singles points: 92%
+    ND wins 4 or more Singles points: 1%
+    Winner decided by the Doubles point: 7%
   Singles:
     - Position: 1
       ILL: Aleks Kovacevic - 10-1 at 1, 10-1 in duals, 10-1 overall
       ND: Axel Nefve - 13-2 at 1, 18-3 in duals, 18-3 overall
       Predictions:
-        AVG: ILL - Kovacevic (77%) def. Nefve (23%)
-        SLM: ILL - Kovacevic (77%) def. Nefve (23%)
-        TRN: ILL - Kovacevic (71%) def. Nefve (29%)
-        MAS: ILL - Kovacevic (77%) def. Nefve (23%)
+        AVG: ILL - Kovacevic (79%) def. Nefve (21%)
+        SLM: ILL - Kovacevic (79%) def. Nefve (21%)
+        TRN: ILL - Kovacevic (75%) def. Nefve (25%)
+        MAS: ILL - Kovacevic (80%) def. Nefve (20%)
         UTR: ILL - Kovacevic (82%) def. Nefve (18%)
         ITA: ND - Nefve (21.49) def. Kovacevic (4.00)
     - Position: 2
       ILL: Siphosothando Montsi - 7-2 at 2, 15-3 in duals, 15-3 overall
       ND: Richard Ciamarra - 9-4 at 2, 14-7 in duals, 14-7 overall
       Predictions:
-        AVG: ILL - Montsi (69%) def. Ciamarra (31%)
-        SLM: ILL - Montsi (65%) def. Ciamarra (35%)
-        TRN: ILL - Montsi (75%) def. Ciamarra (25%)
-        MAS: ILL - Montsi (71%) def. Ciamarra (29%)
+        AVG: ILL - Montsi (70%) def. Ciamarra (30%)
+        SLM: ILL - Montsi (68%) def. Ciamarra (32%)
+        TRN: ILL - Montsi (80%) def. Ciamarra (20%)
+        MAS: ILL - Montsi (69%) def. Ciamarra (31%)
         UTR: ILL - Montsi (64%) def. Ciamarra (36%)
         ITA: ND - Ciamarra (8.18) def. Montsi (4.79)
     - Position: 3
       ILL: Alex Brown - 3-2 at 3, 8-9 in duals, 9-12 overall
       ND: Tristan McCormick - 8-5 at 3, 10-6 in duals, 10-6 overall
       Predictions:
-        AVG: ILL - Brown (50%) def. McCormick (50%)
-        SLM: ILL - Brown (66%) def. McCormick (34%)
-        TRN: ILL - Brown (58%) def. McCormick (42%)
-        MAS: ILL - Brown (50%) def. McCormick (50%)
+        AVG: ILL - Brown (55%) def. McCormick (45%)
+        SLM: ILL - Brown (69%) def. McCormick (31%)
+        TRN: ILL - Brown (63%) def. McCormick (37%)
+        MAS: ILL - Brown (62%) def. McCormick (38%)
         UTR: ND - McCormick (72%) def. Brown (28%)
         ITA: ND - McCormick (3.76) def. Brown (1.47)
     - Position: 4
       ILL: Zeke Clark - 6-1 at 4, 16-1 in duals, 19-2 overall
       ND: William Howells - 0-0 at 4, 2-1 in duals, 2-1 overall
       Predictions:
-        AVG: ILL - Clark (74%) def. Howells (26%)
-        SLM: ILL - Clark (99%) def. Howells (1%)
-        TRN: ILL - Clark (99%) def. Howells (1%)
-        MAS: ND - Howells (99%) def. Clark (1%)
-        UTR: ILL - Clark (99%) def. Howells (1%)
-        ITA: ILL - Clark (6.43) def. Howells (0.00)
+        AVG: ILL - Clark (95%) def. Howells (5%)
+        SLM: ILL - Clark (97%) def. Howells (3%)
+        TRN: ILL - Clark (98%) def. Howells (2%)
+        MAS: ILL - Clark (90%) def. Howells (10%)
+        UTR: ILL - Clark (95%) def. Howells (5%)
+        ITA: "ND - # Howells def. Clark (6.43)"
     - Position: 5
       ILL: Hunter Heck - 9-4 at 5, 13-5 in duals, 16-6 overall
       ND: Matthew Che - 0-1 at 5, 6-12 in duals, 6-12 overall
       Predictions:
-        AVG: ILL - Heck (89%) def. Che (11%)
-        SLM: ILL - Heck (87%) def. Che (13%)
-        TRN: ILL - Heck (94%) def. Che (6%)
-        MAS: ILL - Heck (86%) def. Che (14%)
+        AVG: ILL - Heck (90%) def. Che (10%)
+        SLM: ILL - Heck (88%) def. Che (12%)
+        TRN: ILL - Heck (95%) def. Che (5%)
+        MAS: ILL - Heck (87%) def. Che (13%)
         UTR: ILL - Heck (89%) def. Che (11%)
-        ITA: ILL - Heck (2.36) def. Che (0.00)
+        ITA: "ND - # Che def. Heck (2.36)"
     - Position: 6
       ILL: Noe Khlif - 5-0 at 6, 15-1 in duals, 15-1 overall
       ND: Connor Fu - 0-1 at 6, 12-9 in duals, 12-9 overall
       Predictions:
         AVG: ILL - Khlif (88%) def. Fu (12%)
-        SLM: ILL - Khlif (89%) def. Fu (11%)
+        SLM: ILL - Khlif (90%) def. Fu (10%)
         TRN: ILL - Khlif (93%) def. Fu (7%)
-        MAS: ILL - Khlif (87%) def. Fu (13%)
+        MAS: ILL - Khlif (85%) def. Fu (15%)
         UTR: ILL - Khlif (85%) def. Fu (15%)
         ITA: ILL - Khlif (3.59) def. Fu (1.57)
   Doubles:

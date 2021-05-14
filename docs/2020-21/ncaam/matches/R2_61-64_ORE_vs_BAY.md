@@ -10,12 +10,11 @@ Waco, Texas
 
 <h2>#3 Oregon</h2>  
 &nbsp; Record: 17-7<br>  
-&nbsp; ITA: 36 (23.55)<br>  
+&nbsp; ITA: 37 (23.36)<br>  
 &nbsp; Slam: 44 (91.52)<br>  
 &nbsp; TRN: 41 (89.70)<br>  
 &nbsp; Massey: 30 (7.51)<br>  
 &nbsp; UTR: 33 (76.78)<br>  
-&nbsp; USTA Poll: NR<br>  
 &nbsp; Coaches Poll: 41<br>  
 <br>  
 
@@ -29,8 +28,8 @@ Waco, Texas
 &#10004; TRN: 6 (98.67)<br>  
 &#10004; Massey: 5 (8.82)<br>  
 &#10004; UTR: 9 (79.74)<br>  
-&#10004; USTA Poll: 3<br>  
-&#10004; Coaches Poll: 1<br>  
+&#10004; USTA Poll: 3 (292.00)<br>  
+&nbsp; Coaches Poll: 1<br>  
 <br>  
 
 </td>
@@ -49,12 +48,11 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***BAY*** - Baylor (97%) def. Oregon (3%)  
 - Slam: ***BAY*** - #5 Baylor (98%) def. #44 Oregon (2%)  
 - TRN: ***BAY*** - #6 Baylor (99%) def. #41 Oregon (1%)  
-- Massey: ***BAY*** - #5 Baylor (93%) def. #30 Oregon (7%)  
+- Massey: ***BAY*** - #5 Baylor (94%) def. #30 Oregon (6%)  
 - Lineup: ***BAY*** - Baylor (98%) def. Oregon (2%)  
 - UTR: ***BAY*** - #9 Baylor (+2.96) def. #33 Oregon (-2.96)  
-- ITA: ***BAY*** - #1 Baylor def. #36 Oregon  
+- ITA: ***BAY*** - #1 Baylor def. #37 Oregon  
 - USTA Poll: ***BAY*** - #3 Baylor def. Oregon  
-- Coaches Poll: ***BAY*** - #1 Baylor def. #41 Oregon  
 - Seeding: ***BAY*** - #1 Baylor def. #3 Oregon  
 
 ## Individual Matchups  
@@ -68,8 +66,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Emmanuel Coste (ORE) - 5-4 at #1, 11-6 in duals, 11-6 overall<br>Adrian Boitan (BAY) - 14-4 at #1, 15-5 in duals, 15-5 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>BAY</i></b> - Boitan (76%) def. Coste (24%)</li>  
-<li>Slam: <b><i>BAY</i></b> - Boitan (72%) def. Coste (28%)</li>  
-<li>TRN: <b><i>BAY</i></b> - Boitan (75%) def. Coste (25%)</li>  
+<li>Slam: <b><i>BAY</i></b> - Boitan (73%) def. Coste (27%)</li>  
+<li>TRN: <b><i>BAY</i></b> - Boitan (76%) def. Coste (24%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Boitan (80%) def. Coste (20%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Boitan (76%) def. Coste (24%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Boitan (31.04) def. Coste (3.31)</li>  
@@ -78,10 +76,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Joshua Charlton (ORE) - 6-2 at #2, 12-6 in duals, 12-6 overall<br>Matias Soto (BAY) - 12-3 at #2, 14-4 in duals, 18-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Soto (84%) def. Charlton (16%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Soto (83%) def. Charlton (17%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Soto (77%) def. Charlton (23%)</li>  
-<li>TRN: <b><i>BAY</i></b> - Soto (88%) def. Charlton (12%)</li>  
-<li>Massey: <b><i>BAY</i></b> - Soto (85%) def. Charlton (15%)</li>  
+<li>TRN: <b><i>BAY</i></b> - Soto (89%) def. Charlton (11%)</li>  
+<li>Massey: <b><i>BAY</i></b> - Soto (83%) def. Charlton (17%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Soto (85%) def. Charlton (15%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Soto (41.70) def. Charlton (2.88)</li>  
 </ul>
@@ -90,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Quinn Vandecasteele (ORE) - 10-8 at #3, 12-8 in duals, 12-8 overall<br>Sven Lah (BAY) - 6-7 at #3, 9-9 in duals, 11-12 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>BAY</i></b> - Lah (58%) def. Vandecasteele (42%)</li>  
-<li>Slam: <b><i>BAY</i></b> - Lah (61%) def. Vandecasteele (39%)</li>  
+<li>Slam: <b><i>BAY</i></b> - Lah (62%) def. Vandecasteele (38%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Lah (71%) def. Vandecasteele (29%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Lah (63%) def. Vandecasteele (37%)</li>  
 <li>UTR: <b><i>ORE</i></b> - Vandecasteele (63%) def. Lah (37%)</li>  
@@ -100,10 +98,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jesper Klov-Nilsson (ORE) - 10-2 at #4, 17-3 in duals, 17-3 overall<br>Nick Stachowiak (BAY) - 8-2 at #4, 12-5 in duals, 19-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Stachowiak (68%) def. Klov-Nilsson (32%)</li>  
-<li>Slam: <b><i>BAY</i></b> - Stachowiak (68%) def. Klov-Nilsson (32%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Stachowiak (69%) def. Klov-Nilsson (31%)</li>  
+<li>Slam: <b><i>BAY</i></b> - Stachowiak (69%) def. Klov-Nilsson (31%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Stachowiak (73%) def. Klov-Nilsson (27%)</li>  
-<li>Massey: <b><i>BAY</i></b> - Stachowiak (61%) def. Klov-Nilsson (39%)</li>  
+<li>Massey: <b><i>BAY</i></b> - Stachowiak (62%) def. Klov-Nilsson (38%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Stachowiak (72%) def. Klov-Nilsson (28%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Stachowiak (3.38) def. Klov-Nilsson (2.61)</li>  
 </ul>
@@ -111,10 +109,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Brandon Lam (ORE) - 7-3 at #5, 11-6 in duals, 11-6 overall<br>Charlie Broom (BAY) - 17-2 at #5, 21-3 in duals, 24-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Broom (90%) def. Lam (10%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Broom (91%) def. Lam (9%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Broom (89%) def. Lam (11%)</li>  
-<li>TRN: <b><i>BAY</i></b> - Broom (93%) def. Lam (7%)</li>  
-<li>Massey: <b><i>BAY</i></b> - Broom (87%) def. Lam (13%)</li>  
+<li>TRN: <b><i>BAY</i></b> - Broom (94%) def. Lam (6%)</li>  
+<li>Massey: <b><i>BAY</i></b> - Broom (89%) def. Lam (11%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Broom (92%) def. Lam (8%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Broom (3.72) def. Lam (1.91)</li>  
 </ul>
@@ -122,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Luke Vandecasteele (ORE) - 3-6 at #6, 9-8 in duals, 9-8 overall<br>Spencer Furman (BAY) - 11-2 at #6, 18-2 in duals, 21-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Furman (97%) def. Vandecasteele (3%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Furman (96%) def. Vandecasteele (4%)</li>  
 <li>Slam: <b><i>BAY</i></b> - Furman (96%) def. Vandecasteele (4%)</li>  
 <li>TRN: <b><i>BAY</i></b> - Furman (98%) def. Vandecasteele (2%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Furman (97%) def. Vandecasteele (3%)</li>  

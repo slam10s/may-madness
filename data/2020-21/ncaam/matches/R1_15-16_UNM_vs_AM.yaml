@@ -21,31 +21,30 @@ Home:
     MAS: 12 (8.53)
     UTR: 8 (79.76)
   Polls:
-    USTA: 14
+    USTA: 16 (156.00)
     Coach: 8
 Visitor:
   Team: New Mexico
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 15
   Seeding:
     Region: 4
   Ratings:
-    ITA: 52 (7.44)
-    SLM: 53 (87.22)
-    TRN: 54 (83.45)
-    MAS: 48 (6.71)
-    UTR: 51 (73.79)
+    ITA: 52 (7.37)
+    SLM: 52 (87.22)
+    TRN: 53 (83.45)
+    MAS: 47 (6.71)
+    UTR: 50 (73.79)
 Predictions:
   AVG: A&M - Texas A&M (99%) def. New Mexico (1%)
-  SLM: "A&M - #11 Texas A&M (99%) def. #53 New Mexico (1%)"
-  TRN: "A&M - #11 Texas A&M (99%) def. #54 New Mexico (1%)"
-  MAS: "A&M - #12 Texas A&M (99%) def. #48 New Mexico (1%)"
+  SLM: "A&M - #11 Texas A&M (99%) def. #52 New Mexico (1%)"
+  TRN: "A&M - #11 Texas A&M (99%) def. #53 New Mexico (1%)"
+  MAS: "A&M - #12 Texas A&M (99%) def. #47 New Mexico (1%)"
   LNUP: A&M - Texas A&M (99%) def. New Mexico (1%)
-  UTR: "A&M - #8 Texas A&M (+5.97) def. #51 New Mexico (-5.97)"
+  UTR: "A&M - #8 Texas A&M (+5.97) def. #50 New Mexico (-5.97)"
   ITA: "A&M - #8 Texas A&M def. #52 New Mexico"
-  USTA: "A&M - #14 Texas A&M def. New Mexico"
-  Coach: "A&M - #8 Texas A&M def. New Mexico"
+  USTA: "A&M - #16 Texas A&M def. New Mexico"
   Seeding: "A&M - #1 Texas A&M def. #4 New Mexico"
 Lineups:
   Predictions:
@@ -60,8 +59,8 @@ Lineups:
       UNM: Raul Dobai - 7-5 at 1, 9-7 in duals, 9-7 overall
       Predictions:
         AVG: A&M - Vacherot (93%) def. Dobai (7%)
-        SLM: A&M - Vacherot (91%) def. Dobai (9%)
-        TRN: A&M - Vacherot (95%) def. Dobai (5%)
+        SLM: A&M - Vacherot (92%) def. Dobai (8%)
+        TRN: A&M - Vacherot (96%) def. Dobai (4%)
         MAS: A&M - Vacherot (93%) def. Dobai (7%)
         UTR: A&M - Vacherot (92%) def. Dobai (8%)
         ITA: A&M - Vacherot (51.31) def. Dobai (2.42)
@@ -79,22 +78,22 @@ Lineups:
       A&M: Juan Carlos Aguilar - 6-6 at 3, 10-8 in duals, 15-10 overall
       UNM: Stepan Holis - 5-5 at 3, 7-5 in duals, 7-5 overall
       Predictions:
-        AVG: A&M - Aguilar (93%) def. Holis (7%)
-        SLM: A&M - Aguilar (93%) def. Holis (7%)
+        AVG: A&M - Aguilar (92%) def. Holis (8%)
+        SLM: A&M - Aguilar (92%) def. Holis (8%)
         TRN: A&M - Aguilar (96%) def. Holis (4%)
         MAS: A&M - Aguilar (88%) def. Holis (12%)
         UTR: A&M - Aguilar (93%) def. Holis (7%)
         ITA: A&M - Aguilar (23.98) def. Holis (2.18)
     - Position: 4
       A&M: Noah Schachter - 7-5 at 4, 12-10 in duals, 19-13 overall
-      UNM: Rafael Abdulsalam - 3-3 at 4, 6-6 in duals, 6-6 overall
+      UNM: Rafael Abdul Salam - 3-3 at 4, 6-6 in duals, 6-6 overall
       Predictions:
-        AVG: A&M - Schachter (92%) def. Abdulsalam (8%)
-        SLM: A&M - Schachter (94%) def. Abdulsalam (6%)
-        TRN: A&M - Schachter (96%) def. Abdulsalam (4%)
-        MAS: A&M - Schachter (86%) def. Abdulsalam (14%)
-        UTR: A&M - Schachter (92%) def. Abdulsalam (8%)
-        ITA: A&M - Schachter (6.58) def. Abdulsalam (1.72)
+        AVG: A&M - Schachter (88%) def. Salam (12%)
+        SLM: A&M - Schachter (91%) def. Salam (9%)
+        TRN: A&M - Schachter (94%) def. Salam (6%)
+        MAS: A&M - Schachter (77%) def. Salam (23%)
+        UTR: A&M - Schachter (92%) def. Salam (8%)
+        ITA: A&M - Schachter (6.58) def. Salam (1.72)
     - Position: 5
       A&M: Pierce Rollins - 3-3 at 5, 8-5 in duals, 15-9 overall
       UNM: Jake Trondson - 3-0 at 5, 8-4 in duals, 8-4 overall
@@ -102,7 +101,7 @@ Lineups:
         AVG: A&M - Rollins (95%) def. Trondson (5%)
         SLM: A&M - Rollins (96%) def. Trondson (4%)
         TRN: A&M - Rollins (98%) def. Trondson (2%)
-        MAS: A&M - Rollins (90%) def. Trondson (10%)
+        MAS: A&M - Rollins (92%) def. Trondson (8%)
         UTR: A&M - Rollins (95%) def. Trondson (5%)
         ITA: A&M - Rollins (5.08) def. Trondson (2.42)
     - Position: 6
@@ -110,11 +109,11 @@ Lineups:
       UNM: Sergio Molina - 0-0 at 6, 1-7 in duals, 1-7 overall
       Predictions:
         AVG: A&M - Marson (93%) def. Molina (7%)
-        SLM: A&M - Marson (93%) def. Molina (7%)
+        SLM: A&M - Marson (92%) def. Molina (8%)
         TRN: A&M - Marson (98%) def. Molina (2%)
-        MAS: A&M - Marson (91%) def. Molina (9%)
+        MAS: A&M - Marson (92%) def. Molina (8%)
         UTR: A&M - Marson (91%) def. Molina (9%)
-        ITA: A&M - Marson (1.86) def. Molina (0.00)
+        ITA: "UNM - # Molina def. Marson (1.86)"
   Doubles:
     - Position: 1
       A&M: Aguilar/Thomson - 7-6 at 1, 7-6 in duals, 10-8 overall

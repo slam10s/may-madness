@@ -22,13 +22,13 @@ Berkeley, California
 
 <h2>#1 California</h2>  
 &nbsp; Record: 18-6<br>  
-&#10004; ITA: 16 (45.98)<br>  
+&#10004; ITA: 17 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
 &#10004; TRN: 17 (82.99)<br>  
 &#10004; Massey: 14 (8.01)<br>  
 &#10004; UTR: 15 (62.15)<br>  
-&#10004; USTA Poll: 13<br>  
-&#10004; Coaches Poll: 17<br>  
+&#10004; USTA Poll: 14 (170.00)<br>  
+&nbsp; Coaches Poll: 17<br>  
 <br>  
 
 </td>
@@ -49,9 +49,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***CAL*** - #14 California (99%) def. #49 San Jose St. (1%)  
 - Lineup: ***CAL*** - California (99%) def. San Jose St. (1%)  
 - UTR: ***CAL*** - #15 California (+6.78) def. #50 San Jose St. (-6.78)  
-- ITA: ***CAL*** - #16 California def. #47 San Jose St.  
-- USTA Poll: ***CAL*** - #13 California def. San Jose St.  
-- Coaches Poll: ***CAL*** - #17 California def. San Jose St.  
+- ITA: ***CAL*** - #17 California def. #47 San Jose St.  
+- USTA Poll: ***CAL*** - #14 California def. San Jose St.  
 - Seeding: ***CAL*** - #1 California def. #4 San Jose St.  
 
 ## Individual Matchups  
@@ -64,10 +63,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alba Pedrero Galindo (SJSU) - 11-4 at #1, 11-4 in duals, 11-4 overall<br>Haley Giavara (CAL) - 12-10 at #1, 12-10 in duals, 12-10 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Giavara (90%) def. Galindo (10%)</li>  
-<li>Slam: <b><i>CAL</i></b> - Giavara (93%) def. Galindo (7%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Giavara (89%) def. Galindo (11%)</li>  
+<li>Slam: <b><i>CAL</i></b> - Giavara (92%) def. Galindo (8%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Giavara (95%) def. Galindo (5%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Giavara (79%) def. Galindo (21%)</li>  
+<li>Massey: <b><i>CAL</i></b> - Giavara (77%) def. Galindo (23%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Giavara (91%) def. Galindo (9%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Giavara (18.44) def. Galindo (2.47)</li>  
 </ul>
@@ -75,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Rozalina Youseva (SJSU) - 6-6 at #2, 6-6 in duals, 6-6 overall<br>Julia Rosenqvist (CAL) - 11-7 at #2, 14-7 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Rosenqvist (96%) def. Youseva (4%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Rosenqvist (97%) def. Youseva (3%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Rosenqvist (96%) def. Youseva (4%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Rosenqvist (97%) def. Youseva (3%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Rosenqvist (95%) def. Youseva (5%)</li>  
@@ -86,10 +85,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Irena Muradyan (SJSU) - 13-1 at #3, 14-1 in duals, 14-1 overall<br>Valentina Ivanov (CAL) - 9-5 at #3, 10-8 in duals, 10-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Ivanov (85%) def. Muradyan (15%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Ivanov (86%) def. Muradyan (14%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Ivanov (94%) def. Muradyan (6%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Ivanov (92%) def. Muradyan (8%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Ivanov (64%) def. Muradyan (36%)</li>  
+<li>Massey: <b><i>CAL</i></b> - Ivanov (66%) def. Muradyan (34%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Ivanov (91%) def. Muradyan (9%)</li>  
 <li>ITA: <b><i>SJSU</i></b> - Muradyan (3.64) def. Ivanov (1.97)</li>  
 </ul>
@@ -97,10 +96,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Lara Marco Mas (SJSU) - 4-5 at #4, 6-5 in duals, 6-5 overall<br>Jada Bui (CAL) - 8-5 at #4, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>CAL</i></b> - Bui (97%) def. Mas (3%)</li>  
+<li>Composite: <b><i>CAL</i></b> - Bui (96%) def. Mas (4%)</li>  
 <li>Slam: <b><i>CAL</i></b> - Bui (98%) def. Mas (2%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Bui (99%) def. Mas (1%)</li>  
-<li>Massey: <b><i>CAL</i></b> - Bui (96%) def. Mas (4%)</li>  
+<li>Massey: <b><i>CAL</i></b> - Bui (95%) def. Mas (5%)</li>  
 <li>UTR: <b><i>CAL</i></b> - Bui (94%) def. Mas (6%)</li>  
 <li>ITA: <b><i>CAL</i></b> - Bui (1.95) def. Mas (1.77)</li>  
 </ul>
@@ -112,7 +111,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>CAL</i></b> - Moeller (98%) def. Pereira (2%)</li>  
 <li>TRN: <b><i>CAL</i></b> - Moeller (98%) def. Pereira (2%)</li>  
 <li>Massey: <b><i>CAL</i></b> - Moeller (90%) def. Pereira (10%)</li>  
-<li>UTR: <b><i>CAL</i></b> - Moeller (99%) def. Pereira (1%)</li>  
+<li>UTR: <b><i>CAL</i></b> - Moeller (96%) def. Pereira (4%)</li>  
 <li>ITA: <b><i>SJSU</i></b> - Pereira (3.01) def. Moeller (1.79)</li>  
 </ul>
 </details>&nbsp;</li>

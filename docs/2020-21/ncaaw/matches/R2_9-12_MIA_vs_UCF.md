@@ -10,12 +10,12 @@ Orlando, Florida
 
 <h2>#2 Miami (FL)</h2>  
 &nbsp; Record: 15-9<br>  
-&nbsp; ITA: 24 (38.72)<br>  
+&nbsp; ITA: 23 (38.93)<br>  
 &nbsp; Slam: 22 (90.21)<br>  
 &nbsp; TRN: 21 (82.31)<br>  
 &nbsp; Massey: 17 (7.84)<br>  
 &nbsp; UTR: 19 (61.89)<br>  
-&nbsp; USTA Poll: 21<br>  
+&nbsp; USTA Poll: 23 (73.00)<br>  
 &nbsp; Coaches Poll: 21<br>  
 <br>  
 
@@ -24,13 +24,13 @@ Orlando, Florida
 
 <h2>#1 UCF</h2>  
 &nbsp; Record: 20-4<br>  
-&#10004; ITA: 9 (52.14)<br>  
+&#10004; ITA: 9 (52.03)<br>  
 &#10004; Slam: 12 (91.41)<br>  
 &#10004; TRN: 12 (83.85)<br>  
 &#10004; Massey: 10 (8.12)<br>  
 &#10004; UTR: 16 (62.03)<br>  
-&#10004; USTA Poll: 9<br>  
-&#10004; Coaches Poll: 9<br>  
+&#10004; USTA Poll: 10 (203.00)<br>  
+&nbsp; Coaches Poll: 9<br>  
 <br>  
 
 </td>
@@ -46,15 +46,14 @@ Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=77)
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UCF*** - UCF (55%) def. Miami (FL) (45%)  
+- Composite: ***UCF*** - UCF (54%) def. Miami (FL) (46%)  
 - Slam: ***UCF*** - #12 UCF (66%) def. #22 Miami (FL) (34%)  
 - TRN: ***UCF*** - #12 UCF (70%) def. #21 Miami (FL) (30%)  
-- Massey: ***UCF*** - #10 UCF (65%) def. #17 Miami (FL) (35%)  
+- Massey: ***UCF*** - #10 UCF (64%) def. #17 Miami (FL) (36%)  
 - Lineup: ***MIA*** - Miami (FL) (82%) def. UCF (18%)  
 - UTR: ***UCF*** - #16 UCF (+0.14) def. #19 Miami (FL) (-0.14)  
-- ITA: ***UCF*** - #9 UCF def. #24 Miami (FL)  
-- USTA Poll: ***UCF*** - #9 UCF def. #21 Miami (FL)  
-- Coaches Poll: ***UCF*** - #9 UCF def. #21 Miami (FL)  
+- ITA: ***UCF*** - #9 UCF def. #23 Miami (FL)  
+- USTA Poll: ***UCF*** - #10 UCF def. #23 Miami (FL)  
 - Seeding: ***UCF*** - #1 UCF def. #2 Miami (FL)  
 
 ## Individual Matchups  
@@ -70,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>MIA</i></b> - Perez-Somarriba (82%) def. Zeleva (18%)</li>  
 <li>Slam: <b><i>MIA</i></b> - Perez-Somarriba (85%) def. Zeleva (15%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Perez-Somarriba (87%) def. Zeleva (13%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (67%) def. Zeleva (33%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Perez-Somarriba (68%) def. Zeleva (32%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Perez-Somarriba (87%) def. Zeleva (13%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Perez-Somarriba (69.45) def. Zeleva (22.66)</li>  
 </ul>
@@ -78,10 +77,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Isabella Pfennig (MIA) - 12-4 at #2, 16-4 in duals, 16-4 overall<br>Rebeka Stolmar (UCF) - 7-4 at #2, 12-6 in duals, 14-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MIA</i></b> - Pfennig (67%) def. Stolmar (33%)</li>  
-<li>Slam: <b><i>MIA</i></b> - Pfennig (62%) def. Stolmar (38%)</li>  
-<li>TRN: <b><i>MIA</i></b> - Pfennig (70%) def. Stolmar (30%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Pfennig (56%) def. Stolmar (44%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Pfennig (68%) def. Stolmar (32%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Pfennig (63%) def. Stolmar (37%)</li>  
+<li>TRN: <b><i>MIA</i></b> - Pfennig (71%) def. Stolmar (29%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Pfennig (59%) def. Stolmar (41%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Pfennig (78%) def. Stolmar (22%)</li>  
 <li>ITA: <b><i>MIA</i></b> - Pfennig (32.52) def. Stolmar (15.81)</li>  
 </ul>
@@ -103,7 +102,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UCF</i></b> - Kuznetsova (77%) def. Urrutia (23%)</li>  
 <li>Slam: <b><i>UCF</i></b> - Kuznetsova (76%) def. Urrutia (24%)</li>  
 <li>TRN: <b><i>UCF</i></b> - Kuznetsova (74%) def. Urrutia (26%)</li>  
-<li>Massey: <b><i>UCF</i></b> - Kuznetsova (76%) def. Urrutia (24%)</li>  
+<li>Massey: <b><i>UCF</i></b> - Kuznetsova (74%) def. Urrutia (26%)</li>  
 <li>UTR: <b><i>UCF</i></b> - Kuznetsova (84%) def. Urrutia (16%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Kuznetsova (3.33) def. Urrutia (1.96)</li>  
 </ul>
@@ -111,10 +110,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Diana Khodan (MIA) - 5-5 at #5, 12-7 in duals, 12-7 overall<br>Marie Mattel (UCF) - 2-0 at #5, 6-4 in duals, 6-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MIA</i></b> - Khodan (64%) def. Mattel (36%)</li>  
-<li>Slam: <b><i>MIA</i></b> - Khodan (55%) def. Mattel (45%)</li>  
+<li>Composite: <b><i>MIA</i></b> - Khodan (65%) def. Mattel (35%)</li>  
+<li>Slam: <b><i>MIA</i></b> - Khodan (56%) def. Mattel (44%)</li>  
 <li>TRN: <b><i>MIA</i></b> - Khodan (63%) def. Mattel (37%)</li>  
-<li>Massey: <b><i>MIA</i></b> - Khodan (63%) def. Mattel (37%)</li>  
+<li>Massey: <b><i>MIA</i></b> - Khodan (66%) def. Mattel (34%)</li>  
 <li>UTR: <b><i>MIA</i></b> - Khodan (75%) def. Mattel (25%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Mattel (2.00) def. Khodan (1.90)</li>  
 </ul>
@@ -153,9 +152,9 @@ Click on a Singles match to show individual predections for each line.
   
 Based on the composite metrics for each individual match:  
 - UCF should win 4 or more singles matches *12%* of the time.  
-- Miami (FL) should win 4 or more singles matches *56%* of the time.  
-- The winner of the doubles point should decide the match the other *32%* of the time.  
-- If UCF wins the doubles point, their chances of winning the dual improve to *44%*.  
+- Miami (FL) should win 4 or more singles matches *57%* of the time.  
+- The winner of the doubles point should decide the match the other *31%* of the time.  
+- If UCF wins the doubles point, their chances of winning the dual improve to *43%*.  
 - If Miami (FL) wins the doubles point, their chances of winning the dual improve to *88%*.  
   
 ------

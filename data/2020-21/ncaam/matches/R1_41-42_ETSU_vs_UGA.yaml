@@ -15,37 +15,36 @@ Home:
     Overall: 11
     Region: 1
   Ratings:
-    ITA: 11 (54.81)
+    ITA: 11 (54.91)
     SLM: 16 (96.08)
     TRN: 14 (94.91)
     MAS: 15 (8.18)
     UTR: 19 (78.43)
   Polls:
-    USTA: 16
+    USTA: 18 (131.00)
     Coach: 11
 Visitor:
   Team: ETSU
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 42
   Seeding:
     Region: 4
   Ratings:
-    ITA: 49 (7.97)
-    SLM: 52 (87.30)
-    TRN: 53 (84.02)
-    MAS: 51 (6.56)
-    UTR: 50 (73.91)
+    ITA: 49 (7.90)
+    SLM: 51 (87.30)
+    TRN: 52 (84.02)
+    MAS: 50 (6.56)
+    UTR: 49 (73.91)
 Predictions:
   AVG: UGA - Georgia (99%) def. ETSU (1%)
-  SLM: "UGA - #16 Georgia (99%) def. #52 ETSU (1%)"
-  TRN: "UGA - #14 Georgia (99%) def. #53 ETSU (1%)"
-  MAS: "UGA - #15 Georgia (99%) def. #51 ETSU (1%)"
+  SLM: "UGA - #16 Georgia (99%) def. #51 ETSU (1%)"
+  TRN: "UGA - #14 Georgia (99%) def. #52 ETSU (1%)"
+  MAS: "UGA - #15 Georgia (99%) def. #50 ETSU (1%)"
   LNUP: UGA - Georgia (99%) def. ETSU (1%)
-  UTR: "UGA - #19 Georgia (+4.52) def. #50 ETSU (-4.52)"
+  UTR: "UGA - #19 Georgia (+4.52) def. #49 ETSU (-4.52)"
   ITA: "UGA - #11 Georgia def. #49 ETSU"
-  USTA: "UGA - #16 Georgia def. ETSU"
-  Coach: "UGA - #11 Georgia def. ETSU"
+  USTA: "UGA - #18 Georgia def. ETSU"
   Seeding: "UGA - #1 Georgia def. #4 ETSU"
 Lineups:
   Predictions:
@@ -59,10 +58,10 @@ Lineups:
       UGA: Trent Bryde - 9-10 at 1, 9-10 in duals, 14-13 overall
       ETSU: Dimitri Badra - 11-3 at 1, 14-5 in duals, 14-5 overall
       Predictions:
-        AVG: UGA - Bryde (80%) def. Badra (20%)
+        AVG: UGA - Bryde (81%) def. Badra (19%)
         SLM: UGA - Bryde (85%) def. Badra (15%)
-        TRN: UGA - Bryde (79%) def. Badra (21%)
-        MAS: UGA - Bryde (68%) def. Badra (32%)
+        TRN: UGA - Bryde (80%) def. Badra (20%)
+        MAS: UGA - Bryde (70%) def. Badra (30%)
         UTR: UGA - Bryde (88%) def. Badra (12%)
         ITA: UGA - Bryde (36.71) def. Badra (10.52)
     - Position: 2
@@ -72,15 +71,15 @@ Lineups:
         AVG: UGA - Zink (88%) def. Rengifo (12%)
         SLM: UGA - Zink (90%) def. Rengifo (10%)
         TRN: UGA - Zink (93%) def. Rengifo (7%)
-        MAS: UGA - Zink (76%) def. Rengifo (24%)
+        MAS: UGA - Zink (78%) def. Rengifo (22%)
         UTR: UGA - Zink (91%) def. Rengifo (9%)
         ITA: UGA - Zink (25.30) def. Rengifo (2.55)
     - Position: 3
       UGA: Philip Henning - 11-4 at 3, 13-6 in duals, 18-10 overall
       ETSU: Juan Lugo - 5-1 at 3, 9-5 in duals, 9-5 overall
       Predictions:
-        AVG: UGA - Henning (95%) def. Lugo (5%)
-        SLM: UGA - Henning (96%) def. Lugo (4%)
+        AVG: UGA - Henning (96%) def. Lugo (4%)
+        SLM: UGA - Henning (97%) def. Lugo (3%)
         TRN: UGA - Henning (97%) def. Lugo (3%)
         MAS: UGA - Henning (94%) def. Lugo (6%)
         UTR: UGA - Henning (94%) def. Lugo (6%)
@@ -89,10 +88,10 @@ Lineups:
       UGA: Blake Croyder - 10-2 at 4, 11-5 in duals, 15-12 overall
       ETSU: Thiago Pernas - 7-2 at 4, 10-8 in duals, 10-8 overall
       Predictions:
-        AVG: UGA - Croyder (91%) def. Pernas (9%)
+        AVG: UGA - Croyder (92%) def. Pernas (8%)
         SLM: UGA - Croyder (93%) def. Pernas (7%)
         TRN: UGA - Croyder (96%) def. Pernas (4%)
-        MAS: UGA - Croyder (86%) def. Pernas (14%)
+        MAS: UGA - Croyder (88%) def. Pernas (12%)
         UTR: UGA - Croyder (91%) def. Pernas (9%)
         ITA: UGA - Croyder (4.08) def. Pernas (1.71)
     - Position: 5
@@ -109,11 +108,11 @@ Lineups:
       UGA: Erik Grevelius - 7-3 at 6, 9-4 in duals, 15-8 overall
       ETSU: Juan Zabala - 2-1 at 6, 6-4 in duals, 6-4 overall
       Predictions:
-        AVG: UGA - Grevelius (97%) def. Zabala (3%)
-        SLM: UGA - Grevelius (96%) def. Zabala (4%)
+        AVG: UGA - Grevelius (95%) def. Zabala (5%)
+        SLM: UGA - Grevelius (97%) def. Zabala (3%)
         TRN: UGA - Grevelius (97%) def. Zabala (3%)
         MAS: UGA - Grevelius (95%) def. Zabala (5%)
-        UTR: UGA - Grevelius (99%) def. Zabala (1%)
+        UTR: UGA - Grevelius (92%) def. Zabala (8%)
         ITA: UGA - Grevelius (2.48) def. Zabala (1.96)
   Doubles:
     - Position: 1

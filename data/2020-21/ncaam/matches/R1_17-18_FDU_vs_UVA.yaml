@@ -15,37 +15,36 @@ Home:
     Overall: 5
     Region: 1
   Ratings:
-    ITA: 4 (74.36)
+    ITA: 5 (74.11)
     SLM: 1 (100.00)
     TRN: 1 (100.00)
     MAS: 3 (9.13)
     UTR: 6 (80.03)
   Polls:
-    USTA: 1
+    USTA: 1 (320.00)
     Coach: 5
 Visitor:
   Team: Fairleigh Dickinson
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 18
   Seeding:
     Region: 4
   Ratings:
-    ITA: 62 (1.95)
-    SLM: 65 (72.33)
-    TRN: 65 (65.17)
-    MAS: 64 (3.98)
-    UTR: 64 (65.74)
+    ITA: 61 (1.95)
+    SLM: 64 (72.33)
+    TRN: 64 (65.17)
+    MAS: 63 (3.98)
+    UTR: 63 (65.74)
 Predictions:
   AVG: UVA - Virginia (99%) def. Fairleigh Dickinson (1%)
-  SLM: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
-  TRN: "UVA - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)"
-  MAS: "UVA - #3 Virginia (99%) def. #64 Fairleigh Dickinson (1%)"
+  SLM: "UVA - #1 Virginia (99%) def. #64 Fairleigh Dickinson (1%)"
+  TRN: "UVA - #1 Virginia (99%) def. #64 Fairleigh Dickinson (1%)"
+  MAS: "UVA - #3 Virginia (99%) def. #63 Fairleigh Dickinson (1%)"
   LNUP: UVA - Virginia (99%) def. Fairleigh Dickinson (1%)
-  UTR: "UVA - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)"
-  ITA: "UVA - #4 Virginia def. #62 Fairleigh Dickinson"
+  UTR: "UVA - #6 Virginia (+14.29) def. #63 Fairleigh Dickinson (-14.29)"
+  ITA: "UVA - #5 Virginia def. #61 Fairleigh Dickinson"
   USTA: "UVA - #1 Virginia def. Fairleigh Dickinson"
-  Coach: "UVA - #5 Virginia def. Fairleigh Dickinson"
   Seeding: "UVA - #1 Virginia def. #4 Fairleigh Dickinson"
 Lineups:
   Predictions:
@@ -56,15 +55,15 @@ Lineups:
     Winner decided by the Doubles point: 0%
   Singles:
     - Position: 1
-      UVA: Carl Soderlund - 12-2 at 1, 12-2 in duals, 12-2 overall
+      UVA: Carl Söderlund - 12-2 at 1, 12-2 in duals, 12-2 overall
       FDU: Teodors Pukse - 4-3 at 1, 4-3 in duals, 4-3 overall
       Predictions:
-        AVG: FDU - Pukse (75%) def. Soderlund (25%)
-        SLM: FDU - Pukse (99%) def. Soderlund (1%)
-        TRN: FDU - Pukse (99%) def. Soderlund (1%)
-        MAS: UVA - Soderlund (99%) def. Pukse (1%)
-        UTR: FDU - Pukse (99%) def. Soderlund (1%)
-        ITA: UVA - Soderlund (48.38) def. Pukse (1.52)
+        AVG: UVA - Söderlund (99%) def. Pukse (1%)
+        SLM: UVA - Söderlund (99%) def. Pukse (1%)
+        TRN: UVA - Söderlund (99%) def. Pukse (1%)
+        MAS: UVA - Söderlund (99%) def. Pukse (1%)
+        UTR: UVA - Söderlund (99%) def. Pukse (1%)
+        ITA: UVA - Söderlund (48.38) def. Pukse (1.52)
     - Position: 2
       UVA: Jeffrey von der Schulenburg - 7-2 at 2, 16-4 in duals, 16-4 overall
       FDU: Andris Gudins - 2-3 at 2, 4-5 in duals, 4-5 overall
@@ -82,7 +81,7 @@ Lineups:
         AVG: UVA - Rodesch (99%) def. Autuch (1%)
         SLM: UVA - Rodesch (99%) def. Autuch (1%)
         TRN: UVA - Rodesch (99%) def. Autuch (1%)
-        MAS: UVA - Rodesch (99%) def. Autuch (1%)
+        MAS: UVA - Rodesch (98%) def. Autuch (2%)
         UTR: UVA - Rodesch (99%) def. Autuch (1%)
         ITA: UVA - Rodesch (3.82) def. Autuch (1.74)
     - Position: 4
@@ -92,9 +91,9 @@ Lineups:
         AVG: UVA - Torre (74%) def. Sriram (26%)
         SLM: UVA - Torre (99%) def. Sriram (1%)
         TRN: UVA - Torre (99%) def. Sriram (1%)
-        MAS: FDU - Sriram (99%) def. Torre (1%)
+        MAS: "FDU - # Sriram (99%) def. Torre (1%)"
         UTR: UVA - Torre (99%) def. Sriram (1%)
-        ITA: UVA - Torre (12.34) def. Sriram (0.00)
+        ITA: "FDU - # Sriram def. Torre (12.34)"
     - Position: 5
       UVA: Ryan Goetz - 7-1 at 5, 16-5 in duals, 16-5 overall
       FDU: Moric Budinszky - 0-1 at 5, 2-4 in duals, 2-4 overall
@@ -104,7 +103,7 @@ Lineups:
         TRN: UVA - Goetz (99%) def. Budinszky (1%)
         MAS: UVA - Goetz (99%) def. Budinszky (1%)
         UTR: UVA - Goetz (99%) def. Budinszky (1%)
-        ITA: UVA - Goetz (6.09) def. Budinszky (0.00)
+        ITA: "FDU - # Budinszky def. Goetz (6.09)"
     - Position: 6
       UVA: Gianni Ross - 7-3 at 6, 11-3 in duals, 11-3 overall
       FDU: Youssef Sader - 2-0 at 6, 5-4 in duals, 5-4 overall

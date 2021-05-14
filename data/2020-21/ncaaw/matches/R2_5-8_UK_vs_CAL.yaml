@@ -15,13 +15,13 @@ Home:
     Overall: 16
     Region: 1
   Ratings:
-    ITA: 16 (45.98)
+    ITA: 17 (45.98)
     SLM: 17 (90.47)
     TRN: 17 (82.99)
     MAS: 14 (8.01)
     UTR: 15 (62.15)
   Polls:
-    USTA: 13
+    USTA: 14 (170.00)
     Coach: 17
 Visitor:
   Team: Kentucky
@@ -31,92 +31,91 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 26 (37.41)
+    ITA: 26 (37.22)
     SLM: 25 (89.36)
     TRN: 27 (81.49)
     MAS: 33 (7.29)
     UTR: 34 (60.15)
   Polls:
-    USTA: 24
+    USTA: 26 (16.00)
     Coach: 27
 Predictions:
   AVG: CAL - California (79%) def. Kentucky (21%)
   SLM: "CAL - #17 California (65%) def. #25 Kentucky (35%)"
   TRN: "CAL - #17 California (70%) def. #27 Kentucky (30%)"
-  MAS: "CAL - #14 California (84%) def. #33 Kentucky (16%)"
-  LNUP: CAL - California (96%) def. Kentucky (4%)
+  MAS: "CAL - #14 California (87%) def. #33 Kentucky (13%)"
+  LNUP: CAL - California (95%) def. Kentucky (5%)
   UTR: "CAL - #15 California (+2.00) def. #34 Kentucky (-2.00)"
-  ITA: "CAL - #16 California def. #26 Kentucky"
-  USTA: "CAL - #13 California def. #24 Kentucky"
-  Coach: "CAL - #17 California def. #27 Kentucky"
+  ITA: "CAL - #17 California def. #26 Kentucky"
+  USTA: "CAL - #14 California def. #26 Kentucky"
   Seeding: "CAL - #1 California def. #2 Kentucky"
 Lineups:
   Predictions:
-    Average EWPs for CAL: 65%,70%,84%,96%
-    Average EWPs for UK: 35%,30%,16%,4%
-    CAL wins 4 or more Singles points: 84%
-    UK wins 4 or more Singles points: 3%
+    Average EWPs for CAL: 65%,70%,87%,95%
+    Average EWPs for UK: 35%,30%,13%,5%
+    CAL wins 4 or more Singles points: 83%
+    UK wins 4 or more Singles points: 4%
     Winner decided by the Doubles point: 13%
   Singles:
     - Position: 1
       CAL: Haley Giavara - 12-10 at 1, 12-10 in duals, 12-10 overall
-      UK: Akvile Parazinskaite - 16-6 at 1, 16-6 in duals, 19-10 overall
+      UK: Akvilė Paražinskaitė - 16-6 at 1, 16-6 in duals, 19-10 overall
       Predictions:
-        AVG: CAL - Giavara (66%) def. Parazinskaite (34%)
-        SLM: CAL - Giavara (73%) def. Parazinskaite (27%)
-        TRN: CAL - Giavara (75%) def. Parazinskaite (25%)
-        MAS: CAL - Giavara (57%) def. Parazinskaite (43%)
-        UTR: CAL - Giavara (58%) def. Parazinskaite (42%)
-        ITA: CAL - Giavara (18.44) def. Parazinskaite (0.00)
+        AVG: CAL - Giavara (60%) def. Paražinskaitė (40%)
+        SLM: CAL - Giavara (65%) def. Paražinskaitė (35%)
+        TRN: CAL - Giavara (64%) def. Paražinskaitė (36%)
+        MAS: CAL - Giavara (54%) def. Paražinskaitė (46%)
+        UTR: CAL - Giavara (58%) def. Paražinskaitė (42%)
+        ITA: UK - Paražinskaitė (19.85) def. Giavara (18.44)
     - Position: 2
       CAL: Julia Rosenqvist - 11-7 at 2, 14-7 in duals, 14-7 overall
       UK: Lesedi Jacobs - 0-1 at 2, 9-5 in duals, 11-8 overall
       Predictions:
-        AVG: CAL - Rosenqvist (70%) def. Jacobs (30%)
-        SLM: CAL - Rosenqvist (72%) def. Jacobs (28%)
-        TRN: CAL - Rosenqvist (70%) def. Jacobs (30%)
-        MAS: CAL - Rosenqvist (57%) def. Jacobs (43%)
+        AVG: CAL - Rosenqvist (65%) def. Jacobs (35%)
+        SLM: CAL - Rosenqvist (66%) def. Jacobs (34%)
+        TRN: CAL - Rosenqvist (63%) def. Jacobs (37%)
+        MAS: CAL - Rosenqvist (53%) def. Jacobs (47%)
         UTR: CAL - Rosenqvist (79%) def. Jacobs (21%)
         ITA: UK - Jacobs (5.00) def. Rosenqvist (2.23)
     - Position: 3
       CAL: Valentina Ivanov - 9-5 at 3, 10-8 in duals, 10-8 overall
-      UK: Carlota Molina - 1-1 at 3, 12-7 in duals, 12-13 overall
+      UK: Carlota Molina Megias - 1-1 at 3, 12-7 in duals, 12-13 overall
       Predictions:
-        AVG: CAL - Ivanov (66%) def. Molina (34%)
-        SLM: CAL - Ivanov (64%) def. Molina (36%)
-        TRN: CAL - Ivanov (64%) def. Molina (36%)
-        MAS: CAL - Ivanov (56%) def. Molina (44%)
-        UTR: CAL - Ivanov (79%) def. Molina (21%)
-        ITA: UK - Molina (2.40) def. Ivanov (1.97)
+        AVG: CAL - Ivanov (69%) def. Megias (31%)
+        SLM: CAL - Ivanov (66%) def. Megias (34%)
+        TRN: CAL - Ivanov (70%) def. Megias (30%)
+        MAS: CAL - Ivanov (63%) def. Megias (37%)
+        UTR: CAL - Ivanov (79%) def. Megias (21%)
+        ITA: UK - Megias (2.40) def. Ivanov (1.97)
     - Position: 4
       CAL: Jada Bui - 8-5 at 4, 10-6 in duals, 10-6 overall
       UK: Elizabeth Stevens - 1-5 at 4, 3-8 in duals, 6-13 overall
       Predictions:
-        AVG: CAL - Bui (82%) def. Stevens (18%)
-        SLM: CAL - Bui (82%) def. Stevens (18%)
-        TRN: CAL - Bui (85%) def. Stevens (15%)
-        MAS: CAL - Bui (79%) def. Stevens (21%)
+        AVG: CAL - Bui (84%) def. Stevens (16%)
+        SLM: CAL - Bui (85%) def. Stevens (15%)
+        TRN: CAL - Bui (88%) def. Stevens (12%)
+        MAS: CAL - Bui (81%) def. Stevens (19%)
         UTR: CAL - Bui (83%) def. Stevens (17%)
-        ITA: CAL - Bui (1.95) def. Stevens (0.00)
+        ITA: "UK - # Stevens def. Bui (1.95)"
     - Position: 5
       CAL: Hannah Viller Moeller - 8-5 at 5, 14-7 in duals, 14-7 overall
       UK: Carla Girbau - 2-1 at 5, 9-9 in duals, 11-14 overall
       Predictions:
-        AVG: CAL - Moeller (78%) def. Girbau (22%)
-        SLM: CAL - Moeller (70%) def. Girbau (30%)
+        AVG: CAL - Moeller (79%) def. Girbau (21%)
+        SLM: CAL - Moeller (74%) def. Girbau (26%)
         TRN: CAL - Moeller (84%) def. Girbau (16%)
-        MAS: CAL - Moeller (78%) def. Girbau (22%)
+        MAS: CAL - Moeller (79%) def. Girbau (21%)
         UTR: CAL - Moeller (81%) def. Girbau (19%)
-        ITA: CAL - Moeller (1.79) def. Girbau (0.00)
+        ITA: "UK - # Girbau def. Moeller (1.79)"
     - Position: 6
       CAL: Anna Bright - 10-3 at 6, 18-3 in duals, 18-3 overall
       UK: Fiona Arrese - 2-1 at 6, 10-4 in duals, 10-9 overall
       Predictions:
-        AVG: CAL - Bright (88%) def. Arrese (12%)
-        SLM: CAL - Bright (75%) def. Arrese (25%)
-        TRN: CAL - Bright (89%) def. Arrese (11%)
-        MAS: CAL - Bright (89%) def. Arrese (11%)
-        UTR: CAL - Bright (99%) def. Arrese (1%)
+        AVG: CAL - Bright (87%) def. Arrese (13%)
+        SLM: CAL - Bright (80%) def. Arrese (20%)
+        TRN: CAL - Bright (91%) def. Arrese (9%)
+        MAS: CAL - Bright (90%) def. Arrese (10%)
+        UTR: CAL - Bright (89%) def. Arrese (11%)
         ITA: CAL - Bright (2.79) def. Arrese (1.49)
   Doubles:
     - Position: 1

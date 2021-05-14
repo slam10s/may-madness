@@ -15,29 +15,29 @@ Home:
     Overall: 2
     Region: 1
   Ratings:
-    ITA: 2 (79.19)
+    ITA: 2 (79.31)
     SLM: 2 (98.44)
     TRN: 2 (97.97)
     MAS: 2 (9.38)
     UTR: 1 (65.59)
   Polls:
-    USTA: 2
+    USTA: 3 (312.00)
     Coach: 2
 Visitor:
   Team: Denver
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 63
   Seeding:
     Region: 4
   Ratings:
-    ITA: 45 (11.66)
+    ITA: 45 (11.75)
     SLM: 45 (84.92)
     TRN: 45 (76.03)
     MAS: 43 (6.53)
     UTR: 45 (58.03)
   Polls:
-    Coach: 49
+    Coach: 43
 Predictions:
   AVG: TEX - Texas (99%) def. Denver (1%)
   SLM: "TEX - #2 Texas (99%) def. #45 Denver (1%)"
@@ -46,8 +46,7 @@ Predictions:
   LNUP: TEX - Texas (99%) def. Denver (1%)
   UTR: "TEX - #1 Texas (+7.56) def. #45 Denver (-7.56)"
   ITA: "TEX - #2 Texas def. #45 Denver"
-  USTA: "TEX - #2 Texas def. Denver"
-  Coach: "TEX - #2 Texas def. #49 Denver"
+  USTA: "TEX - #3 Texas def. Denver"
   Seeding: "TEX - #1 Texas def. #4 Denver"
 Lineups:
   Predictions:
@@ -62,7 +61,7 @@ Lineups:
       DEN: Anna Riedmiller - 6-0 at 1, 14-1 in duals, 14-1 overall
       Predictions:
         AVG: TEX - Stearns (81%) def. Riedmiller (19%)
-        SLM: TEX - Stearns (86%) def. Riedmiller (14%)
+        SLM: TEX - Stearns (87%) def. Riedmiller (13%)
         TRN: TEX - Stearns (65%) def. Riedmiller (35%)
         MAS: TEX - Stearns (81%) def. Riedmiller (19%)
         UTR: TEX - Stearns (90%) def. Riedmiller (10%)
@@ -94,7 +93,7 @@ Lineups:
         AVG: TEX - Chavatipon (98%) def. Verden-Anderson (2%)
         SLM: TEX - Chavatipon (99%) def. Verden-Anderson (1%)
         TRN: TEX - Chavatipon (99%) def. Verden-Anderson (1%)
-        MAS: TEX - Chavatipon (98%) def. Verden-Anderson (2%)
+        MAS: TEX - Chavatipon (97%) def. Verden-Anderson (3%)
         UTR: TEX - Chavatipon (98%) def. Verden-Anderson (2%)
         ITA: TEX - Chavatipon (7.87) def. Verden-Anderson (3.01)
     - Position: 5
@@ -108,15 +107,15 @@ Lineups:
         UTR: TEX - Collins (98%) def. Chang (2%)
         ITA: TEX - Collins (8.04) def. Chang (2.56)
     - Position: 6
-      TEX: Fernanda Labrana - 5-1 at 6, 14-1 in duals, 21-2 overall
+      TEX: Fernanda Labraña - 5-1 at 6, 14-1 in duals, 21-2 overall
       DEN: Tatum Burger - 2-0 at 6, 8-6 in duals, 8-6 overall
       Predictions:
-        AVG: TEX - Labrana (98%) def. Burger (2%)
-        SLM: TEX - Labrana (99%) def. Burger (1%)
-        TRN: TEX - Labrana (99%) def. Burger (1%)
-        MAS: TEX - Labrana (96%) def. Burger (4%)
-        UTR: TEX - Labrana (97%) def. Burger (3%)
-        ITA: DEN - Burger (1.93) def. Labrana (0.00)
+        AVG: TEX - Labraña (98%) def. Burger (2%)
+        SLM: TEX - Labraña (99%) def. Burger (1%)
+        TRN: TEX - Labraña (99%) def. Burger (1%)
+        MAS: TEX - Labraña (96%) def. Burger (4%)
+        UTR: TEX - Labraña (97%) def. Burger (3%)
+        ITA: TEX - Labraña (4.28) def. Burger (1.93)
   Doubles:
     - Position: 1
       TEX: Sun/Collins - 16-4 at 1, 16-4 in duals, 16-4 overall

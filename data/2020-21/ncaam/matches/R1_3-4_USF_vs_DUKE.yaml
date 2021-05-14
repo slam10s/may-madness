@@ -1,0 +1,116 @@
+Date: Saturday, May 8
+Time: 10:00 EDT
+Tournament: 2021 Division I Men's Tennis Championship
+Round: First Round
+Lines: 3-4
+Title: South Fla. vs Duke
+URL: https://www.ncaa.com/game/5833371
+Winner: TBD
+Home:
+  Team: Duke
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png
+  Entry: At-Large Bid
+  Seeding: {}
+  Ratings:
+    ITA: 32 (25.72)
+    SLM: 31 (93.00)
+    TRN: 36 (90.55)
+    MAS: 34 (7.39)
+    UTR: 32 (76.86)
+Visitor:
+  Team: South Fla.
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png
+  Entry: At-Large Bid
+  Seeding: {}
+  Ratings:
+    ITA: 31 (26.04)
+    SLM: 32 (92.98)
+    TRN: 34 (90.69)
+    MAS: 32 (7.49)
+    UTR: 37 (76.51)
+Predictions:
+  AVG: USF - South Fla. (53%) def. Duke (47%)
+  SLM: "DUKE - #31 Duke (50%) def. #32 South Fla. (50%)"
+  TRN: "USF - #34 South Fla. (52%) def. #36 Duke (48%)"
+  MAS: "USF - #32 South Fla. (60%) def. #34 Duke (40%)"
+  LNUP: USF - South Fla. (51%) def. Duke (49%)
+  UTR: "DUKE - #32 Duke (+0.35) def. #37 South Fla. (-0.35)"
+  ITA: "USF - #31 South Fla. def. #32 Duke"
+Lineups:
+  Predictions:
+    Average EWPs for DUKE: 50%,48%,40%,49%
+    Average EWPs for USF: 50%,52%,60%,51%
+    DUKE wins 4 or more Singles points: 33%
+    USF wins 4 or more Singles points: 35%
+    Winner decided by the Doubles point: 32%
+  Singles:
+    - Position: 1
+      DUKE: Garrett Johns - 8-8 at 1, 8-8 in duals, 9-9 overall
+      USF: Jakub Wojcik - 4-1 at 1, 17-6 in duals, 17-6 overall
+      Predictions:
+        AVG: DUKE - Johns (51%) def. Wojcik (49%)
+        SLM: DUKE - Johns (54%) def. Wojcik (46%)
+        TRN: USF - Wojcik (68%) def. Johns (32%)
+        MAS: USF - Wojcik (57%) def. Johns (43%)
+        UTR: DUKE - Johns (75%) def. Wojcik (25%)
+        ITA: USF - Wojcik (16.76) def. Johns (9.19)
+    - Position: 2
+      DUKE: Sean Sculley - 2-3 at 2, 5-4 in duals, 6-4 overall
+      USF: Chase Ferguson - 5-0 at 2, 13-9 in duals, 13-9 overall
+      Predictions:
+        AVG: USF - Ferguson (63%) def. Sculley (37%)
+        SLM: USF - Ferguson (74%) def. Sculley (26%)
+        TRN: USF - Ferguson (57%) def. Sculley (43%)
+        MAS: USF - Ferguson (67%) def. Sculley (33%)
+        UTR: USF - Ferguson (53%) def. Sculley (47%)
+        ITA: USF - Ferguson (11.90) def. Sculley (3.41)
+    - Position: 3
+      DUKE: Andrew Zhang - 5-1 at 3, 10-5 in duals, 12-5 overall
+      USF: Ivan Yatsuk - 12-6 at 3, 15-7 in duals, 15-7 overall
+      Predictions:
+        AVG: DUKE - Zhang (53%) def. Yatsuk (47%)
+        SLM: USF - Yatsuk (51%) def. Zhang (49%)
+        TRN: USF - Yatsuk (57%) def. Zhang (43%)
+        MAS: DUKE - Zhang (54%) def. Yatsuk (46%)
+        UTR: DUKE - Zhang (67%) def. Yatsuk (33%)
+        ITA: DUKE - Zhang (3.87) def. Yatsuk (2.48)
+    - Position: 4
+      DUKE: Edu Guell - 0-1 at 4, 7-10 in duals, 8-11 overall
+      USF: Antonio Muniz-Hidalgo - 1-1 at 4, 5-4 in duals, 5-4 overall
+      Predictions:
+        AVG: DUKE - Guell (52%) def. Muniz-Hidalgo (48%)
+        SLM: DUKE - Guell (74%) def. Muniz-Hidalgo (26%)
+        TRN: DUKE - Guell (57%) def. Muniz-Hidalgo (43%)
+        MAS: USF - Muniz-Hidalgo (56%) def. Guell (44%)
+        UTR: USF - Muniz-Hidalgo (66%) def. Guell (34%)
+        ITA: DUKE - Guell (4.04) def. Muniz-Hidalgo (1.67)
+    - Position: 5
+      DUKE: Luca Keist - 3-2 at 5, 7-3 in duals, 8-3 overall
+      USF: Pierre Luquet - 0-2 at 5, 8-10 in duals, 8-10 overall
+      Predictions:
+        AVG: DUKE - Keist (56%) def. Luquet (44%)
+        SLM: DUKE - Keist (61%) def. Luquet (39%)
+        TRN: DUKE - Keist (71%) def. Luquet (29%)
+        MAS: DUKE - Keist (61%) def. Luquet (39%)
+        UTR: USF - Luquet (68%) def. Keist (32%)
+        ITA: DUKE - Keist (3.16) def. Luquet (1.56)
+    - Position: 6
+      DUKE: Andrew Dale - 0-2 at 6, 8-4 in duals, 10-4 overall
+      USF: Sergio Gomez-Montesa - 2-1 at 6, 13-10 in duals, 13-10 overall
+      Predictions:
+        AVG: USF - Gomez-Montesa (52%) def. Dale (48%)
+        SLM: DUKE - Dale (52%) def. Gomez-Montesa (48%)
+        TRN: USF - Gomez-Montesa (58%) def. Dale (42%)
+        MAS: USF - Gomez-Montesa (58%) def. Dale (42%)
+        UTR: DUKE - Dale (53%) def. Gomez-Montesa (47%)
+        ITA: DUKE - Dale (2.29) def. Gomez-Montesa (1.78)
+  Doubles:
+    - Position: 1
+      DUKE: Sculley/Johns - 8-7 at 1, 8-7 in duals, 9-8 overall
+      USF: Bollipalli/Wojcik - 9-7 at 1, 9-7 in duals, 9-7 overall
+    - Position: 2
+      DUKE: Heller/Zhang - 4-1 at 2, 5-2 in duals, 5-2 overall
+      USF: Ferguson/Yatsuk - 1-0 at 2, 2-1 in duals, 2-1 overall
+    - Position: 3
+      DUKE: Keist/Dale - 1-1 at 3, 1-1 in duals, 1-1 overall
+      USF: Goncalves/Tudorica - 0-0 at 3, 0-0 in duals, 0-0 overall

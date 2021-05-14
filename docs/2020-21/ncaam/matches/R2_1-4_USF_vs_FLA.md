@@ -10,7 +10,7 @@ Gainesville, Florida
 
 <h2>#2 South Fla.</h2>  
 &nbsp; Record: 17-10<br>  
-&nbsp; ITA: 32 (26.14)<br>  
+&nbsp; ITA: 31 (26.04)<br>  
 &nbsp; Slam: 32 (92.98)<br>  
 &nbsp; TRN: 34 (90.69)<br>  
 &nbsp; Massey: 32 (7.49)<br>  
@@ -28,8 +28,8 @@ Gainesville, Florida
 &#10004; TRN: 3 (99.10)<br>  
 &#10004; Massey: 1 (9.40)<br>  
 &#10004; UTR: 1 (80.76)<br>  
-&#10004; USTA Poll: 2<br>  
-&#10004; Coaches Poll: 2<br>  
+&#10004; USTA Poll: 2 (302.00)<br>  
+&nbsp; Coaches Poll: 2<br>  
 <br>  
 
 </td>
@@ -51,9 +51,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***FLA*** - #1 Florida (99%) def. #32 South Fla. (1%)  
 - Lineup: ***FLA*** - Florida (99%) def. South Fla. (1%)  
 - UTR: ***FLA*** - #1 Florida (+4.25) def. #37 South Fla. (-4.25)  
-- ITA: ***FLA*** - #2 Florida def. #32 South Fla.  
+- ITA: ***FLA*** - #2 Florida def. #31 South Fla.  
 - USTA Poll: ***FLA*** - #2 Florida def. South Fla.  
-- Coaches Poll: ***FLA*** - #2 Florida def. #33 South Fla.  
 - Seeding: ***FLA*** - #1 Florida def. #2 South Fla.  
 
 ## Individual Matchups  
@@ -66,10 +65,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jakub Wojcik (USF) - 4-1 at #1, 17-6 in duals, 17-6 overall<br>Duarte Vale (FLA) - 15-6 at #1, 15-6 in duals, 23-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Vale (84%) def. Wojcik (16%)</li>  
-<li>Slam: <b><i>FLA</i></b> - Vale (85%) def. Wojcik (15%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Vale (85%) def. Wojcik (15%)</li>  
+<li>Slam: <b><i>FLA</i></b> - Vale (86%) def. Wojcik (14%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Vale (80%) def. Wojcik (20%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Vale (81%) def. Wojcik (19%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Vale (84%) def. Wojcik (16%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Vale (90%) def. Wojcik (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Vale (54.01) def. Wojcik (16.76)</li>  
 </ul>
@@ -77,10 +76,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Chase Ferguson (USF) - 5-0 at #2, 13-9 in duals, 13-9 overall<br>Sam Riffice (FLA) - 16-4 at #2, 18-4 in duals, 23-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Riffice (82%) def. Ferguson (18%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Riffice (81%) def. Ferguson (19%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Riffice (74%) def. Ferguson (26%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Riffice (84%) def. Ferguson (16%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Riffice (78%) def. Ferguson (22%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Riffice (77%) def. Ferguson (23%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Riffice (90%) def. Ferguson (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Riffice (49.68) def. Ferguson (11.90)</li>  
 </ul>
@@ -88,10 +87,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ivan Yatsuk (USF) - 12-6 at #3, 15-7 in duals, 15-7 overall<br>Andy Andrade (FLA) - 12-7 at #3, 14-7 in duals, 22-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Andrade (85%) def. Yatsuk (15%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Andrade (86%) def. Yatsuk (14%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Andrade (83%) def. Yatsuk (17%)</li>  
-<li>TRN: <b><i>FLA</i></b> - Andrade (87%) def. Yatsuk (13%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Andrade (83%) def. Yatsuk (17%)</li>  
+<li>TRN: <b><i>FLA</i></b> - Andrade (86%) def. Yatsuk (14%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Andrade (86%) def. Yatsuk (14%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Andrade (88%) def. Yatsuk (12%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Andrade (32.71) def. Yatsuk (2.48)</li>  
 </ul>
@@ -99,10 +98,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Antonio Muniz-Hidalgo (USF) - 1-1 at #4, 5-4 in duals, 5-4 overall<br>Blaise Bicknell (FLA) - 15-0 at #4, 20-0 in duals, 29-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Bicknell (94%) def. Muniz-Hidalgo (6%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Bicknell (93%) def. Muniz-Hidalgo (7%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Bicknell (94%) def. Muniz-Hidalgo (6%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Bicknell (97%) def. Muniz-Hidalgo (3%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Bicknell (94%) def. Muniz-Hidalgo (6%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Bicknell (93%) def. Muniz-Hidalgo (7%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Bicknell (89%) def. Muniz-Hidalgo (11%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Bicknell (15.89) def. Muniz-Hidalgo (1.67)</li>  
 </ul>
@@ -121,10 +120,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Sergio Gomez-Montesa (USF) - 2-1 at #6, 13-10 in duals, 13-10 overall<br>Josh Goodger (FLA) - 12-0 at #6, 13-0 in duals, 19-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FLA</i></b> - Goodger (92%) def. Gomez-Montesa (8%)</li>  
+<li>Composite: <b><i>FLA</i></b> - Goodger (93%) def. Gomez-Montesa (7%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Goodger (93%) def. Gomez-Montesa (7%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Goodger (96%) def. Gomez-Montesa (4%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Goodger (91%) def. Gomez-Montesa (9%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Goodger (92%) def. Gomez-Montesa (8%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Goodger (90%) def. Gomez-Montesa (10%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Goodger (8.31) def. Gomez-Montesa (1.78)</li>  
 </ul>

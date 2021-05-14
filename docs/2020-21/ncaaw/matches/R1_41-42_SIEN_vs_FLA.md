@@ -22,13 +22,13 @@ Gainesville, Florida
 
 <h2>#1 Florida</h2>  
 &nbsp; Record: 13-7<br>  
-&#10004; ITA: 11 (49.18)<br>  
+&#10004; ITA: 12 (48.69)<br>  
 &#10004; Slam: 16 (90.47)<br>  
 &#10004; TRN: 20 (82.70)<br>  
 &#10004; Massey: 21 (7.77)<br>  
 &#10004; UTR: 11 (62.70)<br>  
-&#10004; USTA Poll: 20<br>  
-&#10004; Coaches Poll: 15<br>  
+&#10004; USTA Poll: 22 (86.00)<br>  
+&nbsp; Coaches Poll: 15<br>  
 <br>  
 
 </td>
@@ -49,9 +49,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***FLA*** - #21 Florida (99%) def. #64 Siena (1%)  
 - Lineup: ***FLA*** - Florida (99%) def. Siena (1%)  
 - UTR: ***FLA*** - #11 Florida (+16.27) def. #62 Siena (-16.27)  
-- ITA: ***FLA*** - #11 Florida def. #60 Siena  
-- USTA Poll: ***FLA*** - #20 Florida def. Siena  
-- Coaches Poll: ***FLA*** - #15 Florida def. Siena  
+- ITA: ***FLA*** - #12 Florida def. #60 Siena  
+- USTA Poll: ***FLA*** - #22 Florida def. Siena  
 - Seeding: ***FLA*** - #1 Florida def. #4 Siena  
 
 ## Individual Matchups  
@@ -80,7 +79,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Zein (99%) def. Mullaney (1%)</li>  
-<li>ITA: <b><i>FLA</i></b> - Zein (8.25) def. Mullaney (0.00)</li>  
+<li>ITA: <b><i>SIEN</i></b> - # Mullaney def. Zein (8.25)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -91,7 +90,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>Massey: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Jarlskog (99%) def. Miszczak (1%)</li>  
-<li>ITA: <b><i>FLA</i></b> - Jarlskog (5.66) def. Miszczak (0.00)</li>  
+<li>ITA: <b><i>SIEN</i></b> - # Miszczak def. Jarlskog (5.66)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -111,7 +110,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>Slam: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>TRN: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
-<li>Massey: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
+<li>Massey: <b><i>FLA</i></b> - Dahlstrom (98%) def. Boggiali (2%)</li>  
 <li>UTR: <b><i>FLA</i></b> - Dahlstrom (99%) def. Boggiali (1%)</li>  
 <li>ITA: <b><i>FLA</i></b> - Dahlstrom (3.40) def. Boggiali (2.28)</li>  
 </ul>

@@ -10,12 +10,12 @@ Lexington, Kentucky
 
 <h2>#3 Michigan</h2>  
 &nbsp; Record: 15-5<br>  
-&nbsp; ITA: 46 (15.17)<br>  
+&nbsp; ITA: 45 (14.69)<br>  
 &#10004; Slam: 13 (96.42)<br>  
 &#10004; TRN: 12 (95.88)<br>  
 &#10004; Massey: 14 (8.22)<br>  
 &#10004; UTR: 18 (78.65)<br>  
-&#10004; USTA Poll: 10<br>  
+&#10004; USTA Poll: 12 (199.00)<br>  
 &nbsp; Coaches Poll: 23<br>  
 <br>  
 
@@ -24,13 +24,13 @@ Lexington, Kentucky
 
 <h2>#2 Arizona</h2>  
 &nbsp; Record: 20-7<br>  
-&#10004; ITA: 17 (38.97)<br>  
+&#10004; ITA: 18 (38.97)<br>  
 &nbsp; Slam: 21 (94.26)<br>  
 &nbsp; TRN: 20 (92.43)<br>  
 &nbsp; Massey: 18 (8.10)<br>  
 &nbsp; UTR: 21 (78.35)<br>  
-&nbsp; USTA Poll: 18<br>  
-&#10004; Coaches Poll: 19<br>  
+&nbsp; USTA Poll: 20 (90.00)<br>  
+&nbsp; Coaches Poll: 19<br>  
 <br>  
 
 </td>
@@ -46,15 +46,14 @@ Go to [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***MICH*** - Michigan (72%) def. Arizona (28%)  
+- Composite: ***MICH*** - Michigan (68%) def. Arizona (32%)  
 - Slam: ***MICH*** - #13 Michigan (77%) def. #21 Arizona (23%)  
 - TRN: ***MICH*** - #12 Michigan (87%) def. #20 Arizona (13%)  
-- Massey: ***MICH*** - #14 Michigan (54%) def. #18 Arizona (46%)  
-- Lineup: ***MICH*** - Michigan (70%) def. Arizona (30%)  
+- Massey: ***MICH*** - #14 Michigan (50%) def. #18 Arizona (50%)  
+- Lineup: ***MICH*** - Michigan (60%) def. Arizona (40%)  
 - UTR: ***MICH*** - #18 Michigan (+0.3) def. #21 Arizona (-0.3)  
-- ITA: ***ARIZ*** - #17 Arizona def. #46 Michigan  
-- USTA Poll: ***MICH*** - #10 Michigan def. #18 Arizona  
-- Coaches Poll: ***ARIZ*** - #19 Arizona def. #23 Michigan  
+- ITA: ***ARIZ*** - #18 Arizona def. #45 Michigan  
+- USTA Poll: ***MICH*** - #12 Michigan def. #20 Arizona  
 - Seeding: ***ARIZ*** - #2 Arizona def. #3 Michigan  
 
 ## Individual Matchups  
@@ -68,9 +67,9 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Andrew Fenty (MICH) - 10-3 at #1, 13-4 in duals, 16-9 overall<br>Gustaf Strom (ARIZ) - 3-1 at #1, 17-2 in duals, 17-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>ARIZ</i></b> - Strom (64%) def. Fenty (36%)</li>  
-<li>Slam: <b><i>MICH</i></b> - Fenty (55%) def. Strom (45%)</li>  
-<li>TRN: <b><i>ARIZ</i></b> - Strom (87%) def. Fenty (13%)</li>  
-<li>Massey: <b><i>ARIZ</i></b> - Strom (57%) def. Fenty (43%)</li>  
+<li>Slam: <b><i>MICH</i></b> - Fenty (57%) def. Strom (43%)</li>  
+<li>TRN: <b><i>ARIZ</i></b> - Strom (85%) def. Fenty (15%)</li>  
+<li>Massey: <b><i>ARIZ</i></b> - Strom (59%) def. Fenty (41%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Strom (69%) def. Fenty (31%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Strom (17.40) def. Fenty (1.71)</li>  
 </ul>
@@ -78,10 +77,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ondrej Styler (MICH) - 7-3 at #2, 8-4 in duals, 12-7 overall<br>Jonas Ziverts (ARIZ) - 1-1 at #2, 9-8 in duals, 9-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MICH</i></b> - Styler (62%) def. Ziverts (38%)</li>  
-<li>Slam: <b><i>MICH</i></b> - Styler (53%) def. Ziverts (47%)</li>  
-<li>TRN: <b><i>MICH</i></b> - Styler (54%) def. Ziverts (46%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Styler (68%) def. Ziverts (32%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Styler (63%) def. Ziverts (37%)</li>  
+<li>Slam: <b><i>MICH</i></b> - Styler (52%) def. Ziverts (48%)</li>  
+<li>TRN: <b><i>MICH</i></b> - Styler (53%) def. Ziverts (47%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Styler (70%) def. Ziverts (30%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Styler (75%) def. Ziverts (25%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Ziverts (7.58) def. Styler (2.60)</li>  
 </ul>
@@ -89,43 +88,43 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Patrick Maloney (MICH) - 7-3 at #3, 9-4 in duals, 9-4 overall<br>Filip Malbasic (ARIZ) - 5-4 at #3, 14-9 in duals, 14-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>ARIZ</i></b> - Malbasic (57%) def. Maloney (43%)</li>  
-<li>Slam: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
-<li>TRN: <b><i>ARIZ</i></b> - Malbasic (64%) def. Maloney (36%)</li>  
-<li>Massey: <b><i>ARIZ</i></b> - Malbasic (57%) def. Maloney (43%)</li>  
+<li>Composite: <b><i>ARIZ</i></b> - Malbasic (56%) def. Maloney (44%)</li>  
+<li>Slam: <b><i>ARIZ</i></b> - Malbasic (50%) def. Maloney (50%)</li>  
+<li>TRN: <b><i>ARIZ</i></b> - Malbasic (59%) def. Maloney (41%)</li>  
+<li>Massey: <b><i>ARIZ</i></b> - Malbasic (62%) def. Maloney (38%)</li>  
 <li>UTR: <b><i>ARIZ</i></b> - Malbasic (53%) def. Maloney (47%)</li>  
 <li>ITA: <b><i>ARIZ</i></b> - Malbasic (2.36) def. Maloney (2.15)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mattias Siimar (MICH) - 8-1 at #4, 14-3 in duals, 17-6 overall<br>Herman Hoeyeraal (ARIZ) - 0-0 at #4, 4-0 in duals, 4-0 overall</summary>
+<summary markdown="span">Mattias Siimar (MICH) - 8-1 at #4, 14-3 in duals, 17-6 overall<br>Herman Hoyeraal (ARIZ) - 0-0 at #4, 4-0 in duals, 4-0 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MICH</i></b> - Siimar (94%) def. Hoeyeraal (6%)</li>  
-<li>Slam: <b><i>MICH</i></b> - Siimar (99%) def. Hoeyeraal (1%)</li>  
-<li>TRN: <b><i>MICH</i></b> - Siimar (99%) def. Hoeyeraal (1%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Siimar (79%) def. Hoeyeraal (21%)</li>  
-<li>UTR: <b><i>MICH</i></b> - Siimar (99%) def. Hoeyeraal (1%)</li>  
-<li>ITA: <b><i>MICH</i></b> - Siimar (2.45) def. Hoeyeraal (2.40)</li>  
+<li>Composite: <b><i>MICH</i></b> - Siimar (74%) def. Hoyeraal (26%)</li>  
+<li>Slam: <b><i>MICH</i></b> - Siimar (78%) def. Hoyeraal (22%)</li>  
+<li>TRN: <b><i>MICH</i></b> - Siimar (61%) def. Hoyeraal (39%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Siimar (70%) def. Hoyeraal (30%)</li>  
+<li>UTR: <b><i>MICH</i></b> - Siimar (88%) def. Hoyeraal (12%)</li>  
+<li>ITA: <b><i>MICH</i></b> - Siimar (2.45) def. Hoyeraal (2.40)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Nick Beaty (MICH) - 8-2 at #5, 13-2 in duals, 19-4 overall<br>Alejandro Reguant (ARIZ) - 0-0 at #5, 13-6 in duals, 13-6 overall</summary>
+<summary markdown="span">Nick Beaty (MICH) - 8-2 at #5, 13-2 in duals, 19-4 overall<br>Alejandro Requant-Bicardi (ARIZ) - 0-0 at #5, 13-6 in duals, 13-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MICH</i></b> - Beaty (51%) def. Reguant (49%)</li>  
-<li>Slam: <b><i>ARIZ</i></b> - Reguant (55%) def. Beaty (45%)</li>  
-<li>TRN: <b><i>MICH</i></b> - Beaty (65%) def. Reguant (35%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Beaty (66%) def. Reguant (34%)</li>  
-<li>UTR: <b><i>ARIZ</i></b> - Reguant (70%) def. Beaty (30%)</li>  
-<li>ITA: <b><i>ARIZ</i></b> - Reguant (2.55) def. Beaty (2.52)</li>  
+<li>Composite: <b><i>MICH</i></b> - Beaty (51%) def. Requant-Bicardi (49%)</li>  
+<li>Slam: <b><i>ARIZ</i></b> - Requant-Bicardi (53%) def. Beaty (47%)</li>  
+<li>TRN: <b><i>MICH</i></b> - Beaty (65%) def. Requant-Bicardi (35%)</li>  
+<li>Massey: <b><i>MICH</i></b> - Beaty (59%) def. Requant-Bicardi (41%)</li>  
+<li>UTR: <b><i>ARIZ</i></b> - Requant-Bicardi (70%) def. Beaty (30%)</li>  
+<li>ITA: <b><i>ARIZ</i></b> - Requant-Bicardi (2.55) def. Beaty (2.52)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Nino Ehrenschneider (MICH) - 3-1 at #6, 4-1 in duals, 6-2 overall<br>Carlos Hassey (ARIZ) - 1-1 at #6, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MICH</i></b> - Ehrenschneider (57%) def. Hassey (43%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Ehrenschneider (54%) def. Hassey (46%)</li>  
 <li>Slam: <b><i>MICH</i></b> - Ehrenschneider (51%) def. Hassey (49%)</li>  
-<li>TRN: <b><i>MICH</i></b> - Ehrenschneider (65%) def. Hassey (35%)</li>  
-<li>Massey: <b><i>MICH</i></b> - Ehrenschneider (58%) def. Hassey (42%)</li>  
+<li>TRN: <b><i>MICH</i></b> - Ehrenschneider (64%) def. Hassey (36%)</li>  
+<li>Massey: <b><i>ARIZ</i></b> - Hassey (55%) def. Ehrenschneider (45%)</li>  
 <li>UTR: <b><i>MICH</i></b> - Ehrenschneider (56%) def. Hassey (44%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Ehrenschneider (2.63) def. Hassey (1.70)</li>  
 </ul>
@@ -136,11 +135,11 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Fenty/Siimar (MICH) - 9-3 at #1, 9-3 in duals, 14-3 overall<br>Hassey/Reguant (ARIZ) - 1-0 at #1, 10-3 in duals, 10-3 overall</summary>
+<summary markdown="span">Fenty/Siimar (MICH) - 9-3 at #1, 9-3 in duals, 14-3 overall<br>Hassey/Requant-Bicardi (ARIZ) - 1-0 at #1, 10-3 in duals, 10-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Maloney/Styler (MICH) - 2-0 at #2, 2-0 in duals, 2-0 overall<br>Ziverts/Hoeyeraal (ARIZ) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
+<summary markdown="span">Maloney/Styler (MICH) - 2-0 at #2, 2-0 in duals, 2-0 overall<br>Ziverts/Hoyeraal (ARIZ) - 0-0 at #2, 0-0 in duals, 0-0 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
@@ -152,11 +151,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Arizona should win 4 or more singles matches *20%* of the time.  
-- Michigan should win 4 or more singles matches *48%* of the time.  
+- Arizona should win 4 or more singles matches *27%* of the time.  
+- Michigan should win 4 or more singles matches *41%* of the time.  
 - The winner of the doubles point should decide the match the other *32%* of the time.  
-- If Arizona wins the doubles point, their chances of winning the dual improve to *52%*.  
-- If Michigan wins the doubles point, their chances of winning the dual improve to *80%*.  
+- If Arizona wins the doubles point, their chances of winning the dual improve to *59%*.  
+- If Michigan wins the doubles point, their chances of winning the dual improve to *73%*.  
   
 ------
 

@@ -10,7 +10,7 @@ Raleigh, North Carolina
 
 <h2>#4 VCU</h2>  
 &nbsp; Record: 14-10<br>  
-&nbsp; ITA: 49 (6.76)<br>  
+&nbsp; ITA: 49 (6.43)<br>  
 &nbsp; Slam: 48 (82.19)<br>  
 &nbsp; TRN: 48 (73.53)<br>  
 &nbsp; Massey: 48 (6.03)<br>  
@@ -22,13 +22,13 @@ Raleigh, North Carolina
 
 <h2>#1 NC State</h2>  
 &nbsp; Record: 17-5<br>  
-&#10004; ITA: 6 (55.66)<br>  
+&#10004; ITA: 6 (56.15)<br>  
 &#10004; Slam: 11 (91.65)<br>  
 &#10004; TRN: 10 (84.27)<br>  
 &#10004; Massey: 6 (8.36)<br>  
 &#10004; UTR: 9 (62.99)<br>  
-&#10004; USTA Poll: 11<br>  
-&#10004; Coaches Poll: 6<br>  
+&#10004; USTA Poll: 12 (197.00)<br>  
+&nbsp; Coaches Poll: 6<br>  
 <br>  
 
 </td>
@@ -50,8 +50,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***NCST*** - NC State (99%) def. VCU (1%)  
 - UTR: ***NCST*** - #9 NC State (+7.24) def. #48 VCU (-7.24)  
 - ITA: ***NCST*** - #6 NC State def. #49 VCU  
-- USTA Poll: ***NCST*** - #11 NC State def. VCU  
-- Coaches Poll: ***NCST*** - #6 NC State def. VCU  
+- USTA Poll: ***NCST*** - #12 NC State def. VCU  
 - Seeding: ***NCST*** - #1 NC State def. #4 VCU  
 
 ## Individual Matchups  
@@ -64,10 +63,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Paola Exposito Diaz-Delgado (VCU) - 16-3 at #1, 16-3 in duals, 16-3 overall<br>Anna Rogers (NCST) - 14-6 at #1, 14-6 in duals, 19-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
-<li>Slam: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
-<li>TRN: <b><i>NCST</i></b> - Rogers (81%) def. Diaz-Delgado (19%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Rogers (87%) def. Diaz-Delgado (13%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rogers (84%) def. Diaz-Delgado (16%)</li>  
+<li>Slam: <b><i>NCST</i></b> - Rogers (82%) def. Diaz-Delgado (18%)</li>  
+<li>TRN: <b><i>NCST</i></b> - Rogers (86%) def. Diaz-Delgado (14%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Rogers (83%) def. Diaz-Delgado (17%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rogers (85%) def. Diaz-Delgado (15%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rogers (48.19) def. Diaz-Delgado (5.71)</li>  
 </ul>
@@ -78,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Smith (97%) def. Tutunaru (3%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Smith (96%) def. Tutunaru (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Smith (98%) def. Tutunaru (2%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Smith (97%) def. Tutunaru (3%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Smith (96%) def. Tutunaru (4%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Smith (97%) def. Tutunaru (3%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Smith (22.32) def. Tutunaru (1.60)</li>  
 </ul>
@@ -89,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Reami (96%) def. Ciuca (4%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Reami (96%) def. Ciuca (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Reami (95%) def. Ciuca (5%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Reami (94%) def. Ciuca (6%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Reami (97%) def. Ciuca (3%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Reami (4.00) def. Ciuca (1.68)</li>  
 </ul>
@@ -99,7 +98,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>NCST</i></b> - Daniel (95%) def. Davidescu (5%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
-<li>TRN: <b><i>NCST</i></b> - Daniel (95%) def. Davidescu (5%)</li>  
+<li>TRN: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Daniel (93%) def. Davidescu (7%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Daniel (96%) def. Davidescu (4%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Daniel (1.87) def. Davidescu (1.64)</li>  
@@ -108,8 +107,8 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Noumea Witmus (VCU) - 9-3 at #5, 13-6 in duals, 13-6 overall<br>Abigail Rencheli (NCST) - 5-2 at #5, 10-4 in duals, 13-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Rencheli (94%) def. Witmus (6%)</li>  
-<li>Slam: <b><i>NCST</i></b> - Rencheli (95%) def. Witmus (5%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rencheli (95%) def. Witmus (5%)</li>  
+<li>Slam: <b><i>NCST</i></b> - Rencheli (96%) def. Witmus (4%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Rencheli (97%) def. Witmus (3%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Rencheli (90%) def. Witmus (10%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Rencheli (96%) def. Witmus (4%)</li>  
@@ -122,7 +121,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>NCST</i></b> - Keberle (96%) def. Manjanna (4%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Keberle (97%) def. Manjanna (3%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Keberle (98%) def. Manjanna (2%)</li>  
-<li>Massey: <b><i>NCST</i></b> - Keberle (94%) def. Manjanna (6%)</li>  
+<li>Massey: <b><i>NCST</i></b> - Keberle (93%) def. Manjanna (7%)</li>  
 <li>UTR: <b><i>NCST</i></b> - Keberle (96%) def. Manjanna (4%)</li>  
 <li>ITA: <b><i>VCU</i></b> - Manjanna (1.77) def. Keberle (1.71)</li>  
 </ul>

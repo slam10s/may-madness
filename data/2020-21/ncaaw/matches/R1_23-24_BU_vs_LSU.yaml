@@ -15,23 +15,23 @@ Home:
     Overall: 12
     Region: 1
   Ratings:
-    ITA: 12 (48.73)
+    ITA: 14 (48.12)
     SLM: 21 (90.28)
     TRN: 18 (82.92)
-    MAS: 21 (7.77)
+    MAS: 22 (7.77)
     UTR: 26 (61.48)
   Polls:
-    USTA: 23
+    USTA: 25 (55.00)
     Coach: 14
 Visitor:
   Team: Boston U.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 23
   Seeding:
     Region: 4
   Ratings:
-    ITA: 50 (5.16)
+    ITA: 50 (6.13)
     SLM: 54 (78.65)
     TRN: 51 (71.29)
     MAS: 54 (5.32)
@@ -40,12 +40,11 @@ Predictions:
   AVG: LSU - LSU (99%) def. Boston U. (1%)
   SLM: "LSU - #21 LSU (99%) def. #54 Boston U. (1%)"
   TRN: "LSU - #18 LSU (99%) def. #51 Boston U. (1%)"
-  MAS: "LSU - #21 LSU (99%) def. #54 Boston U. (1%)"
+  MAS: "LSU - #22 LSU (99%) def. #54 Boston U. (1%)"
   LNUP: LSU - LSU (99%) def. Boston U. (1%)
   UTR: "LSU - #26 LSU (+5.98) def. #49 Boston U. (-5.98)"
-  ITA: "LSU - #12 LSU def. #50 Boston U."
-  USTA: "LSU - #23 LSU def. Boston U."
-  Coach: "LSU - #14 LSU def. Boston U."
+  ITA: "LSU - #14 LSU def. #50 Boston U."
+  USTA: "LSU - #25 LSU def. Boston U."
   Seeding: "LSU - #1 LSU def. #4 Boston U."
 Lineups:
   Predictions:
@@ -59,30 +58,30 @@ Lineups:
       LSU: Taylor Bridges - 7-7 at 1, 7-7 in duals, 13-10 overall
       BU: Victoria Carlsten - 2-2 at 1, 3-3 in duals, 3-3 overall
       Predictions:
-        AVG: LSU - Bridges (92%) def. Carlsten (8%)
-        SLM: LSU - Bridges (94%) def. Carlsten (6%)
-        TRN: LSU - Bridges (94%) def. Carlsten (6%)
+        AVG: LSU - Bridges (91%) def. Carlsten (9%)
+        SLM: LSU - Bridges (93%) def. Carlsten (7%)
+        TRN: LSU - Bridges (92%) def. Carlsten (8%)
         MAS: LSU - Bridges (94%) def. Carlsten (6%)
         UTR: LSU - Bridges (86%) def. Carlsten (14%)
-        ITA: LSU - Bridges (11.61) def. Carlsten (0.00)
+        ITA: "BU - # Carlsten def. Bridges (11.61)"
     - Position: 2
       LSU: Safiya Carrington - 2-5 at 2, 3-6 in duals, 10-10 overall
       BU: Kaitlin Tan - 3-0 at 2, 5-0 in duals, 5-0 overall
       Predictions:
         AVG: LSU - Carrington (76%) def. Tan (24%)
-        SLM: LSU - Carrington (79%) def. Tan (21%)
-        TRN: LSU - Carrington (78%) def. Tan (22%)
-        MAS: LSU - Carrington (57%) def. Tan (43%)
+        SLM: LSU - Carrington (80%) def. Tan (20%)
+        TRN: LSU - Carrington (76%) def. Tan (24%)
+        MAS: LSU - Carrington (59%) def. Tan (41%)
         UTR: LSU - Carrington (91%) def. Tan (9%)
         ITA: LSU - Carrington (4.09) def. Tan (3.03)
     - Position: 3
       LSU: Paris Corley - 6-2 at 3, 10-3 in duals, 18-4 overall
       BU: Erica Di Battista - 1-1 at 3, 4-1 in duals, 4-1 overall
       Predictions:
-        AVG: LSU - Corley (96%) def. Battista (4%)
+        AVG: LSU - Corley (97%) def. Battista (3%)
         SLM: LSU - Corley (96%) def. Battista (4%)
         TRN: LSU - Corley (97%) def. Battista (3%)
-        MAS: LSU - Corley (95%) def. Battista (5%)
+        MAS: LSU - Corley (96%) def. Battista (4%)
         UTR: LSU - Corley (97%) def. Battista (3%)
         ITA: LSU - Corley (9.83) def. Battista (2.01)
     - Position: 4
@@ -92,7 +91,7 @@ Lineups:
         AVG: LSU - Cubitt (96%) def. Kim (4%)
         SLM: LSU - Cubitt (96%) def. Kim (4%)
         TRN: LSU - Cubitt (96%) def. Kim (4%)
-        MAS: LSU - Cubitt (96%) def. Kim (4%)
+        MAS: LSU - Cubitt (97%) def. Kim (3%)
         UTR: LSU - Cubitt (97%) def. Kim (3%)
         ITA: BU - Kim (2.60) def. Cubitt (2.11)
     - Position: 5
@@ -100,9 +99,9 @@ Lineups:
       BU: Lily Burchell - 4-0 at 5, 6-1 in duals, 6-1 overall
       Predictions:
         AVG: LSU - Richardson (85%) def. Burchell (15%)
-        SLM: LSU - Richardson (94%) def. Burchell (6%)
-        TRN: LSU - Richardson (90%) def. Burchell (10%)
-        MAS: LSU - Richardson (68%) def. Burchell (32%)
+        SLM: LSU - Richardson (93%) def. Burchell (7%)
+        TRN: LSU - Richardson (89%) def. Burchell (11%)
+        MAS: LSU - Richardson (66%) def. Burchell (34%)
         UTR: LSU - Richardson (90%) def. Burchell (10%)
         ITA: BU - Burchell (3.12) def. Richardson (1.47)
     - Position: 6
@@ -110,9 +109,9 @@ Lineups:
       BU: Katya Martens - 0-0 at 6, 4-0 in duals, 4-0 overall
       Predictions:
         AVG: LSU - Geissler (93%) def. Martens (7%)
-        SLM: LSU - Geissler (96%) def. Martens (4%)
-        TRN: LSU - Geissler (95%) def. Martens (5%)
-        MAS: LSU - Geissler (88%) def. Martens (12%)
+        SLM: LSU - Geissler (97%) def. Martens (3%)
+        TRN: LSU - Geissler (97%) def. Martens (3%)
+        MAS: LSU - Geissler (87%) def. Martens (13%)
         UTR: LSU - Geissler (92%) def. Martens (8%)
         ITA: BU - Martens (2.51) def. Geissler (2.01)
   Doubles:

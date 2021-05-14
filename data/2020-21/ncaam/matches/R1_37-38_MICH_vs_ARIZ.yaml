@@ -14,13 +14,13 @@ Home:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 17 (38.97)
+    ITA: 18 (38.97)
     SLM: 21 (94.26)
     TRN: 20 (92.43)
     MAS: 18 (8.10)
     UTR: 21 (78.35)
   Polls:
-    USTA: 18
+    USTA: 20 (90.00)
     Coach: 19
 Visitor:
   Team: Michigan
@@ -30,31 +30,30 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 46 (15.17)
+    ITA: 45 (14.69)
     SLM: 13 (96.42)
     TRN: 12 (95.88)
     MAS: 14 (8.22)
     UTR: 18 (78.65)
   Polls:
-    USTA: 10
+    USTA: 12 (199.00)
     Coach: 23
 Predictions:
-  AVG: MICH - Michigan (72%) def. Arizona (28%)
+  AVG: MICH - Michigan (68%) def. Arizona (32%)
   SLM: "MICH - #13 Michigan (77%) def. #21 Arizona (23%)"
   TRN: "MICH - #12 Michigan (87%) def. #20 Arizona (13%)"
-  MAS: "MICH - #14 Michigan (54%) def. #18 Arizona (46%)"
-  LNUP: MICH - Michigan (70%) def. Arizona (30%)
+  MAS: "MICH - #14 Michigan (50%) def. #18 Arizona (50%)"
+  LNUP: MICH - Michigan (60%) def. Arizona (40%)
   UTR: "MICH - #18 Michigan (+0.3) def. #21 Arizona (-0.3)"
-  ITA: "ARIZ - #17 Arizona def. #46 Michigan"
-  USTA: "MICH - #10 Michigan def. #18 Arizona"
-  Coach: "ARIZ - #19 Arizona def. #23 Michigan"
+  ITA: "ARIZ - #18 Arizona def. #45 Michigan"
+  USTA: "MICH - #12 Michigan def. #20 Arizona"
   Seeding: "ARIZ - #2 Arizona def. #3 Michigan"
 Lineups:
   Predictions:
-    Average EWPs for ARIZ: 23%,13%,46%,30%
-    Average EWPs for MICH: 77%,87%,54%,70%
-    ARIZ wins 4 or more Singles points: 20%
-    MICH wins 4 or more Singles points: 48%
+    Average EWPs for ARIZ: 23%,13%,50%,40%
+    Average EWPs for MICH: 77%,87%,50%,60%
+    ARIZ wins 4 or more Singles points: 27%
+    MICH wins 4 or more Singles points: 41%
     Winner decided by the Doubles point: 32%
   Singles:
     - Position: 1
@@ -62,67 +61,67 @@ Lineups:
       MICH: Andrew Fenty - 10-3 at 1, 13-4 in duals, 16-9 overall
       Predictions:
         AVG: ARIZ - Strom (64%) def. Fenty (36%)
-        SLM: MICH - Fenty (55%) def. Strom (45%)
-        TRN: ARIZ - Strom (87%) def. Fenty (13%)
-        MAS: ARIZ - Strom (57%) def. Fenty (43%)
+        SLM: MICH - Fenty (57%) def. Strom (43%)
+        TRN: ARIZ - Strom (85%) def. Fenty (15%)
+        MAS: ARIZ - Strom (59%) def. Fenty (41%)
         UTR: ARIZ - Strom (69%) def. Fenty (31%)
         ITA: ARIZ - Strom (17.40) def. Fenty (1.71)
     - Position: 2
       ARIZ: Jonas Ziverts - 1-1 at 2, 9-8 in duals, 9-8 overall
       MICH: Ondrej Styler - 7-3 at 2, 8-4 in duals, 12-7 overall
       Predictions:
-        AVG: MICH - Styler (62%) def. Ziverts (38%)
-        SLM: MICH - Styler (53%) def. Ziverts (47%)
-        TRN: MICH - Styler (54%) def. Ziverts (46%)
-        MAS: MICH - Styler (68%) def. Ziverts (32%)
+        AVG: MICH - Styler (63%) def. Ziverts (37%)
+        SLM: MICH - Styler (52%) def. Ziverts (48%)
+        TRN: MICH - Styler (53%) def. Ziverts (47%)
+        MAS: MICH - Styler (70%) def. Ziverts (30%)
         UTR: MICH - Styler (75%) def. Ziverts (25%)
         ITA: ARIZ - Ziverts (7.58) def. Styler (2.60)
     - Position: 3
       ARIZ: Filip Malbasic - 5-4 at 3, 14-9 in duals, 14-9 overall
       MICH: Patrick Maloney - 7-3 at 3, 9-4 in duals, 9-4 overall
       Predictions:
-        AVG: ARIZ - Malbasic (57%) def. Maloney (43%)
-        SLM: ARIZ - Malbasic (53%) def. Maloney (47%)
-        TRN: ARIZ - Malbasic (64%) def. Maloney (36%)
-        MAS: ARIZ - Malbasic (57%) def. Maloney (43%)
+        AVG: ARIZ - Malbasic (56%) def. Maloney (44%)
+        SLM: ARIZ - Malbasic (50%) def. Maloney (50%)
+        TRN: ARIZ - Malbasic (59%) def. Maloney (41%)
+        MAS: ARIZ - Malbasic (62%) def. Maloney (38%)
         UTR: ARIZ - Malbasic (53%) def. Maloney (47%)
         ITA: ARIZ - Malbasic (2.36) def. Maloney (2.15)
     - Position: 4
-      ARIZ: Herman Hoeyeraal - 0-0 at 4, 4-0 in duals, 4-0 overall
+      ARIZ: Herman Hoyeraal - 0-0 at 4, 4-0 in duals, 4-0 overall
       MICH: Mattias Siimar - 8-1 at 4, 14-3 in duals, 17-6 overall
       Predictions:
-        AVG: MICH - Siimar (94%) def. Hoeyeraal (6%)
-        SLM: MICH - Siimar (99%) def. Hoeyeraal (1%)
-        TRN: MICH - Siimar (99%) def. Hoeyeraal (1%)
-        MAS: MICH - Siimar (79%) def. Hoeyeraal (21%)
-        UTR: MICH - Siimar (99%) def. Hoeyeraal (1%)
-        ITA: MICH - Siimar (2.45) def. Hoeyeraal (2.40)
+        AVG: MICH - Siimar (74%) def. Hoyeraal (26%)
+        SLM: MICH - Siimar (78%) def. Hoyeraal (22%)
+        TRN: MICH - Siimar (61%) def. Hoyeraal (39%)
+        MAS: MICH - Siimar (70%) def. Hoyeraal (30%)
+        UTR: MICH - Siimar (88%) def. Hoyeraal (12%)
+        ITA: MICH - Siimar (2.45) def. Hoyeraal (2.40)
     - Position: 5
-      ARIZ: Alejandro Reguant - 0-0 at 5, 13-6 in duals, 13-6 overall
+      ARIZ: Alejandro Requant-Bicardi - 0-0 at 5, 13-6 in duals, 13-6 overall
       MICH: Nick Beaty - 8-2 at 5, 13-2 in duals, 19-4 overall
       Predictions:
-        AVG: MICH - Beaty (51%) def. Reguant (49%)
-        SLM: ARIZ - Reguant (55%) def. Beaty (45%)
-        TRN: MICH - Beaty (65%) def. Reguant (35%)
-        MAS: MICH - Beaty (66%) def. Reguant (34%)
-        UTR: ARIZ - Reguant (70%) def. Beaty (30%)
-        ITA: ARIZ - Reguant (2.55) def. Beaty (2.52)
+        AVG: MICH - Beaty (51%) def. Requant-Bicardi (49%)
+        SLM: ARIZ - Requant-Bicardi (53%) def. Beaty (47%)
+        TRN: MICH - Beaty (65%) def. Requant-Bicardi (35%)
+        MAS: MICH - Beaty (59%) def. Requant-Bicardi (41%)
+        UTR: ARIZ - Requant-Bicardi (70%) def. Beaty (30%)
+        ITA: ARIZ - Requant-Bicardi (2.55) def. Beaty (2.52)
     - Position: 6
       ARIZ: Carlos Hassey - 1-1 at 6, 12-7 in duals, 12-7 overall
       MICH: Nino Ehrenschneider - 3-1 at 6, 4-1 in duals, 6-2 overall
       Predictions:
-        AVG: MICH - Ehrenschneider (57%) def. Hassey (43%)
+        AVG: MICH - Ehrenschneider (54%) def. Hassey (46%)
         SLM: MICH - Ehrenschneider (51%) def. Hassey (49%)
-        TRN: MICH - Ehrenschneider (65%) def. Hassey (35%)
-        MAS: MICH - Ehrenschneider (58%) def. Hassey (42%)
+        TRN: MICH - Ehrenschneider (64%) def. Hassey (36%)
+        MAS: ARIZ - Hassey (55%) def. Ehrenschneider (45%)
         UTR: MICH - Ehrenschneider (56%) def. Hassey (44%)
         ITA: MICH - Ehrenschneider (2.63) def. Hassey (1.70)
   Doubles:
     - Position: 1
-      ARIZ: Hassey/Reguant - 1-0 at 1, 10-3 in duals, 10-3 overall
+      ARIZ: Hassey/Requant-Bicardi - 1-0 at 1, 10-3 in duals, 10-3 overall
       MICH: Fenty/Siimar - 9-3 at 1, 9-3 in duals, 14-3 overall
     - Position: 2
-      ARIZ: Ziverts/Hoeyeraal - 0-0 at 2, 0-0 in duals, 0-0 overall
+      ARIZ: Ziverts/Hoyeraal - 0-0 at 2, 0-0 in duals, 0-0 overall
       MICH: Maloney/Styler - 2-0 at 2, 2-0 in duals, 2-0 overall
     - Position: 3
       ARIZ: Strom/Malbasic - 7-5 at 3, 9-5 in duals, 9-5 overall

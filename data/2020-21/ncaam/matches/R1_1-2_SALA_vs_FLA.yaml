@@ -21,31 +21,30 @@ Home:
     MAS: 1 (9.40)
     UTR: 1 (80.76)
   Polls:
-    USTA: 2
+    USTA: 2 (302.00)
     Coach: 2
 Visitor:
   Team: South Alabama
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 2
   Seeding:
     Region: 4
   Ratings:
-    ITA: 53 (6.83)
-    SLM: 50 (87.64)
-    TRN: 52 (84.26)
-    MAS: 46 (6.79)
-    UTR: 49 (73.92)
+    ITA: 53 (6.68)
+    SLM: 49 (87.64)
+    TRN: 51 (84.26)
+    MAS: 45 (6.79)
+    UTR: 48 (73.92)
 Predictions:
   AVG: FLA - Florida (99%) def. South Alabama (1%)
-  SLM: "FLA - #2 Florida (99%) def. #50 South Alabama (1%)"
-  TRN: "FLA - #3 Florida (99%) def. #52 South Alabama (1%)"
-  MAS: "FLA - #1 Florida (99%) def. #46 South Alabama (1%)"
+  SLM: "FLA - #2 Florida (99%) def. #49 South Alabama (1%)"
+  TRN: "FLA - #3 Florida (99%) def. #51 South Alabama (1%)"
+  MAS: "FLA - #1 Florida (99%) def. #45 South Alabama (1%)"
   LNUP: FLA - Florida (99%) def. South Alabama (1%)
-  UTR: "FLA - #1 Florida (+6.84) def. #49 South Alabama (-6.84)"
+  UTR: "FLA - #1 Florida (+6.84) def. #48 South Alabama (-6.84)"
   ITA: "FLA - #2 Florida def. #53 South Alabama"
   USTA: "FLA - #2 Florida def. South Alabama"
-  Coach: "FLA - #2 Florida def. South Alabama"
   Seeding: "FLA - #1 Florida def. #4 South Alabama"
 Lineups:
   Predictions:
@@ -61,8 +60,8 @@ Lineups:
       Predictions:
         AVG: FLA - Vale (91%) def. Evrard (9%)
         SLM: FLA - Vale (92%) def. Evrard (8%)
-        TRN: FLA - Vale (92%) def. Evrard (8%)
-        MAS: FLA - Vale (89%) def. Evrard (11%)
+        TRN: FLA - Vale (93%) def. Evrard (7%)
+        MAS: FLA - Vale (90%) def. Evrard (10%)
         UTR: FLA - Vale (90%) def. Evrard (10%)
         ITA: FLA - Vale (54.01) def. Evrard (8.29)
     - Position: 2
@@ -72,17 +71,17 @@ Lineups:
         AVG: FLA - Riffice (90%) def. Marzol (10%)
         SLM: FLA - Riffice (90%) def. Marzol (10%)
         TRN: FLA - Riffice (92%) def. Marzol (8%)
-        MAS: FLA - Riffice (85%) def. Marzol (15%)
+        MAS: FLA - Riffice (87%) def. Marzol (13%)
         UTR: FLA - Riffice (92%) def. Marzol (8%)
         ITA: FLA - Riffice (49.68) def. Marzol (8.12)
     - Position: 3
       FLA: Andy Andrade - 12-7 at 3, 14-7 in duals, 22-7 overall
       SALA: Loic Cloes - 5-3 at 3, 9-4 in duals, 9-4 overall
       Predictions:
-        AVG: FLA - Andrade (93%) def. Cloes (7%)
+        AVG: FLA - Andrade (94%) def. Cloes (6%)
         SLM: FLA - Andrade (93%) def. Cloes (7%)
         TRN: FLA - Andrade (96%) def. Cloes (4%)
-        MAS: FLA - Andrade (90%) def. Cloes (10%)
+        MAS: FLA - Andrade (91%) def. Cloes (9%)
         UTR: FLA - Andrade (94%) def. Cloes (6%)
         ITA: FLA - Andrade (32.71) def. Cloes (2.46)
     - Position: 4
@@ -92,7 +91,7 @@ Lineups:
         AVG: FLA - Bicknell (94%) def. Collard (6%)
         SLM: FLA - Bicknell (94%) def. Collard (6%)
         TRN: FLA - Bicknell (98%) def. Collard (2%)
-        MAS: FLA - Bicknell (90%) def. Collard (10%)
+        MAS: FLA - Bicknell (89%) def. Collard (11%)
         UTR: FLA - Bicknell (94%) def. Collard (6%)
         ITA: FLA - Bicknell (15.89) def. Collard (2.43)
     - Position: 5
@@ -102,7 +101,7 @@ Lineups:
         AVG: FLA - Shelton (95%) def. Delcour (5%)
         SLM: FLA - Shelton (96%) def. Delcour (4%)
         TRN: FLA - Shelton (98%) def. Delcour (2%)
-        MAS: FLA - Shelton (91%) def. Delcour (9%)
+        MAS: FLA - Shelton (92%) def. Delcour (8%)
         UTR: FLA - Shelton (96%) def. Delcour (4%)
         ITA: FLA - Shelton (3.20) def. Delcour (2.17)
     - Position: 6
@@ -114,7 +113,7 @@ Lineups:
         TRN: FLA - Goodger (99%) def. Bugaj (1%)
         MAS: FLA - Goodger (99%) def. Bugaj (1%)
         UTR: FLA - Goodger (98%) def. Bugaj (2%)
-        ITA: FLA - Goodger (8.31) def. Bugaj (0.00)
+        ITA: "SALA - # Bugaj def. Goodger (8.31)"
   Doubles:
     - Position: 1
       FLA: Ingildsen/Vale - 0-0 at 1, 0-0 in duals, 0-0 overall

@@ -20,7 +20,7 @@ Home:
     MAS: 25 (7.67)
     UTR: 36 (76.54)
   Polls:
-    USTA: RV
+    USTA: RV (3.00)
     Coach: 31
 Visitor:
   Team: Memphis
@@ -30,7 +30,7 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 38 (22.19)
+    ITA: 38 (22.10)
     SLM: 41 (91.89)
     TRN: 40 (89.86)
     MAS: 43 (7.05)
@@ -38,82 +38,81 @@ Visitor:
   Polls:
     Coach: 35
 Predictions:
-  AVG: GT - Georgia Tech (77%) def. Memphis (23%)
+  AVG: GT - Georgia Tech (75%) def. Memphis (25%)
   SLM: "GT - #27 Georgia Tech (69%) def. #41 Memphis (31%)"
   TRN: "GT - #33 Georgia Tech (64%) def. #40 Memphis (36%)"
-  MAS: "GT - #25 Georgia Tech (84%) def. #43 Memphis (16%)"
-  LNUP: GT - Georgia Tech (91%) def. Memphis (9%)
+  MAS: "GT - #25 Georgia Tech (77%) def. #43 Memphis (23%)"
+  LNUP: GT - Georgia Tech (89%) def. Memphis (11%)
   UTR: "GT - #36 Georgia Tech (+1.14) def. #43 Memphis (-1.14)"
   ITA: "GT - #30 Georgia Tech def. #38 Memphis"
   USTA: GT - RV Georgia Tech def. Memphis
-  Coach: "GT - #31 Georgia Tech def. #35 Memphis"
   Seeding: "GT - #2 Georgia Tech def. #3 Memphis"
 Lineups:
   Predictions:
-    Average EWPs for GT: 69%,64%,84%,91%
-    Average EWPs for MEM: 31%,36%,16%,9%
-    GT wins 4 or more Singles points: 73%
-    MEM wins 4 or more Singles points: 7%
-    Winner decided by the Doubles point: 20%
+    Average EWPs for GT: 69%,64%,77%,89%
+    Average EWPs for MEM: 31%,36%,23%,11%
+    GT wins 4 or more Singles points: 70%
+    MEM wins 4 or more Singles points: 8%
+    Winner decided by the Doubles point: 22%
   Singles:
     - Position: 1
       GT: Marcus McDaniel - 10-6 at 1, 15-6 in duals, 15-8 overall
       MEM: James Story - 8-6 at 1, 8-6 in duals, 8-6 overall
       Predictions:
         AVG: GT - McDaniel (73%) def. Story (27%)
-        SLM: GT - McDaniel (71%) def. Story (29%)
-        TRN: GT - McDaniel (72%) def. Story (28%)
-        MAS: GT - McDaniel (71%) def. Story (29%)
+        SLM: GT - McDaniel (68%) def. Story (32%)
+        TRN: GT - McDaniel (67%) def. Story (33%)
+        MAS: GT - McDaniel (77%) def. Story (23%)
         UTR: GT - McDaniel (79%) def. Story (21%)
         ITA: GT - McDaniel (25.05) def. Story (13.58)
     - Position: 2
       GT: Andres Martin - 11-5 at 2, 14-7 in duals, 16-8 overall
       MEM: David Stevenson - 2-5 at 2, 8-8 in duals, 8-8 overall
       Predictions:
-        AVG: GT - Martin (83%) def. Stevenson (17%)
+        AVG: GT - Martin (84%) def. Stevenson (16%)
         SLM: GT - Martin (82%) def. Stevenson (18%)
         TRN: GT - Martin (85%) def. Stevenson (15%)
-        MAS: GT - Martin (82%) def. Stevenson (18%)
+        MAS: GT - Martin (84%) def. Stevenson (16%)
         UTR: GT - Martin (83%) def. Stevenson (17%)
         ITA: GT - Martin (17.00) def. Stevenson (6.29)
     - Position: 3
       GT: Pablo Schelcher - 8-5 at 3, 12-7 in duals, 13-9 overall
       MEM: Oscar Cutting - 2-4 at 3, 8-9 in duals, 8-9 overall
       Predictions:
-        AVG: GT - Schelcher (67%) def. Cutting (33%)
-        SLM: GT - Schelcher (58%) def. Cutting (42%)
-        TRN: GT - Schelcher (68%) def. Cutting (32%)
-        MAS: GT - Schelcher (70%) def. Cutting (30%)
+        AVG: GT - Schelcher (66%) def. Cutting (34%)
+        SLM: GT - Schelcher (57%) def. Cutting (43%)
+        TRN: GT - Schelcher (67%) def. Cutting (33%)
+        MAS: GT - Schelcher (67%) def. Cutting (33%)
         UTR: GT - Schelcher (72%) def. Cutting (28%)
         ITA: MEM - Cutting (4.13) def. Schelcher (3.19)
     - Position: 4
       GT: Keshav Chopra - 8-3 at 4, 12-8 in duals, 14-9 overall
       MEM: Jan Pallares - 4-4 at 4, 6-8 in duals, 6-8 overall
       Predictions:
-        AVG: GT - Chopra (76%) def. Pallares (24%)
-        SLM: GT - Chopra (80%) def. Pallares (20%)
-        TRN: GT - Chopra (83%) def. Pallares (17%)
-        MAS: GT - Chopra (67%) def. Pallares (33%)
+        AVG: GT - Chopra (73%) def. Pallares (27%)
+        SLM: GT - Chopra (79%) def. Pallares (21%)
+        TRN: GT - Chopra (80%) def. Pallares (20%)
+        MAS: GT - Chopra (59%) def. Pallares (41%)
         UTR: GT - Chopra (75%) def. Pallares (25%)
         ITA: GT - Chopra (1.81) def. Pallares (1.34)
     - Position: 5
       GT: Brandon McKinney - 7-8 at 5, 10-10 in duals, 12-11 overall
       MEM: Jeremy Taylor - 5-3 at 5, 9-3 in duals, 9-3 overall
       Predictions:
-        AVG: MEM - Taylor (63%) def. McKinney (37%)
+        AVG: MEM - Taylor (64%) def. McKinney (36%)
         SLM: MEM - Taylor (51%) def. McKinney (49%)
-        TRN: MEM - Taylor (57%) def. McKinney (43%)
-        MAS: MEM - Taylor (64%) def. McKinney (36%)
+        TRN: MEM - Taylor (58%) def. McKinney (42%)
+        MAS: MEM - Taylor (68%) def. McKinney (32%)
         UTR: MEM - Taylor (81%) def. McKinney (19%)
         ITA: MEM - Taylor (2.71) def. McKinney (1.37)
     - Position: 6
       GT: Chen Dong - 11-4 at 6, 11-4 in duals, 12-6 overall
       MEM: Pau Fanlo - 4-3 at 6, 6-5 in duals, 6-5 overall
       Predictions:
-        AVG: GT - Dong (72%) def. Fanlo (28%)
+        AVG: GT - Dong (71%) def. Fanlo (29%)
         SLM: GT - Dong (64%) def. Fanlo (36%)
         TRN: GT - Dong (76%) def. Fanlo (24%)
-        MAS: GT - Dong (73%) def. Fanlo (27%)
+        MAS: GT - Dong (68%) def. Fanlo (32%)
         UTR: GT - Dong (75%) def. Fanlo (25%)
         ITA: GT - Dong (1.93) def. Fanlo (1.57)
   Doubles:

@@ -10,11 +10,11 @@ Charlottesville, Virginia
 
 <h2>#4 Fairleigh Dickinson</h2>  
 &nbsp; Record: 6-5<br>  
-&nbsp; ITA: 62 (1.95)<br>  
-&nbsp; Slam: 65 (72.33)<br>  
-&nbsp; TRN: 65 (65.17)<br>  
-&nbsp; Massey: 64 (3.98)<br>  
-&nbsp; UTR: 64 (65.74)<br>  
+&nbsp; ITA: 61 (1.95)<br>  
+&nbsp; Slam: 64 (72.33)<br>  
+&nbsp; TRN: 64 (65.17)<br>  
+&nbsp; Massey: 63 (3.98)<br>  
+&nbsp; UTR: 63 (65.74)<br>  
 <br>  
 
 </td>
@@ -22,13 +22,13 @@ Charlottesville, Virginia
 
 <h2>#1 Virginia</h2>  
 &nbsp; Record: 22-2<br>  
-&#10004; ITA: 4 (74.36)<br>  
+&#10004; ITA: 5 (74.11)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
 &#10004; Massey: 3 (9.13)<br>  
 &#10004; UTR: 6 (80.03)<br>  
-&#10004; USTA Poll: 1<br>  
-&#10004; Coaches Poll: 5<br>  
+&#10004; USTA Poll: 1 (320.00)<br>  
+&nbsp; Coaches Poll: 5<br>  
 <br>  
 
 </td>
@@ -45,14 +45,13 @@ Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350361)
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***UVA*** - Virginia (99%) def. Fairleigh Dickinson (1%)  
-- Slam: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
-- TRN: ***UVA*** - #1 Virginia (99%) def. #65 Fairleigh Dickinson (1%)  
-- Massey: ***UVA*** - #3 Virginia (99%) def. #64 Fairleigh Dickinson (1%)  
+- Slam: ***UVA*** - #1 Virginia (99%) def. #64 Fairleigh Dickinson (1%)  
+- TRN: ***UVA*** - #1 Virginia (99%) def. #64 Fairleigh Dickinson (1%)  
+- Massey: ***UVA*** - #3 Virginia (99%) def. #63 Fairleigh Dickinson (1%)  
 - Lineup: ***UVA*** - Virginia (99%) def. Fairleigh Dickinson (1%)  
-- UTR: ***UVA*** - #6 Virginia (+14.29) def. #64 Fairleigh Dickinson (-14.29)  
-- ITA: ***UVA*** - #4 Virginia def. #62 Fairleigh Dickinson  
+- UTR: ***UVA*** - #6 Virginia (+14.29) def. #63 Fairleigh Dickinson (-14.29)  
+- ITA: ***UVA*** - #5 Virginia def. #61 Fairleigh Dickinson  
 - USTA Poll: ***UVA*** - #1 Virginia def. Fairleigh Dickinson  
-- Coaches Poll: ***UVA*** - #5 Virginia def. Fairleigh Dickinson  
 - Seeding: ***UVA*** - #1 Virginia def. #4 Fairleigh Dickinson  
 
 ## Individual Matchups  
@@ -63,14 +62,14 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Teodors Pukse (FDU) - 4-3 at #1, 4-3 in duals, 4-3 overall<br>Carl Soderlund (UVA) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
+<summary markdown="span">Teodors Pukse (FDU) - 4-3 at #1, 4-3 in duals, 4-3 overall<br>Carl Söderlund (UVA) - 12-2 at #1, 12-2 in duals, 12-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>FDU</i></b> - Pukse (75%) def. Soderlund (25%)</li>  
-<li>Slam: <b><i>FDU</i></b> - Pukse (99%) def. Soderlund (1%)</li>  
-<li>TRN: <b><i>FDU</i></b> - Pukse (99%) def. Soderlund (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Soderlund (99%) def. Pukse (1%)</li>  
-<li>UTR: <b><i>FDU</i></b> - Pukse (99%) def. Soderlund (1%)</li>  
-<li>ITA: <b><i>UVA</i></b> - Soderlund (48.38) def. Pukse (1.52)</li>  
+<li>Composite: <b><i>UVA</i></b> - Söderlund (99%) def. Pukse (1%)</li>  
+<li>Slam: <b><i>UVA</i></b> - Söderlund (99%) def. Pukse (1%)</li>  
+<li>TRN: <b><i>UVA</i></b> - Söderlund (99%) def. Pukse (1%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Söderlund (99%) def. Pukse (1%)</li>  
+<li>UTR: <b><i>UVA</i></b> - Söderlund (99%) def. Pukse (1%)</li>  
+<li>ITA: <b><i>UVA</i></b> - Söderlund (48.38) def. Pukse (1.52)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -90,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
-<li>Massey: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
+<li>Massey: <b><i>UVA</i></b> - Rodesch (98%) def. Autuch (2%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Rodesch (99%) def. Autuch (1%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Rodesch (3.82) def. Autuch (1.74)</li>  
 </ul>
@@ -101,9 +100,9 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UVA</i></b> - Torre (74%) def. Sriram (26%)</li>  
 <li>Slam: <b><i>UVA</i></b> - Torre (99%) def. Sriram (1%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Torre (99%) def. Sriram (1%)</li>  
-<li>Massey: <b><i>FDU</i></b> - Sriram (99%) def. Torre (1%)</li>  
+<li>Massey: <b><i>FDU</i></b> - # Sriram (99%) def. Torre (1%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Torre (99%) def. Sriram (1%)</li>  
-<li>ITA: <b><i>UVA</i></b> - Torre (12.34) def. Sriram (0.00)</li>  
+<li>ITA: <b><i>FDU</i></b> - # Sriram def. Torre (12.34)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -114,7 +113,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
 <li>UTR: <b><i>UVA</i></b> - Goetz (99%) def. Budinszky (1%)</li>  
-<li>ITA: <b><i>UVA</i></b> - Goetz (6.09) def. Budinszky (0.00)</li>  
+<li>ITA: <b><i>FDU</i></b> - # Budinszky def. Goetz (6.09)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>

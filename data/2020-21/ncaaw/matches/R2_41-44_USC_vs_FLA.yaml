@@ -15,13 +15,13 @@ Home:
     Overall: 11
     Region: 1
   Ratings:
-    ITA: 11 (49.18)
+    ITA: 12 (48.69)
     SLM: 16 (90.47)
     TRN: 20 (82.70)
     MAS: 21 (7.77)
     UTR: 11 (62.70)
   Polls:
-    USTA: 20
+    USTA: 22 (86.00)
     Coach: 15
 Visitor:
   Team: Southern California
@@ -31,7 +31,7 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 35 (23.17)
+    ITA: 35 (23.25)
     SLM: 35 (87.72)
     TRN: 41 (78.74)
     MAS: 26 (7.43)
@@ -39,82 +39,81 @@ Visitor:
   Polls:
     Coach: 34
 Predictions:
-  AVG: FLA - Florida (79%) def. Southern California (21%)
+  AVG: FLA - Florida (70%) def. Southern California (30%)
   SLM: "FLA - #16 Florida (82%) def. #35 Southern California (18%)"
   TRN: "FLA - #20 Florida (90%) def. #41 Southern California (10%)"
-  MAS: "FLA - #21 Florida (72%) def. #26 Southern California (28%)"
-  LNUP: FLA - Florida (73%) def. Southern California (27%)
+  MAS: "FLA - #21 Florida (52%) def. #26 Southern California (48%)"
+  LNUP: FLA - Florida (54%) def. Southern California (46%)
   UTR: "USC - #6 Southern California (+1.59) def. #11 Florida (-1.59)"
-  ITA: "FLA - #11 Florida def. #35 Southern California"
-  USTA: "FLA - #20 Florida def. Southern California"
-  Coach: "FLA - #15 Florida def. #34 Southern California"
+  ITA: "FLA - #12 Florida def. #35 Southern California"
+  USTA: "FLA - #22 Florida def. Southern California"
   Seeding: "FLA - #1 Florida def. #3 Southern California"
 Lineups:
   Predictions:
-    Average EWPs for FLA: 82%,90%,72%,73%
-    Average EWPs for USC: 18%,10%,28%,27%
-    FLA wins 4 or more Singles points: 50%
-    USC wins 4 or more Singles points: 18%
-    Winner decided by the Doubles point: 32%
+    Average EWPs for FLA: 82%,90%,52%,54%
+    Average EWPs for USC: 18%,10%,48%,46%
+    FLA wins 4 or more Singles points: 36%
+    USC wins 4 or more Singles points: 30%
+    Winner decided by the Doubles point: 34%
   Singles:
     - Position: 1
       FLA: McCartney Kessler - 13-2 at 1, 13-2 in duals, 16-2 overall
       USC: Salma Ewing - 4-2 at 1, 13-5 in duals, 13-5 overall
       Predictions:
-        AVG: FLA - Kessler (79%) def. Ewing (21%)
+        AVG: FLA - Kessler (77%) def. Ewing (23%)
         SLM: FLA - Kessler (86%) def. Ewing (14%)
         TRN: FLA - Kessler (73%) def. Ewing (27%)
-        MAS: FLA - Kessler (87%) def. Ewing (13%)
+        MAS: FLA - Kessler (80%) def. Ewing (20%)
         UTR: FLA - Kessler (70%) def. Ewing (30%)
         ITA: FLA - Kessler (45.58) def. Ewing (14.56)
     - Position: 2
       FLA: Marlee Zein - 6-5 at 2, 8-5 in duals, 10-8 overall
       USC: Eryn Cayetano - 6-2 at 2, 10-5 in duals, 10-5 overall
       Predictions:
-        AVG: USC - Cayetano (76%) def. Zein (24%)
-        SLM: USC - Cayetano (77%) def. Zein (23%)
-        TRN: USC - Cayetano (81%) def. Zein (19%)
-        MAS: USC - Cayetano (60%) def. Zein (40%)
+        AVG: USC - Cayetano (77%) def. Zein (23%)
+        SLM: USC - Cayetano (75%) def. Zein (25%)
+        TRN: USC - Cayetano (80%) def. Zein (20%)
+        MAS: USC - Cayetano (66%) def. Zein (34%)
         UTR: USC - Cayetano (88%) def. Zein (12%)
         ITA: FLA - Zein (8.25) def. Cayetano (5.85)
     - Position: 3
       FLA: Ida Jarlskog - 6-2 at 3, 8-4 in duals, 8-4 overall
       USC: Angela Kulikov - 0-0 at 3, 0-1 in duals, 0-1 overall
       Predictions:
-        AVG: FLA - Jarlskog (74%) def. Kulikov (26%)
-        SLM: FLA - Jarlskog (99%) def. Kulikov (1%)
-        TRN: FLA - Jarlskog (99%) def. Kulikov (1%)
-        MAS: USC - Kulikov (99%) def. Jarlskog (1%)
-        UTR: FLA - Jarlskog (99%) def. Kulikov (1%)
-        ITA: FLA - Jarlskog (5.66) def. Kulikov (0.00)
+        AVG: FLA - Jarlskog (51%) def. Kulikov (49%)
+        SLM: FLA - Jarlskog (69%) def. Kulikov (31%)
+        TRN: FLA - Jarlskog (90%) def. Kulikov (10%)
+        MAS: USC - Kulikov (76%) def. Jarlskog (24%)
+        UTR: USC - Kulikov (77%) def. Jarlskog (23%)
+        ITA: "USC - # Kulikov def. Jarlskog (5.66)"
     - Position: 4
       FLA: Layne Sleeth - 7-0 at 4, 9-1 in duals, 9-1 overall
       USC: Naomi Cheong - 0-0 at 4, 9-8 in duals, 9-8 overall
       Predictions:
-        AVG: FLA - Sleeth (62%) def. Cheong (38%)
-        SLM: USC - Cheong (57%) def. Sleeth (43%)
+        AVG: FLA - Sleeth (61%) def. Cheong (39%)
+        SLM: USC - Cheong (60%) def. Sleeth (40%)
         TRN: FLA - Sleeth (51%) def. Cheong (49%)
-        MAS: FLA - Sleeth (76%) def. Cheong (24%)
+        MAS: FLA - Sleeth (74%) def. Cheong (26%)
         UTR: FLA - Sleeth (78%) def. Cheong (22%)
         ITA: FLA - Sleeth (7.72) def. Cheong (4.19)
     - Position: 5
       FLA: Sara Dahlstrom - 3-4 at 5, 6-8 in duals, 9-11 overall
       USC: Dani Willson - 0-0 at 5, 12-8 in duals, 12-8 overall
       Predictions:
-        AVG: USC - Willson (64%) def. Dahlstrom (36%)
-        SLM: USC - Willson (62%) def. Dahlstrom (38%)
-        TRN: USC - Willson (70%) def. Dahlstrom (30%)
-        MAS: USC - Willson (58%) def. Dahlstrom (42%)
+        AVG: USC - Willson (70%) def. Dahlstrom (30%)
+        SLM: USC - Willson (68%) def. Dahlstrom (32%)
+        TRN: USC - Willson (77%) def. Dahlstrom (23%)
+        MAS: USC - Willson (67%) def. Dahlstrom (33%)
         UTR: USC - Willson (68%) def. Dahlstrom (32%)
         ITA: FLA - Dahlstrom (3.40) def. Willson (1.74)
     - Position: 6
       FLA: Sydney Berlin - 6-3 at 6, 11-4 in duals, 16-5 overall
       USC: Summer Dvorak - 0-0 at 6, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: FLA - Berlin (71%) def. Dvorak (29%)
-        SLM: FLA - Berlin (70%) def. Dvorak (30%)
-        TRN: FLA - Berlin (70%) def. Dvorak (30%)
-        MAS: FLA - Berlin (69%) def. Dvorak (31%)
+        AVG: FLA - Berlin (67%) def. Dvorak (33%)
+        SLM: FLA - Berlin (63%) def. Dvorak (37%)
+        TRN: FLA - Berlin (66%) def. Dvorak (34%)
+        MAS: FLA - Berlin (66%) def. Dvorak (34%)
         UTR: FLA - Berlin (75%) def. Dvorak (25%)
         ITA: FLA - Berlin (2.47) def. Dvorak (1.85)
   Doubles:

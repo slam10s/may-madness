@@ -15,45 +15,44 @@ Home:
     Overall: 10
     Region: 1
   Ratings:
-    ITA: 9 (56.82)
+    ITA: 9 (57.04)
     SLM: 10 (97.17)
     TRN: 10 (95.99)
     MAS: 13 (8.43)
     UTR: 7 (79.79)
   Polls:
-    USTA: 12
+    USTA: 14 (196.00)
     Coach: 10
 Visitor:
   Team: South Carolina St.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 55
   Seeding:
     Region: 4
   Ratings:
-    ITA: 65 (0.72)
-    SLM: 63 (81.19)
-    TRN: 63 (76.54)
-    MAS: 63 (4.87)
-    UTR: 63 (66.99)
+    ITA: 64 (0.72)
+    SLM: 62 (81.19)
+    TRN: 62 (76.54)
+    MAS: 62 (4.87)
+    UTR: 62 (66.99)
 Predictions:
   AVG: WAKE - Wake Forest (99%) def. South Carolina St. (1%)
-  SLM: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
-  TRN: "WAKE - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)"
-  MAS: "WAKE - #13 Wake Forest (99%) def. #63 South Carolina St. (1%)"
+  SLM: "WAKE - #10 Wake Forest (99%) def. #62 South Carolina St. (1%)"
+  TRN: "WAKE - #10 Wake Forest (99%) def. #62 South Carolina St. (1%)"
+  MAS: "WAKE - #13 Wake Forest (99%) def. #62 South Carolina St. (1%)"
   LNUP: WAKE - Wake Forest (99%) def. South Carolina St. (1%)
-  UTR: "WAKE - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)"
-  ITA: "WAKE - #9 Wake Forest def. #65 South Carolina St."
-  USTA: "WAKE - #12 Wake Forest def. South Carolina St."
-  Coach: "WAKE - #10 Wake Forest def. South Carolina St."
+  UTR: "WAKE - #7 Wake Forest (+12.80) def. #62 South Carolina St. (-12.80)"
+  ITA: "WAKE - #9 Wake Forest def. #64 South Carolina St."
+  USTA: "WAKE - #14 Wake Forest def. South Carolina St."
   Seeding: "WAKE - #1 Wake Forest def. #4 South Carolina St."
 Lineups:
   Predictions:
     Average EWPs for WAKE: 99%,99%,100%,100%
     Average EWPs for SCST: 1%,1%,0%,0%
-    WAKE wins 4 or more Singles points: 98%
+    WAKE wins 4 or more Singles points: 99%
     SCST wins 4 or more Singles points: 0%
-    Winner decided by the Doubles point: 2%
+    Winner decided by the Doubles point: 1%
   Singles:
     - Position: 1
       WAKE: Henri Squire - 15-6 at 1, 15-6 in duals, 15-6 overall
@@ -74,16 +73,16 @@ Lineups:
         TRN: WAKE - Nava (99%) def. Rodriguez (1%)
         MAS: WAKE - Nava (99%) def. Rodriguez (1%)
         UTR: WAKE - Nava (97%) def. Rodriguez (3%)
-        ITA: WAKE - Nava (19.97) def. Rodriguez (0.00)
+        ITA: "SCST - # Rodriguez def. Nava (19.97)"
     - Position: 3
       WAKE: Taha Baadi - 6-2 at 3, 13-8 in duals, 13-8 overall
       SCST: Elyes Marouani - 9-2 at 3, 9-2 in duals, 9-2 overall
       Predictions:
-        AVG: WAKE - Baadi (97%) def. Marouani (3%)
-        SLM: WAKE - Baadi (99%) def. Marouani (1%)
-        TRN: WAKE - Baadi (99%) def. Marouani (1%)
-        MAS: WAKE - Baadi (90%) def. Marouani (10%)
-        UTR: WAKE - Baadi (99%) def. Marouani (1%)
+        AVG: WAKE - Baadi (94%) def. Marouani (6%)
+        SLM: WAKE - Baadi (97%) def. Marouani (3%)
+        TRN: WAKE - Baadi (97%) def. Marouani (3%)
+        MAS: WAKE - Baadi (88%) def. Marouani (12%)
+        UTR: WAKE - Baadi (92%) def. Marouani (8%)
         ITA: WAKE - Baadi (6.71) def. Marouani (1.53)
     - Position: 4
       WAKE: Rrezart Cungu - 7-3 at 4, 20-4 in duals, 20-4 overall
@@ -94,17 +93,17 @@ Lineups:
         TRN: WAKE - Cungu (99%) def. Gorgun (1%)
         MAS: WAKE - Cungu (99%) def. Gorgun (1%)
         UTR: WAKE - Cungu (98%) def. Gorgun (2%)
-        ITA: WAKE - Cungu (3.35) def. Gorgun (0.00)
+        ITA: "SCST - # Gorgun def. Cungu (3.35)"
     - Position: 5
       WAKE: Melios Efstathiou - 6-2 at 5, 12-6 in duals, 12-6 overall
       SCST: Diego Arzaluz - 5-3 at 5, 5-3 in duals, 5-3 overall
       Predictions:
-        AVG: WAKE - Efstathiou (74%) def. Arzaluz (26%)
+        AVG: WAKE - Efstathiou (98%) def. Arzaluz (2%)
         SLM: WAKE - Efstathiou (99%) def. Arzaluz (1%)
         TRN: WAKE - Efstathiou (99%) def. Arzaluz (1%)
-        MAS: SCST - Arzaluz (99%) def. Efstathiou (1%)
-        UTR: WAKE - Efstathiou (99%) def. Arzaluz (1%)
-        ITA: WAKE - Efstathiou (2.09) def. Arzaluz (0.00)
+        MAS: WAKE - Efstathiou (97%) def. Arzaluz (3%)
+        UTR: WAKE - Efstathiou (98%) def. Arzaluz (2%)
+        ITA: "SCST - # Arzaluz def. Efstathiou (2.09)"
     - Position: 6
       WAKE: Sid Banthia - 7-1 at 6, 19-3 in duals, 19-3 overall
       SCST: Luka Stefanovic - 4-1 at 6, 4-1 in duals, 4-1 overall
@@ -112,9 +111,9 @@ Lineups:
         AVG: WAKE - Banthia (74%) def. Stefanovic (26%)
         SLM: WAKE - Banthia (99%) def. Stefanovic (1%)
         TRN: WAKE - Banthia (99%) def. Stefanovic (1%)
-        MAS: SCST - Stefanovic (99%) def. Banthia (1%)
-        UTR: WAKE - Banthia (99%) def. Stefanovic (1%)
-        ITA: WAKE - Banthia (2.98) def. Stefanovic (0.00)
+        MAS: "SCST - # Stefanovic (99%) def. Banthia (1%)"
+        UTR: WAKE - Banthia (98%) def. Stefanovic (2%)
+        ITA: "SCST - # Stefanovic def. Banthia (2.98)"
   Doubles:
     - Position: 1
       WAKE: Nava/Squire - 13-5 at 1, 13-5 in duals, 13-5 overall

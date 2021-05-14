@@ -15,23 +15,23 @@ Home:
     Overall: 3
     Region: 1
   Ratings:
-    ITA: 3 (74.01)
+    ITA: 3 (73.77)
     SLM: 3 (97.81)
     TRN: 3 (94.01)
     MAS: 3 (9.29)
     UTR: 3 (64.69)
   Polls:
-    USTA: 3
+    USTA: 4 (299.00)
     Coach: 3
 Visitor:
   Team: Austin Peay
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/a/austin-peay.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 34
   Seeding:
     Region: 4
   Ratings:
-    ITA: 57 (3.35)
+    ITA: 57 (3.32)
     SLM: 56 (77.22)
     TRN: 56 (67.26)
     MAS: 56 (4.88)
@@ -44,8 +44,7 @@ Predictions:
   LNUP: UGA - Georgia (99%) def. Austin Peay (1%)
   UTR: "UGA - #3 Georgia (+12.29) def. #55 Austin Peay (-12.29)"
   ITA: "UGA - #3 Georgia def. #57 Austin Peay"
-  USTA: "UGA - #3 Georgia def. Austin Peay"
-  Coach: "UGA - #3 Georgia def. Austin Peay"
+  USTA: "UGA - #4 Georgia def. Austin Peay"
   Seeding: "UGA - #1 Georgia def. #4 Austin Peay"
 Lineups:
   Predictions:
@@ -82,7 +81,7 @@ Lineups:
         AVG: UGA - Kowalski (99%) def. Leder (1%)
         SLM: UGA - Kowalski (99%) def. Leder (1%)
         TRN: UGA - Kowalski (99%) def. Leder (1%)
-        MAS: UGA - Kowalski (99%) def. Leder (1%)
+        MAS: UGA - Kowalski (98%) def. Leder (2%)
         UTR: UGA - Kowalski (98%) def. Leder (2%)
         ITA: UGA - Kowalski (23.73) def. Leder (3.05)
     - Position: 4
@@ -97,14 +96,14 @@ Lineups:
         ITA: UGA - Coppoc (8.66) def. Topalovic (2.10)
     - Position: 5
       UGA: Marta Gonzalez - 1-1 at 5, 2-1 in duals, 11-1 overall
-      PEAY: Martina Paladini-Jennings - 4-4 at 5, 7-7 in duals, 7-7 overall
+      PEAY: Martina Paladini Jennings - 4-4 at 5, 7-7 in duals, 7-7 overall
       Predictions:
-        AVG: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
-        SLM: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
-        TRN: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
-        MAS: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
-        UTR: UGA - Gonzalez (99%) def. Paladini-Jennings (1%)
-        ITA: UGA - Gonzalez (11.71) def. Paladini-Jennings (1.85)
+        AVG: UGA - Gonzalez (99%) def. Jennings (1%)
+        SLM: UGA - Gonzalez (99%) def. Jennings (1%)
+        TRN: UGA - Gonzalez (99%) def. Jennings (1%)
+        MAS: UGA - Gonzalez (99%) def. Jennings (1%)
+        UTR: UGA - Gonzalez (99%) def. Jennings (1%)
+        ITA: UGA - Gonzalez (11.71) def. Jennings (1.85)
     - Position: 6
       UGA: Elena Christofi - 9-0 at 6, 10-2 in duals, 17-4 overall
       PEAY: Honoka Nakanishi - 7-3 at 6, 7-3 in duals, 7-3 overall

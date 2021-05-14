@@ -21,7 +21,7 @@ Home:
     MAS: 21 (7.84)
     UTR: 25 (77.70)
   Polls:
-    USTA: 21
+    USTA: 23 (73.00)
     Coach: 16
 Visitor:
   Team: Tulane
@@ -39,31 +39,30 @@ Visitor:
   Polls:
     Coach: 24
 Predictions:
-  AVG: MISS - Ole Miss (73%) def. Tulane (27%)
+  AVG: MISS - Ole Miss (74%) def. Tulane (26%)
   SLM: "MISS - #18 Ole Miss (69%) def. #26 Tulane (31%)"
   TRN: "MISS - #18 Ole Miss (75%) def. #26 Tulane (25%)"
-  MAS: "MISS - #21 Ole Miss (64%) def. #26 Tulane (36%)"
-  LNUP: MISS - Ole Miss (82%) def. Tulane (18%)
+  MAS: "MISS - #21 Ole Miss (70%) def. #26 Tulane (30%)"
+  LNUP: MISS - Ole Miss (80%) def. Tulane (20%)
   UTR: "MISS - #25 Ole Miss (+0.71) def. #31 Tulane (-0.71)"
   ITA: "MISS - #14 Ole Miss def. #22 Tulane"
-  USTA: "MISS - #21 Ole Miss def. Tulane"
-  Coach: "MISS - #16 Ole Miss def. #24 Tulane"
+  USTA: "MISS - #23 Ole Miss def. Tulane"
   Seeding: "MISS - #1 Ole Miss def. #2 Tulane"
 Lineups:
   Predictions:
-    Average EWPs for MISS: 69%,75%,64%,82%
-    Average EWPs for TULN: 31%,25%,36%,18%
-    MISS wins 4 or more Singles points: 60%
-    TULN wins 4 or more Singles points: 13%
+    Average EWPs for MISS: 69%,75%,70%,80%
+    Average EWPs for TULN: 31%,25%,30%,20%
+    MISS wins 4 or more Singles points: 59%
+    TULN wins 4 or more Singles points: 14%
     Winner decided by the Doubles point: 27%
   Singles:
     - Position: 1
       MISS: Tim Sandkaulen - 1-7 at 1, 8-12 in duals, 13-16 overall
       TULN: Hamish Stewart - 12-7 at 1, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: TULN - Stewart (69%) def. Sandkaulen (31%)
-        SLM: TULN - Stewart (68%) def. Sandkaulen (32%)
-        TRN: TULN - Stewart (65%) def. Sandkaulen (35%)
+        AVG: TULN - Stewart (70%) def. Sandkaulen (30%)
+        SLM: TULN - Stewart (69%) def. Sandkaulen (31%)
+        TRN: TULN - Stewart (67%) def. Sandkaulen (33%)
         MAS: TULN - Stewart (64%) def. Sandkaulen (36%)
         UTR: TULN - Stewart (79%) def. Sandkaulen (21%)
         ITA: MISS - Sandkaulen (22.95) def. Stewart (22.58)
@@ -71,20 +70,20 @@ Lineups:
       MISS: Finn Reynolds - 6-1 at 2, 10-10 in duals, 10-10 overall
       TULN: Ewan Moore - 9-7 at 2, 10-7 in duals, 10-7 overall
       Predictions:
-        AVG: MISS - Reynolds (73%) def. Moore (27%)
+        AVG: MISS - Reynolds (72%) def. Moore (28%)
         SLM: MISS - Reynolds (74%) def. Moore (26%)
         TRN: MISS - Reynolds (77%) def. Moore (23%)
-        MAS: MISS - Reynolds (64%) def. Moore (36%)
+        MAS: MISS - Reynolds (63%) def. Moore (37%)
         UTR: MISS - Reynolds (76%) def. Moore (24%)
         ITA: MISS - Reynolds (36.17) def. Moore (3.08)
     - Position: 3
       MISS: Nikola Slavic - 12-7 at 3, 13-7 in duals, 13-7 overall
       TULN: Luis Erlenbusch - 13-5 at 3, 14-5 in duals, 14-5 overall
       Predictions:
-        AVG: MISS - Slavic (61%) def. Erlenbusch (39%)
-        SLM: MISS - Slavic (55%) def. Erlenbusch (45%)
-        TRN: MISS - Slavic (62%) def. Erlenbusch (38%)
-        MAS: MISS - Slavic (57%) def. Erlenbusch (43%)
+        AVG: MISS - Slavic (58%) def. Erlenbusch (42%)
+        SLM: MISS - Slavic (54%) def. Erlenbusch (46%)
+        TRN: MISS - Slavic (56%) def. Erlenbusch (44%)
+        MAS: MISS - Slavic (54%) def. Erlenbusch (46%)
         UTR: MISS - Slavic (70%) def. Erlenbusch (30%)
         ITA: MISS - Slavic (24.24) def. Erlenbusch (4.16)
     - Position: 4
@@ -92,29 +91,29 @@ Lineups:
       TULN: Billy Suarez - 8-5 at 4, 9-6 in duals, 9-6 overall
       Predictions:
         AVG: MISS - Lithen (69%) def. Suarez (31%)
-        SLM: MISS - Lithen (61%) def. Suarez (39%)
-        TRN: MISS - Lithen (74%) def. Suarez (26%)
-        MAS: MISS - Lithen (69%) def. Suarez (31%)
+        SLM: MISS - Lithen (58%) def. Suarez (42%)
+        TRN: MISS - Lithen (71%) def. Suarez (29%)
+        MAS: MISS - Lithen (72%) def. Suarez (28%)
         UTR: MISS - Lithen (74%) def. Suarez (26%)
         ITA: MISS - Lithen (2.40) def. Suarez (2.40)
     - Position: 5
       MISS: Simon Junk - 2-6 at 5, 9-11 in duals, 9-14 overall
       TULN: Rafael de Alba - 3-2 at 5, 12-4 in duals, 12-4 overall
       Predictions:
-        AVG: MISS - Junk (55%) def. Alba (45%)
+        AVG: MISS - Junk (56%) def. Alba (44%)
         SLM: MISS - Junk (63%) def. Alba (37%)
-        TRN: MISS - Junk (61%) def. Alba (39%)
-        MAS: TULN - Alba (67%) def. Junk (33%)
+        TRN: MISS - Junk (60%) def. Alba (40%)
+        MAS: TULN - Alba (59%) def. Junk (41%)
         UTR: MISS - Junk (63%) def. Alba (37%)
         ITA: TULN - Alba (2.39) def. Junk (1.99)
     - Position: 6
       MISS: Lukas Engelhardt - 3-4 at 6, 3-7 in duals, 3-7 overall
       TULN: Akos Kotorman - 1-2 at 6, 2-3 in duals, 2-3 overall
       Predictions:
-        AVG: MISS - Engelhardt (83%) def. Kotorman (17%)
-        SLM: MISS - Engelhardt (81%) def. Kotorman (19%)
+        AVG: MISS - Engelhardt (84%) def. Kotorman (16%)
+        SLM: MISS - Engelhardt (80%) def. Kotorman (20%)
         TRN: MISS - Engelhardt (80%) def. Kotorman (20%)
-        MAS: MISS - Engelhardt (81%) def. Kotorman (19%)
+        MAS: MISS - Engelhardt (84%) def. Kotorman (16%)
         UTR: MISS - Engelhardt (90%) def. Kotorman (10%)
   Doubles:
     - Position: 1

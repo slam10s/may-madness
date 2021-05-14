@@ -15,13 +15,13 @@ Home:
     Overall: 2
     Region: 1
   Ratings:
-    ITA: 2 (79.19)
+    ITA: 2 (79.31)
     SLM: 2 (98.44)
     TRN: 2 (97.97)
     MAS: 2 (9.38)
     UTR: 1 (65.59)
   Polls:
-    USTA: 2
+    USTA: 3 (312.00)
     Coach: 2
 Visitor:
   Team: Arizona St.
@@ -31,13 +31,13 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 31 (26.09)
+    ITA: 31 (26.26)
     SLM: 31 (88.20)
     TRN: 33 (79.83)
     MAS: 24 (7.65)
     UTR: 23 (61.59)
   Polls:
-    USTA: RV
+    USTA: RV (6.00)
     Coach: 30
 Predictions:
   AVG: TEX - Texas (99%) def. Arizona St. (1%)
@@ -47,8 +47,7 @@ Predictions:
   LNUP: TEX - Texas (99%) def. Arizona St. (1%)
   UTR: "TEX - #1 Texas (+4.00) def. #23 Arizona St. (-4.00)"
   ITA: "TEX - #2 Texas def. #31 Arizona St."
-  USTA: "TEX - #2 Texas def. RV Arizona St."
-  Coach: "TEX - #2 Texas def. #30 Arizona St."
+  USTA: "TEX - #3 Texas def. RV Arizona St."
   Seeding: "TEX - #1 Texas def. #2 Arizona St."
 Lineups:
   Predictions:
@@ -63,9 +62,9 @@ Lineups:
       AZST: Ilze Hattingh - 10-7 at 1, 10-7 in duals, 11-7 overall
       Predictions:
         AVG: TEX - Stearns (81%) def. Hattingh (19%)
-        SLM: TEX - Stearns (73%) def. Hattingh (27%)
-        TRN: TEX - Stearns (77%) def. Hattingh (23%)
-        MAS: TEX - Stearns (84%) def. Hattingh (16%)
+        SLM: TEX - Stearns (76%) def. Hattingh (24%)
+        TRN: TEX - Stearns (78%) def. Hattingh (22%)
+        MAS: TEX - Stearns (81%) def. Hattingh (19%)
         UTR: TEX - Stearns (91%) def. Hattingh (9%)
         ITA: TEX - Stearns (16.38) def. Hattingh (6.86)
     - Position: 2
@@ -73,9 +72,9 @@ Lineups:
       AZST: Sammi Hampton - 6-8 at 2, 6-8 in duals, 6-8 overall
       Predictions:
         AVG: TEX - Turati (90%) def. Hampton (10%)
-        SLM: TEX - Turati (90%) def. Hampton (10%)
+        SLM: TEX - Turati (91%) def. Hampton (9%)
         TRN: TEX - Turati (94%) def. Hampton (6%)
-        MAS: TEX - Turati (88%) def. Hampton (12%)
+        MAS: TEX - Turati (86%) def. Hampton (14%)
         UTR: TEX - Turati (89%) def. Hampton (11%)
         ITA: TEX - Turati (17.31) def. Hampton (1.50)
     - Position: 3
@@ -85,7 +84,7 @@ Lineups:
         AVG: TEX - Sun (90%) def. John-Baptiste (10%)
         SLM: TEX - Sun (87%) def. John-Baptiste (13%)
         TRN: TEX - Sun (92%) def. John-Baptiste (8%)
-        MAS: TEX - Sun (85%) def. John-Baptiste (15%)
+        MAS: TEX - Sun (84%) def. John-Baptiste (16%)
         UTR: TEX - Sun (96%) def. John-Baptiste (4%)
         ITA: TEX - Sun (9.34) def. John-Baptiste (2.78)
     - Position: 4
@@ -105,19 +104,19 @@ Lineups:
         AVG: TEX - Collins (87%) def. Argyrokastriti (13%)
         SLM: TEX - Collins (88%) def. Argyrokastriti (12%)
         TRN: TEX - Collins (90%) def. Argyrokastriti (10%)
-        MAS: TEX - Collins (82%) def. Argyrokastriti (18%)
+        MAS: TEX - Collins (84%) def. Argyrokastriti (16%)
         UTR: TEX - Collins (88%) def. Argyrokastriti (12%)
         ITA: TEX - Collins (8.04) def. Argyrokastriti (2.12)
     - Position: 6
-      TEX: Fernanda Labrana - 5-1 at 6, 14-1 in duals, 21-2 overall
+      TEX: Fernanda Labraña - 5-1 at 6, 14-1 in duals, 21-2 overall
       AZST: Domenika Turkovic - 4-5 at 6, 8-6 in duals, 9-6 overall
       Predictions:
-        AVG: TEX - Labrana (92%) def. Turkovic (8%)
-        SLM: TEX - Labrana (95%) def. Turkovic (5%)
-        TRN: TEX - Labrana (98%) def. Turkovic (2%)
-        MAS: TEX - Labrana (85%) def. Turkovic (15%)
-        UTR: TEX - Labrana (90%) def. Turkovic (10%)
-        ITA: AZST - Turkovic (1.94) def. Labrana (0.00)
+        AVG: TEX - Labraña (91%) def. Turkovic (9%)
+        SLM: TEX - Labraña (94%) def. Turkovic (6%)
+        TRN: TEX - Labraña (97%) def. Turkovic (3%)
+        MAS: TEX - Labraña (84%) def. Turkovic (16%)
+        UTR: TEX - Labraña (90%) def. Turkovic (10%)
+        ITA: TEX - Labraña (4.28) def. Turkovic (1.94)
   Doubles:
     - Position: 1
       TEX: Sun/Collins - 16-4 at 1, 16-4 in duals, 16-4 overall

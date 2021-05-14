@@ -11,10 +11,10 @@ Knoxville, Tennessee
 <h2>#4 Alabama A&M</h2>  
 &nbsp; Record: 6-7<br>  
 &nbsp; ITA: 63 (1.60)<br>  
-&nbsp; Slam: 64 (76.01)<br>  
-&nbsp; TRN: 64 (72.43)<br>  
-&nbsp; Massey: 65 (3.71)<br>  
-&nbsp; UTR: 65 (63.25)<br>  
+&nbsp; Slam: 63 (76.01)<br>  
+&nbsp; TRN: 63 (72.43)<br>  
+&nbsp; Massey: 64 (3.71)<br>  
+&nbsp; UTR: 64 (63.25)<br>  
 <br>  
 
 </td>
@@ -27,8 +27,8 @@ Knoxville, Tennessee
 &#10004; TRN: 5 (98.72)<br>  
 &#10004; Massey: 2 (9.17)<br>  
 &#10004; UTR: 4 (80.17)<br>  
-&#10004; USTA Poll: 4<br>  
-&#10004; Coaches Poll: 3<br>  
+&#10004; USTA Poll: 6 (290.00)<br>  
+&nbsp; Coaches Poll: 3<br>  
 <br>  
 
 </td>
@@ -45,14 +45,13 @@ Go to [Live Stats](http://www.sidearmstats.com/utennessee/mten/)
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***TENN*** - Tennessee (99%) def. Alabama A&M (1%)  
-- Slam: ***TENN*** - #4 Tennessee (99%) def. #64 Alabama A&M (1%)  
-- TRN: ***TENN*** - #5 Tennessee (99%) def. #64 Alabama A&M (1%)  
-- Massey: ***TENN*** - #2 Tennessee (99%) def. #65 Alabama A&M (1%)  
+- Slam: ***TENN*** - #4 Tennessee (99%) def. #63 Alabama A&M (1%)  
+- TRN: ***TENN*** - #5 Tennessee (99%) def. #63 Alabama A&M (1%)  
+- Massey: ***TENN*** - #2 Tennessee (99%) def. #64 Alabama A&M (1%)  
 - Lineup: ***TENN*** - Tennessee (99%) def. Alabama A&M (1%)  
-- UTR: ***TENN*** - #4 Tennessee (+16.92) def. #65 Alabama A&M (-16.92)  
+- UTR: ***TENN*** - #4 Tennessee (+16.92) def. #64 Alabama A&M (-16.92)  
 - ITA: ***TENN*** - #3 Tennessee def. #63 Alabama A&M  
-- USTA Poll: ***TENN*** - #4 Tennessee def. Alabama A&M  
-- Coaches Poll: ***TENN*** - #3 Tennessee def. Alabama A&M  
+- USTA Poll: ***TENN*** - #6 Tennessee def. Alabama A&M  
 - Seeding: ***TENN*** - #1 Tennessee def. #4 Alabama A&M  
 
 ## Individual Matchups  
@@ -70,7 +69,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>Massey: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Walton (99%) def. Rios (1%)</li>  
-<li>ITA: <b><i>TENN</i></b> - Walton (42.60) def. Rios (0.00)</li>  
+<li>ITA: <b><i>AAMU</i></b> - # Rios def. Walton (42.60)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -87,12 +86,12 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Fermin Ruiz (AAMU) - 0-9 at #3, 0-12 in duals, 0-12 overall<br>Martim Prata (TENN) - 11-8 at #3, 15-8 in duals, 22-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TENN</i></b> - Prata (74%) def. Ruiz (26%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Prata (99%) def. Ruiz (1%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Prata (99%) def. Ruiz (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Prata (99%) def. Ruiz (1%)</li>  
-<li>Massey: <b><i>AAMU</i></b> - Ruiz (99%) def. Prata (1%)</li>  
+<li>Massey: <b><i>TENN</i></b> - Prata (99%) def. Ruiz (1%)</li>  
 <li>UTR: <b><i>TENN</i></b> - Prata (99%) def. Ruiz (1%)</li>  
-<li>ITA: <b><i>TENN</i></b> - Prata (18.77) def. Ruiz (0.00)</li>  
+<li>ITA: <b><i>AAMU</i></b> - # Ruiz def. Prata (18.77)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -120,11 +119,11 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Divesh Gahlot (AAMU) - 3-0 at #6, 3-0 in duals, 3-0 overall<br>Pat Harper (TENN) - 5-3 at #6, 5-4 in duals, 12-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TENN</i></b> - Harper (74%) def. Gahlot (26%)</li>  
+<li>Composite: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
 <li>Slam: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
 <li>TRN: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
-<li>Massey: <b><i>AAMU</i></b> - Gahlot (99%) def. Harper (1%)</li>  
-<li>UTR: <b><i>TENN</i></b> - Harper (99%) def. Gahlot (1%)</li>  
+<li>Massey: <b><i>TENN</i></b> - Harper (98%) def. # Gahlot (2%)</li>  
+<li>UTR: <b><i>TENN</i></b> - Harper (98%) def. Gahlot (2%)</li>  
 <li>ITA: <b><i>TENN</i></b> - Harper (5.43) def. Gahlot (1.77)</li>  
 </ul>
 </details>&nbsp;</li>

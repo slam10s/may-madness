@@ -10,7 +10,7 @@ Los Angeles, California
 
 <h2>#2 Texas Tech</h2>  
 &nbsp; Record: 16-9<br>  
-&nbsp; ITA: 29 (28.07)<br>  
+&nbsp; ITA: 30 (27.98)<br>  
 &nbsp; Slam: 34 (87.92)<br>  
 &nbsp; TRN: 34 (79.75)<br>  
 &nbsp; Massey: 28 (7.39)<br>  
@@ -23,13 +23,13 @@ Los Angeles, California
 
 <h2>#1 UCLA</h2>  
 &nbsp; Record: 21-4<br>  
-&#10004; ITA: 4 (61.84)<br>  
+&#10004; ITA: 4 (61.62)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
 &#10004; Massey: 4 (8.85)<br>  
 &#10004; UTR: 5 (64.40)<br>  
-&#10004; USTA Poll: 4<br>  
-&#10004; Coaches Poll: 5<br>  
+&#10004; USTA Poll: 5 (280.00)<br>  
+&nbsp; Coaches Poll: 5<br>  
 <br>  
 
 </td>
@@ -51,9 +51,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***UCLA*** - #4 UCLA (98%) def. #28 Texas Tech (2%)  
 - Lineup: ***UCLA*** - UCLA (97%) def. Texas Tech (3%)  
 - UTR: ***UCLA*** - #5 UCLA (+2.96) def. #27 Texas Tech (-2.96)  
-- ITA: ***UCLA*** - #4 UCLA def. #29 Texas Tech  
-- USTA Poll: ***UCLA*** - #4 UCLA def. Texas Tech  
-- Coaches Poll: ***UCLA*** - #5 UCLA def. #29 Texas Tech  
+- ITA: ***UCLA*** - #4 UCLA def. #30 Texas Tech  
+- USTA Poll: ***UCLA*** - #5 UCLA def. Texas Tech  
 - Seeding: ***UCLA*** - #1 UCLA def. #2 Texas Tech  
 
 ## Individual Matchups  
@@ -88,10 +87,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kaitlin Staines (TTU) - 0-0 at #3, 6-9 in duals, 9-11 overall<br>Elysia Bolton (UCLA) - 5-2 at #3, 9-3 in duals, 9-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Bolton (90%) def. Staines (10%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Bolton (86%) def. Staines (14%)</li>  
-<li>TRN: <b><i>UCLA</i></b> - Bolton (89%) def. Staines (11%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Bolton (91%) def. Staines (9%)</li>  
+<li>TRN: <b><i>UCLA</i></b> - Bolton (90%) def. Staines (10%)</li>  
+<li>Massey: <b><i>UCLA</i></b> - Bolton (92%) def. Staines (8%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Bolton (91%) def. Staines (9%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Staines (4.66) def. Bolton (4.20)</li>  
 </ul>
@@ -99,10 +98,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nell Miller (TTU) - 11-4 at #4, 14-6 in duals, 16-10 overall<br>Vivian Wolff (UCLA) - 9-4 at #4, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Wolff (73%) def. Miller (27%)</li>  
-<li>Slam: <b><i>UCLA</i></b> - Wolff (68%) def. Miller (32%)</li>  
-<li>TRN: <b><i>UCLA</i></b> - Wolff (75%) def. Miller (25%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Wolff (75%) def. Miller (25%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Wolff (75%) def. Miller (25%)</li>  
+<li>Slam: <b><i>UCLA</i></b> - Wolff (71%) def. Miller (29%)</li>  
+<li>TRN: <b><i>UCLA</i></b> - Wolff (78%) def. Miller (22%)</li>  
+<li>Massey: <b><i>UCLA</i></b> - Wolff (78%) def. Miller (22%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Wolff (72%) def. Miller (28%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Miller (2.66) def. Wolff (2.06)</li>  
 </ul>
@@ -110,10 +109,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Olivia Peet (TTU) - 9-6 at #5, 10-6 in duals, 12-6 overall<br>Sasha Vagramov (UCLA) - 5-3 at #5, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Vagramov (56%) def. Peet (44%)</li>  
-<li>Slam: <b><i>UCLA</i></b> - Vagramov (61%) def. Peet (39%)</li>  
-<li>TRN: <b><i>UCLA</i></b> - Vagramov (72%) def. Peet (28%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Vagramov (54%) def. Peet (46%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Vagramov (59%) def. Peet (41%)</li>  
+<li>Slam: <b><i>UCLA</i></b> - Vagramov (65%) def. Peet (35%)</li>  
+<li>TRN: <b><i>UCLA</i></b> - Vagramov (76%) def. Peet (24%)</li>  
+<li>Massey: <b><i>UCLA</i></b> - Vagramov (59%) def. Peet (41%)</li>  
 <li>UTR: <b><i>TTU</i></b> - Peet (62%) def. Vagramov (38%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Vagramov (2.24) def. Peet (2.03)</li>  
 </ul>
@@ -121,10 +120,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Metka Komac (TTU) - 9-4 at #6, 10-5 in duals, 12-6 overall<br>Vanessa Ong (UCLA) - 3-1 at #6, 4-1 in duals, 4-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Ong (75%) def. Komac (25%)</li>  
-<li>Slam: <b><i>UCLA</i></b> - Ong (63%) def. Komac (37%)</li>  
-<li>TRN: <b><i>UCLA</i></b> - Ong (77%) def. Komac (23%)</li>  
-<li>Massey: <b><i>UCLA</i></b> - Ong (67%) def. Komac (33%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Ong (77%) def. Komac (23%)</li>  
+<li>Slam: <b><i>UCLA</i></b> - Ong (69%) def. Komac (31%)</li>  
+<li>TRN: <b><i>UCLA</i></b> - Ong (82%) def. Komac (18%)</li>  
+<li>Massey: <b><i>UCLA</i></b> - Ong (65%) def. Komac (35%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Ong (93%) def. Komac (7%)</li>  
 <li>ITA: <b><i>TTU</i></b> - Komac (1.98) def. Ong (1.95)</li>  
 </ul>
@@ -151,11 +150,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- UCLA should win 4 or more singles matches *89%* of the time.  
+- UCLA should win 4 or more singles matches *90%* of the time.  
 - Texas Tech should win 4 or more singles matches *2%* of the time.  
-- The winner of the doubles point should decide the match the other *9%* of the time.  
+- The winner of the doubles point should decide the match the other *8%* of the time.  
 - If UCLA wins the doubles point, their chances of winning the dual improve to *98%*.  
-- If Texas Tech wins the doubles point, their chances of winning the dual improve to *11%*.  
+- If Texas Tech wins the doubles point, their chances of winning the dual improve to *10%*.  
   
 ------
 

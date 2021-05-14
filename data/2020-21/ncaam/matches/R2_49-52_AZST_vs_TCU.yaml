@@ -21,7 +21,7 @@ Home:
     MAS: 6 (8.76)
     UTR: 10 (79.71)
   Polls:
-    USTA: 9
+    USTA: 11 (217.00)
     Coach: 7
 Visitor:
   Team: Arizona St.
@@ -37,55 +37,55 @@ Visitor:
     MAS: 24 (7.68)
     UTR: 23 (78.03)
   Polls:
-    USTA: 19
+    USTA: 21 (88.00)
     Coach: 22
 Predictions:
   AVG: TCU - TCU (94%) def. Arizona St. (6%)
   SLM: "TCU - #9 TCU (90%) def. #25 Arizona St. (10%)"
   TRN: "TCU - #9 TCU (93%) def. #25 Arizona St. (7%)"
   MAS: "TCU - #6 TCU (96%) def. #24 Arizona St. (4%)"
-  LNUP: TCU - TCU (98%) def. Arizona St. (2%)
+  LNUP: TCU - TCU (97%) def. Arizona St. (3%)
   UTR: "TCU - #10 TCU (+1.68) def. #23 Arizona St. (-1.68)"
   ITA: "TCU - #7 TCU def. #20 Arizona St."
-  USTA: "TCU - #9 TCU def. #19 Arizona St."
-  Coach: "TCU - #7 TCU def. #22 Arizona St."
+  USTA: "TCU - #11 TCU def. #21 Arizona St."
   Seeding: "TCU - #1 TCU def. #2 Arizona St."
 Lineups:
   Predictions:
-    Average EWPs for TCU: 90%,93%,96%,98%
-    Average EWPs for AZST: 10%,7%,4%,2%
-    TCU wins 4 or more Singles points: 90%
-    AZST wins 4 or more Singles points: 1%
-    Winner decided by the Doubles point: 9%
+    Average EWPs for TCU: 90%,93%,96%,97%
+    Average EWPs for AZST: 10%,7%,4%,3%
+    TCU wins 4 or more Singles points: 88%
+    AZST wins 4 or more Singles points: 2%
+    Winner decided by the Doubles point: 10%
   Singles:
     - Position: 1
       TCU: Alastair Gray - 6-4 at 1, 13-7 in duals, 13-7 overall
-      AZST: Nathan Ponwtih - 14-7 at 1, 15-7 in duals, 15-7 overall
+      AZST: Nathan Ponwith - 14-7 at 1, 15-7 in duals, 15-7 overall
       Predictions:
-        AVG: TCU - Gray (59%) def. Ponwtih (41%)
-        SLM: AZST - Ponwtih (52%) def. Gray (48%)
-        TRN: TCU - Gray (54%) def. Ponwtih (46%)
-        MAS: TCU - Gray (59%) def. Ponwtih (41%)
-        UTR: TCU - Gray (76%) def. Ponwtih (24%)
-        ITA: TCU - Gray (40.15) def. Ponwtih (8.02)
+        AVG: TCU - Gray (61%) def. Ponwith (39%)
+        SLM: AZST - Ponwith (52%) def. Gray (48%)
+        TRN: TCU - Gray (54%) def. Ponwith (46%)
+        MAS: TCU - Gray (68%) def. Ponwith (32%)
+        UTR: TCU - Gray (76%) def. Ponwith (24%)
+        ITA: TCU - Gray (40.15) def. Ponwith (8.02)
     - Position: 2
       TCU: Luc Fomba - 7-3 at 2, 12-6 in duals, 12-6 overall
-      AZST: Makey Rakotomalala - 4-8 at 2, 9-10 in duals, 9-10 overall
+      AZST: Baonoromandresy (makey) Rakotomalala - 4-8 at 2, 9-10 in duals, 9-10
+        overall
       Predictions:
-        AVG: TCU - Fomba (96%) def. Rakotomalala (4%)
-        SLM: TCU - Fomba (99%) def. Rakotomalala (1%)
-        TRN: TCU - Fomba (99%) def. Rakotomalala (1%)
+        AVG: TCU - Fomba (87%) def. Rakotomalala (13%)
+        SLM: TCU - Fomba (86%) def. Rakotomalala (14%)
+        TRN: TCU - Fomba (93%) def. Rakotomalala (7%)
         MAS: TCU - Fomba (86%) def. Rakotomalala (14%)
-        UTR: TCU - Fomba (99%) def. Rakotomalala (1%)
-        ITA: TCU - Fomba (35.12) def. Rakotomalala (0.00)
+        UTR: TCU - Fomba (81%) def. Rakotomalala (19%)
+        ITA: TCU - Fomba (35.12) def. Rakotomalala (1.65)
     - Position: 3
       TCU: Sander Jong - 10-5 at 3, 10-7 in duals, 11-8 overall
       AZST: Tim Ruehl - 6-2 at 3, 10-5 in duals, 10-5 overall
       Predictions:
         AVG: TCU - Jong (64%) def. Ruehl (36%)
         SLM: TCU - Jong (58%) def. Ruehl (42%)
-        TRN: TCU - Jong (70%) def. Ruehl (30%)
-        MAS: TCU - Jong (64%) def. Ruehl (36%)
+        TRN: TCU - Jong (71%) def. Ruehl (29%)
+        MAS: TCU - Jong (62%) def. Ruehl (38%)
         UTR: TCU - Jong (63%) def. Ruehl (37%)
         ITA: TCU - Jong (11.43) def. Ruehl (2.65)
     - Position: 4
@@ -102,20 +102,20 @@ Lineups:
       TCU: Tomas Jirousek - 1-1 at 5, 6-5 in duals, 7-6 overall
       AZST: Max McKennon - 3-2 at 5, 4-5 in duals, 4-5 overall
       Predictions:
-        AVG: TCU - Jirousek (82%) def. McKennon (18%)
+        AVG: TCU - Jirousek (81%) def. McKennon (19%)
         SLM: TCU - Jirousek (90%) def. McKennon (10%)
         TRN: TCU - Jirousek (90%) def. McKennon (10%)
-        MAS: TCU - Jirousek (81%) def. McKennon (19%)
+        MAS: TCU - Jirousek (78%) def. McKennon (22%)
         UTR: TCU - Jirousek (66%) def. McKennon (34%)
-        ITA: TCU - Jirousek (6.98) def. McKennon (0.00)
+        ITA: "AZST - # McKennon def. Jirousek (6.98)"
     - Position: 6
       TCU: Tadeas Paroulek - 1-3 at 6, 7-11 in duals, 7-12 overall
       AZST: Christian Lerby - 9-5 at 6, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: TCU - Paroulek (75%) def. Lerby (25%)
-        SLM: TCU - Paroulek (82%) def. Lerby (18%)
-        TRN: TCU - Paroulek (77%) def. Lerby (23%)
-        MAS: TCU - Paroulek (63%) def. Lerby (37%)
+        AVG: TCU - Paroulek (76%) def. Lerby (24%)
+        SLM: TCU - Paroulek (81%) def. Lerby (19%)
+        TRN: TCU - Paroulek (75%) def. Lerby (25%)
+        MAS: TCU - Paroulek (70%) def. Lerby (30%)
         UTR: TCU - Paroulek (79%) def. Lerby (21%)
         ITA: AZST - Lerby (1.82) def. Paroulek (1.35)
   Doubles:

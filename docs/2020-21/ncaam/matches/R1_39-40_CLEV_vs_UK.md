@@ -10,11 +10,11 @@ Lexington, Kentucky
 
 <h2>#4 Cleveland St.</h2>  
 &nbsp; Record: 18-5<br>  
-&nbsp; ITA: 57 (4.43)<br>  
-&nbsp; Slam: 56 (84.36)<br>  
-&nbsp; TRN: 56 (81.28)<br>  
-&nbsp; Massey: 55 (5.83)<br>  
-&nbsp; UTR: 54 (71.52)<br>  
+&nbsp; ITA: 55 (4.93)<br>  
+&nbsp; Slam: 55 (84.36)<br>  
+&nbsp; TRN: 55 (81.28)<br>  
+&nbsp; Massey: 54 (5.83)<br>  
+&nbsp; UTR: 53 (71.52)<br>  
 <br>  
 
 </td>
@@ -22,13 +22,13 @@ Lexington, Kentucky
 
 <h2>#1 Kentucky</h2>  
 &nbsp; Record: 19-7<br>  
-&#10004; ITA: 15 (44.70)<br>  
+&#10004; ITA: 15 (44.81)<br>  
 &#10004; Slam: 17 (95.87)<br>  
 &#10004; TRN: 17 (93.83)<br>  
 &#10004; Massey: 17 (8.12)<br>  
 &#10004; UTR: 16 (78.88)<br>  
-&#10004; USTA Poll: 17<br>  
-&#10004; Coaches Poll: 15<br>  
+&#10004; USTA Poll: 19 (111.00)<br>  
+&nbsp; Coaches Poll: 15<br>  
 <br>  
 
 </td>
@@ -44,14 +44,13 @@ Lexington, Kentucky
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***UK*** - Kentucky (99%) def. Cleveland St. (1%)  
-- Slam: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
-- TRN: ***UK*** - #17 Kentucky (99%) def. #56 Cleveland St. (1%)  
-- Massey: ***UK*** - #17 Kentucky (99%) def. #55 Cleveland St. (1%)  
+- Slam: ***UK*** - #17 Kentucky (99%) def. #55 Cleveland St. (1%)  
+- TRN: ***UK*** - #17 Kentucky (99%) def. #55 Cleveland St. (1%)  
+- Massey: ***UK*** - #17 Kentucky (99%) def. #54 Cleveland St. (1%)  
 - Lineup: ***UK*** - Kentucky (99%) def. Cleveland St. (1%)  
-- UTR: ***UK*** - #16 Kentucky (+7.36) def. #54 Cleveland St. (-7.36)  
-- ITA: ***UK*** - #15 Kentucky def. #57 Cleveland St.  
-- USTA Poll: ***UK*** - #17 Kentucky def. Cleveland St.  
-- Coaches Poll: ***UK*** - #15 Kentucky def. Cleveland St.  
+- UTR: ***UK*** - #16 Kentucky (+7.36) def. #53 Cleveland St. (-7.36)  
+- ITA: ***UK*** - #15 Kentucky def. #55 Cleveland St.  
+- USTA Poll: ***UK*** - #19 Kentucky def. Cleveland St.  
 - Seeding: ***UK*** - #1 Kentucky def. #4 Cleveland St.  
 
 ## Individual Matchups  
@@ -77,8 +76,8 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>UK</i></b> - Diallo (94%) def. Terry (6%)</li>  
 <li>Slam: <b><i>UK</i></b> - Diallo (94%) def. Terry (6%)</li>  
-<li>TRN: <b><i>UK</i></b> - Diallo (96%) def. Terry (4%)</li>  
-<li>Massey: <b><i>UK</i></b> - Diallo (91%) def. Terry (9%)</li>  
+<li>TRN: <b><i>UK</i></b> - Diallo (97%) def. Terry (3%)</li>  
+<li>Massey: <b><i>UK</i></b> - Diallo (90%) def. Terry (10%)</li>  
 <li>UTR: <b><i>UK</i></b> - Diallo (95%) def. Terry (5%)</li>  
 <li>ITA: <b><i>UK</i></b> - Diallo (37.70) def. Terry (2.92)</li>  
 </ul>
@@ -89,7 +88,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>UK</i></b> - Hurrion (94%) def. Phillips (6%)</li>  
 <li>Slam: <b><i>UK</i></b> - Hurrion (96%) def. Phillips (4%)</li>  
 <li>TRN: <b><i>UK</i></b> - Hurrion (96%) def. Phillips (4%)</li>  
-<li>Massey: <b><i>UK</i></b> - Hurrion (90%) def. Phillips (10%)</li>  
+<li>Massey: <b><i>UK</i></b> - Hurrion (92%) def. Phillips (8%)</li>  
 <li>UTR: <b><i>UK</i></b> - Hurrion (94%) def. Phillips (6%)</li>  
 <li>ITA: <b><i>UK</i></b> - Hurrion (22.80) def. Phillips (2.83)</li>  
 </ul>
@@ -119,10 +118,10 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Raul Teichmann (CLEV) - 0-2 at #6, 3-4 in duals, 3-4 overall<br>Alexandre LeBlanc (UK) - 2-4 at #6, 4-4 in duals, 5-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UK</i></b> - LeBlanc (96%) def. Teichmann (4%)</li>  
+<li>Composite: <b><i>UK</i></b> - LeBlanc (95%) def. Teichmann (5%)</li>  
 <li>Slam: <b><i>UK</i></b> - LeBlanc (97%) def. Teichmann (3%)</li>  
 <li>TRN: <b><i>UK</i></b> - LeBlanc (97%) def. Teichmann (3%)</li>  
-<li>Massey: <b><i>UK</i></b> - LeBlanc (92%) def. Teichmann (8%)</li>  
+<li>Massey: <b><i>UK</i></b> - LeBlanc (91%) def. Teichmann (9%)</li>  
 <li>UTR: <b><i>UK</i></b> - LeBlanc (96%) def. Teichmann (4%)</li>  
 </ul>
 </details>&nbsp;</li>

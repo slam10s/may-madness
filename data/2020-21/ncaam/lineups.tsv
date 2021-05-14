@@ -1,0 +1,897 @@
+seed	team	name	kind	position	wins1	losses1	wins2	losses2	wins3	losses3	wins4	losses4	wins5	losses5	wins6	losses6	dualWins	dualLosses	overallWins	overallLosses	r2Id	r2Id2
+ 1	FLA  	Duarte Vale                         	S	 1	15	 6	  	  	  	 	  	 	  	  	  	  	15	 6	23	 6	459591	      
+ 1	FLA  	Sam Riffice                         	S	 2	  	  	16	4 	2 	0	  	 	  	  	  	  	18	 4	23	 7	488586	      
+ 1	FLA  	Andy Andrade                        	S	 3	  	  	2 	0 	12	7	  	 	  	  	  	  	14	 7	22	 7	385909	      
+ 1	FLA  	Blaise Bicknell                     	S	 4	  	  	  	  	  	 	15	0	1 	0 	4 	0 	20	 0	29	 0	509770	      
+ 1	FLA  	Ben Shelton                         	S	 5	  	  	  	  	  	 	1 	0	15	4 	1 	0 	17	 4	24	 5	561860	      
+ 1	FLA  	Josh Goodger                        	S	 6	  	  	  	  	  	 	  	 	1 	0 	12	0 	13	 0	19	 0	511775	      
+ 1	FLA  	Johannes Ingildsen                  	S	 7	  	  	  	  	  	 	3 	3	  	  	1 	0 	 4	 3	 4	 3	417806	      
+ 1	FLA  	Lukas Greif                         	S	 8	  	  	  	  	  	 	  	 	1 	0 	3 	1 	 4	 1	11	 2	488587	      
+ 1	FLA  	Brian Berdusco                      	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 4	 3	488592	      
+ 1	FLA  	Will Grant                          	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 5	 2	509771	      
+ 1	FLA  	Ingildsen/Vale                      	D	 1	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	417806	459591
+ 1	FLA  	Riffice/Shelton                     	D	 2	  	  	  	  	4 	0	  	 	  	  	  	  	 4	 0	 6	 1	488586	561860
+ 1	FLA  	Berdusco/Grant                      	D	 3	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 1	 0	488592	509771
+ 1	FLA  	Andrade/Goodger                     	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 1	385909	511775
+ 2	BAY  	Adrian Boitan                       	S	 1	14	 4	1 	1 	  	 	  	 	  	  	  	  	15	 5	15	 5	497587	      
+ 2	BAY  	Matias Soto                         	S	 2	 2	 1	12	3 	  	 	  	 	  	  	  	  	14	 4	18	 4	453651	      
+ 2	BAY  	Sven Lah                            	S	 3	 2	 0	  	  	6 	7	1 	2	  	  	  	  	 9	 9	11	12	424430	      
+ 2	BAY  	Nick Stachowiak                     	S	 4	 1	 0	3 	0 	0 	3	8 	2	  	  	  	  	12	 5	19	 7	562412	      
+ 2	BAY  	Charlie Broom                       	S	 5	 1	 0	1 	1 	1 	0	1 	0	17	2 	  	  	21	 3	24	 6	527260	      
+ 2	BAY  	Spencer Furman                      	S	 6	 1	 0	2 	0 	3 	0	  	 	1 	0 	11	2 	18	 2	21	 3	562413	      
+ 2	BAY  	Constantin Frantzen                 	S	 7	 1	 0	1 	0 	3 	0	1 	0	1 	0 	2 	0 	 9	 0	 9	 0	407836	      
+ 2	BAY  	Ryan Dickerson                      	S	 8	  	  	4 	0 	2 	0	2 	0	2 	0 	2 	0 	12	 0	12	 0	512869	      
+ 2	BAY  	Finn Bass                           	S	 9	 1	 0	  	  	2 	0	4 	0	1 	0 	0 	1 	 8	 1	15	 3	497586	      
+ 2	BAY  	Alex Garcia                         	S	10	  	  	  	  	  	 	2 	0	2 	0 	3 	0 	 7	 0	 7	 0	521236	      
+ 2	BAY  	Sebastian Nothhaft                  	S	11	  	  	  	  	1 	0	0 	1	2 	0 	4 	0 	 7	 1	13	 5	521234	      
+ 2	BAY  	Christopher Frantzen                	S	12	  	  	  	  	  	 	2 	0	3 	0 	1 	0 	 6	 0	 7	 0	509799	      
+ 2	BAY  	Rahul Dhokia                        	S	13	  	  	  	  	  	 	  	 	1 	0 	1 	0 	 2	 0	 2	 2	512870	      
+ 2	BAY  	Joseph Chen                         	S	14	  	  	  	  	  	 	  	 	  	  	2 	0 	 2	 0	 3	 0	521235	      
+ 2	BAY  	Lah/Frantzen                        	D	 1	11	 7	  	  	  	 	  	 	  	  	  	  	11	 7	11	 7	424430	407836
+ 2	BAY  	Stachowiak/Soto                     	D	 2	  	  	7 	1 	  	 	  	 	  	  	  	  	 7	 1	10	 1	562412	453651
+ 2	BAY  	Broom/Bass                          	D	 3	  	  	  	  	5 	3	  	 	  	  	  	  	 5	 3	 5	 3	527260	497586
+ 2	BAY  	Dickerson/Boitan                    	D	 4	 1	 0	1 	0 	  	 	  	 	  	  	  	  	 2	 0	 2	 0	512869	497587
+ 3	TENN 	Adam Walton                         	S	 1	 8	 7	2 	1 	  	 	  	 	  	  	  	  	10	 8	16	10	461891	      
+ 3	TENN 	Johannus Monday                     	S	 2	 4	 1	17	3 	1 	0	  	 	  	  	  	  	22	 4	31	 6	527971	      
+ 3	TENN 	Martim Prata                        	S	 3	 1	 0	2 	0 	11	8	1 	0	  	  	  	  	15	 8	22	12	497830	      
+ 3	TENN 	Luca Wiedenmann                     	S	 4	  	  	  	  	  	 	8 	2	12	1 	  	  	20	 3	30	 4	463457	      
+ 3	TENN 	Giles Hussey                        	S	 5	  	  	  	  	2 	0	7 	3	9 	0 	  	  	18	 3	29	 4	513101	      
+ 3	TENN 	Pat Harper                          	S	 6	  	  	  	  	  	 	  	 	0 	1 	5 	3 	 5	 4	12	 5	488721	      
+ 3	TENN 	Andrew Rogers                       	S	 7	  	  	  	  	  	 	  	 	  	  	3 	3 	 3	 3	10	 3	446520	      
+ 3	TENN 	Mark Wallner                        	S	 8	  	  	  	  	1 	0	1 	1	  	  	3 	1 	 5	 2	12	 2	513103	      
+ 3	TENN 	Joel Gamerov                        	S	 9	  	  	  	  	  	 	  	 	1 	0 	1 	1 	 2	 1	 6	 5	527970	      
+ 3	TENN 	Josh Raab                           	S	10	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 7	 3	527972	      
+ 3	TENN 	Walton/Harper                       	D	 1	15	 6	  	  	  	 	  	 	  	  	  	  	15	 6	22	 7	461891	488721
+ 3	TENN 	Monday/Prata                        	D	 2	 4	 0	12	7 	  	 	  	 	  	  	  	  	16	 7	17	 8	527971	497830
+ 3	TENN 	Wallner/Hussey                      	D	 3	  	  	1 	0 	14	5	  	 	  	  	  	  	15	 5	15	 5	513103	513101
+ 3	TENN 	Rogers/Gamerov                      	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	446520	527970
+ 4	TEX  	Eliot Spizzirri                     	S	 1	 9	 6	5 	2 	1 	0	  	 	  	  	  	  	15	 8	22	 9	520306	      
+ 4	TEX  	Micah Braswell                      	S	 2	  	  	9 	4 	8 	1	  	 	  	  	  	  	17	 5	32	 6	528270	      
+ 4	TEX  	Siem Woldeab                        	S	 3	 3	 4	1 	2 	5 	1	  	 	  	  	  	  	 9	 7	14	12	513841	      
+ 4	TEX  	Cleeve Harper                       	S	 4	  	  	  	  	3 	2	14	3	  	  	  	  	17	 5	22	 9	513840	      
+ 4	TEX  	Chih Chi Huang                      	S	 5	  	  	  	  	  	 	2 	1	9 	7 	  	  	11	 8	15	17	486712	      
+ 4	TEX  	Evin McDonald                       	S	 6	  	  	  	  	  	 	1 	0	4 	1 	6 	9 	11	10	15	16	513843	      
+ 4	TEX  	Nevin Arimilli                      	S	 7	  	  	  	  	  	 	  	 	  	  	5 	1 	 5	 1	 9	 9	486710	      
+ 4	TEX  	Leighton Allen                      	S	 8	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 5	11	528269	      
+ 4	TEX  	Payton Holden                       	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 6	 3	528271	      
+ 4	TEX  	Jacob Bullard                       	S	10	  	  	  	  	  	 	  	 	0 	1 	  	  	 0	 1	 9	 7	513842	      
+ 4	TEX  	Eshan Talluri                       	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 4	 7	513844	      
+ 4	TEX  	Spizzirri/Woldeab                   	D	 1	12	 9	  	  	  	 	  	 	  	  	  	  	12	 9	19	 9	520306	513841
+ 4	TEX  	Harper/Huang                        	D	 2	 1	 0	5 	4 	  	 	  	 	  	  	  	  	 6	 4	10	 7	513840	486712
+ 4	TEX  	Braswell/Holden                     	D	 3	  	  	  	  	4 	1	  	 	  	  	  	  	 4	 1	 7	 2	528270	528271
+ 4	TEX  	Arimilli/McDonald                   	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 1	 0	486710	513843
+ 5	UVA  	Carl Söderlund                      	S	 1	12	 2	  	  	  	 	  	 	  	  	  	  	12	 2	12	 2	453365	      
+ 5	UVA  	Jeffrey von der Schulenburg         	S	 2	 2	 1	7 	2 	6 	1	1 	0	  	  	  	  	16	 4	16	 4	564166	      
+ 5	UVA  	Chris Rodesch                       	S	 3	  	  	0 	1 	6 	2	3 	1	5 	2 	  	  	14	 6	14	 6	564151	      
+ 5	UVA  	Inaki Montes de la Torre            	S	 4	  	  	5 	3 	4 	1	6 	0	  	  	  	  	15	 4	15	 4	564150	      
+ 5	UVA  	Ryan Goetz                          	S	 5	 1	 0	1 	1 	2 	0	5 	3	7 	1 	  	  	16	 5	16	 5	486444	      
+ 5	UVA  	Gianni Ross                         	S	 6	  	  	  	  	  	 	1 	0	3 	0 	7 	3 	11	 3	11	 3	447059	      
+ 5	UVA  	William Woodall                     	S	 7	  	  	  	  	  	 	  	 	1 	0 	2 	2 	 3	 2	 3	 2	486442	      
+ 5	UVA  	Alexander Kiefer                    	S	 8	  	  	  	  	  	 	  	 	1 	1 	3 	3 	 4	 4	 4	 4	564149	      
+ 5	UVA  	Matthew Lord                        	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+ 5	UVA  	Ammar Alhaqbani                     	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+ 5	UVA  	Jefferson Dockter                   	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+ 5	UVA  	Spencer Bozsik                      	S	12	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+ 5	UVA  	Ethan Moszkowski                    	S	13	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+ 5	UVA  	Jerome Romualdez                    	S	14	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+ 5	UVA  	Soderlund/Woodall                   	D	 1	 9	 8	  	  	  	 	  	 	  	  	  	  	 9	 8	 9	 8	453365	486442
+ 5	UVA  	Goetz/Rodesch                       	D	 2	  	  	10	5 	  	 	  	 	  	  	  	  	10	 5	10	 5	486444	564151
+ 5	UVA  	von der Schulenburg/de la Torre     	D	 3	 0	 1	3 	0 	12	3	  	 	  	  	  	  	15	 4	15	 4	564166	564150
+ 5	UVA  	Lord/Ross                           	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	447059
+ 6	UNC  	William Blumberg                    	S	 1	 8	 3	  	  	  	 	  	 	  	  	  	  	 8	 3	 9	 3	390976	      
+ 6	UNC  	Rinky Hijikata                      	S	 2	 3	 0	4 	2 	2 	0	  	 	  	  	  	  	 9	 2	11	 2	514358	      
+ 6	UNC  	Benjamin Sigouin                    	S	 3	 1	 3	5 	4 	3 	2	  	 	  	  	  	  	 9	 9	 9	 9	451826	      
+ 6	UNC  	Brian Cernoch                       	S	 4	  	  	4 	0 	8 	3	5 	2	  	  	  	  	17	 5	17	 5	491254	      
+ 6	UNC  	Josh Peck                           	S	 5	  	  	  	  	3 	1	2 	1	3 	1 	  	  	 8	 3	 8	 3	440447	      
+ 6	UNC  	Simon Soendergaard                  	S	 6	  	  	  	  	  	 	  	 	4 	2 	6 	3 	10	 5	11	 6	453379	      
+ 6	UNC  	Logan Zapp                          	S	 7	  	  	  	  	  	 	  	 	3 	2 	4 	1 	 7	 3	 8	 4	564155	      
+ 6	UNC  	Mac Kiger                           	S	 8	  	  	  	  	  	 	  	 	3 	1 	5 	5 	 8	 6	 8	 6	421782	      
+ 6	UNC  	Anuj Watane                         	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 3	 2	514359	      
+ 6	UNC  	Adam Neff                           	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 1	 3	564156	      
+ 6	UNC  	peter Murphy                        	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 1	 1	564157	      
+ 6	UNC  	Mark Dillon                         	S	12	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 2	 2	517797	      
+ 6	UNC  	Blumberg/Cernoch                    	D	 1	12	 3	  	  	  	 	  	 	  	  	  	  	12	 3	12	 3	390976	491254
+ 6	UNC  	Kiger/Soendergaard                  	D	 2	 2	 2	8 	5 	  	 	  	 	  	  	  	  	10	 7	10	 7	421782	453379
+ 6	UNC  	Hijikata/Sigouin                    	D	 3	  	  	2 	2 	3 	3	  	 	  	  	  	  	 5	 5	 5	 5	514358	451826
+ 6	UNC  	Murphy/Peck                         	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	564157	440447
+ 7	TCU  	Alastair Gray                       	S	 1	 6	 4	7 	3 	  	 	  	 	  	  	  	  	13	 7	13	 7	411457	      
+ 7	TCU  	Luc Fomba                           	S	 2	 5	 3	7 	3 	  	 	  	 	  	  	  	  	12	 6	12	 6	489297	      
+ 7	TCU  	Sander Jong                         	S	 3	  	  	  	  	10	5	0 	2	  	  	  	  	10	 7	11	 8	489298	      
+ 7	TCU  	Jake Fearnley                       	S	 4	  	  	  	  	  	 	4 	2	2 	0 	2 	1 	 8	 3	 8	 3	514378	      
+ 7	TCU  	Tomas Jirousek                      	S	 5	  	  	  	  	0 	2	5 	2	1 	1 	  	  	 6	 5	 7	 6	521012	      
+ 7	TCU  	Tadeas Paroulek                     	S	 6	  	  	  	  	  	 	0 	1	6 	7 	1 	3 	 7	11	 7	12	516558	      
+ 7	TCU  	Juan Martin                         	S	 7	  	  	  	  	  	 	  	 	1 	2 	6 	1 	 7	 3	 8	 4	489299	      
+ 7	TCU  	Bertus Kruger                       	S	 8	  	  	  	  	  	 	  	 	1 	1 	1 	1 	 2	 2	 2	 2	423670	      
+ 7	TCU  	Max Kurzban                         	S	 9	  	  	  	  	  	 	  	 	  	  	0 	1 	 0	 1	 0	 3	424063	      
+ 7	TCU  	Gray/Fomba                          	D	 1	10	 6	1 	0 	  	 	  	 	  	  	  	  	11	 6	13	 6	411457	489297
+ 7	TCU  	Jong/Paroulek                       	D	 2	 0	 1	8 	1 	2 	1	  	 	  	  	  	  	10	 3	11	 4	489298	516558
+ 7	TCU  	Kruger/Fearnley                     	D	 3	  	  	2 	2 	2 	1	  	 	  	  	  	  	 4	 3	 4	 3	423670	514378
+ 7	TCU  	Kurzban/Jirousek                    	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	424063	521012
+ 8	A&M  	Valentin Vacherot                   	S	 1	13	 2	3 	1 	  	 	  	 	  	  	  	  	16	 3	21	 5	459505	      
+ 8	A&M  	Hady Habib                          	S	 2	 3	 1	7 	3 	  	 	  	 	  	  	  	  	10	 4	15	 5	412687	      
+ 8	A&M  	Juan Carlos Aguilar                 	S	 3	  	  	4 	2 	6 	6	  	 	  	  	  	  	10	 8	15	10	384588	      
+ 8	A&M  	Noah Schachter                      	S	 4	  	  	2 	0 	3 	5	7 	5	  	  	  	  	12	10	19	13	485543	      
+ 8	A&M  	Pierce Rollins                      	S	 5	 1	 0	  	  	1 	0	2 	2	3 	3 	1 	0 	 8	 5	15	 9	513401	      
+ 8	A&M  	Guido Marson                        	S	 6	  	  	  	  	  	 	3 	1	2 	5 	  	  	 5	 6	 7	 9	485531	      
+ 8	A&M  	Raphael Perot                       	S	 7	  	  	  	  	  	 	1 	1	4 	2 	6 	5 	11	 8	16	11	562734	      
+ 8	A&M  	Bjorn Thomson                       	S	 8	  	  	1 	0 	  	 	  	 	0 	2 	4 	3 	 5	 5	 8	 5	562733	      
+ 8	A&M  	Pranav Kumar                        	S	 9	  	  	  	  	  	 	  	 	1 	0 	  	  	 1	 0	 1	 2	423935	      
+ 8	A&M  	Kenner Taylor                       	S	10	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 6	 3	513402	      
+ 8	A&M  	Austin Abbrat                       	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 1	 1	485535	      
+ 8	A&M  	Aguilar/Thomson                     	D	 1	 7	 6	  	  	  	 	  	 	  	  	  	  	 7	 6	10	 8	384588	562733
+ 8	A&M  	Vacherot/Rollins                    	D	 2	 1	 0	5 	3 	6 	2	  	 	  	  	  	  	12	 5	15	 5	459505	513401
+ 8	A&M  	Kumar/Schachter                     	D	 3	  	  	  	  	7 	4	  	 	  	  	  	  	 7	 4	 7	 4	423935	485543
+ 8	A&M  	Habib/Taylor                        	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 1	 0	412687	513402
+ 9	UCF  	Gabriel Decamps                     	S	 1	16	 4	  	  	  	 	  	 	  	  	  	  	16	 4	16	 4	401237	      
+ 9	UCF  	Alan Rubio                          	S	 2	 1	 0	8 	5 	1 	0	2 	2	  	  	  	  	12	 7	12	 7	447396	      
+ 9	UCF  	Juan Pablo Mazzuchi                 	S	 3	  	  	3 	1 	10	4	2 	0	  	  	  	  	15	 5	15	 5	487277	      
+ 9	UCF  	Kento Yamada                        	S	 4	  	  	  	  	1 	0	10	1	6 	0 	  	  	17	 1	17	 1	563343	      
+ 9	UCF  	Trey Hilderbrand                    	S	 5	  	  	0 	1 	5 	1	2 	1	10	1 	  	  	17	 4	17	 4	487278	      
+ 9	UCF  	Mikhail Sokolovskiy                 	S	 6	  	  	  	  	  	 	  	 	1 	1 	13	4 	14	 5	14	 5	453412	      
+ 9	UCF  	Bogdan Pavel                        	S	 7	  	  	  	  	  	 	  	 	0 	2 	2 	1 	 2	 3	 2	 3	487279	      
+ 9	UCF  	Quinn Snyder                        	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+ 9	UCF  	Vasyl Kiselyov                      	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+ 9	UCF  	Hilderbrand/Pavel                   	D	 1	 9	 1	  	  	  	 	  	 	  	  	  	  	 9	 1	 9	 1	487278	487279
+ 9	UCF  	Mazzuchi/Decamps                    	D	 2	  	  	8 	2 	  	 	  	 	  	  	  	  	 8	 2	 9	 1	487277	401237
+ 9	UCF  	Rubio/Yamada                        	D	 3	  	  	  	  	2 	4	  	 	  	  	  	  	 2	 4	 2	 4	447396	563343
+ 9	UCF  	Sokolovskiy/Snyder                  	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	453412	      
+10	WAKE 	Henri Squire                        	S	 1	15	 6	  	  	  	 	  	 	  	  	  	  	15	 6	15	 6	521020	      
+10	WAKE 	Eduardo Nava                        	S	 2	 2	 0	6 	3 	9 	1	  	 	  	  	  	  	17	 4	17	 4	436186	      
+10	WAKE 	Taha Baadi                          	S	 3	 1	 1	6 	5 	6 	2	  	 	  	  	  	  	13	 8	13	 8	521019	      
+10	WAKE 	Rrezart Cungu                       	S	 4	 1	 0	2 	0 	2 	0	7 	3	2 	1 	6 	0 	20	 4	20	 4	399843	      
+10	WAKE 	Melios Efstathiou                   	S	 5	 1	 0	  	  	2 	2	2 	2	6 	2 	1 	0 	12	 6	12	 6	490437	      
+10	WAKE 	Sid Banthia                         	S	 6	 3	 0	2 	0 	1 	1	1 	1	5 	0 	7 	1 	19	 3	19	 3	497656	      
+10	WAKE 	Filippo Moroni                      	S	 7	  	  	1 	0 	3 	1	2 	2	0 	1 	4 	0 	10	 4	10	 4	564331	      
+10	WAKE 	Robert Maciag                       	S	 8	  	  	2 	0 	  	 	5 	2	2 	1 	2 	0 	11	 3	11	 3	514702	      
+10	WAKE 	Adam Ambrozy                        	S	 9	  	  	2 	0 	1 	0	2 	0	5 	1 	1 	0 	11	 1	11	 1	565786	      
+10	WAKE 	Luciano Tacchi                      	S	10	  	  	  	  	  	 	1 	0	3 	0 	3 	0 	 7	 0	 7	 0	564320	      
+10	WAKE 	Matt Thomson                        	S	11	  	  	  	  	  	 	1 	0	1 	0 	3 	0 	 5	 0	 5	 0	514701	      
+10	WAKE 	Juan Lopez                          	S	12	  	  	  	  	  	 	  	 	  	  	2 	0 	 2	 0	 2	 0	514705	      
+10	WAKE 	Yuval Solomon                       	S	13	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+10	WAKE 	Nava/Squire                         	D	 1	13	 5	  	  	  	 	  	 	  	  	  	  	13	 5	13	 5	436186	521020
+10	WAKE 	Thomson/Banthia                     	D	 2	 5	 1	7 	4 	5 	1	  	 	  	  	  	  	17	 6	17	 6	514701	497656
+10	WAKE 	Efstathiou/Baadi                    	D	 3	  	  	4 	1 	8 	4	  	 	  	  	  	  	12	 5	12	 5	490437	521019
+10	WAKE 	Ambrozy/Maciag                      	D	 4	  	  	4 	0 	1 	0	  	 	  	  	  	  	 5	 0	 5	 0	565786	514702
+11	UGA  	Trent Bryde                         	S	 1	 9	10	  	  	  	 	  	 	  	  	  	  	 9	10	14	13	498429	      
+11	UGA  	Tyler Zink                          	S	 2	 1	 0	6 	5 	2 	0	  	 	  	  	  	  	 9	 5	11	 9	511569	      
+11	UGA  	Philip Henning                      	S	 3	  	  	2 	2 	11	4	  	 	  	  	  	  	13	 6	18	10	498428	      
+11	UGA  	Blake Croyder                       	S	 4	  	  	1 	0 	0 	1	10	2	0 	2 	  	  	11	 5	15	12	487816	      
+11	UGA  	Billy Rowe                          	S	 5	  	  	  	  	1 	0	1 	3	8 	4 	2 	0 	12	 7	16	10	562702	      
+11	UGA  	Erik Grevelius                      	S	 6	  	  	  	  	  	 	0 	1	2 	0 	7 	3 	 9	 4	15	 8	511567	      
+11	UGA  	Baptiste Anselmo                    	S	 7	  	  	  	  	  	 	2 	0	1 	3 	1 	0 	 4	 3	 8	 9	511559	      
+11	UGA  	Britton Johnston                    	S	 8	  	  	  	  	  	 	  	 	  	  	2 	1 	 2	 1	 4	 8	487818	      
+11	UGA  	Alex Diaz                           	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+11	UGA  	Thomas Paulsell                     	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+11	UGA  	Bryde/Zink                          	D	 1	 8	 4	  	  	  	 	  	 	  	  	  	  	 8	 4	13	 6	498429	511569
+11	UGA  	Croyder/Rowe                        	D	 2	  	  	7 	5 	1 	0	  	 	  	  	  	  	 8	 5	10	 5	487816	562702
+11	UGA  	Henning/Grevelius                   	D	 3	  	  	1 	0 	9 	5	  	 	  	  	  	  	10	 5	10	 7	498428	511567
+11	UGA  	Anselmo/Johnston                    	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 4	 2	511559	487818
+12	USC  	Daniel Cukierman                    	S	 1	12	 5	  	  	  	 	  	 	  	  	  	  	12	 5	14	 5	399776	      
+12	USC  	Riley Smith                         	S	 2	 4	 0	9 	5 	  	 	  	 	  	  	  	  	13	 5	15	 5	453064	      
+12	USC  	Stefan Dostanic                     	S	 3	  	  	4 	0 	12	3	  	 	  	  	  	  	16	 3	18	 3	510835	      
+12	USC  	Bradley Frye                        	S	 4	  	  	2 	0 	2 	0	9 	2	2 	1 	0 	1 	15	 4	17	 4	486015	      
+12	USC  	Lodewijk Weststrate                 	S	 5	  	  	  	  	1 	0	7 	1	9 	3 	4 	0 	21	 4	23	 4	563765	      
+12	USC  	Jake Sands                          	S	 6	  	  	  	  	  	 	1 	0	5 	1 	8 	3 	14	 4	14	 4	486016	      
+12	USC  	Ryder Jackson                       	S	 7	  	  	  	  	  	 	0 	2	1 	0 	2 	0 	 3	 2	 5	 2	510836	      
+12	USC  	Colter Smith                        	S	 8	  	  	  	  	  	 	  	 	  	  	4 	0 	 4	 0	 6	 0	510837	      
+12	USC  	Sean Holt                           	S	 9	  	  	  	  	  	 	  	 	1 	0 	0 	2 	 1	 2	 1	 2	563764	      
+12	USC  	Cukierman/Smith                     	D	 1	17	 3	  	  	  	 	  	 	  	  	  	  	17	 3	18	 3	399776	453064
+12	USC  	Dostanic/Frye                       	D	 2	  	  	13	1 	  	 	  	 	  	  	  	  	13	 1	13	 1	510835	486015
+12	USC  	Holt/Sands                          	D	 3	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	563764	486016
+12	USC  	Jackson/Weststrate                  	D	 4	  	  	  	  	1 	3	  	 	  	  	  	  	 1	 3	 1	 4	510836	563765
+13	SCAR 	Daniel Rodrigues                    	S	 1	16	 4	  	  	  	 	  	 	  	  	  	  	16	 4	24	 6	485261	      
+13	SCAR 	Connor Thomson                      	S	 2	  	  	6 	5 	5 	3	  	 	  	  	  	  	11	 8	18	12	511597	      
+13	SCAR 	Toby Samuel                         	S	 3	  	  	  	  	4 	2	12	2	  	  	  	  	16	 4	24	 7	528050	      
+13	SCAR 	Raphael Lambling                    	S	 4	 1	 0	2 	7 	3 	3	0 	2	  	  	  	  	 6	12	11	18	485260	      
+13	SCAR 	Jake Beasley                        	S	 5	  	  	  	  	  	 	  	 	7 	7 	5 	1 	12	 8	18	10	485248	      
+13	SCAR 	Thomas Brown                        	S	 6	  	  	1 	0 	  	 	  	 	  	  	2 	2 	 3	 2	11	 6	393233	      
+13	SCAR 	Phillip Jordan                      	S	 7	  	  	  	  	0 	2	2 	0	3 	3 	1 	4 	 6	 9	11	16	511593	      
+13	SCAR 	Bruno Oliveira                      	S	 8	  	  	  	  	  	 	0 	1	  	  	0 	1 	 0	 2	 0	 2	528049	      
+13	SCAR 	Beau Pelletier                      	S	 9	  	  	  	  	  	 	  	 	  	  	2 	1 	 2	 1	 7	 6	485952	      
+13	SCAR 	Carter Morgan                       	S	10	  	  	  	  	  	 	  	 	0 	1 	  	  	 0	 1	 2	 7	528048	      
+13	SCAR 	Rodrigues/Thomson                   	D	 1	13	 7	  	  	  	 	  	 	  	  	  	  	13	 7	20	11	485261	511597
+13	SCAR 	Beasley/Samuel                      	D	 2	  	  	9 	3 	6 	4	  	 	  	  	  	  	15	 7	23	11	485248	528050
+13	SCAR 	Lambling/Jordan                     	D	 3	  	  	2 	4 	4 	3	  	 	  	  	  	  	 6	 7	14	10	485260	511593
+13	SCAR 	Oliveira/Brown                      	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	528049	393233
+14	UK   	Liam Draxl                          	S	 1	19	 2	  	  	  	 	  	 	  	  	  	  	19	 2	19	 2	511968	      
+14	UK   	Gabriel Diallo                      	S	 2	  	  	12	5 	1 	1	1 	0	  	  	  	  	14	 6	19	 7	511971	      
+14	UK   	Millen Hurrion                      	S	 3	  	  	4 	1 	10	3	  	 	  	  	  	  	14	 4	17	 7	511970	      
+14	UK   	Cesar Bourgois                      	S	 4	  	  	1 	0 	1 	0	9 	6	3 	0 	  	  	14	 6	14	 6	391889	      
+14	UK   	Joshua Lapadat                      	S	 5	  	  	  	  	2 	2	0 	4	3 	3 	1 	0 	 6	 9	11	10	561767	      
+14	UK   	Alexandre LeBlanc                   	S	 6	  	  	  	  	  	 	1 	0	1 	0 	2 	4 	 4	 4	 5	 9	511973	      
+14	UK   	Yasha Zemel                         	S	 7	  	  	  	  	  	 	2 	0	4 	4 	1 	2 	 7	 6	 7	 6	564877	      
+14	UK   	Mathis Moysan                       	S	 8	  	  	  	  	1 	0	  	 	1 	0 	2 	3 	 4	 3	 4	 3	564879	      
+14	UK   	Jonathan Sorbo                      	S	 9	  	  	  	  	  	 	  	 	1 	0 	2 	0 	 3	 0	 4	 4	497643	      
+14	UK   	Ying-Ze Chen                        	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 1	 5	490928	      
+14	UK   	Tate Sandman                        	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 1	 4	561768	      
+14	UK   	Heman Nama                          	S	12	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 2	 4	520896	      
+14	UK   	Diallo/Bourgois                     	D	 1	14	 7	  	  	  	 	  	 	  	  	  	  	14	 7	14	 7	511971	391889
+14	UK   	Draxl/Hurrion                       	D	 2	  	  	6 	2 	  	 	  	 	  	  	  	  	 6	 2	 6	 2	511968	511970
+14	UK   	Lapadat/LeBlanc                     	D	 3	  	  	  	  	4 	2	  	 	  	  	  	  	 4	 2	 4	 4	561767	511973
+14	UK   	Zemel/Chen                          	D	 4	  	  	  	  	0 	2	  	 	  	  	  	  	 0	 2	 0	 2	564877	490928
+15	MISS 	Tim Sandkaulen                      	S	 1	 1	 7	7 	5 	  	 	  	 	  	  	  	  	 8	12	13	16	448641	      
+15	MISS 	Finn Reynolds                       	S	 2	 4	 9	6 	1 	  	 	  	 	  	  	  	  	10	10	10	10	520891	      
+15	MISS 	Nikola Slavic                       	S	 3	  	  	1 	0 	12	7	  	 	  	  	  	  	13	 7	13	 7	513419	      
+15	MISS 	John Hallquist Lithen               	S	 4	  	  	  	  	1 	0	5 	6	6 	1 	  	  	12	 7	12	 7	561866	      
+15	MISS 	Simon Junk                          	S	 5	  	  	  	  	  	 	5 	4	2 	6 	2 	1 	 9	11	 9	14	485272	      
+15	MISS 	Lukas Engelhardt                    	S	 6	  	  	  	  	  	 	  	 	0 	3 	3 	4 	 3	 7	 3	 7	513418	      
+15	MISS 	Jakob Cadonau                       	S	 7	  	  	  	  	  	 	  	 	0 	1 	3 	3 	 3	 4	 3	 4	564436	      
+15	MISS 	Jan Soren Hain                      	S	 8	  	  	  	  	  	 	  	 	0 	1 	1 	1 	 1	 2	 1	 8	485280	      
+15	MISS 	Brady Draheim                       	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 2	 7	561861	      
+15	MISS 	Sandkaulen/Reynolds                 	D	 1	14	 2	  	  	  	 	  	 	  	  	  	  	14	 2	14	 2	448641	520891
+15	MISS 	Draheim/Junk                        	D	 2	  	  	8 	7 	3 	2	  	 	  	  	  	  	11	 9	11	 9	561861	485272
+15	MISS 	Cadonau/Engelhardt                  	D	 3	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	564436	513418
+15	MISS 	Slavic/Hain                         	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	513419	485280
+16	ILL  	Aleks Kovacevic                     	S	 1	10	 1	  	  	  	 	  	 	  	  	  	  	10	 1	10	 1	423252	      
+16	ILL  	Siphosothando Montsi                	S	 2	 6	 1	7 	2 	2 	0	  	 	  	  	  	  	15	 3	15	 3	485650	      
+16	ILL  	Alex Brown                          	S	 3	 0	 2	5 	5 	3 	2	  	 	  	  	  	  	 8	 9	 9	12	393009	      
+16	ILL  	Zeke Clark                          	S	 4	  	  	  	  	10	0	6 	1	  	  	  	  	16	 1	19	 2	397557	      
+16	ILL  	Hunter Heck                         	S	 5	  	  	  	  	  	 	3 	0	9 	4 	1 	1 	13	 5	16	 6	564624	      
+16	ILL  	Noe Khlif                           	S	 6	  	  	  	  	  	 	8 	0	2 	1 	5 	0 	15	 1	15	 1	421665	      
+16	ILL  	Kweisi Kenyatte                     	S	 7	  	  	  	  	  	 	0 	1	2 	1 	4 	4 	 6	 6	 7	 9	517923	      
+16	ILL  	Lucas Horve                         	S	 8	  	  	  	  	  	 	  	 	  	  	3 	1 	 3	 1	 4	 3	485647	      
+16	ILL  	Nic Meister                         	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	564623	      
+16	ILL  	Vuk Budic                           	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	393582	      
+16	ILL  	Alexander Petrov                    	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	564625	      
+16	ILL  	Brown/Clark                         	D	 1	 8	 2	3 	0 	  	 	  	 	  	  	  	  	11	 2	11	 2	393009	397557
+16	ILL  	Montsi/Khlif                        	D	 2	  	  	5 	1 	5 	1	  	 	  	  	  	  	10	 2	10	 2	485650	421665
+16	ILL  	Kovacevic/Heck                      	D	 3	  	  	1 	0 	2 	1	  	 	  	  	  	  	 3	 1	 3	 1	423252	564624
+16	ILL  	Budic/Horve                         	D	 4	  	  	  	  	0 	1	  	 	  	  	  	  	 0	 1	 0	 1	393582	485647
+R2	ARIZ 	Gustaf Strom                        	S	 1	 3	 1	5 	1 	9 	0	  	 	  	  	  	  	17	 2	17	 2	564319	      
+R2	ARIZ 	Jonas Ziverts                       	S	 2	 8	 7	1 	1 	  	 	  	 	  	  	  	  	 9	 8	 9	 8	497925	      
+R2	ARIZ 	Filip Malbasic                      	S	 3	  	  	3 	3 	5 	4	6 	2	  	  	  	  	14	 9	14	 9	429133	      
+R2	ARIZ 	Herman Hoyeraal                     	S	 4	  	  	  	  	  	 	  	 	1 	0 	3 	0 	 4	 0	 4	 0	567637	      
+R2	ARIZ 	Alejandro Requant-Bicardi           	S	 5	 3	 0	4 	3 	1 	0	5 	3	  	  	  	  	13	 6	13	 6	444974	      
+R2	ARIZ 	Carlos Hassey                       	S	 6	  	  	  	  	1 	0	1 	0	9 	6 	1 	1 	12	 7	12	 7	414150	      
+R2	ARIZ 	Nick Lagaev                         	S	 7	  	  	1 	0 	1 	0	1 	0	2 	0 	8 	5 	13	 5	13	 5	513924	      
+R2	ARIZ 	Hiroki Sakagawa                     	S	 8	  	  	  	  	  	 	  	 	3 	0 	  	  	 3	 0	 3	 0	513926	      
+R2	ARIZ 	Igor Karpovets                      	S	 9	  	  	  	  	  	 	2 	0	0 	1 	  	  	 2	 1	 2	 1	420669	      
+R2	ARIZ 	Jett Middleton                      	S	10	  	  	  	  	1 	0	1 	0	  	  	2 	0 	 4	 0	 4	 0	565303	      
+R2	ARIZ 	Conner Olsen                        	S	11	  	  	  	  	  	 	  	 	  	  	2 	1 	 2	 1	 2	 1	489600	      
+R2	ARIZ 	Jared Horwood                       	S	12	  	  	  	  	  	 	  	 	1 	0 	  	  	 1	 0	 1	 0	489599	      
+R2	ARIZ 	Hassey/Requant-Bicardi              	D	 1	 1	 0	9 	3 	  	 	  	 	  	  	  	  	10	 3	10	 3	414150	444974
+R2	ARIZ 	Ziverts/Hoyeraal                    	D	 2	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	497925	567637
+R2	ARIZ 	Strom/Malbasic                      	D	 3	  	  	2 	0 	7 	5	  	 	  	  	  	  	 9	 5	 9	 5	564319	429133
+R2	ARIZ 	MIddleton/Lagaev                    	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	565303	513924
+R2	AZST 	Nathan Ponwith                      	S	 1	14	 7	1 	0 	  	 	  	 	  	  	  	  	15	 7	15	 7	491203	      
+R2	AZST 	Baonoromandresy (makey) Rakotomalala	S	 2	 0	 1	4 	8 	3 	1	2 	0	  	  	  	  	 9	10	 9	10	443867	      
+R2	AZST 	Tim Ruehl                           	S	 3	 1	 0	3 	3 	6 	2	  	 	  	  	  	  	10	 5	10	 5	447484	      
+R2	AZST 	George Stoupe                       	S	 4	  	  	  	  	  	 	4 	4	3 	6 	3 	0 	10	10	10	10	521209	      
+R2	AZST 	Max McKennon                        	S	 5	  	  	  	  	  	 	1 	2	3 	2 	0 	1 	 4	 5	 4	 5	565545	      
+R2	AZST 	Christian Lerby                     	S	 6	  	  	  	  	2 	1	  	 	1 	1 	9 	5 	12	 7	12	 7	514394	      
+R2	AZST 	Spencer Brachman                    	S	 7	  	  	  	  	  	 	  	 	0 	1 	1 	0 	 1	 1	 1	 1	565547	      
+R2	AZST 	Jonah Wilson                        	S	 8	  	  	  	  	  	 	  	 	2 	0 	1 	2 	 3	 2	 3	 2	521211	      
+R2	AZST 	Moritz Hoffmann                     	S	 9	  	  	  	  	  	 	  	 	1 	2 	  	  	 1	 2	 1	 2	565546	      
+R2	AZST 	Rakotomalala/Ruehl                  	D	 1	 1	 2	5 	2 	  	 	  	 	  	  	  	  	 6	 4	 6	 4	443867	447484
+R2	AZST 	McKennon/Ponwith                    	D	 2	 1	 1	4 	1 	  	 	  	 	  	  	  	  	 5	 2	 5	 2	565545	491203
+R2	AZST 	Lerby/Stoupe                        	D	 3	  	  	  	  	3 	1	  	 	  	  	  	  	 3	 1	 3	 1	514394	521209
+R2	AZST 	Hoffmann/Wilson                     	D	 4	  	  	  	  	1 	1	  	 	  	  	  	  	 1	 1	 1	 1	565546	521211
+R2	BAMA 	Edson Ortiz                         	S	 1	 5	 5	5 	3 	2 	2	  	 	  	  	  	  	12	10	13	12	438760	      
+R2	BAMA 	Patrick Kaukovalta                  	S	 2	 4	 3	3 	2 	2 	6	  	 	  	  	  	  	 9	11	15	17	420873	      
+R2	BAMA 	Zhe Zhou                            	S	 3	 2	 6	4 	2 	3 	1	  	 	  	  	  	  	 9	 9	15	15	466235	      
+R2	BAMA 	Riccardo Roberto                    	S	 4	  	  	0 	1 	  	 	5 	7	6 	0 	  	  	11	 8	19	12	445937	      
+R2	BAMA 	Gabriel Diaz Freire                 	S	 5	  	  	2 	0 	2 	1	2 	4	3 	1 	1 	0 	10	 6	15	10	561865	      
+R2	BAMA 	Alexey Nesterov                     	S	 6	  	  	  	  	  	 	2 	0	2 	0 	3 	6 	 7	 6	12	10	436560	      
+R2	BAMA 	Jeremy Gschwendtner                 	S	 7	  	  	  	  	1 	0	2 	0	4 	3 	4 	1 	11	 4	20	 7	495917	      
+R2	BAMA 	Marcelo Sepulveda Garza             	S	 8	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 5	 7	509694	      
+R2	BAMA 	Rudi Christiansen                   	S	 9	  	  	  	  	  	 	  	 	1 	0 	3 	0 	 4	 0	 6	 1	564297	      
+R2	BAMA 	Vincent Rettke                      	S	10	  	  	  	  	1 	1	1 	0	1 	1 	1 	2 	 4	 4	13	 7	561863	      
+R2	BAMA 	Sam Fischer                         	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 2	 4	406829	      
+R2	BAMA 	Avi Shugar                          	S	12	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 4	 4	509695	      
+R2	BAMA 	Kaukovalta/Roberto                  	D	 1	10	 7	1 	2 	  	 	  	 	  	  	  	  	11	 9	16	14	420873	445937
+R2	BAMA 	Nesterov/Ortiz                      	D	 2	  	  	3 	3 	4 	4	  	 	  	  	  	  	 7	 7	 7	 7	436560	438760
+R2	BAMA 	Garza/Zhou                          	D	 3	  	  	  	  	0 	2	  	 	  	  	  	  	 0	 2	 0	 2	509694	466235
+R2	BAMA 	Freire/Gschwendtner                 	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	561865	495917
+R2	GT   	Marcus McDaniel                     	S	 1	10	 6	5 	0 	  	 	  	 	  	  	  	  	15	 6	15	 8	513069	      
+R2	GT   	Andres Martin                       	S	 2	 3	 2	11	5 	  	 	  	 	  	  	  	  	14	 7	16	 8	513067	      
+R2	GT   	Pablo Schelcher                     	S	 3	  	  	  	  	8 	5	3 	1	1 	1 	  	  	12	 7	13	 9	498474	      
+R2	GT   	Keshav Chopra                       	S	 4	  	  	1 	0 	3 	5	8 	3	  	  	  	  	12	 8	14	 9	513068	      
+R2	GT   	Brandon McKinney                    	S	 5	  	  	  	  	  	 	3 	2	7 	8 	  	  	10	10	12	11	513070	      
+R2	GT   	Chen Dong                           	S	 6	  	  	  	  	  	 	  	 	  	  	11	4 	11	 4	12	 6	564844	      
+R2	GT   	Brandon Freestone                   	S	 7	  	  	  	  	  	 	  	 	3 	0 	1 	1 	 4	 1	 6	 2	407969	      
+R2	GT   	Zummy Bauer                         	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R2	GT   	McDaniel/Martin                     	D	 1	 5	 2	  	  	  	 	  	 	  	  	  	  	 5	 2	 5	 2	513069	513067
+R2	GT   	Schelcher/Freestone                 	D	 2	  	  	6 	4 	  	 	  	 	  	  	  	  	 6	 4	 6	 4	498474	407969
+R2	GT   	Chopra/Dong                         	D	 3	  	  	  	  	2 	1	  	 	  	  	  	  	 2	 1	 2	 1	513068	564844
+R2	GT   	McKinney/Bauer                      	D	 4	  	  	  	  	6 	4	  	 	  	  	  	  	 6	 4	 6	 4	513070	      
+R2	MSST 	Giovanni Oradini                    	S	 1	11	 7	0 	3 	  	 	  	 	  	  	  	  	11	10	17	14	438580	      
+R2	MSST 	Florian Broska                      	S	 2	 4	 3	10	5 	  	 	  	 	  	  	  	  	14	 8	20	12	392974	      
+R2	MSST 	Nemanja Malesevic                   	S	 3	  	  	4 	0 	9 	5	2 	2	  	  	  	  	15	 7	20	11	561124	      
+R2	MSST 	Alberto Colas                       	S	 4	  	  	2 	0 	6 	1	6 	7	  	  	  	  	14	 8	 4	 6	520879	      
+R2	MSST 	Carles Hernandez                    	S	 5	  	  	  	  	  	 	5 	0	9 	8 	  	  	14	 8	14	 8	561123	      
+R2	MSST 	Davide Tortora                      	S	 6	  	  	  	  	  	 	  	 	  	  	7 	3 	 7	 3	13	 7	510661	      
+R2	MSST 	Gregor Ramskogler                   	S	 7	  	  	  	  	  	 	1 	0	4 	1 	4 	8 	 9	 9	14	14	487240	      
+R2	MSST 	Nicolas Ocana                       	S	 8	  	  	  	  	  	 	  	 	  	  	0 	1 	 0	 1	 4	 6	510659	      
+R2	MSST 	Stedman Strickland                  	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 9	487365	      
+R2	MSST 	Broska/Ramskogler                   	D	 1	 7	 5	2 	1 	2 	0	  	 	  	  	  	  	11	 6	11	 6	392974	487240
+R2	MSST 	Malesevic/Tortora                   	D	 2	  	  	3 	3 	3 	1	  	 	  	  	  	  	 6	 4	 9	 7	561124	510661
+R2	MSST 	Ocana/Oradini                       	D	 3	  	  	  	  	2 	2	  	 	  	  	  	  	 2	 2	 2	 2	510659	438580
+R2	MSST 	Colas/Hernandez                     	D	 4	  	  	  	  	1 	0	  	 	  	  	  	  	 1	 0	 1	 0	520879	561123
+R2	NCST 	Alexis Galarneau                    	S	 1	10	 2	  	  	  	 	  	 	  	  	  	  	10	 2	10	 3	408573	      
+R2	NCST 	Rafael Izquierdo Luque              	S	 2	 0	 1	2 	5 	5 	0	0 	2	  	  	  	  	 7	 8	 8	 9	514016	      
+R2	NCST 	Tadas Babelis                       	S	 3	 0	 2	2 	1 	3 	4	0 	1	0 	1 	  	  	 5	 9	 6	10	387254	      
+R2	NCST 	Yannai Barkai                       	S	 4	  	  	0 	1 	1 	2	3 	4	  	  	1 	1 	 5	 8	 7	 8	498083	      
+R2	NCST 	Robin Catry                         	S	 5	  	  	1 	1 	1 	1	4 	3	4 	0 	  	  	10	 5	10	 6	515592	      
+R2	NCST 	Robert Turzak                       	S	 6	  	  	  	  	0 	1	4 	1	2 	2 	  	  	 6	 4	 7	 5	459116	      
+R2	NCST 	Martins Rocens                      	S	 7	  	  	  	  	  	 	  	 	1 	2 	4 	1 	 5	 3	 5	 5	514015	      
+R2	NCST 	Joseph Schrader                     	S	 8	  	  	  	  	  	 	  	 	0 	1 	  	  	 0	 1	 0	 2	449869	      
+R2	NCST 	Collin Shick                        	S	 9	  	  	  	  	  	 	  	 	  	  	0 	1 	 0	 1	 0	 2	451388	      
+R2	NCST 	Tristan Smith                       	S	10	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 1	 1	453139	      
+R2	NCST 	Braden Shick                        	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	451388	      
+R2	NCST 	Babelis/Barkai                      	D	 1	 4	 3	1 	0 	  	 	  	 	  	  	  	  	 5	 3	 6	 3	387254	498083
+R2	NCST 	Catry/Galarneau                     	D	 2	  	  	2 	1 	  	 	  	 	  	  	  	  	 2	 1	 2	 1	515592	408573
+R2	NCST 	Shick/Turzak                        	D	 3	  	  	  	  	0 	1	  	 	  	  	  	  	 0	 1	 0	 1	451388	459116
+R2	NCST 	Luque/Schrader                      	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	514016	449869
+R2	ND   	Axel Nefve                          	S	 1	13	 2	5 	1 	  	 	  	 	  	  	  	  	18	 3	18	 3	487492	      
+R2	ND   	Richard Ciamarra                    	S	 2	 5	 3	9 	4 	  	 	  	 	  	  	  	  	14	 7	14	 7	397307	      
+R2	ND   	Tristan McCormick                   	S	 3	  	  	2 	1 	8 	5	  	 	  	  	  	  	10	 6	10	 6	431354	      
+R2	ND   	William Howells                     	S	 4	  	  	  	  	  	 	  	 	  	  	2 	1 	 2	 1	 2	 1	416900	      
+R2	ND   	Matthew Che                         	S	 5	  	  	1 	0 	2 	4	3 	7	0 	1 	  	  	 6	12	 6	12	509880	      
+R2	ND   	Connor Fu                           	S	 6	  	  	1 	0 	2 	0	4 	3	5 	5 	0 	1 	12	 9	12	 9	509883	      
+R2	ND   	Brandon Ancona                      	S	 7	  	  	  	  	  	 	  	 	2 	1 	4 	5 	 6	 6	 6	 6	564605	      
+R2	ND   	Jean-Marc Malkowski                 	S	 8	  	  	  	  	  	 	0 	1	2 	4 	1 	0 	 3	 5	 3	 5	564606	      
+R2	ND   	Braeden Ho                          	S	 9	  	  	  	  	  	 	  	 	  	  	2 	2 	 2	 2	 2	 2	509881	      
+R2	ND   	Matthew Gamble                      	S	10	  	  	  	  	0 	1	  	 	1 	0 	  	  	 1	 1	 1	 1	408747	      
+R2	ND   	Andrew Mariados                     	S	11	  	  	  	  	  	 	  	 	  	  	2 	1 	 2	 1	 2	 1	487494	      
+R2	ND   	Matt Halpin                         	S	12	  	  	  	  	  	 	1 	1	1 	0 	0 	1 	 2	 2	 2	 2	408747	      
+R2	ND   	McCormick/Nefve                     	D	 1	10	 4	  	  	  	 	  	 	  	  	  	  	10	 4	10	 4	431354	487492
+R2	ND   	Ancona/Howells                      	D	 2	  	  	4 	2 	3 	3	  	 	  	  	  	  	 7	 5	 7	 5	564605	416900
+R2	ND   	Che/Ciamarra                        	D	 3	  	  	1 	1 	5 	0	  	 	  	  	  	  	 6	 1	 6	 1	509880	397307
+R2	ND   	Gamble/Malkowski                    	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	408747	564606
+R2	OKLA 	Jake Van Emburgh                    	S	 1	 4	 9	  	  	4 	1	  	 	  	  	  	  	 8	10	 8	13	459807	      
+R2	OKLA 	Mason Beiler                        	S	 2	 1	 2	7 	4 	3 	2	  	 	  	  	  	  	11	 8	16	13	485308	      
+R2	OKLA 	Alex Martinez Puigdellose           	S	 3	 0	 1	2 	3 	6 	2	4 	1	  	  	  	  	12	 7	15	13	520724	      
+R2	OKLA 	Nathan Han                          	S	 4	  	  	  	  	  	 	2 	6	3 	1 	2 	0 	 7	 7	13	11	559729	      
+R2	OKLA 	Justin Schlageter                   	S	 5	  	  	  	  	1 	0	  	 	3 	5 	2 	1 	 6	 6	10	12	520725	      
+R2	OKLA 	Mark Mandlik                        	S	 6	 0	 2	1 	2 	1 	1	2 	3	1 	5 	1 	1 	 6	14	 6	14	511014	      
+R2	OKLA 	Welsh Hotard                        	S	 7	  	  	  	  	  	 	  	 	0 	1 	6 	2 	 6	 3	12	 7	559728	      
+R2	OKLA 	Jonathan Sheehy                     	S	 8	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 2	 7	559730	      
+R2	OKLA 	Max Stewart                         	S	 9	  	  	  	  	0 	1	  	 	1 	0 	2 	2 	 3	 3	 3	 3	454858	      
+R2	OKLA 	Matt Rodriguez                      	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 3	 4	485309	      
+R2	OKLA 	Mandlik/Stewart                     	D	 1	 0	 1	0 	1 	2 	1	  	 	  	  	  	  	 2	 3	 2	 3	511014	454858
+R2	OKLA 	Van Emburgh/Puigdellose             	D	 2	  	  	0 	1 	  	 	  	 	  	  	  	  	 0	 1	 0	 1	459807	520724
+R2	OKLA 	Han/Beiler                          	D	 3	  	  	  	  	1 	0	  	 	  	  	  	  	 1	 0	 1	 0	559729	485308
+R2	OKLA 	Sheehy/Hotard                       	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	559730	559728
+R2	OKST 	Matej Vocel                         	S	 1	11	 5	  	  	  	 	  	 	  	  	  	  	11	 5	11	 5	487509	      
+R2	OKST 	Henrik Korsgaard                    	S	 2	  	  	3 	2 	3 	7	3 	0	  	  	  	  	 9	 9	 9	 9	564471	      
+R2	OKST 	Emile Hudd                          	S	 3	  	  	2 	5 	5 	2	  	 	  	  	  	  	 7	 7	 9	 9	487451	      
+R2	OKST 	Mathieu Scaglia                     	S	 4	  	  	  	  	2 	0	4 	5	3 	2 	  	  	 9	 7	 9	 8	449242	      
+R2	OKST 	Etienne Donnet                      	S	 5	  	  	  	  	  	 	1 	0	3 	4 	4 	5 	 8	 9	 9	14	520763	      
+R2	OKST 	Matisse Bobichon                    	S	 6	  	  	  	  	  	 	  	 	  	  	4 	4 	 4	 4	 4	 4	564712	      
+R2	OKST 	Luke Hammond                        	S	 7	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	413300	      
+R2	OKST 	Max Tybar                           	S	 8	  	  	  	  	  	 	  	 	1 	0 	  	  	 1	 0	 1	 0	459164	      
+R2	OKST 	Hudd/Vocel                          	D	 1	 6	 4	  	  	  	 	  	 	  	  	  	  	 6	 4	 6	 4	487451	487509
+R2	OKST 	Korsgaard/Hammond                   	D	 2	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	564471	413300
+R2	OKST 	Donnet/Bobichon                     	D	 3	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	520763	564712
+R2	OKST 	Tybar/Scaglia                       	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	459164	449242
+R2	OSU  	John McNally                        	S	 1	10	 2	6 	2 	  	 	  	 	  	  	  	  	16	 4	21	 4	432019	      
+R2	OSU  	Cannon Kingsley                     	S	 2	 9	 0	12	0 	  	 	  	 	  	  	  	  	21	 0	27	 0	511704	      
+R2	OSU  	James Trotter                       	S	 3	  	  	  	  	13	1	  	 	  	  	  	  	13	 1	13	 1	485329	      
+R2	OSU  	Justin Boulais                      	S	 4	  	  	  	  	  	 	5 	1	2 	0 	  	  	 7	 1	 7	 1	511705	      
+R2	OSU  	Kyle Seelig                         	S	 5	  	  	  	  	4 	1	8 	3	3 	0 	  	  	15	 4	18	 8	450412	      
+R2	OSU  	JJ Tracy                            	S	 6	  	  	  	  	  	 	1 	0	14	1 	6 	0 	21	 1	24	 3	564703	      
+R2	OSU  	Robert Cash                         	S	 7	  	  	  	  	  	 	  	 	1 	0 	9 	4 	10	 4	16	 4	511706	      
+R2	OSU  	Tim Seibert                         	S	 8	  	  	  	  	  	 	  	 	1 	0 	1 	0 	 2	 0	 2	 0	450476	      
+R2	OSU  	JJ Mercer                           	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 4	 3	511707	      
+R2	OSU  	Lancelot Carnello                   	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 1	564807	      
+R2	OSU  	Andrew Lutschaunig                  	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R2	OSU  	Jacob Wareti                        	S	12	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 1	 4	462064	      
+R2	OSU  	Trotter/Boulais                     	D	 1	 3	 2	4 	1 	  	 	  	 	  	  	  	  	 7	 3	 7	 3	485329	511705
+R2	OSU  	McNally/Cash                        	D	 2	 7	 3	6 	1 	  	 	  	 	  	  	  	  	13	 4	14	 5	432019	511706
+R2	OSU  	Kingsley/Seelig                     	D	 3	  	  	1 	3 	1 	2	  	 	  	  	  	  	 2	 5	 5	 6	511704	450412
+R2	OSU  	Tracy/Mercer                        	D	 4	  	  	  	  	1 	0	  	 	  	  	  	  	 1	 0	 2	 1	564703	511707
+R2	PEPP 	Adrian Oetzbach                     	S	 1	 7	 7	0 	1 	  	 	  	 	  	  	  	  	 7	 8	 8	 9	488802	      
+R2	PEPP 	Guy Den Ouden                       	S	 2	  	  	10	4 	5 	1	  	 	  	  	  	  	15	 5	15	 5	563775	      
+R2	PEPP 	Daniel De Jonge                     	S	 3	  	  	5 	0 	5 	4	  	 	  	  	  	  	10	 4	11	 5	523004	      
+R2	PEPP 	Tim Zeitvogel                       	S	 4	  	  	  	  	  	 	4 	0	3 	0 	  	  	 7	 0	 7	 0	497648	      
+R2	PEPP 	Corrado Summaria                    	S	 5	  	  	  	  	1 	2	1 	3	3 	0 	3 	0 	 8	 5	 8	 6	501835	      
+R2	PEPP 	Pietro Fellin                       	S	 6	  	  	  	  	  	 	  	 	0 	3 	8 	0 	 8	 3	 8	 5	521203	      
+R2	PEPP 	Robert Shelton                      	S	 7	  	  	  	  	  	 	2 	3	4 	1 	1 	0 	 7	 4	 8	 5	515020	      
+R2	PEPP 	Pawel Jankowiak                     	S	 8	  	  	  	  	  	 	  	 	  	  	2 	2 	 2	 2	 2	 4	488801	      
+R2	PEPP 	Tom Grosjean                        	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 2	563774	      
+R2	PEPP 	Oetzbach/Ouden                      	D	 1	10	 4	  	  	  	 	  	 	  	  	  	  	10	 4	10	 4	488802	563775
+R2	PEPP 	Summaria/Zeitvogel                  	D	 2	  	  	5 	2 	  	 	  	 	  	  	  	  	 5	 2	 5	 2	501835	497648
+R2	PEPP 	De Jonge/Fellin                     	D	 3	  	  	  	  	3 	3	  	 	  	  	  	  	 3	 3	 3	 3	523004	521203
+R2	PEPP 	Jankowiak/Shelton                   	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	488801	515020
+R2	STAN 	Axel Geller                         	S	 1	 5	 6	1 	0 	  	 	  	 	  	  	  	  	 6	 6	 6	 6	409496	      
+R2	STAN 	Arthur Fery                         	S	 2	 1	 0	6 	2 	2 	1	2 	0	  	  	  	  	11	 3	11	 3	564316	      
+R2	STAN 	Tristan Boyer                       	S	 3	 0	 1	1 	0 	1 	1	6 	3	  	  	  	  	 8	 5	 8	 5	564317	      
+R2	STAN 	Alex Rotsaert                       	S	 4	 1	 0	0 	3 	3 	3	  	 	  	  	  	  	 4	 6	 4	 6	568937	      
+R2	STAN 	Timothy Sah                         	S	 5	  	  	  	  	2 	0	0 	1	6 	3 	  	  	 8	 4	 8	 4	448080	      
+R2	STAN 	William Genesen                     	S	 6	  	  	  	  	  	 	1 	0	1 	1 	3 	2 	 5	 3	 5	 3	409523	      
+R2	STAN 	Neel Rajesh                         	S	 7	  	  	  	  	  	 	1 	0	0 	1 	4 	1 	 5	 2	 5	 2	512404	      
+R2	STAN 	Aryan Chaudhary                     	S	 8	  	  	  	  	  	 	  	 	1 	0 	0 	1 	 1	 1	 1	 1	568936	      
+R2	STAN 	Filip Kolasinski                    	S	 9	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 1	 0	512403	      
+R2	STAN 	Alex Lee                            	S	10	  	  	  	  	  	 	  	 	1 	0 	0 	1 	 1	 1	 1	 1	568937	      
+R2	STAN 	Tomas Kopczynski                    	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R2	STAN 	Kento Perera                        	S	12	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R2	STAN 	Geller/Kopczynski                   	D	 1	 2	 0	1 	0 	  	 	  	 	  	  	  	  	 3	 0	 3	 0	409496	      
+R2	STAN 	Boyer/Sah                           	D	 2	 0	 1	3 	2 	  	 	  	 	  	  	  	  	 3	 3	 3	 3	564317	448080
+R2	STAN 	Fery/Rotsaert                       	D	 3	  	  	2 	1 	7 	0	  	 	  	  	  	  	 9	 1	 9	 1	564316	488298
+R2	STAN 	Rajesh/Chaudhary                    	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	512404	568936
+R2	TTU  	Parker Wynn                         	S	 1	 5	 9	  	  	  	 	  	 	  	  	  	  	 5	 9	 9	13	485875	      
+R2	TTU  	Ilgiz Valiev                        	S	 2	 1	 1	10	6 	  	 	  	 	  	  	  	  	11	 7	14	13	459644	      
+R2	TTU  	Franco Ribero                       	S	 3	  	  	  	  	7 	4	1 	1	  	  	  	  	 8	 5	11	11	497381	      
+R2	TTU  	Reed Collier                        	S	 4	  	  	1 	0 	0 	2	6 	5	  	  	  	  	 7	 7	14	 8	509737	      
+R2	TTU  	Dimitrios Azoidis                   	S	 5	  	  	  	  	  	 	2 	1	8 	3 	2 	0 	12	 4	15	10	561078	      
+R2	TTU  	Isaac Arevalo                       	S	 6	  	  	  	  	  	 	1 	0	2 	1 	5 	4 	 8	 5	14	 7	520546	      
+R2	TTU  	Fran Vittar                         	S	 7	  	  	  	  	  	 	  	 	  	  	2 	1 	 2	 1	 3	 5	509800	      
+R2	TTU  	Justin Bloss                        	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 6	390956	      
+R2	TTU  	Wynn/Ribero                         	D	 1	 7	 7	  	  	  	 	  	 	  	  	  	  	 7	 7	 7	 7	485875	497381
+R2	TTU  	Arevalo/Collier                     	D	 2	  	  	6 	5 	  	 	  	 	  	  	  	  	 6	 5	 6	 5	520546	509737
+R2	TTU  	Valiev/Azoides                      	D	 3	  	  	3 	1 	8 	2	  	 	  	  	  	  	11	 3	12	 4	459644	561078
+R2	TTU  	Vittar/Bloss                        	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	509800	390956
+R2	TULN 	Hamish Stewart                      	S	 1	12	 7	  	  	  	 	  	 	  	  	  	  	12	 7	12	 7	454831	      
+R2	TULN 	Ewan Moore                          	S	 2	 1	 0	9 	7 	  	 	  	 	  	  	  	  	10	 7	10	 7	434419	      
+R2	TULN 	Luis Erlenbusch                     	S	 3	  	  	1 	0 	13	5	  	 	  	  	  	  	14	 5	14	 5	405135	      
+R2	TULN 	Billy Suarez                        	S	 4	  	  	  	  	1 	0	8 	5	0 	1 	  	  	 9	 6	 9	 6	527618	      
+R2	TULN 	Rafael de Alba                      	S	 5	  	  	  	  	  	 	0 	1	3 	2 	9 	1 	12	 4	12	 4	527615	      
+R2	TULN 	Akos Kotorman                       	S	 6	  	  	  	  	  	 	1 	0	0 	1 	1 	2 	 2	 3	 2	 3	485685	      
+R2	TULN 	Fynn Kuenkler                       	S	 7	  	  	1 	0 	  	 	0 	1	3 	5 	1 	2 	 5	 8	 5	 8	527616	      
+R2	TULN 	Benji Jacobson                      	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R2	TULN 	Charlie Barry                       	S	 9	  	  	  	  	0 	1	  	 	  	  	  	  	 0	 1	 0	 1	520554	      
+R2	TULN 	Stewart/Moore                       	D	 1	12	 6	  	  	  	 	  	 	  	  	  	  	12	 6	12	 6	454831	434419
+R2	TULN 	Kotorman/Suarez                     	D	 2	  	  	12	6 	  	 	  	 	  	  	  	  	12	 6	12	 6	485685	527618
+R2	TULN 	Erlenbusch/Kuenkler                 	D	 3	  	  	  	  	10	4	  	 	  	  	  	  	10	 4	10	 4	405135	527616
+R2	TULN 	Jacobson/Barry                      	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	520554
+R2	UCLA 	Govind Nanda                        	S	 1	 2	 2	6 	1 	  	 	  	 	  	  	  	  	 8	 3	 8	 3	498066	      
+R2	UCLA 	Drew Baird                          	S	 2	  	  	5 	2 	4 	4	  	 	  	  	  	  	 9	 6	 9	 7	510687	      
+R2	UCLA 	Ben Goldberg                        	S	 3	  	  	0 	1 	5 	2	3 	5	  	  	  	  	 8	 8	 9	 8	410457	      
+R2	UCLA 	Sam Feit                            	S	 4	  	  	  	  	1 	2	6 	1	4 	2 	  	  	11	 5	11	 6	564425	      
+R2	UCLA 	Roscoe Bellamy                      	S	 5	  	  	  	  	  	 	1 	0	2 	1 	5 	1 	 8	 2	 8	 2	489256	      
+R2	UCLA 	Mathew Tsolakyan                    	S	 6	  	  	  	  	  	 	  	 	6 	1 	4 	2 	10	 3	11	 3	489259	      
+R2	UCLA 	Patrick Zahraj                      	S	 7	  	  	  	  	  	 	  	 	  	  	1 	2 	 1	 2	 1	 2	498067	      
+R2	UCLA 	Stefan Leustian                     	S	 8	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 2	 0	564426	      
+R2	UCLA 	Eric Hahn                           	S	 9	  	  	  	  	  	 	  	 	  	  	0 	1 	 0	 1	 0	 1	489257	      
+R2	UCLA 	Connor Hance                        	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 1	413355	      
+R2	UCLA 	Bryce Pereira                       	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R2	UCLA 	Max Wild                            	S	12	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R2	UCLA 	Connor Rapp                         	S	13	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	413355	      
+R2	UCLA 	Nanda/Baird                         	D	 1	 2	 2	2 	3 	  	 	  	 	  	  	  	  	 4	 5	 4	 5	498066	510687
+R2	UCLA 	Pereira/Zahraj                      	D	 2	  	  	2 	2 	  	 	  	 	  	  	  	  	 2	 2	 2	 2	      	498067
+R2	UCLA 	Tsolakyan/Bellamy                   	D	 3	  	  	  	  	5 	3	  	 	  	  	  	  	 5	 3	 5	 3	489259	489256
+R2	UCLA 	Goldberg/Feit                       	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	410457	564425
+R2	USF  	Jakub Wojcik                        	S	 1	 4	 1	13	5 	  	 	  	 	  	  	  	  	17	 6	17	 6	464470	      
+R2	USF  	Chase Ferguson                      	S	 2	 8	 9	5 	0 	  	 	  	 	  	  	  	  	13	 9	13	 9	485713	      
+R2	USF  	Ivan Yatsuk                         	S	 3	 0	 1	1 	0 	12	6	2 	0	  	  	  	  	15	 7	15	 7	485717	      
+R2	USF  	Antonio Muniz-Hidalgo               	S	 4	  	  	  	  	1 	1	1 	1	1 	0 	2 	2 	 5	 4	 5	 4	512187	      
+R2	USF  	Pierre Luquet                       	S	 5	  	  	  	  	2 	3	6 	5	0 	2 	  	  	 8	10	 8	10	428315	      
+R2	USF  	Sergio Gomez-Montesa                	S	 6	  	  	  	  	  	 	3 	3	8 	6 	2 	1 	13	10	13	10	485714	      
+R2	USF  	Manuel Goncalves                    	S	 7	  	  	  	  	  	 	  	 	  	  	2 	2 	 2	 2	 2	 2	565166	      
+R2	USF  	Alvin Tudorica                      	S	 8	  	  	  	  	  	 	  	 	1 	1 	5 	3 	 6	 4	 6	 4	564806	      
+R2	USF  	Rithvik Bollipalli                  	S	 9	  	  	  	  	  	 	0 	1	1 	1 	1 	3 	 2	 5	 2	 5	512186	      
+R2	USF  	Bollipalli/Wojcik                   	D	 1	 9	 7	  	  	  	 	  	 	  	  	  	  	 9	 7	 9	 7	512186	464470
+R2	USF  	Ferguson/Yatsuk                     	D	 2	 1	 1	1 	0 	  	 	  	 	  	  	  	  	 2	 1	 2	 1	485713	485717
+R2	USF  	Goncalves/Tudorica                  	D	 3	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	565166	564806
+R2	USF  	Montesa/Muniz                       	D	 4	  	  	  	  	0 	2	  	 	  	  	  	  	 0	 2	 0	 2	485714	512187
+R3	DEN  	James Davis                         	S	 1	 4	 1	6 	0 	4 	1	  	 	  	  	  	  	14	 2	14	 2	486502	      
+R3	DEN  	Mattia Ros                          	S	 2	 2	 7	4 	1 	2 	0	  	 	  	  	  	  	 8	 8	 8	 8	446861	      
+R3	DEN  	Matt Summers                        	S	 3	 0	 3	1 	2 	9 	1	  	 	  	  	  	  	10	 6	10	 6	455733	      
+R3	DEN  	Peter Sallay                        	S	 4	  	  	  	  	  	 	12	4	  	  	  	  	12	 4	12	 4	563534	      
+R3	DEN  	Nicolas Herrero Cuesta              	S	 5	  	  	  	  	  	 	  	 	10	1 	4 	0 	14	 1	14	 1	563532	      
+R3	DEN  	Ignacio Rivero Crespo               	S	 6	  	  	  	  	  	 	1 	0	  	  	8 	1 	 9	 1	 9	 1	511784	      
+R3	DEN  	Daniel Krulig                       	S	 7	  	  	  	  	  	 	  	 	3 	2 	3 	0 	 6	 2	 6	 2	486489	      
+R3	DEN  	Charlie Miller                      	S	 8	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 1	 0	563533	      
+R3	DEN  	John Zakowski                       	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	DEN  	Summers/Davis                       	D	 1	14	 5	  	  	  	 	  	 	  	  	  	  	14	 5	14	 5	455733	486502
+R3	DEN  	Ros/Sallay                          	D	 2	  	  	7 	6 	  	 	  	 	  	  	  	  	 7	 6	 7	 6	446861	563534
+R3	DEN  	Cuesta/Crespo                       	D	 3	  	  	  	  	10	4	  	 	  	  	  	  	10	 4	10	 4	563532	511784
+R3	DEN  	Krulig/Miller                       	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	486489	563533
+R3	DUKE 	Garrett Johns                       	S	 1	 8	 8	  	  	  	 	  	 	  	  	  	  	 8	 8	 9	 9	514429	      
+R3	DUKE 	Sean Sculley                        	S	 2	  	  	2 	3 	3 	1	  	 	  	  	  	  	 5	 4	 6	 4	450276	      
+R3	DUKE 	Andrew Zhang                        	S	 3	  	  	  	  	5 	1	5 	4	  	  	  	  	10	 5	12	 5	514432	      
+R3	DUKE 	Edu Guell                           	S	 4	 1	 0	4 	6 	2 	3	0 	1	  	  	  	  	 7	10	 8	11	497384	      
+R3	DUKE 	Luca Keist                          	S	 5	  	  	1 	0 	0 	1	3 	0	3 	2 	  	  	 7	 3	 8	 3	520675	      
+R3	DUKE 	Andrew Dale                         	S	 6	  	  	  	  	  	 	1 	1	7 	1 	0 	2 	 8	 4	10	 4	564416	      
+R3	DUKE 	Faris Khan                          	S	 7	  	  	  	  	  	 	1 	1	1 	2 	5 	1 	 7	 4	 9	 4	564418	      
+R3	DUKE 	Michael Heller                      	S	 8	  	  	  	  	  	 	  	 	  	  	5 	5 	 5	 5	 7	 5	514428	      
+R3	DUKE 	Sculley/Johns                       	D	 1	 8	 7	  	  	  	 	  	 	  	  	  	  	 8	 7	 9	 8	450276	514429
+R3	DUKE 	Heller/Zhang                        	D	 2	 0	 1	4 	1 	1 	0	  	 	  	  	  	  	 5	 2	 5	 2	514428	514432
+R3	DUKE 	Keist/Dale                          	D	 3	  	  	  	  	1 	1	  	 	  	  	  	  	 1	 1	 1	 1	520675	564416
+R3	DUKE 	Guell/Khan                          	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	497384	564418
+R3	FGCU 	Magnus Johnson                      	S	 1	 9	 3	  	  	  	 	  	 	  	  	  	  	 9	 3	 9	 3	566473	      
+R3	FGCU 	Juan Montes                         	S	 2	  	  	7 	4 	  	 	  	 	  	  	  	  	 7	 4	 7	 4	434281	      
+R3	FGCU 	Randy Wilson                        	S	 3	  	  	0 	1 	5 	5	1 	1	  	  	  	  	 6	 7	 6	 7	566476	      
+R3	FGCU 	Felipe Ramirez                      	S	 4	  	  	0 	2 	1 	1	1 	1	  	  	  	  	 2	 4	 2	 4	443947	      
+R3	FGCU 	Guglielmo Stefanacci                	S	 5	  	  	  	  	  	 	1 	2	3 	3 	4 	0 	 8	 5	 8	 5	513864	      
+R3	FGCU 	Alessandro Conca                    	S	 6	  	  	  	  	0 	1	3 	4	0 	2 	0 	2 	 3	 9	 3	 9	566471	      
+R3	FGCU 	Max Damm                            	S	 7	  	  	  	  	  	 	  	 	0 	1 	0 	2 	 0	 3	 0	 3	566472	      
+R3	FGCU 	Feliksas Sakalauskas                	S	 8	  	  	  	  	  	 	  	 	0 	2 	1 	1 	 1	 3	 1	 3	486209	      
+R3	FGCU 	Pedro Maciel                        	S	 9	  	  	  	  	  	 	  	 	  	  	1 	2 	 1	 2	 1	 2	501601	      
+R3	FGCU 	Carter Bradford                     	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	FGCU 	Johnson/Damm                        	D	 1	 4	 3	1 	0 	2 	1	  	 	  	  	  	  	 7	 4	 7	 4	566473	566472
+R3	FGCU 	Ramirez/Montes                      	D	 2	  	  	2 	1 	  	 	  	 	  	  	  	  	 2	 1	 2	 1	443947	434281
+R3	FGCU 	Wilson/Sakalauskas                  	D	 3	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	566476	486209
+R3	FGCU 	Stefanacci/Bradford                 	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	513864	      
+R3	LSU  	Ronald Hohmann                      	S	 1	10	 9	  	  	  	 	  	 	  	  	  	  	10	 9	13	12	520221	      
+R3	LSU  	Rafael Wagner                       	S	 2	 2	 0	5 	9 	  	 	  	 	  	  	  	  	 7	 9	11	13	461532	      
+R3	LSU  	Joao Graca                          	S	 3	  	  	0 	1 	0 	4	1 	4	4 	1 	  	  	 5	10	 5	10	528067	      
+R3	LSU  	Boris Kozlov                        	S	 4	  	  	  	  	2 	0	5 	4	3 	2 	  	  	10	 6	13	11	488582	      
+R3	LSU  	Benjamin Ambrosio                   	S	 5	  	  	  	  	  	 	2 	1	1 	3 	6 	2 	 9	 6	 9	 6	565701	      
+R3	LSU  	Ben Koch                            	S	 6	  	  	  	  	  	 	  	 	2 	1 	2 	1 	 4	 2	 8	 6	528068	      
+R3	LSU  	Nick Watson                         	S	 7	  	  	  	  	  	 	  	 	1 	0 	0 	1 	 1	 1	 3	 5	488581	      
+R3	LSU  	Tomas Descarrega                    	S	 8	  	  	  	  	  	 	1 	0	1 	0 	1 	3 	 3	 3	 5	 7	511017	      
+R3	LSU  	Joey Thomas                         	S	 9	  	  	  	  	  	 	1 	0	  	  	2 	2 	 3	 2	 3	 2	489469	      
+R3	LSU  	Wagner/Hohmann                      	D	 1	10	 9	  	  	  	 	  	 	  	  	  	  	10	 9	18	11	461532	520221
+R3	LSU  	Thomas/Graca                        	D	 2	 1	 0	6 	10	  	 	  	 	  	  	  	  	 7	10	 7	10	489469	528067
+R3	LSU  	Watson/Kozlov                       	D	 3	  	  	1 	0 	10	5	  	 	  	  	  	  	11	 5	13	10	488581	488582
+R3	LSU  	Descarrega/Koch                     	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	511017	528068
+R3	MEM  	James Story                         	S	 1	 8	 6	  	  	  	 	  	 	  	  	  	  	 8	 6	 8	 6	512927	      
+R3	MEM  	David Stevenson                     	S	 2	  	  	2 	5 	6 	3	  	 	  	  	  	  	 8	 8	 8	 8	488571	      
+R3	MEM  	Oscar Cutting                       	S	 3	  	  	2 	4 	2 	4	4 	1	  	  	  	  	 8	 9	 8	 9	489076	      
+R3	MEM  	Jan Pallares                        	S	 4	  	  	1 	3 	1 	1	4 	4	  	  	  	  	 6	 8	 6	 8	439402	      
+R3	MEM  	Jeremy Taylor                       	S	 5	  	  	  	  	  	 	1 	0	5 	3 	3 	0 	 9	 3	 9	 3	488572	      
+R3	MEM  	Pau Fanlo                           	S	 6	  	  	  	  	  	 	  	 	2 	2 	4 	3 	 6	 5	 6	 5	564572	      
+R3	MEM  	Patrick Sydow                       	S	 7	  	  	  	  	  	 	  	 	  	  	0 	2 	 0	 2	 0	 2	488574	      
+R3	MEM  	Antoine Marleau                     	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	MEM  	Cutting/Stevenson                   	D	 1	 9	 6	  	  	  	 	  	 	  	  	  	  	 9	 6	 9	 6	489076	488571
+R3	MEM  	Pallares/Sydow                      	D	 2	  	  	12	3 	  	 	  	 	  	  	  	  	12	 3	12	 3	439402	488574
+R3	MEM  	Story/Taylor                        	D	 3	  	  	  	  	10	3	  	 	  	  	  	  	10	 3	10	 3	512927	488572
+R3	MEM  	Fanlo/Marleau                       	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	564572	      
+R3	MIA  	Adria Soriano Barrera               	S	 1	 9	 6	  	  	  	 	  	 	  	  	  	  	 9	 6	 9	 6	453605	      
+R3	MIA  	Bojan Jankulovski                   	S	 2	  	  	5 	4 	2 	0	2 	1	  	  	  	  	 9	 5	 9	 5	418564	      
+R3	MIA  	Benjamin Hannestad                  	S	 3	  	  	0 	5 	5 	5	1 	0	  	  	  	  	 6	10	 6	10	514047	      
+R3	MIA  	Stefan Milicevic                    	S	 4	  	  	  	  	1 	3	4 	7	  	  	  	  	 5	10	 5	10	564318	      
+R3	MIA  	Oren Vasser                         	S	 5	  	  	  	  	  	 	  	 	3 	1 	6 	5 	 9	 6	 9	 6	566361	      
+R3	MIA  	Franco Aubone                       	S	 6	  	  	  	  	  	 	  	 	6 	6 	1 	4 	 7	10	 7	10	489589	      
+R3	MIA  	Stephen Madonia                     	S	 7	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 1	 0	489597	      
+R3	MIA  	Hannestad/Aubone                    	D	 1	 7	 8	  	  	  	 	  	 	  	  	  	  	 7	 8	 7	 8	514047	489589
+R3	MIA  	Barrera/Vasser                      	D	 2	  	  	2 	2 	  	 	  	 	  	  	  	  	 2	 2	 2	 2	453605	566361
+R3	MIA  	Jankulovski/Milicevic               	D	 3	  	  	  	  	4 	3	  	 	  	  	  	  	 4	 3	 4	 3	418564	564318
+R3	MICH 	Andrew Fenty                        	S	 1	10	 3	3 	1 	  	 	  	 	  	  	  	  	13	 4	16	 9	489235	      
+R3	MICH 	Ondrej Styler                       	S	 2	 1	 1	7 	3 	  	 	  	 	  	  	  	  	 8	 4	12	 7	510689	      
+R3	MICH 	Patrick Maloney                     	S	 3	  	  	2 	0 	7 	3	0 	1	  	  	  	  	 9	 4	 9	 4	488521	      
+R3	MICH 	Mattias Siimar                      	S	 4	  	  	2 	0 	4 	2	8 	1	  	  	  	  	14	 3	17	 6	451828	      
+R3	MICH 	Nick Beaty                          	S	 5	  	  	  	  	1 	0	4 	0	8 	2 	  	  	13	 2	19	 4	388880	      
+R3	MICH 	Nino Ehrenschneider                 	S	 6	  	  	  	  	  	 	  	 	1 	0 	3 	1 	 4	 1	 6	 2	564252	      
+R3	MICH 	Jacob Bickersteth                   	S	 7	  	  	  	  	  	 	1 	0	5 	0 	3 	4 	 9	 4	10	 4	564251	      
+R3	MICH 	Connor Johnston                     	S	 8	  	  	  	  	  	 	  	 	  	  	2 	3 	 2	 3	 4	10	419504	      
+R3	MICH 	Harrison Brown                      	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 3	393097	      
+R3	MICH 	Kristofer Siimar                    	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 2	 1	451827	      
+R3	MICH 	Ryan Fu                             	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 6	488520	      
+R3	MICH 	Jonathan Yaffe                      	S	12	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	MICH 	Teddy Oosterbaan                    	S	13	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	MICH 	Fenty/Siimar                        	D	 1	 9	 3	  	  	  	 	  	 	  	  	  	  	 9	 3	14	 3	489235	451828
+R3	MICH 	Maloney/Styler                      	D	 2	  	  	2 	0 	  	 	  	 	  	  	  	  	 2	 0	 2	 0	488521	510689
+R3	MICH 	Ehrenschneider/Johnston             	D	 3	  	  	  	  	3 	0	  	 	  	  	  	  	 3	 0	 3	 0	564252	419504
+R3	MICH 	Beaty/Brown                         	D	 4	  	  	  	  	3 	2	  	 	  	  	  	  	 3	 2	 3	 4	388880	393097
+R3	MTSU 	Francisco Rocha                     	S	 1	 5	 3	3 	1 	5 	1	  	 	  	  	  	  	13	 5	13	 5	485275	      
+R3	MTSU 	Stijn Slump                         	S	 2	  	  	9 	2 	7 	3	  	 	  	  	  	  	16	 5	16	 5	485279	      
+R3	MTSU 	Tom Moonen                          	S	 3	 5	 6	1 	4 	2 	1	  	 	  	  	  	  	 8	11	 8	11	434366	      
+R3	MTSU 	Christopher Edge                    	S	 4	  	  	  	  	  	 	15	5	  	  	  	  	15	 5	15	 5	404287	      
+R3	MTSU 	Pavel Motl                          	S	 5	  	  	  	  	  	 	  	 	6 	3 	3 	3 	 9	 6	 9	 6	485271	      
+R3	MTSU 	Oskar Michalek                      	S	 6	  	  	  	  	  	 	  	 	4 	1 	1 	0 	 5	 1	 5	 1	562234	      
+R3	MTSU 	Max Rauch                           	S	 7	  	  	  	  	2 	0	  	 	1 	2 	7 	2 	10	 4	10	 4	444277	      
+R3	MTSU 	Sean Presson                        	S	 8	  	  	  	  	  	 	2 	0	0 	1 	  	  	 2	 1	 2	 1	515925	      
+R3	MTSU 	Patrick Kristensen                  	S	 9	  	  	  	  	  	 	  	 	  	  	2 	0 	 2	 0	 2	 0	520552	      
+R3	MTSU 	Andreas Kramer                      	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	562235	      
+R3	MTSU 	Motl/Slump                          	D	 1	 9	 9	  	  	  	 	  	 	  	  	  	  	 9	 9	 9	 9	485271	485279
+R3	MTSU 	Moonen/Edge                         	D	 2	  	  	15	6 	  	 	  	 	  	  	  	  	15	 6	15	 6	434366	404287
+R3	MTSU 	Rocha/Rauch                         	D	 3	  	  	2 	0 	9 	9	  	 	  	  	  	  	11	 9	11	 9	485275	444277
+R3	MTSU 	Presson/Kristensen                  	D	 4	  	  	  	  	1 	0	  	 	  	  	  	  	 1	 0	 1	 0	515925	520552
+R3	NAVY 	Andrew Ton                          	S	 1	 8	 0	  	  	  	 	  	 	  	  	  	  	 8	 0	 8	 0	458070	      
+R3	NAVY 	Derrick Thompson                    	S	 2	  	  	9 	0 	  	 	  	 	  	  	  	  	 9	 0	 9	 0	485622	      
+R3	NAVY 	Jake Fishkin                        	S	 3	  	  	  	  	2 	4	  	 	  	  	  	  	 2	 4	 2	 4	485615	      
+R3	NAVY 	Finn Garner                         	S	 4	  	  	  	  	  	 	4 	2	  	  	  	  	 4	 2	 4	 2	510599	      
+R3	NAVY 	Gavin Segraves                      	S	 5	  	  	  	  	  	 	1 	0	7 	0 	  	  	 8	 0	 8	 0	510595	      
+R3	NAVY 	Jack McBride                        	S	 6	  	  	  	  	  	 	  	 	1 	0 	4 	0 	 5	 0	 5	 0	485626	      
+R3	NAVY 	Sasha Panyan                        	S	 7	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 1	 0	567565	      
+R3	NAVY 	Connors O'Brien                     	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	NAVY 	Jack Dabek                          	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	485626	      
+R3	NAVY 	Christian Pumpelly                  	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	NAVY 	Thompson/Ton                        	D	 1	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	485622	458070
+R3	NAVY 	Garner/Dabek                        	D	 2	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	510599	485626
+R3	NAVY 	Segraves/Panyan                     	D	 3	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	510595	567565
+R3	NAVY 	Fishkin/McBride                     	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	485615	485626
+R3	NW   	Steven Forman                       	S	 1	 5	 2	  	  	  	 	  	 	  	  	  	  	 5	 2	 5	 2	517790	      
+R3	NW   	Dominik Starý                       	S	 2	 4	 4	4 	0 	  	 	  	 	  	  	  	  	 8	 4	 9	 6	454369	      
+R3	NW   	Nick Brookes                        	S	 3	  	  	8 	2 	1 	5	  	 	  	  	  	  	 9	 7	11	 9	392905	      
+R3	NW   	Chris Ephron                        	S	 4	  	  	  	  	4 	4	5 	1	  	  	  	  	 9	 5	12	 6	405007	      
+R3	NW   	Trice Pickens                       	S	 5	  	  	  	  	  	 	5 	7	3 	3 	  	  	 8	10	13	10	494875	      
+R3	NW   	Simen Bratholm                      	S	 6	  	  	  	  	  	 	  	 	5 	4 	  	  	 5	 4	 8	 5	491340	      
+R3	NW   	Gleb Blekher                        	S	 7	  	  	  	  	  	 	  	 	  	  	4 	3 	 4	 3	 8	 3	564958	      
+R3	NW   	Presley Thieneman                   	S	 8	  	  	  	  	  	 	  	 	  	  	11	0 	11	 0	15	 1	564960	      
+R3	NW   	Natan Spear                         	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 4	 0	517792	      
+R3	NW   	Abhijeet Joshi                      	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 2	419883	      
+R3	NW   	Brookes/Bratholm                    	D	 1	 9	 4	  	  	  	 	  	 	  	  	  	  	 9	 4	12	 7	392905	491340
+R3	NW   	Ephron/Stary                        	D	 2	  	  	12	4 	  	 	  	 	  	  	  	  	12	 4	12	 4	405007	454369
+R3	NW   	Forman/Spear                        	D	 3	  	  	  	  	5 	1	  	 	  	  	  	  	 5	 1	 5	 1	517790	517792
+R3	NW   	Blekher/Thieneman                   	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	564958	564960
+R3	ORE  	Emmanuel Coste                      	S	 1	 5	 4	6 	2 	  	 	  	 	  	  	  	  	11	 6	11	 6	491770	      
+R3	ORE  	Joshua Charlton                     	S	 2	 6	 4	6 	2 	  	 	  	 	  	  	  	  	12	 6	12	 6	491768	      
+R3	ORE  	Quinn Vandecasteele                 	S	 3	  	  	2 	0 	10	8	  	 	  	  	  	  	12	 8	12	 8	565557	      
+R3	ORE  	Jesper Klov-Nilsson                 	S	 4	  	  	  	  	  	 	10	2	6 	1 	1 	0 	17	 3	17	 3	516990	      
+R3	ORE  	Brandon Lam                         	S	 5	  	  	  	  	2 	0	2 	3	7 	3 	  	  	11	 6	11	 6	516989	      
+R3	ORE  	Luke Vandecasteele                  	S	 6	  	  	  	  	1 	0	3 	1	2 	1 	3 	6 	 9	 8	 9	 8	516991	      
+R3	ORE  	Ryoma Matsushita                    	S	 7	  	  	  	  	  	 	  	 	1 	1 	7 	1 	 8	 2	 8	 2	564330	      
+R3	ORE  	Giorgio Soemarno                    	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	ORE  	Nima Movashaggi                     	S	 9	  	  	  	  	  	 	  	 	  	  	0 	1 	 0	 1	 0	 1	565558	      
+R3	ORE  	Charlton/Vandecasteele              	D	 1	 9	 3	  	  	  	 	  	 	  	  	  	  	 9	 3	 9	 3	491768	565557
+R3	ORE  	Coste/Klov-Nilsson                  	D	 2	  	  	4 	5 	8 	3	  	 	  	  	  	  	12	 8	12	 8	491770	516990
+R3	ORE  	Lam/Matsushita                      	D	 3	  	  	  	  	4 	3	  	 	  	  	  	  	 4	 3	 4	 3	516989	564330
+R3	ORE  	Vandecasteele/Soemarno              	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	516991	      
+R3	UCSB 	Joseph Guillin                      	S	 1	 8	 2	  	  	  	 	  	 	  	  	  	  	 8	 2	 8	 2	412312	      
+R3	UCSB 	Stefano Tsorotiotis                 	S	 2	  	  	4 	5 	  	 	  	 	  	  	  	  	 4	 5	 4	 5	567460	      
+R3	UCSB 	Victor Krustev                      	S	 3	 3	 1	  	  	7 	1	0 	1	  	  	  	  	10	 3	10	 3	423713	      
+R3	UCSB 	Pablo Masjuan                       	S	 4	  	  	2 	2 	  	 	4 	0	2 	0 	1 	2 	 9	 4	 9	 4	567459	      
+R3	UCSB 	Joey Rotheram                       	S	 5	  	  	  	  	3 	1	  	 	3 	2 	0 	1 	 6	 4	 6	 4	447179	      
+R3	UCSB 	Kai Brady                           	S	 6	  	  	  	  	  	 	3 	1	  	  	4 	1 	 7	 2	 7	 2	567456	      
+R3	UCSB 	Alejandro Vedri                     	S	 7	  	  	  	  	0 	1	2 	2	1 	1 	  	  	 3	 4	 3	 4	512046	      
+R3	UCSB 	Josh Williams                       	S	 8	  	  	  	  	  	 	  	 	1 	1 	  	  	 1	 1	 1	 1	512047	      
+R3	UCSB 	Tsorotiotis/Vedri                   	D	 1	 4	 3	  	  	  	 	  	 	  	  	  	  	 4	 3	 4	 3	567460	512046
+R3	UCSB 	Krustev/Rotheram                    	D	 2	 0	 1	4 	5 	  	 	  	 	  	  	  	  	 4	 6	 4	 6	423713	447179
+R3	UCSB 	Guillin/Brady                       	D	 3	  	  	  	  	6 	1	  	 	  	  	  	  	 6	 1	 6	 1	412312	567456
+R3	UCSB 	Masjuan/Williams                    	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	567459	512047
+R3	VCU  	Lleyton Cronje                      	S	 1	10	 2	2 	1 	  	 	  	 	  	  	  	  	12	 3	12	 3	513983	      
+R3	VCU  	Charles Bertimon                    	S	 2	 2	 1	9 	3 	  	 	  	 	  	  	  	  	11	 4	11	 4	497734	      
+R3	VCU  	Inigo Torre Martin                  	S	 3	  	  	  	  	7 	2	3 	1	  	  	  	  	10	 3	10	 3	458156	      
+R3	VCU  	Rayane Stable                       	S	 4	  	  	  	  	1 	0	5 	0	6 	1 	3 	1 	15	 2	15	 2	497736	      
+R3	VCU  	Quentin Coulaud                     	S	 5	  	  	2 	0 	2 	2	5 	2	1 	2 	  	  	10	 6	10	 6	567901	      
+R3	VCU  	Timo Zgraggen                       	S	 6	  	  	  	  	1 	0	1 	0	1 	1 	6 	0 	 9	 1	 9	 1	466151	      
+R3	VCU  	David Cierny                        	S	 7	  	  	  	  	  	 	  	 	4 	1 	5 	2 	 9	 3	 9	 3	520808	      
+R3	VCU  	Mario Duron                         	S	 8	  	  	  	  	  	 	1 	0	  	  	1 	0 	 2	 0	 2	 0	564690	      
+R3	VCU  	Cronje/Cierny                       	D	 1	 2	 1	0 	1 	  	 	  	 	  	  	  	  	 2	 2	 2	 2	513983	520808
+R3	VCU  	Martin/Stable                       	D	 2	 0	 1	11	1 	  	 	  	 	  	  	  	  	11	 2	11	 2	458156	497736
+R3	VCU  	Coulaud/Bertimon                    	D	 3	 5	 4	1 	1 	5 	2	  	 	  	  	  	  	11	 7	11	 7	567901	497734
+R3	VCU  	Duron/Zgraggen                      	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	564690	466151
+R3	VT   	Mitch Harper                        	S	 1	 7	 4	  	  	  	 	  	 	  	  	  	  	 7	 4	 7	 4	413732	      
+R3	VT   	Alex Ribeiro                        	S	 2	 1	 1	2 	1 	2 	3	  	 	  	  	  	  	 5	 5	 5	 5	445208	      
+R3	VT   	Matt Ross                           	S	 3	 1	 2	6 	9 	1 	1	  	 	  	  	  	  	 8	12	 8	12	521233	      
+R3	VT   	Carlo Donato                        	S	 4	 0	 4	2 	1 	3 	6	0 	2	  	  	  	  	 5	13	 5	13	402996	      
+R3	VT   	Hugo Maia                           	S	 5	  	  	  	  	2 	1	11	3	0 	2 	  	  	13	 6	13	 6	565404	      
+R3	VT   	Ryan Fishback                       	S	 6	  	  	  	  	  	 	2 	0	7 	5 	4 	1 	13	 6	13	 6	565408	      
+R3	VT   	Alvaro Ariza                        	S	 7	  	  	  	  	  	 	  	 	3 	1 	6 	4 	 9	 5	 9	 5	565402	      
+R3	VT   	Jordan Chrysostom                   	S	 8	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 1	 0	565406	      
+R3	VT   	Michael Shepheard                   	S	 9	  	  	  	  	  	 	  	 	  	  	0 	2 	 0	 2	 0	 2	511956	      
+R3	VT   	Chase Bernstine                     	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	VT   	Ryan Kros                           	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	423647	      
+R3	VT   	Alex Ix                             	S	12	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	VT   	Ryan Bernstine                      	S	13	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	565408	      
+R3	VT   	Chrysostom/Fishback                 	D	 1	 6	 4	2 	0 	  	 	  	 	  	  	  	  	 8	 4	 8	 4	565406	565408
+R3	VT   	Harper/Ribeiro                      	D	 2	  	  	3 	4 	  	 	  	 	  	  	  	  	 3	 4	 3	 4	413732	445208
+R3	VT   	Donato/Ariza                        	D	 3	  	  	  	  	1 	1	  	 	  	  	  	  	 1	 1	 1	 1	402996	565402
+R3	VT   	Kros/Shepheard                      	D	 4	  	  	  	  	0 	2	  	 	  	  	  	  	 0	 2	 0	 2	423647	511956
+R3	WICH 	Murkel Dellien                      	S	 1	 7	 0	3 	1 	3 	1	  	 	  	  	  	  	13	 2	13	 2	401620	      
+R3	WICH 	Marius Frosa                        	S	 2	 5	 4	6 	3 	  	 	  	 	  	  	  	  	11	 7	11	 7	408204	      
+R3	WICH 	Stefan Latinovic                    	S	 3	 2	 1	3 	3 	4 	8	  	 	  	  	  	  	 9	12	 9	12	496917	      
+R3	WICH 	Nicolas Acevedo                     	S	 4	  	  	  	  	2 	1	7 	4	3 	3 	  	  	12	 8	12	 8	564226	      
+R3	WICH 	Orel Ovil                           	S	 5	  	  	  	  	0 	2	4 	5	6 	3 	  	  	10	10	10	10	485299	      
+R3	WICH 	Luka Mrsic                          	S	 6	  	  	  	  	  	 	  	 	1 	0 	8 	6 	 9	 6	 9	 6	564227	      
+R3	WICH 	Ray Lo                              	S	 7	  	  	  	  	  	 	1 	0	5 	1 	4 	2 	10	 3	10	 3	521567	      
+R3	WICH 	Alex Richards                       	S	 8	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 1	 0	509154	      
+R3	WICH 	Zach Grueber                        	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	WICH 	Dellien/Frosa                       	D	 1	 9	 5	  	  	  	 	  	 	  	  	  	  	 9	 5	 9	 5	401620	408204
+R3	WICH 	Mrsic/Ovil                          	D	 2	  	  	5 	5 	  	 	  	 	  	  	  	  	 5	 5	 5	 5	564227	485299
+R3	WICH 	Latinovic/Acevedo                   	D	 3	  	  	  	  	4 	5	  	 	  	  	  	  	 4	 5	 4	 5	496917	564226
+R3	WICH 	Richards/Grueber                    	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	509154	      
+R3	WMU  	Jannik Opitz                        	S	 1	20	 2	  	  	  	 	  	 	  	  	  	  	20	 2	20	 2	438559	      
+R3	WMU  	Peter Kuszynski                     	S	 2	 1	 0	15	2 	2 	0	  	 	  	  	  	  	18	 2	18	 2	488539	      
+R3	WMU  	Fynn Lohse                          	S	 3	  	  	3 	0 	7 	4	5 	1	1 	0 	  	  	16	 5	16	 5	565162	      
+R3	WMU  	Jackson Boone                       	S	 4	  	  	2 	1 	6 	2	5 	3	  	  	  	  	13	 6	13	 6	565158	      
+R3	WMU  	Arjun Honnappa                      	S	 5	  	  	  	  	1 	0	5 	0	11	3 	  	  	17	 3	17	 3	514041	      
+R3	WMU  	Ben George                          	S	 6	  	  	  	  	  	 	1 	0	2 	0 	8 	0 	11	 0	11	 0	565159	      
+R3	WMU  	Brogan Pierce                       	S	 7	  	  	  	  	  	 	1 	0	3 	1 	12	1 	16	 2	16	 2	565157	      
+R3	WMU  	Zac Faveri                          	S	 8	  	  	  	  	  	 	1 	0	  	  	1 	0 	 2	 0	 2	 0	406010	      
+R3	WMU  	Jack Randall                        	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	WMU  	Joaquin Caballer                    	S	10	  	  	  	  	  	 	0 	1	1 	0 	1 	0 	 2	 1	 2	 1	565160	      
+R3	WMU  	Ferdinand Schluter                  	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R3	WMU  	Opitz/Kuszynski                     	D	 1	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	438559	488539
+R3	WMU  	Randall/Lohse                       	D	 2	  	  	6 	0 	1 	0	  	 	  	  	  	  	 7	 0	 7	 0	      	565162
+R3	WMU  	Faveri/Caballer                     	D	 3	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	406010	565160
+R3	WMU  	Schluter/Honnappa                   	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	514041
+R4	AAMU 	Rodrigo Arana Rios                  	S	 1	 1	10	  	  	  	 	  	 	  	  	  	  	 1	10	 1	10	498077	      
+R4	AAMU 	Gjorgji Popovski                    	S	 2	  	  	6 	6 	  	 	  	 	  	  	  	  	 6	 6	 6	 6	565134	      
+R4	AAMU 	Fermin Ruiz                         	S	 3	  	  	0 	3 	0 	9	  	 	  	  	  	  	 0	12	 0	12	382022	      
+R4	AAMU 	Natiphat Mulada                     	S	 4	  	  	  	  	  	 	5 	2	0 	2 	  	  	 5	 4	 5	 4	513540	      
+R4	AAMU 	Panji Setiawan                      	S	 5	  	  	  	  	  	 	0 	3	4 	4 	  	  	 4	 7	 4	 7	513542	      
+R4	AAMU 	Divesh Gahlot                       	S	 6	  	  	  	  	  	 	  	 	  	  	3 	0 	 3	 0	 3	 0	569614	      
+R4	AAMU 	Cheng Chang                         	S	 7	  	  	  	  	  	 	  	 	0 	2 	1 	2 	 1	 4	 1	 4	498078	      
+R4	AAMU 	German Ruiz Crespo                  	S	 8	  	  	  	  	  	 	  	 	  	  	0 	2 	 0	 2	 0	 2	513541	      
+R4	AAMU 	Austin Smith                        	S	 9	  	  	  	  	  	 	  	 	  	  	0 	1 	 0	 1	 0	 1	565135	      
+R4	AAMU 	Setiawan/Rios                       	D	 1	 3	 7	  	  	  	 	  	 	  	  	  	  	 3	 7	 3	 7	513542	498077
+R4	AAMU 	Popovski/Chang                      	D	 2	 3	 7	  	  	  	 	  	 	  	  	  	  	 3	 7	 3	 7	565134	498078
+R4	AAMU 	Gahlot/Ruiz                         	D	 3	 1	 1	  	  	  	 	  	 	  	  	  	  	 1	 1	 1	 1	569614	382022
+R4	AAMU 	Crespo/Mulada                       	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	513541	513540
+R4	ARK  	Alex Reco                           	S	 1	 2	11	5 	0 	  	 	  	 	  	  	  	  	 7	11	 8	12	444483	      
+R4	ARK  	Max Verboven                        	S	 2	 2	 5	1 	7 	  	 	  	 	  	  	  	  	 3	12	 3	12	497658	      
+R4	ARK  	Nico Rousset                        	S	 3	 1	 0	3 	4 	8 	5	  	 	  	  	  	  	12	 9	15	12	513047	      
+R4	ARK  	Aleksa Bucan                        	S	 4	 0	 1	0 	1 	3 	2	3 	4	  	  	  	  	 6	 8	10	10	520933	      
+R4	ARK  	Adrien Burdet                       	S	 5	  	  	  	  	  	 	0 	3	11	10	  	  	11	13	11	13	564209	      
+R4	ARK  	Enrique Paya                        	S	 6	  	  	  	  	  	 	  	 	0 	1 	6 	10	 6	11	 6	11	488397	      
+R4	ARK  	Melvin Manuel                       	S	 7	  	  	  	  	0 	1	6 	7	0 	1 	1 	1 	 7	10	 9	14	520932	      
+R4	ARK  	Hunter Harrison                     	S	 8	  	  	  	  	  	 	  	 	  	  	0 	1 	 0	 1	 4	 4	488396	      
+R4	ARK  	Jose Dominguez Alonso               	S	 9	  	  	1 	0 	0 	1	  	 	  	  	  	  	 1	 1	 1	 1	385327	      
+R4	ARK  	Avery Zavala                        	S	10	  	  	  	  	  	 	  	 	  	  	2 	0 	 2	 0	 4	 4	562303	      
+R4	ARK  	Riccardo Trione                     	S	11	  	  	  	  	1 	0	  	 	  	  	  	  	 1	 0	 1	 0	564210	      
+R4	ARK  	Josh Bortnick                       	S	12	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 3	 3	391674	      
+R4	ARK  	Foster Rogers                       	S	13	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 2	 3	562302	      
+R4	ARK  	Harrison/Paya                       	D	 1	 3	 7	  	  	  	 	  	 	  	  	  	  	 3	 7	 3	 7	488396	488397
+R4	ARK  	Burdet/Manuel                       	D	 2	  	  	6 	4 	1 	0	  	 	  	  	  	  	 7	 4	 7	 4	564209	520932
+R4	ARK  	Reco/Rouset                         	D	 3	 0	 1	0 	1 	11	6	  	 	  	  	  	  	11	 8	11	 8	444483	513047
+R4	ARK  	Zavala/Verboven                     	D	 4	  	  	0 	2 	  	 	  	 	  	  	  	  	 0	 2	 0	 2	562303	497658
+R4	BEL  	Marko Ilic                          	S	 1	13	 4	  	  	  	 	  	 	  	  	  	  	13	 4	13	 4	417735	      
+R4	BEL  	Arthur Toledo                       	S	 2	  	  	13	3 	  	 	  	 	  	  	  	  	13	 3	13	 3	520668	      
+R4	BEL  	Tomas Luis                          	S	 3	  	  	0 	1 	7 	5	2 	1	1 	0 	  	  	10	 7	10	 7	565792	      
+R4	BEL  	Diego Castro                        	S	 4	  	  	  	  	  	 	6 	4	3 	2 	1 	0 	10	 6	10	 6	565793	      
+R4	BEL  	Taisei Miyamoto                     	S	 5	  	  	  	  	3 	1	0 	3	5 	3 	  	  	 8	 7	 8	 7	508639	      
+R4	BEL  	Alfred Wallin                       	S	 6	  	  	  	  	  	 	1 	0	1 	0 	9 	4 	11	 4	11	 4	565794	      
+R4	BEL  	Jake Briggs                         	S	 7	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 1	 0	392703	      
+R4	BEL  	David Faulkner                      	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	BEL  	Grant Kelly                         	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	BEL  	Ilic/Miyamoto                       	D	 1	11	 6	  	  	  	 	  	 	  	  	  	  	11	 6	11	 6	417735	508639
+R4	BEL  	Castro/Luis                         	D	 2	  	  	11	2 	  	 	  	 	  	  	  	  	11	 2	11	 2	565793	565792
+R4	BEL  	Briggs/Toledo                       	D	 3	  	  	  	  	8 	3	  	 	  	  	  	  	 8	 3	 8	 3	392703	520668
+R4	BEL  	Kelly/Wallin                        	D	 4	  	  	  	  	0 	1	  	 	  	  	  	  	 0	 1	 0	 1	      	565794
+R4	CLEV 	Nico Mostardi                       	S	 1	 6	 3	  	  	  	 	  	 	  	  	  	  	 6	 3	 6	 3	435062	      
+R4	CLEV 	Matt Terry                          	S	 2	 9	 2	6 	2 	  	 	  	 	  	  	  	  	15	 4	15	 4	457113	      
+R4	CLEV 	Luke Phillips                       	S	 3	  	  	10	1 	4 	2	3 	0	  	  	  	  	17	 3	17	 3	441492	      
+R4	CLEV 	Maxime Mareschal-Hay                	S	 4	  	  	2 	0 	12	2	3 	2	  	  	  	  	17	 4	17	 4	565223	      
+R4	CLEV 	Clark Bilinovich                    	S	 5	  	  	  	  	0 	1	7 	3	2 	2 	  	  	 9	 6	 9	 6	486440	      
+R4	CLEV 	Raul Teichmann                      	S	 6	  	  	  	  	  	 	1 	0	2 	2 	0 	2 	 3	 4	 3	 4	486443	      
+R4	CLEV 	Kade Mindry                         	S	 7	  	  	  	  	  	 	  	 	1 	2 	3 	2 	 4	 4	 4	 4	520822	      
+R4	CLEV 	Juandedios Abboud                   	S	 8	  	  	  	  	  	 	0 	1	5 	3 	2 	5 	 7	 9	 7	 9	565222	      
+R4	CLEV 	Jack Santilli                       	S	 9	  	  	  	  	  	 	  	 	0 	1 	4 	1 	 4	 2	 4	 2	448806	      
+R4	CLEV 	Austin Staiger                      	S	10	  	  	  	  	  	 	  	 	  	  	1 	2 	 1	 2	 1	 2	565224	      
+R4	CLEV 	Mostardi/Phillips                   	D	 1	11	 4	  	  	  	 	  	 	  	  	  	  	11	 4	11	 4	435062	441492
+R4	CLEV 	Terry/Mareschal-Hay                 	D	 2	11	 4	  	  	  	 	  	 	  	  	  	  	11	 4	11	 4	457113	565223
+R4	CLEV 	Bilinovich/Mindry                   	D	 3	  	  	  	  	6 	0	  	 	  	  	  	  	 6	 0	 6	 0	486440	520822
+R4	CLEV 	Teichmann/Santilli                  	D	 4	  	  	  	  	1 	0	  	 	  	  	  	  	 1	 0	 1	 0	486443	448806
+R4	DEP  	Vito Tonejc                         	S	 1	11	 5	2 	0 	  	 	  	 	  	  	  	  	13	 5	13	 5	488653	      
+R4	DEP  	Christopher Casati                  	S	 2	 1	 3	3 	7 	4 	2	  	 	  	  	  	  	 8	12	 8	12	395681	      
+R4	DEP  	Boris Spanjaard                     	S	 3	  	  	3 	1 	8 	4	1 	1	  	  	  	  	12	 6	12	 6	453771	      
+R4	DEP  	Tamas Zador                         	S	 4	  	  	2 	1 	0 	1	1 	1	  	  	  	  	 3	 3	 3	 3	465846	      
+R4	DEP  	Fran Tonejc                         	S	 5	  	  	  	  	2 	0	5 	5	1 	3 	  	  	 8	 8	 8	 8	458075	      
+R4	DEP  	Luuk Wassener                       	S	 6	  	  	  	  	  	 	2 	1	6 	3 	3 	2 	11	 6	11	 6	462201	      
+R4	DEP  	Tripp Tuff                          	S	 7	  	  	  	  	  	 	1 	0	6 	2 	7 	5 	14	 7	14	 7	458939	      
+R4	DEP  	Sunny Sirinit                       	S	 8	  	  	  	  	  	 	  	 	  	  	1 	2 	 1	 2	 1	 2	566443	      
+R4	DEP  	Lars Minsaas                        	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	DEP  	Casati/Spanjaard                    	D	 1	12	 4	1 	0 	1 	0	  	 	  	  	  	  	14	 4	14	 4	395681	453771
+R4	DEP  	Tonejc/Wassener                     	D	 2	  	  	3 	2 	3 	2	  	 	  	  	  	  	 6	 4	 6	 4	488653	462201
+R4	DEP  	Tonejc/Tuff                         	D	 3	  	  	4 	6 	5 	0	  	 	  	  	  	  	 9	 6	 9	 6	458075	458939
+R4	DEP  	Zador/Minsaas                       	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	465846	      
+R4	ETSU 	Dimitri Badra                       	S	 1	11	 3	1 	1 	2 	1	  	 	  	  	  	  	14	 5	14	 5	497676	      
+R4	ETSU 	Frazier Rengifo                     	S	 2	 1	 3	10	4 	  	 	  	 	  	  	  	  	11	 7	11	 7	444925	      
+R4	ETSU 	Juan Lugo                           	S	 3	  	  	1 	0 	5 	1	3 	4	  	  	  	  	 9	 5	 9	 5	428171	      
+R4	ETSU 	Thiago Pernas                       	S	 4	  	  	  	  	3 	3	7 	2	0 	1 	0 	2 	10	 8	10	 8	520624	      
+R4	ETSU 	MIguel Este                         	S	 5	  	  	  	  	  	 	  	 	1 	1 	7 	4 	 8	 5	 8	 5	405365	      
+R4	ETSU 	Juan Zabala                         	S	 6	  	  	  	  	  	 	  	 	4 	3 	2 	1 	 6	 4	 6	 4	562576	      
+R4	ETSU 	Milo Bargeron                       	S	 7	  	  	0 	2 	1 	3	0 	2	4 	1 	1 	1 	 6	 9	 6	 9	562575	      
+R4	ETSU 	Lugo/Rengifo                        	D	 1	 8	 5	  	  	  	 	  	 	  	  	  	  	 8	 5	 8	 5	428171	444925
+R4	ETSU 	Este/Badra                          	D	 2	  	  	4 	0 	8 	1	  	 	  	  	  	  	12	 1	12	 1	405365	497676
+R4	ETSU 	Zabala/Pernas                       	D	 3	  	  	4 	2 	4 	2	  	 	  	  	  	  	 8	 4	 8	 4	562576	520624
+R4	FDU  	Teodors Pukse                       	S	 1	 4	 3	  	  	  	 	  	 	  	  	  	  	 4	 3	 4	 3	511312	      
+R4	FDU  	Andris Gudins                       	S	 2	  	  	2 	3 	2 	2	  	 	  	  	  	  	 4	 5	 4	 5	412179	      
+R4	FDU  	MacIej Autuch                       	S	 3	  	  	  	  	1 	1	1 	2	2 	1 	1 	0 	 5	 4	 5	 4	387072	      
+R4	FDU  	Arjun Sriram                        	S	 4	  	  	  	  	  	 	  	 	1 	0 	0 	1 	 1	 1	 1	 1	567728	      
+R4	FDU  	Moric Budinszky                     	S	 5	  	  	  	  	  	 	1 	2	0 	1 	1 	1 	 2	 4	 2	 4	393587	      
+R4	FDU  	Youssef Sader                       	S	 6	  	  	  	  	1 	2	0 	2	2 	0 	2 	0 	 5	 4	 5	 4	448006	      
+R4	FDU  	Niclas Pietsch                      	S	 7	  	  	  	  	  	 	0 	1	0 	1 	  	  	 0	 2	 0	 2	441687	      
+R4	FDU  	Andrei Oprisor                      	S	 8	  	  	  	  	  	 	  	 	0 	1 	1 	0 	 1	 1	 1	 1	511311	      
+R4	FDU  	Taiga Koyama                        	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	FDU  	Eduardo Cabral                      	S	10	  	  	  	  	  	 	  	 	  	  	0 	1 	 0	 1	 0	 1	486414	      
+R4	FDU  	Dennis Espiritu                     	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	FDU  	Pukse/Gudins                        	D	 1	 2	 2	1 	0 	  	 	  	 	  	  	  	  	 3	 2	 3	 2	511312	412179
+R4	FDU  	Budinszky/Sriram                    	D	 2	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	393587	567728
+R4	FDU  	Pietsch/Cabral                      	D	 3	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	441687	486414
+R4	FDU  	Autuch/Oprisor                      	D	 4	  	  	  	  	0 	1	  	 	  	  	  	  	 0	 1	 0	 1	387072	511311
+R4	GCU  	Valentin Lang                       	S	 1	 8	10	  	  	  	 	  	 	  	  	  	  	 8	10	 8	10	424781	      
+R4	GCU  	Mariano Argote                      	S	 2	  	  	5 	6 	2 	0	  	 	  	  	  	  	 7	 6	 7	 6	564218	      
+R4	GCU  	Justin Cvitanovic                   	S	 3	 0	 1	0 	8 	4 	6	  	 	  	  	  	  	 4	15	 4	15	400016	      
+R4	GCU  	Jonathan Da Silva                   	S	 4	 0	 1	  	  	  	 	5 	2	2 	2 	0 	2 	 7	 7	 7	 7	564222	      
+R4	GCU  	Jiri Novak                          	S	 5	  	  	  	  	1 	4	2 	4	5 	1 	  	  	 8	 9	 8	 9	564214	      
+R4	GCU  	Freddie Grant                       	S	 6	  	  	  	  	  	 	0 	5	0 	1 	9 	2 	 9	 8	 9	 8	411392	      
+R4	GCU  	Wolmar Boris-Moller                 	S	 7	  	  	  	  	0 	1	  	 	0 	8 	  	  	 0	 9	 0	 9	564220	      
+R4	GCU  	Loic Van Zeggelaar                  	S	 8	  	  	  	  	  	 	  	 	  	  	1 	4 	 1	 4	 1	 4	564221	      
+R4	GCU  	Lang/Novak                          	D	 1	10	 6	  	  	  	 	  	 	  	  	  	  	10	 6	10	 6	424781	564214
+R4	GCU  	Argote/Cvitanovic                   	D	 2	 0	 1	7 	4 	  	 	  	 	  	  	  	  	 7	 5	 7	 5	564218	400016
+R4	GCU  	Grant/Van Zeggelaar                 	D	 3	  	  	  	  	6 	4	  	 	  	  	  	  	 6	 4	 6	 4	411392	564221
+R4	GCU  	Da Silva/Boris-Moller               	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	564222	564220
+R4	MONM 	William Cooke Wharton               	S	 1	 9	 4	  	  	  	 	  	 	  	  	  	  	 9	 4	 9	 4	567768	      
+R4	MONM 	Max Benaim                          	S	 2	  	  	7 	4 	1 	0	  	 	  	  	  	  	 8	 4	 8	 4	389412	      
+R4	MONM 	Victor Castro                       	S	 3	  	  	  	  	4 	0	9 	2	  	  	  	  	13	 2	13	 2	567539	      
+R4	MONM 	Lucca Silva                         	S	 4	 0	 2	3 	0 	4 	1	1 	1	  	  	  	  	 8	 4	 8	 4	567538	      
+R4	MONM 	Sergio Martinez                     	S	 5	  	  	  	  	  	 	1 	0	10	2 	1 	0 	12	 2	12	 2	430309	      
+R4	MONM 	Gabriel Busato                      	S	 6	  	  	  	  	  	 	1 	0	1 	1 	12	1 	14	 2	14	 2	509739	      
+R4	MONM 	Charles Gortzounian                 	S	 7	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 1	 0	509741	      
+R4	MONM 	Christof Zeiler                     	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	MONM 	Diego Laporta                       	S	 9	  	  	  	  	  	 	  	 	  	  	1 	0 	 1	 0	 1	 0	567541	      
+R4	MONM 	Arthur Dussaubat                    	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	MONM 	Austin Klapman                      	S	11	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	MONM 	Arthur Dussaubat                    	S	12	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	MONM 	Benaim/Martinez                     	D	 1	 9	 3	  	  	  	 	  	 	  	  	  	  	 9	 3	 9	 3	389412	430309
+R4	MONM 	Castro/Silva                        	D	 2	  	  	7 	1 	  	 	  	 	  	  	  	  	 7	 1	 7	 1	567539	567538
+R4	MONM 	Wharton/Gortzounian                 	D	 3	  	  	  	  	9 	1	  	 	  	  	  	  	 9	 1	 9	 1	567768	509741
+R4	MONM 	Busato/Zeiler                       	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	509739	      
+R4	NAU  	Eban Straker-Meads                  	S	 1	 5	 4	1 	2 	  	 	  	 	  	  	  	  	 6	 6	 6	 6	509001	      
+R4	NAU  	Facundo Tumosa                      	S	 2	 2	 3	3 	3 	  	 	  	 	  	  	  	  	 5	 6	 5	 6	491339	      
+R4	NAU  	Dominik Buzonics                    	S	 3	  	  	0 	1 	4 	3	2 	2	0 	2 	  	  	 6	 8	 6	 8	565342	      
+R4	NAU  	Christopher Steele                  	S	 4	 0	 1	1 	4 	3 	2	3 	0	  	  	  	  	 7	 7	 7	 7	454438	      
+R4	NAU  	Maciej Ziomber                      	S	 5	  	  	  	  	0 	1	3 	0	5 	2 	3 	1 	11	 4	11	 4	565343	      
+R4	NAU  	Alexander Groves                    	S	 6	  	  	  	  	0 	1	1 	4	2 	3 	3 	0 	 6	 8	 6	 8	508999	      
+R4	NAU  	Joachim Schaefer                    	S	 7	  	  	  	  	  	 	  	 	0 	1 	1 	2 	 1	 3	 1	 3	521288	      
+R4	NAU  	Marcus Sulen                        	S	 8	  	  	  	  	  	 	  	 	0 	1 	1 	2 	 1	 3	 1	 3	565344	      
+R4	NAU  	Daniel Dillon                       	S	 9	  	  	  	  	  	 	  	 	  	  	0 	2 	 0	 2	 0	 2	493064	      
+R4	NAU  	Mikael Purne                        	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	NAU  	Groves/Buzonics                     	D	 1	 3	 2	  	  	  	 	  	 	  	  	  	  	 3	 2	 3	 2	508999	565342
+R4	NAU  	Tumosa/Straker-Meads                	D	 2	  	  	1 	0 	  	 	  	 	  	  	  	  	 1	 0	 1	 0	491339	509001
+R4	NAU  	Steele/Ziomber                      	D	 3	  	  	  	  	3 	0	  	 	  	  	  	  	 3	 0	 3	 0	454438	565343
+R4	NAU  	Dillon/Sulen                        	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	493064	565344
+R4	PRES 	Max Benson                          	S	 1	10	 5	  	  	  	 	  	 	  	  	  	  	10	 5	10	 5	485558	      
+R4	PRES 	Juan Sebastian Dominguez Collado    	S	 2	 1	 0	2 	3 	1 	3	  	 	  	  	  	  	 4	 6	 4	 6	564475	      
+R4	PRES 	Nick McKinney                       	S	 3	  	  	  	  	3 	1	5 	0	5 	0 	  	  	13	 1	13	 1	485551	      
+R4	PRES 	Georgije Babic                      	S	 4	  	  	2 	3 	0 	5	  	 	  	  	  	  	 2	 8	 2	 8	564476	      
+R4	PRES 	Daniel Stenger                      	S	 5	  	  	3 	3 	  	 	2 	3	2 	2 	  	  	 7	 8	 7	 8	454618	      
+R4	PRES 	Javier Matos                        	S	 6	  	  	  	  	1 	0	  	 	  	  	6 	2 	 7	 2	 7	 2	564474	      
+R4	PRES 	Alberto Conde                       	S	 7	  	  	  	  	  	 	4 	0	1 	2 	1 	1 	 6	 3	 6	 3	398348	      
+R4	PRES 	Teo Cariov                          	S	 8	  	  	  	  	1 	1	1 	2	2 	0 	  	  	 4	 3	 4	 3	513726	      
+R4	PRES 	Daniel Martens                      	S	 9	  	  	  	  	  	 	  	 	0 	2 	0 	5 	 0	 7	 0	 7	564477	      
+R4	PRES 	Vance Mercer                        	S	10	  	  	  	  	  	 	  	 	  	  	1 	1 	 1	 1	 1	 1	485562	      
+R4	PRES 	Stenger/Collado                     	D	 1	 2	 1	4 	3 	  	 	  	 	  	  	  	  	 6	 4	 6	 4	454618	564475
+R4	PRES 	Matos/McKinney                      	D	 2	  	  	  	  	4 	2	  	 	  	  	  	  	 4	 2	 4	 2	564474	485551
+R4	PRES 	Benson/Conde                        	D	 3	  	  	0 	3 	  	 	  	 	  	  	  	  	 0	 3	 0	 3	485558	398348
+R4	PRES 	Babic/Cariov                        	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	564476	513726
+R4	SALA 	Julien Evrard                       	S	 1	10	 4	3 	0 	  	 	  	 	  	  	  	  	13	 4	19	 7	562312	      
+R4	SALA 	Clement Marzol                      	S	 2	 2	 1	8 	1 	2 	0	  	 	  	  	  	  	12	 2	18	 4	430411	      
+R4	SALA 	Loic Cloes                          	S	 3	  	  	4 	1 	5 	3	  	 	  	  	  	  	 9	 4	 9	 4	397744	      
+R4	SALA 	Sebastien Collard                   	S	 4	  	  	  	  	4 	0	7 	4	0 	2 	  	  	11	 6	20	 6	511934	      
+R4	SALA 	Louis Delcour                       	S	 5	  	  	  	  	0 	1	4 	2	5 	2 	  	  	 9	 5	 9	 5	497781	      
+R4	SALA 	Martin Bugaj                        	S	 6	  	  	  	  	  	 	  	 	3 	4 	1 	4 	 4	 8	 7	13	511929	      
+R4	SALA 	Leon Petko                          	S	 7	  	  	  	  	  	 	1 	0	  	  	1 	5 	 2	 5	 2	 5	511935	      
+R4	SALA 	Philip Bosman                       	S	 8	  	  	  	  	  	 	  	 	  	  	2 	2 	 2	 2	 4	 8	562311	      
+R4	SALA 	Jordan Coutinho                     	S	 9	  	  	  	  	  	 	  	 	1 	0 	0 	1 	 1	 1	 5	 6	520617	      
+R4	SALA 	Ezra Blissard                       	S	10	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 8	488930	      
+R4	SALA 	Cloes/Marzol                        	D	 1	10	 2	  	  	  	 	  	 	  	  	  	  	10	 2	10	 2	397744	430411
+R4	SALA 	Evrard/Collard                      	D	 2	  	  	4 	6 	  	 	  	 	  	  	  	  	 4	 6	10	 9	562312	511934
+R4	SALA 	Delcour/Petko                       	D	 3	  	  	  	  	2 	2	  	 	  	  	  	  	 2	 2	 2	 2	497781	511935
+R4	SALA 	Bugaj/Bosman                        	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 1	511929	562311
+R4	SCST 	Aleksa Daskalovic                   	S	 1	 2	 6	0 	1 	  	 	  	 	  	  	  	  	 2	 7	 2	 7	400557	      
+R4	SCST 	Marcelo Rodriguez                   	S	 2	 0	 1	5 	3 	  	 	  	 	  	  	  	  	 5	 4	 5	 4	446404	      
+R4	SCST 	Elyes Marouani                      	S	 3	  	  	  	  	9 	2	  	 	  	  	  	  	 9	 2	 9	 2	571607	      
+R4	SCST 	Omer Gorgun                         	S	 4	  	  	  	  	  	 	6 	3	  	  	  	  	 6	 3	 6	 3	498189	      
+R4	SCST 	Diego Arzaluz                       	S	 5	  	  	  	  	  	 	  	 	5 	3 	  	  	 5	 3	 5	 3	571606	      
+R4	SCST 	Luka Stefanovic                     	S	 6	  	  	  	  	  	 	  	 	  	  	4 	1 	 4	 1	 4	 1	571609	      
+R4	SCST 	Erwan Momo                          	S	 7	  	  	  	  	  	 	  	 	1 	0 	3 	3 	 4	 3	 4	 3	571608	      
+R4	SCST 	Selim Ben Ali                       	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	498188	      
+R4	SCST 	Skander Ben Abdallah                	S	 9	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	498188	      
+R4	SCST 	Rodriguez/Marouani                  	D	 1	 6	 6	  	  	  	 	  	 	  	  	  	  	 6	 6	 6	 6	446404	571607
+R4	SCST 	Daskalovic/Momo                     	D	 2	  	  	4 	4 	  	 	  	 	  	  	  	  	 4	 4	 4	 4	400557	571608
+R4	SCST 	Arzaluz/Ben Ali                     	D	 3	  	  	  	  	3 	3	  	 	  	  	  	  	 3	 3	 3	 3	571606	498188
+R4	SCST 	Gorgun/Stefanovic                   	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	498189	571609
+R4	TAMCC	Kyohei Yamanaka                     	S	 1	10	 7	  	  	  	 	  	 	  	  	  	  	10	 7	11	 9	465257	      
+R4	TAMCC	Ryuya Ata                           	S	 2	 1	 4	7 	4 	  	 	  	 	  	  	  	  	 8	 8	 9	 8	512360	      
+R4	TAMCC	Nathan Schwartz                     	S	 3	  	  	4 	0 	7 	4	2 	0	  	  	  	  	13	 4	15	 5	562420	      
+R4	TAMCC	Pascal Lorieul                      	S	 4	 1	 0	1 	0 	3 	0	10	0	  	  	  	  	15	 0	17	 1	512363	      
+R4	TAMCC	Borja Delgado                       	S	 5	  	  	  	  	4 	0	1 	0	4 	0 	5 	1 	14	 1	14	 1	562419	      
+R4	TAMCC	Guillermo Castaneda                 	S	 6	  	  	  	  	  	 	4 	0	2 	0 	4 	1 	10	 1	10	 1	512362	      
+R4	TAMCC	Carlos Berna Ruiz                   	S	 7	  	  	  	  	  	 	2 	0	5 	4 	0 	1 	 7	 5	12	 7	512361	      
+R4	TAMCC	Chad Nguyen                         	S	 8	  	  	  	  	  	 	  	 	3 	0 	1 	0 	 4	 0	 5	 0	436796	      
+R4	TAMCC	Ernesto Mealla                      	S	 9	  	  	  	  	  	 	  	 	  	  	3 	0 	 3	 0	 3	 0	564990	      
+R4	TAMCC	K.Yamanaka/Ata                      	D	 1	 8	 6	3 	0 	  	 	  	 	  	  	  	  	11	 6	12	 9	465257	512360
+R4	TAMCC	Schwartz/Lorieul                    	D	 2	 2	 0	2 	2 	  	 	  	 	  	  	  	  	 4	 2	15	 8	562420	512363
+R4	TAMCC	B.Delgado/Ruiz                      	D	 3	  	  	  	  	5 	0	  	 	  	  	  	  	 5	 0	18	 4	562419	512361
+R4	TAMCC	Nguyen/G.Castaneda                  	D	 4	  	  	  	  	9 	3	  	 	  	  	  	  	 9	 3	10	 3	436796	512362
+R4	UNCW 	Bruno Caula                         	S	 1	11	 6	  	  	  	 	  	 	  	  	  	  	11	 6	11	 6	497883	      
+R4	UNCW 	Davide Innocenti                    	S	 2	  	  	8 	3 	0 	1	  	 	  	  	  	  	 8	 4	 8	 4	485192	      
+R4	UNCW 	Daniel Groom                        	S	 3	  	  	3 	1 	7 	3	  	 	  	  	  	  	10	 4	10	 4	411988	      
+R4	UNCW 	Bekhzod Rasamatov                   	S	 4	  	  	2 	0 	1 	1	3 	2	3 	0 	2 	1 	11	 4	11	 4	564561	      
+R4	UNCW 	Gabriel Hurtado                     	S	 5	  	  	  	  	3 	0	1 	3	4 	3 	  	  	 8	 6	 8	 6	564558	      
+R4	UNCW 	Michael Copeland                    	S	 6	  	  	  	  	  	 	4 	3	4 	1 	5 	2 	13	 6	13	 6	398721	      
+R4	UNCW 	Leo Sprovieri                       	S	 7	  	  	  	  	  	 	  	 	2 	0 	6 	1 	 8	 1	 8	 1	497884	      
+R4	UNCW 	Dillon Gooch                        	S	 8	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	      	      
+R4	UNCW 	John Dransfeld                      	S	 9	  	  	  	  	  	 	  	 	  	  	0 	2 	 0	 2	 0	 2	564560	      
+R4	UNCW 	Groom/Caula                         	D	 1	11	 4	  	  	  	 	  	 	  	  	  	  	11	 4	11	 4	411988	497883
+R4	UNCW 	Gooch/Rasamatov                     	D	 2	  	  	3 	2 	4 	0	  	 	  	  	  	  	 7	 2	 7	 2	      	564561
+R4	UNCW 	Sprovieri/Hurtado                   	D	 3	  	  	1 	1 	6 	1	  	 	  	  	  	  	 7	 2	 7	 2	497884	564558
+R4	UNCW 	Copeland/Innocenti                  	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	398721	485192
+R4	UNM  	Raul Dobai                          	S	 1	 7	 5	2 	2 	  	 	  	 	  	  	  	  	 9	 7	 9	 7	514836	      
+R4	UNM  	Dominic West                        	S	 2	 1	 2	6 	3 	  	 	  	 	  	  	  	  	 7	 5	 7	 5	462967	      
+R4	UNM  	Stepan Holis                        	S	 3	  	  	  	  	5 	5	2 	0	  	  	  	  	 7	 5	 7	 5	416218	      
+R4	UNM  	Rafael Abdul Salam                  	S	 4	  	  	  	  	0 	1	3 	3	3 	2 	  	  	 6	 6	 6	 6	520794	      
+R4	UNM  	Jake Trondson                       	S	 5	  	  	  	  	  	 	  	 	3 	0 	5 	4 	 8	 4	 8	 4	515079	      
+R4	UNM  	Sergio Molina                       	S	 6	  	  	  	  	  	 	0 	6	1 	1 	  	  	 1	 7	 1	 7	520795	      
+R4	UNM  	Nico Prieto                         	S	 7	  	  	  	  	  	 	  	 	  	  	2 	1 	 2	 1	 2	 1	490498	      
+R4	UNM  	Alex Maggs                          	S	 8	  	  	  	  	  	 	  	 	0 	1 	  	  	 0	 1	 0	 1	514837	      
+R4	UNM  	West/Molina                         	D	 1	 8	 3	3 	0 	  	 	  	 	  	  	  	  	11	 3	11	 3	462967	520795
+R4	UNM  	Trondson/Dobai                      	D	 2	 1	 3	7 	4 	  	 	  	 	  	  	  	  	 8	 7	 8	 7	515079	514836
+R4	UNM  	Maggs/Holis                         	D	 3	  	  	  	  	5 	4	  	 	  	  	  	  	 5	 4	 5	 4	514837	416218
+R4	UNM  	Prieto/Salam                        	D	 4	  	  	  	  	  	 	  	 	  	  	  	  	 0	 0	 0	 0	490498	520794

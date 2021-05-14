@@ -15,13 +15,13 @@ Home:
     Overall: 5
     Region: 1
   Ratings:
-    ITA: 5 (60.71)
+    ITA: 5 (60.46)
     SLM: 6 (92.64)
     TRN: 6 (85.86)
     MAS: 5 (8.71)
     UTR: 4 (64.63)
   Polls:
-    USTA: 5
+    USTA: 6 (276.00)
     Coach: 4
 Visitor:
   Team: Stanford
@@ -31,71 +31,70 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 28 (35.11)
+    ITA: 27 (35.12)
     SLM: 23 (90.02)
     TRN: 24 (81.66)
     MAS: 15 (7.96)
     UTR: 7 (63.45)
   Polls:
-    USTA: 18
+    USTA: 20 (100.00)
     Coach: 26
 Predictions:
   AVG: PEPP - Pepperdine (86%) def. Stanford (14%)
   SLM: "PEPP - #6 Pepperdine (81%) def. #23 Stanford (19%)"
   TRN: "PEPP - #6 Pepperdine (91%) def. #24 Stanford (9%)"
-  MAS: "PEPP - #5 Pepperdine (81%) def. #15 Stanford (19%)"
-  LNUP: PEPP - Pepperdine (89%) def. Stanford (11%)
+  MAS: "PEPP - #5 Pepperdine (79%) def. #15 Stanford (21%)"
+  LNUP: PEPP - Pepperdine (91%) def. Stanford (9%)
   UTR: "PEPP - #4 Pepperdine (+1.18) def. #7 Stanford (-1.18)"
-  ITA: "PEPP - #5 Pepperdine def. #28 Stanford"
-  USTA: "PEPP - #5 Pepperdine def. #18 Stanford"
-  Coach: "PEPP - #4 Pepperdine def. #26 Stanford"
+  ITA: "PEPP - #5 Pepperdine def. #27 Stanford"
+  USTA: "PEPP - #6 Pepperdine def. #20 Stanford"
   Seeding: "PEPP - #1 Pepperdine def. #2 Stanford"
 Lineups:
   Predictions:
-    Average EWPs for PEPP: 81%,91%,81%,89%
-    Average EWPs for STAN: 19%,9%,19%,11%
-    PEPP wins 4 or more Singles points: 71%
-    STAN wins 4 or more Singles points: 8%
-    Winner decided by the Doubles point: 21%
+    Average EWPs for PEPP: 81%,91%,79%,91%
+    Average EWPs for STAN: 19%,9%,21%,9%
+    PEPP wins 4 or more Singles points: 73%
+    STAN wins 4 or more Singles points: 7%
+    Winner decided by the Doubles point: 20%
   Singles:
     - Position: 1
       PEPP: Ashley Lahey - 7-3 at 1, 10-4 in duals, 10-4 overall
       STAN: Michaela Gordon - 9-6 at 1, 9-6 in duals, 9-6 overall
       Predictions:
-        AVG: PEPP - Lahey (62%) def. Gordon (38%)
-        SLM: PEPP - Lahey (52%) def. Gordon (48%)
-        TRN: PEPP - Lahey (64%) def. Gordon (36%)
-        MAS: PEPP - Lahey (76%) def. Gordon (24%)
+        AVG: PEPP - Lahey (66%) def. Gordon (34%)
+        SLM: PEPP - Lahey (57%) def. Gordon (43%)
+        TRN: PEPP - Lahey (75%) def. Gordon (25%)
+        MAS: PEPP - Lahey (74%) def. Gordon (26%)
         UTR: PEPP - Lahey (56%) def. Gordon (44%)
         ITA: STAN - Gordon (17.68) def. Lahey (7.80)
     - Position: 2
       PEPP: Jessica Failla - 6-1 at 2, 14-3 in duals, 14-3 overall
       STAN: Angelica Blake - 2-1 at 2, 7-2 in duals, 7-2 overall
       Predictions:
-        AVG: PEPP - Failla (71%) def. Blake (29%)
-        SLM: PEPP - Failla (85%) def. Blake (15%)
-        TRN: PEPP - Failla (70%) def. Blake (30%)
-        MAS: PEPP - Failla (52%) def. Blake (48%)
+        AVG: PEPP - Failla (75%) def. Blake (25%)
+        SLM: PEPP - Failla (84%) def. Blake (16%)
+        TRN: PEPP - Failla (80%) def. Blake (20%)
+        MAS: PEPP - Failla (57%) def. Blake (43%)
         UTR: PEPP - Failla (76%) def. Blake (24%)
         ITA: PEPP - Failla (23.38) def. Blake (5.37)
     - Position: 3
       PEPP: Taisiya Pachkaleva - 8-1 at 3, 22-1 in duals, 22-1 overall
       STAN: Emily Arbuthnott - 1-3 at 3, 8-7 in duals, 8-7 overall
       Predictions:
-        AVG: PEPP - Pachkaleva (85%) def. Arbuthnott (15%)
-        SLM: PEPP - Pachkaleva (81%) def. Arbuthnott (19%)
-        TRN: PEPP - Pachkaleva (94%) def. Arbuthnott (6%)
-        MAS: PEPP - Pachkaleva (79%) def. Arbuthnott (21%)
+        AVG: PEPP - Pachkaleva (86%) def. Arbuthnott (14%)
+        SLM: PEPP - Pachkaleva (83%) def. Arbuthnott (17%)
+        TRN: PEPP - Pachkaleva (95%) def. Arbuthnott (5%)
+        MAS: PEPP - Pachkaleva (82%) def. Arbuthnott (18%)
         UTR: PEPP - Pachkaleva (84%) def. Arbuthnott (16%)
         ITA: PEPP - Pachkaleva (6.37) def. Arbuthnott (1.89)
     - Position: 4
       PEPP: Shiori Fukuda - 6-0 at 4, 14-4 in duals, 14-4 overall
       STAN: Ana Geller - 1-3 at 4, 7-3 in duals, 7-3 overall
       Predictions:
-        AVG: PEPP - Fukuda (79%) def. Geller (21%)
-        SLM: PEPP - Fukuda (84%) def. Geller (16%)
+        AVG: PEPP - Fukuda (80%) def. Geller (20%)
+        SLM: PEPP - Fukuda (85%) def. Geller (15%)
         TRN: PEPP - Fukuda (90%) def. Geller (10%)
-        MAS: PEPP - Fukuda (74%) def. Geller (26%)
+        MAS: PEPP - Fukuda (78%) def. Geller (22%)
         UTR: PEPP - Fukuda (68%) def. Geller (32%)
         ITA: PEPP - Fukuda (4.88) def. Geller (2.62)
     - Position: 5
@@ -112,10 +111,10 @@ Lineups:
       PEPP: Nikki Redelijk - 7-4 at 6, 12-7 in duals, 12-7 overall
       STAN: Emma Higuchi - 10-3 at 6, 14-3 in duals, 14-3 overall
       Predictions:
-        AVG: STAN - Higuchi (59%) def. Redelijk (41%)
-        SLM: PEPP - Redelijk (54%) def. Higuchi (46%)
-        TRN: STAN - Higuchi (52%) def. Redelijk (48%)
-        MAS: STAN - Higuchi (65%) def. Redelijk (35%)
+        AVG: STAN - Higuchi (63%) def. Redelijk (37%)
+        SLM: STAN - Higuchi (51%) def. Redelijk (49%)
+        TRN: STAN - Higuchi (59%) def. Redelijk (41%)
+        MAS: STAN - Higuchi (68%) def. Redelijk (32%)
         UTR: STAN - Higuchi (74%) def. Redelijk (26%)
         ITA: STAN - Higuchi (2.68) def. Redelijk (1.87)
   Doubles:

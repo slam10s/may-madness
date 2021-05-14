@@ -21,7 +21,7 @@ Home:
     MAS: 1 (9.40)
     UTR: 1 (80.76)
   Polls:
-    USTA: 2
+    USTA: 2 (302.00)
     Coach: 2
 Visitor:
   Team: South Fla.
@@ -31,7 +31,7 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 32 (26.14)
+    ITA: 31 (26.04)
     SLM: 32 (92.98)
     TRN: 34 (90.69)
     MAS: 32 (7.49)
@@ -45,9 +45,8 @@ Predictions:
   MAS: "FLA - #1 Florida (99%) def. #32 South Fla. (1%)"
   LNUP: FLA - Florida (99%) def. South Fla. (1%)
   UTR: "FLA - #1 Florida (+4.25) def. #37 South Fla. (-4.25)"
-  ITA: "FLA - #2 Florida def. #32 South Fla."
+  ITA: "FLA - #2 Florida def. #31 South Fla."
   USTA: "FLA - #2 Florida def. South Fla."
-  Coach: "FLA - #2 Florida def. #33 South Fla."
   Seeding: "FLA - #1 Florida def. #2 South Fla."
 Lineups:
   Predictions:
@@ -61,40 +60,40 @@ Lineups:
       FLA: Duarte Vale - 15-6 at 1, 15-6 in duals, 23-6 overall
       USF: Jakub Wojcik - 4-1 at 1, 17-6 in duals, 17-6 overall
       Predictions:
-        AVG: FLA - Vale (84%) def. Wojcik (16%)
-        SLM: FLA - Vale (85%) def. Wojcik (15%)
+        AVG: FLA - Vale (85%) def. Wojcik (15%)
+        SLM: FLA - Vale (86%) def. Wojcik (14%)
         TRN: FLA - Vale (80%) def. Wojcik (20%)
-        MAS: FLA - Vale (81%) def. Wojcik (19%)
+        MAS: FLA - Vale (84%) def. Wojcik (16%)
         UTR: FLA - Vale (90%) def. Wojcik (10%)
         ITA: FLA - Vale (54.01) def. Wojcik (16.76)
     - Position: 2
       FLA: Sam Riffice - 16-4 at 2, 18-4 in duals, 23-7 overall
       USF: Chase Ferguson - 5-0 at 2, 13-9 in duals, 13-9 overall
       Predictions:
-        AVG: FLA - Riffice (82%) def. Ferguson (18%)
+        AVG: FLA - Riffice (81%) def. Ferguson (19%)
         SLM: FLA - Riffice (74%) def. Ferguson (26%)
         TRN: FLA - Riffice (84%) def. Ferguson (16%)
-        MAS: FLA - Riffice (78%) def. Ferguson (22%)
+        MAS: FLA - Riffice (77%) def. Ferguson (23%)
         UTR: FLA - Riffice (90%) def. Ferguson (10%)
         ITA: FLA - Riffice (49.68) def. Ferguson (11.90)
     - Position: 3
       FLA: Andy Andrade - 12-7 at 3, 14-7 in duals, 22-7 overall
       USF: Ivan Yatsuk - 12-6 at 3, 15-7 in duals, 15-7 overall
       Predictions:
-        AVG: FLA - Andrade (85%) def. Yatsuk (15%)
+        AVG: FLA - Andrade (86%) def. Yatsuk (14%)
         SLM: FLA - Andrade (83%) def. Yatsuk (17%)
-        TRN: FLA - Andrade (87%) def. Yatsuk (13%)
-        MAS: FLA - Andrade (83%) def. Yatsuk (17%)
+        TRN: FLA - Andrade (86%) def. Yatsuk (14%)
+        MAS: FLA - Andrade (86%) def. Yatsuk (14%)
         UTR: FLA - Andrade (88%) def. Yatsuk (12%)
         ITA: FLA - Andrade (32.71) def. Yatsuk (2.48)
     - Position: 4
       FLA: Blaise Bicknell - 15-0 at 4, 20-0 in duals, 29-0 overall
       USF: Antonio Muniz-Hidalgo - 1-1 at 4, 5-4 in duals, 5-4 overall
       Predictions:
-        AVG: FLA - Bicknell (94%) def. Muniz-Hidalgo (6%)
+        AVG: FLA - Bicknell (93%) def. Muniz-Hidalgo (7%)
         SLM: FLA - Bicknell (94%) def. Muniz-Hidalgo (6%)
         TRN: FLA - Bicknell (97%) def. Muniz-Hidalgo (3%)
-        MAS: FLA - Bicknell (94%) def. Muniz-Hidalgo (6%)
+        MAS: FLA - Bicknell (93%) def. Muniz-Hidalgo (7%)
         UTR: FLA - Bicknell (89%) def. Muniz-Hidalgo (11%)
         ITA: FLA - Bicknell (15.89) def. Muniz-Hidalgo (1.67)
     - Position: 5
@@ -111,10 +110,10 @@ Lineups:
       FLA: Josh Goodger - 12-0 at 6, 13-0 in duals, 19-0 overall
       USF: Sergio Gomez-Montesa - 2-1 at 6, 13-10 in duals, 13-10 overall
       Predictions:
-        AVG: FLA - Goodger (92%) def. Gomez-Montesa (8%)
+        AVG: FLA - Goodger (93%) def. Gomez-Montesa (7%)
         SLM: FLA - Goodger (93%) def. Gomez-Montesa (7%)
         TRN: FLA - Goodger (96%) def. Gomez-Montesa (4%)
-        MAS: FLA - Goodger (91%) def. Gomez-Montesa (9%)
+        MAS: FLA - Goodger (92%) def. Gomez-Montesa (8%)
         UTR: FLA - Goodger (90%) def. Gomez-Montesa (10%)
         ITA: FLA - Goodger (8.31) def. Gomez-Montesa (1.78)
   Doubles:

@@ -9,21 +9,21 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Sun, 5/16 at  7:00 EDT	[Duke vs #9 UCF](./matches/R3_7-12_DUKE_vs_UCF.md) ... UCF (43%) / <i>DUKE (57%)</i>
-- Sun, 5/16 at 10:00 EDT	[Southern California vs #6 NC State](./matches/R3_31-36_USC_vs_NCST.md) ... NCST (86%) / USC (14%)
+- Sun, 5/16 at  7:00 EDT	[Duke vs #9 UCF](./matches/R3_7-12_DUKE_vs_UCF.md) ... UCF (42%) / <i>DUKE (58%)</i>
+- Sun, 5/16 at 10:00 EDT	[Southern California vs #6 NC State](./matches/R3_31-36_USC_vs_NCST.md) ... NCST (81%) / USC (19%)
 
 The metrics agree on the winner, but not by a lot:
 
-- Sun, 5/16 at  1:00 EDT	[#10 Texas A&M vs #7 Florida St.](./matches/R3_37-42_AM_vs_FSU.md) ... FSU (70%) / A&M (30%)
-- Sun, 5/16 at  4:00 EDT	[Michigan vs #5 Pepperdine](./matches/R3_13-18_MICH_vs_PEPP.md) ... PEPP (73%) / MICH (27%)
+- Sun, 5/16 at  1:00 EDT	[#10 Texas A&M vs #7 Florida St.](./matches/R3_37-42_AM_vs_FSU.md) ... FSU (69%) / A&M (31%)
+- Sun, 5/16 at  4:00 EDT	[Michigan vs #5 Pepperdine](./matches/R3_13-18_MICH_vs_PEPP.md) ... PEPP (72%) / MICH (28%)
 
 ### Heavy Favorites
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Sun, 5/16 at  4:00 EDT	[#13 Georgia Tech vs #4 UCLA](./matches/R3_19-24_GT_vs_UCLA.md) ... UCLA (86%) / GT (14%)
-- Sun, 5/16 at 10:00 EDT	[#14 Virginia vs #3 Georgia](./matches/R3_25-30_UVA_vs_UGA.md) ... UGA (94%) / UVA (6%)
-- Sun, 5/16 at  1:00 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... TEX (95%) / OSU (5%)
+- Sun, 5/16 at  4:00 EDT	[#13 Georgia Tech vs #4 UCLA](./matches/R3_19-24_GT_vs_UCLA.md) ... UCLA (87%) / GT (13%)
+- Sun, 5/16 at 10:00 EDT	[#14 Virginia vs #3 Georgia](./matches/R3_25-30_UVA_vs_UGA.md) ... UGA (93%) / UVA (7%)
+- Sun, 5/16 at  1:00 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... TEX (96%) / OSU (4%)
 - Sun, 5/16 at  7:00 EDT	[#16 California vs #1 North Carolina](./matches/R3_1-6_CAL_vs_UNC.md) ... UNC (99%) / CAL (1%)
 ## Second Round
 
@@ -76,11 +76,11 @@ The metrics agree on the winner, but not by a lot:
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Fri, 5/07 at 12:00 EDT	[FIU vs Miami (FL)](./matches/R1_11-12_FIU_vs_MIA.md) ... <b>MIA (4)</b> / FIU (0)
 - Fri, 5/07 at 11:00 EDT	[Iowa St. vs South Carolina](./matches/R1_45-46_ISU_vs_SCAR.md) ... SCAR (2) / <b><i>ISU (4)</i></b>
+- Fri, 5/07 at 12:00 EDT	[FIU vs Miami (FL)](./matches/R1_11-12_FIU_vs_MIA.md) ... <b>MIA (4)</b> / FIU (0)
 - Fri, 5/07 at  1:00 EDT	[UC Santa Barbara vs Stanford](./matches/R1_19-20_UCSB_vs_STAN.md) ... <b>STAN (4)</b> / UCSB (0)
-- Fri, 5/07 at 11:00 EDT	[Rice vs Michigan](./matches/R1_21-22_RICE_vs_MICH.md) ... <b>MICH (4)</b> / RICE (1)
 - Fri, 5/07 at 11:00 EDT	[North Florida vs Ole Miss](./matches/R1_27-28_UNF_vs_MISS.md) ... MISS (3) / <b><i>UNF (4)</i></b>
+- Fri, 5/07 at 11:00 EDT	[Rice vs Michigan](./matches/R1_21-22_RICE_vs_MICH.md) ... <b>MICH (4)</b> / RICE (1)
 - Fri, 5/07 at  3:00 EDT	[Alabama vs Duke](./matches/R1_13-14_BAMA_vs_DUKE.md) ... <b>DUKE (4)</b> / BAMA (0)
 - Fri, 5/07 at 12:00 EDT	[James Madison vs Tennessee](./matches/R1_37-38_JMU_vs_TENN.md) ... <b>TENN (4)</b> / JMU (0)
 - Fri, 5/07 at 11:00 EDT	[Ball St. vs Vanderbilt](./matches/R1_59-60_BALL_vs_VANDY.md) ... <b>VANDY (4)</b> / BALL (0)

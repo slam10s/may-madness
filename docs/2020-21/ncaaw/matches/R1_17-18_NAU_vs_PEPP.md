@@ -10,7 +10,7 @@ Malibu, California
 
 <h2>#4 Northern Ariz.</h2>  
 &nbsp; Record: 14-5<br>  
-&nbsp; ITA: 54 (3.85)<br>  
+&nbsp; ITA: 53 (3.85)<br>  
 &nbsp; Slam: 51 (79.81)<br>  
 &nbsp; TRN: 53 (69.11)<br>  
 &nbsp; Massey: 51 (5.50)<br>  
@@ -22,13 +22,13 @@ Malibu, California
 
 <h2>#1 Pepperdine</h2>  
 &nbsp; Record: 21-3<br>  
-&#10004; ITA: 5 (60.71)<br>  
+&#10004; ITA: 5 (60.46)<br>  
 &#10004; Slam: 6 (92.64)<br>  
 &#10004; TRN: 6 (85.86)<br>  
 &#10004; Massey: 5 (8.71)<br>  
 &#10004; UTR: 4 (64.63)<br>  
-&#10004; USTA Poll: 5<br>  
-&#10004; Coaches Poll: 4<br>  
+&#10004; USTA Poll: 6 (276.00)<br>  
+&nbsp; Coaches Poll: 4<br>  
 <br>  
 
 </td>
@@ -49,9 +49,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***PEPP*** - #5 Pepperdine (99%) def. #51 Northern Ariz. (1%)  
 - Lineup: ***PEPP*** - Pepperdine (99%) def. Northern Ariz. (1%)  
 - UTR: ***PEPP*** - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)  
-- ITA: ***PEPP*** - #5 Pepperdine def. #54 Northern Ariz.  
-- USTA Poll: ***PEPP*** - #5 Pepperdine def. Northern Ariz.  
-- Coaches Poll: ***PEPP*** - #4 Pepperdine def. Northern Ariz.  
+- ITA: ***PEPP*** - #5 Pepperdine def. #53 Northern Ariz.  
+- USTA Poll: ***PEPP*** - #6 Pepperdine def. Northern Ariz.  
 - Seeding: ***PEPP*** - #1 Pepperdine def. #4 Northern Ariz.  
 
 ## Individual Matchups  
@@ -64,9 +63,9 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Gina Dittmann (NAU) - 14-1 at #1, 15-1 in duals, 15-1 overall<br>Ashley Lahey (PEPP) - 7-3 at #1, 10-4 in duals, 10-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Lahey (89%) def. Dittmann (11%)</li>  
-<li>Slam: <b><i>PEPP</i></b> - Lahey (87%) def. Dittmann (13%)</li>  
-<li>TRN: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Lahey (90%) def. Dittmann (10%)</li>  
+<li>Slam: <b><i>PEPP</i></b> - Lahey (89%) def. Dittmann (11%)</li>  
+<li>TRN: <b><i>PEPP</i></b> - Lahey (94%) def. Dittmann (6%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Lahey (84%) def. Dittmann (16%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Lahey (92%) def. Dittmann (8%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Lahey (7.80) def. Dittmann (4.32)</li>  
@@ -78,7 +77,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>PEPP</i></b> - Failla (98%) def. Bland (2%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Failla (99%) def. Bland (1%)</li>  
-<li>Massey: <b><i>PEPP</i></b> - Failla (94%) def. Bland (6%)</li>  
+<li>Massey: <b><i>PEPP</i></b> - Failla (95%) def. Bland (5%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Failla (97%) def. Bland (3%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Failla (23.38) def. Bland (2.75)</li>  
 </ul>
@@ -108,7 +107,7 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Elinor Beazley (NAU) - 5-5 at #5, 8-5 in duals, 8-5 overall<br>LIsa Zaar (PEPP) - 10-1 at #5, 19-1 in duals, 19-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Zaar (98%) def. Beazley (2%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Zaar (99%) def. Beazley (1%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Zaar (97%) def. Beazley (3%)</li>  

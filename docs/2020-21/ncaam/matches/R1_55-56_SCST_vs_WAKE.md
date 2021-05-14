@@ -10,11 +10,11 @@ Winston-Salem, North Carolina
 
 <h2>#4 South Carolina St.</h2>  
 &nbsp; Record: 7-6<br>  
-&nbsp; ITA: 65 (0.72)<br>  
-&nbsp; Slam: 63 (81.19)<br>  
-&nbsp; TRN: 63 (76.54)<br>  
-&nbsp; Massey: 63 (4.87)<br>  
-&nbsp; UTR: 63 (66.99)<br>  
+&nbsp; ITA: 64 (0.72)<br>  
+&nbsp; Slam: 62 (81.19)<br>  
+&nbsp; TRN: 62 (76.54)<br>  
+&nbsp; Massey: 62 (4.87)<br>  
+&nbsp; UTR: 62 (66.99)<br>  
 <br>  
 
 </td>
@@ -22,13 +22,13 @@ Winston-Salem, North Carolina
 
 <h2>#1 Wake Forest</h2>  
 &nbsp; Record: 29-6<br>  
-&#10004; ITA: 9 (56.82)<br>  
+&#10004; ITA: 9 (57.04)<br>  
 &#10004; Slam: 10 (97.17)<br>  
 &#10004; TRN: 10 (95.99)<br>  
 &#10004; Massey: 13 (8.43)<br>  
 &#10004; UTR: 7 (79.79)<br>  
-&#10004; USTA Poll: 12<br>  
-&#10004; Coaches Poll: 10<br>  
+&#10004; USTA Poll: 14 (196.00)<br>  
+&nbsp; Coaches Poll: 10<br>  
 <br>  
 
 </td>
@@ -44,14 +44,13 @@ Winston-Salem, North Carolina
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***WAKE*** - Wake Forest (99%) def. South Carolina St. (1%)  
-- Slam: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
-- TRN: ***WAKE*** - #10 Wake Forest (99%) def. #63 South Carolina St. (1%)  
-- Massey: ***WAKE*** - #13 Wake Forest (99%) def. #63 South Carolina St. (1%)  
+- Slam: ***WAKE*** - #10 Wake Forest (99%) def. #62 South Carolina St. (1%)  
+- TRN: ***WAKE*** - #10 Wake Forest (99%) def. #62 South Carolina St. (1%)  
+- Massey: ***WAKE*** - #13 Wake Forest (99%) def. #62 South Carolina St. (1%)  
 - Lineup: ***WAKE*** - Wake Forest (99%) def. South Carolina St. (1%)  
-- UTR: ***WAKE*** - #7 Wake Forest (+12.80) def. #63 South Carolina St. (-12.80)  
-- ITA: ***WAKE*** - #9 Wake Forest def. #65 South Carolina St.  
-- USTA Poll: ***WAKE*** - #12 Wake Forest def. South Carolina St.  
-- Coaches Poll: ***WAKE*** - #10 Wake Forest def. South Carolina St.  
+- UTR: ***WAKE*** - #7 Wake Forest (+12.80) def. #62 South Carolina St. (-12.80)  
+- ITA: ***WAKE*** - #9 Wake Forest def. #64 South Carolina St.  
+- USTA Poll: ***WAKE*** - #14 Wake Forest def. South Carolina St.  
 - Seeding: ***WAKE*** - #1 Wake Forest def. #4 South Carolina St.  
 
 ## Individual Matchups  
@@ -80,17 +79,17 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WAKE</i></b> - Nava (99%) def. Rodriguez (1%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Nava (99%) def. Rodriguez (1%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Nava (97%) def. Rodriguez (3%)</li>  
-<li>ITA: <b><i>WAKE</i></b> - Nava (19.97) def. Rodriguez (0.00)</li>  
+<li>ITA: <b><i>SCST</i></b> - # Rodriguez def. Nava (19.97)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Elyes Marouani (SCST) - 9-2 at #3, 9-2 in duals, 9-2 overall<br>Taha Baadi (WAKE) - 6-2 at #3, 13-8 in duals, 13-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>WAKE</i></b> - Baadi (97%) def. Marouani (3%)</li>  
-<li>Slam: <b><i>WAKE</i></b> - Baadi (99%) def. Marouani (1%)</li>  
-<li>TRN: <b><i>WAKE</i></b> - Baadi (99%) def. Marouani (1%)</li>  
-<li>Massey: <b><i>WAKE</i></b> - Baadi (90%) def. Marouani (10%)</li>  
-<li>UTR: <b><i>WAKE</i></b> - Baadi (99%) def. Marouani (1%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Baadi (94%) def. Marouani (6%)</li>  
+<li>Slam: <b><i>WAKE</i></b> - Baadi (97%) def. Marouani (3%)</li>  
+<li>TRN: <b><i>WAKE</i></b> - Baadi (97%) def. Marouani (3%)</li>  
+<li>Massey: <b><i>WAKE</i></b> - Baadi (88%) def. Marouani (12%)</li>  
+<li>UTR: <b><i>WAKE</i></b> - Baadi (92%) def. Marouani (8%)</li>  
 <li>ITA: <b><i>WAKE</i></b> - Baadi (6.71) def. Marouani (1.53)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -102,18 +101,18 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>WAKE</i></b> - Cungu (99%) def. Gorgun (1%)</li>  
 <li>Massey: <b><i>WAKE</i></b> - Cungu (99%) def. Gorgun (1%)</li>  
 <li>UTR: <b><i>WAKE</i></b> - Cungu (98%) def. Gorgun (2%)</li>  
-<li>ITA: <b><i>WAKE</i></b> - Cungu (3.35) def. Gorgun (0.00)</li>  
+<li>ITA: <b><i>SCST</i></b> - # Gorgun def. Cungu (3.35)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Diego Arzaluz (SCST) - 5-3 at #5, 5-3 in duals, 5-3 overall<br>Melios Efstathiou (WAKE) - 6-2 at #5, 12-6 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>WAKE</i></b> - Efstathiou (74%) def. Arzaluz (26%)</li>  
+<li>Composite: <b><i>WAKE</i></b> - Efstathiou (98%) def. Arzaluz (2%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Efstathiou (99%) def. Arzaluz (1%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Efstathiou (99%) def. Arzaluz (1%)</li>  
-<li>Massey: <b><i>SCST</i></b> - Arzaluz (99%) def. Efstathiou (1%)</li>  
-<li>UTR: <b><i>WAKE</i></b> - Efstathiou (99%) def. Arzaluz (1%)</li>  
-<li>ITA: <b><i>WAKE</i></b> - Efstathiou (2.09) def. Arzaluz (0.00)</li>  
+<li>Massey: <b><i>WAKE</i></b> - Efstathiou (97%) def. Arzaluz (3%)</li>  
+<li>UTR: <b><i>WAKE</i></b> - Efstathiou (98%) def. Arzaluz (2%)</li>  
+<li>ITA: <b><i>SCST</i></b> - # Arzaluz def. Efstathiou (2.09)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -122,9 +121,9 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>WAKE</i></b> - Banthia (74%) def. Stefanovic (26%)</li>  
 <li>Slam: <b><i>WAKE</i></b> - Banthia (99%) def. Stefanovic (1%)</li>  
 <li>TRN: <b><i>WAKE</i></b> - Banthia (99%) def. Stefanovic (1%)</li>  
-<li>Massey: <b><i>SCST</i></b> - Stefanovic (99%) def. Banthia (1%)</li>  
-<li>UTR: <b><i>WAKE</i></b> - Banthia (99%) def. Stefanovic (1%)</li>  
-<li>ITA: <b><i>WAKE</i></b> - Banthia (2.98) def. Stefanovic (0.00)</li>  
+<li>Massey: <b><i>SCST</i></b> - # Stefanovic (99%) def. Banthia (1%)</li>  
+<li>UTR: <b><i>WAKE</i></b> - Banthia (98%) def. Stefanovic (2%)</li>  
+<li>ITA: <b><i>SCST</i></b> - # Stefanovic def. Banthia (2.98)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>
@@ -149,11 +148,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Wake Forest should win 4 or more singles matches *98%* of the time.  
+- Wake Forest should win 4 or more singles matches *99%* of the time.  
 - South Carolina St. should win 4 or more singles matches *1%* of the time.  
-- The winner of the doubles point should decide the match the other *2%* of the time.  
+- The winner of the doubles point should decide the match the other *1%* of the time.  
 - If Wake Forest wins the doubles point, their chances of winning the dual improve to *99%*.  
-- If South Carolina St. wins the doubles point, their chances of winning the dual improve to *2%*.  
+- If South Carolina St. wins the doubles point, their chances of winning the dual improve to *1%*.  
   
 ------
 

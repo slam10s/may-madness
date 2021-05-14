@@ -15,13 +15,13 @@ Home:
     Overall: 10
     Region: 1
   Ratings:
-    ITA: 10 (50.15)
+    ITA: 10 (50.26)
     SLM: 15 (90.86)
     TRN: 14 (83.43)
-    MAS: 21 (7.77)
+    MAS: 23 (7.76)
     UTR: 21 (61.70)
   Polls:
-    USTA: 17
+    USTA: 18 (129.00)
     Coach: 10
 Visitor:
   Team: Northwestern
@@ -31,71 +31,70 @@ Visitor:
   Seeding:
     Region: 2
   Ratings:
-    ITA: 21 (39.92)
+    ITA: 21 (38.97)
     SLM: 18 (90.46)
     TRN: 13 (83.80)
     MAS: 20 (7.78)
     UTR: 33 (60.43)
   Polls:
-    USTA: 16
+    USTA: 17 (133.00)
     Coach: 19
 Predictions:
-  AVG: A&M - Texas A&M (52%) def. Northwestern (48%)
+  AVG: A&M - Texas A&M (53%) def. Northwestern (47%)
   SLM: "A&M - #15 Texas A&M (55%) def. #18 Northwestern (45%)"
   TRN: "NW - #13 Northwestern (55%) def. #14 Texas A&M (45%)"
-  MAS: "NW - #20 Northwestern (60%) def. #21 Texas A&M (40%)"
-  LNUP: A&M - Texas A&M (68%) def. Northwestern (32%)
+  MAS: "NW - #20 Northwestern (57%) def. #23 Texas A&M (43%)"
+  LNUP: A&M - Texas A&M (71%) def. Northwestern (29%)
   UTR: "A&M - #21 Texas A&M (+1.27) def. #33 Northwestern (-1.27)"
   ITA: "A&M - #10 Texas A&M def. #21 Northwestern"
-  USTA: "NW - #16 Northwestern def. #17 Texas A&M"
-  Coach: "A&M - #10 Texas A&M def. #19 Northwestern"
+  USTA: "NW - #17 Northwestern def. #18 Texas A&M"
   Seeding: "A&M - #1 Texas A&M def. #2 Northwestern"
 Lineups:
   Predictions:
-    Average EWPs for A&M: 55%,45%,40%,68%
-    Average EWPs for NW: 45%,55%,60%,32%
-    A&M wins 4 or more Singles points: 48%
-    NW wins 4 or more Singles points: 22%
-    Winner decided by the Doubles point: 30%
+    Average EWPs for A&M: 55%,45%,43%,71%
+    Average EWPs for NW: 45%,55%,57%,29%
+    A&M wins 4 or more Singles points: 51%
+    NW wins 4 or more Singles points: 20%
+    Winner decided by the Doubles point: 29%
   Singles:
     - Position: 1
       A&M: Tatiana Makarova - 12-4 at 1, 15-4 in duals, 23-6 overall
       NW: Maria Shusharina - 5-12 at 1, 7-12 in duals, 9-13 overall
       Predictions:
-        AVG: A&M - Makarova (63%) def. Shusharina (37%)
-        SLM: A&M - Makarova (53%) def. Shusharina (47%)
-        TRN: A&M - Makarova (75%) def. Shusharina (25%)
-        MAS: A&M - Makarova (51%) def. Shusharina (49%)
+        AVG: A&M - Makarova (67%) def. Shusharina (33%)
+        SLM: A&M - Makarova (61%) def. Shusharina (39%)
+        TRN: A&M - Makarova (76%) def. Shusharina (24%)
+        MAS: A&M - Makarova (57%) def. Shusharina (43%)
         UTR: A&M - Makarova (74%) def. Shusharina (26%)
         ITA: A&M - Makarova (21.86) def. Shusharina (3.92)
     - Position: 2
       A&M: Jayci Goldsmith - 9-7 at 2, 11-9 in duals, 13-10 overall
       NW: Clarissa Hand - 0-2 at 2, 14-6 in duals, 14-9 overall
       Predictions:
-        AVG: NW - Hand (52%) def. Goldsmith (48%)
-        SLM: NW - Hand (51%) def. Goldsmith (49%)
-        TRN: NW - Hand (55%) def. Goldsmith (45%)
-        MAS: NW - Hand (66%) def. Goldsmith (34%)
+        AVG: A&M - Goldsmith (50%) def. Hand (50%)
+        SLM: A&M - Goldsmith (53%) def. Hand (47%)
+        TRN: NW - Hand (53%) def. Goldsmith (47%)
+        MAS: NW - Hand (61%) def. Goldsmith (39%)
         UTR: A&M - Goldsmith (64%) def. Hand (36%)
         ITA: NW - Hand (4.82) def. Goldsmith (3.03)
     - Position: 3
       A&M: Katya Townsend - 9-6 at 3, 11-6 in duals, 18-9 overall
       NW: Julie Byrne - 4-0 at 3, 9-8 in duals, 11-9 overall
       Predictions:
-        AVG: A&M - Townsend (51%) def. Byrne (49%)
-        SLM: NW - Byrne (63%) def. Townsend (37%)
-        TRN: A&M - Townsend (53%) def. Byrne (47%)
-        MAS: NW - Byrne (64%) def. Townsend (36%)
+        AVG: A&M - Townsend (54%) def. Byrne (46%)
+        SLM: NW - Byrne (59%) def. Townsend (41%)
+        TRN: A&M - Townsend (55%) def. Byrne (45%)
+        MAS: NW - Byrne (56%) def. Townsend (44%)
         UTR: A&M - Townsend (79%) def. Byrne (21%)
         ITA: A&M - Townsend (3.71) def. Byrne (1.56)
     - Position: 4
       A&M: Dorthea Faa-Hviding - 7-6 at 4, 13-6 in duals, 14-7 overall
       NW: Briana Crowley - 16-3 at 4, 16-5 in duals, 17-7 overall
       Predictions:
-        AVG: A&M - Faa-Hviding (50%) def. Crowley (50%)
-        SLM: NW - Crowley (51%) def. Faa-Hviding (49%)
-        TRN: A&M - Faa-Hviding (55%) def. Crowley (45%)
-        MAS: NW - Crowley (62%) def. Faa-Hviding (38%)
+        AVG: NW - Crowley (53%) def. Faa-Hviding (47%)
+        SLM: NW - Crowley (58%) def. Faa-Hviding (42%)
+        TRN: A&M - Faa-Hviding (50%) def. Crowley (50%)
+        MAS: NW - Crowley (66%) def. Faa-Hviding (34%)
         UTR: A&M - Faa-Hviding (59%) def. Crowley (41%)
         ITA: NW - Crowley (1.93) def. Faa-Hviding (1.87)
     - Position: 5
@@ -103,19 +102,19 @@ Lineups:
       NW: Caroline Pozo - 11-6 at 5, 12-7 in duals, 12-8 overall
       Predictions:
         AVG: A&M - McBryde (70%) def. Pozo (30%)
-        SLM: A&M - McBryde (68%) def. Pozo (32%)
-        TRN: A&M - McBryde (77%) def. Pozo (23%)
-        MAS: A&M - McBryde (54%) def. Pozo (46%)
+        SLM: A&M - McBryde (67%) def. Pozo (33%)
+        TRN: A&M - McBryde (75%) def. Pozo (25%)
+        MAS: A&M - McBryde (56%) def. Pozo (44%)
         UTR: A&M - McBryde (80%) def. Pozo (20%)
         ITA: A&M - McBryde (2.44) def. Pozo (1.76)
     - Position: 6
       A&M: Riley McQuaid - 8-5 at 6, 11-5 in duals, 16-9 overall
       NW: Christina Hand - 13-1 at 6, 13-1 in duals, 13-4 overall
       Predictions:
-        AVG: A&M - McQuaid (57%) def. Hand (43%)
-        SLM: A&M - McQuaid (63%) def. Hand (37%)
-        TRN: A&M - McQuaid (66%) def. Hand (34%)
-        MAS: NW - Hand (70%) def. McQuaid (30%)
+        AVG: A&M - McQuaid (61%) def. Hand (39%)
+        SLM: A&M - McQuaid (69%) def. Hand (31%)
+        TRN: A&M - McQuaid (70%) def. Hand (30%)
+        MAS: NW - Hand (62%) def. McQuaid (38%)
         UTR: A&M - McQuaid (69%) def. Hand (31%)
         ITA: NW - Hand (2.48) def. McQuaid (2.12)
   Doubles:

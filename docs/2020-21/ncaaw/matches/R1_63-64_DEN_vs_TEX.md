@@ -10,12 +10,12 @@ Austin, Texas
 
 <h2>#4 Denver</h2>  
 &nbsp; Record: 14-4<br>  
-&nbsp; ITA: 45 (11.66)<br>  
+&nbsp; ITA: 45 (11.75)<br>  
 &nbsp; Slam: 45 (84.92)<br>  
 &nbsp; TRN: 45 (76.03)<br>  
 &nbsp; Massey: 43 (6.53)<br>  
 &nbsp; UTR: 45 (58.03)<br>  
-&nbsp; Coaches Poll: 49<br>  
+&nbsp; Coaches Poll: 43<br>  
 <br>  
 
 </td>
@@ -23,13 +23,13 @@ Austin, Texas
 
 <h2>#1 Texas</h2>  
 &nbsp; Record: 26-1<br>  
-&#10004; ITA: 2 (79.19)<br>  
+&#10004; ITA: 2 (79.31)<br>  
 &#10004; Slam: 2 (98.44)<br>  
 &#10004; TRN: 2 (97.97)<br>  
 &#10004; Massey: 2 (9.38)<br>  
 &#10004; UTR: 1 (65.59)<br>  
-&#10004; USTA Poll: 2<br>  
-&#10004; Coaches Poll: 2<br>  
+&#10004; USTA Poll: 3 (312.00)<br>  
+&nbsp; Coaches Poll: 2<br>  
 <br>  
 
 </td>
@@ -51,8 +51,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***TEX*** - Texas (99%) def. Denver (1%)  
 - UTR: ***TEX*** - #1 Texas (+7.56) def. #45 Denver (-7.56)  
 - ITA: ***TEX*** - #2 Texas def. #45 Denver  
-- USTA Poll: ***TEX*** - #2 Texas def. Denver  
-- Coaches Poll: ***TEX*** - #2 Texas def. #49 Denver  
+- USTA Poll: ***TEX*** - #3 Texas def. Denver  
 - Seeding: ***TEX*** - #1 Texas def. #4 Denver  
 
 ## Individual Matchups  
@@ -66,7 +65,7 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Anna Riedmiller (DEN) - 6-0 at #1, 14-1 in duals, 14-1 overall<br>Peyton Stearns (TEX) - 10-3 at #1, 10-3 in duals, 14-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>TEX</i></b> - Stearns (81%) def. Riedmiller (19%)</li>  
-<li>Slam: <b><i>TEX</i></b> - Stearns (86%) def. Riedmiller (14%)</li>  
+<li>Slam: <b><i>TEX</i></b> - Stearns (87%) def. Riedmiller (13%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Stearns (65%) def. Riedmiller (35%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Stearns (81%) def. Riedmiller (19%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Stearns (90%) def. Riedmiller (10%)</li>  
@@ -101,7 +100,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Chavatipon (99%) def. Verden-Anderson (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Chavatipon (97%) def. Verden-Anderson (3%)</li>  
 <li>UTR: <b><i>TEX</i></b> - Chavatipon (98%) def. Verden-Anderson (2%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Chavatipon (7.87) def. Verden-Anderson (3.01)</li>  
 </ul>
@@ -118,14 +117,14 @@ Click on a Singles match to show individual predections for each line.
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Tatum Burger (DEN) - 2-0 at #6, 8-6 in duals, 8-6 overall<br>Fernanda Labrana (TEX) - 5-1 at #6, 14-1 in duals, 21-2 overall</summary>
+<summary markdown="span">Tatum Burger (DEN) - 2-0 at #6, 8-6 in duals, 8-6 overall<br>Fernanda Labraña (TEX) - 5-1 at #6, 14-1 in duals, 21-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Labrana (98%) def. Burger (2%)</li>  
-<li>Slam: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
-<li>TRN: <b><i>TEX</i></b> - Labrana (99%) def. Burger (1%)</li>  
-<li>Massey: <b><i>TEX</i></b> - Labrana (96%) def. Burger (4%)</li>  
-<li>UTR: <b><i>TEX</i></b> - Labrana (97%) def. Burger (3%)</li>  
-<li>ITA: <b><i>DEN</i></b> - Burger (1.93) def. Labrana (0.00)</li>  
+<li>Composite: <b><i>TEX</i></b> - Labraña (98%) def. Burger (2%)</li>  
+<li>Slam: <b><i>TEX</i></b> - Labraña (99%) def. Burger (1%)</li>  
+<li>TRN: <b><i>TEX</i></b> - Labraña (99%) def. Burger (1%)</li>  
+<li>Massey: <b><i>TEX</i></b> - Labraña (96%) def. Burger (4%)</li>  
+<li>UTR: <b><i>TEX</i></b> - Labraña (97%) def. Burger (3%)</li>  
+<li>ITA: <b><i>TEX</i></b> - Labraña (4.28) def. Burger (1.93)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

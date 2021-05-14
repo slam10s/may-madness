@@ -22,13 +22,13 @@ Tallahassee, Florida
 
 <h2>#1 Florida St.</h2>  
 &nbsp; Record: 17-5<br>  
-&#10004; ITA: 7 (55.15)<br>  
+&#10004; ITA: 7 (55.39)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  
 &#10004; Massey: 9 (8.17)<br>  
 &#10004; UTR: 10 (62.71)<br>  
-&#10004; USTA Poll: 12<br>  
-&#10004; Coaches Poll: 7<br>  
+&#10004; USTA Poll: 13 (181.00)<br>  
+&nbsp; Coaches Poll: 7<br>  
 <br>  
 
 </td>
@@ -50,8 +50,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Lineup: ***FSU*** - Florida St. (99%) def. Alabama St. (1%)  
 - UTR: ***FSU*** - #10 Florida St. (+16.05) def. #61 Alabama St. (-16.05)  
 - ITA: ***FSU*** - #7 Florida St. def. #61 Alabama St.  
-- USTA Poll: ***FSU*** - #12 Florida St. def. Alabama St.  
-- Coaches Poll: ***FSU*** - #7 Florida St. def. Alabama St.  
+- USTA Poll: ***FSU*** - #13 Florida St. def. Alabama St.  
 - Seeding: ***FSU*** - #1 Florida St. def. #4 Alabama St.  
 
 ## Individual Matchups  
@@ -78,9 +77,9 @@ Click on a Singles match to show individual predections for each line.
 <li>Composite: <b><i>FSU</i></b> - Salas (74%) def. Dzemchanka (26%)</li>  
 <li>Slam: <b><i>FSU</i></b> - Salas (99%) def. Dzemchanka (1%)</li>  
 <li>TRN: <b><i>FSU</i></b> - Salas (99%) def. Dzemchanka (1%)</li>  
-<li>Massey: <b><i>ALST</i></b> - Dzemchanka (99%) def. Salas (1%)</li>  
+<li>Massey: <b><i>ALST</i></b> - # Dzemchanka (99%) def. Salas (1%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Salas (99%) def. Dzemchanka (1%)</li>  
-<li>ITA: <b><i>FSU</i></b> - Salas (14.35) def. Dzemchanka (0.00)</li>  
+<li>ITA: <b><i>ALST</i></b> - # Dzemchanka def. Salas (14.35)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -113,7 +112,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Allen (99%) def. Legaud (1%)</li>  
-<li>ITA: <b><i>FSU</i></b> - Allen (2.90) def. Legaud (0.00)</li>  
+<li>ITA: <b><i>ALST</i></b> - # Legaud def. Allen (2.90)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -124,7 +123,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>Massey: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
 <li>UTR: <b><i>FSU</i></b> - Arkadianou (99%) def. Acena (1%)</li>  
-<li>ITA: <b><i>ALST</i></b> - Acena (1.75) def. Arkadianou (0.00)</li>  
+<li>ITA: <b><i>FSU</i></b> - # Arkadianou def. Acena (1.75)</li>  
 </ul>
 </details>&nbsp;</li>
 </ol>

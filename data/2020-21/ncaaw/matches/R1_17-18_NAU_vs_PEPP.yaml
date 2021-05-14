@@ -15,23 +15,23 @@ Home:
     Overall: 5
     Region: 1
   Ratings:
-    ITA: 5 (60.71)
+    ITA: 5 (60.46)
     SLM: 6 (92.64)
     TRN: 6 (85.86)
     MAS: 5 (8.71)
     UTR: 4 (64.63)
   Polls:
-    USTA: 5
+    USTA: 6 (276.00)
     Coach: 4
 Visitor:
   Team: Northern Ariz.
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 18
   Seeding:
     Region: 4
   Ratings:
-    ITA: 54 (3.85)
+    ITA: 53 (3.85)
     SLM: 51 (79.81)
     TRN: 53 (69.11)
     MAS: 51 (5.50)
@@ -43,9 +43,8 @@ Predictions:
   MAS: "PEPP - #5 Pepperdine (99%) def. #51 Northern Ariz. (1%)"
   LNUP: PEPP - Pepperdine (99%) def. Northern Ariz. (1%)
   UTR: "PEPP - #4 Pepperdine (+11.68) def. #54 Northern Ariz. (-11.68)"
-  ITA: "PEPP - #5 Pepperdine def. #54 Northern Ariz."
-  USTA: "PEPP - #5 Pepperdine def. Northern Ariz."
-  Coach: "PEPP - #4 Pepperdine def. Northern Ariz."
+  ITA: "PEPP - #5 Pepperdine def. #53 Northern Ariz."
+  USTA: "PEPP - #6 Pepperdine def. Northern Ariz."
   Seeding: "PEPP - #1 Pepperdine def. #4 Northern Ariz."
 Lineups:
   Predictions:
@@ -59,9 +58,9 @@ Lineups:
       PEPP: Ashley Lahey - 7-3 at 1, 10-4 in duals, 10-4 overall
       NAU: Gina Dittmann - 14-1 at 1, 15-1 in duals, 15-1 overall
       Predictions:
-        AVG: PEPP - Lahey (89%) def. Dittmann (11%)
-        SLM: PEPP - Lahey (87%) def. Dittmann (13%)
-        TRN: PEPP - Lahey (92%) def. Dittmann (8%)
+        AVG: PEPP - Lahey (90%) def. Dittmann (10%)
+        SLM: PEPP - Lahey (89%) def. Dittmann (11%)
+        TRN: PEPP - Lahey (94%) def. Dittmann (6%)
         MAS: PEPP - Lahey (84%) def. Dittmann (16%)
         UTR: PEPP - Lahey (92%) def. Dittmann (8%)
         ITA: PEPP - Lahey (7.80) def. Dittmann (4.32)
@@ -72,7 +71,7 @@ Lineups:
         AVG: PEPP - Failla (98%) def. Bland (2%)
         SLM: PEPP - Failla (99%) def. Bland (1%)
         TRN: PEPP - Failla (99%) def. Bland (1%)
-        MAS: PEPP - Failla (94%) def. Bland (6%)
+        MAS: PEPP - Failla (95%) def. Bland (5%)
         UTR: PEPP - Failla (97%) def. Bland (3%)
         ITA: PEPP - Failla (23.38) def. Bland (2.75)
     - Position: 3
@@ -99,7 +98,7 @@ Lineups:
       PEPP: LIsa Zaar - 10-1 at 5, 19-1 in duals, 19-1 overall
       NAU: Elinor Beazley - 5-5 at 5, 8-5 in duals, 8-5 overall
       Predictions:
-        AVG: PEPP - Zaar (98%) def. Beazley (2%)
+        AVG: PEPP - Zaar (99%) def. Beazley (1%)
         SLM: PEPP - Zaar (99%) def. Beazley (1%)
         TRN: PEPP - Zaar (99%) def. Beazley (1%)
         MAS: PEPP - Zaar (97%) def. Beazley (3%)

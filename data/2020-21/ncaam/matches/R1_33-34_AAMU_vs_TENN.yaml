@@ -21,31 +21,30 @@ Home:
     MAS: 2 (9.17)
     UTR: 4 (80.17)
   Polls:
-    USTA: 4
+    USTA: 6 (290.00)
     Coach: 3
 Visitor:
   Team: Alabama A&M
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 34
   Seeding:
     Region: 4
   Ratings:
     ITA: 63 (1.60)
-    SLM: 64 (76.01)
-    TRN: 64 (72.43)
-    MAS: 65 (3.71)
-    UTR: 65 (63.25)
+    SLM: 63 (76.01)
+    TRN: 63 (72.43)
+    MAS: 64 (3.71)
+    UTR: 64 (63.25)
 Predictions:
   AVG: TENN - Tennessee (99%) def. Alabama A&M (1%)
-  SLM: "TENN - #4 Tennessee (99%) def. #64 Alabama A&M (1%)"
-  TRN: "TENN - #5 Tennessee (99%) def. #64 Alabama A&M (1%)"
-  MAS: "TENN - #2 Tennessee (99%) def. #65 Alabama A&M (1%)"
+  SLM: "TENN - #4 Tennessee (99%) def. #63 Alabama A&M (1%)"
+  TRN: "TENN - #5 Tennessee (99%) def. #63 Alabama A&M (1%)"
+  MAS: "TENN - #2 Tennessee (99%) def. #64 Alabama A&M (1%)"
   LNUP: TENN - Tennessee (99%) def. Alabama A&M (1%)
-  UTR: "TENN - #4 Tennessee (+16.92) def. #65 Alabama A&M (-16.92)"
+  UTR: "TENN - #4 Tennessee (+16.92) def. #64 Alabama A&M (-16.92)"
   ITA: "TENN - #3 Tennessee def. #63 Alabama A&M"
-  USTA: "TENN - #4 Tennessee def. Alabama A&M"
-  Coach: "TENN - #3 Tennessee def. Alabama A&M"
+  USTA: "TENN - #6 Tennessee def. Alabama A&M"
   Seeding: "TENN - #1 Tennessee def. #4 Alabama A&M"
 Lineups:
   Predictions:
@@ -64,7 +63,7 @@ Lineups:
         TRN: TENN - Walton (99%) def. Rios (1%)
         MAS: TENN - Walton (99%) def. Rios (1%)
         UTR: TENN - Walton (99%) def. Rios (1%)
-        ITA: TENN - Walton (42.60) def. Rios (0.00)
+        ITA: "AAMU - # Rios def. Walton (42.60)"
     - Position: 2
       TENN: Johannus Monday - 17-3 at 2, 22-4 in duals, 31-6 overall
       AAMU: Gjorgji Popovski - 6-6 at 2, 6-6 in duals, 6-6 overall
@@ -79,12 +78,12 @@ Lineups:
       TENN: Martim Prata - 11-8 at 3, 15-8 in duals, 22-12 overall
       AAMU: Fermin Ruiz - 0-9 at 3, 0-12 in duals, 0-12 overall
       Predictions:
-        AVG: TENN - Prata (74%) def. Ruiz (26%)
+        AVG: TENN - Prata (99%) def. Ruiz (1%)
         SLM: TENN - Prata (99%) def. Ruiz (1%)
         TRN: TENN - Prata (99%) def. Ruiz (1%)
-        MAS: AAMU - Ruiz (99%) def. Prata (1%)
+        MAS: TENN - Prata (99%) def. Ruiz (1%)
         UTR: TENN - Prata (99%) def. Ruiz (1%)
-        ITA: TENN - Prata (18.77) def. Ruiz (0.00)
+        ITA: "AAMU - # Ruiz def. Prata (18.77)"
     - Position: 4
       TENN: Luca Wiedenmann - 8-2 at 4, 20-3 in duals, 30-4 overall
       AAMU: Natiphat Mulada - 5-2 at 4, 5-4 in duals, 5-4 overall
@@ -109,11 +108,11 @@ Lineups:
       TENN: Pat Harper - 5-3 at 6, 5-4 in duals, 12-5 overall
       AAMU: Divesh Gahlot - 3-0 at 6, 3-0 in duals, 3-0 overall
       Predictions:
-        AVG: TENN - Harper (74%) def. Gahlot (26%)
+        AVG: TENN - Harper (99%) def. Gahlot (1%)
         SLM: TENN - Harper (99%) def. Gahlot (1%)
         TRN: TENN - Harper (99%) def. Gahlot (1%)
-        MAS: AAMU - Gahlot (99%) def. Harper (1%)
-        UTR: TENN - Harper (99%) def. Gahlot (1%)
+        MAS: "TENN - Harper (98%) def. # Gahlot (2%)"
+        UTR: TENN - Harper (98%) def. Gahlot (2%)
         ITA: TENN - Harper (5.43) def. Gahlot (1.77)
   Doubles:
     - Position: 1

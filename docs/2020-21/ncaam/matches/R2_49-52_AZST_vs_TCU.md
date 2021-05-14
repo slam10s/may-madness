@@ -15,7 +15,7 @@ Fort Worth, Texas
 &nbsp; TRN: 25 (91.79)<br>  
 &nbsp; Massey: 24 (7.68)<br>  
 &nbsp; UTR: 23 (78.03)<br>  
-&nbsp; USTA Poll: 19<br>  
+&nbsp; USTA Poll: 21 (88.00)<br>  
 &nbsp; Coaches Poll: 22<br>  
 <br>  
 
@@ -29,8 +29,8 @@ Fort Worth, Texas
 &#10004; TRN: 9 (96.56)<br>  
 &#10004; Massey: 6 (8.76)<br>  
 &#10004; UTR: 10 (79.71)<br>  
-&#10004; USTA Poll: 9<br>  
-&#10004; Coaches Poll: 7<br>  
+&#10004; USTA Poll: 11 (217.00)<br>  
+&nbsp; Coaches Poll: 7<br>  
 <br>  
 
 </td>
@@ -50,11 +50,10 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Slam: ***TCU*** - #9 TCU (90%) def. #25 Arizona St. (10%)  
 - TRN: ***TCU*** - #9 TCU (93%) def. #25 Arizona St. (7%)  
 - Massey: ***TCU*** - #6 TCU (96%) def. #24 Arizona St. (4%)  
-- Lineup: ***TCU*** - TCU (98%) def. Arizona St. (2%)  
+- Lineup: ***TCU*** - TCU (97%) def. Arizona St. (3%)  
 - UTR: ***TCU*** - #10 TCU (+1.68) def. #23 Arizona St. (-1.68)  
 - ITA: ***TCU*** - #7 TCU def. #20 Arizona St.  
-- USTA Poll: ***TCU*** - #9 TCU def. #19 Arizona St.  
-- Coaches Poll: ***TCU*** - #7 TCU def. #22 Arizona St.  
+- USTA Poll: ***TCU*** - #11 TCU def. #21 Arizona St.  
 - Seeding: ***TCU*** - #1 TCU def. #2 Arizona St.  
 
 ## Individual Matchups  
@@ -65,25 +64,25 @@ Click on a Singles match to show individual predections for each line.
 
 <ol>
 <li><details>
-<summary markdown="span">Nathan Ponwtih (AZST) - 14-7 at #1, 15-7 in duals, 15-7 overall<br>Alastair Gray (TCU) - 6-4 at #1, 13-7 in duals, 13-7 overall</summary>
+<summary markdown="span">Nathan Ponwith (AZST) - 14-7 at #1, 15-7 in duals, 15-7 overall<br>Alastair Gray (TCU) - 6-4 at #1, 13-7 in duals, 13-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Gray (59%) def. Ponwtih (41%)</li>  
-<li>Slam: <b><i>AZST</i></b> - Ponwtih (52%) def. Gray (48%)</li>  
-<li>TRN: <b><i>TCU</i></b> - Gray (54%) def. Ponwtih (46%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Gray (59%) def. Ponwtih (41%)</li>  
-<li>UTR: <b><i>TCU</i></b> - Gray (76%) def. Ponwtih (24%)</li>  
-<li>ITA: <b><i>TCU</i></b> - Gray (40.15) def. Ponwtih (8.02)</li>  
+<li>Composite: <b><i>TCU</i></b> - Gray (61%) def. Ponwith (39%)</li>  
+<li>Slam: <b><i>AZST</i></b> - Ponwith (52%) def. Gray (48%)</li>  
+<li>TRN: <b><i>TCU</i></b> - Gray (54%) def. Ponwith (46%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Gray (68%) def. Ponwith (32%)</li>  
+<li>UTR: <b><i>TCU</i></b> - Gray (76%) def. Ponwith (24%)</li>  
+<li>ITA: <b><i>TCU</i></b> - Gray (40.15) def. Ponwith (8.02)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Makey Rakotomalala (AZST) - 4-8 at #2, 9-10 in duals, 9-10 overall<br>Luc Fomba (TCU) - 7-3 at #2, 12-6 in duals, 12-6 overall</summary>
+<summary markdown="span">Baonoromandresy (makey) Rakotomalala (AZST) - 4-8 at #2, 9-10 in duals, 9-10 overall<br>Luc Fomba (TCU) - 7-3 at #2, 12-6 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Fomba (96%) def. Rakotomalala (4%)</li>  
-<li>Slam: <b><i>TCU</i></b> - Fomba (99%) def. Rakotomalala (1%)</li>  
-<li>TRN: <b><i>TCU</i></b> - Fomba (99%) def. Rakotomalala (1%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Fomba (87%) def. Rakotomalala (13%)</li>  
+<li>Slam: <b><i>TCU</i></b> - Fomba (86%) def. Rakotomalala (14%)</li>  
+<li>TRN: <b><i>TCU</i></b> - Fomba (93%) def. Rakotomalala (7%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Fomba (86%) def. Rakotomalala (14%)</li>  
-<li>UTR: <b><i>TCU</i></b> - Fomba (99%) def. Rakotomalala (1%)</li>  
-<li>ITA: <b><i>TCU</i></b> - Fomba (35.12) def. Rakotomalala (0.00)</li>  
+<li>UTR: <b><i>TCU</i></b> - Fomba (81%) def. Rakotomalala (19%)</li>  
+<li>ITA: <b><i>TCU</i></b> - Fomba (35.12) def. Rakotomalala (1.65)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -91,8 +90,8 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>TCU</i></b> - Jong (64%) def. Ruehl (36%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Jong (58%) def. Ruehl (42%)</li>  
-<li>TRN: <b><i>TCU</i></b> - Jong (70%) def. Ruehl (30%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Jong (64%) def. Ruehl (36%)</li>  
+<li>TRN: <b><i>TCU</i></b> - Jong (71%) def. Ruehl (29%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Jong (62%) def. Ruehl (38%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Jong (63%) def. Ruehl (37%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jong (11.43) def. Ruehl (2.65)</li>  
 </ul>
@@ -111,21 +110,21 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Max McKennon (AZST) - 3-2 at #5, 4-5 in duals, 4-5 overall<br>Tomas Jirousek (TCU) - 1-1 at #5, 6-5 in duals, 7-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Jirousek (82%) def. McKennon (18%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Jirousek (81%) def. McKennon (19%)</li>  
 <li>Slam: <b><i>TCU</i></b> - Jirousek (90%) def. McKennon (10%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Jirousek (90%) def. McKennon (10%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Jirousek (81%) def. McKennon (19%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Jirousek (78%) def. McKennon (22%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Jirousek (66%) def. McKennon (34%)</li>  
-<li>ITA: <b><i>TCU</i></b> - Jirousek (6.98) def. McKennon (0.00)</li>  
+<li>ITA: <b><i>AZST</i></b> - # McKennon def. Jirousek (6.98)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Christian Lerby (AZST) - 9-5 at #6, 12-7 in duals, 12-7 overall<br>Tadeas Paroulek (TCU) - 1-3 at #6, 7-11 in duals, 7-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Paroulek (75%) def. Lerby (25%)</li>  
-<li>Slam: <b><i>TCU</i></b> - Paroulek (82%) def. Lerby (18%)</li>  
-<li>TRN: <b><i>TCU</i></b> - Paroulek (77%) def. Lerby (23%)</li>  
-<li>Massey: <b><i>TCU</i></b> - Paroulek (63%) def. Lerby (37%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Paroulek (76%) def. Lerby (24%)</li>  
+<li>Slam: <b><i>TCU</i></b> - Paroulek (81%) def. Lerby (19%)</li>  
+<li>TRN: <b><i>TCU</i></b> - Paroulek (75%) def. Lerby (25%)</li>  
+<li>Massey: <b><i>TCU</i></b> - Paroulek (70%) def. Lerby (30%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Paroulek (79%) def. Lerby (21%)</li>  
 <li>ITA: <b><i>AZST</i></b> - Lerby (1.82) def. Paroulek (1.35)</li>  
 </ul>
@@ -152,11 +151,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- TCU should win 4 or more singles matches *90%* of the time.  
-- Arizona St. should win 4 or more singles matches *1%* of the time.  
-- The winner of the doubles point should decide the match the other *9%* of the time.  
-- If TCU wins the doubles point, their chances of winning the dual improve to *99%*.  
-- If Arizona St. wins the doubles point, their chances of winning the dual improve to *10%*.  
+- TCU should win 4 or more singles matches *88%* of the time.  
+- Arizona St. should win 4 or more singles matches *2%* of the time.  
+- The winner of the doubles point should decide the match the other *10%* of the time.  
+- If TCU wins the doubles point, their chances of winning the dual improve to *98%*.  
+- If Arizona St. wins the doubles point, their chances of winning the dual improve to *12%*.  
   
 ------
 

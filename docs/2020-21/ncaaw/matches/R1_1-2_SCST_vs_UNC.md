@@ -10,6 +10,7 @@ Chapel Hill, North Carolina
 
 <h2>#4 South Carolina St.</h2>  
 &nbsp; Record: 6-5<br>  
+&nbsp; ITA: 64 (1.85)<br>  
 &nbsp; Slam: 62 (70.68)<br>  
 &nbsp; TRN: 61 (58.72)<br>  
 &nbsp; Massey: 62 (3.52)<br>  
@@ -26,8 +27,8 @@ Chapel Hill, North Carolina
 &#10004; TRN: 1 (100.00)<br>  
 &#10004; Massey: 1 (9.82)<br>  
 &#10004; UTR: 2 (65.21)<br>  
-&#10004; USTA Poll: 1<br>  
-&#10004; Coaches Poll: 1<br>  
+&#10004; USTA Poll: 2 (325.00)<br>  
+&nbsp; Coaches Poll: 1<br>  
 <br>  
 
 </td>
@@ -48,9 +49,8 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Massey: ***UNC*** - #1 North Carolina (99%) def. #62 South Carolina St. (1%)  
 - Lineup: ***UNC*** - North Carolina (99%) def. South Carolina St. (1%)  
 - UTR: ***UNC*** - #2 North Carolina (+20.86) def. #63 South Carolina St. (-20.86)  
-- ITA: ***UNC*** - #1 North Carolina def. South Carolina St.  
-- USTA Poll: ***UNC*** - #1 North Carolina def. South Carolina St.  
-- Coaches Poll: ***UNC*** - #1 North Carolina def. South Carolina St.  
+- ITA: ***UNC*** - #1 North Carolina def. #64 South Carolina St.  
+- USTA Poll: ***UNC*** - #2 North Carolina def. South Carolina St.  
 - Seeding: ***UNC*** - #1 North Carolina def. #4 South Carolina St.  
 
 ## Individual Matchups  
@@ -68,7 +68,7 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Daavettila (99%) def. Berjane (1%)</li>  
-<li>ITA: <b><i>UNC</i></b> - Daavettila (64.17) def. Berjane (0.00)</li>  
+<li>ITA: <b><i>SCST</i></b> - # Berjane def. Daavettila (64.17)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -79,18 +79,18 @@ Click on a Singles match to show individual predections for each line.
 <li>TRN: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Graham (99%) def. Semlali (1%)</li>  
-<li>ITA: <b><i>UNC</i></b> - Graham (15.03) def. Semlali (0.00)</li>  
+<li>ITA: <b><i>SCST</i></b> - # Semlali def. Graham (15.03)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Andjela Mihajilovic (SCST) - 2-6 at #3, 2-6 in duals, 2-6 overall<br>Cameron Morra (UNC) - 6-2 at #3, 15-6 in duals, 15-6 overall</summary>
+<summary markdown="span">Andjela Mihajlovic (SCST) - 2-6 at #3, 2-6 in duals, 2-6 overall<br>Cameron Morra (UNC) - 6-2 at #3, 15-6 in duals, 15-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>TRN: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>Massey: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>UTR: <b><i>UNC</i></b> - Morra (99%) def. Mihajilovic (1%)</li>  
-<li>ITA: <b><i>UNC</i></b> - Morra (20.00) def. Mihajilovic (0.00)</li>  
+<li>Composite: <b><i>UNC</i></b> - Morra (99%) def. Mihajlovic (1%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Morra (99%) def. Mihajlovic (1%)</li>  
+<li>TRN: <b><i>UNC</i></b> - Morra (99%) def. Mihajlovic (1%)</li>  
+<li>Massey: <b><i>UNC</i></b> - Morra (99%) def. Mihajlovic (1%)</li>  
+<li>UTR: <b><i>UNC</i></b> - Morra (99%) def. Mihajlovic (1%)</li>  
+<li>ITA: <b><i>SCST</i></b> - # Mihajlovic def. Morra (20.00)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
@@ -140,7 +140,7 @@ Click on a Singles match to show individual predections for each line.
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 <li><details>
-<summary markdown="span">Mihajilovic/Aguilar (SCST) - 6-3 at #3, 6-3 in duals, 6-3 overall<br>Sanford/Tran (UNC) - 12-3 at #3, 16-3 in duals, 16-3 overall</summary>
+<summary markdown="span">Mihajlovic/Aguilar (SCST) - 6-3 at #3, 6-3 in duals, 6-3 overall<br>Sanford/Tran (UNC) - 12-3 at #3, 16-3 in duals, 16-3 overall</summary>
 <br>Sorry, we don't have any metrics for this match
 </details>&nbsp;</li>
 </ol>

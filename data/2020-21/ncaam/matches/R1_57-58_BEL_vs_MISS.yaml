@@ -21,31 +21,30 @@ Home:
     MAS: 21 (7.84)
     UTR: 25 (77.70)
   Polls:
-    USTA: 21
+    USTA: 23 (73.00)
     Coach: 16
 Visitor:
   Team: Belmont
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 58
   Seeding:
     Region: 4
   Ratings:
     ITA: 56 (4.48)
-    SLM: 57 (83.10)
-    TRN: 58 (79.14)
-    MAS: 57 (5.77)
-    UTR: 57 (70.99)
+    SLM: 56 (83.10)
+    TRN: 57 (79.14)
+    MAS: 56 (5.77)
+    UTR: 56 (70.99)
 Predictions:
   AVG: MISS - Ole Miss (99%) def. Belmont (1%)
-  SLM: "MISS - #18 Ole Miss (99%) def. #57 Belmont (1%)"
-  TRN: "MISS - #18 Ole Miss (99%) def. #58 Belmont (1%)"
-  MAS: "MISS - #21 Ole Miss (99%) def. #57 Belmont (1%)"
+  SLM: "MISS - #18 Ole Miss (99%) def. #56 Belmont (1%)"
+  TRN: "MISS - #18 Ole Miss (99%) def. #57 Belmont (1%)"
+  MAS: "MISS - #21 Ole Miss (99%) def. #56 Belmont (1%)"
   LNUP: MISS - Ole Miss (99%) def. Belmont (1%)
-  UTR: "MISS - #25 Ole Miss (+6.71) def. #57 Belmont (-6.71)"
+  UTR: "MISS - #25 Ole Miss (+6.71) def. #56 Belmont (-6.71)"
   ITA: "MISS - #14 Ole Miss def. #56 Belmont"
-  USTA: "MISS - #21 Ole Miss def. Belmont"
-  Coach: "MISS - #16 Ole Miss def. Belmont"
+  USTA: "MISS - #23 Ole Miss def. Belmont"
   Seeding: "MISS - #1 Ole Miss def. #4 Belmont"
 Lineups:
   Predictions:
@@ -59,10 +58,10 @@ Lineups:
       MISS: Tim Sandkaulen - 1-7 at 1, 8-12 in duals, 13-16 overall
       BEL: Marko Ilic - 13-4 at 1, 13-4 in duals, 13-4 overall
       Predictions:
-        AVG: MISS - Sandkaulen (86%) def. Ilic (14%)
-        SLM: MISS - Sandkaulen (79%) def. Ilic (21%)
+        AVG: MISS - Sandkaulen (87%) def. Ilic (13%)
+        SLM: MISS - Sandkaulen (80%) def. Ilic (20%)
         TRN: MISS - Sandkaulen (91%) def. Ilic (9%)
-        MAS: MISS - Sandkaulen (80%) def. Ilic (20%)
+        MAS: MISS - Sandkaulen (83%) def. Ilic (17%)
         UTR: MISS - Sandkaulen (93%) def. Ilic (7%)
         ITA: MISS - Sandkaulen (22.95) def. Ilic (2.51)
     - Position: 2
@@ -70,16 +69,16 @@ Lineups:
       BEL: Arthur Toledo - 13-3 at 2, 13-3 in duals, 13-3 overall
       Predictions:
         AVG: MISS - Reynolds (96%) def. Toledo (4%)
-        SLM: MISS - Reynolds (97%) def. Toledo (3%)
+        SLM: MISS - Reynolds (98%) def. Toledo (2%)
         TRN: MISS - Reynolds (98%) def. Toledo (2%)
-        MAS: MISS - Reynolds (93%) def. Toledo (7%)
+        MAS: MISS - Reynolds (92%) def. Toledo (8%)
         UTR: MISS - Reynolds (97%) def. Toledo (3%)
         ITA: MISS - Reynolds (36.17) def. Toledo (2.71)
     - Position: 3
       MISS: Nikola Slavic - 12-7 at 3, 13-7 in duals, 13-7 overall
       BEL: Tomas Luis - 7-5 at 3, 10-7 in duals, 10-7 overall
       Predictions:
-        AVG: MISS - Slavic (97%) def. Luis (3%)
+        AVG: MISS - Slavic (96%) def. Luis (4%)
         SLM: MISS - Slavic (99%) def. Luis (1%)
         TRN: MISS - Slavic (99%) def. Luis (1%)
         MAS: MISS - Slavic (96%) def. Luis (4%)
@@ -102,19 +101,19 @@ Lineups:
         AVG: MISS - Junk (93%) def. Miyamoto (7%)
         SLM: MISS - Junk (97%) def. Miyamoto (3%)
         TRN: MISS - Junk (98%) def. Miyamoto (2%)
-        MAS: MISS - Junk (80%) def. Miyamoto (20%)
+        MAS: MISS - Junk (83%) def. Miyamoto (17%)
         UTR: MISS - Junk (96%) def. Miyamoto (4%)
         ITA: MISS - Junk (1.99) def. Miyamoto (1.70)
     - Position: 6
       MISS: Lukas Engelhardt - 3-4 at 6, 3-7 in duals, 3-7 overall
       BEL: Alfred Wallin - 9-4 at 6, 11-4 in duals, 11-4 overall
       Predictions:
-        AVG: MISS - Engelhardt (94%) def. Wallin (6%)
+        AVG: MISS - Engelhardt (95%) def. Wallin (5%)
         SLM: MISS - Engelhardt (98%) def. Wallin (2%)
         TRN: MISS - Engelhardt (98%) def. Wallin (2%)
-        MAS: MISS - Engelhardt (86%) def. Wallin (14%)
+        MAS: MISS - Engelhardt (89%) def. Wallin (11%)
         UTR: MISS - Engelhardt (94%) def. Wallin (6%)
-        ITA: BEL - Wallin (2.75) def. Engelhardt (0.00)
+        ITA: "MISS - # Engelhardt def. Wallin (2.75)"
   Doubles:
     - Position: 1
       MISS: Sandkaulen/Reynolds - 14-2 at 1, 14-2 in duals, 14-2 overall

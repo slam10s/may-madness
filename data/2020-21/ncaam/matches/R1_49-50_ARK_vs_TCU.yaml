@@ -21,7 +21,7 @@ Home:
     MAS: 6 (8.76)
     UTR: 10 (79.71)
   Polls:
-    USTA: 9
+    USTA: 11 (217.00)
     Coach: 7
 Visitor:
   Team: Arkansas
@@ -34,7 +34,7 @@ Visitor:
     ITA: 43 (18.30)
     SLM: 43 (91.55)
     TRN: 44 (89.43)
-    MAS: 50 (6.64)
+    MAS: 49 (6.64)
     UTR: 44 (75.30)
   Polls:
     Coach: 40
@@ -42,12 +42,11 @@ Predictions:
   AVG: TCU - TCU (98%) def. Arkansas (2%)
   SLM: "TCU - #9 TCU (96%) def. #43 Arkansas (4%)"
   TRN: "TCU - #9 TCU (98%) def. #44 Arkansas (2%)"
-  MAS: "TCU - #6 TCU (99%) def. #50 Arkansas (1%)"
+  MAS: "TCU - #6 TCU (99%) def. #49 Arkansas (1%)"
   LNUP: TCU - TCU (99%) def. Arkansas (1%)
   UTR: "TCU - #10 TCU (+4.41) def. #44 Arkansas (-4.41)"
   ITA: "TCU - #7 TCU def. #43 Arkansas"
-  USTA: "TCU - #9 TCU def. Arkansas"
-  Coach: "TCU - #7 TCU def. #40 Arkansas"
+  USTA: "TCU - #11 TCU def. Arkansas"
   Seeding: "TCU - #1 TCU def. #4 Arkansas"
 Lineups:
   Predictions:
@@ -61,10 +60,10 @@ Lineups:
       TCU: Alastair Gray - 6-4 at 1, 13-7 in duals, 13-7 overall
       ARK: Alex Reco - 2-11 at 1, 7-11 in duals, 8-12 overall
       Predictions:
-        AVG: TCU - Gray (87%) def. Reco (13%)
+        AVG: TCU - Gray (88%) def. Reco (12%)
         SLM: TCU - Gray (83%) def. Reco (17%)
         TRN: TCU - Gray (88%) def. Reco (12%)
-        MAS: TCU - Gray (89%) def. Reco (11%)
+        MAS: TCU - Gray (91%) def. Reco (9%)
         UTR: TCU - Gray (89%) def. Reco (11%)
         ITA: TCU - Gray (40.15) def. Reco (4.00)
     - Position: 2
@@ -79,32 +78,32 @@ Lineups:
         ITA: TCU - Fomba (35.12) def. Verboven (1.79)
     - Position: 3
       TCU: Sander Jong - 10-5 at 3, 10-7 in duals, 11-8 overall
-      ARK: Nico Rousett - 8-5 at 3, 12-9 in duals, 15-12 overall
+      ARK: Nico Rousset - 8-5 at 3, 12-9 in duals, 15-12 overall
       Predictions:
-        AVG: TCU - Jong (83%) def. Rousett (17%)
-        SLM: TCU - Jong (79%) def. Rousett (21%)
-        TRN: TCU - Jong (81%) def. Rousett (19%)
-        MAS: TCU - Jong (81%) def. Rousett (19%)
-        UTR: TCU - Jong (91%) def. Rousett (9%)
-        ITA: TCU - Jong (11.43) def. Rousett (9.93)
+        AVG: TCU - Jong (83%) def. Rousset (17%)
+        SLM: TCU - Jong (80%) def. Rousset (20%)
+        TRN: TCU - Jong (82%) def. Rousset (18%)
+        MAS: TCU - Jong (81%) def. Rousset (19%)
+        UTR: TCU - Jong (91%) def. Rousset (9%)
+        ITA: TCU - Jong (11.43) def. Rousset (9.93)
     - Position: 4
       TCU: Jake Fearnley - 4-2 at 4, 8-3 in duals, 8-3 overall
       ARK: Aleksa Bucan - 3-4 at 4, 6-8 in duals, 10-10 overall
       Predictions:
         AVG: TCU - Fearnley (89%) def. Bucan (11%)
-        SLM: TCU - Fearnley (83%) def. Bucan (17%)
-        TRN: TCU - Fearnley (91%) def. Bucan (9%)
-        MAS: TCU - Fearnley (89%) def. Bucan (11%)
+        SLM: TCU - Fearnley (84%) def. Bucan (16%)
+        TRN: TCU - Fearnley (92%) def. Bucan (8%)
+        MAS: TCU - Fearnley (90%) def. Bucan (10%)
         UTR: TCU - Fearnley (91%) def. Bucan (9%)
         ITA: TCU - Fearnley (5.67) def. Bucan (2.10)
     - Position: 5
       TCU: Tomas Jirousek - 1-1 at 5, 6-5 in duals, 7-6 overall
       ARK: Adrien Burdet - 11-10 at 5, 11-13 in duals, 11-13 overall
       Predictions:
-        AVG: TCU - Jirousek (87%) def. Burdet (13%)
+        AVG: TCU - Jirousek (88%) def. Burdet (12%)
         SLM: TCU - Jirousek (87%) def. Burdet (13%)
         TRN: TCU - Jirousek (88%) def. Burdet (12%)
-        MAS: TCU - Jirousek (89%) def. Burdet (11%)
+        MAS: TCU - Jirousek (90%) def. Burdet (10%)
         UTR: TCU - Jirousek (86%) def. Burdet (14%)
         ITA: TCU - Jirousek (6.98) def. Burdet (1.73)
     - Position: 6
@@ -113,10 +112,10 @@ Lineups:
       Predictions:
         AVG: TCU - Paroulek (91%) def. Paya (9%)
         SLM: TCU - Paroulek (92%) def. Paya (8%)
-        TRN: TCU - Paroulek (96%) def. Paya (4%)
-        MAS: TCU - Paroulek (87%) def. Paya (13%)
+        TRN: TCU - Paroulek (95%) def. Paya (5%)
+        MAS: TCU - Paroulek (89%) def. Paya (11%)
         UTR: TCU - Paroulek (88%) def. Paya (12%)
-        ITA: TCU - Paroulek (1.35) def. Paya (0.00)
+        ITA: "ARK - # Paya def. Paroulek (1.35)"
   Doubles:
     - Position: 1
       TCU: Gray/Fomba - 10-6 at 1, 11-6 in duals, 13-6 overall

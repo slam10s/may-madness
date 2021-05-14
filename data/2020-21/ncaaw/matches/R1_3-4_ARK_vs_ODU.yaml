@@ -9,18 +9,18 @@ Winner: TBD
 Home:
   Team: Old Dominion
   Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png
-  Entry: At-Large Bid
+  Entry: Automatic Qualifier
   Draw Line: 4
   Seeding:
     Region: 2
   Ratings:
-    ITA: 30 (28.00)
+    ITA: 29 (28.00)
     SLM: 28 (89.21)
     TRN: 25 (81.50)
     MAS: 29 (7.37)
     UTR: 37 (59.77)
   Polls:
-    USTA: RV
+    USTA: RV (3.00)
     Coach: 32
 Visitor:
   Team: Arkansas
@@ -30,7 +30,7 @@ Visitor:
   Seeding:
     Region: 3
   Ratings:
-    ITA: 32 (26.02)
+    ITA: 33 (25.81)
     SLM: 38 (87.39)
     TRN: 32 (79.87)
     MAS: 41 (6.74)
@@ -38,50 +38,49 @@ Visitor:
   Polls:
     Coach: 33
 Predictions:
-  AVG: ODU - Old Dominion (71%) def. Arkansas (29%)
+  AVG: ODU - Old Dominion (72%) def. Arkansas (28%)
   SLM: "ODU - #28 Old Dominion (73%) def. #38 Arkansas (27%)"
   TRN: "ODU - #25 Old Dominion (71%) def. #32 Arkansas (29%)"
-  MAS: "ODU - #29 Old Dominion (77%) def. #41 Arkansas (23%)"
-  LNUP: ODU - Old Dominion (63%) def. Arkansas (37%)
+  MAS: "ODU - #29 Old Dominion (79%) def. #41 Arkansas (21%)"
+  LNUP: ODU - Old Dominion (65%) def. Arkansas (35%)
   UTR: "ODU - #37 Old Dominion (+0.12) def. #38 Arkansas (-0.12)"
-  ITA: "ODU - #30 Old Dominion def. #32 Arkansas"
+  ITA: "ODU - #29 Old Dominion def. #33 Arkansas"
   USTA: ODU - RV Old Dominion def. Arkansas
-  Coach: "ODU - #32 Old Dominion def. #33 Arkansas"
   Seeding: "ODU - #2 Old Dominion def. #3 Arkansas"
 Lineups:
   Predictions:
-    Average EWPs for ODU: 73%,71%,77%,63%
-    Average EWPs for ARK: 27%,29%,23%,37%
-    ODU wins 4 or more Singles points: 44%
-    ARK wins 4 or more Singles points: 25%
+    Average EWPs for ODU: 73%,71%,79%,65%
+    Average EWPs for ARK: 27%,29%,21%,35%
+    ODU wins 4 or more Singles points: 45%
+    ARK wins 4 or more Singles points: 24%
     Winner decided by the Doubles point: 31%
   Singles:
     - Position: 1
       ODU: Holly Hutchinson - 7-8 at 1, 7-8 in duals, 8-9 overall
       ARK: Indianna Spink - 6-4 at 1, 9-5 in duals, 9-5 overall
       Predictions:
-        AVG: ARK - Spink (55%) def. Hutchinson (45%)
+        AVG: ARK - Spink (56%) def. Hutchinson (44%)
         SLM: ODU - Hutchinson (61%) def. Spink (39%)
-        TRN: ARK - Spink (53%) def. Hutchinson (47%)
+        TRN: ARK - Spink (55%) def. Hutchinson (45%)
         MAS: ARK - Spink (58%) def. Hutchinson (42%)
         UTR: ARK - Spink (71%) def. Hutchinson (29%)
         ITA: ARK - Spink (13.82) def. Hutchinson (5.40)
     - Position: 2
-      ODU: Yulia Starodubtseva - 11-1 at 2, 11-1 in duals, 11-1 overall
+      ODU: Yulia Starodubsteva - 11-1 at 2, 11-1 in duals, 11-1 overall
       ARK: Kelly Keller - 7-3 at 2, 8-6 in duals, 8-6 overall
       Predictions:
-        AVG: ODU - Starodubtseva (63%) def. Keller (37%)
-        SLM: ODU - Starodubtseva (55%) def. Keller (45%)
-        TRN: ODU - Starodubtseva (74%) def. Keller (26%)
-        MAS: ODU - Starodubtseva (69%) def. Keller (31%)
-        UTR: ODU - Starodubtseva (55%) def. Keller (45%)
-        ITA: ODU - Starodubtseva (11.96) def. Keller (2.19)
+        AVG: ODU - Starodubsteva (64%) def. Keller (36%)
+        SLM: ODU - Starodubsteva (56%) def. Keller (44%)
+        TRN: ODU - Starodubsteva (74%) def. Keller (26%)
+        MAS: ODU - Starodubsteva (70%) def. Keller (30%)
+        UTR: ODU - Starodubsteva (55%) def. Keller (45%)
+        ITA: ODU - Starodubsteva (11.96) def. Keller (2.19)
     - Position: 3
       ODU: Tatsiana Sasnouskaya - 9-2 at 3, 13-2 in duals, 13-2 overall
       ARK: Tatum Rice - 8-7 at 3, 9-7 in duals, 9-7 overall
       Predictions:
         AVG: ODU - Sasnouskaya (69%) def. Rice (31%)
-        SLM: ODU - Sasnouskaya (68%) def. Rice (32%)
+        SLM: ODU - Sasnouskaya (67%) def. Rice (33%)
         TRN: ODU - Sasnouskaya (66%) def. Rice (34%)
         MAS: ODU - Sasnouskaya (75%) def. Rice (25%)
         UTR: ODU - Sasnouskaya (67%) def. Rice (33%)
@@ -90,34 +89,34 @@ Lineups:
       ODU: Alesya Yakubovich - 4-5 at 4, 6-7 in duals, 6-7 overall
       ARK: Morgan Cross - 9-10 at 4, 10-10 in duals, 10-10 overall
       Predictions:
-        AVG: ARK - Cross (65%) def. Yakubovich (35%)
-        SLM: ARK - Cross (62%) def. Yakubovich (38%)
-        TRN: ARK - Cross (68%) def. Yakubovich (32%)
+        AVG: ARK - Cross (64%) def. Yakubovich (36%)
+        SLM: ARK - Cross (61%) def. Yakubovich (39%)
+        TRN: ARK - Cross (67%) def. Yakubovich (33%)
         MAS: ARK - Cross (51%) def. Yakubovich (49%)
         UTR: ARK - Cross (79%) def. Yakubovich (21%)
     - Position: 5
       ODU: Brooke Pilkington - 2-3 at 5, 6-5 in duals, 6-5 overall
       ARK: Lauren Alter - 5-5 at 5, 6-9 in duals, 6-9 overall
       Predictions:
-        AVG: ODU - Pilkington (66%) def. Alter (34%)
+        AVG: ODU - Pilkington (65%) def. Alter (35%)
         SLM: ODU - Pilkington (54%) def. Alter (46%)
         TRN: ODU - Pilkington (55%) def. Alter (45%)
-        MAS: ODU - Pilkington (74%) def. Alter (26%)
+        MAS: ODU - Pilkington (73%) def. Alter (27%)
         UTR: ODU - Pilkington (79%) def. Alter (21%)
-        ITA: ODU - Pilkington (1.80) def. Alter (0.00)
+        ITA: "ARK - # Alter def. Pilkington (1.80)"
     - Position: 6
       ODU: Alexandra Viktorovich - 6-2 at 6, 7-4 in duals, 7-4 overall
       ARK: Laura Rijkers - 7-0 at 6, 7-8 in duals, 7-8 overall
       Predictions:
-        AVG: ODU - Viktorovich (53%) def. Rijkers (47%)
+        AVG: ODU - Viktorovich (54%) def. Rijkers (46%)
         SLM: ARK - Rijkers (54%) def. Viktorovich (46%)
-        TRN: ARK - Rijkers (68%) def. Viktorovich (32%)
-        MAS: ODU - Viktorovich (55%) def. Rijkers (45%)
+        TRN: ARK - Rijkers (67%) def. Viktorovich (33%)
+        MAS: ODU - Viktorovich (58%) def. Rijkers (42%)
         UTR: ODU - Viktorovich (80%) def. Rijkers (20%)
         ITA: ODU - Viktorovich (2.38) def. Rijkers (1.60)
   Doubles:
     - Position: 1
-      ODU: Starodubtseva/Yakubovich - 5-5 at 1, 5-5 in duals, 5-5 overall
+      ODU: Starodubsteva/Yakubovich - 5-5 at 1, 5-5 in duals, 5-5 overall
       ARK: Cross/Rice - 5-2 at 1, 5-2 in duals, 5-2 overall
     - Position: 2
       ODU: Hutchinson/Sasnouskaya - 11-0 at 2, 12-1 in duals, 12-1 overall
