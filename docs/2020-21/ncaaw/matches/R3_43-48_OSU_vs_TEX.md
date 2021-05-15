@@ -9,10 +9,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#15 Ohio St.</h2>  
 &nbsp; Record: 23-3<br>  
 &nbsp; ITA: 16 (46.78)<br>  
-&nbsp; Slam: 5 (92.95)<br>  
-&nbsp; TRN: 5 (85.87)<br>  
-&nbsp; Massey: 8 (8.22)<br>  
-&nbsp; UTR: 25 (61.53)<br>  
+&nbsp; Slam: 6 (92.85)<br>  
+&nbsp; TRN: 6 (89.09)<br>  
+&nbsp; Massey: 8 (8.23)<br>  
+&nbsp; UTR: 20 (61.69)<br>  
 &nbsp; USTA Poll: 7 (249.00)<br>  
 &nbsp; Coaches Poll: 13<br>  
 <br>  
@@ -23,10 +23,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#2 Texas</h2>  
 &nbsp; Record: 27-1<br>  
 &#10004; ITA: 2 (79.31)<br>  
-&#10004; Slam: 2 (98.44)<br>  
-&#10004; TRN: 2 (97.97)<br>  
-&#10004; Massey: 2 (9.38)<br>  
-&#10004; UTR: 1 (65.59)<br>  
+&#10004; Slam: 2 (98.39)<br>  
+&#10004; TRN: 2 (97.57)<br>  
+&#10004; Massey: 2 (9.42)<br>  
+&#10004; UTR: 1 (65.53)<br>  
 &#10004; USTA Poll: 3 (312.00)<br>  
 &#10004; Coaches Poll: 2<br>  
 <br>  
@@ -41,11 +41,11 @@ Third Round[](#top)<a name="top"></a>
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***TEX*** - Texas (96%) def. Ohio St. (4%)  
-- Slam: ***TEX*** - #2 Texas (95%) def. #5 Ohio St. (5%)  
-- TRN: ***TEX*** - #2 Texas (99%) def. #5 Ohio St. (1%)  
+- Slam: ***TEX*** - #2 Texas (96%) def. #6 Ohio St. (4%)  
+- TRN: ***TEX*** - #2 Texas (99%) def. #6 Ohio St. (1%)  
 - Massey: ***TEX*** - #2 Texas (91%) def. #8 Ohio St. (9%)  
-- Lineup: ***TEX*** - Texas (98%) def. Ohio St. (2%)  
-- UTR: ***TEX*** - #1 Texas (+4.06) def. #25 Ohio St. (-4.06)  
+- Lineup: ***TEX*** - Texas (97%) def. Ohio St. (3%)  
+- UTR: ***TEX*** - #1 Texas (+3.84) def. #20 Ohio St. (-3.84)  
 - ITA: ***TEX*** - #2 Texas def. #16 Ohio St.  
 - USTA Poll: ***TEX*** - #3 Texas def. #7 Ohio St.  
 - Coaches Poll: ***TEX*** - #2 Texas def. #13 Ohio St.  
@@ -63,20 +63,20 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>TEX</i></b> - Stearns (50%) def. Siemers (50%)</li>  
 <li>Slam: <b><i>OSU</i></b> - Siemers (54%) def. Stearns (46%)</li>  
-<li>TRN: <b><i>OSU</i></b> - Siemers (65%) def. Stearns (35%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Siemers (66%) def. Stearns (34%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Stearns (51%) def. Siemers (49%)</li>  
-<li>UTR: <b><i>TEX</i></b> - Stearns (68%) def. Siemers (32%)</li>  
+<li>UTR: <b><i>TEX</i></b> - Stearns (72%) def. Siemers (28%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Siemers (24.34) def. Stearns (16.38)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Isabelle Boulais (OSU) - 6-3 at #2, 11-5 in duals, 11-5 overall<br>Anna Turati (TEX) - 9-2 at #2, 17-3 in duals, 17-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Turati (79%) def. Boulais (21%)</li>  
-<li>Slam: <b><i>TEX</i></b> - Turati (85%) def. Boulais (15%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Turati (78%) def. Boulais (22%)</li>  
+<li>Slam: <b><i>TEX</i></b> - Turati (84%) def. Boulais (16%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Turati (84%) def. Boulais (16%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Turati (56%) def. Boulais (44%)</li>  
-<li>UTR: <b><i>TEX</i></b> - Turati (91%) def. Boulais (9%)</li>  
+<li>UTR: <b><i>TEX</i></b> - Turati (89%) def. Boulais (11%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Turati (17.31) def. Boulais (2.65)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -98,18 +98,18 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>TEX</i></b> - Chavatipon (89%) def. Hofbauer (11%)</li>  
 <li>TRN: <b><i>TEX</i></b> - Chavatipon (96%) def. Hofbauer (4%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Chavatipon (86%) def. Hofbauer (14%)</li>  
-<li>UTR: <b><i>TEX</i></b> - Chavatipon (91%) def. Hofbauer (9%)</li>  
+<li>UTR: <b><i>TEX</i></b> - Chavatipon (88%) def. Hofbauer (12%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Chavatipon (7.87) def. Hofbauer (2.47)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Lucia Marzal Martinez (OSU) - 10-2 at #5, 19-2 in duals, 21-3 overall<br>Kylie Collins (TEX) - 9-2 at #5, 16-2 in duals, 16-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Collins (83%) def. Martinez (17%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Collins (82%) def. Martinez (18%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Collins (81%) def. Martinez (19%)</li>  
-<li>TRN: <b><i>TEX</i></b> - Collins (86%) def. Martinez (14%)</li>  
+<li>TRN: <b><i>TEX</i></b> - Collins (83%) def. Martinez (17%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Collins (79%) def. Martinez (21%)</li>  
-<li>UTR: <b><i>TEX</i></b> - Collins (88%) def. Martinez (12%)</li>  
+<li>UTR: <b><i>TEX</i></b> - Collins (87%) def. Martinez (13%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Collins (8.04) def. Martinez (3.08)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -117,10 +117,10 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Luna Dormet (OSU) - 9-1 at #6, 17-1 in duals, 19-1 overall<br>Fernanda Labraña (TEX) - 5-1 at #6, 14-1 in duals, 21-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>TEX</i></b> - Labraña (69%) def. Dormet (31%)</li>  
-<li>Slam: <b><i>TEX</i></b> - Labraña (71%) def. Dormet (29%)</li>  
-<li>TRN: <b><i>TEX</i></b> - Labraña (83%) def. Dormet (17%)</li>  
+<li>Slam: <b><i>TEX</i></b> - Labraña (70%) def. Dormet (30%)</li>  
+<li>TRN: <b><i>TEX</i></b> - Labraña (82%) def. Dormet (18%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Labraña (54%) def. Dormet (46%)</li>  
-<li>UTR: <b><i>TEX</i></b> - Labraña (70%) def. Dormet (30%)</li>  
+<li>UTR: <b><i>TEX</i></b> - Labraña (69%) def. Dormet (31%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Labraña (4.28) def. Dormet (3.78)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Texas should win 4 or more singles matches *90%* of the time.  
-- Ohio St. should win 4 or more singles matches *1%* of the time.  
+- Texas should win 4 or more singles matches *89%* of the time.  
+- Ohio St. should win 4 or more singles matches *2%* of the time.  
 - The winner of the doubles point should decide the match the other *9%* of the time.  
-- If Texas wins the doubles point, their chances of winning the dual improve to *99%*.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to *10%*.  
+- If Texas wins the doubles point, their chances of winning the dual improve to *98%*.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to *11%*.  
   
 ------
 

@@ -9,10 +9,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#14 Virginia</h2>  
 &nbsp; Record: 16-6<br>  
 &nbsp; ITA: 13 (48.31)<br>  
-&nbsp; Slam: 9 (91.88)<br>  
-&nbsp; TRN: 11 (84.03)<br>  
-&nbsp; Massey: 7 (8.25)<br>  
-&nbsp; UTR: 13 (62.41)<br>  
+&nbsp; Slam: 7 (92.16)<br>  
+&nbsp; TRN: 11 (87.36)<br>  
+&nbsp; Massey: 7 (8.28)<br>  
+&nbsp; UTR: 13 (62.35)<br>  
 &nbsp; USTA Poll: 11 (202.00)<br>  
 &nbsp; Coaches Poll: 11<br>  
 <br>  
@@ -23,10 +23,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#3 Georgia</h2>  
 &nbsp; Record: 22-1<br>  
 &#10004; ITA: 3 (73.77)<br>  
-&#10004; Slam: 3 (97.81)<br>  
-&#10004; TRN: 3 (94.01)<br>  
-&#10004; Massey: 3 (9.29)<br>  
-&#10004; UTR: 3 (64.69)<br>  
+&#10004; Slam: 3 (97.71)<br>  
+&#10004; TRN: 3 (96.36)<br>  
+&#10004; Massey: 3 (9.18)<br>  
+&#10004; UTR: 4 (64.73)<br>  
 &#10004; USTA Poll: 4 (299.00)<br>  
 &#10004; Coaches Poll: 3<br>  
 <br>  
@@ -41,11 +41,11 @@ Third Round[](#top)<a name="top"></a>
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***UGA*** - Georgia (93%) def. Virginia (7%)  
-- Slam: ***UGA*** - #3 Georgia (96%) def. #9 Virginia (4%)  
+- Slam: ***UGA*** - #3 Georgia (96%) def. #7 Virginia (4%)  
 - TRN: ***UGA*** - #3 Georgia (99%) def. #11 Virginia (1%)  
 - Massey: ***UGA*** - #3 Georgia (82%) def. #7 Virginia (18%)  
 - Lineup: ***UGA*** - Georgia (95%) def. Virginia (5%)  
-- UTR: ***UGA*** - #3 Georgia (+2.28) def. #13 Virginia (-2.28)  
+- UTR: ***UGA*** - #4 Georgia (+2.38) def. #13 Virginia (-2.38)  
 - ITA: ***UGA*** - #3 Georgia def. #13 Virginia  
 - USTA Poll: ***UGA*** - #4 Georgia def. #11 Virginia  
 - Coaches Poll: ***UGA*** - #3 Georgia def. #11 Virginia  
@@ -61,44 +61,44 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Emma Navarro (UVA) - 17-1 at #1, 17-1 in duals, 17-1 overall<br>Katarina Jokic (UGA) - 15-0 at #1, 15-0 in duals, 24-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UVA</i></b> - Navarro (52%) def. Jokic (48%)</li>  
+<li>Composite: <b><i>UVA</i></b> - Navarro (53%) def. Jokic (47%)</li>  
 <li>Slam: <b><i>UGA</i></b> - Jokic (52%) def. Navarro (48%)</li>  
 <li>TRN: <b><i>UVA</i></b> - Navarro (55%) def. Jokic (45%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Navarro (51%) def. Jokic (49%)</li>  
-<li>UTR: <b><i>UVA</i></b> - Navarro (58%) def. Jokic (42%)</li>  
+<li>UTR: <b><i>UVA</i></b> - Navarro (60%) def. Jokic (40%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Navarro (62.96) def. Jokic (60.56)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Natasha Subhash (UVA) - 14-4 at #2, 15-4 in duals, 15-5 overall<br>Lea Ma (UGA) - 13-3 at #2, 13-3 in duals, 14-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UVA</i></b> - Subhash (51%) def. Ma (49%)</li>  
-<li>Slam: <b><i>UGA</i></b> - Ma (62%) def. Subhash (38%)</li>  
-<li>TRN: <b><i>UVA</i></b> - Subhash (51%) def. Ma (49%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Ma (50%) def. Subhash (50%)</li>  
+<li>Slam: <b><i>UGA</i></b> - Ma (61%) def. Subhash (39%)</li>  
+<li>TRN: <b><i>UVA</i></b> - Subhash (52%) def. Ma (48%)</li>  
 <li>Massey: <b><i>UVA</i></b> - Subhash (53%) def. Ma (47%)</li>  
-<li>UTR: <b><i>UVA</i></b> - Subhash (58%) def. Ma (42%)</li>  
+<li>UTR: <b><i>UVA</i></b> - Subhash (53%) def. Ma (47%)</li>  
 <li>ITA: <b><i>UVA</i></b> - Subhash (40.00) def. Ma (11.14)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Rosie Johanson (UVA) - 15-2 at #3, 16-2 in duals, 16-4 overall<br>Meg Kowalski (UGA) - 12-1 at #3, 12-1 in duals, 22-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UGA</i></b> - Kowalski (68%) def. Johanson (32%)</li>  
-<li>Slam: <b><i>UGA</i></b> - Kowalski (77%) def. Johanson (23%)</li>  
-<li>TRN: <b><i>UGA</i></b> - Kowalski (80%) def. Johanson (20%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Kowalski (69%) def. Johanson (31%)</li>  
+<li>Slam: <b><i>UGA</i></b> - Kowalski (74%) def. Johanson (26%)</li>  
+<li>TRN: <b><i>UGA</i></b> - Kowalski (77%) def. Johanson (23%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Kowalski (62%) def. Johanson (38%)</li>  
-<li>UTR: <b><i>UGA</i></b> - Kowalski (55%) def. Johanson (45%)</li>  
+<li>UTR: <b><i>UGA</i></b> - Kowalski (61%) def. Johanson (39%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Kowalski (23.73) def. Johanson (6.37)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Hibah Shaikh (UVA) - 4-9 at #4, 6-9 in duals, 7-10 overall<br>Morgan Coppoc (UGA) - 15-2 at #4, 15-2 in duals, 23-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UGA</i></b> - Coppoc (90%) def. Shaikh (10%)</li>  
-<li>Slam: <b><i>UGA</i></b> - Coppoc (90%) def. Shaikh (10%)</li>  
-<li>TRN: <b><i>UGA</i></b> - Coppoc (93%) def. Shaikh (7%)</li>  
+<li>Composite: <b><i>UGA</i></b> - Coppoc (89%) def. Shaikh (11%)</li>  
+<li>Slam: <b><i>UGA</i></b> - Coppoc (88%) def. Shaikh (12%)</li>  
+<li>TRN: <b><i>UGA</i></b> - Coppoc (90%) def. Shaikh (10%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Coppoc (87%) def. Shaikh (13%)</li>  
-<li>UTR: <b><i>UGA</i></b> - Coppoc (90%) def. Shaikh (10%)</li>  
+<li>UTR: <b><i>UGA</i></b> - Coppoc (89%) def. Shaikh (11%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Coppoc (8.66) def. Shaikh (1.63)</li>  
 </ul>
 </details>&nbsp;</li>

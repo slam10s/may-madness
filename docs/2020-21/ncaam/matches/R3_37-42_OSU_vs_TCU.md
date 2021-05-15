@@ -9,10 +9,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>Ohio St.</h2>  
 &nbsp; Record: 22-3<br>  
 &nbsp; ITA: 35 (25.05)<br>  
-&#10004; Slam: 7 (97.86)<br>  
-&#10004; TRN: 8 (97.23)<br>  
-&nbsp; Massey: 10 (8.60)<br>  
-&#10004; UTR: 3 (80.28)<br>  
+&#10004; Slam: 7 (98.39)<br>  
+&#10004; TRN: 8 (97.40)<br>  
+&nbsp; Massey: 7 (8.72)<br>  
+&#10004; UTR: 5 (80.04)<br>  
 &#10004; USTA Poll: 9 (239.00)<br>  
 &nbsp; Coaches Poll: 17<br>  
 <br>  
@@ -23,10 +23,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#7 TCU</h2>  
 &nbsp; Record: 18-7<br>  
 &#10004; ITA: 7 (69.22)<br>  
-&nbsp; Slam: 9 (97.57)<br>  
-&nbsp; TRN: 9 (96.56)<br>  
-&#10004; Massey: 6 (8.76)<br>  
-&nbsp; UTR: 10 (79.71)<br>  
+&nbsp; Slam: 9 (97.80)<br>  
+&nbsp; TRN: 9 (96.92)<br>  
+&#10004; Massey: 6 (8.80)<br>  
+&nbsp; UTR: 9 (79.72)<br>  
 &nbsp; USTA Poll: 11 (217.00)<br>  
 &#10004; Coaches Poll: 7<br>  
 <br>  
@@ -41,11 +41,11 @@ Third Round[](#top)<a name="top"></a>
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***OSU*** - Ohio St. (58%) def. TCU (42%)  
-- Slam: ***OSU*** - #7 Ohio St. (54%) def. #9 TCU (46%)  
-- TRN: ***OSU*** - #8 Ohio St. (59%) def. #9 TCU (41%)  
-- Massey: ***TCU*** - #6 TCU (53%) def. #10 Ohio St. (47%)  
-- Lineup: ***OSU*** - Ohio St. (74%) def. TCU (26%)  
-- UTR: ***OSU*** - #3 Ohio St. (+0.57) def. #10 TCU (-0.57)  
+- Slam: ***OSU*** - #7 Ohio St. (58%) def. #9 TCU (42%)  
+- TRN: ***OSU*** - #8 Ohio St. (56%) def. #9 TCU (44%)  
+- Massey: ***TCU*** - #6 TCU (53%) def. #7 Ohio St. (47%)  
+- Lineup: ***OSU*** - Ohio St. (70%) def. TCU (30%)  
+- UTR: ***OSU*** - #5 Ohio St. (+0.32) def. #9 TCU (-0.32)  
 - ITA: ***TCU*** - #7 TCU def. #35 Ohio St.  
 - USTA Poll: ***OSU*** - #9 Ohio St. def. #11 TCU  
 - Coaches Poll: ***TCU*** - #7 TCU def. #17 Ohio St.  
@@ -61,41 +61,41 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">John McNally (OSU) - 10-2 at #1, 16-4 in duals, 21-4 overall<br>Alastair Gray (TCU) - 6-4 at #1, 13-7 in duals, 13-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - McNally (56%) def. Gray (44%)</li>  
-<li>Slam: <b><i>OSU</i></b> - McNally (74%) def. Gray (26%)</li>  
-<li>TRN: <b><i>OSU</i></b> - McNally (69%) def. Gray (31%)</li>  
+<li>Composite: <b><i>OSU</i></b> - McNally (54%) def. Gray (46%)</li>  
+<li>Slam: <b><i>OSU</i></b> - McNally (69%) def. Gray (31%)</li>  
+<li>TRN: <b><i>OSU</i></b> - McNally (62%) def. Gray (38%)</li>  
 <li>Massey: <b><i>OSU</i></b> - McNally (52%) def. Gray (48%)</li>  
-<li>UTR: <b><i>TCU</i></b> - Gray (71%) def. McNally (29%)</li>  
+<li>UTR: <b><i>TCU</i></b> - Gray (67%) def. McNally (33%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Gray (40.15) def. McNally (3.89)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Cannon Kingsley (OSU) - 12-0 at #2, 21-0 in duals, 27-0 overall<br>Luc Fomba (TCU) - 7-3 at #2, 12-6 in duals, 12-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Kingsley (68%) def. Fomba (32%)</li>  
-<li>Slam: <b><i>OSU</i></b> - Kingsley (77%) def. Fomba (23%)</li>  
-<li>TRN: <b><i>OSU</i></b> - Kingsley (69%) def. Fomba (31%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Kingsley (67%) def. Fomba (33%)</li>  
+<li>Slam: <b><i>OSU</i></b> - Kingsley (74%) def. Fomba (26%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Kingsley (67%) def. Fomba (33%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Kingsley (53%) def. Fomba (47%)</li>  
-<li>UTR: <b><i>OSU</i></b> - Kingsley (76%) def. Fomba (24%)</li>  
+<li>UTR: <b><i>OSU</i></b> - Kingsley (74%) def. Fomba (26%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Fomba (35.12) def. Kingsley (5.20)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">James Trotter (OSU) - 13-1 at #3, 13-1 in duals, 13-1 overall<br>Sander Jong (TCU) - 10-5 at #3, 10-7 in duals, 11-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Trotter (59%) def. Jong (41%)</li>  
-<li>Slam: <b><i>OSU</i></b> - Trotter (61%) def. Jong (39%)</li>  
-<li>TRN: <b><i>OSU</i></b> - Trotter (58%) def. Jong (42%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Trotter (57%) def. Jong (43%)</li>  
+<li>Slam: <b><i>OSU</i></b> - Trotter (59%) def. Jong (41%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Trotter (60%) def. Jong (40%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Trotter (50%) def. Jong (50%)</li>  
-<li>UTR: <b><i>OSU</i></b> - Trotter (68%) def. Jong (32%)</li>  
+<li>UTR: <b><i>OSU</i></b> - Trotter (60%) def. Jong (40%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jong (11.43) def. Trotter (3.90)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Justin Boulais (OSU) - 5-1 at #4, 7-1 in duals, 7-1 overall<br>Jake Fearnley (TCU) - 4-2 at #4, 8-3 in duals, 8-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Fearnley (76%) def. Boulais (24%)</li>  
-<li>Slam: <b><i>TCU</i></b> - Fearnley (66%) def. Boulais (34%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Fearnley (78%) def. Boulais (22%)</li>  
+<li>Slam: <b><i>TCU</i></b> - Fearnley (74%) def. Boulais (26%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Fearnley (81%) def. Boulais (19%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Fearnley (74%) def. Boulais (26%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Fearnley (84%) def. Boulais (16%)</li>  
@@ -105,22 +105,22 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kyle Seelig (OSU) - 3-0 at #5, 15-4 in duals, 18-8 overall<br>Tomas Jirousek (TCU) - 1-1 at #5, 6-5 in duals, 7-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Seelig (59%) def. Jirousek (41%)</li>  
-<li>Slam: <b><i>OSU</i></b> - Seelig (62%) def. Jirousek (38%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Seelig (56%) def. Jirousek (44%)</li>  
+<li>Slam: <b><i>OSU</i></b> - Seelig (59%) def. Jirousek (41%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Jirousek (51%) def. Seelig (49%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Jirousek (52%) def. Seelig (48%)</li>  
-<li>UTR: <b><i>OSU</i></b> - Seelig (76%) def. Jirousek (24%)</li>  
+<li>UTR: <b><i>OSU</i></b> - Seelig (71%) def. Jirousek (29%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jirousek (6.98) def. Seelig (2.02)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">JJ Tracy (OSU) - 6-0 at #6, 21-1 in duals, 24-3 overall<br>Tadeas Paroulek (TCU) - 1-3 at #6, 7-11 in duals, 7-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>OSU</i></b> - Tracy (85%) def. Paroulek (15%)</li>  
-<li>Slam: <b><i>OSU</i></b> - Tracy (83%) def. Paroulek (17%)</li>  
-<li>TRN: <b><i>OSU</i></b> - Tracy (91%) def. Paroulek (9%)</li>  
+<li>Composite: <b><i>OSU</i></b> - Tracy (84%) def. Paroulek (16%)</li>  
+<li>Slam: <b><i>OSU</i></b> - Tracy (81%) def. Paroulek (19%)</li>  
+<li>TRN: <b><i>OSU</i></b> - Tracy (90%) def. Paroulek (10%)</li>  
 <li>Massey: <b><i>OSU</i></b> - Tracy (80%) def. Paroulek (20%)</li>  
-<li>UTR: <b><i>OSU</i></b> - Tracy (88%) def. Paroulek (12%)</li>  
+<li>UTR: <b><i>OSU</i></b> - Tracy (87%) def. Paroulek (13%)</li>  
 <li>ITA: <b><i>OSU</i></b> - Tracy (3.11) def. Paroulek (1.35)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- TCU should win 4 or more singles matches *18%* of the time.  
-- Ohio St. should win 4 or more singles matches *52%* of the time.  
-- The winner of the doubles point should decide the match the other *30%* of the time.  
-- If TCU wins the doubles point, their chances of winning the dual improve to *48%*.  
-- If Ohio St. wins the doubles point, their chances of winning the dual improve to *82%*.  
+- TCU should win 4 or more singles matches *20%* of the time.  
+- Ohio St. should win 4 or more singles matches *48%* of the time.  
+- The winner of the doubles point should decide the match the other *32%* of the time.  
+- If TCU wins the doubles point, their chances of winning the dual improve to *52%*.  
+- If Ohio St. wins the doubles point, their chances of winning the dual improve to *80%*.  
   
 ------
 

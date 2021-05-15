@@ -16,10 +16,10 @@ Home:
     Region: 1
   Ratings:
     ITA: 4 (74.24)
-    SLM: 8 (97.59)
-    TRN: 7 (97.63)
-    MAS: 11 (8.54)
-    UTR: 14 (79.01)
+    SLM: 8 (97.83)
+    TRN: 7 (97.91)
+    MAS: 10 (8.59)
+    UTR: 13 (79.04)
   Polls:
     USTA: 8 (263.00)
     Coach: 4
@@ -33,31 +33,31 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 13 (51.06)
-    SLM: 15 (96.20)
-    TRN: 15 (94.49)
-    MAS: 16 (8.13)
+    SLM: 13 (96.17)
+    TRN: 16 (94.52)
+    MAS: 17 (8.20)
     UTR: 17 (78.69)
   Polls:
     USTA: 17 (133.00)
     Coach: 13
 Predictions:
-  AVG: TEX - Texas (63%) def. South Carolina (37%)
-  SLM: "TEX - #8 Texas (69%) def. #15 South Carolina (31%)"
-  TRN: "TEX - #7 Texas (85%) def. #15 South Carolina (15%)"
-  MAS: "TEX - #11 Texas (58%) def. #16 South Carolina (42%)"
+  AVG: TEX - Texas (65%) def. South Carolina (35%)
+  SLM: "TEX - #8 Texas (72%) def. #13 South Carolina (28%)"
+  TRN: "TEX - #7 Texas (87%) def. #16 South Carolina (13%)"
+  MAS: "TEX - #10 Texas (58%) def. #17 South Carolina (42%)"
   LNUP: SCAR - South Carolina (58%) def. Texas (42%)
-  UTR: "TEX - #14 Texas (+0.32) def. #17 South Carolina (-0.32)"
+  UTR: "TEX - #13 Texas (+0.35) def. #17 South Carolina (-0.35)"
   ITA: "TEX - #4 Texas def. #13 South Carolina"
   USTA: "TEX - #8 Texas def. #17 South Carolina"
   Coach: "TEX - #4 Texas def. #13 South Carolina"
   Seeding: "TEX - #4 Texas def. #13 South Carolina"
 Lineups:
   Predictions:
-    Average EWPs for TEX: 69%,85%,58%,42%
-    Average EWPs for SCAR: 31%,15%,42%,58%
+    Average EWPs for TEX: 72%,87%,58%,42%
+    Average EWPs for SCAR: 28%,13%,42%,58%
     TEX wins 4 or more Singles points: 28%
-    SCAR wins 4 or more Singles points: 40%
-    Winner decided by the Doubles point: 32%
+    SCAR wins 4 or more Singles points: 39%
+    Winner decided by the Doubles point: 33%
   Singles:
     - Position: 1
       TEX: Eliot Spizzirri - 9-6 at 1, 15-8 in duals, 22-9 overall
@@ -65,9 +65,9 @@ Lineups:
       Predictions:
         AVG: SCAR - Rodrigues (77%) def. Spizzirri (23%)
         SLM: SCAR - Rodrigues (76%) def. Spizzirri (24%)
-        TRN: SCAR - Rodrigues (73%) def. Spizzirri (27%)
+        TRN: SCAR - Rodrigues (74%) def. Spizzirri (26%)
         MAS: SCAR - Rodrigues (76%) def. Spizzirri (24%)
-        UTR: SCAR - Rodrigues (82%) def. Spizzirri (18%)
+        UTR: SCAR - Rodrigues (83%) def. Spizzirri (17%)
         ITA: SCAR - Rodrigues (58.79) def. Spizzirri (28.17)
     - Position: 2
       TEX: Micah Braswell - 9-4 at 2, 17-5 in duals, 32-6 overall
@@ -83,29 +83,29 @@ Lineups:
       TEX: Siem Woldeab - 5-1 at 3, 9-7 in duals, 14-12 overall
       SCAR: Toby Samuel - 4-2 at 3, 16-4 in duals, 24-7 overall
       Predictions:
-        AVG: SCAR - Samuel (54%) def. Woldeab (46%)
+        AVG: SCAR - Samuel (53%) def. Woldeab (47%)
         SLM: TEX - Woldeab (62%) def. Samuel (38%)
-        TRN: SCAR - Samuel (56%) def. Woldeab (44%)
+        TRN: SCAR - Samuel (55%) def. Woldeab (45%)
         MAS: SCAR - Samuel (65%) def. Woldeab (35%)
-        UTR: SCAR - Samuel (58%) def. Woldeab (42%)
+        UTR: SCAR - Samuel (56%) def. Woldeab (44%)
         ITA: SCAR - Samuel (10.78) def. Woldeab (9.31)
     - Position: 4
       TEX: Cleeve Harper - 14-3 at 4, 17-5 in duals, 22-9 overall
       SCAR: Raphael Lambling - 0-2 at 4, 6-12 in duals, 11-18 overall
       Predictions:
-        AVG: TEX - Harper (60%) def. Lambling (40%)
-        SLM: SCAR - Lambling (51%) def. Harper (49%)
-        TRN: TEX - Harper (65%) def. Lambling (35%)
+        AVG: TEX - Harper (62%) def. Lambling (38%)
+        SLM: TEX - Harper (50%) def. Lambling (50%)
+        TRN: TEX - Harper (66%) def. Lambling (34%)
         MAS: TEX - Harper (66%) def. Lambling (34%)
-        UTR: TEX - Harper (62%) def. Lambling (38%)
+        UTR: TEX - Harper (67%) def. Lambling (33%)
         ITA: SCAR - Lambling (15.34) def. Harper (5.83)
     - Position: 5
       TEX: Chih Chi Huang - 9-7 at 5, 11-8 in duals, 15-17 overall
       SCAR: Jake Beasley - 7-7 at 5, 12-8 in duals, 18-10 overall
       Predictions:
         AVG: SCAR - Beasley (60%) def. Huang (40%)
-        SLM: SCAR - Beasley (58%) def. Huang (42%)
-        TRN: SCAR - Beasley (66%) def. Huang (34%)
+        SLM: SCAR - Beasley (56%) def. Huang (44%)
+        TRN: SCAR - Beasley (67%) def. Huang (33%)
         MAS: SCAR - Beasley (53%) def. Huang (47%)
         UTR: SCAR - Beasley (64%) def. Huang (36%)
         ITA: "TEX - # Huang def. Beasley (1.73)"
@@ -113,8 +113,8 @@ Lineups:
       TEX: Evin McDonald - 6-9 at 6, 11-10 in duals, 15-16 overall
       SCAR: Thomas Brown - 2-2 at 6, 3-2 in duals, 11-6 overall
       Predictions:
-        AVG: SCAR - Brown (58%) def. McDonald (42%)
-        SLM: SCAR - Brown (62%) def. McDonald (38%)
+        AVG: SCAR - Brown (57%) def. McDonald (43%)
+        SLM: SCAR - Brown (61%) def. McDonald (39%)
         TRN: SCAR - Brown (63%) def. McDonald (37%)
         MAS: SCAR - Brown (59%) def. McDonald (41%)
         UTR: TEX - McDonald (53%) def. Brown (47%)

@@ -16,10 +16,10 @@ Home:
     Region: 1
   Ratings:
     ITA: 3 (73.77)
-    SLM: 3 (97.81)
-    TRN: 3 (94.01)
-    MAS: 3 (9.29)
-    UTR: 3 (64.69)
+    SLM: 3 (97.71)
+    TRN: 3 (96.36)
+    MAS: 3 (9.18)
+    UTR: 4 (64.73)
   Polls:
     USTA: 4 (299.00)
     Coach: 3
@@ -33,20 +33,20 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 13 (48.31)
-    SLM: 9 (91.88)
-    TRN: 11 (84.03)
-    MAS: 7 (8.25)
-    UTR: 13 (62.41)
+    SLM: 7 (92.16)
+    TRN: 11 (87.36)
+    MAS: 7 (8.28)
+    UTR: 13 (62.35)
   Polls:
     USTA: 11 (202.00)
     Coach: 11
 Predictions:
   AVG: UGA - Georgia (93%) def. Virginia (7%)
-  SLM: "UGA - #3 Georgia (96%) def. #9 Virginia (4%)"
+  SLM: "UGA - #3 Georgia (96%) def. #7 Virginia (4%)"
   TRN: "UGA - #3 Georgia (99%) def. #11 Virginia (1%)"
   MAS: "UGA - #3 Georgia (82%) def. #7 Virginia (18%)"
   LNUP: UGA - Georgia (95%) def. Virginia (5%)
-  UTR: "UGA - #3 Georgia (+2.28) def. #13 Virginia (-2.28)"
+  UTR: "UGA - #4 Georgia (+2.38) def. #13 Virginia (-2.38)"
   ITA: "UGA - #3 Georgia def. #13 Virginia"
   USTA: "UGA - #4 Georgia def. #11 Virginia"
   Coach: "UGA - #3 Georgia def. #11 Virginia"
@@ -63,41 +63,41 @@ Lineups:
       UGA: Katarina Jokic - 15-0 at 1, 15-0 in duals, 24-1 overall
       UVA: Emma Navarro - 17-1 at 1, 17-1 in duals, 17-1 overall
       Predictions:
-        AVG: UVA - Navarro (52%) def. Jokic (48%)
+        AVG: UVA - Navarro (53%) def. Jokic (47%)
         SLM: UGA - Jokic (52%) def. Navarro (48%)
         TRN: UVA - Navarro (55%) def. Jokic (45%)
         MAS: UVA - Navarro (51%) def. Jokic (49%)
-        UTR: UVA - Navarro (58%) def. Jokic (42%)
+        UTR: UVA - Navarro (60%) def. Jokic (40%)
         ITA: UVA - Navarro (62.96) def. Jokic (60.56)
     - Position: 2
       UGA: Lea Ma - 13-3 at 2, 13-3 in duals, 14-4 overall
       UVA: Natasha Subhash - 14-4 at 2, 15-4 in duals, 15-5 overall
       Predictions:
-        AVG: UVA - Subhash (51%) def. Ma (49%)
-        SLM: UGA - Ma (62%) def. Subhash (38%)
-        TRN: UVA - Subhash (51%) def. Ma (49%)
+        AVG: UGA - Ma (50%) def. Subhash (50%)
+        SLM: UGA - Ma (61%) def. Subhash (39%)
+        TRN: UVA - Subhash (52%) def. Ma (48%)
         MAS: UVA - Subhash (53%) def. Ma (47%)
-        UTR: UVA - Subhash (58%) def. Ma (42%)
+        UTR: UVA - Subhash (53%) def. Ma (47%)
         ITA: UVA - Subhash (40.00) def. Ma (11.14)
     - Position: 3
       UGA: Meg Kowalski - 12-1 at 3, 12-1 in duals, 22-1 overall
       UVA: Rosie Johanson - 15-2 at 3, 16-2 in duals, 16-4 overall
       Predictions:
-        AVG: UGA - Kowalski (68%) def. Johanson (32%)
-        SLM: UGA - Kowalski (77%) def. Johanson (23%)
-        TRN: UGA - Kowalski (80%) def. Johanson (20%)
+        AVG: UGA - Kowalski (69%) def. Johanson (31%)
+        SLM: UGA - Kowalski (74%) def. Johanson (26%)
+        TRN: UGA - Kowalski (77%) def. Johanson (23%)
         MAS: UGA - Kowalski (62%) def. Johanson (38%)
-        UTR: UGA - Kowalski (55%) def. Johanson (45%)
+        UTR: UGA - Kowalski (61%) def. Johanson (39%)
         ITA: UGA - Kowalski (23.73) def. Johanson (6.37)
     - Position: 4
       UGA: Morgan Coppoc - 15-2 at 4, 15-2 in duals, 23-5 overall
       UVA: Hibah Shaikh - 4-9 at 4, 6-9 in duals, 7-10 overall
       Predictions:
-        AVG: UGA - Coppoc (90%) def. Shaikh (10%)
-        SLM: UGA - Coppoc (90%) def. Shaikh (10%)
-        TRN: UGA - Coppoc (93%) def. Shaikh (7%)
+        AVG: UGA - Coppoc (89%) def. Shaikh (11%)
+        SLM: UGA - Coppoc (88%) def. Shaikh (12%)
+        TRN: UGA - Coppoc (90%) def. Shaikh (10%)
         MAS: UGA - Coppoc (87%) def. Shaikh (13%)
-        UTR: UGA - Coppoc (90%) def. Shaikh (10%)
+        UTR: UGA - Coppoc (89%) def. Shaikh (11%)
         ITA: UGA - Coppoc (8.66) def. Shaikh (1.63)
     - Position: 5
       UGA: Marta Gonzalez - 1-1 at 5, 2-1 in duals, 11-1 overall

@@ -9,10 +9,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#13 Georgia Tech</h2>  
 &nbsp; Record: 20-10<br>  
 &nbsp; ITA: 11 (48.83)<br>  
-&nbsp; Slam: 20 (90.34)<br>  
-&nbsp; TRN: 16 (83.31)<br>  
-&nbsp; Massey: 18 (7.83)<br>  
-&nbsp; UTR: 24 (61.54)<br>  
+&nbsp; Slam: 18 (90.48)<br>  
+&nbsp; TRN: 15 (86.47)<br>  
+&nbsp; Massey: 17 (7.85)<br>  
+&nbsp; UTR: 24 (61.57)<br>  
 &nbsp; USTA Poll: 16 (148.00)<br>  
 &nbsp; Coaches Poll: 11<br>  
 <br>  
@@ -23,10 +23,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#4 UCLA</h2>  
 &nbsp; Record: 21-4<br>  
 &#10004; ITA: 4 (61.62)<br>  
-&#10004; Slam: 4 (92.98)<br>  
-&#10004; TRN: 7 (85.42)<br>  
-&#10004; Massey: 4 (8.85)<br>  
-&#10004; UTR: 5 (64.40)<br>  
+&#10004; Slam: 4 (93.75)<br>  
+&#10004; TRN: 5 (89.32)<br>  
+&#10004; Massey: 4 (8.90)<br>  
+&#10004; UTR: 5 (64.41)<br>  
 &#10004; USTA Poll: 5 (280.00)<br>  
 &#10004; Coaches Poll: 5<br>  
 <br>  
@@ -40,12 +40,12 @@ Third Round[](#top)<a name="top"></a>
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UCLA*** - UCLA (87%) def. Georgia Tech (13%)  
-- Slam: ***UCLA*** - #4 UCLA (82%) def. #20 Georgia Tech (18%)  
-- TRN: ***UCLA*** - #7 UCLA (77%) def. #16 Georgia Tech (23%)  
-- Massey: ***UCLA*** - #4 UCLA (94%) def. #18 Georgia Tech (6%)  
+- Composite: ***UCLA*** - UCLA (89%) def. Georgia Tech (11%)  
+- Slam: ***UCLA*** - #4 UCLA (86%) def. #18 Georgia Tech (14%)  
+- TRN: ***UCLA*** - #5 UCLA (83%) def. #15 Georgia Tech (17%)  
+- Massey: ***UCLA*** - #4 UCLA (94%) def. #17 Georgia Tech (6%)  
 - Lineup: ***UCLA*** - UCLA (95%) def. Georgia Tech (5%)  
-- UTR: ***UCLA*** - #5 UCLA (+2.86) def. #24 Georgia Tech (-2.86)  
+- UTR: ***UCLA*** - #5 UCLA (+2.84) def. #24 Georgia Tech (-2.84)  
 - ITA: ***UCLA*** - #4 UCLA def. #11 Georgia Tech  
 - USTA Poll: ***UCLA*** - #5 UCLA def. #16 Georgia Tech  
 - Coaches Poll: ***UCLA*** - #5 UCLA def. #11 Georgia Tech  
@@ -61,22 +61,22 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kenya Jones (GT) - 16-7 at #1, 16-7 in duals, 17-8 overall<br>Abbey Forbes (UCLA) - 17-2 at #1, 18-2 in duals, 18-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Forbes (78%) def. Jones (22%)</li>  
-<li>Slam: <b><i>UCLA</i></b> - Forbes (77%) def. Jones (23%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Forbes (79%) def. Jones (21%)</li>  
+<li>Slam: <b><i>UCLA</i></b> - Forbes (78%) def. Jones (22%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Forbes (75%) def. Jones (25%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Forbes (81%) def. Jones (19%)</li>  
-<li>UTR: <b><i>UCLA</i></b> - Forbes (80%) def. Jones (20%)</li>  
+<li>UTR: <b><i>UCLA</i></b> - Forbes (81%) def. Jones (19%)</li>  
 <li>ITA: <b><i>GT</i></b> - Jones (50.31) def. Forbes (46.46)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Victoria Flores (GT) - 12-4 at #2, 17-5 in duals, 18-6 overall<br>Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Hart (68%) def. Flores (32%)</li>  
-<li>Slam: <b><i>UCLA</i></b> - Hart (76%) def. Flores (24%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Hart (69%) def. Flores (31%)</li>  
+<li>Slam: <b><i>UCLA</i></b> - Hart (75%) def. Flores (25%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Hart (77%) def. Flores (23%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Hart (52%) def. Flores (48%)</li>  
-<li>UTR: <b><i>UCLA</i></b> - Hart (66%) def. Flores (34%)</li>  
+<li>UTR: <b><i>UCLA</i></b> - Hart (72%) def. Flores (28%)</li>  
 <li>ITA: <b><i>GT</i></b> - Flores (29.63) def. Hart (12.21)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -87,7 +87,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>UCLA</i></b> - Bolton (92%) def. Cohen (8%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Bolton (95%) def. Cohen (5%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Bolton (92%) def. Cohen (8%)</li>  
-<li>UTR: <b><i>UCLA</i></b> - Bolton (95%) def. Cohen (5%)</li>  
+<li>UTR: <b><i>UCLA</i></b> - Bolton (94%) def. Cohen (6%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Bolton (4.20) def. Cohen (3.38)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -95,7 +95,7 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Ava Hrastar (GT) - 2-3 at #4, 10-9 in duals, 12-9 overall<br>Vivian Wolff (UCLA) - 9-4 at #4, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>UCLA</i></b> - Wolff (67%) def. Hrastar (33%)</li>  
-<li>Slam: <b><i>UCLA</i></b> - Wolff (67%) def. Hrastar (33%)</li>  
+<li>Slam: <b><i>UCLA</i></b> - Wolff (68%) def. Hrastar (32%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Wolff (74%) def. Hrastar (26%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Wolff (62%) def. Hrastar (38%)</li>  
 <li>UTR: <b><i>UCLA</i></b> - Wolff (66%) def. Hrastar (34%)</li>  
@@ -105,11 +105,11 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Carol Lee (GT) - 5-8 at #5, 12-12 in duals, 14-12 overall<br>Sasha Vagramov (UCLA) - 5-3 at #5, 9-5 in duals, 9-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Vagramov (59%) def. Lee (41%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Vagramov (57%) def. Lee (43%)</li>  
 <li>Slam: <b><i>UCLA</i></b> - Vagramov (67%) def. Lee (33%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Vagramov (79%) def. Lee (21%)</li>  
 <li>Massey: <b><i>GT</i></b> - Lee (51%) def. Vagramov (49%)</li>  
-<li>UTR: <b><i>GT</i></b> - Lee (58%) def. Vagramov (42%)</li>  
+<li>UTR: <b><i>GT</i></b> - Lee (66%) def. Vagramov (34%)</li>  
 <li>ITA: <b><i>GT</i></b> - Lee (4.33) def. Vagramov (2.24)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -120,7 +120,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>UCLA</i></b> - Ong (63%) def. Jain (37%)</li>  
 <li>TRN: <b><i>UCLA</i></b> - Ong (76%) def. Jain (24%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Ong (52%) def. Jain (48%)</li>  
-<li>UTR: <b><i>UCLA</i></b> - Ong (90%) def. Jain (10%)</li>  
+<li>UTR: <b><i>UCLA</i></b> - Ong (89%) def. Jain (11%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Ong (1.95) def. Jain (1.89)</li>  
 </ul>
 </details>&nbsp;</li>

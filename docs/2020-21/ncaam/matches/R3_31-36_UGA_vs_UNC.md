@@ -9,9 +9,9 @@ Third Round[](#top)<a name="top"></a>
 <h2>#11 Georgia</h2>  
 &nbsp; Record: 16-6<br>  
 &nbsp; ITA: 11 (54.91)<br>  
-&nbsp; Slam: 16 (96.08)<br>  
-&nbsp; TRN: 14 (94.91)<br>  
-&nbsp; Massey: 15 (8.18)<br>  
+&nbsp; Slam: 16 (95.98)<br>  
+&nbsp; TRN: 15 (94.86)<br>  
+&nbsp; Massey: 15 (8.26)<br>  
 &nbsp; UTR: 19 (78.43)<br>  
 &nbsp; USTA Poll: 18 (131.00)<br>  
 &nbsp; Coaches Poll: 11<br>  
@@ -23,10 +23,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#6 North Carolina</h2>  
 &nbsp; Record: 21-3<br>  
 &#10004; ITA: 6 (72.28)<br>  
-&#10004; Slam: 3 (99.37)<br>  
-&#10004; TRN: 2 (99.37)<br>  
-&#10004; Massey: 4 (8.94)<br>  
-&#10004; UTR: 11 (79.64)<br>  
+&#10004; Slam: 3 (99.32)<br>  
+&#10004; TRN: 2 (99.36)<br>  
+&#10004; Massey: 4 (8.88)<br>  
+&#10004; UTR: 11 (79.59)<br>  
 &#10004; USTA Poll: 7 (282.00)<br>  
 &#10004; Coaches Poll: 6<br>  
 <br>  
@@ -41,11 +41,11 @@ Third Round[](#top)<a name="top"></a>
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***UNC*** - North Carolina (84%) def. Georgia (16%)  
-- Slam: ***UNC*** - #3 North Carolina (86%) def. #16 Georgia (14%)  
-- TRN: ***UNC*** - #2 North Carolina (92%) def. #14 Georgia (8%)  
+- Slam: ***UNC*** - #3 North Carolina (87%) def. #16 Georgia (13%)  
+- TRN: ***UNC*** - #2 North Carolina (93%) def. #15 Georgia (7%)  
 - Massey: ***UNC*** - #4 North Carolina (70%) def. #15 Georgia (30%)  
-- Lineup: ***UNC*** - North Carolina (89%) def. Georgia (11%)  
-- UTR: ***UNC*** - #11 North Carolina (+1.21) def. #19 Georgia (-1.21)  
+- Lineup: ***UNC*** - North Carolina (88%) def. Georgia (12%)  
+- UTR: ***UNC*** - #11 North Carolina (+1.16) def. #19 Georgia (-1.16)  
 - ITA: ***UNC*** - #6 North Carolina def. #11 Georgia  
 - USTA Poll: ***UNC*** - #7 North Carolina def. #18 Georgia  
 - Coaches Poll: ***UNC*** - #6 North Carolina def. #11 Georgia  
@@ -62,19 +62,19 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Trent Bryde (UGA) - 9-10 at #1, 9-10 in duals, 14-13 overall<br>William Blumberg (UNC) - 8-3 at #1, 8-3 in duals, 9-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>UNC</i></b> - Blumberg (75%) def. Bryde (25%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Blumberg (78%) def. Bryde (22%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Blumberg (79%) def. Bryde (21%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Blumberg (82%) def. Bryde (18%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Blumberg (66%) def. Bryde (34%)</li>  
-<li>UTR: <b><i>UNC</i></b> - Blumberg (73%) def. Bryde (27%)</li>  
+<li>UTR: <b><i>UNC</i></b> - Blumberg (70%) def. Bryde (30%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Bryde (36.71) def. Blumberg (21.87)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Tyler Zink (UGA) - 6-5 at #2, 9-5 in duals, 11-9 overall<br>Rinky Hijikata (UNC) - 4-2 at #2, 9-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Hijikata (81%) def. Zink (19%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Hijikata (80%) def. Zink (20%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Hijikata (76%) def. Zink (24%)</li>  
-<li>TRN: <b><i>UNC</i></b> - Hijikata (87%) def. Zink (13%)</li>  
+<li>TRN: <b><i>UNC</i></b> - Hijikata (82%) def. Zink (18%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Hijikata (77%) def. Zink (23%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Hijikata (85%) def. Zink (15%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Hijikata (27.96) def. Zink (25.30)</li>  
@@ -84,19 +84,19 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Philip Henning (UGA) - 11-4 at #3, 13-6 in duals, 18-10 overall<br>Benjamin Sigouin (UNC) - 3-2 at #3, 9-9 in duals, 9-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>UGA</i></b> - Henning (63%) def. Sigouin (37%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Sigouin (50%) def. Henning (50%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Sigouin (51%) def. Henning (49%)</li>  
 <li>TRN: <b><i>UGA</i></b> - Henning (57%) def. Sigouin (43%)</li>  
 <li>Massey: <b><i>UGA</i></b> - Henning (68%) def. Sigouin (32%)</li>  
-<li>UTR: <b><i>UGA</i></b> - Henning (76%) def. Sigouin (24%)</li>  
+<li>UTR: <b><i>UGA</i></b> - Henning (77%) def. Sigouin (23%)</li>  
 <li>ITA: <b><i>UGA</i></b> - Henning (31.73) def. Sigouin (13.85)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Blake Croyder (UGA) - 10-2 at #4, 11-5 in duals, 15-12 overall<br>Brian Cernoch (UNC) - 5-2 at #4, 17-5 in duals, 17-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Cernoch (80%) def. Croyder (20%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Cernoch (82%) def. Croyder (18%)</li>  
-<li>TRN: <b><i>UNC</i></b> - Cernoch (82%) def. Croyder (18%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Cernoch (79%) def. Croyder (21%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Cernoch (80%) def. Croyder (20%)</li>  
+<li>TRN: <b><i>UNC</i></b> - Cernoch (80%) def. Croyder (20%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Cernoch (75%) def. Croyder (25%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Cernoch (82%) def. Croyder (18%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Cernoch (12.67) def. Croyder (4.08)</li>  
@@ -105,22 +105,22 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Billy Rowe (UGA) - 8-4 at #5, 12-7 in duals, 16-10 overall<br>Josh Peck (UNC) - 3-1 at #5, 8-3 in duals, 8-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Peck (72%) def. Rowe (28%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Peck (73%) def. Rowe (27%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Peck (70%) def. Rowe (30%)</li>  
-<li>TRN: <b><i>UNC</i></b> - Peck (65%) def. Rowe (35%)</li>  
+<li>TRN: <b><i>UNC</i></b> - Peck (69%) def. Rowe (31%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Peck (73%) def. Rowe (27%)</li>  
-<li>UTR: <b><i>UNC</i></b> - Peck (80%) def. Rowe (20%)</li>  
+<li>UTR: <b><i>UNC</i></b> - Peck (81%) def. Rowe (19%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Peck (4.29) def. Rowe (1.84)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Erik Grevelius (UGA) - 7-3 at #6, 9-4 in duals, 15-8 overall<br>Simon Soendergaard (UNC) - 6-3 at #6, 10-5 in duals, 11-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Soendergaard (57%) def. Grevelius (43%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Soendergaard (61%) def. Grevelius (39%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Soendergaard (54%) def. Grevelius (46%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Soendergaard (60%) def. Grevelius (40%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Soendergaard (61%) def. Grevelius (39%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Soendergaard (50%) def. Grevelius (50%)</li>  
-<li>UTR: <b><i>UNC</i></b> - Soendergaard (55%) def. Grevelius (45%)</li>  
+<li>UTR: <b><i>UGA</i></b> - Grevelius (53%) def. Soendergaard (47%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Soendergaard (3.62) def. Grevelius (2.48)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -146,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- North Carolina should win 4 or more singles matches *70%* of the time.  
-- Georgia should win 4 or more singles matches *8%* of the time.  
+- North Carolina should win 4 or more singles matches *69%* of the time.  
+- Georgia should win 4 or more singles matches *9%* of the time.  
 - The winner of the doubles point should decide the match the other *22%* of the time.  
-- If North Carolina wins the doubles point, their chances of winning the dual improve to *92%*.  
-- If Georgia wins the doubles point, their chances of winning the dual improve to *30%*.  
+- If North Carolina wins the doubles point, their chances of winning the dual improve to *91%*.  
+- If Georgia wins the doubles point, their chances of winning the dual improve to *31%*.  
   
 ------
 

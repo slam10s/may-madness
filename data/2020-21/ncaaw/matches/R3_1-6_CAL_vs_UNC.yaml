@@ -18,8 +18,8 @@ Home:
     ITA: 1 (87.72)
     SLM: 1 (100.00)
     TRN: 1 (100.00)
-    MAS: 1 (9.82)
-    UTR: 2 (65.21)
+    MAS: 1 (9.78)
+    UTR: 2 (65.05)
   Polls:
     USTA: 2 (325.00)
     Coach: 1
@@ -33,20 +33,20 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 17 (45.98)
-    SLM: 17 (90.47)
-    TRN: 17 (82.99)
-    MAS: 14 (8.01)
-    UTR: 15 (62.15)
+    SLM: 14 (91.31)
+    TRN: 13 (87.02)
+    MAS: 12 (8.07)
+    UTR: 16 (62.17)
   Polls:
     USTA: 14 (170.00)
     Coach: 17
 Predictions:
-  AVG: UNC - North Carolina (99%) def. California (1%)
-  SLM: "UNC - #1 North Carolina (99%) def. #17 California (1%)"
-  TRN: "UNC - #1 North Carolina (99%) def. #17 California (1%)"
-  MAS: "UNC - #1 North Carolina (96%) def. #14 California (4%)"
+  AVG: UNC - North Carolina (98%) def. California (2%)
+  SLM: "UNC - #1 North Carolina (99%) def. #14 California (1%)"
+  TRN: "UNC - #1 North Carolina (99%) def. #13 California (1%)"
+  MAS: "UNC - #1 North Carolina (96%) def. #12 California (4%)"
   LNUP: UNC - North Carolina (99%) def. California (1%)
-  UTR: "UNC - #2 North Carolina (+3.06) def. #15 California (-3.06)"
+  UTR: "UNC - #2 North Carolina (+2.88) def. #16 California (-2.88)"
   ITA: "UNC - #1 North Carolina def. #17 California"
   USTA: "UNC - #2 North Carolina def. #14 California"
   Coach: "UNC - #1 North Carolina def. #17 California"
@@ -67,37 +67,37 @@ Lineups:
         SLM: UNC - Daavettila (86%) def. Giavara (14%)
         TRN: UNC - Daavettila (95%) def. Giavara (5%)
         MAS: UNC - Daavettila (90%) def. Giavara (10%)
-        UTR: UNC - Daavettila (86%) def. Giavara (14%)
+        UTR: UNC - Daavettila (85%) def. Giavara (15%)
         ITA: UNC - Daavettila (64.17) def. Giavara (18.44)
     - Position: 2
       UNC: Alexa Graham - 5-0 at 2, 11-2 in duals, 16-2 overall
       CAL: Julia Rosenqvist - 11-7 at 2, 14-7 in duals, 14-7 overall
       Predictions:
-        AVG: UNC - Graham (87%) def. Rosenqvist (13%)
+        AVG: UNC - Graham (86%) def. Rosenqvist (14%)
         SLM: UNC - Graham (91%) def. Rosenqvist (9%)
-        TRN: UNC - Graham (91%) def. Rosenqvist (9%)
+        TRN: UNC - Graham (90%) def. Rosenqvist (10%)
         MAS: UNC - Graham (81%) def. Rosenqvist (19%)
-        UTR: UNC - Graham (85%) def. Rosenqvist (15%)
+        UTR: UNC - Graham (84%) def. Rosenqvist (16%)
         ITA: UNC - Graham (15.03) def. Rosenqvist (2.23)
     - Position: 3
       UNC: Cameron Morra - 6-2 at 3, 15-6 in duals, 15-6 overall
       CAL: Valentina Ivanov - 9-5 at 3, 10-8 in duals, 10-8 overall
       Predictions:
-        AVG: UNC - Morra (82%) def. Ivanov (18%)
+        AVG: UNC - Morra (81%) def. Ivanov (19%)
         SLM: UNC - Morra (85%) def. Ivanov (15%)
         TRN: UNC - Morra (80%) def. Ivanov (20%)
         MAS: UNC - Morra (82%) def. Ivanov (18%)
-        UTR: UNC - Morra (79%) def. Ivanov (21%)
+        UTR: UNC - Morra (78%) def. Ivanov (22%)
         ITA: UNC - Morra (20.00) def. Ivanov (1.97)
     - Position: 4
       UNC: Elizabeth Scotty - 6-1 at 4, 11-2 in duals, 11-3 overall
       CAL: Jada Bui - 8-5 at 4, 10-6 in duals, 10-6 overall
       Predictions:
         AVG: UNC - Scotty (87%) def. Bui (13%)
-        SLM: UNC - Scotty (89%) def. Bui (11%)
+        SLM: UNC - Scotty (88%) def. Bui (12%)
         TRN: UNC - Scotty (89%) def. Bui (11%)
         MAS: UNC - Scotty (81%) def. Bui (19%)
-        UTR: UNC - Scotty (89%) def. Bui (11%)
+        UTR: UNC - Scotty (88%) def. Bui (12%)
         ITA: UNC - Scotty (5.93) def. Bui (1.95)
     - Position: 5
       UNC: Makenna Jones - 1-2 at 5, 13-2 in duals, 15-2 overall
@@ -107,7 +107,7 @@ Lineups:
         SLM: UNC - Jones (91%) def. Moeller (9%)
         TRN: UNC - Jones (94%) def. Moeller (6%)
         MAS: UNC - Jones (85%) def. Moeller (15%)
-        UTR: UNC - Jones (87%) def. Moeller (13%)
+        UTR: UNC - Jones (85%) def. Moeller (15%)
         ITA: UNC - Jones (18.39) def. Moeller (1.79)
     - Position: 6
       UNC: Fiona Crawley - 3-0 at 6, 23-0 in duals, 25-0 overall

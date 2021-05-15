@@ -16,10 +16,10 @@ Home:
     Region: 1
   Ratings:
     ITA: 8 (63.69)
-    SLM: 11 (96.97)
-    TRN: 11 (95.89)
-    MAS: 12 (8.53)
-    UTR: 8 (79.76)
+    SLM: 10 (97.01)
+    TRN: 10 (95.99)
+    MAS: 11 (8.56)
+    UTR: 7 (79.73)
   Polls:
     USTA: 16 (156.00)
     Coach: 8
@@ -32,39 +32,39 @@ Visitor:
     Region: 2
   Ratings:
     ITA: 16 (41.29)
-    SLM: 20 (94.39)
-    TRN: 19 (92.98)
-    MAS: 27 (7.63)
-    UTR: 24 (77.84)
+    SLM: 20 (94.79)
+    TRN: 20 (93.50)
+    MAS: 22 (7.81)
+    UTR: 25 (77.87)
   Polls:
     USTA: 25 (44.00)
     Coach: 18
 Predictions:
-  AVG: A&M - Texas A&M (85%) def. Mississippi St. (15%)
-  SLM: "A&M - #11 Texas A&M (81%) def. #20 Mississippi St. (19%)"
-  TRN: "A&M - #11 Texas A&M (84%) def. #19 Mississippi St. (16%)"
-  MAS: "A&M - #12 Texas A&M (86%) def. #27 Mississippi St. (14%)"
-  LNUP: A&M - Texas A&M (91%) def. Mississippi St. (9%)
-  UTR: "A&M - #8 Texas A&M (+1.92) def. #24 Mississippi St. (-1.92)"
+  AVG: A&M - Texas A&M (83%) def. Mississippi St. (17%)
+  SLM: "A&M - #10 Texas A&M (78%) def. #20 Mississippi St. (22%)"
+  TRN: "A&M - #10 Texas A&M (80%) def. #20 Mississippi St. (20%)"
+  MAS: "A&M - #11 Texas A&M (86%) def. #22 Mississippi St. (14%)"
+  LNUP: A&M - Texas A&M (90%) def. Mississippi St. (10%)
+  UTR: "A&M - #7 Texas A&M (+1.86) def. #25 Mississippi St. (-1.86)"
   ITA: "A&M - #8 Texas A&M def. #16 Mississippi St."
   USTA: "A&M - #16 Texas A&M def. #25 Mississippi St."
   Coach: "A&M - #8 Texas A&M def. #18 Mississippi St."
   Seeding: "A&M - #8 Texas A&M def. Mississippi St."
 Lineups:
   Predictions:
-    Average EWPs for A&M: 81%,84%,86%,91%
-    Average EWPs for MSST: 19%,16%,14%,9%
-    A&M wins 4 or more Singles points: 73%
-    MSST wins 4 or more Singles points: 7%
+    Average EWPs for A&M: 78%,80%,86%,90%
+    Average EWPs for MSST: 22%,20%,14%,10%
+    A&M wins 4 or more Singles points: 72%
+    MSST wins 4 or more Singles points: 8%
     Winner decided by the Doubles point: 20%
   Singles:
     - Position: 1
       A&M: Valentin Vacherot - 13-2 at 1, 16-3 in duals, 21-5 overall
       MSST: Giovanni Oradini - 11-7 at 1, 11-10 in duals, 17-14 overall
       Predictions:
-        AVG: A&M - Vacherot (86%) def. Oradini (14%)
-        SLM: A&M - Vacherot (81%) def. Oradini (19%)
-        TRN: A&M - Vacherot (89%) def. Oradini (11%)
+        AVG: A&M - Vacherot (87%) def. Oradini (13%)
+        SLM: A&M - Vacherot (82%) def. Oradini (18%)
+        TRN: A&M - Vacherot (90%) def. Oradini (10%)
         MAS: A&M - Vacherot (89%) def. Oradini (11%)
         UTR: A&M - Vacherot (86%) def. Oradini (14%)
         ITA: A&M - Vacherot (51.31) def. Oradini (31.20)
@@ -72,9 +72,9 @@ Lineups:
       A&M: Hady Habib - 7-3 at 2, 10-4 in duals, 15-5 overall
       MSST: Florian Broska - 10-5 at 2, 14-8 in duals, 20-12 overall
       Predictions:
-        AVG: A&M - Habib (80%) def. Broska (20%)
-        SLM: A&M - Habib (78%) def. Broska (22%)
-        TRN: A&M - Habib (83%) def. Broska (17%)
+        AVG: A&M - Habib (79%) def. Broska (21%)
+        SLM: A&M - Habib (77%) def. Broska (23%)
+        TRN: A&M - Habib (81%) def. Broska (19%)
         MAS: A&M - Habib (76%) def. Broska (24%)
         UTR: A&M - Habib (82%) def. Broska (18%)
         ITA: A&M - Habib (54.57) def. Broska (16.73)
@@ -82,9 +82,9 @@ Lineups:
       A&M: Juan Carlos Aguilar - 6-6 at 3, 10-8 in duals, 15-10 overall
       MSST: Nemanja Malesevic - 9-5 at 3, 15-7 in duals, 20-11 overall
       Predictions:
-        AVG: A&M - Aguilar (70%) def. Malesevic (30%)
+        AVG: A&M - Aguilar (69%) def. Malesevic (31%)
         SLM: A&M - Aguilar (64%) def. Malesevic (36%)
-        TRN: A&M - Aguilar (66%) def. Malesevic (34%)
+        TRN: A&M - Aguilar (63%) def. Malesevic (37%)
         MAS: A&M - Aguilar (71%) def. Malesevic (29%)
         UTR: A&M - Aguilar (79%) def. Malesevic (21%)
         ITA: A&M - Aguilar (23.98) def. Malesevic (15.40)
@@ -92,21 +92,21 @@ Lineups:
       A&M: Noah Schachter - 7-5 at 4, 12-10 in duals, 19-13 overall
       MSST: Alberto Colas - 6-7 at 4, 14-8 in duals, 4-6 overall
       Predictions:
-        AVG: MSST - Colas (62%) def. Schachter (38%)
-        SLM: MSST - Colas (57%) def. Schachter (43%)
-        TRN: MSST - Colas (58%) def. Schachter (42%)
+        AVG: MSST - Colas (61%) def. Schachter (39%)
+        SLM: MSST - Colas (55%) def. Schachter (45%)
+        TRN: MSST - Colas (56%) def. Schachter (44%)
         MAS: MSST - Colas (61%) def. Schachter (39%)
-        UTR: MSST - Colas (71%) def. Schachter (29%)
+        UTR: MSST - Colas (73%) def. Schachter (27%)
         ITA: A&M - Schachter (6.58) def. Colas (5.15)
     - Position: 5
       A&M: Pierce Rollins - 3-3 at 5, 8-5 in duals, 15-9 overall
       MSST: Carles Hernandez - 9-8 at 5, 14-8 in duals, 14-8 overall
       Predictions:
-        AVG: A&M - Rollins (67%) def. Hernandez (33%)
-        SLM: A&M - Rollins (65%) def. Hernandez (35%)
-        TRN: A&M - Rollins (71%) def. Hernandez (29%)
+        AVG: A&M - Rollins (65%) def. Hernandez (35%)
+        SLM: A&M - Rollins (62%) def. Hernandez (38%)
+        TRN: A&M - Rollins (66%) def. Hernandez (34%)
         MAS: A&M - Rollins (65%) def. Hernandez (35%)
-        UTR: A&M - Rollins (67%) def. Hernandez (33%)
+        UTR: A&M - Rollins (65%) def. Hernandez (35%)
         ITA: A&M - Rollins (5.08) def. Hernandez (1.85)
     - Position: 6
       A&M: Guido Marson - 0-0 at 6, 5-6 in duals, 7-9 overall
@@ -114,9 +114,9 @@ Lineups:
       Predictions:
         AVG: A&M - Marson (69%) def. Tortora (31%)
         SLM: A&M - Marson (64%) def. Tortora (36%)
-        TRN: A&M - Marson (52%) def. Tortora (48%)
+        TRN: A&M - Marson (57%) def. Tortora (43%)
         MAS: A&M - Marson (75%) def. Tortora (25%)
-        UTR: A&M - Marson (84%) def. Tortora (16%)
+        UTR: A&M - Marson (82%) def. Tortora (18%)
         ITA: MSST - Tortora (9.41) def. Marson (1.86)
   Doubles:
     - Position: 1

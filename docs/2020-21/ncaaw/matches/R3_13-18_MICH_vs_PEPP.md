@@ -9,10 +9,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>Michigan</h2>  
 &nbsp; Record: 19-3<br>  
 &nbsp; ITA: 20 (39.90)<br>  
-&nbsp; Slam: 8 (91.95)<br>  
-&nbsp; TRN: 8 (85.13)<br>  
-&nbsp; Massey: 16 (7.96)<br>  
-&nbsp; UTR: 17 (61.98)<br>  
+&nbsp; Slam: 9 (91.97)<br>  
+&nbsp; TRN: 7 (88.38)<br>  
+&nbsp; Massey: 13 (8.07)<br>  
+&nbsp; UTR: 18 (61.92)<br>  
 &nbsp; USTA Poll: 8 (239.00)<br>  
 &nbsp; Coaches Poll: 18<br>  
 <br>  
@@ -23,10 +23,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#5 Pepperdine</h2>  
 &nbsp; Record: 22-3<br>  
 &#10004; ITA: 5 (60.46)<br>  
-&#10004; Slam: 6 (92.64)<br>  
-&#10004; TRN: 6 (85.86)<br>  
-&#10004; Massey: 5 (8.71)<br>  
-&#10004; UTR: 4 (64.63)<br>  
+&#10004; Slam: 5 (93.53)<br>  
+&#10004; TRN: 4 (89.84)<br>  
+&#10004; Massey: 5 (8.76)<br>  
+&#10004; UTR: 3 (64.87)<br>  
 &#10004; USTA Poll: 6 (276.00)<br>  
 &#10004; Coaches Poll: 4<br>  
 <br>  
@@ -40,12 +40,12 @@ Third Round[](#top)<a name="top"></a>
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***PEPP*** - Pepperdine (72%) def. Michigan (28%)  
-- Slam: ***PEPP*** - #6 Pepperdine (59%) def. #8 Michigan (41%)  
-- TRN: ***PEPP*** - #6 Pepperdine (60%) def. #8 Michigan (40%)  
-- Massey: ***PEPP*** - #5 Pepperdine (79%) def. #16 Michigan (21%)  
-- Lineup: ***PEPP*** - Pepperdine (92%) def. Michigan (8%)  
-- UTR: ***PEPP*** - #4 Pepperdine (+2.65) def. #17 Michigan (-2.65)  
+- Composite: ***PEPP*** - Pepperdine (77%) def. Michigan (23%)  
+- Slam: ***PEPP*** - #5 Pepperdine (71%) def. #9 Michigan (29%)  
+- TRN: ***PEPP*** - #4 Pepperdine (69%) def. #7 Michigan (31%)  
+- Massey: ***PEPP*** - #5 Pepperdine (79%) def. #13 Michigan (21%)  
+- Lineup: ***PEPP*** - Pepperdine (91%) def. Michigan (9%)  
+- UTR: ***PEPP*** - #3 Pepperdine (+2.95) def. #18 Michigan (-2.95)  
 - ITA: ***PEPP*** - #5 Pepperdine def. #20 Michigan  
 - USTA Poll: ***PEPP*** - #6 Pepperdine def. #8 Michigan  
 - Coaches Poll: ***PEPP*** - #4 Pepperdine def. #18 Michigan  
@@ -61,11 +61,11 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kari Miller (MICH) - 11-3 at #1, 12-4 in duals, 15-4 overall<br>Ashley Lahey (PEPP) - 7-3 at #1, 10-4 in duals, 10-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Lahey (59%) def. Miller (41%)</li>  
-<li>Slam: <b><i>PEPP</i></b> - Lahey (58%) def. Miller (42%)</li>  
-<li>TRN: <b><i>PEPP</i></b> - Lahey (71%) def. Miller (29%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Lahey (58%) def. Miller (42%)</li>  
+<li>Slam: <b><i>PEPP</i></b> - Lahey (57%) def. Miller (43%)</li>  
+<li>TRN: <b><i>PEPP</i></b> - Lahey (69%) def. Miller (31%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Miller (56%) def. Lahey (44%)</li>  
-<li>UTR: <b><i>PEPP</i></b> - Lahey (62%) def. Miller (38%)</li>  
+<li>UTR: <b><i>PEPP</i></b> - Lahey (64%) def. Miller (36%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Miller (10.66) def. Lahey (7.80)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -74,7 +74,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>PEPP</i></b> - Failla (78%) def. Lommer (22%)</li>  
 <li>Slam: <b><i>PEPP</i></b> - Failla (87%) def. Lommer (13%)</li>  
-<li>TRN: <b><i>PEPP</i></b> - Failla (91%) def. Lommer (9%)</li>  
+<li>TRN: <b><i>PEPP</i></b> - Failla (90%) def. Lommer (10%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Lommer (52%) def. Failla (48%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Failla (88%) def. Lommer (12%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Failla (23.38) def. Lommer (2.49)</li>  
@@ -87,18 +87,18 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>PEPP</i></b> - Pachkaleva (89%) def. Cerdan (11%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Pachkaleva (97%) def. Cerdan (3%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Pachkaleva (75%) def. Cerdan (25%)</li>  
-<li>UTR: <b><i>PEPP</i></b> - Pachkaleva (91%) def. Cerdan (9%)</li>  
+<li>UTR: <b><i>PEPP</i></b> - Pachkaleva (92%) def. Cerdan (8%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Pachkaleva (6.37) def. Cerdan (1.79)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Jaedan Brown (MICH) - 7-0 at #4, 15-2 in duals, 17-3 overall<br>Shiori Fukuda (PEPP) - 6-0 at #4, 14-4 in duals, 14-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>PEPP</i></b> - Fukuda (74%) def. Brown (26%)</li>  
-<li>Slam: <b><i>PEPP</i></b> - Fukuda (79%) def. Brown (21%)</li>  
-<li>TRN: <b><i>PEPP</i></b> - Fukuda (82%) def. Brown (18%)</li>  
+<li>Composite: <b><i>PEPP</i></b> - Fukuda (76%) def. Brown (24%)</li>  
+<li>Slam: <b><i>PEPP</i></b> - Fukuda (83%) def. Brown (17%)</li>  
+<li>TRN: <b><i>PEPP</i></b> - Fukuda (87%) def. Brown (13%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Fukuda (60%) def. Brown (40%)</li>  
-<li>UTR: <b><i>PEPP</i></b> - Fukuda (74%) def. Brown (26%)</li>  
+<li>UTR: <b><i>PEPP</i></b> - Fukuda (77%) def. Brown (23%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Fukuda (4.88) def. Brown (2.65)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -106,8 +106,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Alyvia Jones (MICH) - 3-0 at #5, 7-2 in duals, 7-5 overall<br>LIsa Zaar (PEPP) - 10-1 at #5, 19-1 in duals, 19-1 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>PEPP</i></b> - Zaar (74%) def. Jones (26%)</li>  
-<li>Slam: <b><i>PEPP</i></b> - Zaar (61%) def. Jones (39%)</li>  
-<li>TRN: <b><i>PEPP</i></b> - Zaar (86%) def. Jones (14%)</li>  
+<li>Slam: <b><i>PEPP</i></b> - Zaar (62%) def. Jones (38%)</li>  
+<li>TRN: <b><i>PEPP</i></b> - Zaar (87%) def. Jones (13%)</li>  
 <li>Massey: <b><i>PEPP</i></b> - Zaar (64%) def. Jones (36%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Zaar (84%) def. Jones (16%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Zaar (4.47) def. Jones (2.08)</li>  
@@ -116,10 +116,11 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Bella Lorenzini (MICH) - 2-0 at #6, 2-0 in duals, 4-0 overall<br>Nikki Redelijk (PEPP) - 7-4 at #6, 12-7 in duals, 12-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>MICH</i></b> - Lorenzini (57%) def. Redelijk (43%)</li>  
-<li>Slam: <b><i>MICH</i></b> - Lorenzini (51%) def. Redelijk (49%)</li>  
-<li>TRN: <b><i>PEPP</i></b> - Redelijk (57%) def. Lorenzini (43%)</li>  
+<li>Composite: <b><i>MICH</i></b> - Lorenzini (68%) def. Redelijk (32%)</li>  
+<li>Slam: <b><i>MICH</i></b> - Lorenzini (61%) def. Redelijk (39%)</li>  
+<li>TRN: <b><i>MICH</i></b> - Lorenzini (61%) def. Redelijk (39%)</li>  
 <li>Massey: <b><i>MICH</i></b> - Lorenzini (87%) def. Redelijk (13%)</li>  
+<li>UTR: <b><i>MICH</i></b> - Lorenzini (62%) def. Redelijk (38%)</li>  
 <li>ITA: <b><i>MICH</i></b> - Lorenzini (2.86) def. Redelijk (1.87)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -145,11 +146,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Pepperdine should win 4 or more singles matches *75%* of the time.  
-- Michigan should win 4 or more singles matches *6%* of the time.  
-- The winner of the doubles point should decide the match the other *19%* of the time.  
-- If Pepperdine wins the doubles point, their chances of winning the dual improve to *94%*.  
-- If Michigan wins the doubles point, their chances of winning the dual improve to *25%*.  
+- Pepperdine should win 4 or more singles matches *72%* of the time.  
+- Michigan should win 4 or more singles matches *7%* of the time.  
+- The winner of the doubles point should decide the match the other *21%* of the time.  
+- If Pepperdine wins the doubles point, their chances of winning the dual improve to *93%*.  
+- If Michigan wins the doubles point, their chances of winning the dual improve to *28%*.  
   
 ------
 

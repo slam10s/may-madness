@@ -9,10 +9,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>Duke</h2>  
 &nbsp; Record: 17-6<br>  
 &nbsp; ITA: 18 (43.05)<br>  
-&nbsp; Slam: 14 (90.91)<br>  
-&nbsp; TRN: 15 (83.33)<br>  
-&#10004; Massey: 11 (8.09)<br>  
-&#10004; UTR: 12 (62.45)<br>  
+&nbsp; Slam: 13 (91.36)<br>  
+&#10004; TRN: 12 (87.05)<br>  
+&#10004; Massey: 9 (8.20)<br>  
+&nbsp; UTR: 14 (62.33)<br>  
 &nbsp; USTA Poll: 15 (162.00)<br>  
 &nbsp; Coaches Poll: 20<br>  
 <br>  
@@ -23,10 +23,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#9 UCF</h2>  
 &nbsp; Record: 20-4<br>  
 &#10004; ITA: 9 (52.03)<br>  
-&#10004; Slam: 12 (91.41)<br>  
-&#10004; TRN: 12 (83.85)<br>  
-&nbsp; Massey: 10 (8.12)<br>  
-&nbsp; UTR: 16 (62.03)<br>  
+&#10004; Slam: 12 (91.59)<br>  
+&nbsp; TRN: 14 (86.94)<br>  
+&nbsp; Massey: 11 (8.13)<br>  
+&#10004; UTR: 12 (62.63)<br>  
 &#10004; USTA Poll: 10 (203.00)<br>  
 &#10004; Coaches Poll: 9<br>  
 <br>  
@@ -40,12 +40,12 @@ Third Round[](#top)<a name="top"></a>
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***DUKE*** - Duke (58%) def. UCF (42%)  
-- Slam: ***UCF*** - #12 UCF (57%) def. #14 Duke (43%)  
-- TRN: ***UCF*** - #12 UCF (57%) def. #15 Duke (43%)  
-- Massey: ***DUKE*** - #11 Duke (51%) def. #10 UCF (49%)  
+- Composite: ***DUKE*** - Duke (61%) def. UCF (39%)  
+- Slam: ***UCF*** - #12 UCF (53%) def. #13 Duke (47%)  
+- TRN: ***DUKE*** - #12 Duke (51%) def. #14 UCF (49%)  
+- Massey: ***DUKE*** - #9 Duke (51%) def. #11 UCF (49%)  
 - Lineup: ***DUKE*** - Duke (95%) def. UCF (5%)  
-- UTR: ***DUKE*** - #12 Duke (+0.42) def. #16 UCF (-0.42)  
+- UTR: ***UCF*** - #12 UCF (+0.30) def. #14 Duke (-0.30)  
 - ITA: ***UCF*** - #9 UCF def. #18 Duke  
 - USTA Poll: ***UCF*** - #10 UCF def. #15 Duke  
 - Coaches Poll: ***UCF*** - #9 UCF def. #20 Duke  
@@ -61,11 +61,11 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall<br>Valeriya Zeleva (UCF) - 9-2 at #1, 12-2 in duals, 13-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCF</i></b> - Zeleva (63%) def. Chen (37%)</li>  
-<li>Slam: <b><i>UCF</i></b> - Zeleva (56%) def. Chen (44%)</li>  
-<li>TRN: <b><i>UCF</i></b> - Zeleva (70%) def. Chen (30%)</li>  
+<li>Composite: <b><i>UCF</i></b> - Zeleva (62%) def. Chen (38%)</li>  
+<li>Slam: <b><i>UCF</i></b> - Zeleva (57%) def. Chen (43%)</li>  
+<li>TRN: <b><i>UCF</i></b> - Zeleva (71%) def. Chen (29%)</li>  
 <li>Massey: <b><i>UCF</i></b> - Zeleva (68%) def. Chen (32%)</li>  
-<li>UTR: <b><i>UCF</i></b> - Zeleva (59%) def. Chen (41%)</li>  
+<li>UTR: <b><i>UCF</i></b> - Zeleva (53%) def. Chen (47%)</li>  
 <li>ITA: <b><i>UCF</i></b> - Zeleva (22.66) def. Chen (12.42)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -76,7 +76,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>DUKE</i></b> - Drummy (74%) def. Stolmar (26%)</li>  
 <li>TRN: <b><i>DUKE</i></b> - Drummy (65%) def. Stolmar (35%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Drummy (72%) def. Stolmar (28%)</li>  
-<li>UTR: <b><i>DUKE</i></b> - Drummy (86%) def. Stolmar (14%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Drummy (85%) def. Stolmar (15%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Drummy (24.14) def. Stolmar (15.81)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -85,9 +85,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>DUKE</i></b> - Beck (78%) def. Levashova (22%)</li>  
 <li>Slam: <b><i>DUKE</i></b> - Beck (81%) def. Levashova (19%)</li>  
-<li>TRN: <b><i>DUKE</i></b> - Beck (76%) def. Levashova (24%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Beck (77%) def. Levashova (23%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Beck (81%) def. Levashova (19%)</li>  
-<li>UTR: <b><i>DUKE</i></b> - Beck (74%) def. Levashova (26%)</li>  
+<li>UTR: <b><i>DUKE</i></b> - Beck (72%) def. Levashova (28%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Beck (15.35) def. Levashova (4.48)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -95,8 +95,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall<br>Ksenia Kuznetsova (UCF) - 6-0 at #4, 11-3 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>DUKE</i></b> - Chi (73%) def. Kuznetsova (27%)</li>  
-<li>Slam: <b><i>DUKE</i></b> - Chi (76%) def. Kuznetsova (24%)</li>  
-<li>TRN: <b><i>DUKE</i></b> - Chi (86%) def. Kuznetsova (14%)</li>  
+<li>Slam: <b><i>DUKE</i></b> - Chi (75%) def. Kuznetsova (25%)</li>  
+<li>TRN: <b><i>DUKE</i></b> - Chi (84%) def. Kuznetsova (16%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chi (63%) def. Kuznetsova (37%)</li>  
 <li>UTR: <b><i>DUKE</i></b> - Chi (69%) def. Kuznetsova (31%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chi (15.20) def. Kuznetsova (3.33)</li>  
@@ -147,9 +147,9 @@ Click on a Singles match to show individual predections for each line.
   
 Based on the composite metrics for each individual match:  
 - UCF should win 4 or more singles matches *4%* of the time.  
-- Duke should win 4 or more singles matches *80%* of the time.  
-- The winner of the doubles point should decide the match the other *16%* of the time.  
-- If UCF wins the doubles point, their chances of winning the dual improve to *20%*.  
+- Duke should win 4 or more singles matches *79%* of the time.  
+- The winner of the doubles point should decide the match the other *17%* of the time.  
+- If UCF wins the doubles point, their chances of winning the dual improve to *21%*.  
 - If Duke wins the doubles point, their chances of winning the dual improve to *96%*.  
   
 ------

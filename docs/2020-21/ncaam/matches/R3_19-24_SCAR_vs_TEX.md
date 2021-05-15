@@ -9,9 +9,9 @@ Third Round[](#top)<a name="top"></a>
 <h2>#13 South Carolina</h2>  
 &nbsp; Record: 17-9<br>  
 &nbsp; ITA: 13 (51.06)<br>  
-&nbsp; Slam: 15 (96.20)<br>  
-&nbsp; TRN: 15 (94.49)<br>  
-&nbsp; Massey: 16 (8.13)<br>  
+&nbsp; Slam: 13 (96.17)<br>  
+&nbsp; TRN: 16 (94.52)<br>  
+&nbsp; Massey: 17 (8.20)<br>  
 &nbsp; UTR: 17 (78.69)<br>  
 &nbsp; USTA Poll: 17 (133.00)<br>  
 &nbsp; Coaches Poll: 13<br>  
@@ -23,10 +23,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#4 Texas</h2>  
 &nbsp; Record: 22-5<br>  
 &#10004; ITA: 4 (74.24)<br>  
-&#10004; Slam: 8 (97.59)<br>  
-&#10004; TRN: 7 (97.63)<br>  
-&#10004; Massey: 11 (8.54)<br>  
-&#10004; UTR: 14 (79.01)<br>  
+&#10004; Slam: 8 (97.83)<br>  
+&#10004; TRN: 7 (97.91)<br>  
+&#10004; Massey: 10 (8.59)<br>  
+&#10004; UTR: 13 (79.04)<br>  
 &#10004; USTA Poll: 8 (263.00)<br>  
 &#10004; Coaches Poll: 4<br>  
 <br>  
@@ -40,12 +40,12 @@ Third Round[](#top)<a name="top"></a>
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***TEX*** - Texas (63%) def. South Carolina (37%)  
-- Slam: ***TEX*** - #8 Texas (69%) def. #15 South Carolina (31%)  
-- TRN: ***TEX*** - #7 Texas (85%) def. #15 South Carolina (15%)  
-- Massey: ***TEX*** - #11 Texas (58%) def. #16 South Carolina (42%)  
+- Composite: ***TEX*** - Texas (65%) def. South Carolina (35%)  
+- Slam: ***TEX*** - #8 Texas (72%) def. #13 South Carolina (28%)  
+- TRN: ***TEX*** - #7 Texas (87%) def. #16 South Carolina (13%)  
+- Massey: ***TEX*** - #10 Texas (58%) def. #17 South Carolina (42%)  
 - Lineup: ***SCAR*** - South Carolina (58%) def. Texas (42%)  
-- UTR: ***TEX*** - #14 Texas (+0.32) def. #17 South Carolina (-0.32)  
+- UTR: ***TEX*** - #13 Texas (+0.35) def. #17 South Carolina (-0.35)  
 - ITA: ***TEX*** - #4 Texas def. #13 South Carolina  
 - USTA Poll: ***TEX*** - #8 Texas def. #17 South Carolina  
 - Coaches Poll: ***TEX*** - #4 Texas def. #13 South Carolina  
@@ -63,9 +63,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>SCAR</i></b> - Rodrigues (77%) def. Spizzirri (23%)</li>  
 <li>Slam: <b><i>SCAR</i></b> - Rodrigues (76%) def. Spizzirri (24%)</li>  
-<li>TRN: <b><i>SCAR</i></b> - Rodrigues (73%) def. Spizzirri (27%)</li>  
+<li>TRN: <b><i>SCAR</i></b> - Rodrigues (74%) def. Spizzirri (26%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Rodrigues (76%) def. Spizzirri (24%)</li>  
-<li>UTR: <b><i>SCAR</i></b> - Rodrigues (82%) def. Spizzirri (18%)</li>  
+<li>UTR: <b><i>SCAR</i></b> - Rodrigues (83%) def. Spizzirri (17%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Rodrigues (58.79) def. Spizzirri (28.17)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -83,22 +83,22 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Toby Samuel (SCAR) - 4-2 at #3, 16-4 in duals, 24-7 overall<br>Siem Woldeab (TEX) - 5-1 at #3, 9-7 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SCAR</i></b> - Samuel (54%) def. Woldeab (46%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Samuel (53%) def. Woldeab (47%)</li>  
 <li>Slam: <b><i>TEX</i></b> - Woldeab (62%) def. Samuel (38%)</li>  
-<li>TRN: <b><i>SCAR</i></b> - Samuel (56%) def. Woldeab (44%)</li>  
+<li>TRN: <b><i>SCAR</i></b> - Samuel (55%) def. Woldeab (45%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Samuel (65%) def. Woldeab (35%)</li>  
-<li>UTR: <b><i>SCAR</i></b> - Samuel (58%) def. Woldeab (42%)</li>  
+<li>UTR: <b><i>SCAR</i></b> - Samuel (56%) def. Woldeab (44%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Samuel (10.78) def. Woldeab (9.31)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Raphael Lambling (SCAR) - 0-2 at #4, 6-12 in duals, 11-18 overall<br>Cleeve Harper (TEX) - 14-3 at #4, 17-5 in duals, 22-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Harper (60%) def. Lambling (40%)</li>  
-<li>Slam: <b><i>SCAR</i></b> - Lambling (51%) def. Harper (49%)</li>  
-<li>TRN: <b><i>TEX</i></b> - Harper (65%) def. Lambling (35%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Harper (62%) def. Lambling (38%)</li>  
+<li>Slam: <b><i>TEX</i></b> - Harper (50%) def. Lambling (50%)</li>  
+<li>TRN: <b><i>TEX</i></b> - Harper (66%) def. Lambling (34%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Harper (66%) def. Lambling (34%)</li>  
-<li>UTR: <b><i>TEX</i></b> - Harper (62%) def. Lambling (38%)</li>  
+<li>UTR: <b><i>TEX</i></b> - Harper (67%) def. Lambling (33%)</li>  
 <li>ITA: <b><i>SCAR</i></b> - Lambling (15.34) def. Harper (5.83)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -106,8 +106,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Jake Beasley (SCAR) - 7-7 at #5, 12-8 in duals, 18-10 overall<br>Chih Chi Huang (TEX) - 9-7 at #5, 11-8 in duals, 15-17 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>SCAR</i></b> - Beasley (60%) def. Huang (40%)</li>  
-<li>Slam: <b><i>SCAR</i></b> - Beasley (58%) def. Huang (42%)</li>  
-<li>TRN: <b><i>SCAR</i></b> - Beasley (66%) def. Huang (34%)</li>  
+<li>Slam: <b><i>SCAR</i></b> - Beasley (56%) def. Huang (44%)</li>  
+<li>TRN: <b><i>SCAR</i></b> - Beasley (67%) def. Huang (33%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Beasley (53%) def. Huang (47%)</li>  
 <li>UTR: <b><i>SCAR</i></b> - Beasley (64%) def. Huang (36%)</li>  
 <li>ITA: <b><i>TEX</i></b> - # Huang def. Beasley (1.73)</li>  
@@ -116,8 +116,8 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Thomas Brown (SCAR) - 2-2 at #6, 3-2 in duals, 11-6 overall<br>Evin McDonald (TEX) - 6-9 at #6, 11-10 in duals, 15-16 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>SCAR</i></b> - Brown (58%) def. McDonald (42%)</li>  
-<li>Slam: <b><i>SCAR</i></b> - Brown (62%) def. McDonald (38%)</li>  
+<li>Composite: <b><i>SCAR</i></b> - Brown (57%) def. McDonald (43%)</li>  
+<li>Slam: <b><i>SCAR</i></b> - Brown (61%) def. McDonald (39%)</li>  
 <li>TRN: <b><i>SCAR</i></b> - Brown (63%) def. McDonald (37%)</li>  
 <li>Massey: <b><i>SCAR</i></b> - Brown (59%) def. McDonald (41%)</li>  
 <li>UTR: <b><i>TEX</i></b> - McDonald (53%) def. Brown (47%)</li>  
@@ -147,9 +147,9 @@ Click on a Singles match to show individual predections for each line.
   
 Based on the composite metrics for each individual match:  
 - Texas should win 4 or more singles matches *28%* of the time.  
-- South Carolina should win 4 or more singles matches *40%* of the time.  
-- The winner of the doubles point should decide the match the other *32%* of the time.  
-- If Texas wins the doubles point, their chances of winning the dual improve to *60%*.  
+- South Carolina should win 4 or more singles matches *39%* of the time.  
+- The winner of the doubles point should decide the match the other *33%* of the time.  
+- If Texas wins the doubles point, their chances of winning the dual improve to *61%*.  
 - If South Carolina wins the doubles point, their chances of winning the dual improve to *72%*.  
   
 ------

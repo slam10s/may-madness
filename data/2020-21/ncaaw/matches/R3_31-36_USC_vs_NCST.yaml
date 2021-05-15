@@ -16,10 +16,10 @@ Home:
     Region: 1
   Ratings:
     ITA: 6 (56.15)
-    SLM: 11 (91.65)
-    TRN: 10 (84.27)
-    MAS: 6 (8.36)
-    UTR: 9 (62.99)
+    SLM: 11 (91.78)
+    TRN: 10 (87.38)
+    MAS: 6 (8.35)
+    UTR: 9 (62.90)
   Polls:
     USTA: 12 (197.00)
     Coach: 6
@@ -32,27 +32,27 @@ Visitor:
     Region: 3
   Ratings:
     ITA: 35 (23.25)
-    SLM: 35 (87.72)
-    TRN: 41 (78.74)
-    MAS: 26 (7.43)
-    UTR: 6 (64.29)
+    SLM: 26 (89.07)
+    TRN: 30 (83.52)
+    MAS: 23 (7.67)
+    UTR: 6 (64.31)
   Polls:
     Coach: 34
 Predictions:
-  AVG: NCST - NC State (81%) def. Southern California (19%)
-  SLM: "NCST - #11 NC State (90%) def. #35 Southern California (10%)"
-  TRN: "NCST - #10 NC State (96%) def. #41 Southern California (4%)"
-  MAS: "NCST - #6 NC State (79%) def. #26 Southern California (21%)"
+  AVG: NCST - NC State (77%) def. Southern California (23%)
+  SLM: "NCST - #11 NC State (82%) def. #26 Southern California (18%)"
+  TRN: "NCST - #10 NC State (90%) def. #30 Southern California (10%)"
+  MAS: "NCST - #6 NC State (79%) def. #23 Southern California (21%)"
   LNUP: NCST - NC State (58%) def. Southern California (42%)
-  UTR: "USC - #6 Southern California (+1.3) def. #9 NC State (-1.3)"
+  UTR: "USC - #6 Southern California (+1.41) def. #9 NC State (-1.41)"
   ITA: "NCST - #6 NC State def. #35 Southern California"
   USTA: "NCST - #12 NC State def. Southern California"
   Coach: "NCST - #6 NC State def. #34 Southern California"
   Seeding: "NCST - #6 NC State def. Southern California"
 Lineups:
   Predictions:
-    Average EWPs for NCST: 90%,96%,79%,58%
-    Average EWPs for USC: 10%,4%,21%,42%
+    Average EWPs for NCST: 82%,90%,79%,58%
+    Average EWPs for USC: 18%,10%,21%,42%
     NCST wins 4 or more Singles points: 39%
     USC wins 4 or more Singles points: 28%
     Winner decided by the Doubles point: 33%
@@ -63,9 +63,9 @@ Lineups:
       Predictions:
         AVG: NCST - Rogers (74%) def. Ewing (26%)
         SLM: NCST - Rogers (82%) def. Ewing (18%)
-        TRN: NCST - Rogers (68%) def. Ewing (32%)
+        TRN: NCST - Rogers (67%) def. Ewing (33%)
         MAS: NCST - Rogers (76%) def. Ewing (24%)
-        UTR: NCST - Rogers (71%) def. Ewing (29%)
+        UTR: NCST - Rogers (69%) def. Ewing (31%)
         ITA: NCST - Rogers (48.19) def. Ewing (14.56)
     - Position: 2
       NCST: Alana Smith - 14-5 at 2, 14-5 in duals, 16-8 overall
@@ -73,7 +73,7 @@ Lineups:
       Predictions:
         AVG: USC - Cayetano (61%) def. Smith (39%)
         SLM: USC - Cayetano (59%) def. Smith (41%)
-        TRN: USC - Cayetano (65%) def. Smith (35%)
+        TRN: USC - Cayetano (66%) def. Smith (34%)
         MAS: NCST - Smith (59%) def. Cayetano (41%)
         UTR: USC - Cayetano (78%) def. Smith (22%)
         ITA: NCST - Smith (22.32) def. Cayetano (5.85)
@@ -85,7 +85,7 @@ Lineups:
         SLM: NCST - Reami (71%) def. Kulikov (29%)
         TRN: NCST - Reami (87%) def. Kulikov (13%)
         MAS: USC - Kulikov (73%) def. Reami (27%)
-        UTR: USC - Kulikov (71%) def. Reami (29%)
+        UTR: USC - Kulikov (70%) def. Reami (30%)
         ITA: "USC - # Kulikov def. Reami (4.00)"
     - Position: 4
       NCST: Jaeda Daniel - 10-6 at 4, 11-8 in duals, 13-10 overall
@@ -95,27 +95,27 @@ Lineups:
         SLM: USC - Cheong (82%) def. Daniel (18%)
         TRN: USC - Cheong (78%) def. Daniel (22%)
         MAS: USC - Cheong (62%) def. Daniel (38%)
-        UTR: USC - Cheong (73%) def. Daniel (27%)
+        UTR: USC - Cheong (72%) def. Daniel (28%)
         ITA: USC - Cheong (4.19) def. Daniel (1.87)
     - Position: 5
       NCST: Abigail Rencheli - 5-2 at 5, 10-4 in duals, 13-5 overall
       USC: Dani Willson - 0-0 at 5, 12-8 in duals, 12-8 overall
       Predictions:
-        AVG: NCST - Rencheli (58%) def. Willson (42%)
+        AVG: NCST - Rencheli (57%) def. Willson (43%)
         SLM: USC - Willson (56%) def. Rencheli (44%)
-        TRN: NCST - Rencheli (51%) def. Willson (49%)
+        TRN: NCST - Rencheli (50%) def. Willson (50%)
         MAS: NCST - Rencheli (63%) def. Willson (37%)
-        UTR: NCST - Rencheli (75%) def. Willson (25%)
+        UTR: NCST - Rencheli (72%) def. Willson (28%)
         ITA: NCST - Rencheli (7.12) def. Willson (1.74)
     - Position: 6
       NCST: Lexi Keberle - 2-4 at 6, 13-6 in duals, 16-8 overall
       USC: Summer Dvorak - 0-0 at 6, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: NCST - Keberle (66%) def. Dvorak (34%)
+        AVG: NCST - Keberle (65%) def. Dvorak (35%)
         SLM: NCST - Keberle (63%) def. Dvorak (37%)
         TRN: NCST - Keberle (62%) def. Dvorak (38%)
         MAS: NCST - Keberle (62%) def. Dvorak (38%)
-        UTR: NCST - Keberle (76%) def. Dvorak (24%)
+        UTR: NCST - Keberle (75%) def. Dvorak (25%)
         ITA: USC - Dvorak (1.85) def. Keberle (1.71)
   Doubles:
     - Position: 1

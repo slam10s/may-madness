@@ -18,8 +18,8 @@ Home:
     ITA: 5 (74.11)
     SLM: 1 (100.00)
     TRN: 1 (100.00)
-    MAS: 3 (9.13)
-    UTR: 6 (80.03)
+    MAS: 3 (9.03)
+    UTR: 4 (80.09)
   Polls:
     USTA: 1 (320.00)
     Coach: 5
@@ -33,30 +33,30 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 12 (52.23)
-    SLM: 14 (96.38)
-    TRN: 16 (94.47)
-    MAS: 8 (8.62)
-    UTR: 2 (80.29)
+    SLM: 12 (96.70)
+    TRN: 12 (95.14)
+    MAS: 9 (8.63)
+    UTR: 2 (80.28)
   Polls:
     USTA: 15 (169.00)
     Coach: 12
 Predictions:
   AVG: UVA - Virginia (74%) def. Southern California (26%)
-  SLM: "UVA - #1 Virginia (88%) def. #14 Southern California (12%)"
-  TRN: "UVA - #1 Virginia (96%) def. #16 Southern California (4%)"
-  MAS: "UVA - #3 Virginia (51%) def. #8 Southern California (49%)"
-  LNUP: UVA - Virginia (63%) def. Southern California (37%)
-  UTR: "USC - #2 Southern California (+0.26) def. #6 Virginia (-0.26)"
+  SLM: "UVA - #1 Virginia (86%) def. #12 Southern California (14%)"
+  TRN: "UVA - #1 Virginia (94%) def. #12 Southern California (6%)"
+  MAS: "UVA - #3 Virginia (51%) def. #9 Southern California (49%)"
+  LNUP: UVA - Virginia (64%) def. Southern California (36%)
+  UTR: "USC - #2 Southern California (+0.19) def. #4 Virginia (-0.19)"
   ITA: "UVA - #5 Virginia def. #12 Southern California"
   USTA: "UVA - #1 Virginia def. #15 Southern California"
   Coach: "UVA - #5 Virginia def. #12 Southern California"
   Seeding: "UVA - #5 Virginia def. #12 Southern California"
 Lineups:
   Predictions:
-    Average EWPs for UVA: 88%,96%,51%,63%
-    Average EWPs for USC: 12%,4%,49%,37%
-    UVA wins 4 or more Singles points: 43%
-    USC wins 4 or more Singles points: 25%
+    Average EWPs for UVA: 86%,94%,51%,64%
+    Average EWPs for USC: 14%,6%,49%,36%
+    UVA wins 4 or more Singles points: 44%
+    USC wins 4 or more Singles points: 24%
     Winner decided by the Doubles point: 32%
   Singles:
     - Position: 1
@@ -64,27 +64,28 @@ Lineups:
       USC: Daniel Cukierman - 12-5 at 1, 12-5 in duals, 14-5 overall
       Predictions:
         AVG: UVA - Söderlund (58%) def. Cukierman (42%)
-        SLM: UVA - Söderlund (64%) def. Cukierman (36%)
-        TRN: UVA - Söderlund (59%) def. Cukierman (41%)
+        SLM: UVA - Söderlund (66%) def. Cukierman (34%)
+        TRN: UVA - Söderlund (62%) def. Cukierman (38%)
         MAS: UVA - Söderlund (59%) def. Cukierman (41%)
+        UTR: USC - Cukierman (53%) def. Söderlund (47%)
         ITA: UVA - Söderlund (48.38) def. Cukierman (16.39)
     - Position: 2
       UVA: Jeffrey von der Schulenburg - 7-2 at 2, 16-4 in duals, 16-4 overall
       USC: Riley Smith - 9-5 at 2, 13-5 in duals, 15-5 overall
       Predictions:
-        AVG: UVA - Schulenburg (53%) def. Smith (47%)
-        SLM: UVA - Schulenburg (56%) def. Smith (44%)
-        TRN: UVA - Schulenburg (67%) def. Smith (33%)
+        AVG: UVA - Schulenburg (52%) def. Smith (48%)
+        SLM: UVA - Schulenburg (53%) def. Smith (47%)
+        TRN: UVA - Schulenburg (61%) def. Smith (39%)
         MAS: UVA - Schulenburg (53%) def. Smith (47%)
-        UTR: USC - Smith (62%) def. Schulenburg (38%)
+        UTR: USC - Smith (60%) def. Schulenburg (40%)
         ITA: UVA - Schulenburg (18.39) def. Smith (15.48)
     - Position: 3
       UVA: Chris Rodesch - 6-2 at 3, 14-6 in duals, 14-6 overall
       USC: Stefan Dostanic - 12-3 at 3, 16-3 in duals, 18-3 overall
       Predictions:
-        AVG: USC - Dostanic (77%) def. Rodesch (23%)
+        AVG: USC - Dostanic (76%) def. Rodesch (24%)
         SLM: USC - Dostanic (69%) def. Rodesch (31%)
-        TRN: USC - Dostanic (83%) def. Rodesch (17%)
+        TRN: USC - Dostanic (79%) def. Rodesch (21%)
         MAS: USC - Dostanic (73%) def. Rodesch (27%)
         UTR: USC - Dostanic (84%) def. Rodesch (16%)
         ITA: USC - Dostanic (5.43) def. Rodesch (3.82)
@@ -93,10 +94,10 @@ Lineups:
       USC: Bradley Frye - 9-2 at 4, 15-4 in duals, 17-4 overall
       Predictions:
         AVG: UVA - Torre (70%) def. Frye (30%)
-        SLM: UVA - Torre (75%) def. Frye (25%)
-        TRN: UVA - Torre (77%) def. Frye (23%)
+        SLM: UVA - Torre (74%) def. Frye (26%)
+        TRN: UVA - Torre (76%) def. Frye (24%)
         MAS: UVA - Torre (61%) def. Frye (39%)
-        UTR: UVA - Torre (66%) def. Frye (34%)
+        UTR: UVA - Torre (68%) def. Frye (32%)
         ITA: UVA - Torre (12.34) def. Frye (2.44)
     - Position: 5
       UVA: Ryan Goetz - 7-1 at 5, 16-5 in duals, 16-5 overall
@@ -104,19 +105,19 @@ Lineups:
       Predictions:
         AVG: UVA - Goetz (63%) def. Weststrate (37%)
         SLM: UVA - Goetz (70%) def. Weststrate (30%)
-        TRN: UVA - Goetz (66%) def. Weststrate (34%)
+        TRN: UVA - Goetz (67%) def. Weststrate (33%)
         MAS: UVA - Goetz (61%) def. Weststrate (39%)
-        UTR: UVA - Goetz (53%) def. Weststrate (47%)
+        UTR: UVA - Goetz (56%) def. Weststrate (44%)
         ITA: UVA - Goetz (6.09) def. Weststrate (2.93)
     - Position: 6
       UVA: Gianni Ross - 7-3 at 6, 11-3 in duals, 11-3 overall
       USC: Jake Sands - 8-3 at 6, 14-4 in duals, 14-4 overall
       Predictions:
-        AVG: UVA - Ross (60%) def. Sands (40%)
-        SLM: UVA - Ross (66%) def. Sands (34%)
-        TRN: UVA - Ross (60%) def. Sands (40%)
+        AVG: UVA - Ross (61%) def. Sands (39%)
+        SLM: UVA - Ross (65%) def. Sands (35%)
+        TRN: UVA - Ross (65%) def. Sands (35%)
         MAS: UVA - Ross (50%) def. Sands (50%)
-        UTR: UVA - Ross (65%) def. Sands (35%)
+        UTR: UVA - Ross (64%) def. Sands (36%)
         ITA: UVA - Ross (2.67) def. Sands (2.42)
   Doubles:
     - Position: 1

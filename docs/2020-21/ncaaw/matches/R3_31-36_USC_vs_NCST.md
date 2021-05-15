@@ -9,10 +9,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>Southern California</h2>  
 &nbsp; Record: 13-10<br>  
 &nbsp; ITA: 35 (23.25)<br>  
-&nbsp; Slam: 35 (87.72)<br>  
-&nbsp; TRN: 41 (78.74)<br>  
-&nbsp; Massey: 26 (7.43)<br>  
-&#10004; UTR: 6 (64.29)<br>  
+&nbsp; Slam: 26 (89.07)<br>  
+&nbsp; TRN: 30 (83.52)<br>  
+&nbsp; Massey: 23 (7.67)<br>  
+&#10004; UTR: 6 (64.31)<br>  
 &nbsp; Coaches Poll: 34<br>  
 <br>  
 
@@ -22,10 +22,10 @@ Third Round[](#top)<a name="top"></a>
 <h2>#6 NC State</h2>  
 &nbsp; Record: 18-5<br>  
 &#10004; ITA: 6 (56.15)<br>  
-&#10004; Slam: 11 (91.65)<br>  
-&#10004; TRN: 10 (84.27)<br>  
-&#10004; Massey: 6 (8.36)<br>  
-&nbsp; UTR: 9 (62.99)<br>  
+&#10004; Slam: 11 (91.78)<br>  
+&#10004; TRN: 10 (87.38)<br>  
+&#10004; Massey: 6 (8.35)<br>  
+&nbsp; UTR: 9 (62.90)<br>  
 &#10004; USTA Poll: 12 (197.00)<br>  
 &#10004; Coaches Poll: 6<br>  
 <br>  
@@ -39,12 +39,12 @@ Third Round[](#top)<a name="top"></a>
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***NCST*** - NC State (81%) def. Southern California (19%)  
-- Slam: ***NCST*** - #11 NC State (90%) def. #35 Southern California (10%)  
-- TRN: ***NCST*** - #10 NC State (96%) def. #41 Southern California (4%)  
-- Massey: ***NCST*** - #6 NC State (79%) def. #26 Southern California (21%)  
+- Composite: ***NCST*** - NC State (77%) def. Southern California (23%)  
+- Slam: ***NCST*** - #11 NC State (82%) def. #26 Southern California (18%)  
+- TRN: ***NCST*** - #10 NC State (90%) def. #30 Southern California (10%)  
+- Massey: ***NCST*** - #6 NC State (79%) def. #23 Southern California (21%)  
 - Lineup: ***NCST*** - NC State (58%) def. Southern California (42%)  
-- UTR: ***USC*** - #6 Southern California (+1.3) def. #9 NC State (-1.3)  
+- UTR: ***USC*** - #6 Southern California (+1.41) def. #9 NC State (-1.41)  
 - ITA: ***NCST*** - #6 NC State def. #35 Southern California  
 - USTA Poll: ***NCST*** - #12 NC State def. Southern California  
 - Coaches Poll: ***NCST*** - #6 NC State def. #34 Southern California  
@@ -62,9 +62,9 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>NCST</i></b> - Rogers (74%) def. Ewing (26%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Rogers (82%) def. Ewing (18%)</li>  
-<li>TRN: <b><i>NCST</i></b> - Rogers (68%) def. Ewing (32%)</li>  
+<li>TRN: <b><i>NCST</i></b> - Rogers (67%) def. Ewing (33%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Rogers (76%) def. Ewing (24%)</li>  
-<li>UTR: <b><i>NCST</i></b> - Rogers (71%) def. Ewing (29%)</li>  
+<li>UTR: <b><i>NCST</i></b> - Rogers (69%) def. Ewing (31%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rogers (48.19) def. Ewing (14.56)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -73,7 +73,7 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USC</i></b> - Cayetano (61%) def. Smith (39%)</li>  
 <li>Slam: <b><i>USC</i></b> - Cayetano (59%) def. Smith (41%)</li>  
-<li>TRN: <b><i>USC</i></b> - Cayetano (65%) def. Smith (35%)</li>  
+<li>TRN: <b><i>USC</i></b> - Cayetano (66%) def. Smith (34%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Smith (59%) def. Cayetano (41%)</li>  
 <li>UTR: <b><i>USC</i></b> - Cayetano (78%) def. Smith (22%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Smith (22.32) def. Cayetano (5.85)</li>  
@@ -86,7 +86,7 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>NCST</i></b> - Reami (71%) def. Kulikov (29%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Reami (87%) def. Kulikov (13%)</li>  
 <li>Massey: <b><i>USC</i></b> - Kulikov (73%) def. Reami (27%)</li>  
-<li>UTR: <b><i>USC</i></b> - Kulikov (71%) def. Reami (29%)</li>  
+<li>UTR: <b><i>USC</i></b> - Kulikov (70%) def. Reami (30%)</li>  
 <li>ITA: <b><i>USC</i></b> - # Kulikov def. Reami (4.00)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -97,29 +97,29 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>USC</i></b> - Cheong (82%) def. Daniel (18%)</li>  
 <li>TRN: <b><i>USC</i></b> - Cheong (78%) def. Daniel (22%)</li>  
 <li>Massey: <b><i>USC</i></b> - Cheong (62%) def. Daniel (38%)</li>  
-<li>UTR: <b><i>USC</i></b> - Cheong (73%) def. Daniel (27%)</li>  
+<li>UTR: <b><i>USC</i></b> - Cheong (72%) def. Daniel (28%)</li>  
 <li>ITA: <b><i>USC</i></b> - Cheong (4.19) def. Daniel (1.87)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Dani Willson (USC) - 0-0 at #5, 12-8 in duals, 12-8 overall<br>Abigail Rencheli (NCST) - 5-2 at #5, 10-4 in duals, 13-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Rencheli (58%) def. Willson (42%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Rencheli (57%) def. Willson (43%)</li>  
 <li>Slam: <b><i>USC</i></b> - Willson (56%) def. Rencheli (44%)</li>  
-<li>TRN: <b><i>NCST</i></b> - Rencheli (51%) def. Willson (49%)</li>  
+<li>TRN: <b><i>NCST</i></b> - Rencheli (50%) def. Willson (50%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Rencheli (63%) def. Willson (37%)</li>  
-<li>UTR: <b><i>NCST</i></b> - Rencheli (75%) def. Willson (25%)</li>  
+<li>UTR: <b><i>NCST</i></b> - Rencheli (72%) def. Willson (28%)</li>  
 <li>ITA: <b><i>NCST</i></b> - Rencheli (7.12) def. Willson (1.74)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Summer Dvorak (USC) - 0-0 at #6, 12-7 in duals, 12-7 overall<br>Lexi Keberle (NCST) - 2-4 at #6, 13-6 in duals, 16-8 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>NCST</i></b> - Keberle (66%) def. Dvorak (34%)</li>  
+<li>Composite: <b><i>NCST</i></b> - Keberle (65%) def. Dvorak (35%)</li>  
 <li>Slam: <b><i>NCST</i></b> - Keberle (63%) def. Dvorak (37%)</li>  
 <li>TRN: <b><i>NCST</i></b> - Keberle (62%) def. Dvorak (38%)</li>  
 <li>Massey: <b><i>NCST</i></b> - Keberle (62%) def. Dvorak (38%)</li>  
-<li>UTR: <b><i>NCST</i></b> - Keberle (76%) def. Dvorak (24%)</li>  
+<li>UTR: <b><i>NCST</i></b> - Keberle (75%) def. Dvorak (25%)</li>  
 <li>ITA: <b><i>USC</i></b> - Dvorak (1.85) def. Keberle (1.71)</li>  
 </ul>
 </details>&nbsp;</li>

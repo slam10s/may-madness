@@ -16,10 +16,10 @@ Home:
     Region: 1
   Ratings:
     ITA: 4 (61.62)
-    SLM: 4 (92.98)
-    TRN: 7 (85.42)
-    MAS: 4 (8.85)
-    UTR: 5 (64.40)
+    SLM: 4 (93.75)
+    TRN: 5 (89.32)
+    MAS: 4 (8.90)
+    UTR: 5 (64.41)
   Polls:
     USTA: 5 (280.00)
     Coach: 5
@@ -33,28 +33,28 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 11 (48.83)
-    SLM: 20 (90.34)
-    TRN: 16 (83.31)
-    MAS: 18 (7.83)
-    UTR: 24 (61.54)
+    SLM: 18 (90.48)
+    TRN: 15 (86.47)
+    MAS: 17 (7.85)
+    UTR: 24 (61.57)
   Polls:
     USTA: 16 (148.00)
     Coach: 11
 Predictions:
-  AVG: UCLA - UCLA (87%) def. Georgia Tech (13%)
-  SLM: "UCLA - #4 UCLA (82%) def. #20 Georgia Tech (18%)"
-  TRN: "UCLA - #7 UCLA (77%) def. #16 Georgia Tech (23%)"
-  MAS: "UCLA - #4 UCLA (94%) def. #18 Georgia Tech (6%)"
+  AVG: UCLA - UCLA (89%) def. Georgia Tech (11%)
+  SLM: "UCLA - #4 UCLA (86%) def. #18 Georgia Tech (14%)"
+  TRN: "UCLA - #5 UCLA (83%) def. #15 Georgia Tech (17%)"
+  MAS: "UCLA - #4 UCLA (94%) def. #17 Georgia Tech (6%)"
   LNUP: UCLA - UCLA (95%) def. Georgia Tech (5%)
-  UTR: "UCLA - #5 UCLA (+2.86) def. #24 Georgia Tech (-2.86)"
+  UTR: "UCLA - #5 UCLA (+2.84) def. #24 Georgia Tech (-2.84)"
   ITA: "UCLA - #4 UCLA def. #11 Georgia Tech"
   USTA: "UCLA - #5 UCLA def. #16 Georgia Tech"
   Coach: "UCLA - #5 UCLA def. #11 Georgia Tech"
   Seeding: "UCLA - #4 UCLA def. #13 Georgia Tech"
 Lineups:
   Predictions:
-    Average EWPs for UCLA: 82%,77%,94%,95%
-    Average EWPs for GT: 18%,23%,6%,5%
+    Average EWPs for UCLA: 86%,83%,94%,95%
+    Average EWPs for GT: 14%,17%,6%,5%
     UCLA wins 4 or more Singles points: 81%
     GT wins 4 or more Singles points: 4%
     Winner decided by the Doubles point: 15%
@@ -63,21 +63,21 @@ Lineups:
       UCLA: Abbey Forbes - 17-2 at 1, 18-2 in duals, 18-2 overall
       GT: Kenya Jones - 16-7 at 1, 16-7 in duals, 17-8 overall
       Predictions:
-        AVG: UCLA - Forbes (78%) def. Jones (22%)
-        SLM: UCLA - Forbes (77%) def. Jones (23%)
+        AVG: UCLA - Forbes (79%) def. Jones (21%)
+        SLM: UCLA - Forbes (78%) def. Jones (22%)
         TRN: UCLA - Forbes (75%) def. Jones (25%)
         MAS: UCLA - Forbes (81%) def. Jones (19%)
-        UTR: UCLA - Forbes (80%) def. Jones (20%)
+        UTR: UCLA - Forbes (81%) def. Jones (19%)
         ITA: GT - Jones (50.31) def. Forbes (46.46)
     - Position: 2
       UCLA: Jada Hart - 8-1 at 2, 11-2 in duals, 11-2 overall
       GT: Victoria Flores - 12-4 at 2, 17-5 in duals, 18-6 overall
       Predictions:
-        AVG: UCLA - Hart (68%) def. Flores (32%)
-        SLM: UCLA - Hart (76%) def. Flores (24%)
+        AVG: UCLA - Hart (69%) def. Flores (31%)
+        SLM: UCLA - Hart (75%) def. Flores (25%)
         TRN: UCLA - Hart (77%) def. Flores (23%)
         MAS: UCLA - Hart (52%) def. Flores (48%)
-        UTR: UCLA - Hart (66%) def. Flores (34%)
+        UTR: UCLA - Hart (72%) def. Flores (28%)
         ITA: GT - Flores (29.63) def. Hart (12.21)
     - Position: 3
       UCLA: Elysia Bolton - 5-2 at 3, 9-3 in duals, 9-3 overall
@@ -87,14 +87,14 @@ Lineups:
         SLM: UCLA - Bolton (92%) def. Cohen (8%)
         TRN: UCLA - Bolton (95%) def. Cohen (5%)
         MAS: UCLA - Bolton (92%) def. Cohen (8%)
-        UTR: UCLA - Bolton (95%) def. Cohen (5%)
+        UTR: UCLA - Bolton (94%) def. Cohen (6%)
         ITA: UCLA - Bolton (4.20) def. Cohen (3.38)
     - Position: 4
       UCLA: Vivian Wolff - 9-4 at 4, 10-6 in duals, 10-6 overall
       GT: Ava Hrastar - 2-3 at 4, 10-9 in duals, 12-9 overall
       Predictions:
         AVG: UCLA - Wolff (67%) def. Hrastar (33%)
-        SLM: UCLA - Wolff (67%) def. Hrastar (33%)
+        SLM: UCLA - Wolff (68%) def. Hrastar (32%)
         TRN: UCLA - Wolff (74%) def. Hrastar (26%)
         MAS: UCLA - Wolff (62%) def. Hrastar (38%)
         UTR: UCLA - Wolff (66%) def. Hrastar (34%)
@@ -103,11 +103,11 @@ Lineups:
       UCLA: Sasha Vagramov - 5-3 at 5, 9-5 in duals, 9-5 overall
       GT: Carol Lee - 5-8 at 5, 12-12 in duals, 14-12 overall
       Predictions:
-        AVG: UCLA - Vagramov (59%) def. Lee (41%)
+        AVG: UCLA - Vagramov (57%) def. Lee (43%)
         SLM: UCLA - Vagramov (67%) def. Lee (33%)
         TRN: UCLA - Vagramov (79%) def. Lee (21%)
         MAS: GT - Lee (51%) def. Vagramov (49%)
-        UTR: GT - Lee (58%) def. Vagramov (42%)
+        UTR: GT - Lee (66%) def. Vagramov (34%)
         ITA: GT - Lee (4.33) def. Vagramov (2.24)
     - Position: 6
       UCLA: Vanessa Ong - 3-1 at 6, 4-1 in duals, 4-1 overall
@@ -117,7 +117,7 @@ Lineups:
         SLM: UCLA - Ong (63%) def. Jain (37%)
         TRN: UCLA - Ong (76%) def. Jain (24%)
         MAS: UCLA - Ong (52%) def. Jain (48%)
-        UTR: UCLA - Ong (90%) def. Jain (10%)
+        UTR: UCLA - Ong (89%) def. Jain (11%)
         ITA: UCLA - Ong (1.95) def. Jain (1.89)
   Doubles:
     - Position: 1

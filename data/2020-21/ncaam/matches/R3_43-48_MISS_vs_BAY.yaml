@@ -16,10 +16,10 @@ Home:
     Region: 1
   Ratings:
     ITA: 1 (83.33)
-    SLM: 5 (99.05)
-    TRN: 6 (98.67)
-    MAS: 5 (8.82)
-    UTR: 9 (79.74)
+    SLM: 5 (99.19)
+    TRN: 6 (98.83)
+    MAS: 5 (8.86)
+    UTR: 10 (79.71)
   Polls:
     USTA: 3 (292.00)
     Coach: 1
@@ -33,49 +33,49 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 14 (44.94)
-    SLM: 18 (95.00)
-    TRN: 18 (93.41)
-    MAS: 21 (7.84)
-    UTR: 25 (77.70)
+    SLM: 19 (95.14)
+    TRN: 18 (93.62)
+    MAS: 20 (7.95)
+    UTR: 26 (77.73)
   Polls:
     USTA: 23 (73.00)
     Coach: 16
 Predictions:
-  AVG: BAY - Baylor (90%) def. Ole Miss (10%)
-  SLM: "BAY - #5 Baylor (91%) def. #18 Ole Miss (9%)"
+  AVG: BAY - Baylor (89%) def. Ole Miss (11%)
+  SLM: "BAY - #5 Baylor (91%) def. #19 Ole Miss (9%)"
   TRN: "BAY - #6 Baylor (95%) def. #18 Ole Miss (5%)"
-  MAS: "BAY - #5 Baylor (79%) def. #21 Ole Miss (21%)"
-  LNUP: BAY - Baylor (95%) def. Ole Miss (5%)
-  UTR: "BAY - #9 Baylor (+2.04) def. #25 Ole Miss (-2.04)"
+  MAS: "BAY - #5 Baylor (79%) def. #20 Ole Miss (21%)"
+  LNUP: BAY - Baylor (93%) def. Ole Miss (7%)
+  UTR: "BAY - #10 Baylor (+1.98) def. #26 Ole Miss (-1.98)"
   ITA: "BAY - #1 Baylor def. #14 Ole Miss"
   USTA: "BAY - #3 Baylor def. #23 Ole Miss"
   Coach: "BAY - #1 Baylor def. #16 Ole Miss"
   Seeding: "BAY - #2 Baylor def. #15 Ole Miss"
 Lineups:
   Predictions:
-    Average EWPs for BAY: 91%,95%,79%,95%
-    Average EWPs for MISS: 9%,5%,21%,5%
-    BAY wins 4 or more Singles points: 79%
-    MISS wins 4 or more Singles points: 4%
+    Average EWPs for BAY: 91%,95%,79%,93%
+    Average EWPs for MISS: 9%,5%,21%,7%
+    BAY wins 4 or more Singles points: 78%
+    MISS wins 4 or more Singles points: 5%
     Winner decided by the Doubles point: 17%
   Singles:
     - Position: 1
       BAY: Adrian Boitan - 14-4 at 1, 15-5 in duals, 15-5 overall
       MISS: Tim Sandkaulen - 1-7 at 1, 8-12 in duals, 13-16 overall
       Predictions:
-        AVG: BAY - Boitan (81%) def. Sandkaulen (19%)
-        SLM: BAY - Boitan (83%) def. Sandkaulen (17%)
-        TRN: BAY - Boitan (88%) def. Sandkaulen (12%)
+        AVG: BAY - Boitan (82%) def. Sandkaulen (18%)
+        SLM: BAY - Boitan (84%) def. Sandkaulen (16%)
+        TRN: BAY - Boitan (90%) def. Sandkaulen (10%)
         MAS: BAY - Boitan (76%) def. Sandkaulen (24%)
-        UTR: BAY - Boitan (79%) def. Sandkaulen (21%)
+        UTR: BAY - Boitan (80%) def. Sandkaulen (20%)
         ITA: BAY - Boitan (31.04) def. Sandkaulen (22.95)
     - Position: 2
       BAY: Matias Soto - 12-3 at 2, 14-4 in duals, 18-4 overall
       MISS: Finn Reynolds - 6-1 at 2, 10-10 in duals, 10-10 overall
       Predictions:
-        AVG: BAY - Soto (76%) def. Reynolds (24%)
+        AVG: BAY - Soto (77%) def. Reynolds (23%)
         SLM: BAY - Soto (67%) def. Reynolds (33%)
-        TRN: BAY - Soto (80%) def. Reynolds (20%)
+        TRN: BAY - Soto (82%) def. Reynolds (18%)
         MAS: BAY - Soto (75%) def. Reynolds (25%)
         UTR: BAY - Soto (83%) def. Reynolds (17%)
         ITA: BAY - Soto (41.70) def. Reynolds (36.17)
@@ -83,41 +83,41 @@ Lineups:
       BAY: Sven Lah - 6-7 at 3, 9-9 in duals, 11-12 overall
       MISS: Nikola Slavic - 12-7 at 3, 13-7 in duals, 13-7 overall
       Predictions:
-        AVG: MISS - Slavic (68%) def. Lah (32%)
-        SLM: MISS - Slavic (60%) def. Lah (40%)
-        TRN: MISS - Slavic (68%) def. Lah (32%)
+        AVG: MISS - Slavic (66%) def. Lah (34%)
+        SLM: MISS - Slavic (58%) def. Lah (42%)
+        TRN: MISS - Slavic (66%) def. Lah (34%)
         MAS: MISS - Slavic (68%) def. Lah (32%)
-        UTR: MISS - Slavic (75%) def. Lah (25%)
+        UTR: MISS - Slavic (74%) def. Lah (26%)
         ITA: MISS - Slavic (24.24) def. Lah (4.25)
     - Position: 4
       BAY: Nick Stachowiak - 8-2 at 4, 12-5 in duals, 19-7 overall
       MISS: John Hallquist Lithen - 5-6 at 4, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: BAY - Stachowiak (59%) def. Lithen (41%)
-        SLM: BAY - Stachowiak (64%) def. Lithen (36%)
-        TRN: BAY - Stachowiak (53%) def. Lithen (47%)
+        AVG: BAY - Stachowiak (58%) def. Lithen (42%)
+        SLM: BAY - Stachowiak (61%) def. Lithen (39%)
+        TRN: BAY - Stachowiak (51%) def. Lithen (49%)
         MAS: BAY - Stachowiak (52%) def. Lithen (48%)
-        UTR: BAY - Stachowiak (68%) def. Lithen (32%)
+        UTR: BAY - Stachowiak (67%) def. Lithen (33%)
         ITA: BAY - Stachowiak (3.38) def. Lithen (2.40)
     - Position: 5
       BAY: Charlie Broom - 17-2 at 5, 21-3 in duals, 24-6 overall
       MISS: Simon Junk - 2-6 at 5, 9-11 in duals, 9-14 overall
       Predictions:
         AVG: BAY - Broom (85%) def. Junk (15%)
-        SLM: BAY - Broom (84%) def. Junk (16%)
-        TRN: BAY - Broom (88%) def. Junk (12%)
+        SLM: BAY - Broom (82%) def. Junk (18%)
+        TRN: BAY - Broom (87%) def. Junk (13%)
         MAS: BAY - Broom (83%) def. Junk (17%)
-        UTR: BAY - Broom (87%) def. Junk (13%)
+        UTR: BAY - Broom (86%) def. Junk (14%)
         ITA: BAY - Broom (3.72) def. Junk (1.99)
     - Position: 6
       BAY: Spencer Furman - 11-2 at 6, 18-2 in duals, 21-3 overall
       MISS: Lukas Engelhardt - 3-4 at 6, 3-7 in duals, 3-7 overall
       Predictions:
-        AVG: BAY - Furman (89%) def. Engelhardt (11%)
-        SLM: BAY - Furman (86%) def. Engelhardt (14%)
-        TRN: BAY - Furman (91%) def. Engelhardt (9%)
+        AVG: BAY - Furman (88%) def. Engelhardt (12%)
+        SLM: BAY - Furman (84%) def. Engelhardt (16%)
+        TRN: BAY - Furman (90%) def. Engelhardt (10%)
         MAS: BAY - Furman (87%) def. Engelhardt (13%)
-        UTR: BAY - Furman (91%) def. Engelhardt (9%)
+        UTR: BAY - Furman (90%) def. Engelhardt (10%)
         ITA: "MISS - # Engelhardt def. Furman (4.24)"
   Doubles:
     - Position: 1

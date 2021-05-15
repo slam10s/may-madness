@@ -16,10 +16,10 @@ Home:
     Region: 1
   Ratings:
     ITA: 2 (79.31)
-    SLM: 2 (98.44)
-    TRN: 2 (97.97)
-    MAS: 2 (9.38)
-    UTR: 1 (65.59)
+    SLM: 2 (98.39)
+    TRN: 2 (97.57)
+    MAS: 2 (9.42)
+    UTR: 1 (65.53)
   Polls:
     USTA: 3 (312.00)
     Coach: 2
@@ -33,30 +33,30 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 16 (46.78)
-    SLM: 5 (92.95)
-    TRN: 5 (85.87)
-    MAS: 8 (8.22)
-    UTR: 25 (61.53)
+    SLM: 6 (92.85)
+    TRN: 6 (89.09)
+    MAS: 8 (8.23)
+    UTR: 20 (61.69)
   Polls:
     USTA: 7 (249.00)
     Coach: 13
 Predictions:
   AVG: TEX - Texas (96%) def. Ohio St. (4%)
-  SLM: "TEX - #2 Texas (95%) def. #5 Ohio St. (5%)"
-  TRN: "TEX - #2 Texas (99%) def. #5 Ohio St. (1%)"
+  SLM: "TEX - #2 Texas (96%) def. #6 Ohio St. (4%)"
+  TRN: "TEX - #2 Texas (99%) def. #6 Ohio St. (1%)"
   MAS: "TEX - #2 Texas (91%) def. #8 Ohio St. (9%)"
-  LNUP: TEX - Texas (98%) def. Ohio St. (2%)
-  UTR: "TEX - #1 Texas (+4.06) def. #25 Ohio St. (-4.06)"
+  LNUP: TEX - Texas (97%) def. Ohio St. (3%)
+  UTR: "TEX - #1 Texas (+3.84) def. #20 Ohio St. (-3.84)"
   ITA: "TEX - #2 Texas def. #16 Ohio St."
   USTA: "TEX - #3 Texas def. #7 Ohio St."
   Coach: "TEX - #2 Texas def. #13 Ohio St."
   Seeding: "TEX - #2 Texas def. #15 Ohio St."
 Lineups:
   Predictions:
-    Average EWPs for TEX: 95%,99%,91%,98%
-    Average EWPs for OSU: 5%,1%,9%,2%
-    TEX wins 4 or more Singles points: 90%
-    OSU wins 4 or more Singles points: 1%
+    Average EWPs for TEX: 96%,99%,91%,97%
+    Average EWPs for OSU: 4%,1%,9%,3%
+    TEX wins 4 or more Singles points: 89%
+    OSU wins 4 or more Singles points: 2%
     Winner decided by the Doubles point: 9%
   Singles:
     - Position: 1
@@ -65,19 +65,19 @@ Lineups:
       Predictions:
         AVG: TEX - Stearns (50%) def. Siemers (50%)
         SLM: OSU - Siemers (54%) def. Stearns (46%)
-        TRN: OSU - Siemers (65%) def. Stearns (35%)
+        TRN: OSU - Siemers (66%) def. Stearns (34%)
         MAS: TEX - Stearns (51%) def. Siemers (49%)
-        UTR: TEX - Stearns (68%) def. Siemers (32%)
+        UTR: TEX - Stearns (72%) def. Siemers (28%)
         ITA: OSU - Siemers (24.34) def. Stearns (16.38)
     - Position: 2
       TEX: Anna Turati - 9-2 at 2, 17-3 in duals, 17-3 overall
       OSU: Isabelle Boulais - 6-3 at 2, 11-5 in duals, 11-5 overall
       Predictions:
-        AVG: TEX - Turati (79%) def. Boulais (21%)
-        SLM: TEX - Turati (85%) def. Boulais (15%)
+        AVG: TEX - Turati (78%) def. Boulais (22%)
+        SLM: TEX - Turati (84%) def. Boulais (16%)
         TRN: TEX - Turati (84%) def. Boulais (16%)
         MAS: TEX - Turati (56%) def. Boulais (44%)
-        UTR: TEX - Turati (91%) def. Boulais (9%)
+        UTR: TEX - Turati (89%) def. Boulais (11%)
         ITA: TEX - Turati (17.31) def. Boulais (2.65)
     - Position: 3
       TEX: Lulu Sun - 12-1 at 3, 18-2 in duals, 18-2 overall
@@ -97,27 +97,27 @@ Lineups:
         SLM: TEX - Chavatipon (89%) def. Hofbauer (11%)
         TRN: TEX - Chavatipon (96%) def. Hofbauer (4%)
         MAS: TEX - Chavatipon (86%) def. Hofbauer (14%)
-        UTR: TEX - Chavatipon (91%) def. Hofbauer (9%)
+        UTR: TEX - Chavatipon (88%) def. Hofbauer (12%)
         ITA: TEX - Chavatipon (7.87) def. Hofbauer (2.47)
     - Position: 5
       TEX: Kylie Collins - 9-2 at 5, 16-2 in duals, 16-2 overall
       OSU: Lucia Marzal Martinez - 10-2 at 5, 19-2 in duals, 21-3 overall
       Predictions:
-        AVG: TEX - Collins (83%) def. Martinez (17%)
+        AVG: TEX - Collins (82%) def. Martinez (18%)
         SLM: TEX - Collins (81%) def. Martinez (19%)
-        TRN: TEX - Collins (86%) def. Martinez (14%)
+        TRN: TEX - Collins (83%) def. Martinez (17%)
         MAS: TEX - Collins (79%) def. Martinez (21%)
-        UTR: TEX - Collins (88%) def. Martinez (12%)
+        UTR: TEX - Collins (87%) def. Martinez (13%)
         ITA: TEX - Collins (8.04) def. Martinez (3.08)
     - Position: 6
       TEX: Fernanda Labraña - 5-1 at 6, 14-1 in duals, 21-2 overall
       OSU: Luna Dormet - 9-1 at 6, 17-1 in duals, 19-1 overall
       Predictions:
         AVG: TEX - Labraña (69%) def. Dormet (31%)
-        SLM: TEX - Labraña (71%) def. Dormet (29%)
-        TRN: TEX - Labraña (83%) def. Dormet (17%)
+        SLM: TEX - Labraña (70%) def. Dormet (30%)
+        TRN: TEX - Labraña (82%) def. Dormet (18%)
         MAS: TEX - Labraña (54%) def. Dormet (46%)
-        UTR: TEX - Labraña (70%) def. Dormet (30%)
+        UTR: TEX - Labraña (69%) def. Dormet (31%)
         ITA: TEX - Labraña (4.28) def. Dormet (3.78)
   Doubles:
     - Position: 1
