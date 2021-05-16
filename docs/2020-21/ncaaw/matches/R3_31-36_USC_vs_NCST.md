@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>Southern California</h2>  
-&nbsp; Record: 13-10<br>  
+&nbsp; Record: 13-11<br>  
 &nbsp; ITA: 35 (23.25)<br>  
 &nbsp; Slam: 26 (89.07)<br>  
 &nbsp; TRN: 30 (83.52)<br>  
@@ -22,7 +22,7 @@ Orlando, Florida
 <td>  
 
 <h2>#6 NC State</h2>  
-&nbsp; Record: 18-5<br>  
+&nbsp; Record: 19-5<br>  
 &#10004; ITA: 6 (56.15)<br>  
 &#10004; Slam: 11 (91.78)<br>  
 &#10004; TRN: 10 (87.38)<br>  
@@ -39,6 +39,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
+***N.C. State def. USC 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  

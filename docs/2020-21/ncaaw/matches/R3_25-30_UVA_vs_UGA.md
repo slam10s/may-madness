@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#14 Virginia</h2>  
-&nbsp; Record: 16-6<br>  
+&nbsp; Record: 16-7<br>  
 &nbsp; ITA: 13 (48.31)<br>  
 &nbsp; Slam: 7 (92.16)<br>  
 &nbsp; TRN: 11 (87.36)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#3 Georgia</h2>  
-&nbsp; Record: 22-1<br>  
+&nbsp; Record: 23-1<br>  
 &#10004; ITA: 3 (73.77)<br>  
 &#10004; Slam: 3 (97.71)<br>  
 &#10004; TRN: 3 (96.36)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
+***Georgia def. Virginia 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  

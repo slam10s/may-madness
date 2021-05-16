@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#10 Texas A&M</h2>  
-&nbsp; Record: 21-7<br>  
+&nbsp; Record: 21-8<br>  
 &nbsp; ITA: 10 (50.26)<br>  
 &nbsp; Slam: 15 (90.74)<br>  
 &nbsp; TRN: 17 (86.09)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#7 Florida St.</h2>  
-&nbsp; Record: 18-5<br>  
+&nbsp; Record: 19-5<br>  
 &#10004; ITA: 7 (55.39)<br>  
 &#10004; Slam: 8 (92.07)<br>  
 &#10004; TRN: 9 (87.72)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
+***Florida State def. Texas A&M 4-2***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  

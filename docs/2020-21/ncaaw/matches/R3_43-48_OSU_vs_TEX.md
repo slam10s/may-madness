@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#15 Ohio St.</h2>  
-&nbsp; Record: 23-3<br>  
+&nbsp; Record: 23-4<br>  
 &nbsp; ITA: 16 (46.78)<br>  
 &nbsp; Slam: 6 (92.85)<br>  
 &nbsp; TRN: 6 (89.09)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Texas</h2>  
-&nbsp; Record: 27-1<br>  
+&nbsp; Record: 28-1<br>  
 &#10004; ITA: 2 (79.31)<br>  
 &#10004; Slam: 2 (98.39)<br>  
 &#10004; TRN: 2 (97.57)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
+***Texas def. Ohio State 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  
