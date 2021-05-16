@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>Michigan</h2>  
-&nbsp; Record: 19-3<br>  
+&nbsp; Record: 19-4<br>  
 &nbsp; ITA: 20 (39.90)<br>  
 &nbsp; Slam: 9 (91.97)<br>  
 &nbsp; TRN: 7 (88.38)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#5 Pepperdine</h2>  
-&nbsp; Record: 22-3<br>  
+&nbsp; Record: 23-3<br>  
 &#10004; ITA: 5 (60.46)<br>  
 &#10004; Slam: 5 (93.53)<br>  
 &#10004; TRN: 4 (89.84)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
+***Pepperdine def. Michigan 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  

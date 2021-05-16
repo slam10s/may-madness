@@ -23,7 +23,7 @@ The various metrics disagree on the outcome of these matches:
 The metrics agree on the winner, but not by a lot:
 
 - Sun, 5/16 at  1:00 EDT	[#10 Texas A&M vs #7 Florida St.](./matches/R3_37-42_AM_vs_FSU.md) ... <b>FSU (4)</b> / A&M (2)
-- Sun, 5/16 at  4:00 EDT	[Michigan vs #5 Pepperdine](./matches/R3_13-18_MICH_vs_PEPP.md) ... PEPP (77%) / MICH (23%)
+- Sun, 5/16 at  4:00 EDT	[Michigan vs #5 Pepperdine](./matches/R3_13-18_MICH_vs_PEPP.md) ... <b>PEPP (4)</b> / MICH (0)
 
 ### Heavy Favorites
 
