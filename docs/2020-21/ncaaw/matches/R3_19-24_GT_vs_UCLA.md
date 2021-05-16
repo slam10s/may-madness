@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#13 Georgia Tech</h2>  
-&nbsp; Record: 20-10<br>  
+&nbsp; Record: 20-11<br>  
 &nbsp; ITA: 11 (48.83)<br>  
 &nbsp; Slam: 18 (90.48)<br>  
 &nbsp; TRN: 15 (86.47)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#4 UCLA</h2>  
-&nbsp; Record: 21-4<br>  
+&nbsp; Record: 22-4<br>  
 &#10004; ITA: 4 (61.62)<br>  
 &#10004; Slam: 4 (93.75)<br>  
 &#10004; TRN: 5 (89.32)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
+***UCLA def. Georgia Tech 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  
