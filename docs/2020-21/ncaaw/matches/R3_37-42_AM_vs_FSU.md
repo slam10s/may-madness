@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Florida State def. Texas A&M 4-2***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
+Go to [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16FSUTAM.pdf)  
 
 ## Predictions  
 

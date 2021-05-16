@@ -3,6 +3,14 @@
 
 Return to the [Home Page](../../index.md)
 
+## Quarterfinals
+
+### Heavy Favorites
+
+The favorite is expected to win at least 4 out of every 5 these teams play:
+
+- Sun, 5/16 at          	[#6 NC State vs #3 Georgia](./matches/R4_17-24_NCST_vs_UGA.md) ... UGA (92%) / NCST (8%)
+- Sun, 5/16 at          	[#7 Florida St. vs #2 Texas](./matches/R4_25-32_FSU_vs_TEX.md) ... TEX (96%) / FSU (4%)
 ## Sweet Sixteen
 
 ### Intriguing Matches
@@ -10,11 +18,11 @@ Return to the [Home Page](../../index.md)
 The various metrics disagree on the outcome of these matches:
 
 - Sun, 5/16 at  7:00 EDT	[Duke vs #9 UCF](./matches/R3_7-12_DUKE_vs_UCF.md) ... UCF (39%) / <i>DUKE (61%)</i>
-- Sun, 5/16 at 10:00 EDT	[Southern California vs #6 NC State](./matches/R3_31-36_USC_vs_NCST.md) ... NCST (77%) / USC (23%)
+- Sun, 5/16 at 10:00 EDT	[Southern California vs #6 NC State](./matches/R3_31-36_USC_vs_NCST.md) ... <b>NCST (4)</b> / USC (1)
 
 The metrics agree on the winner, but not by a lot:
 
-- Sun, 5/16 at  1:00 EDT	[#10 Texas A&M vs #7 Florida St.](./matches/R3_37-42_AM_vs_FSU.md) ... FSU (72%) / A&M (28%)
+- Sun, 5/16 at  1:00 EDT	[#10 Texas A&M vs #7 Florida St.](./matches/R3_37-42_AM_vs_FSU.md) ... <b>FSU (4)</b> / A&M (2)
 - Sun, 5/16 at  4:00 EDT	[Michigan vs #5 Pepperdine](./matches/R3_13-18_MICH_vs_PEPP.md) ... PEPP (77%) / MICH (23%)
 
 ### Heavy Favorites
@@ -22,8 +30,8 @@ The metrics agree on the winner, but not by a lot:
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Sun, 5/16 at  4:00 EDT	[#13 Georgia Tech vs #4 UCLA](./matches/R3_19-24_GT_vs_UCLA.md) ... UCLA (89%) / GT (11%)
-- Sun, 5/16 at 10:00 EDT	[#14 Virginia vs #3 Georgia](./matches/R3_25-30_UVA_vs_UGA.md) ... UGA (93%) / UVA (7%)
-- Sun, 5/16 at  1:00 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... TEX (96%) / OSU (4%)
+- Sun, 5/16 at 10:00 EDT	[#14 Virginia vs #3 Georgia](./matches/R3_25-30_UVA_vs_UGA.md) ... <b>UGA (4)</b> / UVA (1)
+- Sun, 5/16 at  1:00 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... <b>TEX (4)</b> / OSU (1)
 - Sun, 5/16 at  7:00 EDT	[#16 California vs #1 North Carolina](./matches/R3_1-6_CAL_vs_UNC.md) ... UNC (98%) / CAL (2%)
 ## Second Round
 

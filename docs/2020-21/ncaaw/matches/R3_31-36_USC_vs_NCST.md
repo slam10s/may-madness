@@ -40,7 +40,7 @@ Orlando, Florida
 
 ## Match Information  
 ***N.C. State def. USC 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
+Go to [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16NCSUUSC.pdf)  
 
 ## Predictions  
 
