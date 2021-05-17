@@ -55,7 +55,7 @@ date	timeStr	roundNum	home	visitor	winner	score	matchId	file	title	time
 2021-05-16	 4:00 EDT	3	UCLA	GT			5833698	R3_19-24_GT_vs_UCLA	#13 Georgia Tech vs #4 UCLA             	2021-05-16T16:00-04:00
 2021-05-16	 7:00 EDT	3	UNC	CAL			5833695	R3_1-6_CAL_vs_UNC	#16 California vs #1 North Carolina     	2021-05-16T19:00-04:00
 2021-05-16	 7:00 EDT	3	UCF	DUKE			5833696	R3_7-12_DUKE_vs_UCF	Duke vs #9 UCF                          	2021-05-16T19:00-04:00
-2021-05-19	      TBA	4	UNC	DUKE			5833703	R4_1-8_DUKE_vs_UNC	Duke vs #1 North Carolina               	TBA
-2021-05-19	      TBA	4	UCLA	PEPP			5833704	R4_9-16_PEPP_vs_UCLA	#5 Pepperdine vs #4 UCLA                	TBA
-2021-05-19	      TBA	4	UGA	NCST			5833705	R4_17-24_NCST_vs_UGA	#6 NC State vs #3 Georgia               	TBA
-2021-05-19	      TBA	4	TEX	FSU			5833706	R4_25-32_FSU_vs_TEX	#7 Florida St. vs #2 Texas              	TBA
+2021-05-19	      TBA	4	UNC	DUKE			5833703	R4_1-8_DUKE_vs_UNC	Duke vs #1 North Carolina               	2021-05-19
+2021-05-19	      TBA	4	UCLA	PEPP			5833704	R4_9-16_PEPP_vs_UCLA	#5 Pepperdine vs #4 UCLA                	2021-05-19
+2021-05-19	      TBA	4	UGA	NCST			5833705	R4_17-24_NCST_vs_UGA	#6 NC State vs #3 Georgia               	2021-05-19
+2021-05-19	      TBA	4	TEX	FSU			5833706	R4_25-32_FSU_vs_TEX	#7 Florida St. vs #2 Texas              	2021-05-19
