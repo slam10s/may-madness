@@ -24,7 +24,7 @@ The various metrics disagree on the outcome of these matches:
 
 - Mon, 5/17 at  1:00 EDT	[Ohio St. vs #7 TCU](./matches/R3_37-42_OSU_vs_TCU.md) ... <b>TCU (4)</b> / OSU (1)
 - Mon, 5/17 at  4:00 EDT	[#13 South Carolina vs #4 Texas](./matches/R3_19-24_SCAR_vs_TEX.md) ... TEX (65%) / SCAR (35%)
-- Mon, 5/17 at  4:00 EDT	[#12 Southern California vs #5 Virginia](./matches/R3_13-18_USC_vs_UVA.md) ... UVA (74%) / USC (26%)
+- Mon, 5/17 at  4:00 EDT	[#12 Southern California vs #5 Virginia](./matches/R3_13-18_USC_vs_UVA.md) ... UVA (2) / <b><i>USC (4)</i></b>
 
 The metrics agree on the winner, but not by a lot:
 

@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#12 Southern California</h2>  
-&nbsp; Record: 22-6<br>  
+&nbsp; Record: 23-6<br>  
 &nbsp; ITA: 12 (52.23)<br>  
 &nbsp; Slam: 12 (96.70)<br>  
 &nbsp; TRN: 12 (95.14)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#5 Virginia</h2>  
-&nbsp; Record: 23-2<br>  
+&nbsp; Record: 23-3<br>  
 &#10004; ITA: 5 (74.11)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
+***USC def. Virginia 4-2***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=779&clubid=269-299&cn1=Virginia&cn2=USC&ci1=269&ci2=299&lid=82)  
 
 ## Predictions  
