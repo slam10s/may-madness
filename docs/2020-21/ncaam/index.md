@@ -9,7 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Mon, 5/17 at       TBA	[#12 Southern California vs #4 Texas](./matches/R4_9-16_USC_vs_TEX.md) ... TEX (49%) / <i>USC (51%)</i>
+- Thu, 5/20 at       TBA	[#12 Southern California vs #4 Texas](./matches/R4_9-16_USC_vs_TEX.md) ... TEX (49%) / <i>USC (51%)</i>
 - Thu, 5/20 at       TBA	[#7 TCU vs #2 Baylor](./matches/R4_25-32_TCU_vs_BAY.md) ... BAY (61%) / TCU (39%)
 
 ### Heavy Favorites
@@ -24,7 +24,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 The various metrics disagree on the outcome of these matches:
 
 - Mon, 5/17 at  1:00 EDT	[Ohio St. vs #7 TCU](./matches/R3_37-42_OSU_vs_TCU.md) ... <b>TCU (4)</b> / OSU (1)
-- Mon, 5/17 at  4:00 EDT	[#13 South Carolina vs #4 Texas](./matches/R3_19-24_SCAR_vs_TEX.md) ... TEX (4) / <b><i>SCAR (3)</i></b>
+- Mon, 5/17 at  4:00 EDT	[#13 South Carolina vs #4 Texas](./matches/R3_19-24_SCAR_vs_TEX.md) ... <b>TEX (4)</b> / SCAR (3)
 - Mon, 5/17 at  4:00 EDT	[#12 Southern California vs #5 Virginia](./matches/R3_13-18_USC_vs_UVA.md) ... UVA (2) / <b><i>USC (4)</i></b>
 
 The metrics agree on the winner, but not by a lot:
