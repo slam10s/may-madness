@@ -1,5 +1,5 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Wednesday, May 19](../../schedule/05-19.md) at undefined  
+[Wednesday, May 19](../../schedule/05-19.md) at TBA  
 [2021 Division I Women's Tennis Championship](../index.md)  
 ## [#7 Florida St. vs #2 Texas](https://www.ncaa.com/game/5833706)  
 
