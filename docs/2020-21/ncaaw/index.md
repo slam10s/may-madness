@@ -38,7 +38,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 - Sun, 5/16 at  4:00 EDT	[#13 Georgia Tech vs #4 UCLA](./matches/R3_19-24_GT_vs_UCLA.md) ... <b>UCLA (4)</b> / GT (0)
 - Sun, 5/16 at 10:00 EDT	[#14 Virginia vs #3 Georgia](./matches/R3_25-30_UVA_vs_UGA.md) ... <b>UGA (4)</b> / UVA (1)
 - Sun, 5/16 at  1:00 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... <b>TEX (4)</b> / OSU (1)
-- Sun, 5/16 at  7:00 EDT	[#16 California vs #1 North Carolina](./matches/R3_1-6_CAL_vs_UNC.md) ... UNC (98%) / CAL (2%)
+- Sun, 5/16 at  7:00 EDT	[#16 California vs #1 North Carolina](./matches/R3_1-6_CAL_vs_UNC.md) ... <b>UNC (4)</b> / CAL (0)
 ## Second Round
 
 ### Intriguing Matches

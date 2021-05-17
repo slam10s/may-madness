@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#16 California</h2>  
-&nbsp; Record: 19-6<br>  
+&nbsp; Record: 19-7<br>  
 &nbsp; ITA: 17 (45.98)<br>  
 &nbsp; Slam: 14 (91.31)<br>  
 &nbsp; TRN: 13 (87.02)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 North Carolina</h2>  
-&nbsp; Record: 28-0<br>  
+&nbsp; Record: 29-0<br>  
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
+***North Carolina def. California 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  
