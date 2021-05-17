@@ -1,5 +1,5 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Sunday, May 16](../../schedule/05-16.md) at TBA  
+[Monday, May 17](../../schedule/05-17.md) at TBA  
 [2021 Division I Women's Tennis Championship](../index.md)  
 ## [Duke vs #1 North Carolina](https://www.ncaa.com/game/5833703)  
 
@@ -35,7 +35,7 @@ Quarterfinals[](#top)<a name="top"></a>
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Predictions  
 
@@ -154,4 +154,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)  
