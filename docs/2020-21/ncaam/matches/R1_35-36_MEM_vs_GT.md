@@ -1,13 +1,15 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 10:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Barksdale Stadium  
+Knoxville, Tennessee  
 ## [Memphis vs Georgia Tech](https://www.ncaa.com/game/5833387)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #012169 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/memphis.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #B3A369 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Memphis</h2>  
-&nbsp; Record: 10-9<br>  
+&nbsp; Record: 10-8<br>  
 &nbsp; ITA: 38 (22.10)<br>  
 &nbsp; Slam: 41 (91.89)<br>  
 &nbsp; TRN: 40 (89.86)<br>  
@@ -35,6 +37,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Memphis def. Georgia Tech 4-2***  
+Go to [Live Stats](http://www.sidearmstats.com/utennessee/mten/)  
 
 ## Predictions  
 

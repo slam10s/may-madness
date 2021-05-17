@@ -1,6 +1,8 @@
 Second Round[](#top)<a name="top"></a>  
 [Sunday, May 9](../../schedule/05-09.md) at 2:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Bayard H. Friedman Tennis Center  
+Fort Worth, Texas  
 ## [Arizona St. vs #7 TCU](https://www.ncaa.com/game/5833414)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #8A0C3C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -36,6 +38,10 @@ Second Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
+
+## Match Information  
+***TCU def. Arizona State 4-1***  
+Go to [Live Stats](https://www.sidearmstats.com/tcu/mten/xlive.htm)  
 
 ## Predictions  
 

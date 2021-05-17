@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Scott Speicher Tennis Center  
+Tallahassee, Florida  
 ## [Oklahoma St. vs Auburn](https://www.ncaa.com/game/5833672)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #DF4F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #FA4616 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -20,7 +22,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Auburn</h2>  
-&nbsp; Record: 14-9<br>  
+&nbsp; Record: 14-8<br>  
 &#10004; ITA: 19 (40.69)<br>  
 &#10004; Slam: 24 (89.44)<br>  
 &#10004; TRN: 23 (81.74)<br>  
@@ -35,6 +37,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Auburn def. Oklahoma State 4-2***  
 
 ## Predictions  
 

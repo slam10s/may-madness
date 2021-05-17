@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+David X. Marks Tennis Stadium  
+Los Angeles, California  
 ## [UC Santa Barbara vs Pepperdine](https://www.ncaa.com/game/5833380)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0032A0 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #F46F1B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Pepperdine</h2>  
-&nbsp; Record: 16-7<br>  
+&nbsp; Record: 16-6<br>  
 &#10004; ITA: 28 (28.91)<br>  
 &#10004; Slam: 34 (92.69)<br>  
 &#10004; TRN: 30 (91.07)<br>  
@@ -34,6 +36,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Pepperdine def. UC Santa Barbara 4-1***  
 
 ## Predictions  
 

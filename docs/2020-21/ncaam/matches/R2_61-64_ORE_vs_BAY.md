@@ -1,6 +1,8 @@
 Second Round[](#top)<a name="top"></a>  
 [Sunday, May 9](../../schedule/05-09.md) at 3:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Hurd Tennis Center  
+Waco, Texas  
 ## [Oregon vs #2 Baylor](https://www.ncaa.com/game/5833417)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #173F35 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -35,6 +37,10 @@ Second Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
+
+## Match Information  
+***Baylor def. Oregon 4-0***  
+Go to [Live Stats](http://www.sidearmstats.com/baylor/mten/)  
 
 ## Predictions  
 

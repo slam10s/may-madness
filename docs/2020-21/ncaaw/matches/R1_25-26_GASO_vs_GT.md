@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 2:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Ken Byers Tennis Complex  
+Atlanta, Georgia  
 ## [Ga. Southern vs #13 Georgia Tech](https://www.ncaa.com/game/5833659)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/ga-southern.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #B3A369 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 Georgia Tech</h2>  
-&nbsp; Record: 20-11<br>  
+&nbsp; Record: 19-10<br>  
 &#10004; ITA: 11 (48.83)<br>  
 &#10004; Slam: 20 (90.34)<br>  
 &#10004; TRN: 16 (83.31)<br>  
@@ -34,6 +36,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Georgia Tech def. Georgia Southern 4-0***  
 
 ## Predictions  
 

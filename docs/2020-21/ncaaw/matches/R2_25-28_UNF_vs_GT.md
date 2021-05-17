@@ -1,6 +1,8 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 2:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Ken Byers Tennis Complex  
+Atlanta, Georgia  
 ## [North Florida vs #13 Georgia Tech](https://www.ncaa.com/game/5833685)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-florida.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #B3A369 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia-tech.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ Second Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 Georgia Tech</h2>  
-&nbsp; Record: 20-11<br>  
+&nbsp; Record: 20-10<br>  
 &#10004; ITA: 11 (48.83)<br>  
 &#10004; Slam: 20 (90.34)<br>  
 &#10004; TRN: 16 (83.31)<br>  
@@ -34,6 +36,10 @@ Second Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Georgia Tech def. North Florida 4-0***  
+Go to [Live Stats](https://ramblinwreck.com/wten-live-21/)  
 
 ## Predictions  
 

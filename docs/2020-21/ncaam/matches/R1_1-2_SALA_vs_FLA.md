@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Alfred A. Ring Tennis Complex  
+Gainesville, Florida  
 ## [South Alabama vs #1 Florida](https://www.ncaa.com/game/5833370)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BF0D3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-ala.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #003087 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 Florida</h2>  
-&nbsp; Record: 22-2<br>  
+&nbsp; Record: 21-2<br>  
 &#10004; ITA: 2 (81.08)<br>  
 &#10004; Slam: 2 (99.77)<br>  
 &#10004; TRN: 3 (99.10)<br>  
@@ -34,6 +36,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Florida def. South Alabama 4-0***  
+Go to [Live Stats](https://sidearmstats.com/florida/mten/)  
 
 ## Predictions  
 

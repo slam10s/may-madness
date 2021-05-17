@@ -37,6 +37,10 @@ Second Round[](#top)<a name="top"></a>
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
+## Match Information  
+***South Carolina def. N.C. State 4-0***  
+Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350372)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  

@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 5:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Atkins Tennis Center  
+Urbana, Illinois  
 ## [DePaul vs #16 Illinois](https://www.ncaa.com/game/5833373)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #003DA5 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/depaul.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #E04E39 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 Illinois</h2>  
-&nbsp; Record: 23-2<br>  
+&nbsp; Record: 22-2<br>  
 &#10004; ITA: 17 (40.14)<br>  
 &#10004; Slam: 6 (98.81)<br>  
 &#10004; TRN: 4 (98.96)<br>  
@@ -34,6 +36,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Illinois def. DePaul 4-1***  
 
 ## Predictions  
 

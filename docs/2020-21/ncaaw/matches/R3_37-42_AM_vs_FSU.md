@@ -1,6 +1,8 @@
 Third Round[](#top)<a name="top"></a>  
 [Sunday, May 16](../../schedule/05-16.md) at 1:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+USTA National Campus  
+Orlando, Florida  
 ## [#10 Texas A&M vs #7 Florida St.](https://www.ncaa.com/game/5833701)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #76253A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -36,6 +38,10 @@ Third Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
+
+## Match Information  
+***Florida State def. Texas A&M 4-2***  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16FSUTAM.pdf)  
 
 ## Predictions  
 

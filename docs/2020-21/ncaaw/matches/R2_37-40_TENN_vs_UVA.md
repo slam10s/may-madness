@@ -1,6 +1,8 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Virginia Tennis Facility at the Boar’s Head Resort  
+Charlottesville, Virginia  
 ## [Tennessee vs #14 Virginia](https://www.ncaa.com/game/5833688)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +23,7 @@ Second Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 Virginia</h2>  
-&nbsp; Record: 16-7<br>  
+&nbsp; Record: 16-6<br>  
 &#10004; ITA: 13 (48.31)<br>  
 &#10004; Slam: 9 (91.88)<br>  
 &#10004; TRN: 11 (84.03)<br>  
@@ -36,6 +38,10 @@ Second Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Virginia def. Tennessee 4-0***  
+Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350366)  
 
 ## Predictions  
 

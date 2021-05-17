@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 12:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Bayard H. Friedman Tennis Center  
+Fort Worth, Texas  
 ## [Wichita St. vs Arizona St.](https://www.ncaa.com/game/5833395)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wichita-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #8A0C3C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -20,7 +22,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Arizona St.</h2>  
-&nbsp; Record: 17-9<br>  
+&nbsp; Record: 17-8<br>  
 &#10004; ITA: 20 (34.84)<br>  
 &#10004; Slam: 25 (93.56)<br>  
 &#10004; TRN: 25 (91.79)<br>  
@@ -35,6 +37,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Arizona State def. Wichita State 4-3***  
+Go to [Live Stats](https://www.sidearmstats.com/tcu/mten/xlive.htm)  
 
 ## Predictions  
 

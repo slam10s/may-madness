@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Ralphs-Straus Tennis Center  
+Malibu, California  
 ## [UC Santa Barbara vs Stanford](https://www.ncaa.com/game/5833656)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0032A0 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/uc-santa-barbara.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Stanford</h2>  
-&nbsp; Record: 15-5<br>  
+&nbsp; Record: 15-4<br>  
 &#10004; ITA: 27 (35.12)<br>  
 &#10004; Slam: 23 (90.02)<br>  
 &#10004; TRN: 24 (81.66)<br>  
@@ -34,6 +36,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Stanford def. UC Santa Barbara 4-0***  
 
 ## Predictions  
 

@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Dan Magill Tennis Complex  
+Athens, Georgia  
 ## [ETSU vs #11 Georgia](https://www.ncaa.com/game/5833390)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/e/east-tenn-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #DA291C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 Georgia</h2>  
-&nbsp; Record: 16-6<br>  
+&nbsp; Record: 15-6<br>  
 &#10004; ITA: 11 (54.91)<br>  
 &#10004; Slam: 16 (96.08)<br>  
 &#10004; TRN: 14 (94.91)<br>  
@@ -34,6 +36,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Georgia def. ETSU 4-0***  
+Go to [Live Stats](https://georgiadogs.com/sports/2017/6/17/sports-m-tennis-spec-rel-vid-stream-html.aspx)  
 
 ## Predictions  
 

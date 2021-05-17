@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 10:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Boone Tennis Complex  
+Lexington, Kentucky  
 ## [Michigan vs Arizona](https://www.ncaa.com/game/5833388)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +23,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Arizona</h2>  
-&nbsp; Record: 21-7<br>  
+&nbsp; Record: 20-7<br>  
 &#10004; ITA: 18 (38.97)<br>  
 &nbsp; Slam: 21 (94.26)<br>  
 &nbsp; TRN: 20 (92.43)<br>  
@@ -36,6 +38,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Arizona def. Michigan 4-3***  
+Go to [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)  
 
 ## Predictions  
 

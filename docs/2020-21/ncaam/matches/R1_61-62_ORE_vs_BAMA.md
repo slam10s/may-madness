@@ -1,13 +1,15 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 12:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Hurd Tennis Center  
+Waco, Texas  
 ## [Oregon vs Alabama](https://www.ncaa.com/game/5833400)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #173F35 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oregon.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Oregon</h2>  
-&nbsp; Record: 17-7<br>  
+&nbsp; Record: 17-6<br>  
 &nbsp; ITA: 37 (23.36)<br>  
 &nbsp; Slam: 44 (91.52)<br>  
 &nbsp; TRN: 41 (89.70)<br>  
@@ -34,6 +36,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Oregon def. Alabama 4-3***  
+Go to [Live Stats](http://sidearmstats.com/baylor/mten/)  
 
 ## Predictions  
 

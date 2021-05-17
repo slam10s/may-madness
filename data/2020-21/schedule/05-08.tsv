@@ -1,43 +1,43 @@
 time	round	division	title	status	score	file	liveStats	boxScore
-2021-05-08T10:00-04:00	1st         	Men  	Duke vs South Florida                             	     	USF (53%) 	../ncaam/matches/R1_3-4_DUKE_vs_USF		
-2021-05-08T10:00-04:00	1st         	Men  	LSU vs Stanford                                   	     	STAN (86%)	../ncaam/matches/R1_19-20_LSU_vs_STAN		
-2021-05-08T10:00-04:00	1st         	Men  	Memphis vs Georgia Tech                           	     	GT (75%)  	../ncaam/matches/R1_35-36_MEM_vs_GT		
-2021-05-08T10:00-04:00	1st         	Men  	Navy vs Oklahoma State                            	     	OKST (97%)	../ncaam/matches/R1_45-46_NAVY_vs_OKST		
-2021-05-08T10:00-04:00	1st         	Men  	Northwestern vs UCLA                              	     	UCLA (58%)	../ncaam/matches/R1_29-30_NW_vs_UCLA		
-2021-05-08T10:00-04:00	1st         	Men  	Virginia Tech vs Texas Tech                       	     	VT (51%)  	../ncaam/matches/R1_43-44_VT_vs_TTU		
-2021-05-08T11:00-04:00	1st         	Men  	Miami (FL) vs Mississippi State                   	     	MSST (82%)	../ncaam/matches/R1_11-12_MIA_vs_MSST		
-2021-05-08T12:00-04:00	1st         	Men  	Oregon vs Alabama                                 	     	BAMA (60%)	../ncaam/matches/R1_61-62_ORE_vs_BAMA		
-2021-05-08T12:00-04:00	2nd         	Women	Vanderbilt at #15 Ohio State                      	     	OSU (88%) 	../ncaaw/matches/R2_57-60_VANDY_vs_OSU		
-2021-05-08T12:00-04:00	1st         	Men  	Wichita State vs Arizona State                    	     	AZST (70%)	../ncaam/matches/R1_51-52_WICH_vs_AZST		
-2021-05-08T13:00-04:00	1st         	Men  	Alabama A&M at #3 Tennessee                       	     	TENN (99%)	../ncaam/matches/R1_33-34_AAMU_vs_TENN		
-2021-05-08T13:00-04:00	2nd         	Men  	Arizona at #14 Kentucky                           	     	UK (64%)  	../ncaam/matches/R2_37-40_ARIZ_vs_UK		
-2021-05-08T13:00-04:00	1st         	Men  	ETSU at #11 Georgia                               	     	UGA (99%) 	../ncaam/matches/R1_41-42_ETSU_vs_UGA		
-2021-05-08T13:00-04:00	1st         	Men  	Fairleigh Dickinson at #5 Virginia                	     	UVA (99%) 	../ncaam/matches/R1_17-18_FDU_vs_UVA		
-2021-05-08T13:00-04:00	1st         	Men  	Middle Tennessee vs Tulane                        	     	TULN (80%)	../ncaam/matches/R1_59-60_MTSU_vs_TULN		
-2021-05-08T13:00-04:00	2nd         	Men  	N.C. State at #13 South Carolina                  	     	SCAR (81%)	../ncaam/matches/R2_25-28_NCST_vs_SCAR		
-2021-05-08T13:00-04:00	1st         	Men  	Northern Arizona at #4 Texas                      	     	TEX (99%) 	../ncaam/matches/R1_31-32_NAU_vs_TEX		
-2021-05-08T13:00-04:00	2nd         	Women	Northwestern vs #10 Texas A&M                     	     	A&M (53%) 	../ncaaw/matches/R2_53-56_NW_vs_AM		
-2021-05-08T13:00-04:00	1st         	Men  	Presbyterian at #6 North Carolina                 	     	UNC (99%) 	../ncaam/matches/R1_47-48_PRES_vs_UNC		
-2021-05-08T13:00-04:00	1st         	Men  	South Alabama at #1 Florida                       	     	FLA (99%) 	../ncaam/matches/R1_1-2_SALA_vs_FLA		
-2021-05-08T14:00-04:00	2nd         	Women	Iowa State at #6 N.C. State                       	     	NCST (97%)	../ncaaw/matches/R2_45-48_ISU_vs_NCST		
-2021-05-08T14:00-04:00	2nd         	Women	Michigan at #12 LSU                               	     	MICH (70%)	../ncaaw/matches/R2_21-24_MICH_vs_LSU		
-2021-05-08T14:00-04:00	1st         	Men  	Monmouth (NJ) at #9 Central Florida               	     	UCF (99%) 	../ncaam/matches/R1_9-10_MONM_vs_UCF		
-2021-05-08T14:00-04:00	2nd         	Women	North Florida at #13 Georgia Tech                 	     	GT (97%)  	../ncaaw/matches/R2_25-28_UNF_vs_GT		
-2021-05-08T14:00-04:00	2nd         	Men  	Notre Dame at #16 Illinois                        	     	ILL (97%) 	../ncaam/matches/R2_5-8_ND_vs_ILL		
-2021-05-08T15:00-04:00	1st         	Men  	A&M-Corpus Christi at #2 Baylor                   	     	BAY (99%) 	../ncaam/matches/R1_63-64_TAMCC_vs_BAY		
-2021-05-08T15:00-04:00	1st         	Men  	Arkansas at #7 TCU                                	     	TCU (98%) 	../ncaam/matches/R1_49-50_ARK_vs_TCU		
-2021-05-08T15:00-04:00	2nd         	Men  	Oklahoma at #8 Texas A&M                          	     	A&M (94%) 	../ncaam/matches/R2_13-16_OKLA_vs_AM		
-2021-05-08T15:00-04:00	2nd         	Women	Texas Tech at #4 UCLA                             	     	UCLA (96%)	../ncaaw/matches/R2_29-32_TTU_vs_UCLA		
-2021-05-08T16:00-04:00	2nd         	Women	Arizona State at #2 Texas                         	     	TEX (99%) 	../ncaaw/matches/R2_61-64_AZST_vs_TEX		
-2021-05-08T16:00-04:00	2nd         	Women	Auburn at #7 Florida State                        	     	FSU (85%) 	../ncaaw/matches/R2_49-52_AUB_vs_FSU		
-2021-05-08T16:00-04:00	1st         	Men  	Belmont at #15 Ole Miss                           	     	MISS (99%)	../ncaam/matches/R1_57-58_BEL_vs_MISS		
-2021-05-08T16:00-04:00	2nd         	Women	Kentucky at #16 California                        	     	CAL (79%) 	../ncaaw/matches/R2_5-8_UK_vs_CAL		
-2021-05-08T16:00-04:00	2nd         	Women	Old Dominion at #1 North Carolina                 	     	UNC (99%) 	../ncaaw/matches/R2_1-4_ODU_vs_UNC		
-2021-05-08T16:00-04:00	2nd         	Men  	Pepperdine at #12 USC                             	     	USC (92%) 	../ncaam/matches/R2_21-24_PEPP_vs_USC		
-2021-05-08T16:00-04:00	2nd         	Women	USC at #11 Florida                                	     	FLA (70%) 	../ncaaw/matches/R2_41-44_USC_vs_FLA		
-2021-05-08T16:00-04:00	2nd         	Women	Stanford at #5 Pepperdine                         	     	PEPP (86%)	../ncaaw/matches/R2_17-20_STAN_vs_PEPP		
-2021-05-08T16:00-04:00	2nd         	Women	Tennessee at #14 Virginia                         	     	UVA (72%) 	../ncaaw/matches/R2_37-40_TENN_vs_UVA		
-2021-05-08T16:00-04:00	2nd         	Women	Wake Forest at #3 Georgia                         	     	UGA (99%) 	../ncaaw/matches/R2_33-36_WAKE_vs_UGA		
-2021-05-08T17:00-04:00	2nd         	Women	Miami (FL) at #9 Central Florida                  	     	UCF (54%) 	../ncaaw/matches/R2_9-12_MIA_vs_UCF		
-2021-05-08T17:00-04:00	2nd         	Men  	Ohio State at #10 Wake Forest                     	     	OSU (67%) 	../ncaam/matches/R2_53-56_OSU_vs_WAKE		
-2021-05-08T18:00-04:00	2nd         	Women	Duke at #8 Baylor                                 	     	BAY (55%) 	../ncaaw/matches/R2_13-16_DUKE_vs_BAY		
+2021-05-08T10:00-04:00	1st         	Men  	Duke vs <b>South Florida</b>                      	final	4-2       	../ncaam/matches/R1_3-4_DUKE_vs_USF	https://sidearmstats.com/florida/mten/	
+2021-05-08T10:00-04:00	1st         	Men  	LSU vs <b>Stanford</b>                            	final	4-0       	../ncaam/matches/R1_19-20_LSU_vs_STAN	https://virginiasports.com/mens-live-tennis-video-outdoor-courts/	
+2021-05-08T10:00-04:00	1st         	Men  	<b>Memphis</b> vs Georgia Tech                    	final	4-2       	../ncaam/matches/R1_35-36_MEM_vs_GT	http://www.sidearmstats.com/utennessee/mten/	
+2021-05-08T10:00-04:00	1st         	Men  	Navy vs <b>Oklahoma State</b>                     	final	4-0       	../ncaam/matches/R1_45-46_NAVY_vs_OKST	http://www.statbroadcast.com/events/statmonitr.php?gid=unc	
+2021-05-08T10:00-04:00	1st         	Men  	<b>Northwestern</b> vs UCLA                       	final	4-1       	../ncaam/matches/R1_29-30_NW_vs_UCLA	http://sidearmstats.com/texas/mtennis/xlive.htm	
+2021-05-08T10:00-04:00	1st         	Men  	Virginia Tech vs <b>Texas Tech</b>                	final	4-2       	../ncaam/matches/R1_43-44_VT_vs_TTU	https://georgiadogs.com/sports/2017/6/17/sports-m-tennis-spec-rel-vid-stream-html.aspx	
+2021-05-08T11:00-04:00	1st         	Men  	Miami (FL) vs <b>Mississippi State</b>            	final	4-1       	../ncaam/matches/R1_11-12_MIA_vs_MSST	http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76	
+2021-05-08T12:00-04:00	1st         	Men  	<b>Oregon</b> vs Alabama                          	final	4-3       	../ncaam/matches/R1_61-62_ORE_vs_BAMA	http://sidearmstats.com/baylor/mten/	
+2021-05-08T12:00-04:00	2nd         	Women	Vanderbilt at <b>#15 Ohio State</b>               	final	4-3       	../ncaaw/matches/R2_57-60_VANDY_vs_OSU	https://ohiostatebuckeyes.com/womens-tennis-live-scoring/	
+2021-05-08T12:00-04:00	1st         	Men  	Wichita State vs <b>Arizona State</b>             	final	4-3       	../ncaam/matches/R1_51-52_WICH_vs_AZST	https://www.sidearmstats.com/tcu/mten/xlive.htm	
+2021-05-08T13:00-04:00	1st         	Men  	Alabama A&M at <b>#3 Tennessee</b>                	final	5-0       	../ncaam/matches/R1_33-34_AAMU_vs_TENN	http://www.sidearmstats.com/utennessee/mten/	
+2021-05-08T13:00-04:00	2nd         	Men  	<b>Arizona</b> at #14 Kentucky                    	final	4-2       	../ncaam/matches/R2_37-40_ARIZ_vs_UK	http://www.sidearmstats.com/ukentucky/tennis/xlive.htm	
+2021-05-08T13:00-04:00	1st         	Men  	ETSU at <b>#11 Georgia</b>                        	final	4-0       	../ncaam/matches/R1_41-42_ETSU_vs_UGA	https://georgiadogs.com/sports/2017/6/17/sports-m-tennis-spec-rel-vid-stream-html.aspx	
+2021-05-08T13:00-04:00	1st         	Men  	Fairleigh Dickinson at <b>#5 Virginia</b>         	final	4-0       	../ncaam/matches/R1_17-18_FDU_vs_UVA	http://stats.statbroadcast.com/broadcast/?id=350361	
+2021-05-08T13:00-04:00	1st         	Men  	Middle Tennessee vs <b>Tulane</b>                 	final	4-0       	../ncaam/matches/R1_59-60_MTSU_vs_TULN	https://olemisssports.com/sports/2021/4/29/live-video-scoring.aspx	
+2021-05-08T13:00-04:00	2nd         	Men  	N.C. State at <b>#13 South Carolina</b>           	final	4-0       	../ncaam/matches/R2_25-28_NCST_vs_SCAR	http://stats.statbroadcast.com/broadcast/?id=350372	
+2021-05-08T13:00-04:00	1st         	Men  	Northern Arizona at <b>#4 Texas</b>               	final	4-0       	../ncaam/matches/R1_31-32_NAU_vs_TEX	http://sidearmstats.com/texas/mtennis/xlive.htm	
+2021-05-08T13:00-04:00	2nd         	Women	Northwestern vs <b>#10 Texas A&M</b>              	final	4-1       	../ncaaw/matches/R2_53-56_NW_vs_AM	http://stats.statbroadcast.com/multimedia/?id=350360	
+2021-05-08T13:00-04:00	1st         	Men  	Presbyterian at <b>#6 North Carolina</b>          	final	4-0       	../ncaam/matches/R1_47-48_PRES_vs_UNC	http://www.statbroadcast.com/events/statmonitr.php?gid=unc	
+2021-05-08T13:00-04:00	1st         	Men  	South Alabama at <b>#1 Florida</b>                	final	4-0       	../ncaam/matches/R1_1-2_SALA_vs_FLA	https://sidearmstats.com/florida/mten/	
+2021-05-08T14:00-04:00	2nd         	Women	Iowa State at <b>#6 N.C. State</b>                	final	4-2       	../ncaaw/matches/R2_45-48_ISU_vs_NCST	http://sidearmstats.com/ncsu/wten/xlive.htm	
+2021-05-08T14:00-04:00	2nd         	Women	<b>Michigan</b> at #12 LSU                        	final	4-3       	../ncaaw/matches/R2_21-24_MICH_vs_LSU	http://stats.statbroadcast.com/broadcast/?id=350355	
+2021-05-08T14:00-04:00	1st         	Men  	Monmouth (NJ) at <b>#9 Central Florida</b>        	final	4-0       	../ncaam/matches/R1_9-10_MONM_vs_UCF	http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76	
+2021-05-08T14:00-04:00	2nd         	Women	North Florida at <b>#13 Georgia Tech</b>          	final	4-0       	../ncaaw/matches/R2_25-28_UNF_vs_GT	https://ramblinwreck.com/wten-live-21/	
+2021-05-08T14:00-04:00	2nd         	Men  	Notre Dame at <b>#16 Illinois</b>                 	final	4-0       	../ncaam/matches/R2_5-8_ND_vs_ILL	https://fightingillini.com/sports/2016/1/14/mtennis_livestatsvideo.aspx?path=mten	
+2021-05-08T15:00-04:00	1st         	Men  	A&M-Corpus Christi at <b>#2 Baylor</b>            	final	4-0       	../ncaam/matches/R1_63-64_TAMCC_vs_BAY	http://www.sidearmstats.com/baylor/mten/	
+2021-05-08T15:00-04:00	1st         	Men  	Arkansas at <b>#7 TCU</b>                         	final	4-0       	../ncaam/matches/R1_49-50_ARK_vs_TCU	https://www.sidearmstats.com/tcu/mten/xlive.htm	
+2021-05-08T15:00-04:00	2nd         	Men  	Oklahoma at <b>#8 Texas A&M</b>                   	final	4-1       	../ncaam/matches/R2_13-16_OKLA_vs_AM	http://stats.statbroadcast.com/broadcast/?id=350360	
+2021-05-08T15:00-04:00	2nd         	Women	Texas Tech at <b>#4 UCLA</b>                      	final	4-0       	../ncaaw/matches/R2_29-32_TTU_vs_UCLA	https://uclabruins.com/sports/2020/1/13/ucla-tennis-live-stats-w.aspx	
+2021-05-08T16:00-04:00	2nd         	Women	Arizona State at <b>#2 Texas</b>                  	final	4-0       	../ncaaw/matches/R2_61-64_AZST_vs_TEX	http://sidearmstats.com/texas/wtennis/xlive.htm	
+2021-05-08T16:00-04:00	2nd         	Women	Auburn at <b>#7 Florida State</b>                 	final	4-1       	../ncaaw/matches/R2_49-52_AUB_vs_FSU	http://stats.statbroadcast.com/broadcast/?id=350663	
+2021-05-08T16:00-04:00	1st         	Men  	Belmont at <b>#15 Ole Miss</b>                    	final	4-0       	../ncaam/matches/R1_57-58_BEL_vs_MISS	http://stats.statbroadcast.com/statmonitr/?id=350591	
+2021-05-08T16:00-04:00	2nd         	Women	Kentucky at <b>#16 California</b>                 	final	4-2       	../ncaaw/matches/R2_5-8_UK_vs_CAL	https://calbears.com/sports/2013/4/17/208195810.aspx	
+2021-05-08T16:00-04:00	2nd         	Women	Old Dominion at <b>#1 North Carolina</b>          	final	4-0       	../ncaaw/matches/R2_1-4_ODU_vs_UNC	http://stats.statbroadcast.com/statmonitr/?id=350676	
+2021-05-08T16:00-04:00	2nd         	Men  	Pepperdine at <b>#12 USC</b>                      	final	4-2       	../ncaam/matches/R2_21-24_PEPP_vs_USC	https://usctrojans.com/sports/2020/2/19/usc-trojans-m-tennis-live-scoreboard-video-david-marks-stadium.aspx	
+2021-05-08T16:00-04:00	2nd         	Women	<b>USC</b> at #11 Florida                         	final	4-1       	../ncaaw/matches/R2_41-44_USC_vs_FLA	https://sidearmstats.com/florida/wten/	
+2021-05-08T16:00-04:00	2nd         	Women	Stanford at <b>#5 Pepperdine</b>                  	final	4-2       	../ncaaw/matches/R2_17-20_STAN_vs_PEPP	https://pepperdinewaves.com/sports/2018/8/7/playsight.aspx	
+2021-05-08T16:00-04:00	2nd         	Women	Tennessee at <b>#14 Virginia</b>                  	final	4-0       	../ncaaw/matches/R2_37-40_TENN_vs_UVA	http://stats.statbroadcast.com/broadcast/?id=350366	
+2021-05-08T16:00-04:00	2nd         	Women	Wake Forest at <b>#3 Georgia</b>                  	final	4-1       	../ncaaw/matches/R2_33-36_WAKE_vs_UGA	https://t.co/T8QKQKSjw6?amp=1	
+2021-05-08T17:00-04:00	2nd         	Women	Miami (FL) at <b>#9 Central Florida</b>           	final	4-1       	../ncaaw/matches/R2_9-12_MIA_vs_UCF	http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=77	
+2021-05-08T17:00-04:00	2nd         	Men  	<b>Ohio State</b> at #10 Wake Forest              	final	4-1       	../ncaam/matches/R2_53-56_OSU_vs_WAKE	http://sidearmstats.com/wakeforest/mten/	
+2021-05-08T18:00-04:00	2nd         	Women	<b>Duke</b> at #8 Baylor                          	final	4-3       	../ncaaw/matches/R2_13-16_DUKE_vs_BAY	http://www.sidearmstats.com/baylor/wten/	

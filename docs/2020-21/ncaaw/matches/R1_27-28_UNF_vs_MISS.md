@@ -1,13 +1,15 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 11:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Ken Byers Tennis Complex  
+Atlanta, Georgia  
 ## [North Florida vs Ole Miss](https://www.ncaa.com/game/5833660)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-florida.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 North Florida</h2>  
-&nbsp; Record: 18-8<br>  
+&nbsp; Record: 18-7<br>  
 &nbsp; ITA: 48 (8.00)<br>  
 &nbsp; Slam: 46 (84.69)<br>  
 &nbsp; TRN: 46 (75.83)<br>  
@@ -33,6 +35,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***North Florida def. Ole Miss 4-3***  
 
 ## Predictions  
 

@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 3:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Hurd Tennis Center  
+Waco, Texas  
 ## [Alabama vs Duke](https://www.ncaa.com/game/5833653)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -20,7 +22,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Duke</h2>  
-&nbsp; Record: 17-6<br>  
+&nbsp; Record: 16-6<br>  
 &#10004; ITA: 18 (43.05)<br>  
 &#10004; Slam: 14 (90.91)<br>  
 &#10004; TRN: 15 (83.33)<br>  
@@ -35,6 +37,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Duke def. Alabama 4-0***  
 
 ## Predictions  
 

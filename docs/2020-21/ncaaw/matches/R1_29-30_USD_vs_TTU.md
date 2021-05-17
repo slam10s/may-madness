@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Los Angeles Tennis Center  
+Los Angeles, California  
 ## [San Diego vs Texas Tech](https://www.ncaa.com/game/5833661)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-diego.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #ED1F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -20,7 +22,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Texas Tech</h2>  
-&nbsp; Record: 16-9<br>  
+&nbsp; Record: 16-8<br>  
 &#10004; ITA: 30 (27.98)<br>  
 &#10004; Slam: 34 (87.92)<br>  
 &#10004; TRN: 34 (79.75)<br>  
@@ -34,6 +36,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Texas Tech def. San Diego 4-0***  
 
 ## Predictions  
 

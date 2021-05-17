@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Palmer/Salloum Tennis Center  
+Oxford, Mississippi  
 ## [Middle Tenn. vs Tulane](https://www.ncaa.com/game/5833399)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005EB8 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/middle-tenn.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #006747 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tulane.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -20,7 +22,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Tulane</h2>  
-&nbsp; Record: 15-8<br>  
+&nbsp; Record: 15-7<br>  
 &#10004; ITA: 22 (33.07)<br>  
 &#10004; Slam: 26 (93.53)<br>  
 &#10004; TRN: 26 (91.45)<br>  
@@ -34,6 +36,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Tulane def. Middle Tennessee 4-0***  
+Go to [Live Stats](https://olemisssports.com/sports/2021/4/29/live-video-scoring.aspx)  
 
 ## Predictions  
 

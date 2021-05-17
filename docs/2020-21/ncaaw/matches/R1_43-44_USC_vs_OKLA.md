@@ -1,13 +1,15 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 10:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Alfred A. Ring Tennis Complex  
+Gainesville, Florida  
 ## [Southern California vs Oklahoma](https://www.ncaa.com/game/5833668)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Southern California</h2>  
-&nbsp; Record: 13-11<br>  
+&nbsp; Record: 12-10<br>  
 &nbsp; ITA: 35 (23.25)<br>  
 &nbsp; Slam: 35 (87.72)<br>  
 &nbsp; TRN: 41 (78.74)<br>  
@@ -35,6 +37,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***USC def. Oklahoma 4-3***  
 
 ## Predictions  
 

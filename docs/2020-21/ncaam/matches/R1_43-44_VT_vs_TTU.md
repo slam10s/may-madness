@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 10:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Dan Magill Tennis Complex  
+Athens, Georgia  
 ## [Virginia Tech vs Texas Tech](https://www.ncaa.com/game/5833391)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #861F41 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia-tech.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #ED1F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -20,7 +22,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Texas Tech</h2>  
-&nbsp; Record: 13-8<br>  
+&nbsp; Record: 13-7<br>  
 &#10004; ITA: 25 (31.24)<br>  
 &nbsp; Slam: 35 (92.60)<br>  
 &nbsp; TRN: 31 (90.98)<br>  
@@ -35,6 +37,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Texas Tech def. Virginia Tech 4-2***  
+Go to [Live Stats](https://georgiadogs.com/sports/2017/6/17/sports-m-tennis-spec-rel-vid-stream-html.aspx)  
 
 ## Predictions  
 

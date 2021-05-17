@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 12:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Virginia Tennis Facility at the Boar’s Head Resort  
+Charlottesville, Virginia  
 ## [James Madison vs Tennessee](https://www.ncaa.com/game/5833665)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #330072 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/j/james-madison.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Tennessee</h2>  
-&nbsp; Record: 17-9<br>  
+&nbsp; Record: 17-8<br>  
 &#10004; ITA: 15 (46.88)<br>  
 &#10004; Slam: 19 (90.43)<br>  
 &#10004; TRN: 19 (82.73)<br>  
@@ -34,6 +36,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Tennessee def. James Madison 4-0***  
 
 ## Predictions  
 

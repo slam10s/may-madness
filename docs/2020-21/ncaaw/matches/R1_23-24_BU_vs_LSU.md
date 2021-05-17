@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 2:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+LSU Tennis Complex  
+Baton Rouge, Louisiana  
 ## [Boston U. vs #12 LSU](https://www.ncaa.com/game/5833658)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/boston-u.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 LSU</h2>  
-&nbsp; Record: 15-6<br>  
+&nbsp; Record: 15-5<br>  
 &#10004; ITA: 14 (48.12)<br>  
 &#10004; Slam: 21 (90.28)<br>  
 &#10004; TRN: 18 (82.92)<br>  
@@ -34,6 +36,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***LSU def. Boston University 4-0***  
 
 ## Predictions  
 

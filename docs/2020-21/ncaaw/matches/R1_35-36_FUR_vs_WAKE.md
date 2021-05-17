@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 10:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Dan Magill Tennis Complex  
+Athens, Georgia  
 ## [Furman vs Wake Forest](https://www.ncaa.com/game/5833664)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/furman.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +23,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Wake Forest</h2>  
-&nbsp; Record: 12-13<br>  
+&nbsp; Record: 12-12<br>  
 &#10004; ITA: 32 (26.08)<br>  
 &#10004; Slam: 32 (88.11)<br>  
 &#10004; TRN: 31 (80.20)<br>  
@@ -35,6 +37,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Wake Forest def. Furman 4-2***  
 
 ## Predictions  
 

@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 3:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Virginia Tennis Facility at the Boar’s Head Resort  
+Charlottesville, Virginia  
 ## [LIU vs #14 Virginia](https://www.ncaa.com/game/5833666)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/long-island.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 Virginia</h2>  
-&nbsp; Record: 16-7<br>  
+&nbsp; Record: 15-6<br>  
 &#10004; ITA: 13 (48.31)<br>  
 &#10004; Slam: 9 (91.88)<br>  
 &#10004; TRN: 11 (84.03)<br>  
@@ -34,6 +36,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Virginia def. Long Island 4-0***  
 
 ## Predictions  
 

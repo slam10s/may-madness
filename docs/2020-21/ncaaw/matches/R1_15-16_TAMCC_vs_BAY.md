@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 6:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Hurd Tennis Center  
+Waco, Texas  
 ## [A&M-Corpus Christi vs #8 Baylor](https://www.ncaa.com/game/5833654)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005EB8 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 Baylor</h2>  
-&nbsp; Record: 24-5<br>  
+&nbsp; Record: 24-4<br>  
 &#10004; ITA: 8 (52.73)<br>  
 &#10004; Slam: 7 (92.44)<br>  
 &#10004; TRN: 4 (89.86)<br>  
@@ -34,6 +36,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Baylor def. A&M-Corpus Christi 4-0***  
 
 ## Predictions  
 

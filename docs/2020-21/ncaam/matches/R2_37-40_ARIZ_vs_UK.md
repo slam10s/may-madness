@@ -1,6 +1,8 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Boone Tennis Complex  
+Lexington, Kentucky  
 ## [Arizona vs #14 Kentucky](https://www.ncaa.com/game/5833411)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -36,6 +38,10 @@ Second Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Arizona def. Kentucky 4-2***  
+Go to [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)  
 
 ## Predictions  
 

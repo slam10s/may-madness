@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 3:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Bayard H. Friedman Tennis Center  
+Fort Worth, Texas  
 ## [Arkansas vs #7 TCU](https://www.ncaa.com/game/5833394)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -20,7 +22,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 TCU</h2>  
-&nbsp; Record: 18-7<br>  
+&nbsp; Record: 17-7<br>  
 &#10004; ITA: 7 (69.22)<br>  
 &#10004; Slam: 9 (97.57)<br>  
 &#10004; TRN: 9 (96.56)<br>  
@@ -35,6 +37,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***TCU def. Arkansas 4-0***  
+Go to [Live Stats](https://www.sidearmstats.com/tcu/mten/xlive.htm)  
 
 ## Predictions  
 

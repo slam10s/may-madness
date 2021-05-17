@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 2:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+USTA National Campus  
+Orlando, Florida  
 ## [Monmouth vs #9 UCF](https://www.ncaa.com/game/5833374)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/monmouth.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 UCF</h2>  
-&nbsp; Record: 22-4<br>  
+&nbsp; Record: 22-3<br>  
 &#10004; ITA: 10 (54.95)<br>  
 &#10004; Slam: 12 (96.59)<br>  
 &#10004; TRN: 13 (95.63)<br>  
@@ -34,6 +36,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Central Florida def. Monmouth (NJ) 4-0***  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76)  
 
 ## Predictions  
 

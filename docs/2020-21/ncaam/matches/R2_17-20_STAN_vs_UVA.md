@@ -1,6 +1,8 @@
 Second Round[](#top)<a name="top"></a>  
 [Sunday, May 9](../../schedule/05-09.md) at 12:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Virginia Tennis Facility at the Boar’s Head Resort  
+Charlottesville, Virginia  
 ## [Stanford vs #5 Virginia](https://www.ncaa.com/game/5833406)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -36,6 +38,10 @@ Second Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
+
+## Match Information  
+***Virginia def. Stanford 4-2***  
+Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350363)  
 
 ## Predictions  
 

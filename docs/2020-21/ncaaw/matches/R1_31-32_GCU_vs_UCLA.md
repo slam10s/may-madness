@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+Los Angeles Tennis Center  
+Los Angeles, California  
 ## [Grand Canyon vs #4 UCLA](https://www.ncaa.com/game/5833662)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #5F259F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 UCLA</h2>  
-&nbsp; Record: 22-4<br>  
+&nbsp; Record: 20-4<br>  
 &#10004; ITA: 4 (61.62)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
@@ -34,6 +36,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***UCLA def. Grand Canyon 4-0***  
 
 ## Predictions  
 

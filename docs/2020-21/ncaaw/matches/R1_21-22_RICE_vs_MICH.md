@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 11:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
+LSU Tennis Complex  
+Baton Rouge, Louisiana  
 ## [Rice vs Michigan](https://www.ncaa.com/game/5833657)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/r/rice.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/michigan.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -20,7 +22,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Michigan</h2>  
-&nbsp; Record: 19-4<br>  
+&nbsp; Record: 18-3<br>  
 &#10004; ITA: 20 (39.90)<br>  
 &#10004; Slam: 8 (91.95)<br>  
 &#10004; TRN: 8 (85.13)<br>  
@@ -35,6 +37,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Michigan def. Rice 4-1***  
 
 ## Predictions  
 

@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 2:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Atkins Tennis Center  
+Urbana, Illinois  
 ## [Western Mich. vs Notre Dame](https://www.ncaa.com/game/5833372)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #693F23 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/western-mich.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +23,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Notre Dame</h2>  
-&nbsp; Record: 15-11<br>  
+&nbsp; Record: 15-10<br>  
 &#10004; ITA: 34 (25.30)<br>  
 &#10004; Slam: 40 (91.96)<br>  
 &#10004; TRN: 42 (89.57)<br>  
@@ -35,6 +37,9 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
+
+## Match Information  
+***Notre Dame def. Western Michigan 4-1***  
 
 ## Predictions  
 

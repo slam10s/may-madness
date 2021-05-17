@@ -1,6 +1,8 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 10:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+Cone-Kenfield Center  
+Chapel Hill, North Carolina  
 ## [Navy vs Oklahoma St.](https://www.ncaa.com/game/5833392)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/navy.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #DF4F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -19,7 +21,7 @@ First Round[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Oklahoma St.</h2>  
-&nbsp; Record: 10-12<br>  
+&nbsp; Record: 10-11<br>  
 &#10004; ITA: 19 (35.31)<br>  
 &#10004; Slam: 24 (93.68)<br>  
 &#10004; TRN: 23 (91.93)<br>  
@@ -34,6 +36,10 @@ First Round[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+
+## Match Information  
+***Oklahoma State def. Navy 4-0***  
+Go to [Live Stats](http://www.statbroadcast.com/events/statmonitr.php?gid=unc)  
 
 ## Predictions  
 
