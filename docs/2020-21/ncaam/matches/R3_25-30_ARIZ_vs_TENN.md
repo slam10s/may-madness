@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Tennessee def. Arizona 4-3***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=775&clubid=257-267&cn1=Tennessee&cn2=Arizona&ci1=257&ci2=267&lid=82)  
 
 ## Predictions  
 

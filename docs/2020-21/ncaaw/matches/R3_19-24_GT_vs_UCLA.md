@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***UCLA def. Georgia Tech 4-0***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UCLAGT.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=772&clubid=283-561&cn1=USC&cn2=GA%20Tech&ci1=283&ci2=561&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UCLAGT.pdf)  
 
 ## Predictions  
 

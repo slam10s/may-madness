@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Georgia def. Virginia 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UGAUVA.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=767&clubid=255-269&cn1=Georgia&cn2=Virginia&ci1=255&ci2=269&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UGAUVA.pdf)  
 
 ## Predictions  
 

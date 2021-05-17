@@ -40,7 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=780&clubid=265-295&cn1=Texas&cn2=S%20Carolina&ci1=265&ci2=295&lid=82)  
 
 ## Predictions  
 

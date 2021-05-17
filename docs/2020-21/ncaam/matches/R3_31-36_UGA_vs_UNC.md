@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Georgia def. North Carolina 4-3***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=776&clubid=584-255&cn1=UNC&cn2=Georgia&ci1=584&ci2=255&lid=82)  
 
 ## Predictions  
 

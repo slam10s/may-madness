@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Pepperdine def. Michigan 4-0***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16PEPPMICH.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=771&clubid=733-216&cn1=Pepperdine&cn2=Michigan&ci1=733&ci2=216&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16PEPPMICH.pdf)  
 
 ## Predictions  
 

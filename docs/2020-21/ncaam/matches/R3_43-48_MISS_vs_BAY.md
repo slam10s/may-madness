@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Baylor def. Ole Miss 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=778&clubid=552-670&cn1=Baylor&cn2=Ole%20Miss&ci1=552&ci2=670&lid=82)  
 
 ## Predictions  
 

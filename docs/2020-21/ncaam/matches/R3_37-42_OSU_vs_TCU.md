@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***TCU def. Ohio State 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=777&clubid=591-585&cn1=TCU&cn2=Ohio%20State&ci1=591&ci2=585&lid=82)  
 
 ## Predictions  
 

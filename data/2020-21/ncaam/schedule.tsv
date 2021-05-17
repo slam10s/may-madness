@@ -52,7 +52,7 @@ contestId	matchnum	date	timeStr	roundNum	home	visitor	score	winner	status	title	
 5833424	307	2021-05-17	1:00 EDT 	3	TCU 	OSU  	4-1	home   	final      	Ohio St. vs #7 TCU                      	2021-05-17T13:00-04:00	tcu                	ohio-st            
 5833425	308	2021-05-17	1:00 EDT 	3	BAY 	MISS 	4-1	home   	final      	#15 Ole Miss vs #2 Baylor               	2021-05-17T13:00-04:00	baylor             	ole-miss           
 5833420	303	2021-05-17	4:00 EDT 	3	UVA 	USC  	0-0	       	in-progress	#12 Southern California vs #5 Virginia  	2021-05-17T16:00-04:00	virginia           	southern-california
-5833421	304	2021-05-17	4:00 EDT 	3	TEX 	SCAR 	0-0	       	pre        	#13 South Carolina vs #4 Texas          	2021-05-17T16:00-04:00	texas              	south-carolina     
+5833421	304	2021-05-17	4:00 EDT 	3	TEX 	SCAR 	0-0	       	in-progress	#13 South Carolina vs #4 Texas          	2021-05-17T16:00-04:00	texas              	south-carolina     
 5833418	301	2021-05-17	7:00 EDT 	3	FLA 	ILL  	0-0	       	pre        	#16 Illinois vs #1 Florida              	2021-05-17T19:00-04:00	florida            	illinois           
 5833419	302	2021-05-17	7:00 EDT 	3	A&M 	MSST 	0-0	       	pre        	Mississippi St. vs #8 Texas A&M         	2021-05-17T19:00-04:00	texas-am           	mississippi-st     
 5833428	403	2021-05-20	TBA      	4	TENN	UGA  	0-0	       	pre        	#11 Georgia vs #3 Tennessee             	2021-05-20            	tennessee          	georgia            
