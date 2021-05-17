@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#11 Georgia</h2>  
-&nbsp; Record: 16-6<br>  
+&nbsp; Record: 17-6<br>  
 &nbsp; ITA: 11 (54.91)<br>  
 &nbsp; Slam: 16 (95.98)<br>  
 &nbsp; TRN: 15 (94.86)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#6 North Carolina</h2>  
-&nbsp; Record: 21-3<br>  
+&nbsp; Record: 21-4<br>  
 &#10004; ITA: 6 (72.28)<br>  
 &#10004; Slam: 3 (99.32)<br>  
 &#10004; TRN: 2 (99.36)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
+***Georgia def. North Carolina 4-3***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82)  
 
 ## Predictions  

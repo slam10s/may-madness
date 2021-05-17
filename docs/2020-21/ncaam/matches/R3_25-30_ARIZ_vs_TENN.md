@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>Arizona</h2>  
-&nbsp; Record: 21-7<br>  
+&nbsp; Record: 21-8<br>  
 &nbsp; ITA: 18 (38.97)<br>  
 &nbsp; Slam: 18 (95.20)<br>  
 &nbsp; TRN: 17 (93.90)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#3 Tennessee</h2>  
-&nbsp; Record: 26-3<br>  
+&nbsp; Record: 27-3<br>  
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.21)<br>  
 &#10004; TRN: 5 (98.84)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
+***Tennessee def. Arizona 4-3***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82)  
 
 ## Predictions  
