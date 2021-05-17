@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>Ohio St.</h2>  
-&nbsp; Record: 22-3<br>  
+&nbsp; Record: 22-4<br>  
 &nbsp; ITA: 35 (25.05)<br>  
 &#10004; Slam: 7 (98.39)<br>  
 &#10004; TRN: 8 (97.40)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#7 TCU</h2>  
-&nbsp; Record: 18-7<br>  
+&nbsp; Record: 19-7<br>  
 &#10004; ITA: 7 (69.22)<br>  
 &nbsp; Slam: 9 (97.80)<br>  
 &nbsp; TRN: 9 (96.92)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
+***TCU def. Ohio State 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82)  
 
 ## Predictions  
