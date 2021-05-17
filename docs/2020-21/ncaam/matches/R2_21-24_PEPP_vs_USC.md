@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 4:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-David X. Marks Tennis Stadium  
-Los Angeles, California  
 ## [Pepperdine vs #12 Southern California](https://www.ncaa.com/game/5833407)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #F46F1B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -38,10 +36,6 @@ Los Angeles, California
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***USC def. Pepperdine 4-2***  
-Go to [Live Stats](https://usctrojans.com/sports/2020/2/19/usc-trojans-m-tennis-live-scoreboard-video-david-marks-stadium.aspx)  
 
 ## Predictions  
 

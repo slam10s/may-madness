@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 4:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Palmer/Salloum Tennis Center  
-Oxford, Mississippi  
 ## [Belmont vs #15 Ole Miss](https://www.ncaa.com/game/5833398)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0D2C6B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/belmont.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ole-miss.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Oxford, Mississippi
 <td>  
 
 <h2>#1 Ole Miss</h2>  
-&nbsp; Record: 12-10<br>  
+&nbsp; Record: 13-10<br>  
 &#10004; ITA: 14 (44.94)<br>  
 &#10004; Slam: 18 (95.00)<br>  
 &#10004; TRN: 18 (93.41)<br>  
@@ -36,10 +34,6 @@ Oxford, Mississippi
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Ole Miss def. Belmont 4-0***  
-Go to [Live Stats](http://stats.statbroadcast.com/statmonitr/?id=350591)  
 
 ## Predictions  
 

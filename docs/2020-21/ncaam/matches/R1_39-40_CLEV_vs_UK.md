@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Boone Tennis Complex  
-Lexington, Kentucky  
 ## [Cleveland St. vs #14 Kentucky](https://www.ncaa.com/game/5833389)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #115740 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/cleveland-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Lexington, Kentucky
 <td>  
 
 <h2>#1 Kentucky</h2>  
-&nbsp; Record: 19-7<br>  
+&nbsp; Record: 19-8<br>  
 &#10004; ITA: 15 (44.81)<br>  
 &#10004; Slam: 17 (95.87)<br>  
 &#10004; TRN: 17 (93.83)<br>  
@@ -36,9 +34,6 @@ Lexington, Kentucky
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Kentucky def. Cleveland State 4-1***  
 
 ## Predictions  
 

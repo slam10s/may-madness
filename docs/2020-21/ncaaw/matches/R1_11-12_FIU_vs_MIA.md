@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 12:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-USTA National Campus  
-Orlando, Florida  
 ## [FIU vs Miami (FL)](https://www.ncaa.com/game/5833652)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fiu.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #154734 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -23,7 +21,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Miami (FL)</h2>  
-&nbsp; Record: 15-8<br>  
+&nbsp; Record: 15-9<br>  
 &#10004; ITA: 23 (38.93)<br>  
 &#10004; Slam: 22 (90.21)<br>  
 &#10004; TRN: 21 (82.31)<br>  
@@ -38,9 +36,6 @@ Orlando, Florida
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Miami (FL) def. Florida International 4-0***  
 
 ## Predictions  
 

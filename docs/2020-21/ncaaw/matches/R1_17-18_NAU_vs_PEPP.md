@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 5:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Ralphs-Straus Tennis Center  
-Malibu, California  
 ## [Northern Ariz. vs #5 Pepperdine](https://www.ncaa.com/game/5833655)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00205B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northern-ariz.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #F46F1B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Malibu, California
 <td>  
 
 <h2>#1 Pepperdine</h2>  
-&nbsp; Record: 21-3<br>  
+&nbsp; Record: 23-3<br>  
 &#10004; ITA: 5 (60.46)<br>  
 &#10004; Slam: 6 (92.64)<br>  
 &#10004; TRN: 6 (85.86)<br>  
@@ -36,9 +34,6 @@ Malibu, California
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Pepperdine def. Northern Arizona 4-0***  
 
 ## Predictions  
 

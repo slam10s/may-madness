@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 6:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Hurd Tennis Center  
-Waco, Texas  
 ## [Duke vs #8 Baylor](https://www.ncaa.com/game/5833682)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -38,10 +36,6 @@ Waco, Texas
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Duke def. Baylor 4-3***  
-Go to [Live Stats](http://www.sidearmstats.com/baylor/wten/)  
 
 ## Predictions  
 

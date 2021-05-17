@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 10:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Cone-Kenfield Center  
-Chapel Hill, North Carolina  
 ## [Arkansas vs Old Dominion](https://www.ncaa.com/game/5833648)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arkansas.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #0B4071 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/old-dominion.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -22,7 +20,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#2 Old Dominion</h2>  
-&nbsp; Record: 13-4<br>  
+&nbsp; Record: 13-5<br>  
 &#10004; ITA: 29 (28.00)<br>  
 &#10004; Slam: 28 (89.21)<br>  
 &#10004; TRN: 25 (81.50)<br>  
@@ -37,9 +35,6 @@ Chapel Hill, North Carolina
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Old Dominion def. Arkansas 4-2***  
 
 ## Predictions  
 

@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Hellman Tennis Complex  
-Berkeley, California  
 ## [Syracuse vs Kentucky](https://www.ncaa.com/game/5833649)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #DC4405 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/syracuse.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #3258AF !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/k/kentucky.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -22,7 +20,7 @@ Berkeley, California
 <td>  
 
 <h2>#2 Kentucky</h2>  
-&nbsp; Record: 16-8<br>  
+&nbsp; Record: 16-9<br>  
 &#10004; ITA: 26 (37.22)<br>  
 &#10004; Slam: 25 (89.36)<br>  
 &#10004; TRN: 27 (81.49)<br>  
@@ -37,9 +35,6 @@ Berkeley, California
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Kentucky def. Syracuse 4-3***  
 
 ## Predictions  
 

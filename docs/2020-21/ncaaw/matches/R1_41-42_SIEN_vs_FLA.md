@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Alfred A. Ring Tennis Complex  
-Gainesville, Florida  
 ## [Siena vs #11 Florida](https://www.ncaa.com/game/5833667)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #006747 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/siena.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #003087 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#1 Florida</h2>  
-&nbsp; Record: 13-7<br>  
+&nbsp; Record: 13-8<br>  
 &#10004; ITA: 12 (48.69)<br>  
 &#10004; Slam: 16 (90.47)<br>  
 &#10004; TRN: 20 (82.70)<br>  
@@ -36,9 +34,6 @@ Gainesville, Florida
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Florida def. Siena 4-0***  
 
 ## Predictions  
 

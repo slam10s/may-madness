@@ -1,8 +1,6 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Sunday, May 16](../../schedule/05-16.md) at undefined  
+[Wednesday, May 19](../../schedule/05-19.md) at undefined  
 [2021 Division I Women's Tennis Championship](../index.md)  
-USTA National Campus  
-Orlando, Florida  
 ## [#5 Pepperdine vs #4 UCLA](https://www.ncaa.com/game/5833704)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #F46F1B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -37,10 +35,7 @@ Orlando, Florida
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
-
-## Match Information  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Predictions  
 
@@ -159,4 +154,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)  

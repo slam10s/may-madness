@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 3:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Hurd Tennis Center  
-Waco, Texas  
 ## [A&M-Corpus Christi vs #2 Baylor](https://www.ncaa.com/game/5833401)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005EB8 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/am-corpus-chris.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #1B3E30 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Waco, Texas
 <td>  
 
 <h2>#1 Baylor</h2>  
-&nbsp; Record: 30-4<br>  
+&nbsp; Record: 31-4<br>  
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 5 (99.05)<br>  
 &#10004; TRN: 6 (98.67)<br>  
@@ -36,10 +34,6 @@ Waco, Texas
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Baylor def. A&M-Corpus Christi 4-0***  
-Go to [Live Stats](http://www.sidearmstats.com/baylor/mten/)  
 
 ## Predictions  
 

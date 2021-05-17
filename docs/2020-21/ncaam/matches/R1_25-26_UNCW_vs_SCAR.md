@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Carolina Tennis Center  
-Columbia, South Carolina  
 ## [UNCW vs #13 South Carolina](https://www.ncaa.com/game/5833382)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #00685E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/unc-wilmington.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Columbia, South Carolina
 <td>  
 
 <h2>#1 South Carolina</h2>  
-&nbsp; Record: 16-9<br>  
+&nbsp; Record: 17-9<br>  
 &#10004; ITA: 13 (51.06)<br>  
 &#10004; Slam: 15 (96.20)<br>  
 &#10004; TRN: 15 (94.49)<br>  
@@ -36,9 +34,6 @@ Columbia, South Carolina
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***South Carolina def. UNC Wilmington 4-0***  
 
 ## Predictions  
 

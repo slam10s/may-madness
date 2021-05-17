@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 10:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Alfred A. Ring Tennis Complex  
-Gainesville, Florida  
 ## [Duke vs South Fla.](https://www.ncaa.com/game/5833371)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #006747 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-fla.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -22,7 +20,7 @@ Gainesville, Florida
 <td>  
 
 <h2>#2 South Fla.</h2>  
-&nbsp; Record: 17-9<br>  
+&nbsp; Record: 17-10<br>  
 &#10004; ITA: 31 (26.04)<br>  
 &nbsp; Slam: 32 (92.98)<br>  
 &#10004; TRN: 34 (90.69)<br>  
@@ -36,10 +34,6 @@ Gainesville, Florida
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***South Florida def. Duke 4-2***  
-Go to [Live Stats](https://sidearmstats.com/florida/mten/)  
 
 ## Predictions  
 

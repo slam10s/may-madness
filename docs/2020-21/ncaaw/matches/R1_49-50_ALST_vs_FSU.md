@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Scott Speicher Tennis Center  
-Tallahassee, Florida  
 ## [Alabama St. vs #7 Florida St.](https://www.ncaa.com/game/5833671)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #76253A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Tallahassee, Florida
 <td>  
 
 <h2>#1 Florida St.</h2>  
-&nbsp; Record: 17-5<br>  
+&nbsp; Record: 19-5<br>  
 &#10004; ITA: 7 (55.39)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  
@@ -36,9 +34,6 @@ Tallahassee, Florida
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Florida State def. Alabama State 4-0***  
 
 ## Predictions  
 

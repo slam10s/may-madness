@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Sunday, May 9](../../schedule/05-09.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Cone-Kenfield Center  
-Chapel Hill, North Carolina  
 ## [Oklahoma St. vs #6 North Carolina](https://www.ncaa.com/game/5833413)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #DF4F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -38,10 +36,6 @@ Chapel Hill, North Carolina
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
-
-## Match Information  
-***North Carolina def. Oklahoma State 4-0***  
-Go to [Live Stats](http://stats.statbroadcast.com/statmonitr/?id=350570)  
 
 ## Predictions  
 

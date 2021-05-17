@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 2:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Varsity Tennis Center  
-Columbus, Ohio  
 ## [UIC vs #15 Ohio St.](https://www.ncaa.com/game/5833675)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #DB0032 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/ill-chicago.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #CE0F3E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/ohio-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Columbus, Ohio
 <td>  
 
 <h2>#1 Ohio St.</h2>  
-&nbsp; Record: 22-3<br>  
+&nbsp; Record: 23-4<br>  
 &#10004; ITA: 16 (46.78)<br>  
 &#10004; Slam: 5 (92.95)<br>  
 &#10004; TRN: 5 (85.87)<br>  
@@ -36,9 +34,6 @@ Columbus, Ohio
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Ohio State def. Illinois - Chicago 4-0***  
 
 ## Predictions  
 

@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Sunday, May 9](../../schedule/05-09.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Texas Tennis Center  
-Austin, Texas  
 ## [Northwestern vs #4 Texas](https://www.ncaa.com/game/5833409)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #4E2A84 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #CB6015 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -37,10 +35,6 @@ Austin, Texas
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
-
-## Match Information  
-***Texas def. Northwestern 4-0***  
-Go to [Live Stats](http://sidearmstats.com/texas/mtennis/xlive.htm)  
 
 ## Predictions  
 

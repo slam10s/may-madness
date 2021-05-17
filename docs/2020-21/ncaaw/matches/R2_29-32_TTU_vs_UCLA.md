@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 3:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Los Angeles Tennis Center  
-Los Angeles, California  
 ## [Texas Tech vs #4 UCLA](https://www.ncaa.com/game/5833686)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #ED1F2A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-tech.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #0072CE !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucla.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -22,7 +20,7 @@ Los Angeles, California
 <td>  
 
 <h2>#1 UCLA</h2>  
-&nbsp; Record: 21-4<br>  
+&nbsp; Record: 22-4<br>  
 &#10004; ITA: 4 (61.62)<br>  
 &#10004; Slam: 4 (92.98)<br>  
 &#10004; TRN: 7 (85.42)<br>  
@@ -37,10 +35,6 @@ Los Angeles, California
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***UCLA def. Texas Tech 4-0***  
-Go to [Live Stats](https://uclabruins.com/sports/2020/1/13/ucla-tennis-live-stats-w.aspx)  
 
 ## Predictions  
 

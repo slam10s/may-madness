@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Combe Tennis Center  
-Evanston, Illinois  
 ## [Drake vs #10 Texas A&M](https://www.ncaa.com/game/5833674)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002F6C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/drake.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Evanston, Illinois
 <td>  
 
 <h2>#1 Texas A&M</h2>  
-&nbsp; Record: 20-7<br>  
+&nbsp; Record: 21-8<br>  
 &#10004; ITA: 10 (50.26)<br>  
 &#10004; Slam: 15 (90.86)<br>  
 &#10004; TRN: 14 (83.43)<br>  
@@ -36,9 +34,6 @@ Evanston, Illinois
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Texas A&M def. Drake 4-0***  
 
 ## Predictions  
 

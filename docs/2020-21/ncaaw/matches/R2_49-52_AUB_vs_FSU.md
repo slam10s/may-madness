@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Scott Speicher Tennis Center  
-Tallahassee, Florida  
 ## [Auburn vs #7 Florida St.](https://www.ncaa.com/game/5833691)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #FA4616 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/auburn.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #76253A !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -23,7 +21,7 @@ Tallahassee, Florida
 <td>  
 
 <h2>#1 Florida St.</h2>  
-&nbsp; Record: 18-5<br>  
+&nbsp; Record: 19-5<br>  
 &#10004; ITA: 7 (55.39)<br>  
 &#10004; Slam: 10 (91.81)<br>  
 &#10004; TRN: 9 (84.49)<br>  
@@ -38,10 +36,6 @@ Tallahassee, Florida
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Florida State def. Auburn 4-1***  
-Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350663)  
 
 ## Predictions  
 

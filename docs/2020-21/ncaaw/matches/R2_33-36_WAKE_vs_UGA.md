@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Dan Magill Tennis Complex  
-Athens, Georgia  
 ## [Wake Forest vs #3 Georgia](https://www.ncaa.com/game/5833687)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #DA291C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -22,7 +20,7 @@ Athens, Georgia
 <td>  
 
 <h2>#1 Georgia</h2>  
-&nbsp; Record: 22-1<br>  
+&nbsp; Record: 23-1<br>  
 &#10004; ITA: 3 (73.77)<br>  
 &#10004; Slam: 3 (97.81)<br>  
 &#10004; TRN: 3 (94.01)<br>  
@@ -37,10 +35,6 @@ Athens, Georgia
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Georgia def. Wake Forest 4-1***  
-Go to [Live Stats](https://t.co/T8QKQKSjw6?amp=1)  
 
 ## Predictions  
 

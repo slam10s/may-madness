@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 11:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Varsity Tennis Center  
-Columbus, Ohio  
 ## [Ball St. vs Vanderbilt](https://www.ncaa.com/game/5833676)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/b/ball-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/vanderbilt.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Columbus, Ohio
 <td>  
 
 <h2>#2 Vanderbilt</h2>  
-&nbsp; Record: 14-9<br>  
+&nbsp; Record: 14-10<br>  
 &#10004; ITA: 28 (34.89)<br>  
 &#10004; Slam: 29 (88.87)<br>  
 &#10004; TRN: 30 (81.13)<br>  
@@ -35,9 +33,6 @@ Columbus, Ohio
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Vanderbilt def. Ball State 4-0***  
 
 ## Predictions  
 

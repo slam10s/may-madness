@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 4:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-David X. Marks Tennis Stadium  
-Los Angeles, California  
 ## [Grand Canyon vs #12 Southern California](https://www.ncaa.com/game/5833381)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #5F259F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/grand-canyon.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/southern-california.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Los Angeles, California
 <td>  
 
 <h2>#1 Southern California</h2>  
-&nbsp; Record: 21-6<br>  
+&nbsp; Record: 22-6<br>  
 &#10004; ITA: 12 (52.23)<br>  
 &#10004; Slam: 14 (96.38)<br>  
 &#10004; TRN: 16 (94.47)<br>  
@@ -36,9 +34,6 @@ Los Angeles, California
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***USC def. Grand Canyon 4-0***  
 
 ## Predictions  
 

@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 11:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-USTA National Campus  
-Orlando, Florida  
 ## [Miami (FL) vs Mississippi St.](https://www.ncaa.com/game/5833375)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #154734 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/miami-fl.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #6F2C3F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -22,7 +20,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Mississippi St.</h2>  
-&nbsp; Record: 17-9<br>  
+&nbsp; Record: 18-9<br>  
 &#10004; ITA: 16 (41.29)<br>  
 &#10004; Slam: 20 (94.39)<br>  
 &#10004; TRN: 19 (92.98)<br>  
@@ -37,10 +35,6 @@ Orlando, Florida
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Mississippi State def. Miami (FL) 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76)  
 
 ## Predictions  
 

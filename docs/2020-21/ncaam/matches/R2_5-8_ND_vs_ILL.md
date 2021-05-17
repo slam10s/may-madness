@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 2:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Atkins Tennis Center  
-Urbana, Illinois  
 ## [Notre Dame vs #16 Illinois](https://www.ncaa.com/game/5833403)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0C2340 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/notre-dame.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #E04E39 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/illinois.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -37,10 +35,6 @@ Urbana, Illinois
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Illinois def. Notre Dame 4-0***  
-Go to [Live Stats](https://fightingillini.com/sports/2016/1/14/mtennis_livestatsvideo.aspx?path=mten)  
 
 ## Predictions  
 

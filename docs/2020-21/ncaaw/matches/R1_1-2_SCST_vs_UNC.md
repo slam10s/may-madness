@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Cone-Kenfield Center  
-Chapel Hill, North Carolina  
 ## [South Carolina St. vs #1 North Carolina](https://www.ncaa.com/game/5833647)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#1 North Carolina</h2>  
-&nbsp; Record: 27-0<br>  
+&nbsp; Record: 28-0<br>  
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
@@ -36,9 +34,6 @@ Chapel Hill, North Carolina
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***North Carolina def. S.C. State 4-0***  
 
 ## Predictions  
 

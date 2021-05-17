@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 3:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-George P. Mitchell Tennis Center  
-College Station, Texas  
 ## [Oklahoma vs #8 Texas A&M](https://www.ncaa.com/game/5833405)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -37,10 +35,6 @@ College Station, Texas
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Texas A&M def. Oklahoma 4-1***  
-Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350360)  
 
 ## Predictions  
 

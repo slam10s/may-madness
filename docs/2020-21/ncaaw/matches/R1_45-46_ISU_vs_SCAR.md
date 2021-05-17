@@ -1,15 +1,13 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 11:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-J.W. Isenhour Tennis Center  
-Raleigh, North Carolina  
 ## [Iowa St. vs South Carolina](https://www.ncaa.com/game/5833669)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #A6192E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
 <td>  
 
 <h2>#3 Iowa St.</h2>  
-&nbsp; Record: 14-7<br>  
+&nbsp; Record: 14-8<br>  
 &nbsp; ITA: 36 (22.52)<br>  
 &nbsp; Slam: 41 (86.71)<br>  
 &nbsp; TRN: 42 (78.56)<br>  
@@ -37,9 +35,6 @@ Raleigh, North Carolina
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Iowa State def. South Carolina 4-2***  
 
 ## Predictions  
 

@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Texas Tennis Center  
-Austin, Texas  
 ## [Arizona St. vs #2 Texas](https://www.ncaa.com/game/5833694)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #8A0C3C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/arizona-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #CB6015 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -23,7 +21,7 @@ Austin, Texas
 <td>  
 
 <h2>#1 Texas</h2>  
-&nbsp; Record: 27-1<br>  
+&nbsp; Record: 28-1<br>  
 &#10004; ITA: 2 (79.31)<br>  
 &#10004; Slam: 2 (98.44)<br>  
 &#10004; TRN: 2 (97.97)<br>  
@@ -38,10 +36,6 @@ Austin, Texas
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Texas def. Arizona State 4-0***  
-Go to [Live Stats](http://sidearmstats.com/texas/wtennis/xlive.htm)  
 
 ## Predictions  
 

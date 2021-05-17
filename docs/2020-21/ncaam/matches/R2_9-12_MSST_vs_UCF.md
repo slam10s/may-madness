@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Sunday, May 9](../../schedule/05-09.md) at 12:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-USTA National Campus  
-Orlando, Florida  
 ## [Mississippi St. vs #9 UCF](https://www.ncaa.com/game/5833404)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #6F2C3F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/m/mississippi-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/u/ucf.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -38,10 +36,6 @@ Orlando, Florida
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
-
-## Match Information  
-***Mississippi State def. Central Florida 4-2***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=76)  
 
 ## Predictions  
 

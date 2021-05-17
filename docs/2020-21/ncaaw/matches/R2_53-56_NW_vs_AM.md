@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 1:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Combe Tennis Center  
-Evanston, Illinois  
 ## [Northwestern vs #10 Texas A&M](https://www.ncaa.com/game/5833692)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #4E2A84 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/northwestern.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -23,7 +21,7 @@ Evanston, Illinois
 <td>  
 
 <h2>#1 Texas A&M</h2>  
-&nbsp; Record: 21-7<br>  
+&nbsp; Record: 21-8<br>  
 &#10004; ITA: 10 (50.26)<br>  
 &#10004; Slam: 15 (90.86)<br>  
 &nbsp; TRN: 14 (83.43)<br>  
@@ -38,10 +36,6 @@ Evanston, Illinois
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Texas A&M def. Northwestern 4-1***  
-Go to [Live Stats](http://stats.statbroadcast.com/multimedia/?id=350360)  
 
 ## Predictions  
 

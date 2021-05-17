@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-Hellman Tennis Complex  
-Berkeley, California  
 ## [San Jose St. vs #16 California](https://www.ncaa.com/game/5833650)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #0032A0 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/san-jose-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Berkeley, California
 <td>  
 
 <h2>#1 California</h2>  
-&nbsp; Record: 18-6<br>  
+&nbsp; Record: 19-6<br>  
 &#10004; ITA: 17 (45.98)<br>  
 &#10004; Slam: 17 (90.47)<br>  
 &#10004; TRN: 17 (82.99)<br>  
@@ -36,9 +34,6 @@ Berkeley, California
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***California def. San Jose State 4-0***  
 
 ## Predictions  
 

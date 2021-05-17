@@ -1,8 +1,6 @@
 Third Round[](#top)<a name="top"></a>  
 [Sunday, May 16](../../schedule/05-16.md) at 7:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-USTA National Campus  
-Orlando, Florida  
 ## [#16 California vs #1 North Carolina](https://www.ncaa.com/game/5833695)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #041E42 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/c/california.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -38,9 +36,6 @@ Orlando, Florida
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
-
-## Match Information  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  
 

@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 10:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Virginia Tennis Facility at the Boar’s Head Resort  
-Charlottesville, Virginia  
 ## [LSU vs Stanford](https://www.ncaa.com/game/5833379)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #582C83 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/l/lsu.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/stanford.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -22,7 +20,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#2 Stanford</h2>  
-&nbsp; Record: 11-5<br>  
+&nbsp; Record: 11-6<br>  
 &#10004; ITA: 21 (34.55)<br>  
 &#10004; Slam: 22 (94.00)<br>  
 &#10004; TRN: 21 (92.30)<br>  
@@ -37,10 +35,6 @@ Charlottesville, Virginia
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Stanford def. LSU 4-0***  
-Go to [Live Stats](https://virginiasports.com/mens-live-tennis-video-outdoor-courts/)  
 
 ## Predictions  
 

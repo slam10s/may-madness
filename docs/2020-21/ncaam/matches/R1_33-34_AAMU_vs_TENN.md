@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Barksdale Stadium  
-Knoxville, Tennessee  
 ## [Alabama A&M vs #3 Tennessee](https://www.ncaa.com/game/5833386)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/a/alabama-am.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #FF8200 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/tennessee.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Knoxville, Tennessee
 <td>  
 
 <h2>#1 Tennessee</h2>  
-&nbsp; Record: 25-3<br>  
+&nbsp; Record: 26-3<br>  
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 4 (99.18)<br>  
 &#10004; TRN: 5 (98.72)<br>  
@@ -36,10 +34,6 @@ Knoxville, Tennessee
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Tennessee def. Alabama A&M 5-0***  
-Go to [Live Stats](http://www.sidearmstats.com/utennessee/mten/)  
 
 ## Predictions  
 

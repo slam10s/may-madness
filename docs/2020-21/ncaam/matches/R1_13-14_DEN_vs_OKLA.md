@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 12:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-George P. Mitchell Tennis Center  
-College Station, Texas  
 ## [Denver vs Oklahoma](https://www.ncaa.com/game/5833376)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/denver.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #9D2235 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/o/oklahoma.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -22,7 +20,7 @@ College Station, Texas
 <td>  
 
 <h2>#2 Oklahoma</h2>  
-&nbsp; Record: 11-14<br>  
+&nbsp; Record: 11-15<br>  
 &#10004; ITA: 27 (29.42)<br>  
 &#10004; Slam: 29 (93.05)<br>  
 &#10004; TRN: 28 (91.23)<br>  
@@ -36,9 +34,6 @@ College Station, Texas
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Oklahoma def. Denver 4-1***  
 
 ## Predictions  
 

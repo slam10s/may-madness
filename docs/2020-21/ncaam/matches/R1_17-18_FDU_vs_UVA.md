@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Virginia Tennis Facility at the Boar’s Head Resort  
-Charlottesville, Virginia  
 ## [Fairleigh Dickinson vs #5 Virginia](https://www.ncaa.com/game/5833378)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002F6C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/fairleigh-dickinson.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Charlottesville, Virginia
 <td>  
 
 <h2>#1 Virginia</h2>  
-&nbsp; Record: 22-2<br>  
+&nbsp; Record: 23-2<br>  
 &#10004; ITA: 5 (74.11)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
@@ -36,10 +34,6 @@ Charlottesville, Virginia
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***Virginia def. Fairleigh Dickinson 4-0***  
-Go to [Live Stats](http://stats.statbroadcast.com/broadcast/?id=350361)  
 
 ## Predictions  
 

@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 3:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-George P. Mitchell Tennis Center  
-College Station, Texas  
 ## [New Mexico vs #8 Texas A&M](https://www.ncaa.com/game/5833377)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #BA0C2F !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/new-mexico.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ College Station, Texas
 <td>  
 
 <h2>#1 Texas A&M</h2>  
-&nbsp; Record: 17-8<br>  
+&nbsp; Record: 18-8<br>  
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 11 (96.97)<br>  
 &#10004; TRN: 11 (95.89)<br>  
@@ -36,9 +34,6 @@ College Station, Texas
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Texas A&M def. New Mexico 4-1***  
 
 ## Predictions  
 

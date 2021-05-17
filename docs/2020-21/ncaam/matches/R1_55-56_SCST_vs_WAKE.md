@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Friday, May 7](../../schedule/05-07.md) at 5:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Wake Forest Tennis Complex  
-Winston-Salem, North Carolina  
 ## [South Carolina St. vs #10 Wake Forest](https://www.ncaa.com/game/5833397)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #862633 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/s/south-carolina-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #010101 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/w/wake-forest.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Winston-Salem, North Carolina
 <td>  
 
 <h2>#1 Wake Forest</h2>  
-&nbsp; Record: 29-6<br>  
+&nbsp; Record: 29-7<br>  
 &#10004; ITA: 9 (57.04)<br>  
 &#10004; Slam: 10 (97.17)<br>  
 &#10004; TRN: 10 (95.99)<br>  
@@ -36,9 +34,6 @@ Winston-Salem, North Carolina
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
-
-## Match Information  
-***Wake Forest def. S.C. State 4-0***  
 
 ## Predictions  
 

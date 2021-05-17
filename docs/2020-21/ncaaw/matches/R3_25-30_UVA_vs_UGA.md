@@ -1,8 +1,6 @@
 Third Round[](#top)<a name="top"></a>  
 [Sunday, May 16](../../schedule/05-16.md) at 10:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-USTA National Campus  
-Orlando, Florida  
 ## [#14 Virginia vs #3 Georgia](https://www.ncaa.com/game/5833699)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #232D4B !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/v/virginia.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #DA291C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -38,10 +36,6 @@ Orlando, Florida
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
-
-## Match Information  
-***Georgia def. Virginia 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UGAUVA.pdf)  
 
 ## Predictions  
 

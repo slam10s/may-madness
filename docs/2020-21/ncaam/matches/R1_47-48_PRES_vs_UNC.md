@@ -1,8 +1,6 @@
 First Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
-Cone-Kenfield Center  
-Chapel Hill, North Carolina  
 ## [Presbyterian vs #6 North Carolina](https://www.ncaa.com/game/5833393)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #005394 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/p/presbyterian.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -21,7 +19,7 @@ Chapel Hill, North Carolina
 <td>  
 
 <h2>#1 North Carolina</h2>  
-&nbsp; Record: 20-3<br>  
+&nbsp; Record: 21-3<br>  
 &#10004; ITA: 6 (72.28)<br>  
 &#10004; Slam: 3 (99.37)<br>  
 &#10004; TRN: 2 (99.37)<br>  
@@ -36,10 +34,6 @@ Chapel Hill, North Carolina
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***North Carolina def. Presbyterian 4-0***  
-Go to [Live Stats](http://www.statbroadcast.com/events/statmonitr.php?gid=unc)  
 
 ## Predictions  
 

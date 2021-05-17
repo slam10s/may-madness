@@ -1,8 +1,6 @@
 Second Round[](#top)<a name="top"></a>  
 [Saturday, May 8](../../schedule/05-08.md) at 2:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-J.W. Isenhour Tennis Center  
-Raleigh, North Carolina  
 ## [Iowa St. vs #6 NC State](https://www.ncaa.com/game/5833690)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #A6192E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/i/iowa-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -22,7 +20,7 @@ Raleigh, North Carolina
 <td>  
 
 <h2>#1 NC State</h2>  
-&nbsp; Record: 18-5<br>  
+&nbsp; Record: 19-5<br>  
 &#10004; ITA: 6 (56.15)<br>  
 &#10004; Slam: 11 (91.65)<br>  
 &#10004; TRN: 10 (84.27)<br>  
@@ -37,10 +35,6 @@ Raleigh, North Carolina
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
-
-## Match Information  
-***N.C. State def. Iowa State 4-2***  
-Go to [Live Stats](http://sidearmstats.com/ncsu/wten/xlive.htm)  
 
 ## Predictions  
 
