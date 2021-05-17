@@ -9,7 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Mon, 5/17 at       TBA	[#11 Georgia vs #3 Tennessee](./matches/R4_17-24_UGA_vs_TENN.md) ... TENN (87%) / UGA (13%)
+- Thu, 5/20 at       TBA	[#11 Georgia vs #3 Tennessee](./matches/R4_17-24_UGA_vs_TENN.md) ... TENN (87%) / UGA (13%)
 ## Sweet Sixteen
 
 ### Intriguing Matches
