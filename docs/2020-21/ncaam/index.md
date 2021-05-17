@@ -5,6 +5,12 @@ Return to the [Home Page](../../index.md)
 
 ## Quarterfinals
 
+### Intriguing Matches
+
+The various metrics disagree on the outcome of these matches:
+
+- Mon, 5/17 at       TBA	[#7 TCU vs #2 Baylor](./matches/R4_25-32_TCU_vs_BAY.md) ... BAY (61%) / TCU (39%)
+
 ### Heavy Favorites
 
 The favorite is expected to win at least 4 out of every 5 these teams play:

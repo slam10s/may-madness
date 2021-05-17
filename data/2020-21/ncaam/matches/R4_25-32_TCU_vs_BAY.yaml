@@ -1,0 +1,131 @@
+Date: Monday, May 17
+Time: TBA
+Tournament: 2021 Division I Men's Tennis Championship
+Round: Quarterfinals
+Lines: 25-32
+Title: "#7 TCU vs #2 Baylor"
+URL: https://www.ncaa.com/game/5833429
+Winner: TBD
+Home:
+  Team: Baylor
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png
+  Entry: Regional Host
+  Draw Line: 64
+  Seeding:
+    Overall: 2
+    Region: 1
+  Ratings:
+    ITA: 1 (83.33)
+    SLM: 5 (99.19)
+    TRN: 6 (98.83)
+    MAS: 5 (8.86)
+    UTR: 10 (79.71)
+  Polls:
+    USTA: 3 (292.00)
+    Coach: 1
+Visitor:
+  Team: TCU
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/tcu.70.png
+  Entry: Regional Host
+  Draw Line: 49
+  Seeding:
+    Overall: 7
+    Region: 1
+  Ratings:
+    ITA: 7 (69.22)
+    SLM: 9 (97.80)
+    TRN: 9 (96.92)
+    MAS: 6 (8.80)
+    UTR: 9 (79.72)
+  Polls:
+    USTA: 11 (217.00)
+    Coach: 7
+Predictions:
+  AVG: BAY - Baylor (61%) def. TCU (39%)
+  SLM: "BAY - #5 Baylor (68%) def. #9 TCU (32%)"
+  TRN: "BAY - #6 Baylor (74%) def. #9 TCU (26%)"
+  MAS: "TCU - #6 TCU (58%) def. #5 Baylor (42%)"
+  LNUP: BAY - Baylor (60%) def. TCU (40%)
+  UTR: "TCU - #9 TCU (+0.01) def. #10 Baylor (-0.01)"
+  ITA: "BAY - #1 Baylor def. #7 TCU"
+  USTA: "BAY - #3 Baylor def. #11 TCU"
+  Coach: "BAY - #1 Baylor def. #7 TCU"
+  Seeding: "BAY - #2 Baylor def. #7 TCU"
+Lineups:
+  Predictions:
+    Average EWPs for BAY: 68%,74%,42%,60%
+    Average EWPs for TCU: 32%,26%,58%,40%
+    BAY wins 4 or more Singles points: 40%
+    TCU wins 4 or more Singles points: 26%
+    Winner decided by the Doubles point: 34%
+  Singles:
+    - Position: 1
+      BAY: Adrian Boitan - 14-4 at 1, 15-5 in duals, 15-5 overall
+      TCU: Alastair Gray - 6-4 at 1, 13-7 in duals, 13-7 overall
+      Predictions:
+        AVG: TCU - Gray (51%) def. Boitan (49%)
+        SLM: BAY - Boitan (59%) def. Gray (41%)
+        TRN: BAY - Boitan (60%) def. Gray (40%)
+        MAS: TCU - Gray (51%) def. Boitan (49%)
+        UTR: TCU - Gray (68%) def. Boitan (32%)
+        ITA: TCU - Gray (40.15) def. Boitan (31.04)
+    - Position: 2
+      BAY: Matias Soto - 12-3 at 2, 14-4 in duals, 18-4 overall
+      TCU: Luc Fomba - 7-3 at 2, 12-6 in duals, 12-6 overall
+      Predictions:
+        AVG: BAY - Soto (62%) def. Fomba (38%)
+        SLM: BAY - Soto (58%) def. Fomba (42%)
+        TRN: BAY - Soto (58%) def. Fomba (42%)
+        MAS: BAY - Soto (52%) def. Fomba (48%)
+        UTR: BAY - Soto (79%) def. Fomba (21%)
+        ITA: BAY - Soto (41.70) def. Fomba (35.12)
+    - Position: 3
+      BAY: Sven Lah - 6-7 at 3, 9-9 in duals, 11-12 overall
+      TCU: Sander Jong - 10-5 at 3, 10-7 in duals, 11-8 overall
+      Predictions:
+        AVG: TCU - Jong (76%) def. Lah (24%)
+        SLM: TCU - Jong (69%) def. Lah (31%)
+        TRN: TCU - Jong (77%) def. Lah (23%)
+        MAS: TCU - Jong (75%) def. Lah (25%)
+        UTR: TCU - Jong (82%) def. Lah (18%)
+        ITA: TCU - Jong (11.43) def. Lah (4.25)
+    - Position: 4
+      BAY: Nick Stachowiak - 8-2 at 4, 12-5 in duals, 19-7 overall
+      TCU: Jake Fearnley - 4-2 at 4, 8-3 in duals, 8-3 overall
+      Predictions:
+        AVG: TCU - Fearnley (61%) def. Stachowiak (39%)
+        SLM: TCU - Fearnley (58%) def. Stachowiak (42%)
+        TRN: TCU - Fearnley (65%) def. Stachowiak (35%)
+        MAS: TCU - Fearnley (54%) def. Stachowiak (46%)
+        UTR: TCU - Fearnley (68%) def. Stachowiak (32%)
+        ITA: TCU - Fearnley (5.67) def. Stachowiak (3.38)
+    - Position: 5
+      BAY: Charlie Broom - 17-2 at 5, 21-3 in duals, 24-6 overall
+      TCU: Tomas Jirousek - 1-1 at 5, 6-5 in duals, 7-6 overall
+      Predictions:
+        AVG: BAY - Broom (64%) def. Jirousek (36%)
+        SLM: BAY - Broom (57%) def. Jirousek (43%)
+        TRN: BAY - Broom (64%) def. Jirousek (36%)
+        MAS: BAY - Broom (60%) def. Jirousek (40%)
+        UTR: BAY - Broom (74%) def. Jirousek (26%)
+        ITA: TCU - Jirousek (6.98) def. Broom (3.72)
+    - Position: 6
+      BAY: Spencer Furman - 11-2 at 6, 18-2 in duals, 21-3 overall
+      TCU: Tadeas Paroulek - 1-3 at 6, 7-11 in duals, 7-12 overall
+      Predictions:
+        AVG: BAY - Furman (82%) def. Paroulek (18%)
+        SLM: BAY - Furman (74%) def. Paroulek (26%)
+        TRN: BAY - Furman (87%) def. Paroulek (13%)
+        MAS: BAY - Furman (81%) def. Paroulek (19%)
+        UTR: BAY - Furman (85%) def. Paroulek (15%)
+        ITA: BAY - Furman (4.24) def. Paroulek (1.35)
+  Doubles:
+    - Position: 1
+      BAY: Lah/Frantzen - 11-7 at 1, 11-7 in duals, 11-7 overall
+      TCU: Gray/Fomba - 10-6 at 1, 11-6 in duals, 13-6 overall
+    - Position: 2
+      BAY: Stachowiak/Soto - 7-1 at 2, 7-1 in duals, 10-1 overall
+      TCU: Jong/Paroulek - 8-1 at 2, 10-3 in duals, 11-4 overall
+    - Position: 3
+      BAY: Broom/Bass - 5-3 at 3, 5-3 in duals, 5-3 overall
+      TCU: Kruger/Fearnley - 2-1 at 3, 4-3 in duals, 4-3 overall
