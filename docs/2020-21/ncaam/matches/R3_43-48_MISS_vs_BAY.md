@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#15 Ole Miss</h2>  
-&nbsp; Record: 13-10<br>  
+&nbsp; Record: 13-11<br>  
 &nbsp; ITA: 14 (44.94)<br>  
 &nbsp; Slam: 19 (95.14)<br>  
 &nbsp; TRN: 18 (93.62)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Baylor</h2>  
-&nbsp; Record: 31-4<br>  
+&nbsp; Record: 32-4<br>  
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 5 (99.19)<br>  
 &#10004; TRN: 6 (98.83)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
+***Baylor def. Ole Miss 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82)  
 
 ## Predictions  
