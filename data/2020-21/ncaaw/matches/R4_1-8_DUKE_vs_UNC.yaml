@@ -1,0 +1,130 @@
+Date: Sunday, May 16
+Time: TBA
+Tournament: 2021 Division I Women's Tennis Championship
+Round: Quarterfinals
+Lines: 1-8
+Title: "Duke vs #1 North Carolina"
+URL: https://www.ncaa.com/game/5833703
+Winner: TBD
+Home:
+  Team: North Carolina
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png
+  Entry: Regional Host
+  Draw Line: 1
+  Seeding:
+    Overall: 1
+    Region: 1
+  Ratings:
+    ITA: 1 (87.72)
+    SLM: 1 (100.00)
+    TRN: 1 (100.00)
+    MAS: 1 (9.78)
+    UTR: 2 (65.05)
+  Polls:
+    USTA: 2 (325.00)
+    Coach: 1
+Visitor:
+  Team: Duke
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png
+  Entry: At-Large Bid
+  Draw Line: 13
+  Seeding:
+    Region: 2
+  Ratings:
+    ITA: 18 (43.05)
+    SLM: 13 (91.36)
+    TRN: 12 (87.05)
+    MAS: 9 (8.20)
+    UTR: 14 (62.33)
+  Polls:
+    USTA: 15 (162.00)
+    Coach: 20
+Predictions:
+  AVG: UNC - North Carolina (97%) def. Duke (3%)
+  SLM: "UNC - #1 North Carolina (99%) def. #13 Duke (1%)"
+  TRN: "UNC - #1 North Carolina (99%) def. #12 Duke (1%)"
+  MAS: "UNC - #1 North Carolina (91%) def. #9 Duke (9%)"
+  LNUP: UNC - North Carolina (97%) def. Duke (3%)
+  UTR: "UNC - #2 North Carolina (+2.72) def. #14 Duke (-2.72)"
+  ITA: "UNC - #1 North Carolina def. #18 Duke"
+  USTA: "UNC - #2 North Carolina def. #15 Duke"
+  Coach: "UNC - #1 North Carolina def. #20 Duke"
+  Seeding: "UNC - #1 North Carolina def. Duke"
+Lineups:
+  Predictions:
+    Average EWPs for UNC: 99%,99%,91%,97%
+    Average EWPs for DUKE: 1%,1%,9%,3%
+    UNC wins 4 or more Singles points: 88%
+    DUKE wins 4 or more Singles points: 2%
+    Winner decided by the Doubles point: 10%
+  Singles:
+    - Position: 1
+      UNC: Sara Daavettila - 10-1 at 1, 15-1 in duals, 15-1 overall
+      DUKE: Kelly Chen - 5-9 at 1, 8-10 in duals, 10-11 overall
+      Predictions:
+        AVG: UNC - Daavettila (88%) def. Chen (12%)
+        SLM: UNC - Daavettila (87%) def. Chen (13%)
+        TRN: UNC - Daavettila (97%) def. Chen (3%)
+        MAS: UNC - Daavettila (86%) def. Chen (14%)
+        UTR: UNC - Daavettila (83%) def. Chen (17%)
+        ITA: UNC - Daavettila (64.17) def. Chen (12.42)
+    - Position: 2
+      UNC: Alexa Graham - 5-0 at 2, 11-2 in duals, 16-2 overall
+      DUKE: Georgia Drummy - 7-3 at 2, 15-3 in duals, 17-4 overall
+      Predictions:
+        AVG: UNC - Graham (69%) def. Drummy (31%)
+        SLM: UNC - Graham (77%) def. Drummy (23%)
+        TRN: UNC - Graham (78%) def. Drummy (22%)
+        MAS: DUKE - Drummy (51%) def. Graham (49%)
+        UTR: UNC - Graham (74%) def. Drummy (26%)
+        ITA: DUKE - Drummy (24.14) def. Graham (15.03)
+    - Position: 3
+      UNC: Cameron Morra - 6-2 at 3, 15-6 in duals, 15-6 overall
+      DUKE: Chloe Beck - 11-1 at 3, 15-3 in duals, 17-4 overall
+      Predictions:
+        AVG: UNC - Morra (58%) def. Beck (42%)
+        SLM: UNC - Morra (67%) def. Beck (33%)
+        TRN: UNC - Morra (57%) def. Beck (43%)
+        MAS: DUKE - Beck (57%) def. Morra (43%)
+        UTR: UNC - Morra (68%) def. Beck (32%)
+        ITA: UNC - Morra (20.00) def. Beck (15.35)
+    - Position: 4
+      UNC: Elizabeth Scotty - 6-1 at 4, 11-2 in duals, 11-3 overall
+      DUKE: Meible Chi - 12-1 at 4, 18-2 in duals, 21-3 overall
+      Predictions:
+        AVG: UNC - Scotty (57%) def. Chi (43%)
+        SLM: UNC - Scotty (62%) def. Chi (38%)
+        TRN: DUKE - Chi (52%) def. Scotty (48%)
+        MAS: DUKE - Chi (51%) def. Scotty (49%)
+        UTR: UNC - Scotty (72%) def. Chi (28%)
+        ITA: DUKE - Chi (15.20) def. Scotty (5.93)
+    - Position: 5
+      UNC: Makenna Jones - 1-2 at 5, 13-2 in duals, 15-2 overall
+      DUKE: Margaryta Bilokin - 6-6 at 5, 11-8 in duals, 14-9 overall
+      Predictions:
+        AVG: UNC - Jones (88%) def. Bilokin (12%)
+        SLM: UNC - Jones (90%) def. Bilokin (10%)
+        TRN: UNC - Jones (96%) def. Bilokin (4%)
+        MAS: UNC - Jones (88%) def. Bilokin (12%)
+        UTR: UNC - Jones (79%) def. Bilokin (21%)
+        ITA: UNC - Jones (18.39) def. Bilokin (2.72)
+    - Position: 6
+      UNC: Fiona Crawley - 3-0 at 6, 23-0 in duals, 25-0 overall
+      DUKE: Karolina Berankova - 7-7 at 6, 9-9 in duals, 10-11 overall
+      Predictions:
+        AVG: UNC - Crawley (98%) def. Berankova (2%)
+        SLM: UNC - Crawley (99%) def. Berankova (1%)
+        TRN: UNC - Crawley (99%) def. Berankova (1%)
+        MAS: UNC - Crawley (97%) def. Berankova (3%)
+        UTR: UNC - Crawley (96%) def. Berankova (4%)
+        ITA: "DUKE - # Berankova def. Crawley (16.89)"
+  Doubles:
+    - Position: 1
+      UNC: Daavettila/Morra - 10-1 at 1, 10-1 in duals, 10-1 overall
+      DUKE: Chi/Bilokin - 8-4 at 1, 9-4 in duals, 11-4 overall
+    - Position: 2
+      UNC: Jones/Scotty - 8-1 at 2, 10-1 in duals, 10-1 overall
+      DUKE: Beck/Berankova - 11-2 at 2, 12-2 in duals, 15-3 overall
+    - Position: 3
+      UNC: Sanford/Tran - 12-3 at 3, 16-3 in duals, 16-3 overall
+      DUKE: Chen/Drummy - 12-2 at 3, 13-2 in duals, 14-4 overall

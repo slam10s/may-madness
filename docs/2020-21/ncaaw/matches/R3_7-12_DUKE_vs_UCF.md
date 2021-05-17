@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>Duke</h2>  
-&nbsp; Record: 17-6<br>  
+&nbsp; Record: 18-6<br>  
 &nbsp; ITA: 18 (43.05)<br>  
 &nbsp; Slam: 13 (91.36)<br>  
 &#10004; TRN: 12 (87.05)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#9 UCF</h2>  
-&nbsp; Record: 20-4<br>  
+&nbsp; Record: 20-5<br>  
 &#10004; ITA: 9 (52.03)<br>  
 &#10004; Slam: 12 (91.59)<br>  
 &nbsp; TRN: 14 (86.94)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
+***Duke def. Central Florida 4-3***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  

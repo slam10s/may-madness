@@ -17,13 +17,14 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Wed, 5/19 at       TBA	[#6 NC State vs #3 Georgia](./matches/R4_17-24_NCST_vs_UGA.md) ... UGA (92%) / NCST (8%)
 - Wed, 5/19 at       TBA	[#7 Florida St. vs #2 Texas](./matches/R4_25-32_FSU_vs_TEX.md) ... TEX (96%) / FSU (4%)
+- Sun, 5/16 at       TBA	[Duke vs #1 North Carolina](./matches/R4_1-8_DUKE_vs_UNC.md) ... UNC (97%) / DUKE (3%)
 ## Sweet Sixteen
 
 ### Intriguing Matches
 
 The various metrics disagree on the outcome of these matches:
 
-- Sun, 5/16 at  7:00 EDT	[Duke vs #9 UCF](./matches/R3_7-12_DUKE_vs_UCF.md) ... UCF (39%) / <i>DUKE (61%)</i>
+- Sun, 5/16 at  7:00 EDT	[Duke vs #9 UCF](./matches/R3_7-12_DUKE_vs_UCF.md) ... UCF (3) / <b><i>DUKE (4)</i></b>
 - Sun, 5/16 at 10:00 EDT	[Southern California vs #6 NC State](./matches/R3_31-36_USC_vs_NCST.md) ... <b>NCST (4)</b> / USC (1)
 
 The metrics agree on the winner, but not by a lot:
