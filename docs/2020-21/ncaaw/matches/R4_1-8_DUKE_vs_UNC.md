@@ -1,6 +1,8 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Monday, May 17](../../schedule/05-17.md) at TBA  
+[Wednesday, May 19](../../schedule/05-19.md) at TBA  
 [2021 Division I Women's Tennis Championship](../index.md)  
+USTA National Campus  
+Orlando, Florida  
 ## [Duke vs #1 North Carolina](https://www.ncaa.com/game/5833703)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #002D72 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/d/duke.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #7BAFD4 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -35,7 +37,10 @@ Quarterfinals[](#top)<a name="top"></a>
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
+
+## Match Information  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  
 
@@ -154,4 +159,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)  
