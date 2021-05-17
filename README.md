@@ -17,6 +17,7 @@ You can find a complete listing of the predictions for each match here:
 
 Here's daily listings of the matches by start time:
 
+- [Thursday, May 20](./docs/2020-21/schedule/05-20.md) - Quarterfinals (Men)
 - [Wednesday, May 19](./docs/2020-21/schedule/05-19.md) - Quarterfinals (Women)
 - [Monday, May 17](./docs/2020-21/schedule/05-17.md) - Sweet 16 (Men)
 - [Sunday, May 16](./docs/2020-21/schedule/05-16.md) - Sweet 16 (Women)
