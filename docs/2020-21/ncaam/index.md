@@ -9,6 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
+- Mon, 5/17 at       TBA	[#12 Southern California vs #4 Texas](./matches/R4_9-16_USC_vs_TEX.md) ... TEX (49%) / <i>USC (51%)</i>
 - Thu, 5/20 at       TBA	[#7 TCU vs #2 Baylor](./matches/R4_25-32_TCU_vs_BAY.md) ... BAY (61%) / TCU (39%)
 
 ### Heavy Favorites

@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#13 South Carolina</h2>  
-&nbsp; Record: 17-9<br>  
+&nbsp; Record: 17-10<br>  
 &nbsp; ITA: 13 (51.06)<br>  
 &nbsp; Slam: 13 (96.17)<br>  
 &nbsp; TRN: 16 (94.52)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#4 Texas</h2>  
-&nbsp; Record: 22-5<br>  
+&nbsp; Record: 23-5<br>  
 &#10004; ITA: 4 (74.24)<br>  
 &#10004; Slam: 8 (97.83)<br>  
 &#10004; TRN: 7 (97.91)<br>  
