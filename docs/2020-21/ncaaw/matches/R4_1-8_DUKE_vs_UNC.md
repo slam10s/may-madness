@@ -11,10 +11,10 @@ Orlando, Florida
 <h2>Duke</h2>  
 &nbsp; Record: 18-6<br>  
 &nbsp; ITA: 18 (43.05)<br>  
-&nbsp; Slam: 13 (91.36)<br>  
-&nbsp; TRN: 12 (87.05)<br>  
+&nbsp; Slam: 12 (91.26)<br>  
+&nbsp; TRN: 13 (86.94)<br>  
 &nbsp; Massey: 9 (8.20)<br>  
-&nbsp; UTR: 14 (62.33)<br>  
+&nbsp; UTR: 14 (62.23)<br>  
 &nbsp; USTA Poll: 15 (162.00)<br>  
 &nbsp; Coaches Poll: 20<br>  
 <br>  
@@ -28,7 +28,7 @@ Orlando, Florida
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
 &#10004; Massey: 1 (9.78)<br>  
-&#10004; UTR: 2 (65.05)<br>  
+&#10004; UTR: 2 (65.02)<br>  
 &#10004; USTA Poll: 2 (325.00)<br>  
 &#10004; Coaches Poll: 1<br>  
 <br>  
@@ -46,11 +46,11 @@ Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)
 
 Ranks listed here are the metric's ranking within the field of 64:  
 - Composite: ***UNC*** - North Carolina (97%) def. Duke (3%)  
-- Slam: ***UNC*** - #1 North Carolina (99%) def. #13 Duke (1%)  
-- TRN: ***UNC*** - #1 North Carolina (99%) def. #12 Duke (1%)  
+- Slam: ***UNC*** - #1 North Carolina (99%) def. #12 Duke (1%)  
+- TRN: ***UNC*** - #1 North Carolina (99%) def. #13 Duke (1%)  
 - Massey: ***UNC*** - #1 North Carolina (91%) def. #9 Duke (9%)  
-- Lineup: ***UNC*** - North Carolina (97%) def. Duke (3%)  
-- UTR: ***UNC*** - #2 North Carolina (+2.72) def. #14 Duke (-2.72)  
+- Lineup: ***UNC*** - North Carolina (98%) def. Duke (2%)  
+- UTR: ***UNC*** - #2 North Carolina (+2.79) def. #14 Duke (-2.79)  
 - ITA: ***UNC*** - #1 North Carolina def. #18 Duke  
 - USTA Poll: ***UNC*** - #2 North Carolina def. #15 Duke  
 - Coaches Poll: ***UNC*** - #1 North Carolina def. #20 Duke  
@@ -66,8 +66,8 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Kelly Chen (DUKE) - 5-9 at #1, 8-10 in duals, 10-11 overall<br>Sara Daavettila (UNC) - 10-1 at #1, 15-1 in duals, 15-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Daavettila (88%) def. Chen (12%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Daavettila (87%) def. Chen (13%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Daavettila (89%) def. Chen (11%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Daavettila (90%) def. Chen (10%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Daavettila (97%) def. Chen (3%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Daavettila (86%) def. Chen (14%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Daavettila (83%) def. Chen (17%)</li>  
@@ -79,18 +79,18 @@ Click on a Singles match to show individual predections for each line.
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>UNC</i></b> - Graham (69%) def. Drummy (31%)</li>  
 <li>Slam: <b><i>UNC</i></b> - Graham (77%) def. Drummy (23%)</li>  
-<li>TRN: <b><i>UNC</i></b> - Graham (78%) def. Drummy (22%)</li>  
+<li>TRN: <b><i>UNC</i></b> - Graham (77%) def. Drummy (23%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Drummy (51%) def. Graham (49%)</li>  
-<li>UTR: <b><i>UNC</i></b> - Graham (74%) def. Drummy (26%)</li>  
+<li>UTR: <b><i>UNC</i></b> - Graham (75%) def. Drummy (25%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Drummy (24.14) def. Graham (15.03)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Chloe Beck (DUKE) - 11-1 at #3, 15-3 in duals, 17-4 overall<br>Cameron Morra (UNC) - 6-2 at #3, 15-6 in duals, 15-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Morra (58%) def. Beck (42%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Morra (67%) def. Beck (33%)</li>  
-<li>TRN: <b><i>UNC</i></b> - Morra (57%) def. Beck (43%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Morra (59%) def. Beck (41%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Morra (66%) def. Beck (34%)</li>  
+<li>TRN: <b><i>UNC</i></b> - Morra (59%) def. Beck (41%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Beck (57%) def. Morra (43%)</li>  
 <li>UTR: <b><i>UNC</i></b> - Morra (68%) def. Beck (32%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Morra (20.00) def. Beck (15.35)</li>  
@@ -99,22 +99,22 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Meible Chi (DUKE) - 12-1 at #4, 18-2 in duals, 21-3 overall<br>Elizabeth Scotty (UNC) - 6-1 at #4, 11-2 in duals, 11-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Scotty (57%) def. Chi (43%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Scotty (62%) def. Chi (38%)</li>  
-<li>TRN: <b><i>DUKE</i></b> - Chi (52%) def. Scotty (48%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Scotty (59%) def. Chi (41%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Scotty (60%) def. Chi (40%)</li>  
+<li>TRN: <b><i>UNC</i></b> - Scotty (53%) def. Chi (47%)</li>  
 <li>Massey: <b><i>DUKE</i></b> - Chi (51%) def. Scotty (49%)</li>  
-<li>UTR: <b><i>UNC</i></b> - Scotty (72%) def. Chi (28%)</li>  
+<li>UTR: <b><i>UNC</i></b> - Scotty (74%) def. Chi (26%)</li>  
 <li>ITA: <b><i>DUKE</i></b> - Chi (15.20) def. Scotty (5.93)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Margaryta Bilokin (DUKE) - 6-6 at #5, 11-8 in duals, 14-9 overall<br>Makenna Jones (UNC) - 1-2 at #5, 13-2 in duals, 15-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UNC</i></b> - Jones (88%) def. Bilokin (12%)</li>  
-<li>Slam: <b><i>UNC</i></b> - Jones (90%) def. Bilokin (10%)</li>  
+<li>Composite: <b><i>UNC</i></b> - Jones (89%) def. Bilokin (11%)</li>  
+<li>Slam: <b><i>UNC</i></b> - Jones (91%) def. Bilokin (9%)</li>  
 <li>TRN: <b><i>UNC</i></b> - Jones (96%) def. Bilokin (4%)</li>  
 <li>Massey: <b><i>UNC</i></b> - Jones (88%) def. Bilokin (12%)</li>  
-<li>UTR: <b><i>UNC</i></b> - Jones (79%) def. Bilokin (21%)</li>  
+<li>UTR: <b><i>UNC</i></b> - Jones (80%) def. Bilokin (20%)</li>  
 <li>ITA: <b><i>UNC</i></b> - Jones (18.39) def. Bilokin (2.72)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -151,11 +151,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- North Carolina should win 4 or more singles matches *88%* of the time.  
-- Duke should win 4 or more singles matches *2%* of the time.  
+- North Carolina should win 4 or more singles matches *89%* of the time.  
+- Duke should win 4 or more singles matches *1%* of the time.  
 - The winner of the doubles point should decide the match the other *10%* of the time.  
-- If North Carolina wins the doubles point, their chances of winning the dual improve to *98%*.  
-- If Duke wins the doubles point, their chances of winning the dual improve to *12%*.  
+- If North Carolina wins the doubles point, their chances of winning the dual improve to *99%*.  
+- If Duke wins the doubles point, their chances of winning the dual improve to *11%*.  
   
 ------
 

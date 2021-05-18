@@ -9,15 +9,15 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Thu, 5/20 at  5:30 EDT	[#12 Southern California vs #4 Texas](./matches/R4_9-16_USC_vs_TEX.md) ... TEX (49%) / <i>USC (51%)</i>
-- Thu, 5/20 at  2:00 EDT	[#7 TCU vs #2 Baylor](./matches/R4_25-32_TCU_vs_BAY.md) ... BAY (61%) / TCU (39%)
+- Thu, 5/20 at  5:30 EDT	[#12 Southern California vs #4 Texas](./matches/R4_9-16_USC_vs_TEX.md) ... TEX (47%) / <i>USC (53%)</i>
+- Thu, 5/20 at  2:00 EDT	[#7 TCU vs #2 Baylor](./matches/R4_25-32_TCU_vs_BAY.md) ... BAY (58%) / TCU (42%)
 
 ### Heavy Favorites
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Thu, 5/20 at  7:30 EDT	[#8 Texas A&M vs #1 Florida](./matches/R4_1-8_AM_vs_FLA.md) ... FLA (85%) / A&M (15%)
-- Thu, 5/20 at 11:00 EDT	[#11 Georgia vs #3 Tennessee](./matches/R4_17-24_UGA_vs_TENN.md) ... TENN (87%) / UGA (13%)
+- Thu, 5/20 at 11:00 EDT	[#11 Georgia vs #3 Tennessee](./matches/R4_17-24_UGA_vs_TENN.md) ... TENN (85%) / UGA (15%)
+- Thu, 5/20 at  7:30 EDT	[#8 Texas A&M vs #1 Florida](./matches/R4_1-8_AM_vs_FLA.md) ... FLA (86%) / A&M (14%)
 ## Sweet Sixteen
 
 ### Intriguing Matches

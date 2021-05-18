@@ -9,7 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Wed, 5/19 at  5:30 EDT	[#5 Pepperdine vs #4 UCLA](./matches/R4_9-16_PEPP_vs_UCLA.md) ... UCLA (53%) / PEPP (47%)
+- Wed, 5/19 at  5:30 EDT	[#5 Pepperdine vs #4 UCLA](./matches/R4_9-16_PEPP_vs_UCLA.md) ... UCLA (52%) / PEPP (48%)
 
 ### Heavy Favorites
 

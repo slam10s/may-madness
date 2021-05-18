@@ -16,10 +16,10 @@ Home:
     Region: 1
   Ratings:
     ITA: 2 (79.31)
-    SLM: 2 (98.39)
-    TRN: 2 (97.57)
+    SLM: 2 (98.40)
+    TRN: 2 (97.58)
     MAS: 2 (9.42)
-    UTR: 1 (65.53)
+    UTR: 1 (65.46)
   Polls:
     USTA: 3 (312.00)
     Coach: 2
@@ -33,20 +33,20 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 7 (55.39)
-    SLM: 8 (92.07)
-    TRN: 9 (87.72)
+    SLM: 7 (92.00)
+    TRN: 9 (87.52)
     MAS: 10 (8.15)
-    UTR: 11 (62.64)
+    UTR: 11 (62.52)
   Polls:
     USTA: 13 (181.00)
     Coach: 7
 Predictions:
   AVG: TEX - Texas (96%) def. Florida St. (4%)
-  SLM: "TEX - #2 Texas (97%) def. #8 Florida St. (3%)"
+  SLM: "TEX - #2 Texas (97%) def. #7 Florida St. (3%)"
   TRN: "TEX - #2 Texas (99%) def. #9 Florida St. (1%)"
   MAS: "TEX - #2 Texas (92%) def. #10 Florida St. (8%)"
   LNUP: TEX - Texas (97%) def. Florida St. (3%)
-  UTR: "TEX - #1 Texas (+2.89) def. #11 Florida St. (-2.89)"
+  UTR: "TEX - #1 Texas (+2.94) def. #11 Florida St. (-2.94)"
   ITA: "TEX - #2 Texas def. #7 Florida St."
   USTA: "TEX - #3 Texas def. #13 Florida St."
   Coach: "TEX - #2 Texas def. #7 Florida St."
@@ -55,37 +55,37 @@ Lineups:
   Predictions:
     Average EWPs for TEX: 97%,99%,92%,97%
     Average EWPs for FSU: 3%,1%,8%,3%
-    TEX wins 4 or more Singles points: 87%
+    TEX wins 4 or more Singles points: 88%
     FSU wins 4 or more Singles points: 2%
-    Winner decided by the Doubles point: 11%
+    Winner decided by the Doubles point: 10%
   Singles:
     - Position: 1
       TEX: Peyton Stearns - 10-3 at 1, 10-3 in duals, 14-6 overall
       FSU: Giulia Pairone - 11-8 at 1, 11-8 in duals, 13-8 overall
       Predictions:
-        AVG: TEX - Stearns (57%) def. Pairone (43%)
-        SLM: FSU - Pairone (51%) def. Stearns (49%)
-        TRN: FSU - Pairone (53%) def. Stearns (47%)
+        AVG: TEX - Stearns (59%) def. Pairone (41%)
+        SLM: TEX - Stearns (51%) def. Pairone (49%)
+        TRN: TEX - Stearns (51%) def. Pairone (49%)
         MAS: TEX - Stearns (58%) def. Pairone (42%)
-        UTR: TEX - Stearns (76%) def. Pairone (24%)
+        UTR: TEX - Stearns (75%) def. Pairone (25%)
         ITA: FSU - Pairone (30.67) def. Stearns (16.38)
     - Position: 2
       TEX: Anna Turati - 9-2 at 2, 17-3 in duals, 17-3 overall
       FSU: Emmanuelle Salas - 5-6 at 2, 7-9 in duals, 7-10 overall
       Predictions:
-        AVG: TEX - Turati (85%) def. Salas (15%)
-        SLM: TEX - Turati (90%) def. Salas (10%)
-        TRN: TEX - Turati (90%) def. Salas (10%)
+        AVG: TEX - Turati (87%) def. Salas (13%)
+        SLM: TEX - Turati (91%) def. Salas (9%)
+        TRN: TEX - Turati (92%) def. Salas (8%)
         MAS: TEX - Turati (78%) def. Salas (22%)
-        UTR: TEX - Turati (81%) def. Salas (19%)
+        UTR: TEX - Turati (85%) def. Salas (15%)
         ITA: TEX - Turati (17.31) def. Salas (14.35)
     - Position: 3
       TEX: Lulu Sun - 12-1 at 3, 18-2 in duals, 18-2 overall
       FSU: Nandini Das - 6-4 at 3, 11-8 in duals, 12-8 overall
       Predictions:
         AVG: TEX - Sun (88%) def. Das (12%)
-        SLM: TEX - Sun (86%) def. Das (14%)
-        TRN: TEX - Sun (93%) def. Das (7%)
+        SLM: TEX - Sun (87%) def. Das (13%)
+        TRN: TEX - Sun (92%) def. Das (8%)
         MAS: TEX - Sun (78%) def. Das (22%)
         UTR: TEX - Sun (95%) def. Das (5%)
         ITA: TEX - Sun (9.34) def. Das (2.52)
@@ -93,9 +93,9 @@ Lineups:
       TEX: Charlotte Chavatipon - 16-1 at 4, 20-1 in duals, 23-1 overall
       FSU: Petra Hule - 4-0 at 4, 12-3 in duals, 13-3 overall
       Predictions:
-        AVG: TEX - Chavatipon (84%) def. Hule (16%)
+        AVG: TEX - Chavatipon (83%) def. Hule (17%)
         SLM: TEX - Chavatipon (87%) def. Hule (13%)
-        TRN: TEX - Chavatipon (90%) def. Hule (10%)
+        TRN: TEX - Chavatipon (87%) def. Hule (13%)
         MAS: TEX - Chavatipon (74%) def. Hule (26%)
         UTR: TEX - Chavatipon (85%) def. Hule (15%)
         ITA: TEX - Chavatipon (7.87) def. Hule (3.24)
@@ -103,9 +103,9 @@ Lineups:
       TEX: Kylie Collins - 9-2 at 5, 16-2 in duals, 16-2 overall
       FSU: Victoria Allen - 7-0 at 5, 11-4 in duals, 12-5 overall
       Predictions:
-        AVG: TEX - Collins (73%) def. Allen (27%)
-        SLM: TEX - Collins (67%) def. Allen (33%)
-        TRN: TEX - Collins (75%) def. Allen (25%)
+        AVG: TEX - Collins (72%) def. Allen (28%)
+        SLM: TEX - Collins (66%) def. Allen (34%)
+        TRN: TEX - Collins (73%) def. Allen (27%)
         MAS: TEX - Collins (65%) def. Allen (35%)
         UTR: TEX - Collins (84%) def. Allen (16%)
         ITA: TEX - Collins (8.04) def. Allen (2.90)
@@ -113,11 +113,11 @@ Lineups:
       TEX: Fernanda Labraña - 5-1 at 6, 14-1 in duals, 21-2 overall
       FSU: Anna Arkadianou - 0-0 at 6, 3-4 in duals, 4-5 overall
       Predictions:
-        AVG: TEX - Labraña (72%) def. Arkadianou (28%)
+        AVG: TEX - Labraña (73%) def. Arkadianou (27%)
         SLM: TEX - Labraña (70%) def. Arkadianou (30%)
         TRN: TEX - Labraña (89%) def. Arkadianou (11%)
         MAS: TEX - Labraña (68%) def. Arkadianou (32%)
-        UTR: TEX - Labraña (61%) def. Arkadianou (39%)
+        UTR: TEX - Labraña (66%) def. Arkadianou (34%)
         ITA: "FSU - # Arkadianou def. Labraña (4.28)"
   Doubles:
     - Position: 1

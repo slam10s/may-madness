@@ -19,7 +19,7 @@ Home:
     SLM: 1 (100.00)
     TRN: 1 (100.00)
     MAS: 1 (9.78)
-    UTR: 2 (65.05)
+    UTR: 2 (65.02)
   Polls:
     USTA: 2 (325.00)
     Coach: 1
@@ -32,38 +32,38 @@ Visitor:
     Region: 2
   Ratings:
     ITA: 18 (43.05)
-    SLM: 13 (91.36)
-    TRN: 12 (87.05)
+    SLM: 12 (91.26)
+    TRN: 13 (86.94)
     MAS: 9 (8.20)
-    UTR: 14 (62.33)
+    UTR: 14 (62.23)
   Polls:
     USTA: 15 (162.00)
     Coach: 20
 Predictions:
   AVG: UNC - North Carolina (97%) def. Duke (3%)
-  SLM: "UNC - #1 North Carolina (99%) def. #13 Duke (1%)"
-  TRN: "UNC - #1 North Carolina (99%) def. #12 Duke (1%)"
+  SLM: "UNC - #1 North Carolina (99%) def. #12 Duke (1%)"
+  TRN: "UNC - #1 North Carolina (99%) def. #13 Duke (1%)"
   MAS: "UNC - #1 North Carolina (91%) def. #9 Duke (9%)"
-  LNUP: UNC - North Carolina (97%) def. Duke (3%)
-  UTR: "UNC - #2 North Carolina (+2.72) def. #14 Duke (-2.72)"
+  LNUP: UNC - North Carolina (98%) def. Duke (2%)
+  UTR: "UNC - #2 North Carolina (+2.79) def. #14 Duke (-2.79)"
   ITA: "UNC - #1 North Carolina def. #18 Duke"
   USTA: "UNC - #2 North Carolina def. #15 Duke"
   Coach: "UNC - #1 North Carolina def. #20 Duke"
   Seeding: "UNC - #1 North Carolina def. Duke"
 Lineups:
   Predictions:
-    Average EWPs for UNC: 99%,99%,91%,97%
-    Average EWPs for DUKE: 1%,1%,9%,3%
-    UNC wins 4 or more Singles points: 88%
-    DUKE wins 4 or more Singles points: 2%
+    Average EWPs for UNC: 99%,99%,91%,98%
+    Average EWPs for DUKE: 1%,1%,9%,2%
+    UNC wins 4 or more Singles points: 89%
+    DUKE wins 4 or more Singles points: 1%
     Winner decided by the Doubles point: 10%
   Singles:
     - Position: 1
       UNC: Sara Daavettila - 10-1 at 1, 15-1 in duals, 15-1 overall
       DUKE: Kelly Chen - 5-9 at 1, 8-10 in duals, 10-11 overall
       Predictions:
-        AVG: UNC - Daavettila (88%) def. Chen (12%)
-        SLM: UNC - Daavettila (87%) def. Chen (13%)
+        AVG: UNC - Daavettila (89%) def. Chen (11%)
+        SLM: UNC - Daavettila (90%) def. Chen (10%)
         TRN: UNC - Daavettila (97%) def. Chen (3%)
         MAS: UNC - Daavettila (86%) def. Chen (14%)
         UTR: UNC - Daavettila (83%) def. Chen (17%)
@@ -74,17 +74,17 @@ Lineups:
       Predictions:
         AVG: UNC - Graham (69%) def. Drummy (31%)
         SLM: UNC - Graham (77%) def. Drummy (23%)
-        TRN: UNC - Graham (78%) def. Drummy (22%)
+        TRN: UNC - Graham (77%) def. Drummy (23%)
         MAS: DUKE - Drummy (51%) def. Graham (49%)
-        UTR: UNC - Graham (74%) def. Drummy (26%)
+        UTR: UNC - Graham (75%) def. Drummy (25%)
         ITA: DUKE - Drummy (24.14) def. Graham (15.03)
     - Position: 3
       UNC: Cameron Morra - 6-2 at 3, 15-6 in duals, 15-6 overall
       DUKE: Chloe Beck - 11-1 at 3, 15-3 in duals, 17-4 overall
       Predictions:
-        AVG: UNC - Morra (58%) def. Beck (42%)
-        SLM: UNC - Morra (67%) def. Beck (33%)
-        TRN: UNC - Morra (57%) def. Beck (43%)
+        AVG: UNC - Morra (59%) def. Beck (41%)
+        SLM: UNC - Morra (66%) def. Beck (34%)
+        TRN: UNC - Morra (59%) def. Beck (41%)
         MAS: DUKE - Beck (57%) def. Morra (43%)
         UTR: UNC - Morra (68%) def. Beck (32%)
         ITA: UNC - Morra (20.00) def. Beck (15.35)
@@ -92,21 +92,21 @@ Lineups:
       UNC: Elizabeth Scotty - 6-1 at 4, 11-2 in duals, 11-3 overall
       DUKE: Meible Chi - 12-1 at 4, 18-2 in duals, 21-3 overall
       Predictions:
-        AVG: UNC - Scotty (57%) def. Chi (43%)
-        SLM: UNC - Scotty (62%) def. Chi (38%)
-        TRN: DUKE - Chi (52%) def. Scotty (48%)
+        AVG: UNC - Scotty (59%) def. Chi (41%)
+        SLM: UNC - Scotty (60%) def. Chi (40%)
+        TRN: UNC - Scotty (53%) def. Chi (47%)
         MAS: DUKE - Chi (51%) def. Scotty (49%)
-        UTR: UNC - Scotty (72%) def. Chi (28%)
+        UTR: UNC - Scotty (74%) def. Chi (26%)
         ITA: DUKE - Chi (15.20) def. Scotty (5.93)
     - Position: 5
       UNC: Makenna Jones - 1-2 at 5, 13-2 in duals, 15-2 overall
       DUKE: Margaryta Bilokin - 6-6 at 5, 11-8 in duals, 14-9 overall
       Predictions:
-        AVG: UNC - Jones (88%) def. Bilokin (12%)
-        SLM: UNC - Jones (90%) def. Bilokin (10%)
+        AVG: UNC - Jones (89%) def. Bilokin (11%)
+        SLM: UNC - Jones (91%) def. Bilokin (9%)
         TRN: UNC - Jones (96%) def. Bilokin (4%)
         MAS: UNC - Jones (88%) def. Bilokin (12%)
-        UTR: UNC - Jones (79%) def. Bilokin (21%)
+        UTR: UNC - Jones (80%) def. Bilokin (20%)
         ITA: UNC - Jones (18.39) def. Bilokin (2.72)
     - Position: 6
       UNC: Fiona Crawley - 3-0 at 6, 23-0 in duals, 25-0 overall

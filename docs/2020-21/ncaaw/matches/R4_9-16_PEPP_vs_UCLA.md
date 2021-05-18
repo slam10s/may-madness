@@ -11,10 +11,10 @@ Orlando, Florida
 <h2>#5 Pepperdine</h2>  
 &nbsp; Record: 23-3<br>  
 &nbsp; ITA: 5 (60.46)<br>  
-&nbsp; Slam: 5 (93.53)<br>  
-&#10004; TRN: 4 (89.84)<br>  
+&nbsp; Slam: 5 (93.64)<br>  
+&#10004; TRN: 4 (90.08)<br>  
 &nbsp; Massey: 5 (8.76)<br>  
-&#10004; UTR: 3 (64.87)<br>  
+&nbsp; UTR: 6 (64.15)<br>  
 &nbsp; USTA Poll: 6 (276.00)<br>  
 &#10004; Coaches Poll: 4<br>  
 <br>  
@@ -25,10 +25,10 @@ Orlando, Florida
 <h2>#4 UCLA</h2>  
 &nbsp; Record: 22-4<br>  
 &#10004; ITA: 4 (61.62)<br>  
-&#10004; Slam: 4 (93.75)<br>  
-&nbsp; TRN: 5 (89.32)<br>  
+&#10004; Slam: 4 (93.76)<br>  
+&nbsp; TRN: 5 (89.44)<br>  
 &#10004; Massey: 4 (8.90)<br>  
-&nbsp; UTR: 5 (64.41)<br>  
+&#10004; UTR: 4 (64.38)<br>  
 &#10004; USTA Poll: 5 (280.00)<br>  
 &nbsp; Coaches Poll: 5<br>  
 <br>  
@@ -45,12 +45,12 @@ Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***UCLA*** - UCLA (53%) def. Pepperdine (47%)  
-- Slam: ***UCLA*** - #4 UCLA (53%) def. #5 Pepperdine (47%)  
-- TRN: ***PEPP*** - #4 Pepperdine (57%) def. #5 UCLA (43%)  
+- Composite: ***UCLA*** - UCLA (52%) def. Pepperdine (48%)  
+- Slam: ***UCLA*** - #4 UCLA (51%) def. #5 Pepperdine (49%)  
+- TRN: ***PEPP*** - #4 Pepperdine (59%) def. #5 UCLA (41%)  
 - Massey: ***UCLA*** - #4 UCLA (70%) def. #5 Pepperdine (30%)  
 - Lineup: ***PEPP*** - Pepperdine (51%) def. UCLA (49%)  
-- UTR: ***PEPP*** - #3 Pepperdine (+0.46) def. #5 UCLA (-0.46)  
+- UTR: ***UCLA*** - #4 UCLA (+0.23) def. #6 Pepperdine (-0.23)  
 - ITA: ***UCLA*** - #4 UCLA def. #5 Pepperdine  
 - USTA Poll: ***UCLA*** - #5 UCLA def. #6 Pepperdine  
 - Coaches Poll: ***PEPP*** - #4 Pepperdine def. #5 UCLA  
@@ -66,11 +66,11 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Ashley Lahey (PEPP) - 7-3 at #1, 10-4 in duals, 10-4 overall<br>Abbey Forbes (UCLA) - 17-2 at #1, 18-2 in duals, 18-2 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Forbes (79%) def. Lahey (21%)</li>  
-<li>Slam: <b><i>UCLA</i></b> - Forbes (82%) def. Lahey (18%)</li>  
-<li>TRN: <b><i>UCLA</i></b> - Forbes (80%) def. Lahey (20%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Forbes (80%) def. Lahey (20%)</li>  
+<li>Slam: <b><i>UCLA</i></b> - Forbes (84%) def. Lahey (16%)</li>  
+<li>TRN: <b><i>UCLA</i></b> - Forbes (81%) def. Lahey (19%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Forbes (76%) def. Lahey (24%)</li>  
-<li>UTR: <b><i>UCLA</i></b> - Forbes (78%) def. Lahey (22%)</li>  
+<li>UTR: <b><i>UCLA</i></b> - Forbes (81%) def. Lahey (19%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Forbes (46.46) def. Lahey (7.80)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -78,8 +78,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Jessica Failla (PEPP) - 6-1 at #2, 14-3 in duals, 14-3 overall<br>Jada Hart (UCLA) - 8-1 at #2, 11-2 in duals, 11-2 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>PEPP</i></b> - Failla (57%) def. Hart (43%)</li>  
-<li>Slam: <b><i>PEPP</i></b> - Failla (60%) def. Hart (40%)</li>  
-<li>TRN: <b><i>PEPP</i></b> - Failla (64%) def. Hart (36%)</li>  
+<li>Slam: <b><i>PEPP</i></b> - Failla (61%) def. Hart (39%)</li>  
+<li>TRN: <b><i>PEPP</i></b> - Failla (63%) def. Hart (37%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Hart (63%) def. Failla (37%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Failla (69%) def. Hart (31%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Failla (23.38) def. Hart (12.21)</li>  
@@ -89,7 +89,7 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Taisiya Pachkaleva (PEPP) - 8-1 at #3, 22-1 in duals, 22-1 overall<br>Elysia Bolton (UCLA) - 5-2 at #3, 9-3 in duals, 9-3 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>PEPP</i></b> - Pachkaleva (59%) def. Bolton (41%)</li>  
-<li>Slam: <b><i>PEPP</i></b> - Pachkaleva (51%) def. Bolton (49%)</li>  
+<li>Slam: <b><i>PEPP</i></b> - Pachkaleva (52%) def. Bolton (48%)</li>  
 <li>TRN: <b><i>PEPP</i></b> - Pachkaleva (74%) def. Bolton (26%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Bolton (52%) def. Pachkaleva (48%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Pachkaleva (64%) def. Bolton (36%)</li>  
@@ -100,8 +100,8 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Shiori Fukuda (PEPP) - 6-0 at #4, 14-4 in duals, 14-4 overall<br>Vivian Wolff (UCLA) - 9-4 at #4, 10-6 in duals, 10-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>PEPP</i></b> - Fukuda (65%) def. Wolff (35%)</li>  
-<li>Slam: <b><i>PEPP</i></b> - Fukuda (70%) def. Wolff (30%)</li>  
-<li>TRN: <b><i>PEPP</i></b> - Fukuda (74%) def. Wolff (26%)</li>  
+<li>Slam: <b><i>PEPP</i></b> - Fukuda (72%) def. Wolff (28%)</li>  
+<li>TRN: <b><i>PEPP</i></b> - Fukuda (76%) def. Wolff (24%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Wolff (60%) def. Fukuda (40%)</li>  
 <li>UTR: <b><i>PEPP</i></b> - Fukuda (74%) def. Wolff (26%)</li>  
 <li>ITA: <b><i>PEPP</i></b> - Fukuda (4.88) def. Wolff (2.06)</li>  
@@ -121,11 +121,11 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Nikki Redelijk (PEPP) - 7-4 at #6, 12-7 in duals, 12-7 overall<br>Vanessa Ong (UCLA) - 3-1 at #6, 4-1 in duals, 4-1 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>UCLA</i></b> - Ong (70%) def. Redelijk (30%)</li>  
-<li>Slam: <b><i>UCLA</i></b> - Ong (54%) def. Redelijk (46%)</li>  
-<li>TRN: <b><i>UCLA</i></b> - Ong (75%) def. Redelijk (25%)</li>  
+<li>Composite: <b><i>UCLA</i></b> - Ong (69%) def. Redelijk (31%)</li>  
+<li>Slam: <b><i>UCLA</i></b> - Ong (56%) def. Redelijk (44%)</li>  
+<li>TRN: <b><i>UCLA</i></b> - Ong (78%) def. Redelijk (22%)</li>  
 <li>Massey: <b><i>UCLA</i></b> - Ong (62%) def. Redelijk (38%)</li>  
-<li>UTR: <b><i>UCLA</i></b> - Ong (86%) def. Redelijk (14%)</li>  
+<li>UTR: <b><i>UCLA</i></b> - Ong (78%) def. Redelijk (22%)</li>  
 <li>ITA: <b><i>UCLA</i></b> - Ong (1.95) def. Redelijk (1.87)</li>  
 </ul>
 </details>&nbsp;</li>

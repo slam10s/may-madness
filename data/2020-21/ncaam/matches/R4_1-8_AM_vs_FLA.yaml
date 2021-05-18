@@ -16,10 +16,10 @@ Home:
     Region: 1
   Ratings:
     ITA: 2 (81.08)
-    SLM: 2 (99.83)
-    TRN: 3 (99.25)
+    SLM: 1 (100.00)
+    TRN: 1 (100.00)
     MAS: 1 (9.43)
-    UTR: 1 (80.72)
+    UTR: 1 (80.65)
   Polls:
     USTA: 2 (302.00)
     Coach: 2
@@ -33,28 +33,28 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 8 (63.69)
-    SLM: 10 (97.01)
-    TRN: 10 (95.99)
+    SLM: 11 (96.98)
+    TRN: 9 (96.50)
     MAS: 11 (8.56)
-    UTR: 7 (79.73)
+    UTR: 10 (79.64)
   Polls:
     USTA: 16 (156.00)
     Coach: 8
 Predictions:
-  AVG: FLA - Florida (85%) def. Texas A&M (15%)
-  SLM: "FLA - #2 Florida (83%) def. #10 Texas A&M (17%)"
-  TRN: "FLA - #3 Florida (86%) def. #10 Texas A&M (14%)"
+  AVG: FLA - Florida (86%) def. Texas A&M (14%)
+  SLM: "FLA - #1 Florida (85%) def. #11 Texas A&M (15%)"
+  TRN: "FLA - #1 Florida (88%) def. #9 Texas A&M (12%)"
   MAS: "FLA - #1 Florida (82%) def. #11 Texas A&M (18%)"
   LNUP: FLA - Florida (89%) def. Texas A&M (11%)
-  UTR: "FLA - #1 Florida (+0.99) def. #7 Texas A&M (-0.99)"
+  UTR: "FLA - #1 Florida (+1.01) def. #10 Texas A&M (-1.01)"
   ITA: "FLA - #2 Florida def. #8 Texas A&M"
   USTA: "FLA - #2 Florida def. #16 Texas A&M"
   Coach: "FLA - #2 Florida def. #8 Texas A&M"
   Seeding: "FLA - #1 Florida def. #8 Texas A&M"
 Lineups:
   Predictions:
-    Average EWPs for FLA: 83%,86%,82%,89%
-    Average EWPs for A&M: 17%,14%,18%,11%
+    Average EWPs for FLA: 85%,88%,82%,89%
+    Average EWPs for A&M: 15%,12%,18%,11%
     FLA wins 4 or more Singles points: 69%
     A&M wins 4 or more Singles points: 8%
     Winner decided by the Doubles point: 23%
@@ -65,19 +65,19 @@ Lineups:
       Predictions:
         AVG: A&M - Vacherot (59%) def. Vale (41%)
         SLM: A&M - Vacherot (52%) def. Vale (48%)
-        TRN: A&M - Vacherot (59%) def. Vale (41%)
+        TRN: A&M - Vacherot (58%) def. Vale (42%)
         MAS: A&M - Vacherot (59%) def. Vale (41%)
-        UTR: A&M - Vacherot (67%) def. Vale (33%)
+        UTR: A&M - Vacherot (68%) def. Vale (32%)
         ITA: FLA - Vale (54.01) def. Vacherot (51.31)
     - Position: 2
       FLA: Sam Riffice - 16-4 at 2, 18-4 in duals, 23-7 overall
       A&M: Hady Habib - 7-3 at 2, 10-4 in duals, 15-5 overall
       Predictions:
         AVG: A&M - Habib (56%) def. Riffice (44%)
-        SLM: A&M - Habib (55%) def. Riffice (45%)
-        TRN: A&M - Habib (53%) def. Riffice (47%)
+        SLM: A&M - Habib (56%) def. Riffice (44%)
+        TRN: A&M - Habib (54%) def. Riffice (46%)
         MAS: A&M - Habib (55%) def. Riffice (45%)
-        UTR: A&M - Habib (60%) def. Riffice (40%)
+        UTR: A&M - Habib (58%) def. Riffice (42%)
         ITA: A&M - Habib (54.57) def. Riffice (49.68)
     - Position: 3
       FLA: Andy Andrade - 12-7 at 3, 14-7 in duals, 22-7 overall
@@ -93,31 +93,31 @@ Lineups:
       FLA: Blaise Bicknell - 15-0 at 4, 20-0 in duals, 29-0 overall
       A&M: Noah Schachter - 7-5 at 4, 12-10 in duals, 19-13 overall
       Predictions:
-        AVG: FLA - Bicknell (87%) def. Schachter (13%)
+        AVG: FLA - Bicknell (86%) def. Schachter (14%)
         SLM: FLA - Bicknell (81%) def. Schachter (19%)
-        TRN: FLA - Bicknell (93%) def. Schachter (7%)
+        TRN: FLA - Bicknell (92%) def. Schachter (8%)
         MAS: FLA - Bicknell (87%) def. Schachter (13%)
-        UTR: FLA - Bicknell (88%) def. Schachter (12%)
+        UTR: FLA - Bicknell (86%) def. Schachter (14%)
         ITA: FLA - Bicknell (15.89) def. Schachter (6.58)
     - Position: 5
       FLA: Ben Shelton - 15-4 at 5, 17-4 in duals, 24-5 overall
       A&M: Pierce Rollins - 3-3 at 5, 8-5 in duals, 15-9 overall
       Predictions:
-        AVG: FLA - Shelton (73%) def. Rollins (27%)
-        SLM: FLA - Shelton (71%) def. Rollins (29%)
-        TRN: FLA - Shelton (71%) def. Rollins (29%)
+        AVG: FLA - Shelton (74%) def. Rollins (26%)
+        SLM: FLA - Shelton (74%) def. Rollins (26%)
+        TRN: FLA - Shelton (72%) def. Rollins (28%)
         MAS: FLA - Shelton (68%) def. Rollins (32%)
-        UTR: FLA - Shelton (82%) def. Rollins (18%)
+        UTR: FLA - Shelton (84%) def. Rollins (16%)
         ITA: A&M - Rollins (5.08) def. Shelton (3.20)
     - Position: 6
       FLA: Josh Goodger - 12-0 at 6, 13-0 in duals, 19-0 overall
       A&M: Guido Marson - 0-0 at 6, 5-6 in duals, 7-9 overall
       Predictions:
         AVG: FLA - Goodger (85%) def. Marson (15%)
-        SLM: FLA - Goodger (83%) def. Marson (17%)
-        TRN: FLA - Goodger (90%) def. Marson (10%)
+        SLM: FLA - Goodger (84%) def. Marson (16%)
+        TRN: FLA - Goodger (91%) def. Marson (9%)
         MAS: FLA - Goodger (82%) def. Marson (18%)
-        UTR: FLA - Goodger (83%) def. Marson (17%)
+        UTR: FLA - Goodger (82%) def. Marson (18%)
         ITA: FLA - Goodger (8.31) def. Marson (1.86)
   Doubles:
     - Position: 1

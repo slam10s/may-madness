@@ -16,10 +16,10 @@ Home:
     Region: 1
   Ratings:
     ITA: 4 (61.62)
-    SLM: 4 (93.75)
-    TRN: 5 (89.32)
+    SLM: 4 (93.76)
+    TRN: 5 (89.44)
     MAS: 4 (8.90)
-    UTR: 5 (64.41)
+    UTR: 4 (64.38)
   Polls:
     USTA: 5 (280.00)
     Coach: 5
@@ -33,28 +33,28 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 5 (60.46)
-    SLM: 5 (93.53)
-    TRN: 4 (89.84)
+    SLM: 5 (93.64)
+    TRN: 4 (90.08)
     MAS: 5 (8.76)
-    UTR: 3 (64.87)
+    UTR: 6 (64.15)
   Polls:
     USTA: 6 (276.00)
     Coach: 4
 Predictions:
-  AVG: UCLA - UCLA (53%) def. Pepperdine (47%)
-  SLM: "UCLA - #4 UCLA (53%) def. #5 Pepperdine (47%)"
-  TRN: "PEPP - #4 Pepperdine (57%) def. #5 UCLA (43%)"
+  AVG: UCLA - UCLA (52%) def. Pepperdine (48%)
+  SLM: "UCLA - #4 UCLA (51%) def. #5 Pepperdine (49%)"
+  TRN: "PEPP - #4 Pepperdine (59%) def. #5 UCLA (41%)"
   MAS: "UCLA - #4 UCLA (70%) def. #5 Pepperdine (30%)"
   LNUP: PEPP - Pepperdine (51%) def. UCLA (49%)
-  UTR: "PEPP - #3 Pepperdine (+0.46) def. #5 UCLA (-0.46)"
+  UTR: "UCLA - #4 UCLA (+0.23) def. #6 Pepperdine (-0.23)"
   ITA: "UCLA - #4 UCLA def. #5 Pepperdine"
   USTA: "UCLA - #5 UCLA def. #6 Pepperdine"
   Coach: "PEPP - #4 Pepperdine def. #5 UCLA"
   Seeding: "UCLA - #4 UCLA def. #5 Pepperdine"
 Lineups:
   Predictions:
-    Average EWPs for UCLA: 53%,43%,70%,49%
-    Average EWPs for PEPP: 47%,57%,30%,51%
+    Average EWPs for UCLA: 51%,41%,70%,49%
+    Average EWPs for PEPP: 49%,59%,30%,51%
     UCLA wins 4 or more Singles points: 32%
     PEPP wins 4 or more Singles points: 34%
     Winner decided by the Doubles point: 34%
@@ -63,19 +63,19 @@ Lineups:
       UCLA: Abbey Forbes - 17-2 at 1, 18-2 in duals, 18-2 overall
       PEPP: Ashley Lahey - 7-3 at 1, 10-4 in duals, 10-4 overall
       Predictions:
-        AVG: UCLA - Forbes (79%) def. Lahey (21%)
-        SLM: UCLA - Forbes (82%) def. Lahey (18%)
-        TRN: UCLA - Forbes (80%) def. Lahey (20%)
+        AVG: UCLA - Forbes (80%) def. Lahey (20%)
+        SLM: UCLA - Forbes (84%) def. Lahey (16%)
+        TRN: UCLA - Forbes (81%) def. Lahey (19%)
         MAS: UCLA - Forbes (76%) def. Lahey (24%)
-        UTR: UCLA - Forbes (78%) def. Lahey (22%)
+        UTR: UCLA - Forbes (81%) def. Lahey (19%)
         ITA: UCLA - Forbes (46.46) def. Lahey (7.80)
     - Position: 2
       UCLA: Jada Hart - 8-1 at 2, 11-2 in duals, 11-2 overall
       PEPP: Jessica Failla - 6-1 at 2, 14-3 in duals, 14-3 overall
       Predictions:
         AVG: PEPP - Failla (57%) def. Hart (43%)
-        SLM: PEPP - Failla (60%) def. Hart (40%)
-        TRN: PEPP - Failla (64%) def. Hart (36%)
+        SLM: PEPP - Failla (61%) def. Hart (39%)
+        TRN: PEPP - Failla (63%) def. Hart (37%)
         MAS: UCLA - Hart (63%) def. Failla (37%)
         UTR: PEPP - Failla (69%) def. Hart (31%)
         ITA: PEPP - Failla (23.38) def. Hart (12.21)
@@ -84,7 +84,7 @@ Lineups:
       PEPP: Taisiya Pachkaleva - 8-1 at 3, 22-1 in duals, 22-1 overall
       Predictions:
         AVG: PEPP - Pachkaleva (59%) def. Bolton (41%)
-        SLM: PEPP - Pachkaleva (51%) def. Bolton (49%)
+        SLM: PEPP - Pachkaleva (52%) def. Bolton (48%)
         TRN: PEPP - Pachkaleva (74%) def. Bolton (26%)
         MAS: UCLA - Bolton (52%) def. Pachkaleva (48%)
         UTR: PEPP - Pachkaleva (64%) def. Bolton (36%)
@@ -94,8 +94,8 @@ Lineups:
       PEPP: Shiori Fukuda - 6-0 at 4, 14-4 in duals, 14-4 overall
       Predictions:
         AVG: PEPP - Fukuda (65%) def. Wolff (35%)
-        SLM: PEPP - Fukuda (70%) def. Wolff (30%)
-        TRN: PEPP - Fukuda (74%) def. Wolff (26%)
+        SLM: PEPP - Fukuda (72%) def. Wolff (28%)
+        TRN: PEPP - Fukuda (76%) def. Wolff (24%)
         MAS: UCLA - Wolff (60%) def. Fukuda (40%)
         UTR: PEPP - Fukuda (74%) def. Wolff (26%)
         ITA: PEPP - Fukuda (4.88) def. Wolff (2.06)
@@ -113,11 +113,11 @@ Lineups:
       UCLA: Vanessa Ong - 3-1 at 6, 4-1 in duals, 4-1 overall
       PEPP: Nikki Redelijk - 7-4 at 6, 12-7 in duals, 12-7 overall
       Predictions:
-        AVG: UCLA - Ong (70%) def. Redelijk (30%)
-        SLM: UCLA - Ong (54%) def. Redelijk (46%)
-        TRN: UCLA - Ong (75%) def. Redelijk (25%)
+        AVG: UCLA - Ong (69%) def. Redelijk (31%)
+        SLM: UCLA - Ong (56%) def. Redelijk (44%)
+        TRN: UCLA - Ong (78%) def. Redelijk (22%)
         MAS: UCLA - Ong (62%) def. Redelijk (38%)
-        UTR: UCLA - Ong (86%) def. Redelijk (14%)
+        UTR: UCLA - Ong (78%) def. Redelijk (22%)
         ITA: UCLA - Ong (1.95) def. Redelijk (1.87)
   Doubles:
     - Position: 1

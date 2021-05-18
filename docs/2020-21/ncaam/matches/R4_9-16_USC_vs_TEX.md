@@ -11,10 +11,10 @@ Orlando, Florida
 <h2>#12 Southern California</h2>  
 &nbsp; Record: 23-6<br>  
 &nbsp; ITA: 12 (52.23)<br>  
-&nbsp; Slam: 12 (96.70)<br>  
-&nbsp; TRN: 12 (95.14)<br>  
+&nbsp; Slam: 10 (97.08)<br>  
+&nbsp; TRN: 11 (96.10)<br>  
 &#10004; Massey: 9 (8.63)<br>  
-&#10004; UTR: 2 (80.28)<br>  
+&#10004; UTR: 2 (80.36)<br>  
 &nbsp; USTA Poll: 15 (169.00)<br>  
 &nbsp; Coaches Poll: 12<br>  
 <br>  
@@ -26,9 +26,9 @@ Orlando, Florida
 &nbsp; Record: 23-5<br>  
 &#10004; ITA: 4 (74.24)<br>  
 &#10004; Slam: 8 (97.83)<br>  
-&#10004; TRN: 7 (97.91)<br>  
+&#10004; TRN: 4 (98.42)<br>  
 &nbsp; Massey: 10 (8.59)<br>  
-&nbsp; UTR: 13 (79.04)<br>  
+&nbsp; UTR: 12 (79.13)<br>  
 &#10004; USTA Poll: 8 (263.00)<br>  
 &#10004; Coaches Poll: 4<br>  
 <br>  
@@ -45,12 +45,12 @@ Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***USC*** - Southern California (51%) def. Texas (49%)  
-- Slam: ***TEX*** - #8 Texas (65%) def. #12 Southern California (35%)  
-- TRN: ***TEX*** - #7 Texas (83%) def. #12 Southern California (17%)  
+- Composite: ***USC*** - Southern California (53%) def. Texas (47%)  
+- Slam: ***TEX*** - #8 Texas (60%) def. #10 Southern California (40%)  
+- TRN: ***TEX*** - #4 Texas (79%) def. #11 Southern California (21%)  
 - Massey: ***USC*** - #9 Southern California (67%) def. #10 Texas (33%)  
 - Lineup: ***USC*** - Southern California (85%) def. Texas (15%)  
-- UTR: ***USC*** - #2 Southern California (+1.24) def. #13 Texas (-1.24)  
+- UTR: ***USC*** - #2 Southern California (+1.23) def. #12 Texas (-1.23)  
 - ITA: ***TEX*** - #4 Texas def. #12 Southern California  
 - USTA Poll: ***TEX*** - #8 Texas def. #15 Southern California  
 - Coaches Poll: ***TEX*** - #4 Texas def. #12 Southern California  
@@ -67,52 +67,52 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Daniel Cukierman (USC) - 12-5 at #1, 12-5 in duals, 14-5 overall<br>Eliot Spizzirri (TEX) - 9-6 at #1, 15-8 in duals, 22-9 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>USC</i></b> - Cukierman (77%) def. Spizzirri (23%)</li>  
-<li>Slam: <b><i>USC</i></b> - Cukierman (76%) def. Spizzirri (24%)</li>  
-<li>TRN: <b><i>USC</i></b> - Cukierman (75%) def. Spizzirri (25%)</li>  
+<li>Slam: <b><i>USC</i></b> - Cukierman (75%) def. Spizzirri (25%)</li>  
+<li>TRN: <b><i>USC</i></b> - Cukierman (72%) def. Spizzirri (28%)</li>  
 <li>Massey: <b><i>USC</i></b> - Cukierman (71%) def. Spizzirri (29%)</li>  
-<li>UTR: <b><i>USC</i></b> - Cukierman (87%) def. Spizzirri (13%)</li>  
+<li>UTR: <b><i>USC</i></b> - Cukierman (90%) def. Spizzirri (10%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Spizzirri (28.17) def. Cukierman (16.39)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Riley Smith (USC) - 9-5 at #2, 13-5 in duals, 15-5 overall<br>Micah Braswell (TEX) - 9-4 at #2, 17-5 in duals, 32-6 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TEX</i></b> - Braswell (51%) def. Smith (49%)</li>  
-<li>Slam: <b><i>USC</i></b> - Smith (51%) def. Braswell (49%)</li>  
-<li>TRN: <b><i>TEX</i></b> - Braswell (60%) def. Smith (40%)</li>  
+<li>Composite: <b><i>TEX</i></b> - Braswell (52%) def. Smith (48%)</li>  
+<li>Slam: <b><i>USC</i></b> - Smith (52%) def. Braswell (48%)</li>  
+<li>TRN: <b><i>TEX</i></b> - Braswell (57%) def. Smith (43%)</li>  
 <li>Massey: <b><i>TEX</i></b> - Braswell (51%) def. Smith (49%)</li>  
-<li>UTR: <b><i>USC</i></b> - Smith (53%) def. Braswell (47%)</li>  
+<li>UTR: <b><i>TEX</i></b> - Braswell (55%) def. Smith (45%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Braswell (20.88) def. Smith (15.48)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Stefan Dostanic (USC) - 12-3 at #3, 16-3 in duals, 18-3 overall<br>Siem Woldeab (TEX) - 5-1 at #3, 9-7 in duals, 14-12 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>USC</i></b> - Dostanic (67%) def. Woldeab (33%)</li>  
-<li>Slam: <b><i>USC</i></b> - Dostanic (55%) def. Woldeab (45%)</li>  
-<li>TRN: <b><i>USC</i></b> - Dostanic (70%) def. Woldeab (30%)</li>  
+<li>Composite: <b><i>USC</i></b> - Dostanic (69%) def. Woldeab (31%)</li>  
+<li>Slam: <b><i>USC</i></b> - Dostanic (58%) def. Woldeab (42%)</li>  
+<li>TRN: <b><i>USC</i></b> - Dostanic (75%) def. Woldeab (25%)</li>  
 <li>Massey: <b><i>USC</i></b> - Dostanic (66%) def. Woldeab (34%)</li>  
-<li>UTR: <b><i>USC</i></b> - Dostanic (76%) def. Woldeab (24%)</li>  
+<li>UTR: <b><i>USC</i></b> - Dostanic (75%) def. Woldeab (25%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Woldeab (9.31) def. Dostanic (5.43)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Bradley Frye (USC) - 9-2 at #4, 15-4 in duals, 17-4 overall<br>Cleeve Harper (TEX) - 14-3 at #4, 17-5 in duals, 22-9 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>USC</i></b> - Frye (53%) def. Harper (47%)</li>  
-<li>Slam: <b><i>USC</i></b> - Frye (51%) def. Harper (49%)</li>  
-<li>TRN: <b><i>TEX</i></b> - Harper (52%) def. Frye (48%)</li>  
+<li>Composite: <b><i>USC</i></b> - Frye (52%) def. Harper (48%)</li>  
+<li>Slam: <b><i>TEX</i></b> - Harper (50%) def. Frye (50%)</li>  
+<li>TRN: <b><i>TEX</i></b> - Harper (53%) def. Frye (47%)</li>  
 <li>Massey: <b><i>USC</i></b> - Frye (54%) def. Harper (46%)</li>  
-<li>UTR: <b><i>USC</i></b> - Frye (62%) def. Harper (38%)</li>  
+<li>UTR: <b><i>USC</i></b> - Frye (60%) def. Harper (40%)</li>  
 <li>ITA: <b><i>TEX</i></b> - Harper (5.83) def. Frye (2.44)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Lodewijk Weststrate (USC) - 9-3 at #5, 21-4 in duals, 23-4 overall<br>Chih Chi Huang (TEX) - 9-7 at #5, 11-8 in duals, 15-17 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>USC</i></b> - Weststrate (75%) def. Huang (25%)</li>  
-<li>Slam: <b><i>USC</i></b> - Weststrate (71%) def. Huang (29%)</li>  
-<li>TRN: <b><i>USC</i></b> - Weststrate (75%) def. Huang (25%)</li>  
+<li>Composite: <b><i>USC</i></b> - Weststrate (76%) def. Huang (24%)</li>  
+<li>Slam: <b><i>USC</i></b> - Weststrate (74%) def. Huang (26%)</li>  
+<li>TRN: <b><i>USC</i></b> - Weststrate (78%) def. Huang (22%)</li>  
 <li>Massey: <b><i>USC</i></b> - Weststrate (72%) def. Huang (28%)</li>  
 <li>UTR: <b><i>USC</i></b> - Weststrate (82%) def. Huang (18%)</li>  
 <li>ITA: <b><i>TEX</i></b> - # Huang def. Weststrate (2.93)</li>  
@@ -121,9 +121,9 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Jake Sands (USC) - 8-3 at #6, 14-4 in duals, 14-4 overall<br>Evin McDonald (TEX) - 6-9 at #6, 11-10 in duals, 15-16 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>USC</i></b> - Sands (68%) def. McDonald (32%)</li>  
-<li>Slam: <b><i>USC</i></b> - Sands (59%) def. McDonald (41%)</li>  
-<li>TRN: <b><i>USC</i></b> - Sands (64%) def. McDonald (36%)</li>  
+<li>Composite: <b><i>USC</i></b> - Sands (65%) def. McDonald (35%)</li>  
+<li>Slam: <b><i>USC</i></b> - Sands (56%) def. McDonald (44%)</li>  
+<li>TRN: <b><i>USC</i></b> - Sands (57%) def. McDonald (43%)</li>  
 <li>Massey: <b><i>USC</i></b> - Sands (78%) def. McDonald (22%)</li>  
 <li>UTR: <b><i>USC</i></b> - Sands (70%) def. McDonald (30%)</li>  
 <li>ITA: <b><i>TEX</i></b> - # McDonald def. Sands (2.42)</li>  

@@ -11,10 +11,10 @@ Orlando, Florida
 <h2>#7 TCU</h2>  
 &nbsp; Record: 19-7<br>  
 &nbsp; ITA: 7 (69.22)<br>  
-&nbsp; Slam: 9 (97.80)<br>  
-&nbsp; TRN: 9 (96.92)<br>  
+&nbsp; Slam: 7 (97.93)<br>  
+&nbsp; TRN: 8 (97.50)<br>  
 &#10004; Massey: 6 (8.80)<br>  
-&#10004; UTR: 9 (79.72)<br>  
+&nbsp; UTR: 8 (79.78)<br>  
 &nbsp; USTA Poll: 11 (217.00)<br>  
 &nbsp; Coaches Poll: 7<br>  
 <br>  
@@ -25,10 +25,10 @@ Orlando, Florida
 <h2>#2 Baylor</h2>  
 &nbsp; Record: 32-4<br>  
 &#10004; ITA: 1 (83.33)<br>  
-&#10004; Slam: 5 (99.19)<br>  
-&#10004; TRN: 6 (98.83)<br>  
+&#10004; Slam: 3 (99.00)<br>  
+&#10004; TRN: 3 (99.00)<br>  
 &nbsp; Massey: 5 (8.86)<br>  
-&nbsp; UTR: 10 (79.71)<br>  
+&#10004; UTR: 7 (79.86)<br>  
 &#10004; USTA Poll: 3 (292.00)<br>  
 &#10004; Coaches Poll: 1<br>  
 <br>  
@@ -45,12 +45,12 @@ Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
-- Composite: ***BAY*** - Baylor (61%) def. TCU (39%)  
-- Slam: ***BAY*** - #5 Baylor (68%) def. #9 TCU (32%)  
-- TRN: ***BAY*** - #6 Baylor (74%) def. #9 TCU (26%)  
+- Composite: ***BAY*** - Baylor (58%) def. TCU (42%)  
+- Slam: ***BAY*** - #3 Baylor (64%) def. #7 TCU (36%)  
+- TRN: ***BAY*** - #3 Baylor (70%) def. #8 TCU (30%)  
 - Massey: ***TCU*** - #6 TCU (58%) def. #5 Baylor (42%)  
-- Lineup: ***BAY*** - Baylor (60%) def. TCU (40%)  
-- UTR: ***TCU*** - #9 TCU (+0.01) def. #10 Baylor (-0.01)  
+- Lineup: ***BAY*** - Baylor (58%) def. TCU (42%)  
+- UTR: ***BAY*** - #7 Baylor (+0.08) def. #8 TCU (-0.08)  
 - ITA: ***BAY*** - #1 Baylor def. #7 TCU  
 - USTA Poll: ***BAY*** - #3 Baylor def. #11 TCU  
 - Coaches Poll: ***BAY*** - #1 Baylor def. #7 TCU  
@@ -66,9 +66,9 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Alastair Gray (TCU) - 6-4 at #1, 13-7 in duals, 13-7 overall<br>Adrian Boitan (BAY) - 14-4 at #1, 15-5 in duals, 15-5 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Gray (51%) def. Boitan (49%)</li>  
-<li>Slam: <b><i>BAY</i></b> - Boitan (59%) def. Gray (41%)</li>  
-<li>TRN: <b><i>BAY</i></b> - Boitan (60%) def. Gray (40%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Boitan (50%) def. Gray (50%)</li>  
+<li>Slam: <b><i>BAY</i></b> - Boitan (60%) def. Gray (40%)</li>  
+<li>TRN: <b><i>BAY</i></b> - Boitan (63%) def. Gray (37%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Gray (51%) def. Boitan (49%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Gray (68%) def. Boitan (32%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Gray (40.15) def. Boitan (31.04)</li>  
@@ -77,11 +77,11 @@ Click on a Singles match to show individual predections for each line.
 <li><details>
 <summary markdown="span">Luc Fomba (TCU) - 7-3 at #2, 12-6 in duals, 12-6 overall<br>Matias Soto (BAY) - 12-3 at #2, 14-4 in duals, 18-4 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Soto (62%) def. Fomba (38%)</li>  
-<li>Slam: <b><i>BAY</i></b> - Soto (58%) def. Fomba (42%)</li>  
-<li>TRN: <b><i>BAY</i></b> - Soto (58%) def. Fomba (42%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Soto (58%) def. Fomba (42%)</li>  
+<li>Slam: <b><i>BAY</i></b> - Soto (52%) def. Fomba (48%)</li>  
+<li>TRN: <b><i>TCU</i></b> - Fomba (51%) def. Soto (49%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Soto (52%) def. Fomba (48%)</li>  
-<li>UTR: <b><i>BAY</i></b> - Soto (79%) def. Fomba (21%)</li>  
+<li>UTR: <b><i>BAY</i></b> - Soto (78%) def. Fomba (22%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Soto (41.70) def. Fomba (35.12)</li>  
 </ul>
 </details>&nbsp;</li>
@@ -92,16 +92,16 @@ Click on a Singles match to show individual predections for each line.
 <li>Slam: <b><i>TCU</i></b> - Jong (69%) def. Lah (31%)</li>  
 <li>TRN: <b><i>TCU</i></b> - Jong (77%) def. Lah (23%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Jong (75%) def. Lah (25%)</li>  
-<li>UTR: <b><i>TCU</i></b> - Jong (82%) def. Lah (18%)</li>  
+<li>UTR: <b><i>TCU</i></b> - Jong (81%) def. Lah (19%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jong (11.43) def. Lah (4.25)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Jake Fearnley (TCU) - 4-2 at #4, 8-3 in duals, 8-3 overall<br>Nick Stachowiak (BAY) - 8-2 at #4, 12-5 in duals, 19-7 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>TCU</i></b> - Fearnley (61%) def. Stachowiak (39%)</li>  
-<li>Slam: <b><i>TCU</i></b> - Fearnley (58%) def. Stachowiak (42%)</li>  
-<li>TRN: <b><i>TCU</i></b> - Fearnley (65%) def. Stachowiak (35%)</li>  
+<li>Composite: <b><i>TCU</i></b> - Fearnley (60%) def. Stachowiak (40%)</li>  
+<li>Slam: <b><i>TCU</i></b> - Fearnley (57%) def. Stachowiak (43%)</li>  
+<li>TRN: <b><i>TCU</i></b> - Fearnley (59%) def. Stachowiak (41%)</li>  
 <li>Massey: <b><i>TCU</i></b> - Fearnley (54%) def. Stachowiak (46%)</li>  
 <li>UTR: <b><i>TCU</i></b> - Fearnley (68%) def. Stachowiak (32%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Fearnley (5.67) def. Stachowiak (3.38)</li>  
@@ -111,19 +111,19 @@ Click on a Singles match to show individual predections for each line.
 <summary markdown="span">Tomas Jirousek (TCU) - 1-1 at #5, 6-5 in duals, 7-6 overall<br>Charlie Broom (BAY) - 17-2 at #5, 21-3 in duals, 24-6 overall</summary>
 <h4>Predictions</h4><ul>
 <li>Composite: <b><i>BAY</i></b> - Broom (64%) def. Jirousek (36%)</li>  
-<li>Slam: <b><i>BAY</i></b> - Broom (57%) def. Jirousek (43%)</li>  
-<li>TRN: <b><i>BAY</i></b> - Broom (64%) def. Jirousek (36%)</li>  
+<li>Slam: <b><i>BAY</i></b> - Broom (54%) def. Jirousek (46%)</li>  
+<li>TRN: <b><i>BAY</i></b> - Broom (63%) def. Jirousek (37%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Broom (60%) def. Jirousek (40%)</li>  
-<li>UTR: <b><i>BAY</i></b> - Broom (74%) def. Jirousek (26%)</li>  
+<li>UTR: <b><i>BAY</i></b> - Broom (76%) def. Jirousek (24%)</li>  
 <li>ITA: <b><i>TCU</i></b> - Jirousek (6.98) def. Broom (3.72)</li>  
 </ul>
 </details>&nbsp;</li>
 <li><details>
 <summary markdown="span">Tadeas Paroulek (TCU) - 1-3 at #6, 7-11 in duals, 7-12 overall<br>Spencer Furman (BAY) - 11-2 at #6, 18-2 in duals, 21-3 overall</summary>
 <h4>Predictions</h4><ul>
-<li>Composite: <b><i>BAY</i></b> - Furman (82%) def. Paroulek (18%)</li>  
-<li>Slam: <b><i>BAY</i></b> - Furman (74%) def. Paroulek (26%)</li>  
-<li>TRN: <b><i>BAY</i></b> - Furman (87%) def. Paroulek (13%)</li>  
+<li>Composite: <b><i>BAY</i></b> - Furman (80%) def. Paroulek (20%)</li>  
+<li>Slam: <b><i>BAY</i></b> - Furman (70%) def. Paroulek (30%)</li>  
+<li>TRN: <b><i>BAY</i></b> - Furman (86%) def. Paroulek (14%)</li>  
 <li>Massey: <b><i>BAY</i></b> - Furman (81%) def. Paroulek (19%)</li>  
 <li>UTR: <b><i>BAY</i></b> - Furman (85%) def. Paroulek (15%)</li>  
 <li>ITA: <b><i>BAY</i></b> - Furman (4.24) def. Paroulek (1.35)</li>  
@@ -151,11 +151,11 @@ Click on a Singles match to show individual predections for each line.
 ### Dual Outcome Based on Individual Metrics  
   
 Based on the composite metrics for each individual match:  
-- Baylor should win 4 or more singles matches *40%* of the time.  
-- TCU should win 4 or more singles matches *26%* of the time.  
-- The winner of the doubles point should decide the match the other *34%* of the time.  
-- If Baylor wins the doubles point, their chances of winning the dual improve to *74%*.  
-- If TCU wins the doubles point, their chances of winning the dual improve to *60%*.  
+- Baylor should win 4 or more singles matches *39%* of the time.  
+- TCU should win 4 or more singles matches *28%* of the time.  
+- The winner of the doubles point should decide the match the other *33%* of the time.  
+- If Baylor wins the doubles point, their chances of winning the dual improve to *72%*.  
+- If TCU wins the doubles point, their chances of winning the dual improve to *61%*.  
   
 ------
 

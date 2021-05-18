@@ -17,9 +17,9 @@ Home:
   Ratings:
     ITA: 4 (74.24)
     SLM: 8 (97.83)
-    TRN: 7 (97.91)
+    TRN: 4 (98.42)
     MAS: 10 (8.59)
-    UTR: 13 (79.04)
+    UTR: 12 (79.13)
   Polls:
     USTA: 8 (263.00)
     Coach: 4
@@ -33,28 +33,28 @@ Visitor:
     Region: 1
   Ratings:
     ITA: 12 (52.23)
-    SLM: 12 (96.70)
-    TRN: 12 (95.14)
+    SLM: 10 (97.08)
+    TRN: 11 (96.10)
     MAS: 9 (8.63)
-    UTR: 2 (80.28)
+    UTR: 2 (80.36)
   Polls:
     USTA: 15 (169.00)
     Coach: 12
 Predictions:
-  AVG: USC - Southern California (51%) def. Texas (49%)
-  SLM: "TEX - #8 Texas (65%) def. #12 Southern California (35%)"
-  TRN: "TEX - #7 Texas (83%) def. #12 Southern California (17%)"
+  AVG: USC - Southern California (53%) def. Texas (47%)
+  SLM: "TEX - #8 Texas (60%) def. #10 Southern California (40%)"
+  TRN: "TEX - #4 Texas (79%) def. #11 Southern California (21%)"
   MAS: "USC - #9 Southern California (67%) def. #10 Texas (33%)"
   LNUP: USC - Southern California (85%) def. Texas (15%)
-  UTR: "USC - #2 Southern California (+1.24) def. #13 Texas (-1.24)"
+  UTR: "USC - #2 Southern California (+1.23) def. #12 Texas (-1.23)"
   ITA: "TEX - #4 Texas def. #12 Southern California"
   USTA: "TEX - #8 Texas def. #15 Southern California"
   Coach: "TEX - #4 Texas def. #12 Southern California"
   Seeding: "TEX - #4 Texas def. #12 Southern California"
 Lineups:
   Predictions:
-    Average EWPs for TEX: 65%,83%,33%,15%
-    Average EWPs for USC: 35%,17%,67%,85%
+    Average EWPs for TEX: 60%,79%,33%,15%
+    Average EWPs for USC: 40%,21%,67%,85%
     TEX wins 4 or more Singles points: 11%
     USC wins 4 or more Singles points: 65%
     Winner decided by the Doubles point: 24%
@@ -64,48 +64,48 @@ Lineups:
       USC: Daniel Cukierman - 12-5 at 1, 12-5 in duals, 14-5 overall
       Predictions:
         AVG: USC - Cukierman (77%) def. Spizzirri (23%)
-        SLM: USC - Cukierman (76%) def. Spizzirri (24%)
-        TRN: USC - Cukierman (75%) def. Spizzirri (25%)
+        SLM: USC - Cukierman (75%) def. Spizzirri (25%)
+        TRN: USC - Cukierman (72%) def. Spizzirri (28%)
         MAS: USC - Cukierman (71%) def. Spizzirri (29%)
-        UTR: USC - Cukierman (87%) def. Spizzirri (13%)
+        UTR: USC - Cukierman (90%) def. Spizzirri (10%)
         ITA: TEX - Spizzirri (28.17) def. Cukierman (16.39)
     - Position: 2
       TEX: Micah Braswell - 9-4 at 2, 17-5 in duals, 32-6 overall
       USC: Riley Smith - 9-5 at 2, 13-5 in duals, 15-5 overall
       Predictions:
-        AVG: TEX - Braswell (51%) def. Smith (49%)
-        SLM: USC - Smith (51%) def. Braswell (49%)
-        TRN: TEX - Braswell (60%) def. Smith (40%)
+        AVG: TEX - Braswell (52%) def. Smith (48%)
+        SLM: USC - Smith (52%) def. Braswell (48%)
+        TRN: TEX - Braswell (57%) def. Smith (43%)
         MAS: TEX - Braswell (51%) def. Smith (49%)
-        UTR: USC - Smith (53%) def. Braswell (47%)
+        UTR: TEX - Braswell (55%) def. Smith (45%)
         ITA: TEX - Braswell (20.88) def. Smith (15.48)
     - Position: 3
       TEX: Siem Woldeab - 5-1 at 3, 9-7 in duals, 14-12 overall
       USC: Stefan Dostanic - 12-3 at 3, 16-3 in duals, 18-3 overall
       Predictions:
-        AVG: USC - Dostanic (67%) def. Woldeab (33%)
-        SLM: USC - Dostanic (55%) def. Woldeab (45%)
-        TRN: USC - Dostanic (70%) def. Woldeab (30%)
+        AVG: USC - Dostanic (69%) def. Woldeab (31%)
+        SLM: USC - Dostanic (58%) def. Woldeab (42%)
+        TRN: USC - Dostanic (75%) def. Woldeab (25%)
         MAS: USC - Dostanic (66%) def. Woldeab (34%)
-        UTR: USC - Dostanic (76%) def. Woldeab (24%)
+        UTR: USC - Dostanic (75%) def. Woldeab (25%)
         ITA: TEX - Woldeab (9.31) def. Dostanic (5.43)
     - Position: 4
       TEX: Cleeve Harper - 14-3 at 4, 17-5 in duals, 22-9 overall
       USC: Bradley Frye - 9-2 at 4, 15-4 in duals, 17-4 overall
       Predictions:
-        AVG: USC - Frye (53%) def. Harper (47%)
-        SLM: USC - Frye (51%) def. Harper (49%)
-        TRN: TEX - Harper (52%) def. Frye (48%)
+        AVG: USC - Frye (52%) def. Harper (48%)
+        SLM: TEX - Harper (50%) def. Frye (50%)
+        TRN: TEX - Harper (53%) def. Frye (47%)
         MAS: USC - Frye (54%) def. Harper (46%)
-        UTR: USC - Frye (62%) def. Harper (38%)
+        UTR: USC - Frye (60%) def. Harper (40%)
         ITA: TEX - Harper (5.83) def. Frye (2.44)
     - Position: 5
       TEX: Chih Chi Huang - 9-7 at 5, 11-8 in duals, 15-17 overall
       USC: Lodewijk Weststrate - 9-3 at 5, 21-4 in duals, 23-4 overall
       Predictions:
-        AVG: USC - Weststrate (75%) def. Huang (25%)
-        SLM: USC - Weststrate (71%) def. Huang (29%)
-        TRN: USC - Weststrate (75%) def. Huang (25%)
+        AVG: USC - Weststrate (76%) def. Huang (24%)
+        SLM: USC - Weststrate (74%) def. Huang (26%)
+        TRN: USC - Weststrate (78%) def. Huang (22%)
         MAS: USC - Weststrate (72%) def. Huang (28%)
         UTR: USC - Weststrate (82%) def. Huang (18%)
         ITA: "TEX - # Huang def. Weststrate (2.93)"
@@ -113,9 +113,9 @@ Lineups:
       TEX: Evin McDonald - 6-9 at 6, 11-10 in duals, 15-16 overall
       USC: Jake Sands - 8-3 at 6, 14-4 in duals, 14-4 overall
       Predictions:
-        AVG: USC - Sands (68%) def. McDonald (32%)
-        SLM: USC - Sands (59%) def. McDonald (41%)
-        TRN: USC - Sands (64%) def. McDonald (36%)
+        AVG: USC - Sands (65%) def. McDonald (35%)
+        SLM: USC - Sands (56%) def. McDonald (44%)
+        TRN: USC - Sands (57%) def. McDonald (43%)
         MAS: USC - Sands (78%) def. McDonald (22%)
         UTR: USC - Sands (70%) def. McDonald (30%)
         ITA: "TEX - # McDonald def. Sands (2.42)"
