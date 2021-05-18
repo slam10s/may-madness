@@ -1,0 +1,38 @@
+date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	eventid
+20210517	1	TENN	Adam Walton              	ARIZ	Gustaf Strom               	N	C	461891	564319	7-5, 1-6, 6-2	1744
+20210517	2	ARIZ	Jonas Ziverts            	TENN	Johannus Monday            	N	C	497925	527971	7-5, 6-3     	1744
+20210517	3	TENN	Martim Prata             	ARIZ	Filip Malbasic             	N	N	497830	429133	6-0, 6-3     	1744
+20210517	4	TENN	Luca Wiedenmann          	ARIZ	Herman Hoyeraal            	N	C	463457	567637	6-3, 4-6, 6-4	1744
+20210517	5	ARIZ	Alejandro Requant-Bicardi	TENN	Giles Hussey               	N	N	444974	513101	6-4, 6-1     	1744
+20210517	6	ARIZ	Carlos Hassey            	TENN	Pat Harper                 	N	C	414150	488721	6-4, 6-4     	1744
+20210517	1	UNC 	William Blumberg         	UGA 	Trent Bryde                	N	C	390976	498429	6-2, 7-6(5)  	1746
+20210517	2	UNC 	Rinky Hijikata           	UGA 	Tyler Zink                 	N	C	514358	511569	6-3, 7-6(2)  	1746
+20210517	3	UGA 	Philip Henning           	UNC 	Benjamin Sigouin           	N	C	498428	451826	6-3, 6-4     	1746
+20210517	4	UNC 	Brian Cernoch            	UGA 	Blake Croyder              	N	C	491254	487816	4-6, 6-2, 6-4	1746
+20210517	5	UGA 	Billy Rowe               	UNC 	Josh Peck                  	N	C	562702	440447	7-6(6), 6-4  	1746
+20210517	6	UGA 	Erik Grevelius           	UNC 	Simon Soendergaard         	N	C	511567	453379	7-6(3), 6-1  	1746
+20210517	1	OSU 	John McNally             	TCU 	Alastair Gray              	N	N	432019	411457	6-4, 6-0     	1748
+20210517	2	TCU 	Luc Fomba                	OSU 	Cannon Kingsley            	N	C	489297	511704	6-4, 6-4     	1748
+20210517	4	TCU 	Tomas Jirousek           	OSU 	Justin Boulais             	N	R	521012	511705	6-2, 6-0     	1748
+20210517	5	TCU 	Tadeas Paroulek          	OSU 	Kyle Seelig                	N	N	516558	450412	6-4, 6-1     	1748
+20210517	2	MISS	Finn Reynolds            	BAY 	Matias Soto                	N	N	520891	453651	6-1, 6-4     	1750
+20210517	4	BAY 	Nick Stachowiak          	MISS	John Hallquist Lithen      	N	N	562412	561866	6-4, 6-0     	1750
+20210517	5	BAY 	Charlie Broom            	MISS	Simon Junk                 	N	C	527260	485272	2-6, 6-2, 6-4	1750
+20210517	6	BAY 	Spencer Furman           	MISS	Lukas Engelhardt           	N	C	562413	513418	6-4, 6-4     	1750
+20210517	2	USC 	Riley Smith              	UVA 	Jeffrey von der Schulenburg	N	C	453064	564166	6-2, 7-5     	1752
+20210517	3	USC 	Stefan Dostanic          	UVA 	Chris Rodesch              	N	C	510835	564151	6-3, 5-7, 6-2	1752
+20210517	4	UVA 	Inaki Montes de la Torre 	USC 	Bradley Frye               	N	C	564150	486015	7-6(4), 6-2  	1752
+20210517	5	USC 	Lodewijk Weststrate      	UVA 	Ryan Goetz                 	N	C	563765	486444	6-3, 7-5     	1752
+20210517	6	UVA 	Gianni Ross              	USC 	Jake Sands                 	N	C	447059	486016	6-4, 7-5     	1752
+20210517	1	TEX 	Eliot Spizzirri          	SCAR	Daniel Rodrigues           	N	C	520306	485261	6-3, 2-6, 6-4	1754
+20210517	2	TEX 	Micah Braswell           	SCAR	Connor Thomson             	N	C	528270	511597	6-3, 6-4     	1754
+20210517	3	SCAR	Toby Samuel              	TEX 	Siem Woldeab               	N	C	528050	513841	6-4, 6-3     	1754
+20210517	4	TEX 	Cleeve Harper            	SCAR	Raphael Lambling           	N	N	513840	485260	6-2, 6-4     	1754
+20210517	5	SCAR	Jake Beasley             	TEX 	Chih Chi Huang             	N	N	485248	486712	6-3, 6-2     	1754
+20210517	6	TEX 	Evin McDonald            	SCAR	Thomas Brown               	N	C	513843	393233	3-6, 6-4, 7-5	1754
+20210517	3	FLA 	Andy Andrade             	ILL 	Alex Brown                 	N	N	385909	393009	6-2, 6-3     	1756
+20210517	4	FLA 	Blaise Bicknell          	ILL 	Zeke Clark                 	N	N	509770	397557	6-3, 6-3     	1756
+20210517	6	FLA 	Josh Goodger             	ILL 	Noe Khlif                  	N	N	511775	421665	6-1, 6-3     	1756
+20210517	2	A&M 	Hady Habib               	MSST	Florian Broska             	N	N	412687	392974	6-4, 6-1     	1758
+20210517	4	A&M 	Noah Schachter           	MSST	Alberto Colas              	N	C	485543	520879	6-2, 7-6(3)  	1758
+20210517	6	A&M 	Raphael Perot            	MSST	Gregor Ramskogler          	N	D	562734	487240	6-0, 6-1     	1758
