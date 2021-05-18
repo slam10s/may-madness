@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#16 Illinois</h2>  
-&nbsp; Record: 23-2<br>  
+&nbsp; Record: 23-3<br>  
 &nbsp; ITA: 17 (40.14)<br>  
 &nbsp; Slam: 6 (99.04)<br>  
 &nbsp; TRN: 4 (98.96)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 Florida</h2>  
-&nbsp; Record: 22-2<br>  
+&nbsp; Record: 23-2<br>  
 &#10004; ITA: 2 (81.08)<br>  
 &#10004; Slam: 2 (99.83)<br>  
 &#10004; TRN: 3 (99.25)<br>  
