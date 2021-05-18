@@ -29,7 +29,7 @@ The various metrics disagree on the outcome of these matches:
 
 The metrics agree on the winner, but not by a lot:
 
-- Mon, 5/17 at  7:00 EDT	[#16 Illinois vs #1 Florida](./matches/R3_1-6_ILL_vs_FLA.md) ... FLA (71%) / ILL (29%)
+- Mon, 5/17 at  7:00 EDT	[#16 Illinois vs #1 Florida](./matches/R3_1-6_ILL_vs_FLA.md) ... <b>FLA (4)</b> / ILL (0)
 
 ### Heavy Favorites
 
