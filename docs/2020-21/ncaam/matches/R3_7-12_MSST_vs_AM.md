@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>Mississippi St.</h2>  
-&nbsp; Record: 18-9<br>  
+&nbsp; Record: 18-10<br>  
 &nbsp; ITA: 16 (41.29)<br>  
 &nbsp; Slam: 20 (94.79)<br>  
 &nbsp; TRN: 20 (93.50)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#8 Texas A&M</h2>  
-&nbsp; Record: 18-8<br>  
+&nbsp; Record: 19-8<br>  
 &#10004; ITA: 8 (63.69)<br>  
 &#10004; Slam: 10 (97.01)<br>  
 &#10004; TRN: 10 (95.99)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
+***Mississippi State def. Texas A&M 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=782&clubid=297-730&cn1=Texas%20A%26M&cn2=Miss%20State&ci1=297&ci2=730&lid=82)  
 
 ## Predictions  
