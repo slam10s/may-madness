@@ -35,7 +35,7 @@ The metrics agree on the winner, but not by a lot:
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Mon, 5/17 at  7:00 EDT	[Mississippi St. vs #8 Texas A&M](./matches/R3_7-12_MSST_vs_AM.md) ... A&M (4) / <b><i>MSST (0)</i></b>
+- Mon, 5/17 at  7:00 EDT	[Mississippi St. vs #8 Texas A&M](./matches/R3_7-12_MSST_vs_AM.md) ... A&M (83%) / MSST (17%)
 - Mon, 5/17 at 10:00 EDT	[#11 Georgia vs #6 North Carolina](./matches/R3_31-36_UGA_vs_UNC.md) ... UNC (3) / <b><i>UGA (4)</i></b>
 - Mon, 5/17 at  1:00 EDT	[#15 Ole Miss vs #2 Baylor](./matches/R3_43-48_MISS_vs_BAY.md) ... <b>BAY (4)</b> / MISS (1)
 - Mon, 5/17 at 10:00 EDT	[Arizona vs #3 Tennessee](./matches/R3_25-30_ARIZ_vs_TENN.md) ... <b>TENN (4)</b> / ARIZ (3)
