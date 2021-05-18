@@ -1,5 +1,5 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Thursday, May 20](../../schedule/05-20.md) at TBA  
+[Thursday, May 20](../../schedule/05-20.md) at 5:30 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  

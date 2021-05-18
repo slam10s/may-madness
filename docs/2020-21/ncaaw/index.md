@@ -9,15 +9,15 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Wed, 5/19 at       TBA	[#5 Pepperdine vs #4 UCLA](./matches/R4_9-16_PEPP_vs_UCLA.md) ... UCLA (53%) / PEPP (47%)
+- Wed, 5/19 at  5:30 EDT	[#5 Pepperdine vs #4 UCLA](./matches/R4_9-16_PEPP_vs_UCLA.md) ... UCLA (53%) / PEPP (47%)
 
 ### Heavy Favorites
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Wed, 5/19 at       TBA	[#6 NC State vs #3 Georgia](./matches/R4_17-24_NCST_vs_UGA.md) ... UGA (92%) / NCST (8%)
-- Wed, 5/19 at       TBA	[#7 Florida St. vs #2 Texas](./matches/R4_25-32_FSU_vs_TEX.md) ... TEX (96%) / FSU (4%)
-- Wed, 5/19 at       TBA	[Duke vs #1 North Carolina](./matches/R4_1-8_DUKE_vs_UNC.md) ... UNC (97%) / DUKE (3%)
+- Wed, 5/19 at 11:00 EDT	[#6 NC State vs #3 Georgia](./matches/R4_17-24_NCST_vs_UGA.md) ... UGA (92%) / NCST (8%)
+- Wed, 5/19 at  2:00 EDT	[#7 Florida St. vs #2 Texas](./matches/R4_25-32_FSU_vs_TEX.md) ... TEX (96%) / FSU (4%)
+- Wed, 5/19 at  7:30 EDT	[Duke vs #1 North Carolina](./matches/R4_1-8_DUKE_vs_UNC.md) ... UNC (97%) / DUKE (3%)
 ## Sweet Sixteen
 
 ### Intriguing Matches

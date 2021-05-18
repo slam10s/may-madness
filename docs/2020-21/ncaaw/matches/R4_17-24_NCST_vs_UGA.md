@@ -1,5 +1,5 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Wednesday, May 19](../../schedule/05-19.md) at TBA  
+[Wednesday, May 19](../../schedule/05-19.md) at 11:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  

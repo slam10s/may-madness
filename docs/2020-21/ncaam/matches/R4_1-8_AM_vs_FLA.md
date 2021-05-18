@@ -1,6 +1,8 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Thursday, May 20](../../schedule/05-20.md) at TBA  
+[Thursday, May 20](../../schedule/05-20.md) at 7:30 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
+USTA National Campus  
+Orlando, Florida  
 ## [#8 Texas A&M vs #1 Florida](https://www.ncaa.com/game/5833426)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #500000 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas-am.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #003087 !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -36,6 +38,9 @@ Quarterfinals[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-20.md)
+
+## Match Information  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82)  
 
 ## Predictions  
 
