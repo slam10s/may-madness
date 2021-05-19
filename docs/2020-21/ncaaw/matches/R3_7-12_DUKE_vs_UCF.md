@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Duke def. Central Florida 4-3***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=774&clubid=213-581&cn1=UCF&cn2=Duke&ci1=213&ci2=581&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UCFDUKE.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=774&clubid=213-581&cn1=UCF&cn2=Duke&ci1=213&ci2=581&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UCFDUKE.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-womens-round-of-16-7-pm-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16DUKEUCFQuotes.pdf)  
 
 ## Predictions  
 

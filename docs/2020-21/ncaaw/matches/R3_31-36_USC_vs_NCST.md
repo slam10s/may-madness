@@ -40,7 +40,7 @@ Orlando, Florida
 
 ## Match Information  
 ***N.C. State def. USC 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=768&clubid=286-299&cn1=NC%20State&cn2=USC&ci1=286&ci2=299&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16NCSUUSC.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=768&clubid=286-299&cn1=NC%20State&cn2=USC&ci1=286&ci2=299&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16NCSUUSC.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-womens-round-of-16-10-am-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16NCSUUSCQuotes.pdf)  
 
 ## Predictions  
 

@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Texas def. South Carolina 4-3***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=780&clubid=265-295&cn1=Texas&cn2=S%20Carolina&ci1=265&ci2=295&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16TEXSCAR.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=780&clubid=265-295&cn1=Texas&cn2=S%20Carolina&ci1=265&ci2=295&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16TEXSCAR.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-round-of-16-4-pm-matches.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16TEXSCARQuotes.pdf)  
 
 ## Predictions  
 

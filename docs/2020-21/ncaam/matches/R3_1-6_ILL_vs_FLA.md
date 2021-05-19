@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Florida def. Illinois 4-0***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=781&clubid=251-298&cn1=Florida&cn2=Illinois&ci1=251&ci2=298&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16UFILL.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=781&clubid=251-298&cn1=Florida&cn2=Illinois&ci1=251&ci2=298&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16UFILL.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-round-of-16-7-pm-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16UFILLQuotes.pdf)  
 
 ## Predictions  
 
