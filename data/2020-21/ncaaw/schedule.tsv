@@ -1,62 +1,62 @@
 contestId	matchnum	date	timeStr	host	roundNum	home	visitor	score	winner	status	title	time	seoHome	seoVisitor
-5833648	102	2021-05-07	10:00 EDT	UNC 	1	ODU  	ARK  	4-2	home   	final	Arkansas vs Old Dominion                	2021-05-07T10:00-04:00	old-dominion     	arkansas           
-5833664	118	2021-05-07	10:00 EDT	UGA 	1	WAKE 	FUR  	4-2	home   	final	Furman vs Wake Forest                   	2021-05-07T10:00-04:00	wake-forest      	furman             
-5833668	122	2021-05-07	10:00 EDT	FLA 	1	OKLA 	USC  	4-3	visitor	final	Southern California vs Oklahoma         	2021-05-07T10:00-04:00	oklahoma         	southern-california
-5833657	111	2021-05-07	11:00 EDT	LSU 	1	MICH 	RICE 	4-1	home   	final	Rice vs Michigan                        	2021-05-07T11:00-04:00	michigan         	rice               
-5833660	114	2021-05-07	11:00 EDT	GT  	1	MISS 	UNF  	4-3	visitor	final	North Florida vs Ole Miss               	2021-05-07T11:00-04:00	ole-miss         	north-florida      
-5833669	123	2021-05-07	11:00 EDT	NCST	1	SCAR 	ISU  	4-2	visitor	final	Iowa St. vs South Carolina              	2021-05-07T11:00-04:00	south-carolina   	iowa-st            
-5833676	130	2021-05-07	11:00 EDT	OSU 	1	VANDY	BALL 	4-0	home   	final	Ball St. vs Vanderbilt                  	2021-05-07T11:00-04:00	vanderbilt       	ball-st            
-5833652	106	2021-05-07	12:00 EDT	UCF 	1	MIA  	FIU  	4-0	home   	final	FIU vs Miami (FL)                       	2021-05-07T12:00-04:00	miami-fl         	fiu                
-5833665	119	2021-05-07	12:00 EDT	UVA 	1	TENN 	JMU  	4-0	home   	final	James Madison vs Tennessee              	2021-05-07T12:00-04:00	tennessee        	james-madison      
-5833647	101	2021-05-07	1:00 EDT 	UNC 	1	UNC  	SCST 	4-0	home   	final	South Carolina St. vs #1 North Carolina 	2021-05-07T13:00-04:00	north-carolina   	south-carolina-st  
-5833649	103	2021-05-07	1:00 EDT 	CAL 	1	UK   	SYR  	4-3	home   	final	Syracuse vs Kentucky                    	2021-05-07T13:00-04:00	kentucky         	syracuse           
-5833656	110	2021-05-07	1:00 EDT 	PEPP	1	STAN 	UCSB 	4-0	home   	final	UC Santa Barbara vs Stanford            	2021-05-07T13:00-04:00	stanford         	uc-santa-barbara   
-5833662	116	2021-05-07	1:00 EDT 	UCLA	1	UCLA 	GCU  	4-0	home   	final	Grand Canyon vs #4 UCLA                 	2021-05-07T13:00-04:00	ucla             	grand-canyon       
-5833663	117	2021-05-07	1:00 EDT 	UGA 	1	UGA  	PEAY 	4-0	home   	final	Austin Peay vs #3 Georgia               	2021-05-07T13:00-04:00	georgia          	austin-peay        
-5833667	121	2021-05-07	1:00 EDT 	FLA 	1	FLA  	SIEN 	4-0	home   	final	Siena vs #11 Florida                    	2021-05-07T13:00-04:00	florida          	siena              
-5833672	126	2021-05-07	1:00 EDT 	FSU 	1	AUB  	OKST 	4-2	home   	final	Oklahoma St. vs Auburn                  	2021-05-07T13:00-04:00	auburn           	oklahoma-st        
-5833674	128	2021-05-07	1:00 EDT 	NW  	1	A&M  	DRKE 	4-0	home   	final	Drake vs #10 Texas A&M                  	2021-05-07T13:00-04:00	texas-am         	drake              
-5833677	131	2021-05-07	1:00 EDT 	TEX 	1	AZST 	MSST 	4-0	home   	final	Mississippi St. vs Arizona St.          	2021-05-07T13:00-04:00	arizona-st       	mississippi-st     
-5833658	112	2021-05-07	2:00 EDT 	LSU 	1	LSU  	BU   	4-0	home   	final	Boston U. vs #12 LSU                    	2021-05-07T14:00-04:00	lsu              	boston-u           
-5833659	113	2021-05-07	2:00 EDT 	GT  	1	GT   	GASO 	4-0	home   	final	Ga. Southern vs #13 Georgia Tech        	2021-05-07T14:00-04:00	georgia-tech     	ga-southern        
-5833670	124	2021-05-07	2:00 EDT 	NCST	1	NCST 	VCU  	4-0	home   	final	VCU vs #6 NC State                      	2021-05-07T14:00-04:00	north-carolina-st	vcu                
-5833675	129	2021-05-07	2:00 EDT 	OSU 	1	OSU  	UIC  	4-0	home   	final	UIC vs #15 Ohio St.                     	2021-05-07T14:00-04:00	ohio-st          	ill-chicago        
-5833651	105	2021-05-07	3:00 EDT 	UCF 	1	UCF  	CHSO 	4-0	home   	final	Charleston So. vs #9 UCF                	2021-05-07T15:00-04:00	ucf              	charleston-so      
-5833653	107	2021-05-07	3:00 EDT 	BAY 	1	DUKE 	BAMA 	4-0	home   	final	Alabama vs Duke                         	2021-05-07T15:00-04:00	duke             	alabama            
-5833666	120	2021-05-07	3:00 EDT 	UVA 	1	UVA  	LIU  	4-0	home   	final	LIU vs #14 Virginia                     	2021-05-07T15:00-04:00	virginia         	long-island        
-5833650	104	2021-05-07	4:00 EDT 	CAL 	1	CAL  	SJSU 	4-0	home   	final	San Jose St. vs #16 California          	2021-05-07T16:00-04:00	california       	san-jose-st        
-5833661	115	2021-05-07	4:00 EDT 	UCLA	1	TTU  	USD  	4-0	home   	final	San Diego vs Texas Tech                 	2021-05-07T16:00-04:00	texas-tech       	san-diego          
-5833671	125	2021-05-07	4:00 EDT 	FSU 	1	FSU  	ALST 	4-0	home   	final	Alabama St. vs #7 Florida St.           	2021-05-07T16:00-04:00	florida-st       	alabama-st         
-5833673	127	2021-05-07	4:00 EDT 	NW  	1	NW   	XAV  	4-0	home   	final	Xavier vs Northwestern                  	2021-05-07T16:00-04:00	northwestern     	xavier             
-5833678	132	2021-05-07	4:00 EDT 	TEX 	1	TEX  	DEN  	4-0	home   	final	Denver vs #2 Texas                      	2021-05-07T16:00-04:00	texas            	denver             
-5833655	109	2021-05-07	5:00 EDT 	PEPP	1	PEPP 	NAU  	4-0	home   	final	Northern Ariz. vs #5 Pepperdine         	2021-05-07T17:00-04:00	pepperdine       	northern-ariz      
-5833654	108	2021-05-07	6:00 EDT 	BAY 	1	BAY  	TAMCC	4-0	home   	final	A&M-Corpus Christi vs #8 Baylor         	2021-05-07T18:00-04:00	baylor           	am-corpus-chris    
-5833693	215	2021-05-08	12:00 EDT	OSU 	2	OSU  	VANDY	4-3	home   	final	Vanderbilt vs #15 Ohio St.              	2021-05-08T12:00-04:00	ohio-st          	vanderbilt         
-5833692	214	2021-05-08	1:00 EDT 	NW  	2	A&M  	NW   	4-1	home   	final	Northwestern vs #10 Texas A&M           	2021-05-08T13:00-04:00	texas-am         	northwestern       
-5833684	206	2021-05-08	2:00 EDT 	LSU 	2	LSU  	MICH 	4-3	visitor	final	Michigan vs #12 LSU                     	2021-05-08T14:00-04:00	lsu              	michigan           
-5833685	207	2021-05-08	2:00 EDT 	GT  	2	GT   	UNF  	4-0	home   	final	North Florida vs #13 Georgia Tech       	2021-05-08T14:00-04:00	georgia-tech     	north-florida      
-5833690	212	2021-05-08	2:00 EDT 	NCST	2	NCST 	ISU  	4-2	home   	final	Iowa St. vs #6 NC State                 	2021-05-08T14:00-04:00	north-carolina-st	iowa-st            
-5833686	208	2021-05-08	3:00 EDT 	UCLA	2	UCLA 	TTU  	4-0	home   	final	Texas Tech vs #4 UCLA                   	2021-05-08T15:00-04:00	ucla             	texas-tech         
-5833679	201	2021-05-08	4:00 EDT 	UNC 	2	UNC  	ODU  	4-0	home   	final	Old Dominion vs #1 North Carolina       	2021-05-08T16:00-04:00	north-carolina   	old-dominion       
-5833680	202	2021-05-08	4:00 EDT 	CAL 	2	CAL  	UK   	4-2	home   	final	Kentucky vs #16 California              	2021-05-08T16:00-04:00	california       	kentucky           
-5833683	205	2021-05-08	4:00 EDT 	PEPP	2	PEPP 	STAN 	4-2	home   	final	Stanford vs #5 Pepperdine               	2021-05-08T16:00-04:00	pepperdine       	stanford           
-5833687	209	2021-05-08	4:00 EDT 	UGA 	2	UGA  	WAKE 	4-1	home   	final	Wake Forest vs #3 Georgia               	2021-05-08T16:00-04:00	georgia          	wake-forest        
-5833688	210	2021-05-08	4:00 EDT 	UVA 	2	UVA  	TENN 	4-0	home   	final	Tennessee vs #14 Virginia               	2021-05-08T16:00-04:00	virginia         	tennessee          
-5833689	211	2021-05-08	4:00 EDT 	FLA 	2	FLA  	USC  	4-1	visitor	final	Southern California vs #11 Florida      	2021-05-08T16:00-04:00	florida          	southern-california
-5833691	213	2021-05-08	4:00 EDT 	FSU 	2	FSU  	AUB  	4-1	home   	final	Auburn vs #7 Florida St.                	2021-05-08T16:00-04:00	florida-st       	auburn             
-5833694	216	2021-05-08	4:00 EDT 	TEX 	2	TEX  	AZST 	4-0	home   	final	Arizona St. vs #2 Texas                 	2021-05-08T16:00-04:00	texas            	arizona-st         
-5833681	203	2021-05-08	5:00 EDT 	UCF 	2	UCF  	MIA  	4-1	home   	final	Miami (FL) vs #9 UCF                    	2021-05-08T17:00-04:00	ucf              	miami-fl           
-5833682	204	2021-05-08	6:00 EDT 	BAY 	2	BAY  	DUKE 	4-3	visitor	final	Duke vs #8 Baylor                       	2021-05-08T18:00-04:00	baylor           	duke               
-5833699	305	2021-05-16	10:00 EDT	UCF 	3	UGA  	UVA  	4-1	home   	final	#14 Virginia vs #3 Georgia              	2021-05-16T10:00-04:00	georgia          	virginia           
-5833700	306	2021-05-16	10:00 EDT	UCF 	3	NCST 	USC  	4-1	home   	final	Southern California vs #6 NC State      	2021-05-16T10:00-04:00	north-carolina-st	southern-california
-5833701	307	2021-05-16	1:00 EDT 	UCF 	3	FSU  	A&M  	4-2	home   	final	#10 Texas A&M vs #7 Florida St.         	2021-05-16T13:00-04:00	florida-st       	texas-am           
-5833702	308	2021-05-16	1:55 EDT 	UCF 	3	TEX  	OSU  	4-1	home   	final	#15 Ohio St. vs #2 Texas                	2021-05-16T13:55-04:00	texas            	ohio-st            
-5833697	303	2021-05-16	4:45 EDT 	UCF 	3	PEPP 	MICH 	4-0	home   	final	Michigan vs #5 Pepperdine               	2021-05-16T16:45-04:00	pepperdine       	michigan           
-5833698	304	2021-05-16	4:50 EDT 	UCF 	3	UCLA 	GT   	4-0	home   	final	#13 Georgia Tech vs #4 UCLA             	2021-05-16T16:50-04:00	ucla             	georgia-tech       
-5833696	302	2021-05-16	7:15 EDT 	UCF 	3	UCF  	DUKE 	4-3	visitor	final	Duke vs #9 UCF                          	2021-05-16T19:15-04:00	ucf              	duke               
-5833695	301	2021-05-16	7:35 EDT 	UCF 	3	UNC  	CAL  	4-0	home   	final	#16 California vs #1 North Carolina     	2021-05-16T19:35-04:00	north-carolina   	california         
-5833705	403	2021-05-19	11:25 EDT	UCF 	4	UGA  	NCST 	4-2	visitor	final	#6 NC State vs #3 Georgia               	2021-05-19T11:25-04:00	georgia          	north-carolina-st  
-5833706	404	2021-05-19	2:00 EDT 	UCF 	4	TEX  	FSU  	4-0	home   	final	#7 Florida St. vs #2 Texas              	2021-05-19T14:00-04:00	texas            	florida-st         
-5833704	402	2021-05-19	5:30 EDT 	UCF 	4	UCLA 	PEPP 	0-0	       	pre  	#5 Pepperdine vs #4 UCLA                	2021-05-19T17:30-04:00	ucla             	pepperdine         
-5833703	401	2021-05-19	7:30 EDT 	UCF 	4	UNC  	DUKE 	0-0	       	pre  	Duke vs #1 North Carolina               	2021-05-19T19:30-04:00	north-carolina   	duke               
-5833708	502	2021-05-21	11:00 EDT	UCF 	5	TEX  	NCST 	0-0	       	pre  	#6 NC State vs #2 Texas                 	2021-05-21T11:00-04:00	texas            	north-carolina-st  
+5833648	102	2021-05-07	10:00 EDT	UNC 	1	ODU  	ARK  	4-2	home   	final      	Arkansas vs Old Dominion                	2021-05-07T10:00-04:00	old-dominion     	arkansas           
+5833664	118	2021-05-07	10:00 EDT	UGA 	1	WAKE 	FUR  	4-2	home   	final      	Furman vs Wake Forest                   	2021-05-07T10:00-04:00	wake-forest      	furman             
+5833668	122	2021-05-07	10:00 EDT	FLA 	1	OKLA 	USC  	4-3	visitor	final      	Southern California vs Oklahoma         	2021-05-07T10:00-04:00	oklahoma         	southern-california
+5833657	111	2021-05-07	11:00 EDT	LSU 	1	MICH 	RICE 	4-1	home   	final      	Rice vs Michigan                        	2021-05-07T11:00-04:00	michigan         	rice               
+5833660	114	2021-05-07	11:00 EDT	GT  	1	MISS 	UNF  	4-3	visitor	final      	North Florida vs Ole Miss               	2021-05-07T11:00-04:00	ole-miss         	north-florida      
+5833669	123	2021-05-07	11:00 EDT	NCST	1	SCAR 	ISU  	4-2	visitor	final      	Iowa St. vs South Carolina              	2021-05-07T11:00-04:00	south-carolina   	iowa-st            
+5833676	130	2021-05-07	11:00 EDT	OSU 	1	VANDY	BALL 	4-0	home   	final      	Ball St. vs Vanderbilt                  	2021-05-07T11:00-04:00	vanderbilt       	ball-st            
+5833652	106	2021-05-07	12:00 EDT	UCF 	1	MIA  	FIU  	4-0	home   	final      	FIU vs Miami (FL)                       	2021-05-07T12:00-04:00	miami-fl         	fiu                
+5833665	119	2021-05-07	12:00 EDT	UVA 	1	TENN 	JMU  	4-0	home   	final      	James Madison vs Tennessee              	2021-05-07T12:00-04:00	tennessee        	james-madison      
+5833647	101	2021-05-07	1:00 EDT 	UNC 	1	UNC  	SCST 	4-0	home   	final      	South Carolina St. vs #1 North Carolina 	2021-05-07T13:00-04:00	north-carolina   	south-carolina-st  
+5833649	103	2021-05-07	1:00 EDT 	CAL 	1	UK   	SYR  	4-3	home   	final      	Syracuse vs Kentucky                    	2021-05-07T13:00-04:00	kentucky         	syracuse           
+5833656	110	2021-05-07	1:00 EDT 	PEPP	1	STAN 	UCSB 	4-0	home   	final      	UC Santa Barbara vs Stanford            	2021-05-07T13:00-04:00	stanford         	uc-santa-barbara   
+5833662	116	2021-05-07	1:00 EDT 	UCLA	1	UCLA 	GCU  	4-0	home   	final      	Grand Canyon vs #4 UCLA                 	2021-05-07T13:00-04:00	ucla             	grand-canyon       
+5833663	117	2021-05-07	1:00 EDT 	UGA 	1	UGA  	PEAY 	4-0	home   	final      	Austin Peay vs #3 Georgia               	2021-05-07T13:00-04:00	georgia          	austin-peay        
+5833667	121	2021-05-07	1:00 EDT 	FLA 	1	FLA  	SIEN 	4-0	home   	final      	Siena vs #11 Florida                    	2021-05-07T13:00-04:00	florida          	siena              
+5833672	126	2021-05-07	1:00 EDT 	FSU 	1	AUB  	OKST 	4-2	home   	final      	Oklahoma St. vs Auburn                  	2021-05-07T13:00-04:00	auburn           	oklahoma-st        
+5833674	128	2021-05-07	1:00 EDT 	NW  	1	A&M  	DRKE 	4-0	home   	final      	Drake vs #10 Texas A&M                  	2021-05-07T13:00-04:00	texas-am         	drake              
+5833677	131	2021-05-07	1:00 EDT 	TEX 	1	AZST 	MSST 	4-0	home   	final      	Mississippi St. vs Arizona St.          	2021-05-07T13:00-04:00	arizona-st       	mississippi-st     
+5833658	112	2021-05-07	2:00 EDT 	LSU 	1	LSU  	BU   	4-0	home   	final      	Boston U. vs #12 LSU                    	2021-05-07T14:00-04:00	lsu              	boston-u           
+5833659	113	2021-05-07	2:00 EDT 	GT  	1	GT   	GASO 	4-0	home   	final      	Ga. Southern vs #13 Georgia Tech        	2021-05-07T14:00-04:00	georgia-tech     	ga-southern        
+5833670	124	2021-05-07	2:00 EDT 	NCST	1	NCST 	VCU  	4-0	home   	final      	VCU vs #6 NC State                      	2021-05-07T14:00-04:00	north-carolina-st	vcu                
+5833675	129	2021-05-07	2:00 EDT 	OSU 	1	OSU  	UIC  	4-0	home   	final      	UIC vs #15 Ohio St.                     	2021-05-07T14:00-04:00	ohio-st          	ill-chicago        
+5833651	105	2021-05-07	3:00 EDT 	UCF 	1	UCF  	CHSO 	4-0	home   	final      	Charleston So. vs #9 UCF                	2021-05-07T15:00-04:00	ucf              	charleston-so      
+5833653	107	2021-05-07	3:00 EDT 	BAY 	1	DUKE 	BAMA 	4-0	home   	final      	Alabama vs Duke                         	2021-05-07T15:00-04:00	duke             	alabama            
+5833666	120	2021-05-07	3:00 EDT 	UVA 	1	UVA  	LIU  	4-0	home   	final      	LIU vs #14 Virginia                     	2021-05-07T15:00-04:00	virginia         	long-island        
+5833650	104	2021-05-07	4:00 EDT 	CAL 	1	CAL  	SJSU 	4-0	home   	final      	San Jose St. vs #16 California          	2021-05-07T16:00-04:00	california       	san-jose-st        
+5833661	115	2021-05-07	4:00 EDT 	UCLA	1	TTU  	USD  	4-0	home   	final      	San Diego vs Texas Tech                 	2021-05-07T16:00-04:00	texas-tech       	san-diego          
+5833671	125	2021-05-07	4:00 EDT 	FSU 	1	FSU  	ALST 	4-0	home   	final      	Alabama St. vs #7 Florida St.           	2021-05-07T16:00-04:00	florida-st       	alabama-st         
+5833673	127	2021-05-07	4:00 EDT 	NW  	1	NW   	XAV  	4-0	home   	final      	Xavier vs Northwestern                  	2021-05-07T16:00-04:00	northwestern     	xavier             
+5833678	132	2021-05-07	4:00 EDT 	TEX 	1	TEX  	DEN  	4-0	home   	final      	Denver vs #2 Texas                      	2021-05-07T16:00-04:00	texas            	denver             
+5833655	109	2021-05-07	5:00 EDT 	PEPP	1	PEPP 	NAU  	4-0	home   	final      	Northern Ariz. vs #5 Pepperdine         	2021-05-07T17:00-04:00	pepperdine       	northern-ariz      
+5833654	108	2021-05-07	6:00 EDT 	BAY 	1	BAY  	TAMCC	4-0	home   	final      	A&M-Corpus Christi vs #8 Baylor         	2021-05-07T18:00-04:00	baylor           	am-corpus-chris    
+5833693	215	2021-05-08	12:00 EDT	OSU 	2	OSU  	VANDY	4-3	home   	final      	Vanderbilt vs #15 Ohio St.              	2021-05-08T12:00-04:00	ohio-st          	vanderbilt         
+5833692	214	2021-05-08	1:00 EDT 	NW  	2	A&M  	NW   	4-1	home   	final      	Northwestern vs #10 Texas A&M           	2021-05-08T13:00-04:00	texas-am         	northwestern       
+5833684	206	2021-05-08	2:00 EDT 	LSU 	2	LSU  	MICH 	4-3	visitor	final      	Michigan vs #12 LSU                     	2021-05-08T14:00-04:00	lsu              	michigan           
+5833685	207	2021-05-08	2:00 EDT 	GT  	2	GT   	UNF  	4-0	home   	final      	North Florida vs #13 Georgia Tech       	2021-05-08T14:00-04:00	georgia-tech     	north-florida      
+5833690	212	2021-05-08	2:00 EDT 	NCST	2	NCST 	ISU  	4-2	home   	final      	Iowa St. vs #6 NC State                 	2021-05-08T14:00-04:00	north-carolina-st	iowa-st            
+5833686	208	2021-05-08	3:00 EDT 	UCLA	2	UCLA 	TTU  	4-0	home   	final      	Texas Tech vs #4 UCLA                   	2021-05-08T15:00-04:00	ucla             	texas-tech         
+5833679	201	2021-05-08	4:00 EDT 	UNC 	2	UNC  	ODU  	4-0	home   	final      	Old Dominion vs #1 North Carolina       	2021-05-08T16:00-04:00	north-carolina   	old-dominion       
+5833680	202	2021-05-08	4:00 EDT 	CAL 	2	CAL  	UK   	4-2	home   	final      	Kentucky vs #16 California              	2021-05-08T16:00-04:00	california       	kentucky           
+5833683	205	2021-05-08	4:00 EDT 	PEPP	2	PEPP 	STAN 	4-2	home   	final      	Stanford vs #5 Pepperdine               	2021-05-08T16:00-04:00	pepperdine       	stanford           
+5833687	209	2021-05-08	4:00 EDT 	UGA 	2	UGA  	WAKE 	4-1	home   	final      	Wake Forest vs #3 Georgia               	2021-05-08T16:00-04:00	georgia          	wake-forest        
+5833688	210	2021-05-08	4:00 EDT 	UVA 	2	UVA  	TENN 	4-0	home   	final      	Tennessee vs #14 Virginia               	2021-05-08T16:00-04:00	virginia         	tennessee          
+5833689	211	2021-05-08	4:00 EDT 	FLA 	2	FLA  	USC  	4-1	visitor	final      	Southern California vs #11 Florida      	2021-05-08T16:00-04:00	florida          	southern-california
+5833691	213	2021-05-08	4:00 EDT 	FSU 	2	FSU  	AUB  	4-1	home   	final      	Auburn vs #7 Florida St.                	2021-05-08T16:00-04:00	florida-st       	auburn             
+5833694	216	2021-05-08	4:00 EDT 	TEX 	2	TEX  	AZST 	4-0	home   	final      	Arizona St. vs #2 Texas                 	2021-05-08T16:00-04:00	texas            	arizona-st         
+5833681	203	2021-05-08	5:00 EDT 	UCF 	2	UCF  	MIA  	4-1	home   	final      	Miami (FL) vs #9 UCF                    	2021-05-08T17:00-04:00	ucf              	miami-fl           
+5833682	204	2021-05-08	6:00 EDT 	BAY 	2	BAY  	DUKE 	4-3	visitor	final      	Duke vs #8 Baylor                       	2021-05-08T18:00-04:00	baylor           	duke               
+5833699	305	2021-05-16	10:00 EDT	UCF 	3	UGA  	UVA  	4-1	home   	final      	#14 Virginia vs #3 Georgia              	2021-05-16T10:00-04:00	georgia          	virginia           
+5833700	306	2021-05-16	10:00 EDT	UCF 	3	NCST 	USC  	4-1	home   	final      	Southern California vs #6 NC State      	2021-05-16T10:00-04:00	north-carolina-st	southern-california
+5833701	307	2021-05-16	1:00 EDT 	UCF 	3	FSU  	A&M  	4-2	home   	final      	#10 Texas A&M vs #7 Florida St.         	2021-05-16T13:00-04:00	florida-st       	texas-am           
+5833702	308	2021-05-16	1:55 EDT 	UCF 	3	TEX  	OSU  	4-1	home   	final      	#15 Ohio St. vs #2 Texas                	2021-05-16T13:55-04:00	texas            	ohio-st            
+5833697	303	2021-05-16	4:45 EDT 	UCF 	3	PEPP 	MICH 	4-0	home   	final      	Michigan vs #5 Pepperdine               	2021-05-16T16:45-04:00	pepperdine       	michigan           
+5833698	304	2021-05-16	4:50 EDT 	UCF 	3	UCLA 	GT   	4-0	home   	final      	#13 Georgia Tech vs #4 UCLA             	2021-05-16T16:50-04:00	ucla             	georgia-tech       
+5833696	302	2021-05-16	7:15 EDT 	UCF 	3	UCF  	DUKE 	4-3	visitor	final      	Duke vs #9 UCF                          	2021-05-16T19:15-04:00	ucf              	duke               
+5833695	301	2021-05-16	7:35 EDT 	UCF 	3	UNC  	CAL  	4-0	home   	final      	#16 California vs #1 North Carolina     	2021-05-16T19:35-04:00	north-carolina   	california         
+5833705	403	2021-05-19	11:25 EDT	UCF 	4	UGA  	NCST 	4-2	visitor	final      	#6 NC State vs #3 Georgia               	2021-05-19T11:25-04:00	georgia          	north-carolina-st  
+5833706	404	2021-05-19	2:00 EDT 	UCF 	4	TEX  	FSU  	4-0	home   	final      	#7 Florida St. vs #2 Texas              	2021-05-19T14:00-04:00	texas            	florida-st         
+5833704	402	2021-05-19	5:30 EDT 	UCF 	4	UCLA 	PEPP 	0-0	       	in-progress	#5 Pepperdine vs #4 UCLA                	2021-05-19T17:30-04:00	ucla             	pepperdine         
+5833703	401	2021-05-19	7:30 EDT 	UCF 	4	UNC  	DUKE 	0-0	       	pre        	Duke vs #1 North Carolina               	2021-05-19T19:30-04:00	north-carolina   	duke               
+5833708	502	2021-05-21	11:00 EDT	UCF 	5	TEX  	NCST 	0-0	       	pre        	#6 NC State vs #2 Texas                 	2021-05-21T11:00-04:00	texas            	north-carolina-st  
