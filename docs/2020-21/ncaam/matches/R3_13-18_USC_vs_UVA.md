@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***USC def. Virginia 4-2***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=779&clubid=269-299&cn1=Virginia&cn2=USC&ci1=269&ci2=299&lid=82)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=779&clubid=269-299&cn1=Virginia&cn2=USC&ci1=269&ci2=299&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16USCUVA.pdf)  
 
 ## Predictions  
 

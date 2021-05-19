@@ -1,5 +1,5 @@
 Third Round[](#top)<a name="top"></a>  
-[Monday, May 17](../../schedule/05-17.md) at 7:00 EDT  
+[Monday, May 17](../../schedule/05-17.md) at 7:40 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Florida def. Illinois 4-0***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=781&clubid=251-298&cn1=Florida&cn2=Illinois&ci1=251&ci2=298&lid=82)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=781&clubid=251-298&cn1=Florida&cn2=Illinois&ci1=251&ci2=298&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16UFILL.pdf)  
 
 ## Predictions  
 

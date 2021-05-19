@@ -1,5 +1,5 @@
 Third Round[](#top)<a name="top"></a>  
-[Monday, May 17](../../schedule/05-17.md) at 4:00 EDT  
+[Monday, May 17](../../schedule/05-17.md) at 4:25 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Texas def. South Carolina 4-3***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=780&clubid=265-295&cn1=Texas&cn2=S%20Carolina&ci1=265&ci2=295&lid=82)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=780&clubid=265-295&cn1=Texas&cn2=S%20Carolina&ci1=265&ci2=295&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16TEXSCAR.pdf)  
 
 ## Predictions  
 

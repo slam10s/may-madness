@@ -24,22 +24,22 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 
 The various metrics disagree on the outcome of these matches:
 
-- Sun, 5/16 at  7:00 EDT	[Duke vs #9 UCF](./matches/R3_7-12_DUKE_vs_UCF.md) ... UCF (3) / <b><i>DUKE (4)</i></b>
+- Sun, 5/16 at  7:15 EDT	[Duke vs #9 UCF](./matches/R3_7-12_DUKE_vs_UCF.md) ... UCF (3) / <b><i>DUKE (4)</i></b>
 - Sun, 5/16 at 10:00 EDT	[Southern California vs #6 NC State](./matches/R3_31-36_USC_vs_NCST.md) ... <b>NCST (4)</b> / USC (1)
 
 The metrics agree on the winner, but not by a lot:
 
 - Sun, 5/16 at  1:00 EDT	[#10 Texas A&M vs #7 Florida St.](./matches/R3_37-42_AM_vs_FSU.md) ... <b>FSU (4)</b> / A&M (2)
-- Sun, 5/16 at  4:00 EDT	[Michigan vs #5 Pepperdine](./matches/R3_13-18_MICH_vs_PEPP.md) ... <b>PEPP (4)</b> / MICH (0)
+- Sun, 5/16 at  4:45 EDT	[Michigan vs #5 Pepperdine](./matches/R3_13-18_MICH_vs_PEPP.md) ... <b>PEPP (4)</b> / MICH (0)
 
 ### Heavy Favorites
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Sun, 5/16 at  4:00 EDT	[#13 Georgia Tech vs #4 UCLA](./matches/R3_19-24_GT_vs_UCLA.md) ... <b>UCLA (4)</b> / GT (0)
+- Sun, 5/16 at  4:50 EDT	[#13 Georgia Tech vs #4 UCLA](./matches/R3_19-24_GT_vs_UCLA.md) ... <b>UCLA (4)</b> / GT (0)
 - Sun, 5/16 at 10:00 EDT	[#14 Virginia vs #3 Georgia](./matches/R3_25-30_UVA_vs_UGA.md) ... <b>UGA (4)</b> / UVA (1)
-- Sun, 5/16 at  1:00 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... <b>TEX (4)</b> / OSU (1)
-- Sun, 5/16 at  7:00 EDT	[#16 California vs #1 North Carolina](./matches/R3_1-6_CAL_vs_UNC.md) ... <b>UNC (4)</b> / CAL (0)
+- Sun, 5/16 at  1:55 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... <b>TEX (4)</b> / OSU (1)
+- Sun, 5/16 at  7:35 EDT	[#16 California vs #1 North Carolina](./matches/R3_1-6_CAL_vs_UNC.md) ... <b>UNC (4)</b> / CAL (0)
 ## Second Round
 
 ### Intriguing Matches

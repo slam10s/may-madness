@@ -1,5 +1,5 @@
 Third Round[](#top)<a name="top"></a>  
-[Monday, May 17](../../schedule/05-17.md) at 1:00 EDT  
+[Monday, May 17](../../schedule/05-17.md) at 1:25 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Baylor def. Ole Miss 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=778&clubid=552-670&cn1=Baylor&cn2=Ole%20Miss&ci1=552&ci2=670&lid=82)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=778&clubid=552-670&cn1=Baylor&cn2=Ole%20Miss&ci1=552&ci2=670&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16BAYMISS.pdf)  
 
 ## Predictions  
 
