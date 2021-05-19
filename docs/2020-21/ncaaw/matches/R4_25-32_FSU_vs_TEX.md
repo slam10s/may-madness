@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Match Information  
+***Florida State def. Texas 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=787&clubid=265-241&cn1=Texas&cn2=Florida%20State&ci1=265&ci2=241&lid=83) | [Video](https://t1.app.link/ncaachampionships)  
 
 ## Predictions  

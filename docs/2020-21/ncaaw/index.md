@@ -3,6 +3,13 @@
 
 Return to the [Home Page](../../index.md)
 
+## Semifinals
+
+### Heavy Favorites
+
+The favorite is expected to win at least 4 out of every 5 these teams play:
+
+- Wed, 5/19 at       TBA	[#6 NC State vs #2 Texas](./matches/R5_11-20_NCST_vs_TEX.md) ... TEX (94%) / NCST (6%)
 ## Quarterfinals
 
 ### Intriguing Matches
@@ -16,7 +23,7 @@ The various metrics disagree on the outcome of these matches:
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Wed, 5/19 at 11:25 EDT	[#6 NC State vs #3 Georgia](./matches/R4_17-24_NCST_vs_UGA.md) ... UGA (2) / <b><i>NCST (4)</i></b>
-- Wed, 5/19 at  2:00 EDT	[#7 Florida St. vs #2 Texas](./matches/R4_25-32_FSU_vs_TEX.md) ... TEX (96%) / FSU (4%)
+- Wed, 5/19 at  2:00 EDT	[#7 Florida St. vs #2 Texas](./matches/R4_25-32_FSU_vs_TEX.md) ... TEX (4) / <b><i>FSU (0)</i></b>
 - Wed, 5/19 at  7:30 EDT	[Duke vs #1 North Carolina](./matches/R4_1-8_DUKE_vs_UNC.md) ... UNC (97%) / DUKE (3%)
 ## Sweet Sixteen
 
