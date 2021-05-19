@@ -13,7 +13,7 @@ Orlando, Florida
 &nbsp; ITA: 12 (52.23)<br>  
 &nbsp; Slam: 10 (97.08)<br>  
 &nbsp; TRN: 11 (96.10)<br>  
-&#10004; Massey: 9 (8.63)<br>  
+&#10004; Massey: 7 (8.72)<br>  
 &#10004; UTR: 2 (80.36)<br>  
 &nbsp; USTA Poll: 15 (169.00)<br>  
 &nbsp; Coaches Poll: 12<br>  
@@ -27,7 +27,7 @@ Orlando, Florida
 &#10004; ITA: 4 (74.24)<br>  
 &#10004; Slam: 8 (97.83)<br>  
 &#10004; TRN: 4 (98.42)<br>  
-&nbsp; Massey: 10 (8.59)<br>  
+&nbsp; Massey: 8 (8.65)<br>  
 &nbsp; UTR: 12 (79.13)<br>  
 &#10004; USTA Poll: 8 (263.00)<br>  
 &#10004; Coaches Poll: 4<br>  
@@ -48,7 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***USC*** - Southern California (53%) def. Texas (47%)  
 - Slam: ***TEX*** - #8 Texas (60%) def. #10 Southern California (40%)  
 - TRN: ***TEX*** - #4 Texas (79%) def. #11 Southern California (21%)  
-- Massey: ***USC*** - #9 Southern California (67%) def. #10 Texas (33%)  
+- Massey: ***USC*** - #7 Southern California (67%) def. #8 Texas (33%)  
 - Lineup: ***USC*** - Southern California (85%) def. Texas (15%)  
 - UTR: ***USC*** - #2 Southern California (+1.23) def. #12 Texas (-1.23)  
 - ITA: ***TEX*** - #4 Texas def. #12 Southern California  

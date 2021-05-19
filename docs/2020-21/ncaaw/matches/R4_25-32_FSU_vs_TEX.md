@@ -13,7 +13,7 @@ Orlando, Florida
 &nbsp; ITA: 7 (55.39)<br>  
 &nbsp; Slam: 7 (92.00)<br>  
 &nbsp; TRN: 9 (87.52)<br>  
-&nbsp; Massey: 10 (8.15)<br>  
+&nbsp; Massey: 9 (8.17)<br>  
 &nbsp; UTR: 11 (62.52)<br>  
 &nbsp; USTA Poll: 13 (181.00)<br>  
 &nbsp; Coaches Poll: 7<br>  
@@ -27,7 +27,7 @@ Orlando, Florida
 &#10004; ITA: 2 (79.31)<br>  
 &#10004; Slam: 2 (98.40)<br>  
 &#10004; TRN: 2 (97.58)<br>  
-&#10004; Massey: 2 (9.42)<br>  
+&#10004; Massey: 2 (9.41)<br>  
 &#10004; UTR: 1 (65.46)<br>  
 &#10004; USTA Poll: 3 (312.00)<br>  
 &#10004; Coaches Poll: 2<br>  
@@ -48,7 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***TEX*** - Texas (96%) def. Florida St. (4%)  
 - Slam: ***TEX*** - #2 Texas (97%) def. #7 Florida St. (3%)  
 - TRN: ***TEX*** - #2 Texas (99%) def. #9 Florida St. (1%)  
-- Massey: ***TEX*** - #2 Texas (92%) def. #10 Florida St. (8%)  
+- Massey: ***TEX*** - #2 Texas (92%) def. #9 Florida St. (8%)  
 - Lineup: ***TEX*** - Texas (97%) def. Florida St. (3%)  
 - UTR: ***TEX*** - #1 Texas (+2.94) def. #11 Florida St. (-2.94)  
 - ITA: ***TEX*** - #2 Texas def. #7 Florida St.  

@@ -13,7 +13,7 @@ Orlando, Florida
 &nbsp; ITA: 18 (43.05)<br>  
 &nbsp; Slam: 12 (91.26)<br>  
 &nbsp; TRN: 13 (86.94)<br>  
-&nbsp; Massey: 9 (8.20)<br>  
+&nbsp; Massey: 8 (8.21)<br>  
 &nbsp; UTR: 14 (62.23)<br>  
 &nbsp; USTA Poll: 15 (162.00)<br>  
 &nbsp; Coaches Poll: 20<br>  
@@ -27,7 +27,7 @@ Orlando, Florida
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
-&#10004; Massey: 1 (9.78)<br>  
+&#10004; Massey: 1 (9.79)<br>  
 &#10004; UTR: 2 (65.02)<br>  
 &#10004; USTA Poll: 2 (325.00)<br>  
 &#10004; Coaches Poll: 1<br>  
@@ -48,7 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***UNC*** - North Carolina (97%) def. Duke (3%)  
 - Slam: ***UNC*** - #1 North Carolina (99%) def. #12 Duke (1%)  
 - TRN: ***UNC*** - #1 North Carolina (99%) def. #13 Duke (1%)  
-- Massey: ***UNC*** - #1 North Carolina (91%) def. #9 Duke (9%)  
+- Massey: ***UNC*** - #1 North Carolina (91%) def. #8 Duke (9%)  
 - Lineup: ***UNC*** - North Carolina (98%) def. Duke (2%)  
 - UTR: ***UNC*** - #2 North Carolina (+2.79) def. #14 Duke (-2.79)  
 - ITA: ***UNC*** - #1 North Carolina def. #18 Duke  

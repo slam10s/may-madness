@@ -13,7 +13,7 @@ Orlando, Florida
 &nbsp; ITA: 5 (60.46)<br>  
 &nbsp; Slam: 5 (93.64)<br>  
 &#10004; TRN: 4 (90.08)<br>  
-&nbsp; Massey: 5 (8.76)<br>  
+&nbsp; Massey: 5 (8.78)<br>  
 &nbsp; UTR: 6 (64.15)<br>  
 &nbsp; USTA Poll: 6 (276.00)<br>  
 &#10004; Coaches Poll: 4<br>  
@@ -27,7 +27,7 @@ Orlando, Florida
 &#10004; ITA: 4 (61.62)<br>  
 &#10004; Slam: 4 (93.76)<br>  
 &nbsp; TRN: 5 (89.44)<br>  
-&#10004; Massey: 4 (8.90)<br>  
+&#10004; Massey: 4 (8.91)<br>  
 &#10004; UTR: 4 (64.38)<br>  
 &#10004; USTA Poll: 5 (280.00)<br>  
 &nbsp; Coaches Poll: 5<br>  

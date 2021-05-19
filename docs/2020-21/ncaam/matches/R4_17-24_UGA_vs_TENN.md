@@ -13,7 +13,7 @@ Orlando, Florida
 &nbsp; ITA: 11 (54.91)<br>  
 &nbsp; Slam: 13 (96.19)<br>  
 &nbsp; TRN: 12 (95.81)<br>  
-&nbsp; Massey: 15 (8.26)<br>  
+&nbsp; Massey: 13 (8.35)<br>  
 &nbsp; UTR: 19 (78.43)<br>  
 &nbsp; USTA Poll: 18 (131.00)<br>  
 &nbsp; Coaches Poll: 11<br>  
@@ -27,7 +27,7 @@ Orlando, Florida
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 2 (99.03)<br>  
 &#10004; TRN: 2 (99.24)<br>  
-&#10004; Massey: 2 (9.17)<br>  
+&#10004; Massey: 2 (9.19)<br>  
 &#10004; UTR: 3 (80.14)<br>  
 &#10004; USTA Poll: 6 (290.00)<br>  
 &#10004; Coaches Poll: 3<br>  
@@ -48,7 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***TENN*** - Tennessee (85%) def. Georgia (15%)  
 - Slam: ***TENN*** - #2 Tennessee (83%) def. #13 Georgia (17%)  
 - TRN: ***TENN*** - #2 Tennessee (87%) def. #12 Georgia (13%)  
-- Massey: ***TENN*** - #2 Tennessee (83%) def. #15 Georgia (17%)  
+- Massey: ***TENN*** - #2 Tennessee (83%) def. #13 Georgia (17%)  
 - Lineup: ***TENN*** - Tennessee (88%) def. Georgia (12%)  
 - UTR: ***TENN*** - #3 Tennessee (+1.71) def. #19 Georgia (-1.71)  
 - ITA: ***TENN*** - #3 Tennessee def. #11 Georgia  

@@ -13,7 +13,7 @@ Orlando, Florida
 &nbsp; ITA: 7 (69.22)<br>  
 &nbsp; Slam: 7 (97.93)<br>  
 &nbsp; TRN: 8 (97.50)<br>  
-&#10004; Massey: 6 (8.80)<br>  
+&#10004; Massey: 5 (8.88)<br>  
 &nbsp; UTR: 8 (79.78)<br>  
 &nbsp; USTA Poll: 11 (217.00)<br>  
 &nbsp; Coaches Poll: 7<br>  
@@ -27,7 +27,7 @@ Orlando, Florida
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 3 (99.00)<br>  
 &#10004; TRN: 3 (99.00)<br>  
-&nbsp; Massey: 5 (8.86)<br>  
+&nbsp; Massey: 3 (8.91)<br>  
 &#10004; UTR: 7 (79.86)<br>  
 &#10004; USTA Poll: 3 (292.00)<br>  
 &#10004; Coaches Poll: 1<br>  
@@ -48,7 +48,7 @@ Ranks listed here are the metric's ranking within the field of 64:
 - Composite: ***BAY*** - Baylor (58%) def. TCU (42%)  
 - Slam: ***BAY*** - #3 Baylor (64%) def. #7 TCU (36%)  
 - TRN: ***BAY*** - #3 Baylor (70%) def. #8 TCU (30%)  
-- Massey: ***TCU*** - #6 TCU (58%) def. #5 Baylor (42%)  
+- Massey: ***TCU*** - #5 TCU (58%) def. #3 Baylor (42%)  
 - Lineup: ***BAY*** - Baylor (58%) def. TCU (42%)  
 - UTR: ***BAY*** - #7 Baylor (+0.08) def. #8 TCU (-0.08)  
 - ITA: ***BAY*** - #1 Baylor def. #7 TCU  
