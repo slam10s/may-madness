@@ -1,5 +1,5 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Wednesday, May 19](../../schedule/05-19.md) at 11:00 EDT  
+[Wednesday, May 19](../../schedule/05-19.md) at 11:25 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 ## [#6 NC State vs #3 Georgia](https://www.ncaa.com/game/5833705)  
 
@@ -7,7 +7,7 @@ Quarterfinals[](#top)<a name="top"></a>
 <td>  
 
 <h2>#6 NC State</h2>  
-&nbsp; Record: 19-5<br>  
+&nbsp; Record: 20-5<br>  
 &nbsp; ITA: 6 (56.15)<br>  
 &nbsp; Slam: 10 (91.60)<br>  
 &nbsp; TRN: 10 (87.03)<br>  
@@ -21,7 +21,7 @@ Quarterfinals[](#top)<a name="top"></a>
 <td>  
 
 <h2>#3 Georgia</h2>  
-&nbsp; Record: 23-1<br>  
+&nbsp; Record: 23-2<br>  
 &#10004; ITA: 3 (73.77)<br>  
 &#10004; Slam: 3 (97.74)<br>  
 &#10004; TRN: 3 (96.30)<br>  
@@ -38,7 +38,8 @@ Quarterfinals[](#top)<a name="top"></a>
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Match Information  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=785&clubid=255-286&cn1=Georgia&cn2=NC%20State&ci1=255&ci2=286&lid=83)  
+***N.C. State def. Georgia 4-2***  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=785&clubid=255-286&cn1=Georgia&cn2=NC%20State&ci1=255&ci2=286&lid=83) | [Video](https://t1.app.link/ncaachampionships)  
 
 ## Predictions  
 
