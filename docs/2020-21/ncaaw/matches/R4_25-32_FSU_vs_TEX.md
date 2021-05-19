@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#7 Florida St.</h2>  
-&nbsp; Record: 19-5<br>  
+&nbsp; Record: 19-6<br>  
 &nbsp; ITA: 7 (55.39)<br>  
 &nbsp; Slam: 7 (92.00)<br>  
 &nbsp; TRN: 9 (87.52)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Texas</h2>  
-&nbsp; Record: 28-1<br>  
+&nbsp; Record: 29-1<br>  
 &#10004; ITA: 2 (79.31)<br>  
 &#10004; Slam: 2 (98.40)<br>  
 &#10004; TRN: 2 (97.58)<br>  
@@ -40,7 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Match Information  
-***Florida State def. Texas 4-0***  
+***Texas def. Florida State 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=787&clubid=265-241&cn1=Texas&cn2=Florida%20State&ci1=265&ci2=241&lid=83) | [Video](https://t1.app.link/ncaachampionships)  
 
 ## Predictions  
