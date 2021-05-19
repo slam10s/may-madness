@@ -9,7 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Wed, 5/19 at       TBA	[#6 NC State vs #2 Texas](./matches/R5_11-20_NCST_vs_TEX.md) ... TEX (94%) / NCST (6%)
+- Sat, 5/22 at       TBA	[#6 NC State vs #2 Texas](./matches/R5_11-20_NCST_vs_TEX.md) ... TEX (94%) / NCST (6%)
 ## Quarterfinals
 
 ### Intriguing Matches
