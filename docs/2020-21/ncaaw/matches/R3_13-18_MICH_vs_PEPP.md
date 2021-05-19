@@ -40,7 +40,6 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
-***Pepperdine def. Michigan 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=771&clubid=733-216&cn1=Pepperdine&cn2=Michigan&ci1=733&ci2=216&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16PEPPMICH.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-womens-round-of-16-10-am-photos/2021-womens-round-of-16-4-pm-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16PEPPMICHQuotes.pdf)  
 
 ## Predictions  

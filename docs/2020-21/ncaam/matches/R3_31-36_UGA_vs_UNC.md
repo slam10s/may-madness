@@ -40,7 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
-***Georgia def. North Carolina 4-3***  
+***North Carolina def. Georgia ***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=776&clubid=584-255&cn1=UNC&cn2=Georgia&ci1=584&ci2=255&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16UGAUNC.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-round-of-16-10-am-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16UGAUNCQuotes.pdf)  
 
 ## Predictions  

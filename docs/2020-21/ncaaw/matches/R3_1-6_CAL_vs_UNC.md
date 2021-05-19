@@ -40,7 +40,6 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
-***North Carolina def. California 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=773&clubid=584-2&cn1=UNC&cn2=California&ci1=584&ci2=2&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UNCCAL.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-womens-round-of-16-7-pm-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UNCCALQuotes.pdf)  
 
 ## Predictions  

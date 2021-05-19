@@ -24,22 +24,22 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 
 The various metrics disagree on the outcome of these matches:
 
-- Mon, 5/17 at  1:20 EDT	[Ohio St. vs #7 TCU](./matches/R3_37-42_OSU_vs_TCU.md) ... <b>TCU (4)</b> / OSU (1)
-- Mon, 5/17 at  4:25 EDT	[#13 South Carolina vs #4 Texas](./matches/R3_19-24_SCAR_vs_TEX.md) ... <b>TEX (4)</b> / SCAR (3)
-- Mon, 5/17 at  4:00 EDT	[#12 Southern California vs #5 Virginia](./matches/R3_13-18_USC_vs_UVA.md) ... UVA (2) / <b><i>USC (4)</i></b>
+- Mon, 5/17 at  1:20 EDT	[Ohio St. vs #7 TCU](./matches/R3_37-42_OSU_vs_TCU.md) ... TCU (42%) / <i>OSU (58%)</i>
+- Mon, 5/17 at  4:25 EDT	[#13 South Carolina vs #4 Texas](./matches/R3_19-24_SCAR_vs_TEX.md) ... TEX (65%) / SCAR (35%)
+- Mon, 5/17 at  4:00 EDT	[#12 Southern California vs #5 Virginia](./matches/R3_13-18_USC_vs_UVA.md) ... UVA (74%) / USC (26%)
 
 The metrics agree on the winner, but not by a lot:
 
-- Mon, 5/17 at  7:40 EDT	[#16 Illinois vs #1 Florida](./matches/R3_1-6_ILL_vs_FLA.md) ... <b>FLA (4)</b> / ILL (0)
+- Mon, 5/17 at  7:40 EDT	[#16 Illinois vs #1 Florida](./matches/R3_1-6_ILL_vs_FLA.md) ... FLA (71%) / ILL (29%)
 
 ### Heavy Favorites
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Mon, 5/17 at  7:30 EDT	[Mississippi St. vs #8 Texas A&M](./matches/R3_7-12_MSST_vs_AM.md) ... <b>A&M (4)</b> / MSST (0)
-- Mon, 5/17 at 10:00 EDT	[#11 Georgia vs #6 North Carolina](./matches/R3_31-36_UGA_vs_UNC.md) ... UNC (3) / <b><i>UGA (4)</i></b>
-- Mon, 5/17 at  1:25 EDT	[#15 Ole Miss vs #2 Baylor](./matches/R3_43-48_MISS_vs_BAY.md) ... <b>BAY (4)</b> / MISS (1)
-- Mon, 5/17 at 10:00 EDT	[Arizona vs #3 Tennessee](./matches/R3_25-30_ARIZ_vs_TENN.md) ... <b>TENN (4)</b> / ARIZ (3)
+- Mon, 5/17 at  7:30 EDT	[Mississippi St. vs #8 Texas A&M](./matches/R3_7-12_MSST_vs_AM.md) ... A&M (83%) / MSST (17%)
+- Mon, 5/17 at 10:00 EDT	[#11 Georgia vs #6 North Carolina](./matches/R3_31-36_UGA_vs_UNC.md) ... UNC (84%) / UGA (16%)
+- Mon, 5/17 at  1:25 EDT	[#15 Ole Miss vs #2 Baylor](./matches/R3_43-48_MISS_vs_BAY.md) ... BAY (89%) / MISS (11%)
+- Mon, 5/17 at 10:00 EDT	[Arizona vs #3 Tennessee](./matches/R3_25-30_ARIZ_vs_TENN.md) ... TENN (90%) / ARIZ (10%)
 ## Second Round
 
 ### Intriguing Matches
