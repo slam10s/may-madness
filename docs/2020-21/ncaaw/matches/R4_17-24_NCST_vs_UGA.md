@@ -40,7 +40,6 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Match Information  
-***N.C. State def. Georgia 4-2***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=785&clubid=255-286&cn1=Georgia&cn2=NC%20State&ci1=255&ci2=286&lid=83) | [Video](https://t1.app.link/ncaachampionships)  
 
 ## Predictions  
