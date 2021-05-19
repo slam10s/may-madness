@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Texas def. Florida State 4-0***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=787&clubid=265-241&cn1=Texas&cn2=Florida%20State&ci1=265&ci2=241&lid=83) | [Video](https://t1.app.link/ncaachampionships)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=787&clubid=265-241&cn1=Texas&cn2=Florida%20State&ci1=265&ci2=241&lid=83) | [Video](https://t1.app.link/ncaachampionships) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WQFTEXFSU.pdf)  
 
 ## Predictions  
 
