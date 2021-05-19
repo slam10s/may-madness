@@ -59,4 +59,4 @@ contestId	matchnum	date	timeStr	host	roundNum	home	visitor	score	winner	status	t
 5833706	404	2021-05-19	2:00 EDT 	UCF 	4	TEX  	FSU  	4-0	home   	final	#7 Florida St. vs #2 Texas              	2021-05-19T14:00-04:00	texas            	florida-st         
 5833704	402	2021-05-19	5:30 EDT 	UCF 	4	UCLA 	PEPP 	0-0	       	pre  	#5 Pepperdine vs #4 UCLA                	2021-05-19T17:30-04:00	ucla             	pepperdine         
 5833703	401	2021-05-19	7:30 EDT 	UCF 	4	UNC  	DUKE 	0-0	       	pre  	Duke vs #1 North Carolina               	2021-05-19T19:30-04:00	north-carolina   	duke               
-5833708	502	2021-05-22	TBA      	UCF 	5	TEX  	NCST 	0-0	       	pre  	#6 NC State vs #2 Texas                 	2021-05-22            	texas            	north-carolina-st  
+5833708	502	2021-05-21	TBA      	UCF 	5	TEX  	NCST 	0-0	       	pre  	#6 NC State vs #2 Texas                 	2021-05-21            	texas            	north-carolina-st  

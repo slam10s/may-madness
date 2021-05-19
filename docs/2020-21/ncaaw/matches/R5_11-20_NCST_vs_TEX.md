@@ -1,5 +1,5 @@
 Semifinals[](#top)<a name="top"></a>  
-[Saturday, May 22](../../schedule/05-22.md) at TBA  
+[Friday, May 21](../../schedule/05-21.md) at TBA  
 [2021 Division I Women's Tennis Championship](../index.md)  
 ## [#6 NC State vs #2 Texas](https://www.ncaa.com/game/5833708)  
 
@@ -35,7 +35,7 @@ Semifinals[](#top)<a name="top"></a>
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-22.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)
 
 ## Predictions  
 
@@ -154,4 +154,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-22.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)  
