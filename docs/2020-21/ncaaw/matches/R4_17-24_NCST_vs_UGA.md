@@ -1,8 +1,6 @@
 Quarterfinals[](#top)<a name="top"></a>  
 [Wednesday, May 19](../../schedule/05-19.md) at 11:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
-USTA National Campus  
-Orlando, Florida  
 ## [#6 NC State vs #3 Georgia](https://www.ncaa.com/game/5833705)  
 
 <table><tr style="background-color: #d9d9d9 !important"><td style="background-color: #C8102E !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina-st.70.png" width="70" height="70" style="padding: 8px;" /></td><td style="background-color: #DA291C !important"><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/g/georgia.70.png" width="70" height="70" style="padding: 8px;" /></td></tr><tr>
@@ -40,8 +38,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Match Information  
-***N.C. State def. Georgia ***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=785&clubid=255-286&cn1=Georgia&cn2=NC%20State&ci1=255&ci2=286&lid=83) | [Video](https://t1.app.link/ncaachampionships)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83)  
 
 ## Predictions  
 

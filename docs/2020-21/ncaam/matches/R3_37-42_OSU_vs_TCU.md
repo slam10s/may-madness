@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
+***TCU def. Ohio State 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=777&clubid=591-585&cn1=TCU&cn2=Ohio%20State&ci1=591&ci2=585&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16TCUOSU.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-round-of-16-1-pm-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16TCUOSUQuotes.pdf)  
 
 ## Predictions  

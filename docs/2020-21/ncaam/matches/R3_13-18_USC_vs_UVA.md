@@ -40,7 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
-***USC def. Virginia ***  
+***USC def. Virginia 4-2***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=779&clubid=269-299&cn1=Virginia&cn2=USC&ci1=269&ci2=299&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16USCUVA.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-round-of-16-4-pm-matches.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16USCUVAQuotes.pdf)  
 
 ## Predictions  

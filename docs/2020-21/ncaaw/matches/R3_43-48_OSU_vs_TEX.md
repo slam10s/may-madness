@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
+***Texas def. Ohio State 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=770&clubid=265-585&cn1=Texas&cn2=Ohio%20State&ci1=265&ci2=585&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16TEXOSU.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-womens-round-of-16-1-pm-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16TEXOSUQuotes.pdf)  
 
 ## Predictions  

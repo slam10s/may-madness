@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
+***Florida State def. Texas A&M 4-2***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=769&clubid=241-297&cn1=Florida%20State&cn2=Texas%20A%26M&ci1=241&ci2=297&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16FSUTAM.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-womens-round-of-16-1-pm-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16FSUTAMUQuotes.pdf)  
 
 ## Predictions  

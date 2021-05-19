@@ -47,15 +47,15 @@ contestId	matchnum	date	timeStr	host	roundNum	home	visitor	score	winner	status	t
 5833694	216	2021-05-08	4:00 EDT 	TEX 	2	TEX  	AZST 	4-0	home   	final      	Arizona St. vs #2 Texas                 	2021-05-08T16:00-04:00	texas            	arizona-st         
 5833681	203	2021-05-08	5:00 EDT 	UCF 	2	UCF  	MIA  	4-1	home   	final      	Miami (FL) vs #9 UCF                    	2021-05-08T17:00-04:00	ucf              	miami-fl           
 5833682	204	2021-05-08	6:00 EDT 	BAY 	2	BAY  	DUKE 	4-3	visitor	final      	Duke vs #8 Baylor                       	2021-05-08T18:00-04:00	baylor           	duke               
-5833699	305	2021-05-16	10:00 EDT	UCF 	3	UGA  	UVA  	   	home   	final      	#14 Virginia vs #3 Georgia              	2021-05-16T10:00-04:00	georgia          	virginia           
-5833700	306	2021-05-16	10:00 EDT	UCF 	3	NCST 	USC  	   	home   	final      	Southern California vs #6 NC State      	2021-05-16T10:00-04:00	north-carolina-st	southern-california
-5833701	307	2021-05-16	1:00 EDT 	UCF 	3	FSU  	A&M  	   	home   	final      	#10 Texas A&M vs #7 Florida St.         	2021-05-16T13:00-04:00	florida-st       	texas-am           
-5833702	308	2021-05-16	1:55 EDT 	UCF 	3	TEX  	OSU  	   	home   	final      	#15 Ohio St. vs #2 Texas                	2021-05-16T13:55-04:00	texas            	ohio-st            
-5833697	303	2021-05-16	4:45 EDT 	UCF 	3	PEPP 	MICH 	   	home   	final      	Michigan vs #5 Pepperdine               	2021-05-16T16:45-04:00	pepperdine       	michigan           
-5833698	304	2021-05-16	4:50 EDT 	UCF 	3	UCLA 	GT   	   	home   	final      	#13 Georgia Tech vs #4 UCLA             	2021-05-16T16:50-04:00	ucla             	georgia-tech       
-5833696	302	2021-05-16	7:15 EDT 	UCF 	3	UCF  	DUKE 	   	visitor	final      	Duke vs #9 UCF                          	2021-05-16T19:15-04:00	ucf              	duke               
-5833695	301	2021-05-16	7:35 EDT 	UCF 	3	UNC  	CAL  	   	home   	final      	#16 California vs #1 North Carolina     	2021-05-16T19:35-04:00	north-carolina   	california         
-5833705	403	2021-05-19	11:00 EDT	UCF 	4	UGA  	NCST 	   	       	final      	#6 NC State vs #3 Georgia               	2021-05-19T11:00-04:00	georgia          	north-carolina-st  
+5833699	305	2021-05-16	10:00 EDT	UCF 	3	UGA  	UVA  	4-1	home   	final      	#14 Virginia vs #3 Georgia              	2021-05-16T10:00-04:00	georgia          	virginia           
+5833700	306	2021-05-16	10:00 EDT	UCF 	3	NCST 	USC  	4-1	home   	final      	Southern California vs #6 NC State      	2021-05-16T10:00-04:00	north-carolina-st	southern-california
+5833701	307	2021-05-16	1:00 EDT 	UCF 	3	FSU  	A&M  	4-2	home   	final      	#10 Texas A&M vs #7 Florida St.         	2021-05-16T13:00-04:00	florida-st       	texas-am           
+5833702	308	2021-05-16	1:55 EDT 	UCF 	3	TEX  	OSU  	4-1	home   	final      	#15 Ohio St. vs #2 Texas                	2021-05-16T13:55-04:00	texas            	ohio-st            
+5833697	303	2021-05-16	4:45 EDT 	UCF 	3	PEPP 	MICH 	4-0	home   	final      	Michigan vs #5 Pepperdine               	2021-05-16T16:45-04:00	pepperdine       	michigan           
+5833698	304	2021-05-16	4:50 EDT 	UCF 	3	UCLA 	GT   	4-0	home   	final      	#13 Georgia Tech vs #4 UCLA             	2021-05-16T16:50-04:00	ucla             	georgia-tech       
+5833696	302	2021-05-16	7:15 EDT 	UCF 	3	UCF  	DUKE 	4-3	visitor	final      	Duke vs #9 UCF                          	2021-05-16T19:15-04:00	ucf              	duke               
+5833695	301	2021-05-16	7:35 EDT 	UCF 	3	UNC  	CAL  	4-0	home   	final      	#16 California vs #1 North Carolina     	2021-05-16T19:35-04:00	north-carolina   	california         
+5833705	403	2021-05-19	11:00 EDT	UCF 	4	UGA  	NCST 	0-0	       	pre        	#6 NC State vs #3 Georgia               	2021-05-19T11:00-04:00	georgia          	north-carolina-st  
 5833706	404	2021-05-19	2:00 EDT 	UCF 	4	TEX  	FSU  	0-0	       	in-progress	#7 Florida St. vs #2 Texas              	2021-05-19T14:00-04:00	texas            	florida-st         
 5833704	402	2021-05-19	5:30 EDT 	UCF 	4	UCLA 	PEPP 	0-0	       	pre        	#5 Pepperdine vs #4 UCLA                	2021-05-19T17:30-04:00	ucla             	pepperdine         
 5833703	401	2021-05-19	7:30 EDT 	UCF 	4	UNC  	DUKE 	0-0	       	pre        	Duke vs #1 North Carolina               	2021-05-19T19:30-04:00	north-carolina   	duke               

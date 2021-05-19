@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
+***Tennessee def. Arizona 4-3***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=775&clubid=257-267&cn1=Tennessee&cn2=Arizona&ci1=257&ci2=267&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16TENNARIZ.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-round-of-16-10-am-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/M16TENNARIZQuotes.pdf)  
 
 ## Predictions  
