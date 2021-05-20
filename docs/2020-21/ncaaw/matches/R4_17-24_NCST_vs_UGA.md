@@ -39,7 +39,7 @@ Quarterfinals[](#top)<a name="top"></a>
 
 ## Match Information  
 ***N.C. State def. Georgia 4-2***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=785&clubid=255-286&cn1=Georgia&cn2=NC%20State&ci1=255&ci2=286&lid=83) | [Video](https://t1.app.link/ncaachampionships) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WQFNCSUUGA.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-ncaa-tickets/2021-womens-qf-session-one-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WQFNCSUUGAQuotes.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=785&clubid=255-286&cn1=Georgia&cn2=NC%20State&ci1=255&ci2=286&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WQFNCSUUGA.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-ncaa-tickets/2021-womens-qf-session-one-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WQFNCSUUGAQuotes.pdf)  
 
 ## Predictions  
 
