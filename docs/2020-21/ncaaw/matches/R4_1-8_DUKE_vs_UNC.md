@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Match Information  
+***North Carolina def. Duke 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=784&clubid=584-581&cn1=UNC&cn2=Duke&ci1=584&ci2=581&lid=83) | [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation)  
 
 ## Predictions  
