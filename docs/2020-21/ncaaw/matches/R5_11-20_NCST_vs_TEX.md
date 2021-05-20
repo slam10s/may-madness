@@ -1,5 +1,5 @@
 Semifinals[](#top)<a name="top"></a>  
-[Friday, May 21](../../schedule/05-21.md) at TBA  
+[Friday, May 21](../../schedule/05-21.md) at 11:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 ## [#6 NC State vs #2 Texas](https://www.ncaa.com/game/5833708)  
 
