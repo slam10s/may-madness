@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Pepperdine def. UCLA 4-3***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=786&clubid=283-733&cn1=USC&cn2=Pepperdine&ci1=283&ci2=733&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WQFPEPPUCLA.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=786&clubid=283-733&cn1=USC&cn2=Pepperdine&ci1=283&ci2=733&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WQFPEPPUCLA.pdf) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WQFPEPPUCLAQuotes.pdf)  
 
 ## Predictions  
 
