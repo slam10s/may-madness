@@ -1,5 +1,5 @@
 Semifinals[](#top)<a name="top"></a>  
-[Thursday, May 20](../../schedule/05-20.md) at TBA  
+[Friday, May 21](../../schedule/05-21.md) at TBA  
 [2021 Division I Men's Tennis Championship](../index.md)  
 ## [#3 Tennessee vs #2 Baylor](https://www.ncaa.com/game/5833431)  
 
@@ -35,7 +35,7 @@ Semifinals[](#top)<a name="top"></a>
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-20.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)
 
 ## Predictions  
 
@@ -154,4 +154,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-20.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)  

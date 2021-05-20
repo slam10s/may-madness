@@ -9,7 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Thu, 5/20 at       TBA	[#3 Tennessee vs #2 Baylor](./matches/R5_11-20_TENN_vs_BAY.md) ... BAY (44%) / <i>TENN (56%)</i>
+- Fri, 5/21 at       TBA	[#3 Tennessee vs #2 Baylor](./matches/R5_11-20_TENN_vs_BAY.md) ... BAY (44%) / <i>TENN (56%)</i>
 ## Quarterfinals
 
 ### Intriguing Matches
