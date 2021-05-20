@@ -1,51 +1,73 @@
-date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	eventid
-20210516	2	UGA 	Lea Ma              	UVA 	Natasha Subhash    	N	NB	513316	511574	2-6, 6-3, 7-6(4)	1728
-20210516	3	UGA 	Meg Kowalski        	UVA 	Rosie Johanson     	N	N 	487384	419112	6-3, 6-3        	1728
-20210516	4	UVA 	Hibah Shaikh        	UGA 	Morgan Coppoc      	N	C 	564584	398734	6-4, 0-6, 6-2   	1728
-20210516	5	UGA 	Marta Gonzalez      	UVA 	Amber ODell        	N	C 	410824	489690	7-6(4), 6-3     	1728
-20210516	1	USC 	Salma Ewing         	NCST	Anna Rogers        	N	N 	485966	446522	6-4, 6-2        	1730
-20210516	3	NCST	Adriana Reami       	USC 	Dani Willson       	N	C 	444430	485967	6-1, 4-6, 6-3   	1730
-20210516	4	NCST	Jaeda Daniel        	USC 	Summer Dvorak      	N	C 	511267	565235	6-1, 2-6, 6-1   	1730
-20210516	5	NCST	Abigail Rencheli    	USC 	Constance Branstine	N	N 	564363	392389	6-1, 6-3        	1730
-20210516	1	A&M 	Tatiana Makarova    	FSU 	Giulia Pairone     	N	C 	514440	564449	6-3, 2-6, 6-0   	1732
-20210516	2	A&M 	Jayci Goldsmith     	FSU 	Emmanuelle Salas   	N	N 	489406	485585	6-0, 6-3        	1732
-20210516	3	FSU 	Nandini Das         	A&M 	Katya Townsend     	N	C 	400527	489407	6-4, 4-6, 6-1   	1732
-20210516	4	FSU 	Petra Hule          	A&M 	Dorthea Faa-Hviding	N	C 	417237	405619	6-7(5), 6-2, 6-1	1732
-20210516	5	FSU 	Victoria Allen      	A&M 	Renee McBryde      	N	N 	511618	489405	6-2, 6-2        	1732
-20210516	1	OSU 	Irina Cantos Siemers	TEX 	Peyton Stearns     	N	R 	511553	562074	6-2, 6-0        	1734
-20210516	2	TEX 	Anna Turati         	OSU 	Isabelle Boulais   	N	N 	459000	490278	6-1, 7-5        	1734
-20210516	3	TEX 	Lulu Sun            	OSU 	Kolie Allen        	N	R 	562075	490277	6-1, 6-1        	1734
-20210516	4	TEX 	Charlotte Chavatipon	OSU 	Lisa Hofbauer      	N	N 	562071	564174	6-1, 6-4        	1734
-20210516	2	PEPP	Jessica Failla      	MICH	Chiara Lommer      	N	N 	405704	427507	6-1, 6-3        	1736
-20210516	3	PEPP	Taisiya Pachkaleva  	MICH	Andrea Cerdan      	N	N 	564448	510627	6-0, 6-3        	1736
-20210516	4	PEPP	Shiori Fukuda       	MICH	Jaedan Brown       	N	N 	564446	564381	6-4, 6-1        	1736
-20210516	1	UCLA	Abbey Forbes        	GT  	Kenya Jones        	N	N 	512054	419665	6-3, 6-1        	1738
-20210516	3	UCLA	Elysia Bolton       	GT  	Gia Cohen          	N	C 	489254	497851	6-4, 6-4        	1738
-20210516	6	UCLA	Annette Goulak      	GT  	Mahak Jain         	N	D 	512056	564716	6-0, 6-1        	1738
-20210516	1	UNC 	Sara Daavettila     	CAL 	Haley Giavara      	N	C 	400079	513644	6-4, 6-3        	1740
-20210516	4	UNC 	Elizabeth Scotty    	CAL 	Jada Bui           	N	C 	520732	564962	6-2, 7-5        	1740
-20210516	5	UNC 	Fiona Crawley       	CAL 	Anna Bright        	N	N 	564453	392716	6-2, 6-3        	1740
-20210516	1	UCF 	Valeriya Zeleva     	DUKE	Kelly Chen         	H	N 	497367	396686	6-4, 6-2        	1742
-20210516	2	DUKE	Georgia Drummy      	UCF 	Rebeka Stolmar     	A	C 	564359	455036	6-4, 6-4        	1742
-20210516	3	DUKE	Chloe Beck          	UCF 	Evgeniya Levashova 	H	C 	514741	514393	4-6, 6-2, 6-4   	1742
-20210516	4	DUKE	Meible Chi          	UCF 	Ksenia Kuznetsova  	A	N 	396854	424148	6-2, 6-3        	1742
-20210516	5	UCF 	Jaleesa Leslie      	DUKE	Margaryta Bilokin  	A	C 	563086	497015	6-2, 1-6, 6-1   	1742
-20210516	6	UCF 	Nandini Sharma      	DUKE	Karolina Berankova 	A	N 	487284	564360	6-1, 7-5        	1742
-20210519	3	DUKE	Chloe Beck          	UNC 	Cameron Morra      	N	N 	514741	488643	6-1, 6-4        	1762
-20210519	4	UNC 	Makenna Jones       	DUKE	Meible Chi         	N	C 	419691	396854	0-6, 6-4, 6-4   	1762
-20210519	5	UNC 	Fiona Crawley       	DUKE	Margaryta Bilokin  	N	D 	564453	497015	6-1, 6-0        	1762
-20210519	6	UNC 	Reilly Tran         	DUKE	Karolina Berankova 	N	C 	564465	564360	5-7, 6-1, 6-1   	1762
-20210519	1	UGA 	Katarina Jokic      	NCST	Anna Rogers        	N	N 	419539	446522	6-2, 6-2        	1764
-20210519	3	NCST	Adriana Reami       	UGA 	Meg Kowalski       	N	N 	444430	487384	6-1, 6-4        	1764
-20210519	4	NCST	Jaeda Daniel        	UGA 	Morgan Coppoc      	N	C 	511267	398734	6-4, 6-4        	1764
-20210519	5	NCST	Abigail Rencheli    	UGA 	Marta Gonzalez     	N	C 	564363	410824	6-3, 7-6(6)     	1764
-20210519	6	UGA 	Elena Christofi     	NCST	Lexi Keberle       	N	C 	397208	511268	7-5, 6-2        	1764
-20210519	1	UCLA	Abbey Forbes        	PEPP	Ashley Lahey       	N	C 	512054	424436	4-6, 6-2, 6-4   	1766
-20210519	2	PEPP	Jessica Failla      	UCLA	Jada Hart          	N	C 	405704	413959	7-6(7), 6-4     	1766
-20210519	3	PEPP	Taisiya Pachkaleva  	UCLA	Elysia Bolton      	N	C 	564448	489254	6-3, 1-6, 7-5   	1766
-20210519	4	PEPP	Shiori Fukuda       	UCLA	Vivian Wolff       	N	C 	564446	564429	6-7(7), 6-3, 6-2	1766
-20210519	5	UCLA	Abi Altick          	PEPP	LIsa Zaar          	N	N 	385396	514467	6-2, 6-3        	1766
-20210519	6	UCLA	Annette Goulak      	PEPP	Nikki Redelijk     	N	C 	512056	565228	7-6(6), 6-3     	1766
-20210519	1	TEX 	Peyton Stearns      	FSU 	Giulia Pairone     	N	D 	562074	564449	6-0, 6-1        	1768
-20210519	2	TEX 	Anna Turati         	FSU 	Emmanuelle Salas   	N	N 	459000	485585	6-1, 6-4        	1768
-20210519	6	TEX 	Fernanda Labraña    	FSU 	Andrea Garcia      	N	C 	424273	408876	6-2, 2-6, 6-3   	1768
+date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	status	eventid
+20210516	1	UGA 	Katarina Jokic      	UVA 	Emma Navarro         	N	C 	419539	564450	6-4, 5-7, 5-3   	U	1728
+20210516	2	UGA 	Lea Ma              	UVA 	Natasha Subhash      	N	NB	513316	511574	2-6, 6-3, 7-6(4)	F	1728
+20210516	3	UGA 	Meg Kowalski        	UVA 	Rosie Johanson       	N	N 	487384	419112	6-3, 6-3        	F	1728
+20210516	4	UVA 	Hibah Shaikh        	UGA 	Morgan Coppoc        	N	C 	564584	398734	6-4, 0-6, 6-2   	F	1728
+20210516	5	UGA 	Marta Gonzalez      	UVA 	Amber ODell          	N	C 	410824	489690	7-6(4), 6-3     	F	1728
+20210516	6	UGA 	Elena Christofi     	UVA 	Sofia Munera         	N	C 	397208	489689	4-6, 7-6(3), 5-4	U	1728
+20210516	1	USC 	Salma Ewing         	NCST	Anna Rogers          	N	N 	485966	446522	6-4, 6-2        	F	1730
+20210516	2	NCST	Alana Smith         	USC 	Eryn Cayetano        	N	N 	486136	509808	7-6(5), 4-5     	U	1730
+20210516	3	NCST	Adriana Reami       	USC 	Dani Willson         	N	C 	444430	485967	6-1, 4-6, 6-3   	F	1730
+20210516	4	NCST	Jaeda Daniel        	USC 	Summer Dvorak        	N	C 	511267	565235	6-1, 2-6, 6-1   	F	1730
+20210516	5	NCST	Abigail Rencheli    	USC 	Constance Branstine  	N	N 	564363	392389	6-1, 6-3        	F	1730
+20210516	6	NCST	Lexi Keberle        	USC 	Clare McKee          	N	N 	511268	565236	6-4, 5-7        	U	1730
+20210516	1	A&M 	Tatiana Makarova    	FSU 	Giulia Pairone       	N	C 	514440	564449	6-3, 2-6, 6-0   	F	1732
+20210516	2	A&M 	Jayci Goldsmith     	FSU 	Emmanuelle Salas     	N	N 	489406	485585	6-0, 6-3        	F	1732
+20210516	3	FSU 	Nandini Das         	A&M 	Katya Townsend       	N	C 	400527	489407	6-4, 4-6, 6-1   	F	1732
+20210516	4	FSU 	Petra Hule          	A&M 	Dorthea Faa-Hviding  	N	C 	417237	405619	6-7(5), 6-2, 6-1	F	1732
+20210516	5	FSU 	Victoria Allen      	A&M 	Renee McBryde        	N	N 	511618	489405	6-2, 6-2        	F	1732
+20210516	6	FSU 	Andrea Garcia       	A&M 	Riley McQuaid        	N	C 	408876	432087	5-7, 6-3, 3-2   	U	1732
+20210516	1	OSU 	Irina Cantos Siemers	TEX 	Peyton Stearns       	N	R 	511553	562074	6-2, 6-0        	F	1734
+20210516	2	TEX 	Anna Turati         	OSU 	Isabelle Boulais     	N	N 	459000	490278	6-1, 7-5        	F	1734
+20210516	3	TEX 	Lulu Sun            	OSU 	Kolie Allen          	N	R 	562075	490277	6-1, 6-1        	F	1734
+20210516	4	TEX 	Charlotte Chavatipon	OSU 	Lisa Hofbauer        	N	N 	562071	564174	6-1, 6-4        	F	1734
+20210516	5	TEX 	Kylie Collins       	OSU 	Lucia Marzal Martinez	N	N 	564774	521208	6-2, 4-6, 2-2   	U	1734
+20210516	6	TEX 	Malaika Rapolu      	OSU 	Luna Dormet          	N	N 	562073	490409	6-7(6), 6-1     	U	1734
+20210516	1	PEPP	Ashley Lahey        	MICH	Kari Miller          	N	C 	424436	564380	6-4, 3-4        	U	1736
+20210516	2	PEPP	Jessica Failla      	MICH	Chiara Lommer        	N	N 	405704	427507	6-1, 6-3        	F	1736
+20210516	3	PEPP	Taisiya Pachkaleva  	MICH	Andrea Cerdan        	N	N 	564448	510627	6-0, 6-3        	F	1736
+20210516	4	PEPP	Shiori Fukuda       	MICH	Jaedan Brown         	N	N 	564446	564381	6-4, 6-1        	F	1736
+20210516	5	PEPP	LIsa Zaar           	MICH	Alyvia Jones         	N	N 	514467	419567	6-4, 5-1        	U	1736
+20210516	6	PEPP	Nikki Redelijk      	MICH	Bella Lorenzini      	N	N 	565228	427820	6-2, 5-2        	U	1736
+20210516	1	UCLA	Abbey Forbes        	GT  	Kenya Jones          	N	N 	512054	419665	6-3, 6-1        	F	1738
+20210516	2	UCLA	Jada Hart           	GT  	Victoria Flores      	N	C 	413959	407152	3-6, 6-2, 2-1   	U	1738
+20210516	3	UCLA	Elysia Bolton       	GT  	Gia Cohen            	N	C 	489254	497851	6-4, 6-4        	F	1738
+20210516	4	UCLA	Vivian Wolff        	GT  	Ava Hrastar          	N	C 	564429	564715	7-6(6), 3-2     	U	1738
+20210516	5	UCLA	Vanessa Ong         	GT  	Carol Lee            	N	N 	564428	564717	6-2, 4-3        	U	1738
+20210516	6	UCLA	Annette Goulak      	GT  	Mahak Jain           	N	D 	512056	564716	6-0, 6-1        	F	1738
+20210516	1	UNC 	Sara Daavettila     	CAL 	Haley Giavara        	N	C 	400079	513644	6-4, 6-3        	F	1740
+20210516	2	UNC 	Alexa Graham        	CAL 	Julia Rosenqvist     	N	N 	411298	447001	6-2, 6-6        	U	1740
+20210516	3	UNC 	Cameron Morra       	CAL 	Valentina Ivanov     	N	C 	488643	513643	2-6, 6-3, 1-0   	U	1740
+20210516	4	UNC 	Elizabeth Scotty    	CAL 	Jada Bui             	N	C 	520732	564962	6-2, 7-5        	F	1740
+20210516	5	UNC 	Fiona Crawley       	CAL 	Anna Bright          	N	N 	564453	392716	6-2, 6-3        	F	1740
+20210516	6	UNC 	Reilly Tran         	CAL 	Anna Bright          	N	C 	564465	392716	6-2, 6-5        	U	1740
+20210516	1	UCF 	Valeriya Zeleva     	DUKE	Kelly Chen           	H	N 	497367	396686	6-4, 6-2        	F	1742
+20210516	2	DUKE	Georgia Drummy      	UCF 	Rebeka Stolmar       	A	C 	564359	455036	6-4, 6-4        	F	1742
+20210516	3	DUKE	Chloe Beck          	UCF 	Evgeniya Levashova   	H	C 	514741	514393	4-6, 6-2, 6-4   	F	1742
+20210516	4	DUKE	Meible Chi          	UCF 	Ksenia Kuznetsova    	A	N 	396854	424148	6-2, 6-3        	F	1742
+20210516	5	UCF 	Jaleesa Leslie      	DUKE	Margaryta Bilokin    	A	C 	563086	497015	6-2, 1-6, 6-1   	F	1742
+20210516	6	UCF 	Nandini Sharma      	DUKE	Karolina Berankova   	A	N 	487284	564360	6-1, 7-5        	F	1742
+20210519	1	UNC 	Sara Daavettila     	DUKE	Kelly Chen           	N	C 	400079	396686	6-1, 2-6, 4-3   	U	1762
+20210519	2	UNC 	Alexa Graham        	DUKE	Georgia Drummy       	N	C 	411298	564359	4-6, 7-6(5), 3-0	U	1762
+20210519	3	DUKE	Chloe Beck          	UNC 	Cameron Morra        	N	N 	514741	488643	6-1, 6-4        	F	1762
+20210519	4	UNC 	Makenna Jones       	DUKE	Meible Chi           	N	C 	419691	396854	0-6, 6-4, 6-4   	F	1762
+20210519	5	UNC 	Fiona Crawley       	DUKE	Margaryta Bilokin    	N	D 	564453	497015	6-1, 6-0        	F	1762
+20210519	6	UNC 	Reilly Tran         	DUKE	Karolina Berankova   	N	C 	564465	564360	5-7, 6-1, 6-1   	F	1762
+20210519	1	UGA 	Katarina Jokic      	NCST	Anna Rogers          	N	N 	419539	446522	6-2, 6-2        	F	1764
+20210519	2	UGA 	Lea Ma              	NCST	Alana Smith          	N	C 	513316	486136	5-7, 6-4, 1-0   	U	1764
+20210519	3	NCST	Adriana Reami       	UGA 	Meg Kowalski         	N	N 	444430	487384	6-1, 6-4        	F	1764
+20210519	4	NCST	Jaeda Daniel        	UGA 	Morgan Coppoc        	N	C 	511267	398734	6-4, 6-4        	F	1764
+20210519	5	NCST	Abigail Rencheli    	UGA 	Marta Gonzalez       	N	C 	564363	410824	6-3, 7-6(6)     	F	1764
+20210519	6	UGA 	Elena Christofi     	NCST	Lexi Keberle         	N	C 	397208	511268	7-5, 6-2        	F	1764
+20210519	1	UCLA	Abbey Forbes        	PEPP	Ashley Lahey         	N	C 	512054	424436	4-6, 6-2, 6-4   	F	1766
+20210519	2	PEPP	Jessica Failla      	UCLA	Jada Hart            	N	C 	405704	413959	7-6(7), 6-4     	F	1766
+20210519	3	PEPP	Taisiya Pachkaleva  	UCLA	Elysia Bolton        	N	C 	564448	489254	6-3, 1-6, 7-5   	F	1766
+20210519	4	PEPP	Shiori Fukuda       	UCLA	Vivian Wolff         	N	C 	564446	564429	6-7(7), 6-3, 6-2	F	1766
+20210519	5	UCLA	Abi Altick          	PEPP	LIsa Zaar            	N	N 	385396	514467	6-2, 6-3        	F	1766
+20210519	6	UCLA	Annette Goulak      	PEPP	Nikki Redelijk       	N	C 	512056	565228	7-6(6), 6-3     	F	1766
+20210519	1	TEX 	Peyton Stearns      	FSU 	Giulia Pairone       	N	D 	562074	564449	6-0, 6-1        	F	1768
+20210519	2	TEX 	Anna Turati         	FSU 	Emmanuelle Salas     	N	N 	459000	485585	6-1, 6-4        	F	1768
+20210519	3	TEX 	Lulu Sun            	FSU 	Nandini Das          	N	N 	562075	400527	6-3, 6-6        	U	1768
+20210519	4	TEX 	Charlotte Chavatipon	FSU 	Petra Hule           	N	C 	562071	417237	6-3, 3-6, 5-2   	U	1768
+20210519	5	TEX 	Kylie Collins       	FSU 	Victoria Allen       	N	N 	564774	511618	6-2, 6-7(5), 1-1	U	1768
+20210519	6	TEX 	Fernanda Labraña    	FSU 	Andrea Garcia        	N	C 	424273	408876	6-2, 2-6, 6-3   	F	1768
