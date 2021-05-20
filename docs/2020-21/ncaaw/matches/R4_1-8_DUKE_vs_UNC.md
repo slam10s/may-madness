@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***North Carolina def. Duke 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=784&clubid=584-581&cn1=UNC&cn2=Duke&ci1=584&ci2=581&lid=83) | [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-womens-qf-session-two-photos.html)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=784&clubid=584-581&cn1=UNC&cn2=Duke&ci1=584&ci2=581&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WQFUNCDUKE.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-womens-qf-session-two-photos.html)  
 
 ## Predictions  
 
