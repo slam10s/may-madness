@@ -40,7 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-20.md)
 
 ## Match Information  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Video](https://t1.app.link/ncaachampionships)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=788&clubid=257-255&cn1=Tennessee&cn2=Georgia&ci1=257&ci2=255&lid=82) | [Video](https://t1.app.link/ncaachampionships)  
 
 ## Predictions  
 
