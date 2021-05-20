@@ -40,7 +40,6 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-20.md)
 
 ## Match Information  
-***Baylor def. TCU 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=789&clubid=552-591&cn1=Baylor&cn2=TCU&ci1=552&ci2=591&lid=82) | [Video](https://t1.app.link/ncaachampionships)  
 
 ## Predictions  
