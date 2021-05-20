@@ -9,7 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Fri, 5/21 at  2:00 EDT	[#5 Pepperdine vs #1 North Carolina](./matches/R5_1-10_PEPP_vs_UNC.md) ... UNC (92%) / PEPP (8%)
+- Fri, 5/21 at       TBA	[#5 Pepperdine vs #1 North Carolina](./matches/R5_1-10_PEPP_vs_UNC.md) ... UNC (92%) / PEPP (8%)
 - Fri, 5/21 at       TBA	[#6 NC State vs #2 Texas](./matches/R5_11-20_NCST_vs_TEX.md) ... TEX (94%) / NCST (6%)
 ## Quarterfinals
 
