@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#11 Georgia</h2>  
-&nbsp; Record: 17-6<br>  
+&nbsp; Record: 17-7<br>  
 &nbsp; ITA: 11 (54.91)<br>  
 &nbsp; Slam: 13 (96.19)<br>  
 &nbsp; TRN: 12 (95.81)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#3 Tennessee</h2>  
-&nbsp; Record: 27-3<br>  
+&nbsp; Record: 28-3<br>  
 &#10004; ITA: 3 (74.51)<br>  
 &#10004; Slam: 2 (99.03)<br>  
 &#10004; TRN: 2 (99.24)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-20.md)
 
 ## Match Information  
+***Tennessee def. Georgia 4-1***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=788&clubid=257-255&cn1=Tennessee&cn2=Georgia&ci1=257&ci2=255&lid=82) | [Video](https://t1.app.link/ncaachampionships)  
 
 ## Predictions  
