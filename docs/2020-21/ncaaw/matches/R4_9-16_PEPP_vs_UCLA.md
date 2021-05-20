@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Match Information  
+***UCLA def. Pepperdine 4-3***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=786&clubid=283-733&cn1=USC&cn2=Pepperdine&ci1=283&ci2=733&lid=83) | [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation)  
 
 ## Predictions  
