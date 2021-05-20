@@ -10,7 +10,7 @@ Return to the [Home Page](../../index.md)
 The various metrics disagree on the outcome of these matches:
 
 - Thu, 5/20 at  5:30 EDT	[#12 Southern California vs #4 Texas](./matches/R4_9-16_USC_vs_TEX.md) ... TEX (47%) / <i>USC (53%)</i>
-- Thu, 5/20 at  2:00 EDT	[#7 TCU vs #2 Baylor](./matches/R4_25-32_TCU_vs_BAY.md) ... BAY (58%) / TCU (42%)
+- Thu, 5/20 at  2:00 EDT	[#7 TCU vs #2 Baylor](./matches/R4_25-32_TCU_vs_BAY.md) ... <b>BAY (4)</b> / TCU (1)
 
 ### Heavy Favorites
 
