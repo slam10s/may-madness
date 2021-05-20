@@ -59,9 +59,9 @@ date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	statu
 20210520	4	BAY 	Nick Stachowiak          	TCU 	Tomas Jirousek             	N	C	562412	521012	7-5, 2-3        	U	1772
 20210520	5	TCU 	Tadeas Paroulek          	BAY 	Charlie Broom              	N	N	516558	527260	6-2, 6-4        	F	1772
 20210520	6	BAY 	Spencer Furman           	TCU 	Bertus Kruger              	N	N	562413	423670	7-5, 6-1        	F	1772
-20210520	1	TEX 	Eliot Spizzirri          	USC 	Daniel Cukierman           	N	C	520306	399776	4-6, 6-2, 1-0   	U	1774
-20210520	2	TEX 	Micah Braswell           	USC 	Riley Smith                	N	C	528270	453064	6-4, 5-3        	U	1774
-20210520	3	TEX 	Siem Woldeab             	USC 	Stefan Dostanic            	N	N	513841	510835	4-6, 5-4        	U	1774
-20210520	4	TEX 	Cleeve Harper            	USC 	Bradley Frye               	N	C	513840	486015	6-4, 3-4        	U	1774
-20210520	5	TEX 	Chih Chi Huang           	USC 	Lodewijk Weststrate        	N	C	486712	563765	6-2, 0-6, 1-0   	U	1774
-20210520	6	TEX 	Evin McDonald            	USC 	Jake Sands                 	N	C	513843	486016	6-4, 5-4        	U	1774
+20210520	1	TEX 	Eliot Spizzirri          	USC 	Daniel Cukierman           	N	C	520306	399776	6-4, 2-6, 4-1   	U	1774
+20210520	2	TEX 	Micah Braswell           	USC 	Riley Smith                	N	C	528270	453064	6-4, 6-3        	F	1774
+20210520	3	TEX 	Siem Woldeab             	USC 	Stefan Dostanic            	N	C	513841	510835	4-6, 6-4, 2-1   	U	1774
+20210520	4	TEX 	Cleeve Harper            	USC 	Bradley Frye               	N	C	513840	486015	4-6, 6-3, 1-0   	U	1774
+20210520	5	TEX 	Chih Chi Huang           	USC 	Lodewijk Weststrate        	N	C	486712	563765	6-2, 0-6, 3-2   	U	1774
+20210520	6	USC 	Jake Sands               	TEX 	Evin McDonald              	N	C	486016	513843	6-4, 6-4        	F	1774
