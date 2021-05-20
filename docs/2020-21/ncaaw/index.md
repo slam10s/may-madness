@@ -23,7 +23,7 @@ The various metrics disagree on the outcome of these matches:
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Wed, 5/19 at 11:25 EDT	[#6 NC State vs #3 Georgia](./matches/R4_17-24_NCST_vs_UGA.md) ... UGA (2) / <b><i>NCST (4)</i></b>
-- Wed, 5/19 at  2:00 EDT	[#7 Florida St. vs #2 Texas](./matches/R4_25-32_FSU_vs_TEX.md) ... <b>TEX (4)</b> / FSU (0)
+- Wed, 5/19 at  2:00 EDT	[#7 Florida St. vs #2 Texas](./matches/R4_25-32_FSU_vs_TEX.md) ... TEX (0) / <b><i>FSU (4)</i></b>
 - Wed, 5/19 at  7:30 EDT	[Duke vs #1 North Carolina](./matches/R4_1-8_DUKE_vs_UNC.md) ... UNC (97%) / DUKE (3%)
 ## Sweet Sixteen
 
@@ -32,7 +32,7 @@ The favorite is expected to win at least 4 out of every 5 these teams play:
 The various metrics disagree on the outcome of these matches:
 
 - Sun, 5/16 at  7:15 EDT	[Duke vs #9 UCF](./matches/R3_7-12_DUKE_vs_UCF.md) ... UCF (3) / <b><i>DUKE (4)</i></b>
-- Sun, 5/16 at 10:00 EDT	[Southern California vs #6 NC State](./matches/R3_31-36_USC_vs_NCST.md) ... <b>NCST (4)</b> / USC (1)
+- Sun, 5/16 at 10:00 EDT	[Southern California vs #6 NC State](./matches/R3_31-36_USC_vs_NCST.md) ... NCST (1) / <b><i>USC (4)</i></b>
 
 The metrics agree on the winner, but not by a lot:
 
@@ -43,9 +43,9 @@ The metrics agree on the winner, but not by a lot:
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Sun, 5/16 at  4:50 EDT	[#13 Georgia Tech vs #4 UCLA](./matches/R3_19-24_GT_vs_UCLA.md) ... <b>UCLA (4)</b> / GT (0)
+- Sun, 5/16 at  4:50 EDT	[#13 Georgia Tech vs #4 UCLA](./matches/R3_19-24_GT_vs_UCLA.md) ... UCLA (0) / <b><i>GT (4)</i></b>
 - Sun, 5/16 at 10:00 EDT	[#14 Virginia vs #3 Georgia](./matches/R3_25-30_UVA_vs_UGA.md) ... <b>UGA (4)</b> / UVA (1)
-- Sun, 5/16 at  1:55 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... <b>TEX (4)</b> / OSU (1)
+- Sun, 5/16 at  1:55 EDT	[#15 Ohio St. vs #2 Texas](./matches/R3_43-48_OSU_vs_TEX.md) ... TEX (1) / <b><i>OSU (4)</i></b>
 - Sun, 5/16 at  7:35 EDT	[#16 California vs #1 North Carolina](./matches/R3_1-6_CAL_vs_UNC.md) ... <b>UNC (4)</b> / CAL (0)
 ## Second Round
 
