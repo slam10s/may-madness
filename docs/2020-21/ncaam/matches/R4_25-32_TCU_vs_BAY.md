@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#7 TCU</h2>  
-&nbsp; Record: 19-7<br>  
+&nbsp; Record: 19-8<br>  
 &nbsp; ITA: 7 (69.22)<br>  
 &nbsp; Slam: 7 (97.93)<br>  
 &nbsp; TRN: 8 (97.50)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Baylor</h2>  
-&nbsp; Record: 32-4<br>  
+&nbsp; Record: 33-4<br>  
 &#10004; ITA: 1 (83.33)<br>  
 &#10004; Slam: 3 (99.00)<br>  
 &#10004; TRN: 3 (99.00)<br>  
