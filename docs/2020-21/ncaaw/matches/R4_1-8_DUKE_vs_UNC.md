@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>Duke</h2>  
-&nbsp; Record: 18-6<br>  
+&nbsp; Record: 18-7<br>  
 &nbsp; ITA: 18 (43.05)<br>  
 &nbsp; Slam: 12 (91.26)<br>  
 &nbsp; TRN: 13 (86.94)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 North Carolina</h2>  
-&nbsp; Record: 29-0<br>  
+&nbsp; Record: 30-0<br>  
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  

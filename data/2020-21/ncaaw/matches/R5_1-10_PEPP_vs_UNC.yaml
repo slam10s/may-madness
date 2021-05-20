@@ -1,0 +1,131 @@
+Date: Friday, May 21
+Time: TBA
+Tournament: 2021 Division I Women's Tennis Championship
+Round: Semifinals
+Lines: 1-10
+Title: "#5 Pepperdine vs #1 North Carolina"
+URL: https://www.ncaa.com/game/5833707
+Winner: TBD
+Home:
+  Team: North Carolina
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/n/north-carolina.70.png
+  Entry: Regional Host
+  Draw Line: 1
+  Seeding:
+    Overall: 1
+    Region: 1
+  Ratings:
+    ITA: 1 (87.72)
+    SLM: 1 (100.00)
+    TRN: 1 (100.00)
+    MAS: 1 (9.79)
+    UTR: 2 (65.02)
+  Polls:
+    USTA: 2 (325.00)
+    Coach: 1
+Visitor:
+  Team: Pepperdine
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png
+  Entry: Regional Host
+  Draw Line: 17
+  Seeding:
+    Overall: 5
+    Region: 1
+  Ratings:
+    ITA: 5 (60.46)
+    SLM: 5 (93.64)
+    TRN: 4 (90.08)
+    MAS: 5 (8.78)
+    UTR: 6 (64.15)
+  Polls:
+    USTA: 6 (276.00)
+    Coach: 4
+Predictions:
+  AVG: UNC - North Carolina (92%) def. Pepperdine (8%)
+  SLM: "UNC - #1 North Carolina (97%) def. #5 Pepperdine (3%)"
+  TRN: "UNC - #1 North Carolina (99%) def. #4 Pepperdine (1%)"
+  MAS: "UNC - #1 North Carolina (83%) def. #5 Pepperdine (17%)"
+  LNUP: UNC - North Carolina (88%) def. Pepperdine (12%)
+  UTR: "UNC - #2 North Carolina (+0.87) def. #6 Pepperdine (-0.87)"
+  ITA: "UNC - #1 North Carolina def. #5 Pepperdine"
+  USTA: "UNC - #2 North Carolina def. #6 Pepperdine"
+  Coach: "UNC - #1 North Carolina def. #4 Pepperdine"
+  Seeding: "UNC - #1 North Carolina def. #5 Pepperdine"
+Lineups:
+  Predictions:
+    Average EWPs for UNC: 97%,99%,83%,88%
+    Average EWPs for PEPP: 3%,1%,17%,12%
+    UNC wins 4 or more Singles points: 68%
+    PEPP wins 4 or more Singles points: 9%
+    Winner decided by the Doubles point: 23%
+  Singles:
+    - Position: 1
+      UNC: Sara Daavettila - 10-1 at 1, 15-1 in duals, 15-1 overall
+      PEPP: Ashley Lahey - 7-3 at 1, 10-4 in duals, 10-4 overall
+      Predictions:
+        AVG: UNC - Daavettila (77%) def. Lahey (23%)
+        SLM: UNC - Daavettila (77%) def. Lahey (23%)
+        TRN: UNC - Daavettila (86%) def. Lahey (14%)
+        MAS: UNC - Daavettila (76%) def. Lahey (24%)
+        UTR: UNC - Daavettila (68%) def. Lahey (32%)
+        ITA: UNC - Daavettila (64.17) def. Lahey (7.80)
+    - Position: 2
+      UNC: Alexa Graham - 5-0 at 2, 11-2 in duals, 16-2 overall
+      PEPP: Jessica Failla - 6-1 at 2, 14-3 in duals, 14-3 overall
+      Predictions:
+        AVG: UNC - Graham (53%) def. Failla (47%)
+        SLM: PEPP - Failla (51%) def. Graham (49%)
+        TRN: PEPP - Failla (58%) def. Graham (42%)
+        MAS: UNC - Graham (64%) def. Failla (36%)
+        UTR: UNC - Graham (58%) def. Failla (42%)
+        ITA: PEPP - Failla (23.38) def. Graham (15.03)
+    - Position: 3
+      UNC: Cameron Morra - 6-2 at 3, 15-6 in duals, 15-6 overall
+      PEPP: Taisiya Pachkaleva - 8-1 at 3, 22-1 in duals, 22-1 overall
+      Predictions:
+        AVG: PEPP - Pachkaleva (59%) def. Morra (41%)
+        SLM: UNC - Morra (54%) def. Pachkaleva (46%)
+        TRN: PEPP - Pachkaleva (76%) def. Morra (24%)
+        MAS: PEPP - Pachkaleva (50%) def. Morra (50%)
+        UTR: PEPP - Pachkaleva (67%) def. Morra (33%)
+        ITA: UNC - Morra (20.00) def. Pachkaleva (6.37)
+    - Position: 4
+      UNC: Elizabeth Scotty - 6-1 at 4, 11-2 in duals, 11-3 overall
+      PEPP: Shiori Fukuda - 6-0 at 4, 14-4 in duals, 14-4 overall
+      Predictions:
+        AVG: UNC - Scotty (57%) def. Fukuda (43%)
+        SLM: UNC - Scotty (51%) def. Fukuda (49%)
+        TRN: PEPP - Fukuda (54%) def. Scotty (46%)
+        MAS: UNC - Scotty (65%) def. Fukuda (35%)
+        UTR: UNC - Scotty (69%) def. Fukuda (31%)
+        ITA: UNC - Scotty (5.93) def. Fukuda (4.88)
+    - Position: 5
+      UNC: Makenna Jones - 1-2 at 5, 13-2 in duals, 15-2 overall
+      PEPP: LIsa Zaar - 10-1 at 5, 19-1 in duals, 19-1 overall
+      Predictions:
+        AVG: UNC - Jones (74%) def. Zaar (26%)
+        SLM: UNC - Jones (81%) def. Zaar (19%)
+        TRN: UNC - Jones (77%) def. Zaar (23%)
+        MAS: UNC - Jones (76%) def. Zaar (24%)
+        UTR: UNC - Jones (62%) def. Zaar (38%)
+        ITA: UNC - Jones (18.39) def. Zaar (4.47)
+    - Position: 6
+      UNC: Fiona Crawley - 3-0 at 6, 23-0 in duals, 25-0 overall
+      PEPP: Nikki Redelijk - 7-4 at 6, 12-7 in duals, 12-7 overall
+      Predictions:
+        AVG: UNC - Crawley (95%) def. Redelijk (5%)
+        SLM: UNC - Crawley (96%) def. Redelijk (4%)
+        TRN: UNC - Crawley (98%) def. Redelijk (2%)
+        MAS: UNC - Crawley (94%) def. Redelijk (6%)
+        UTR: UNC - Crawley (91%) def. Redelijk (9%)
+        ITA: UNC - Crawley (16.89) def. Redelijk (1.87)
+  Doubles:
+    - Position: 1
+      UNC: Daavettila/Morra - 10-1 at 1, 10-1 in duals, 10-1 overall
+      PEPP: Lahey/Zaar - 0-0 at 1, 0-0 in duals, 0-0 overall
+    - Position: 2
+      UNC: Jones/Scotty - 8-1 at 2, 10-1 in duals, 10-1 overall
+      PEPP: Fukuda/Pachkaleva - 0-0 at 2, 0-0 in duals, 0-0 overall
+    - Position: 3
+      UNC: Sanford/Tran - 12-3 at 3, 16-3 in duals, 16-3 overall
+      PEPP: Failla/Iamachkine - 0-0 at 3, 0-0 in duals, 0-0 overall
