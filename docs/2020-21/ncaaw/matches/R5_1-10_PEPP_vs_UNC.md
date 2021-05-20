@@ -1,5 +1,5 @@
 Semifinals[](#top)<a name="top"></a>  
-[Friday, May 21](../../schedule/05-21.md) at TBA  
+[Friday, May 21](../../schedule/05-21.md) at 2:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 ## [#5 Pepperdine vs #1 North Carolina](https://www.ncaa.com/game/5833707)  
 
@@ -36,6 +36,9 @@ Semifinals[](#top)<a name="top"></a>
 
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)
+
+## Match Information  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Video](https://t1.app.link/ncaachampionships)  
 
 ## Predictions  
 
