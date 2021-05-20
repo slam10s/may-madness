@@ -53,9 +53,9 @@ date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	statu
 20210520	4	TENN	Luca Wiedenmann          	UGA 	Blake Croyder              	N	C	463457	487816	4-6, 6-2, 6-3   	F	1770
 20210520	5	TENN	Giles Hussey             	UGA 	Billy Rowe                 	N	C	513101	562702	6-2, 2-6, 2-0   	U	1770
 20210520	6	TENN	Andrew Rogers            	UGA 	Erik Grevelius             	N	C	446520	511567	6-3, 7-5        	F	1770
-20210520	1	BAY 	Adrian Boitan            	TCU 	Alastair Gray              	N	N	497587	411457	6-4, 5-5        	U	1772
+20210520	1	BAY 	Adrian Boitan            	TCU 	Alastair Gray              	N	N	497587	411457	4-6, 6-5        	U	1772
 20210520	2	BAY 	Matias Soto              	TCU 	Luc Fomba                  	N	C	453651	489297	6-4, 6-4        	F	1772
 20210520	3	BAY 	Sven Lah                 	TCU 	Jake Fearnley              	N	N	424430	514378	6-3, 6-1        	F	1772
-20210520	4	BAY 	Nick Stachowiak          	TCU 	Tomas Jirousek             	N	N	562412	521012	7-5, 2-2        	U	1772
+20210520	4	BAY 	Nick Stachowiak          	TCU 	Tomas Jirousek             	N	C	562412	521012	7-5, 2-3        	U	1772
 20210520	5	TCU 	Tadeas Paroulek          	BAY 	Charlie Broom              	N	N	516558	527260	6-2, 6-4        	F	1772
-20210520	6	BAY 	Spencer Furman           	TCU 	Bertus Kruger              	N	N	562413	423670	7-5, 5-1        	U	1772
+20210520	6	BAY 	Spencer Furman           	TCU 	Bertus Kruger              	N	N	562413	423670	7-5, 6-1        	F	1772
