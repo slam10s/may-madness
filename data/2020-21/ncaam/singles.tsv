@@ -47,9 +47,9 @@ date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	statu
 20210517	4	A&M 	Noah Schachter           	MSST	Alberto Colas              	N	C	485543	520879	6-2, 7-6(3)     	F	1758
 20210517	5	A&M 	Guido Marson             	MSST	Carles Hernandez           	N	N	485531	561123	6-3, 2-5        	U	1758
 20210517	6	A&M 	Raphael Perot            	MSST	Gregor Ramskogler          	N	D	562734	487240	6-0, 6-1        	F	1758
-20210520	1	TENN	Adam Walton              	UGA 	Trent Bryde                	N	C	461891	498429	4-3             	U	1770
-20210520	2	TENN	Johannus Monday          	UGA 	Tyler Zink                 	N	C	527971	511569	4-4             	U	1770
-20210520	3	TENN	Martim Prata             	UGA 	Philip Henning             	N	N	497830	498428	5-3             	U	1770
-20210520	4	TENN	Luca Wiedenmann          	UGA 	Blake Croyder              	N	C	463457	487816	5-4             	U	1770
-20210520	5	TENN	Giles Hussey             	UGA 	Billy Rowe                 	N	N	513101	562702	4-2             	U	1770
-20210520	6	TENN	Andrew Rogers            	UGA 	Erik Grevelius             	N	N	446520	511567	4-2             	U	1770
+20210520	1	TENN	Adam Walton              	UGA 	Trent Bryde                	N	N	461891	498429	6-4             	U	1770
+20210520	2	TENN	Johannus Monday          	UGA 	Tyler Zink                 	N	C	527971	511569	6-6             	U	1770
+20210520	3	TENN	Martim Prata             	UGA 	Philip Henning             	N	N	497830	498428	3-6, 2-0        	U	1770
+20210520	4	TENN	Luca Wiedenmann          	UGA 	Blake Croyder              	N	N	463457	487816	4-6, 2-0        	U	1770
+20210520	5	TENN	Giles Hussey             	UGA 	Billy Rowe                 	N	N	513101	562702	6-2             	U	1770
+20210520	6	TENN	Andrew Rogers            	UGA 	Erik Grevelius             	N	N	446520	511567	6-3             	U	1770
