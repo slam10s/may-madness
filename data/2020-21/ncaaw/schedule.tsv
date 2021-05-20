@@ -57,6 +57,6 @@ contestId	matchnum	date	timeStr	host	roundNum	home	visitor	score	winner	status	t
 5833695	301	2021-05-16	7:35 EDT 	UCF 	3	UNC  	CAL  	4-0	home   	final      	#16 California vs #1 North Carolina     	2021-05-16T19:35-04:00	north-carolina   	california         
 5833705	403	2021-05-19	11:25 EDT	UCF 	4	UGA  	NCST 	4-2	visitor	final      	#6 NC State vs #3 Georgia               	2021-05-19T11:25-04:00	georgia          	north-carolina-st  
 5833706	404	2021-05-19	2:00 EDT 	UCF 	4	TEX  	FSU  	4-0	home   	final      	#7 Florida St. vs #2 Texas              	2021-05-19T14:00-04:00	texas            	florida-st         
-5833704	402	2021-05-19	5:30 EDT 	UCF 	4	UCLA 	PEPP 	2-1	       	in-progress	#5 Pepperdine vs #4 UCLA                	2021-05-19T17:30-04:00	ucla             	pepperdine         
+5833704	402	2021-05-19	5:30 EDT 	UCF 	4	UCLA 	PEPP 	3-3	       	in-progress	#5 Pepperdine vs #4 UCLA                	2021-05-19T17:30-04:00	ucla             	pepperdine         
 5833703	401	2021-05-19	7:30 EDT 	UCF 	4	UNC  	DUKE 	0-0	       	pre        	Duke vs #1 North Carolina               	2021-05-19T19:30-04:00	north-carolina   	duke               
 5833708	502	2021-05-21	11:00 EDT	UCF 	5	TEX  	NCST 	0-0	       	pre        	#6 NC State vs #2 Texas                 	2021-05-21T11:00-04:00	texas            	north-carolina-st  
