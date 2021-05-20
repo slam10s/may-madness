@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#5 Pepperdine</h2>  
-&nbsp; Record: 23-3<br>  
+&nbsp; Record: 24-3<br>  
 &nbsp; ITA: 5 (60.46)<br>  
 &nbsp; Slam: 5 (93.64)<br>  
 &#10004; TRN: 4 (90.08)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#4 UCLA</h2>  
-&nbsp; Record: 22-4<br>  
+&nbsp; Record: 22-5<br>  
 &#10004; ITA: 4 (61.62)<br>  
 &#10004; Slam: 4 (93.76)<br>  
 &nbsp; TRN: 5 (89.44)<br>  
@@ -40,7 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Match Information  
-***UCLA def. Pepperdine 4-3***  
+***Pepperdine def. UCLA 4-3***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=786&clubid=283-733&cn1=USC&cn2=Pepperdine&ci1=283&ci2=733&lid=83) | [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WQFPEPPUCLA.pdf)  
 
 ## Predictions  

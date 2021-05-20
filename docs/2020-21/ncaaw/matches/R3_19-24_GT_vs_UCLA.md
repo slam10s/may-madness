@@ -40,7 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
-***Georgia Tech def. UCLA 4-0***  
+***UCLA def. Georgia Tech 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=772&clubid=283-561&cn1=USC&cn2=GA%20Tech&ci1=283&ci2=561&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UCLAGT.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-womens-round-of-16-10-am-photos/2021-womens-round-of-16-4-pm-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/W16UCLAGTQuotes.pdf)  
 
 ## Predictions  
