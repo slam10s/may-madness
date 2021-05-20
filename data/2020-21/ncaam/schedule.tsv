@@ -56,6 +56,6 @@ contestId	matchnum	date	timeStr	host	roundNum	home	visitor	score	winner	status	t
 5833419	302	2021-05-17	7:30 EDT 	UCF 	3	A&M 	MSST 	4-0	home   	final      	Mississippi St. vs #8 Texas A&M         	2021-05-17T19:30-04:00	texas-am           	mississippi-st     
 5833418	301	2021-05-17	7:40 EDT 	UCF 	3	FLA 	ILL  	4-0	home   	final      	#16 Illinois vs #1 Florida              	2021-05-17T19:40-04:00	florida            	illinois           
 5833428	403	2021-05-20	11:00 EDT	UCF 	4	TENN	UGA  	4-1	home   	final      	#11 Georgia vs #3 Tennessee             	2021-05-20T11:00-04:00	tennessee          	georgia            
-5833429	404	2021-05-20	2:00 EDT 	UCF 	4	BAY 	TCU  	1-0	       	in-progress	#7 TCU vs #2 Baylor                     	2021-05-20T14:00-04:00	baylor             	tcu                
+5833429	404	2021-05-20	2:00 EDT 	UCF 	4	BAY 	TCU  	0-0	       	in-progress	#7 TCU vs #2 Baylor                     	2021-05-20T14:00-04:00	baylor             	tcu                
 5833427	402	2021-05-20	5:30 EDT 	UCF 	4	TEX 	USC  	0-0	       	pre        	#12 Southern California vs #4 Texas     	2021-05-20T17:30-04:00	texas              	southern-california
 5833426	401	2021-05-20	7:30 EDT 	UCF 	4	FLA 	A&M  	0-0	       	pre        	#8 Texas A&M vs #1 Florida              	2021-05-20T19:30-04:00	florida            	texas-am           
