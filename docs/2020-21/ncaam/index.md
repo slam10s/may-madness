@@ -24,7 +24,7 @@ The various metrics disagree on the outcome of these matches:
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
 - Thu, 5/20 at 11:00 EDT	[#11 Georgia vs #3 Tennessee](./matches/R4_17-24_UGA_vs_TENN.md) ... <b>TENN (4)</b> / UGA (1)
-- Thu, 5/20 at  7:30 EDT	[#8 Texas A&M vs #1 Florida](./matches/R4_1-8_AM_vs_FLA.md) ... FLA (86%) / A&M (14%)
+- Thu, 5/20 at  7:30 EDT	[#8 Texas A&M vs #1 Florida](./matches/R4_1-8_AM_vs_FLA.md) ... <b>FLA (4)</b> / A&M (1)
 ## Sweet Sixteen
 
 ### Intriguing Matches
