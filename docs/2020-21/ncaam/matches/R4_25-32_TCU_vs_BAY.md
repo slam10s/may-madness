@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Baylor def. TCU 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=789&clubid=552-591&cn1=Baylor&cn2=TCU&ci1=552&ci2=591&lid=82) | [Video](https://t1.app.link/ncaachampionships)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=789&clubid=552-591&cn1=Baylor&cn2=TCU&ci1=552&ci2=591&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MQFBAYTCU.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-qf-session-one-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MQFBAYTCUQuotes.pdf)  
 
 ## Predictions  
 

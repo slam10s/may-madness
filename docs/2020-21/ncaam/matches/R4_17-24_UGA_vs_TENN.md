@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Tennessee def. Georgia 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=788&clubid=257-255&cn1=Tennessee&cn2=Georgia&ci1=257&ci2=255&lid=82) | [Video](https://t1.app.link/ncaachampionships)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=788&clubid=257-255&cn1=Tennessee&cn2=Georgia&ci1=257&ci2=255&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MQFTENNUGA.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-qf-session-one-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MQFTENNUGAQuotes.pdf)  
 
 ## Predictions  
 
