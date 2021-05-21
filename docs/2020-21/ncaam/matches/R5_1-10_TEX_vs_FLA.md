@@ -1,5 +1,5 @@
 Semifinals[](#top)<a name="top"></a>  
-[Friday, May 21](../../schedule/05-21.md) at TBA  
+[Friday, May 21](../../schedule/05-21.md) at 7:30 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -40,7 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)
 
 ## Match Information  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82) | [Video](https://t1.app.link/ncaachampionships)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82) | [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation)  
 
 ## Predictions  
 

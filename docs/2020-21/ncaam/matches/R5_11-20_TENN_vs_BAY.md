@@ -1,5 +1,5 @@
 Semifinals[](#top)<a name="top"></a>  
-[Friday, May 21](../../schedule/05-21.md) at TBA  
+[Friday, May 21](../../schedule/05-21.md) at 2:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  

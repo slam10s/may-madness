@@ -9,13 +9,13 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Fri, 5/21 at       TBA	[#3 Tennessee vs #2 Baylor](./matches/R5_11-20_TENN_vs_BAY.md) ... BAY (44%) / <i>TENN (56%)</i>
+- Fri, 5/21 at  2:00 EDT	[#3 Tennessee vs #2 Baylor](./matches/R5_11-20_TENN_vs_BAY.md) ... BAY (44%) / <i>TENN (56%)</i>
 
 ### Heavy Favorites
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Fri, 5/21 at       TBA	[#4 Texas vs #1 Florida](./matches/R5_1-10_TEX_vs_FLA.md) ... FLA (83%) / TEX (17%)
+- Fri, 5/21 at  7:30 EDT	[#4 Texas vs #1 Florida](./matches/R5_1-10_TEX_vs_FLA.md) ... FLA (83%) / TEX (17%)
 ## Quarterfinals
 
 ### Intriguing Matches
