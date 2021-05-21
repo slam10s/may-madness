@@ -7,7 +7,7 @@ Semifinals[](#top)<a name="top"></a>
 <td>  
 
 <h2>#6 NC State</h2>  
-&nbsp; Record: 20-5<br>  
+&nbsp; Record: 20-6<br>  
 &nbsp; ITA: 6 (56.15)<br>  
 &nbsp; Slam: 10 (91.60)<br>  
 &nbsp; TRN: 10 (87.03)<br>  
@@ -21,7 +21,7 @@ Semifinals[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Texas</h2>  
-&nbsp; Record: 29-1<br>  
+&nbsp; Record: 30-1<br>  
 &#10004; ITA: 2 (79.31)<br>  
 &#10004; Slam: 2 (98.40)<br>  
 &#10004; TRN: 2 (97.58)<br>  
@@ -38,6 +38,7 @@ Semifinals[](#top)<a name="top"></a>
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)
 
 ## Match Information  
+***Texas def. N.C. State 4-0***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Video](https://t1.app.link/ncaachampionships)  
 
 ## Predictions  
