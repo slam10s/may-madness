@@ -17,8 +17,7 @@ You can find a complete listing of the predictions for each match here:
 
 Here's daily listings of the matches by start time:
 
-- [Today](./docs/2020-21/schedule/05-20.md) - Elite Eight (Men)
-- [Friday, May 21](./docs/2020-21/schedule/05-21.md) - Final Four (Men & Women)
+- [Today](./docs/2020-21/schedule/05-21.md) - Final Four (Men & Women)
 - [Thursday, May 20](./docs/2020-21/schedule/05-20.md) - Elite Eight (Men)
 - [Wednesday, May 19](./docs/2020-21/schedule/05-19.md) - Elite Eight (Women)
 - [Monday, May 17](./docs/2020-21/schedule/05-17.md) - Sweet 16 (Men)
