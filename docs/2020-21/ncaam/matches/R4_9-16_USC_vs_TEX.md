@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#12 Southern California</h2>  
-&nbsp; Record: 23-6<br>  
+&nbsp; Record: 23-7<br>  
 &nbsp; ITA: 12 (52.23)<br>  
 &nbsp; Slam: 10 (97.08)<br>  
 &nbsp; TRN: 11 (96.10)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#4 Texas</h2>  
-&nbsp; Record: 23-5<br>  
+&nbsp; Record: 24-5<br>  
 &#10004; ITA: 4 (74.24)<br>  
 &#10004; Slam: 8 (97.83)<br>  
 &#10004; TRN: 4 (98.42)<br>  
