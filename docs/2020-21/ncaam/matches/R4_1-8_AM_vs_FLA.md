@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Florida def. Texas A&M 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=791&clubid=251-297&cn1=Florida&cn2=Texas%20A%26M&ci1=251&ci2=297&lid=82) | [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=791&clubid=251-297&cn1=Florida&cn2=Texas%20A%26M&ci1=251&ci2=297&lid=82) | [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-qf-session-two-photos.html)  
 
 ## Predictions  
 
