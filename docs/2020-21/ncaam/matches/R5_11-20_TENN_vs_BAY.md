@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#3 Tennessee</h2>  
-&nbsp; Record: 28-3<br>  
+&nbsp; Record: 28-4<br>  
 &nbsp; ITA: 3 (74.51)<br>  
 &#10004; Slam: 2 (99.03)<br>  
 &#10004; TRN: 2 (99.24)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#2 Baylor</h2>  
-&nbsp; Record: 33-4<br>  
+&nbsp; Record: 34-4<br>  
 &#10004; ITA: 1 (83.33)<br>  
 &nbsp; Slam: 3 (99.00)<br>  
 &nbsp; TRN: 3 (99.00)<br>  
@@ -40,6 +40,7 @@ Orlando, Florida
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)
 
 ## Match Information  
+***Baylor def. Tennessee 4-2***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82) | [Video](https://t1.app.link/ncaachampionships)  
 
 ## Predictions  
