@@ -58,5 +58,5 @@ contestId	matchnum	date	timeStr	host	roundNum	home	visitor	score	winner	status	t
 5833428	403	2021-05-20	11:00 EDT	UCF 	4	TENN	UGA  	4-1	home   	final      	#11 Georgia vs #3 Tennessee             	2021-05-20T11:00-04:00	tennessee          	georgia            
 5833429	404	2021-05-20	2:00 EDT 	UCF 	4	BAY 	TCU  	4-1	home   	final      	#7 TCU vs #2 Baylor                     	2021-05-20T14:00-04:00	baylor             	tcu                
 5833427	402	2021-05-20	5:30 EDT 	UCF 	4	TEX 	USC  	4-3	home   	final      	#12 Southern California vs #4 Texas     	2021-05-20T17:30-04:00	texas              	southern-california
-5833426	401	2021-05-20	7:30 EDT 	UCF 	4	FLA 	A&M  	1-1	       	in-progress	#8 Texas A&M vs #1 Florida              	2021-05-20T19:30-04:00	florida            	texas-am           
+5833426	401	2021-05-20	7:30 EDT 	UCF 	4	FLA 	A&M  	2-1	       	in-progress	#8 Texas A&M vs #1 Florida              	2021-05-20T19:30-04:00	florida            	texas-am           
 5833431	502	2021-05-21	TBA      	UCF 	5	BAY 	TENN 	0-0	       	pre        	#3 Tennessee vs #2 Baylor               	2021-05-21            	baylor             	tennessee          
