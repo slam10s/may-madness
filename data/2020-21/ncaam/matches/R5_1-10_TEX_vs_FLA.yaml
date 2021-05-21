@@ -1,0 +1,131 @@
+Date: Friday, May 21
+Time: TBA
+Tournament: 2021 Division I Men's Tennis Championship
+Round: Semifinals
+Lines: 1-10
+Title: "#4 Texas vs #1 Florida"
+URL: https://www.ncaa.com/game/5833430
+Winner: TBD
+Home:
+  Team: Florida
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png
+  Entry: Regional Host
+  Draw Line: 1
+  Seeding:
+    Overall: 1
+    Region: 1
+  Ratings:
+    ITA: 2 (81.08)
+    SLM: 1 (100.00)
+    TRN: 1 (100.00)
+    MAS: 1 (9.50)
+    UTR: 1 (80.65)
+  Polls:
+    USTA: 2 (302.00)
+    Coach: 2
+Visitor:
+  Team: Texas
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png
+  Entry: Regional Host
+  Draw Line: 32
+  Seeding:
+    Overall: 4
+    Region: 1
+  Ratings:
+    ITA: 4 (74.24)
+    SLM: 8 (97.83)
+    TRN: 4 (98.42)
+    MAS: 8 (8.65)
+    UTR: 12 (79.13)
+  Polls:
+    USTA: 8 (263.00)
+    Coach: 4
+Predictions:
+  AVG: FLA - Florida (83%) def. Texas (17%)
+  SLM: "FLA - #1 Florida (77%) def. #8 Texas (23%)"
+  TRN: "FLA - #1 Florida (71%) def. #4 Texas (29%)"
+  MAS: "FLA - #1 Florida (89%) def. #8 Texas (11%)"
+  LNUP: FLA - Florida (96%) def. Texas (4%)
+  UTR: "FLA - #1 Florida (+1.52) def. #12 Texas (-1.52)"
+  ITA: "FLA - #2 Florida def. #4 Texas"
+  USTA: "FLA - #2 Florida def. #8 Texas"
+  Coach: "FLA - #2 Florida def. #4 Texas"
+  Seeding: "FLA - #1 Florida def. #4 Texas"
+Lineups:
+  Predictions:
+    Average EWPs for FLA: 77%,71%,89%,96%
+    Average EWPs for TEX: 23%,29%,11%,4%
+    FLA wins 4 or more Singles points: 84%
+    TEX wins 4 or more Singles points: 3%
+    Winner decided by the Doubles point: 13%
+  Singles:
+    - Position: 1
+      FLA: Duarte Vale - 15-6 at 1, 15-6 in duals, 23-6 overall
+      TEX: Eliot Spizzirri - 9-6 at 1, 15-8 in duals, 22-9 overall
+      Predictions:
+        AVG: FLA - Vale (67%) def. Spizzirri (33%)
+        SLM: FLA - Vale (67%) def. Spizzirri (33%)
+        TRN: FLA - Vale (63%) def. Spizzirri (37%)
+        MAS: FLA - Vale (64%) def. Spizzirri (36%)
+        UTR: FLA - Vale (75%) def. Spizzirri (25%)
+        ITA: FLA - Vale (54.01) def. Spizzirri (28.17)
+    - Position: 2
+      FLA: Sam Riffice - 16-4 at 2, 18-4 in duals, 23-7 overall
+      TEX: Micah Braswell - 9-4 at 2, 17-5 in duals, 32-6 overall
+      Predictions:
+        AVG: FLA - Riffice (61%) def. Braswell (39%)
+        SLM: FLA - Riffice (63%) def. Braswell (37%)
+        TRN: FLA - Riffice (54%) def. Braswell (46%)
+        MAS: FLA - Riffice (58%) def. Braswell (42%)
+        UTR: FLA - Riffice (70%) def. Braswell (30%)
+        ITA: FLA - Riffice (49.68) def. Braswell (20.88)
+    - Position: 3
+      FLA: Andy Andrade - 12-7 at 3, 14-7 in duals, 22-7 overall
+      TEX: Siem Woldeab - 5-1 at 3, 9-7 in duals, 14-12 overall
+      Predictions:
+        AVG: FLA - Andrade (72%) def. Woldeab (28%)
+        SLM: FLA - Andrade (64%) def. Woldeab (36%)
+        TRN: FLA - Andrade (79%) def. Woldeab (21%)
+        MAS: FLA - Andrade (75%) def. Woldeab (25%)
+        UTR: FLA - Andrade (70%) def. Woldeab (30%)
+        ITA: FLA - Andrade (32.71) def. Woldeab (9.31)
+    - Position: 4
+      FLA: Blaise Bicknell - 15-0 at 4, 20-0 in duals, 29-0 overall
+      TEX: Cleeve Harper - 14-3 at 4, 17-5 in duals, 22-9 overall
+      Predictions:
+        AVG: FLA - Bicknell (74%) def. Harper (26%)
+        SLM: FLA - Bicknell (72%) def. Harper (28%)
+        TRN: FLA - Bicknell (87%) def. Harper (13%)
+        MAS: FLA - Bicknell (66%) def. Harper (34%)
+        UTR: FLA - Bicknell (73%) def. Harper (27%)
+        ITA: FLA - Bicknell (15.89) def. Harper (5.83)
+    - Position: 5
+      FLA: Ben Shelton - 15-4 at 5, 17-4 in duals, 24-5 overall
+      TEX: Chih Chi Huang - 9-7 at 5, 11-8 in duals, 15-17 overall
+      Predictions:
+        AVG: FLA - Shelton (83%) def. Huang (17%)
+        SLM: FLA - Shelton (82%) def. Huang (18%)
+        TRN: FLA - Shelton (87%) def. Huang (13%)
+        MAS: FLA - Shelton (78%) def. Huang (22%)
+        UTR: FLA - Shelton (86%) def. Huang (14%)
+        ITA: "TEX - # Huang def. Shelton (3.20)"
+    - Position: 6
+      FLA: Josh Goodger - 12-0 at 6, 13-0 in duals, 19-0 overall
+      TEX: Evin McDonald - 6-9 at 6, 11-10 in duals, 15-16 overall
+      Predictions:
+        AVG: FLA - Goodger (90%) def. McDonald (10%)
+        SLM: FLA - Goodger (91%) def. McDonald (9%)
+        TRN: FLA - Goodger (93%) def. McDonald (7%)
+        MAS: FLA - Goodger (91%) def. McDonald (9%)
+        UTR: FLA - Goodger (87%) def. McDonald (13%)
+        ITA: "TEX - # McDonald def. Goodger (8.31)"
+  Doubles:
+    - Position: 1
+      FLA: Ingildsen/Vale - 0-0 at 1, 0-0 in duals, 0-0 overall
+      TEX: Spizzirri/Woldeab - 12-9 at 1, 12-9 in duals, 19-9 overall
+    - Position: 2
+      FLA: Riffice/Shelton - 0-0 at 2, 4-0 in duals, 6-1 overall
+      TEX: Harper/Huang - 5-4 at 2, 6-4 in duals, 10-7 overall
+    - Position: 3
+      FLA: Berdusco/Grant - 0-0 at 3, 0-0 in duals, 1-0 overall
+      TEX: Braswell/Holden - 4-1 at 3, 4-1 in duals, 7-2 overall

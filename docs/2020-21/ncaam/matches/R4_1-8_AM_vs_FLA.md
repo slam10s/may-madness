@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#8 Texas A&M</h2>  
-&nbsp; Record: 19-8<br>  
+&nbsp; Record: 19-9<br>  
 &nbsp; ITA: 8 (63.69)<br>  
 &nbsp; Slam: 11 (96.98)<br>  
 &nbsp; TRN: 9 (96.50)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 Florida</h2>  
-&nbsp; Record: 23-2<br>  
+&nbsp; Record: 24-2<br>  
 &#10004; ITA: 2 (81.08)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
