@@ -61,7 +61,7 @@ date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	statu
 20210520	6	BAY 	Spencer Furman           	TCU 	Bertus Kruger              	N	N	562413	423670	7-5, 6-1        	F	1772
 20210520	1	USC 	Daniel Cukierman         	TEX 	Eliot Spizzirri            	N	C	399776	520306	6-4, 2-6, 6-1   	F	1774
 20210520	2	TEX 	Micah Braswell           	USC 	Riley Smith                	N	C	528270	453064	6-4, 6-3        	F	1774
-20210520	3	TEX 	Siem Woldeab             	USC 	Stefan Dostanic            	N	C	513841	510835	6-4, 4-6, 5-3   	U	1774
-20210520	4	TEX 	Cleeve Harper            	USC 	Bradley Frye               	N	C	513840	486015	6-4, 3-6, 3-2   	U	1774
+20210520	3	USC 	Stefan Dostanic          	TEX 	Siem Woldeab               	N	C	510835	513841	6-4, 4-6, 6-3   	F	1774
+20210520	4	TEX 	Cleeve Harper            	USC 	Bradley Frye               	N	N	513840	486015	6-4, 3-6, 4-4   	U	1774
 20210520	5	TEX 	Chih Chi Huang           	USC 	Lodewijk Weststrate        	N	C	486712	563765	6-2, 0-6, 6-3   	F	1774
 20210520	6	USC 	Jake Sands               	TEX 	Evin McDonald              	N	C	486016	513843	6-4, 6-4        	F	1774
