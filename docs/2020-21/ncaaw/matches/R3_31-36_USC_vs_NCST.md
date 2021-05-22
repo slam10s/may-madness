@@ -1,5 +1,5 @@
 Third Round[](#top)<a name="top"></a>  
-[Sunday, May 16](../../schedule.md#05-16) at 10:00 EDT  
+[Sunday, May 16](../../schedule/05-16.md) at 10:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -36,7 +36,7 @@ Orlando, Florida
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-16)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
 
 ## Match Information  
 ***N.C. State def. USC 4-1***  
@@ -159,4 +159,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-16)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)  

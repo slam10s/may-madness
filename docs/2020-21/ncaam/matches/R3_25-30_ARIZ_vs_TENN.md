@@ -1,5 +1,5 @@
 Third Round[](#top)<a name="top"></a>  
-[Monday, May 17](../../schedule.md#05-17) at 10:00 EDT  
+[Monday, May 17](../../schedule/05-17.md) at 10:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -37,7 +37,7 @@ Orlando, Florida
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-17)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)
 
 ## Match Information  
 ***Tennessee def. Arizona 4-3***  
@@ -160,4 +160,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-17)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-17.md)  

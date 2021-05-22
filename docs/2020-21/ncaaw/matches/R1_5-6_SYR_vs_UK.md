@@ -1,5 +1,5 @@
 First Round[](#top)<a name="top"></a>  
-[Friday, May 7](../../schedule.md#05-07) at 1:00 EDT  
+[Friday, May 7](../../schedule/05-07.md) at 1:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 Hellman Tennis Complex  
 Berkeley, California  
@@ -36,7 +36,7 @@ Berkeley, California
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-07)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
 
 ## Match Information  
 ***Kentucky def. Syracuse 4-3***  
@@ -157,4 +157,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-07)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)  

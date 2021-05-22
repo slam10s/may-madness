@@ -1,5 +1,5 @@
 First Round[](#top)<a name="top"></a>  
-[Friday, May 7](../../schedule.md#05-07) at 2:00 EDT  
+[Friday, May 7](../../schedule/05-07.md) at 2:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 Varsity Tennis Center  
 Columbus, Ohio  
@@ -35,7 +35,7 @@ Columbus, Ohio
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-07)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)
 
 ## Match Information  
 ***Ohio State def. Illinois - Chicago 4-0***  
@@ -157,4 +157,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-07)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-07.md)  

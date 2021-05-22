@@ -1,5 +1,5 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Wednesday, May 19](../../schedule.md#05-19) at 5:30 EDT  
+[Wednesday, May 19](../../schedule/05-19.md) at 5:30 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -37,7 +37,7 @@ Orlando, Florida
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-19)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Match Information  
 ***Pepperdine def. UCLA 4-3***  
@@ -160,4 +160,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-19)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)  

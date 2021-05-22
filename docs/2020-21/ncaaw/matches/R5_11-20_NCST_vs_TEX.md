@@ -1,5 +1,5 @@
 Semifinals[](#top)<a name="top"></a>  
-[Friday, May 21](../../schedule.md#05-21) at 11:00 EDT  
+[Friday, May 21](../../schedule/05-21.md) at 11:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 ## [#6 NC State vs #2 Texas](https://www.ncaa.com/game/5833708)  
 
@@ -35,7 +35,7 @@ Semifinals[](#top)<a name="top"></a>
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-21)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)
 
 ## Match Information  
 ***Texas def. N.C. State 4-0***  
@@ -158,4 +158,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-21)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)  

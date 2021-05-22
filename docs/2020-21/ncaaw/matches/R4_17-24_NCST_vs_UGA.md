@@ -1,5 +1,5 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Wednesday, May 19](../../schedule.md#05-19) at 11:25 EDT  
+[Wednesday, May 19](../../schedule/05-19.md) at 11:25 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 ## [#6 NC State vs #3 Georgia](https://www.ncaa.com/game/5833705)  
 
@@ -35,7 +35,7 @@ Quarterfinals[](#top)<a name="top"></a>
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-19)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)
 
 ## Match Information  
 ***N.C. State def. Georgia 4-2***  
@@ -158,4 +158,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-19)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-19.md)  

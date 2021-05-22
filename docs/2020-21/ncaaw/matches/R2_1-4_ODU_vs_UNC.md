@@ -1,5 +1,5 @@
 Second Round[](#top)<a name="top"></a>  
-[Saturday, May 8](../../schedule.md#05-08) at 4:00 EDT  
+[Saturday, May 8](../../schedule/05-08.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 Cone-Kenfield Center  
 Chapel Hill, North Carolina  
@@ -37,7 +37,7 @@ Chapel Hill, North Carolina
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-08)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
 ***North Carolina def. Old Dominion 4-0***  
@@ -160,4 +160,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-08)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)  

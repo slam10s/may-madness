@@ -1,5 +1,5 @@
 Second Round[](#top)<a name="top"></a>  
-[Saturday, May 8](../../schedule.md#05-08) at 4:00 EDT  
+[Saturday, May 8](../../schedule/05-08.md) at 4:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 Ralphs-Straus Tennis Center  
 Malibu, California  
@@ -37,7 +37,7 @@ Malibu, California
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-08)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
 
 ## Match Information  
 ***Pepperdine def. Stanford 4-2***  
@@ -160,4 +160,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-08)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)  
