@@ -77,9 +77,9 @@ date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	statu
 20210521	4	BAY 	Nick Stachowiak          	TENN	Luca Wiedenmann            	N	C	562412	463457	1-6, 6-2, 6-4   	F	1782
 20210521	5	TENN	Giles Hussey             	BAY 	Charlie Broom              	N	N	513101	527260	6-4, 6-2        	F	1782
 20210521	6	BAY 	Spencer Furman           	TENN	Andrew Rogers              	N	N	562413	446520	6-3, 6-2        	F	1782
-20210521	1	FLA 	Duarte Vale              	TEX 	Eliot Spizzirri            	N	C	459591	520306	6-4, 5-4        	U	1784
-20210521	2	FLA 	Sam Riffice              	TEX 	Micah Braswell             	N	C	488586	528270	7-6(3), 2-1     	U	1784
-20210521	3	FLA 	Andy Andrade             	TEX 	Siem Woldeab               	N	C	385909	513841	6-3, 5-4        	U	1784
+20210521	1	FLA 	Duarte Vale              	TEX 	Eliot Spizzirri            	N	C	459591	520306	6-4, 5-6        	U	1784
+20210521	2	FLA 	Sam Riffice              	TEX 	Micah Braswell             	N	C	488586	528270	7-6(3), 3-2     	U	1784
+20210521	3	FLA 	Andy Andrade             	TEX 	Siem Woldeab               	N	C	385909	513841	6-3, 7-5        	F	1784
 20210521	4	FLA 	Blaise Bicknell          	TEX 	Cleeve Harper              	N	N	509770	513840	6-1, 7-5        	F	1784
 20210521	5	FLA 	Ben Shelton              	TEX 	Chih Chi Huang             	N	N	561860	486712	6-3, 6-0        	F	1784
-20210521	6	FLA 	Josh Goodger             	TEX 	Evin McDonald              	N	C	511775	513843	6-2, 4-6, 2-1   	U	1784
+20210521	6	FLA 	Josh Goodger             	TEX 	Evin McDonald              	N	C	511775	513843	6-2, 4-6, 4-3   	U	1784
