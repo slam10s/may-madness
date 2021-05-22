@@ -1,0 +1,131 @@
+Date: Saturday, May 22
+Time: TBA
+Tournament: 2021 Division I Men's Tennis Championship
+Round: Championship
+Lines: 1-12
+Title: "#2 Baylor vs #1 Florida"
+URL: https://www.ncaa.com/game/5833432
+Winner: TBD
+Home:
+  Team: Florida
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/f/florida.70.png
+  Entry: Regional Host
+  Draw Line: 1
+  Seeding:
+    Overall: 1
+    Region: 1
+  Ratings:
+    ITA: 2 (81.08)
+    SLM: 1 (100.00)
+    TRN: 1 (100.00)
+    MAS: 1 (9.50)
+    UTR: 1 (80.65)
+  Polls:
+    USTA: 2 (302.00)
+    Coach: 2
+Visitor:
+  Team: Baylor
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/b/baylor.70.png
+  Entry: Regional Host
+  Draw Line: 64
+  Seeding:
+    Overall: 2
+    Region: 1
+  Ratings:
+    ITA: 1 (83.33)
+    SLM: 3 (99.00)
+    TRN: 3 (99.00)
+    MAS: 3 (8.91)
+    UTR: 7 (79.86)
+  Polls:
+    USTA: 3 (292.00)
+    Coach: 1
+Predictions:
+  AVG: FLA - Florida (73%) def. Baylor (27%)
+  SLM: "FLA - #1 Florida (63%) def. #3 Baylor (37%)"
+  TRN: "FLA - #1 Florida (64%) def. #3 Baylor (36%)"
+  MAS: "FLA - #1 Florida (82%) def. #3 Baylor (18%)"
+  LNUP: FLA - Florida (82%) def. Baylor (18%)
+  UTR: "FLA - #1 Florida (+0.79) def. #7 Baylor (-0.79)"
+  ITA: "BAY - #1 Baylor def. #2 Florida"
+  USTA: "FLA - #2 Florida def. #3 Baylor"
+  Coach: "BAY - #1 Baylor def. #2 Florida"
+  Seeding: "FLA - #1 Florida def. #2 Baylor"
+Lineups:
+  Predictions:
+    Average EWPs for FLA: 63%,64%,82%,82%
+    Average EWPs for BAY: 37%,36%,18%,18%
+    FLA wins 4 or more Singles points: 60%
+    BAY wins 4 or more Singles points: 13%
+    Winner decided by the Doubles point: 27%
+  Singles:
+    - Position: 1
+      FLA: Duarte Vale - 15-6 at 1, 15-6 in duals, 23-6 overall
+      BAY: Adrian Boitan - 14-4 at 1, 15-5 in duals, 15-5 overall
+      Predictions:
+        AVG: FLA - Vale (56%) def. Boitan (44%)
+        SLM: FLA - Vale (54%) def. Boitan (46%)
+        TRN: BAY - Boitan (51%) def. Vale (49%)
+        MAS: FLA - Vale (58%) def. Boitan (42%)
+        UTR: FLA - Vale (64%) def. Boitan (36%)
+        ITA: FLA - Vale (54.01) def. Boitan (31.04)
+    - Position: 2
+      FLA: Sam Riffice - 16-4 at 2, 18-4 in duals, 23-7 overall
+      BAY: Matias Soto - 12-3 at 2, 14-4 in duals, 18-4 overall
+      Predictions:
+        AVG: BAY - Soto (55%) def. Riffice (45%)
+        SLM: BAY - Soto (51%) def. Riffice (49%)
+        TRN: BAY - Soto (56%) def. Riffice (44%)
+        MAS: FLA - Riffice (52%) def. Soto (48%)
+        UTR: BAY - Soto (68%) def. Riffice (32%)
+        ITA: FLA - Riffice (49.68) def. Soto (41.70)
+    - Position: 3
+      FLA: Andy Andrade - 12-7 at 3, 14-7 in duals, 22-7 overall
+      BAY: Sven Lah - 6-7 at 3, 9-9 in duals, 11-12 overall
+      Predictions:
+        AVG: FLA - Andrade (84%) def. Lah (16%)
+        SLM: FLA - Andrade (80%) def. Lah (20%)
+        TRN: FLA - Andrade (87%) def. Lah (13%)
+        MAS: FLA - Andrade (85%) def. Lah (15%)
+        UTR: FLA - Andrade (85%) def. Lah (15%)
+        ITA: FLA - Andrade (32.71) def. Lah (4.25)
+    - Position: 4
+      FLA: Blaise Bicknell - 15-0 at 4, 20-0 in duals, 29-0 overall
+      BAY: Nick Stachowiak - 8-2 at 4, 12-5 in duals, 19-7 overall
+      Predictions:
+        AVG: FLA - Bicknell (78%) def. Stachowiak (22%)
+        SLM: FLA - Bicknell (75%) def. Stachowiak (25%)
+        TRN: FLA - Bicknell (87%) def. Stachowiak (13%)
+        MAS: FLA - Bicknell (69%) def. Stachowiak (31%)
+        UTR: FLA - Bicknell (80%) def. Stachowiak (20%)
+        ITA: FLA - Bicknell (15.89) def. Stachowiak (3.38)
+    - Position: 5
+      FLA: Ben Shelton - 15-4 at 5, 17-4 in duals, 24-5 overall
+      BAY: Charlie Broom - 17-2 at 5, 21-3 in duals, 24-6 overall
+      Predictions:
+        AVG: FLA - Shelton (52%) def. Broom (48%)
+        SLM: FLA - Shelton (51%) def. Broom (49%)
+        TRN: BAY - Broom (51%) def. Shelton (49%)
+        MAS: FLA - Shelton (51%) def. Broom (49%)
+        UTR: FLA - Shelton (56%) def. Broom (44%)
+        ITA: BAY - Broom (3.72) def. Shelton (3.20)
+    - Position: 6
+      FLA: Josh Goodger - 12-0 at 6, 13-0 in duals, 19-0 overall
+      BAY: Spencer Furman - 11-2 at 6, 18-2 in duals, 21-3 overall
+      Predictions:
+        AVG: FLA - Goodger (58%) def. Furman (42%)
+        SLM: FLA - Goodger (68%) def. Furman (32%)
+        TRN: FLA - Goodger (69%) def. Furman (31%)
+        MAS: FLA - Goodger (61%) def. Furman (39%)
+        UTR: BAY - Furman (64%) def. Goodger (36%)
+        ITA: FLA - Goodger (8.31) def. Furman (4.24)
+  Doubles:
+    - Position: 1
+      FLA: Ingildsen/Vale - 0-0 at 1, 0-0 in duals, 0-0 overall
+      BAY: Lah/Frantzen - 11-7 at 1, 11-7 in duals, 11-7 overall
+    - Position: 2
+      FLA: Riffice/Shelton - 0-0 at 2, 4-0 in duals, 6-1 overall
+      BAY: Stachowiak/Soto - 7-1 at 2, 7-1 in duals, 10-1 overall
+    - Position: 3
+      FLA: Berdusco/Grant - 0-0 at 3, 0-0 in duals, 1-0 overall
+      BAY: Broom/Bass - 5-3 at 3, 5-3 in duals, 5-3 overall

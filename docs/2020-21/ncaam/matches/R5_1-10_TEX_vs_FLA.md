@@ -9,7 +9,7 @@ Orlando, Florida
 <td>  
 
 <h2>#4 Texas</h2>  
-&nbsp; Record: 24-5<br>  
+&nbsp; Record: 24-6<br>  
 &nbsp; ITA: 4 (74.24)<br>  
 &nbsp; Slam: 8 (97.83)<br>  
 &nbsp; TRN: 4 (98.42)<br>  
@@ -23,7 +23,7 @@ Orlando, Florida
 <td>  
 
 <h2>#1 Florida</h2>  
-&nbsp; Record: 24-2<br>  
+&nbsp; Record: 25-2<br>  
 &#10004; ITA: 2 (81.08)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
