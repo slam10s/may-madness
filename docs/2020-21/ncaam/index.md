@@ -9,7 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The various metrics disagree on the outcome of these matches:
 
-- Sat, 5/22 at       TBA	[#2 Baylor vs #1 Florida](./matches/R6_1-12_BAY_vs_FLA.md) ... FLA (73%) / BAY (27%)
+- Sat, 5/22 at  7:30 EDT	[#2 Baylor vs #1 Florida](./matches/R6_1-12_BAY_vs_FLA.md) ... FLA (73%) / BAY (27%)
 ## Semifinals
 
 ### Intriguing Matches
