@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Florida def. Texas 4-0***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=795&clubid=251-265&cn1=Florida&cn2=Texas&ci1=251&ci2=265&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MSFFLATEX.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=795&clubid=251-265&cn1=Florida&cn2=Texas&ci1=251&ci2=265&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MSFFLATEX.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-semifinal-photos.html)  
 
 ## Predictions  
 

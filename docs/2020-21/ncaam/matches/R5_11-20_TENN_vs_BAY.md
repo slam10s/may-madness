@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Baylor def. Tennessee 4-2***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=794&clubid=552-257&cn1=Baylor&cn2=Tennessee&ci1=552&ci2=257&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MSFBAYTENN.pdf) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MSFBAYTENNQuotes.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=794&clubid=552-257&cn1=Baylor&cn2=Tennessee&ci1=552&ci2=257&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MSFBAYTENN.pdf) | [Photos](https://www.ustanationalcampus.com/en/home/news/2021-mens-semifinal-photos.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MSFBAYTENNQuotes.pdf)  
 
 ## Predictions  
 
