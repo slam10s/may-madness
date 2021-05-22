@@ -17,15 +17,15 @@ You can find a complete listing of the predictions for each match here:
 
 Here's daily listings of the matches by start time:
 
-- [Saturday, May 22](./docs/2020-21/schedule/05-22.md) - Championship (Men & Women)
-- [Friday, May 21](./docs/2020-21/schedule/05-21.md) - Final Four (Men & Women)
-- [Thursday, May 20](./docs/2020-21/schedule/05-20.md) - Elite Eight (Men)
-- [Wednesday, May 19](./docs/2020-21/schedule/05-19.md) - Elite Eight (Women)
-- [Monday, May 17](./docs/2020-21/schedule/05-17.md) - Sweet 16 (Men)
-- [Sunday, May 16](./docs/2020-21/schedule/05-16.md) - Sweet 16 (Women)
-- [Sunday, May 9](./docs/2020-21/schedule/05-09.md) - 2nd Round (Men)
-- [Saturday, May 8](./docs/2020-21/schedule/05-08.md) - 1st & 2nd Rounds (Men & Women)
-- [Friday, May 7](./docs/2020-21/schedule/05-07.md) - 1st Round (Men & Women)
+- [Saturday, May 22](./docs/2020-21/schedule.md#05-22) - Championship (Men & Women)
+- [Friday, May 21](./docs/2020-21/schedule.md#05-21) - Final Four (Men & Women)
+- [Thursday, May 20](./docs/2020-21/schedule.md#05-20) - Elite Eight (Men)
+- [Wednesday, May 19](./docs/2020-21/schedule.md#05-19) - Elite Eight (Women)
+- [Monday, May 17](./docs/2020-21/schedule.md#05-17) - Sweet 16 (Men)
+- [Sunday, May 16](./docs/2020-21/schedule.md#05-16) - Sweet 16 (Women)
+- [Sunday, May 9](./docs/2020-21/schedule.md#05-09) - 2nd Round (Men)
+- [Saturday, May 8](./docs/2020-21/schedule.md#05-08) - 1st & 2nd Rounds (Men & Women)
+- [Friday, May 7](./docs/2020-21/schedule.md#05-07) - 1st Round (Men & Women)
 
 ## The Metrics
 

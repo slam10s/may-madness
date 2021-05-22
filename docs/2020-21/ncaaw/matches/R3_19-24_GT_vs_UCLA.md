@@ -1,5 +1,5 @@
 Third Round[](#top)<a name="top"></a>  
-[Sunday, May 16](../../schedule/05-16.md) at 4:50 EDT  
+[Sunday, May 16](../../schedule.md#05-16) at 4:50 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -37,7 +37,7 @@ Orlando, Florida
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-16)
 
 ## Match Information  
 ***UCLA def. Georgia Tech 4-0***  
@@ -160,4 +160,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-16.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-16)  

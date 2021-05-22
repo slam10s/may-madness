@@ -1,5 +1,5 @@
 Second Round[](#top)<a name="top"></a>  
-[Sunday, May 9](../../schedule/05-09.md) at 2:00 EDT  
+[Sunday, May 9](../../schedule.md#05-09) at 2:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 Palmer/Salloum Tennis Center  
 Oxford, Mississippi  
@@ -36,7 +36,7 @@ Oxford, Mississippi
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-09)
 
 ## Match Information  
 ***Ole Miss def. Tulane 4-0***  
@@ -158,4 +158,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-09)  

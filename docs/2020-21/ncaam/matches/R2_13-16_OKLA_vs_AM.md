@@ -1,5 +1,5 @@
 Second Round[](#top)<a name="top"></a>  
-[Saturday, May 8](../../schedule/05-08.md) at 3:00 EDT  
+[Saturday, May 8](../../schedule.md#05-08) at 3:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 George P. Mitchell Tennis Center  
 College Station, Texas  
@@ -36,7 +36,7 @@ College Station, Texas
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-08)
 
 ## Match Information  
 ***Texas A&M def. Oklahoma 4-1***  
@@ -159,4 +159,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-08)  

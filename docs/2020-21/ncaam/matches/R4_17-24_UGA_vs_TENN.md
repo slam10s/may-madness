@@ -1,5 +1,5 @@
 Quarterfinals[](#top)<a name="top"></a>  
-[Thursday, May 20](../../schedule/05-20.md) at 11:00 EDT  
+[Thursday, May 20](../../schedule.md#05-20) at 11:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 USTA National Campus  
 Orlando, Florida  
@@ -37,7 +37,7 @@ Orlando, Florida
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-20.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-20)
 
 ## Match Information  
 ***Tennessee def. Georgia 4-1***  
@@ -160,4 +160,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-20.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-20)  

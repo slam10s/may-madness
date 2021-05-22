@@ -1,5 +1,5 @@
 Second Round[](#top)<a name="top"></a>  
-[Saturday, May 8](../../schedule/05-08.md) at 6:00 EDT  
+[Saturday, May 8](../../schedule.md#05-08) at 6:00 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 Hurd Tennis Center  
 Waco, Texas  
@@ -37,7 +37,7 @@ Waco, Texas
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-08)
 
 ## Match Information  
 ***Duke def. Baylor 4-3***  
@@ -160,4 +160,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-08.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-08)  

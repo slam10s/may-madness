@@ -1,5 +1,5 @@
 Second Round[](#top)<a name="top"></a>  
-[Sunday, May 9](../../schedule/05-09.md) at 1:00 EDT  
+[Sunday, May 9](../../schedule.md#05-09) at 1:00 EDT  
 [2021 Division I Men's Tennis Championship](../index.md)  
 Texas Tennis Center  
 Austin, Texas  
@@ -36,7 +36,7 @@ Austin, Texas
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-09)
 
 ## Match Information  
 ***Texas def. Northwestern 4-0***  
@@ -159,4 +159,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-09.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-09)  

@@ -1,5 +1,5 @@
 Semifinals[](#top)<a name="top"></a>  
-[Friday, May 21](../../schedule/05-21.md) at 5:30 EDT  
+[Friday, May 21](../../schedule.md#05-21) at 5:30 EDT  
 [2021 Division I Women's Tennis Championship](../index.md)  
 ## [#5 Pepperdine vs #1 North Carolina](https://www.ncaa.com/game/5833707)  
 
@@ -35,7 +35,7 @@ Semifinals[](#top)<a name="top"></a>
 </tr></table>  
 
 
-<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)
+<br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-21)
 
 ## Match Information  
 ***Pepperdine def. North Carolina 4-3***  
@@ -158,4 +158,4 @@ Based on the composite metrics for each individual match:
   
 ------
 
-Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)  
+Return to the [Top](#top) &#124; [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule.md#05-21)  
