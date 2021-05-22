@@ -41,7 +41,7 @@ Orlando, Florida
 
 ## Match Information  
 ***Baylor def. Tennessee 4-2***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82) | [Video](https://t1.app.link/ncaachampionships)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MSFBAYTENN.pdf)  
 
 ## Predictions  
 

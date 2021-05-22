@@ -39,7 +39,7 @@ Semifinals[](#top)<a name="top"></a>
 
 ## Match Information  
 ***Texas def. N.C. State 4-0***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WSFTEXNCSU.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WSFTEXNCSU.pdf) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WSFTEXNCSUQuotes.pdf)  
 
 ## Predictions  
 

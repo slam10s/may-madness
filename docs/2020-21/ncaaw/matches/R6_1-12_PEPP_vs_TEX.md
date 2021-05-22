@@ -37,6 +37,9 @@ Championship[](#top)<a name="top"></a>
 
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-22.md)
 
+## Match Information  
+Go to [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation)  
+
 ## Predictions  
 
 Ranks listed here are the metric's ranking within the field of 64:  
