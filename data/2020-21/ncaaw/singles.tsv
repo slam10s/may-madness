@@ -71,3 +71,15 @@ date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	statu
 20210519	4	TEX 	Charlotte Chavatipon	FSU 	Petra Hule           	N	C 	562071	417237	6-3, 3-6, 5-2   	U	1768
 20210519	5	TEX 	Kylie Collins       	FSU 	Victoria Allen       	N	N 	564774	511618	6-2, 6-7(5), 1-1	U	1768
 20210519	6	TEX 	Fernanda Labraña    	FSU 	Andrea Garcia        	N	C 	424273	408876	6-2, 2-6, 6-3   	F	1768
+20210521	1	UNC 	Sara Daavettila     	PEPP	Ashley Lahey         	N	C 	400079	424436	6-4, 6-4        	F	1778
+20210521	2	UNC 	Alexa Graham        	PEPP	Jessica Failla       	N	N 	411298	405704	6-2, 6-3        	F	1778
+20210521	3	PEPP	Taisiya Pachkaleva  	UNC 	Cameron Morra        	N	C 	564448	488643	7-6(3), 6-3     	F	1778
+20210521	4	PEPP	Shiori Fukuda       	UNC 	Elizabeth Scotty     	N	N 	564446	520732	6-2, 6-3        	F	1778
+20210521	5	PEPP	LIsa Zaar           	UNC 	Makenna Jones        	N	C 	514467	419691	6-4, 6-3        	F	1778
+20210521	6	UNC 	Fiona Crawley       	PEPP	Nikki Redelijk       	N	N 	564453	565228	6-3, 6-1        	F	1778
+20210521	1	TEX 	Peyton Stearns      	NCST	Anna Rogers          	N	N 	562074	446522	6-1, 6-2        	F	1780
+20210521	2	TEX 	Anna Turati         	NCST	Alana Smith          	N	N 	459000	486136	6-2, 4-3        	U	1780
+20210521	3	TEX 	Lulu Sun            	NCST	Adriana Reami        	N	N 	562075	444430	6-3, 4-5        	U	1780
+20210521	4	TEX 	Charlotte Chavatipon	NCST	Jaeda Daniel         	N	N 	562071	511267	6-3, 6-2        	F	1780
+20210521	5	TEX 	Kylie Collins       	NCST	Abigail Rencheli     	N	N 	564774	564363	6-3, 5-5        	U	1780
+20210521	6	TEX 	Malaika Rapolu      	NCST	Lexi Keberle         	N	N 	562073	511268	6-3, 6-1        	F	1780

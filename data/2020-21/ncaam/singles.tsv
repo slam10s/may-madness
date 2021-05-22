@@ -71,3 +71,15 @@ date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	statu
 20210520	4	FLA 	Blaise Bicknell          	A&M 	Noah Schachter             	N	C	509770	485543	6-3, 6-4        	F	1776
 20210520	5	FLA 	Ben Shelton              	A&M 	Pierce Rollins             	N	C	561860	513401	6-2, 7-5        	F	1776
 20210520	6	FLA 	Josh Goodger             	A&M 	Guido Marson               	N	C	511775	485531	7-6(6), 3-6, 3-2	U	1776
+20210521	1	BAY 	Adrian Boitan            	TENN	Adam Walton                	N	N	497587	461891	3-6, 7-5, 5-5   	U	1782
+20210521	2	BAY 	Matias Soto              	TENN	Johannus Monday            	N	C	453651	527971	7-6(3), 4-6, 7-5	F	1782
+20210521	3	BAY 	Sven Lah                 	TENN	Martim Prata               	N	N	424430	497830	6-0, 6-3        	F	1782
+20210521	4	BAY 	Nick Stachowiak          	TENN	Luca Wiedenmann            	N	C	562412	463457	1-6, 6-2, 6-4   	F	1782
+20210521	5	TENN	Giles Hussey             	BAY 	Charlie Broom              	N	N	513101	527260	6-4, 6-2        	F	1782
+20210521	6	BAY 	Spencer Furman           	TENN	Andrew Rogers              	N	N	562413	446520	6-3, 6-2        	F	1782
+20210521	1	FLA 	Duarte Vale              	TEX 	Eliot Spizzirri            	N	N	459591	520306	3-2             	U	1784
+20210521	2	FLA 	Sam Riffice              	TEX 	Micah Braswell             	N	N	488586	528270	4-2             	U	1784
+20210521	3	FLA 	Andy Andrade             	TEX 	Siem Woldeab               	N	N	385909	513841	5-2             	U	1784
+20210521	4	FLA 	Blaise Bicknell          	TEX 	Cleeve Harper              	N	N	509770	513840	6-1             	U	1784
+20210521	5	FLA 	Ben Shelton              	TEX 	Chih Chi Huang             	N	C	561860	486712	3-3             	U	1784
+20210521	6	FLA 	Josh Goodger             	TEX 	Evin McDonald              	N	N	511775	513843	5-2             	U	1784
