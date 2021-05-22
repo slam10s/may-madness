@@ -26,7 +26,7 @@ Here's daily listings of the matches by start time:
 - [Sunday, May 9](./docs/2020-21/schedule/05-09.md) - 2nd Round (Men)
 - [Saturday, May 8](./docs/2020-21/schedule/05-08.md) - 1st & 2nd Rounds (Men & Women)
 - [Friday, May 7](./docs/2020-21/schedule/05-07.md) - 1st Round (Men & Women)
-- [Complete Scheule](./docs/2020-21/schedule.md) - All Matches on One Page
+- [Complete Scheule](./docs/2020-21/schedule.md) - All Matches (Men & Women)
 
 ## The Metrics
 
