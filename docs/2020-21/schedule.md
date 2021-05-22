@@ -177,4 +177,4 @@
 
 ------
 
-Return to the [Top](#top) &#124; [Home Page](index.md)
+Return to the [Top](#top) &#124; [Home Page](../index.md)
