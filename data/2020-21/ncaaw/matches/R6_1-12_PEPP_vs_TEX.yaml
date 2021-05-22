@@ -1,0 +1,131 @@
+Date: Saturday, May 22
+Time: 5:30 EDT
+Tournament: 2021 Division I Women's Tennis Championship
+Round: Championship
+Lines: 1-12
+Title: "#5 Pepperdine vs #2 Texas"
+URL: https://www.ncaa.com/game/5833709
+Winner: TBD
+Home:
+  Team: Texas
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/t/texas.70.png
+  Entry: Regional Host
+  Draw Line: 64
+  Seeding:
+    Overall: 2
+    Region: 1
+  Ratings:
+    ITA: 2 (79.31)
+    SLM: 2 (98.40)
+    TRN: 2 (97.58)
+    MAS: 2 (9.41)
+    UTR: 1 (65.46)
+  Polls:
+    USTA: 3 (312.00)
+    Coach: 2
+Visitor:
+  Team: Pepperdine
+  Logo: https://www.ncaa.com/sites/default/files/images/logos/schools/p/pepperdine.70.png
+  Entry: Regional Host
+  Draw Line: 17
+  Seeding:
+    Overall: 5
+    Region: 1
+  Ratings:
+    ITA: 5 (60.46)
+    SLM: 5 (93.64)
+    TRN: 4 (90.08)
+    MAS: 5 (8.78)
+    UTR: 6 (64.15)
+  Polls:
+    USTA: 6 (276.00)
+    Coach: 4
+Predictions:
+  AVG: TEX - Texas (88%) def. Pepperdine (12%)
+  SLM: "TEX - #2 Texas (93%) def. #5 Pepperdine (7%)"
+  TRN: "TEX - #2 Texas (98%) def. #4 Pepperdine (2%)"
+  MAS: "TEX - #2 Texas (77%) def. #5 Pepperdine (23%)"
+  LNUP: TEX - Texas (82%) def. Pepperdine (18%)
+  UTR: "TEX - #1 Texas (+1.31) def. #6 Pepperdine (-1.31)"
+  ITA: "TEX - #2 Texas def. #5 Pepperdine"
+  USTA: "TEX - #3 Texas def. #6 Pepperdine"
+  Coach: "TEX - #2 Texas def. #4 Pepperdine"
+  Seeding: "TEX - #2 Texas def. #5 Pepperdine"
+Lineups:
+  Predictions:
+    Average EWPs for TEX: 93%,98%,77%,82%
+    Average EWPs for PEPP: 7%,2%,23%,18%
+    TEX wins 4 or more Singles points: 60%
+    PEPP wins 4 or more Singles points: 13%
+    Winner decided by the Doubles point: 27%
+  Singles:
+    - Position: 1
+      TEX: Peyton Stearns - 10-3 at 1, 10-3 in duals, 14-6 overall
+      PEPP: Ashley Lahey - 7-3 at 1, 10-4 in duals, 10-4 overall
+      Predictions:
+        AVG: PEPP - Lahey (53%) def. Stearns (47%)
+        SLM: PEPP - Lahey (58%) def. Stearns (42%)
+        TRN: PEPP - Lahey (72%) def. Stearns (28%)
+        MAS: PEPP - Lahey (51%) def. Stearns (49%)
+        UTR: TEX - Stearns (67%) def. Lahey (33%)
+        ITA: TEX - Stearns (16.38) def. Lahey (7.80)
+    - Position: 2
+      TEX: Anna Turati - 9-2 at 2, 17-3 in duals, 17-3 overall
+      PEPP: Jessica Failla - 6-1 at 2, 14-3 in duals, 14-3 overall
+      Predictions:
+        AVG: PEPP - Failla (61%) def. Turati (39%)
+        SLM: PEPP - Failla (67%) def. Turati (33%)
+        TRN: PEPP - Failla (76%) def. Turati (24%)
+        MAS: TEX - Turati (62%) def. Failla (38%)
+        UTR: PEPP - Failla (66%) def. Turati (34%)
+        ITA: PEPP - Failla (23.38) def. Turati (17.31)
+    - Position: 3
+      TEX: Lulu Sun - 12-1 at 3, 18-2 in duals, 18-2 overall
+      PEPP: Taisiya Pachkaleva - 8-1 at 3, 22-1 in duals, 22-1 overall
+      Predictions:
+        AVG: TEX - Sun (59%) def. Pachkaleva (41%)
+        SLM: TEX - Sun (54%) def. Pachkaleva (46%)
+        TRN: PEPP - Pachkaleva (61%) def. Sun (39%)
+        MAS: TEX - Sun (59%) def. Pachkaleva (41%)
+        UTR: TEX - Sun (85%) def. Pachkaleva (15%)
+        ITA: TEX - Sun (9.34) def. Pachkaleva (6.37)
+    - Position: 4
+      TEX: Charlotte Chavatipon - 16-1 at 4, 20-1 in duals, 23-1 overall
+      PEPP: Shiori Fukuda - 6-0 at 4, 14-4 in duals, 14-4 overall
+      Predictions:
+        AVG: TEX - Chavatipon (71%) def. Fukuda (29%)
+        SLM: TEX - Chavatipon (64%) def. Fukuda (36%)
+        TRN: TEX - Chavatipon (73%) def. Fukuda (27%)
+        MAS: TEX - Chavatipon (75%) def. Fukuda (25%)
+        UTR: TEX - Chavatipon (74%) def. Fukuda (26%)
+        ITA: TEX - Chavatipon (7.87) def. Fukuda (4.88)
+    - Position: 5
+      TEX: Kylie Collins - 9-2 at 5, 16-2 in duals, 16-2 overall
+      PEPP: LIsa Zaar - 10-1 at 5, 19-1 in duals, 19-1 overall
+      Predictions:
+        AVG: TEX - Collins (72%) def. Zaar (28%)
+        SLM: TEX - Collins (75%) def. Zaar (25%)
+        TRN: TEX - Collins (63%) def. Zaar (37%)
+        MAS: TEX - Collins (74%) def. Zaar (26%)
+        UTR: TEX - Collins (75%) def. Zaar (25%)
+        ITA: TEX - Collins (8.04) def. Zaar (4.47)
+    - Position: 6
+      TEX: Fernanda Labraña - 5-1 at 6, 14-1 in duals, 21-2 overall
+      PEPP: Nikki Redelijk - 7-4 at 6, 12-7 in duals, 12-7 overall
+      Predictions:
+        AVG: TEX - Labraña (86%) def. Redelijk (14%)
+        SLM: TEX - Labraña (85%) def. Redelijk (15%)
+        TRN: TEX - Labraña (94%) def. Redelijk (6%)
+        MAS: TEX - Labraña (82%) def. Redelijk (18%)
+        UTR: TEX - Labraña (82%) def. Redelijk (18%)
+        ITA: TEX - Labraña (4.28) def. Redelijk (1.87)
+  Doubles:
+    - Position: 1
+      TEX: Sun/Collins - 16-4 at 1, 16-4 in duals, 16-4 overall
+      PEPP: Lahey/Zaar - 0-0 at 1, 0-0 in duals, 0-0 overall
+    - Position: 2
+      TEX: Turati/Labrana - 13-1 at 2, 14-1 in duals, 14-1 overall
+      PEPP: Fukuda/Pachkaleva - 0-0 at 2, 0-0 in duals, 0-0 overall
+    - Position: 3
+      TEX: Chavatipon/Stearns - 11-1 at 3, 12-1 in duals, 14-2 overall
+      PEPP: Failla/Iamachkine - 0-0 at 3, 0-0 in duals, 0-0 overall

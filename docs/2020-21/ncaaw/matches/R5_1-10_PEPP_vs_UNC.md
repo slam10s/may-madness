@@ -7,7 +7,7 @@ Semifinals[](#top)<a name="top"></a>
 <td>  
 
 <h2>#5 Pepperdine</h2>  
-&nbsp; Record: 24-3<br>  
+&nbsp; Record: 25-3<br>  
 &nbsp; ITA: 5 (60.46)<br>  
 &nbsp; Slam: 5 (93.64)<br>  
 &nbsp; TRN: 4 (90.08)<br>  
@@ -21,7 +21,7 @@ Semifinals[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 North Carolina</h2>  
-&nbsp; Record: 30-0<br>  
+&nbsp; Record: 30-1<br>  
 &#10004; ITA: 1 (87.72)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  
@@ -38,6 +38,7 @@ Semifinals[](#top)<a name="top"></a>
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-21.md)
 
 ## Match Information  
+***Pepperdine def. North Carolina 4-3***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation)  
 
 ## Predictions  

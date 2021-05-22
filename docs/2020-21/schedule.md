@@ -2,7 +2,13 @@
 
 # Tournament Schedule  
 
-[May 21](#05-21) &#124; [May 20](#05-20) &#124; [May 19](#05-19) &#124; [May 17](#05-17) &#124; [May 16](#05-16) &#124; [May 9](#05-09) &#124; [May 8](#05-08) &#124; [May 7](#05-07)
+[May 22](#05-22) &#124; [May 21](#05-21) &#124; [May 20](#05-20) &#124; [May 19](#05-19) &#124; [May 17](#05-17) &#124; [May 16](#05-16) &#124; [May 9](#05-09) &#124; [May 8](#05-08) &#124; [May 7](#05-07)
+
+## Saturday, May 22, 2021 <a name="05-22"></a>  
+
+| **Time** | **Round** | **Division** | **Teams** | **Score** | **Links** |  
+| :------: | :-------: | :----------: | :-------- | :-------- | :-------- |  
+| 5:30pm   | Chmp      | Women        | [#5 Pepperdine vs #2 Texas](ncaaw/matches/R6_1-12_PEPP_vs_TEX.md) | TEX (88%) |           |  
 
 ## Friday, May 21, 2021 <a name="05-21"></a>  
 
@@ -10,7 +16,7 @@
 | :------: | :-------: | :----------: | :-------- | :-------- | :-------- |  
 | 11:00am  | SF        | Women        | [#6 N.C. State vs <b>#2 Texas</b>](ncaaw/matches/R5_11-20_NCST_vs_TEX.md) | 4-0       | <a href="http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83" target="_blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f4ca.svg" width="18" height="18" /></a><a href="https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WSFTEXNCSU.pdf" target="_blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f4dd.svg" width="18" height="18" /></a> |  
 | 2:00pm   | SF        | Men          | [#3 Tennessee vs <b>#2 Baylor</b>](ncaam/matches/R5_11-20_TENN_vs_BAY.md) | 4-2       | <a href="http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82" target="_blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f4ca.svg" width="18" height="18" /></a><a href="https://t1.app.link/ncaachampionships" target="_blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f4fa.svg" width="18" height="18" /></a> |  
-| 5:30pm   | SF        | Women        | [#5 Pepperdine vs #1 North Carolina](ncaaw/matches/R5_1-10_PEPP_vs_UNC.md) | UNC (92%) | <a href="http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83" target="_blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f4ca.svg" width="18" height="18" /></a><a href="https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation" target="_blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f4fa.svg" width="18" height="18" /></a> |  
+| 5:30pm   | SF        | Women        | [<b>#5 Pepperdine</b> vs #1 North Carolina](ncaaw/matches/R5_1-10_PEPP_vs_UNC.md) | 4-3       | <a href="http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83" target="_blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f4ca.svg" width="18" height="18" /></a><a href="https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation" target="_blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f4fa.svg" width="18" height="18" /></a> |  
 | 7:30pm   | SF        | Men          | [#4 Texas vs #1 Florida](ncaam/matches/R5_1-10_TEX_vs_FLA.md) | FLA (83%) | <a href="http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82" target="_blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f4ca.svg" width="18" height="18" /></a><a href="https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation" target="_blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f4fa.svg" width="18" height="18" /></a> |  
 
 ## Thursday, May 20, 2021 <a name="05-20"></a>  
