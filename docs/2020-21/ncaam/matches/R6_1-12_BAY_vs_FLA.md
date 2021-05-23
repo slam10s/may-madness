@@ -38,7 +38,8 @@ Championship[](#top)<a name="top"></a>
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-22.md)
 
 ## Match Information  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=82) | [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation)  
+***Florida def. Baylor 4-1***  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=797&clubid=251-552&cn1=Florida&cn2=Baylor&ci1=251&ci2=552&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MFFLABAY.pdf)  
 
 ## Predictions  
 
