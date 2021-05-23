@@ -61,4 +61,4 @@ contestId	matchnum	date	timeStr	host	roundNum	home	visitor	score	winner	status	t
 5833703	401	2021-05-19	7:30 EDT 	UCF 	4	UNC  	DUKE 	4-1	home   	final      	Duke vs #1 North Carolina               	2021-05-19T19:30-04:00	north-carolina   	duke               
 5833708	502	2021-05-21	11:00 EDT	UCF 	5	TEX  	NCST 	4-0	home   	final      	#6 NC State vs #2 Texas                 	2021-05-21T11:00-04:00	texas            	north-carolina-st  
 5833707	501	2021-05-21	5:30 EDT 	UCF 	5	UNC  	PEPP 	4-3	visitor	final      	#5 Pepperdine vs #1 North Carolina      	2021-05-21T17:30-04:00	north-carolina   	pepperdine         
-5833709	601	2021-05-22	5:30 EDT 	UCF 	6	TEX  	PEPP 	2-2	       	in-progress	#5 Pepperdine vs #2 Texas               	2021-05-22T17:30-04:00	texas            	pepperdine         
+5833709	601	2021-05-22	5:30 EDT 	UCF 	6	TEX  	PEPP 	3-3	       	in-progress	#5 Pepperdine vs #2 Texas               	2021-05-22T17:30-04:00	texas            	pepperdine         

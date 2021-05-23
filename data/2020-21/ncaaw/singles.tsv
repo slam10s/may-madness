@@ -83,9 +83,9 @@ date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	statu
 20210521	4	TEX 	Charlotte Chavatipon	NCST	Jaeda Daniel         	N	N 	562071	511267	6-3, 6-2        	F	1780
 20210521	5	TEX 	Kylie Collins       	NCST	Abigail Rencheli     	N	N 	564774	564363	6-3, 5-5        	U	1780
 20210521	6	TEX 	Malaika Rapolu      	NCST	Lexi Keberle         	N	N 	562073	511268	6-3, 6-1        	F	1780
-20210522	1	TEX 	Peyton Stearns      	PEPP	Ashley Lahey         	N	C 	562074	424436	2-6, 6-0, 4-2   	U	1786
+20210522	1	TEX 	Peyton Stearns      	PEPP	Ashley Lahey         	N	C 	562074	424436	2-6, 6-0, 6-2   	F	1786
 20210522	2	PEPP	Jessica Failla      	TEX 	Anna Turati          	N	N 	405704	459000	6-2, 6-3        	F	1786
-20210522	3	TEX 	Lulu Sun            	PEPP	Taisiya Pachkaleva   	N	N 	562075	564448	6-4, 6-6        	U	1786
+20210522	3	TEX 	Lulu Sun            	PEPP	Taisiya Pachkaleva   	N	C 	562075	564448	6-4, 6-7(3), 1-1	U	1786
 20210522	4	TEX 	Charlotte Chavatipon	PEPP	Shiori Fukuda        	N	N 	562071	564446	6-3, 6-2        	F	1786
 20210522	5	PEPP	LIsa Zaar           	TEX 	Kylie Collins        	N	C 	514467	564774	6-3, 7-6(3)     	F	1786
-20210522	6	TEX 	Malaika Rapolu      	PEPP	Nikki Redelijk       	N	C 	562073	565228	6-4, 5-4        	U	1786
+20210522	6	PEPP	Nikki Redelijk      	TEX 	Malaika Rapolu       	N	C 	565228	562073	6-4, 7-5        	F	1786
