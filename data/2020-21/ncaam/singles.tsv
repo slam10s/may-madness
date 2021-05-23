@@ -83,9 +83,9 @@ date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	statu
 20210521	4	FLA 	Blaise Bicknell          	TEX 	Cleeve Harper              	N	N	509770	513840	6-1, 7-5        	F	1784
 20210521	5	FLA 	Ben Shelton              	TEX 	Chih Chi Huang             	N	N	561860	486712	6-3, 6-0        	F	1784
 20210521	6	FLA 	Josh Goodger             	TEX 	Evin McDonald              	N	C	511775	513843	6-2, 4-6, 4-3   	U	1784
-20210522	1	FLA 	Duarte Vale              	BAY 	Adrian Boitan              	N	N	459591	497587	3-1             	U	1788
-20210522	2	FLA 	Sam Riffice              	BAY 	Matias Soto                	N	N	488586	453651	2-1             	U	1788
-20210522	3	FLA 	Andy Andrade             	BAY 	Sven Lah                   	N	C	385909	424430	2-2             	U	1788
-20210522	4	FLA 	Blaise Bicknell          	BAY 	Nick Stachowiak            	N	N	509770	562412	2-1             	U	1788
-20210522	5	FLA 	Ben Shelton              	BAY 	Charlie Broom              	N	C	561860	527260	2-2             	U	1788
-20210522	6	FLA 	Josh Goodger             	BAY 	Spencer Furman             	N	C	511775	562413	2-2             	U	1788
+20210522	1	FLA 	Duarte Vale              	BAY 	Adrian Boitan              	N	C	459591	497587	4-3             	U	1788
+20210522	2	FLA 	Sam Riffice              	BAY 	Matias Soto                	N	C	488586	453651	4-3             	U	1788
+20210522	3	FLA 	Andy Andrade             	BAY 	Sven Lah                   	N	C	385909	424430	4-4             	U	1788
+20210522	4	FLA 	Blaise Bicknell          	BAY 	Nick Stachowiak            	N	C	509770	562412	4-3             	U	1788
+20210522	5	FLA 	Ben Shelton              	BAY 	Charlie Broom              	N	C	561860	527260	4-3             	U	1788
+20210522	6	FLA 	Josh Goodger             	BAY 	Spencer Furman             	N	N	511775	562413	5-2             	U	1788
