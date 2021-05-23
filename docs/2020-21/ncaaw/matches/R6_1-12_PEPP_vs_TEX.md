@@ -7,7 +7,7 @@ Championship[](#top)<a name="top"></a>
 <td>  
 
 <h2>#5 Pepperdine</h2>  
-&nbsp; Record: 25-3<br>  
+&nbsp; Record: 25-4<br>  
 &nbsp; ITA: 5 (60.46)<br>  
 &nbsp; Slam: 5 (93.64)<br>  
 &nbsp; TRN: 4 (90.08)<br>  
@@ -21,7 +21,7 @@ Championship[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Texas</h2>  
-&nbsp; Record: 30-1<br>  
+&nbsp; Record: 31-1<br>  
 &#10004; ITA: 2 (79.31)<br>  
 &#10004; Slam: 2 (98.40)<br>  
 &#10004; TRN: 2 (97.58)<br>  

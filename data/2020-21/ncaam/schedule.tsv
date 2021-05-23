@@ -61,4 +61,4 @@ contestId	matchnum	date	timeStr	host	roundNum	home	visitor	score	winner	status	t
 5833426	401	2021-05-20	7:30 EDT 	UCF 	4	FLA 	A&M  	4-1	home   	final      	#8 Texas A&M vs #1 Florida              	2021-05-20T19:30-04:00	florida            	texas-am           
 5833431	502	2021-05-21	2:00 EDT 	UCF 	5	BAY 	TENN 	4-2	home   	final      	#3 Tennessee vs #2 Baylor               	2021-05-21T14:00-04:00	baylor             	tennessee          
 5833430	501	2021-05-21	7:30 EDT 	UCF 	5	FLA 	TEX  	4-0	home   	final      	#4 Texas vs #1 Florida                  	2021-05-21T19:30-04:00	florida            	texas              
-5833432	601	2021-05-22	7:30 EDT 	UCF 	6	FLA 	BAY  	0-0	       	in-progress	#2 Baylor vs #1 Florida                 	2021-05-22T19:30-04:00	florida            	baylor             
+5833432	601	2021-05-22	7:30 EDT 	UCF 	6	FLA 	BAY  	1-0	       	in-progress	#2 Baylor vs #1 Florida                 	2021-05-22T19:30-04:00	florida            	baylor             

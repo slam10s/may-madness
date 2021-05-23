@@ -83,3 +83,5 @@ date	position	team1	winner	team2	loser	where	rating	winnerId	loserId	score	statu
 20210521	4	FLA 	Blaise Bicknell          	TEX 	Cleeve Harper              	N	N	509770	513840	6-1, 7-5        	F	1784
 20210521	5	FLA 	Ben Shelton              	TEX 	Chih Chi Huang             	N	N	561860	486712	6-3, 6-0        	F	1784
 20210521	6	FLA 	Josh Goodger             	TEX 	Evin McDonald              	N	C	511775	513843	6-2, 4-6, 4-3   	U	1784
+20210522	4	FLA 	Blaise Bicknell          	BAY 	Nick Stachowiak            	N	N	509770	562412	1-0             	U	1788
+20210522	6	FLA 	Josh Goodger             	BAY 	Spencer Furman             	N	N	511775	562413	1-0             	U	1788
