@@ -7,7 +7,7 @@ Championship[](#top)<a name="top"></a>
 <td>  
 
 <h2>#2 Baylor</h2>  
-&nbsp; Record: 34-4<br>  
+&nbsp; Record: 34-5<br>  
 &#10004; ITA: 1 (83.33)<br>  
 &nbsp; Slam: 3 (99.00)<br>  
 &nbsp; TRN: 3 (99.00)<br>  
@@ -21,7 +21,7 @@ Championship[](#top)<a name="top"></a>
 <td>  
 
 <h2>#1 Florida</h2>  
-&nbsp; Record: 25-2<br>  
+&nbsp; Record: 26-2<br>  
 &nbsp; ITA: 2 (81.08)<br>  
 &#10004; Slam: 1 (100.00)<br>  
 &#10004; TRN: 1 (100.00)<br>  

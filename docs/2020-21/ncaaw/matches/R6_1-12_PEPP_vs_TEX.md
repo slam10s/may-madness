@@ -39,7 +39,7 @@ Championship[](#top)<a name="top"></a>
 
 ## Match Information  
 ***Texas def. Pepperdine 4-3***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=796&clubid=265-733&cn1=Texas&cn2=Pepperdine&ci1=265&ci2=733&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WFTEXPEPP.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=796&clubid=265-733&cn1=Texas&cn2=Pepperdine&ci1=265&ci2=733&lid=83) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WFTEXPEPP.pdf) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/WFTEXPEPPQuotes.pdf)  
 
 ## Predictions  
 
