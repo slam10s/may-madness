@@ -38,6 +38,7 @@ Championship[](#top)<a name="top"></a>
 <br>Return to [List of Matches](../index.md) &#124; [Daily Schedule](../../schedule/05-22.md)
 
 ## Match Information  
+***Texas def. Pepperdine 4-3***  
 Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/lp.html?lid=83) | [Video](https://tennischannel.com/?utm_source=tennis-dot-com&utm_medium=navigation)  
 
 ## Predictions  

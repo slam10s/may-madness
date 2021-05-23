@@ -9,7 +9,7 @@ Return to the [Home Page](../../index.md)
 
 The favorite is expected to win at least 4 out of every 5 these teams play:
 
-- Sat, 5/22 at  5:30 EDT	[#5 Pepperdine vs #2 Texas](./matches/R6_1-12_PEPP_vs_TEX.md) ... TEX (88%) / PEPP (12%)
+- Sat, 5/22 at  5:30 EDT	[#5 Pepperdine vs #2 Texas](./matches/R6_1-12_PEPP_vs_TEX.md) ... <b>TEX (4)</b> / PEPP (3)
 ## Semifinals
 
 ### Heavy Favorites
