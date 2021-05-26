@@ -54,3 +54,7 @@ matchid	schedtime	matchstatus	team1	player1	team2	player2	score	winner	mtime	id1
 8886		(completed)	UK  	Diallo, Gabriel (UK)         	UNC 	Blumberg, William (UNC)           	3,6,1,6          	2	0:57	511971	390976	606
 8887		(completed)	NCST	Galarneau, Alexis (NCS)      	ILL 	Kovacevic, Aleksandar (ILL)       	6,4,4,6,0,6      	2	2:09	408573	423252	607
 8888		(completed)	SCAR	Rodrigues, Daniel (SC)       	USC 	Cukierman, Daniel (USC)           	6,4,7,6,5        	1	1:53	485261	399776	608
+8917		(Warm Up)  	UK  	Draxl, Liam (UK)             	UCF 	Decamps, Gabriel (UCF)            	                 	0	    	511968	401237	701
+8918		(Warm Up)  	A&M 	Vacherot, Valentin (TAM)     	FLA 	Riffice, Sam (UF)                 	                 	0	    	459505	488586	702
+8919		(Warm Up)  	BAY 	Boitan, Adrian (BAY)         	UNC 	Blumberg, William (UNC)           	                 	0	    	497587	390976	703
+8920		(Warm Up)  	SCAR	Rodrigues, Daniel (SC)       	ILL 	Kovacevic, Aleksandar (ILL)       	                 	0	    	485261	423252	704
