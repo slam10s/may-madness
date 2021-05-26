@@ -111,7 +111,7 @@ matchNum	line	round	date	time	seed	team	last	name	set1	set1tb	set2	set2tb	set3	s
 607	2	16	2021-05-24	0.5		ILL	Kovacevic	Aleksandar Kovacevic	4		6		6						2		99.943	0.7317170040443629	13.97	131	1		Kovacevic, Aleksandar (ILL)	423252	111
 608	1	16	2021-05-24	0.5		USC	Cukierman	Daniel Cukierman	4		6	5									98.929	0.5399222532770458	14.08	49	5		Cukierman, Daniel (USC)	399776	112
 608	2	16	2021-05-24	0.5	2	SCAR	Rodrigues	Daniel Rodrigues	6		7	7							2		98.651	0.4600777467229542	13.81	2	9		Rodrigues, Daniel (SC)	485261	113
-701	1	QF	2021-05-25	0.5	1	UK	Draxl	Liam Draxl	7	8	2								1		99.354	0.7146661894534194	13.78	1	2		Draxl, Liam (UK)	511968	114
+701	1	QF	2021-05-25	0.5	1	UK	Draxl	Liam Draxl	7	8	4								1		99.354	0.7146661894534194	13.78	1	2		Draxl, Liam (UK)	511968	114
 701	2	QF	2021-05-25	0.5	8	UCF	Decamps	Gabriel Decamps	6	6	1										97.759	0.2853338105465807	13.69	9	20		Decamps, Gabriel (UCF)	401237	115
 702	1	QF	2021-05-25	0.5	4	A&M	Vacherot	Valentin Vacherot	3		0										98.47	0.6681846389742977	13.73	5	6		Vacherot, Valentin (TAM)	459505	116
 702	2	QF	2021-05-25	0.5	6	FLA	Riffice	Sam Riffice	6		6								2		97.254	0.33181536102570236	13.61	6	26		Riffice, Sam (UF)	488586	117
