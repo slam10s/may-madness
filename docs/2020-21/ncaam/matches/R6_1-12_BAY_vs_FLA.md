@@ -39,7 +39,7 @@ Championship[](#top)<a name="top"></a>
 
 ## Match Information  
 ***Florida def. Baylor 4-1***  
-Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=797&clubid=251-552&cn1=Florida&cn2=Baylor&ci1=251&ci2=552&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MFFLABAY.pdf) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MFFLABAYQuotes.pdf)  
+Go to [Live Stats](http://scores.tennisticker.de/usa/ustanc/conf/league/sb.html?tournid=797&clubid=251-552&cn1=Florida&cn2=Baylor&ci1=251&ci2=552&lid=82) | [Box Score](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MFFLABAY.pdf) | [Recap](https://www.usta.com/en/home/stay-current/national/florida-tops-baylor--wins-first-ncaa-men-s-title-on-ben-shelton-.html) | [Quotes](https://www.ustanationalcampus.com/content/dam/nationalcampus/collegiate/ncaa2021/pdf/MFFLABAYQuotes.pdf)  
 
 ## Predictions  
 

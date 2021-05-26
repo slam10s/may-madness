@@ -1,0 +1,128 @@
+matchNum	line		round	date	time	seed	team	last	name	set1	set1tb	set2	set2tb	set3	set3tb	set4	set4tb	set5	set5tb	sets	def	x	y	rating	ewp	utr		ita	teamId	tickerName	id
+401	1		64	5/23/2021	12:00pm	1	UNC	Daavettila	Sara Daavettila	3		6		6						2		◀		99.25	74%	10.96	2	1		Sara Daavettila	400079
+401	2		64	5/23/2021	12:00pm		USD	Colling	Solymar Colling	6		1		3						1				97.42	26%	10.78	48	35		Solymar Colling	493373
+402	1		64	5/23/2021	11:30am		UCF	Stolmar	Rebeka Stolmar	1		4								0				93.96	18%	10.34	38	78		Rebeka Stolmar	455036
+402	2		64	5/23/2021	11:30am		UGA	Ma	Lea Ma	6		6								2		◀		96.61	82%	10.77	55	26		Lea	513316
+403	1		64	5/23/2021	2:30pm	9	WAKE	Campana	Carolyn Campana	0		6		3						1				96.23	87%	10.48	15	31		Carolyn Campana	509935
+403	2		64	5/23/2021	2:30pm		ODU	Starodubsteva	Yulia Starodubsteva	6		4		6						2		◀		92.91	13%	10.36	51	105		Yulia Starodubsteva	454355
+404	1		64	5/23/2021	5:00pm		PEPP	Failla	Jessica Failla	7	7	7	7							2		◀		97.91	93%	11.03	21	9		Jessica Failla	405704
+404	2		64	5/23/2021	5:00pm		DEN	Riedmiller	Anna Riedmiller	6	5	6	4							0				93.32	7%	10.19	106	49		Anna Riedmiller	445479
+405	1		64	5/23/2021	12:30pm	8	FLA	Kessler	McCartney Kessler	6		6								2		◀		97.90	61%	10.89	8	10		McCartney Kessler	421536
+405	2		64	5/23/2021	12:30pm		WASH	Wong	Vanessa Wong	3		2								0				97.11	39%	10.74	24	25		Vanessa Wong	464666
+406	1		64	5/23/2021	12:30pm		DUKE	Chen	Kelly Chen	2		7	7	7						2		◀		95.41	27%	10.53	49	55		Kelly Chen	396686
+406	2		64	5/23/2021	12:30pm		UCLA	Hart	Jada Hart	6		6	1	5						1				97.12	73%	10.87	50	17		Jada Hart	413959
+407	1		64	5/23/2021	4:30pm	9	MIA	Pfennig	Isabella Pfennig	3		6		6						2		◀		94.37	21%	10.58	10	56		Isabella Pfennig	564946
+407	2		64	5/23/2021	4:30pm		TEX	Turati	Anna Turati	6		1		2						1				96.62	79%	10.91	35	28		Anna Turati	459000
+408	1		64	5/23/2021	5:30pm		FSU	Salas	Emmanuelle Salas	5		3								0				92.42	25%	10.41	44	148		Emmanuelle Salas	485585
+408	2		64	5/23/2021	5:30pm		VANDY	Rosca	Christina Rosca	7		6								2		◀		94.34	75%	10.63	43	53		Christina Rosca	446912
+409	1		64	5/23/2021	2:30pm	3	UVA	Navarro	Emma Navarro	7	7	6								2		◀		99.39	88%	11.35	3	2		Emma Navarro	564450
+409	2		64	5/23/2021	2:30pm		CAL	Giavara	Haley Giavara	6	3	2								0				95.96	12%	10.40	31	34		Haley Giavara	513644
+410	1		64	5/23/2021	3:00pm		AZST	Hattingh	Ilze Hattingh	6		7	7							2		◀		94.94	71%	10.29	78	62		Ilze Hattingh	414211
+410	2		64	5/23/2021	3:00pm		SCAR	Davies	Megan Davies	3		6	3							0				93.42	29%	10.48	59	86		Megan Davies	400669
+411	1		64	5/23/2021	2:30pm	9	FUR	Kozarov	Katarina Kozarov	6		6								2		◀		97.75	66%	10.65	16	7		Katarina Kozarov	423350
+411	2		64	5/23/2021	2:30pm		STAN	Gordon	Michaela Gordon	0		2								0				96.56	34%	10.78	34	38		Michaela Gordon	411023
+412	1		64	5/23/2021	1:30pm		UNC	Jones	Makenna Jones	2		2								0				94.83	35%	10.65	32	29		Makenna Jones	419691
+412	2		64	5/23/2021	1:30pm		UGA	Kowalski	Meg Kowalski	6		6								2		◀		95.90	65%	10.76	20	27		Meg Kowalski	487384
+413	1		64	5/23/2021	10:00am	5	GT	Jones	Kenya Jones	5		3								0				97.37	85%	10.75	5	15		Kenya Jones	419665
+413	2		64	5/23/2021	10:00am		AUB	Ovunc	Selin Ovunc	7		6								2		◀		94.31	15%	10.27	61	68		Selin Ovunc	514698
+414	1		64	5/23/2021	10:00am		OKST	Wolfberg	Alana Wolfberg	5		5								0				93.65	45%	10.54	58	97		Alana Wolfberg	513080
+414	2		64	5/23/2021	10:00am		MIZZ	Murgett	Bronte Murgett	7		7								2		◀		94.00	55%	10.46	47	81		Bronte Murgett	526971
+415	1		64	5/23/2021	2:00pm	9	IOWA	Noel	Alexa Noel	6		4		7						2		◀		99.92	95%	10.93	14	5		Alexa Noel	564451
+415	2		64	5/23/2021	2:00pm		NCST	Smith	Alana Smith	4		6		5						1				94.64	5%	10.60	23	65		Alana Smith	486136
+416	1		64	5/23/2021	2:00pm		LSU	Corley	Paris Corley	6		6	5	6						2		◀		93.70	75%		60	64		Paris Corley	486238
+416	2		64	5/23/2021	2:00pm		XAV	Kyle	Ahmeir Kyle	2		7	7	3						1				91.84	25%	9.62	105	192		Ahmeir Kyle	424183
+417	1		64	5/23/2021	5:00pm		WAKE	Campana	Anna Campana	6		6								2		◀		92.74	35%	9.97	54	165		Anna Campana	509929
+417	2		64	5/23/2021	5:00pm		LSU	Bridges	Taylor Bridges	0		3								0				93.78	65%	10.33	53	94		Taylor Bridges	486239
+418	1		64	5/23/2021	5:30pm		OKST	Thamchaiwat	Bunyawi Thamchaiwat	3		6		7						2		◀		96.18	59%	10.92	26	24		Bunyawi Thamchaiwat	497414
+418	2		64	5/23/2021	5:30pm	9	SYR	Kanapatskaya	Viktoriya Kanapatskaya	6		3		5						1				95.54	41%	10.53	11	45		Viktoriya Kanapatskaya	564454
+419	1		64	5/23/2021	4:00pm		UNC	Crawley	Fiona Crawley	5		5								0				95.65	18%	10.75	36	21		Fiona Crawley	564453
+419	2		64	5/23/2021	4:00pm		UMD	Akli	Ayana Akli	7		7								2		◀		98.24	82%	10.89	46	8		Ayana Akli	514025
+420	1		64	5/23/2021	5:00pm		PEPP	Lahey	Ashley Lahey	5		6		3						1				97.10	50%	10.82	72	12		Ashley Lahey	424436
+420	2		64	5/23/2021	5:00pm	6	NCST	Rogers	Anna Rogers	7		4		6						2		◀		97.09	50%	10.84	6	19		Anna Rogers	446522
+421	1		64	5/23/2021	10:00am		DUKE	Drummy	Georgia Drummy	4		6		6						2		◀		95.64	60%	10.81	19	42		Georgia Drummy	564359
+421	2		64	5/23/2021	10:00am		MISS	Machalova	Sabina Machalova	6		4		1						1				94.96	40%	10.60	29	63		Sabina Machalova	428629
+422	1		64	5/23/2021	10:00am		MICH	Miller	Kari Miller	6		6								2		◀		96.51	71%	10.76	57	30		Kari Miller	564380
+422	2		64	5/23/2021	10:00am	9	GT	Flores	Victoria Flores	4		4								0				94.92	29%	10.68	13	52		Victoria Flores	407152
+423	1		64	5/23/2021	12:00pm		ARK	Spink	Indianna Spink	2		2								0				93.88	9%	10.39	45	87		Indianna Spink	561985
+423	2		64	5/23/2021	12:00pm		ORE	Tjen	Janice Tjen	6		6								2		◀		97.82	91%	10.70	17	11		Janice Tjen	565743
+424	1		64	5/23/2021	12:00pm		UCSB	Khatmova	Shakhnoza Khatmova	1		6	5							0				92.30	1%	10.12	86	72		Shakhnoza Khatmova	510745
+424	2		64	5/23/2021	12:00pm	4	UGA	Jokic	Katarina Jokic	6		7	7							2		◀		99.69	99%	11.29	4	3		Katarina Jokic	419539
+425	1		64	5/23/2021	11:30am		SCAR	Horvit	Mia Horvit	7		6								2		◀		95.29	57%	10.67	30	61		Mia Horvit	416702
+425	2		64	5/23/2021	11:30am		VCU	Delgado	Paola Delgado	5		0								0				94.80	43%	10.43	92	41		Paola Delgado	401582
+426	1		64	5/23/2021	11:30am		MSST	Antonaki	Emma Antonaki	6		6								2		◀		93.57	17%	10.23	33	71		Emma Antonaki	486811
+426	2		64	5/23/2021	11:30am	9	FSU	Pairone	Giulia Pairone	4		4								0				96.38	83%	10.70	12	36		Giulia Pairone	564449
+427	1		64	5/23/2021	3:30pm		UNC	Morra	Cameron Morra	2		3								0				95.94	32%	10.75	27	47		Cameron Morra	488643
+427	2		64	5/23/2021	3:30pm		OSU	Siemers	Irina Cantos Siemers	6		6								2		◀		97.23	68%	10.80	18	14		Irina Cantos Siemers	511553
+428	1		64	5/23/2021	4:00pm		DUKE	Beck	Chloe Beck	3		6	5							0				94.72	5%	10.60	39	58		Chloe Beck	514741
+428	2		64	5/23/2021	4:00pm	7	UCLA	Forbes	Abigail Forbes	6		7	7							2		◀		100.00	95%	11.21	7	4		Abigail Forbes	512054
+429	1		64	5/23/2021	10:00am		UNC	Graham	Alexa Graham	6		6								2		◀		97.80	86%	11.07	41	13		Alexa Graham	411298
+429	2		64	5/23/2021	10:00am		UK	Parazinskaite	Akvilė Paražinskaitė	1		0								0				94.59	14%	10.47	28	57		Akvile Parazinskaite	439682
+430	1		64	5/23/2021	10:00am		UCF	Zeleva	Valeriya Zeleva	7		4		1						1				96.41	60%	10.52	22	22		Valeriya Zeleva	497367
+430	2		64	5/23/2021	10:00am	9	UVA	Subhash	Natasha Subhash	5		6		6						2		◀		95.73	40%	10.76	9	37		Natasha Subhash	511574
+431	1		64	5/23/2021	5:30pm		A&M	Makarova	Tatiana Makarova	2		3								0				95.64	38%	10.80	25	32		Tatiana Makarova	514440
+431	2		64	5/23/2021	5:30pm		TEX	Stearns	Peyton Stearns	6		6								2		◀		96.48	62%	10.95	37	33		Peyton Stearns	562074
+432	1		64	5/23/2021	4:00pm		USC	Ewing	Salma Ewing	2		3								0				95.23	10%	10.83	42	20		Salma Ewing	485966
+432	2		64	5/23/2021	4:00pm	2	MIA	Perez-Somarriba	Estela Perez-Somarriba	6		6								2		◀		98.97	90%	11.11	1	6		Estela Perez-Somarriba	440887
+501	1		32	5/24/2021		1	UNC	Daavettila	Sara Daavettila	6		6								2		◀		99.25	82%	10.96	2	1		Sara Daavettila	400079
+501	2		32	5/24/2021			UGA	Ma	Lea Ma	4		4								0				96.61	18%	10.77	55	26		Lea	513316
+502	1		32	5/24/2021			ODU	Starodubsteva	Yulia Starodubsteva	0		0								0				92.91	5%	10.36	51	105		Yulia Starodubsteva	454355
+502	2		32	5/24/2021			PEPP	Failla	Jessica Failla	6		6								2		◀		97.91	95%	11.03	21	9		Jessica Failla	405704
+503	1		32	5/24/2021		8	FLA	Kessler	McCartney Kessler	4		4								0				97.90	81%	10.89	8	10		McCartney Kessler	421536
+503	2		32	5/24/2021			DUKE	Chen	Kelly Chen	6		6								2		◀		95.41	19%	10.53	49	55		Kelly Chen	396686
+504	1		32	5/24/2021		9	MIA	Pfennig	Isabella Pfennig	6		2		3						1				94.37	50%	10.58	10	56		Isabella Pfennig	564946
+504	2		32	5/24/2021			VANDY	Rosca	Christina Rosca	2		6		6						2		◀		94.34	50%	10.63	43	53		Christina Rosca	446912
+505	1		32	5/24/2021		3	UVA	Navarro	Emma Navarro	1		7		6						2		◀		99.39	93%	11.35	3	2		Emma Navarro	564450
+505	2		32	5/24/2021			AZST	Hattingh	Ilze Hattingh	6		5		0						1				94.94	7%	10.29	78	62		Ilze Hattingh	414211
+506	1		32	5/24/2021		9	FUR	Kozarov	Katarina Kozarov	5		4								0				97.75	74%	10.65	16	7		Katarina Kozarov	423350
+506	2		32	5/24/2021			UGA	Kowalski	Meg Kowalski	7		6								2		◀		95.90	26%	10.76	20	27		Meg Kowalski	487384
+507	1		32	5/24/2021			AUB	Ovunc	Selin Ovunc	3		7		6						2		◀		94.31	55%	10.27	61	68		Selin Ovunc	514698
+507	2		32	5/24/2021			MIZZ	Murgett	Bronte Murgett	6		5		2						1				94.00	45%	10.46	47	81		Bronte Murgett	526971
+508	1		32	5/24/2021		9	IOWA	Noel	Alexa Noel	6		3		5						1				99.92	97%	10.93	14	5		Alexa Noel	564451
+508	2		32	5/24/2021			LSU	Corley	Paris Corley	1		6		7						2		◀		93.70	3%		60	64		Paris Corley	486238
+509	1		32	5/24/2021			WAKE	Campana	Anna Campana	5		2								0				92.74	12%	9.97	54	165		Anna Campana	509929
+509	2		32	5/24/2021			OKST	Thamchaiwat	Bunyawi Thamchaiwat	7		6								2		◀		96.18	88%	10.92	26	24		Bunyawi Thamchaiwat	497414
+510	1		32	5/24/2021			UMD	Akli	Ayana Akli	2		6		4						1				98.24	66%	10.89	46	8		Ayana Akli	514025
+510	2		32	5/24/2021		6	NCST	Rogers	Anna Rogers	6		4		6						2		◀		97.09	34%	10.84	6	19		Anna Rogers	446522
+511	1		32	5/24/2021			DUKE	Drummy	Georgia Drummy	6		6								2		◀		95.64	38%	10.81	19	42		Georgia Drummy	564359
+511	2		32	5/24/2021			MICH	Miller	Kari Miller	2		4								0				96.51	62%	10.76	57	30		Kari Miller	564380
+512	1		32	5/24/2021			ORE	Tjen	Janice Tjen	6		6								2		◀		97.82	25%	10.70	17	11		Janice Tjen	565743
+512	2		32	5/24/2021		4	UGA	Jokic	Katarina Jokic	1		4								0				99.69	75%	11.29	4	3		Katarina Jokic	419539
+513	1		32	5/24/2021			SCAR	Horvit	Mia Horvit	7	7	4		4						1				95.29	73%	10.67	30	61		Mia Horvit	416702
+513	2		32	5/24/2021			MSST	Antonaki	Emma Antonaki	6	2	6		6						2		◀		93.57	27%	10.23	33	71		Emma Antonaki	486811
+514	1		32	5/24/2021			OSU	Siemers	Irina Cantos Siemers	3		4								0				97.23	17%	10.80	18	14		Irina Cantos Siemers	511553
+514	2		32	5/24/2021		7	UCLA	Forbes	Abigail Forbes	6		6								2		◀		100.00	83%	11.21	7	4		Abigail Forbes	512054
+515	1		32	5/24/2021			UNC	Graham	Alexa Graham	6	6	6		6						2		◀		97.80	77%	11.07	41	13		Alexa Graham	411298
+515	2		32	5/24/2021		9	UVA	Subhash	Natasha Subhash	7	8	0		1						1				95.73	23%	10.76	9	37		Natasha Subhash	511574
+516	1		32	5/24/2021			TEX	Stearns	Peyton Stearns	2		4								0				96.48	19%	10.95	37	33		Peyton Stearns	562074
+516	2		32	5/24/2021		2	MIA	Perez-Somarriba	Estela Perez-Somarriba	6		6								2		◀		98.97	81%	11.11	1	6		Estela Perez-Somarriba	440887
+601	1		16	5/25/2021	12:00pm	1	UNC	Daavettila	Sara Daavettila															99.25	68%	10.96	2	1		Sara Daavettila	400079
+601	2		16	5/25/2021	12:00pm		PEPP	Failla	Jessica Failla															97.91	32%	11.03	21	9		Jessica Failla	405704
+602	1		16	5/25/2021	12:00pm		DUKE	Chen	Kelly Chen															95.41	65%	10.53	49	55		Kelly Chen	396686
+602	2		16	5/25/2021	12:00pm		VANDY	Rosca	Christina Rosca															94.34	35%	10.63	43	53		Christina Rosca	446912
+603	1		16	5/25/2021	12:00pm	3	UVA	Navarro	Emma Navarro															99.39	88%	11.35	3	2		Emma Navarro	564450
+603	2		16	5/25/2021	12:00pm		UGA	Kowalski	Meg Kowalski															95.90	12%	10.76	20	27		Meg Kowalski	487384
+604	1		16	5/25/2021	1:30pm		AUB	Ovunc	Selin Ovunc															94.31	59%	10.27	61	68		Selin Ovunc	514698
+604	2		16	5/25/2021	1:30pm		LSU	Corley	Paris Corley															93.70	41%		60	64		Paris Corley	486238
+605	1		16	5/25/2021	12:00pm		OKST	Thamchaiwat	Bunyawi Thamchaiwat															96.18	37%	10.92	26	24		Bunyawi Thamchaiwat	497414
+605	2		16	5/25/2021	12:00pm	6	NCST	Rogers	Anna Rogers															97.09	63%	10.84	6	19		Anna Rogers	446522
+606	1		16	5/25/2021	1:30pm		DUKE	Drummy	Georgia Drummy															95.64	22%	10.81	19	42		Georgia Drummy	564359
+606	2		16	5/25/2021	1:30pm		ORE	Tjen	Janice Tjen															97.82	78%	10.70	17	11		Janice Tjen	565743
+607	1		16	5/25/2021	12:00pm		MSST	Antonaki	Emma Antonaki															93.57	2%	10.23	33	71		Emma Antonaki	486811
+607	2		16	5/25/2021	12:00pm	7	UCLA	Forbes	Abigail Forbes															100.00	98%	11.21	7	4		Abigail Forbes	512054
+608	1		16	5/25/2021	1:30pm		UNC	Graham	Alexa Graham															97.80	34%	11.07	41	13		Alexa Graham	411298
+608	2		16	5/25/2021	1:30pm	2	MIA	Perez-Somarriba	Estela Perez-Somarriba															98.97	66%	11.11	1	6		Estela Perez-Somarriba	440887
+701	1		QF	5/26/2021																											
+701	2		QF	5/26/2021																											
+702	1		QF	5/26/2021																											
+702	2		QF	5/26/2021																											
+703	1		QF	5/26/2021																											
+703	2		QF	5/26/2021																											
+704	1		QF	5/26/2021																											
+704	2		QF	5/26/2021																											
+801	1		SF	5/27/2021																											
+801	2		SF	5/27/2021																											
+802	1		SF	5/27/2021																											
+802	2		SF	5/27/2021																											
+901	1		F	5/28/2021																											
+901	2		F	5/28/2021																											
+																															

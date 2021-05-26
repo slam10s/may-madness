@@ -1,0 +1,75 @@
+notes	seed	line	last	id	teamId	team	name	wins	losses	slamRnk	slam	itaRnk	ita	utr	texas	tickerName	masseyId	utrId
+AQ	1	1	Draxl	511968		UK	Liam Draxl	19	2	4	99.354	1	64.583	13.78	2	Draxl, Liam (UK)	332018	2204714
+		2	McNally	432019		OSU	John McNally	21	4	9	98.548	136	3.886	13.49	10	McNally, John (OSU)	332000	2204585
+		3	Nefve	487492		ND	Axel Nefve	18	3	18	97.642	36	21.488	13.59	16	Nefve, Axel (ND)	331831	1608070
+		4	Henning	498428		UGA	Philip Henning	18	10	77	95.177	19	31.727	13.2	62	Henning, Philip (UGA)	331263	214601
+	9	5	Walton	461891		TENN	Adam Walton	16	10	19	97.433	10	42.596	13.48	29	Walton, Adam (TEN)	331281	1607999
+AQ		6	Davis	486502		DEN	James Davis	14	3	137	93.734	93	6.673	12.62	126	Davis, James (DEN)	331943	1885056
+		7	Thomson	511597		SCAR	Connor Thomson	18	12	83	95.027	22	28.969	13.05	63	Thomson, Connor (SC)	331272	253155
+AQ		8	Clark	397557		ILL	Zeke Clark	19	2	78	95.126	95	6.429	13.3	60	Clark, Zeke (ILL)	332966	1489870
+AQ	8	9	Decamps	401237		UCF	Gabriel Decamps	16	4	16	97.759	9	42.843	13.69	20	Decamps, Gabriel (UCF)	332283	2605771
+		10	Braswell	528270		TEX	Micah Braswell	33	6	42	96.296	38	20.879	13.43	31	Braswell, Micah (TEX)	330883	1079166
+		11	Andrade	385909		FLA	Andy Andrade	22	7	46	96.245	18	32.709	13.39	36	Andrade, Andy (UF)	331242	1880803
+AQ		12	Rocha	485275		MTSU	Francisco Rocha	22	7	93	94.698	55	14.551	12.97	105	Rocha, Francisco (MTS)	331297	241439
+	9	13	Fomba	489297		TCU	Luc Fomba	20	8	26	97.226	17	35.121	13.43	17	Fomba, Luc (TCU)	331394	1310048
+		14	Slavic	513419		MISS	Nikola Slavic	13	7	108	94.369	29	24.242	13.08	91	Slavic, Nikola (OM)	331849	271469
+		15	Oradini	438580		MSST	Giovanni Oradini	11	10	57	95.803	20	31.197	13.16	77	Oradini, Giovanni (MSU)	332233	73952
+		16	Dellien	401620		WICH	Murkel Dellien	13	2	42	96.296	39	19.989	13.39	37	Dellien, Murkel (WS)	332195	1609219
+	4	17	Vacherot	459505		A&M	Valentin Vacherot	21	5	11	98.47	5	51.307	13.73	6	Vacherot, Valentin (TAM)	331204	167756
+		18	Strom	564319		ARIZ	Gustaf Strom	17	2	44	96.283	45	17.401	13.47	11	Strom, Gustaf (AZ)	331855	2600324
+		19	Smith	453064		USC	Riley Smith	15	5	40	96.485	52	15.477	13.41	42	Smith, Riley (USC)	332056	233231
+AQ		20	Cronje	513983		VCU	Lleyton Cronje	12	3	86	94.972	76	8.2	12.94	107	Cronje, Lleyton (VCU)	333950	185821
+	9	21	Soto	453651		BAY	Matias Soto	18	4	20	97.368	11	41.695	13.75	18	Soto, Matias (BAY)	331415	2497812
+		22	Nava	436186		WAKE	Eduardo Nava	17	4	58	95.638	40	19.971	13.24	47	Nava, Eduardo (WF)	332049	956360
+		23	Hohmann	520221		LSU	Ronnie Hohmann	13	12	67	95.451	31	23.827	13.13	102	Hohmann, Ronnie (LSU)	331440	1880799
+		24	Hijikata	514358		UNC	Rinky Hijikata	11	2	21	97.287	24	27.962	13.62	19	Hijikata, Rinky (UNC)	331646	1609719
+	6	25	Riffice	488586		FLA	Sam Riffice	23	7	23	97.254	6	49.677	13.61	26	Riffice, Sam (UF)	331244	2391589
+Alt.		26	Ponwith	491203		AZST	Nathan Ponwith	15	7	34	96.705	79	8.022	13.3	44	Ponwith, Nathan (ASU)	332172	39539
+		27	Ortiz	438760		BAMA	Edson Ortiz	13	13	106	94.415	43	18.413	12.9	110	Ortiz, Edson (ALA)	331254	1017726
+		28	Martin	513067		GT	Andres Martin	16	8	61	95.591	46	17.004	13.14	74	Martin, Andres (GT)	331608	2790127
+	9	29	Reynolds	520891		MISS	Finn Reynolds	10	10	38	96.516	16	36.168	13.31	59	Reynolds, Finn (OM)	331848	1332906
+Alt.		30	Hill	415674		BYU	Sean Hill	18	3	33	96.728	135	3.89	13.41	38	Hill, Sean (BYU)	331430	70508
+		31	Zink	511569		UGA	Tyler Zink	11	9	73	95.237	27	25.298	13.12	81	Zink, Tyler (UGA)	331271	2531094
+		32	Montsi	485650		WAKE	Siphosothando Montsi	15	3	32	96.774	110	4.793	13.33	22	Montsi, Siphosothando (WF)	332965	1887481
+AQ		33	Johnson	566473		FGCU	Janmagnus Johnson	9	4	79	95.123	83	7.863	13.2	104	Johnson, Janmagnus (FGC)	332030	194184
+		34	Boitan	497587		BAY	Adrian Boitan	15	5	14	97.978	21	31.042	13.49	13	Boitan, Adrian (BAY)	331562	2630972
+		35	Broska	392974		MSST	Florian Broska	17	14	68	95.421	48	16.729	13.29	80	Broska, Florian (MSU)	331195	115141
+	9	36	Squire	521020		WAKE	Henri Squire	15	6	7	98.74	13	38.103	13.77	12	Squire, Henri (WF)	332467	236405
+AQ		37	Holmgren	416362		USD	August Holmgren	14	3	15	97.777	85	7.581	13.46	27	Holmgren, August (USD)	332591	2542350
+		38	Sandkaulen	448641		MISS	Tim Sandkaulen	13	16	82	95.057	32	22.951	13.11	96	Sandkaulen, Tim (OM)	331248	64506
+		39	Von Der Schulenburg	564166		UVA	Jeffrey Von Der Schulenburg	16	4	41	96.311	44	18.393	13.35	35	Von Der Schulenburg, Jeffrey (UVA)	331764	274837
+	5	40	Vale	459591		FLA	Duarte Vale	23	6	12	98.307	4	54.011	13.59	14	Vale, Duarte (UF)	331243	159642
+AQ		41	Evrard	562312		SALA	Julien Evrard	16	7	136	93.748	75	8.288	12.8	125	Evrard, Julien (SAL)	331368	2585957
+		42	Prata	497830		TENN	Martim Prata	22	12	81	95.077	41	18.765	13.18	90	Prata, Martim (TEN)	331261	1962718
+		43	Stewart	454831		TULN	Hamish Stewart	12	7	39	96.506	34	22.583	13.42	56	Stewart, Hamish (TUL)	331882	1608055
+	9	44	Diallo	511971		UK	Gabriel Diallo	19	7	45	96.253	14	37.696	13.29	46	Diallo, Gabriel (UK)	331277	215644
+		45	Kingsley	511704		OSU	Cannon Kingsley	27	0	10	98.52	107	5.2	13.64	7	Kingsley, Cannon (OSU)	331917	1906302
+		46	Blumberg	390976		UNC	William Blumberg	9	3	5	99.016	35	21.868	13.63	8	Blumberg, William (UNC)	331520	1712358
+		47	Pearson	487890		TLSA	Kody Pearson	13	8	66	95.489	50	16.158	13.16	75	Pearson, Kody (TLSA)	331584	1260261
+	3	48	Habib	412687		A&M	Hady Habib	15	5	17	97.734	3	54.574	13.65	21	Habib, Hady (TAM)	331179	1233129
+		49	Barrera	453605		MIA	Adria Soriano Barrera	9	7	47	96.206	42	18.589	13.12	58	Barrera, Adria (MIA)	332875	749354
+		50	Hurrion	511970		UK	Millen Hurrion	17	7	70	95.302	33	22.798	13.38	78	Hurrion, Millen (UK)	331266	1032400
+		51	Galarneau	408573		NCST	Alexis Galarneau	10	3	13	98.2	25	25.904	14.05	28	Galarneau, Alexis (NCS)	331654	218755
+	9	52	Bryde	498429		UGA	Trent Bryde	14	13	36	96.593	15	36.709	13.47	49	Bryde, Trent (UGA)	331260	76957
+		53	Kovacevic	423252		ILL	Aleksandar Kovacevic	10	1	2	99.943	131	4	13.97	1	Kovacevic, Aleksandar (ILL)	332963	919337
+		54	Stice	513853		AUB	Tyler Stice	16	13	65	95.49	26	25.551	13.22	72	Stice, Tyler (AU)	331227	2088197
+		55	Spizzirri	520306		TEX	Eliot Spizzirri	23	9	27	97.01	23	28.171	13.34	25	Spizzirri, Eliot (TEX)	330873	85804
+	7	56	Monday	527971		TENN	Johannus Monday	31	6	28	96.98	8	43.714	13.64	32	Monday, Johannus (TEN)	331264	246734
+		57	Vocel	487509		OKST	Matej Vocel	11	5	24	97.253	37	20.979	13.47	40	Vocel, Matej (OKS)	331552	154537
+		58	Aguilar	384588		A&M	Juan Carlos Aguilar	15	10	80	95.11	30	23.979	13.29	73	Aguilar, Juan (TAM)	331180	2085752
+AQ		59	Cukierman	399776		USC	Daniel Cukierman	14	5	6	98.929	49	16.387	14.08	5	Cukierman, Daniel (USC)	332055	1228093
+AQ	9	60	Gray	411457		TCU	Alastair Gray	13	7	25	97.233	12	40.15	13.64	24	Gray, Alastair (TCU)	331793	169607
+		61	Wojcik	464470		USF	Jacob Wojcik	17	6	88	94.898	47	16.759	12.91	65	Wojcik, Jacob (USF)	331788	1880805
+		62	McDaniel	513069		GT	Marcus McDaniel	15	8	30	96.846	28	25.047	13.28	39	McDaniel, Marcus (GT)	331610	2530147
+AQ		63	Badra	497676		ETSU	Dimitri Badra	17	5	148	93.36	66	10.521	12.82	138	Badra, Dimitri (ETS)	331311	275310
+	2	64	Rodrigues	485261		SCAR	Daniel Rodrigues	24	6	8	98.651	2	58.793	13.81	9	Rodrigues, Daniel (SC)	331280	225572
+AQ	7		Soderlund	453365		UVA	Carl Söderlund	12	2	1	100	7	48.375	13.92	3	Soderlund, Carl (UVA)		
+			Smith	452926		UCLA	Keegan Smith	13	2	3	99.404	61	11.989	13.95	4	Smith, Keegan (CLA)		
+Alt.			Bicknell	509770		FLA	Blaise Bicknell	28	0	52	96.019	51	15.886	13.47	15	Bicknell, Blaise (UF)		
+Alt.			Malesevic	561124		MSST	Nemanja Malesevic	20	11	123	93.987	53	15.402	12.95	111	Malesevic, Nemanja (MSU)		
+Alt.			Lambling	485260		SCAR	Raphael Lambling	11	18	122	94.072	54	15.339	13.09	142	Lambling, Raphael (SC)		
+Alt.			Sigouin	451826		UNC	Benjamin Sigouin	9	9	85	95.008	56	13.847	12.97	92	Sigouin, Benjamin (UNC)		
+Alt.			Zhou	466235		BAMA	Zhe Zhou	15	15	114	94.173	57	13.605	12.96	140	Zhou, Zhe (ALA)		
+Alt.			Geller	409496		STAN	Axel Geller	6	6	31	96.824	98	6.211	13.51	34	Geller, Axel (STA)		
+Alt.			Nanda	498066		UCLA	Govind Nanda	8	3	29	96.939	117	4.238	13.65	30	Nanda, Govind (CLA)		
+Alt.			Guillin	412312		UCSB	Joseph Guillin	9	2	22	97.267	133	3.955	13.22	33	Guillin, Joseph (CSB)		

@@ -1,0 +1,72 @@
+notes	seed	line	last	id	teamId	team	name	wins	losses	slamRnk	slam	itaRnk	ita	utr	texas	tickerName	masseyId	utrId
+AQ	1	1	Daavettila	400079		UNC	Sara Daavettila	15	1	5	99.252	2	64.167	10.96	1	Daavettila, Sara (UNC)	337265	46642
+		2	Colling	493373		USD	Solymar Colling	14	4	13	97.415	48	12.758	10.78	35	Colling, Solymar (USD)	338927	72099
+		3	Stolmar	455036		UCF	Rebeka Stolmar	12	6	72	93.962	38	15.815	10.34	78	Stolmar, Rebeka (UCF)	337582	2089984
+		4	Ma	513316		UGA	Lea Ma	14	4	21	96.606	55	11.138	10.77	26	Ma, Lea (UGA)	337324	1905240
+	9	5	Campana	509935		WAKE	Carolyn Campana	9	5	27	96.227	15	28.61	10.48	31	Campana, Carolyn (WF)	339199	66827
+AQ		6	Starodubsteva	454355		ODU	Yulia Starodubsteva	11	1	108	92.905	51	11.963	10.36	105	Starodubsteva, Yulia (ODU)	338002	2559746
+AQ		7	Failla	405704		PEPP	Jessica Failla	14	3	8	97.905	21	23.38	11.03	9	Failla, Jessica (PEP)	337646	1529701
+AQ		8	Riedmiller	445479		DEN	Anna Riedmiller	14	1	91	93.319	106	4.703	10.19	49	Riedmiller, Anna (DEN)	337485	925725
+	8	9	Kessler	421536		FLA	McCartney Kessler	16	2	9	97.904	8	45.577	10.89	10	Kessler, McCartney (UF)	336945	251050
+		10	Wong	464666		WASH	Vanessa Wong	18	4	17	97.113	24	21.937	10.74	25	Wong, Vanessa (WA)	338013	83224
+		11	Chen	396686		DUKE	Kelly Chen	10	11	41	95.413	49	12.424	10.53	55	Chen, Kelly (DUK)	336995	50623
+		12	Hart	413959		UCLA	Jada Hart	11	2	16	97.124	50	12.214	10.87	17	Hart, Jada (CLA)	338608	2612442
+	9	13	Pfennig	564946		MIA	Isabella Pfennig	16	4	60	94.371	10	32.524	10.58	56	Pfennig, Isabella (MIA)	337447	1972317
+		14	Turati	459000		TEX	Anna Turati	17	3	20	96.623	35	17.309	10.91	28	Turati, Anna (TEX)	337207	64382
+		15	Salas	485585		FSU	Emmanuelle Salas	7	10	128	92.415	44	14.348	10.41	148	Salas, Emmanuelle (FSU)	337325	83967
+		16	Rosca	446912		VANDY	Christina Rosca	13	5	65	94.337	43	14.484	10.63	53	Rosca, Christina (VU)	337211	39371
+	3	17	Navarro	564450		UVA	Emma Navarro	17	1	4	99.393	3	62.958	11.35	2	Navarro, Emma (UVA)	337529	2517427
+		18	Giavara	513644		CAL	Haley Giavara	12	10	30	95.963	31	18.438	10.4	34	Giavara, Haley (CAL)	337618	96498
+		19	Hattingh	414211		AZST	Ilze Hattingh	11	7	48	94.938	78	6.86	10.29	62	Hattingh, Ilze (ASU)	337025	28184
+		20	Davies	400669		SCAR	Megan Davies	12	8	88	93.423	59	10.261	10.48	86	Davies, Megan (SC)	336843	981292
+AQ	9	21	Kozarov	423350		FUR	Katarina Kozarov	22	1	12	97.753	16	26.427	10.65	7	Kozarov, Katarina (FUR)	337200	269978
+		22	Gordon	411023		STAN	Michaela Gordon	9	6	22	96.563	34	17.676	10.78	38	Gordon, Michaela (STA)	339967	2436066
+		23	Jones	419691		UNC	Makenna Jones	15	2	53	94.829	32	18.391	10.65	29	Jones, Makenna (UNC)	337045	1500488
+		24	Kowalski	487384		UGA	Meg Kowalski	22	1	33	95.896	20	23.727	10.76	27	Kowalski, Meg (UGA)	336782	1708886
+	5	25	Jones	419665		GT	Kenya Jones	17	8	14	97.365	5	50.312	10.75	15	Jones, Kenya (GT)	337134	46803
+		26	Ovunc	514698		AUB	Selin Ovunc	13	10	66	94.314	61	9.632	10.27	68	Ovunc, Selin (AU)	336735	1551752
+		27	Wolfberg	513080		OKST	Alana Wolfberg	13	10	83	93.649	58	10.368	10.54	97	Wolfberg, Alana (OKS)	336800	96582
+		28	Murgett	526971		MIZZ	Bronte Murgett	16	7	70	93.999	47	13.037	10.46	81	Murgett, Bronte (MIZ)	336940	219074
+AQ	9	29	Noel	564451		IOWA	Alexa Noel	23	0	2	99.923	14	28.8	10.93	5	Noel, Alexa (IA)	337750	96507
+		30	Smith	486136		NCST	Alana Smith	16	8	57	94.636	23	22.321	10.6	65	Smith, Alana (NCS)	336993	2548608
+		31	Corley	486238		LSU	Paris Corley	18	4	80	93.703	60	9.834	10.66	64	Corley, Paris (LSU)	336647	1784621
+AQ		32	Kyle	424183		XAV	Ahmeir Kyle	10	3	154	91.84	105	4.785	9.62	192	Kyle, Ahmeir (XAV)	338436	1711909
+		33	Campana	509929		WAKE	Anna Campana	6	11	116	92.74	54	11.515	9.97	165	Campana, Anna (WF)	337232	1618799
+		34	Bridges	486239		LSU	Taylor Bridges	13	10	76	93.783	53	11.612	10.33	94	Bridges, Taylor (LSU)	336654	182253
+AQ		35	Thamchaiwat	497414		OKST	Bunyawi Thamchaiwat	18	4	28	96.183	26	21.362	10.92	24	Thamchaiwat, Bunyawi (OKS)	336799	2530163
+	9	36	Kanapatskaya	564454		SYR	Viktoriya Kanapatskaya	11	5	39	95.538	11	30.964	10.53	45	Kanapatskaya, Viktoriya (SYR)	338564	260988
+		37	Crawley	564453		UNC	Fiona Crawley	25	0	35	95.649	36	16.886	10.75	21	Crawley, Fiona (UNC)	337044	1609669
+		38	Akli	514025		UMD	Ayana Akli	15	3	7	98.239	46	13.22	10.89	8	Akli, Ayana (MD)	338332	130782
+		39	Lahey	424436		PEPP	Ashley Lahey	10	4	18	97.104	72	7.797	10.82	12	Lahey, Ashley (PEP)	337681	260415
+	6	40	Rogers	446522		NCST	Anna Rogers	19	6	19	97.092	6	48.188	10.84	19	Rogers, Anna (NCS)	337001	2564385
+		41	Drummy	564359		DUKE	Georgia Drummy	17	4	36	95.642	19	24.144	10.81	42	Drummy, Georgia (DUK)	336987	114630
+		42	Machalova	428629		MISS	Sabina Machalova	15	9	47	94.956	29	19.631	10.6	63	Machalova, Sabina (OM)	336745	2170423
+		43	Miller	564380		MICH	Kari Miller	15	4	23	96.506	57	10.657	10.76	30	Miller, Kari (MI)	337091	98432
+	9	44	Flores	407152		GT	Victoria Flores	18	6	49	94.921	13	29.631	10.68	52	Flores, Victoria (GT)	337132	72795
+		45	Spink	561985		ARK	Indianna Spink	15	8	74	93.882	45	13.819	10.39	87	Spink, Indianna (ARK)	336670	273305
+		46	Tjen	565743		ORE	Janice Tjen	18	3	10	97.817	17	26.287	10.7	11	Tjen, Janice (ORE)	337962	229187
+AQ		47	Khatmova	510745		UCSB	Shakhnoza Khatmova	15	2	138	92.302	86	6.054	10.12	72	Khatmova, Shakhnoza (CSB)	339479	2527560
+AQ	4	48	Jokic	419539		UGA	Katarina Jokic	24	1	3	99.691	4	60.556	11.29	3	Jokic, Katarina (UGA)	336778	2583619
+		49	Horvit	416702		SCAR	Mia Horvit	11	9	43	95.287	30	18.779	10.67	61	Horvit, Mia (SC)	336842	41792
+AQ		50	Delgado	401582		VCU	Paola Delgado	16	3	54	94.796	92	5.711	10.43	41	Delgado, Paola (VCU)	337452	1712174
+		51	Antonaki	486811		MSST	Emma Antonaki	16	4	86	93.567	33	17.808	10.23	71	Antonaki, Emma (MSU)	337051	2666454
+	9	52	Pairone	564449		FSU	Giulia Pairone	13	8	26	96.381	12	30.674	10.7	36	Pairone, Giulia (FSU)	337323	11197
+		53	Morra	488643		UNC	Cameron Morra	15	6	32	95.941	27	20	10.75	47	Morra, Cameron (UNC)	337267	94694
+		54	Siemers	511553		OSU	Irina Cantos Siemers	18	5	15	97.225	18	24.34	10.8	14	Siemers, Irina (OSU)	337123	2523252
+		55	Beck	514741		DUKE	Chloe Beck	17	4	55	94.719	39	15.347	10.6	58	Beck, Chloe (DUK)	336991	95651
+AQ	7	56	Forbes	512054		UCLA	Abigail Forbes	18	2	1	100	7	46.463	11.21	4	Forbes, Abigail (CLA)	337617	1682354
+		57	Graham	411298		UNC	Alexa Graham	11	2	11	97.8	41	15.028	11.07	13	Graham, Alexa (UNC)	337263	39501
+		58	Parazinskaite	439682		UK	Akvilė Paražinskaitė	19	10	58	94.585	28	19.849	10.47	57	Parazinskaite, Akvile (UK)	336783	1885635
+AQ		59	Zeleva	497367		UCF	Valeriya Zeleva	12	2	25	96.41	22	22.658	10.52	22	Zeleva, Valeriya (UCF)	337581	1440881
+	9	60	Subhash	511574		UVA	Natasha Subhash	15	5	34	95.727	9	40	10.76	37	Subhash, Natasha (UVA)	337047	2511980
+		61	Makarova	514440		A&M	Tatiana Makarova	23	6	37	95.636	25	21.857	10.8	32	Makarova, Tatiana (TAM)	336817	161923
+		62	Stearns	562074		TEX	Peyton Stearns	14	6	24	96.484	37	16.379	10.95	33	Stearns, Peyton (TEX)	336655	2588012
+		63	Ewing	485966		USC	Salma Ewing	13	5	44	95.233	42	14.556	10.83	20	Ewing, Salma (USC)	337683	67767
+	2	64	Perez-Somarriba	440887		MIA	Estela Perez-Somarriba	19	2	6	98.973	1	69.452	11.11	6	Perez-Somarriba, Estela (MIA)	337439	150205
+Alt.			Chi	396854		DUKE	Meible Chi	21	3	62	94.364	40	15.198	10.6	51	Chi, Meible (DUK)		
+Alt.			Gonzalez	410824		UGA	Marta Gonzalez	11	1	78	93.766	52	11.706	10.61	54	Gonzalez, Marta (UGA)		
+Alt.			Sun	562075		TEX	Lulu Sun	18	2	31	95.947	62	9.341	11.4	23	Sun, Lulu (TEX)		
+Alt.			Guzman	564055		OKLA	Dana Guzman	18	2	50	94.904	63	9.211	10.85	46	Guzman, Dana (OKLA)		
+Alt.			Corley	521320		OKLA	Carmen Corley	17	14	73	93.916	64	9.203	10.4	95	Corley, Carmen (OKLA)		
+Alt.			Cayetano	509808		USC	Eryn Cayetano	10	5	42	95.392	88	5.848	10.91	40	Cayetano, Eryn (USC)		
+Alt.			Blake	512400		STAN	Angelica Blake	7	2	52	94.846	97	5.371	10.79	39	Blake, Angelica (STA)		
