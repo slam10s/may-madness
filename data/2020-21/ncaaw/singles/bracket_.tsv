@@ -111,14 +111,14 @@ matchNum	line	round	date	time	seed	team	last	name	set1	set1tb	set2	set2tb	set3	s
 607	2	16	2021-05-24	0.5	7	UCLA	Forbes	Abigail Forbes	6		6								2		100	0.9759466225993813	11.21	7	4		Forbes, Abigail (CLA)	512054	111
 608	1	16	2021-05-24	0.5625		UNC	Graham	Alexa Graham	3		3										97.8	0.3373260591373185	11.07	41	13		Graham, Alexa (UNC)	411298	112
 608	2	16	2021-05-24	0.5625	2	MIA	Perez-Somarriba	Estela Perez-Somarriba	6		6								2		98.973	0.6626739408626815	11.11	1	6		Perez-Somarriba, Estela (MIA)	440887	113
-701	1	QF	2021-05-25	0.5	1	UNC	Daavettila	Sara Daavettila	2												99.252	0.9442388326327841	10.96	2	1		Daavettila, Sara (UNC)	400079	114
+701	1	QF	2021-05-25	0.5	1	UNC	Daavettila	Sara Daavettila	3												99.252	0.9442388326327841	10.96	2	1		Daavettila, Sara (UNC)	400079	114
 701	2	QF	2021-05-25	0.5		VANDY	Rosca	Christina Rosca	1												94.337	0.055761167367215855	10.63	43	53		Rosca, Christina (VU)	446912	115
-702	1	QF	2021-05-25	0.5	3	UVA	Navarro	Emma Navarro	2												99.393	0.9635761343868097	11.35	3	2		Navarro, Emma (UVA)	564450	116
-702	2	QF	2021-05-25	0.5		LSU	Corley	Paris Corley	1												93.703	0.036423865613190366		60	64		Corley, Paris (LSU)	486238	117
+702	1	QF	2021-05-25	0.5	3	UVA	Navarro	Emma Navarro	3												99.393	0.9635761343868097	11.35	3	2		Navarro, Emma (UVA)	564450	116
+702	2	QF	2021-05-25	0.5		LSU	Corley	Paris Corley	2												93.703	0.036423865613190366		60	64		Corley, Paris (LSU)	486238	117
 703	1	QF	2021-05-25	0.5	6	NCST	Rogers	Anna Rogers	2												97.092	0.39715259015949633	10.84	6	19		Rogers, Anna (NCS)	446522	118
-703	2	QF	2021-05-25	0.5		ORE	Tjen	Janice Tjen	2												97.817	0.6028474098405037	10.7	17	11		Tjen, Janice (ORE)	565743	119
-704	1	QF	2021-05-25	0.5	7	UCLA	Forbes	Abigail Forbes	0												100	0.6436378473568832	11.21	7	4		Forbes, Abigail (CLA)	512054	120
-704	2	QF	2021-05-25	0.5	2	MIA	Perez-Somarriba	Estela Perez-Somarriba	3												98.973	0.3563621526431169	11.11	1	6		Perez-Somarriba, Estela (MIA)	440887	121
+703	2	QF	2021-05-25	0.5		ORE	Tjen	Janice Tjen	5												97.817	0.6028474098405037	10.7	17	11		Tjen, Janice (ORE)	565743	119
+704	1	QF	2021-05-25	0.5	7	UCLA	Forbes	Abigail Forbes	1												100	0.6436378473568832	11.21	7	4		Forbes, Abigail (CLA)	512054	120
+704	2	QF	2021-05-25	0.5	2	MIA	Perez-Somarriba	Estela Perez-Somarriba	4												98.973	0.3563621526431169	11.11	1	6		Perez-Somarriba, Estela (MIA)	440887	121
 801	1	SF	2021-05-26	0.5																									122
 801	2	SF	2021-05-26	0.5																									123
 802	1	SF	2021-05-26	0.5																									124

@@ -55,7 +55,7 @@ matchid	schedtime	matchstatus	team1	player1	team2	player2	score	winner	mtime	id1
 8894		(completed)  	DUKE	Drummy, Georgia (DUK)        	ORE  	Tjen, Janice (ORE)         	2,6,4,6        	2	1:12	564359	565743	606
 8895		(completed)  	UCLA	Forbes, Abigail (CLA)        	MSST 	Antonaki, Emma (MST)       	6,3,6,3        	1	1:09	512054	486811	607
 8896		(completed)  	MIA 	Perez-Somarriba, Estela (MIA)	UNC  	Graham, Alexa (UNC)        	6,3,6,3        	1	1:35	440887	411298	608
-8913		(in progress)	UNC 	Daavettila, Sara (UNC)       	VANDY	Rosca, Christina (VU)      	2,1            	0	0:17	400079	446912	701
-8914		(in progress)	UVA 	Navarro, Emma (UVA)          	LSU  	Corley, Paris (LSU)        	2,1            	0	0:18	564450	486238	702
-8915		(in progress)	NCST	Rogers, Anna (NCS)           	ORE  	Tjen, Janice (ORE)         	2,2            	0	0:18	446522	565743	703
-8916		(in progress)	MIA 	Perez-Somarriba, Estela (MIA)	UCLA 	Forbes, Abigail (CLA)      	3,0            	0	0:16	440887	512054	704
+8913		(in progress)	UNC 	Daavettila, Sara (UNC)       	VANDY	Rosca, Christina (VU)      	3,1            	0	0:25	400079	446912	701
+8914		(in progress)	UVA 	Navarro, Emma (UVA)          	LSU  	Corley, Paris (LSU)        	3,2            	0	0:26	564450	486238	702
+8915		(in progress)	NCST	Rogers, Anna (NCS)           	ORE  	Tjen, Janice (ORE)         	2,5            	0	0:26	446522	565743	703
+8916		(in progress)	MIA 	Perez-Somarriba, Estela (MIA)	UCLA 	Forbes, Abigail (CLA)      	4,1            	0	0:24	440887	512054	704
