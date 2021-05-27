@@ -118,10 +118,10 @@ matchNum	line	round	date	time	seed	team	last	name	set1	set1tb	set2	set2tb	set3	s
 703	1	QF	2021-05-25	0.5	6	NCST	Rogers	Anna Rogers	2		3										97.092	0.39715259015949633	10.84	6	19		Rogers, Anna (NCS)	446522	118
 703	2	QF	2021-05-25	0.5		ORE	Tjen	Janice Tjen	6		6								2		97.817	0.6028474098405037	10.7	17	11		Tjen, Janice (ORE)	565743	119
 704	1	QF	2021-05-25	0.5	7	UCLA	Forbes	Abigail Forbes	7	7	5		3						1		100	0.6436378473568832	11.21	7	4		Forbes, Abigail (CLA)	512054	120
-704	2	QF	2021-05-25	0.5	2	MIA	Perez-Somarriba	Estela Perez-Somarriba	6	5	1		6						2		98.973	0.3563621526431169	11.11	1	6		Perez-Somarriba, Estela (MIA)	440887	121
-801	1	SF	2021-05-26	0.5	1	UNC	Daavettila	Sara Daavettila	4		6		2								99.252	0.47971960148269366	10.96	2	1		Daavettila, Sara (UNC)	400079	122
-801	2	SF	2021-05-26	0.5	3	UVA	Navarro	Emma Navarro	6		2		6								99.393	0.5202803985173065	11.35	3	2		Navarro, Emma (UVA)	564450	123
+704	2	QF	2021-05-25	0.5	2	MIA	Perez-Somarriba	Estela Perez-Somarriba	6	5	7		6						2		98.973	0.3563621526431169	11.11	1	6		Perez-Somarriba, Estela (MIA)	440887	121
+801	1	SF	2021-05-26	0.5	1	UNC	Daavettila	Sara Daavettila	4		6		2						1		99.252	0.47971960148269366	10.96	2	1		Daavettila, Sara (UNC)	400079	122
+801	2	SF	2021-05-26	0.5	3	UVA	Navarro	Emma Navarro	6		2		6						2		99.393	0.5202803985173065	11.35	3	2		Navarro, Emma (UVA)	564450	123
 802	1	SF	2021-05-26	0.5		ORE	Tjen	Janice Tjen	6	4	0										97.817	0.33951706150953065	10.7	17	11		Tjen, Janice (ORE)	565743	124
-802	2	SF	2021-05-26	0.5	2	MIA	Perez-Somarriba	Estela Perez-Somarriba	7	7	6										98.973	0.6604829384904694	11.11	1	6		Perez-Somarriba, Estela (MIA)	440887	125
-901	1	F	2021-05-27	0.5																									126
-901	2	F	2021-05-27	0.5																									127
+802	2	SF	2021-05-26	0.5	2	MIA	Perez-Somarriba	Estela Perez-Somarriba	7	7	6								2		98.973	0.6604829384904694	11.11	1	6		Perez-Somarriba, Estela (MIA)	440887	125
+901	1	F	2021-05-27	0.5	3	UVA	Navarro	Emma Navarro													99.393	0.5601501452319032	11.35	3	2		Emma Navarro	564450	126
+901	2	F	2021-05-27	0.5	2	MIA	Perez-Somarriba	Estela Perez-Somarriba													98.973	0.4398498547680969	11.11	1	6		Estela Perez-Somarriba	440887	127
