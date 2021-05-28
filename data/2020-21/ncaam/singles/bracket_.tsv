@@ -123,5 +123,5 @@ matchNum	line	round	date	time	seed	team	last	name	set1	set1tb	set2	set2tb	set3	s
 801	2	SF	2021-05-26	0.5	6	FLA	Riffice	Sam Riffice	7	7	2		6						2		97.254	0.22990332333901853	13.61	6	26		Riffice, Sam (UF)	488586	123
 802	1	SF	2021-05-26	0.5		BAY	Boitan	Adrian Boitan	6	1	1									Ret	97.978	0.4043409596408497	13.49	21	13		Boitan, Adrian (BAY) (ret.)	497587	124
 802	2	SF	2021-05-26	0.5	2	SCAR	Rodrigues	Daniel Rodrigues	7	7	3								1		98.651	0.5956590403591503	13.81	2	9		Rodrigues, Daniel (SC)	485261	125
-901	1	F	2021-05-27	0.5	6	FLA	Riffice	Sam Riffice	3		6		6						1		97.254	0.3091325476239604	13.61	6	26		Riffice, Sam (UF)	488586	126
+901	1	F	2021-05-27	0.5	6	FLA	Riffice	Sam Riffice	3		6		6						2		97.254	0.3091325476239604	13.61	6	26		Riffice, Sam (UF)	488586	126
 901	2	F	2021-05-27	0.5	2	SCAR	Rodrigues	Daniel Rodrigues	6		1		4						1		98.651	0.6908674523760395	13.81	2	9		Rodrigues, Daniel (SC)	485261	127
