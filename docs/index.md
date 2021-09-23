@@ -55,7 +55,7 @@ Some teams just don't match up against other teams the way you might think depen
 
 ### Universal Tennis Ratings
 
-The [Universal Tennis Ratings](https://www.myutr.com/) are the gold standard for tennis ratings known by any serious tennis player. We use both the [Power 6](https://app.myutr.com/search?type=colleges&utrFitPosition=6&utrMax=16&utrMin=1&utrTeamType=singles&utrType=verified) in team comparisons and individual's verified [Singles Rating](https://support.myutr.com/en/support/solutions/articles/9000151830-understanding-the-algorithm-complete-summary) for player comparisons.
+The [Universal Tennis Ratings](https://www.universaltennis.com/) are the gold standard for tennis ratings known by any serious tennis player. We use both the [Power 6](https://app.universaltennis.com/search?type=colleges&utrFitPosition=6&utrMax=16&utrMin=1&utrTeamType=singles&utrType=verified) in team comparisons and individual's verified [Singles Rating](https://support.universaltennis.com/en/support/solutions/articles/9000151830-understanding-the-algorithm-complete-summary) for player comparisons.
 
 ### Composite Metrics
 
