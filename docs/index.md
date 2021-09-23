@@ -73,12 +73,6 @@ The USTA and Tennis Channel have partnered to celebrate the best 25 NCAA Divisio
 
 The ITA Coaches Poll is a similar poll produced by the ITA each week alongside the computer rankings.
 
-## License
-
-All data and files in this repository are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-Attribution is required. Non-commercial use only.
-
 ---
 
 Return to the [Top](#top)

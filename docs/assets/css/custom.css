@@ -1,0 +1,54 @@
+header {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-family: "Architects Daughter", "Helvetica Neue", Helvetica, Arial, serif;
+  color: white;
+  background: none;
+  background-color: rgb(213, 0, 0);
+  background-image: linear-gradient(rgb(213, 0, 0), rgb(255, 138, 128));
+  border-bottom-color: rgb(255, 138, 128);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-top-color: rgb(213, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 81px;
+}
+
+/*
+#desktop-mmenu {
+  box-sizing: border-box;
+  font-family: proxima-nova, Verdana, Arial, Helvetica, sans-serif;
+  display: block;
+  font-size: 12.8px;
+  font-style: normal;
+  font-weight: 400;
+  height: 81px;
+  line-height: normal;
+  position: relative;
+  text-size-adjust: 100%;
+  text-transform: uppercase;
+  visibility: visible;
+}
+*/
+
+#desktop-bluestripe {
+  height: 14px;
+  line-height: 14px;
+  background-color: #d50000;
+  border-top: 1px solid #d50000;
+  border-bottom: 1px solid #d50000;
+  text-transform: none;
+  position: relative;
+}
+
+div.logo {
+  position: absolute;
+  background-image: url(https://www.slam.tennis/img/v3/desktop_logo_SLAM_396x82.png);
+  background-repeat: no-repeat;
+  width: 396px;
+  height: 82px;
+  left: 110px;
+  top: 0;
+  cursor: pointer;
+}
